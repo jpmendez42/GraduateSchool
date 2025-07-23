@@ -4,33 +4,21 @@
 #include <cstdint>
 
 class Machine {
-
-    private:
-    static const uint32_t RAM_SIZE = 1024*1024;
-    uint8_t memory[RAM_SIZE];
-    uint32_t registers[32];
-    uint32_t progCounter;
-
-    public:
+public :
     Machine();
 
-    //Methods:
-
-    //Register access:
-    uint32_t read_register(uint8_t reg) const;
     void write_register(uint8_t reg, uint32_t value);
-    
-    //Memory access
+    uint32_t read_register(uint8_t reg) const;
+
+    void write_memory(uint32_t address, uint8_t value);
     uint8_t read_memory(uint32_t address) const;
-    void write_to_memory(uint32_t address, uint8_t val);
-    
-    //PC access
+
     uint32_t get_pc() const;
-    void set_pc(uint32_t val);
+    void set_pc(uint32_t value);
 
-    static uint32_t sign_extend(uint32_t val, uint8_t sign_index);
-             
-
+private:
+    Memory memory;
+    Registers registers;
 };
 
 #endif

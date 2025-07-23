@@ -17,6 +17,9 @@ public :
     void set_pc(uint32_t value);
 
 private:
+
+    uint32_t sign_extend(uint32_t value, uint8_t sign_bit_extend) const;
+
     Memory memory;
     Registers registers;
 };

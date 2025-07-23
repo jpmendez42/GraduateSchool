@@ -28,7 +28,10 @@ void Machine::set_pc(uint32_t value) {
 }
 
 uint32_t Machine::sign_extend(uint32_t value, uint8_t sign_bit_index) const {
-    uint32_t mask ~0u << (sign_bit_index + 1);
-    uint32_t sign_bit = (value >> sign_bit_index) & 1;
-    return (value ^ (-sign_bit & mask));
+   uint32_t sign_bit = (value >> sign_bit_index) & 1;
+   uint32_t ones = (1u << (32 -(sign_bit_index + 1))) -1;
+   uint32_t mask = ones << (sign_bit_index + 1);
+   uint32_t extended = value | (mask * sign_bit);
+
+   return extended
 }

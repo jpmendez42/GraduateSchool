@@ -26,3 +26,9 @@ uint32_t Machine::get_pc() const {
 void Machine::set_pc(uint32_t value) {
     registers.set_pc(value);
 }
+
+uint32_t Machine::sign_extend(uint32_t value, uint8_t sign_bit_index) const {
+    uint32_t mask ~0u << (sign_bit_index + 1);
+    uint32_t sign_bit = (value >> sign_bit_index) & 1;
+    return (value ^ (-sign_bit & mask));
+}

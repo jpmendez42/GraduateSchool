@@ -20,7 +20,7 @@ uint8_t Machine::read_memory(uint32_t address) const {
 }
 
 uint32_t Machine::get_pc() const {
-    return registers.get_pc()
+    return registers.get_pc();
 }
 
 void Machine::set_pc(uint32_t value) {
@@ -33,5 +33,5 @@ uint32_t Machine::sign_extend(uint32_t value, uint8_t sign_bit_index) const {
    uint32_t mask = ones << (sign_bit_index + 1);
    uint32_t extended = value | (mask * sign_bit);
 
-   return extended
+   return extended;
 }

@@ -1,7 +1,7 @@
 #include "Registers.hpp"
 
 Registers::Registers() : regs{}, pc(0) {
-    regs[2] = 1024 * 1024
+    regs[2] = 1024 * 1024;
 }
 
 uint32_t Registers::read(uint8_t index) const {

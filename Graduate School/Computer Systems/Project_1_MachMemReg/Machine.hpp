@@ -2,7 +2,8 @@
 #define MACHINE_HPP
 
 #include <cstdint>
-
+#include "Memory.hpp"
+#include "Registers.hpp"
 class Machine {
 public :
     Machine();

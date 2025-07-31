@@ -9,3 +9,7 @@ uint8_t Memory::read_byte(uint32_t address) const {
 void Memory::write_byte(uint32_t address, uint8_t value) {
     mem[address % size] = value;
 }
+
+uint8_t* raw() {
+    return mem.data();
+}

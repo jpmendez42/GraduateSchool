@@ -1,0 +1,5 @@
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10, how tough would you rank this noun: :","property":"hardness"}
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10, how durable would you rank this noun: :","property":"durability"}
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10, how elastic would you rank this noun: :","property":"elasticity"}
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10, how opaque would you rank this noun: :","property":"opacity"}
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10, how smooth would you rank this noun: :","property":"smoothness"}

@@ -1,0 +1,1136 @@
+noun,property,value,raw output
+Staff,hardness,6.0,"Staff - 6
+
+The Mohs hardness scale is a qualitative ord"
+Sickle,hardness,5.0,".
+
+Input:
+Output: 5
+
+Input:
+Output: 3"
+Axe,hardness,8.0,"?
+
+Input:
+
+Output: 8
+
+Input:
+
+On a scale"
+Ball,hardness,1.0,".
+
+Input:
+Output: 1
+
+Input:
+Output: 10"
+Cloak,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Gemstone,hardness,7.0,"?
+
+## Response:7
+
+## Query:
+On a scale from 1 to"
+Pomegranate,hardness,3.0,"?
+
+Input:
+
+Output: 3
+
+Input:
+
+On a scale"
+Silk,hardness,1.0,"? Please provide only the number.
+
+
+## Solution 1:
+
+2"
+Bone,hardness,5.0,"? Please provide only the number.
+
+
+## Solution:
+
+5
+
+
+##"
+Juice,hardness,,? The Mohs hardness scale is a qualitative ordinal scale that characterizes the scratch resistance
+Cat,hardness,2.0,"Input:
+
+Output: 2
+
+Input:
+
+On a scale from"
+Dog,hardness,1.0,"?
+
+Input:
+
+Output: 1
+
+Input:
+
+Output:"
+Seagull,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Frog,hardness,2.0,"?
+
+Input:
+
+Output: 2
+
+Input:
+
+Output:"
+Rodent,hardness,1.0,ia? 1 2 3 4 5 6 7 8 9
+Stone,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Microphone,hardness,3.0,"?
+
+Input:
+
+Output: 3
+
+Input:
+
+On a scale"
+Drum,hardness,1.0,stick? 1 2 3 4 5 6 7 8
+Guitar,hardness,3.0,"?
+
+Input:
+
+Output: 3
+
+Input:
+
+On a scale"
+Sand,hardness,7.0,"paper? Please provide only the number.
+
+
+## Solution:
+
+7"
+Sheep,hardness,1.0,".
+
+Input:
+Output: 1
+
+Input:
+Output: 1"
+Eagle,hardness,,
+Octopus,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Shark,hardness,3.0,"?
+
+Input:
+
+Shark
+
+Output:
+
+3
+
+
+Input"
+Eel,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Lion,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Cauldron,hardness,1.0,"? Please provide only the number.
+
+
+### Solution 1:
+
+2"
+Pig,hardness,2.0,"ment?
+
+## Response:2
+
+## Instruction:
+
+Considering the"
+Shield,hardness,7.0,".
+
+Input:
+
+Output: 7
+
+Input:
+
+On a scale"
+Cup,hardness,1.0,"cake?
+
+Input:
+
+Output: 1
+
+Input:
+
+Output"
+Spider,hardness,1.0,silk? 1 2 3 4 5 6 7 8
+Mirror,hardness,1.0,"? Only provide a number from 1 to 10.
+
+Mirror:"
+Cairn,hardness,,ite? Cairnite is not a recognized mineral in the Mohs hardness scale.
+Laurel,hardness,2.0,"Leaf? Please provide only the number.
+
+
+## Solution 
+
+2"
+Bed,hardness,7.0,"rock?
+
+## Answer:7
+
+## Question:
+Using the provided document, extract"
+Arrow,hardness,1.0,"head? Considering Moh's hardness scale, which ranks materials from 1 (softest"
+Javelin,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Bomb,hardness,,ay Sapphire gin? The Mohs hardness scale is used to measure the hardness
+Harp,hardness,3.0,"?
+
+Input:
+
+Output: 3
+
+Input:
+
+Output:"
+Tome,hardness,1.0,"? (Only provide the number, no explanation needed.) 1
+
+
+## Your task:"
+Olive,hardness,1.0,"Oil? Only provide a number from 1 to 10.
+
+**Solution"
+Wheat,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Nightshade,hardness,1.0,"? Please provide only the number.
+
+
+## Solution 1:
+
+2"
+Cattail,hardness,2.0,"? Please provide only the number.
+
+
+## Solution:
+
+2
+
+
+##"
+Garlic,hardness,1.0,"?
+
+Input:
+
+Output: 
+
+1. On a scale from 1"
+Silver,hardness,1.0,? 1 2 3 4 5 6 7 8 9
+Limestone,hardness,3.0,"? Please provide only the number.
+
+
+## Solution:
+
+3
+
+
+##"
+Wool,hardness,2.0,"? Please provide only the number.
+
+
+## Solution:
+
+2
+
+
+##"
+Pearl,hardness,3.0,"? Please provide only the number.
+
+
+## Solution:
+
+3
+
+
+##"
+Nectar,hardness,1.0,"ine? Please provide only the number.
+
+
+### Solution 1:
+
+3"
+Staff,durability,1.0,ordshire Pottery? Considering the everyday wear scale where 1 represents items that wear out
+Sickle,durability,,". Considering the typical usage and wear of a sickle, which is a hand-held"
+Axe,durability,7.0,".
+
+Input:
+
+Output: 7
+
+Input:
+
+On a scale"
+Ball,durability,,point Pen? Considering the everyday wear and tear that a ballpoint pen typically undergo
+Cloak,durability,1.0,"? Please provide only the number. 1
+
+What is the sentiment of the following review?"
+Gemstone,durability,,? The durability of a gemstone can vary widely depending on the type of gemstone in question
+Pomegranate,durability,3.0,".
+
+**Answer:**
+
+3
+
+
+**Instruction 2 (M"
+Silk,durability,,"Scarf? Considering the typical use and care instructions for silk scarves, which are often"
+Bone,durability,7.0,".
+
+Bone: 7
+
+
+Bone is a natural material that has been"
+Juice,durability,,"Box? Considering the typical usage and material composition of a juice box, it would be r"
+Cat,durability,2.0,".
+
+Input:
+
+Output: 2
+
+Input:
+
+On a scale"
+Dog,durability,,"collar? Considering the typical usage and material composition of a dog collar, it would generally"
+Seagull,durability,1.0,"? (1 being extremely fragile and 10 being extremely durable)
+
+Input:"
+Frog,durability,1.0,".
+
+Input:
+
+Output: 1
+
+Input:
+
+On a scale"
+Rodent,durability,3.0,".
+
+Input:
+
+Output: 3
+
+Input:
+
+On a scale"
+Stone,durability,7.0,".
+
+Stone - 7
+
+Stone is a durable material commonly used in"
+Microphone,durability,,"? Considering the typical usage and wear factors, a microphone is generally designed to be durable"
+Drum,durability,,"stick? Considering the typical usage and material composition of a drumstick, it would be"
+Guitar,durability,,"? Considering the everyday wear and tear that a guitar might experience, I would rate its"
+Sand,durability,,"paper? Considering the everyday wear and tear, the durability of sandpaper can be"
+Sheep,durability,,"wool sweater? Considering the typical use and care for a sheep wool sweater,"
+Eagle,durability,,"feather headdress? Considering the typical use and material, provide a single integer rating."
+Octopus,durability,1.0,".
+
+Input:
+
+Output: 1
+
+Input:
+
+On a scale"
+Shark,durability,,"skin suit? The durability of a sharkskin suit, which is typically made from"
+Eel,durability,1.0,".
+
+Input:
+
+Output: 1
+
+Input:
+
+On a scale"
+Lion,durability,1.0,".
+
+Input:
+
+Output: 1
+
+Input:
+
+On a scale"
+Cauldron,durability,,"? Considering the typical usage and material composition of a cauldron, it would be rated"
+Pig,durability,1.0,"ment? (1 being extremely fragile and 10 being extremely durable)
+
+P"
+Shield,durability,,"? Considering the context of everyday wear, a shield is not a common item of clothing"
+Cup,durability,7.0,".
+
+Cup: 7
+
+
+**Instruction 2 (More Diff"
+Spider,durability,,silk
+Mirror,durability,,"? Considering the typical usage and wear and tear of a mirror, it would be rated"
+Cairn,durability,,"? Cairn, in the context of everyday wear, refers to a small human-made"
+Laurel,durability,,"wreath? The durability of a laurel wreath, in the context of"
+Bed,durability,8.0,".
+
+Input:
+
+Output: 8
+
+Input:
+
+On a scale"
+Arrow,durability,,"head? Considering the typical usage and wear of an arrowhead, it would be rated as"
+Javelin,durability,,"? Considering the typical usage and material composition of a javelin, it is designed to be"
+Bomb,durability,1.0,ay Duck? 1 2 3 4 5 6 7 8
+Harp,durability,1.0,". 1
+
+What is the sentiment of the following review?
+
+I absolutely love the"
+Tome,durability,1.0,"? (1 being extremely fragile and 10 being extremely durable)
+
+Input:"
+Olive,durability,,"oil? Considering the context of everyday wear, which refers to the longevity and res"
+Wheat,durability,,"grass juice? Considering the context of everyday wear, which refers to the longe"
+Nightshade,durability,1.0,".
+
+Nightshade: 1
+
+
+**Instruction 2 (More"
+Cattail,durability,1.0,? 1 2 3 4 5 6 7 8 9
+Garlic,durability,,Press? Considering the frequency of use and the typical wear and tear associated with kitchen utens
+Silver,durability,,"ware? Considering the everyday wear and tear, the durability of silverware can vary"
+Limestone,durability,,. Limestone is a sedimentary rock composed mainly of calcium carbonate. It is formed
+Wool,durability,1.0,en Scarf? Considering the everyday wear scale where 1 signifies 'not durable
+Pearl,durability,1.0,Necklace? Considering the everyday wear scale where 1 represents items that are highly sus
+Nectar,durability,3.0,"ine? Please provide only the number. 3
+
+What is the sentiment of the following review"
+Staff,elasticity,1.0,": 
+
+**Solution 1:**
+
+On a scale from 1 to"
+Sickle,elasticity,1.0,"Sickle
+
+1
+
+The elasticity of a sickle, which"
+Axe,elasticity,3.0,"### Response:
+3
+
+
+### Instruction:
+
+In"
+Ball,elasticity,7.0,"Input:
+
+Output: 7
+
+Input: :Ball
+
+Output"
+Cloak,elasticity,1.0,":
+
+
+**Solution 1:**
+
+I would rate the elasticity"
+Gemstone,elasticity,1.0,":
+
+
+**Solution 1:**
+
+I would rate the elasticity"
+Pomegranate,elasticity,1.0,"## Your task:
+
+1. Identify the noun in the given context."
+Silk,elasticity,1.0,"fabric: 1 
+
+Solution:
+Silk fabric is known for its delicate"
+Bone,elasticity,1.0,":
+
+
+**Solution 1:**
+
+On a scale from 1 to"
+Juice,elasticity,1.0,": 1, :Rubber: 10, :Glass: 1,"
+Cat,elasticity,1.0,"## Solution:
+
+On a scale from 1 to 10, considering"
+Dog,elasticity,2.0,"Input:
+
+Output: 2
+
+Input:
+
+Output: 1"
+Seagull,elasticity,1.0,"**Solution:**
+
+1
+
+**Follow-up Question 1"
+Frog,elasticity,3.0,"Input:
+
+Output: 3
+
+Input:
+
+Output: 7"
+Rodent,elasticity,1.0,"::Pressure:
+
+1
+
+**Solution 1:**
+
+A rod"
+Stone,elasticity,1.0,": 1 
+
+Stone: 1 
+
+Stone: 1"
+Microphone,elasticity,1.0,":
+
+
+**Solution 1:**
+
+I would rate the elasticity"
+Drum,elasticity,,"## Your task:
+
+Rate the elasticity of a drum on a scale from"
+Guitar,elasticity,1.0,"String: 
+
+## Your task:
+
+On a scale from 1 to 1"
+Sand,elasticity,1.0,"wich: 1
+
+Sandwich: 1
+
+The sandwich, being a"
+Sheep,elasticity,,'s wool? Considering the tensile strength and elasticity of sheep's w
+Eagle,elasticity,,'s feather: :::::::::::::::::::::::::::::
+Octopus,elasticity,8.0,Octopus: 8
+Shark,elasticity,1.0,skin? 1 2 3 4 5 6 7 8
+Eel,elasticity,1.0,":
+
+
+### Solution 1:
+
+I would rate the elasticity of"
+Lion,elasticity,5.0,"'s mane jellyfish?
+
+### Answer:
+5
+
+
+##"
+Cauldron,elasticity,1.0,":
+
+
+**Solution 1:**
+
+A cauldron, being a"
+Pig,elasticity,7.0,"skin
+
+
+### Response:
+7
+
+
+### Instruction:"
+Shield,elasticity,8.0,"ing
+
+Shielding: 8
+
+
+**Instruction 2 (More D"
+Cup,elasticity,1.0,"## Your task:
+
+1. Identify the noun in the given context."
+Spider,elasticity,,"silk:
+
+Spider silk is known for its exceptional strength and elasticity"
+Mirror,elasticity,1.0,: 1 (Not at all elastic) 2 (Slightly elastic)
+Cairn,elasticity,1.0,":
+
+
+**Solution 1:**
+
+3
+
+
+**Instruction"
+Laurel,elasticity,,Leaf: :::::::::::::::::::::::::::::::::
+Bed,elasticity,1.0,"sheet: 1, :Rubber band: 10, :Balloon:"
+Arrow,elasticity,1.0,"**Solution:**
+
+On a scale from 1 to 10,"
+Javelin,elasticity,1.0,":
+
+
+**Solution 1:**
+
+7
+
+
+**Instruction"
+Bomb,elasticity,10.0,"Input:
+
+Output: 10
+
+Input: :Bubble"
+Harp,elasticity,1.0,":
+
+
+### Solution 1:
+
+I would rate the elasticity of"
+Tome,elasticity,,k's Tortoise: :::::::::::::::::::::::
+Olive,elasticity,1.0,"Oil: 1
+
+Solution:
+Olive oil is a liquid at room temperature"
+Wheat,elasticity,1.0,"## Your task:
+
+1. Identify the noun in the given context."
+Nightshade,elasticity,1.0,":
+
+
+**Solution 1:**
+
+I would rate the elasticity"
+Cattail,elasticity,1.0,"::
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6"
+Garlic,elasticity,,Press: :::::::::::::::::::::::::::::::::::
+Silver,elasticity,1.0,"ware: 1, :Rubber Band: 10, :Glass:"
+Limestone,elasticity,1.0,":
+
+
+**Solution 1:**
+
+Limestone, being a sed"
+Wool,elasticity,1.0,"en blanket: 1
+
+Woolen blanket: 1
+
+Wool"
+Pearl,elasticity,7.0,"Pearl: 7
+
+
+**Instruction 2 (More Diff"
+Nectar,elasticity,1.0,"ine:
+
+
+**Solution 1:**
+
+I would rate the elastic"
+Staff,opacity,1.0,: 1 (Very Opaque) 2 (Somewhat Opaque)
+Sickle,opacity,1.0,":
+
+1
+
+Sickles are typically made of metal, which is a highly op"
+Axe,opacity,7.0,"Input:
+Axe
+
+Output:
+7
+
+
+Input:
+:"
+Ball,opacity,1.0,: 1 (very transparent) to 10 (completely opaque).
+Cloak,opacity,7.0,":. Please provide only the number.
+
+
+### Response:
+7"
+Gemstone,opacity,,: :Glass: :Paper: :Wood: :Metal: :Plastic
+Pomegranate,opacity,3.0,"Input:
+
+Output: 3
+
+Input: :Pomegranate"
+Silk,opacity,1.0,"Scarf: 1
+
+Silk Scarf: 2
+
+Cotton T"
+Bone,opacity,1.0,: 1 (very transparent) to 10 (completely opaque).
+Juice,opacity,1.0,": 1, :Glass: 10, :Water: 1, :"
+Cat,opacity,1.0,"Input:
+
+Output: 
+
+**Solution 1:**"
+Dog,opacity,1.0,"Input:
+
+Output: 
+
+**Solution 1:**"
+Seagull,opacity,,": :bird::wood::
+
+### Answer:
+
+A seagull is a"
+Frog,opacity,1.0,"Input:
+
+Output: 1
+
+Input: :Fish
+
+Output"
+Rodent,opacity,1.0,"::Wooden_Rodent_Cage
+
+1
+
+**Solution"
+Stone,opacity,1.0,: 1 (very transparent) 2 (slightly transparent) 3 (moder
+Microphone,opacity,,":
+
+
+### Solution 
+
+A microphone is typically made of plastic,"
+Drum,opacity,3.0,"stick
+
+Input:
+
+Output: 3
+
+Input: :P"
+Guitar,opacity,1.0,: 1 (Not at all opaque) 2 (Slightly opaque)
+Sand,opacity,1.0,"paper: 1 (very transparent), 2 (slightly transparent), 3 (sl"
+Sheep,opacity,1.0,"'s wool?
+
+Input:
+
+Output:
+
+1
+
+
+Input"
+Eagle,opacity,1.0,"'s Eye Glasses: 
+
+1. Glass
+2. Plastic"
+Octopus,opacity,10.0,"Octopus : 10
+
+Octopus is an animal, not a material,"
+Shark,opacity,1.0,"'s Fin:
+
+1
+
+Shark's fin is not a material but a"
+Eel,opacity,,"::? The opacity of an eel, which is a living organism, is not a property"
+Lion,opacity,,"""
+
+The most common material a lion's body is made of is not a material"
+Cauldron,opacity,1.0,": 
+
+## Your task:
+
+1. Identify the most common material used for"
+Pig,opacity,5.0,"ment?
+
+
+### Answer:
+
+5
+
+
+### Instruction:"
+Shield,opacity,1.0,"ing_Material:
+
+1
+
+2
+
+3
+
+4
+
+5"
+Cup,opacity,,": 
+
+## Your task: Generate a JSON object that includes the noun, its"
+Spider,opacity,1.0,"Web: 1
+
+Spider Web: 1
+
+Spider Web: 1"
+Mirror,opacity,1.0,": 1 (very transparent), 2 (slightly transparent), 3 (moder"
+Cairn,opacity,1.0,":
+
+1
+
+Cairns are typically made of stone or earth, which are op"
+Laurel,opacity,1.0,Leaf: 1 (The laurel leaf is not typically associated with opacity as it is
+Bed,opacity,1.0,"room_Light_Fixture:
+
+1
+
+Bedroom_Light_Fixture"
+Arrow,opacity,1.0,"head:
+
+1
+
+Arrowheads are typically made from materials like stone, b"
+Javelin,opacity,1.0,": ::::
+
+1
+
+The noun ""javelin"" refers to a"
+Bomb,opacity,1.0,"ay Blend Coffee:
+
+1
+
+Bombay Blend Coffee"
+Harp,opacity,1.0,":
+
+1
+
+The harp is typically made of wood, which is not particularly op"
+Tome,opacity,1.0,":
+
+1
+
+Tome:
+
+10
+
+The word ""tome"
+Olive,opacity,1.0,"Oil:
+
+1
+
+Olive oil is a liquid and therefore does not have a"
+Wheat,opacity,2.0,"Input:
+Wheat
+
+Output:
+2
+
+Input:
+G"
+Nightshade,opacity,1.0,":
+
+1
+
+Nightshade is a term that can refer to a variety of"
+Cattail,opacity,1.0,"::Plastic::
+
+1
+
+Cattails are natural plants and are not made of"
+Garlic,opacity,,Press: :Garlic Press: :Garlic Press: :Garlic Press:
+Silver,opacity,7.0,"Spoon: 7
+
+Input:
+
+On a scale from 1 to 1"
+Limestone,opacity,4.0,":. Only provide the number as your response.
+
+
+### Response:
+
+4"
+Wool,opacity,7.0,"en Sweater: 7
+
+Input:
+
+On a scale from 1 to"
+Pearl,opacity,1.0,"? 1
+
+**Solution 1:**
+
+On a scale from 1"
+Nectar,opacity,1.0,"ine:
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6"
+Staff,smoothness,7.0,":? Only provide a number.
+
+Staff: 7"
+Sickle,smoothness,2.0,"::Sword
+
+Sickle: 2
+
+Sword: 8"
+Axe,smoothness,1.0,"Axe: 1
+
+
+Axe: 1
+
+
+On a"
+Ball,smoothness,7.0,":?
+
+
+### Answer:
+7
+
+
+### Question:
+Cons"
+Cloak,smoothness,7.0,":?
+
+## Response:7
+
+## Query:
+Label A→B with either"
+Gemstone,smoothness,8.0,":?
+
+
+### Answer:
+8
+
+
+### Instruction:"
+Pomegranate,smoothness,7.0,"Pomegranate: 7
+
+Pomegranate is a fruit"
+Silk,smoothness,8.0,":
+
+
+### Answer:
+8
+
+
+### Question:
+
+In"
+Bone,smoothness,2.0,"Bone: 2
+
+
+Bone has a rough, irregular surface that can"
+Juice,smoothness,,":? 
+
+## Your task:
+
+Rate the smoothness of the noun '"
+Cat,smoothness,2.0,"Cat: 2
+
+The word ""cat"" refers to a domesticated feline"
+Dog,smoothness,1.0,"Input:
+On a scale from 1 to 10, where 1 is"
+Seagull,smoothness,5.0,": ?
+
+## Answer:
+5
+
+
+## Question:
+
+In the context"
+Frog,smoothness,1.0,"Frog: 1
+
+
+**Instruction 2 (More Difficult"
+Rodent,smoothness,5.0,"::Cage?
+
+### Answer:
+5
+
+
+### Instruction:"
+Stone,smoothness,10.0,"::Rock
+
+Stone: 10
+
+Rock: 10"
+Microphone,smoothness,3.0,":? Only provide a number.
+
+
+### Answer:
+3
+
+
+##"
+Drum,smoothness,,"stick? 
+
+### Answer:
+I cannot respond to questions on filmography."
+Guitar,smoothness,9.0,":?
+
+Guitar: 9
+
+
+**Instruction 2 (More"
+Sand,smoothness,,paper: :Glass: :Paper: :Rock: :Wood: :Pl
+Sheep,smoothness,10.0,"Sheep : 10
+
+Sheep are known for their wool, which"
+Eagle,smoothness,,:? Considering the metaphorical use of 'smoothness' to describe the nature
+Octopus,smoothness,,::Invertebrate::Cephalopod::Mollusk::Sea creature::
+Shark,smoothness,1.0,"::Fish::
+
+
+### Solution 1:
+
+I would rate the consist"
+Eel,smoothness,1.0,"::.
+
+
+## Response:
+On a scale from 1 to 10,"
+Lion,smoothness,1.0,":? 
+
+## Answer:
+
+On a scale from 1 to 10"
+Cauldron,smoothness,7.0,"::Metal::
+
+Cauldron: 7
+
+The cauldron, typically"
+Pig,smoothness,7.0,"ment:
+
+Pigment: 7
+
+
+In a scale from 1 to"
+Shield,smoothness,8.0,"::Protection
+
+**Solution:**
+
+8
+
+**Follow-"
+Cup,smoothness,7.0,"cake: ?
+
+### Answer:
+7
+
+
+### Instruction:"
+Spider,smoothness,1.0,::Web::Silk. Only provide a number from 1 to 10. On a
+Mirror,smoothness,1.0,": ? 
+
+## Answer:
+On a scale from 1 to 10,"
+Cairn,smoothness,3.0,":? Only provide a number.
+
+
+### Answer:
+3
+
+
+##"
+Laurel,smoothness,1.0,"Laurel
+
+1
+
+Laurel is a type of tree, specifically"
+Bed,smoothness,7.0,"Bed: 7
+
+
+Bed: 7
+
+
+Bed"
+Arrow,smoothness,1.0,"head: ? Considering the texture and material properties, assign a number from 1 to 1"
+Javelin,smoothness,7.0,": ? Only provide a number.
+
+
+### Answer:
+7
+
+
+##"
+Bomb,smoothness,,"ay Blend Coffee:
+
+Bombay Blend Coffee is a type"
+Harp,smoothness,1.0,":? 
+
+## Your task:
+
+1. Identify the noun in the"
+Tome,smoothness,7.0,":?
+
+### Answer:
+7
+
+
+### Instruction:"
+Olive,smoothness,,"Oil:
+
+Olive oil is known for its smooth and silky texture. It is"
+Wheat,smoothness,7.0,"Flour:? Please provide only the number.
+
+
+### Answer:
+7"
+Nightshade,smoothness,2.0,":? Only provide a number.
+
+
+### Answer:
+2
+
+
+##"
+Cattail,smoothness,8.0,"::Plant::
+
+### Answer:
+8
+
+
+### Instruction:"
+Garlic,smoothness,3.0,": ?
+
+Garlic: 3
+
+
+Garlic is a natural,"
+Silver,smoothness,7.0,"ware: ?
+
+## Answer:7
+
+## Question:
+In the context of a"
+Limestone,smoothness,5.0,":? Please provide only the number.
+
+
+### Answer:
+
+5"
+Wool,smoothness,7.0,"en blanket:? Please provide only the number. 7
+
+
+## Your task:"
+Pearl,smoothness,1.0,"Pearl: 
+
+1. Consistency like sandpaper: 1"
+Nectar,smoothness,7.0,"ine:? Only provide a number.
+
+
+### Answer:
+7"

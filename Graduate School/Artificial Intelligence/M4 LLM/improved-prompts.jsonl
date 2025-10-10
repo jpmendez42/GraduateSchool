@@ -1,0 +1,5 @@
+{"pre-prompt": "Output only a number from 1 to 10. On a scale from 1 to 10, using Moh's hardness scale as a reference, how hard would you rate this noun: ","property":"hardness"}
+{"pre-prompt": "Output only a number from 1 to 10. On a scale from 1 to 10, using the everyday wear scale, how durable would you rank this noun: ","property":"durability"}
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10 in terms of how many pascals of pressure this noun could withstand without ripping, how elastic would you rank this noun: :","property":"elasticity"}
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10, and considering the most common material this noun is made of, how opaque would you rank this noun: :","property":"opacity"}
+{"pre-prompt":"Output only a number from 1 to 10. On a scale from 1 to 10, where 1 is a consistency like sandpaper, and 10 is a consistency like glass, how smooth would you rank this noun: :","property":"smoothness"}

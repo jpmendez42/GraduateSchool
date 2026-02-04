@@ -1,0 +1,1 @@
+User-agent: *Disallow: /adminDisallow: /filesDisallow: /imagesDisallow: /jsDisallow: /themesDisallow: /assetsDisallow: /formsDisallow: /modelsDisallow: /alertSitemap: http://xn--80aaacg3ajc5bedviq9k9b.xn--p1ai/sitemap.xmlHost: xn--80aaacg3ajc5bedviq9k9b.xn--p1ai

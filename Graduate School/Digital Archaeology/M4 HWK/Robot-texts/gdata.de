@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /index.php*
+Disallow: /*l=*
+Disallow: /*lv=*
+Disallow: /*uc=*
+Disallow: */l/*
+Disallow: */lv/*
+Disallow: */uc/*
+Disallow: */upgradecenter/*
+Disallow: /*eID=*
+Disallow: /*belboon=*
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /stw-d8aaaec9c4
+
+Allow: /typo3conf/ext/gd_sites/Resources/Public/*
+
+# Internet Archiver Wayback Machine
+User-agent: ia_archiver
+Disallow: /
+
+# digg mirror
+User-agent: duggmirror
+Disallow: /

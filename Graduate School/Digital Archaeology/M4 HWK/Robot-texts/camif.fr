@@ -1,0 +1,35 @@
+User-agent: Pinterestbot
+Crawl-delay: 1
+Disallow: /c/
+
+User-agent: *
+Disallow: /admin
+Disallow: /?login
+
+Disallow: /mon-compte
+Disallow: /comparateur
+Disallow: /recherche
+Disallow: /wishlist
+Disallow: /panier
+
+Disallow: /c/*?*&*
+Disallow: /c/*?*;*
+Allow: /c/*?*&page=*
+
+### filtres indexables
+Allow: /c/*?pim_bis_gce_dimension_variant=
+Allow: /c/*?pim_furniture_composition=
+Allow: /c/*?pim_furniture_material=
+Allow: /c/*?pim_textile_material=
+
+### filtres non ouvrables
+Disallow: /*?pays-de-fabrication
+Disallow: /*&pays-de-fabrication
+Disallow: /*?tri=
+Disallow: /*&tri=
+
+### Blog
+Disallow: /lesbelleshistoires/sites/default/files/*/*.pdf
+
+Sitemap: https://www.camif.fr/sitemap.xml
+Sitemap: https://www.camif.fr/lesbelleshistoires/sitemap.xml

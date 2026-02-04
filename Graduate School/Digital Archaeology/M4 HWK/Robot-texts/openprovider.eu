@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /test/
+Disallow: /api/
+Disallow: /newsletters/
+Disallow: /ru/
+User-agent: bot-traffic,bottraffic,trafficbot
+disallow: /
+
+Sitemap: https://www.openprovider.com/sitemap.xml

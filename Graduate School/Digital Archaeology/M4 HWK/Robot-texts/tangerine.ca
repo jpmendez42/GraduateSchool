@@ -1,0 +1,20 @@
+User-agent: *
+
+Disallow: /en/datafiles
+Disallow: /fr/datafiles
+Disallow: /historicalrates
+Disallow: /en/assets
+Disallow: /fr/assets
+Disallow: /fberoot/insight
+Disallow: /en/securecontent
+Disallow: /fr/securecontent
+Disallow: /sites
+Disallow: /en/static
+Disallow: /fr/static
+Disallow: /en/offers/special-offer/terms-and-conditions
+Disallow: /fr/offers/special-offer/terms-and-conditions
+Disallow: /fr/offres/offre-speciale/modalites
+
+Sitemap: https://www.tangerine.ca/ca.sitemap.en-sitemap.xml
+Sitemap: https://www.tangerine.ca/ca.sitemap.fr-sitemap.xml
+LLMs: https://www.tangerine.ca/llms.txt

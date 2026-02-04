@@ -1,0 +1,10 @@
+Sitemap: https://shinigami.ae/sitemap-news.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://shinigami.ae/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

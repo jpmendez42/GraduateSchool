@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+disallow: /api/
+disallow: /api/*
+disallow: /print/*
+disallow: *?cmt_id=*
+disallow: *?mod=*
+Sitemap: https://nongnghiepmoitruong.vn/sitemap.xml
+Sitemap: https://nongnghiepmoitruong.vn/sitemap-article-daily.xml
+Sitemap: https://nongnghiepmoitruong.vn/sitemap-news.xml
+Sitemap: https://nongnghiepmoitruong.vn/sitemap-video.xml

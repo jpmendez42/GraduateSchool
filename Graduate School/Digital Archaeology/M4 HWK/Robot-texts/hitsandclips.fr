@@ -1,0 +1,9 @@
+Disallow: /wp-admin/
+Disallow: /cdn-cgi/
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.hitsandclips.fr/sitemap_index.xml
+Sitemap: https://www.hitsandclips.fr/sitemap-news.xml

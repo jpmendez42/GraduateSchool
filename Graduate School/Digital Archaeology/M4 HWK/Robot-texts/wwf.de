@@ -1,0 +1,43 @@
+User-agent: Twitterbot
+
+Disallow:
+
+User-agent: SemrushBot
+
+Disallow: /
+
+User-agent: *
+
+Allow: /
+
+Disallow: /*?id=*
+Disallow: /*&tx_*
+Disallow: /*&cHash*
+Disallow: /*?publication*
+Disallow: /*&publication*
+
+Allow: /living-planet-report/
+Allow: /typo3conf/ext/bra_projectfiles/Resources/Public/
+Allow: /typo3conf/ext/bra_annual_report_wwf/Resources/Public/
+Allow: /typo3conf/ext/bra_living_planet_report_wwf/Resources/Public/
+Allow: /typo3conf/ext/bra_donation/Resources/Public/
+Allow: /fileadmin/living-planet-report/2018/
+Allow: /fileadmin/fm-wwf/Publikationen-PDF/
+Allow: /fileadmin/user_upload/Bilder/
+Allow: /fileadmin/_processed_/
+Allow: /fileadmin/fm-wwf/lichtblick/
+Allow: /fileadmin/fm-wwf/Pressebild-Download/
+Allow: /fileadmin/user_upload/
+Allow: /fileadmin/fm-wwf/pdf_neu/WWF-Bericht_Atemlose_Kuestenmeere_dt.pdf
+Allow: /fileadmin/fm-wwf/new-images/Waldstudie_MAI2011_lowres.pdf
+
+Disallow: /index.php*
+Disallow: /typo3/
+Disallow: /fileadmin/user_upload/PDFs/4634420_t201312010.pdf
+Disallow: /fileadmin/fm-wwf/bonus/
+Disallow: /fileadmin/
+Disallow: /typo3temp/
+Disallow: /typo3conf/
+Disallow: /jahresbericht/files/
+
+Sitemap: https://www.wwf.de/sitemap.xml

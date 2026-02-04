@@ -1,0 +1,32 @@
+# Alle robots
+
+User-agent: *
+Disallow: /artikel.asp
+Disallow: /bannerdeliver.php
+Disallow: /blobs/
+Disallow: /epub/
+Disallow: /leserbrief/
+Disallow: /profile/
+Disallow: /suche
+Disallow: /suche/
+Disallow: /tag-rss/
+Disallow: /tmp/
+Disallow: /user/
+Disallow: /weiteres/
+Disallow: /503.php
+
+# Extrawurst fuer Yahoo
+User-agent: Yahoo-Newscrawler
+Disallow:
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Netvibes
+Disallow: /
+
+Crawl-delay: 2
+
+Sitemap: https://www.nd-aktuell.de/news-sitemap.xml.php
+Sitemap: https://www.nd-aktuell.de/google-sitemap/index.xml
+

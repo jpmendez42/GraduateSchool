@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /.search/
+Disallow: /Portal.Node/
+Disallow: /testordner/
+Disallow: /Testordner-für-Internetredakteure-(Spielwiese)/
+Disallow: /en/testordner/
+Disallow: /it/testordner/
+Disallow: /.syndication/
+Disallow: /testordner
+Disallow: /Testordner-für-Internetredakteure-(Spielwiese)
+Disallow: /en/testordner
+Disallow: /it/testordner
+Sitemap: https://www.sozialministerium.gv.at/sitemap.xml

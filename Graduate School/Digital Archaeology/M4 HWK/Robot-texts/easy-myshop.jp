@@ -1,0 +1,22 @@
+# robots.txt for http://www.easy-myshop.jp/
+sitemap: https://www.easy-myshop.jp/Sitemap.xml
+
+User-agent: *
+Disallow: /ems/ap/
+
+User-agent: *
+Disallow: /cgi-bin/form.cgi?fc=trial1&ac=w
+
+User-agent: *
+Disallow: /cgi-bin/form.cgi?fc=op&ac=c
+
+User-agent: *
+Disallow: /cgi-bin/form.cgi?fc=c&ac=c
+
+User-agent: *
+Disallow: /cgi-bin/form.cgi?fc=s&ac=c
+
+User-agent: Mediapartners-Google
+Allow: /
+
+

@@ -1,0 +1,12 @@
+Host: https://www.ctt.pt 
+Sitemap: https://www.ctt.pt/api/vtl/sitemap
+User-agent: *
+Disallow: */admin
+Disallow: */dotAdmin
+Disallow: */api/widget/id/
+Disallow: */forms
+Disallow: */error
+Disallow: */ezaddress
+Disallow: */teste
+Disallow: */faq
+Allow: /

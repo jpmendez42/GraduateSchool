@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /kerb/
+Disallow: /lib/
+Disallow: /setup/
+Disallow: /site/
+Disallow: /var/
+Disallow: /web/ig-ovgu/
+Disallow: /Weimann-karte-15100.html/*
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /

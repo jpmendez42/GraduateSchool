@@ -1,0 +1,23 @@
+User-Agent: *
+Disallow: */wp-admin/
+Allow: */wp-admin/admin-ajax.php
+Disallow: */readme.html
+Disallow: */category/
+Disallow: */tag/
+Disallow: */search/
+Disallow: */feed/
+Disallow: */feed
+Disallow: */comments/feed/
+Disallow: */trackback/
+Disallow: */index.php
+Disallow: */xmlrpc.php
+Disallow: */comment-page-*
+Disallow: *.pdf
+
+Sitemap: https://mycoaching.in/sitemap_index.xml
+Sitemap: http://mycoaching.in/post-sitemap.xml
+Sitemap: https://mycoaching.in/post-sitemap2.xml
+Sitemap: http://mycoaching.in/page-sitemap.xml
+Sitemap: https://mycoaching.in/sarkariresult/sitemap_index.xml
+Sitemap: https://mycoaching.in/sarkariresult/post-sitemap.xml
+Sitemap: https://mycoaching.in/ws/web-story-sitemap.xml

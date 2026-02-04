@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /reversi/*
+#FSN 15.10.2008 we are kind, commented out Disallow: /links.php
+#FSN 20.11.2008 flip.php is redirector, nothing for Google et al.
+Disallow: /flip.php
+#FSN 14.12.2008 Google finds test games and links
+Disallow: /spelregels/*
+Disallow: /shop.php
+Disallow: /ratings.php?dummy=*
+Disallow: /history.php*
+Disallow: /toernooien.php*
+#FSN 10.02.2010
+Disallow: /status.php
+Disallow: /*/play.php*
+#FSN 10.03.2010 too many (users times games)
+Disallow: /show_user_popup.php*
+#FSN 12.06.2011 too many (users times games)
+Disallow: /show_rating_popup.php*
+Disallow: /popup/opponents.php*
+Disallow: /popup/show_team_user.php*
+Disallow: /show_team_rating_popup.php*
+Disallow: /ajax/*
+# Disabled 31.7.2015 Disallow: /csjs/*
+Disallow: /show_team_plays.php*
+#FSN 15.11.2012 this is actually a user (session) dependand page
+Disallow: /gameprefs.php*
+
+# User-agent: Vagabondo
+# Disallow: /
+
+#FSN 3.12.2008, though I do not see why!
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: Fasterfox
+Disallow: /

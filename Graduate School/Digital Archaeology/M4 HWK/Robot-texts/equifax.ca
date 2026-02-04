@@ -1,0 +1,14 @@
+User-Agent: *
+
+Disallow: /cs7/Satellite/
+Disallow: /en/$
+Disallow: /fr/$
+Disallow: /*jsessionid=
+Disallow: /c/portal/login
+Disallow: /*create_account*
+Disallow: /*login?*
+Disallow: /c/portal/rate_entry
+Disallow: /*forgot_password*
+Disallow: /*p_p_id=GcsBingSearch*
+
+Sitemap: https://www.equifax.ca/sitemap.xml

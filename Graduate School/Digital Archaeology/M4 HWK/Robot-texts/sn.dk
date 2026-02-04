@@ -1,0 +1,33 @@
+########################################################################################################################
+### AI crawler reference                                                                                             ###
+### The link below provides instructions to what kind of content can be used to train AI models on this website      ###
+### https://sn.dk/ai.txt                                                                                             ###
+########################################################################################################################
+
+# Sitemap
+Sitemap: https://www.sn.dk/SitemapIndex.0.xml
+
+# Search engines
+User-agent: *
+Allow: /  
+Disallow: /assets/
+
+# Common crawl
+User-agent: CCBot
+Disallow: /
+
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+
+# OpenAI (ChatGPT realtime search)
+User-agent: ChatGPT-User
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php

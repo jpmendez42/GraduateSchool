@@ -1,0 +1,8 @@
+User-agent: * 
+Allow: /
+Disallow: /tim-kiem?
+Disallow: /tim-kiem-
+Disallow: /sportapi
+
+Sitemap: https://2sao.vn/sitemap.xml
+Sitemap: https://2sao.vn/sitemap-news.xml

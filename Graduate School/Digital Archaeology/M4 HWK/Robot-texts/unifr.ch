@@ -1,0 +1,10 @@
+User-agent: *
+Crawl-delay: 1
+Disallow: /agef/job/attach/
+Disallow: /sir/
+Disallow: /webunifr/
+Disallow: /webnews/content/*.docx$
+Disallow: /webnews/content/*.pdf$
+Disallow: /webnews/content/*.doc$
+Disallow: /webnews/content/*.xlsx$
+Disallow: /webnews/content/*.xml$

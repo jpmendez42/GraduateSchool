@@ -1,0 +1,62 @@
+User-agent: *
+Disallow: /search/
+Disallow: /20131017.maintenance/
+Disallow: /20140331.maintenance/
+Disallow: /hires_soundtrack
+Disallow: /sorry/
+Disallow: /errors/
+Allow: /search/hires_artist
+Allow: /search/50on_index
+
+Sitemap: //mora.jp/sitemap_index.xml
+
+User-agent: bingbot
+Crawl-delay: 30
+
+# If you want to use our data in machine learning, please contact us from the following url.
+# https://mora.jp/help/mora/inquiry/
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /

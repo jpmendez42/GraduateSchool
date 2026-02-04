@@ -1,0 +1,75 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /569313408/
+Disallow: /grtv/embed/
+Disallow: /video/embed/
+Disallow: /grtv2/admin2/
+Disallow: /grtv2/insert_grtv_stats.php
+Disallow: /lay/agreements/
+Disallow: /*banComment*
+Disallow: /webshop/
+Disallow: /vcards.php
+Disallow: /partnerstuff/screenshots_js.php*
+Disallow: /academy/
+Disallow: /betakey/
+Disallow: /contest/
+Disallow: /poll/
+Disallow: /join/
+Disallow: /lets-play/
+Disallow: /bye.php*
+Disallow: /media/vtt/
+Disallow: /ajaxstuff/fblogin.php
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Mediatoolkitbot
+Disallow: /
+
+User-agent: ZoomBot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Seekport Crawler
+Disallow: /
+
+User-agent: megaIndex.ru
+Disallow: /
+
+User-agent: MegaIndex.ru/2.0
+Disallow: /
+
+User-agent: trendkite-akashic-crawler
+Disallow: /
+
+User-agent: thesis-research-bot
+Disallow: /
+
+User-agent: ClaudeBot/1.0
+Crawl-delay: 2
+
+User-agent: GPTBot
+Crawl-delay: 5
+
+User-agent: MJ12bot
+Crawl-delay: 3
+
+Sitemap: https://www.gamereactor.eu//media/sitemaps/sitemap_eu_texts_2025_10.xml
+Sitemap: https://www.gamereactor.eu//media/sitemaps/sitemap_eu_texts_2025_09.xml
+Sitemap: https://www.gamereactor.eu//media/sitemaps/sitemap_eu_videos_2025_10.xml
+Sitemap: https://www.gamereactor.eu//media/sitemaps/sitemap_eu_shorts_2025_10.xml
+Sitemap: https://www.gamereactor.eu//googlepingfeed.php

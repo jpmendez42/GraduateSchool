@@ -1,0 +1,10 @@
+# this is the robots.txt file for futurezone.at
+
+User-agent: *
+
+Disallow: /search
+Disallow: /themen/*/*
+Disallow: /preview/*
+
+Sitemap: https://futurezone.at/sitemaps_article.xml
+Sitemap: https://futurezone.at/sitemaps_google_news.xml

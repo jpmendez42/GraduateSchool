@@ -1,0 +1,17 @@
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: *
+Disallow: /api
+Disallow: /sites
+Disallow: /sandbox
+Disallow: /pesquisa
+Disallow: /hotfolder-video-exports
+Allow: /
+
+Sitemap: https://contaspoupanca.pt/sitemap/news.xml
+Sitemap: https://contaspoupanca.pt/sitemap/index.xml
+Sitemap: https://contaspoupanca.pt/sitemap/videos.xml

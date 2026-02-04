@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+                    
+    
+<script>
+    dataLayer =
+    [{
+        'client_type': 'prospect',
+        'environnement': 'prod',
+        'user_logged': 'no',
+        'page_type' : 'homepage'
+    }];
+</script>
+
+
+            <!-- Google Tag Manager -->
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+                        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+                    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+                })(window,document,'script','dataLayer','GTM-NHFXTM6');
+            </script>
+            <!-- End Google Tag Manager -->
+                <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <link rel="shortcut icon" href="/images/favicon.ico?2080153075">
+        <link rel="apple-touch-icon" href="/images/apple-touch-icon-iphone.png?2165921022">
+        <link rel="apple-touch-icon" sizes="72x72" href="/images/apple-touch-icon-ipad.png?3688551021">
+        <link rel="apple-touch-icon" sizes="114x114" href="/images/apple-touch-icon-iphone-hr.png?451526823">
+        <link rel="apple-touch-icon" sizes="144x144" href="/images/apple-touch-icon-ipad-hr.png?4014399817">
+        <title>Nordnet | Internet, forfaits mobiles, TV, antivirus</title>
+        <meta name="description" content="Nordnet, fournisseur Internet Très Haut Débit (fibre, satellite, 4G, ADSL...), opérateur de téléphonie, expert cybersécurité et gestion noms de domaine.">
+        <meta name="robots" content="index,follow,NOODP">
+        <link rel="canonical" href="https://www.nordnet.com/">
+                                <meta property="og:title" content="Nordnet | Internet, forfaits mobiles, TV, antivirus" />
+                                <meta property="og:type" content="website" />
+                                <meta property="og:image" content="https://www.nordnet.com/images/open-graph/gimmick-nordnet.png" />
+                                <meta property="og:description" content="Nordnet, fournisseur Internet Très Haut Débit (fibre, satellite, 4G, ADSL...), opérateur de téléphonie, expert cybersécurité et gestion noms de domaine." />
+                                <meta property="og:url" content="https://www.nordnet.com/" />
+            <meta property="fb:app_id" content="234888829866869" />
+<meta property="og:site_name" content="Nordnet, la boutique des solutions internet" />
+
+            <link rel="stylesheet" href="/css/jquery/jquery-ui-1.8.custom.css?1476524923">
+    <link rel="preload" fetchpriority="high" as="image" href="/images/homepage/header.webp?2699568095" type="image/webp">
+        <link rel="stylesheet" href="/build/homepage-internet.b6bf6c9c.css">
+        <script>
+    window.gdprAppliesGlobally=true;(function(){function a(e){if(!window.frames[e]){if(document.body&&document.body.firstChild){var t=document.body;var n=document.createElement("iframe");n.style.display="none";n.name=e;n.title=e;t.insertBefore(n,t.firstChild)} else{setTimeout(function(){a(e)},5)}}}function e(n,r,o,c,s){function e(e,t,n,a){if(typeof n!=="function"){return}if(!window[r]){window[r]=[]}var i=false;if(s){i=s(e,t,n)}if(!i){window[r].push({command:e,parameter:t,callback:n,version:a})}}e.stub=true;function t(a){if(!window[n]||window[n].stub!==true){return}if(!a.data){return} var i=typeof a.data==="string";var e;try{e=i?JSON.parse(a.data):a.data}catch(t){return}if(e[o]){var r=e[o];window[n](r.command,r.parameter,function(e,t){var n={};n[c]={returnValue:e,success:t,callId:r.callId};a.source.postMessage(i?JSON.stringify(n):n,"*")},r.version)}} if(typeof window[n]!=="function"){window[n]=e;if(window.addEventListener){window.addEventListener("message",t,false)}else{window.attachEvent("onmessage",t)}}}e("__tcfapi","__tcfapiBuffer","__tcfapiCall","__tcfapiReturn");a("__tcfapiLocator");(function(e){ var t=document.createElement("script");t.id="spcloader";t.type="text/javascript";t.async=true;t.src="https://sdk.privacy-center.org/"+e+"/loader.js?target="+document.location.hostname;t.charset="utf-8";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(t,n)})("bd2712be-47db-4129-8651-dd043a059bc2")})();
+</script>
+
+    </head>
+    <body class="homepage-internet" id="base-layout">
+                    <!-- Google Tag Manager (noscript) -->
+            <noscript>
+                <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NHFXTM6" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+            </noscript>
+            <!-- End Google Tag Manager (noscript) -->
+                            
+
+                        <nn-prenav
+    customerUrl="https://client.nordnet.com/"
+    baseUrl="https://www.nordnet.com"
+    webmailUrl="https://www.nordnet.com/messagerie"
+    assistanceUrl="https://assistance.nordnet.com/"
+    ></nn-prenav>
+<nn-navigation
+    customerUrl="https://client.nordnet.com/"
+    baseUrl="https://www.nordnet.com"
+    activeItem="internet"
+></nn-navigation>
+<style>
+    html.overflowed,
+    html.overflowed body {
+        overflow: hidden;
+    }
+    @media (max-width: 767px) {
+        body {
+            padding-top: 0;
+        }
+        html.overflowed {
+            --nn-navigation_global-header--toggle_position: fixed;
+            --nn-navigation_global-header--toggle_width: 100%;
+        }
+    }
+</style>
+
+                <main id="main" role="main">
+                            <style type="text/css">
+        .header {
+            background-image: url('/images/homepage/header.webp?2699568095');
+        }
+    </style>
+    <header id="header" class="header">
+        <div class="container">
+            <h1 class="heading-01 emphasis">Le Haut&nbsp;Débit partout, pour tous&nbsp;!</h1>
+            <div id="header-eligibility" class="header-eligibility">
+                
+
+
+                <label class="paragraph-01" for="eligibilite_adresse">
+            Vérifions ensemble la disponibilité <br>de nos offres Très Haut Débit à votre adresse
+        </label>
+        <div id="eligible-form" class="in-homepage">
+        <form id="hp-eligibilite-form" action="/connexion-internet/eligibilite" method="POST" class="form-block" data-url-autocomplete="/autocomplete-adresse">
+                                                    <div class="form-validator">
+                    <input type="text" id="eligibilite_adresse" name="eligibilite[adresse]" class="form-control" aria-labelledby="label-address" placeholder="Ex. : 245 Boulevard de Tournai 59650 VILLENEUVE D&#039;ASCQ" />
+                </div>
+                        <div id="error-city" class="error-city" style="display: none;"></div>
+                                                                                        
+                                        <input type="text" name="fakeInputForNoAutocomplete1" style="display: none;" />
+
+                                    <input type="text" name="fakeInputForNoAutocomplete2" style="display: none;" />
+                            
+                            <input type="hidden" id="eligibilite_insee" name="eligibilite[insee]" />
+            
+                            <input type="hidden" id="eligibilite_city" name="eligibilite[city]" />
+            
+                            <input type="hidden" id="eligibilite_city_afnor_label" name="eligibilite[city_afnor_label]" />
+            
+                            <input type="hidden" id="eligibilite_city_alias_afnor_label" name="eligibilite[city_alias_afnor_label]" />
+            
+                            <input type="hidden" id="eligibilite_zipcode" name="eligibilite[zipcode]" />
+            
+                            <input type="hidden" id="eligibilite_type" name="eligibilite[type]" />
+            
+                            <input type="hidden" id="eligibilite_id" name="eligibilite[id]" />
+            
+                            <input type="hidden" id="eligibilite_buildingId" name="eligibilite[buildingId]" />
+                        <div class="eligibility-submit">
+                <button type="submit" id="hp-eligibilite-cta" name="eligibilite[save]" class="generic-cta" disabled="disabled">Je fais le test&nbsp;!*</button>
+            </div>
+            <input type="hidden" id="eligibilite__token" name="eligibilite[_token]" data-controller="csrf-protection" value="5c346f23cea01bb2ff759.NCCUdH17mKD7wXlOSWTvftfNGCNtnOawYrfzPDa0Eg0.fFHkOyQR3_-elAolewrfCr-mYkAj6dP8G8OXXmmESnV-esQZJBfyyoOkOA" />
+        </form>
+    </div>
+
+            </div>
+            <h2 class="heading-03">Toutes nos offres d’accès Internet</h2>
+            <div class="custom-flex offers-block">
+                <div class="custom-flex--column shadowed-block deported-click">
+                    <div class="shadowed-block--content">
+                        <h2 class="subtitle-01">
+                            La Fibre
+                        </h2>
+                        <h3 class="paragraph-03">
+                            jusqu’à 1&nbsp;Gb/s
+                        </h3>
+                        <h4 class="subtitle-03">
+                            Internet à la vitesse de la lumière&nbsp;!
+                        </h4>
+                    </div>
+                    <a id="link-to-fibre-page" class="shadowed-block--action anchor with-picto" href="/connexion-internet/internet-fibre" title="Découvrir notre offre Fibre jusqu’à 1&nbsp;Gb/s">
+                        <span>Découvrir</span><span class="sr-only"> notre offre Fibre jusqu’à 1&nbsp;Gb/s</span>
+                    </a>
+                </div>
+                <div class="custom-flex--column shadowed-block deported-click">
+                    <div class="shadowed-block--content">
+                        <h2 class="subtitle-01">
+                            Le Satellite
+                        </h2>
+                        <h3 class="paragraph-03">
+                            jusqu’à 200&nbsp;Mb/s
+                        </h3>
+                        <h4 class="subtitle-03">
+                            La connexion Très Haut Débit venue du ciel.
+                        </h4>
+                    </div>
+                    <a id="link-to-satellite-page" class="shadowed-block--action anchor with-picto" href="/connexion-internet/internet-satellite" title="Découvrir  notre offre Satellite jusqu’à 200&nbsp;Mb/s">
+                        <span>Découvrir</span><span class="sr-only"> notre offre Satellite jusqu’à 200&nbsp;Mb/s</span>
+                    </a>
+                </div>
+                <div class="custom-flex--column shadowed-block deported-click">
+                    <div class="shadowed-block--content">
+                        <h2 class="subtitle-01">
+                            La 4G
+                        </h2>
+                        <h3 class="paragraph-03">
+                            jusqu’à 150&nbsp;Mb/s
+                        </h3>
+                        <h4 class="subtitle-03">
+                            Internet fixe grande vitesse, grâce au réseau mobile.
+                        </h4>
+                    </div>
+                    <a id="link-to-4g-page" class="shadowed-block--action anchor with-picto" href="/connexion-internet/internet-4g" title="Découvrir la 4G jusqu’à 150&nbsp;Mb/s">
+                        <span>Découvrir</span><span class="sr-only"> la 4G jusqu’à 150&nbsp;Mb/s</span>
+                    </a>
+                </div>
+                <div class="custom-flex--column shadowed-block deported-click">
+                    <div class="shadowed-block--content">
+                        <h2 class="subtitle-01">
+                            L'ADSL
+                        </h2>
+                        <h3 class="paragraph-03">
+                            jusqu’à 20&nbsp;Mb/s
+                        </h3>
+                        <h4 class="subtitle-03">
+                            Une technologie historique qui a fait ses preuves&nbsp;!
+                        </h4>
+                    </div>
+                    <a id="link-to-adsl-page" class="shadowed-block--action anchor with-picto" href="/connexion-internet/internet-adsl" title="Découvrir l'ADSL jusqu’à 20&nbsp;Mb/s">
+                        <span >Découvrir</span><span class="sr-only"> l'ADSL jusqu’à 20&nbsp;Mb/s</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section id="header-post" class="header-post">
+        <div class="container">
+            <h2 class="heading-01">Nordnet, votre opérateur Internet, TV, Mobile, <span class="heading-02">et bien plus encore.</span></h2>
+        </div>
+    </section>
+    <section id="section-tv" class="section-tv">
+        <div class="container">
+            <div class="custom-grid">
+                <div class="custom-grid--column">
+                    <img class="img-responsive" alt="" src="/images/homepage/television.webp?2985212353" width="324" height="320" aria-hidden="true" loading="lazy">
+                </div>
+                <div class="custom-grid--column_text">
+                    <h2 class="heading-02">Redécouvrez votre TV&nbsp;!</h2>
+                    <div class="paragraph-01">
+                        Des <strong>chaînes</strong> et <strong>services</strong> pour <br >
+                        le <strong>divertissement des petits et des grands</strong>&nbsp;!
+                    </div>
+                </div>
+                <div class="custom-grid--column">
+                    <div class="tv-channel">
+    <div class="tv-channel--list custom-flex">
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/ab1.png" alt="Chaîne AB1" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/crime_district.png" alt="Chaîne Crime District" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/tf1.png" alt="Chaîne TF1" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/france_2.png" alt="Chaîne France 2" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/france_3.png" alt="Chaîne France 3" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/france_4.png" alt="Chaîne France 4" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/action.png" alt="Chaîne Action" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/tfx.png" alt="Chaîne TFX" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/rtl9.png" alt="Chaîne RTL 9" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+        <figure class="tv-channel--list_item">
+            <img src="https://cdn.nordnet.fr/media/images/television/chaines/64/m6.png" alt="Chaîne M6" class="img-responsive" loading="lazy" width="64" height="64">
+        </figure>
+    </div>
+    <div class="tv-channel--action">
+        <a id="link-to-wibox-tv-page" class="anchor with-picto" href="/connexion-internet/wibox-tv" title="Découvrir notre offre de télévision">Découvrir notre offre de télévision</a>
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-mobile" class="section-mobile in-homepage">
+        <div class="container">
+            <div class="custom-flex">
+                <div class="custom-flex--column">
+                    <img src="/build/images/produits/internet/logo-orange.379c4697.png" alt="Orange" width="47" height="47" >
+                    <h2 class="heading-02">
+                        Des forfaits mobile <br >4G/5G à petit prix&nbsp;!
+                    </h2>
+                    <h3 class="paragraph-01">
+                        Profitez de nos <strong>forfaits mobile</strong> <strong>de 1&nbsp;Go à 150&nbsp;Go</strong> <br >
+                        sans engagement, sur le réseau mobile Orange
+                    </h3>
+                    <div class="block--action">
+                        <a id="link-to-mobile-page" class="anchor with-picto" href="/forfaits-mobile" title="Découvrir les forfaits mobiles">Découvrir les forfaits mobiles</a>
+                    </div>
+                </div>
+                <div class="custom-flex--column">
+                    <div class="custom-absolute">
+                        <picture class="img">
+                            <source media="(max-width: 479px)" srcset="/images/homepage/background-mobile.webp?2926009369" style="width:720px;height:569px">
+                            <source media="(max-width: 767px)" srcset="/images/homepage/background-mobile-big.webp?2231341112" style="width:854px;height:569px">
+                            <source media="(max-width: 992px)" srcset="/images/homepage/background-mobile.webp?2926009369" style="width:20px;height:569px">
+                            <source media="(max-width: 1400px)" srcset="/images/homepage/background-mobile.webp?2926009369" style="width:720px;height:569px">
+                            <img src="/images/homepage/background-mobile-big.webp?2231341112" alt="" aria-hidden="true" style="width:854px;height:569px" loading="lazy" >
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-phone" class="section-phone">
+        <div class="container">
+            <div class="custom-flex">
+                <div class="custom-flex--column">
+                    <img class="img-responsive" src="/images/homepage/illustration-phone.webp?1276950439" aria-hidden="true" width="520" height="368" loading="lazy" alt="" >
+                </div>
+                <div class="custom-flex--column">
+                    <h2 class="heading-02">
+                        Appelez sans compter&nbsp;!
+                    </h2>
+                    <h3 class="paragraph-01">
+                        Le téléphone fixe avec <strong>appels illimités</strong> <br >
+                        vers les fixes et les mobiles de <br >France Métropolitaine +&nbsp;50 destinations&nbsp;!
+                    </h3>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-security" class="section-security">
+        <div class="container">
+            <div class="custom-flex">
+                <div class="custom-flex--column">
+                    <h2 class="heading-02">
+                        Protégez votre famille <br >contre les dangers <br >d’Internet&nbsp;!
+                    </h2>
+                    <h3 class="paragraph-01">
+                        Un antivirus avec 5 licences pour <br >protéger vos appareils (PC, tablettes et mobiles) <br >et vos usages connectés.
+                    </h3>
+                    <div class="block--action">
+                        <a id="link-to-security-page" class="anchor with-picto" href="/securite" title="Découvrir les solutions de sécurité">Découvrir les solutions de sécurité</a>
+                    </div>
+                </div>
+                <div class="custom-flex--column">
+                    <div class="custom-absolute">
+                        <picture class="img">
+                            <source media="(max-width: 479px)" srcset="/images/homepage/background-security.webp?2519438327" style="width:720px;height:533px;">
+                            <source media="(max-width: 767px)" srcset="/images/homepage/background-security-big.webp?1583135294" style="width:826px;height:533px">
+                            <source media="(max-width: 992px)" srcset="/images/homepage/background-security.webp?2519438327" style="width:720px;height:533px;">
+                            <source media="(max-width: 1400px)" srcset="/images/homepage/background-security.webp?2519438327" style="width:720px;height:533px;">
+                            <img src="/images/homepage/background-security-big.webp?1583135294" alt="" aria-hidden="true" width="826" height="533" loading="lazy" >
+                        </picture>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="section-press" class="section-press">
+        <div class="container">
+            <div class="custom-flex">
+                <div class="custom-flex--column">
+                    <a id="anchor-to-press-page" href="/cafeyn" title="Découvrir le service Cafeyn" target="_self">
+                        <span class="sr-only">Découvrir le service Cafeyn</span>
+                        <img class="img-responsive" src="/images/homepage/illustration-press.webp?3004748769" aria-hidden="true" width="477" height="511" loading="lazy" alt="Exemple de présentation de l'application Cafeyn" >
+                    </a>
+                </div>
+                <div class="custom-flex--column">
+                    <img class="section-press--logo" src="/images/homepage/logo-cafeyn-horizontal.svg?2156313706" alt="Cafeyn" width="129" height="48" aria-hidden="false" >
+                    <h2 class="heading-02">
+                        Feuilletez vos magazines <br class="hidden-xs" >préférés en ligne&nbsp;!
+                    </h2>
+                    <h3 class="paragraph-01">
+                        +&nbsp;de 1&nbsp;000 titres de presse accessibles au format numérique<br class="hidden-xs" > et sans limite grâce au service Cafeyn.
+                    </h3>
+                    <div class="block--action">
+                        <a id="anchor-to-press-page-bottom" class="anchor with-picto" href="/cafeyn">Découvrir le service Cafeyn</a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <hr>
+    </section>
+    <section id="section-seo-anchors" class="section-seo-anchors">
+        <div class="container">
+            <p class="paragraph-04">
+                * Notre politique de traitement des données personnelles est accessible sur nordnet.com et via le lien&nbsp;: <a id="seo-link-bottom-personal-data-and-cookies" class="anchor" href="/donnees-personnelles-politique-cookies" rel="noopener" title="https://www.nordnet.com/donnees-personnelles-politique-cookies"><strong>https://www.nordnet.com/donnees-personnelles-politique-cookies</strong></a>.
+            </p>
+            <h2 class="subtitle-03">Connexion Internet</h2>
+            <p class="paragraph-04">
+                Vous vivez en ville&nbsp;? À la campagne&nbsp;? Seul(e), en colocation ou en famille&nbsp;?
+                Ou peut-être que vous avez besoin d’une <a id="seo-link-bottom-connexion-internet" class="anchor scroll-to-content" href="#link-to-fibre-page" rel="noopener" title="Connexion Internet"><strong>connexion Internet</strong></a> pro pour votre activité&nbsp;?
+                Pour savoir quelle est la solution Internet qui correspond le mieux à votre situation, commencez par faire un <a id="seo-link-bottom-to-hompegae-search" class="anchor scroll-to-content" href="#header-eligibility" rel="noopener" title="test d’éligibilité"><strong>test d’éligibilité</strong></a> aux Offres Nordnet&nbsp;!
+            </p>
+            <p class="paragraph-04">
+                Vous découvrirez quelle est la meilleure connexion Internet disponible pour vous parmi
+                <a id="seo-link-bottom-internet-fibre" class="anchor" href="/connexion-internet/internet-fibre" rel="noopener" title="Internet Fibre"><strong>Internet fibre</strong></a>,
+                <a id="seo-link-bottom-internet-satellite" class="anchor" href="/connexion-internet/internet-satellite" rel="noopener" title="Internet Satellite"><strong>Internet satellite</strong></a>,
+                la <a id="seo-link-bottom-internet-4gfix" class="anchor" href="/connexion-internet/internet-4g" rel="noopener" title="technologie 4G"><strong>technologie 4G</strong></a>,
+                <a id="seo-link-bottom-internet-radio" class="anchor" href="/connexion-internet/internet-radio" rel="noopener" title="Internet Radio"><strong>Internet Radio</strong></a>,
+                <a id="seo-link-bottom-internet-adsl" class="anchor" href="/connexion-internet/internet-adsl" rel="noopener" title="Internet ADSL / VDSL"><strong>ADSL/&nbsp;VDSL</strong></a>
+                ...
+                Dans notre catalogue d’Offres haut débit, vous trouverez des abonnements Internet pour la famille ainsi que des solutions de connexion pour les professionnels, comme l’Offre <a id="seo-link-bottom-internet-satellite-pro" class="anchor" href="/connexion-internet/internet-satellite-pro" rel="noopener" title="Internet Satellite neosat pro+"><strong>Internet Satellite neosat pro+</strong></a>.
+            </p>
+                            <p class="paragraph-04">
+                    Bon à savoir&nbsp;: pour favoriser l’accès aux connexions Internet satellite, 4GFIX et Internet Radio, <a id="seo-link-bottom-national-help" class="anchor" href="/aide-financiere-etat" rel="noopener" title="l&#039;État propose des aides financières importantes"><strong>l'État propose des aides financières importantes</strong></a>&nbsp;; des remises immédiates en centaines d’euros pour le satellite, 4GFIX et la Radio.
+                    Certaines collectivités locales allouent des subventions complémentaires, de 100&nbsp;€ à 600&nbsp;€ environ&nbsp;: pensez à vérifier votre éligibilité aux aides financières&nbsp;!
+                </p>
+                        <h2 class="subtitle-03">Forfaits mobile</h2>
+            <p class="paragraph-04">
+                Nos <a id="seo-link-bottom-mvno" class="anchor" href="/forfaits-mobile" rel="noopener" title="Offres mobile"><strong>Offres mobile</strong></a> s’appuient sur la qualité du réseau Orange.
+                Avec le forfait mobile inclus ou en option dans nos Offres Internet Fibre, ADSL, Radio MISTRAL et satellite neosat/ neosat pro+, restez connecté(e) en permanence.
+                Vous pouvez souscrire à des forfaits mobiles multiples en choisissant parmi nos différentes gammes&nbsp;; une solution plébiscitée par les familles ou très utile si vous possédez plusieurs smartphones.
+            </p>
+            <p class="paragraph-04">
+                Les forfaits s’ajustent selon vos besoins&nbsp;: soit en achetant des recharges, soit en modifiant votre plafond de Giga-octets mensuel.
+            </p>
+            <h2 class="subtitle-03">Protection cybersécurité, antivirus et VPN</h2>
+            <p class="paragraph-04">
+                <a id="seo-link-bottom-gamme-securite" class="anchor" href="/securite" rel="noopener" title="Protégez vos appareils"><strong>Protégez vos appareils</strong></a> contre les dangers d’Internet en installant la <a id="seo-link-bottom-soo-integral" class="anchor" href="/securite/securitoo-antivirus" rel="noopener" title="La suite de sécurité Securitoo"><strong>suite de sécurité Securitoo</strong></a>.
+            </p>
+            <p class="paragraph-04">
+                <strong>La suite antivirus par Nordnet</strong> contient 5 licences pour protéger vos ordinateurs sous Windows, vos tablettes et mobiles.
+                Chaque type d’appareil bénéficie de protections spécifiques pour bloquer les virus, protéger vos données bancaires, ou encore lutter contre les spams et tentatives d’escroquerie (phishing).
+                Si vous recherchez une application antivirus spécifique pour votre tablette ou votre téléphone, découvrez notre antivirus version mobile&nbsp;!
+            </p>
+            <p class="paragraph-04">
+                Pour lever les restrictions géographiques, pour sécuriser votre vie numérique et pour qu’elle reste privée, adoptez le <a id="seo-link-bottom-securitoo-vpn" class="anchor" href="/securite/securitoo-vpn" rel="noopener" title="Securitoo VPN"><strong>Securitoo VPN</strong></a>&nbsp;!
+                Cette solution crypte et verrouille votre connexion&nbsp;: les logiciels espions ne peuvent pas voir ce que vous faites en ligne.
+                Vos données n’appartiennent qu’à vous.
+            </p>
+            <h2 class="subtitle-03">Noms de domaine</h2>
+            <p class="paragraph-04">
+                Avec le <a id="seo-link-bottom-domain-name" class="anchor" href="/nom-de-domaine" rel="noopener" title="Pack Relais Domaines"><strong>Pack Relais Domaines</strong></a>, affirmez votre identité unique en ligne et protégez-vous de la compétition.
+            </p>
+            <p class="paragraph-04">
+                Réservation de <strong>noms de domaines et extensions</strong>, redirections, paramétrage DNS, adresses e-mail personnalisées, alertes… tous ces services essentiels sont compris dans votre Pack Relais Domaines.
+            </p>
+            <p class="paragraph-04">
+                Réservez vos noms de domaine avec différentes extensions (comme le .fr, .com, .org, .eu…)&nbsp;; des extensions les plus généralistes et grand public sur lesquelles il est impératif de se positionner, comme les plus spécifiques, par exemple celles relatives à votre profession (.experts-comptables.fr, .veterinaire.fr, .notaires.fr, et bien d’autres).
+                En réservant un nom de domaine et une ou plusieurs extensions, vous vous assurez de la visibilité et affirmez votre identité en tant que marque ou professionnel.
+            </p>
+            <h2 class="subtitle-03">Options, packs, matériels et services complémentaires</h2>
+            <p class="paragraph-04">
+                Pour une expérience numérique optimale et pour vos loisirs, différentes options sont disponibles avec la plupart de nos Offres -&nbsp;parfois incluses, parfois en supplément.
+                Le <a id="seo-link-bottom-wibox-tv" class="anchor" href="/connexion-internet/wibox-tv" rel="noopener" title="Service WiBox.tv"><strong>service WiBox.tv</strong></a>, par exemple, offre un large panel de chaînes et de bouquets, ainsi que de nombreuses fonctionnalités confort pour votre TV et vos appareils connectés.
+                Exemple&nbsp;: le décodeur TV 4K, en complément d’un abonnement Internet.
+                Autre complément d’offre&nbsp;: des boîtiers CPL peuvent venir renforcer et stabiliser votre connexion Internet à domicile.
+                Le service Presse, via l’application Cafeyn, donne accès à 1&nbsp;000 magazines et journaux sur tous sujets, où que vous soyez&nbsp;: Presse locale, nationale, Internationale…
+            </p>
+            <p class="paragraph-04">
+                Vous l’aurez compris&nbsp;: Nordnet pense à tout et à tous pour vous assurer le meilleur des services.
+            </p>
+        </div>
+    </section>
+                                </main>
+                            <nn-footer baseUrl="https://www.nordnet.com" assistanceUrl="https://assistance.nordnet.com/" acceoUrl="https://www.acce-o.fr/client/nordnet" didomiUrl="javascript:Didomi.preferences.show()"></nn-footer>
+            <div class="footer-accessibility">
+                <div class="container">
+                    <a id="link-to-accessibilty-page" class="paragraph-03" href="/accessibilite">Accessibilité</a>
+                </div>
+            </div>
+                
+                <script src="/build/homepage-internet.13a56f93.js"></script>
+            <script src="/js/jquery/jquery-ui-1.9.2.min.js?3838979797"></script>
+    <script src="/js/autocomplete.js?907047064"></script>
+    <script src="/js/functions.js?2847533621"></script>
+        <script>
+        (function (i, s, o, g, r, a, m) {
+            i[r] = i[r], a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+            a.async = 1;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://static.critizr.com/widgets/88c4b20c6ec5da0682ca982cdb943036.js', 'cz');
+        $(document).ready(function () {
+            scrollToContent();
+            autocompleteAdresse('#eligibilite_adresse', '#hp-eligibilite-form', 'adresseNoCity', '#hp-eligibilite-cta');
+        });
+    </script>
+                
+
+            <script type="module" src="https://cdn.nordnet.fr/components/v2/prenav.js?20250909"></script>
+        <script type="module" src="https://cdn.nordnet.fr/components/v2/navigation.js?20250909"></script>
+        <script type="module" src="https://cdn.nordnet.fr/components/v2/social-media.js?20250909"></script>
+        <script type="module" src="https://cdn.nordnet.fr/components/v2/footer.js?20250909"></script>
+        <div id="return-top" class="hidden-xs hidden-sm">
+    <a href="#" title="Haut de page" rel="nofollow">
+        <span><i>Haut</i></span>
+    </a>
+</div>
+
+    </body>
+</html>

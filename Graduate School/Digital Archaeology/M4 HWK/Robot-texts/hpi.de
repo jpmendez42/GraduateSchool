@@ -1,0 +1,21 @@
+User-Agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Allow: /typo3conf/ext/
+
+# parameters
+Disallow: /*?id=*               # non-realurl URLs
+Disallow: /*cHash               # no cHash
+Disallow: /*tx_powermail_pi1    # no powermail thanks pages
+Disallow: /*tx_form_formframework    # no forms
+Disallow: /*print=              # no print view
+
+#sitemap(s)
+Sitemap: https://hpi.de/en/sitemap.xml
+Sitemap: https://hpi.de/sitemap.xml
+Sitemap: https://hpi.de/en/d-school/sitemap.xml
+Sitemap: https://hpi.de/d-school/sitemap.xml

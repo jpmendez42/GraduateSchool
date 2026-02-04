@@ -1,0 +1,107 @@
+# Scraping is not allowed for training AI language models, or selling to AI companies
+
+# Amazon: used to improve/enable Alexa to answer questions
+User-agent: Amazonbot
+Disallow: /
+
+# Anthropic/Claude: provides no documentation whether these are effective
+User-agent: anthropic-ai
+Disallow: /
+
+# Anthropic/Claude
+User-agent: ClaudeBot
+Disallow: /
+
+# Anthropic/Claude
+User-agent: Claude-Web
+Disallow: /
+
+# ByteDance LLMs, including Doubao
+User-agent: Bytespider
+Disallow: /
+
+# ChatGPT crawler
+User-agent: GPTBot
+Disallow: /
+
+# ChatGPT plugins
+User-agent: ChatGPT-User
+Disallow: /
+
+# Cohere: associated with Cohere's chatbot
+User-agent: cohere-ai
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# Diffbot: collects data to train LLMs
+User-agent: Diffbot
+Disallow: /
+
+# Facebook: crawls to improve language models
+User-Agent: FacebookBot
+Disallow: /
+
+# Google: Bard and Vertex AI generative APIs
+User-agent: Google-Extended
+Disallow: /
+
+# ImagesiftBot: associated with a company that produces models for image generation
+User-agent: ImagesiftBot
+Disallow: /
+
+# Meta
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+# Omgilibot/webz.io: sells data for training LLMs
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+# OpenAI Search
+User-agent: OAI-SearchBot
+Disallow: /
+
+# Perplexity AI
+User-agent: PerplexityBot
+Disallow: /
+
+# SuSea
+User-agent: YouBot
+Disallow: /
+
+
+# Disable indexing of native ad images
+User-agent: Googlebot
+Disallow: /kaupalliset/*.jpg$
+Disallow: /kaupalliset/*.Jpg$
+Disallow: /kaupalliset/*.jPg$
+Disallow: /kaupalliset/*.jpG$
+Disallow: /kaupalliset/*.jPG$
+Disallow: /kaupalliset/*.JPg$
+Disallow: /kaupalliset/*.JpG$
+Disallow: /kaupalliset/*.JPG$
+Disallow: /kaupalliset/*.png$
+Disallow: /kaupalliset/*.Png$
+Disallow: /kaupalliset/*.pNg$
+Disallow: /kaupalliset/*.pnG$
+Disallow: /kaupalliset/*.pNG$
+Disallow: /kaupalliset/*.PNg$
+Disallow: /kaupalliset/*.PnG$
+Disallow: /kaupalliset/*.PNG$
+Disallow: /kaupalliset/*.gif$
+Disallow: /kaupalliset/*.Gif$
+Disallow: /kaupalliset/*.gIf$
+Disallow: /kaupalliset/*.giF$
+Disallow: /kaupalliset/*.gIF$
+Disallow: /kaupalliset/*.GIf$
+Disallow: /kaupalliset/*.GiF$
+Disallow: /kaupalliset/*.GIF$
+
+# Sitemap
+Sitemap: https://www.lansivayla.fi/sitemap.xml

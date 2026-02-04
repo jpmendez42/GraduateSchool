@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /p/
+Disallow: /r/
+Disallow: /bin/
+Disallow: /includes/
+Disallow: /blank.html
+Disallow: /_td_api
+Disallow: /_tdpp_api
+Disallow: /_remote
+Disallow: /_multiremote
+Disallow: /_tdhl_api
+Disallow: /sdarla
+Disallow: /digest
+Disallow: /fpjs
+Disallow: /myjs
+Disallow: /tdv2_fp
+Disallow: /tdv2_mtls_fp

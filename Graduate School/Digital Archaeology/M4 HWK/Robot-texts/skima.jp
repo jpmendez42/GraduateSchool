@@ -1,0 +1,29 @@
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: DotBot
+Disallow: /
+
+User-agent: bingbot
+Crawl-Delay: 60
+
+User-Agent: MegaIndex.ru
+Disallow: /
+
+User-Agent: BLEXBot
+Disallow: /
+
+User-Agent: PaperLiBot
+Disallow: /
+
+User-Agent: Yak
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: YandexBot
+Disallow: /

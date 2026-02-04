@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-content/cache
+Disallow: /wp-json/
+Disallow: /search/
+Disallow: /author/
+Disallow: /*/page/ 
+Disallow: /users/ 
+Disallow: */trackback
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /*?
+Disallow: /visit/
+Disallow: /wp-login
+Disallow: /?s=
+Allow: /wp-includes/*.css
+Allow: /wp-includes/*.js
+Allow: /wp-content/plugins/*.css
+Allow: /wp-content/plugins/*.js
+Allow: /*.css
+Allow: /*.js
+
+Sitemap: https://mfo-zaim.com/sitemap_index.xml

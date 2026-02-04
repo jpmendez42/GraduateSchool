@@ -1,0 +1,27 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin/
+Disallow: /account/login/
+Disallow: /account/register/
+
+Disallow: /kit/report/
+Disallow: /pro/report/
+Disallow: /partner/report/
+Disallow: /partner/gateway/
+Disallow: /report/
+Disallow: /report/loading
+Disallow: /report/report
+Disallow: /report/import
+Disallow: /report/share
+Disallow: /report/error
+Disallow: /report/unavailable
+Disallow: /report/unauthorized
+Disallow: /report/expired
+Disallow: /report/demo
+Disallow: /report/webhook
+Disallow: /report/redirect/
+Disallow: /report/ajax/h/
+Disallow: /report/ajax/s
+Disallow: /report/ajax/c
+Disallow: /report/ajax/zfe/

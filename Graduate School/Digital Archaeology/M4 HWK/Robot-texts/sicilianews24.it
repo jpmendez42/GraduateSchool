@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /tag
+Disallow: /cgi-bin
+Allow: /wp-admin/admin-ajax.php
+Disallow:
+User-agent: psbot
+Disallow: /
+User-agent: TurnitinBot
+Disallow: /
+User-agent: NPBot-1/2.0
+Disallow: /
+User-agent: NPBot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: / 
+User-agent: SemrushBot
+Disallow: / 
+User-agent: SemrushBot-SA
+Disallow: /
+User-agent: grapeshot
+Disallow: /
+Crawl-delay: 5
+Disallow: https://sicilianews24.it/usura-bancaria-condannato-lex-direttore-di-banca-nuova-maiolini-253682.html
+Disallow: https://sicilianews24.it/scandalo-alla-curia-di-trapani-11-indagati-1249.html
+Disallow: https://sicilianews24.it/prostituzione-patteggiamento-per-lex-vigilessa-a-luci-rosse-263638.html
+
+Sitemap: https://sicilianews24.it/sitemap_index.xml

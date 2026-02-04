@@ -1,0 +1,11 @@
+User-Agent: *
+Allow: /
+Disallow: /backend/
+Sitemap: https://www.stol.it/sitemap.xml
+
+User-Agent: grapeshot
+Disallow:
+
+
+User-Agent: GPTBot
+Disallow: /

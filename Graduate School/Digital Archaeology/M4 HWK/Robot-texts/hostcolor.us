@@ -1,0 +1,22 @@
+# robots.txt for https://www.hostcolor.com/
+# Last updated 29 June 2018
+#
+# This file is a kind request to robots and search engines not to crawl and index certain parts of Host Color (HC) website.
+
+sitemap: https://www.hostcolor.com/sitemap.xml
+
+User-agent: *
+
+# Directories
+User-agent: Googlebot
+Disallow: /bandwidth-test/
+Disallow: /fonts/
+Disallow: /accounts/
+
+# Web Pages
+User-agent: Googlebot
+Disallow: /403.shtml
+Disallow: /404.shtml
+Disallow: /500.shtml
+Disallow: /login-register.html
+Disallow: /account-login.html

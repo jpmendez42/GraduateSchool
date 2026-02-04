@@ -1,0 +1,4 @@
+user-agent: *
+Disallow: /bah-home/
+Disallow: /get-certificate/
+Host: https://www.cybrary.it

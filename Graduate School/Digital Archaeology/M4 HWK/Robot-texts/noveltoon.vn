@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /index/login
+Disallow: /site/login
+Disallow: /site/register
+Disallow: /Statistic
+Disallow: /dev
+Disallow: /documents
+Disallow: /api
+Disallow: /cn
+Disallow: /ko
+Disallow: /*/error/404
+Disallow: / https://oppo.noveltoon.mobi
+Disallow: / https://shopline.noveltoon.mobi
+Disallow: / https://novel.itoon.org

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /history
+Disallow: /my-list
+Disallow: /profile
+
+Sitemap: https://kaa.to/sitemap/index.xml

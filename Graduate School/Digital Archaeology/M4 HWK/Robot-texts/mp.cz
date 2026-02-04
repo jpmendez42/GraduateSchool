@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: *qw=0
+Disallow: =*,*
+Disallow: *?sort=
+Disallow: *?price
+Disallow: *?tech_info=displej-rozliseni
+Disallow: *?tech_info=operacni-pamet-ram
+Disallow: *?tech_info=zvysena-odolnos
+Disallow: *?tech_info=rozliseni-fotoaparatu
+Disallow: /vyhledat
+Disallow: /kosik
+
+Sitemap: https://www.mp.cz/sitemap.xml

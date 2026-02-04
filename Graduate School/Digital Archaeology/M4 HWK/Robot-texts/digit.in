@@ -1,0 +1,44 @@
+User-agent: *
+Allow: /
+Allow: /news/tvs/
+Allow: /features/tvs/
+Allow: /reviews/tvs/
+Allow: /top-products/tvs/
+Allow: /reviews/pc-components/
+Allow: /top-products/pc-components/
+Disallow: /tv/
+Disallow: /tvs/
+Disallow: /computer-processors/
+Disallow: /internal-hard-drives/
+Disallow: /computer-ram/
+Disallow: /computer-cabinets/
+Disallow: /computer-motherboards/
+Disallow: /computer-graphic-cards/
+Disallow: /internal-optical-drives/
+Disallow: /computer-psu/
+Disallow: /laptops/compare/
+Disallow: /mobiles/compare/
+Disallow: /amazon/
+Disallow: /search/
+Disallow: /wp-login.php
+Disallow: /wp-admin/*
+Disallow: /wp-cron.php
+Disallow: /wp-trackback.php
+Disallow: /wp-signup.php
+#Disallow: */search?keyword=
+
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.digit.in/google-sitemap.xml
+Sitemap: https://www.digit.in/sitemaps/news-sitemap.xml
+Sitemap: https://www.digit.in/sitemaps/sitemap-reviews-index.xml
+Sitemap: https://www.digit.in/sitemaps/sitemap-product-index.xml
+Sitemap: https://www.digit.in/sitemaps/sitemap-brand-index.xml
+Sitemap: https://www.digit.in/sitemaps/image-sitemap-index.xml
+Sitemap: https://www.digit.in/bingesitemaps/sitemap-digit-binge-index.xml
+Sitemap: https://www.digit.in/rechargesitemaps/mobile-recharge-plans-sitemap.xml
+Sitemap: https://www.digit.in/goldsitemap/sitemap-gold-rate.xml
+
+#updated On 10-10-25

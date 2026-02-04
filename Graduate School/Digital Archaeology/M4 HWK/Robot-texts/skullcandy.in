@@ -1,0 +1,35 @@
+# Robots.txt file for Skullcandy India
+
+# Allow homepage and key public pages
+Allow: /
+Allow: /product
+Allow: /collection
+Allow: /collection/
+Allow: /shop/
+Allow: /shop
+
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: *
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /my-account/
+Disallow: /my-account/orders/
+Disallow: /my-account/account-setting/
+Disallow: /my-account/reset-password/
+Disallow: /orderlookup/
+Disallow: /bulkorder/
+Disallow: /payment-and-confirmation/
+Disallow: /support/
+Disallow: /product-help/
+
+
+
+# Sitemap
+Sitemap: https://www.skullcandy.in/sitemap.xml

@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /checkout
+Disallow: /customer/
+Disallow: /cart/
+Disallow: /wishlist/
+Disallow: /contact/
+Disallow: /comparison/
+Disallow: /hornbach/cms/
+
+
+User-agent: SemrushBot
+Disallow: /
+
+# comScore: (https://www.comscore.com/Web-Crawler)
+User-agent: proximic
+Disallow: /
+
+User-agent: BLEXbot
+Disallow: /
+
+Sitemap: https://www.hornbach.se/sitemap/sitemap.xml

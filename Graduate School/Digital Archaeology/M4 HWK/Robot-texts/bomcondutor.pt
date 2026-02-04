@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /perfil/
+Disallow: /testes/
+Disallow: /testes
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: http://www.bomcondutor.pt/sitemap.xml

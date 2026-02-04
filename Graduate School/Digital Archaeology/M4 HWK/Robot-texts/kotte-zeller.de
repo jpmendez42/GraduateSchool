@@ -1,0 +1,122 @@
+User-agent: *
+Disallow: /Ctx=
+Disallow: /service$
+Disallow: /softair-shop?d=1&tpl=ws_start.htm
+Disallow: /websale8/
+Disallow: /ws_start_top.htm
+Disallow: /*&ref=proms
+Disallow: /*?ref=proms
+Disallow: /*&ref=softairdiscount
+Disallow: /*?ref=softairdiscount
+Disallow: /*&ref=haupt*
+Disallow: /*?ref=haupt*
+Disallow: /*&ref=kugelshop24
+Disallow: /*?ref=kugelshop24
+Disallow: /*&ref=combat68
+Disallow: /*?ref=combat68
+Disallow: /*&ref=army-trendshop
+Disallow: /*?ref=army-trendshop
+Disallow: /*&ref=*
+Disallow: /?ref=*
+Disallow: /?ref=proms
+Disallow: /*?ref=haupt*
+Disallow: /*?ref=nosto*
+Disallow: /?nosto*
+Disallow: /?ref=nosto*
+Disallow: /*?factfinder*
+Disallow: /*?ref=factfinder*
+Disallow: /?factfinder*
+Disallow: /?ref=factfinder*
+Disallow: /*?findologic*
+Disallow: /*?ref=findologic*
+Disallow: /?findologic*
+Disallow: /?ref=findologic*
+Disallow: /&wstimestamp=
+Disallow: /&wsipaddress=84.137.79.146
+Disallow: /&wssessionid=
+Disallow: /&act=load_tpl&tpl=01-aa/ws_category_endlosspalte.htm
+Disallow: /&act=load_tpl&tpl=01-aa/ws_category_endlosliste.htm
+Disallow: /&act=load_tpl&tpl=01-aa/ws_search_findologic.htm
+Disallow: /&act=load_tpl&tpl=01-aa/ws_product_ab.htm
+Disallow: /&mallid=
+Disallow: /cgi/wsaffil/
+Disallow: /cgi/wsaffil
+Disallow: /cgi/wsaffil/wsaffil.cgi
+Disallow: /inquiry/
+Disallow: /images/
+Disallow: /design/
+Disallow: /newsletter/
+Disallow: /wostbrock/
+Disallow: /banners/
+Disallow: /cgi/wsaffil/wsaffil.cgi?act=callshop&shopid=kotte-zeller-shop&
+Disallow: /&design-ini=
+Disallow: /&product_item=nameindex.htm
+Disallow: /shop.htm
+Disallow: /&fp1=
+Disallow: /&dp1=
+Disallow: /subshopid=04-aa
+Disallow: /subshopid=01-aa
+Disallow: /=happyhour
+Disallow: /test=
+Disallow: /s_shop_old
+Disallow: /s_shop_backup_altes_Design
+Disallow: /s_shop_backup_altes_Design/
+Allow: /*&ref=froogle
+Allow: /*&ref=PLA
+Allow: /*&ref=pla
+Allow: /*?ref=froogle
+Allow: /*?ref=PLA
+Allow: /*?ref=pla
+#Allow: /$WS/kotte-zeller-shop/websale8_shop-kotte-zeller-shop/produkte/medien/bilder/
+
+
+# [DES-7388]
+Allow: /websale8/$
+Disallow: /*act=glossary_index*
+Disallow: /*act=search*
+Disallow: /?type=LoginUser*
+Disallow: /?type=loginUser*
+Disallow: /?type=RequestPW$
+Disallow: /agb
+Disallow: /altersnachweis
+Disallow: /auszeichnungen
+Disallow: /barrierefreiheit
+Disallow: /datenschutz
+Disallow: /impressum
+Disallow: /info_luftgewehr
+Disallow: /info_messer
+Disallow: /info_paintball
+Disallow: /info_schreckschuss
+Disallow: /info_softair
+Disallow: /international_orders
+Disallow: /jobs
+Disallow: /kontakt_themen
+Disallow: /ladengeschaeft
+Disallow: /marken_hersteller
+Disallow: /ssl
+Disallow: /tpl_jobs_print2-htm.htm*
+Disallow: /ueber_uns
+Disallow: /versandkosten
+Disallow: /weee-und-batterie-recycling
+Disallow: /widerruf
+Disallow: /widerrufsformular
+Disallow: /zahlungsarten
+Disallow: /zahlungsarten-uebersicht
+# [/DES-7388]
+
+
+User-agent: twiceler
+Disallow: /
+
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+
+User-agent: MJ12bot
+Disallow: /
+
+
+User-agent: Googlebot-image
+Disallow:
+Sitemap: https://www.kotte-zeller.de/toprank-sitemap_index_01-aa.xml

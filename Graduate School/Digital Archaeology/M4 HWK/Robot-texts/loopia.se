@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /closed/
+Disallow: /sitebuilder?action=redirect
+Disallow: /bestall-new/
+Disallow: /loggain/
+Disallow: /login/
+Disallow: /logginn/
+Disallow: /prijavljivanje/

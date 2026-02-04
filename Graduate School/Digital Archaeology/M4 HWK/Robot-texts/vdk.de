@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /nDisallow: /*?
+Disallow: /typo3/
+
+Crawl-delay: 30
+Sitemap: https://www.vdk.de/sitemap.xml

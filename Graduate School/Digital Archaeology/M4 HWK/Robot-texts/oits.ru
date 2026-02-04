@@ -1,0 +1,9 @@
+Sitemap: https://oits.ru/sitemap_index.xml
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/wphb-cache/
+Disallow: /wp-content/wphb-logs/
+Disallow: /152fz.html

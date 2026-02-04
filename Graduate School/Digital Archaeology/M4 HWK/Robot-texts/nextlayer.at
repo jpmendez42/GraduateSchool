@@ -1,0 +1,59 @@
+User-agent: *
+
+# Allow bot to enter
+Allow: /
+
+Allow: /fileadmin/*
+
+# Only allow URLs generated with RealURL
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+# L=0 is the default language
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+# Should always be protected (.htaccess)
+Disallow: /*/Private/*
+Disallow: /fileadmin/templates/*
+Disallow: /*/Configuration/*
+
+Allow: /fileadmin/templates/*/Public/*
+
+# typeNum = 98 is usually the print version.
+Disallow: /*?type=98*
+Disallow: /*&type=98*
+
+Disallow: /typo3*
+
+Allow: /typo3temp/*.css$
+Allow: /typo3temp/*.css.*.gzip$
+Allow: /typo3temp/*.js$
+Allow: /typo3temp/*.js.*.gzip$
+Allow: /typo3temp/*.jpg$
+Allow: /typo3temp/*.gif$
+Allow: /typo3temp/*.png$
+Allow: /typo3temp/*.svg$
+
+Allow: /typo3/*.css$
+Allow: /typo3/*.css.*.gzip$
+Allow: /typo3/*.js$
+Allow: /typo3/*.js.*.gzip$
+Allow: /typo3/*.jpg$
+Allow: /typo3/*.gif$
+Allow: /typo3/*.png$
+Allow: /typo3/*.svg$
+
+# allow public folders of extensions
+Allow: /typo3conf/ext/*/Public/*
+
+Disallow: *.sql
+Disallow: *.sql.gz
+
+Disallow: /*?type=201*
+Disallow: *nc/ajax-comparison/*
+Disallow: *?cHash*
+Disallow: *___COUNTRY___*
+Disallow: *?tx_powermail_pi1*
+Sitemap: https://www.nextlayer.at/sitemap.xml
+Sitemap: https://www.nextlayer.at/en/sitemap.xml

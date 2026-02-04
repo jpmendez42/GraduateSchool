@@ -1,0 +1,16 @@
+Sitemap: http://www.ladn.eu/sitemap_index.xml
+Sitemap: https://www.ladn.eu/sitemap_google_actu.xml
+
+# global
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /xmlrpc.php
+Disallow: /wp-admin/
+Disallow: /pages-abonnement/
+Allow: /wp-admin/admin-ajax.php
+
+# robots IA
+#User-agent: ChatGPT-User
+#Disallow: /
+#User-agent: CCBot
+#Disallow: /

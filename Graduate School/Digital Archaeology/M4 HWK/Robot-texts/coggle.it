@@ -1,0 +1,12 @@
+Sitemap: https://coggle.it/sitemap.xml
+User-agent: *
+Disallow: /diagrams/accept/
+Disallow: /organisations/accept/
+Disallow: /folders/accept/
+Disallow: /auth/
+Disallow: /dialog/
+Disallow: /verify
+Disallow: *share/twitter$
+Disallow: *share/facebook$
+
+

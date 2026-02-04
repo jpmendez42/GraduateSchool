@@ -1,0 +1,1196 @@
+<!DOCTYPE html>
+<html class="no-touch" lang="fi" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="pingback" href="https://www.io-tech.fi/xmlrpc.php">
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v23.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>io-tech.fi - Suomalainen tietotekniikkasivusto</title>
+	<meta name="description" content="Suomen suurin ja aktiivisin tietotekniikkasivusto. Uutiset, artikkelit ja keskustelufoorumi." />
+	<link rel="canonical" href="https://www.io-tech.fi/" />
+	<meta property="og:locale" content="fi_FI" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="io-tech.fi - Suomalainen tietotekniikkasivusto" />
+	<meta property="og:description" content="Suomen suurin ja aktiivisin tietotekniikkasivusto. Uutiset, artikkelit ja keskustelufoorumi." />
+	<meta property="og:url" content="https://www.io-tech.fi/" />
+	<meta property="og:site_name" content="io-tech.fi" />
+	<meta property="article:publisher" content="https://www.facebook.com/iotechfi/" />
+	<meta property="article:modified_time" content="2023-11-16T16:53:34+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@iotechfi" />
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel="alternate" type="application/rss+xml" title="io-tech.fi &raquo; syöte" href="https://www.io-tech.fi/feed/" />
+<link rel="alternate" type="application/rss+xml" title="io-tech.fi &raquo; kommenttien syöte" href="https://www.io-tech.fi/comments/feed/" />
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.io-tech.fi\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.7"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.io-tech.fi/wp-includes/css/dist/block-library/style.min.css?ver=6.4.7' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='XFWP-css' href='https://www.io-tech.fi/wp-content/plugins/XFWP/assets/XFWP.css?ver=25080629' type='text/css' media='all' />
+<link rel='stylesheet' id='uncodefont-google-css' href='//fonts.googleapis.com/css?family=Dosis%3A200%2C300%2Cregular%2C500%2C600%2C700%2C800%7COswald%3A300%2Cregular%2C700%7CRoboto%3A100%2C100italic%2C300%2C300italic%2Cregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C900%2C900italic%7CSource+Sans+Pro%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C900%2C900italic%7CSquada+One%3Aregular&#038;subset=latin%2Clatin-ext%2Cvietnamese%2Cgreek%2Ccyrillic-ext%2Ccyrillic%2Cgreek-ext&#038;ver=2.8.10' type='text/css' media='all' />
+<link rel='stylesheet' id='uncode-style-css' href='https://www.io-tech.fi/wp-content/themes/uncode/library/css/style.css?ver=1817930187' type='text/css' media='all' />
+<style id='uncode-style-inline-css' type='text/css'>
+
+@media (max-width: 959px) { .navbar-brand > * { height: 20px !important;}}
+@media (min-width: 960px) { .limit-width { max-width: 1284px; margin: auto;}}
+.menu-primary ul.menu-smart > li > a, .menu-primary ul.menu-smart li.dropdown > a, .menu-primary ul.menu-smart li.mega-menu > a, .vmenu-container ul.menu-smart > li > a, .vmenu-container ul.menu-smart li.dropdown > a { text-transform: uppercase; }
+#changer-back-color { transition: background-color 1000ms cubic-bezier(0.25, 1, 0.5, 1) !important; } #changer-back-color > div { transition: opacity 1000ms cubic-bezier(0.25, 1, 0.5, 1) !important; } body.bg-changer-init.disable-hover .main-wrapper .style-light,  body.bg-changer-init.disable-hover .main-wrapper .style-light h1,  body.bg-changer-init.disable-hover .main-wrapper .style-light h2, body.bg-changer-init.disable-hover .main-wrapper .style-light h3, body.bg-changer-init.disable-hover .main-wrapper .style-light h4, body.bg-changer-init.disable-hover .main-wrapper .style-light h5, body.bg-changer-init.disable-hover .main-wrapper .style-light h6, body.bg-changer-init.disable-hover .main-wrapper .style-light a, body.bg-changer-init.disable-hover .main-wrapper .style-dark, body.bg-changer-init.disable-hover .main-wrapper .style-dark h1, body.bg-changer-init.disable-hover .main-wrapper .style-dark h2, body.bg-changer-init.disable-hover .main-wrapper .style-dark h3, body.bg-changer-init.disable-hover .main-wrapper .style-dark h4, body.bg-changer-init.disable-hover .main-wrapper .style-dark h5, body.bg-changer-init.disable-hover .main-wrapper .style-dark h6, body.bg-changer-init.disable-hover .main-wrapper .style-dark a { transition: color 1000ms cubic-bezier(0.25, 1, 0.5, 1) !important; }
+</style>
+<link rel='stylesheet' id='uncode-custom-style-css' href='https://www.io-tech.fi/wp-content/themes/uncode/library/css/style-custom.css?ver=1075840890' type='text/css' media='all' />
+<link rel='stylesheet' id='child-style-css' href='https://www.io-tech.fi/wp-content/themes/io-tech/style.css?ver=1817930187' type='text/css' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://www.io-tech.fi/wp-content/plugins/tablepress/css/build/default.css?ver=3.1.3' type='text/css' media='all' />
+<link rel='stylesheet' id='uncode-icons-css' href='https://www.io-tech.fi/wp-content/themes/uncode/library/css/uncode-icons.css?ver=1075840890' type='text/css' media='all' />
+<link rel='stylesheet' id='timed-content-css-css' href='https://www.io-tech.fi/wp-content/plugins/timed-content/css/timed-content.css?ver=2.95' type='text/css' media='all' />
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/plugins/wp-views/vendor/toolset/common-es/public/toolset-common-es-frontend.js?ver=175000" id="toolset-common-es-frontend-js"></script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/jq-sticky-anything.min.js?ver=2.1.1" id="stickyAnythingLib-js"></script>
+<script type="text/javascript" src="/wp-content/themes/uncode/library/js/ai-uncode.js" id="uncodeAI" data-home="/" data-path="/" data-breakpoints-images="258,516,720,1032,1440,2064,2880" id="ai-uncode-js"></script>
+<script type="text/javascript" id="uncode-init-js-extra">
+/* <![CDATA[ */
+var SiteParameters = {"days":"days","hours":"hours","minutes":"minutes","seconds":"seconds","constant_scroll":"off","scroll_speed":"1000","parallax_factor":"0.25","loading":"Loading\u2026","slide_name":"slide","slide_footer":"footer","ajax_url":"https:\/\/www.io-tech.fi\/wp-admin\/admin-ajax.php","nonce_adaptive_images":"f8a9b03c06","nonce_srcset_async":"434729446e","enable_debug":"","block_mobile_videos":"","is_frontend_editor":"","main_width":["1280","px"],"mobile_parallax_allowed":"","listen_for_screen_update":"1","wireframes_plugin_active":"","sticky_elements":"off","resize_quality":"90","register_metadata":"","bg_changer_time":"1000","update_wc_fragments":"1","optimize_shortpixel_image":"","menu_mobile_offcanvas_gap":"45","custom_cursor_selector":"[href], .trigger-overlay, .owl-next, .owl-prev, .owl-dot, input[type=\"submit\"], input[type=\"checkbox\"], button[type=\"submit\"], a[class^=\"ilightbox\"], .ilightbox-thumbnail, .ilightbox-prev, .ilightbox-next, .overlay-close, .unmodal-close, .qty-inset > span, .share-button li, .uncode-post-titles .tmb.tmb-click-area, .btn-link, .tmb-click-row .t-inside, .lg-outer button, .lg-thumb img, a[data-lbox], .uncode-close-offcanvas-overlay","mobile_parallax_animation":"","lbox_enhanced":"","native_media_player":"1","vimeoPlayerParams":"?autoplay=0","ajax_filter_key_search":"key","ajax_filter_key_unfilter":"unfilter","index_pagination_disable_scroll":"","index_pagination_scroll_to":"","uncode_wc_popup_cart_qty":"","uncode_adaptive":"1","ai_breakpoints":"258,516,720,1032,1440,2064,2880"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/themes/uncode/library/js/init.js?ver=1075840890" id="uncode-init-js"></script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/plugins/timed-content/js/timed-content.js?ver=2.95" id="timed-content_js-js"></script>
+<script></script><link rel="https://api.w.org/" href="https://www.io-tech.fi/wp-json/" /><link rel="alternate" type="application/json" href="https://www.io-tech.fi/wp-json/wp/v2/pages/65" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.io-tech.fi/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.4.7" />
+<link rel='shortlink' href='https://www.io-tech.fi/' />
+<link rel="alternate" type="application/json+oembed" href="https://www.io-tech.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.io-tech.fi%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.io-tech.fi/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.io-tech.fi%2F&#038;format=xml" />
+<meta name="generator" content="Site Kit by Google 1.158.0" /> <script> window.addEventListener("load",function(){ var c={script:false,link:false}; function ls(s) { if(!['script','link'].includes(s)||c[s]){return;}c[s]=true; var d=document,f=d.getElementsByTagName(s)[0],j=d.createElement(s); if(s==='script'){j.async=true;j.src='https://www.io-tech.fi/wp-content/plugins/wp-views/vendor/toolset/blocks/public/js/frontend.js?v=1.6.16';}else{ j.rel='stylesheet';j.href='https://www.io-tech.fi/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css?v=1.6.16';} f.parentNode.insertBefore(j, f); }; function ex(){ls('script');ls('link')} window.addEventListener("scroll", ex, {once: true}); if (('IntersectionObserver' in window) && ('IntersectionObserverEntry' in window) && ('intersectionRatio' in window.IntersectionObserverEntry.prototype)) { var i = 0, fb = document.querySelectorAll("[class^='tb-']"), o = new IntersectionObserver(es => { es.forEach(e => { o.unobserve(e.target); if (e.intersectionRatio > 0) { ex();o.disconnect();}else{ i++;if(fb.length>i){o.observe(fb[i])}} }) }); if (fb.length) { o.observe(fb[i]) } } }) </script>
+	<noscript>
+		<link rel="stylesheet" href="https://www.io-tech.fi/wp-content/plugins/wp-views/vendor/toolset/blocks/public/css/style.css">
+	</noscript>      <meta name="onesignal" content="wordpress-plugin"/>
+            <script>
+
+      window.OneSignalDeferred = window.OneSignalDeferred || [];
+
+      OneSignalDeferred.push(function(OneSignal) {
+        var oneSignal_options = {};
+        window._oneSignalInitOptions = oneSignal_options;
+
+        oneSignal_options['serviceWorkerParam'] = { scope: '/' };
+oneSignal_options['serviceWorkerPath'] = 'OneSignalSDKWorker.js.php';
+
+        OneSignal.Notifications.setDefaultUrl("https://www.io-tech.fi");
+
+        oneSignal_options['wordpress'] = true;
+oneSignal_options['appId'] = 'dc4fe4d3-8f97-4b21-8424-4b3bee0faef8';
+oneSignal_options['allowLocalhostAsSecureOrigin'] = true;
+oneSignal_options['welcomeNotification'] = { };
+oneSignal_options['welcomeNotification']['title'] = "io-tech.fi";
+oneSignal_options['welcomeNotification']['message'] = "Kiitos, kun tilasit ilmoitukset!";
+oneSignal_options['path'] = "https://www.io-tech.fi/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";
+oneSignal_options['safari_web_id'] = "web.onesignal.auto.5093406a-927f-4c57-a877-608b6718a7cc";
+oneSignal_options['persistNotification'] = false;
+oneSignal_options['promptOptions'] = { };
+oneSignal_options['promptOptions']['actionMessage'] = "Haluatko ilmoituksen, kun julkaisemme uuden uutisen tai artikkelin?";
+oneSignal_options['promptOptions']['acceptButtonText'] = "Kyllä";
+oneSignal_options['promptOptions']['cancelButtonText'] = "Ei kiitos";
+oneSignal_options['promptOptions']['siteName'] = "https://io-tech.fi";
+              OneSignal.init(window._oneSignalInitOptions);
+              OneSignal.Slidedown.promptPush()      });
+
+      function documentInitOneSignal() {
+        var oneSignal_elements = document.getElementsByClassName("OneSignal-prompt");
+
+        var oneSignalLinkClickHandler = function(event) { OneSignal.Notifications.requestPermission(); event.preventDefault(); };        for(var i = 0; i < oneSignal_elements.length; i++)
+          oneSignal_elements[i].addEventListener('click', oneSignalLinkClickHandler, false);
+      }
+
+      if (document.readyState === 'complete') {
+           documentInitOneSignal();
+      }
+      else {
+           window.addEventListener("load", function(event){
+               documentInitOneSignal();
+          });
+      }
+    </script>
+<link rel="icon" href="https://www.io-tech.fi/wp-content/uploads/2016/11/cropped-favicon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.io-tech.fi/wp-content/uploads/2016/11/cropped-favicon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.io-tech.fi/wp-content/uploads/2016/11/cropped-favicon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.io-tech.fi/wp-content/uploads/2016/11/cropped-favicon-270x270.png" />
+		<style type="text/css" id="wp-custom-css">
+			.filtteri { display: none !important; }
+.view-toggle-element {padding-top: 15px;}
+.post-share { display: none !important; }
+
+.otsikko {
+  font-family: Oswald;
+  font-weight: 500;
+  letter-spacing: .05em;
+  text-transform: uppercase !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  color: #4A899F !important;
+}
+
+.uutinen h2 {
+	margin: 25px 0 15px;
+}		</style>
+		<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
+<body class="home page-template-default page page-id-65  style-color-gyho-bg cookies-not-set group-blog hormenu-position-left hmenu hmenu-position-left header-full-width main-center-align menu-mobile-default mobile-parallax-not-allowed ilb-no-bounce unreg qw-body-scroll-disabled no-qty-fx wpb-js-composer js-comp-ver-8.5 vc_responsive" data-border="0">
+		<div id="vh_layout_help"></div><div class="body-borders" data-border="0"><div class="top-border body-border-shadow"></div><div class="right-border body-border-shadow"></div><div class="bottom-border body-border-shadow"></div><div class="left-border body-border-shadow"></div><div class="top-border style-light-bg"></div><div class="right-border style-light-bg"></div><div class="bottom-border style-light-bg"></div><div class="left-border style-light-bg"></div></div>	<div class="box-wrapper">
+		<div class="box-container">
+			<div id="dremiumi">
+<ins data-revive-zoneid="1" data-revive-id="c1199256dc7f5c390b1aeeaa378b96c2"></ins>
+<script async src="//www.io-tech.fi/mns/www/dvy/asyncjss.php"></script>
+			</div>
+		<script type="text/javascript">UNCODE.initBox();</script>
+		<div class="menu-wrapper">
+													
+													<header id="masthead" class="navbar menu-primary menu-dark submenu-light style-dark-original menu-with-logo">
+														<div class="menu-container style-color-dfgh-bg menu-borders">
+															<div class="row-menu limit-width">
+																<div class="row-menu-inner">
+																	<div id="logo-container-mobile" class="col-lg-0 logo-container middle">
+																		<div id="main-logo" class="navbar-header style-dark">
+																			<a href="https://www.io-tech.fi/" class="navbar-brand" data-minheight="20"><div class="logo-image main-logo logo-skinnable" data-maxheight="20" style="height: 20px;"><img decoding="async" src="https://www.io-tech.fi/wp-content/uploads/2016/11/iotech-logo.svg" alt="logo" width="120" height="20" class="img-responsive" /></div></a>
+																		</div>
+																		<div class="mmb-container"><div class="mobile-additional-icons"></div><div class="mobile-menu-button mobile-menu-button-dark lines-button"><span class="lines"><span></span></span></div></div>
+																	</div>
+																	<div class="col-lg-12 main-menu-container middle">
+																		<div class="menu-horizontal">
+																			<div class="menu-horizontal-inner">
+																				<div class="nav navbar-nav navbar-main navbar-nav-first"><ul id="menu-menu" class="menu-primary-inner menu-smart sm"><li id="menu-item-2584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-2584 dropdown menu-item-link"><a title="Uutiset" href="https://www.io-tech.fi/uutiset/" data-toggle="dropdown" class="dropdown-toggle" data-type="title">Uutiset<i class="fa fa-angle-down fa-dropdown"></i></a>
+<ul role="menu" class="drop-menu">
+	<li id="menu-item-23256" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-23256"><a title="Lyhyesti" href="https://bbs.io-tech.fi/forums/uutisia-lyhyesti.84/">Lyhyesti<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+	<li id="menu-item-13971" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13971"><a title="Tietotekniikka" href="https://www.io-tech.fi/category/tietotekniikka/">Tietotekniikka<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+	<li id="menu-item-13972" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13972"><a title="Mobiili" href="https://www.io-tech.fi/category/mobiili/">Mobiili<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+</ul>
+</li>
+<li id="menu-item-434" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-434 dropdown menu-item-link"><a title="Artikkelit" href="https://www.io-tech.fi/artikkelit/" data-toggle="dropdown" class="dropdown-toggle" data-type="title">Artikkelit<i class="fa fa-angle-down fa-dropdown"></i></a>
+<ul role="menu" class="drop-menu">
+	<li id="menu-item-28894" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28894 dropdown"><a title="Tietotekniikka" href="https://www.io-tech.fi/category/tietotekniikka/" data-type="title">Tietotekniikka<i class="fa fa-angle-down fa-dropdown"></i></a>
+	<ul role="menu" class="drop-menu">
+		<li id="menu-item-13964" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13964"><a title="Prosessorit" href="https://www.io-tech.fi/category/artikkelit/prosessorit-artikkelit/">Prosessorit<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-13965" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13965"><a title="Näytönohjaimet" href="https://www.io-tech.fi/category/artikkelit/naytonohjaimet-artikkelit/">Näytönohjaimet<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-13966" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13966"><a title="Emolevyt" href="https://www.io-tech.fi/category/artikkelit/emolevyt/">Emolevyt<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-14086" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14086"><a title="Muistit" href="https://www.io-tech.fi/category/artikkelit/muistit/">Muistit<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-20571" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20571"><a title="SSD" href="https://www.io-tech.fi/category/artikkelit/ssd/">SSD<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-14085" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-14085"><a title="Jäähdytys" href="https://www.io-tech.fi/category/artikkelit/jaahdytys/">Jäähdytys<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-13968" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13968"><a title="Kotelot" href="https://www.io-tech.fi/category/artikkelit/kotelot/">Kotelot<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-20573" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20573"><a title="Hiiret ja näppäimistöt" href="https://www.io-tech.fi/category/artikkelit/hiiret-ja-nappaimistot/">Hiiret ja näppäimistöt<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-13969" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13969"><a title="Pelikannettavat" href="https://www.io-tech.fi/category/artikkelit/pelikannettavat/">Pelikannettavat<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-13970" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13970"><a title="Kannettavat" href="https://www.io-tech.fi/category/artikkelit/kannettavat/">Kannettavat<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-28892" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28892"><a title="Näytöt" href="https://www.io-tech.fi/category/artikkelit/naytot/">Näytöt<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-65193" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-65193"><a title="Audio" href="https://www.io-tech.fi/category/artikkelit/audio/">Audio<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-28893" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-28893"><a title="Tapahtumat" href="https://www.io-tech.fi/category/artikkelit/tapahtumat/">Tapahtumat<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+	</ul>
+</li>
+	<li id="menu-item-28896" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-28896 dropdown"><a title="Mobiili" href="https://www.io-tech.fi/category/mobiili/" data-type="title">Mobiili<i class="fa fa-angle-down fa-dropdown"></i></a>
+	<ul role="menu" class="drop-menu">
+		<li id="menu-item-13967" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13967"><a title="Älypuhelimet" href="https://www.io-tech.fi/category/artikkelit/alypuhelimet/">Älypuhelimet<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-20574" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20574"><a title="Taulutietokoneet" href="https://www.io-tech.fi/category/artikkelit/taulutietokoneet/">Taulutietokoneet<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+		<li id="menu-item-20572" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20572"><a title="Älykellot" href="https://www.io-tech.fi/category/artikkelit/alykellot/">Älykellot<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+	</ul>
+</li>
+	<li id="menu-item-23255" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-23255"><a title="Yhteistyökampanjat" href="https://www.io-tech.fi/category/artikkelit/yhteistyokampanjat/">Yhteistyökampanjat<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+</ul>
+</li>
+<li id="menu-item-55982" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55982 menu-item-link"><a title="Videot" href="https://www.io-tech.fi/tag/video/">Videot<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-63" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-63 menu-item-link"><a title="TechBBS" href="https://bbs.io-tech.fi/">TechBBS<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-5123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5123 menu-item-link"><a title="Tietoa" href="https://www.io-tech.fi/info/">Tietoa<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-64" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-64 menu-item-link"><a title="Hinta.fi" target="_blank" href="https://hinta.fi">Hinta.fi<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-105587" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-105587 menu-item-link"><a title="Kauppa" href="https://kauppa.io-tech.fi">Kauppa<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-8949" class="vaaleateema menu-item menu-item-type-custom menu-item-object-custom menu-item-8949 menu-item-link"><a title="Vaihda teema" href="https://www.io-tech.fi/?theme-switch=io-tech">Vaihda teema<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+<li id="menu-item-8952" class="tummateema menu-item menu-item-type-custom menu-item-object-custom menu-item-8952 menu-item-link"><a title="Vaihda teema" href="https://www.io-tech.fi/?theme-switch=io-tech-dark">Vaihda teema<i class="fa fa-angle-right fa-dropdown"></i></a></li>
+</ul></div><div class="uncode-close-offcanvas-mobile lines-button close navbar-mobile-el"><span class="lines"></span></div><div class="nav navbar-nav navbar-nav-last navbar-extra-icons"><ul class="menu-smart sm menu-icons menu-smart-social"><li class="menu-item-link social-icon tablet-hidden mobile-hidden social-101458"><a href="http://youtube.com/io-tech" class="social-menu-link" target="_blank"><i class="fa fa-youtube"></i></a></li><li class="menu-item-link social-icon tablet-hidden mobile-hidden social-564575"><a href="https://www.tiktok.com/@iotechfi" class="social-menu-link" target="_blank"><i class="fa fa-tiktok"></i></a></li><li class="menu-item-link search-icon style-dark dropdown "><a href="#" class="trigger-overlay search-icon" data-area="search" data-container="box-container">
+													<i class="fa fa-search3"></i><span class="desktop-hidden"><span>Haku</span></span><i class="fa fa-angle-down fa-dropdown desktop-hidden"></i>
+													</a><ul role="menu" class="drop-menu desktop-hidden">
+														<li>
+															<form class="search" method="get" action="https://www.io-tech.fi/">
+																<input type="search" class="search-field no-livesearch" placeholder="Hae sivustolta..." value="" name="s" title="Hae sivustolta..." /></form>
+														</li>
+													</ul></li></ul></div><div class="desktop-hidden menu-accordion-secondary">
+														 							</div></div>
+																		</div>
+																	</div>
+																</div>
+															</div></div>
+													</header>
+												</div>			<script type="text/javascript">UNCODE.fixMenuHeight();</script>
+			<div class="main-wrapper">
+				<div class="main-container">
+					<div class="page-wrapper">
+						<div class="sections-container">
+<div id="page-header"><div class="header-wrapper header-uncode-block">
+									<div data-parent="true" class="vc_row uusimmat-artikkelit style-color-170833-bg row-container with-parallax" id="row-unique-0"><div class="row single-top-padding single-bottom-padding single-h-padding limit-width row-parent row-header"><div class="wpb_row row-inner"><div class="wpb_column pos-top pos-center align_left column_parent col-lg-12 single-internal-gutter"><div class="uncol style-dark"  ><div class="uncoltable"><div class="uncell no-block-padding" ><div class="uncont"><div class="uncode_text_column" ><h2>Uusimmat artikkelit</h2>
+<form autocomplete="off" name="wpv-filter-120" action="/?wpv_view_count=120" method="get" class="wpv-filter-form js-wpv-filter-form js-wpv-filter-form-120 js-wpv-form-full" data-viewnumber="120" data-viewid="120" data-viewhash="eyJuYW1lIjoidXVzaW1tYXQtYXJ0aWtrZWxpdCJ9" data-viewwidgetid="0" data-orderby="" data-order="" data-orderbyas="" data-orderbysecond="" data-ordersecond="" data-parametric="{&quot;query&quot;:&quot;normal&quot;,&quot;id&quot;:&quot;120&quot;,&quot;view_id&quot;:&quot;120&quot;,&quot;widget_id&quot;:0,&quot;view_hash&quot;:&quot;120&quot;,&quot;action&quot;:&quot;\/?wpv_view_count=120&quot;,&quot;sort&quot;:{&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;},&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;,&quot;ajax_form&quot;:&quot;&quot;,&quot;ajax_results&quot;:&quot;&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;prebefore&quot;:&quot;&quot;,&quot;before&quot;:&quot;&quot;,&quot;after&quot;:&quot;&quot;,&quot;attributes&quot;:[],&quot;environment&quot;:{&quot;current_post_id&quot;:65,&quot;parent_post_id&quot;:65,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[]}},&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-attributes="[]" data-environment="{&quot;current_post_id&quot;:65,&quot;parent_post_id&quot;:65,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[]}}"><input type="hidden" class="js-wpv-dps-filter-data js-wpv-filter-data-for-this-form" data-action="/?wpv_view_count=120" data-page="1" data-ajax="disable" data-effect="fade" data-maxpages="171" data-ajaxprebefore="" data-ajaxbefore="" data-ajaxafter="" /><input class="wpv_view_count wpv_view_count-120" type="hidden" name="wpv_view_count" value="120" />
+
+</form>
+<div id="wpv-view-layout-120" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-120 wpv-pagination js-wpv-layout-has-pagination wpv-pagination-preload-images js-wpv-layout-preload-images wpv-pagination-preload-pages js-wpv-layout-preload-pages" style="visibility:hidden;" data-viewnumber="120" data-pagination="{&quot;id&quot;:&quot;120&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;ajaxed&quot;,&quot;effect&quot;:&quot;slideh&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:0,&quot;max_pages&quot;:171,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=120&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=120">
+
+<div class="artikkelit-slider">
+	
+	
+	
+			<div class="artikkeli-slide">
+	<div class="foto"><a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-17/"><img decoding="async" class="attachment-240x160 size-240x160" src="https://www.io-tech.fi/wp-content/uploads/2025/10/Apple-iPhone-17-otsikko-wpv_240x160_center_center.jpg" width="240" height="160" alt="" /></a></div>
+	<h3><a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-17/">Testissä Apple iPhone 17</a></h3>
+	<div class="infot">
+    <span class="aika">13.10.2025</span>
+  	<a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-17/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (3)</span></a>
+  </div>
+</div>
+	
+			<div class="artikkeli-slide">
+	<div class="foto"><a href="https://www.io-tech.fi/artikkelit/testissa-google-pixel-10/"><img decoding="async" class="attachment-240x160 size-240x160" src="https://www.io-tech.fi/wp-content/uploads/2025/10/pixel10-otsikko-wpv_240x160_center_center.jpg" width="240" height="160" alt="" /></a></div>
+	<h3><a href="https://www.io-tech.fi/artikkelit/testissa-google-pixel-10/">Testissä Google Pixel 10</a></h3>
+	<div class="infot">
+    <span class="aika">10.10.2025</span>
+  	<a href="https://www.io-tech.fi/artikkelit/testissa-google-pixel-10/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (20)</span></a>
+  </div>
+</div>
+	
+			<div class="artikkeli-slide">
+	<div class="foto"><a href="https://www.io-tech.fi/artikkelit/testissa-apple-airpods-pro-3-nappikuulokkeet/"><img decoding="async" class="attachment-240x160 size-240x160" src="https://www.io-tech.fi/wp-content/uploads/2025/10/Apple-AirPods-Pro-3-otsikko-wpv_240x160_center_center.jpg" width="240" height="160" alt="" /></a></div>
+	<h3><a href="https://www.io-tech.fi/artikkelit/testissa-apple-airpods-pro-3-nappikuulokkeet/">Testissä Apple AirPods Pro 3 -nappikuulokkeet</a></h3>
+	<div class="infot">
+    <span class="aika">7.10.2025</span>
+  	<a href="https://www.io-tech.fi/artikkelit/testissa-apple-airpods-pro-3-nappikuulokkeet/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (6)</span></a>
+  </div>
+</div>
+	
+			<div class="artikkeli-slide">
+	<div class="foto"><a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-air/"><img decoding="async" class="attachment-240x160 size-240x160" src="https://www.io-tech.fi/wp-content/uploads/2025/10/iPhone-Air-kuva-otsikko-wpv_240x160_center_center.jpeg" width="240" height="160" alt="" /></a></div>
+	<h3><a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-air/">Testissä Apple iPhone Air</a></h3>
+	<div class="infot">
+    <span class="aika">6.10.2025</span>
+  	<a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-air/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (86)</span></a>
+  </div>
+</div>
+	
+			<div class="artikkeli-slide">
+	<div class="foto"><a href="https://www.io-tech.fi/artikkelit/testissa-valco-nl25-nappikuulokkeet/"><img decoding="async" class="attachment-240x160 size-240x160" src="https://www.io-tech.fi/wp-content/uploads/2025/09/Valco-NL25-otsikko-1-wpv_240x160_center_center.jpg" width="240" height="160" alt="" /></a></div>
+	<h3><a href="https://www.io-tech.fi/artikkelit/testissa-valco-nl25-nappikuulokkeet/">Testissä Valco NL25 -nappikuulokkeet</a></h3>
+	<div class="infot">
+    <span class="aika">1.10.2025</span>
+  	<a href="https://www.io-tech.fi/artikkelit/testissa-valco-nl25-nappikuulokkeet/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (3)</span></a>
+  </div>
+</div>
+	
+		
+	
+	
+</div>
+</div>
+
+</div></div></div></div></div></div><script id="script-row-unique-0" data-row="script-row-unique-0" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-unique-0"));</script></div></div></div></div></div><script type="text/javascript">UNCODE.initHeader();</script><article id="post-65" class="page-body style-color-lxmt-bg post-65 page type-page status-publish hentry">
+						<div class="post-wrapper">
+							<div class="post-body"><div class="row-container">
+	        							<div class="row row-parent un-sidebar-layout no-h-padding col-no-gutter no-top-padding no-bottom-padding" style="max-width: 1284px; margin: auto;">
+													<div class="row-inner">
+														<div class="col-lg-8">
+					<div class="post-content style-light"><div data-parent="true" class="vc_row limit-width row-container" id="row-unique-1"><div class="row single-top-padding single-bottom-padding no-h-padding row-parent"><div class="wpb_row row-inner"><div class="wpb_column pos-top pos-center align_left column_parent col-lg-12 single-internal-gutter"><div class="uncol style-light"  ><div class="uncoltable"><div class="uncell no-block-padding" ><div class="uncont"><div class="uncode_text_column" ><form autocomplete="off" name="wpv-filter-116" action="/?wpv_view_count=116" method="get" class="wpv-filter-form js-wpv-filter-form js-wpv-filter-form-116 js-wpv-form-full js-wpv-dps-enabled js-wpv-ajax-results-enabled" data-viewnumber="116" data-viewid="116" data-viewhash="eyJuYW1lIjoidXV0aXNldC1ldHVzaXZ1In0=" data-viewwidgetid="0" data-orderby="" data-order="" data-orderbyas="" data-orderbysecond="" data-ordersecond="" data-parametric="{&quot;query&quot;:&quot;normal&quot;,&quot;id&quot;:&quot;116&quot;,&quot;view_id&quot;:&quot;116&quot;,&quot;widget_id&quot;:0,&quot;view_hash&quot;:&quot;116&quot;,&quot;action&quot;:&quot;\/?wpv_view_count=116&quot;,&quot;sort&quot;:{&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;},&quot;orderby&quot;:&quot;&quot;,&quot;order&quot;:&quot;&quot;,&quot;orderby_as&quot;:&quot;&quot;,&quot;orderby_second&quot;:&quot;&quot;,&quot;order_second&quot;:&quot;&quot;,&quot;ajax_form&quot;:&quot;&quot;,&quot;ajax_results&quot;:&quot;&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;prebefore&quot;:&quot;&quot;,&quot;before&quot;:&quot;&quot;,&quot;after&quot;:&quot;&quot;,&quot;attributes&quot;:[],&quot;environment&quot;:{&quot;current_post_id&quot;:65,&quot;parent_post_id&quot;:65,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[]}},&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-attributes="[]" data-environment="{&quot;current_post_id&quot;:65,&quot;parent_post_id&quot;:65,&quot;parent_term_id&quot;:0,&quot;parent_user_id&quot;:0,&quot;archive&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[]}}"><input type="hidden" class="js-wpv-dps-filter-data js-wpv-filter-data-for-this-form" data-action="/?wpv_view_count=116" data-page="1" data-ajax="enable" data-effect="fade" data-maxpages="789" data-ajaxprebefore="" data-ajaxbefore="" data-ajaxafter="" /><input class="wpv_view_count wpv_view_count-116" type="hidden" name="wpv_view_count" value="116" />
+<div class="filtteri">
+	<input id="post_category-" class="js-wpv-filter-trigger" name="wpvcategory" type="radio" value="0" checked='checked'/> <label for="post_category-" class="radios-taxonomies-title">Kaikki</label><input type="radio" id="post_category-tietotekniikka" class="js-wpv-filter-trigger" name="wpvcategory" value="tietotekniikka" /> <label for="post_category-tietotekniikka" class="radios-taxonomies-title">Tietotekniikka</label>
+<input type="radio" id="post_category-mobiili" class="js-wpv-filter-trigger" name="wpvcategory" value="mobiili" /> <label for="post_category-mobiili" class="radios-taxonomies-title">Mobiili</label>
+<input type="radio" id="post_category-mainos" class="js-wpv-filter-trigger" name="wpvcategory" value="mainos" /> <label for="post_category-mainos" class="radios-taxonomies-title">Mainos</label>
+<input type="radio" id="post_category-audio" class="js-wpv-filter-trigger" name="wpvcategory" value="audio" /> <label for="post_category-audio" class="radios-taxonomies-title">&nbsp;&nbsp;-Audio</label>
+
+	
+</div>
+</form>
+<div id="wpv-view-layout-116" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-116" data-viewnumber="116" data-pagination="{&quot;id&quot;:&quot;116&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;paged&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:0,&quot;max_pages&quot;:789,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=116&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=116">
+
+<h3 class="otsikko">Uutiset</h3> 
+	
+	
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/microsoft-windows-10n-tuki-paattyy-tanaan-14-lokakuuta-2025/">Microsoft Windows 10:n tuki päättyy tänään 14. lokakuuta 2025</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 14.10.2025 - 00:00</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/tietotekniikka/">Tietotekniikka</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/microsoft-windows-10n-tuki-paattyy-tanaan-14-lokakuuta-2025/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>Vaikka Windows 10:n tuki päättyy, voivat käyttäjät saada vielä vuoden lisäaikaa Euroopan talousalueella ilmaiseksi saataville tulevan Extended Security Updates -ohjelman avulla.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="467" src="https://www.io-tech.fi/wp-content/uploads/2023/12/windows-10-eol-patient-cartoon-20231208.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Microsoftin Windows 10 -käyttöjärjestelmän tuki päättyy tänään. Käyttöjärjestelmä julkaistiin alun perin yli 10 vuotta sitten, 29. heinäkuuta 2015, ja sen viimeinen merkittävä versiopäivitys 22H2 julkaistiin 18. lokakuuta 2022.</p>
+<p>Käytännössä Windows 10:n tuen päättyminen tarkoittaa, ettei käyttöjärjestelmälle julkaista enää tietoturva- tai muita päivityksiä. Microsoft on kuitenkin antamassa käyttäjille vielä jatkoaikaa maksullisen ESU- eli Extended Security Updates -ohjelman myötä. Kuluttajille ESU-päivityksiä on luvassa vuoden verran ja yrityksille sekä opetussektorille kolmen vuoden ajan. ESU-ohjelmaan liittyminen vaatii Microsoft-tilin, jolle on kirjauduttava vähintään kerran joka 60. päivä.</p>
+<p><iframe title="Näin voit pakottaa Windows 10:een ilmaiset tietoturvapäivitykset 13.10.2026 asti (ESU-ohjelma)" width="840" height="473" src="https://www.youtube.com/embed/4E34ML88FNo?feature=oembed&#038;width=840&#038;height=1000&#038;discover=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Vaikka ESU-ohjelma on maksullinen, saavat <a href="https://www.io-tech.fi/uutinen/windows-10n-esu-paivitykset-tulevat-eurooppaan-ilmaiseksi/">Euroopan talousalueella asuvat liittyä päivitysohjelmaan ilmaiseksi</a>. Löydät yltä videon kotimaiselta Opettajan mies -YouTube-kanavalta, jossa käydään läpi helposti, miten ohjelmaan pääsee halutessaan mukaan, vaikkei Windows 10 olisi sitä vielä tarjonnut automaattisesti. Osalle käyttäjistä mahdollisuus liittyä ohjelmaan on tullut saataville ilmaiseksi.</p>
+<p>Microsoft suosittelee luonnollisesti kaikille Windows 10:n käyttäjille päivittämistä tuettuun Windows 11 -versioon, mutta siihenkin on tullut mutkia matkalle. Yhtiön ylläpitämä asennusmedioiden luontiin tarkoitettu <a href="https://learn.microsoft.com/en-us/windows/release-health/status-windows-10-22h2#3102msgdesc" target="_blank" rel="noopener">Windows 11 Media Creation Tool sai 29. syyskuuta päivityksen</a>, jonka julkaisutiedotteessa kerrotaan, ettei sovellus toimi välttämättä oikein Windows 10 -käyttöjärjestelmällä. Väliaikaisratkaisuksi yhtiö kehottaa käyttäjiä lataamaan suoraan Windows 11:n ISO-levykuvan ja lupaa lisäksi, että työkalu korjataan tulevassa päivityksessä.</p>
+
+	</div>
+	<div class="avainsanat">
+		
+      	<a href="https://www.io-tech.fi/uutinen/microsoft-windows-10n-tuki-paattyy-tanaan-14-lokakuuta-2025/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/microsoft-windows-10n-tuki-paattyy-tanaan-14-lokakuuta-2025/"><img width="831" height="467" src="https://www.io-tech.fi/wp-content/uploads/2023/12/windows-10-eol-patient-cartoon-20231208.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/microsoft-windows-10n-tuki-paattyy-tanaan-14-lokakuuta-2025/">Microsoft Windows 10:n tuki päättyy tänään 14. lokakuuta 2025</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 14.10.2025 - 00:00</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/microsoft-windows-10n-tuki-paattyy-tanaan-14-lokakuuta-2025/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>Vaikka Windows 10:n tuki päättyy, voivat käyttäjät saada vielä vuoden lisäaikaa Euroopan talousalueella ilmaiseksi saataville tulevan Extended Security Updates -ohjelman avulla.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/microsoft-windows-10n-tuki-paattyy-tanaan-14-lokakuuta-2025/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin/">RedMagic esitteli nestejäähdytysratkaisua älypuhelimiin</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 23:00</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/neliygonen-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/">Timo Niemenmaa</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/mobiili/">Mobiili</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>Kyseessä on ensimmäinen massatuotettu nestejäähdytysratkaisu älypuhelimiin.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="413" src="https://www.io-tech.fi/wp-content/uploads/2025/10/redmagic-nestejaahdytys-otsikko-131025.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Kiinalainen RedMagic, joka valmistaa mm. mobiilipelaamiseen markkinoituja älypuhelimia, on esitellyt kotimaassaan uutta mobiililaitteiden nestejäähdytysratkaisua, joka on ensimmäinen laatuaan massatuotannossa.</p>
+<p><a href="https://www.io-tech.fi/wp-content/uploads/2025/10/redmagic-nestejaahdytys-uutiskuva-131025.png"><img decoding="async" class="alignnone size-full wp-image-112515" src="https://www.io-tech.fi/wp-content/uploads/2025/10/redmagic-nestejaahdytys-uutiskuva-131025.png" alt="" width="1280" height="732" /></a></p>
+<p>RedMagicin tuotteessa kiertää fluorattu jäähdytysneste, jonka kehutaan toimivan -40–70 celsiusasteen lämpötilahaarukassa. Valmistaja kertoo onnistuneensa tuhansien iteraatioiden jälkeen valmistamaan mikrometritason nestevirtauskanavia luotettavalla ja jatkuvalla virtauksella, jonka mahdollistaa pietsosähköilmiöön perustuva keraaminen mikropumppu. Jäähdytysratkaisun mainostetaan olevan siroudestaan huolimatta myös hyvin iskuja kestävä, mikä on tärkeää puhelimissa.</p>
+<p>Valmistaja esitteli puhelimiin myös Turbo Fan 4.0 -ilmajäähdytysratkaisua, jossa on jopa 24 000 rpm:n nopeuteen yltävä tuuletin ilmaa ohjaavaan kanavaan yhdistettynä. Turbo Fan 4.0 on myös IPX8-suojaluokiteltu. RedMagicin innovaatiot on suunnattu pelaamiseen, joka on yksi merkittävistä kuumenemista aiheuttavista aktiviteeteista puhelimella.</p>
+<p>Yhtiö kiusoitteli uusien jäähdytysratkaisujen olevan hyödynnetty tulevissa RedMagic 11 Pro -malleissa, jotka on varustettu mm. Snapdragon 8 Gen 5 -järjestelmäpiirillä ja 144 Hz:n näytöllä. Tarkkoja aikatauluja tai teknisiä yksityiskohtia ei kuitenkaan paljastettu.</p>
+<p>Lähde: Sähköpostitiedote</p>
+
+	</div>
+	<div class="avainsanat">
+		<a href="https://www.io-tech.fi/tag/redmagic/">RedMagic</a> <a href="https://www.io-tech.fi/tag/nestejaahdytys/">nestejäähdytys</a> <a href="https://www.io-tech.fi/tag/alypuhelimet/">älypuhelimet</a>
+      	<a href="https://www.io-tech.fi/uutinen/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin/"><img width="831" height="413" src="https://www.io-tech.fi/wp-content/uploads/2025/10/redmagic-nestejaahdytys-otsikko-131025.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin/">RedMagic esitteli nestejäähdytysratkaisua älypuhelimiin</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 23:00</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/neliygonen-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/">Timo Niemenmaa</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>Kyseessä on ensimmäinen massatuotettu nestejäähdytysratkaisu älypuhelimiin.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			<a href="https://www.io-tech.fi/tag/redmagic/">RedMagic</a> <a href="https://www.io-tech.fi/tag/nestejaahdytys/">nestejäähdytys</a> <a href="https://www.io-tech.fi/tag/alypuhelimet/">älypuhelimet</a>
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/brasilialaismodaaja-korjasi-geforce-rtx-5070-tin-radeon-rx-580n-piirilevya-hyodyntaen/">Brasilialaismodaaja korjasi GeForce RTX 5070 Ti:n Radeon RX 580:n piirilevyä hyödyntäen</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 22:38</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/tietotekniikka/">Tietotekniikka</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/brasilialaismodaaja-korjasi-geforce-rtx-5070-tin-radeon-rx-580n-piirilevya-hyodyntaen/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (2)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>Rikkoutuneen GeForcen piirilevyssä on virransyötössä ammottava reikä ja Radeonin GPU:sta ja muisteista riisuttua piirilevyä käytetään rikkoutuneen virransyötön ohittamiseen.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="400" src="https://www.io-tech.fi/wp-content/uploads/2025/10/nvidia-geforce-rtx-5070-ti-with-a-hole-20251013.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Brasilialainen modaaja Paolo Gomes on päässyt otsikoihin useampaan otteeseen kaksinkertaistamalla eri näytönohjainten muistikapasiteetteja onnistuneesti. Tällä kertaa hänen pöydälleen on eksynyt kuitenkin aivan toista maata oleva projekti näytönohjaimen korjauksen saralla.</p>
+<p><iframe title="RTX 5070TI COM BURACO - EXPERIENCIA MALUCA DO CANAL.  " width="840" height="473" src="https://www.youtube.com/embed/0TKTWx-EGoM?feature=oembed&#038;width=840&#038;height=1000&#038;discover=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Paolo Gomesin tuoreessa videossa korjauspajan pöydälle on löytänyt tiensä GeForce RTX 5070 Ti, jonka piirilevyssä on kirjaimellisesti reikä. Reiän syy ei ole ilmiselvä, mutta sen koko ja sijainti virransyötön keskellä varmistaa tehokkaasti näytönohjaimen toimimattomuuden.</p>
+<p>Huolimatta ammottavasta reiästä, Gomes yhdessä nimimerkki Sidnelsonin kanssa onnistuu korjaamaan näytönohjaimen varsin kekseliäällä tavalla. RTX 5070 Ti:n virransyöttö korjataan videolla ohittamalla rikkoutunut osa Radeon RX 580 -näytönohjaimen muisteista ja GPU:sta riisuttua piirilevyä hyödyntäen.</p>
+<p>Näytönohjain on operaation jälkeen toimiva, mutta sitä ei ole vielä testattu raskaammissa kuormissa. Jo kevyen kuorman kanssa virransyötön balansointi on haastavaa ja raskaammissa kuormissa se saattaisi pettää alta, eikä mahdollisia lämpöongelmiakaan voida pois sulkea. Gomes ja Sidnelson aikovat kuitenkin jatkaa projektia tavoitteenaan saada näytönohjain toimimaan vielä normaalisti kuormasta riippumatta.</p>
+<p>Lähde: <a href="https://videocardz.com/newz/burned-uut-rtx-5070-ti-with-literal-hole-brought-back-to-life-using-radeon-rx-580" target="_blank" rel="noopener">VideoCardz</a></p>
+
+	</div>
+	<div class="avainsanat">
+		<a href="https://www.io-tech.fi/tag/geforce-rtx-5070-ti/">GeForce RTX 5070 Ti</a> <a href="https://www.io-tech.fi/tag/modaus/">Modaus</a> <a href="https://www.io-tech.fi/tag/radeon-rx-580/">Radeon RX 580</a>
+      	<a href="https://www.io-tech.fi/uutinen/brasilialaismodaaja-korjasi-geforce-rtx-5070-tin-radeon-rx-580n-piirilevya-hyodyntaen/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (2)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/brasilialaismodaaja-korjasi-geforce-rtx-5070-tin-radeon-rx-580n-piirilevya-hyodyntaen/"><img width="831" height="400" src="https://www.io-tech.fi/wp-content/uploads/2025/10/nvidia-geforce-rtx-5070-ti-with-a-hole-20251013.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/brasilialaismodaaja-korjasi-geforce-rtx-5070-tin-radeon-rx-580n-piirilevya-hyodyntaen/">Brasilialaismodaaja korjasi GeForce RTX 5070 Ti:n Radeon RX 580:n piirilevyä hyödyntäen</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 22:38</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/brasilialaismodaaja-korjasi-geforce-rtx-5070-tin-radeon-rx-580n-piirilevya-hyodyntaen/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (2)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>Rikkoutuneen GeForcen piirilevyssä on virransyötössä ammottava reikä ja Radeonin GPU:sta ja muisteista riisuttua piirilevyä käytetään rikkoutuneen virransyötön ohittamiseen.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/brasilialaismodaaja-korjasi-geforce-rtx-5070-tin-radeon-rx-580n-piirilevya-hyodyntaen/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			<a href="https://www.io-tech.fi/tag/geforce-rtx-5070-ti/">GeForce RTX 5070 Ti</a> <a href="https://www.io-tech.fi/tag/modaus/">Modaus</a> <a href="https://www.io-tech.fi/tag/radeon-rx-580/">Radeon RX 580</a>
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/antec-julkaisi-uuden-p30-kotelon-rgb-valoilla-ja-ilman/">Antec julkaisi uuden P30-kotelon RGB-valoilla ja ilman</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 22:10</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/neliygonen-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/">Timo Niemenmaa</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/tietotekniikka/">Tietotekniikka</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/antec-julkaisi-uuden-p30-kotelon-rgb-valoilla-ja-ilman/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>P30 Air keskittyy ilmankiertoon ilman valoja, kun taas P30 ARGB lisää pakettiin valaistut tuulettimet.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="545" src="https://www.io-tech.fi/wp-content/uploads/2025/10/antec-p30-otsikko-131025.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Yhdysvaltalainen Antec on julkaissut uuden P30-kotelonsa, josta tulee tarjolle Air- ja ARGB-variantit. Molemmat mallit on varustettu viidellä tuulettimella, joista kolme kappaletta on valaistuja ARGB-mallissa. ARGB:n mukana tulee myös valaistuksen säätöön tarkoitettu ohjainosa, vaikka valaistusta voi toki säätää myös suoraan emolevyn liitäntöjen kautta.</p>
+<p><a href="https://www.io-tech.fi/wp-content/uploads/2025/10/antec-p30-uutiskuva-131025.png"><img decoding="async" class="alignnone size-full wp-image-112505" src="https://www.io-tech.fi/wp-content/uploads/2025/10/antec-p30-uutiskuva-131025.png" alt="" width="1280" height="872" /></a></p>
+<p>Kotelo on lasikylkeä lukuun ottamatta verhoiltu kauttaaltaan mesh-verkkopaneeleilla, jotka tehostavat ilmankiertoa, myös alaosan virtalähdekammiossa. Lisäksi etupaneelissa on puinen aksentti estetiikkaa kohentamassa. Antec ei ole vielä listannut kaikkia kotelon teknisiä tietoja, mutta kuvista päätellen etupaneelin kaksi tuuletinta ovat 140 mm:n kokoluokkaa, muiden kolmen ollessa 120 mm:n kokoisia. Myös jäähdytintukea mainostetaan monipuoliseksi 360 mm:iin saakka niin etu- kuin kattopaneeliinkin. P30 näyttää tulevan saataville vain mustana varianttina, sillä Antec ei tiedotteessaan puhunut valkoisesta mallista.</p>
+<p>P30 Air ja P30 ARGB tulevat Euroopassa myyntiin marraskuun loppupuolella 90 euron suositushintaan.</p>
+<p>Lähde: Sähköpostitiedote</p>
+
+	</div>
+	<div class="avainsanat">
+		<a href="https://www.io-tech.fi/tag/antec/">Antec</a> <a href="https://www.io-tech.fi/tag/p30-argb/">P30 ARGB</a> <a href="https://www.io-tech.fi/tag/p30-air/">P30 Air</a> <a href="https://www.io-tech.fi/tag/miditornikotelot/">miditornikotelot</a>
+      	<a href="https://www.io-tech.fi/uutinen/antec-julkaisi-uuden-p30-kotelon-rgb-valoilla-ja-ilman/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/antec-julkaisi-uuden-p30-kotelon-rgb-valoilla-ja-ilman/"><img width="831" height="545" src="https://www.io-tech.fi/wp-content/uploads/2025/10/antec-p30-otsikko-131025.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/antec-julkaisi-uuden-p30-kotelon-rgb-valoilla-ja-ilman/">Antec julkaisi uuden P30-kotelon RGB-valoilla ja ilman</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 22:10</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/neliygonen-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/">Timo Niemenmaa</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/antec-julkaisi-uuden-p30-kotelon-rgb-valoilla-ja-ilman/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>P30 Air keskittyy ilmankiertoon ilman valoja, kun taas P30 ARGB lisää pakettiin valaistut tuulettimet.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/antec-julkaisi-uuden-p30-kotelon-rgb-valoilla-ja-ilman/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			<a href="https://www.io-tech.fi/tag/antec/">Antec</a> <a href="https://www.io-tech.fi/tag/p30-argb/">P30 ARGB</a> <a href="https://www.io-tech.fi/tag/p30-air/">P30 Air</a> <a href="https://www.io-tech.fi/tag/miditornikotelot/">miditornikotelot</a>
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/openai-ja-broadcom-sopivat-jopa-10-gigawatin-tekoalypalvelinkokonaisuudesta/">OpenAI ja Broadcom sopivat jopa 10 gigawatin tekoälypalvelinkokonaisuudesta</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 21:54</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/tietotekniikka/">Tietotekniikka</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/openai-ja-broadcom-sopivat-jopa-10-gigawatin-tekoalypalvelinkokonaisuudesta/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>OpenAI on tehnyt jo pidempään yhteistyötä useiden eri kumppaneiden tekoälypiirien parissa työskentelevän Broadcomin kanssa ja yhteistyö huipentuu OpenAI:n omiin kiihdyttimiin perustuvan palvelinkokonaisuuden rakentamiseen.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="467" src="https://www.io-tech.fi/wp-content/uploads/2025/10/openai-broadcom-20251013.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Tekoälymalleihin erikoistunut OpenAI on ollut viime aikoina toistuvasti uutisissa merkittävien palvelinprojektien tiimoilta, eikä loppua ole ainakaan vielä näkyvissä. Viimeisin projekti on OpenAI:n ja Broadcomin välinen yhteistyösopimus.</p>
+<p>OpenAI ja Broadcom ovat kertoneet yhteistyöprojektista, jossa otetaan käyttöön 10 gigawatin edestä kustomoituja tekoälykiihdyttimiä. Toisin kuin esimerkiksi OpenAI:n <a href="https://www.io-tech.fi/uutinen/amd-ja-openai-sopivat-jattimaisesta-yhteistyosta-tekoalypalvelinten-saralla/">AMD:n</a> ja <a href="https://www.io-tech.fi/uutinen/nvidia-sijoittaa-openain-jopa-100-miljardia-dollaria/">NVIDIAn</a> kanssa toteutettavat projektit, Broadcomin kanssa toteutettavissa palvelimissa käytetään täysin kustomoitua laskentarautaa.</p>
+<p>Broadcom on merkittävä tekijä eri asiakkaiden tekoälypiirien toteuttamisessa ja OpenAI on tehnyt yhtiön kanssa yhteistyötä jo 18 kuukauden ajan oman tekoälypiirinsä toteutuksen parissa. OpenAI on vastuussa varsinaisten kiihdytinten ja niiden palvelinten suunnittelusta ja varsinaiset piirit suunnitellaan yhteistyössä vankan ASIC-kokemuksen omaavan Broadcomin kanssa. Broadcom on lisäksi vastuussa palvelinten verkkototeutuksista.</p>
+<p>OpenAI:n kiihdyttimiin perustuvien palvelinten käyttöönotto aloitetaan vuoden 2026 jälkimmäisellä puoliskolle ja valmista koko 10 gigawatin kokonaisuuden osalta pitäisi olla vuoden 2029 loppuun mennessä.</p>
+<p>Lähteet: <a href="https://openai.com/index/openai-and-broadcom-announce-strategic-collaboration/" target="_blank" rel="noopener">OpenAI</a>, <a href="https://investors.broadcom.com/news-releases/news-release-details/openai-and-broadcom-announce-strategic-collaboration-deploy-10" target="_blank" rel="noopener">Broadcom</a></p>
+
+	</div>
+	<div class="avainsanat">
+		<a href="https://www.io-tech.fi/tag/broadcom/">Broadcom</a> <a href="https://www.io-tech.fi/tag/openai/">OpenAI</a>
+      	<a href="https://www.io-tech.fi/uutinen/openai-ja-broadcom-sopivat-jopa-10-gigawatin-tekoalypalvelinkokonaisuudesta/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/openai-ja-broadcom-sopivat-jopa-10-gigawatin-tekoalypalvelinkokonaisuudesta/"><img width="831" height="467" src="https://www.io-tech.fi/wp-content/uploads/2025/10/openai-broadcom-20251013.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/openai-ja-broadcom-sopivat-jopa-10-gigawatin-tekoalypalvelinkokonaisuudesta/">OpenAI ja Broadcom sopivat jopa 10 gigawatin tekoälypalvelinkokonaisuudesta</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 21:54</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/openai-ja-broadcom-sopivat-jopa-10-gigawatin-tekoalypalvelinkokonaisuudesta/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>OpenAI on tehnyt jo pidempään yhteistyötä useiden eri kumppaneiden tekoälypiirien parissa työskentelevän Broadcomin kanssa ja yhteistyö huipentuu OpenAI:n omiin kiihdyttimiin perustuvan palvelinkokonaisuuden rakentamiseen.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/openai-ja-broadcom-sopivat-jopa-10-gigawatin-tekoalypalvelinkokonaisuudesta/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			<a href="https://www.io-tech.fi/tag/broadcom/">Broadcom</a> <a href="https://www.io-tech.fi/tag/openai/">OpenAI</a>
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-apple-iphone-17/">Uusi artikkeli: Testissä Apple iPhone 17</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 17:36</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/diizzel/">Oskari Manninen</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/mobiili/">Mobiili</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-apple-iphone-17/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (3)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>Testasimme Applen uuden perusmallin iPhone 17:n.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="840" height="560" src="https://www.io-tech.fi/wp-content/uploads/2025/10/Apple-iPhone-17-kuva-11-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Applen vuoden 2025 älypuhelinmallisto koostuu jo aiemmin io-techin testissä käyneestä <a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-air/">iPhone Airista</a>, kahdesta Pro-mallista sekä vain yhteen jäävästä perusmallista. iPhone 17 menetti siis tänä vuonna suurikokoisemman Plus-sisarmallinsa, mutta tuo vastapainona kenties selvimmät päivityksensä perusmalleihin sitten <a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-12/">iPhone 12:n</a> mukanaan tuoman suurempiresoluutioisen näytön. Nyt tuo perusmallin iPhone 17 on päätynyt io-techin testipenkkiin.</p>
+<p>Uudessa testiartikkelissa otamme selvää, tarjoaako iPhone 17 vastinetta 999 euron hinnalleen ja miten se vertautuu edeltäjiinsä, sisarusmalleihinsa sekä Android-markkinoiden kilpailijoihin.</p>
+<p><strong>Lue artikkeli:</strong> <a href="https://www.io-tech.fi/artikkelit/testissa-apple-iphone-17/">Testissä Apple iPhone 17</a></p>
+
+	</div>
+	<div class="avainsanat">
+		
+      	<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-apple-iphone-17/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (3)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-apple-iphone-17/"><img width="840" height="560" src="https://www.io-tech.fi/wp-content/uploads/2025/10/Apple-iPhone-17-kuva-11-1024x683.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-apple-iphone-17/">Uusi artikkeli: Testissä Apple iPhone 17</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 13.10.2025 - 17:36</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/diizzel/">Oskari Manninen</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-apple-iphone-17/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (3)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>Testasimme Applen uuden perusmallin iPhone 17:n.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-apple-iphone-17/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/samsung-esitteli-uuden-isocell-hp5-mobiilikamerasensorin-05-%c2%b5mn-pikselikoolla/">Samsung esitteli uuden ISOCELL HP5 -mobiilikamerasensorin 0,5 µm:n pikselikoolla</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 14:38</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/neliygonen-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/">Timo Niemenmaa</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/mobiili/">Mobiili</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/samsung-esitteli-uuden-isocell-hp5-mobiilikamerasensorin-05-%c2%b5mn-pikselikoolla/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (6)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>HP5 on Samsungin mukaan maailman ensimmäinen 0,5 µm:n pikselikoon sensori puhelimiin.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="338" src="https://www.io-tech.fi/wp-content/uploads/2025/10/samsung-isocellhp5-otsikko-101025.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Samsung on esitellyt tuoreimman ISOCELL HP5 -kamerasensorinsa älypuhelimiin. Kyseessä on 200 megapikselin 1/1,56-tuumainen sensori, joka tuottaa valmistajan mukaan aiempaa tarkempia laajakulmakuvia ja terävämpiä lähennyskuvia.</p>
+<p><a href="https://www.io-tech.fi/wp-content/uploads/2025/10/samsung-isocellhp5-kuva1-101025.png"><img decoding="async" class="alignnone size-full wp-image-112402" src="https://www.io-tech.fi/wp-content/uploads/2025/10/samsung-isocellhp5-kuva1-101025.png" alt="" width="1024" height="575" /></a></p>
+<p>HP5 pystyy keräämään valoa entistä tehokkaammin, vaikka pikselikoon pienentyessä myös valonkeräyspinta-ala pienenee. Ratkaisuina ongelmaan Samsung hyödyntää teknologioita kuten FDTI (Front Deep Trench Isolation) ja D-VTG (Dual Vertical Transfer Gate) kasvattaakseen pikseleiden varausta ennen niiden ylikyllästymistä.</p>
+<p><a href="https://www.io-tech.fi/wp-content/uploads/2025/10/samsung-isocellhp5-kuva2-101025.png"><img decoding="async" class="alignnone size-full wp-image-112406" src="https://www.io-tech.fi/wp-content/uploads/2025/10/samsung-isocellhp5-kuva2-101025.png" alt="" width="1024" height="494" /></a></p>
+<p>Lisäksi HP5 hyödyntää korkean tarkkuuden mikrolinssejä, jotka parantavat valonkeräystä minimoiden sen heijastumisen ja hajautumisen vääriin suuntiin. Tuloksena on tarkkoja ja eläväisiä kuvia sekä valoisassa että hämärässä ympäristössä.</p>
+<p>Mukana on tietenkin myös paranneltua tekoälytoiminnallisuutta, sillä HP5:ssä on mm. uusi AI Remosaic -ominaisuus, joka käsittelee jopa 200 MP:n kuvia alle kahdessa sekunnissa.</p>
+<p>ISOCELL HP5:n tuotanto on jo käynnistynyt, eli ensimmäiset sensoria hyödyntävät puhelimet lienevät jo nurkan takana.</p>
+<p>Lähde: <a href="https://semiconductor.samsung.com/image-sensor/mobile-image-sensor/isocell-hp5/" target="_blank" rel="noopener">Samsung</a></p>
+
+	</div>
+	<div class="avainsanat">
+		<a href="https://www.io-tech.fi/tag/isocell-hp5/">ISOCELL HP5</a> <a href="https://www.io-tech.fi/tag/kamerasensorit/">Kamerasensorit</a> <a href="https://www.io-tech.fi/tag/samsung/">Samsung</a>
+      	<a href="https://www.io-tech.fi/uutinen/samsung-esitteli-uuden-isocell-hp5-mobiilikamerasensorin-05-%c2%b5mn-pikselikoolla/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (6)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/samsung-esitteli-uuden-isocell-hp5-mobiilikamerasensorin-05-%c2%b5mn-pikselikoolla/"><img width="831" height="338" src="https://www.io-tech.fi/wp-content/uploads/2025/10/samsung-isocellhp5-otsikko-101025.png" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/samsung-esitteli-uuden-isocell-hp5-mobiilikamerasensorin-05-%c2%b5mn-pikselikoolla/">Samsung esitteli uuden ISOCELL HP5 -mobiilikamerasensorin 0,5 µm:n pikselikoolla</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 14:38</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/neliygonen-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2-2/">Timo Niemenmaa</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/samsung-esitteli-uuden-isocell-hp5-mobiilikamerasensorin-05-%c2%b5mn-pikselikoolla/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (6)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>HP5 on Samsungin mukaan maailman ensimmäinen 0,5 µm:n pikselikoon sensori puhelimiin.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/samsung-esitteli-uuden-isocell-hp5-mobiilikamerasensorin-05-%c2%b5mn-pikselikoolla/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			<a href="https://www.io-tech.fi/tag/isocell-hp5/">ISOCELL HP5</a> <a href="https://www.io-tech.fi/tag/kamerasensorit/">Kamerasensorit</a> <a href="https://www.io-tech.fi/tag/samsung/">Samsung</a>
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-google-pixel-10/">Uusi artikkeli: Testissä Google Pixel 10</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 13:57</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/juha-kokkonen/">Juha Kokkonen</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/mobiili/">Mobiili</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-google-pixel-10/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>Testasimme Googlen uuden 949 euron lähtöhintaisen Pixel 10 -älypuhelimen uudella Tensor G5 -piirillä.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="840" height="665" src="https://www.io-tech.fi/wp-content/uploads/2025/10/pixel10-17-1024x811.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>Google julkisti 10. sukupolven Pixel-älypuhelimensa 21. elokuuta. Edullisin julkaistuista puhelimista oli Pixel 10 -perusmalli, jonka suositushinnat alkavat 949 eurosta. Pixel 10 mukailee hyvin pitkälti edeltäjänsä kaavaa &#8211; teknisiä uudistuksia on tapahtunut lähinnä uudemman Tensor G5 -piirin, telekameran sekä Qi2-lataustuen osalta.</p>
+<p>Tässä artikkelissa tutustuaan Pixel 10 -älypuhelimeen runsaan kahden viikon ympärivuorokautisten käyttökokemusten ja hieman lyhennetyn testiartikkelirungon puitteissa.</p>
+<p><strong>Lue artikkeli:</strong> <a href="https://www.io-tech.fi/artikkelit/testissa-google-pixel-10/">Testissä Google Pixel 10</a></p>
+
+	</div>
+	<div class="avainsanat">
+		
+      	<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-google-pixel-10/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-google-pixel-10/"><img width="840" height="665" src="https://www.io-tech.fi/wp-content/uploads/2025/10/pixel10-17-1024x811.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-google-pixel-10/">Uusi artikkeli: Testissä Google Pixel 10</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 13:57</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/juha-kokkonen/">Juha Kokkonen</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-google-pixel-10/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (0)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>Testasimme Googlen uuden 949 euron lähtöhintaisen Pixel 10 -älypuhelimen uudella Tensor G5 -piirillä.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-google-pixel-10/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/live-io-techin-tekniikkapodcast-41-2025/">Live: io-techin Tekniikkapodcast (41/2025)</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 10:58</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/juha-kokkonen/">Juha Kokkonen</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/tietotekniikka/">Tietotekniikka</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/live-io-techin-tekniikkapodcast-41-2025/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (53)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>io-techin YouTubessa suorana lähetettävässä Tekniikkapodcastissa keskustellaan viikon kiinnostavimmista tietotekniikka- ja mobiilimaailman tapahtumista.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="519" src="https://www.io-tech.fi/wp-content/uploads/2023/03/tekniikkapodcast-live-sampsa-juha-otsikko-090323.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p>io-techin Tekniikkapodcast tänään perjantaina 10. lokakuuta noin kello 15:00 alkavana suorana live-streamina <a href="https://www.youtube.com/c/iotech/live" target="_blank" rel="noopener noreferrer">YouTubessa</a>. Äänessä ovat tällä viikolla Sampsa Kurri ja Juha Kokkonen.</p>
+<p><iframe title="iPhone Air &amp; AirPods Pro 3 testi, Qualcomm ostaa Arduinon, Panther Lake | Tekniikkapodcast (41/2025)" width="840" height="630" src="https://www.youtube.com/embed/oN_nwt-7mqY?feature=oembed&#038;width=840&#038;height=1000&#038;discover=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p>Käymme viikottaisissa livepodcasteissa läpi ajankohtaiset IT-alan uutiset ja uutuustuotteet kuluneen viikon ajalta, kerromme mitä päivityksiä io-techissä on mahdollisesti luvassa lähitulevaisuudessa sekä valotamme artikkelien tekemisen ja io-techin pyörittämiseen liittyviä taustatarinoita. Katsojat voivat osallistua lähetykseen interaktiivisesti YouTuben keskusteluikkunan välityksellä.</p>
+<p>io-techin viikon Tekniikkapodcast on jälkikäteen katsottavissa tai kuunneltavissa:</p>
+<ul>
+<li><a class="externalLink" href="https://www.youtube.com/io-tech" target="_blank" rel="noopener noreferrer">Youtube</a></li>
+<li><a class="externalLink" href="https://podcasts.apple.com/us/podcast/io-techin-viikon-tekniikkakatsaus/id1448596862" target="_blank" rel="noopener noreferrer">Apple Podcasts</a></li>
+<li><a class="externalLink" href="https://open.spotify.com/show/1dwj2NpNdxyY1WEs7MLbEH" target="_blank" rel="noopener noreferrer">Spotify</a></li>
+<li><a href="https://www.supla.fi/podcast/tekniikkapodcast" target="_blank" rel="noopener noreferrer">Supla</a></li>
+</ul>
+
+	</div>
+	<div class="avainsanat">
+		<a href="https://www.io-tech.fi/tag/live/">live</a> <a href="https://www.io-tech.fi/tag/podcast/">podcast</a> <a href="https://www.io-tech.fi/tag/tekniikakatsaus/">tekniikakatsaus</a> <a href="https://www.io-tech.fi/tag/tekniikkapodcast/">tekniikkapodcast</a> <a href="https://www.io-tech.fi/tag/uutiskatsaus/">uutiskatsaus</a> <a href="https://www.io-tech.fi/tag/viikkokatsaus/">viikkokatsaus</a>
+      	<a href="https://www.io-tech.fi/uutinen/live-io-techin-tekniikkapodcast-41-2025/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (53)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/live-io-techin-tekniikkapodcast-41-2025/"><img width="831" height="519" src="https://www.io-tech.fi/wp-content/uploads/2023/03/tekniikkapodcast-live-sampsa-juha-otsikko-090323.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/live-io-techin-tekniikkapodcast-41-2025/">Live: io-techin Tekniikkapodcast (41/2025)</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 10:58</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/juha-kokkonen/">Juha Kokkonen</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/live-io-techin-tekniikkapodcast-41-2025/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (53)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>io-techin YouTubessa suorana lähetettävässä Tekniikkapodcastissa keskustellaan viikon kiinnostavimmista tietotekniikka- ja mobiilimaailman tapahtumista.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/live-io-techin-tekniikkapodcast-41-2025/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			<a href="https://www.io-tech.fi/tag/live/">live</a> <a href="https://www.io-tech.fi/tag/podcast/">podcast</a> <a href="https://www.io-tech.fi/tag/tekniikakatsaus/">tekniikakatsaus</a> <a href="https://www.io-tech.fi/tag/tekniikkapodcast/">tekniikkapodcast</a> <a href="https://www.io-tech.fi/tag/uutiskatsaus/">uutiskatsaus</a> <a href="https://www.io-tech.fi/tag/viikkokatsaus/">viikkokatsaus</a>
+		</div>
+	</div>
+</div>
+</div>
+	  
+<div class="view-toggle-element">		
+<div class="uutinen view-full">
+	<h2><a href="https://www.io-tech.fi/uutinen/amd-ja-sony-kertoivat-uusista-teknologioista-tulevissa-radeoneissa/">AMD ja Sony kertoivat uusista teknologioista tulevissa Radeoneissa</a></h2>
+	<div class="infot">
+		<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 00:39</span> /
+        <span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+		<span class="kategoria"><i class="fa fa-archive2 fa-1x fa-fw"></i> <a href="https://www.io-tech.fi/category/tietotekniikka/">Tietotekniikka</a></span>
+      	<a href="https://www.io-tech.fi/uutinen/amd-ja-sony-kertoivat-uusista-teknologioista-tulevissa-radeoneissa/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (5)</span></a>
+	</div>
+  	<div class="ingressi">
+      <p>Radeonit ja sen myötä Sonyn tuleva PlayStation 6 -konsoli lupaavat parantaa selvästi säteen- ja polunseurantaa, tekoälysuorituskykyä ja sekä sisäisen että ulkoisen muistikaistan tarvetta.</p>
+
+  	</div>
+	<div class="foto">
+		<img width="831" height="467" src="https://www.io-tech.fi/wp-content/uploads/2025/10/amd-x-sie-amethyst-future-of-play-20250910.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" />
+	</div>
+	<div class="tekstit">
+		<p><span data-contrast="auto">AMD ja Sony kertoivat viime vuoden lopulla aloittaneensa <a href="https://www.io-tech.fi/uutinen/sony-ja-amd-aloittivat-uuden-amethyst-yhteistyoprojektin/">Project Amethyst -yhteistyöprojektin</a>. AMD:n Radeoneiden punaisen ja PlayStationin sinisen yhdistävä violetin sävyn mukaan nimetyn projektin tavoitteena on tuoda mm. lisää tekoälyä peleihin sekä paremmin niihin soveltuva arkkitehtuuri.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>
+<p><iframe title="From Project Amethyst to the Future of Play: AMD and Sony Interactive Entertainment’s Shared Vision" width="840" height="473" src="https://www.youtube.com/embed/ItXPvGrI6gY?feature=oembed&#038;width=840&#038;height=1000&#038;discover=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p><span data-contrast="auto">Nyt AMD:n Computing and Graphics Groupin johtaja Jack Huynh ja Sony Interactive Entertainmentin Mark Cerny ovat istuneet yhden pöydän ääreen ja kertoneet tulevista Radeon-näytönohjainten ja sen myötä myös tulevan PlayStation 6 –pelikonsolin ominaisuuksista.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>
+<div id='gallery-1' class='gallery galleryid-112371 gallery-columns-3 gallery-size-thumbnail'><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.io-tech.fi/wp-content/uploads/2025/10/amd-gaming-update-neural-arrays-20251009.jpg'><img decoding="async" width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/10/amd-gaming-update-neural-arrays-20251009-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.io-tech.fi/wp-content/uploads/2025/10/amd-gaming-update-radiance-cores-20251009.jpg'><img decoding="async" width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/10/amd-gaming-update-radiance-cores-20251009-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure><figure class='gallery-item'>
+			<div class='gallery-icon landscape'>
+				<a href='https://www.io-tech.fi/wp-content/uploads/2025/10/amd-gaming-update-next-gen-tech-20251009.jpg'><img decoding="async" width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/10/amd-gaming-update-next-gen-tech-20251009-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" /></a>
+			</div></figure>
+		</div>
+
+<p><span data-contrast="auto">Neural Arrays on uusi tapa yhdistää useampi Compute Unit -yksikkö toimimaan yhden tekoälykiihdyttimen kaltaisena kokonaisuutena. Tämän kerrotaan mahdollistavan seuraavan sukupolven “neuraalirenderöinnin” ja edistää muutoinkin tekoälysuorituskykyä.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>
+<p><span data-contrast="auto">Radiance Core on puolestaan AMD:n uusi säteenseurantayksikkö. Tähän asti säteenseurantakiihdytys on toteutettu osana Compute Unit -yksikköjen teksturointiyksikköä samaan aikaan, kun varsinaiset varjostinyksiköt laskevat Ray Traversal –laskut varjostimina. Radiance Coret osaavat nyt törmäystarkistusten lisäksi hoitaa myös Ray Traversal –laskut itsenäisesti, eikä varjostimia enää tarvita.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>
+<p><span data-contrast="auto">Viimeinen esitellyistä uusista ominaisuuksista on Universal Compression. Erilaiset pakkausmetodit ovat olleet vuosikausia arkitpäivää näytönohjainten sisällä, mutta Universal Compression pyrkii viemään tämän entistä pidemmälle pakkaamalla kaiken GPU:n sisällä liikuvan datan, mikä vain on mahdollista pakata. Tämä vähentää merkittävästi sekä sisäisen että ulkoisen muistikaistan tarvetta ja siten mahdollistaa entistä korkeamman suorituskyvyn.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>
+
+	</div>
+	<div class="avainsanat">
+		<a href="https://www.io-tech.fi/tag/amd/">AMD</a> <a href="https://www.io-tech.fi/tag/neural-array/">Neural Array</a> <a href="https://www.io-tech.fi/tag/project-amethyst/">Project Amethyst</a> <a href="https://www.io-tech.fi/tag/radiance-core/">Radiance Core</a> <a href="https://www.io-tech.fi/tag/sony/">Sony</a> <a href="https://www.io-tech.fi/tag/universal-compression/">Universal Compression</a>
+      	<a href="https://www.io-tech.fi/uutinen/amd-ja-sony-kertoivat-uusista-teknologioista-tulevissa-radeoneissa/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (5)</span></a>
+	</div>
+</div>
+<div class="arkisto-uutinen view-preview" style="display: none">
+	<div class="feature-kuva">
+		<a href="https://www.io-tech.fi/uutinen/amd-ja-sony-kertoivat-uusista-teknologioista-tulevissa-radeoneissa/"><img width="831" height="467" src="https://www.io-tech.fi/wp-content/uploads/2025/10/amd-x-sie-amethyst-future-of-play-20250910.jpg" class="attachment-large size-large wp-post-image" alt="" decoding="async" /></a>
+	</div>
+	<div class="uutisen-sisalto">
+		<h2><a href="https://www.io-tech.fi/uutinen/amd-ja-sony-kertoivat-uusista-teknologioista-tulevissa-radeoneissa/">AMD ja Sony kertoivat uusista teknologioista tulevissa Radeoneissa</a></h2>
+		<div class="infot">
+			<span class="aika"><i class="fa fa-clock-o fa-1x fa-fw"></i> 10.10.2025 - 00:39</span>/
+       	 	<span class="kirjailija"><a href="https://www.io-tech.fi/author/kaotik/">Petrus Laine</a></span>
+          	<a href="https://www.io-tech.fi/uutinen/amd-ja-sony-kertoivat-uusista-teknologioista-tulevissa-radeoneissa/#comments"><span class="kommentit"><i class="fa fa-comment fa-1x fa-fw"></i> Kommentit (5)</span></a>
+		</div>
+		<div class="ingressi">
+          <p>Radeonit ja sen myötä Sonyn tuleva PlayStation 6 -konsoli lupaavat parantaa selvästi säteen- ja polunseurantaa, tekoälysuorituskykyä ja sekä sisäisen että ulkoisen muistikaistan tarvetta.</p>
+          <p><a href="https://www.io-tech.fi/uutinen/amd-ja-sony-kertoivat-uusista-teknologioista-tulevissa-radeoneissa/">Lue lisää</a></p>
+  		</div>
+		<div class="avainsanat">
+			<a href="https://www.io-tech.fi/tag/amd/">AMD</a> <a href="https://www.io-tech.fi/tag/neural-array/">Neural Array</a> <a href="https://www.io-tech.fi/tag/project-amethyst/">Project Amethyst</a> <a href="https://www.io-tech.fi/tag/radiance-core/">Radiance Core</a> <a href="https://www.io-tech.fi/tag/sony/">Sony</a> <a href="https://www.io-tech.fi/tag/universal-compression/">Universal Compression</a>
+		</div>
+	</div>
+</div>
+</div>
+	
+	
+	
+	
+	<!-- Pagination -->
+	<div class="sivutus">
+        <div class="edelliset">
+            &nbsp;
+        </div>
+        <div class="sivut">
+            <ul class="wpv-pagination-nav-links-container js-wpv-pagination-nav-links-container"><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item wpv-page-link-116-1 js-wpv-page-link-116-1 wpv_page_current wpv-pagination-nav-links-item-current"><span class="wpv-filter-pagination-link page-link">1</span></li><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item wpv-page-link-116-2 js-wpv-page-link-116-2"><a class="wpv-filter-pagination-link js-wpv-pagination-link" title="2" href="/?wpv_view_count=116&#038;wpv_paged=2" data-viewnumber="116" data-page="2">2</a></li><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item wpv-page-link-116-3 js-wpv-page-link-116-3"><a class="wpv-filter-pagination-link js-wpv-pagination-link" title="3" href="/?wpv_view_count=116&#038;wpv_paged=3" data-viewnumber="116" data-page="3">3</a></li><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item wpv-page-link-116-4 js-wpv-page-link-116-4"><a class="wpv-filter-pagination-link js-wpv-pagination-link" title="4" href="/?wpv_view_count=116&#038;wpv_paged=4" data-viewnumber="116" data-page="4">4</a></li><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item wpv-page-link-116-5 js-wpv-page-link-116-5"><a class="wpv-filter-pagination-link js-wpv-pagination-link" title="5" href="/?wpv_view_count=116&#038;wpv_paged=5" data-viewnumber="116" data-page="5">5</a></li><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item wpv-page-link-116-6 js-wpv-page-link-116-6"><a class="wpv-filter-pagination-link js-wpv-pagination-link" title="6" href="/?wpv_view_count=116&#038;wpv_paged=6" data-viewnumber="116" data-page="6">6</a></li><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item"><span class="wpv_page_ellipsis">...</span></li><li class="wpv-pagination-nav-links-item js-wpv-pagination-nav-links-item wpv-page-link-116-789 js-wpv-page-link-116-789"><a class="wpv-filter-pagination-link js-wpv-pagination-link" title="789" href="/?wpv_view_count=116&#038;wpv_paged=789" data-viewnumber="116" data-page="789">789</a></li></ul>
+        </div>
+        <div class="seuraavat">
+            <a class="wpv-filter-next-link js-wpv-pagination-next-link page-link "  href="/?wpv_view_count=116&#038;wpv_paged=2"
+					data-viewnumber="116" data-page="2"><i class="fa fa-angle-right"></i></a>&nbsp;
+        </div>
+    </div>
+</div>
+</div></div></div></div></div></div><script id="script-row-unique-1" data-row="script-row-unique-1" type="text/javascript" class="vc_controls">UNCODE.initRow(document.getElementById("row-unique-1"));</script></div></div></div></div>
+				</div>
+														<div class="col-lg-4 col-widgets-sidebar ">
+															<div class="uncol style-light unexpand style-color-uydo-bg">
+																<div class="uncoltable">
+																	<div class="uncell std-block-padding double-bottom-padding">
+																		<div class="uncont">
+																			<aside id="rss-5" class="widget-odd widget-first widget-1 widget widget_rss widget-container collapse-init sidebar-widgets"><h3 class="widget-title"><a class="rsswidget rss-widget-feed" href="https://bbs.io-tech.fi/forums/uutisia-lyhyesti.84/index.rss?order=post_date"><img decoding="async" class="rss-widget-icon" style="border:0" width="14" height="14" src="https://www.io-tech.fi/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget rss-widget-title" href="https://bbs.io-tech.fi/forums/uutisia-lyhyesti.84/">Uutisia lyhyesti</a></h3><ul><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/google-teki-tayskaannoksen-alykellojensa-korjattavuudessa-pixel-watch-4-lla.627505/'>Google teki täyskäännöksen älykellojensa korjattavuudessa Pixel Watch 4:llä</a> <span class="rss-date">13.10.2025</span> <cite></cite></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/etela-korea-oppi-kantapaan-kautta-varmuuskopioiden-tarkeyden.626959/'>Etelä-Korea oppi kantapään kautta varmuuskopioiden tärkeyden</a> <span class="rss-date">13.10.2025</span> <cite></cite></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/nagao-uudelleen-julkaisi-peilin-gpu-n-ihasteluun.626690/'>Nagao (uudelleen) julkaisi peilin GPU:n ihasteluun</a> <span class="rss-date">13.10.2025</span> <cite></cite></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/asus-on-varmistanut-nykyisten-piirisarjojen-tukevan-zen-6-arkkitehtuuria.626956/'>Asus on varmistanut nykyisten piirisarjojen tukevan Zen 6 -arkkitehtuuria</a> <span class="rss-date">12.10.2025</span> <cite></cite></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/applen-iphone-4-n-antennagate-175-miljoonaa-dollaria-20-tavun-vuoksi.626700/'>Applen iPhone 4:n &quot;Antennagate&quot;: 175 miljoonaa dollaria 20 tavun vuoksi</a> <span class="rss-date">11.10.2025</span> <cite></cite></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/nothing-kasittelee-uudella-videollaan-mrwhosethebossin-unelmapuhelinta.626962/'>Nothing käsittelee uudella videollaan Mrwhosethebossin unelmapuhelinta</a> <span class="rss-date">10.10.2025</span> <cite></cite></li></ul></aside><aside id="rss-7" class="widget-even widget-2 datatronic widget widget_rss widget-container collapse-init sidebar-widgets"><h3 class="widget-title"><a class="rsswidget rss-widget-feed" href="https://datatronic.fi/io-tech.xml"><img decoding="async" class="rss-widget-icon" style="border:0" width="14" height="14" src="https://www.io-tech.fi/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget rss-widget-title" href="https://datatronic.fi/">Datatronic</a></h3><ul><li><a class='rsswidget' href='https://datatronic.fi/gskill-flare-x5-f5-6000j3636f16gx2-fx5-muistimoduuli-32-gb-2-x-16-gb-ddr5-6000-mhz-gskill-f5-6000j3636f16gx2-fx5'>G.Skill Flare X5 F5-6000J3636F16GX2-FX5 muistimoduuli 32 GB 2 x 16 GB DDR5 6000 MHz</a><div class="rssSummary">107,90 €</div></li><li><a class='rsswidget' href='https://datatronic.fi/lexar-nm790-m2-2-tb-pci-express-40-nvme-lexar-lnm790x002t-rnnng'>Lexar NM790 M.2 2 TB PCI Express 4.0 NVMe</a><div class="rssSummary">131,90 €</div></li><li><a class='rsswidget' href='https://datatronic.fi/gskill-trident-z5-neo-rgb-f5-6000j3038f16gx2-tz5nr-muistimoduuli-32-gb-2-x-16-gb-ddr5-6000-mhz-gskill-f5-6000j3038f16gx2-tz5nr'>G.Skill Trident Z5 Neo RGB F5-6000J3038F16GX2-TZ5NR muistimoduuli 32 GB 2 x 16 GB DDR5 6000 MHz</a><div class="rssSummary">144,90 €</div></li><li><a class='rsswidget' href='https://datatronic.fi/thermal-grizzly-phasesheet-ptm-jaahdytyslevyn-yhdiste-lampoalusta-2-g-thermal-grizzly-tg-ps-50-40'>Thermal Grizzly PhaseSheet PTM jäähdytyslevyn yhdiste Lämpöalusta 2 g</a><div class="rssSummary">11,90 €</div></li><li><a class='rsswidget' href='https://datatronic.fi/amd-ryzen-7-9800x3d-suoritin-47-ghz-104-mb-l2-l3-laatikko-amd-100-100001084wof'>AMD Ryzen 7 9800X3D suoritin 4,7 GHz 104 MB L2 &amp; L3 Laatikko</a><div class="rssSummary">529,00 €</div></li><li><a class='rsswidget' href='https://datatronic.fi/pelikoneet'>Datatronic pelikoneet</a><div class="rssSummary"></div></li><li><a class='rsswidget' href='https://datatronic.fi/palvelut-ja-huolto/tietokoneen-kasauspalvelu'>Komponenteille myös kasauspalvelu</a><div class="rssSummary"></div></li></ul></aside><aside id="text-13" class="widget-odd widget-3 spessu widget widget_text widget-container collapse-init sidebar-widgets">			<div class="textwidget"><div id="wpv-view-layout-13973" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-13973" data-viewnumber="13973" data-pagination="{&quot;id&quot;:&quot;13973&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://www.io-tech.fi/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/tag/silent-loop-2/?wpv_view_count=13973&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/tag/silent-loop-2/?wpv_view_count=13973">
+<div class="mobiili-uutiset style-dark">
+<div class="sivu-otsikko">
+<h2><a href="https://www.io-tech.fi/tag/video/">Videot</a></h2>
+</p></div>
+<div class="muutinen">
+<div class="kuva">
+              <img width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/09/lemokey-p1he17092025-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" />
+            </div>
+<div class="tekstit">
+<h4><a href="https://www.io-tech.fi/uutinen/video-testissa-lemokey-p1-he-pelinappaimisto/">Video: Testissä Lemokey P1 HE -pelinäppäimistö</a></h4>
+<p>              <span class="aika">17.9.2025</span>
+            </div>
+</p></div>
+<div class="muutinen">
+<div class="kuva">
+              <img width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/09/apple-event-awe-dropping-20250901-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" />
+            </div>
+<div class="tekstit">
+<h4><a href="https://www.io-tech.fi/uutinen/live-io-techin-kisastudio-seuraa-applen-iphone-17-julkaisua-klo-1945-alkaen/">LIVE: io-techin kisastudio seuraa Applen iPhone 17 -julkaisua klo 19:45 alkaen</a></h4>
+<p>              <span class="aika">9.9.2025</span>
+            </div>
+</p></div>
+<div class="muutinen">
+<div class="kuva">
+              <img width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/09/he-keyb-02092025-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" />
+            </div>
+<div class="tekstit">
+<h4><a href="https://www.io-tech.fi/uutinen/video-testissa-pelinappaimistot-magneettikytkimilla/">Video: Testissä pelinäppäimistöt magneettikytkimillä</a></h4>
+<p>              <span class="aika">2.9.2025</span>
+            </div>
+</p></div>
+<div class="muutinen">
+<div class="kuva">
+              <img width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/06/scape-19062025-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" />
+            </div>
+<div class="tekstit">
+<h4><a href="https://www.io-tech.fi/uutinen/video-testissa-fractal-scape-pelikuulokkeet/">Video: Testissä Fractal Scape -pelikuulokkeet</a></h4>
+<p>              <span class="aika">19.6.2025</span>
+            </div>
+</p></div>
+<div class="muutinen">
+<div class="kuva">
+              <img width="150" height="150" src="https://www.io-tech.fi/wp-content/uploads/2025/01/rtx5090-20012025-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt="" decoding="async" />
+            </div>
+<div class="tekstit">
+<h4><a href="https://www.io-tech.fi/uutinen/video-nvidia-geforce-rtx-5090-founders-edition-ensituntumat/">Video: NVIDIA GeForce RTX 5090 Founders Edition ensituntumat</a></h4>
+<p>              <span class="aika">20.1.2025</span>
+            </div>
+</p></div>
+<p><a class="lisaa" href="https://www.io-tech.fi/tag/video/">Lisää videoita</a></p></div>
+</div>
+</div>
+		</aside><aside id="text-14" class="widget-even widget-4 widget widget_text widget-container collapse-init sidebar-widgets"><h3 class="widget-title">Viikon suosituimmat</h3>			<div class="textwidget"><div id="wpv-view-layout-1499" class="js-wpv-view-layout js-wpv-layout-responsive js-wpv-view-layout-1499" data-viewnumber="1499" data-pagination="{&quot;id&quot;:&quot;1499&quot;,&quot;query&quot;:&quot;normal&quot;,&quot;type&quot;:&quot;disabled&quot;,&quot;effect&quot;:&quot;fade&quot;,&quot;duration&quot;:500,&quot;speed&quot;:5,&quot;pause_on_hover&quot;:&quot;disabled&quot;,&quot;stop_rollover&quot;:&quot;false&quot;,&quot;cache_pages&quot;:&quot;enabled&quot;,&quot;preload_images&quot;:&quot;enabled&quot;,&quot;preload_pages&quot;:&quot;enabled&quot;,&quot;preload_reach&quot;:1,&quot;spinner&quot;:&quot;builtin&quot;,&quot;spinner_image&quot;:&quot;https://www.io-tech.fi/wp-content/plugins/wp-views/res/img/ajax-loader.gif&quot;,&quot;callback_next&quot;:&quot;&quot;,&quot;manage_history&quot;:&quot;disabled&quot;,&quot;has_controls_in_form&quot;:&quot;disabled&quot;,&quot;infinite_tolerance&quot;:&quot;0&quot;,&quot;max_pages&quot;:1,&quot;page&quot;:1,&quot;base_permalink&quot;:&quot;/?wpv_view_count=1499&amp;wpv_paged=WPV_PAGE_NUM&quot;,&quot;loop&quot;:{&quot;type&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;data&quot;:[],&quot;id&quot;:0}}" data-permalink="/?wpv_view_count=1499">
+<ul class="tabilista">
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/windows-10n-esu-paivitykset-tulevat-eurooppaan-ilmaiseksi/">Windows 10:n ESU-päivitykset tulevat Eurooppaan ilmaiseksi</a> – 25.9.2025</li>
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/yle-jimms-pc-storen-liikevaihto-romahti/">YLE: Jimm&#8217;s PC-Storen liikevaihto romahti</a> – 14.5.2025</li>
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/amd-julkisti-odotetut-radeon-rx-9070-sarjan-naytonohjaimet/">AMD julkisti odotetut Radeon RX 9070 -sarjan näytönohjaimet</a> – 28.2.2025</li>
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/amd-julkaisi-amd-software-25-1-1-ajurit-naytonohjaimilleen/">AMD julkaisi AMD Software 25.9.2-ajurit näytönohjaimilleen ja prosessoreilleen</a> – 18.9.2025</li>
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/nvidia-julkaisi-uudet-geforce-ja-studio-572-16-ajurit-naytonohjaimilleen/">NVIDIA julkaisi uudet GeForce 581.42 -ajurit näytönohjaimilleen</a> – 30.9.2025</li>
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/gigantti-perustaa-giga-mobiilli-operaattorin/">Gigantti perustaa Giga Mobiili -operaattorin</a> – 19.5.2025</li>
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/uusi-artikkeli-testissa-nvidia-geforce-rtx-5080-founders-edition/">Uusi artikkeli: Testissä NVIDIA GeForce RTX 5080 Founders Edition</a> – 29.1.2025</li>
+<li class="tabilista-item"><a href="https://www.io-tech.fi/uutinen/amdn-vaitetyt-suorituskykylukemat-radeon-rx-9070-naytonohjaimille-vuotivat-julki/">AMD:n väitetyt suorituskykylukemat Radeon RX 9070 -näytönohjaimille vuotivat julki</a> – 25.2.2025</li>
+</ul>
+</div>
+</div>
+		</aside><aside id="custom_html-4" class="widget_text widget-odd widget-5 tekki widget widget_custom_html widget-container collapse-init sidebar-widgets"><h3 class="widget-title">Tekniikkakatsaus podcast</h3><div class="textwidget custom-html-widget"><div style="margin-top: -25px">
+<img decoding="async" src="https://www.io-tech.fi/wp-content/uploads/2016/11/io-tech-vodcast.jpg">
+</div>
+<p>
+io-techin viikon tekniikkakatsaus podcast lähetetään perjantaisin klo 15 live-lähetyksenä <a href="https://www.youtube.com/io-tech">YouTubessa</a>. Sampsa ja Juha käyvät keskenään läpi kuluneen viikon ajalta ajankohtaiset tietotekniikka- ja mobiiliaiheet.</p>
+<p>
+Jälkikäteen katseltavissa/kuunneltavissa:
+</p>
+<ul>
+<li><a href="https://www.youtube.com/io-tech">Youtube</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/io-techin-viikon-tekniikkakatsaus/id1448596862">iTunes</a></li>
+<li><a href="https://open.spotify.com/show/1dwj2NpNdxyY1WEs7MLbEH">Spotify</a></li>
+</ul></div></aside><aside id="rss-6" class="widget-even widget-6 widget widget_rss widget-container collapse-init sidebar-widgets"><h3 class="widget-title"><a class="rsswidget rss-widget-feed" href="https://bbs.io-tech.fi/forums/-/index.rss"><img decoding="async" class="rss-widget-icon" style="border:0" width="14" height="14" src="https://www.io-tech.fi/wp-includes/images/rss.png" alt="RSS" /></a> <a class="rsswidget rss-widget-title" href="https://bbs.io-tech.fi/">TechBBS uusimmat viestit</a></h3><ul><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/applen-m-piirilliset-macbookit.299835/'>Applen M-piirilliset Macbookit</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/windows-10-n-tuen-paattymisen-keskustelu.546013/'>Windows 10:n tuen päättymisen keskustelu</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/saastaminen-ja-sijoittaminen-osakkeet-rahastot-etf-t.292/'>Säästäminen ja sijoittaminen (osakkeet, rahastot, ETF:t...)</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/mika-kotelo-minulle.521/'>Mikä kotelo minulle?</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/uusia-emolevyja-ps-2.625841/'>Uusia emolevyjä PS/2</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/path-of-exile-2-pc-ps5-xbox.550377/'>Path of Exile 2 (PC, PS5, Xbox)</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/talvirenkaat-yleisketju.1179/'>Talvirenkaat - yleisketju</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/redmagic-esitteli-nestejaahdytysratkaisua-alypuhelimiin.627526/'>RedMagic esitteli nestejäähdytysratkaisua älypuhelimiin</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/spotify-nyt-ja-tulevaisuudessa.932/'>Spotify - Nyt ja tulevaisuudessa</a> <span class="rss-date">13.10.2025</span></li><li><a class='rsswidget' href='https://bbs.io-tech.fi/threads/elektronisen-musiikin-ystavat.4699/'>Elektronisen musiikin ystävät</a> <span class="rss-date">13.10.2025</span></li></ul></aside><aside id="custom_html-5" class="widget_text widget-odd widget-last widget-7 hintafo widget widget_custom_html widget-container collapse-init sidebar-widgets"><h3 class="widget-title">Hinta.fi hintavertailu</h3><div class="textwidget custom-html-widget"><div id="XhLSf8pj"><a href="https://hinta.fi/?src=nbfelgMA">Hinta.fi hintavertailu</a></div>
+<script>var hntfW2=hntfW2||[];hntfW2.push({id:"XhLSf8pj",wi:287,wk:"XaM1pEjb",vc:28});</script>
+<script src="//c1.hinta.fi/w2b.js" async></script></div></aside>
+																		</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+														
+													</div>
+												</div>
+											</div></div>
+						</div>
+					</article>
+								</div><!-- sections container -->
+							</div><!-- page wrapper -->
+												<footer id="colophon" class="site-footer">
+							<div class="row-container style-dark-bg footer-last">
+		  					<div class="row row-parent style-dark limit-width no-top-padding no-h-padding no-bottom-padding">
+									<div class="site-info uncell col-lg-6 pos-middle text-left"><p>© S&amp;J Media Oy</p>
+</div><!-- site info --><div class="uncell col-lg-6 pos-middle text-right"><div class="social-icon icon-box icon-box-top icon-inline"><a href="http://youtube.com/io-tech" target="_blank"><i class="fa fa-youtube"></i></a></div><div class="social-icon icon-box icon-box-top icon-inline"><a href="https://www.tiktok.com/@iotechfi" target="_blank"><i class="fa fa-tiktok"></i></a></div></div>
+								</div>
+							</div>						</footer>
+																	</div><!-- main container -->
+				</div><!-- main wrapper -->
+							</div><!-- box container -->
+					</div><!-- box wrapper -->
+		<div class="style-light footer-scroll-top"><a href="#" class="scroll-top"><i class="fa fa-angle-up fa-stack btn-default btn-hover-nobg"></i></a></div>
+					<div class="overlay overlay-sequential overlay-full style-dark style-dark-bg overlay-search" data-area="search" data-container="box-container">
+				<div class="mmb-container"><div class="menu-close-search mobile-menu-button menu-button-offcanvas mobile-menu-button-dark lines-button overlay-close close" data-area="search" data-container="box-container"><span class="lines"></span></div></div>
+				<div class="search-container"><form action="https://www.io-tech.fi/" method="get">
+	<div class="search-container-inner">
+		<input type="search" class="search-field form-fluid no-livesearch" placeholder="Hae sivustolta..." value="" name="s" title="Search for:">
+		<i class="fa fa-search3"></i>
+
+			</div>
+</form>
+</div>
+			</div>
+		
+	
+<script type="text/javascript">
+const wpvViewHead = document.getElementsByTagName( "head" )[ 0 ];
+const wpvViewExtraCss = document.createElement( "style" );
+wpvViewExtraCss.textContent = '/* ----------------------------------------- *//* View slug: uutiset-etusivu - start *//* ----------------------------------------- */.arkisto-uutinen:nth-child(2) {  margin-top: 25px; }article .post-body .col-lg-8 { position: relative; }.view-toggle {  text-align: right;  position: absolute;  right: -10px;  top: 30px;  z-index: 10;}@media (max-width: 960px) { .view-toggle {   right: 20px;  }   .view-preview {  flex-flow: column nowrap;  align-items: flex-start;  }}.view-toggle a {  margin-right: 15px;  font-size: 1.3em;  display: inline-block;  cursor: pointer;}.view-toggle a.active { color: #2AB255; }.view-toggle a:hover { color: #2AB255; }.view-toggle .fa-window-maximize:before {  content: \"\\f2d0\";  display: block;  transform: translateY(-1px);}/* Inline css, gets applied too late. *//*.view-toggle-element .view-preview {  display: none; }*//* ----------------------------------------- *//* View slug: uutiset-etusivu - end *//* ----------------------------------------- */<!--[if IE 7]><style>.wpv-pagination { *zoom: 1; }</style><![endif]-->';
+wpvViewHead.appendChild( wpvViewExtraCss );
+</script>
+<script type="text/javascript">
+	jQuery('a.rsswidget').click(function() {
+	    jQuery(this).attr('target', '_blank');
+	});
+</script>;<script type="text/html" id="wpb-modifications"> window.wpbCustomElement = 1; </script><script type="text/javascript" id="XFWP-js-extra">
+/* <![CDATA[ */
+var XFWPJS = {"ajaxurl":"https:\/\/www.io-tech.fi\/wp-admin\/admin-ajax.php","nonce":"63c0793a5c","post_id":"65"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/plugins/XFWP/assets/XFWP.js?ver=25080629" id="XFWP-js"></script>
+<script type="text/javascript" id="stickThis-js-extra">
+/* <![CDATA[ */
+var sticky_anything_engage = {"element":"#stigi","topspace":"0","minscreenwidth":"0","maxscreenwidth":"999999","zindex":"1","legacymode":"","dynamicmode":"","debugmode":"","pushup":"","adminbar":"1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/plugins/sticky-menu-or-anything-on-scroll/assets/js/stickThis.js?ver=2.1.1" id="stickThis-js"></script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/themes/uncode/library/js/plugins.js?ver=1075840890" id="uncode-plugins-js"></script>
+<script type="text/javascript" src="https://www.io-tech.fi/wp-content/themes/uncode/library/js/app.js?ver=1075840890" id="uncode-app-js"></script>
+<script type="text/javascript" src="https://cdn.onesignal.com/sdks/web/v16/OneSignalSDK.page.js?ver=1.0.0" id="remote_sdk-js" defer="defer" data-wp-strategy="defer"></script>
+<script></script>
+<script type="text/javascript">
+//-----------------------------------------
+// View slug: uutiset-etusivu - start
+//-----------------------------------------
+var STORE = 'iotech2';
+var store = JSON.parse(localStorage.getItem(STORE) || '{}');
+var set = function set(key, value) {
+
+    try {
+        store[key] = value;
+        localStorage.setItem(STORE, JSON.stringify(store));
+
+        return true;
+    } catch (e) {
+        console.error(e); // Incognito does this
+        return false;
+    }
+};
+
+var get = function get(key) {
+    return store[key] || false;
+};
+
+var el = function el(tagName, options) {
+    var element = document.createElement(tagName);
+    var propMap = ['textContent', 'onclick'];
+
+    Object.keys(options).forEach(function(key) {
+        if (propMap.indexOf(key) > -1) {
+            element[key] = options[key];
+        } else {
+            element.setAttribute(key, options[key]);
+        }
+    });
+
+    return element;
+};
+
+var previewCSS = '.view-toggle-element .view-preview { display: flex !important; /* Override inline */  } .view-toggle-element .view-full { display: none; }';
+
+var fullCSS = '';
+var styleEl = document.createElement('style');
+var setCSS = function setCSS(css) {
+    return styleEl.textContent = css;
+};
+document.body.appendChild(styleEl);
+
+var changeViewTo = function changeViewTo(target) {
+  
+    switch (target) {
+        case 'Esikatselu': {
+            setCSS(previewCSS);
+            break;
+        }
+
+        case 'Täysi': {
+            setCSS(fullCSS);
+            break;
+        }
+    }
+};
+
+var viewToggleHandler = function viewToggleHandler(e) {
+    var choice = get('view');
+  
+    if (choice === e.target.dataset.title) {
+        return; // Don't do anything.
+    }
+
+    viewBtns.filter(function(btn) {
+        return btn !== e.target;
+    }).forEach(function(btn) {
+        return btn.classList.remove('active');
+    });
+    e.target.classList.add('active');
+
+    changeViewTo(e.target.dataset.title);
+    set('view', e.target.dataset.title);
+};
+
+
+var viewChoice = get('view');
+var defaultChoice = 'Täysi';
+
+var viewToggle = el('div', {
+    'class': 'view-toggle'
+});
+var fullBtn = el('a', {
+    role: 'button',
+    'class': viewChoice === defaultChoice ? 'fa fa-window-maximize' : 'fa fa-window-maximize',
+    'data-title': 'Täysi',
+    // title: 'Näytä kokonaiset uutiset', // I don't understand why this breaks it, both data-title and title cant be present
+    onclick: viewToggleHandler
+});
+var previewBtn = el('a', {
+    role: 'button',
+    'class': viewChoice !== defaultChoice ? 'fa fa-list-ul' : 'fa fa-list-ul',
+
+    'data-title': 'Esikatselu',
+    // title: 'Näytä uutisten esikatselu',
+    onclick: viewToggleHandler
+});
+var viewBtns = [fullBtn, previewBtn];
+
+viewToggle.appendChild(fullBtn);
+viewToggle.appendChild(previewBtn);
+
+var saveFilterChoice = function saveFilterChoice(e) {
+    var filter = e.target;
+    var choice = filter.textContent;
+    var view = get('view');
+  
+    if (get('filter') !== choice) {
+        set('filter', choice);
+
+        changeViewTo(view);
+    }
+};
+
+var filterContainer = document.querySelector('.post-body .filtteri');
+var filters = filterContainer.querySelectorAll('.radios-taxonomies-title');
+
+window.addEventListener('click', function(e) {
+    if (e.target.classList.contains('radios-taxonomies-title')) {
+        saveFilterChoice(e);
+    }
+})
+
+var filterChoice = get('filter');
+[].forEach.call(filters, function(filter) {
+    if (filterChoice) {
+        if (filter.textContent === filterChoice) {
+            // filter.previousElementSibling.setAttribute('checked', true); // We need to trigger the event :(
+          setTimeout(function() {
+                        filter.click();
+
+          }, 100);
+        } else {
+            filter.previousElementSibling.removeAttribute('checked');
+        }
+    }
+});
+
+if (viewChoice) {
+    changeViewTo(viewChoice);
+}
+
+[].forEach.call(viewBtns, function(btn) {
+    var choice = viewChoice || defaultChoice;
+    if (btn.dataset.title === choice) {
+        btn.classList.add('active');
+    }
+});
+
+document.querySelector('#post-65 .col-lg-8').insertAdjacentElement('afterbegin', viewToggle); // work please
+//-----------------------------------------
+// View slug: uutiset-etusivu - end
+//-----------------------------------------
+</script>
+</body>
+</html>

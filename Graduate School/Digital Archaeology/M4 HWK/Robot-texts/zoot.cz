@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ajax_popup/
+Disallow: /ajax_popup_process/
+Disallow: /doprava-a-platba/
+Disallow: /ulozit-kosik/
+Disallow: /muj-ucet/
+Disallow: /zaplaceno/
+Disallow: /dokonceni-objednavky/
+Disallow: /dodaci-udaje/
+Disallow: /kosik/
+Sitemap: https://www.zoot.cz/sitemap/index_zcz.xml

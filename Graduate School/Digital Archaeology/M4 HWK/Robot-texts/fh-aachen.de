@@ -1,0 +1,43 @@
+#-------------------------------------------
+# robots.txt zu http://www.fh-aachen.de
+# 2024-12-09 ML
+#-------------------------------------------
+
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /fileadmin/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/*/Resources/Public/
+Disallow: /typo3temp/
+Allow: /typo3temp/assets/
+Disallow: /securedl/
+Disallow: /fh-mitteilungen/
+Disallow: /ohne-navigation/
+Disallow: /test/
+Disallow: /uploads/
+Disallow: /dienste/
+Disallow: /downloads/
+Disallow: /en/downloads/
+Disallow: /hochschule/
+Disallow: /en/university/
+Disallow: /sonstiges/glossar/glossar-detail/
+Disallow: /en/sonstiges/glossar/glossar-detail/
+Disallow: /displays/
+Disallow: /fehler/
+Disallow: /en/fehler/
+Disallow: /*tx_ttnews*cHash*
+Disallow: /*tx_news'_pi1*cHash*
+Disallow: /*download*cHash*
+Disallow: /*L=1%*
+Disallow: /*type=98*
+Disallow: /*type=100*
+Disallow: *.html*
+Disallow: */publikationen/?email=*
+Disallow: /version.php
+Disallow: *?L=*
+Disallow: *&L=*
+Sitemap: https://www.fh-aachen.de/?type=1533906435

@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: 
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: Adsbot-Google
+Disallow:
+
+User-agent: Googlebot
+Disallow: /load_cities.php
+Disallow: /Register/
+Disallow: /Reg/
+Disallow: /v/
+Disallow: /mv1/
+Disallow: /v1/
+Disallow: /v2/
+Disallow: /SES/
+Disallow: /dating/showprofile/
+Disallow: /dating/seo-signup/
+Disallow: /m/
+Disallow: /mobile/
+Disallow: /ref/
+Disallow: /redirect/
+Disallow: /citrus_terms.php
+Disallow: /app/sendlink.php
+Disallow: /sd/
+Disallow: /invite/
+Disallow: /qq/
+Sitemap: https://www.quackquack.in/sitemap.xml

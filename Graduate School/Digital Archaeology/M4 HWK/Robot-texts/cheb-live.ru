@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /advert/clickBanner.php
+Disallow: /ads/
+Disallow: /cc/
+Clean-param: amp_lite
+Clean-param: PageSpeed
+Host: https://cheb-live.ru
+Sitemap: https://cheb-live.ru/sitemap.xml
+Sitemap: https://cheb-live.ru/sitemap-index.xml

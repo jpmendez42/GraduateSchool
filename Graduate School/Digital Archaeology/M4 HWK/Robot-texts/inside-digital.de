@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /schnittstellen/
+Disallow: /ajax/
+Disallow: /cron/
+Disallow: /micro-sites/
+Disallow: /datenblatt_affiliate_links/
+Disallow: /datenexport_xml/
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.inside-digital.de/sitemap_index.xml

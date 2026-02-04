@@ -1,0 +1,22 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Allow: /
+Disallow: /*?id=*
+Disallow: /*&tx_*
+Disallow: /*&cHash*
+
+Allow: /fileadmin/user_upload/
+Allow: /fileadmin/_processed_/
+Allow: /co2online/
+
+Disallow: /index.php*
+Disallow: /typo3/
+Disallow: /fileadmin/
+Disallow: /typo3temp/
+Disallow: /typo3conf/
+
+Disallow: /suche/
+
+Sitemap: https://www.co2online.de/sitemap.xml

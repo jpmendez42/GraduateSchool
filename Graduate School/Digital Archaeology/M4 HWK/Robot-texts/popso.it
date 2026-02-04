@@ -1,0 +1,3520 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5LVW2C8D');</script>
+<!-- End Google Tag Manager -->
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- START INDEX --><title>Home - Banca Popolare di Sondrio</title><!-- STOP INDEX -->
+	<link href="https://www.popso.it/TemplatesUSR/assets/bootstrap-5.2.3-dist/css/bootstrap.min.css" rel="stylesheet" />
+	<link rel='stylesheet' type='text/css' media='screen' href='https://www.popso.it/TemplatesUSR/assets/kit-16660ca409-web/css/all.min.css' />
+    <link rel='stylesheet' type='text/css' media='screen' href='https://www.popso.it/TemplatesUSR/assets/slick/slick.css' />
+    <link rel='stylesheet' type='text/css' media='screen' href='https://www.popso.it/TemplatesUSR/assets/slick/slick-theme.css' />
+	<link rel='stylesheet' type='text/css' media='screen' href='https://www.popso.it/cm/pages/ServeCSS.php/L/IT/N/flex.css/M/-/BF/-/BV/-1?0GAi5b' />
+	<meta name='keywords' content='' />
+	<meta name='description' content='' />
+	<meta name="author" content="Banca Popolare di Sondrio" />
+    <meta name="robots" content="index,follow">
+    <link rel="shortcut icon" href="https://www.popso.it/TemplatesUSR/assets/img/favicon.ico" type="image/x-icon" />
+	
+	
+	
+
+<link rel='stylesheet' href='https://www.popso.it/Extensions/vendor/toastmessage/resources/css/jquery.toastmessage.css' type='text/css' media='print, screen' />
+<link rel='canonical' href='https://www.popso.it/home' />
+<link rel='alternate' href='https://www.popso.it/home' hreflang='it' />
+<style type='text/css'>
+
+	#eu-privacy {
+
+		position: fixed;
+
+		top: 0;
+		left: 0;
+		width: 100%;
+		min-height: 50px;
+		z-index: 10000;
+
+		overflow: hidden;
+	}
+
+	#eu-privacy-inner { margin: 10px 30px; }
+			
+</style>
+<link rel='stylesheet' href='https://www.popso.it/Extensions/assets/css/menu.css' type='text/css' media='print, screen' />
+<meta property="og:title" content="Home" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.popso.it/home" />
+<meta property="og:site_name" content="www.popso.it" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="www.popso.it" />
+<meta name="twitter:creator" content="FlexCMP" />
+<meta name="twitter:title" content="Home" />
+
+</head>
+
+
+<body class="home-page fx-idp-1 ">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5LVW2C8D"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	<!-- INIZIO SKIP -->
+<div class="LinkSkip"><h1 class="viewTitolo GoAway">Banca Popolare di Sondrio</h1></div>
+<div class="LinkSkip"><a href="#Contenuto">Vai al contenuto principale</a></div>
+<div class="LinkSkip"><a href="#MenuPrincipale">Vai al menu principale di navigazione</a></div>
+<div class="LinkSkip"><a href="#Footer">Vai al footer</a></div>
+<!-- FINE SKIP -->
+	
+  <!-- Modal -->
+  <div class="modal fade modal-fullscreen modal-search" tabindex="-1" role="dialog" id="modalCenter" aria-labelledby="modalCenterTitle">
+	<div class="modal-dialog modal-dialog-centered" role="document">
+	  <div class="modal-content">
+		<div class="modal-header">
+		  <div class="container-fluid">
+	        <div class="row align-items-center">
+	          <div class="col-2 col-md-1">
+	            <button class="close" type="button" data-bs-dismiss="modal" aria-label="Chiudi finestra modale">
+	              <i class="far fa-arrow-circle-left"></i>
+	            </button>
+	          </div>
+	          <div class="col-10 col-md-11">
+	            <h2 class="modal-title" id="searchModalTitle">
+	              <span>Cerca</span>
+	            </h2>
+	          </div>
+	        </div> 
+	      </div>
+		</div>
+		<div class="modal-body">
+			<div class="container-fluid">
+				<div class="row">
+					<div class="col-12"> 
+						
+<form id='F1'  method='post' action='https://www.popso.it/cm/FixedPages/Common/Search.v3.php/L/IT/s/1' enctype='multipart/form-data'>
+
+<div class="Search">
+	<label for="text" class="SearchFormText GoAway" accesskey="R">Cerca</label>
+	<div class="inputText"><input type='text' id='text' name='text' value='' maxlength='40' placeholder='Cerca nel sito' class='Input' /></div>
+	<input type='hidden' id='mime' name='mime' value='text/html' />
+	<div class="IcoCerca"><input type='submit' id='btnOK' name='btnOK' value=''  class='Submit'/></div>
+</div> 
+<div><input type='hidden' name='HaveDataF1' id='HaveDataF1' value='1' /></div>
+
+</form>
+
+					</div>
+				</div>
+			</div>  
+		</div>
+	  </div>
+	</div>
+  </div>
+
+    <!-- START INDEX -->
+	<div class="contTestata">
+		<header>
+    <div class="container-fluid d-none d-lg-block">
+		<div class="row row-eq-height no-gutters h-100 justify-content-between align-items-center"> 
+			<div class="col-12">
+                <div class="menuTop">
+                    <div class="menuSx">
+                        <ol>
+                            <li><a href="https://istituzionale.popso.it" class="target_blank">Visita il sito istituzionale</a></li>
+                            <li><a href="https://scrigno.popso.it" class="target_blank">Vai a SCRIGNObps</a></li>
+                            <li><a href="https://businessschool.popso.it" class="target_blank">Business school</a></li>                         
+                        </ol>
+                    </div>
+                    <div class="menuDx">
+                        <ol>
+                            <li><a href="https://www.popso.it/chi-siamo">Chi siamo</a></li>
+                            <li><a href="https://www.popso.it/contatti">Aiuto e contatti</a></li>
+                            <li><a href="https://www.popso.it/chi-siamo/lavora-con-noi">Lavora con noi</a></li>
+                            <!--<li><a href="https://scrigno.popso.it" class="target_blank accediScrigno">AREA RISERVATA</a></li>-->
+                        </ol>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+<nav class="navbar navbar-expand-lg menuTestata">
+    <div class="container-fluid">
+        <div class="col-auto">  
+            <div class="logoBPS">
+                <a href="https://www.popso.it/"><img alt="Banca Popolare di Sondrio" src="https://www.popso.it/TemplatesUSR/assets/img/logo.svg" width="300px" /></a>
+            </div>
+        </div>
+        <!--<button class="navbar-toggler collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-content">
+            <div class="hamburger-toggle">
+                <div class="hamburger">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+        </button>-->
+        <div class="col-auto d-flex d-lg-none contIcoHambSearch">
+            <div class="icoSearch">
+                <button type="button" aria-label="Cerca" data-bs-toggle="modal" id="btnSearch" data-bs-target="#modalCenter"><span>&nbsp;</span></button>
+            </div>
+            <div class="wrap-ham-menu-top">
+                <button class="menu">
+                    <img src="https://www.popso.it/TemplatesUSR/assets/img/icone/ico-hamburger.svg" alt="hamburger">
+                </button>
+            </div>
+        </div>
+
+
+        <div id="MenuPrincipale">
+            <div class="collapse navbar-collapse" id="navbar-content">
+                <div class="col-auto d-block d-lg-none">
+                    <div class="menuTestataResp">
+                        <div class="logoBPS">
+                            <a href="https://www.popso.it/"><img alt="Banca Popolare di Sondrio" src="https://www.popso.it/TemplatesUSR/assets/img/logo.svg" /></a>
+                        </div>
+                        <button class="close-menu-resp">
+                            <img src="https://www.popso.it/TemplatesUSR/assets/img/icone/ico-close-bianco.svg" alt="chiudi">
+                        </button>
+                    </div>
+                </div>
+
+                <div class="contMenuSearch">
+                    <div class="menuH">
+                        <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+                            
+                            <li id="menu-lvl1-0" class="menu-lvl1-element nav-item nodropdown selected" >
+                                <a href="https://www.popso.it/" class="nodropdown-toggle menu-lvl1-toggle" ><span>Home</span></a>
+                                
+                            </li>
+                            
+                            <li id="menu-lvl1-1" class="menu-lvl1-element nav-item dropdown " >
+                                <a href="#" class="dropdown-toggle menu-lvl1-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false"><span>Privati</span></a>
+                                
+<ul class="dropdown-menu menuLiv2 animate">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <ol class="cont-menuLiv2-resp">
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-1">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-1"><i class="banca"></i> Conti correnti</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-conti-correnti">
+                <strong>Conti correnti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti/conto-multiplus">Conto MULTIplus</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti/conto-corrente-solidarieta">Conto Solidarietà</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti/workinitaly">Conto WORKinITALY</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti/conto-di-base">Conto di base</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti/conti-esteri-non-residenti-e-conti-residenti-in-valuta">Conti esteri non residenti e Conti residenti in valuta</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-conti-correnti">
+                <strong>Conti correnti online</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti-online/conto-sopop">Conto SoPOP</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti-online/privati-azimut">Conto corrente online  - convenzione AZIMUT</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti-online/privati-bnt">Conto corrente online  - convenzione BNT</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-conti-correnti">
+                <strong>Conti e libretti per i tuoi figli</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/libretto-di-risparmio/multiplus-minori">Conto MULTIplus minori (10-17 anni)</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/libretto-di-risparmio/conto-44-gatti">Conto 44 gatti (0-11 anni)</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/conti-correnti/libretto-di-risparmio/primi-frutti">Deposito Primi Frutti (0-17 anni)</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/conti-correnti">Vedi tutto Conti correnti</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-2">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-2"><i class="carta"></i> Carte</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-carte">
+                <strong>Carte di debito</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-di-debito/carta-nexi-debit">Carta Nexi Debit</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-di-debito/carta-nexi-debit-premium">Carta Nexi Debit Premium</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-carte">
+                <strong>Carte di credito</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-di-credito/carte-nexi-credit">Carte Nexi Credit</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-di-credito/carta-nexi-bancafamiglia-rateale">Carta Nexi - Bancafamiglia (rateale)</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-carte">
+                <strong>Carte prepagate</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-prepagate/carta-ma">CARTA +ma</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-carte">
+                <strong>Carte universitari</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-universitari/carta-ateneo">Carta ateneo+</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-universitari/iulm-card">IULM Card</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-universitari/b-pay">B.pay</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/carte/carte-universitari/cattolicard">CATTOLICArd</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/carte">Vedi tutto Carte</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-3">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-3"><i class="casa"></i> Mutui</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-mutui">
+                <strong>Mutui</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/mutui/mutui/mutuo-a-tasso-fisso">Mutuo a tasso fisso</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/mutui/mutui/mutuo-a-tasso-variabile">Mutuo a tasso variabile</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/mutui/mutui/mutuo-a-tasso-misto">Mutuo a tasso misto</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/mutui/mutui/next-casa-green">next - casa green</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/mutui/mutui/next-casa-gree-sal">next - casa green SAL</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/mutui">Vedi tutto Mutui</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-4">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-4"><i class="soldi"></i> Prestiti e finanziamenti</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-prestiti-e-finanziamenti">
+                <strong>Prestiti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/prestiti-e-finanziamenti/prestito-personale">Prestito personale</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/prestiti-e-finanziamenti/next-mobilita-sostenibile">next - mobilità sostenibile</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/prestiti-e-finanziamenti/next-energia-green">next - energia green</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/prestiti-e-finanziamenti/prestiplus">PRESTIplus</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/prestiti-e-finanziamenti/prestipolizza-tasso-zero">PRESTIpolizza - Tasso zero</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-prestiti-e-finanziamenti">
+                <strong>Altri finanziamenti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/altri-finanziamenti/cessione-del-quinto">Cessione del quinto</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/altri-finanziamenti/prestito-ipotecario-vitalizio">Prestito ipotecario vitalizio (PIV)</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti/altri-finanziamenti/anticipazione-trattamento-di-fine-servizio-tfs">Anticipazione Trattamento di Fine Servizio (TFS)</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti">Vedi tutto Prestiti e finanziamenti</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-5">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-5"><i class="salvadanaio"></i> Investimenti e fondo pensione</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Consulenza</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/consulenza-gpm/consulenza-di-portafoglio">Consulenza di Portafoglio</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Investimenti e risparmio</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/investimenti-risparmio/fondi-sicav">Fondi e SICAV</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/investimenti-risparmio/gestione-patrimoni-mobiliari">Gestione Patrimoni Mobiliari</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/investimenti-risparmio/arca-vita">Arca Vita e Arca Vita International</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/investimenti-risparmio/vendita-lingottini-d-oro-con-logo-bps">Vendita lingottini d'oro con logo BPS</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/investimenti-risparmio/oro-finanziario">Oro finanziario</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Fondo pensione</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/fondo-pensione/arca-previdenza">Arca Previdenza</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Strumenti finanziari</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/strumenti-finanziari/offerte-pubbliche-di-vendita">Offerte Pubbliche di Vendita</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/investimenti/strumenti-finanziari/prestiti-obbligazionari">Prestiti Obbligazionari</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Informativa di sostenibilità</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/privati/investimenti/informativa-sostenibilita">Informativa di sostenibilità</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/investimenti">Vedi tutto Investimenti e fondo pensione</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-6">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-6"><i class="ombrello"></i> Assicurazioni</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-assicurazioni">
+                <strong>Per la tua casa</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/casa/arca-energia-futuro">Arca Energia Futuro</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/casa/ama-proteggi-casa-a-modo-tuo">Ama&Proteggi - Casa a modo tuo</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-assicurazioni">
+                <strong>Per te e la tua famiglia</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/unisalute-argento">UniSalute ARGENTO</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/unisalute-studente">UniSalute STUDENTE</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/unisalute-acuore">UniSalute ACUORE</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/arca-my-family">Arca My Family</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/gente-serena">Gente Serena</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/ti-indennizzo-new">Ti Indennizzo New</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/siprevisto">SìPrevisto</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/zero-pensieri">Zero Pensieri</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/te-famiglia/promozione-casa-famiglia-salute">Promozione casa, famiglia, salute</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-assicurazioni">
+                <strong>Per la mobilità</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/mobilita/polizza-viaggio">Polizzaviaggio.it</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/mobilita/arca-soluzione-strada">Arca Soluzione Strada</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/mobilita/tutto-tondo">Tutto Tondo</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/mobilita/arca-motor-box">Arca Motor Box con Tutto Tondo</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/mobilita/sviluppo-auto-3">Sviluppo Auto 3</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/mobilita/r-c-natanti">R.C. Natanti</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-assicurazioni">
+                <strong>Per i tuoi finanziamenti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/per-finanziamenti/salva-sogni">Salva Sogni per chi Ami e per Te</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/per-finanziamenti/salva-mutuo">Salva Mutuo</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/assicurazioni/per-finanziamenti/salva-prestito">Salva Prestito</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/assicurazioni">Vedi tutto Assicurazioni</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-9">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-9"><i class="mondo-estero"></i> Estero</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-estero-e-internazionalizzazione">
+                <strong>Sistemi di pagamento e gestione liquidità</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/cambi-a-pronti">Cambi a pronti</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/anticipi-estero">Anticipi estero</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/depositi-vincolati-non-residenti-e-vincolati-residenti-in-divisa">Depositi vincolati non residenti e vincolati residenti in divisa</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/servizi-di-incasso-e-pagamento">Servizi di incasso e pagamento</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-estero-e-internazionalizzazione">
+                <strong>Formazione</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/business-school">Business School</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/estero-e-internazionalizzazione">Vedi tutto Estero</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-8">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-8"><i class="device"></i> Servizi digitali</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-servizi-digitali">
+                <strong>Servizi digitali</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/servizi-digitali/servizi-digitali/scrignobps-la-nostra-banca-digitale">SCRIGNObps - La nostra banca digitale</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/servizi-digitali/servizi-digitali/appscrignobps">App SCRIGNObps</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/servizi-digitali/servizi-digitali/scrignoidentitel">SCRIGNOIdentiTel</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/privati/servizi-digitali/servizi-digitali/scrigno-trading-online">SCRIGNOTrading Online</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/privati/servizi-digitali">Vedi tutto Servizi digitali</a></li>
+</ul>
+
+
+
+        </li>
+    
+    </ol>
+    <li class="btnVediTutto"><a href="https://www.popso.it/prodotti/privati" class="TargetVediTutto">Vedi tutto di Privati</a></li>
+</ul>
+
+
+
+                            </li>
+                            
+                            <li id="menu-lvl1-2" class="menu-lvl1-element nav-item dropdown " >
+                                <a href="#" class="dropdown-toggle menu-lvl1-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false"><span>Aziende e professionisti</span></a>
+                                
+<ul class="dropdown-menu menuLiv2 animate">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <ol class="cont-menuLiv2-resp">
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-70">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-70"><i class="banca"></i> Conti correnti</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-conti-correnti">
+                <strong>Conti correnti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/conti-correnti/conti-correnti/conto-corrente-italia-ordinario">Conto corrente Italia ordinario</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/conti-correnti/conti-correnti/conti-esteri-non-residenti-e-conti-residenti-in-valuta">Conti esteri non residenti e Conti residenti in valuta</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-conti-correnti">
+                <strong>Conti correnti per i liberi professionisti iscritti alle Casse di Previdenza private</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/conti-correnti/conti-online/cctradizionale-liberiprofessionisti">Conto corrente "di filiale" per i liberi professionisti</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/conti-correnti/conti-online/cconline-liberiprofessionisti">Conto corrente online per i liberi professionisti</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/conti-correnti">Vedi tutto Conti correnti</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-10">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-10"><i class="carta"></i> Carte</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-carte">
+                <strong>Carte di debito</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/carte/carte-di-debito/nexi-debit-business">Nexi Debit Business</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-carte">
+                <strong>Carte di credito</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/carte/carte-di-credito/carta-nexi-business">Carta Nexi Business</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/carte/carte-di-credito/cartacobranded-nexi">Carta di credito per professionisti</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/carte/carte-di-credito/carta-nexi-corporate">Carta Nexi Corporate</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-carte">
+                <strong>Carte prepagate</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/carte/carte-prepagate/carta-ma-azienda">Carta +mazienda</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/carte">Vedi tutto Carte</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-11">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-11"><i class="soldi"></i> Finanziamenti</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-finanziamenti">
+                <strong>Mutui</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/mutui/mutui-bei-agri-100">MUTUI BEI – AGRI 100%</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/mutui/mutui-bei-regione-lazio">Mutui BEI - Regione Lazio</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/mutui/mutui-bei-ordinari">Mutui BEI - Ordinari</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/mutui/mutuo-a-tasso-opzione">Mutuo a tasso opzione</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/mutui/mutuo-a-tasso-variabile">Mutuo a tasso variabile</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/mutui/mutuo-a-tasso-fisso">Mutuo a tasso fisso</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-finanziamenti">
+                <strong>Finanziamenti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/anticipo-5x1000">Anticipo 5X1000</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/anticipo-flussi-pos">Anticipo flussi POS</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/leasing">Leasing</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/factoring">Factoring</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-immobile-green">next - immobile green</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-immobile-green-sal">next - immobile green SAL</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-mobilita-sostenibile">next - mobilità sostenibile</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-economia-circolare">next - economia circolare</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-idroelettrico">next - idroelettrico</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-fotovoltaico">next - fotovoltaico</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-eolico">next - eolico</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-efficientemento-energetico">next - efficientamento energetico</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/next-bioenergia">next - bioenergia</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti/prestito-d-uso-oro">Prestito d’uso d'oro</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-finanziamenti">
+                <strong>Finanziamenti per professionisti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti-professionisti/serviziprofessionisti-popsofarma">Servizio  PopSoFarma</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti-professionisti/professionisti-mutuo">Mutuo per acquisto casa/ufficio</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti-professionisti/professionisti-finanziamentiattivita">Finanziamenti destinati all'attività professionale</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti/finanziamenti-professionisti/professionisti-prestitoonline">Prestito personale online per liberi professionisti iscritti alle Casse di Previdenza Private</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/finanziamenti">Vedi tutto Finanziamenti</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-73">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-73"><i class="salvadanaio"></i> Investimenti e fondo pensione</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Consulenza</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/consulenza/consulenza-di-portafoglio">Consulenza di Portafoglio</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Investimenti e risparmio</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/investimenti-risparmio/fondi-sicav">Fondi e SICAV</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/investimenti-risparmio/gestione-patrimoni-mobiliari">Gestione Patrimoni Mobiliari</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/investimenti-risparmio/arca-vita">Arca Vita e Arca Vita International</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/investimenti-risparmio/vendita-lingottini-d-oro-con-logo-bps">Vendita lingottini d'oro con logo BPS</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/investimenti-risparmio/oro-finanziario">Oro finanziario</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Fondo pensione</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/fondo-pensione/arca-previdenza">Arca Previdenza</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Strumenti finanziari</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/strumenti-finanziari/prestiti-obbligazionari">Prestiti Obbligazionari</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/investimenti/strumenti-finanziari/offerte-pubbliche-di-vendita">Offerte Pubbliche di Vendita</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-investimenti">
+                <strong>Informativa di sostenibilità</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/aziende-professionisti/investimenti/informativa-sostenibilita">Informativa di sostenibilità</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/investimenti">Vedi tutto Investimenti e fondo pensione</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-14">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-14"><i class="ombrello"></i> Assicurazioni</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-assicurazioni">
+                <strong>Persone</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/persone/imprimis-artigiano">IMPRIMIS Artigiano</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/persone/imprimis-commercio">IMPRIMIS Commercio</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/persone/acuore">UniSalute ACUORE</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/persone/arca-valore-impresa-key-man-top">Arca Valore Impresa Key Man Top</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/persone/arca-valore-impresa-key-man">Arca Valore Impresa Key Man</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-assicurazioni">
+                <strong>Assets</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/assets/arca-rischi-catastrofali">Arca Rischi catastrofali Plus</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/assets/arca-energia-futuro">Arca Energia Futuro</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/assets/tutto-tondo">Tutto Tondo</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-assicurazioni">
+                <strong>Protezione del rischio</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/protezione-del-rischio/arca-valore-impresa-ppi-top">Arca Valore Impresa PPI - TOP</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni/protezione-del-rischio/arca-valore-impresa-cpi">Arca Valore Impresa CPI</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/assicurazioni">Vedi tutto Assicurazioni</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-12">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-12"><i class="carte-pago"></i> Incassi e pagamenti</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-incassi-e-pagamenti">
+                <strong>Incassi e pagamenti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/incassi-e-pagamenti/incassi-e-pagamenti/nexi-smartpos">Nexi SmartPOS®</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/incassi-e-pagamenti/incassi-e-pagamenti/nexi-pay-by-link">Nexi Pay-by-Link</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/incassi-e-pagamenti/incassi-e-pagamenti/pos-virtuale">POS virtuale</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/incassi-e-pagamenti">Vedi tutto Incassi e pagamenti</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-13">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-13"><i class="mondo-estero"></i> Estero</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-estero-e-internazionalizzazione">
+                <strong>Sistemi di pagamento e gestione liquidità</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/cambi-a-pronti">Cambi a pronti</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/anticipi-estero">Anticipi Estero</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/depositi-vincolati-non-residenti-e-vincolati-residenti-in-divisa">Depositi vincolati non residenti e vincolati residenti in divisa</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/cash-management">Cash Management</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/servizi-swift">Servizi SWIFT</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/sistemi-di-pagamento-e-gestione-liquidita/servizi-di-incasso-e-pagamento">Servizi di incasso e pagamento</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-estero-e-internazionalizzazione">
+                <strong>Trade finance</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/trade-finance/forfaiting">Forfaiting</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/trade-finance/garanzie">Garanzie</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/trade-finance/rimesse-documentarie">Rimesse documentarie</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/trade-finance/lettere-di-credito-standby">Lettere di credito Stand-by</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/trade-finance/lettere-di-credito-crediti-documentari">Lettere di credito  - Crediti Documentari</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-estero-e-internazionalizzazione">
+                <strong>Copertura rischi finanziari</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/copertura-rischi-finanziari/pubblicazioni">Pubblicazioni</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/copertura-rischi-finanziari/opzioni-su-merci">Opzioni su merci</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/copertura-rischi-finanziari/operazioni-a-termine-su-merci">Operazioni a termine su merci</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/copertura-rischi-finanziari/operazioni-a-termine-su-cambi">Operazioni a termine su cambi</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/copertura-rischi-finanziari/opzioni-su-cambi">Opzioni su cambi</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/copertura-rischi-finanziari/opzioni-su-tassi-di-interesse-cap-floor-e-collar">Opzioni su tassi di interesse - Cap, Floor e Collar</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/copertura-rischi-finanziari/derivati-su-tassi-di-interesse-irs">Swap su tassi di interesse - IRS</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-estero-e-internazionalizzazione">
+                <strong>Servizi per l'Internazionalizzazione</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/servizi-personalizzati">Servizi personalizzati</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/convenzioni-e-collaborazioni">Convenzioni e collaborazioni</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/sintesi-2000-srl">Sintesi 2000 Srl</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/sportello-europa-cbe-geie">Sportello Europa CBE-GEIE</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/newsletter-business-class">Newsletter Business Class</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/business-school">Business School</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/sportello-unico-per-l-internazionalizzazione">Sportello Unico per l'Internazionalizzazione</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione">Vedi tutto Estero</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-16">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-16"><i class="valigia"></i> Servizi a valore aggiunto</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-servizi-a-valore-aggiunto">
+                <strong>Servizi a valore aggiunto</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-a-valore-aggiunto/servizi-a-valore-aggiunto/programma-elite">Programma ELITE</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/servizi-a-valore-aggiunto">Vedi tutto Servizi a valore aggiunto</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-15">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-15"><i class="device"></i> Servizi digitali</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-servizi-digitali">
+                <strong>Servizi digitali</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali/servizi-digitali/scrignoazienda">SCRIGNOazienda</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali/servizi-digitali/scrignoidentitel">SCRIGNOIdentiTel</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali/servizi-digitali/scrignof24">SCRIGNOF24</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali/servizi-digitali/scrignofattura-elettronica">SCRIGNOFattura Elettronica</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali/servizi-digitali/scrignomultibanca">SCRIGNOmultibanca</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali/servizi-digitali/scrignobps-la-nostra-banca-digitale">SCRIGNObps - La nostra banca digitale</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali">Vedi tutto Servizi digitali</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-66">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-66"><i class="servizi-professionisti"></i> Servizi per i professionisti</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-servizi-professionisti">
+                <strong>Servizi per i professionisti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-cnpadc">CNPADC - Cassa Nazionale di Previdenza e Assistenza a favore dei Dottori Commercialisti</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-cnpaf">CNPAF - Cassa Nazionale di Previdenza e Assistenza Forense</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-cnpr">CNPR - Cassa Nazionale di Previdenza ed assistenza a favore dei Ragionieri e periti commerciali</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-enpab">ENPAB - Ente Nazionale Previdenza Assistenza Biologi</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-enpacl">ENPACL - Ente Nazionale di Previdenza e Assistenza per i Consulenti del Lavoro</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-enpaf">ENPAF - Ente Nazionale di Previdenza e di Assistenza Farmacisti</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-enpam">ENPAM - Ente Nazionale di Previdenza ed Assistenza dei Medici e degli Odontoiatri</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-enpap">ENPAP - Ente Nazionale di Previdenza ed Assistenza per gli Psicologi</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-enpapi">ENPAPI - Ente Nazionale di Previdenza e Assistenza della Professione Infermieristica</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-enpav">ENPAV - Ente Nazionale di Previdenza ed Assistenza dei Veterinari</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-epap">EPAP - Ente di Previdenza e Assistenza Pluricategoriale</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-eppi">EPPI - Ente di Previdenza dei Periti Industriali e dei Periti Industriali laureati</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-inarcassa">INARCASSA - Cassa nazionale di previdenza ed assistenza per gli ingegneri ed architetti liberi professionisti</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-cnn">CNN - Consiglio Nazionale del Notariato</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti/servizi-professionisti/serviziprofessionisti-cipag">CIPAG -  Cassa Italiana di Previdenza e Assistenza dei Geometri liberi professionisti</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti">Vedi tutto Servizi per i professionisti</a></li>
+</ul>
+
+
+
+        </li>
+    
+    </ol>
+    <li class="btnVediTutto"><a href="https://www.popso.it/prodotti/aziende-professionisti" class="TargetVediTutto">Vedi tutto di Aziende e professionisti</a></li>
+</ul>
+
+
+
+                            </li>
+                            
+                            <li id="menu-lvl1-3" class="menu-lvl1-element nav-item dropdown " >
+                                <a href="#" class="dropdown-toggle menu-lvl1-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false"><span>Enti</span></a>
+                                
+<ul class="dropdown-menu menuLiv2 animate">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <ol class="cont-menuLiv2-resp">
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-17">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-17"><i class="banca"></i> Servizi per gli enti</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-servizi-per-gli-enti">
+                <strong>Servizi digitali</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti/servizi-digitali/scrignopago-facile">SCRIGNOPago Facile</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti/servizi-digitali/scrignogestes">SCRIGNOGesTes</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-servizi-per-gli-enti">
+                <strong>Prodotti e servizi per gli enti</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti/prodotti-e-servizi-per-gli-enti/servizi-di-tesoreria-e-di-cassa">Servizi di tesoreria e di cassa</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti/prodotti-e-servizi-per-gli-enti/ordinativi-informatici-e-firma-digitale">Ordinativi informatici e firma digitale</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti/prodotti-e-servizi-per-gli-enti/servizi-accessori-di-incasso">Servizi accessori di incasso</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti/prodotti-e-servizi-per-gli-enti/servizi-accessori-di-pagamento">Servizi accessori di pagamento</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti/prodotti-e-servizi-per-gli-enti/certificazione-di-qualita">Certificazione di qualità</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/enti/servizi-per-gli-enti">Vedi tutto Servizi per gli enti</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-82">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-82"><i class="enti-terzo-settore"></i> Enti del Terzo Settore</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-enti-del-terzo-settore">
+                <strong>Prodotti e servizi</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/enti-del-terzo-settore/prodotti-servizi/prodotti-e-servizi-per-gli-enti-del-terzo-settore">Prodotti e servizi per gli Enti del Terzo Settore</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/enti-del-terzo-settore/prodotti-servizi/anticipo-5x1000">Anticipo 5X1000</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/enti/enti-del-terzo-settore/prodotti-servizi/next-ets">Finanziamento next - ETS</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/enti/enti-del-terzo-settore">Vedi tutto Enti del Terzo Settore</a></li>
+</ul>
+
+
+
+        </li>
+    
+    </ol>
+    <li class="btnVediTutto"><a href="https://www.popso.it/prodotti/enti" class="TargetVediTutto">Vedi tutto di Enti</a></li>
+</ul>
+
+
+
+                            </li>
+                            
+                            <li id="menu-lvl1-4" class="menu-lvl1-element nav-item dropdown " >
+                                <a href="#" class="dropdown-toggle menu-lvl1-toggle" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false"><span>Servizi digitali</span></a>
+                                
+<ul class="dropdown-menu menuLiv2 animate">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <ol class="cont-menuLiv2-resp">
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-18">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-18"><i class="device"></i> Servizi digitali</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-servizi-digitali">
+                <strong>Servizi digitali</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/scrigno-bps">SCRIGNObps - La nostra banca digitale</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/app-scrigno-bps">App SCRIGNObps</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/open-banking">Open Banking</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/bancomat-pay">BANCOMAT Pay®</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/scrigno-ges-tes">SCRIGNOGesTes</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/scrigno-identi-tel">SCRIGNOIdentiTel</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/scrignopago-facile">SCRIGNOPagoFacile</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/scrigno-trading-on-line">SCRIGNOTrading Online</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/scrigno-budget">SCRIGNObudget</a></li>
+
+</ol>
+
+            </li>
+
+            <li class="menubox-cat-servizi-digitali">
+                <strong>Mobile payments</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/apple-pay">Apple Pay</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/google-pay">Google Pay</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/servizi-digitali/servizi-digitali">Vedi tutto Servizi digitali</a></li>
+</ul>
+
+
+
+        </li>
+    
+        <li class="dropend  menu-lvl2-item" id="menu-lvl2-item-19">
+            <a href="#" data-bs-toggle="dropdown" data-bs-auto-close="outside" aria-expanded="false" class="dropdown-item _dropdown-toggle  menu-lvl2-toggle" id="menu-lvl2-toggle-19"><i class="sicurezza"></i> Sicurezza online</a>
+            
+<ul class="dropdown-menu  menuLiv3 animate" data-bs-popper="static">
+    <li class="d-block d-lg-none btnBack"><a href="#">Indietro</a></li>
+    <li class="dropend">
+        <ol>
+
+            <li class="menubox-cat-sicurezza-online">
+                <strong>Sicurezza online</strong>
+                
+<ol>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/prodotti/servizi-digitali/sicurezza-online/sicurezza-online/schema-ponzi">Una truffa lunga un secolo: lo “Schema Ponzi”. Un video di Consob lo racconta</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/truffe-anziani">Consigli contro le truffe agli anziani</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/sicurezza-on-line/il-decalogo-della-sicurezza">Il decalogo della sicurezza</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/sicurezza-online/sicuri-scrigno">Sicuri su SCRIGNO</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/sicurezza-online/navigosereno">Navigosereno</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/navigati-mille-volti">I Navigati - I mille volti della truffa</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/cybersicuri-impresa-possibile">Cybersicuri - Impresa possibile</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/certificazione-sicurezza-iso27001">Certificazione di sicurezza ISO 27001</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/vademecum-sicurezza-pagamenti-internet">Vademecum sulla sicurezza dei pagamenti via internet</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/vademecum-abi-sicurezza-dentro-fuori-filiale">Vademecum ABI per agire in sicurezza dentro e fuori la filiale</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-digitali/sicurezza/truffe-trading-online">Le truffe nel Trading online</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/linee-guida-suggerimenti">Prevenire le frodi</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/3dSecure">3D Secure</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/phishing-vishing">Phishing, Vishing, Smishing e MITB</a></li>
+
+    <li><a class="dropdown-item main-menu-leaf" href="https://www.popso.it/servizi-online/sicurezza/guide-europol">Le guide di Europol</a></li>
+
+</ol>
+
+            </li>
+
+        </ol>
+    </li>
+    <li class="btnVediTutto btnVediTutto3Liv"><a href="https://www.popso.it/prodotti/servizi-digitali/sicurezza-online">Vedi tutto Sicurezza online</a></li>
+</ul>
+
+
+
+        </li>
+    
+    </ol>
+    <li class="btnVediTutto"><a href="https://www.popso.it/prodotti/servizi-digitali" class="TargetVediTutto">Vedi tutto di Servizi digitali</a></li>
+</ul>
+
+
+
+                            </li>
+                            
+                            <li id="menu-lvl1-5" class="menu-lvl1-element nav-item nodropdown " >
+                                <a href="https://www.popso.it/nonsolobanca" class="nodropdown-toggle menu-lvl1-toggle" ><span>Nonsolobanca</span></a>
+                                
+                            </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="icoSearch">
+                        <button type="button" aria-label="Cerca" data-bs-toggle="modal" id="btnSearch" data-bs-target="#modalCenter"><span>&nbsp;</span></button>
+                    </div>
+                    <div class="menuTop d-block d-lg-none">
+                        <div class="menuSx">
+                            <ol>
+                            
+                            <li><a aria-current="page" href="https://istituzionale.popso.it/it">Visita il sito istituzionale</a></li>
+                            
+                            <li><a aria-current="page" href="https://scrigno.popso.it">Vai a SCRIGNObps</a></li>
+                            
+                            </ol>
+                        </div>
+                        <div class="menuDx">   
+                            
+                            <a aria-current="page" href="https://businessschool.popso.it">Business school</a>
+                            
+                            <a aria-current="page" href="https://www.popso.it/contatti/recapiti-telefonici">Aiuto e contatti</a>
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>        
+    </div>
+</nav>
+
+
+
+</header>
+	</div> 
+
+    
+<!-- Begin BLOB Content -->
+
+<!-- End BLOB Content -->
+
+
+    <div class="contBoxTopH">
+        
+        <div class="container-fluid">
+            <div class="row"> 
+                <div class="col-12 p-0">
+                    <a id="Contenuto"></a>
+                    
+<div class="SliderTopHome">
+    <div class="slider slider-for">
+    
+    <div class="item">
+        <div class="SliderBannerTopHDesktop d-none d-md-flex" style="background-image: url('https://www.popso.it/images/u/n/i/D.12313328870afb847808/Sovrindebitamento_grande.png');">
+            
+        </div>    
+        <div class="SliderBannerTopHMobile d-flex d-md-none" style="background-image: url('https://www.popso.it/images/u/n/i/D.470b1f6d8390779ebacb/Sovrindebitamento_piccolo.png');">
+            
+        </div>
+        <div class="contTitleTxt">
+                <h2 class="viewSottotitolo">Sei certo di voler richiedere un altro finanziamento?</h2>
+                <div class="txtSlide">Non fare il passo più lungo della gamba, applica la regola del 30%...</div>
+                <a href='https://www.popso.it/comunicazioni-alla-clientela/sovraindebitamento' class="btnScopri _empty_"
+                title="">
+                    Scopri di più <span class="GoAway">Sei certo di voler richiedere un altro finanziamento?</span>
+                </a>
+                
+            </div>
+        </div>
+    
+    <div class="item">
+        <div class="SliderBannerTopHDesktop d-none d-md-flex" style="background-image: url('https://www.popso.it/images/u/n/i/D.4a0248d104d4a09c671c/Bannergrande.png');">
+            
+        </div>    
+        <div class="SliderBannerTopHMobile d-flex d-md-none" style="background-image: url('https://www.popso.it/images/u/n/i/D.33ab93e6d475b0d4c6af/Bannerpiccolo.png');">
+            
+        </div>
+        <div class="contTitleTxt">
+                <h2 class="viewSottotitolo">Scenari dell’export nel settore agribusiness </h2>
+                <div class="txtSlide">Webinar <br />15 ottobre dalle ore 09.30</div>
+                <a href='https://businessschool.popso.it/Landing/businessschool.popso.it/schedaDettagliCorso.aspx?idCorso=1545&conIscrizione=true&aula=Webinar&idEdizione=1314&idEvento=173&idQuestIscr=null&nomeCorso=Scenari%20dell%27export%20nel%20settore%20agribusiness&eventoPassato=false' class="btnScopri target_blank"
+                title="Link per avere maggiori informazioni sull'evento">
+                    Scopri di più <span class="GoAway"></span>
+                </a>
+                
+            </div>
+        </div>
+    
+    <div class="item">
+        <div class="SliderBannerTopHDesktop d-none d-md-flex" style="background-image: url('https://www.popso.it/images/u/n/i/D.76e6c331d51fb4b64646/Mutui_1600x522.png');">
+            
+        </div>    
+        <div class="SliderBannerTopHMobile d-flex d-md-none" style="background-image: url('https://www.popso.it/images/u/n/i/D.9017a8a63fb65355ab79/Mutui_767x250.png');">
+            
+        </div>
+        <div class="contTitleTxt">
+                <h2 class="viewSottotitolo">Mutui</h2>
+                <div class="txtSlide">La nostra offerta per accompagnarti nei tuoi progetti di vita</div>
+                <a href='https://www.popso.it/prodotti/privati/mutui' class="btnScopri _empty_"
+                title="">
+                    Scopri di più <span class="GoAway">Mutui</span>
+                </a>
+                
+            </div>
+        </div>
+    
+    <div class="item">
+        <div class="SliderBannerTopHDesktop d-none d-md-flex" style="background-image: url('https://www.popso.it/images/u/n/i/D.92eb29a882bff2c533e5/img_carousel_home_Bancassicurazione.jpg');">
+            
+        </div>    
+        <div class="SliderBannerTopHMobile d-flex d-md-none" style="background-image: url('https://www.popso.it/images/u/n/i/D.0f059a6f325aefb28d98/BancaAssicurazione.jpg');">
+            
+        </div>
+        <div class="contTitleTxt">
+                <h2 class="viewSottotitolo">BancAssicurazione <br />In ogni momento, <br />il rifugio sicuro</h2>
+                <div class="txtSlide">Arca Vita - Arca Assicurazioni - UniSalute</div>
+                <a href='https://www.popso.it/bancassicurazione' class="btnScopri _empty_"
+                title="">
+                    Scopri di più <span class="GoAway">BancAssicurazione <br />In ogni momento, <br />il rifugio sicuro</span>
+                </a>
+                
+            </div>
+        </div>
+    
+    <div class="item">
+        <div class="SliderBannerTopHDesktop d-none d-md-flex" style="background-image: url('https://www.popso.it/images/u/n/i/D.f741346ba56e6ed65002/Multiplus_1600x522.png');">
+            
+        </div>    
+        <div class="SliderBannerTopHMobile d-flex d-md-none" style="background-image: url('https://www.popso.it/images/u/n/i/D.89ce6d33b4ba3b6c9b79/Multiplus_767x250.png');">
+            
+        </div>
+        <div class="contTitleTxt">
+                <h2 class="viewSottotitolo">Conto MULTIplus</h2>
+                <div class="txtSlide">Il conto corrente adatto a tutta la famiglia che puoi personalizzare con i prodotti e i servizi di cui hai bisogno</div>
+                <a href='https://www.popso.it/prodotti/privati/conti-correnti/conti-correnti/conto-multiplus' class="btnScopri _empty_"
+                title="">
+                    Scopri di più <span class="GoAway">Conto MULTIplus</span>
+                </a>
+                
+            </div>
+        </div>
+    
+    <div class="item">
+        <div class="SliderBannerTopHDesktop d-none d-md-flex" style="background-image: url('https://www.popso.it/images/u/n/i/D.59204df937396f394cf2/Navigosereno_1600x522.png');">
+            
+        </div>    
+        <div class="SliderBannerTopHMobile d-flex d-md-none" style="background-image: url('https://www.popso.it/images/u/n/i/D.35a10abe5dcb030c55bd/Navigosereno_767x250.png');">
+            
+        </div>
+        <div class="contTitleTxt">
+                <h2 class="viewSottotitolo">Navigosereno</h2>
+                <div class="txtSlide">Verifica lo stato di sicurezza dei tuoi dispositivi e leggi le ultime news in tema di sicurezza informatica</div>
+                <a href='https://www.popso.it/sicurezza-online/navigosereno' class="btnScopri _empty_"
+                title="">
+                    Scopri di più <span class="GoAway">I mille volti della truffa</span>
+                </a>
+                
+            </div>
+        </div>
+    
+    </div>
+
+    <span class="pagingInfo"></span>
+
+    <div class="slider slider-nav">
+
+    
+
+    <button type="button" class="btnNav">
+        <span class="titlePag">Sovraindebitamento</span>
+        <span class="txtPag">Applica la regola del 30%</span>
+    </button>
+
+    
+
+    <button type="button" class="btnNav">
+        <span class="titlePag">15 ottobre dalle ore 09.30</span>
+        <span class="txtPag">Webinar - Scenari dell’export nel settore agribusiness </span>
+    </button>
+
+    
+
+    <button type="button" class="btnNav">
+        <span class="titlePag">Mutui</span>
+        <span class="txtPag">Trova quello più adatto a te</span>
+    </button>
+
+    
+
+    <button type="button" class="btnNav">
+        <span class="titlePag">BancAssicurazione</span>
+        <span class="txtPag">In ogni momento, il rifugio sicuro</span>
+    </button>
+
+    
+
+    <button type="button" class="btnNav">
+        <span class="titlePag">Conto MULTIplus</span>
+        <span class="txtPag">Scopri il conto corrente adatto alle tue necessità</span>
+    </button>
+
+    
+
+    <button type="button" class="btnNav">
+        <span class="titlePag">Navigosereno</span>
+        <span class="txtPag">Verifica lo stato di sicurezza di computer, smartphone e tablet</span>
+    </button>
+
+    
+
+    </div>
+</div>
+
+                </div>
+            </div>
+        </div>            
+        
+
+        
+        <!--<div class="wrapFasciaSoluzioni">
+            <div class="container">
+                <div class="row"> 
+                    <div class="col-12 p-0">
+                        <div class="contBoxSoluzioni">-->
+                            <div>
+<div class="contBoxTopH">
+	<div class="wrapFasciaSoluzioni">
+		<div class="container">
+			<div class="row"> 
+				<div class="col-12 p-0">
+					<div class="contBoxSoluzioni">
+						<div class="tool-fabbisogno" id="tool-fabbisogno-3">
+
+							<h2 class="viewSottotitolo">I migliori prodotti per te e la tua famiglia</h2><br />
+
+							<div class="boxAffiancati-BgBiancoTxt">
+								<div class="boxTxtBtn">
+									<p>
+										Scopri in pochi passi le soluzioni più adatte alle tue necessità.
+									</p>
+									<a class="btnScopri btn-fabbisogno-start">Inizia</a>
+								</div>
+							</div>
+							
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>	
+
+</div>
+                        <!--</div>
+                    </div>
+                </div>
+            </div>
+        </div>-->       
+        
+    </div>
+
+    
+    <div class="wrapFasciaVantaggi">
+        <div class="contFasciaVantaggi">
+            <div class="container">
+                <div class="row"> 
+                    <div class="col-12 p-0">
+                        <div class="contBoxVantaggi">
+                            <div class="boxInfoVantaggi"><div><h2 class="viewSottotitolo">Scopri la nostra offerta per te e la tua famiglia</h2></div>
+<div>
+<div class='viewPar BLOBAlignLeft'><p >Un’ampia gamma di prodotti, servizi e soluzioni, disegnati con un’elevata attenzione alle tue esigenze e&nbsp;alla sostenibilità, per affiancarti nei momenti più importanti della tua vita e per realizzare i tuoi progetti.</p></div>
+</div>
+<div><div class='viewLineBreak'>&nbsp;</div></div>
+<div><div class="LinkBluSmall"><a href='https://www.popso.it/prodotti/privati'>Esplora tutti i nostri prodotti e servizi</a></div></div>
+<div><div class='viewLineBreak'>&nbsp;</div></div></div>
+                            <div class="boxVantaggi">
+                                <div>
+<div class='viewPar BLOBAlignLeft'><p ><strong class='userFormat1'>Scopri la nostra offerta </strong><strong class='userFormat1'>dedicata a </strong><strong class='userFormat1'>famiglie e privati.</strong><br /></p></div>
+</div>
+                                <div>
+
+<div class="BoxProdottiTxt">
+    
+    <div class="item">
+        <div class="contTitleTxt banca">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Conti correnti</h3>
+            <div class="txtBox"><p>Un'offerta che copre ogni esigenza. Trova la soluzione che fa per te.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/conti-correnti' class="btnScopri" title="Scopri di più Conti correnti">
+                <span>Scopri di più</span> <span class="GoAway">Conti correnti</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt carta">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Carte</h3>
+            <div class="txtBox"><p>Le nostre soluzioni per i pagamenti di tutti i giorni. Scegli la carta pi&ugrave; adatta alle tue esigenze.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/carte' class="btnScopri" title="Scopri di più Carte">
+                <span>Scopri di più</span> <span class="GoAway">Carte</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt casa">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Mutui</h3>
+            <div class="txtBox"><p>La nostra offerta per accompagnarti nei tuoi progetti di vita.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/mutui' class="btnScopri" title="Scopri di più Mutui">
+                <span>Scopri di più</span> <span class="GoAway">Mutui</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt soldi">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Prestiti e finanziamenti</h3>
+            <div class="txtBox"><p>Una gamma completa di prestiti e finanziamenti: scopri quello che fa per te.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/prestiti-e-finanziamenti' class="btnScopri" title="Scopri di più Prestiti e finanziamenti">
+                <span>Scopri di più</span> <span class="GoAway">Prestiti e finanziamenti</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt salvadanaio">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Investimenti e fondo pensione</h3>
+            <div class="txtBox"><p>Le opportunit&agrave; di investimento per la gestione del risparmio e della previdenza complementare.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/investimenti' class="btnScopri" title="Scopri di più Investimenti e fondo pensione">
+                <span>Scopri di più</span> <span class="GoAway">Investimenti e fondo pensione</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt ombrello">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Assicurazioni</h3>
+            <div class="txtBox"><p>Le migliori coperture assicurative per te e la tua famiglia.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/assicurazioni' class="btnScopri" title="Scopri di più Assicurazioni">
+                <span>Scopri di più</span> <span class="GoAway">Assicurazioni</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt mondo-estero">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Estero</h3>
+            <div class="txtBox"><p>Supporto per operare a livello internazionale.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/estero-e-internazionalizzazione' class="btnScopri" title="Scopri di più Estero">
+                <span>Scopri di più</span> <span class="GoAway">Estero</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt device">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/privati'>Privati</a></div>
+            <h3 class="viewTitolo3">Servizi digitali</h3>
+            <div class="txtBox"><p>La nostra offerta per gestire le tue finanze ovunque tu sia.</p></div>
+            <a href='https://www.popso.it/prodotti/privati/servizi-digitali' class="btnScopri" title="Scopri di più Servizi digitali">
+                <span>Scopri di più</span> <span class="GoAway">Servizi digitali</span>
+            </a>
+        </div>
+    </div>
+    
+</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+        </div>
+    </div>            
+    
+
+    
+    <div class="wrapFasciaServiziDigitali">
+        <div class="container">
+            <div class="row"> 
+                <div class="col-12 p-0">
+                    <div class="contBoxServiziDigitali">
+                        <div><h2 class="viewSottotitolo">Servizi digitali</h2></div>
+<div>
+<div class='viewPar BLOBAlignLeft'><p >Abbiamo digitalizzato i nostri servizi così che tu possa accedervi da web o in mobilità ogni volta che ne hai bisogno, in completa sicurezza.</p></div>
+</div>
+<div><div class='viewLineBreak'>&nbsp;</div></div>
+<div>
+
+
+
+<div class="BoxAffiancatiTxt-BtnBlu">
+    
+        <div class="item">
+            <div class="contTitleTxt">
+                <div class="categoriaBox"><a href='https://www.popso.it/prodotti/servizi-digitali/servizi-online'>Servizi digitali</a></div>
+                <div class="contTxt">
+                    <h3 class="viewTitolo3">SCRIGNObps - La nostra banca digitale</h3>
+                    <div class="txtBox"><p>Il nostro servizio di Banca digitale</p></div>
+                </div>
+                <a href='https://www.popso.it/servizi-digitali/scrigno-bps' class="btnScopri" title="Leggi di più"><span>Leggi di più </span> <span class="GoAway">SCRIGNObps - La nostra banca digitale</span></a>
+            </div>
+        </div>
+      
+</div>
+</div>
+<div><div class="LinkBiancoSmall"><a href='https://www.popso.it/prodotti/servizi-digitali/servizi-online'>Scopri tutti i servizi digitali</a></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>            
+    
+
+
+    <div class="wrapSolAziendeMondoEstero">
+        
+        <div class="wrapFasciaSoluzioniAziende">
+            <div class="contFasciaSoluzioniAziende">
+                <div class="container">
+                    <div class="row"> 
+                        <div class="col-12 p-0">
+                            <div class="contBoxSoluzioniAziende">
+                                <div class="boxInfoSolAziende"><div><h2 class="viewSottotitolo">Le nostre soluzioni per aziende e professionisti</h2></div>
+<div>
+<div class='viewPar BLOBAlignLeft'><p >Una selezione curata per fornire gli strumenti bancari e finanziari ideali per ogni settore commerciale e ogni esigenza imprenditoriale.</p></div>
+</div>
+<div><div class='viewLineBreak'>&nbsp;</div></div>
+<div><div class="LinkBluSmall"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Esplora tutte le opzioni disponibili</a></div></div></div>
+                                <div>
+
+<div class="BoxProdottiTxt">
+    
+    <div class="item">
+        <div class="contTitleTxt banca">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Conti correnti</h3>
+            <div class="txtBox"><p>Un'offerta che copre ogni esigenza. Trova la soluzione che fa per te.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/conti-correnti' class="btnScopri" title="Scopri di più Conti correnti">
+                <span>Scopri di più</span> <span class="GoAway">Conti correnti</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt carta">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Carte</h3>
+            <div class="txtBox"><p>Le nostre soluzioni semplici e sicure nell'ambito della moneta elettronica.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/carte' class="btnScopri" title="Scopri di più Carte">
+                <span>Scopri di più</span> <span class="GoAway">Carte</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt soldi">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Finanziamenti</h3>
+            <div class="txtBox"><p>Per soddisfare tutte le tue esigenze.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/finanziamenti' class="btnScopri" title="Scopri di più Finanziamenti">
+                <span>Scopri di più</span> <span class="GoAway">Finanziamenti</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt salvadanaio">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Investimenti e fondo pensione</h3>
+            <div class="txtBox"><p>Le opportunit&agrave; di investimento per la gestione del risparmio e della previdenza complementare.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/investimenti' class="btnScopri" title="Scopri di più Investimenti e fondo pensione">
+                <span>Scopri di più</span> <span class="GoAway">Investimenti e fondo pensione</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt ombrello">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Assicurazioni</h3>
+            <div class="txtBox"><p>Ti proponiamo diverse offerte, scegli quella che si avvicina alle tue esigenze e scopri come proteggerti con le nostre coperture assicurative.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/assicurazioni' class="btnScopri" title="Scopri di più Assicurazioni">
+                <span>Scopri di più</span> <span class="GoAway">Assicurazioni</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt carte-pago">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Incassi e pagamenti</h3>
+            <div class="txtBox"><p>Tutto ci&ograve; che serve a supporto della propria attivit&agrave; per gestire incassi e pagamenti.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/incassi-e-pagamenti' class="btnScopri" title="Scopri di più Incassi e pagamenti">
+                <span>Scopri di più</span> <span class="GoAway">Incassi e pagamenti</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt mondo-estero">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Estero</h3>
+            <div class="txtBox"><p>Supporto per l'internazionalizzazione dell'attivit&agrave; d'impresa.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione' class="btnScopri" title="Scopri di più Estero">
+                <span>Scopri di più</span> <span class="GoAway">Estero</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt valigia">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Servizi a valore aggiunto</h3>
+            <div class="txtBox"><p>Offriamo servizi a valore aggiunto per le nostre migliori aziende.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/servizi-a-valore-aggiunto' class="btnScopri" title="Scopri di più Servizi a valore aggiunto">
+                <span>Scopri di più</span> <span class="GoAway">Servizi a valore aggiunto</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt device">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Servizi digitali</h3>
+            <div class="txtBox"><p>La nostra offerta per operare via web.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/servizi-digitali' class="btnScopri" title="Scopri di più Servizi digitali">
+                <span>Scopri di più</span> <span class="GoAway">Servizi digitali</span>
+            </a>
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt servizi-professionisti">
+            <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+            <h3 class="viewTitolo3">Servizi per i professionisti</h3>
+            <div class="txtBox"><p>I prodotti e servizi in convenzione con la tua Cassa di Previdenza che abbiamo pensato per te.</p></div>
+            <a href='https://www.popso.it/prodotti/aziende-professionisti/servizi-professionisti' class="btnScopri" title="Scopri di più Servizi per i professionisti">
+                <span>Scopri di più</span> <span class="GoAway">Servizi per i professionisti</span>
+            </a>
+        </div>
+    </div>
+    
+</div></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>            
+        
+
+        
+        
+        <div class="wrapFasciaMondoEstero">
+            <div class="container">
+                <div class="row"> 
+                    <div class="col-12 p-0">
+                        <div class="contBoxMondoEstero">
+                            <div>
+
+
+<h2 class="viewSottotitolo">Estero</h2>
+<div class="viewPar BLOBAlignLeft">
+	<p><p>Supporto per l'internazionalizzazione dell'attivit&agrave; d'impresa.</p></p>
+</div>
+<div class="LinkBiancoSmall"><a href="https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione"><span>Scopri tutti i servizi</span></a></div>
+
+
+<div class="SliderCard">   
+    <div class="slider slider-nav-card">
+
+        <button type="button" class="btnNav">
+            <span class="titlePag">Servizi personalizzati</span>
+        </button>
+
+        <button type="button" class="btnNav">
+            <span class="titlePag">Convenzioni e collaborazioni</span>
+        </button>
+
+        <button type="button" class="btnNav">
+            <span class="titlePag">Business School</span>
+        </button>
+
+    </div>
+
+    <div class="slider slider-card">
+
+        <div class="item">
+            <div class="contTitleTxt">
+                <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+                <h3 class="viewTitolo3">Servizi personalizzati</h3>
+                <div class="txtSlide"><p>Assistenza della clientela in tutte le fasi del processo di internazionalizzazione</p></div>
+                <a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/servizi-personalizzati' class="btnScopri" title="Leggi di più">Leggi di più <span class="GoAway">Servizi personalizzati</span></a>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="contTitleTxt">
+                <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+                <h3 class="viewTitolo3">Convenzioni e collaborazioni</h3>
+                <div class="txtSlide"><p>Partnership e collaborazioni con enti e istituzioni che operano per promuovere il Made in Italy a livello globale</p></div>
+                <a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/convenzioni-e-collaborazioni' class="btnScopri" title="Leggi di più">Leggi di più <span class="GoAway">Convenzioni e collaborazioni</span></a>
+            </div>
+        </div>
+
+        <div class="item">
+            <div class="contTitleTxt">
+                <div class="categoriaBox"><a href='https://www.popso.it/prodotti/aziende-professionisti'>Aziende e professionisti</a></div>
+                <h3 class="viewTitolo3">Business School</h3>
+                <div class="txtSlide"><p>Propone un sistema informativo e formativo dinamico rivolto sia alla clientela che al proprio personale</p></div>
+                <a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione/servizi-per-l-internazionalizzazione/business-school' class="btnScopri" title="Leggi di più">Leggi di più <span class="GoAway">Business School</span></a>
+            </div>
+        </div>
+        
+    </div>
+
+    <span class="pagingInfoCard"></span>
+</div></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>            
+        
+    </div>
+
+    
+    <div class="wrapFasciaEnti">
+        <div class="contBoxEnti">
+            <div class="container">
+                <div class="row"> 
+                    <div class="col-12 p-0">
+                        <div>
+<div class="BoxCardTxtLink-Img">
+    <div class="itemSx">
+        <div class="contTitleTxt">
+			<div class="contTitPar">
+				<div class="categoriaBox"><a href='https://www.popso.it/prodotti/enti'>Enti</a></div>
+				<h3 class="viewTitolo3">Servizi per gli enti</h3>
+				<div class="txtBox"><p>I nostri servizi in favore di enti privati e della Pubblica Amministrazione.</p></div>
+			</div>
+			<div class="contbtnScopri">		
+				<a href='https://www.popso.it/prodotti/enti/servizi-per-gli-enti' class="btnScopri" title="Servizi per gli enti">
+					<span>Scopri tutto</span> <span class="GoAway">Servizi per gli enti</span>
+				</a>
+			</div>
+        </div>
+    </div>
+    <div class="itemDx">
+        <div class="cont-img"><img src="https://www.popso.it/AppData/Redational/catalogo/classificazione/img/2/e/4/D.8074d7f4ff5ddc72fc35/a15f9bde6dbe20bf52762b947fa507ce.png" alt="Servizi per gli enti" /></div>
+    </div>
+</div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>            
+    
+
+    
+    <div class="wrapFasciaNewsComunicati">
+        <div class="container">
+            <div class="row"> 
+                <!--
+                <div class="col-12 col-md-6 p-0">
+                    <div class="contBoxNews">
+                        
+                    </div>
+                </div>-->
+                <div class="col-12 p-0">
+                    <div class="contBoxComunicati">
+                        <div><h2 class="viewSottotitolo">Comunicati stampa</h2></div>
+<div>
+
+<!-- RSS feed loaded in 0.059544 s -->
+<div class="boxComunicati">
+	<ol>
+		
+		<li>
+			<span class="data"></span>
+			<a href='http://istituzionale.popso.it/it/documenti/aggiornamento-della-decisione-materia-di-requisiti-prudenziali' class="target_blank"><span>Aggiornamento della decisione in materia di requisiti prudenziali</span></a>
+		</li>
+		
+		<li>
+			<span class="data"></span>
+			<a href='http://istituzionale.popso.it/it/documenti/verifica-requisiti-di-indipedenza-degli-amministratori-eletti-dallassemblea-dei-soci-2' class="target_blank"><span>Verifica requisiti di indipedenza degli amministratori eletti dall’Assemblea dei Soci del 15 settembre 2025</span></a>
+		</li>
+		
+		<li>
+			<span class="data"></span>
+			<a href='http://istituzionale.popso.it/it/documenti/banca-popolare-di-sondrio-stanzia-50-milioni-di-euro-sostegno-di-famiglie-e-imprese' class="target_blank"><span>Banca Popolare di Sondrio stanzia 50 milioni di euro a sostegno di famiglie e imprese lombarde colpite dal maltempo</span></a>
+		</li>
+		
+	</ol>
+</div>
+<!-- End of RSS feed -->
+
+</div>
+<div><div class="LinkBluSmall"><a href='https://istituzionale.popso.it/it/comunicati-ed-eventi-societari/comunicati'>Leggi tutti i comunicati<br /></a></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>            
+    
+
+    
+
+    
+    <div class="wrapFasciaChiSiamo">
+        <div class="contBoxChiSiamo">
+            <div class="container">
+                <div class="row justify-content-between align-items-center"> 
+                    <div class="col-12 col-md-6 ps-0">
+                        <div><div class='BLOBBlockAlignLeft'><img id='img-2' src='https://www.popso.it/images/1/e/1/D.667d1214d7d27ad91490/Chi_siamo_ridimensionata.png' width="1082" height="967" alt='Chi siamo' class='viewImg' /></div><div class='BLOBFloatClear'></div></div>
+                    </div>
+                    <div class="col-12 pt-5 col-lg-6 pt-lg-0 pe-0">
+                        <div><h2 class="viewSottotitolo">Chi siamo</h2></div>
+<div>
+<div class='viewPar BLOBAlignLeft'><p >Fondata nel 1871, la Banca Popolare di Sondrio è stata una delle prime banche popolari italiane ispirate al movimento popolare cooperativo del credito.<br />Ha assunto, nel tempo, grazie alla graduale estensione dell'attività e della presenza territoriale, una dimensione sovraregionale con possibilità operative estese a tutto il territorio nazionale, pur mantenendo un forte legame con la zona di origine.</p></div>
+</div>
+<div><div class='viewLineBreak'>&nbsp;</div></div>
+<div><div class="btnBgBlu-TxtBianco"><a href='https://www.popso.it/chi-siamo'>Scopri chi siamo</a></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>            
+    </div>
+    
+
+    
+    <div class="wrapFasciaNovita">
+        <div class="container">
+            <div class="row"> 
+                <div class="col-12 p-0">
+                    <div class="contBoxNovita">
+                        <div class="col-12 col-lg-6 offset-lg-6 p-0">
+                            <div class="contBoxNovitaTxt">
+                                <form action='#' method='post' enctype='multipart/form-data'><div><a id='form-novita' class='BLOBAnchor'></a></div>
+<div><h2 class="viewSottotitolo">Non perderti le novit&agrave; su prodotti e servizi adatti a te</h2></div>
+<div>
+<div class='viewPar BLOBAlignLeft'><p >Inserisci il tuo indirizzo e-mail per essere informato su aggiornamenti e cambiamenti</p></div>
+</div>
+<div><div class='BLOBFloatClear BLOBWidth100'><div class='BLOBFloatLeft formColLeft'><label for='DATA64' class='formTextLabel'>Email</label></div><div class='BLOBFloatLeft formColRight'><input type='text' name='DATA64' id='DATA64' value='' maxlength='1024' size='50' class='formText' /> <span class="formMandatory">(*)</span></div><div class='BLOBFloatClear'>&nbsp;</div></div></div>
+<div><div class='viewLineBreak'>&nbsp;</div></div>
+<div><div class="boxPrivacy"><strong class='userFormat1'> Informativa sul trattamento dei dati personali ai sensi degli art. 13 del Regolamento (UE) 2016/679 (GDPR).<br /></strong><br /> Ai sensi del GDPR si descrivono le modalità di trattamento dei dati personali degli utenti che si iscrivono alla <span lang='en'>Newsletter</span> di Banca Popolare di Sondrio s.p.a. (di seguito, la "Banca").<br /><br /> <strong class='userFormat1'> Titolare del trattamento.</strong><br /> Titolare del trattamento è la Banca, con sede in piazza Garibaldi, 16 – 23100, Sondrio (e-mail: <a href='mailto:info@popso.it'> info@popso.it</a> ; numero di telefono: 0342 528 111)<br /><br /> <strong class='userFormat1'> Responsabile della protezione dei dati.</strong><br /> La Banca ha designato un Responsabile per la protezione dei dati (DPO), contattabile ai seguenti recapiti ( indirizzo e-mail: <a href='mailto:responsabileprotezionedati@popso.it'> responsabileprotezionedati@popso.it</a> - PEC: <a href='mailto:responsabileprotezionedati@pec.popso.it'> responsabileprotezionedati@pec.popso.it</a> )<br /><br /> <strong class='userFormat1'> Categorie e fonti dei dati personali. </strong><br /> I dati personali raccolti dalla Banca (di seguito, i “Dati personali”) sono quelli forniti mediante la compilazione del modulo di richiesta (nominativo, l’indirizzo e-mail, l’oggetto della richiesta), oltre all’indirizzo IP da cui proviene la richiesta. Il loro mancato conferimento comporta l'impossibilità di dare corso all’iscrizione al servizio richiesto. In modo facoltativo, e solo per le richieste di informazioni, possono essere indicati la città di residenza e il recapito telefonico. <br /><br /> <strong class='userFormat1'> Finalità del trattamento, basi giuridiche e periodi di conservazione.</strong><br /> I Dati personali sono raccolti per fornire il servizio di <span lang='en'>Newsletter</span> (Comunicazioni non commerciali). Il relativo trattamento è lecito in quanto costituisce esecuzione di misure precontrattuali e contrattuali,ai sensi dell’art 6 par. 1 lett. b) del GDPR. <br /> Previo consenso ai sensi dell’art 6 par. 1 lett. a) del GDPR, i Dati personali sono utilizzati anche per l’invio di comunicazioni commerciali agli iscritti alla <span lang='en'>Newsletter</span> (Comunicazioni commerciali) fino alla revoca del consenso.<br /><br /> <strong class='userFormat1'> Soggetti a cui possono essere comunicati i Dati personali</strong><br /> I Dati personali saranno trattati esclusivamente dal personale e dai collaboratori della Banca o delle imprese espressamente nominate come responsabili del trattamento (ad es. per esigenze di manutenzione tecnologica del sito web).<br /><br /> <strong class='userFormat1'> Modifiche alla presente informativa.</strong><br /> La Banca potrebbe apportare modifiche e/o integrazioni alla presente informativa. L’interessato potrà visionare il testo dell'informativa costantemente aggiornato nella sezione privacy del nostro sito web<a href='[[undefined]]'> www.popso.it/privacy<br /></a><br /> <strong class='userFormat1'> Trasferimento dati in paesi fuori dall’Unione Europea</strong><br /> I Suoi dati personali non saranno diffusi, né trasferiti in Paesi extra-UE.<br /><br /> <strong class='userFormat1'> Diritti dei soggetti interessati</strong><br /> Gli interessati hanno il diritto di ottenere dalla Banca, nei casi previsti, l'accesso ai Dati personali e la rettifica o la cancellazione degli stessi o la limitazione del trattamento che li riguarda o di opporsi al trattamento (artt. 15 e ss. del Regolamento). L'apposita istanza è presentata contattando il l’Ufficio Presidio protezione dati personali presso la stessa Banca ( Presidio protezione dati personali - Banca Popolare di Sondrio - Piazza Garibaldi, 16 - 23100 Sondrio (SO), e-mail&nbsp; <a href='mailto:privacy@popso.it'> privacy@popso.it</a> ).<br /> Gli interessati che ritengono che il trattamento dei Dati personali avvenga in violazione di quanto previsto dal Regolamento hanno il diritto di proporre reclamo al Garante per la protezione dei dati personali, come previsto dall'art. 77 del Regolamento stesso, o di adire le opportune sedi giudiziarie (art. 79 del Regolamento).<br /><br /> <strong class='userFormat1'> Cancellazione dal servizio e gestione del consenso.</strong><br /> Per non ricevere più la <span lang='en'>Newsletter</span> ed eventuali comunicazioni commerciali è disponibile la funzionalità di disiscrizione all’interno di ogni e-mail ricevuta.<br /> <br /></div></div>
+<div><div class='BLOBFloatClear'><span><input type='checkbox' name='DATA67' id='DATA67' value='checkbox' /></span><span><label for='DATA67' class='formCheckboxLabel'>Dichiaro di aver letto e compreso l’informativa sul trattamento dei miei dati personali e desidero ricevere comunicazioni sulle attività organizzate e promosse dalla banca (newsletter non commerciale)</label></span><span><span class="formMandatory">(*)</span></span></div></div>
+<div><div class='BLOBFloatClear'><span><input type='checkbox' name='DATA68' id='DATA68' value='checkbox' /></span><span><label for='DATA68' class='formCheckboxLabel'>Esprimo il mio consenso a ricevere comunicazioni via email a carattere commerciale</label></span><span><span class="formMandatory">&nbsp;</span></span></div></div>
+<div><div class='container-captcha'><div class='g-recaptcha' data-sitekey='6LfsQ04cAAAAANJ-G5zPvElMcyK1ESo9Lsw5hJdT' data-theme='red'></div></div></div>
+<div><div class='BLOBAlignCenter'><input type='submit' value='ISCRIVITI' /></div></div><input type='hidden' name='__CSRF__' id='__CSRF__' value='d306a5045a9d5c2d6ebe13f3f96f102d' /><input type='hidden' name='BLOBDataAvailable' id='BLOBDataAvailable' value='HPBOXNOVITA' /></form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>            
+    
+
+    
+    <div class="wrapFasciaParlareNoi">
+        <div class="container">
+            <div class="row"> 
+                <div class="col-12 p-0">
+                    <div class="contBoxParlareNoi">
+                        <div><h2 class="viewSottotitolo">Vuoi parlare con noi?</h2></div>
+<div>
+<div class="BoxParlareNoi">
+    
+    <div class="item">
+        <div class="contTitleTxt ico-trovarci">
+            <h3 class="viewTitolo3">Passa a trovarci</h3>
+            <div class="txtBox">Trova la filiale più vicina a te.</div>
+            <a href='https://www.popso.it/aiuto-contatti/filiali-atm' class="btnScopri _empty_"
+            title="">
+                <span>Cerca la filiale</span> <span class="GoAway">Passa a trovarci</span>
+            </a>
+            
+        </div>
+    </div>
+    
+    <div class="item">
+        <div class="contTitleTxt ico-info">
+            <h3 class="viewTitolo3">Info istituzionali</h3>
+            <div class="txtBox">Chiedi le informazioni di cui hai bisogno o invia suggerimenti.</div>
+            <a href='https://www.popso.it/contatti/informazioni-istituzionali-suggerimenti' class="btnScopri _empty_"
+            title="">
+                <span>Contattaci</span> <span class="GoAway">Info istituzionali</span>
+            </a>
+            
+        </div>
+    </div>
+    
+</div>
+</div>
+<div><div class="LinkBluSmall"><a href='#'>Scopri tutti i contatti<br /></a></div></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>            
+    
+
+    <!---->
+    <!--
+    -->
+
+    <div class="wrapFasciaInfoForm">
+        <div class="container">
+            <div class="row"> 
+                <div class="col-12 p-0">
+                    <div class="contBoxInfo">
+                        <div class="contSxInfo">
+                            <div><h2 class="viewSottotitolo">Richiedi maggiori informazioni</h2></div>
+<div>
+<div class='viewPar BLOBAlignLeft'><p >Compila il modulo con i tuoi dati e i dettagli della tua richiesta: ti risponderemo al più presto!</p></div>
+</div>
+                        </div> 
+                        <div class="contDxInfo">
+                            <div style="color: green;">
+<form action="#" method="post" enctype="multipart/form-data" name="form-richiesta-info-fri-83"  id="form-richiesta-info-fri-83">
+    <div class="contBoxForm">
+        <div class="boxSx">
+            <label class="frmLabel" for="nome-fri-83">Nome*</label>
+            <input type="text" id="nome-fri-83" name="nome-fri-83" placeholder="Inserisci il tuo nome" value="" class="frmInput" />
+        </div>
+        <div class="boxDx">
+            <label class="frmLabel" for="cognome-fri-83">Cognome*</label>
+            <input type="text" id="cognome-fri-83" name="cognome-fri-83" placeholder="Inserisci il tuo cognome" value="" class="frmInput" />
+        </div>
+        <div class="boxSx">
+            <label class="frmLabel" for="citta-fri-83">Citta</label>
+            <input type="text" id="citta-fri-83" name="citta-fri-83" placeholder="Inserisci la tua citta" value="" class="frmInput" />
+        </div>
+        <div class="boxDx">
+            <label class="frmLabel" for="tel-fri-83">Telefono</label>
+            <input type="text" id="tel-fri-83" name="tel-fri-83" placeholder="Inserisci il tuo numero di telefono" value="" class="frmInput" />
+        </div>
+        <div class="box100">
+            <label class="frmLabel" for="email-fri-83">Email*</label>
+            <input type="text" id="email-fri-83" name="email-fri-83" placeholder="Inserisci il tuo indirizzo email" value="" class="frmInput" />
+        </div>
+
+
+        <div class="boxSx">
+            <label class="frmLabel" for="categoria-fri-83">Categoria*</label>
+            <div class="box-select">
+                <select name="categoria-fri-83" id="categoria-fri-83" class="frmSelect">
+                    <option value="-1">---</option><optgroup label=" - Soluzioni assicurative"></optgroup><optgroup label="Privati - Conti correnti"><option value="20" >Conti correnti</option><option value="80" >Conti correnti online</option><option value="21" >Conti e libretti per i tuoi figli</option></optgroup><optgroup label="Privati - Carte"><option value="22" >Carte di debito</option><option value="23" >Carte di credito</option><option value="24" >Carte prepagate</option><option value="25" >Carte universitari</option></optgroup><optgroup label="Privati - Mutui"><option value="26" >Mutui</option></optgroup><optgroup label="Privati - Prestiti e finanziamenti"><option value="27" >Prestiti</option><option value="28" >Altri finanziamenti</option></optgroup><optgroup label="Privati - Investimenti e fondo pensione"><option value="31" >Consulenza</option><option value="30" >Investimenti e risparmio</option><option value="75" >Fondo pensione</option><option value="32" >Strumenti finanziari</option><option value="64" >Informativa di sostenibilità</option></optgroup><optgroup label="Privati - Assicurazioni"><option value="33" >Per la tua casa</option><option value="34" >Per te e la tua famiglia</option><option value="35" >Per la mobilità</option><option value="36" >Per i tuoi finanziamenti</option></optgroup><optgroup label="Privati - Estero"><option value="39" >Sistemi di pagamento e gestione liquidità</option><option value="42" >Formazione</option></optgroup><optgroup label="Privati - Servizi digitali"><option value="38" >Servizi digitali</option></optgroup><optgroup label="Aziende e professionisti - Conti correnti"><option value="72" >Conti correnti</option><option value="71" >Conti correnti per i liberi professionisti iscritti alle Casse di Previdenza private</option></optgroup><optgroup label="Aziende e professionisti - Carte"><option value="43" >Carte di debito</option><option value="44" >Carte di credito</option><option value="45" >Carte prepagate</option></optgroup><optgroup label="Aziende e professionisti - Finanziamenti"><option value="46" >Mutui</option><option value="47" >Finanziamenti</option><option value="68" >Finanziamenti per professionisti</option></optgroup><optgroup label="Aziende e professionisti - Investimenti e fondo pensione"><option value="76" >Consulenza</option><option value="74" >Investimenti e risparmio</option><option value="79" >Fondo pensione</option><option value="77" >Strumenti finanziari</option><option value="78" >Informativa di sostenibilità</option></optgroup><optgroup label="Aziende e professionisti - Assicurazioni"><option value="55" >Persone</option><option value="56" >Assets</option><option value="57" >Protezione del rischio</option></optgroup><optgroup label="Aziende e professionisti - Incassi e pagamenti"><option value="49" >Incassi e pagamenti</option></optgroup><optgroup label="Aziende e professionisti - Estero"><option value="50" >Sistemi di pagamento e gestione liquidità</option><option value="51" >Trade finance</option><option value="53" >Copertura rischi finanziari</option><option value="54" >Servizi per l'Internazionalizzazione</option></optgroup><optgroup label="Aziende e professionisti - Servizi a valore aggiunto"><option value="59" >Servizi a valore aggiunto</option></optgroup><optgroup label="Aziende e professionisti - Servizi digitali"><option value="58" >Servizi digitali</option></optgroup><optgroup label="Aziende e professionisti - Servizi per i professionisti"><option value="67" >Servizi per i professionisti</option></optgroup><optgroup label="Enti - Servizi per gli enti"><option value="60" >Servizi digitali</option><option value="61" >Prodotti e servizi per gli enti</option></optgroup><optgroup label="Enti - Enti del Terzo Settore"><option value="83" >Prodotti e servizi</option></optgroup><optgroup label="Servizi digitali - Servizi digitali"><option value="62" >Servizi digitali</option><option value="81" >Mobile payments</option></optgroup><optgroup label="Servizi digitali - Sicurezza online"><option value="63" >Sicurezza online</option></optgroup>
+                </select>	
+            </div>
+        </div>
+
+        <div class="boxDx">
+            <label class="frmLabel" for="argomento-fri-83">Argomento</label>
+            <input type="text" id="argomento-fri-83" name="argomento-fri-83"  placeholder="Indica l'argomento" value="" class="frmInput" />
+        </div>
+
+
+
+
+        <div class="box100">
+            <label class="frmLabel" for="messaggio-fri-83">Richiesta*</label>
+            <textarea maxlength="1000" name="messaggio-fri-83" id="messaggio-fri-83" placeholder="Inserisci il testo della tua richiesta" rows="4" cols="50" class="frmTextArea"></textarea>
+            <span class="limit">0/1000</span>
+        </div>
+
+        <div class="box100">
+            <div class="boxPrivacy">
+                <h3 class="viewTitolo3">Informativa sul trattamento dei dati personali ai sensi degli art. 13 del Regolamento (UE) 2016/679 (GDPR).</h3>
+                <p>Ai sensi del GDPR si descrivono le modalità di trattamento dei dati personali degli utenti che si iscrivono alla Newsletter di Banca Popolare di Sondrio s.p.a. (di seguito, la "Banca"), o inviano una richiesta di informazioni relativa a un prodotto pubblicizzato sul sito web.<br><br>
+
+                    <strong>Titolare del trattamento.</strong><br>
+                    Titolare del trattamento è la Banca, con sede in piazza Garibaldi, 16 – 23100, Sondrio (e-mail: <a href="mailto:info@popso.it">info@popso.it</a>; numero di telefono: 0342 528 111)<br><br>
+                    
+                    <strong>Responsabile della protezione dei dati.</strong><br> 
+                    La Banca ha designato un Responsabile per la protezione dei dati (DPO), contattabile ai seguenti recapiti ( indirizzo e-mail: <a href="mailto:responsabileprotezionedati@popso.it">responsabileprotezionedati@popso.it</a> - PEC: <a href="mailto:responsabileprotezionedati@pec.popso.it">responsabileprotezionedati@pec.popso.it</a> )<br><br>
+
+                    <strong>Categorie e fonti dei dati personali.</strong><br>
+                    I dati personali raccolti dalla Banca (di seguito, i “Dati personali”) sono quelli forniti mediante la compilazione del modulo di richiesta (nominativo, l’indirizzo e-mail, l’oggetto della richiesta), oltre all’indirizzo IP da cui proviene la richiesta. Il loro mancato conferimento comporta l'impossibilità di dare corso all’iscrizione al servizio richiesto e di riscontrare la richiesta di informazioni.  In modo facoltativo, e solo per le richieste di informazioni, possono essere indicati la città di residenza e il recapito telefonico.<br> <br>
+                    
+                    <strong>Finalità del trattamento, basi giuridiche e periodi di conservazione.</strong>
+					I Dati personali sono raccolti per fornire il servizio di Newsletter (Comunicazioni non commerciali) e rispondere a richieste di informazioni (Customer Service). Il relativo trattamento è lecito in quanto costituisce esecuzione di misure precontrattuali e contrattuali, ai sensi dell’art 6 par. 1 lett. b) del GDPR.  
+					Previo consenso ai sensi dell’art 6 par. 1 lett. a) del GDPR, i Dati personali sono utilizzati anche per l’invio di comunicazioni commerciali agli iscritti alla Newsletter (Comunicazioni commerciali) fino alla revoca del consenso.
+					Inoltre, qualora non vi siano filiali della Banca nell'area geografica indicata nella richiesta di informazioni, previo specifico consenso, i Dati personali possono essere comunicati alle altre società del Gruppo Banca Popolare di Sondrio, affinché possano contattarla direttamente per soddisfare le sue esigenze.
+                    <br><br>
+                    
+                    <strong>Soggetti a cui possono essere comunicati i Dati personali.</strong><br>
+					I Dati personali saranno trattati esclusivamente dal personale e dai collaboratori della Banca o delle imprese espressamente nominate come responsabili del trattamento (ad es. per esigenze di manutenzione tecnologica del sito web).<br />
+					Previo specifico consenso, i Dati personali potranno essere comunicati alle altre società del Gruppo Banca Popolare di Sondrio, in qualità di titolari autonomi.<br />
+					<br><br>
+                    
+                    <strong>Modifiche alla presente informativa.</strong><br>
+                    La Banca potrebbe apportare modifiche e/o integrazioni alla presente informativa. L’interessato potrà visionare il testo dell'informativa costantemente aggiornato nella sezione privacy del nostro sito web <a href="https://www.popso.it/privacy">www.popso.it/privacy</a>.<br><br>
+                    
+                    <strong>Trasferimento dati in paesi fuori dall’Unione Europea</strong><br>
+                    I Suoi dati personali non saranno diffusi, né trasferiti in Paesi extra-UE.<br><br>
+
+                    <strong>Diritti dei soggetti interessati</strong><br>
+					Gli interessati hanno il diritto di ottenere dalla Banca, nei casi previsti, l'accesso ai Dati personali e la rettifica o la cancellazione degli stessi o la limitazione del trattamento che li riguarda o di opporsi al trattamento (artt. 15 e ss. del Regolamento). L'apposita istanza è presentata contattando il l’Ufficio Presidio protezione dati personali presso la stessa Banca (Presidio protezione dati personali - Banca Popolare di Sondrio - Piazza Garibaldi, 16 - 23100 Sondrio (SO), e-mail <a href="mailto:privacy@popso.it">privacy@popso.it</a> ).<br />
+					Gli interessati che ritengono che il trattamento dei Dati personali avvenga in violazione di quanto previsto dal Regolamento hanno il diritto di proporre reclamo al Garante per la protezione dei dati personali, come previsto dall'art. 77 del Regolamento stesso, o di adire le opportune sedi giudiziarie (art. 79 del Regolamento).
+					<br><br>
+
+                    <strong>Cancellazione dal servizio e gestione del consenso.</strong>
+                    Per non ricevere più la Newsletter ed eventuali comunicazioni commerciali  è disponibile la funzionalità di disiscrizione all’interno di ogni e-mail ricevuta.<br>
+                </p>
+            </div>
+        </div>
+
+        <div class="box100">
+            <div class="frmCheck"><span><input type="checkbox" name="privacy-fri-83" id="privacy-fri-83" value=""></span><label for="privacy-fri-83" class="frmCheckLabel">Dichiaro di aver letto e compreso l’informativa sul trattamento dei miei dati personali*</label></div>
+            <div class="frmCheck"><span><input type="checkbox" name="datialgruppo-fri-83" id="datialgruppo-fri-83" value=""></span><label for="datialgruppo-fri-83" class="frmCheckLabel">Esprimo il mio consenso affinchè i miei dati personali possano essere comunicati alle altre società del Gruppo Banca Popolare di Sondrio per fornire un riscontro alla mia richiesta di informazioni</label></div>
+            <div class="frmCheck"><span><input type="checkbox" name="checkNewsletter-fri-83" id="checkNewsletter-fri-83" value=""></span><label for="checkNewsletter-fri-83" class="frmCheckLabel">Mi iscrivo alla newsletter per ricevere comunicazioni sulle attività (non commerciali) organizzate e promosse dalla banca.</label></div>
+            <div class="frmCheck"><span><input type="checkbox" name="checkMrkgComm-fri-83" id="checkMrkgComm-fri-83" value=""></span><label for="checkMrkgComm-fri-83" class="frmCheckLabel">Esprimo il mio consenso a ricevere comunicazioni via email a carattere commerciale.</label></div>
+        </div>
+
+        <input type="hidden" id="ref-fri-83" name="ref-fri-83" value="83" />
+        <input type="hidden" id="type-fri-83" name="type-fri-83" value="blob" />
+        <input type="hidden" id="pageref-fri-83" name="pageref-fri-83" value="https://www.popso.it/home" />
+
+        <div class="box100">
+            <div class='g-recaptcha' data-sitekey='6LfsQ04cAAAAANJ-G5zPvElMcyK1ESo9Lsw5hJdT' data-theme='light'></div>
+        </div>
+
+        <div class="box100">
+            <input type="submit" id="invioMsg-fri-83" name="invioMsg-fri-83" value="INVIA MESSAGGIO" class="btnInvio" />
+        </div>
+    </div>
+</form></div>
+                        </div>
+                    </div>
+                </div> 
+            </div>
+        </div>
+    </div>        
+    <div class="wrapFasciaAvvisiBottom">
+        <div class="container">
+            <div class="row"> 
+                <div class="col-12 p-0">
+                    <div>
+<div class="boxImgNoBordo">   
+    
+        <table width="100%" border="0">
+  <tbody>
+   <tr>
+     <th>
+	    <strong>Avvisi di mancato adempimento a decisioni assunte dall'ABF (Arbitro Bancario Finanziario)</strong>
+    </th>
+
+    </tr>
+    <tr>
+      <td>
+        <p>L'intermediario Banca Popolare di Sondrio S.p.a. comunica di non aver dato esecuzione alla decisione n. 3936 del 29/03/2024, assunta dall'Arbitro Bancario Finanziario (ABF) e pubblicata sul sito 
+          <a href="http://www.arbitrobancariofinanziario.it/" title="http://www.arbitrobancariofinanziario.it/">www.arbitrobancariofinanziario.it</a>
+           con la quale l'ABF ha riconosciuto al ricorrente la corresponsione di una somma di denaro.</p>
+        </td>
+    </tr>
+    <tr>
+      <td>
+        <p>L'intermediario Banca Popolare di Sondrio S.p.a. comunica di non aver dato esecuzione alla decisione n. 4305 del 8/04/2024, assunta dall'Arbitro Bancario Finanziario (ABF) e pubblicata sul sito 
+          <a href="http://www.arbitrobancariofinanziario.it/" title="http://www.arbitrobancariofinanziario.it/">www.arbitrobancariofinanziario.it</a>
+           con la quale l'ABF ha riconosciuto al ricorrente la corresponsione di una somma di denaro.</p>
+        </td>
+    </tr>
+    <tr>
+      <td>        
+	<p>L'intermediario Banca Popolare di Sondrio S.p.a. comunica di non aver dato esecuzione alla decisione n. 5933 del 16/05/2024, assunta dall'Arbitro Bancario Finanziario (ABF) e pubblicata sul sito 
+          <a href="http://www.arbitrobancariofinanziario.it/" title="http://www.arbitrobancariofinanziario.it/">www.arbitrobancariofinanziario.it</a>
+           con la quale l'ABF ha riconosciuto al ricorrente la corresponsione di una somma di denaro.</p>
+        </td>
+    </tr>
+    <tr>
+           <td>
+                   <p>L’intermediario Banca Popolare di Sondrio S.p.a. comunica di non aver dato esecuzione alla decisione n. 6715 del 6 giugno 2024, assunta dall’Arbitro Bancario Finanziario (ABF) e pubblicata sul sito <a href="http://www.arbitrobancariofinanziario.it/" title="http://www.arbitrobancariofinanziario.it/">www.arbitrobancariofinanziario.it</a> con la quale l'ABF ha riconosciuto al ricorrente la corresponsione di una somma di denaro.</p>
+           </td>
+    </tr>
+    <tr>
+           <td>
+                   <p>L’intermediario Banca Popolare di Sondrio S.p.a. comunica di non aver dato esecuzione alla decisione n. 6716 del 6 giugno 2024, assunta dall’Arbitro Bancario Finanziario (ABF) e pubblicata sul sito <a href="http://www.arbitrobancariofinanziario.it/" title="http://www.arbitrobancariofinanziario.it/">www.arbitrobancariofinanziario.it</a> con la quale l'ABF ha riconosciuto al ricorrente la corresponsione di una somma di denaro.</p>
+           </td>
+    </tr>
+  
+  </tbody></table>
+    
+</div>
+</div>
+<div><div class='viewLineBreak'>&nbsp;</div></div>
+<div>
+<div class="boxImgNoBordo">   
+    
+        <div>
+<div class="viewPar BLOBAlignLeft" style="color: green"><p><a style="color:green;" href="https://www.popso.it/privati/investimenti/informativa-sostenibilita">Consulta l’informativa sulla sostenibilità nel settore dei servizi finanziari</a></p></div>
+</div>
+    
+</div>
+</div>
+                </div> 
+            </div>
+        </div>
+    </div>                    
+    <!-- STOP INDEX -->
+	
+	<!-- INIZIO FOOTER -->
+<footer class="footer">
+  <a id="Footer"></a>
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-12 p-0">
+        <div class="wrapTopFooter">
+          <div class="container-fluid">
+            <div class="row justify-content-between align-items-center">
+              <div class="col-12 col-lg-6 p-0">
+                <div class="contLogoIndirizzo">
+                  <div class="logoF"><a href="https://www.popso.it/home"><img
+                        src="https://www.popso.it/TemplatesUSR/assets/img/footer/LogoF.png" alt="Banca Popolare di Sondrio" /></a></div>
+                  <div class="txtF">Sede sociale e direzione generale: I - 23100 SONDRIO SO - Piazza Garibaldi, 16
+                    <br />
+                    Codice fiscale: n. 00053810149 Gruppo IVA n. 01086930144 - <a href="https://www.popso.it/chi-siamo/profilo/dati-societari">Dati societari</a><br />
+					Società appartenente al Gruppo bancario BPER Banca S.p.A.
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 col-lg-6 p-0">
+                <div class="contSocial">
+                  <div class="txtSocial d-block d-lg-none">I NOSTRI SOCIAL</div>
+                  <div class="icoSocial">
+                    <ol>
+                      <!--<li><a href="https://www.facebook.com/ateneopiu" class="target_blank"><img class="ico-fb"
+                            src="https://www.popso.it/TemplatesUSR/assets/img/footer/ico-fb.png" alt="icona facebook" /></a></li>-->
+                      <!--<li><a href="https://twitter.com/popsondrio" class="target_blank"><img class="ico-x" src="https://www.popso.it/TemplatesUSR/assets/img/footer/ico-x.png" alt="icona x" /></a></li>-->
+                      <li><a href="https://www.linkedin.com/company/banca-popolare-di-sondrio/"  title="Vai alla pagina di Linkedin"
+                          class="target_blank"><img class="ico-ln" src="https://www.popso.it/TemplatesUSR/assets/img/footer/ico-ln.png"
+                            alt="icona linkedin" /></a></li>
+                      <li><a href="https://www.instagram.com/popso_banca/"  title="Vai alla pagina di Instagram"
+                          class="target_blank"><img class="ico-in" src="https://www.popso.it/TemplatesUSR/assets/img/footer/ico-in.png"
+                            alt="icona instagram" /></a></li>
+                    </ol>
+                  </div>
+                </div>
+              </div>
+              <div class="col-12 p-0">
+                <div class="contMenuFooterFondo">
+                  <div class="menuFooterFondo">
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/whistleblowing' title='' ><span>Whistleblowing</span></a></li>
+<li><a href='https://www.popso.it/chi-siamo/lavora-con-noi' title='' ><span>Lavora con noi</span></a></li>
+<li><a href='https://www.popso.it/comunicazioni-alla-clientela' title='' ><span>Comunicazioni alla clientela</span></a></li>
+<li><a href='https://www.popso.it/trasparenza' title='' ><span>Trasparenza</span></a></li>
+<li><a href='https://www.popso.it/reclami-e-arbitro-per-le-controversie-finanziarie' title='' ><span>Reclami e Arbitro per le Controversie Finanziarie (ACF)</span></a></li>
+<li><a href='https://www.popso.it/privati/investimenti/informativa-sostenibilita' title='' ><span>Informativa sulla sostenibilit&agrave; nel settore dei servizi finanziari</span></a></li>
+<li><a href='https://www.popso.it/privacy' title='' ><span>Privacy e cookie</span></a></li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="wrapBottomFooter">
+          <div class="container-fluid">
+            <div class="row justify-content-between align-items-center">
+              <div class="col-12 col-md-11 p-0">
+                <div class="contBoxAiuto">
+                  <div class="txtAiuto">HAI BISOGNO DI AIUTO?</div>
+                  <div class="menuFooterAiuto">
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/contatti' title='' ><span>Contatti</span></a></li>
+<li><a href='https://www.popso.it/contatti/blocco-carte' title='' ><span>Blocco carte</span></a></li>
+<li><a href='https://www.popso.it/aiuto-contatti/filiali-atm' title='' ><span>Filiali e ATM</span></a></li>
+<li><a href='https://www.popso.it/accessibilita' title='' ><span>Accessibilit&agrave;</span></a></li>
+<li><a href='https://www.popso.it/verifica-telematica-garanzie' title='Verifica telematica garanzie' ><span>Verifica telematica garanzie</span></a></li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="accordion accordionFooter">
+            <div class="accordion-item">
+              <div class="accordion-header" id="headingOne">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
+                  aria-expanded="true" aria-controls="collapseOne">
+                  <span>Riduci</span>
+                </button>
+              </div>
+              <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                data-bs-parent="#accordionExample">
+                <div class="accordion-body">
+                  <div class="menuFooter">
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/chi-siamo' title='' ><span>Chi siamo</span></a><ol>
+<li><a href='https://www.popso.it/chi-siamo/profilo' title='' ><span>Profilo</span></a></li>
+<li><a href='https://www.popso.it/chi-siamo/la-storia' title='' ><span>La storia</span></a></li>
+<li><a href='https://www.popso.it/chi-siamo/centro-servizi-morani' title='' ><span>Centro Servizi Morani</span></a></li>
+<li><a href='https://www.popso.it/chi-siamo/iniziative-particolari' title='' ><span>Iniziative particolari</span></a></li>
+<li><a href='https://www.popso.it/chi-siamo/lavora-con-noi' title='' ><span>Lavora con noi</span></a></li>
+</ol>
+</li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/cultura-territorio' title='' ><span>Cultura e territorio</span></a><ol>
+<li><a href='https://www.popso.it/cultura-e-territorio' title='' ><span>Attivit&agrave; culturali</span></a></li>
+<li><a href='https://www.popso.it/cultura-e-territorio/attivita-editoriali' title='' ><span>Attivit&agrave; editoriali</span></a></li>
+<li><a href='https://www.popso.it/cultura-e-territorio/iniziative-on-line' title='' ><span>Le nostre iniziative online</span></a></li>
+<li><a href='https://www.popso.it/cultura-e-territorio/territorio-e-tempo-libero' title='' ><span>Territorio e tempo libero</span></a></li>
+</ol>
+</li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/prodotti-servizi' title='' ><span>Prodotti e servizi</span></a><ol>
+<li><a href='https://www.popso.it/prodotti/privati' title='' ><span>Privati</span></a></li>
+<li><a href='https://www.popso.it/prodotti/aziende-professionisti' title='' ><span>Aziende</span></a></li>
+<li><a href='https://www.popso.it/prodotti/enti' title='' ><span>Enti</span></a></li>
+</ol>
+</li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/cm/pages/ServeBLOB.php/L/IT/IDPagina/141' title='' ><span>Estero e internazionalizzazione</span></a><ol>
+<li><a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione#servizi-per-l-internazionalizzazione-anchor' title='' ><span>Servizi per l&#039;Internazionalizzazione</span></a></li>
+<li><a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione#sistemi-di-pagamento-e-gestione-liquidita-anchor' title='' ><span>Sistemi di pagamento e gestione liquidit&agrave;</span></a></li>
+<li><a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione#trade-finance-anchor' title='' ><span>Trade finance</span></a></li>
+<li><a href='https://www.popso.it/prodotti/aziende-professionisti/estero-e-internazionalizzazione#copertura-rischi-finanziari-anchor' title='' ><span>Copertura rischi finanziari</span></a></li>
+</ol>
+</li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/servizi-digitali' title='' ><span>Servizi Digitali</span></a><ol>
+<li><a href='https://www.popso.it/servizi-digitali/scrigno-bps' title='' ><span>SCRIGNObps</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/app-scrigno-bps' title='' ><span>App SCRIGNObps</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/scrigno-budget' title='' ><span>SCRIGNObudget</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/scrigno-trading-on-line' title='' ><span>SCRIGNOTrading Online</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/scrignopago-facile' title='' ><span>SCRIGNOPago Facile</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/scrigno-identi-tel' title='' ><span>SCRIGNOIdentiTel</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/scrigno-ges-tes' title='' ><span>SCRIGNOGesTes</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/bancomat-pay' title='' ><span>BANCOMAT Pay&reg;</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/open-banking' title='' ><span>Open Banking</span></a></li>
+<li><a href='https://www.popso.it/google-pay' title='' ><span>Google Pay</span></a></li>
+<li><a href='https://www.popso.it/apple-pay' title='' ><span>Apple Pay</span></a></li>
+</ol>
+</li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/sicurezza-online' title='' ><span>Sicurezza online</span></a><ol>
+<li><a href='https://www.popso.it/sicurezza-on-line/il-decalogo-della-sicurezza' title='' ><span>Il decalogo della sicurezza</span></a></li>
+<li><a href='https://www.popso.it/sicurezza-online/sicuri-scrigno' title='' ><span>Sicuri su SCRIGNO</span></a></li>
+<li><a href='https://www.popso.it/sicurezza-online/navigosereno' title='' ><span>Navigosereno</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/navigati-mille-volti' title='' ><span>I Navigati - I mille volti della truffa</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/cybersicuri-impresa-possibile' title='' ><span>Cybersicuri - Impresa possibile</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/truffe-anziani' title='' ><span>Consigli contro le truffe agli anziani</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/certificazione-sicurezza-iso27001' title='' ><span>Certificazione di sicurezza</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/vademecum-sicurezza-pagamenti-internet' title='' ><span>Vademecum pagamenti via Internet</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/vademecum-abi-sicurezza-dentro-fuori-filiale' title='' ><span>Un vademecum ABI per agire in sicurezza dentro e fuori la filiale</span></a></li>
+<li><a href='https://www.popso.it/servizi-digitali/sicurezza/truffe-trading-online' title='' ><span>Le truffe nel Trading online</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/linee-guida-suggerimenti' title='' ><span>Prevenire le frodi</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/3dSecure' title='' ><span>3D Secure</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/phishing-vishing' title='' ><span>Phishing, Vishing, Smishing e MITB</span></a></li>
+<li><a href='https://www.popso.it/servizi-online/sicurezza/guide-europol' title='' ><span>Le guide di EUROPOL</span></a></li>
+</ol>
+</li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/social-media' title='' ><span>Social</span></a></li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                    
+<!-- trailindex - start cached content -->
+
+<ol>
+<li><a href='https://www.popso.it/cm/pages/ServeBLOB.php/L/IT/IDPagina/294' title='' ><span>Altri siti BPS</span></a><ol>
+<li><a href='https://nonsolobanca.popso.it' title='' ><span>Nonsolobanca</span></a></li>
+<li><a href='https://www.ateneopiu.it' title='' ><span>Ateneo+</span></a></li>
+<li><a href='https://www.sopop.it' title='' ><span>soPOP</span></a></li>
+<li><a href='https://businessschool.popso.it' title='' ><span>Business School</span></a></li>
+<li><a href='https://www.popsoimmobili.it/' title='' ><span>Popso Immobili</span></a></li>
+<li><a href='https://www.popsoarte.it' title='' ><span>Popso Arte</span></a></li>
+<li><a href='http://www.popso.bibliotecacredaro.it/easyne2/SZN.aspx?ID=5396&CODE=BPS1' title='' ><span>Biblioteca Credaro</span></a></li>
+<li><a href='https://pirovano.it' title='' ><span>Pirovano.it</span></a></li>
+</ol>
+</li>
+</ol>
+
+
+<!-- trailindex - end cached content -->
+
+                  </div>
+                  <!--<div class="contMenuFooterFondo">
+                <div class="txtFooter">&copy; 2023 Banca Popolare di Sondrio</div>
+                <div class="menuFooterFondo">
+                  
+
+			<div style='
+				border: 2px solid red;
+				padding: 2px;
+				margin: 2px;
+				background-image: none;
+				background-color: #f9ef00;
+				text-align: center;
+			'>
+
+				TemplateRegEx: Unexistent function [IndexTree], for value [] with pars [ ID=9, trailtree, open=1, complete--]
+
+			</div>
+		
+                </div>
+              </div>-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!--<div class="wrapBottomFooterXs d-block d-xl-none">
+          <div class="container-fluid p-0 p-sm-2">
+            <div class="row justify-content-between align-items-center">
+              <div class="col-12 p-0">
+                <div class="contMenuFooterFondo">
+                  <div class="txtCopy">&copy; 2024 Banca Popolare di Sondrio</div>
+                  <div class="menuFooterFondo">
+                    
+
+			<div style='
+				border: 2px solid red;
+				padding: 2px;
+				margin: 2px;
+				background-image: none;
+				background-color: #f9ef00;
+				text-align: center;
+			'>
+
+				TemplateRegEx: Unexistent function [IndexTree], for value [] with pars [ ID=9, trailtree, open=1, complete--]
+
+			</div>
+		
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>-->
+      </div>
+    </div>
+  </div>
+</footer>
+
+    <div class='adminlinks'>
+    <div class='container'>
+        <div class='row justify-content-center'>
+            <div class='col-auto'>
+                
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type='text/html' id='eu-privacy-tpl'>&lt;style type='text/css'&gt;
+/*
+#eu-privacy.close {
+	top: -100%;
+}*/
+#eu-privacy {
+	/*top: -100%;*/
+	-webkit-transition: all 0.5s ease-in;
+	-moz-transition: all 0.5s ease-in;
+	-ms-transition: all 0.5s ease-in;
+	-o-transition: all 0.5s ease-in;
+	transition: all 0.5s ease-in;
+}
+#eu-privacy.open {
+		top: auto;
+		bottom: 0;
+		tran sform: translate(0 , 202px);
+	}
+	#eu-privacy {
+		top: auto;
+		bottom: -202px;
+		tra nsform: translate(0 , 0);
+	}
+	#eu-privacy, #eu-privacy a {
+		color: rgb(245, 243, 243);
+		background-color: #464B4F;
+	}
+	#eu-privacy-inner {
+		margin: 16px 15px 10px;
+	}
+	#eu-privacy-close {
+		position: absolute;
+		top: auto;
+		bottom: 10px;
+		right: 10px;
+		border: 1px solid #fff;
+		border-radius: 4px;
+		font-size: 14px;
+		padding: 2px;
+		text-decoration: none;
+	}
+	a#eu-privacy-close:hover { background-color: white; color: #464B4F; }
+	
+	#eu-privacy-inner p { font-size: 14px; color: rgb(245, 243, 243); }
+	#eu-privacy-inner p a { text-decoration: underline; }
+	#eu-privacy-inner p a:hover { text-decoration: none; }
+	
+	@media screen and (min-width: 768px) {
+		#eu-privacy-inner {
+			margin: 16px 74px 10px 15px;
+		}
+	}
+	
+	&lt;/style&gt;
+	
+
+&lt;p&gt;
+	L'utilizzo dei cookie concorre al buon funzionamento di questo sito e favorisce il miglioramento dei servizi offerti all'utente.
+L'accesso ai contenuti del sito e l'utilizzo dei servizi implica accettazione dell'utilizzo dei cookie. &lt;a href='https://www.popso.it/privacy-web'&gt;Maggiori informazioni&lt;/a&gt;
+&lt;/p&gt;
+
+
+&lt;!-- a id='eu-privacy-close' href='#'&gt;
+	&lt;img src='https://www.popso.it/TemplatesUSR/modules/IT/eu-privacy/close-md.png' /&gt;
+&lt;/a --&gt;
+
+&lt;a id='eu-privacy-close' href='#'&gt;&amp;nbsp;Accetta&amp;nbsp;&lt;/a&gt;
+</script>
+
+<script type='text/javascript'>var gAppConfigure = {
+	kBlankLinkMessage: ' (Questo collegamento aprirà una nuova finestra)',
+		kBaseURL: 'https://www.popso.it/cm/',
+		kDataURL: 'https://www.popso.it/',
+		eucookie: {"settings":1},
+	lang: 'IT',
+	isDevel: false
+};</script>
+<script type='text/javascript' src='https://www.popso.it/cm/js.7.9.11/jq/jquery-3.4.1.min.js'></script>
+<script type='text/javascript' src='https://www.popso.it/cm/js.7.9.11/jq/FlexJS.js'></script>
+<script src='https://www.popso.it/Extensions/assets/js/blobElencoProdottiPerMacrocategoria-CategoriaProdottiSlider.js'></script>
+<script src='//www.google.com/recaptcha/api.js' async defer></script>
+<script src='https://www.popso.it/Extensions/vendor/toastmessage/javascript/jquery.toastmessage.js'></script>
+<script src='https://www.popso.it/Extensions/assets/js/menu.js'></script><script type="text/javascript">
+$().ready(function() {
+
+
+var $status = $('.SliderTopHome .pagingInfo');
+var $slickElement = $('.SliderTopHome .slider-for');
+
+$('.SliderTopHome .slider-nav').slick({
+    slidesToShow: 5,
+    slidesToScroll: 1,
+    asNavFor: '.slider-for',
+    dots: false,
+    arrows: false,
+    infinite: true,
+    variableWidth: true,
+    focusOnSelect: true
+  });
+
+  $slickElement.on('init reInit afterChange', function (event, slick, currentSlide, nextSlide) {
+    //currentSlide is undefined on init -- set it to 0 in this case (currentSlide is 0 based)
+    var i = (currentSlide ? currentSlide : 0) + 1;
+    $status.html(i + ' di ' + '<strong>' + slick.slideCount + '</strong>');
+  });
+
+  $slickElement.slick({
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    arrows: true,
+    fade: true,
+    asNavFor: '.SliderTopHome .slider-nav'
+  });
+    
+  
+
+
+				(function(){
+					
+					var 
+						idFabObj = 3,
+						fabtool = document.getElementById("tool-fabbisogno-"+idFabObj)
+					;
+
+					var handleClickFabbisogno = function(e) {
+
+						var data = {};
+
+						if(e.target.classList.contains("btn-fabbisogno")) {
+							data.tg = e.target.dataset.target;
+							data.hs = e.target.dataset.hs;
+						}
+
+						if(e.target.classList.contains("btn-history") && e.target.dataset.back != 1) {
+							data.tg = e.target.dataset.back;
+							data.hs = e.target.dataset.backhs;
+						}
+
+						if(
+							(e.target.classList.contains("btn-fabbisogno-start") 
+							|| e.target.classList.contains("btn-fabbisogno")
+							|| e.target.classList.contains("btn-history"))
+							&& e.target.classList.contains("ending") === false
+						) {
+							
+							FlexJS.Ajax.post("toolfabbisogno", data, function(data) {
+								
+								fabtool.innerHTML = data.node;
+							});
+						}
+					}
+					
+					fabtool.addEventListener("click", handleClickFabbisogno);
+				
+				})();
+			
+
+
+  
+
+
+                (function(){
+
+                    var displayErrors = function(errorList) {
+
+                        errorList.forEach((element) => {
+                            
+                            var 
+                                el = $("#"+element.field),
+                                pa = el.parent(),
+                                la = $("label[for="+element.field+"]")
+                            ;
+
+                            pa.addClass("validation-error");
+                            la.append("<span class='validation-error-message'>"+element.msg+"</span>");
+                        });
+                    }
+
+                    var cleanErrors = function() {
+                        
+                        var 
+                            errorfields = $(".validation-error"),
+                            errormessages = $(".validation-error-message")
+                        ;
+
+                        errorfields.removeClass("validation-error");
+                        errormessages.remove();
+                    }
+
+                    var checkValidations = function(fields) {
+                        
+                        var errors = [];
+
+                        var mandatory = [
+                            "nome-fri-83",
+                            "cognome-fri-83",
+                            "email-fri-83",
+                            "nome-fri-83",
+                            "messaggio-fri-83",
+                        ];
+
+                        var privacy = false;
+
+                        fields.forEach((element) => {
+                            if(element.name == "messaggio-fri-83" && element.value.length > 1000)
+                                errors.push({ field: element.name, msg: "Lunghezza massima 1000 caratteri" });
+                            if(mandatory.includes(element.name) && element.value == "")
+                                errors.push({ field: element.name, msg: "Campo obbligatorio" });
+                            if(element.name == "privacy-fri-83") privacy = true;
+                            if(element.name == "categoria-fri-83" && element.value == "-1") 
+                                errors.push({ field: element.name, msg: "Campo obbligatorio" });
+                        });
+
+                        if(!privacy) errors.push({ field: "privacy-fri-83", msg: "Campo obbligatorio" });
+
+                        if(errors.length === 0) return true;
+
+                        displayErrors(errors);
+                        return false;
+                    }
+
+                    $("#form-richiesta-info-fri-83").on("submit", function(e) {
+                        
+                        e.preventDefault();
+                        e.stopPropagation();
+
+                        cleanErrors();
+
+                        var
+                            form = $(this),
+                            formvalues = form.serializeArray(),
+                            validations = checkValidations(formvalues)
+                        ;
+
+                        if(validations) {
+                            
+                            FlexJS.Ajax.post("pospsorichiestainfo", form.serialize(), function(data) {
+
+                                if (data["status"] == "ok") {
+
+                                    if(data["err"] == "r") return false;
+                                  
+                                    $().toastmessage("showSuccessToast", "Richiesta inviata.");
+                                    form.get(0).reset();
+                                } else {
+
+                                    if(Object.keys(data["err"]).length > 0) {
+                                        displayErrors(data["err"]);
+                                    }
+                                }
+                                return false;
+                            });
+                        }
+                    });
+
+                    $("#messaggio-fri-83").on("keydown", function(e) {
+
+                        var
+                            el = $(this),
+                            va = el.val(),
+                            max = 1000,
+                            actual = va.length >= max ? max : va.length
+                        ;
+
+                        if(va.length >= max) {
+                            $(this).val(va.substr(0, max));
+                        }
+
+                        el.next(".limit").text(actual+"/"+max);
+                    });
+                })();
+            
+
+
+  
+
+
+
+  
+
+window.__flex__eu_cookie_enabled = true;
+
+$(window).on('load', function() {
+
+	if (! window.__flex__eu_cookie_enabled)
+		return;
+
+		// nel caso di contenuto in cache (usa il doppio if per non inserire il doppio ampersand - cfr. w3c)
+
+	if (document.cookie)
+		if (document.cookie.match(/fx-eu-privacy/))
+			return;
+
+	var
+		lt = String.fromCharCode(60),
+		amp = String.fromCharCode(38),
+		tpl = $('#eu-privacy-tpl').html().replace(/&lt;/g, lt).replace(/&gt;/g, '>').replace(/&amp;/g, amp),
+		div = lt + 'div />'
+	;
+
+	var d = $(div)
+		.attr({
+			id: 'eu-privacy'
+		})
+		.on('click', '#eu-privacy-close', function() { sc(); d.removeClass('open').addClass('close'); return false; })
+		.append(
+			$(div).attr('id', 'eu-privacy-inner').html(tpl)
+		)
+		.appendTo('body')
+	;
+
+	setTimeout(function() { d.addClass('open'); }, 500);
+
+	var sc = function() {
+
+		fjs.ajax.get('euCookie', fjs.noop);
+	};
+});
+
+});
+</script>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src='https://www.googletagmanager.com/gtag/js?id=G-7N8BNQS523' type='text/javascript'></script>
+<script type='text/javascript'>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-7N8BNQS523', { 'anonymize_ip': true });
+</script>
+
+<script type='text/javascript' src='https://www.popso.it/TemplatesUSR/assets/bootstrap-5.2.3-dist/js/bootstrap.bundle.min.js'></script>
+<script type='text/javascript' src='https://www.popso.it/TemplatesUSR/assets/slick/slick.min.js'></script>
+<script type='text/javascript' src='https://www.popso.it/TemplatesUSR/assets/js/winResizer.js'></script>
+<script type="text/javascript">$().ready(function() {
+
+
+
+	$('.close').click(function() {
+		$('.chiusura').hide("slow");
+	}); 	
+
+
+	$("#map").addClass( "embed-responsive" );
+    $(".gm-style").addClass( "embed-responsive-item" );
+    $(".home-page .contBoxChiSiamo img").wrap("<div class='contImg'></div>");
+    $('table').wrap("<div class='table-responsive respviewTable'></div>");
+    $('table.table').wrap("<div class='table-responsive respisAppTable'></div>");
+
+	$('div.respviewTable').wrap("<div class='cont-table-responsive-viewTable'></div>");
+	
+	$('div.LinkBluSmall a').wrapInner("<span></span>");
+	$('div.LinkBiancoSmall a').wrapInner("<span></span>");
+	/*$('footer .accordion .accordion-button').find('.aria-expanded==true').html("Visualizza meno dettagli");*/
+	/*$('footer .accordion .accordion-button.collapsed').wrap("<span></span>");*/
+
+	$('footer .accordion').on('shown.bs.collapse',function(){
+		$('.accordion-button').html('<span>Riduci</span>');
+	});
+	$('footer .accordion').on('hidden.bs.collapse',function(){
+		$('.accordion-button').html('<span>Espandi</span>');
+	});
+
+	$('.menuFooterAiuto ol').find('li:first-child span').html("Contatti");
+
+
+
+	/* $('footer .menuFooter > ol > li:nth-child(4) > a:first-child > span').addClass( "txtEstero" )
+	const navElement = document.querySelector('.txtEstero').textContent = "Estero";
+	*/
+
+	$('footer .menuFooter > ol:nth-child(4) > li > a:first-child > span').addClass( "txtEstero" )
+	const navElement = document.querySelector('.txtEstero').textContent = "Estero";
+
+	$('.homePrivati .wrapFasciaServiziDigitali .contBoxServiziDigitali .viewPar').unwrap().wrap("<div class='contParSx'></div>");
+	$('.homePrivati .BoxAffiancatiTxt-BtnBlu').unwrap();
+
+	$titolo = $('.homeEnti .wrapFasciaServiziDigitali .contBoxServiziDigitali h2').unwrap();
+	$paragrafo = $('.homeEnti .wrapFasciaServiziDigitali .contBoxServiziDigitali .viewPar');
+	$paragrafo.unwrap().wrapAll("<div class='contParSx'></div>");
+	$contenitore = $('.homeEnti .wrapFasciaServiziDigitali .contBoxServiziDigitali .contParSx');
+	$contenitore.prepend($titolo);
+
+
+	document.addEventListener('click',function(e){
+		// Hamburger menu
+		if(e.target.classList.contains('hamburger-toggle2')){
+		  e.target.children[0].classList.toggle('active');
+		}
+	}) 
+
+
+	$('.wrap-ham-menu-top .menu').on( "click", function() {
+        $(this).toggleClass('opened');
+        $('body').toggleClass('no-scroll');
+        $('#navbar-content').toggleClass('show');
+    });
+
+    $('.close-menu-resp').on( "click", function() {
+        $('.wrap-ham-menu-top .menu').removeClass('opened');
+        $('body').removeClass('no-scroll');
+        $('#navbar-content').removeClass('show');
+        $('.dropdown-menu').removeClass('show');
+    });
+
+
+
+    winResizer.addAndExecute(function() {
+
+            var ww = $(window).width();
+
+			
+
+			/*********** Larghezza menu dropdown 2 e 3 Liv *********************/
+			/* if (ww > 992) {
+				var d = $('.menuLiv2').width();
+				var w = $(window).width() - d - 125;
+				var menuLiv3 = $('.menuLiv3').css('width', w);
+
+			}*/
+
+			/*if (ww < 992) {
+				$('.BoxProdottiTxt').slick({
+					dots: true,
+					infinite: false,
+					autoplay: false,
+					swipeToSlide: true,
+					slidesToShow: 2,
+					slidesToScroll: 1,
+					arrows: true,
+					responsive: [
+						{
+						breakpoint: 767,
+						settings: {
+							arrows: false,
+							centerMode: true,
+							centerPadding: '40px',
+							slidesToShow: 1
+						}
+						}
+					]
+				});
+
+			}*/
+
+
+			$(window).scroll(function () {
+				$('header').toggleClass("head-sticky", ($(window).scrollTop() > 10));
+			});
+
+            if (ww < 767) {
+
+			const settings = {
+				dots: true,
+				arrows: false,
+				infinite: false,
+				swipeToSlide: true,
+				slidesToShow: 1,
+				mobileFirst: true,
+				slidesToScroll: 1,
+				draggable: true,
+				centerMode: true,
+				centerPadding: '40px',
+				responsive: [
+					{
+						breakpoint: 767,
+						settings: "unslick"
+					}
+			
+					// You can unslick at a given breakpoint now by adding:
+					// settings: "unslick"
+					// instead of a settings object
+				]
+			};
+			
+			const sl = $('.BoxProdottiTxt').slick(settings);
+			
+			$(window).on('resize', function () {
+				if ($(window).width() < 767 && !sl.hasClass('slick-initialized')) {
+					$('.BoxProdottiTxt').slick(settings);
+				}
+			});
+
+
+
+
+
+
+                $(".viewGMap").wrap( "<div class='embed-responsive embed-responsive-16by9'></div>" ).addClass( "embed-responsive-item" );
+
+				/*$('.BoxProdottiTxt').slick({
+					dots: true,
+					infinite: false,
+					autoplay: false,
+					swipeToSlide: true,
+					slidesToShow: 1,
+					slidesToScroll: 1,
+					arrows: false,
+					centerMode: true,
+					centerPadding: '40px'
+				});*/
+
+				$('.BoxProdottiCorr-ImgTxt').slick({
+					dots: true,
+					infinite: false,
+					autoplay: false,
+					swipeToSlide: true,
+					slidesToShow: 2,
+					slidesToScroll: 1,
+					arrows: true,
+					responsive: [
+						{
+						breakpoint: 767,
+						settings: {
+							arrows: false,
+							centerMode: true,
+							centerPadding: '40px',
+							slidesToShow: 1
+						}
+						}
+					]
+				});
+				
+            }
+        });
+		
+
+
+
+	$(".page-body form .BLOBFloatClear").addClass( "form-check" );
+	$(".page-body form input[type='checkbox']").addClass( "checkbox" );
+	$(".page-body form input[type='radio']").addClass( "radio" );
+	$(".page-body form input[type='submit']").addClass("btn btn-secondary");
+
+//  JS modifica form editoriali per adattarli a bootstrap 4
+
+	$( "form .formText" ).each(function() {
+		$( this ).addClass('form-control').unwrap().closest('.BLOBWidth100').attr('class','form-group');
+		var l = $( this ).prev().find('.formTextLabel').unwrap();
+		$( this ).siblings('.formMandatory').appendTo( l );
+	});
+
+	$( "form [type='text']" ).each(function() {
+		var l = $( this ).prev().addClass('label-control');
+		$( this ).siblings('.mandatory').appendTo( l );
+	});
+
+	$( "form [type='password']" ).each(function() {
+		var l = $( this ).prev().addClass('label-control');
+		$( this ).siblings('.mandatory').appendTo( l );
+	});
+
+	$( "form select" ).each(function() {
+		var l = $( this ).prev().addClass('label-control');
+		$( this ).siblings('.mandatory').appendTo( l );
+	});
+
+	$( "form textarea" ).each(function() {
+		var l = $( this ).prev().addClass('label-control');
+		$( this ).siblings('.mandatory').appendTo( l );
+	});
+
+	$( "form .formTextArea" ).each(function() {
+		$( this ).addClass('form-control').unwrap().closest('.BLOBWidth100').attr('class','form-group');
+		var la = $( this ).prev().find('.formTextAreaLabel').unwrap();
+		$( this ).siblings('.formMandatory').appendTo( la );
+	});
+
+	$( "form .formDropDown" ).each(function() {
+		$( this ).addClass('').unwrap().closest('.BLOBWidth100').attr('class','form-group');
+		var ls = $( this ).prev().find('.formDropDownLabel').unwrap();
+		$( this ).siblings('.formMandatory').appendTo( ls);
+	});
+
+	$( "form .formCheckboxLabel" ).each(function() {
+		$( this ).addClass('form-control').unwrap().closest('.BLOBFloatClear').attr('class','form-check');
+	});
+
+	$( "form input[type='file']" ).each(function() {
+		$( this ).addClass('form-control').unwrap().closest('.BLOBFloatClear').attr('class','form-check');
+	});
+	$( ".contBoxNovita form .form-group" ).each(function() {
+		$( this ).unwrap();
+	});
+	
+	$( ".contBoxNovita form input[type='submit']" ).each(function() {
+		$( this ).addClass('form-submit').unwrap().unwrap();
+		var ls = $( this ).siblings('.form-group');
+		if ($(window).width() > 767) {$( this ).appendTo( ls);}
+	});
+
+
+	$( ".contBoxNovita form input[type='text']" )[0].setAttribute("placeholder", "inserisci il tuo indirizzo e-mail");
+
+	/*
+	$( "form[action='#'] .checkbox" ).each(function() {
+		$( this ).addClass('form-control').unwrap();
+	});*/
+
+	$( "form[action='#'] .checkbox" ).each(function() {
+		var l = $( this ).find('.checkbox');
+		$( this ).siblings('.formMandatory').appendTo( l );
+	});
+
+	$( ".form-check" ).unwrap();
+	/*$( "form[action='#'] .form-check" ).append( $( ".labelCheckbox" ) );*/
+
+
+	$( "form[action='#'] .btn-secondary" ).each(function() {
+		$( this ).unwrap().wrap( "<div class='cont-submit'></div>" );
+	});
+	
+	$(".form-check .formMandatory").unwrap();
+
+	$( "form[action='#'] .radio" ).each(function() {
+		$( this ).addClass('form-control').unwrap().closest('.BLOBFloatClear').attr('class','form-check');
+	});
+
+	// $(".formRadio").unwrap();
+
+
+	$(".indexBlock .indexTitle").click(function(){
+		$(this).parent().toggleClass("collapseMenu");
+	});
+
+
+
+    $('[data-toggle="offcanvas"]').click(function (e) {
+      e.preventDefault();
+      $('.row-offcanvas').toggleClass('active');
+      $(this).toggleClass('active');
+      $('body > div').toggleClass('active');
+    });
+
+    $('.row-offcanvas').click(function(e){
+      if ($(e.target).hasClass('row-offcanvas') && $(this).is('.active')) {
+        $(this).removeClass('active');
+      }
+    });
+
+	$('a').each(function() {
+		if ($(this).is('[href*="istituzionale.popso.it"')) {
+			$(this).addClass("target_blank");
+		}
+	});
+    
+	// Seleziona tutti gli elementi con la classe 'miaClasse'
+	let elementi = document.querySelectorAll('.BoxProdottiTxt .item');
+	let elementi2 = document.querySelectorAll('.BoxProdottiCorr-ImgTxt .item');
+	
+	
+	// Itera su ogni elemento e aggiungi l'attributo tabindex="-1"
+	elementi.forEach(function(elemento) {
+		elemento.setAttribute('tabindex', '-1');
+	});
+	elementi2.forEach(function(elemento) {
+		elemento.setAttribute('tabindex', '-1');
+	});
+
+	const userAgent = navigator.userAgent;
+    if (/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(userAgent)) {
+      // Codice per dispositivi mobili
+    } else {
+      // Codice per dispositivi tradizionali (desktop, laptop)
+    }
+
+	
+});</script>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*?*page=
+Sitemap: https://www.enikos.gr/news-sitemap.xml
+Sitemap: https://www.enikos.gr/sitemap.xml
+
+User-Agent: bingbot
+Crawl-delay: 1
+Sitemap: https://www.enikos.gr/sitemap.xml
+
+User-agent: Googlebot 
+Disallow: /brand-spotlight/

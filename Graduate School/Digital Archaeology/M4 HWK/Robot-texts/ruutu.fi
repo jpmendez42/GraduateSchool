@@ -1,0 +1,8 @@
+User-Agent: *
+User-Agent: AdsBot-Google
+Allow: /
+Disallow: /api/
+Disallow: /tilaus
+Disallow: /aktivoi
+
+Sitemap: https://www.ruutu.fi/sitemap.xml

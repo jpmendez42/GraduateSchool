@@ -1,0 +1,16 @@
+user-agent: *
+allow: /
+disallow: /episerver/
+disallow: /*is-pages/
+disallow: */is-pages/
+disallow: /*.jpg$
+disallow: /*.jpeg$
+disallow: /*.gif$
+disallow: /*.pdf$
+disallow: /*.doc$
+disallow: /*.docx$
+disallow: /*.bmp$
+disallow: /*.png$
+disallow: /*.webp$
+sitemap: https://www.bi.no/no/sitemap.xml
+sitemap: https://www.bi.no/en/sitemap.xml

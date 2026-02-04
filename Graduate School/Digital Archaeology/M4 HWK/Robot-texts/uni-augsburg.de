@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /de/portal/intranet
+Disallow: /en/portal/intranet
+Crawl-delay: 1
+
+Host: uni-augsburg.de
+Sitemap: http://uni-augsburg.de/sitemap.xml
+

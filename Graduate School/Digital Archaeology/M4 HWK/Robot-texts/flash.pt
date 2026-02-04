@@ -1,0 +1,23 @@
+﻿User-agent: OpenAI-Crawler
+Disallow: /
+
+User-agent: Googlebot-Bard
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: / 
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: *
+Disallow: /Error/
+Disallow: /Content/
+
+Sitemap: https://www.flash.pt/sitemap

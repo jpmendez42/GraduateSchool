@@ -1,0 +1,40 @@
+User-agent: GPTBot
+Disallow: /
+User-agent: *
+Disallow: */mircim/confirm
+Disallow: */newsletter/confirm
+Disallow: */manualmibe/confirmar_email
+Disallow: */kurier/potwierdz_email
+Disallow: */aneks20040301
+Disallow: */artykuly/captcha.html
+Disallow: */demo
+Disallow: */dodatki
+Disallow: */dodatki/extrwindow.php
+Disallow: */download
+Disallow: */forum/
+Disallow: */koszyk.php
+Disallow: */kurier/specjalne
+Disallow: */kurierhtml
+Disallow: */msz_ua
+Disallow: */plugins/feedback.php
+Disallow: */poczta
+Disallow: */reklama
+Disallow: */user/login.html?*
+Disallow: */user/logout.html?*
+
+Disallow: */szukaj.html?q=
+Disallow: */szukaj?q=
+Disallow: */set_ad_swimbox.html
+Disallow: */artykuly/thumb/
+
+Disallow: */cdn-cgi/
+
+Allow: */home/szukaj?
+Allow: */home/szukaj.html?
+Allow: */ksiegarnia/szukaj?
+Allow: */lekarz/poczet/szukaj?
+Allow: */lekarz/poczet/szukaj.html?
+Allow: */lekarz/szukaj-lekarza/
+Allow: */lekarz/szukaj/
+Allow: */pacjent/leki/szukaj?
+Allow: */pacjent/leki/szukaj.html?

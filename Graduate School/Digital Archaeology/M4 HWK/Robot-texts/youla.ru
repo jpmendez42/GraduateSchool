@@ -1,0 +1,50 @@
+User-agent: Yandex
+Disallow: */*/*q=*
+Allow: *?q=*
+Allow: *?fbclid=*
+Allow: *?yclid=*
+Disallow: /login*
+Disallow: /*%2Fbuy
+Disallow: /*/buy
+Disallow: /?_1l*
+Disallow: /im/product/*
+Disallow: *?payload=*
+Clean-param: _branch_match_id&backUrl&fromheadline&mt_click_id&payload&mt_sub1&mt_sub2&mt_sub3&mt_sub4&mt_sub5&state&id&yclid&fbclid
+Clean-param: _ga&rb_clickid&price&showPromotionForm&showVasSuccessModal&timeLimit&priceTo&priceFrom&bonus_applied&sort&vasSuccessType&paid_boost&alias&distance
+
+#Clean-param для атрибутов
+Clean-param: attributes%5Bsort_field%5D&attributes%5Bprice%5D&attributes%5Bterm_of_placement%5D&attributes%5Bsobstvennik_ili_agent%5D&attributes%5Bphone_brand%5D&attributes%5Bsmartfony_vstroennaya_pamyat%5D&attributes%5Brealty_building_type%5D&attributes%5Bkomnat_v_kvartire%5D&attributes%5Bkomissiya%5D&attributes%5B0%5D&attributes%5Brealty_obshaya_ploshad%5D&attributes%5Btip_doma%5D&attributes%5Bigri_dlya_pristavok_i_pl_platforma%5D
+Clean-param: attributes%5Brealty_etaj%5D&attributes%5Bauto_brand%5D&attributes%5Bbalkon%5D&attributes%5Bsmartfony_os%5D&attributes%5Bdelivery%5D&attributes%5Btip_postroyki%5D&attributes%5Bstiralnaya_mashina%5D&attributes%5Brasstoyanie_ot_metro%5D&attributes%5Bpredoplata_mesechnaya%5D&attributes%5Btip_sdelki%5D&attributes%5Btip_stroeniya%5D&attributes%5Bvodosnabjenie_i_kanalizaciya%5D&attributes%5Bdom_dacha_posuda_tip%5D
+Clean-param: attributes%5Bauto_model%5D&attributes%5Blet_v_sobstvennosti%5D&attributes%5Bram_memory%5D&attributes%5Bkompjuteri_komplektuyushchie_tip%5D&attributes%5Bpristavki_platforma%5D&attributes%5Bpristavki_tip%5D&attributes%5Brealty_etajnost_doma%5D&attributes%5Brealty_ploshad_doma%5D&attributes%5Belektrichestvo%5D&attributes%5Btip_uchastka%5D&attributes%5Bgaz%5D&attributes%5Bsanuzel%5D&attributes%5Bremont%5D
+Clean-param: attributes%5Bmaterial_doma%5D&attributes%5Botoplenie%5D&attributes%5Btelevizory_diagonal_ekrana%5D&attributes%5Bpylesosy_tip%5D&attributes%5Bpylesosy_tip_uborki%5D&attributes%5Bkompyutery_tip%5D&attributes%5Bkompjuteri_komplektuyushchie_ustrojstvo%5D&attributes%5Bkollektsionirovanie_tip%5D&attributes%5Bholodilnik%5D&attributes%5Bumnye_chasy_tip%5D&attributes%5Bumnye_chasy_marka%5D
+Clean-param: attributes%5Baksessuary_i_instrumenty_tip%5D%5B0%5D&attributes%5Bakustika_tip%5D%5B0%5D&attributes%5Bakvariumistika_tip%5D%5B0%5D&attributes%5Bakustika_marka%5D%5B0%5D&attributes%5Baksessuary_tip%5D%5B0%5D
+Clean-param: attributes[sort_field]&attributes[price]&attributes[term_of_placement]&attributes[sobstvennik_ili_agent]&attributes[phone_brand]&attributes[smartfony_vstroennaya_pamyat]&attributes[realty_building_type]&attributes[komnat_v_kvartire]&attributes[komissiya]&attributes[0]&attributes[realty_obshaya_ploshad]&attributes[auto_model]&attributes[let_v_sobstvennosti]&attributes[dom_dacha_posuda_tip]
+Clean-param: attributes[tip_doma]&attributes[realty_etaj]&attributes[auto_brand]&attributes[balkon]&attributes[smartfony_os]&attributes[delivery]&attributes[tip_postroyki]&attributes[stiralnaya_mashina]&attributes[rasstoyanie_ot_metro]&attributes[predoplata_mesechnaya]&attributes[tip_sdelki]&attributes[tip_stroeniya]&attributes[vodosnabjenie_i_kanalizaciya]&attributes[igri_dlya_pristavok_i_pl_platforma]
+Clean-param: attributes[ram_memory]&attributes[kompjuteri_komplektuyushchie_tip]&attributes[pristavki_platforma]&attributes[pristavki_tip]&attributes[realty_etajnost_doma]&attributes[realty_ploshad_doma]&attributes[elektrichestvo]&attributes[tip_uchastka]&attributes[gaz]&attributes[sanuzel]&attributes[material_doma]&attributes[otoplenie]
+Clean-param: attributes[televizory_diagonal_ekrana]&attributes[pylesosy_tip]&attributes[pylesosy_tip_uborki]&attributes[kompyutery_tip]&attributes[kompjuteri_komplektuyushchie_ustrojstvo]&attributes[kollektsionirovanie_tip]&attributes[holodilnik]&attributes[umnye_chasy_tip]&attributes[umnye_chasy_marka]&attributes[remont]
+
+User-agent: Googlebot
+Disallow: *attributes%5B*
+Disallow: */*/*q=*
+Allow: *?q=*
+Allow: *?fbclid=*
+Allow: *?yclid=*
+Disallow: /login*
+Disallow: /*%2Fbuy
+Disallow: /*/buy
+Disallow: /?_1l*
+Disallow: /im/product/*
+Disallow: *?payload=*
+
+User-agent: *
+Disallow: *attributes%5B*
+Disallow: */*/*q=*
+Allow: *?q=*
+Allow: *?fbclid=*
+Allow: *?yclid=*
+Disallow: /login*
+Disallow: /*%2Fbuy
+Disallow: /*/buy
+Disallow: /?_1l*
+Disallow: /im/product/*
+Disallow: *?payload=*

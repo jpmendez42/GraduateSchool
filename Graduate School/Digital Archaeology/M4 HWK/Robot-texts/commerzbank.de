@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /*-split/$
+Disallow: /fehlerseiten/
+Disallow: /WebObjects/
+Disallow: /info/
+Disallow: /de/juergen_ponto_stiftung
+Disallow: /konzern/sec
+Disallow: /group/sec
+Disallow: /kunde
+Disallow: /prozess/
+Disallow: /konzern/was-uns-bewegt/kampagnen-layer/
+Disallow: /group/what-drives-us/campaign-layer/
+# Disallow: https://www.commerzbank.com/de/hauptnavigation/
+# Disallow: https://www.commerzbank.com/en/hauptnavigation/
+Disallow: https://www.commerzbank.com/media/
+Sitemap: https://www.commerzbank.de/portal/en/system/googlesitemap/google_sitemap.xml
+Sitemap: https://www.commerzbank.de/privatkunden/sitemap.xml
+Sitemap: https://www.commerzbank.de/hilfe/sitemap.xml
+Sitemap: https://www.commerzbank.de/wealth-management/sitemap.xml
+Sitemap: https://www.commerzbank.de/unternehmerkunden/sitemap.xml
+Sitemap: https://www.commerzbank.de/konzern/internal/sitemap/index.xml
+Sitemap: https://www.commerzbank.de/group/internal/sitemap/index.xml
+Sitemap: https://www.commerzbank.de/service/sitemap.xml
+#Firmenkunden DE
+Sitemap: https://www.commerzbank.com/firmenkunden/sitemap.xml
+Sitemap: https://www.commerzbank.com/konto-zahlungsverkehr/sitemap.xml
+Sitemap: https://www.commerzbank.com/finanzierung-aussenhandel/sitemap.xml
+Sitemap: https://www.commerzbank.com/anlage-risikomanagement/sitemap.xml
+Sitemap: https://www.commerzbank.com/insights-research/sitemap.xml
+#Firmenkunden EN
+Sitemap: https://www.commerzbank.com/corporateclients/sitemap.xml
+Sitemap: https://www.commerzbank.com/account-cashmanagement/sitemap.xml
+Sitemap: https://www.commerzbank.com/financing-foreigntrade/sitemap.xml
+Sitemap: https://www.commerzbank.com/investment-riskmanagement/sitemap.xml
+Sitemap: https://www.commerzbank.com/research-insights/sitemap.xml

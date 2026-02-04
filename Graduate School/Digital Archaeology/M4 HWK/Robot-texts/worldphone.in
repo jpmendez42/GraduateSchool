@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /products/
+Crawl-delay:3
+Sitemap:https://worldphone.in/index.php/sitemap.xml

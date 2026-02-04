@@ -1,0 +1,61 @@
+User-agent: *
+Disallow: /katalog*?*searchterm=
+Disallow: /katalog*?*q=
+Disallow: /katalog/schnaeppchen/*
+
+Disallow: /catalog*?*searchterm=
+Disallow: /catalog*?*q=
+Disallow: /catalog/bargains/*
+
+Disallow: /abmelden
+Disallow: /logout
+
+Disallow: /passwort-vergessen
+Disallow: /password-forgot
+
+Disallow: /retoure
+Disallow: /return-label
+
+Disallow: /shopfinder
+
+Disallow: /warenkorb
+Disallow: /cart
+
+Disallow: /kundenservice/agb
+Disallow: /service/terms
+
+Disallow: /kundenservice/agb#revocation-example
+Disallow: /service/terms#revocation-example
+
+Disallow: /kundenservice/datenschutz
+Disallow: /service/privacy
+
+Disallow: /kundenservice/elektrogeraete
+
+Disallow: /kundenservice/gewinnspiele
+Disallow: /service/rules
+
+Disallow: /kundenservice/groessen
+Disallow: /service/size-tables
+
+Disallow: /kundenservice/kontaktformular
+Disallow: /service/contactform
+
+Disallow: /kundenservice/streitschlichtung
+Disallow: /service/resolution
+
+Disallow: /kundenservice/zahlen
+Disallow: /service/payment
+
+Disallow: /assets/pdf/
+Disallow: /assets/product-images/vhede/
+Disallow: /assets/product-images/vhesoft/product-zoom-image-blur-abo/
+Disallow: /assets/product-images/vhesoft/product-main-image-blur-abo/
+Disallow: /assets/product-images/vhesoft/product-list-image-thumbnail-blur-abo/
+Disallow: /assets/product-images/vhesoft/product-list-image-blur-abo/
+Disallow: /assets/product360view/
+
+Sitemap: https://www.orion.de/assets/google_sitemaps/google_sitemap_1_de_DE_products.xml
+Sitemap: https://www.orion.de/assets/google_sitemaps/google_sitemap_1_de_DE_catalog.xml
+Sitemap: https://www.orion.de/assets/google_sitemaps/google_sitemap_1_en_GB_products.xml
+Sitemap: https://www.orion.de/assets/google_sitemaps/google_sitemap_1_en_GB_catalog.xml

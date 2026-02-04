@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*?*c[year]*
+Disallow: /*?*smonth=*
+Disallow: /*?*emonth=*
+Disallow: /*?*c%5Bday%5D=*
+Disallow: /*?*c%5Bday%5D=*
+Disallow: /*?*c%5Byear%5D=*
+Disallow: /*?*page=*
+Disallow: /*?*start=*
+Disallow: /*?*style=*
+Disallow: /*?*feed=*
+crawl-delay: 200

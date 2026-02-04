@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin
+
+Sitemap: https://www.rollingstone.it/sitemapindex.xml
+Sitemap: https://www.rollingstone.it/post_google_news.xml
+
+User-Agent: Googlebot-News
+
+
+User-Agent: Mediapartners-Google
+Disallow:
+Allow: /*

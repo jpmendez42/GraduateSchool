@@ -1,0 +1,34 @@
+User-agent: HvorMyeBot
+Disallow: /
+
+User-agent: *
+Disallow: /404.aspx
+Disallow: /Activate.aspx
+Disallow: /ChangePassword.aspx
+Disallow: /Checkout.aspx
+Disallow: /Error.aspx
+Disallow: /ForgotPassword.aspx
+Disallow: /Login.aspx
+Disallow: /Logout.aspx
+Disallow: /Register.aspx
+Disallow: /ShoppingCart.aspx
+Disallow: /LoginOrContinueAsGuest.aspx
+Disallow: /activate/
+Disallow: /bin/
+Disallow: /cart
+Disallow: /search
+Disallow: /changepassword/
+Disallow: /checkout/
+Disallow: /klarna/
+Disallow: /klarnafail/
+Disallow: /klarnacontinue/
+Disallow: /checkout/success/
+Disallow: /checkout/fail/
+Disallow: /Error
+Disallow: /error/notfound/
+Disallow: /forgotpassword/
+Disallow: /logout/
+Disallow: /login-or-continue/
+Disallow: /Handlers/RecommendedProductsGetHandler.ashx
+
+Sitemap: https://www.blivakker.no/sitemap.xml

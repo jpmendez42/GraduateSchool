@@ -1,0 +1,23 @@
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Scrapy/2.11.2 
+Disallow: /
+
+User-Agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /_assets/
+Allow: /typo3temp/
+
+Disallow: /search/*
+Disallow: /*tx_powermail_pi1

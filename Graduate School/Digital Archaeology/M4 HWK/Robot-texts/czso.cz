@@ -1,0 +1,27 @@
+User-agent: Baiduspider
+User-agent: baiduspider
+User-agent: Baiduspider+ 
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+Disallow: /
+
+User-agent: *
+Disallow: /prave-vydane-rychle-informace
+Disallow: /just-released-news-releases
+Disallow: /overeni-tazatele
+
+User-agent: AhrefsBot
+Crawl-Delay: 100
+Disallow: /prave-vydane-rychle-informace
+Disallow: /just-released-news-releases
+Disallow: /overeni-tazatele
+
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+Crawl-Delay: 500
+Disallow: /prave-vydane-rychle-informace
+Disallow: /just-released-news-releases
+Disallow: /overeni-tazatele
+Disallow: /scitani21/
+
+Sitemap: https://csu.gov.cz/sitemap/statistika/sitemap_index.xml

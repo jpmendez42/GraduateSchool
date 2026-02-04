@@ -1,0 +1,9 @@
+User-agent: * 
+Disallow: /rss/
+Disallow: *?*
+Disallow: *.jpg
+Disallow: *.png
+Disallow: *.gif
+Disallow: *.jpeg
+Disallow: *.css
+Disallow: *.js

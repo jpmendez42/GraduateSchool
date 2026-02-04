@@ -1,0 +1,2646 @@
+
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <script src="https://tarteaucitron.io/load.js?domain=metropole.toulouse.fr&uuid=31038d9ceab1b01bf3f4e1fd78e0ccd3a1403257"></script>
+
+    <script>
+      dataLayer = [{
+        'Type' : 'Accueil',
+        'LEVEL1' : 'Accueil',
+        'LEVEL2' : '',
+        'LEVEL3' : '',
+        'LEVEL4' : '',
+        'IDTF' : '',
+        'Connecte' : 'non',
+        'thematiqueDemarche' : '',
+        'labelDemarche' : ''
+      }];
+    </script>
+
+    <meta charset="utf-8" />
+<meta name="description" content="Bienvenue sur le site officiel de la Mairie de Toulouse et Toulouse Métropole." />
+<link rel="shortlink" href="https://metropole.toulouse.fr/" />
+<meta name="robots" content="index, follow" />
+<link rel="canonical" href="https://metropole.toulouse.fr/" />
+<meta name="google-site-verification" content="BqdhSYb5HaUPse-rRYxl-aBaGVdx2rk7-LJVt99i6WE" />
+<link rel="manifest" href="/manifest.json" />
+<meta name="theme-color" content="#ffffff" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="default" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="apple-touch-icon" sizes="192x192" href="/sites/toulouse-fr/files/pwa/favicon_512_512_1.pngcopy.png" />
+<link href="/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+<link href="/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link href="/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+<link rel="icon" href="/themes/custom/toulouse/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Toulouse Mairie Métropole, site officiel.</title>
+
+              <link rel="apple-touch-icon" sizes="180x180" href="https://metropole.toulouse.fr/sites/toulouse-fr/files/styles/pwa_apple_touch_icon/public/pwa/favicon_512_512_1.png?itok=yJ13fJhS">
+        <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/toulouse/images/favicons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/toulouse/images/favicons/favicon-16x16.png">
+    <link rel="manifest" href="/themes/custom/toulouse/images/favicons/site.webmanifest">
+    <link rel="mask-icon" href="/themes/custom/toulouse/images/favicons/safari-pinned-tab.svg" color="#5bbad5">
+    <link rel="shortcut icon" href="/themes/custom/toulouse/images/favicons/favicon.ico">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/themes/custom/toulouse/images/favicons/mstile-144x144.png">
+    <meta name="msapplication-config" content="/themes/custom/toulouse/images/favicons/browserconfig.xml">
+    <meta name="theme-color" content="#ffffff">
+    
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/controlgroup.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/checkboxradio.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/resizable.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/button.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/dialog.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/core/components/progress.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/core/components/ajax-progress.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/core/components/autocomplete-loading.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/align.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/fieldgroup.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/container-inline.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/clearfix.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/details.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/hidden.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/item-list.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/js.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/nowrap.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/position-container.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/reset-appearance.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/resize.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-counter.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-counters.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/system-status-report-general-info.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/system/components/tablesort.module.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/modules/ckeditor5/css/ckeditor5.dialog.fix.css?t42won" />
+<link rel="stylesheet" media="all" href="/libraries/select2/dist/css/select2.min.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?t42won" />
+<link rel="stylesheet" media="all" href="/profiles/eolas_standard/modules/eolas_core/css/custom.css?t42won" />
+<link rel="stylesheet" media="all" href="/profiles/eolas_standard/modules/eolas_core/css/bartik_slick_fix.css?t42won" />
+<link rel="stylesheet" media="all" href="/profiles/eolas_standard/modules/eolas_core/css/media_entity_browser.view.css?t42won" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/css/extlink.css?t42won" />
+<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?t42won" />
+<link rel="stylesheet" media="all" href="/sites/toulouse-fr/modules/custom/toulouse_core/css/browsehappy.css?t42won" />
+<link rel="stylesheet" media="all" href="/sites/toulouse-fr/modules/custom/toulouse_core/css/toulouse_core.css?t42won" />
+<link rel="stylesheet" media="all" href="/core/themes/stable9/css/core/assets/vendor/normalize-css/normalize.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/action-links.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/breadcrumb.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/container-inline.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/details.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/exposed-filters.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/field.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/form.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/icons.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/inline-form.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/item-list.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/links.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/menu.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/more-link.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/pager.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/tabledrag.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/tableselect.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/tablesort.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/textarea.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/ui-dialog.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/messages.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/dialog.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/components/progress.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/contrib/bootstrap5/css/style.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/slick.min.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/js/libraries/tarteaucitron/css/tarteaucitron.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/gin-toolbar.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/mmenu.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/style.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/core.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/theme.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/datepicker.css?t42won" />
+<link rel="stylesheet" media="all" href="/themes/custom/toulouse/css/swiper.min.css?t42won" />
+
+    
+  </head>
+  <body class="path-frontpage   d-flex flex-column">
+        <nav role="navigation" aria-label="Accès rapide" class="skip-link-wrapper">
+      <ul>
+        <li><a href="#main-content" class="skip-link">
+                        <span>Contenu principal</span>
+          </a></li>
+        <li><a href="#main-content" class="skip-link" data-bs-toggle="modal" data-bs-target="#searchModal" aria-label="Formulaire de recherche">
+            <span>Recherche</span>
+          </a></li>
+        <li><a href="#block-toulouse-main-navigation" class="skip-link">
+            <span>Menu </span>
+          </a></li>
+        <li><a href="#page-footer" class="skip-link">
+            <span>Pied de page</span>
+          </a></li>
+      </ul>
+    </nav>
+    
+      <div class="dialog-off-canvas-main-canvas d-flex flex-column h-100" data-off-canvas-main-canvas>
+    
+
+
+<div id="menu-mobile"></div>
+<header role="banner" class="header">
+    <div class="header-top">
+    <div class="container">
+            
+      <nav role="navigation" aria-labelledby="block-menuheader-menu" id="block-menuheader" data-block-plugin-id="menu_block:menu-header" class="block block-menu navigation menu--menu-header">
+            
+  <h5 class="visually-hidden" id="block-menuheader-menu">Menu En-tête</h5>
+  
+
+        
+              <ul data-block="header_top" class="nav navbar-nav">
+                    <li class="menu-icon menu-icon-18 mobile-hidden nav-item">
+        <a href="/demarches" class="nav-link" data-drupal-link-system-path="node/98">Mes démarches</a>
+              </li>
+                <li class="menu-icon menu-icon-19 nav-item">
+        <a href="https://jeparticipe.metropole.toulouse.fr" class="nav-link">Je participe</a>
+              </li>
+                <li class="menu-icon menu-icon-396 nav-item">
+        <a href="/node/192427" class="nav-link" data-drupal-link-system-path="node/192427">Associations</a>
+              </li>
+                <li class="menu-icon menu-icon-156 nav-item">
+        <a href="/agenda" class="nav-link" data-drupal-link-system-path="node/551">Agenda</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+      <div class="tools">
+        <div class="search-btn" role="search">
+          <!-- Button trigger search modal -->
+          <button class="btn btn-tools" data-bs-toggle="modal" data-bs-target="#searchModal" aria-label="Formulaire de recherche">
+            <i class="icon-loupe" aria-hidden="true"></i>
+          </button>
+        </div>
+
+                      </div>
+    </div>
+  </div>
+
+    <div class="navbar navbar-expand-lg   ">
+    <div class="container d-flex">
+              <div id="block-toulouse-branding" data-block-plugin-id="system_branding_block" class="block block-system block-system-branding-block">
+  
+    
+  <div class="navbar-brand d-flex align-items-center">
+
+    <a href="/" rel="home" class="site-logo d-block">
+    <img src="/sites/toulouse-fr/files/header/logo_toulousemairiemetropoleok_3_0.svg" alt="Toulouse Marie-Métropole : Accueil" width="201" height="54" />
+  </a>
+  
+</div>
+</div>
+
+      
+      <nav role="navigation" aria-label="Navigation principale" class="navbar-toggler__nav">
+        <a role="button" class="navbar-toggler" href="#menu-mobile" aria-label="Ouverture/Fermeture menu" aria-expanded="false" aria-controls="menu-mobile" aria-describedby="alertMenu">
+          <i class="navbar-toggler-icon icon-burger" aria-hidden="true"></i>
+        </a>
+        <p class="visually-hidden" id="alertMenu">Attention, la navigation au clavier n'est pas supportée à l'ouverture du menu.</p>
+      </nav>
+
+              <div class="collapse navbar-collapse justify-content-md-end flex-wrap" id="navbarSupportedContent">
+          <nav role="navigation" aria-labelledby="block-toulouse-main-navigation-menu" id="block-toulouse-main-navigation" data-block-plugin-id="system_menu_block:main" class="block block-menu navigation menu--main">
+            
+  <h5 class="visually-hidden" id="block-toulouse-main-navigation-menu">Navigation principale</h5>
+  
+
+        
+
+
+  
+    
+      <ul data-block="header" class="navbar-nav menu--main">
+  
+          
+                    
+      
+      
+      
+            <li class="menu-icon menu-icon-1 expanded dropdown nav-item lvl_1">
+                            <button type="button" class="d-none d-lg-block nav-link js-nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Institutions et territoires</span>
+          </button>
+                    <a href="" class="d-block d-lg-none nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Institutions et territoires</span>
+          </a>
+                            
+  
+          <div class="dropdown-menu mega--menu" data-bs-popper="none">
+      <button role="button" title="Fermer la fenêtre" aria-label="Fermer" class="btn btn-close-menu"><i class="icon-close" aria-hidden="true"></i></button>
+
+          
+      <ul data-block="header" class="container">
+  
+          
+      
+      
+      
+      
+                                                                                                                      <li class="menu-icon menu-icon-141 expanded lvl_2">
+                  <a class="submenu item" href="/institutions-et-territoires/toulouse">Toulouse</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-157 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse/decouvrir-toulouse">Présentation</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-158 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse/le-conseil-municipal-de-toulouse">Conseil municipal</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-159 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse/le-budget-de-la-mairie-de-toulouse">Budget</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-160 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse/administration-et-politiques-publiques">Administration</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-161 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse/quartiers">Quartiers</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-338 lvl_3">
+                  <a href="https://carto.toulouse.fr">Plan interactif de Toulouse</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-142 expanded lvl_2">
+                  <a class="submenu item" href="/institutions-et-territoires/toulouse-metropole">Toulouse Métropole</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-170 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse-metropole/decouvrir-la-metropole">Présentation</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-172 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse-metropole/le-conseil-de-toulouse-metropole">Conseil métropolitain</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-171 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse-metropole/le-budget-de-la-metropole">Budget</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-181 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse-metropole/administration">Administration et autres instances</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-182 lvl_3">
+                  <a href="/institutions-et-territoires/toulouse-metropole/communes">Communes </a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-339 lvl_3">
+                  <a href="https://carto.toulouse-metropole.fr">Plan interactif de Toulouse Métropole</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-143 expanded lvl_2">
+                  <a class="submenu item" href="/institutions-et-territoires/participation-citoyenne">Participation citoyenne</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-183 lvl_3">
+                  <a href="/institutions-et-territoires/participation-citoyenne/la-demarche">La démarche</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-184 lvl_3">
+                  <a href="/institutions-et-territoires/participation-citoyenne/les-outils-de-participation">Les outils de participation</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-144 expanded lvl_2">
+                  <a class="submenu item" href="/institutions-et-territoires/emploi-et-vie-economique">Emploi et vie économique</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-108 lvl_3">
+                  <a href="/institutions-et-territoires/emploi-et-vie-economique/accompagnement-aux-entreprises">Accompagnement aux entreprises</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-252 lvl_3">
+                  <a href="/institutions-et-territoires/emploi-et-vie-economique/marches-publics">Marchés publics</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-86 lvl_3">
+                  <a href="/institutions-et-territoires/emploi-et-vie-economique/accompagnement-vers-lemploi">Accompagnement vers l&#039;emploi</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-91 lvl_3">
+                  <a href="/institutions-et-territoires/emploi-et-vie-economique/projets-europeens">Projets européens</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-34 expanded lvl_2">
+                  <a class="submenu item" href="/institutions-et-territoires/egalite-des-droits">Egalité des droits</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-186 lvl_3">
+                  <a href="/institutions-et-territoires/egalite-des-droits/les-actions-de-la-mairie-et-de-la-metropole">Actions de la Mairie et la Métropole</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-187 lvl_3">
+                  <a href="/institutions-et-territoires/egalite-des-droits/lutte-contre-les-discriminations">Lutte contre les discriminations</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-188 lvl_3">
+                  <a href="/institutions-et-territoires/egalite-des-droits/obtenir-de-laide">Obtenir de l’aide</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+    
+    </ul>
+                </div>
+      
+            </li>
+          
+                    
+      
+      
+      
+            <li class="menu-icon menu-icon-2 expanded dropdown nav-item lvl_1">
+                            <button type="button" class="d-none d-lg-block nav-link js-nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Mon quotidien</span>
+          </button>
+                    <a href="" class="d-block d-lg-none nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Mon quotidien</span>
+          </a>
+                            
+  
+          <div class="dropdown-menu mega--menu" data-bs-popper="none">
+      <button role="button" title="Fermer la fenêtre" aria-label="Fermer" class="btn btn-close-menu"><i class="icon-close" aria-hidden="true"></i></button>
+
+          
+      <ul data-block="header" class="container">
+  
+          
+      
+      
+      
+      
+                                                                                                                      <li class="menu-icon menu-icon-146 expanded lvl_2">
+                  <a class="submenu item" href="/mon-quotidien/enfance-et-jeunesse">Enfance, jeunesse</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-190 lvl_3">
+                  <a href="/mon-quotidien/enfance-jeunesse/accueil-du-jeune-enfant">Accueil du jeune enfant</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-50 lvl_3">
+                  <a href="/mon-quotidien/enfance-jeunesse/education">Éducation</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-51 lvl_3">
+                  <a href="/mon-quotidien/enfance-jeunesse/loisirs-et-vacances">Loisirs et vacances</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-193 lvl_3">
+                  <a href="/mon-quotidien/enfance-jeunesse/jeunes-et-etudiants">Jeunes et étudiants</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-147 expanded lvl_2">
+                  <a class="submenu item" href="/mon-quotidien/seniors">Seniors</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-192 lvl_3">
+                  <a href="/mon-quotidien/seniors/services-et-bons-plans">Services et bons plans</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-200 lvl_3">
+                  <a href="/mon-quotidien/seniors/activites-sorties-seniors">Activités et sorties</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-201 lvl_3">
+                  <a href="/mon-quotidien/seniors/maisons-de-retraite">Choisir son lieu de vie</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-53 expanded lvl_2">
+                  <a class="submenu item" href="/mon-quotidien/sante-et-social">Santé et social</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-55 lvl_3">
+                  <a href="/mon-quotidien/sante-et-social/prevention-sante">Prévention santé</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-194 lvl_3">
+                  <a href="/mon-quotidien/sante-et-social/ccas">CCAS</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-195 lvl_3">
+                  <a href="/mon-quotidien/sante-et-social/handicap-et-accessibilite">Handicap et accessibilité</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-196 lvl_3">
+                  <a href="/mon-quotidien/sante-et-social/solidarite">Solidarité</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-148 expanded lvl_2">
+                  <a class="submenu item" href="/mon-quotidien/deplacements-stationnement">Déplacements, stationnement</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-198 lvl_3">
+                  <a href="/mon-quotidien/deplacements-et-stationnement/se-deplacer">Se déplacer</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-197 lvl_3">
+                  <a href="/mon-quotidien/deplacements-et-stationnement/stationner">Stationner</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-199 lvl_3">
+                  <a href="/mon-quotidien/deplacements-stationnement/circuler">Circuler</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                        <li class="menu-icon menu-icon-344 lvl_2">
+          <span>
+            <a href="/mon-quotidien/travaux" class="item" data-drupal-link-system-path="node/60868">Travaux à Toulouse</a>
+          </span>
+                          </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-380 expanded lvl_2">
+                  <a class="submenu item" href="/mon-quotidien/securite/police-municipale">Sécurité</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-281 lvl_3">
+                  <a href="/mon-quotidien/securite/police-municipale">Police municipale</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                        <li class="menu-icon menu-icon-393 lvl_2">
+          <span>
+            <a href="/mon-quotidien/services-du-quotidien" class="item" data-drupal-link-system-path="node/155297">Services du quotidien</a>
+          </span>
+                          </li>
+    
+    </ul>
+                </div>
+      
+            </li>
+          
+                    
+      
+      
+      
+            <li class="menu-icon menu-icon-67 expanded dropdown nav-item lvl_1">
+                            <button type="button" class="d-none d-lg-block nav-link js-nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Mon environnement</span>
+          </button>
+                    <a href="" class="d-block d-lg-none nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Mon environnement</span>
+          </a>
+                            
+  
+          <div class="dropdown-menu mega--menu" data-bs-popper="none">
+      <button role="button" title="Fermer la fenêtre" aria-label="Fermer" class="btn btn-close-menu"><i class="icon-close" aria-hidden="true"></i></button>
+
+          
+      <ul data-block="header" class="container">
+  
+          
+      
+      
+      
+      
+                                                                                                                      <li class="menu-icon menu-icon-150 expanded lvl_2">
+                  <a class="submenu item" href="/mon-environnement/logement-et-urbanisme">Logement et urbanisme</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-203 lvl_3">
+                  <a href="/mon-environnement/logement-et-urbanisme/se-loger">Se loger</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-204 lvl_3">
+                  <a href="/mon-environnement/logement-et-urbanisme/urbanisme">Urbanisme</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-322 lvl_3">
+                  <a href="/mon-environnement/logement-et-urbanisme/le-renouvellement-urbain">Le renouvellement urbain</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-151 expanded lvl_2">
+                  <a class="submenu item" href="/mon-environnement/nature-et-climat">Nature et climat</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-206 lvl_3">
+                  <a href="/mon-environnement/nature-et-climat/nature-en-ville">Nature en ville</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-207 lvl_3">
+                  <a href="/mon-environnement/nature-et-climat/qualite-de-lair">Qualité de l’air</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-250 lvl_3">
+                  <a href="/mon-environnement/nature-et-climat/eau-et-assainissement">Eau et assainissement</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-209 lvl_3">
+                  <a href="/mon-environnement/nature-et-climat/les-energies-renouvelables">Énergie</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-361 lvl_3">
+                  <a href="/mon-environnement/nature-et-climat/le-projet-agricole-et-alimentaire">Le Projet agricole et alimentaire</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-211 lvl_3">
+                  <a href="/mon-environnement/nature-et-climat/sante-environnementale">Santé environnementale</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-213 lvl_3">
+                  <a href="/mon-environnement/nature-et-climat/animal-dans-la-ville">Animal dans la ville</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-152 expanded lvl_2">
+                  <a class="submenu item" href="/mon-environnement/dechets-et-proprete">Déchets et propreté</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-214 lvl_3">
+                  <a href="/mon-environnement/dechets-et-proprete/les-dechets-dans-ma-commune">Les déchets dans ma commune</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-251 lvl_3">
+                  <a href="/mon-environnement/dechets-et-proprete/les-decheteries">Les déchèteries</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-360 lvl_3">
+                  <a href="/mon-environnement/dechets-et-proprete/la-collecte-des-dechets-alimentaires">Les déchets alimentaires</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-373 lvl_3">
+                  <a href="/mon-environnement/dechets-et-proprete/les-dechets-vegetaux">Les déchets végétaux</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-392 lvl_3">
+                  <a href="/mon-environnement/dechets-et-proprete/les-encombrants">Les encombrants</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-266 lvl_3">
+                  <a href="/mon-environnement/dechets-et-proprete/le-compostage">Le compostage</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-217 lvl_3">
+                  <a href="/mon-environnement/dechets-et-proprete/proprete-de-lespace-public">La propreté</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-153 expanded lvl_2">
+                  <a class="submenu item" href="/mon-environnement/prevention-des-risques">Prévention des risques</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-282 lvl_3">
+                  <a href="/mon-environnement/prevention-des-risques/les-risques-majeurs-toulouse">Les risques majeurs</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-283 lvl_3">
+                  <a href="/mon-environnement/prevention-des-risques/avant-pendant-apres-un-evenement-les-bons-gestes">Avant, pendant, après un événement: les bons gestes</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-328 expanded lvl_2">
+                  <a class="submenu item" href="/mon-environnement/amenagement">Aménagement</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-356 lvl_3">
+                  <a href="/mon-environnement/amenagement/projet-urbain-toulousain">Projet urbain toulousain</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-335 lvl_3">
+                  <a href="/mon-environnement/amenagement/le-futur-visage-des-rues-de-metz-croix-baragnon-et-boulbonne">Rue de Metz</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-334 lvl_3">
+                  <a href="/mon-environnement/amenagement/grand-matabiau-quais-doc">Grand Matabiau - Quai d&#039;Oc</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-330 lvl_3">
+                  <a href="/mon-environnement/amenagement/grand-parc-canal">Grand Parc Canal</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-329 lvl_3">
+                  <a href="/mon-environnement/amenagement/grand-parc-garonne">Grand Parc Garonne</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-394 lvl_3">
+                  <a href="/mon-environnement/amenagement/grand-parc-de-lhers">Grand Parc de l&#039;Hers</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-399 lvl_3">
+                  <a href="/mon-environnement/amenagement/grand-parc-margelle">Grand Parc Margelle</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-390 lvl_3">
+                  <a href="/mon-environnement/amenagement/grand-parc-du-touch">Grand Parc du Touch</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-336 lvl_3">
+                  <a href="/mon-environnement/amenagement/3e-ligne-metro-ligne-C">Ligne C du métro</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+    
+    </ul>
+                </div>
+      
+            </li>
+          
+                    
+      
+      
+      
+            <li class="menu-icon menu-icon-68 expanded dropdown nav-item lvl_1">
+                            <button type="button" class="d-none d-lg-block nav-link js-nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Sortir</span>
+          </button>
+                    <a href="" class="d-block d-lg-none nav-link dropdown-toggle" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Sortir</span>
+          </a>
+                            
+  
+          <div class="dropdown-menu mega--menu" data-bs-popper="none">
+      <button role="button" title="Fermer la fenêtre" aria-label="Fermer" class="btn btn-close-menu"><i class="icon-close" aria-hidden="true"></i></button>
+
+          
+      <ul data-block="header" class="container">
+  
+          
+      
+      
+      
+      
+                        <li class="menu-icon menu-icon-74 lvl_2">
+          <span>
+            <a href="/agenda" class="item" data-drupal-link-system-path="node/551">Agenda</a>
+          </span>
+                          </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-75 expanded lvl_2">
+                  <a class="submenu item" href="/sortir/culture-et-loisirs">Culture et loisirs</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-220 lvl_3">
+                  <a href="/annuaire?key=&amp;field_thematique%5B0%5D=934">Annuaire des lieux culturels</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-350 lvl_3">
+                  <a href="/sortir/culture-et-loisirs/toulouse-musiques">Toulouse, ville des musiques</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-223 lvl_3">
+                  <a href="/sortir/culture-et-loisirs/centres-culturels">Centres culturels</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-397 lvl_3">
+                  <a href="/sortir/culture-et-loisirs/lart-urbain-toulouse">Art urbain</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-224 lvl_3">
+                  <a href="/sortir/culture-et-loisirs/bons-plans-culturels">Bons plans</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-212 lvl_3">
+                  <a href="/sortir/culture-et-loisirs/culture-occitane">Culture occitane</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-154 expanded lvl_2">
+                  <a class="submenu item" href="/sortir/patrimoine">Patrimoine</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-228 lvl_3">
+                  <a href="/sortir/patrimoine/decouvrir-le-patrimoine">Découvrir le patrimoine</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-229 lvl_3">
+                  <a href="/sortir/patrimoine/proteger-le-patrimoine">Protéger le patrimoine</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-131 lvl_3">
+                  <a href="/sortir/patrimoine/explorer-2000-ans-dhistoire">Explorer 2000 ans d’histoire</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+          
+      
+      
+      
+      
+                    <li class="menu-icon menu-icon-76 expanded lvl_2">
+                  <a class="submenu item" href="/sortir/sports">Sport</a>
+                            
+  
+    
+      <ul data-block="header">
+  
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-225 lvl_3">
+                  <a href="/sortir/sport/les-piscines-toulousaines">Les piscines toulousaines</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-215 lvl_3">
+                  <a href="/sortir/sport/les-activites-sportives-encadrees">Les activités sportives encadrées</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-226 lvl_3">
+                  <a href="/annuaire?key=&amp;field_thematique%5B0%5D=946">Annuaire des équipements sportifs</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-341 lvl_3">
+                  <a href="https://carto.toulouse.fr/PDI/?context=hFxf">Carte interactive des équipements</a>
+                          </li>
+          
+      
+      
+      
+      
+            <li class="menu-icon menu-icon-227 lvl_3">
+                  <a href="/sortir/sport/bons-plans-sportifs">Bons plans</a>
+                          </li>
+    
+    </ul>
+      
+            </li>
+    
+    </ul>
+                </div>
+      
+            </li>
+                                                
+                    
+      
+      
+      
+            <li class="nav-item expanded dropdown nav-item lvl_1">
+                            <button type="button" class="d-none d-lg-block nav-link js-nav-link dropdown-toggle nav-highlight" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Mes Démarches</span>
+          </button>
+                    <a href="/demarches" class="d-block d-lg-none nav-link dropdown-toggle nav-highlight" data-bs-toggle="dropdown">
+            <span role="heading" aria-level="2">Mes Démarches</span>
+          </a>
+                            
+  
+          <div class="dropdown-menu mega--menu mega--menu-demarches" data-bs-popper="none">
+      <button role="button" title="Fermer la fenêtre" aria-label="Fermer" class="btn btn-close-menu"><i class="icon-close" aria-hidden="true"></i></button>
+
+              <div class="container">
+
+        <div class="btn-wrapper">
+          <a href="/demarches" class="btn-wrapper-link">
+            <i class="icon-main" aria-hidden="true"></i>
+            <span>Voir toutes les démarches</span>
+          </a>
+        </div>
+
+        <div class="links-wrapper">
+        <h2 class="title">Démarches les plus consultées</h2>
+          
+      <ul>
+  
+          
+      
+      
+      
+      
+                        <li class="menu-icon">
+          <a href="/demarches/demander-ou-renouveler-un-passeport" class="item">
+                <span class="item-picto">
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75225" d="M15.494,13.278c2.479,0,4.491-2.006,4.499-4.485V7.481c0-2.485-2.014-4.499-4.499-4.499
+	c-2.486,0-4.5,2.014-4.5,4.499v1.312C11.001,11.272,13.014,13.278,15.494,13.278z M15.494,4.815c1.448-0.008,2.629,1.16,2.637,2.609
+	l0,0v1.368c0,1.457-1.182,2.637-2.639,2.637c-1.456,0-2.636-1.181-2.637-2.637V7.481c0.008-1.449,1.189-2.617,2.637-2.609h0.001
+	V4.815z"/>
+<path fill="#D75225" d="M20.669,13.913H10.316c-1.895,0-3.434,1.532-3.441,3.428v12.271c0.008,1.737,1.307,3.2,3.033,3.413v13.061
+	c0,0.515,0.417,0.932,0.932,0.932c0.514-0.001,0.93-0.417,0.93-0.932V20.133c0-0.514-0.418-0.931-0.932-0.93
+	c-0.513,0-0.929,0.417-0.93,0.93v10.988c-0.688-0.179-1.168-0.798-1.171-1.509V17.341c0.008-0.867,0.713-1.566,1.58-1.566h10.353
+	c0.867,0,1.572,0.699,1.58,1.566v12.271c-0.002,0.711-0.482,1.33-1.17,1.509V20.133c0-0.514-0.418-0.931-0.932-0.93
+	s-0.93,0.417-0.93,0.93v25.953c0,0.515,0.418,0.932,0.932,0.932c0.514-0.001,0.931-0.417,0.931-0.932V33.025
+	c1.726-0.213,3.024-1.676,3.033-3.413V17.341C24.103,15.445,22.564,13.913,20.669,13.913z"/>
+<path fill="#D75225" d="M15.494,31.587c-0.515,0-0.931,0.416-0.931,0.931v13.568c-0.001,0.515,0.416,0.932,0.93,0.932
+	c0.514,0.001,0.932-0.415,0.932-0.93c0,0,0,0,0-0.002V32.518C16.424,32.003,16.007,31.587,15.494,31.587z"/>
+<path fill="#D75225" d="M31.361,13.278c2.479,0,4.492-2.006,4.5-4.485V7.481c-0.14-2.489-2.271-4.394-4.759-4.254
+	c-2.294,0.128-4.126,1.959-4.255,4.254v1.312C26.863,11.274,28.879,13.278,31.361,13.278z M31.361,4.815
+	c1.449-0.008,2.631,1.16,2.638,2.609l0,0v1.368c0,1.457-1.182,2.637-2.639,2.637c-1.457,0-2.636-1.181-2.637-2.637V7.481
+	c0.008-1.449,1.188-2.617,2.637-2.609h0.001V4.815z"/>
+<path fill="#D75225" d="M27.074,15.775l3.624,3.597c0.367,0.353,0.946,0.353,1.313,0l3.624-3.611h0.89
+	c0.866,0,1.571,0.698,1.579,1.566v5.515c0.063,0.518,0.535,0.886,1.054,0.823c0.431-0.053,0.77-0.393,0.823-0.823v-5.501
+	c-0.009-1.901-1.557-3.436-3.456-3.428l0,0h-1.27c-0.243,0.001-0.477,0.098-0.649,0.268l-3.244,3.23l-3.244-3.23
+	c-0.178-0.171-0.415-0.267-0.663-0.268h-1.325c-0.514,0-0.931,0.417-0.931,0.932c0,0.514,0.417,0.93,0.931,0.93H27.074z"/>
+<path fill="#D75225" d="M42.193,24.534H26.777c-0.515,0-0.931,0.416-0.931,0.93c-0.001,0.515,0.416,0.931,0.93,0.931
+	c0,0,0,0,0.001,0h14.485v2.229h-7.927c-0.515,0-0.931,0.417-0.931,0.931c0.001,0.514,0.416,0.931,0.931,0.931h2.963v15.6
+	c-0.002,0.515,0.415,0.932,0.93,0.932c0.515,0.001,0.931-0.415,0.931-0.93c0,0,0,0,0-0.002v-15.6h4.034
+	c0.506,0.009,0.924-0.396,0.932-0.901c0-0.011,0-0.021,0-0.029v-4.091C43.125,24.951,42.708,24.534,42.193,24.534z"/>
+</svg>
+                                  </span>
+            <span class="item-text">Demander ou renouveler un passeport</span>
+          </a>
+                          </li>
+          
+      
+      
+      
+      
+                        <li class="menu-icon">
+          <a href="/demarches/demander-ou-renouveler-une-carte-didentite" class="item">
+                <span class="item-picto">
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75225" d="M15.494,13.278c2.479,0,4.491-2.006,4.499-4.485V7.481c0-2.485-2.014-4.499-4.499-4.499
+	c-2.486,0-4.5,2.014-4.5,4.499v1.312C11.001,11.272,13.014,13.278,15.494,13.278z M15.494,4.815c1.448-0.008,2.629,1.16,2.637,2.609
+	l0,0v1.368c0,1.457-1.182,2.637-2.639,2.637c-1.456,0-2.636-1.181-2.637-2.637V7.481c0.008-1.449,1.189-2.617,2.637-2.609h0.001
+	V4.815z"/>
+<path fill="#D75225" d="M20.669,13.913H10.316c-1.895,0-3.434,1.532-3.441,3.428v12.271c0.008,1.737,1.307,3.2,3.033,3.413v13.061
+	c0,0.515,0.417,0.932,0.932,0.932c0.514-0.001,0.93-0.417,0.93-0.932V20.133c0-0.514-0.418-0.931-0.932-0.93
+	c-0.513,0-0.929,0.417-0.93,0.93v10.988c-0.688-0.179-1.168-0.798-1.171-1.509V17.341c0.008-0.867,0.713-1.566,1.58-1.566h10.353
+	c0.867,0,1.572,0.699,1.58,1.566v12.271c-0.002,0.711-0.482,1.33-1.17,1.509V20.133c0-0.514-0.418-0.931-0.932-0.93
+	s-0.93,0.417-0.93,0.93v25.953c0,0.515,0.418,0.932,0.932,0.932c0.514-0.001,0.931-0.417,0.931-0.932V33.025
+	c1.726-0.213,3.024-1.676,3.033-3.413V17.341C24.103,15.445,22.564,13.913,20.669,13.913z"/>
+<path fill="#D75225" d="M15.494,31.587c-0.515,0-0.931,0.416-0.931,0.931v13.568c-0.001,0.515,0.416,0.932,0.93,0.932
+	c0.514,0.001,0.932-0.415,0.932-0.93c0,0,0,0,0-0.002V32.518C16.424,32.003,16.007,31.587,15.494,31.587z"/>
+<path fill="#D75225" d="M31.361,13.278c2.479,0,4.492-2.006,4.5-4.485V7.481c-0.14-2.489-2.271-4.394-4.759-4.254
+	c-2.294,0.128-4.126,1.959-4.255,4.254v1.312C26.863,11.274,28.879,13.278,31.361,13.278z M31.361,4.815
+	c1.449-0.008,2.631,1.16,2.638,2.609l0,0v1.368c0,1.457-1.182,2.637-2.639,2.637c-1.457,0-2.636-1.181-2.637-2.637V7.481
+	c0.008-1.449,1.188-2.617,2.637-2.609h0.001V4.815z"/>
+<path fill="#D75225" d="M27.074,15.775l3.624,3.597c0.367,0.353,0.946,0.353,1.313,0l3.624-3.611h0.89
+	c0.866,0,1.571,0.698,1.579,1.566v5.515c0.063,0.518,0.535,0.886,1.054,0.823c0.431-0.053,0.77-0.393,0.823-0.823v-5.501
+	c-0.009-1.901-1.557-3.436-3.456-3.428l0,0h-1.27c-0.243,0.001-0.477,0.098-0.649,0.268l-3.244,3.23l-3.244-3.23
+	c-0.178-0.171-0.415-0.267-0.663-0.268h-1.325c-0.514,0-0.931,0.417-0.931,0.932c0,0.514,0.417,0.93,0.931,0.93H27.074z"/>
+<path fill="#D75225" d="M42.193,24.534H26.777c-0.515,0-0.931,0.416-0.931,0.93c-0.001,0.515,0.416,0.931,0.93,0.931
+	c0,0,0,0,0.001,0h14.485v2.229h-7.927c-0.515,0-0.931,0.417-0.931,0.931c0.001,0.514,0.416,0.931,0.931,0.931h2.963v15.6
+	c-0.002,0.515,0.415,0.932,0.93,0.932c0.515,0.001,0.931-0.415,0.931-0.93c0,0,0,0,0-0.002v-15.6h4.034
+	c0.506,0.009,0.924-0.396,0.932-0.901c0-0.011,0-0.021,0-0.029v-4.091C43.125,24.951,42.708,24.534,42.193,24.534z"/>
+</svg>
+                                  </span>
+            <span class="item-text">Demander ou renouveler une carte d&#039;identité</span>
+          </a>
+                          </li>
+          
+      
+      
+      
+      
+                        <li class="menu-icon">
+          <a href="/demarches/inscription-enfant-ecole" class="item">
+                <span class="item-picto">
+                                      <?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Calque_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="40px" height="40px" viewBox="0 0 40 40" enable-background="new 0 0 40 40" xml:space="preserve">
+<path fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M32,36.035c0,1.361-1.116,2.465-2.493,2.465H9.493C8.116,38.5,7,37.396,7,36.035V18.171c0-6.825,5.596-12.357,12.5-12.357
+	c6.904,0,12.5,5.532,12.5,12.357V36.035z"/>
+<path fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M13.238,12.374v3.98c0,0.677,0.555,1.226,1.24,1.226h10.043c0.686,0,1.24-0.549,1.24-1.226v-3.98H13.238z"/>
+<path fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M10.55,23.57c0-0.814,0.667-1.475,1.491-1.475h14.918c0.824,0,1.492,0.66,1.492,1.475v9.712c0,0.813-0.668,1.473-1.492,1.473H12.041
+	c-0.824,0-1.491-0.659-1.491-1.473V23.57z"/>
+<line fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="10.55" y1="26.469" x2="28.451" y2="26.469"/>
+<line fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="25.934" y1="26.541" x2="25.934" y2="28.57"/>
+<path fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M10.791,9.274L8.544,4.115C8.342,3.645,8.564,3.1,9.042,2.901l3.167-1.327c0.476-0.2,1.026,0.02,1.228,0.491l1.918,4.419"/>
+<line fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="8.47" y1="3.693" x2="8.47" y2="12.264"/>
+<path fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+	M28.209,9.274l2.246-5.159c0.203-0.471-0.02-1.015-0.496-1.214l-3.168-1.327c-0.476-0.2-1.025,0.02-1.228,0.491l-1.918,4.419"/>
+<line fill="none" stroke="#D7542A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="30.53" y1="3.693" x2="30.53" y2="12.264"/>
+</svg>
+
+                                  </span>
+            <span class="item-text">Inscrire son enfant à l&#039;école</span>
+          </a>
+                          </li>
+          
+      
+      
+      
+      
+                        <li class="menu-icon">
+          <a href="/demarches/reserver-payer-la-cantine" class="item">
+                <span class="item-picto">
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D7542A" d="M23.039,28.496h-10.19c-0.614,0-1.11,0.497-1.11,1.111c0,0.612,0.497,1.11,1.11,1.11h10.19c0.613,0,1.111-0.498,1.111-1.11C24.149,28.993,23.651,28.496,23.039,28.496z"/><path fill="#D7542A" d="M18.869,33.064h-6.02c-0.614,0-1.11,0.497-1.11,1.11c0,0.614,0.497,1.11,1.11,1.11h6.02c0.613,0,1.11-0.496,1.11-1.11C19.979,33.562,19.481,33.064,18.869,33.064z"/><path fill="#D7542A" d="M45.555,26.996v-1.984c0-1.313-0.434-2.517-1.143-3.503v-4.151c0-1.923-1.541-3.487-3.437-3.487h-0.914v-0.656c0-1.923-1.542-3.487-3.438-3.487H6.771c-1.895,0-3.436,1.564-3.436,3.487v18.707c0,1.925,1.541,3.488,3.436,3.488h0.915v0.654c0,1.923,1.542,3.488,3.436,3.488h22.904c0.026,0,0.048-0.014,0.072-0.016c0.049,0.002,0.096,0.016,0.144,0.016h10.918c1.299,0,2.356-1.07,2.356-2.384V29.34C47.515,28.163,46.665,27.188,45.555,26.996z M9.907,20.54h25.96c-0.698,0.622-1.256,1.396-1.604,2.288H9.907V20.54z M36.065,25.012c0-2.063,1.63-3.741,3.632-3.741c2.005,0,3.636,1.678,3.636,3.741v1.944h-7.268V25.012z M42.191,17.358v0.96H9.907v-0.96c0-0.698,0.544-1.267,1.213-1.267h29.855C41.647,16.092,42.191,16.66,42.191,17.358z M6.771,33.188c-0.669,0-1.214-0.569-1.214-1.267V13.215c0-0.699,0.544-1.266,1.214-1.266h29.854c0.671,0,1.216,0.567,1.216,1.266v0.656H11.121c-1.894,0-3.436,1.564-3.436,3.487v15.83H6.771z M9.907,36.064V25.05h23.937v1.946c-0.828,0.145-1.506,0.724-1.799,1.5h-0.424c-0.614,0-1.111,0.497-1.111,1.111v4.567c0,0.614,0.497,1.11,1.111,1.11h0.263v1.884c0,0.054,0.014,0.108,0.017,0.162h-20.78C10.451,37.331,9.907,36.763,9.907,36.064z M45.293,37.169c0,0.088-0.061,0.162-0.135,0.162H34.24c-0.073,0-0.135-0.076-0.135-0.162V29.34c0-0.089,0.062-0.162,0.135-0.162h10.918c0.073,0,0.135,0.073,0.135,0.162V37.169z"/><path fill="#D7542A" d="M39.698,30.553c-0.612,0-1.11,0.497-1.11,1.11v3.145c0,0.616,0.498,1.111,1.11,1.111c0.615,0,1.111-0.495,1.111-1.111v-3.145C40.81,31.05,40.313,30.553,39.698,30.553z"/>
+</svg>
+                                  </span>
+            <span class="item-text">Paiement de la cantine </span>
+          </a>
+                          </li>
+          
+      
+      
+      
+      
+                        <li class="menu-icon">
+          <a href="/demarches/creche-inscription-resultats-admission" class="item">
+                <span class="item-picto">
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75225" d="M24.999,2.513c-8.183,0-14.843,6.526-14.843,14.55v15.873c0,8.025,6.66,14.55,14.843,14.55c8.188,0,14.846-6.524,14.846-14.55V17.063C39.845,9.04,33.187,2.513,24.999,2.513z M24.999,45.581c-7.133,0-12.938-5.672-12.938-12.646V17.063c-0.001-6.973,5.804-12.647,12.938-12.647c7.138,0,12.942,5.674,12.942,12.647v15.873C37.941,39.909,32.137,45.581,24.999,45.581z"/><path fill="#D75225" d="M33.937,13.923c-1.329-3.614-4.818-6.074-8.718-6.132c-0.018-0.002-0.034-0.002-0.06-0.002l-0.084-0.004c-3.953,0-7.496,2.453-8.854,6.111c-1.589,0.229-2.774,1.57-2.774,3.166s1.185,2.937,2.774,3.165c1.164,3.136,3.937,5.424,7.261,5.98c0.251,0.043,0.504-0.017,0.71-0.164c0.207-0.146,0.344-0.366,0.386-0.617c0.043-0.251-0.015-0.504-0.164-0.71c-0.146-0.207-0.366-0.344-0.618-0.385c-2.851-0.478-5.196-2.566-5.973-5.321c-0.125-0.44-0.544-0.727-1.006-0.688c-0.066,0.006-0.129,0.017-0.2,0.036c-0.712-0.04-1.268-0.603-1.268-1.295c0-0.689,0.554-1.253,1.265-1.294c0.053,0.013,0.123,0.028,0.204,0.035c0.456,0.041,0.88-0.249,1.005-0.688c0.888-3.15,3.82-5.375,7.139-5.423c0.47,0.195,1.823,0.9,1.823,2.583c0,1.125-1.243,1.379-1.472,1.379c-0.321,0-1.07-0.391-1.07-1.149c0-0.526-0.426-0.952-0.95-0.952c-0.525,0-0.953,0.426-0.953,0.952c0,1.801,1.566,3.054,2.973,3.054c1.415,0,3.374-1.141,3.374-3.282c0-0.66-0.128-1.282-0.387-1.855c1.951,0.918,3.431,2.632,4.014,4.672c0.117,0.405,0.5,0.688,0.939,0.688c0.048-0.001,0.093-0.006,0.131-0.012c0.708,0.041,1.261,0.607,1.261,1.294c0,0.687-0.553,1.251-1.261,1.294c-0.037-0.006-0.078-0.01-0.122-0.013c-0.442-0.022-0.83,0.271-0.948,0.689c-0.307,1.065-0.875,2.085-1.645,2.943c-0.297,0.326-0.933,0.905-1.741,1.64c-3.718,3.368-10.63,9.635-10.63,15.135c0,0.525,0.427,0.951,0.952,0.951c0.525,0,0.953-0.427,0.953-0.951c0-4.659,6.755-10.78,10.003-13.725c0.881-0.798,1.517-1.374,1.878-1.776c0.801-0.893,1.44-1.945,1.85-3.048c1.522-0.294,2.615-1.599,2.615-3.139C36.552,15.521,35.458,14.218,33.937,13.923z"/><path fill="#D75225" d="M19.937,17.479v1.693c0,0.524,0.427,0.952,0.951,0.952c0.525,0,0.952-0.428,0.952-0.952v-1.693c0-0.525-0.428-0.952-0.952-0.952S19.937,16.954,19.937,17.479z"/><path fill="#D75225" d="M30.065,19.171v-1.693c0-0.525-0.429-0.952-0.952-0.952c-0.524,0-0.954,0.427-0.954,0.952v1.693c0,0.524,0.43,0.952,0.954,0.952C29.637,20.123,30.065,19.695,30.065,19.171z"/>
+</svg>
+                                  </span>
+            <span class="item-text">Inscription et admission en crèche</span>
+          </a>
+                          </li>
+          
+      
+      
+      
+      
+                        <li class="menu-icon">
+          <a href="/demarches/sinscrire-une-activite-de-loisirs-des-centres-culturels" class="item">
+                <span class="item-picto">
+                                      <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75026" d="M24.6,15.313c2.458,0.007,4.456-1.98,4.462-4.438s-1.98-4.456-4.438-4.462	c-2.458-0.007-4.456,1.98-4.462,4.438c0,0.008,0,0.017,0,0.025C20.163,13.326,22.149,15.313,24.6,15.313L24.6,15.313z M21.7,10.875	c-0.017-0.766,0.271-1.508,0.8-2.063l0,0c1.136-1.139,2.98-1.142,4.119-0.006c1.139,1.136,1.142,2.979,0.006,4.119	s-2.98,1.142-4.119,0.006c-0.546-0.545-0.854-1.285-0.856-2.057H21.7z"/><path fill="#D75026" d="M42.325,42.037H39.1l0,0c0.486-0.977,0.35-2.148-0.35-2.987L30,28.037l1.45-4.8L39.6,22.75	c1.324-0.078,2.333-1.213,2.256-2.537c-0.068-1.148-0.94-2.087-2.08-2.238L29.25,16.563c-0.092-0.013-0.184-0.013-0.275,0	l-2.412,0.587c-1.29,0.313-2.635,0.313-3.925,0l-2.4-0.587c-0.095-0.012-0.192-0.012-0.287,0L9.425,17.975	c-1.312,0.13-2.27,1.3-2.139,2.612c0.119,1.198,1.111,2.12,2.314,2.15l8.137,0.5l1.388,4.588l-5.862,3.225	c-1.088,0.601-1.676,1.825-1.463,3.05l1.25,7.163c0.04,0.267,0.124,0.524,0.25,0.763h-2.712c-0.428,0-0.775,0.347-0.775,0.774	c0,0.429,0.347,0.775,0.775,0.775h31.738c0.428,0,0.774-0.347,0.774-0.775c0-0.421-0.341-0.763-0.762-0.763	C42.334,42.037,42.329,42.037,42.325,42.037z M20.625,27.425l-1.563-5.15c-0.093-0.308-0.366-0.527-0.688-0.55L9.688,21.25	c-0.45-0.026-0.801-0.399-0.8-0.85c0.001-0.427,0.315-0.788,0.737-0.85L20,18.112l2.263,0.55c1.531,0.375,3.131,0.375,4.662,0	l2.263-0.55l10.375,1.4c0.424,0.051,0.74,0.411,0.737,0.837c-0.005,0.451-0.351,0.824-0.8,0.862l-8.688,0.513	c-0.321,0.022-0.595,0.242-0.688,0.55l-1.563,5.15H20.625z M14,32.425L20.25,29h8.5l8.75,11.037c0.296,0.373,0.354,0.883,0.15,1.313	c-0.207,0.435-0.645,0.711-1.125,0.713c-0.306-0.004-0.6-0.119-0.825-0.325l-10.663-9.5c-0.142-0.124-0.325-0.19-0.513-0.188H24.35	l-6.15,1.4c-0.866,0.198-1.466,0.987-1.425,1.875l0.238,5.412c0,0.69-0.56,1.25-1.25,1.25l0,0c-0.611,0.011-1.14-0.423-1.25-1.024	l-1.25-7.163C13.188,33.225,13.483,32.664,14,32.4V32.425z M18.625,40.688l-0.237-5.412c-0.01-0.143,0.086-0.27,0.225-0.301	l5.775-1.313l9.425,8.388H18.337c0.217-0.429,0.316-0.907,0.288-1.388V40.688z"/>
+</svg>
+                                  </span>
+            <span class="item-text">Inscription à une activité de loisirs des Centres culturels</span>
+          </a>
+                          </li>
+    
+    </ul>
+                  </div>
+        </div>
+            </div>
+      
+            </li>
+    
+    </ul>
+      
+
+  </nav>
+
+        </div>
+      
+      <div class="navbar-tools">
+                <a href="/gerer-mes-notifications" class="btn btn-alert d-none" title="Gérer mes notifications" aria-label="Gérer mes notifications">
+          <i class="icon-cloche"></i>
+        </a>
+              </div>
+    </div>
+  </div>
+</header>
+<esi:remove>
+<div id="browsehappy" role="alert">
+  <p class="container">Vous utilisez <strong>un navigateur obsolète</strong>. Merci de <a href="http://browsehappy.com/" target="_blank" rel="noreferrer noopener">mettre à jour votre navigateur</a> pour profiter pleinement du site.</p>
+  <p class="container alert-msg__os">Vous utilisez <strong>un OS obsolète</strong>. Merci de mettre à jour votre OS à une version plus récente.</p>
+</div>
+<!--[if IE]>
+<div id="browsehappy" class="ie" role="alert">
+  <p class="container">Vous utilisez <strong>un navigateur obsolète</strong>. Merci de <a href="http://browsehappy.com/" target="_blank" rel="noreferrer noopener">mettre à jour votre navigateur</a> pour profiter pleinement du site.</p>
+</div>
+<![endif]-->
+</esi:remove>
+  <div class="page-highlight">
+      <div class="region region-highlight">
+    <div id="block-blockflashinfo" data-block-plugin-id="block_flash_info" class="block block-toulouse-core block-block-flash-info">
+  
+    
+      
+
+  </div>
+<div id="block-blockmoteurrecherche" data-block-plugin-id="block_search_engine" class="block block-toulouse-core block-block-search-engine">
+  
+    
+        <div class="block__search-engine" style="background-image: url(/sites/toulouse-fr/files/styles/webp/public/2025-09/automne_bandeau_hp4.jpg.webp)">
+    <form method="GET" action="/recherche" class="block__search-engine__form">
+      <div class="input-group">
+        <label for="edit-key--2" class="visually-hidden" id="searchFormLabel">Comment vous aider ?</label>
+        
+  <input placeholder="Comment vous aider ?" title="Saisir un mot-clé ou une &quot;expression exacte&quot;" data-drupal-selector="edit-key" data-search-api-autocomplete-search="moteur_recherche" class="form-autocomplete form-text form-control" data-autocomplete-path="/search_api_autocomplete/moteur_recherche?display=page_moteur_recherche&amp;&amp;filter=key" data-msg-maxlength="Ce champ a un nombre maximum de 128 caractères." type="text" id="edit-key--2" name="key" value="" maxlength="128" role="combobox" aria-autocomplete="list" title="Comment vous aider ?" />
+
+
+
+                <button class="btn" type="submit" aria-label="Lancer la recherche"><i class="icon-loupe" aria-hidden="true"></i></button>
+      </div>
+    </form>
+  </div>
+
+  </div>
+<div id="block-blockenunclic" data-block-plugin-id="block_in_one_click" class="block block-toulouse-core block-block-in-one-click">
+  
+    
+        <div class="block__one-click">
+    <nav role="navigation" aria-label="Démarches courantes" class="menu-nav">
+      <div class="menu-wrapper">
+        <div class="oneClickSwiper">
+          <div class="swiper-pagination" lang="en"></div>
+
+          <div class="menu-list swiper-wrapper">
+                                          <div class="menu-item swiper-slide">
+                  <a href="/elus-au-conseil-municipal" class="item" >
+                                                                                        <span class="item-picto"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75026" d="M39.533,34.218l0.557-0.929c0.07-0.107,0.115-0.23,0.129-0.357l0,0c0.01-0.037,0.01-0.076,0-0.115l0,0 c0,0,0-0.086,0-0.113l0,0c0,0,0-0.113,0-0.171c-0.025-0.037-0.051-0.074-0.072-0.114l0,0c-4.614-6.245-10.444-6.43-10.717-6.43	c-0.246,0.003-0.48,0.1-0.656,0.269v0.103l0,0l-0.486,0.785c-1.014-0.184-2.041-0.272-3.072-0.271	c-9.77-0.158-17.818,7.632-17.977,17.401c0,0.011,0,0.021,0,0.033v3.086c0.008,0.519,0.425,0.937,0.944,0.942h33.64	c0.518-0.007,0.936-0.425,0.941-0.942v-3.086C42.771,40.688,41.643,37.157,39.533,34.218z M24.999,28.629	c0.675,0,1.347,0.044,2.017,0.13L16.368,46.422H9.123v-2.145C9.209,35.583,16.304,28.59,24.999,28.629z M31.859,28.242	l-10.961,18.18h-2.329l10.717-17.807c0.056-0.059,0.099-0.126,0.13-0.199l0.43-0.7C30.532,27.818,31.208,27.995,31.859,28.242z	 M35.288,30.073l-9.86,16.349h-2.329l10.504-17.436C34.191,29.307,34.755,29.669,35.288,30.073z M38.146,32.932l-8.188,13.49H27.63	l9.116-15.135c0.5,0.494,0.969,1.02,1.398,1.572v0.072H38.146z M40.877,44.364v2.058h-8.718l6.304-10.462	c1.587,2.494,2.426,5.392,2.414,8.347V44.364z"/><path fill="#D75026" d="M24.999,25.186c5.446-0.023,9.849-4.444,9.849-9.889V11.51c0-5.438-4.41-9.846-9.849-9.846	c-5.438,0-9.846,4.408-9.846,9.846v3.787C15.153,20.741,19.555,25.162,24.999,25.186z M24.999,3.549 c4.407,0.016,7.97,3.596,7.96,8.003v3.787c0,4.396-3.563,7.96-7.96,7.96c-4.395,0-7.958-3.564-7.958-7.96v-3.83 C17.056,7.12,20.609,3.565,24.999,3.549z"/>
+</svg></span>
+                                                                <span class="item-text">Élus -                    Mairie de Toulouse</span>
+                  </a>
+                </div>
+                                                        <div class="menu-item swiper-slide">
+                  <a href="/elus-au-conseil-metropolitain" class="item" >
+                                                                                        <span class="item-picto"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75026" d="M39.533,34.218l0.557-0.929c0.07-0.107,0.115-0.23,0.129-0.357l0,0c0.01-0.037,0.01-0.076,0-0.115l0,0 c0,0,0-0.086,0-0.113l0,0c0,0,0-0.113,0-0.171c-0.025-0.037-0.051-0.074-0.072-0.114l0,0c-4.614-6.245-10.444-6.43-10.717-6.43	c-0.246,0.003-0.48,0.1-0.656,0.269v0.103l0,0l-0.486,0.785c-1.014-0.184-2.041-0.272-3.072-0.271	c-9.77-0.158-17.818,7.632-17.977,17.401c0,0.011,0,0.021,0,0.033v3.086c0.008,0.519,0.425,0.937,0.944,0.942h33.64	c0.518-0.007,0.936-0.425,0.941-0.942v-3.086C42.771,40.688,41.643,37.157,39.533,34.218z M24.999,28.629	c0.675,0,1.347,0.044,2.017,0.13L16.368,46.422H9.123v-2.145C9.209,35.583,16.304,28.59,24.999,28.629z M31.859,28.242	l-10.961,18.18h-2.329l10.717-17.807c0.056-0.059,0.099-0.126,0.13-0.199l0.43-0.7C30.532,27.818,31.208,27.995,31.859,28.242z	 M35.288,30.073l-9.86,16.349h-2.329l10.504-17.436C34.191,29.307,34.755,29.669,35.288,30.073z M38.146,32.932l-8.188,13.49H27.63	l9.116-15.135c0.5,0.494,0.969,1.02,1.398,1.572v0.072H38.146z M40.877,44.364v2.058h-8.718l6.304-10.462	c1.587,2.494,2.426,5.392,2.414,8.347V44.364z"/><path fill="#D75026" d="M24.999,25.186c5.446-0.023,9.849-4.444,9.849-9.889V11.51c0-5.438-4.41-9.846-9.849-9.846	c-5.438,0-9.846,4.408-9.846,9.846v3.787C15.153,20.741,19.555,25.162,24.999,25.186z M24.999,3.549 c4.407,0.016,7.97,3.596,7.96,8.003v3.787c0,4.396-3.563,7.96-7.96,7.96c-4.395,0-7.958-3.564-7.958-7.96v-3.83 C17.056,7.12,20.609,3.565,24.999,3.549z"/>
+</svg></span>
+                                                                <span class="item-text">Élus - Toulouse Métropole</span>
+                  </a>
+                </div>
+                                                        <div class="menu-item swiper-slide">
+                  <a href="/institutions-et-territoires/emploi-et-vie-economique/accompagnement-vers-lemploi/trouver-un-emploi" class="item" >
+                                                                                        <span class="item-picto"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75026" d="M43.868,10.638H33.052V8.762c-0.038-1.246-1.042-2.245-2.288-2.274H19.393c-1.294-0.056-2.388,0.948-2.443,2.243c0,0.01-0.001,0.021-0.001,0.031v1.876H6.131c-1.886,0-3.417,1.525-3.425,3.412v12.167c0.003,0.474,0.354,0.874,0.824,0.938l0.598,0.07v12.878c0,1.884,1.527,3.411,3.411,3.411c0.01,0,0.02,0,0.029,0h34.879c1.884,0.008,3.419-1.512,3.426-3.397c0-0.004,0-0.01,0-0.014V27.225l0.611-0.07c0.464-0.07,0.809-0.468,0.81-0.938V14.05C47.286,12.164,45.754,10.638,43.868,10.638z M19.307,8.293h11.371c0.262,0,0.477,0.208,0.483,0.469v1.876H18.824V8.762C18.832,8.501,19.045,8.293,19.307,8.293z M36.747,23.814h-2.133c-0.904,0-1.64,0.729-1.648,1.635v1.548l-7.958,1.039l-7.96-1.039v-1.548c-0.016-0.908-0.756-1.635-1.663-1.635h-2.132c-0.905,0-1.641,0.729-1.649,1.635v0.852l-7.021-0.909v-11.37c0.007-0.851,0.699-1.535,1.549-1.535h37.737c0.849,0,1.541,0.684,1.55,1.535v11.37l-7.022,0.909v-0.852C38.388,24.543,37.652,23.814,36.747,23.814z M34.844,30.154v-4.463h1.676v4.463H34.844z M15.128,25.691v4.463h-1.649v-4.463H15.128z M6.003,27.468l5.6,0.726v2.188c-0.023,0.91,0.695,1.666,1.606,1.692c0.014,0,0.029,0,0.043,0h2.132c0.913,0,1.655-0.734,1.663-1.65v-1.421l7.832,1.009h0.198l7.848-1.009v1.421c0,0.911,0.736,1.65,1.647,1.65c0.014,0,0.028,0,0.042,0h2.133c0.911,0,1.648-0.739,1.648-1.65v-2.229l5.602-0.726v12.635c0,0.849-0.688,1.536-1.536,1.536c-0.005,0-0.01,0-0.015,0H7.567c-0.856,0.008-1.556-0.682-1.564-1.536l0,0V27.468z"/>	
+</svg></span>
+                                                                <span class="item-text">Offres d&#039;emploi</span>
+                  </a>
+                </div>
+                                                        <div class="menu-item swiper-slide">
+                  <a href="/demarches/collecte-de-dechets-vegetaux-sabonner-au-service" class="item" >
+                                                                                        <span class="item-picto"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75026" d="M40.61,15.004c-1.062-3.22-3.956-5.484-7.336-5.739C31.528,5.006,26.659,2.969,22.4,4.716	c-2.064,0.846-3.703,2.485-4.549,4.549c-4.59,0.345-8.032,4.345-7.688,8.936c0.167,2.226,1.22,4.292,2.923,5.735	c-1.11,4.468,1.611,8.988,6.079,10.1c1.878,0.467,3.86,0.264,5.605-0.57v9.23h-8.945c-0.474,0-0.856,0.385-0.856,0.857	c0,0.473,0.383,0.856,0.856,0.856h19.475c0.474,0,0.856-0.384,0.856-0.856s-0.383-0.857-0.855-0.857h-0.001h-8.868v-9.23	c1.109,0.52,2.319,0.789,3.545,0.791c1.76,0.006,3.476-0.554,4.894-1.597c2.723-2,3.981-5.438,3.194-8.724	C40.636,21.743,41.639,18.222,40.61,15.004z M36.572,22.949c-0.301,0.219-0.427,0.606-0.312,0.96	c1.128,3.47-0.771,7.199-4.241,8.329c-1.875,0.609-3.924,0.35-5.587-0.708v-4.686l3.739-3.74c0.163-0.16,0.253-0.381,0.247-0.61	c0.004-0.225-0.086-0.441-0.247-0.597c-0.163-0.159-0.382-0.248-0.61-0.247l0,0c-0.225,0.001-0.438,0.09-0.598,0.247l-2.531,2.519	v-5.246c0-0.473-0.383-0.857-0.856-0.857c-0.473,0-0.857,0.383-0.857,0.856c0,0,0,0.001,0,0.001v5.297L22.2,21.95	c-0.342-0.312-0.865-0.312-1.208,0c-0.333,0.315-0.348,0.841-0.033,1.174c0.011,0.011,0.021,0.022,0.033,0.033l3.727,3.688v4.608	c-3.07,1.962-7.148,1.063-9.109-2.008c-1.067-1.67-1.326-3.73-0.707-5.613c0.116-0.354-0.01-0.742-0.312-0.961	c-2.954-2.143-3.612-6.275-1.469-9.229c1.246-1.718,3.241-2.732,5.364-2.728c0.372-0.003,0.701-0.244,0.817-0.598	c1.119-3.474,4.842-5.383,8.316-4.265c2.024,0.652,3.613,2.24,4.264,4.265c0.118,0.354,0.446,0.594,0.819,0.598	c3.649-0.008,6.614,2.944,6.622,6.594c0.004,2.122-1.011,4.117-2.728,5.363L36.572,22.949z"/>
+</svg></span>
+                                                                <span class="item-text">S&#039;abonner à la collecte des déchets verts</span>
+                  </a>
+                </div>
+                                                        <div class="menu-item swiper-slide">
+                  <a href="/sortir/sport/les-piscines-toulousaines" class="item" >
+                                                                                        <span class="item-picto"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75225" d="M1.938,35.118c2.204,0,3.272,0.722,4.405,1.486c1.214,0.82,2.47,1.667,4.815,1.667	c2.345,0,3.602-0.847,4.818-1.667c1.093-0.736,2.126-1.433,4.179-1.479c0.135,0.024,0.255,0.024,0.39-0.005	c2.101,0.036,3.145,0.739,4.252,1.484c1.216,0.82,2.473,1.667,4.82,1.667c2.344,0,3.601-0.847,4.814-1.667	c1.132-0.765,2.202-1.486,4.406-1.486s3.273,0.722,4.405,1.486c1.214,0.82,2.471,1.667,4.816,1.667c0.562,0,1.021-0.457,1.021-1.02	c0-0.56-0.459-1.018-1.021-1.018c-1.723,0-2.627-0.613-3.676-1.318c-0.712-0.482-1.516-1.023-2.607-1.392V12.058	c0-4.022-3.337-7.295-7.438-7.295s-7.438,3.273-7.438,7.295v2.135c0,0.56,0.457,1.018,1.019,1.018c0.563,0,1.02-0.458,1.02-1.018	v-2.135c0-2.897,2.421-5.256,5.399-5.256c2.977,0,5.397,2.358,5.397,5.256v8.833H21.367v-8.833c0-4.022-3.337-7.294-7.437-7.294	c-4.102,0-7.438,3.272-7.438,7.294v2.133c0,0.561,0.458,1.019,1.02,1.019c0.563,0,1.021-0.458,1.021-1.019v-2.133	c0-2.897,2.422-5.256,5.398-5.256s5.398,2.358,5.398,5.256v21.073c-2.158,0.211-3.396,1.047-4.492,1.785	c-1.05,0.705-1.955,1.318-3.678,1.318c-1.723,0-2.626-0.613-3.674-1.318c-1.274-0.861-2.718-1.835-5.546-1.835	c-0.562,0-1.018,0.456-1.018,1.017C0.92,34.661,1.376,35.118,1.938,35.118z M21.367,28.233v-5.305h18.371v5.305H21.367z	 M29.618,36.234c-1.726,0-2.632-0.613-3.682-1.318c-1.109-0.749-2.362-1.593-4.57-1.791v-2.854h18.371v2.846	c-0.297-0.024-0.594-0.035-0.898-0.035c-2.828,0-4.271,0.973-5.546,1.835C32.244,35.621,31.339,36.234,29.618,36.234z"/><path fill="#D75225" d="M48.061,43.2c-1.723,0-2.627-0.612-3.677-1.322c-1.274-0.857-2.718-1.832-5.545-1.832	c-2.828,0-4.271,0.975-5.546,1.835c-1.049,0.707-1.954,1.319-3.675,1.319c-1.726,0-2.632-0.612-3.682-1.322	c-1.277-0.857-2.723-1.832-5.55-1.832c-2.827,0-4.273,0.975-5.548,1.835c-1.052,0.707-1.959,1.319-3.681,1.319	c-1.723,0-2.628-0.612-3.674-1.319c-1.274-0.86-2.718-1.835-5.544-1.835c-0.564,0-1.02,0.457-1.02,1.019	c0,0.561,0.456,1.02,1.02,1.02c2.202,0,3.271,0.722,4.401,1.486c1.215,0.818,2.47,1.666,4.817,1.666	c2.345,0,3.601-0.847,4.818-1.666c1.133-0.765,2.205-1.486,4.41-1.486c2.206,0,3.276,0.722,4.411,1.486	c1.216,0.819,2.474,1.666,4.82,1.666c2.346,0,3.601-0.848,4.814-1.666c1.132-0.765,2.202-1.486,4.406-1.486s3.273,0.722,4.405,1.486	c1.214,0.818,2.472,1.666,4.816,1.666c0.562,0,1.021-0.457,1.021-1.021C49.081,43.656,48.622,43.2,48.061,43.2z"/>
+</svg>
+</span>
+                                                                <span class="item-text">Les piscines toulousaines</span>
+                  </a>
+                </div>
+                                                        <div class="menu-item swiper-slide">
+                  <a href="/demarches/faire-un-signalement-aupres-dallo-toulouse" class="item" >
+                                                                                        <span class="item-picto"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="50px" height="50px" viewBox="0 0 50 50" enable-background="new 0 0 50 50" xml:space="preserve">
+<path fill="#D75026" d="M38.023,29.059V10.14c0-1.953-1.582-3.537-3.535-3.537l0,0H6.869c-1.955,0-3.538,1.583-3.538,3.537l0,0v25.85c0.002,0.388,0.219,0.743,0.564,0.924c0.147,0.067,0.308,0.104,0.47,0.109c0.213,0.002,0.421-0.064,0.595-0.188l5.822-4.161h23.707c1.953,0.001,3.535-1.584,3.535-3.538C38.023,29.111,38.023,29.086,38.023,29.059z M5.397,10.14c0-0.813,0.659-1.472,1.472-1.472h27.62c0.813,0,1.47,0.659,1.47,1.472l0,0v18.918c0,0.813-0.657,1.471-1.47,1.471l0,0H10.451c-0.218-0.001-0.43,0.065-0.61,0.188l-4.444,3.129V10.14z"/><path fill="#D75026" d="M43.188,12.033h-2.941c-0.576,0.072-0.984,0.595-0.913,1.168c0.058,0.478,0.435,0.855,0.913,0.913h2.941c0.813,0,1.471,0.659,1.471,1.472l0,0v24.818l-4.336-3.13c-0.175-0.136-0.39-0.203-0.61-0.203H23.204c-0.797-0.038-1.439-0.674-1.486-1.47v-0.769c0-0.571-0.463-1.032-1.033-1.032s-1.033,0.461-1.033,1.032v0.769c0.019,1.947,1.603,3.52,3.551,3.52h16.167l5.742,4.147c0.175,0.138,0.388,0.207,0.61,0.201c0.163,0.004,0.323-0.032,0.469-0.107c0.346-0.179,0.562-0.537,0.565-0.923V15.648c0.033-1.961-1.53-3.58-3.491-3.615C43.238,12.033,43.214,12.033,43.188,12.033z"/><path fill="#D75026" d="M21.64,23.958c0.008-0.571-0.448-1.041-1.016-1.049c-0.006,0-0.012,0-0.017,0H9.794c-0.575,0.072-0.984,0.595-0.914,1.169c0.06,0.478,0.435,0.854,0.914,0.913h10.954C21.264,24.918,21.645,24.478,21.64,23.958z"/><path fill="#D75026" d="M19.59,16.29h10.954c0.577-0.071,0.984-0.595,0.913-1.169c-0.059-0.477-0.435-0.854-0.913-0.912H19.59c-0.575,0.07-0.983,0.594-0.913,1.168C18.736,15.854,19.112,16.231,19.59,16.29z"/><path fill="#D75026" d="M19.59,20.64h10.954c0.577-0.071,0.984-0.593,0.913-1.168c-0.059-0.479-0.435-0.855-0.913-0.913H19.59c-0.575,0.07-0.983,0.594-0.913,1.168C18.736,20.205,19.112,20.582,19.59,20.64z"/><path fill="#D75026" d="M9.794,20.64h5.446c0.567-0.008,1.023-0.466,1.033-1.033v-5.446c-0.009-0.567-0.465-1.024-1.033-1.033H9.794c-0.568,0.009-1.025,0.466-1.034,1.033v5.446C8.769,20.174,9.227,20.632,9.794,20.64z M10.842,18.56v-3.365h3.365v3.365H10.842z"/>
+</svg></span>
+                                                                <span class="item-text">Faire un signalement auprès d&#039;Allô Toulouse</span>
+                  </a>
+                </div>
+                                    </div>
+
+        </div>
+      </div>
+    </nav>
+  </div>
+
+  </div>
+
+  </div>
+
+  </div>
+
+<main role="main" class="main">
+
+  <div class="container">
+    
+    <a id="main-content" tabindex="-1"></a>
+    <div class="row g-0">
+      <div class="col-12">
+                                                                                            <div data-block-plugin-id="block_actus" class="block block-toulouse-core block-block-actus">
+  
+    
+      <div class="block__actus has-bgd" style="--hp-block-bgd:#ffffff;">
+  <div class="block__actus__header">
+    <h2>Actualités</h2>
+          <button id="inscris-btn-newsletter" data-bs-toggle="modal" data-bs-target="#bt-sarbacane-modal" class="btn btn-outline-primary has-arrow-icon" type="button">S&#039;inscrire à la newsletter<i class="icon-fleche" aria-hidden="true"></i></button>
+      </div>
+
+      <div class="list list--vertical">
+      <div class="row">
+        <div class="col-12 col-md-6 d-none d-md-block">
+                                    <div class="list__card highlighted-actu">
+                <div class="list__details">
+                  <h3 class="list__card__title">
+                    <a class="list__url" href="/actualites/conseil-metropolitain-du-15-octobre-2025">
+                      <span class="field field--name-title field--type-string field--label-hidden">Conseil métropolitain du 15 octobre 2025</span>
+                    </a>
+                  </h3>
+
+                                      <p class="list__category">Conseil de Toulouse Métropole</p>
+                  
+                                      <p class="list__teaser">Le Conseil de Toulouse métropole se réunira mercredi 15 octobre 2025 à 9h. Retrouvez l'ordre du jour.&nbsp;</p>
+                  
+                                      <p class="list__timestamp">
+                      <time datetime="2025-10-10">10/10/2025</time>
+                    </p>
+                                  </div>
+                <div class="list__image-wrapper">
+                                                                                                                                                                                <img class="list__image" src="/sites/toulouse-fr/files/styles/actu_hp_highlight/public/2022-09/conseil_de_la_metropole_c_p.nin.jpg.webp?itok=13cX6jVd" alt="" loading="lazy" width="575" height="542"/>
+                                  </div>
+              </div>
+                                                                                                </div>
+
+        <div class="col-12 col-md-6">
+          <div class="block__actus-container">
+            <div class="block__actus-dots"></div>
+            <div class="list__cards">
+                              <div class="list__card d-flex d-md-none">
+                  <div class="list__details">
+                    <h3 class="list__card__title">
+                      <a class="list__url" href="/actualites/conseil-metropolitain-du-15-octobre-2025">
+                        <span class="field field--name-title field--type-string field--label-hidden">Conseil métropolitain du 15 octobre 2025</span>
+                      </a>
+                    </h3>
+
+                                          <p class="list__category">Conseil de Toulouse Métropole</p>
+                    
+                                          <p class="list__teaser">Le Conseil de Toulouse métropole se réunira mercredi 15 octobre 2025 à 9h. Retrouvez l'ordre du jour.&nbsp;</p>
+                    
+                    <p class="list__timestamp"><time datetime="2025-10-10">10/10/2025</time></p>
+                  </div>
+                  <div class="list__image-wrapper">
+                                                                                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/actu_hp/public/2022-09/conseil_de_la_metropole_c_p.nin.jpg.webp?itok=E2aiZ7_q" alt="" width="267" height="200" loading="lazy"/>
+                                      </div>
+                </div>
+                              <div class="list__card">
+                  <div class="list__details">
+                    <h3 class="list__card__title">
+                      <a class="list__url" href="/actualites/vaccination-contre-la-grippe-et-la-covid-19">
+                        <span class="field field--name-title field--type-string field--label-hidden">Vaccination contre la grippe et la Covid-19</span>
+                      </a>
+                    </h3>
+
+                                          <p class="list__category">Santé</p>
+                    
+                                          <p class="list__teaser">Pour se protéger contre les formes graves de ces maladies, prenez rendez-vous au centre municipal de vaccinations de Toulouse dès le 14 octobre.</p>
+                    
+                    <p class="list__timestamp"><time datetime="2025-10-09">09/10/2025</time></p>
+                  </div>
+                  <div class="list__image-wrapper">
+                                                                                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/actu_hp/public/2022-10/vaccin.jpg.webp?itok=ZnjMSH0I" alt="" width="267" height="200" loading="eager"/>
+                                      </div>
+                </div>
+                              <div class="list__card">
+                  <div class="list__details">
+                    <h3 class="list__card__title">
+                      <a class="list__url" href="/actualites/des-idees-de-sorties-avec-villes-pour-tous">
+                        <span class="field field--name-title field--type-string field--label-hidden">Des idées de sorties avec &quot;Villes pour Tous&quot; </span>
+                      </a>
+                    </h3>
+
+                                          <p class="list__category">Handicap</p>
+                    
+                                          <p class="list__teaser">Villes pour Tous, c'est une sélection d'évènements inclusifs pour les personnes en situation de handicap.</p>
+                    
+                    <p class="list__timestamp"><time datetime="2025-09-30">30/09/2025</time></p>
+                  </div>
+                  <div class="list__image-wrapper">
+                                                                                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/actu_hp/public/2024-02/handicap.png.webp?itok=fHafw8w6" alt="" width="267" height="200" loading="lazy"/>
+                                      </div>
+                </div>
+                              <div class="list__card">
+                  <div class="list__details">
+                    <h3 class="list__card__title">
+                      <a class="list__url" href="/sortir/sport/les-activites-sportives-encadrees">
+                        <span class="field field--name-title field--type-string field--label-hidden">Vacances de Toussaint - activités sportives aquatiques</span>
+                      </a>
+                    </h3>
+
+                                          <p class="list__category">Sports</p>
+                    
+                                          <p class="list__teaser">Inscriptions aux activités aquatiques proposés par la mairie de Toulouse pendant les vacances scolaires d'automne&nbsp;: c'est parti !</p>
+                    
+                    <p class="list__timestamp"><time datetime="2025-09-30">30/09/2025</time></p>
+                  </div>
+                  <div class="list__image-wrapper">
+                                                                                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/actu_hp/public/2025-09/piscines-loisirs-2.jpg.webp?itok=t_z8hy6i" alt="" width="267" height="200" loading="lazy"/>
+                                      </div>
+                </div>
+                          </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+  <div class="row block__actus__footer">
+    <div class="col-12 col-md-6 offset-md-6">
+      <a class="btn btn-outline-primary has-arrow-icon" href="/actualites">Toutes les actualités<i class="icon-fleche" aria-hidden="true"></i></a>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+                                                                                                                              <div data-block-plugin-id="block_near_me" class="block block-toulouse-core block-block-near-me">
+  
+    
+        <div class="block__near-me has-bgd" style="--hp-block-bgd:#ffffff;">
+    <h2>Près de chez moi</h2>
+
+    <div class="row">
+              <div class="col-12 col-md-6">
+          <div class="block__near-me__cont" style="background-image: url(/sites/toulouse-fr/files/styles/near_me_hp_561_x_370_/public/2022-09/hpquartiers.png.webp)">
+            <h3 class="block__near-me__title">Toulouse, mon quartier</h3>
+            <form id="frm_liste_quartiers">
+              <select id="ddl_liste_quartiers" class="form-control form-select js-liste-quartiers">
+                <option value="" selected>Choisir mon quartier</option>
+                                  <optgroup label="Toulouse Centre">
+                                                                  <option value="/quartiers/capitole-arnaud-bernard-carmes">Capitole, Arnaud-Bernard, Carmes</option>
+                                                                                        <option value="/quartiers/amidonniers-compans-caffarelli-brouardel">Amidonniers, Compans-Caffarelli, Brouardel</option>
+                                                                                        <option value="/quartiers/les-chaletsbayard-belfort-saint-aubin-dupuy">Les Chalets, Bayard, Belfort, Saint-Aubin, Dupuy</option>
+                                                                                        <option value="/quartiers/lapujade-bonnefoy-periole-marengo-la-colonne">Lapujade, Bonnefoy, Périole, Marengo, La Colonne</option>
+                                                                                        <option value="/quartiers/saint-michel-le-busca-empalot-saint-agne-ile-du-ramier">Saint-Michel, Saint-Agne, Empalot, Le Busca, Île du Ramier, Monplaisir</option>
+                                                                                        <option value="/quartiers/saint-cyprien">Saint-Cyprien</option>
+                                                            </optgroup>
+                                  <optgroup label="Toulouse Nord">
+                                                                  <option value="/quartiers/sept-deniers-ginestous-sesquieres-lalande">Sept Deniers, Ginestous-Sesquières, Lalande</option>
+                                                                                        <option value="/quartiers/minimes-barriere-de-paris-ponts-jumeaux">Minimes, Barrière de Paris, Ponts-Jumeaux, La Vache, Raisin, Fondeyre</option>
+                                                                                        <option value="/quartiers/trois-cocus-borderouge-croix-daurade-paleficat-grand-selve">Trois Cocus, Borderouge, Croix-Daurade, Paleficat, Grand Selve</option>
+                                                            </optgroup>
+                                  <optgroup label="Toulouse Est">
+                                                                  <option value="/quartiers/jolimont-soupetard-roseraie-gloire-gramont-amouroux">Jolimont, Soupetard, Roseraie, Gloire, Gramont, Amouroux</option>
+                                                                                        <option value="/quartiers/bonhoure-guilhemery-chateau-de-lhers-limayrac-cote-pavee">Bonhoure, Guilheméry, Château de l&#039;Hers, Limayrac, Côte Pavée</option>
+                                                                                        <option value="/quartiers/pont-des-demoiselles-ormeau-montaudran-la-terrasse-malepere">Pont des Demoiselles, Ormeau, Montaudran, La Terrasse, Malepère</option>
+                                                                                        <option value="/quartiers/rangueil-sauzelong-jules-julien-pech-david-pouvourville">Rangueil, Sauzelong, Jules-Julien, Pech-David, Pouvourville</option>
+                                                            </optgroup>
+                                  <optgroup label="Toulouse Sud">
+                                                                  <option value="/quartiers/saint-simon-lafourguette-oncopole-campus-sante-du-futur">Saint-Simon, Lafourguette, Oncopole-Campus Santé du Futur</option>
+                                                                                        <option value="/quartiers/croix-de-pierre-route-despagne">Croix de Pierre, Route d&#039;Espagne</option>
+                                                                                        <option value="/quartiers/fontaine-lestang-arenes-bagatelle-papus-tabar-bordelongue-mermoz-la-faourette">Fontaine-Lestang, Arènes, Bagatelle, Papus, Tabar, Bordelongue, Mermoz, La Faourette</option>
+                                                                                        <option value="/quartiers/mirail-universite-reynerie-bellefontaine">Mirail-Université, Reynerie, Bellefontaine</option>
+                                                            </optgroup>
+                                  <optgroup label="Toulouse Ouest">
+                                                                  <option value="/quartiers/lardenne-pradettes-basso-cambo">Lardenne, Pradettes, Basso-Cambo</option>
+                                                                                        <option value="/quartiers/casselardit-fontaine-bayonne-cartoucherie">Casselardit, Fontaine-Bayonne, Cartoucherie</option>
+                                                                                        <option value="/quartiers/arenes-romaines-saint-martin-du-touch-purpan">Arènes Romaines, Ancely, Saint-Martin du Touch, Purpan</option>
+                                                            </optgroup>
+                              </select>
+            </form>
+          </div>
+        </div>
+      
+              <div class="col-12 col-md-6">
+          <div class="block__near-me__cont" style="background-image: url(/sites/toulouse-fr/files/styles/near_me_hp_561_x_370_/public/2022-09/hpcommunes.png.webp)">
+            <h3 class="block__near-me__title">Ma commune</h3>
+            <form id="frm_liste_communes">
+              <select id="ddl_liste_communes" class="form-control form-select js-liste-communes">
+                <option selected value="">Choisir ma commune</option>
+                                                      <option value="https://aigrefeuille31.fr/" external="1">Aigrefeuille</option>
+                                                                        <option value="https://www.ville-aucamville.fr/" external="1">Aucamville</option>
+                                                                        <option value="http://www.aussonne.fr" external="1">Aussonne</option>
+                                                                        <option value="https://mairie-balma.fr/" external="1">Balma</option>
+                                                                        <option value="https://www.ville-beaupuy.fr/" external="1">Beaupuy</option>
+                                                                        <option value="https://www.beauzelle.fr/" external="1">Beauzelle</option>
+                                                                        <option value="https://www.mairie-blagnac.fr/" external="1">Blagnac</option>
+                                                                        <option value="https://www.mairie-brax31.fr/" external="1">Brax</option>
+                                                                        <option value="http://www.mairie-bruguieres.fr/" external="1">Bruguières</option>
+                                                                        <option value="https://www.mairie-castelginest.fr/" external="1">Castelginest</option>
+                                                                        <option value="https://www.ville-colomiers.fr/" external="1">Colomiers</option>
+                                                                        <option value="https://www.cornebarrieu.fr/" external="1">Cornebarrieu</option>
+                                                                        <option value="https://ville-cugnaux.fr/" external="1">Cugnaux</option>
+                                                                        <option value="https://www.dremil-lafage.fr/" external="1">Drémil-Lafage</option>
+                                                                        <option value="https://www.fenouillet.fr/" external="1">Fenouillet</option>
+                                                                        <option value="https://www.flourens.fr/" external="1">Flourens</option>
+                                                                        <option value="https://www.ville-fonbeauzard.fr/" external="1">Fonbeauzard</option>
+                                                                        <option value="http://www.gagnac-sur-garonne.fr/" external="1">Gagnac-sur-Garonne</option>
+                                                                        <option value="https://www.gratentour.fr/" external="1">Gratentour</option>
+                                                                        <option value="https://www.mairie-launaguet.fr/" external="1">Launaguet</option>
+                                                                        <option value="https://www.ville-lespinasse.com" external="1">Lespinasse</option>
+                                                                        <option value="https://www.ville-lunion.fr/" external="1">L&#039;Union</option>
+                                                                        <option value="https://www.mondonville.fr/" external="1">Mondonville</option>
+                                                                        <option value="https://www.mairie-mondouzil.fr/" external="1">Mondouzil</option>
+                                                                        <option value="https://mairie-mons.com/" external="1">Mons</option>
+                                                                        <option value="https://www.mairie-montrabe.fr/" external="1">Montrabé</option>
+                                                                        <option value="https://ville-pibrac.fr/" external="1">Pibrac</option>
+                                                                        <option value="http://www.mairie-pin-balma.fr" external="1">Pin-Balma</option>
+                                                                        <option value="https://www.quint-fonsegrives.fr/" external="1">Quint-Fonsegrives</option>
+                                                                        <option value="https://saint-alban31.fr/" external="1">Saint-Alban</option>
+                                                                        <option value="https://www.mairie-saintjean.fr/" external="1">Saint-Jean</option>
+                                                                        <option value="https://saint-jory.fr/" external="1">Saint-Jory</option>
+                                                                        <option value="https://www.ville-saint-orens.fr/" external="1">Saint-Orens-de-Gameville</option>
+                                                                        <option value="http://www.mairie-seilh.fr/" external="1">Seilh</option>
+                                                                        <option value="https://www.mairie-tournefeuille.fr/" external="1">Tournefeuille</option>
+                                                                        <option value="https://www.villeneuve-tolosane.fr/" external="1">Villeneuve-Tolosane</option>
+                                                                                                                                                                                                                          </select>
+            </form>
+          </div>
+        </div>
+          </div>
+  </div>
+
+  </div>
+
+                                                                                                        <div data-block-plugin-id="block_agenda" class="block block-toulouse-core block-block-agenda">
+  
+    
+        <div class="block__agenda js-block-agenda has-bgd" style="--hp-block-bgd:#f9eee3;">
+    <div class="list__wrapper-bgd">
+      <div class="block__agenda__header">
+        <h2>Agenda</h2>
+
+        <ul class="btn-group view-filters-filter-btns">
+          <li><a aria-label="Aujourd’hui" class="btn" id="agenda_today" tabindex="0">
+            Aujourd’hui
+          </a></li>
+          <li><a aria-label="Cette semaine" class="btn" id="agenda_this_week" tabindex="0">
+            Cette semaine
+          </a></li>
+          <li><a aria-label="Ce week-end" class="btn" id="agenda_this_weekend" tabindex="0">
+            Ce week-end
+          </a></li>
+        </ul>
+      </div>
+
+              <div class="list swiper list--4-item">
+          <div class="swiper-pagination" lang="en"></div>
+          <div class="list__cards swiper-wrapper">
+                          <div class="list__card swiper-slide">
+                <div class="list__details">
+                  <h3 class="list__card__title">
+                    <a class="list__url" href="/agenda/festival-fredd-0">
+                      <span class="field field--name-title field--type-string field--label-hidden">Festival FReDD</span>
+                    </a>
+                  </h3>
+
+                                      <p class="list__category">Nature - Environnement</p>
+                                    
+                                      <p class="list__date-range">
+                                                                      <time class="start" datetime="2025-10-09T09:00:00">9</time>
+                                                                    <i class="icon-fleche" aria-label="au"></i>
+                                                                                            <time class="end" datetime="2025-10-19T18:00:00">19 octobre</time>
+                                          </p>
+                                    
+                  <div class="list__location-wrapper">
+                    <p class="list__location">
+                      <span class="list__ville">Toulouse</span>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="list__image-wrapper">
+                  
+                                                                                                                                                              <img class="list__image" src="/sites/toulouse-fr/files/styles/vignette_liste/public/imported-openagenda/50605552/2403e666a02341f5aaa71464b6ae1114.thumb.image.jpg.webp?itok=c56yd3Ua" alt="" loading="lazy" width="278" height="200"/>
+                                  </div>
+              </div>
+                          <div class="list__card swiper-slide">
+                <div class="list__details">
+                  <h3 class="list__card__title">
+                    <a class="list__url" href="/agenda/origines-controlees">
+                      <span class="field field--name-title field--type-string field--label-hidden">Origines Contrôlées</span>
+                    </a>
+                  </h3>
+
+                                      <p class="list__category">Culture</p>
+                                    
+                                      <p class="list__date-range">
+                                                                      <time class="start" datetime="2025-10-12T10:30:00">12</time>
+                                                                    <i class="icon-fleche" aria-label="au"></i>
+                                                                                            <time class="end" datetime="2025-10-25T23:00:00">25 octobre</time>
+                                          </p>
+                                    
+                  <div class="list__location-wrapper">
+                    <p class="list__location">
+                      <span class="list__ville">Toulouse</span>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="list__image-wrapper">
+                  
+                                                                                                                                                              <img class="list__image" src="/sites/toulouse-fr/files/styles/vignette_liste/public/imported-openagenda/70821826/ca37e1238cb74c1e824f7344e0bb8a93.thumb.image.jpg.webp?itok=wH2T3evq" alt="" loading="lazy" width="278" height="200"/>
+                                  </div>
+              </div>
+                          <div class="list__card swiper-slide">
+                <div class="list__details">
+                  <h3 class="list__card__title">
+                    <a class="list__url" href="/agenda/tfc-fc-metz">
+                      <span class="field field--name-title field--type-string field--label-hidden">TFC - FC Metz</span>
+                    </a>
+                  </h3>
+
+                                      <p class="list__category">Sports</p>
+                                    
+                                      <p class="list__date-range">
+                                                                      <time class="start" datetime="2025-10-19T17:15:00">dim. 19 octobre - 17h15</time>
+                                                                                                                  <time class="end" datetime="2025-10-19T19:15:00"></time>
+                                          </p>
+                                    
+                  <div class="list__location-wrapper">
+                    <p class="list__location">
+                      <span class="list__ville">Toulouse</span>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="list__image-wrapper">
+                  
+                                                                                                                                                              <img class="list__image" src="/sites/toulouse-fr/files/styles/vignette_liste/public/imported-openagenda/83493225/4dbeb820bcc841b58cfa4f40c6751d7b.thumb.image.jpg.webp?itok=PvQGHRO4" alt="" loading="lazy" width="278" height="200"/>
+                                  </div>
+              </div>
+                          <div class="list__card swiper-slide">
+                <div class="list__details">
+                  <h3 class="list__card__title">
+                    <a class="list__url" href="/agenda/pink-paradize-festival">
+                      <span class="field field--name-title field--type-string field--label-hidden">Pink Paradize Festival</span>
+                    </a>
+                  </h3>
+
+                                      <p class="list__category">Culture</p>
+                                    
+                                      <p class="list__date-range">
+                                                                      <time class="start" datetime="2025-10-02T16:30:00">2</time>
+                                                                    <i class="icon-fleche" aria-label="au"></i>
+                                                                                            <time class="end" datetime="2025-10-19T22:30:00">19 octobre</time>
+                                          </p>
+                                    
+                  <div class="list__location-wrapper">
+                    <p class="list__location">
+                      <span class="list__ville">Toulouse</span>
+                    </p>
+                  </div>
+                </div>
+
+                <div class="list__image-wrapper">
+                  
+                                                                                                                                                              <img class="list__image" src="/sites/toulouse-fr/files/styles/vignette_liste/public/imported-openagenda/50800970/1543615a29d947988b393d1da7868c29.thumb.image.jpg.webp?itok=8Ehs8D5a" alt="" loading="lazy" width="278" height="200"/>
+                                  </div>
+              </div>
+                      </div>
+        </div>
+      
+      <div class="block__agenda__footer">
+        <a class="btn btn-outline-primary has-arrow-icon" href="/agenda">Tous les événements<i class="icon-fleche" aria-hidden="true"></i></a>
+      </div>
+    </div>
+  </div>
+
+  </div>
+
+                                                                                                        <div data-block-plugin-id="block_newseletter" class="block block-toulouse-core block-block-newseletter">
+  
+    
+      <div class="block__newsletter-hp has-bgd" style="--hp-block-bgd:#ffffff;">
+  <div class="row">
+    <div class="col-md-8">
+      <div class="block__newsletter-hp__inner">
+        <h2>
+                      Newsletter : inscrivez-vous !         </h2>
+        <div class="block__newsletter-hp__text">
+                      <p>Tout ce qu'il faut savoir pour rester informé à Toulouse et dans les communes de la Métropole.</p>
+
+                  </div>
+        <div class="block__newsletter-hp__btn">
+          <button data-bs-toggle="modal" data-bs-target="#bt-sarbacane-modal" class="btn" type="button" id="inscris-btn-newsletter">Je m'inscris</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+                                                                                                        <div data-block-plugin-id="block_kiosk" class="block block-toulouse-core block-block-kiosk">
+  
+    
+      <div class="block__kiosk">
+  <div class="list__wrapper-bgd">
+    <h2>Kiosque</h2>
+
+    <div class="list swiper">
+      <button role="button" id="kioskPrev" class="swiper-button-prev swiper-button" aria-label="Précédent" lang="en"></button>
+      <button role="button" id="kioskNext" class="swiper-button-next swiper-button" aria-label="Suivant" lang="en"></button>
+      <div class="kioskSwiper">
+        <div class="list__cards swiper-wrapper">
+                      <div class="list__card swiper-slide">
+              <article class="kiosk__list">
+  <div class="kiosk__details">
+    <h3 class="kiosk__title">
+      <a class="kiosk__url" href="/kiosque/semaines-dinformation-sur-la-sante-mentale-2025">
+        Semaines d&#039;information sur la santé mentale
+      </a>
+    </h3>
+    <p class="kiosk__date">3-20 octobre 2025</p>
+    <p class="kiosk__link --consult">
+      <i class="icon-oeil" aria-hidden="true"></i>
+      <span>Consulter</span>
+    </p>
+
+                            
+      <p class="kiosk__link">
+        <i class="icon-telecharger" aria-hidden="true"></i>
+        <a download="programme_sism_2025.pdf" target="_blank" href="https://metropole.toulouse.fr/sites/toulouse-fr/files/2025-09/programme_sism_2025.pdf">Télécharger<span class="kiosk__link__span">(PDF - 7,77 Mo)</span></a>
+      </p>
+    
+  </div>
+  <div class="kiosk__image__wrapper">
+                                                                                  
+                      <img class="kiosk__image img-fluid" src="/sites/toulouse-fr/files/styles/kiosque_liste_hp_220_x_304_/public/2025-09/programme_sism_2025_une.jpg.webp" loading="lazy" alt="" width="220" height="304">
+  </div>
+</article>
+
+            </div>
+                      <div class="list__card swiper-slide">
+              <article class="kiosk__list">
+  <div class="kiosk__details">
+    <h3 class="kiosk__title">
+      <a class="kiosk__url" href="/kiosque/tim-32-automne-2025">
+         TIM
+      </a>
+    </h3>
+    <p class="kiosk__date">Automne 2025</p>
+    <p class="kiosk__link --consult">
+      <i class="icon-oeil" aria-hidden="true"></i>
+      <span>Consulter</span>
+    </p>
+
+                            
+      <p class="kiosk__link">
+        <i class="icon-telecharger" aria-hidden="true"></i>
+        <a download="tim32_001-028-brpages.pdf" target="_blank" href="https://metropole.toulouse.fr/sites/toulouse-fr/files/2025-09/tim32_001-028-brpages.pdf">Télécharger<span class="kiosk__link__span">(PDF - 4,78 Mo)</span></a>
+      </p>
+    
+  </div>
+  <div class="kiosk__image__wrapper">
+                                                                                  
+                      <img class="kiosk__image img-fluid" src="/sites/toulouse-fr/files/styles/kiosque_liste_hp_220_x_304_/public/2025-09/tim32_001-028-brpages-1.jpg.webp" loading="lazy" alt="" width="220" height="304">
+  </div>
+</article>
+
+            </div>
+                      <div class="list__card swiper-slide">
+              <article class="kiosk__list">
+  <div class="kiosk__details">
+    <h3 class="kiosk__title">
+      <a class="kiosk__url" href="/kiosque/toulouse-118-octobre-2025">
+        A Toulouse
+      </a>
+    </h3>
+    <p class="kiosk__date">Oct. 25</p>
+    <p class="kiosk__link --consult">
+      <i class="icon-oeil" aria-hidden="true"></i>
+      <span>Consulter</span>
+    </p>
+
+                            
+      <p class="kiosk__link">
+        <i class="icon-telecharger" aria-hidden="true"></i>
+        <a download="at118_oct25.pdf" target="_blank" href="https://metropole.toulouse.fr/sites/toulouse-fr/files/2025-09/at118_oct25.pdf">Télécharger<span class="kiosk__link__span">(PDF - 3,96 Mo)</span></a>
+      </p>
+    
+  </div>
+  <div class="kiosk__image__wrapper">
+                                                                                  
+                      <img class="kiosk__image img-fluid" src="/sites/toulouse-fr/files/styles/kiosque_liste_hp_220_x_304_/public/2025-09/at118_oct25_une.jpg.webp" loading="lazy" alt="" width="220" height="304">
+  </div>
+</article>
+
+            </div>
+                      <div class="list__card swiper-slide">
+              <article class="kiosk__list">
+  <div class="kiosk__details">
+    <h3 class="kiosk__title">
+      <a class="kiosk__url" href="/kiosque/villes-pour-tous">
+        Villes pour Tous
+      </a>
+    </h3>
+    <p class="kiosk__date">Programme d&#039;activités 2025/2026</p>
+    <p class="kiosk__link --consult">
+      <i class="icon-oeil" aria-hidden="true"></i>
+      <span>Consulter</span>
+    </p>
+
+                            
+      <p class="kiosk__link">
+        <i class="icon-telecharger" aria-hidden="true"></i>
+        <a download="programme_villes_pour_tous_oct_25-mars_2026_def_hd_site_web_version_2509.pdf" target="_blank" href="https://metropole.toulouse.fr/sites/toulouse-fr/files/2025-09/programme_villes_pour_tous_oct_25-mars_2026_def_hd_site_web_version_2509.pdf">Télécharger<span class="kiosk__link__span">(PDF - 4,05 Mo)</span></a>
+      </p>
+    
+  </div>
+  <div class="kiosk__image__wrapper">
+                                                                                  
+                      <img class="kiosk__image img-fluid" src="/sites/toulouse-fr/files/styles/kiosque_liste_hp_220_x_304_/public/2025-09/couv_vpt_2025-2026.png.webp" loading="lazy" alt="" width="220" height="304">
+  </div>
+</article>
+
+            </div>
+                      <div class="list__card swiper-slide">
+              <article class="kiosk__list">
+  <div class="kiosk__details">
+    <h3 class="kiosk__title">
+      <a class="kiosk__url" href="/kiosque/les-activites-de-mon-quartier">
+        Les activités de mon quartier
+      </a>
+    </h3>
+    <p class="kiosk__date">Saison 2025-2026</p>
+    <p class="kiosk__link --consult">
+      <i class="icon-oeil" aria-hidden="true"></i>
+      <span>Consulter</span>
+    </p>
+
+                            
+      <p class="kiosk__link">
+        <i class="icon-telecharger" aria-hidden="true"></i>
+        <a download="les_activites_de_mon_quartier_2025-2026_sept25.pdf" target="_blank" href="https://metropole.toulouse.fr/sites/toulouse-fr/files/2025-09/les_activites_de_mon_quartier_2025-2026_sept25.pdf">Télécharger<span class="kiosk__link__span">(PDF - 2,66 Mo)</span></a>
+      </p>
+    
+  </div>
+  <div class="kiosk__image__wrapper">
+                                                                                  
+                      <img class="kiosk__image img-fluid" src="/sites/toulouse-fr/files/styles/kiosque_liste_hp_220_x_304_/public/2025-09/couv-kioske_563x800v2_1.jpg.webp" loading="lazy" alt="" width="220" height="304">
+  </div>
+</article>
+
+            </div>
+                      <div class="list__card swiper-slide">
+              <article class="kiosk__list">
+  <div class="kiosk__details">
+    <h3 class="kiosk__title">
+      <a class="kiosk__url" href="/kiosque/toulouse-sante-la-lettre-260-sept-oct-2025">
+        Toulouse Santé - La Lettre
+      </a>
+    </h3>
+    <p class="kiosk__date">Sept - Oct 2025</p>
+    <p class="kiosk__link --consult">
+      <i class="icon-oeil" aria-hidden="true"></i>
+      <span>Consulter</span>
+    </p>
+
+                            
+      <p class="kiosk__link">
+        <i class="icon-telecharger" aria-hidden="true"></i>
+        <a download="tsll26septoct.pdf" target="_blank" href="https://metropole.toulouse.fr/sites/toulouse-fr/files/2025-09/tsll26septoct.pdf">Télécharger<span class="kiosk__link__span">(PDF - 4,19 Mo)</span></a>
+      </p>
+    
+  </div>
+  <div class="kiosk__image__wrapper">
+                                                                                  
+                      <img class="kiosk__image img-fluid" src="/sites/toulouse-fr/files/styles/kiosque_liste_hp_220_x_304_/public/2025-09/tsll260_une.jpg.webp" loading="lazy" alt="" width="220" height="304">
+  </div>
+</article>
+
+            </div>
+                  </div>
+      </div>
+    </div>
+
+    <div class="block__kiosk__footer">
+      <a class="btn btn-outline-primary has-arrow-icon" href="/kiosque">Toutes les publications<i class="icon-fleche" aria-hidden="true"></i></a>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+                                                                                                        <div data-block-plugin-id="block_other_sites" class="block block-toulouse-core block-block-other-sites">
+  
+    
+        <div class="block__autre-site">
+    <div class="block__autre-site__header">
+      <h2>Nos autres sites</h2>
+    </div>
+
+    <div class="list site-swiper">
+                  <div class="list__sites">
+                              <div class="list__sites__card">
+              <a href="https://observatoire-climat.toulouse-metropole.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2025-06/logosgalaxiesite-observatoire_climat_1.png.webp?itok=FJKEVD-n" alt="Observatoire du Climat" loading="eager" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://monentreprisepasapas.toulouse-metropole.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-entreprisepap.png.webp?itok=VB_lNL2i" alt="Mon entreprise pas à pas" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://inondations-agglo-toulousaine.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2023-01/papi-nb-hzl_0.png.webp?itok=c3pNJYYy" alt="PAPI - Prévention des risques inondations de l'Agglomération toulousaine" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://emploi.toulouse-metropole.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-12/logosgalaxiesite-emploitm_1.png.webp?itok=zoXHvaDC" alt="Emploi Toulouse Métropole" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://data.toulouse-metropole.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-data.png.webp?itok=vaet4KrV" alt="ToulouseMetropole.Data (Données publiques)" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.b612-toulouse.com/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-b612.png.webp?itok=W1GDcXS3" alt="B612 Centre d'innovation" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="/mon-environnement/logement-et-urbanisme/les-projets/campus-sante-du-futur">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-oncopole.png.webp?itok=n3LGCjYL" alt="Campus Santé du futur - Oncopole Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://onct.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-onct.png.webp?itok=3QMxQL9Y" alt="ONCT - Orchestre National Capitole Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.theatreducapitole.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-opera.png.webp?itok=V3X9LgmD" alt="Opéra National du Capitole" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.museum.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-museum.png.webp?itok=_VDrGSLw" alt="Muséum Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.quaidessavoirs.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/quai_nb.png.webp?itok=hVniW_h-" alt="Quai des Savoirs" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.jacobins.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/jacobins_nb.png.webp?itok=kL9L3agx" alt="Couvent des Jacobins - Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://augustins.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2025-08/logo-musee-des-augustins_1.png.webp?itok=CFr9Ham6" alt="Musée des Augustins - Musée des Beaux-Arts de Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://museepauldupuy.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-pdupuy_1.png.webp?itok=WuULr7Ny" alt="Musée des Arts Précieux Paul Dupuy" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://saintraymond.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/straymond_nb.png.webp?itok=D09BS4o5" alt="Musée Saint-Raymond - Archéologie Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://chateaudeau.toulouse.fr">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2025-08/lechateaudeauv2_1.png.webp?itok=1EvP_y4N" alt="Galerie Le château d’eau" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://monuments.toulouse.fr">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2024-06/logo_monuments-nb.png.webp?itok=A1rT_-e-" alt="Monuments de Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://julesjulien.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-jjulien_1.png.webp?itok=JZINdtYo" alt="Théâtre Jules Julien" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.archives.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-archives_1.png.webp?itok=2zvgApET" alt="Archives Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.urban-hist.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-urbanhist.png.webp?itok=tZwTFJcG" alt="UrbanHist" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.bibliotheque.toulouse.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2024-12/bibliotheques_1.png.webp?itok=OIxHBMoz" alt="Bibliothèque de Toulouse" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://mabm.toulouse-metropole.fr/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2022-09/logosgalaxiesite-mabm.png.webp?itok=-yfZW06d" alt="MaBM Bibliothèque Métropolitaine Numérique" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://toulouse-tourisme.com/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2023-01/logosgalaxiesite-office.png.webp?itok=UHA93kXU" alt="Toulouse Tourisme" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                                        <div class="list__sites__card">
+              <a href="https://www.toulouseatout.com/">
+                                                                                                                                  <img class="list__image" src="/sites/toulouse-fr/files/styles/nos_autres_sites/public/2023-01/logosgalaxiesite-toulouset_1.png.webp?itok=K8V8pcDF" alt="Toulouse - Attractivité" loading="lazy" width="185" height="70" rel="image/png"/>
+              </a>
+            </div>
+                        </div>
+    </div>
+  </div>
+
+  </div>
+
+                                                                </div>
+    </div>
+  </div>
+
+</main>
+
+  <footer role="contentinfo" class="footer   " id="page-footer">
+    <div class="footer-wrapper container">
+            <div class="footer-left footer__contacts">
+
+        <div class="footer__contact footer__contact--metro">
+                              <img class="footer__contact__image d-none d-lg-block" src="https://metropole.toulouse.fr/sites/toulouse-fr/files/2022-05/logo_metropole_1.svg" loading="lazy" alt="Toulouse métropole" width="220" height="60"/>
+                              <img class="footer__contact__image d-block d-lg-none" src="https://metropole.toulouse.fr/sites/toulouse-fr/files/2022-05/logo_metropole_1.svg" loading="lazy" alt="Toulouse métropole" width="128" height="35"/>
+          
+          <div class="footer__contact__text">
+                          <address>
+                <div class="d-none d-lg-block">
+                  <p>6 rue René Leduc</p>
+<p>BP 35821</p>
+<p>31505 Toulouse Cedex 5</p>
+                </div>
+                                  <a href="tel:0581917200">05 81 91 72 00</a>              </address>
+                      </div>
+        </div>
+
+        <div class="footer__contact footer__contact--mairie">
+                                <img class="footer__contact__image d-none d-lg-block" src="https://metropole.toulouse.fr/sites/toulouse-fr/files/2022-05/logo_ville_1.svg" loading="lazy" alt="Mairie de Toulouse" width="142" height="110"/>
+                                <img class="footer__contact__image d-block d-lg-none" src="https://metropole.toulouse.fr/sites/toulouse-fr/files/2022-05/logo_ville_1.svg" loading="lazy" alt="Mairie de Toulouse" width="89" height="69"/>
+                    <div class="footer__contact__text">
+                          <address>
+                <div class="d-none d-lg-block">
+                  <p>Hôtel de Ville</p>
+<p>Place du Capitole</p>
+<p>31040 Toulouse Cedex 6</p>
+                </div>
+                                  <a href="tel:0561222922">05 61 22 29 22</a>              </address>
+                      </div>
+        </div>
+
+        <div class="footer__contactType">
+          <img class="footer__contactType__pictos" src="/themes/custom/toulouse/images/footer_left_contact_3pictos.svg" alt="" loading="lazy" width="216" height="55"/>
+                      <div class="footer__contactType__info"><p><a href="https://metropole.toulouse.fr/mon-quotidien/sante-et-social/handicap-et-accessibilite/contacter-service-lsf-ttrp-lpc" data-entity-type="node" data-entity-uuid="0db0a999-ea4a-465e-bf4f-4db75a99e4d0" data-entity-substitution="canonical" title="Sourds et malentendants : contacter un service">Contacter les services en Langue des Signes Française, de Transcription en Temps Réel de la Parole ou de Langue Française Parlée Complétée.</a></p></div>
+                  </div>
+
+      </div>
+
+            <div class="footer-right footer__right">
+                  <h2 class="footer__right__title">Suivez-nous sur les réseaux sociaux</h2>
+                          <ul class="mediaIcons">
+                                        <li class="mediaIcon">
+                <a href="https://facebook.com/Toulouse" class="mediaIcon__link"><i class="icon-facebook" aria-hidden="true"></i><span class="visually-hidden">Facebook</span></a>
+              </li>
+                                        <li class="mediaIcon">
+                <a href="https://www.instagram.com/toulousefr/?hl=fr" class="mediaIcon__link"><i class="icon-instagram" aria-hidden="true"></i><span class="visually-hidden">Instagram</span></a>
+              </li>
+                                        <li class="mediaIcon">
+                <a href="https://www.tiktok.com/@toulousefr" class="mediaIcon__link"><i class="icon-tiktok" aria-hidden="true"></i><span class="visually-hidden">TikTok</span></a>
+              </li>
+                                        <li class="mediaIcon">
+                <a href="https://twitter.com/Toulouse" class="mediaIcon__link"><i class="icon-twitter" aria-hidden="true"></i><span class="visually-hidden">X</span></a>
+              </li>
+                                        <li class="mediaIcon">
+                <a href="https://youtube.com/@Toulousefr " class="mediaIcon__link"><i class="icon-youtube" aria-hidden="true"></i><span class="visually-hidden">YouTube</span></a>
+              </li>
+                      </ul>
+        
+        
+                <div class="newsletterBtns">
+          <button data-bs-toggle="modal" data-bs-target="#bt-sarbacane-modal" class="btn btn-outline-primary" type="button" id="inscris-btn">S'inscrire à la newsletter</button>
+        </div>
+
+                  <ul class="contactEspaceBtns">
+                          <li>
+                <a href="/nous-contacter" class="btn btn-outline-primary">                  <i class="icon-enveloppe" aria-hidden="true"></i> Nous contacter</a>
+              </li>
+                          <li>
+                <a href="/espace-presse" class="btn btn-outline-primary">                  <i class="icon-crayon" aria-hidden="true"></i> Espace presse</a>
+              </li>
+                      </ul>
+              </div>
+
+                    <div class="footer-bottom flex-grow-1">
+          <div aria-labelledby="block-pieddepage-menu" id="block-pieddepage" data-block-plugin-id="menu_block:footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-pieddepage-menu">Pied de page</h2>
+  
+
+        
+        <ul data-block="footer" class="nav navbar-nav">
+                  <li class="menu-icon menu-icon-21 nav-item">
+        <a href="/credits-et-mentions-legales" class="nav-link" data-drupal-link-system-path="node/1231">Crédits et mentions légales</a>
+              </li>
+                <li class="menu-icon menu-icon-22 nav-item">
+        <a href="/accessibilite" class="nav-link" data-drupal-link-system-path="node/26">Accessibilité : partiellement conforme</a>
+              </li>
+                <li class="menu-icon menu-icon-23 nav-item">
+        <a href="/sitemap" class="nav-link" data-drupal-link-system-path="sitemap">Plan du site</a>
+              </li>
+                <li class="menu-icon menu-icon-24 nav-item">
+        <a href="/donnees-personnelles" class="nav-link" data-drupal-link-system-path="node/27">Données personnelles</a>
+              </li>
+                <li class="menu-icon menu-icon-25 nav-item">
+        <button class="nav-link js-btn-cookie" type="button">Gestion des cookies</button>
+              </li>
+      </ul>
+    
+
+
+  </div>
+
+        </div>
+          </div>
+  </footer>
+
+<!-- Search form Modal -->
+<div class="modal search-modal" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fermer" title="Fermer"></button>
+
+      <form method="GET" action="/recherche" class="search-form">
+        <div class="search-form-cont">
+          <h2 class="title" id="searchModalLabel">Comment vous aider ?</h2>
+
+          <div class="input-group">
+            
+  <input placeholder="Saisir un mot-clé" title="Saisir un mot-clé ou une &quot;expression exacte&quot;" data-drupal-selector="edit-key" data-search-api-autocomplete-search="moteur_recherche" class="form-autocomplete form-text form-control" data-autocomplete-path="/search_api_autocomplete/moteur_recherche?display=page_moteur_recherche&amp;&amp;filter=key" data-msg-maxlength="Ce champ a un nombre maximum de 128 caractères." type="text" id="edit-key" name="key" value="" maxlength="128" role="combobox" aria-autocomplete="list" title="Saisir un mot-clé" />
+
+
+
+                        <button class="btn" type="submit" id="button-search" aria-label="Rechercher">
+              <i class="icon-loupe" aria-hidden="true"></i></button>
+          </div>
+
+          <a href="/recherche" class="link">Accéder à la recherche détaillée</a>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>
+
+<!-- Footer email sarbacane Modal -->
+<div class="modal fade subscribe-modal sarbacane-modal" id="bt-sarbacane-modal" tabindex="-1" aria-labelledby="subscribeModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h2 class="modal-title" id="subscribeModalLabel">Formulaire d'inscription</h2>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fermer" title="Fermer"></button>
+      </div>
+
+      <div class="modal-body">
+        <esi:remove>
+  <div id="formContainer_TMcD9MXCyXvNJPh" class="sendethics-newsletter"><img class="loader" src="/themes/custom/toulouse/images/loader.gif" alt="Chargement..." width="200px" height="200px"/></div>
+  </esi:remove>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- PWA info modal pour les navigateurs sans A2HS bouton native -->
+<div class="modal PWA-install-info-modal" id="js_PWA-info" tabindex="-1" aria-label="Progressive web app" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-body">
+        <div class="title-wrapper">
+          <h5 class="title">Installer Toulouse Mairie-Métropole</h5>
+          <span class="sub-title">Installer cette application sur votre écran d’accueil pour y avoir facilement accès.</span>
+        </div>
+      </div>
+
+      <footer class="modal-footer d-none" id="js-modal-footer--ios">
+        <span>Appuyez sur</span>
+        <span class="PWA-install-info-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="18" height="24" fill="none"><path stroke="#0E7EFF" stroke-miterlimit="10" d="M12.368 4.385 9 1m0 0L5.632 4.385M9 1v13.539M5.632 6.923H1V23h16V6.923h-4.632"/></svg>
+        </span>
+        <span>puis “Ajouter à l’écran d’accueil”</span>
+      </footer>
+
+      <footer class="modal-footer d-none" id="js-modal-footer--android">
+        <span>Appuyez sur</span>
+        <span class="PWA-install-info-icon">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="none"><path fill="#212121" d="M0 4.615h11v2H0zm0 4.5h11v2H0zm0 4.5h11v2H0z"/><circle cx="10.769" cy="5" r="5" fill="#F54C00"/><path fill="#fff" d="M12.656 2.523V7.5h-.663L9.487 3.662V7.5h-.66V2.523h.66l2.516 3.85v-3.85h.653Z"/></svg>
+        </span>
+        <span>puis “Ajouter la page à” et “Écran d’accueil”</span>
+      </footer>
+
+
+    </div>
+  </div>
+</div>
+
+
+<!-- Content Pop-up -->
+<!-- End Content Pop-up -->
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJyNkeFuwyAMhF8IijRpz4MMcVuCEzNs2mVPP9RUTRtt035hf3cCcReYVbRCeXcBBE142h-jHcUSKIo-6yfiAGRFF0rz6VmZUAROKCZSwlklDegvQGkATTz78aNhXVy8HNbpEDMOSbn-15-O-F_rXet-ruhmrlMHX2iQCcTfYGTO6ZU0UZ58FPmBjh1-av9ydkNtBehwXw2HY5PYH_M4QSI34BEaqSlXcIL1kiJeuWasRhBqPHsoyUNTjjwVQkX3C-9-wqhv7n4aWURxWhtTbsRN0PXE5wG2PRDHbCFq27OcWPIesp6xWkm95k3adfzglETtGsgGeUbba4nb1WtwofJV8AylLDvlZbvl_Zc-yjfQZw7X","theme":"toulouse","theme_token":null},"ajaxTrustedUrl":[],"clientside_validation_jquery":{"validate_all_ajax_forms":2,"force_validate_on_blur":false,"messages":{"required":"Ce champ est requis.","remote":"Please fix this field.","email":"Veuillez saisir une adresse de courriel valide.","url":"Please enter a valid URL.","date":"Please enter a valid date.","dateISO":"Please enter a valid date (ISO).","number":"Please enter a valid number.","digits":"Please enter only digits.","equalTo":"Please enter the same value again.","maxlength":"Please enter no more than {0} characters.","minlength":"Please enter at least {0} characters.","rangelength":"Please enter a value between {0} and {1} characters long.","range":"Please enter a value between {0} and {1}.","max":"Please enter a value less than or equal to {0}.","min":"Please enter a value greater than or equal to {0}.","step":"Please enter a multiple of {0}."}},"pwa":{"cache_version":"2.0.0-rc2-v4","installPath":"\/OneSignalSDKWorker.js","scope":null},"data":{"extlink":{"extTarget":true,"extTargetAppendNewWindowLabel":"(s\u0027ouvre dans une nouvelle fen\u00eatre)","extTargetNoOverride":true,"extNofollow":false,"extNoreferrer":true,"extFollowNoOverride":false,"extClass":"0","extLabel":"(le lien est externe)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssInclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","extHideIcons":false,"mailtoClass":"0","telClass":"0","mailtoLabel":"(lien envoie un email)","telLabel":"","extUseFontAwesome":false,"extIconPlacement":"before","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","extAdditionalLinkClasses":"","extAdditionalMailtoClasses":"","extAdditionalTelClasses":"","extFaTelClasses":"fa fa-phone","whitelistedDomains":[],"extExcludeNoreferrer":""}},"search_api_autocomplete":{"moteur_recherche":{"auto_submit":true,"min_length":3}},"agenda_link":"\/agenda","user_role":"","onesignal_app_id":"c22c276a-9708-4b79-bb28-9a5c9325fb4f","domain_host":"matomo.toulouse-metropole.fr","matomo_tag_manager_id":"HRx6P55B","csp":{"nonce":"ETQ-zCQmR8qW0yBErCsi3w"},"ckeditor5Premium":{"isMediaInstalled":true},"user":{"uid":0,"permissionsHash":"47930e134e7def84b99103f8d9061fd74f7f28d07d8f6b65ead7a803ac7bc83f"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/toulouse-fr/files/languages/fr_ZUK0CZJoc4ZUcQey61gd3V67SXK5Zbp7p_8HGGJ3Ujw.js?t42won"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.4.5"></script>
+<script src="/core/misc/drupal.js?v=10.4.5"></script>
+<script src="/core/misc/drupal.init.js?v=10.4.5"></script>
+<script src="/core/misc/debounce.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/controlgroup-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-reset-mixin-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/mouse-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/checkboxradio-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/draggable-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/resizable-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/button-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/dialog-min.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/core/misc/autocomplete.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/tua-body-scroll-lock/tua-bsl.umd.min.js?v=10.4.5"></script>
+<script src="/themes/contrib/bootstrap5/dist/bootstrap/5.3.2/dist/js/bootstrap.bundle.min.js?v=5.3.2"></script>
+<script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.17.0/dist/jquery.validate.min.js"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.ckeditor.js?t42won"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.ife.js?t42won"></script>
+<script src="/modules/contrib/clientside_validation/clientside_validation_jquery/js/cv.jquery.validate.js?t42won"></script>
+<script src="/profiles/eolas_standard/modules/eolas_core/js/libraries/js.cookie-2.2.0.min.js?t42won"></script>
+<script src="/core/misc/progress.js?v=10.4.5"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/announce.js?v=10.4.5"></script>
+<script src="/core/misc/message.js?v=10.4.5"></script>
+<script src="/core/misc/ajax.js?v=10.4.5"></script>
+<script src="/profiles/eolas_standard/modules/eolas_core/js/misc.js?v=1.x"></script>
+<script src="/profiles/eolas_standard/modules/eolas_core/js/shariff-print.js?v=1.x"></script>
+<script src="/profiles/eolas_standard/modules/eolas_core/js/media_entity_browser.view.js?v=1.x"></script>
+<script src="/modules/contrib/extlink/js/extlink.js?v=10.4.5"></script>
+<script src="/modules/contrib/obfuscate_email/js/obfuscate_email.js?t42won"></script>
+<script src="/modules/contrib/pwa/js/serviceworker-load.js?v=10.4.5"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=10.4.5"></script>
+<script src="/core/misc/position.js?v=10.4.5"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?t42won"></script>
+<script src="/libraries/select2/dist/js/select2.min.js?t42won"></script>
+<script src="/core/assets/vendor/sortable/Sortable.min.js?v=1.15.6"></script>
+<script src="/modules/contrib/select2/js/select2.js?t42won"></script>
+<script src="/themes/custom/toulouse/js/components/agenda.js?x=0&amp;1760392788"></script>
+<script src="/themes/custom/toulouse/js/components/block-actu.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/components/block-kiosk.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/libraries/slick.js?v=10.4.5"></script>
+<script src="/core/misc/jquery.form.js?v=4.3.0"></script>
+<script src="/themes/custom/toulouse/js/assets/popper.min.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/libraries/jquery.mmenu.all.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/site.js?1760392788"></script>
+<script src="/themes/custom/toulouse/js/components/pwa.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/libraries/tarteaucitron/tarteaucitron.services.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/components/list-custom.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/libraries/datepicker-min.js?1760392788"></script>
+<script src="/themes/custom/toulouse/js/libraries/datepicker-fr.js?1760392788"></script>
+<script src="/themes/custom/toulouse/js/libraries/swiper.min.js?v=10.4.5"></script>
+<script src="/themes/custom/toulouse/js/components/one-click.js?v=10.4.5"></script>
+<script src="/sites/toulouse-fr/modules/custom/toulouse_core/js/browsehappy.js?1760392788"></script>
+<script src="/core/misc/displace.js?v=10.4.5"></script>
+<script src="/core/misc/dialog/dialog-deprecation.js?v=10.4.5"></script>
+<script src="/core/misc/dialog/dialog.js?v=10.4.5"></script>
+<script src="/core/misc/dialog/dialog.position.js?v=10.4.5"></script>
+<script src="/core/misc/dialog/dialog.jquery-ui.js?v=10.4.5"></script>
+<script src="/core/modules/ckeditor5/js/ckeditor5.dialog.fix.js?v=10.4.5"></script>
+<script src="/core/misc/dialog/dialog.ajax.js?v=10.4.5"></script>
+<script src="/sites/toulouse-fr/modules/custom/toulouse_core/js/jquery.cookie.min.js?v=10.4.5"></script>
+<script src="/sites/toulouse-fr/modules/custom/toulouse_core/js/toulouse_core.js?v=10&amp;1760392788"></script>
+
+    <span id="menu_hidden" class="visually-hidden">0</span>
+    <span id="menu_hidden_cp" class="visually-hidden">0</span>
+
+    <a href="#main-content" id="js_back-to-top" title="Revenir en haut de la page" class="smoothHide backToTop icon-fleche d-none"></a>
+
+          <div class="bandeau-cookies visually-hidden">
+        <div class="bandeau-cookies__header">
+          <div class="bandeau-cookies__titre">
+            <h2>
+              <span class="h3 mb-3">Comment ça, des cookies ?</span><br>
+              <span class="h2">Ici, on dit chocolatine !</span>
+            </h2>
+          </div>
+                      <div class="bandeau-cookies__image">
+              <img src="https://metropole.toulouse.fr/sites/toulouse-fr/files/2024-11/chocolatine.svg" alt=""
+                   width=""
+                   height="" loading="lazy">
+            </div>
+                  </div>
+        <div class="bandeau-cookies__accroche">
+          <p>Ce site utilise des <em>cookies </em>afin de mesurer la fréquentation du site,&nbsp;de vous proposer des contenus animés et interactifs et de partager du contenu sur les réseaux sociaux.</p>
+
+        </div>
+        <div class="bandeau-cookies__boutons">
+          <div class="row">
+            <div class="col-6 col-md-4 d-flex">
+              <button aria-label="Tout accepter" id="bc_accept"
+                      class="btn btn-outline-primary justify-content-center">Tout accepter</button>
+            </div>
+            <div class="col-6 col-md-4 d-flex">
+              <button aria-label="Tout refuser" id="bc_reject"
+                      class="btn btn-outline-primary justify-content-center">Tout refuser</button>
+            </div>
+            <div class="col-12 col-md-4 d-flex mt-3 mt-md-0">
+              <button aria-label="Personnaliser" id="bc_personilize"
+                      class="btn btn-outline-primary justify-content-center">Personnaliser</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      </body>
+</html>

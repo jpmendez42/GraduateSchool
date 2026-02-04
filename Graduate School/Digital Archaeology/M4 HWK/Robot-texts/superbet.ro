@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: */bilet/*
+Disallow: */offer-event/*
+Disallow: */pariu-impartasit/*
+Disallow: */lp/*
+Disallow: /*?*
+Disallow: */2026-*
+Disallow: */2025-*
+Disallow: */2024-*
+Disallow: */2023-*
+Disallow: */luni$
+Disallow: */marti$
+Disallow: */miercuri$
+Disallow: */joi$
+Disallow: */vineri$
+Disallow: */sambata$
+Disallow: */duminica$
+
+Sitemap: https://superbet.ro/sitemap.xml

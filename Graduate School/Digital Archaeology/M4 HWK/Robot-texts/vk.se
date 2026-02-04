@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /wp-*
+Disallow: /?s*
+Disallow: /soka
+Disallow: /sok
+Allow: *.css
+Allow: *.js
+
+User-agent: CCBot
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: anthropic-ai
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://www.vk.se/sitemap/native.xml
+Sitemap: https://www.vk.se/google-news-sitemap.xml
+Sitemap: https://www.vk.se/sitemap/2011.xml
+Sitemap: https://www.vk.se/sitemap/2012.xml
+Sitemap: https://www.vk.se/sitemap/2013.xml
+Sitemap: https://www.vk.se/sitemap/2014.xml
+Sitemap: https://www.vk.se/sitemap/2015.xml
+Sitemap: https://www.vk.se/sitemap/2016.xml
+Sitemap: https://www.vk.se/sitemap/2017.xml
+Sitemap: https://www.vk.se/sitemap/2018.xml
+Sitemap: https://www.vk.se/sitemap/2019.xml
+Sitemap: https://www.vk.se/sitemap/2020.xml
+Sitemap: https://www.vk.se/sitemap/2021.xml
+Sitemap: https://www.vk.se/sitemap/2022.xml
+Sitemap: https://www.vk.se/sitemap/2023.xml
+Sitemap: https://www.vk.se/sitemap/2024.xml
+Sitemap: https://www.vk.se/sitemap/2025.xml

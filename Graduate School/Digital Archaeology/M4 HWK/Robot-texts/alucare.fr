@@ -1,0 +1,98 @@
+# Bloque les bots indésirables
+User-agent: 8LEGS
+User-agent: AspiegelBot
+User-agent: BLEXBot
+User-agent: Barkrowler
+User-agent: MauiBot
+User-agent: Nimbostratus-Bot
+User-agent: PetalBot
+User-agent: SeznamBot
+User-agent: Sogou
+User-agent: serpstatbot
+User-agent: trendiction
+User-agent: CCBot
+User-agent: MegaIndex
+User-agent: Exabot
+User-agent: Wget
+User-agent: Python-urllib
+User-agent: Baiduspider
+User-agent: HTTrack
+Disallow: /
+
+# Autorise Googlebot sans limite de crawl
+User-agent: Googlebot
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /wp-register.php
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /*xmlrpc.php
+Disallow: /wp-content/
+Allow: /wp-content/uploads/
+
+# Autorise d'autres moteurs de recherche avec un crawl limité
+User-agent: Bingbot
+User-agent: YandexBot
+User-agent: DuckDuckBot
+User-agent: Yahoo! Slurp
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /wp-register.php
+Disallow: /wp-json/
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /*xmlrpc.php
+Disallow: /wp-content/
+Allow: /wp-content/uploads/
+Crawl-delay: 10
+
+# Crawl très limité pour les outils SEO
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: DotBot
+User-agent: MJ12bot
+User-agent: DataForSeoBot
+User-agent: seoscanners.net
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /wp-register.php
+Disallow: /wp-json/
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /*xmlrpc.php
+Disallow: /wp-content/
+Allow: /wp-content/uploads/
+Crawl-delay: 180
+
+# Blocage des zones sensibles de WordPress pour tous les autres cas de figures
+User-agent: *
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /wp-register.php
+Disallow: /wp-json/
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /*xmlrpc.php
+Disallow: /wp-content/
+Allow: /wp-content/uploads/
+Crawl-delay: 60
+
+# Sitemaps
+Sitemap: https://www.alucare.fr/sitemap_index.xml
+Sitemap: https://www.alucare.fr/news-sitemap.xml

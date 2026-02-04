@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /typo3/
+Allow: /
+
+Sitemap: https://www.polimi.it/sitemap.xml

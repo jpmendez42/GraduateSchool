@@ -1,0 +1,31 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: /login
+Disallow: /register
+Disallow: /password-reset
+Disallow: /my-orders
+Disallow: /seznam-zelja
+Disallow: /lista-dei-desideri
+Disallow: /wunschliste
+Disallow: /seznam-prani
+Disallow: /zoznam-priani
+Disallow: /lista-zyczen
+Disallow: /lista-de-dorinte
+Disallow: /spisuk-s-zhelaniya
+Disallow: /lista-zelja
+Disallow: /kivansag-lista-letrehozasa
+Disallow: /profil
+Disallow: /profile
+Disallow: /moji-podatki
+Disallow: /le-mie-informazioni
+Disallow: /meine-daten
+Disallow: /moje-informace
+Disallow: /moje-informacie
+Disallow: /moje-dane
+Disallow: /my-account
+Disallow: /moji-podaci
+Disallow: /adataim
+Disallow: /checkout
+
+Sitemap: https://www.pinkpanda.ro/sitemap_index.xml
+# END nuxt-robots

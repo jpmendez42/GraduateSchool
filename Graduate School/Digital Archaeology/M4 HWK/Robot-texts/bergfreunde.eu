@@ -1,0 +1,45 @@
+User-agent: *
+Disallow: /*/size--
+Disallow: /*?cl=
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+User-agent: Pinterestbot
+Crawl-delay: 1
+Disallow: /*/rating--
+Disallow: /*/colour--
+Disallow: /*/size--
+Disallow: /*?cl=
+Disallow: /*?bfc-
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+User-agent: Bingbot
+Crawl-delay: 1
+Disallow: /*/rating--
+Disallow: /*/colour--
+Disallow: /*/size--
+Disallow: /*?cl=
+Disallow: /*?bfc-
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+User-agent: facebookexternalhit
+Crawl-delay: 1
+Disallow: /*?cl=
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+Sitemap: https://www.bergfreunde.eu/sitemap/sitemap.xml.gz

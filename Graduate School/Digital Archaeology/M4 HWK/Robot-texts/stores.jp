@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+Sitemap: http://sitemap.stores.fun/sitemap.xml

@@ -1,0 +1,9 @@
+User-Agent: YoudaoBot
+Disallow: /
+User-Agent: bingbot
+Disallow: /
+User-agent: *
+Disallow: /ok/
+Disallow: /iframes/
+Disallow: /goto/
+Sitemap: http://dict.cn/sitemap/sitemap.xml

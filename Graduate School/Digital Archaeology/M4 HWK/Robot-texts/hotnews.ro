@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# XML Sitemap & Google News version 5.4.9 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://hotnews.ro/sitemap-news.xml# Sitemap archive
+Sitemap: https://hotnews.ro/sitemap.xml
+

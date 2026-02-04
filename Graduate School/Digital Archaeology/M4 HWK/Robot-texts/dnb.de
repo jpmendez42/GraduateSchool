@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /DE/Service/
+Disallow: /EN/Service/
+Allow: /SiteGlobals/Modules/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Allow: /SiteGlobals/Forms/DNBWeb/Veranstaltungsuebersicht/
+Allow: /DE/Service/Glossar/
+Allow: /EN/Service/Glossar/
+Crawl-delay: 10
+Sitemap: https://www.dnb.de/Sitemap_NavNode.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ident/
+Disallow: /search/
+Disallow: /cimkek/*?d*
+
+User-agent: *
+Disallow: /hirugynokseg.php
+
+User-agent: Kantar
+Disallow: /
+
+Sitemap: https://www.economx.hu/gsitemaps.xml

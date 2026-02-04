@@ -1,0 +1,24 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /xmlrpc/
+Disallow: https://www.lamiareport.gr/wp-content/uploads/2025/07/xoriatiki-eurok-1200x675-1.webp
+Disallow: https://www.lamiareport.gr/wp-content/uploads/2025/07/xoriatiki-eurok-1200x675-1-300x300.webp
+
+User-agent: Rogerbot
+User-agent: Exabot
+User-agent: MJ12bot
+User-agent: Dotbot
+User-agent: Gigabot
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /
+
+Sitemap: https://www.lamiareport.gr/wp-content/uploads/json/sitemap-news.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /plugins/feedback.php
+Disallow: /nejlepsi-recepty/
+Disallow: /inc/php/browser-caps.php?_nonce=
+Disallow: /vyhledavani
+Disallow: /*?fbclid=
+Disallow: /*?page=
+Disallow: /kategorie/*?page=
+Sitemap: https://www.nejrecept.cz/sitemap.xml

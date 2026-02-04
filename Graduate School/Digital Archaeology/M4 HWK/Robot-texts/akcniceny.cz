@@ -1,0 +1,22 @@
+User-agent: *
+Crawl-delay: 1
+
+
+Disallow: /admin/
+Disallow: /seznam/a/
+Disallow: /anketa/
+Disallow: /reklama/redir
+Disallow: /redir
+Disallow: /*/vytisknout/
+Disallow: /*/vytisknout
+Disallow: /php/sapi.php*
+
+
+User-agent: grapeshot
+Disallow:
+
+User-agent: Seznambot
+Request-rate: 1/2s
+
+Sitemap: https://www.akcniceny.cz/sitemap_index.xml
+

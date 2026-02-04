@@ -1,0 +1,5 @@
+# robots.txt zu https://www.bycs.de/
+
+User-agent: *
+Disallow: /assets
+Disallow: /dashboard

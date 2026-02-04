@@ -1,0 +1,30 @@
+
+
+User-agent: *
+Sitemap: https://www.dsij.in/sitemap.xml
+
+
+##############
+#   custom   #
+##############
+
+Disallow: /dsijarticledetail/
+Disallow: /web/
+Disallow: /shop/cart/
+Disallow: /shop/checkout/
+Disallow: /payment/
+Disallow: /my/
+Disallow: /crm/
+Disallow: /survey/
+Disallow: /website/info
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /admin/
+Disallow: /login?returnurl=/
+Disallow: /sendpassword*
+ 
+Allow: /
+Sitemap: https://www.dsij.in/sitemap.xml
+
+User-agent: *
+Allow: /social_instagram/

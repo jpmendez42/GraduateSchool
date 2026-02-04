@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*is_ajax=*
+Disallow: /more_comments
+Disallow: /dynamic

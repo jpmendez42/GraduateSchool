@@ -1,0 +1,9 @@
+User-agent:*
+Disallow:/alarmCenter/
+Disallow:/oemCenter/
+Disallow:/cert/
+Disallow:/innerIntf/
+Disallow:/serverCenter/
+Disallow:/tamper/
+Disallow:/file/
+Disallow:/websiteCenter/

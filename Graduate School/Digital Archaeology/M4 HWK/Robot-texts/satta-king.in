@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /login/
+Disallow: /register/
+Disallow: /user/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /wp-admin/
+Disallow: /go/
+Allow: /
+
+Sitemap: https://satta-king.in/sitemap.xml
+Sitemap: https://satta-king.in/fresh-map.php
+Sitemap: https://satta-king.in/image-sitemap.php
+

@@ -1,0 +1,50 @@
+User-Agent: *
+Sitemap: https://www.furusato-tax.jp/feed/sitemap_index.xml
+Disallow: /document/
+Disallow: /gcf/89
+Disallow: /gcf/history
+Disallow: /feature/a/fujimaki2022_menu
+Disallow: /feature/a/202211_seminar_campaign
+Disallow: /feature/a/daikanshasai2023
+Disallow: /feature/a/202311_daikansha_campaign
+Disallow: /feature/a/dpops_campaign_2402
+Disallow: /feature/a/dpops_campaign_2403
+Disallow: /feature/a/dpops_campaign
+Disallow: /contents/docomo_choicecatalog/index
+Disallow: /contents/docomo_choicecatalog/menu
+
+Disallow: /feature/a/exclusive_campaign_non202412_01
+Disallow: /feature/a/exclusive_campaign_non202412_02
+Disallow: /feature/a/exclusive_campaign_act202412_01
+Disallow: /feature/a/exclusive_campaign_nm202412_01
+Disallow: /feature/a/exclusive_campaign_new202412_01
+
+Disallow: /feature/a/exclusive_campaign_docomo_shop202412
+
+Disallow: /feature/a/exclusive_campaign_claris202412
+Disallow: /feature/a/exclusive_campaign_welbox202412
+Disallow: /feature/a/exclusive_campaign_perk202412
+Disallow: /feature/a/exclusive_campaign_epotoku202412
+
+Disallow: /feature/a/exclusive_campaign_sense202412
+Disallow: /feature/a/exclusive_campaign_ts_agency202412
+Disallow: /feature/a/exclusive_campaign_torist202412
+Disallow: /feature/a/exclusive_campaign_venture_partners202412
+Disallow: /feature/a/exclusive_campaign_flaren202412
+
+Disallow: /feature/a/exclusive_campaign_comotto202412
+Disallow: /feature/a/exclusive_campaign_ahamo202412
+Disallow: /feature/a/exclusive_campaign_nissay202412
+Disallow: /feature/a/exclusive_campaign_docomo202412
+Disallow: /feature/a/exclusive_campaign_mos202412
+
+Disallow: /feature/a/exclusive_campaign_executive202412
+
+Disallow: /feature/a/special_campaign2025
+
+Disallow: /feature/a/exclusive_campaign_otonano-shumatsu2509
+
+Disallow: /feature/a/choice_meetup2025
+
+User-agent: bingbot
+Crawl-delay: 30

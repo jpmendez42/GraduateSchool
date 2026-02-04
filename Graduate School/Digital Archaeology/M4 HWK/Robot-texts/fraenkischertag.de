@@ -1,0 +1,88 @@
+# ID: 1
+User-agent: *
+
+Disallow: /suche/
+Disallow: /admin/
+Disallow: /_/admin/
+Disallow: /tools/
+Disallow: /_/tools/
+Disallow: /_/sendmail.html*
+Disallow: /_CPiX/
+Disallow: /_LPW*
+Disallow: /_AUTH*
+Disallow: /_EXEC*
+Disallow: /*?_FRAME=*
+Disallow: /*&_FRAME=*
+Disallow: /*?_FORMAT=PRINT*
+Disallow: /*&_FORMAT=PRINT*
+Disallow: /*?_CMFUNC*
+Disallow: /fcms/
+Disallow: /register/
+Disallow: /member/
+Disallow: /importe/
+Disallow: /import/
+Disallow: /test/
+Disallow: /abfall/
+Disallow: /serien/
+Disallow: /sport/tabellen/
+
+
+Disallow: /ngen-default/
+Disallow: /orte/
+
+# Disallow: /fileadmin/
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: backlink-check.de
+Disallow: /
+
+User-agent: BacklinkCrawler
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: LinkextractorPro
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Openbot
+Disallow: /
+
+User-agent: rogerbot 
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SEODAT
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: True_Robot
+Disallow: /
+
+User-agent: xovi
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+# Legal notice: fraenkischertag.de expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).
+# The use of robots or other automated means to access fraenkischertag.de or collect or mine data without the express permission of fraenkischertag.de is strictly prohibited.
+
+Sitemap: https://www.fraenkischertag.de/sitemap_portal.sitemap.xml
+Sitemap: https://www.fraenkischertag.de/sitemap_news.sitemap.xml
+Sitemap: https://www.fraenkischertag.de/sitemap_news_liveticker.sitemap.xml

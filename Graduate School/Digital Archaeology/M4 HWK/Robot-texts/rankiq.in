@@ -1,0 +1,29 @@
+
+User-agent: *
+Disallow: 
+Disallow: /bootstrap/
+Disallow: /css/
+Disallow: /js/
+Disallow: /vendor/
+Sitemap: http://rankiq.in/sitemap.xml
+
+User-agent: Mediapartners-Google
+Disallow: 
+Disallow: /exams/
+Disallow: /sscexams/
+Disallow: /rank/
+Disallow: /rank2/
+Disallow: /bootstrap/
+Disallow: /css/
+Disallow: /js/
+Disallow: /vendor/
+Disallow: /user/
+Disallow: /user2/
+Disallow: /users/
+Disallow: /admin/
+Disallow: /blog/
+Disallow: /pages/
+Disallow: /score_calculator/
+Disallow: /practice/
+Allow: /
+Sitemap: http://rankiq.in/sitemap.xml

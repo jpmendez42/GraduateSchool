@@ -1,0 +1,11 @@
+User-agent: *
+Disallow:
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
+sitemap: https://leonino.pt/sitemap_index.xml
+sitemap: https://leonino.pt/post-sitemap.xml

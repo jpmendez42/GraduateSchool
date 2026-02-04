@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /ratenzahlung/
+Disallow: /beschaffungen_vertragsdokumente/
+Disallow: /Beschaffungen_Vertragsdokumente/
+Disallow: /der_rundfunkbeitrag/beitragsservice/ausschreibungen/vertragsdokumente_fuer_beschaffungen/
+Disallow: /der_rundfunkbeitrag/beitragsservice/ausschreibungen/archiv_vertragsdokumente_fuer_beschaffungen/
+Disallow: /zugangseroeffnung/
+Disallow: /der_rundfunkbeitrag/beitragsservice/datenschutz/datenabruf/
+Disallow: /klaerung/
+Disallow: /antwort_erstattung/
+Disallow: /datenschutz/datenabruf/
+Disallow: /listhelpheader/
+Disallow: /9_stellige_zahl/
+Disallow: /Mein_Rundfunkbeitrag/
+Disallow: /Mein_Rundfunkbeitrag/Haeufige_Fragen/
+Disallow: /mein_rundfunkbeitrag/haeufige_fragen_authentifizierung/
+Disallow: /suche/index_ger.html

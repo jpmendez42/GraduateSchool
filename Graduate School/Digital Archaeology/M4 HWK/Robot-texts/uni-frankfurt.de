@@ -1,0 +1,75 @@
+# robots.txt zu http://www.uni-frankfurt.de/
+
+User-agent: *
+Disallow: /schulung/
+Disallow: /cgi-bin/
+Disallow: /todo.html
+Disallow: /international/doku/
+Disallow: /org/ltg/admin/rewe/ba/Doku2/
+Disallow: /fb/fb11/ifg/
+Disallow: /fb/fb11/geoscience/
+Crawl-delay: 5
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+#= AI Bots =#
+
+# OpenAI
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: AI-SearchBot
+User-agent: OAI-SearchBot
+Disallow: /
+
+# Google Bard
+User-agent: Google-Extended
+Disallow: /
+
+# CCBot
+User-agent: CCBot
+Disallow: /
+
+# Facebook
+User-agent: FacebookBot
+User-agent: facebookexternalhit
+User-agent: Meta-ExternalAgent	
+Disallow: /
+
+# PerplexityBot
+User-agent: PerplexityBot
+Disallow: /
+
+# Amazon
+User-agent: Amazonbot
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+# Apple
+User-agent: Applebot-Extended
+
+# ByteDance
+User-agent: Bytespider
+Disallow: /
+
+# Diffbot
+User-agent: Diffbot
+Disallow: /
+
+# img2dataset
+User-agent: img2dataset
+Disallow: /
+
+# Petal
+User-agent: PetalBot
+Disallow: /
+
+# Youbot
+User-agent: YouBot
+Disallow: /

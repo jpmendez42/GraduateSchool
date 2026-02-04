@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /ro/cautare/
+Disallow: /en/search/
+
+Sitemap: https://www.ulbsibiu.ro/sitemap.xml

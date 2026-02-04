@@ -1,0 +1,13 @@
+User-agent: *
+Disallow:/adminsite/
+
+Disallow:/fcktoolbox/
+Disallow:/extensions/
+Disallow:/META_INF/
+Disallow:/WEB_INF/
+Disallow:/search
+# urls techniques :
+Disallow:/action/*
+
+
+Sitemap: https://www.uca.fr/seo/sitemap.xml

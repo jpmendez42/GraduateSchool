@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /_*
+Disallow: /lk/*
+Disallow: /hearing*
+Disallow: /search*
+Disallow: */search*
+Disallow: */hearing*
+Disallow: /calc/print*
+Disallow: /calc/download*

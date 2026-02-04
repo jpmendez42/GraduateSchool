@@ -1,0 +1,27 @@
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: *
+Disallow: /search/
+
+User-agent: DataForSeoBot
+Crawl-delay: 3
+
+User-agent: scrapy
+Crawl-delay: 5
+
+User-agent: Bingbot
+Crawl-delay: 30
+
+Sitemap: https://www.nextage.jp/sitemap.xml
+Sitemap: https://www.nextage.jp/sitemap_info.xml
+Sitemap: https://www.nextage.jp/shop/sitemap.xml
+Sitemap: https://www.nextage.jp/stockcar/sitemap.xml
+Sitemap: https://www.nextage.jp/auto_dealer/sitemap.xml
+Sitemap: https://www.nextage.jp/carsearch/keyword-sitemap-index.xml

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /public_ajax.php
+Disallow: /terms.html
+Disallow: /pechat3.php
+Disallow: /index.php?page=contact
+Disallow: /index.php?page=send_vkiss
+Disallow: /index.php?page=email
+Disallow: /index.php?page=view_photo
+Allow: /
+
+Sitemap: https://www.simpatie.ro/sitemap.xml
+Sitemap: https://www.simpatie.ro/sitemap2.xml
+Sitemap: https://www.simpatie.ro/sitemap3.xml

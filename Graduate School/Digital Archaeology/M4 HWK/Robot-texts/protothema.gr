@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /llms.txt
+
+Disallow: /netvolution/
+Disallow: /%24component/
+Disallow: /preview/
+Disallow: /anazitisi/
+Disallow: /frontpages/
+Disallow: /APP/
+Disallow: /1050137/
+
+Sitemap: https://www.protothema.gr/sitemap/Editors/sitemap_index.xml
+Sitemap: https://www.protothema.gr/sitemap/Pages/sitemap_index.xml
+Sitemap: https://www.protothema.gr/sitemap/Articles/sitemap_index.xml
+Sitemap: https://www.protothema.gr/sitemap/NewsArticles/sitemap_index.xml
+Sitemap: https://www.protothema.gr/sitemap/ArticleCategories/sitemap_index.xml
+Sitemap: https://www.protothema.gr/sitemap/Tags/sitemap_index.xml
+Sitemap: https://www.protothema.gr/sitemap/Bloggers/sitemap_index.xml

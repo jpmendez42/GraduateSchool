@@ -1,0 +1,178 @@
+User-agent: *
+Crawl-delay: 10
+# Block admin/backoffice areas
+Disallow: /backoffice/
+Disallow: /delayed_job/
+
+# Block authentication and user management
+Disallow: /users/
+Disallow: /passwords/
+Disallow: /confirmations/
+Disallow: /sessions/
+Disallow: /registrations/
+
+# Block checkout process and cart
+Disallow: /checkout
+Disallow: /cart
+Disallow: /orders/
+
+# Block user profile areas
+Disallow: /profile/
+Disallow: /addresses/
+Disallow: /newsletter_subscriptions/
+Disallow: /b2b_tools/
+Disallow: /b2b_feeds/
+Disallow: /favourite_lists/
+Disallow: /favourites/
+
+# Block API endpoints
+Disallow: /api/
+
+# Block payment processing
+Disallow: /dsk/
+Disallow: /jcc/
+Disallow: /klarna/
+Disallow: /tbi/
+Disallow: /piraeus/
+Disallow: /winbank/
+
+# Block internal functionality
+Disallow: /storeviews/
+Disallow: /searches/
+Disallow: /no_results/
+Disallow: /cart_items/
+Disallow: /greek_vat_details/
+Disallow: /b2b_registrations/
+Disallow: /job_applications/
+Disallow: /ecommerce_feeds/
+
+# Block specific query parameters (more selective)
+Disallow: /*?*utm*
+Disallow: /*?*ref*
+Disallow: /*?*fbclid*
+Disallow: /*?*gclid*
+Disallow: /*?*sessionid*
+Disallow: /*?*trackid*
+
+# Block gift card management
+Disallow: /gift_cards/
+Disallow: /coupons/claims/
+Disallow: /giftcards/claims/
+
+# Allow important content
+Allow: /products/
+Allow: /categories/
+Allow: /pages/
+Allow: /about/
+Allow: /contact/
+Allow: /faq/
+
+# Controlled Googlebot access - allow most content but block sensitive areas
+User-agent: Googlebot
+Allow: /
+Disallow: /backoffice/
+Disallow: /delayed_job/
+Disallow: /users/
+Disallow: /passwords/
+Disallow: /confirmations/
+Disallow: /sessions/
+Disallow: /registrations/
+Disallow: /cart
+Disallow: /checkout
+Disallow: /orders/
+Disallow: /profile/
+Disallow: /addresses/
+Disallow: /newsletter_subscriptions/
+Disallow: /b2b_tools/
+Disallow: /b2b_feeds/
+Disallow: /favourite_lists/
+Disallow: /favourites/
+Disallow: /api/
+Disallow: /dsk/
+Disallow: /jcc/
+Disallow: /klarna/
+Disallow: /tbi/
+Disallow: /piraeus/
+Disallow: /winbank/
+Disallow: /storeviews/
+Disallow: /searches/
+Disallow: /no_results/
+Disallow: /cart_items/
+Disallow: /greek_vat_details/
+Disallow: /b2b_registrations/
+Disallow: /job_applications/
+Disallow: /gift_cards/
+Disallow: /coupons/claims/
+Disallow: /giftcards/claims/
+
+# Allow Googlebot Images full access to images
+User-agent: Googlebot-image
+Allow: /
+
+# OpenAI (ChatGPT / GPTBot)
+User-agent: GPTBot
+Allow: /
+
+# Google AI (Gemini, Bard)
+User-agent: Google-Extended
+Allow: /
+
+# Anthropic (Claude)
+User-agent: anthropic-ai
+Allow: /
+
+# Common Crawl
+User-agent: CCBot
+Allow: /
+
+# Facebook/Meta (LLAMA AI)
+User-agent: FacebookBot
+Allow: /
+
+# Amazon Bot (Alexa, AI)
+User-agent: Amazonbot
+Allow: /
+
+# Apple AI
+User-agent: Applebot
+Allow: /
+
+# You.com AI Bot
+User-agent: YouBot
+Allow: /
+
+# Neeva AI (Snowflake)
+User-agent: NeevaBot
+Allow: /
+
+# Phind AI Bot
+User-agent: PhindBot
+Allow: /
+
+# Andi AI Bot
+User-agent: AndiBot
+Allow: /
+
+# Cohere AI
+User-agent: cohere-ai
+Allow: /
+
+# DeepSeek AI (placeholder, unofficial)
+User-agent: DeepSeekBot
+Allow: /
+
+# Optional data bots
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: perplexitybot
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.polihome.gr/sitemaps/el_sitemap.xml

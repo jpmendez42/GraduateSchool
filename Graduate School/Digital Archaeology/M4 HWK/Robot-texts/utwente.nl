@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /repository/utwente/
+Disallow: /*/intern/
+Disallow: /*/internal/
+Disallow: /*/intra/
+Disallow: /*/intranet/
+Disallow: /*/test/
+Disallow: /*/temp/
+Disallow: /*/widgets/
+Disallow: /*/footer/
+Sitemap: https://www.utwente.nl/repository/utwente-data/sitemap/public/sitemap-index.xml

@@ -1,0 +1,20 @@
+
+User-agent: *
+Disallow: */cart
+Disallow: */checkout
+Disallow: */my-account
+Disallow: */bundle
+Disallow: */login
+Disallow: *?q=*
+Disallow: *search?text=*
+Disallow: */private/support/archive
+Crawl-delay: 10
+Sitemap: https://www.a1.by/ru/sitemap.xml
+Clean-param: brandSelector&redirectBackUrl&serviceSelector&deviceSelector&external_browser_redirect&eucid&gad&backUrl&fromSSO&gbraid&gad_campaignid&selectedAddon&success&regionSelector
+User-agent: CazoodleBot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: dotbot/1.0
+Disallow: /
+User-agent: Gigabot

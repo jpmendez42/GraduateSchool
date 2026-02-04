@@ -1,0 +1,651 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if IE 9]><html class="no-js lt-ie10" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><![endif]-->
+<!--[if !(IE)]><!--><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!--<![endif]-->
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="metadescription" content="Enter your code here to begin your remote support session." />  
+	<meta http-equiv="cache-control" content="no-store, no-cache, max-age=0, must-revalidate" />
+	<meta http-equiv="pragma" content="no-cache" />
+	<meta http-equiv="expires" content="-1" />
+	<meta name="viewport" content="width=device-width, initial-scale=1"  />
+    
+    <title>
+        
+            LogMeIn123.com – Start Support Connection
+    </title>
+    <script type="text/javascript" language="javascript">
+    <!--
+        // define lmi123 namespace before everything else -{{{
+        lmi123 = {};
+        lmi123.errorMessages = {
+            required: "This field is required",
+            email: "Please enter a valid email address",
+            digits: "Please enter only digits",
+            minlength: "At least {0} characters required",
+            maxlength: "No more than {0} characters required"
+        };
+        // }}}
+    //-->
+    </script>
+    <link rel="stylesheet" type="text/css" href="/Common/Styles/logmein123.css?v=20251008072432" />
+    <script src="/Common/Scripts/common.js?v=20251008072432" type="text/javascript"></script>
+    <script src="/scripts/lib/jquery/jquery-3.7.1.min.js?v=20251008072434" type="text/javascript"></script>
+    <script src="/Scripts/lib/jquery/jquery-migrate-3.5.0.min.js?v=20251008072434" type="text/javascript"></script>
+    <script src="/Common/Scripts/jquery/jquery.validate.min.js?v=20251008072432" type="text/javascript"></script>
+    <script src="/Common/Scripts/modernizr/modernizr.custom.03276.js?v=20251008072432" type="text/javascript"></script>
+    
+        <script src="/Common/Scripts/logmein123/logmein123.js?v=20251008072432" type="text/javascript"></script>
+    <!-- Silverpop begin {{{ -->
+
+<meta name="com.silverpop.brandeddomains" content="www.pages04.net,boldchat.com,cubby.com,join.me,logmein.com,logmeinrescue.com,secure.logmein.com,solutions.join.me,solutions.logmein.com,solutions.logmeinrescue-enterprise.com,solutions.logmeinrescue.com,test.boldchat.com" />
+<script src="https://www.sc.pages04.net/lp/static/js/iMAWebCookie.js?7a6aedb9-132cf8e659f-4f4749e15ce6d7a21b02ab08b9b7921c&h=www.pages04.net" type="text/javascript"></script>
+<!-- }}} Silverpop end -->
+
+    <link rel="stylesheet" type="text/css" href="/Content/Site/Download/Download.css?v=20251008072432" />
+</head>
+
+<body class="lang_en">
+<link rel="stylesheet" type="text/css" href="/Content/Site/CommonUiHeader/external/icons_2.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Site/CommonUiHeader/external/skeleton_1.css" />
+    <link rel="stylesheet" type="text/css" href="/Content/Site/CommonUiHeader/style.css?v=1" />
+    <link rel="stylesheet" type="text/css" href="/Content/Site/CommonUiHeader/custom.css" />
+    <script type="text/javascript" language="javascript" src='/Scripts/site/lib/modernizr.commonUI.js?v=20251008072434'></script>
+    <script type="text/javascript" language="javascript" src='/Scripts/site/lib/jquery.tpl.js?v=20251008072434'></script>
+    <script type="text/javascript" language="javascript" src='/Scripts/common/acquire.js?v=20251008072434'></script>
+    <script type="text/javascript" language="javascript" src='/Scripts/site/ui/commonUiHeader/dist.js?v=20251008072434'></script>
+    <script type="text/javascript" language="javascript" src='/Scripts/site/ui/commonUiHeader/main.js?v=20251008072434'></script>
+    <script type="text/javascript" language="javascript" src='/Scripts/site/ui/commonUiHeader/template.js?v=20251008072434?v=1'></script>
+    <script type="text/javascript" language="javascript" src='/Scripts/site/ui/commonUiHeader/init.js?v=20251008072434'></script>
+
+
+<style>
+    body{
+        overflow-x: hidden;
+    }
+
+    .session-card{
+        padding: 80px 80px;
+    }
+    
+    .container {
+        margin-top: 54px;    
+    }
+
+    .rescue-main {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        gap: 48px;
+        min-height: 65vh;
+    }
+    .rescue-card {
+        position: relative;
+        top: 5vh;
+        background: #fff;
+        border: 1px solid #CBDBE4;
+        width: 614px;
+    }
+    .session-card h1 {
+        font-size: 2rem;
+        margin-bottom: 8px;
+        color: #222;
+        width: 100%;
+    }
+    .session-content {
+        width: 454px;
+        margin: 0 !important;
+    }
+    .session-card label {
+        display: block;
+        margin-top: 18px;
+        margin-bottom: 6px;
+        font-size: 12px;
+        font-weight: 700;
+        color: #333;
+    }
+    .session-card input[type="tel"] {
+        width: 454px;
+        height: 48px;
+        padding: 0 15px;
+        font-size: 1.22rem;
+        border-radius: 4px;
+        border: 1px solid #cfd8dc;
+        background: #f8fafc;
+    }
+    .session-card .submitButtonWrapper {
+        width: 485px;
+        margin-top: 10px;
+        margin-bottom: 0;
+    }
+    .session-card .main-btn {
+        width: 100%;
+        min-width: 0;
+        box-sizing: border-box;
+        background: #E5E5E5;
+        box-shadow: none;
+        transition: background 0.3s cubic-bezier(0.4,0,0.2,1), color 0.3s cubic-bezier(0.4,0,0.2,1);
+    }
+
+    .session-card .main-btn.enabled {
+        background: #2C72DE;
+        cursor: pointer;
+    }
+
+    .session-card a[aria-disabled="false"] {
+        background: #2C72DE;
+        color: #fff;
+        cursor: pointer;
+        pointer-events: auto;
+    }
+    .session-card a[aria-disabled="true"] {
+        background: #E5E5E5;
+        color: #fff;
+        cursor: not-allowed;
+        pointer-events: none;
+    }
+    .session-bottom-row {
+        display: flex;
+        align-items: center;
+        vertical-align: middle;
+        justify-content: flex-end;
+        gap: 12px;
+        width: 100%;
+        max-width: 330px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .abuse-btn {
+        border: 1px solid #58798F;
+        background: #f9fafb;
+        padding: 5px 1.5em;
+        width: 100%;
+        max-width: 130px;
+        border-radius: 5px;
+        color: black;
+        font-weight: 600;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 1.01rem;
+        white-space:nowrap;
+        text-align: center;
+    }
+    .security-row-container {
+        margin-bottom: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 10vh;
+        width: 614px;
+    }
+    .security-row {
+        width: 776px;
+        display: flex;
+        align-items: flex-start;
+        font-size: 1rem;
+        color: #222;
+    
+    }
+    .security-alert {
+        width: 32px;
+        min-width: 32px;
+        height: 40px;
+        margin-top: 2px;
+        align-self: flex-start;
+        display:block;
+    }
+    .security-text-stack {
+        display: flex;
+        margin-left: 1vw;
+        flex-direction: column;
+        gap: 0.15em;
+        margin-top: 0.25em;
+        justify-content: center;
+        width: 60vw;
+    }
+    .security-strong {
+        font-weight: 600;
+        font-size: 13px;
+        display: block;
+        line-height:1.1;
+        margin-bottom: 2px;
+    }
+    .security-note {
+        opacity: 0.90;
+        font-size: 12px;
+        line-height:1.25;
+        display:block;
+    }
+    .steps-card {
+        height: 100%;
+        text-align: left;
+        overflow: hidden;
+        position: relative;
+        padding: 24px;
+    }
+    .steps-carousel {
+        position: relative;
+        width: 100%;
+        min-height: 440px;
+    }
+    .carousel-slide {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        min-height: 440px;
+        animation: fadein .4s;
+    }
+    .carousel-slide.active {
+        display: flex;
+    }
+    @keyframes fadein {
+        from { opacity: 0;}
+        to { opacity: 1;}
+    }
+    .carousel-controls {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 14px;
+        gap: 7px;
+    }
+
+    .carousel-arrow {
+        font-size: 1.5rem;
+        color: #b0b5ba;
+        cursor: not-allowed;
+        opacity: 0.6;
+        pointer-events: none;
+        background: transparent;
+        border: none;
+        padding: 0 10px;
+        transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
+    }
+
+    .carousel-arrow:disabled,
+    .carousel-arrow[disabled] {
+        color: #b0b5ba !important;
+        cursor: not-allowed !important;
+        opacity: 0.6;
+        pointer-events: none;
+    }
+    .carousel-arrow.enabled {
+        color: #27739b !important;
+        cursor: pointer !important;
+        opacity: 1;
+        pointer-events: auto;
+        font-weight: bold;
+    }
+
+    .carousel-arrow:focus,
+    .carousel-arrow:hover {
+        color: #27739b;
+    }
+    .how-slide-title {
+        font-weight: 400;
+        font-size: 1.10rem;
+        text-align: center;
+        margin-bottom: 0.6em;
+    }
+    .vertical-steps {
+        margin: 0 auto 22px auto;
+        position: relative;
+        padding: 0 0 0 36px;
+        max-width: 380px;
+    }
+    .vertical-steps li {
+        list-style: none;
+        position: relative;
+        min-height: 28px;
+        padding-left: 0.2em;
+        padding-bottom: 17px;
+        display: flex;
+        align-items: flex-start;
+        gap: 12px;
+    }
+    .vertical-steps li:last-child { padding-bottom: 0;}
+    .vertical-steps-num {
+        background: #2C72DE;
+        color: #fff;
+        font-size: 12px;
+        font-weight: 600;
+        border-radius: 50%;
+        width: 25px; height: 25px;
+        display: flex;
+        align-items: center; justify-content: center;
+        position: absolute;
+        left: 0; top: 0px;
+    }
+    .vertical-steps li:not(:last-child)::after {
+        content: "";
+        position: absolute;
+        left: 12px; top: 25px;
+        width: 2.5px; height: 30px;
+        background: #2C72DE;
+    }
+    .vertical-steps-desc {
+        margin-left: 34px;
+        font-size: 14px;
+        color: #38414b;
+    }
+    .carousel-keep-in-mind {
+        border: 1px solid #CBDBE4;
+        border-radius: 8px;
+        padding: 15px 20px;
+        display: flex;
+        align-items: flex-start;
+        margin: 13px 0 4px 0;
+        gap: 13px;
+        width: 60%;
+    }
+    .carousel-keep-in-mind span.carousel-keep-in-mind__highlight {
+        color: black;
+        font-weight: bolder;
+    }  
+    .carousel-keep-in-mind strong {
+        color: #27739b;
+    }
+    .carousel-note {
+        font-size: 0.98rem;
+        color: #222;
+        opacity: 0.84;
+        margin: 10px 0 0 0;
+        background: #f7f7fa;
+        border-radius: 6px;
+        padding: 10px 15px;
+        display: flex;
+        gap: 11px;
+        align-items: center;
+    }
+
+    .link{
+        text-decoration: underline;
+        color: #3F474C;
+        font-weight: 600;
+    }
+
+    .carousel-note svg { min-width:22px;}
+    @media (max-width: 1250px) {
+        .rescue-main {
+            flex-direction: column;
+            gap: 20px;
+            align-items: center;
+        }
+        .rescue-card,
+        .security-row-container {
+            width: 80vw !important;
+            min-width: unset !important;
+            max-width: 99vw !important;
+            padding: 20px 5vw;
+        }
+        .session-card h1{
+            font-size: 1.5rem;
+        }
+        .security-row{
+            width: 80vw;
+        }
+        .session-card input[type="tel"],
+        .session-card .submitButtonWrapper {
+            width: 50vw !important;
+            min-width: 0 !important;
+            max-width: 100% !important;
+            box-sizing: border-box;
+        }
+        .session-card .main-btn {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 48px;
+            line-height: 24px;
+            padding: 5px;
+            font-size: 18px;
+        }
+
+    }
+
+    .warning {
+        padding: 0.75rem;
+        border-radius: 1rem;
+        background-color: #eddee4;
+        text-align: center;
+        margin: 10px;
+        border: 1px solid #da1a35;
+        line-height: 2;
+        font-size: 14px;
+        display: flex;
+    }
+    
+    .warning img {
+        margin-right: 01rem;
+    }
+    
+     .warning span {
+        text-align: left;
+     }
+     
+     .hidden {
+         display: none;
+     }
+    
+</style>
+<div class="container">
+    <div class="warning hidden" id="warning-box">
+        <img src="../Images/site/customer/block.svg" alt="Warning" />
+        <span>
+            This PIN entry page is embedded within another page. Rescue doesn't support this type of embedding due to security concerns. Use extra caution when entering your PIN.
+        </span>
+    </div>
+    <div class="rescue-main">
+        <!-- Session / PIN entry card -->
+        <div class="column-wrapper">
+            <section class="rescue-card session-card">
+                <div class="session-content">
+                    <h1>Join a support session</h1>
+                    <p>Enter your PIN to connect with a technician.</p>
+                    <form method="post" class="clientValidation" action="Code.aspx" autocomplete="off" style="margin: 0; width: 100%;" >
+                        <label for="Code"><b>PIN</b></label>
+                        <input type="tel"
+                               class="text required digits"
+                               id="Code"
+                               name="Code"
+                               minlength="6"
+                               maxlength="9"
+                               aria-invalid="false"
+                               aria-describedby="Content_error_msg"
+                               value=""
+                               autofocus = "false"
+                            />
+                        <!-- Anti-autofill -->
+                        <input type="text" value="" disabled="disabled" style="display: none" />
+                        <div class="errorBox" style="height: 24px;">
+                            <p id="Content_error_msg" style="font-weight: 400;"></p>
+                            <p id="Content_success_msg" style="font-weight: 400;"></p>
+                        </div>
+                        
+                        <input type="hidden" id="IsEmbeddedInFrame" name="IsEmbeddedInFrame" value="false" />
+                        <input type="hidden" id="maxTouchPoints" name="maxTouchPoints" value="0"/>
+                        <div class="submitButtonWrapper">
+                            <a href="#" id="Content_submit_button" role="button" class="button submit main-btn" tabindex="0" style="height: 48px; border: none; font-size: 18px; padding:5px;">
+                                Join session
+                            </a>
+                        </div>
+                    </form>
+                </div>
+            </section>
+            <div class="security-row-container">
+                <div class="security-row">
+                    <img src="../Images/site/customer/alert.svg" alt="alert" class="security-alert" />
+                    <div class="security-text-stack">
+                        <span class="security-strong">
+                            We take your security seriously
+                        </span>
+                        <span class="security-note">
+                            Only join support sessions with technicians you recognize and trust.
+                        </span>
+                    </div>
+                    <div class="session-bottom-row">
+                        <a class="abuse-btn" href="/Customer/ReportAbuse.aspx">Report abuse</a>
+                    </div>
+              </div>
+            </div>
+        </div>
+        <!-- How it Works + steps carousel card -->
+        <section class="rescue-card steps-card" style="width: 468px;">
+            <h2 style="text-align:center">How it works</h2>
+            <div class="steps-carousel">
+                <div class="carousel-controls">
+                    <button class="carousel-arrow" id="carousel-prev" aria-label="Previous Slide" type="button" disabled>&lsaquo;</button>
+                    <img id="carousel-image" src="../Images/site/customer/remote_control_carousel.svg" alt="Remote Control" style="height:90px; margin: 0 8px;" />
+                    <button class="carousel-arrow" id="carousel-next" aria-label="Next Slide" type="button">&rsaquo;</button>
+                </div>
+                <!-- SLIDE 1 -->
+                <div class="carousel-slide active" id="slide1">
+                    <div class="how-slide-title">
+                        Remote control
+                    </div>
+                    <ol class="vertical-steps">
+                        <li><span class="vertical-steps-num">1</span><span class="vertical-steps-desc"> Enter the PIN to join your support session</span></li>
+                        <li><span class="vertical-steps-num">2</span><span class="vertical-steps-desc"> Download the Rescue applet and run it</span></li>
+                        <li><span class="vertical-steps-num">3</span><span class="vertical-steps-desc"> Grant permissions to start remote control </span></li>
+                        <li><span class="vertical-steps-num">4</span><span class="vertical-steps-desc"> Remote control will start when the technician joins the support session </span></li>
+                    </ol>
+                    <span style="font-size: 16px;">
+                        Keep in mind
+                    </span>
+                    <div class="carousel-keep-in-mind" style="padding: 10px 8px;">
+                        <img src="../Images/site/customer/remote_control.svg" alt="Remote Control"/>
+                        <span style="font-size: 12px; margin-top: 4px; padding: 5px;">
+                             During the session, the technician might ask to fully control your computer.
+                        </span>
+                    </div>
+                     <span style="text-align: center; font-size: 12px; margin-top: 15px;">
+                        <strong style="color: black;">Remote IT support software as tough as you are</strong><br />
+                         Want to deliver flexible, reliable remote support for your business?
+                       <a class="link" target="_blank" href="https://www.logmein.com/products/rescue/trial">Learn more</a>
+                    </span>
+                </div>
+                <!-- SLIDE 2 -->
+                <div class="carousel-slide" id="slide2">
+                    <div class="how-slide-title">
+                        Desktop view
+                    </div>
+                    <ol class="vertical-steps">
+                        <li><span class="vertical-steps-num">1</span><span class="vertical-steps-desc"> Enter the PIN to join your support session</span></li>
+                        <li><span class="vertical-steps-num">2</span><span class="vertical-steps-desc">Wait for the technician to join the support session</span></li>
+                        <li><span class="vertical-steps-num">3</span><span class="vertical-steps-desc">Accept the Terms & Conditions</span></li>
+                        <li><span class="vertical-steps-num">4</span><span class="vertical-steps-desc">Select a screen or tab to share</span></li>
+                    </ol>
+                    <span style="font-size: 16px;">
+                        Keep in mind
+                    </span>
+                    <div class="carousel-keep-in-mind" style="padding: 10px 8px;">
+                        <img src="../Images/site/customer/remote_control.svg" alt="Remote Control"/>
+                        <span style="font-size: 12px; margin-top: 4px; padding: 5px;">
+                             During the session, the technician might ask to fully control your computer.
+                        </span>
+                    </div>
+                     <span style="text-align: center; font-size: 12px; margin-top: 15px;">
+                        <strong style="color: black;">Remote IT support software as tough as you are</strong><br />
+                         Want to deliver flexible, reliable remote support for your business?
+                       <a class="link" target="_blank" href="https://www.logmein.com/products/rescue/trial">Learn more</a>
+                    </span>
+                </div>
+            </div>
+        </section>
+    </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+
+    (function () {
+        var slides = [document.getElementById('slide1'), document.getElementById('slide2')];
+        var images = [
+            { src: '../Images/site/customer/remote_control_carousel.svg', alt: 'Remote Control' },
+            { src: '../Images/site/customer/remote_view.svg', alt: 'Desktop View' }
+        ];
+        var current = 0;
+        var carouselImage = document.getElementById('carousel-image');
+        var prevBtn = document.getElementById('carousel-prev');
+        var nextBtn = document.getElementById('carousel-next');
+
+        function updateButtons() {
+            if (current === 0) {
+                prevBtn.disabled = true;
+                prevBtn.classList.remove('enabled');
+            } else {
+                prevBtn.disabled = false;
+                prevBtn.classList.add('enabled');
+            }
+            if (current === slides.length - 1) {
+                nextBtn.disabled = true;
+                nextBtn.classList.remove('enabled');
+            } else {
+                nextBtn.disabled = false;
+                nextBtn.classList.add('enabled');
+            }
+        }
+        function showSlide(idx) {
+            for (var i = 0; i < slides.length; i++) slides[i].classList.remove('active');
+            slides[idx].classList.add('active');
+            carouselImage.src = images[idx].src;
+            carouselImage.alt = images[idx].alt;
+            updateButtons();
+        }
+        prevBtn.onclick = function () {
+            if (current > 0) {
+                current--;
+                showSlide(current);
+            }
+        };
+        nextBtn.onclick = function () {
+            if (current < slides.length - 1) {
+                current++;
+                showSlide(current);
+            }
+        };
+        showSlide(current);
+    })();
+    const downloadNotification = document.getElementById("downloadNotificationText");
+    document.getElementById('maxTouchPoints').value = navigator.maxTouchPoints;
+    if (downloadNotification) {
+        downloadNotification.focus();
+    }
+    else {
+        document.getElementById("Code").focus();
+    }
+    const codeTextBox = document.getElementById('Code');
+    codeTextBox.addEventListener('keydown', function (event) {
+        if (event.which === 13 || event.which === 32) {
+            event.preventDefault();
+            document.getElementById('Content_submit_button').click();
+        }
+    });
+    const checkFrame = () => {
+        if (window.top !== window.self) {
+            document.getElementById('warning-box').classList.remove('hidden');
+        }
+        else {
+            document.getElementById('warning-box').classList.add('hidden');
+        }
+        document.getElementById('IsEmbeddedInFrame').value = (window.top !== window.self);
+    };
+    checkFrame()
+</script>
+
+
+<div id="Footer" role="contentinfo">
+    <p>
+        Copyright &copy; 2003-2025 LogMeIn, Inc. All rights reserved.
+        <a href="https://secure.logmein.com/policies/privacy.aspx">Legal</a>
+        <a href="https://secure.logmein.com/contactus">Sales</a>
+        <a href="https://www.logmeinrescue.eu">Rescue Remote Support</a>
+    </p>
+</div>
+</body>
+</html>

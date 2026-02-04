@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /sample/
+Disallow: /*?ad
+Disallow: /*?utm
+Disallow: /pc/
+Disallow: /sp/
+Disallow: /link/
+Disallow: /widget/
+Disallow: /ajax/
+Disallow: /https://d1ywb8dvwodsnl.cloudfront.net/
+Disallow: /genre*
+
+User-agent: Amazonbot
+Disallow: /
+
+Sitemap:https://deli-fuzoku.jp/sitemap.xml

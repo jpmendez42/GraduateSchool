@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /tag/*/feed/
+Disallow: /cimke/*/feed/
+Disallow: /comments/feed/
+Disallow: /author/*/feed/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /kereses
+
+Sitemap: https://naphire.hu/sitemap_index.xml

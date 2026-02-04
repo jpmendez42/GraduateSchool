@@ -1,0 +1,29 @@
+Sitemap: https://www.ravensburger.de/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: /de-*/suche
+Disallow: /de-*/search-flyout
+Disallow: /de-*/produkte/checkout-
+Disallow: /de-*/service/newsletter/newsletter-
+Disallow: /de-*/service/newsletter-
+Disallow: /de-*/service/profil/
+Disallow: /de-*/produkte/warenkorb
+Disallow: /de-*/service/ersatzteilservice-erfolg
+Disallow: /de-*/produkte/produkt
+Disallow: /login
+Disallow: /de-*/start/404
+
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /de-*/suche
+Disallow: /de-*/search-flyout
+Disallow: /de-*/produkte/checkout-
+Disallow: /de-*/service/newsletter/newsletter-
+Disallow: /de-*/service/newsletter-
+Disallow: /de-*/service/profil/
+Disallow: /de-*/produkte/warenkorb
+Disallow: /de-*/service/ersatzteilservice-erfolg
+Disallow: /de-*/produkte/produkt
+Disallow: /login
+Disallow: /de-*/start/404

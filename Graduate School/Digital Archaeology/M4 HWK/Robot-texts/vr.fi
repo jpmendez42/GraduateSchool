@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /vaihda-salasana
+Disallow: /en/change-password
+Disallow: /sv/byt-losenord
+Disallow: /taydenna-tietosi
+Disallow: /en/fill-in-your-information
+Disallow: /sv/komplettera-dina-uppgifter
+Sitemap: https://www.vr.fi/sitemap/sitemap-index.xml
+Host: https://www.vr.fi

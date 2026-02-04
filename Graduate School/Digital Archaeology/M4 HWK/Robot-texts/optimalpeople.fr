@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+# this robots.txt file is overriden / forced directly from NginX

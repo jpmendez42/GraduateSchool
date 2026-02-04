@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+Disallow: /humantodigital.kumbe.it/
+Disallow: /tracking.kumbe.it/
+Disallow: /admin/
+Disallow: /en/cookies
+Disallow: /en/privacy
+Disallow: /it/cookies
+Disallow: /it/privacy
+Disallow: /files/getbyname/shared/
+
+Sitemap: https://www.kumbe.it/sitemap.xml

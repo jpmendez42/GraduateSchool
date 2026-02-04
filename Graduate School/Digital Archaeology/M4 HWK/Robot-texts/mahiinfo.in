@@ -1,0 +1,7 @@
+Sitemap: https://mahiinfo.in/sitemap.xml
+Sitemap: https://mahiinfo.in/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://mahiinfo.in/sitemap_index.xml

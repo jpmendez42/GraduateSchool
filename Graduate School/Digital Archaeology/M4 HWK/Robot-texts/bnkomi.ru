@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /data/news/32735/?id_voting*
+Disallow: /rklm-cl
+Disallow: /go/*?
+Disallow: /data/news/go/*
+Disallow: *?
+Host: https://www.bnkomi.ru
+Crawl-delay: 60

@@ -1,0 +1,26 @@
+User-agent: Yandex
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+Disallow: /ckeditor
+Disallow: /kcfinder
+Disallow: /front_admin
+Disallow: /catalog
+Disallow: /forget
+Disallow: /politika-sayta
+Allow: /upload
+
+User-agent: *
+Disallow: /admin
+Disallow: /login
+Disallow: /register
+Disallow: /ckeditor
+Disallow: /kcfinder
+Disallow: /front_admin
+Disallow: /catalog
+Disallow: /forget
+Disallow: /politika-sayta
+Allow: /upload
+Allow: /*.js
+Allow: /*.css
+Sitemap: https://drujba-tc.ru/sitemap.xml

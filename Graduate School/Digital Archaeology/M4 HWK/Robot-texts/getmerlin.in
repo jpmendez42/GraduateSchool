@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /*coupon=
+
+
+# Host
+Host: https://www.getmerlin.in
+
+# Sitemaps
+Sitemap: https://www.getmerlin.in/sitemap.xml

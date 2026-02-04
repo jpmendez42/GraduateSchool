@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /e/
+Disallow: /js/
+Disallow: /images/
+Disallow: /img/
+Disallow: /static/
+Disallow: /en/blog/
+Disallow: /gr/blog/

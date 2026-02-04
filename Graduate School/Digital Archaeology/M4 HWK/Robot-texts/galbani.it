@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /classes/ajax_main.cfc
+Disallow: /galbani_club/il_mio_diario/
+Disallow: /*.cfc$
+Disallow: /*.cfm$
+
+Sitemap: https://www.galbani.it/sitemap.xml

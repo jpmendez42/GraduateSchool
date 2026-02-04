@@ -1,0 +1,84 @@
+#Sblocco ADS
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile-Apps
+User-agent: Mediapartners-Google
+Allow: /
+
+#Blocco parametri e pagine sito
+User-agent: *
+Disallow: /*whishlist*
+Disallow: /*order-status*
+Disallow: /*registration*
+Disallow: /*login*
+Disallow: /*/cart$
+Disallow: /*Search-Show?cgid=_prenota-ritira*
+Disallow: /*/assets/energyClass/*.pdf$
+Disallow: /*/privacy/opzioni-privacy*
+Disallow: /*/Search-UpdateGrid
+Disallow: /*/supergaranzie/*
+
+Disallow: /*page=0$ #Blocco filtri
+Disallow: /*prefn* #Blocco filtri
+Disallow: /*prefv* #Blocco filtri
+Disallow: /*cgid=*
+
+
+Disallow: /*/Search-UpdateGrid*pref* #Blocco UpdateGrid per filtri 
+Allow: /*prefn1=capacitaNettaTotale&prefv1= #Sblocco filtri per capacità 
+Disallow: /*prefn1=capacitaNettaTotale&prefv1=*|* #Blocco filtri multipli per capacità 
+Allow: /*prefn1=capacitaCarico&prefv1= #Sblocco filtri per carico 
+Disallow: /*prefn1=capacitaCarico&prefv1=*|* #Blocco filtri multipli per carico 
+Allow: /*prefn1=larghezza&prefv1= #Sblocco filtri per larghezza 
+Disallow: /*prefn1=larghezza&prefv1=*|* #Blocco filtri multipli per larghezza 
+Allow: /*prefn1=tipoFrigorifero&prefv1= #Sblocco filtri per Tipo Frigorifero 
+Disallow: /*prefn1=tipoFrigorifero&prefv1=*|* #Blocco filtri multipli per Tipo Frigorifero 
+Allow: /*prefn1=tipoCarica&prefv1= #Sblocco filtri per Tipo Carica 
+Disallow: /*prefn1=tipoCarica&prefv1=*|* #Blocco filtri multipli per Tipo Carica 
+Allow: /*prefn1=classeConsumoEnergetico&prefv1= #Sblocco filtri per Classe Energetica 
+Disallow: /*prefn1=classeConsumoEnergetico&prefv1=*|* #Blocco filtri multipli per Classe Energetica 
+Allow: /*prefn1=dimensioneSchermoPollici&prefv1= #Sblocco filtri per Dimensione Pollici 
+Disallow: /*prefn1=dimensioneSchermoPollici&prefv1=*|* #Blocco filtri multipli per Dimensione Pollici 
+Allow: /*prefn1=tipoProcessore&prefv1= #Sblocco filtri per tipoProcessore
+Disallow: /*prefn1=tipoProcessore&prefv1=*|* #Blocco filtri multipli per tipoProcessore
+Allow: /*prefn1=tipoCongelatore&prefv1= #Sblocco filtri per tipoCongelatore
+Disallow: /*prefn1=tipoCongelatore&prefv1=*|* #Blocco filtri multipli per tipoCongelatore
+Allow: /*prefn1=tipoCondizionatore&prefv1= #Sblocco filtri per tipoCondizionatore
+Disallow: /*prefn1=tipoCondizionatore&prefv1=*|* #Blocco filtri multipli per tipoCondizionatore
+Allow: /*prefn1=tipoForno&prefv1= #Sblocco filtri per tipoForno
+Disallow: /*prefn1=tipoForno&prefv1=*|* #Blocco filtri multipli per tipoForno
+Allow: /*prefn1=tipologiaVentilatore&prefv1= #Sblocco filtri per tipologiaVentilatore
+Disallow: /*prefn1=tipologiaVentilatore&prefv1=*|* #Blocco filtri multipli per tipologiaVentilatore
+Allow: /*prefn1=megapixelTotali&prefv1= #Sblocco filtri per megapixelTotali
+Disallow: /*prefn1=megapixelTotali&prefv1=*|* #Blocco filtri multipli per megapixelTotali
+Allow: /*prefn1=tipologiaEBike&prefv1= #Sblocco filtri per tipologiaEBike
+Disallow: /*prefn1=tipologiaEBike&prefv1=*|* #Blocco filtri multipli per tipologiaEBike
+Allow: /*prefn1=attaccoLampada&prefv1= #Sblocco filtri per attaccoLampada
+Disallow: /*prefn1=attaccoLampada&prefv1=*|* #Blocco filtri multipli per attaccoLampada
+Allow: /*prefn1=tipologiaLampada&prefv1= #Sblocco filtri per tipologiaLampada
+Disallow: /*prefn1=tipologiaLampada&prefv1=*|* #Blocco filtri multipli per tipologiaLampada
+
+Allow: /*prefn1=brand&prefv1= #Sblocco filtri per marca 
+
+
+#Blocco spider
+User-agent: msnbot
+Crawl-delay:10
+
+User-agent: bingbot
+Crawl-delay:10
+
+User-agent: 008
+Disallow: /
+
+User-agent: CazoodleBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+#Sitemap
+Sitemap: https://www.euronics.it/sitemap_index.xml

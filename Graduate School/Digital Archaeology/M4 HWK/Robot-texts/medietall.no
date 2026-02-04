@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /*?*
+
+# Content
+Disallow: /aktuelt
+Disallow: /assets
+Disallow: /data
+Disallow: /phpMyAdmin
+

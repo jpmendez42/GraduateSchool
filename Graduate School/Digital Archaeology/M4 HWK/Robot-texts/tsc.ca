@@ -1,0 +1,20 @@
+User-agent: * 
+Disallow: /*Redirect.html
+Disallow: /Content/*
+Disallow: /content/*
+Disallow: /*?*searchterm=
+Disallow: /*?*search=
+Disallow: /*?*dimensions=0 
+Disallow: /pages/trackorder?orderNo=*
+ 
+User-agent: googlebot
+Disallow: /*Redirect.html
+Allow: /content/*
+Allow: /Content/*
+Disallow: /*?*searchterm=
+Disallow: /*?*search=
+Disallow: /*?*dimensions=0 
+Disallow: /pages/trackorder?orderNo=*
+
+User-agent: Googlebot-Image
+Disallow:

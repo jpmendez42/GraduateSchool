@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /kosik*
+Disallow: /pobocka-*
+Disallow: /search*
+Allow: /
+
+Sitemap: https://export.dek.cz/dek/sitemap.xml

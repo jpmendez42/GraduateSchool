@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /_resources/svg/dawum_amp_icon.svg
+Disallow: /_resources/svg/liberapay.svg
+Disallow: /_resources/svg/social_media/
+Disallow: /_resources/svg/coat_of_arms/
+Disallow: /_resources/png/dawum_amp_icon_128px.png
+Disallow: /_resources/png/social_media/
+Disallow: /_resources/png/coat_of_arms/
+Disallow: /_resources/ico/
+Disallow: /_resources/asc/
+
+Sitemap: https://dawum.de/_resources/php/sitemap.php

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /cms/
+
+User-agent: YandexBot
+Disallow: /koop/*
+
+User-agent: Jooblebot
+Disallow: /koop/*
+
+User-agent: AhrefsBot
+Disallow: /koop/*
+
+User-agent: MJ12bot
+Disallow: /koop/*
+
+User-Agent: facebookexternalhit
+Disallow: /*
+
+User-Agent: meta-externalagent
+Disallow: /*

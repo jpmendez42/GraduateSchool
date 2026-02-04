@@ -1,0 +1,77 @@
+
+
+
+<body id="errorPage">
+    <img src="/Content/img/error.png" />
+    <h1 class="text-danger">عملية غير صحيحة.</h1>
+    <h2 class="text-danger">لقد قمت بعملية خاطئة داخل النظام.</h2>
+    <p><b>إذا كنت تعتقد أن العملية صحيحة الرجاء الاتصال بمدير النظام لحل المشكلة. وشكراً.</b></p>
+    <p><a href="/Home/Logout">اذا كنت تريد تسجيل الخروج اضغط هنا</a></p>
+</body>
+
+<style>
+    /* unvisited link */
+    a:link {
+        color: white;
+    }
+
+    /* visited link */
+    a:visited {
+        color: white;
+    }
+
+    /* mouse over link */
+    a:hover {
+        color: Highlight;
+    }
+
+    /* selected link */
+    a:active {
+        color: Highlight;
+    }
+
+
+    #errorPage {
+        /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00685f+0,005e46+100 */
+        background: #00685f; /* Old browsers */
+        background: -moz-linear-gradient(top, #00685f 0%, #005e46 100%); /* FF3.6-15 */
+        background: -webkit-linear-gradient(top, #00685f 0%,#005e46 100%); /* Chrome10-25,Safari5.1-6 */
+        background: linear-gradient(to bottom, #00685f 0%,#005e46 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00685f', endColorstr='#005e46',GradientType=0 ); /* IE6-9 */
+    }
+        #errorPage .breadCramb {
+            display: none;
+        }
+
+        #errorPage nav {
+            display: none;
+        }
+
+        #errorPage footer {
+            display: none;
+        }
+
+        #errorPage h1 {
+            color: #fff;
+            text-align: center;
+            border-bottom: 1px solid rgba(204, 204, 204, 0.23);
+            padding-bottom: 24px;
+        }
+
+        #errorPage h2 {
+            color: antiquewhite;
+            text-align: center;
+        }
+
+        #errorPage p {
+            color: #ccc;
+            text-align: center;
+        }
+
+        #errorPage img {
+            width: 290px;
+            margin: 50px auto;
+            display: table;
+        }
+
+</style>

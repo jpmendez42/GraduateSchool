@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /search/
+Disallow: /search
+Disallow: /file/
+
+User-agent: *
+Allow: /

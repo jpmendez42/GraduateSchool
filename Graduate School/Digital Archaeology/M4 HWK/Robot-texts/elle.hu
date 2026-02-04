@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+Disallow: /admin
+Disallow: /kereses
+Disallow: /search
+Disallow: *utm*=
+Disallow: *?page=*

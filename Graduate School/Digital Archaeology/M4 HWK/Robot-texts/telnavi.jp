@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow:
+User-agent: GPTBot
+User-agent: CCBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+Disallow: /phone/*/report

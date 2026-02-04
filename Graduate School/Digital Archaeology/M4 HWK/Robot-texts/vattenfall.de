@@ -1,0 +1,15 @@
+# robots.txt for vattenfall.de
+User-agent: *
+# Verzeichnis für Bilder von Webcam
+Disallow: /webcam-kraftwerk/
+# Verzeichnis für Bilder und Dokumente
+Disallow: /google_map/
+Disallow: /resources/
+Disallow: /system/
+Disallow: /de/file/
+Disallow: /files/
+Disallow: /flash/
+Disallow: /cps/
+Disallow: /ma-vf_de-ecards/
+Disallow: /eventsystem/
+Disallow: /wartung/

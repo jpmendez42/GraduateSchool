@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /meinhvv
+Disallow: /geofox
+Disallow: /linking-service
+Disallow: /admingui
+Disallow: /i18n
+Disallow: /config
+Disallow: /mail-template
+Disallow: /abo-pt-service
+Disallow: /x10-service
+Disallow: /map
+Disallow: /freizeit
+Disallow: /resource/blob/39434/-/hvv_spar-coupons_freizeit-data.pdf
+Disallow: /profiticket-gutschein
+Disallow: /hilfe-hvv-card-app
+
+Sitemap: https://www.hvv.de/service-sitemap-1f100b9582ef550d1e3e1f57d82a882e-sitemap_index.xml
+Sitemap: https://www.hvv.de/service-sitemap-9bd834098179727894a35e430ca0538a-sitemap_index.xml

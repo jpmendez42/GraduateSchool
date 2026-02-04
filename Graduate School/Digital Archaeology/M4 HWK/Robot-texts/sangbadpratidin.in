@@ -1,0 +1,28 @@
+User-agent: *
+Allow: /
+Disallow: */wp-admin/*
+Disallow: /wp-json/
+Disallow: /*-autosave-v1-*.html$
+Disallow: *utm_*
+Disallow: *?*
+Disallow: */-*
+Disallow: /search*
+Disallow: *//*
+
+User-agent: Googlebot-news
+Allow: /
+Disallow: /terms-and-conditions/
+
+#Baiduspider
+User-agent: Baiduspider
+Disallow: /
+
+#Majestic
+User-agent: MJ12bot
+Disallow: /
+
+
+Sitemap: https://www.sangbadpratidin.in/sitemap_index.xml
+Sitemap: https://www.sangbadpratidin.in/news-sitemap.xml
+Sitemap: https://www.sangbadpratidin.in/page-sitemap.xml
+Sitemap: https://www.sangbadpratidin.in/category-sitemap.xml

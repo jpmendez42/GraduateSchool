@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /employees
+Disallow: /gridx-cookie
+
+Sitemap: https://www.gridx.ai/sitemap.xml

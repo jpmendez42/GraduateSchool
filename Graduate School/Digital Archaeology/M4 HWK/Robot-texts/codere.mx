@@ -1,0 +1,100 @@
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+User-Agent: *
+Disallow: */landing-pages/*
+Disallow: */liveTextLandingPages/*
+Disallow: */landingpages/*
+Disallow: /es/online-game
+Disallow: */online-game/*
+Disallow: */igaming/games-info/*
+Disallow: */promociones/*
+Disallow: /promocionesss
+Disallow: */promotions/*
+#Disallow: */Promotions/*
+Disallow: /ayuda/contrasena-olvidada
+Disallow: /casinoCazadoresDelJuegoWidgetPage
+Disallow: /codere_codere-theme/js/app-out/img/js__components__common__BackToTop__img__Arrow-Green2.svg
+Disallow: /deposito-new
+Disallow: /undefined
+Disallow: /yak/promociones
+Disallow: /es_MX/
+Disallow: /es_MX
+Disallow: /usuario-olvidado
+#Disallow: /library/00Promo2022/*
+Disallow: /registro$
+Disallow: /historial-de-bonos$
+Disallow: /historial-new$
+Disallow: /mi-cuenta/verificación-documental
+Disallow: /mi-cuenta/recuperación-de-contraseña
+Disallow: /información-legal/reglas-políticas
+Disallow: /depósitos/depósito-en-book-autorizado
+Disallow: /deposito/$
+Disallow: /deposito$
+Disallow: /in-on$
+Disallow: *customTranslations.json
+Disallow: /casino/cazadores-del-juego/tc
+Disallow: /webContent/es_MX_*
+Disallow: /ayuda/beneficiario
+Disallow: /sitemap.xml
+Disallow: /sitemap_base.xml
+# TRACKING & AFFILIATE
+Disallow: /*?utm_
+Disallow: /*&utm_
+Disallow: /*?pid=
+Disallow: /*&pid=
+Disallow: /*?aid=
+Disallow: /*&aid=
+Disallow: /*?ref=
+Disallow: /*&ref=
+Disallow: /*?trk=
+Disallow: /*&trk=
+Disallow: /*?key=
+Disallow: /*&key=
+Disallow: /*?shortlink=
+Disallow: /*&shortlink=
+Disallow: /*?utm_cmp_rs=
+Disallow: /*&utm_cmp_rs=
+
+# PROMO/AUTH STATE CONTROLS (non-content-altering)
+Disallow: /*?authenticated=
+Disallow: /*&authenticated=
+Disallow: /*?promoData=
+Disallow: /*&promoData=
+Disallow: /*?vipstats=
+Disallow: /*&vipstats=
+
+# UI/CLIENT FLAGS
+Disallow: /*?clientType=
+Disallow: /*&clientType=
+Disallow: /*?clientPlatform=
+Disallow: /*&clientPlatform=
+Disallow: /*?ctype=
+Disallow: /*&ctype=
+Disallow: /*?ptype=
+Disallow: /*&ptype=
+Disallow: /*?lang=
+Disallow: /*&lang=
+Disallow: /*?login_action=
+Disallow: /*&login_action=
+Disallow: /*?back_url=
+Disallow: /*&back_url=
+Disallow: /*?amp=
+Disallow: /*&amp=
+
+# MISCELLANEOUS TECH/TEST
+Disallow: /*?ts=
+Disallow: /*&ts=
+Disallow: /*?test=
+Disallow: /*&test=
+Disallow: /*?hideHeader=
+Disallow: /*&hideHeader=
+Disallow: /*?hideFooter=
+Disallow: /*&hideFooter=
+Disallow: /*?source_caller=
+Disallow: /*&source_caller=
+
+Sitemap: https://www.codere.mx/library/sitemap.xml

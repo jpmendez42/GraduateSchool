@@ -1,0 +1,14 @@
+# See https://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+Sitemap: https://paiza.jp/sitemap.xml.gz
+Sitemap: https://paiza.jp/video_sitemap.xml
+
+# 全般のbotはアクセスを制限しない
+User-agent: *
+Disallow:
+
+# baiduspiderのアクセスは頻度を制限
+User-agent: baiduspider
+Disallow:
+Crawl-delay:300

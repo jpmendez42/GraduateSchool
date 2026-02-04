@@ -1,0 +1,23 @@
+User-agent: *
+Sitemap: https://ecofamily.hu/media/sitemap/sitemap.xml
+
+Disallow: /*?
+Disallow: /_nuxt/
+Disallow: /api/
+Disallow: /css/
+Disallow: /img/
+Disallow: /uikit
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/createPassword
+Disallow: /reset-password/
+Disallow: /my-account/
+Disallow: /my-account/addresses-details/
+Disallow: /my-account/my-newsletter/
+Disallow: /my-account/my-wishlist/
+Disallow: /my-account/order-history/
+Disallow: /my-account/my-reviews/
+
+User-agent: SiteAuditBot
+Allow: /

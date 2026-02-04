@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /digitalisujsag
+Disallow: /digitalisujsag_bejelentkezes
+Disallow: /json/*
+Disallow: /default.asp
+Disallow: /articles/article.php
+Disallow: /PrintArticle.asp
+Sitemap: https://nepszava.hu/sitemapindex.xml

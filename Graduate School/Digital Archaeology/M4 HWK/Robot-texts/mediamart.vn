@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /register
+Disallow: /cart
+Disallow: /login
+Disallow: /admin
+Disallow: /user
+Allow: /
+
+User-agent: AhrefsSiteAudit
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+Crawl-delay: 5
+
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://mediamart.vn/sitemap.xml
+Sitemap: https://mediamart.vn/sitemap_product_ph.xml
+Sitemap: https://mediamart.vn/sitemap_news_ph.xml
+Sitemap: https://mediamart.vn/sitemap_product_pm.xml
+Sitemap: https://mediamart.vn/sitemap_news_pm.xml
+Sitemap: https://mediamart.vn/sitemap_product_pl.xml
+Sitemap: https://mediamart.vn/sitemap_news_pl.xml

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /contests/*/standings/
+Disallow: /contests/*/submissions/
+Disallow: /contests/*/clarifications/
+Disallow: /submissions/
+Disallow: /servertime/
+
+Disallow: /users/*/history/
+
+User-agent: bingbot
+Crawl-Delay: 30
+
+User-agent: Twitterbot
+Disallow:

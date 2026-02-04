@@ -1,0 +1,9 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: /cms
+Disallow: /cms/*
+Disallow: /search
+Disallow: /search/*
+
+Sitemap: https://carnegieendowment.org/sitemap_index.xml
+# END nuxt-robots

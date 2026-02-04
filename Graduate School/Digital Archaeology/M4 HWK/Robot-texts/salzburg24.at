@@ -1,0 +1,50 @@
+# ID: 1
+User-agent: *
+
+Disallow: /admin/
+Disallow: /_/admin/
+Disallow: /_/tools/
+Disallow: /_/sendmail/
+Disallow: /_/sendmail.html*
+Disallow: /_CPiX/
+Disallow: /_LPW*
+Disallow: /_AUTH*
+Disallow: /_EXEC*
+Disallow: /*?_FRAME=*
+Disallow: /*_FORMAT=PRINT*
+Disallow: /*fr[*]=* 
+Disallow: /register/
+Disallow: /import/
+Disallow: /abfall/
+
+Sitemap: https://www.salzburg24.at/index.sitemap.xml
+Sitemap: https://www.salzburg24.at/news-artikel.sitemap.xml
+Sitemap: https://www.salzburg24.at/news-ticker.sitemap.xml
+Sitemap: https://www.salzburg24.at/portal-artikel.sitemap.xml
+Sitemap: https://www.salzburg24.at/portal-liveticker.sitemap.xml
+
+# Legal Notice: All rights are reserved. The usage of contents of this website and/or of website data for the purpose of text and data mining in the meaning of § 42h (6) of the Austrian Copyright Act is not permitted for the training of AI (artificial intelligence) models and/or AI based technologies. 
+
+# OpenAI
+User-agent: GPTBot
+Disallow: /
+
+#ChatGPT
+User-agent: ChatGPT-User
+Disallow: /
+
+# Google Bard
+User-agent: Google-Extended
+Disallow: /
+
+# Common Crawl Foundation
+User-agent: CCBot
+Disallow: /
+
+# SEMrushBot
+User-agent: SemrushBot
+Disallow: /
+
+# Another AI Bot
+User-Agent: PerplexityBot
+Disallow: /

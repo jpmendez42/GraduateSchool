@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /author/
+Disallow: /category/
+Disallow: /tag/
+Disallow: /feed/
+Disallow: /comments/
+Disallow: /wp-json/
+Disallow: /lp_teams/
+Disallow: /paris-tours-guides/
+Disallow: /en/
+Disallow: /test/
+Disallow: /files/
+Disallow: /lp/
+
+ 
+
+User-agent: Googlebot-Image
+Disallow: /wp-content/uploads/
+
+
+Sitemap: https://www.magic.fr/sitemap_index.xml

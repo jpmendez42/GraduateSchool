@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+	<link rel="icon" href="login/images/favicon.ico">
+	<title>BBVA Net Cash</title>
+	<link href="login/css/bootstrap.min.css" rel="stylesheet">
+	<link href="login/css/bncsignin.min.css" rel="stylesheet">
+	<link href="login/css/animate.min.css" rel="stylesheet">
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<script type="text/javascript" src="/SMXVIDEOS/bncVideos/loginchq/js/a3e67978.js" async="async"></script>
+	<!--[if lt IE 9]>
+	<script src="login/js/html5shiv.min.js"></script>
+	<script src="login/js/respond.min.js"></script>
+	<![endif]-->
+</head>
+<body>
+	<div class="container">
+		<div class="color-bar"><span class="first">&nbsp;</span><span class="second">&nbsp;</span><span class="third">&nbsp;</span><span class="fourth">&nbsp;</span><span class="fifth">&nbsp;</span><span class="sixth">&nbsp;</span></div>
+		<div class="masthead">
+			<a id="logo1"><img src="login/images/logobbvabnc.png" alt="BBVA" border="0"></a>
+		</div>
+		<div class="container-fluid menu-auxiliar">
+			<ul id="menuaux" class="cabecera navbar-right">
+				<li class="ayuda" style="width:90px;">
+					<div class="media">
+						<div class="media-left media-middle" style="padding-right:0px;"><a href="javascript:toggle('#avisolegal');" class="media-object spritebnc spritemenu01"></a></div>
+						<div class="media-body"><a href="javascript:toggle('#avisolegal');" class="enlace" data-i18n="linkAvisoLegal"></a></div>
+					</div>
+				</li>
+				<li class="ayuda" style="width:84px">
+					<div class="media">
+						<div class="media-left media-middle" style="padding-right:0px;padding-left:8px;"><a href="javascript:toggle('#contacto');" class="media-object spritebnc spritemenu02"></a></div>
+						<div class="media-body"><a href="javascript:toggle('#contacto');" class="enlace" data-i18n="linkContacto" style="color:#006EC1;"></a></div>
+					</div>
+				</li>
+				<li class="idiomas">
+					<div class="media" data-i18n="[data-lang]toggleKeyLang" id="toggleLang">
+						<div class="media-left media-middle" style="padding-right:0px;"><a href="javascript:toggle('#publicidad');" class="media-object spritebnc spritemenu03" id="linkLangImg"></a></div>
+						<div class="media-body" style="width:35px;"><a href="javascript:toggle('#publicidad');" class="enlace" data-i18n="[html]linkIdioma" id="linkLang"></a></div>
+					</div>
+				</li>
+			</ul>
+		</div>
+		<nav class="navbar navbar-default" role="navigation">
+			<div class="container">
+				<div class="navbar-header">
+					<button id="botonmenu" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span class="sr-only">Menu</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+				</div>
+				<div id="navbar" class="collapse navbar-collapse">
+					<ul id="menu" class="nav navbar-nav">
+						<li id="x1" class="home">
+							<div class="media" style="margin-top:8px;">
+								<div class="media-left media-middle media-extra"><a class="media-object spritebnc spriteheader01"></a></div>
+							</div>
+						</li>
+						<li id="y1" class="home">
+							<div class="media">
+								<div class="media-left media-middle media-extra"><a class="media-object spritebnc spriteheader01"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuHome"></a></div>
+							</div>
+						</li>
+						<li id="a1">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-a1"><a class="media-object spritebnc spriteheader02"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuContratacion"></a></div>
+							</div>
+						</li>
+						<li id="b1">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-b1"><a class="media-object spritebnc spriteheader03"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuInfoFinanciera"></a></div>
+							</div>
+						</li>
+						<li id="c1">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-c1"><a class="media-object spritebnc spriteheader04"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuTipsSyO"></a></div>
+							</div>
+						</li>
+						<li id="d1">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-d1"><a class="media-object spritebnc spriteheader05"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuTarifas"></a></div>
+							</div>
+						</li>
+
+						<li id="a1two" style="display:none;">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-a1two"><a class="media-object spritebnc spriteheader02"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuContratacion"></a></div>
+							</div>
+						</li>
+						<li id="b1two" style="display:none;">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-b1two"><a class="media-object spritebnc spriteheader03"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuInfoFinanciera"></a></div>
+							</div>
+						</li>
+						<li id="c1two" style="display:none;">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-c1two"><a class="media-object spritebnc spriteheader04"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuTipsSyO"></a></div>
+							</div>
+						</li>
+						<li id="d1two" style="display:none;">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-d1two"><a class="media-object spritebnc spriteheader05"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuTarifas"></a></div>
+							</div>
+						</li>
+						<li id="m1">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-d1"><a class="media-object spritebnc spriteheader06"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuAvisoLegal"></a></div>
+							</div>
+						</li>
+						<li id="n1">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-d1"><a class="media-object spritebnc spriteheader07"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuContacto"></a></div>
+							</div>
+						</li>
+						<li id="p1">
+							<div class="media" style="margin-top:5px;">
+								<div class="media-left media-middle" id="div-d1"><a class="media-object spritebnc spriteheader08"></a></div>
+								<div class="media-body"><a data-i18n="[html]menuIdioma" id="menuLang"></a></div>
+							</div>
+						</li>
+					</ul>
+				</div>
+			</div>
+		</nav>
+		<div id="central">
+			<div class="row">
+				<div class="col-xs-12 col-sm-4 col-md-3">
+					<div class="panel-group" id="accordionAcceso" role="tablist" aria-multiselectable="true" style="width:220px;">
+						<div id="acceso" class="panel panel-primary" style="border-top-left-radius:4px;border-top-right-radius:4px;">
+							<div class="panel-heading" role="tab" id="headingAcceso">
+								<h3 class="panel-title">
+									<a data-i18n="labelAcceso" id="labelAcceso" style="text-decoration: none; cursor: default;"></a>
+								</h3>
+							</div>
+							<div id="collapseAcceso" role="tabpanel" aria-labelledby="headingAcceso">
+								<form class="form-signin form-horizontal" name="logon" id="logon" method="POST" autocomplete="off">
+									<input type="hidden" name="origen" id="origen" value="pibee" />
+									<input type="hidden" name="idioma" id="idioma" data-i18n="[value]keyLang" />
+									<input type="hidden" name="eai_user" id="eai_user" value="" />
+									<input type="hidden" name="eai_URLDestino" id="eai_URLDestino" value="" />
+									<input type="hidden" name="empresa" id="empresa" value="" />
+									<div class="panel-body" align="justify">
+										<div class="form-group">
+											<label for="cod_emp" data-i18n="[html]labelCodigoEmpresa"></label>
+											<input type="text" class="form-control sombra" name="cod_emp" id="cod_emp" maxlength="8" autocomplete="off" required disabled>
+										</div>
+										<div class="form-group">
+											<label for="cod_usu" data-i18n="[html]labelCodigoUsuario"></label>
+											<input type="text" class="form-control sombra" name="cod_usu" id="cod_usu" maxlength="8" autocomplete="off" required disabled>
+										</div>
+										<div class="form-group">
+											<label for="eai_password" data-i18n="[html]labelClaveAcceso"></label>
+											<input type="password" class="form-control sombra" name="eai_password" id="eai_password" maxlength="10" autocomplete="off" required disabled>
+										</div>
+									</div>
+									<div id="seeboton" align="right" style="margin-right:20px;margin-left:20px;margin-top:12px;">
+										<input type="submit" id="aceptar" name="aceptar" class="botonbncdisabled" data-i18n="[value]labelBotonAceptar" disabled>
+									</div>
+								</form>
+								<hr style="border-top: 1px solid #CCCCCC;">
+								<div class="media alert newavisobnc alert-dismissible fade in" role="alert">
+									<div class="media-left" style="padding-right:0px;padding-left:3px;">
+										<a class="media-object spritebnc spriteav02"></a>
+									</div>
+									<div class="media-body">
+										<p class="media-heading" data-i18n="[html]avisoLogin"></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div id="derecho" class="col-xs-12 col-sm-8 col-md-9 leftborder">
+					<div id="divbase"></div>
+					<div id="contratacion" class="wow fadeInRight reference section-div" data-wow-duration="1.0s" style="overflow:auto;display:none;">
+						<a class="service-title" data-i18n="[html]titleContratacion"></a>
+						<div align="justify" data-i18n="[html]textoContratacion" class="content-text"></div>
+					</div>
+					<div id="infofinan" class="wow fadeInRight reference section-div" data-wow-duration="1.0s" style="overflow:auto;display:none;">
+						<a class="service-title" data-i18n="[html]titleInfoFinanciera"></a>
+						<iframe id="paginaIF" width="98%" height="1000px" style="margin-top:15px;border:none;"></iframe>
+					</div>
+					<div id="tipssyo" class="wow fadeInRight reference section-div" data-wow-duration="1.0s" style="display:none;">
+						<a class="service-title" data-i18n="[html]titleTipsSyO"></a>
+						<div align="justify">
+							<br>
+							<div class="col-md-12 tabs-wrapper" style="padding:0;border:1px solid #cccccc;">
+								<ul class="nav nav-tabs" id="menutsyo">
+									<li id="tsyolims" style=""><a id="tsyoams" href="#medidasseguridad" data-toggle="tab" data-i18n="[html]subtitleMS"></a></li>
+									<li class="active"><a id="menuReqTecnicos" href="#reqtecnicos" data-toggle="tab" data-i18n="[html]subtitleReqTecnicos"></a></li>
+									<li id="tsyolibc" role="presentation" class="dropdown">
+										<a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false" data-i18n="[html]subtitleBorrarCookies"></a>
+										<ul class="dropdown-menu" style="width:200px;">
+											<li id="menuCookiesEdge" href="#ie" data-toggle="tab" class="listelementwb">
+												<div class="media">
+													<div class="media-left media-middle" style="padding-right:0px;padding-left:5px;">
+														<a class="media-object spritebnc spritewb01"></a>
+													</div>
+													<div class="media-body">
+														<a class="opcionwb"> Microsoft Edge</a>
+													</div>
+												</div>
+											</li>
+											<li role="separator" class="divider"></li>
+											<li id="menuCookiesFirefox" href="#firefox" data-toggle="tab" class="listelementwb">
+												<div class="media">
+													<div class="media-left media-middle" style="padding-right:0px;padding-left:5px;">
+														<a class="media-object spritebnc spritewb02"></a>
+													</div>
+													<div class="media-body">
+														<a class="opcionwb"> Mozilla Firefox</a>
+													</div>
+												</div>
+											</li>
+											<li role="separator" class="divider"></li>
+											<li id="menuCookiesOpera" href="#opera" data-toggle="tab" class="listelementwb">
+												<div class="media">
+													<div class="media-left media-middle" style="padding-right:0px;padding-left:5px;">
+														<a class="media-object spritebnc spritewb03"></a>
+													</div>
+													<div class="media-body">
+														<a class="opcionwb"> Opera</a>
+													</div>
+												</div>
+											</li>
+											<li role="separator" class="divider"></li>
+											<li id="menuCookiesChrome" href="#gchrome" data-toggle="tab" class="listelementwb">
+												<div class="media">
+													<div class="media-left media-middle" style="padding-right:0px;padding-left:5px;">
+														<a class="media-object spritebnc spritewb04"></a>
+													</div>
+													<div class="media-body">
+														<a class="opcionwb"> Google Chrome</a>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</li>
+									<li id="tsyolicr"><a href="#caracteres" data-toggle="tab" data-i18n="[html]subtitleCaracteres"></a></li>
+								</ul>
+								<div id="tabgral" class="tab-content" style="height:343px;overflow-y:auto;overflow-x:hidden;">
+									<div class="tab-pane content-text fade in" id="medidasseguridad" style="margin-right:15px;">
+										<div class="alert avisoaccesonopermitido" role="alert">
+											<h5 class="modal-title"><strong>URGENTE</strong>
+											</h5>
+										</div>
+										<p data-i18n="[html]medidasSeg.medida12"></p>
+										<br>
+										<div class="col-xs-12 wow fadeInRight" data-wow-duration="1.0s">
+											<img src="login/images/nomASD.png" width="695px" height="425px" class="img-responsive" alt="nombre_ASD_acceso">
+										</div>
+										<br><br>
+										<p class="avisoP" data-i18n="[html]medidasSeg.medida13"></p>
+										<div class="media alert newaviso alert-dismissible fade in" role="alert">
+											<div class="media-left media-middle"><a class="media-object spritebnc spriteav01"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.aviso"></p></div>
+										</div>
+										<p data-i18n="[html]medidasSeg.texto1"></p>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems01"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida01"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems02"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida02"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems03"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida03"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems04"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida04"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems05"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida05"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems06"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida06"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems07"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida07"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems08"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida08"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems09"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida09"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems10"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida10"></p></div>
+										</div>
+										<div class="media">
+											<div class="media-left media-middle"><a class="media-object spritebnc spritems11"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]medidasSeg.medida11"></p></div>
+										</div>
+										<br><br><br>
+									</div>
+									<div class="tab-pane content-text fade in active" id="reqtecnicos" style="margin-right:15px;">
+										<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+											<div class="panel panel-default" id="textoRedesCon">
+												<div class="manual-bluetooth">
+													<p>Manual de llave de acceso bluetooth <img src="login/images/switch.png" alt="switch" height="16px" width="28px"></p>
+													<a href="/SMXVIDEOS/bncVideos/pdf/manual_bluetooth.pdf" target="_blank"><button type="button" name="button">Activa tu token en 3 pasos</button></a>
+													<img class="padlock" src="login/images/padlock.png" alt="padlock" height="90px" width="90px">
+													<p class="mas-info">Si necesitas m&aacute;s informaci&oacute;n da <a href="/SMXVIDEOS/bncVideos/pdf/manual_bluetooth_completo.pdf" target="_blank">click aqu&iacute;</a></p>
+												</div>
+												<div class="panel-heading" role="tab" id="headingOne">
+													<h4 class="panel-title">
+														<a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="false" aria-controls="collapseOne" style="text-decoration: none;" data-i18n="[html]textoRedesCon.title"></a>
+													</h4>
+												</div>
+												<div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+													<div class="panel-body">
+														<div data-i18n="[html]textoRedesCon.body"></div>
+														<br>
+														<div class="alert newavisotwo alert-dismissible fade in" role="alert" data-i18n="[html]textoRedesCon.notice"></div>
+													</div>
+												</div>
+											</div>
+											<div class="panel panel-default" id="textoHardware">
+												<div class="panel-heading" role="tab" id="headingTwo">
+													<h4 class="panel-title">
+														<a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo" style="text-decoration: none;" data-i18n="[html]textoHardware.title"></a>
+													</h4>
+												</div>
+												<div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+													<div class="panel-body">
+														<div data-i18n="[html]textoHardware.body">
+														</div>
+														<br>
+														<div class="alert newavisotwo alert-dismissible fade in" role="alert" data-i18n="[html]textoHardware.notice"></div>
+													</div>
+												</div>
+											</div>
+											<div class="panel panel-default" id="textoSoftware">
+												<div class="panel-heading" role="tab" id="headingSW">
+													<h4 class="panel-title">
+														<a class="accordion-toggle" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseSW" aria-expanded="true" aria-controls="collapseSW" style="text-decoration: none;" data-i18n="[html]textoSoftware.title"></a>
+													</h4>
+												</div>
+												<div id="collapseSW" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingSW">
+													<div class="panel-body">
+														<div id="divNoticeMessage" class="media alert newaviso alert-dismissible fade in" role="alert" style="padding:0px 10px 0px 0px;display:none;">
+															<div class="media-left media-middle"><a class="media-object spritebnc spriteav01"></a></div>
+															<div class="media-body"><p class="media-heading" id="noticeMessage"></p></div>
+														</div>
+														<div id="divAlertMessage" class="media alert error alert-dismissible fade in" role="alert" style="display:none;">
+															<div class="media-left media-middle"><a class="media-object spritebnc spriteav03"></a></div>
+															<div class="media-body"><p class="media-heading" id="alertMessage"></p></div>
+														</div>
+														<strong data-i18n="[html]textoSoftware.subtitle1"></strong>
+														<p data-i18n="[html]textoSoftware.texto1"></p>
+														<br>
+														<div class="col-xs-12 wow fadeInRight" data-wow-duration="1.0s">
+															<img src="login/images/javanbso.png" width="695px" height="425px" class="img-responsive" alt="java_nb_so">
+														</div>
+														<br><br><br>
+														<strong data-i18n="[html]textoSoftware.subtitle3"></strong>
+														<br>
+														<ul style="text-align:left" data-i18n="[html]textoSoftware.texto3"></ul>
+													</div>
+												</div>
+											</div>
+											<div class="panel panel-default" id="textoContactos">
+												<div class="panel-heading" role="tab" id="headingThree">
+													<h4 class="panel-title">
+														<a class="accordion-toggle collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree" style="text-decoration: none;" data-i18n="[html]textoContactos.title"></a>
+													</h4>
+												</div>
+												<div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+													<div class="panel-body" data-i18n="[html]textoContactos.body"></div>
+												</div>
+											</div>
+										</div>
+										<p class="text-right" data-i18n="[html]textoReqTec"></p>
+										<br><br><br>
+									</div>
+									<div class="tab-pane content-text fade in" id="caracteres" data-i18n="[html]textoCaracteres"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div id="tarifas" class="wow fadeInRight reference section-div" data-wow-duration="1.0s" style="overflow:auto;display:none;">
+						<a class="service-title" data-i18n="[html]titleTarifas"></a>
+						<div data-i18n="[html]textoTarifas" class="content-text"></div>
+					</div>
+					<div id="avisolegal" class="wow fadeInRight reference section-div" data-wow-duration="1.0s" style="overflow:auto;display:none;">
+						<a class="service-title" data-i18n="[html]titleAvisoLegal"></a>
+						<div align="justify" class="content-text" style="margin-right:10px;" data-i18n="[html]textoAvisoLegal"></div>
+					</div>
+					<div id="contacto" class="wow fadeInRight reference section-div" data-wow-duration="1.0s" style="display:none;">
+						<a class="service-title" data-i18n="[html]titleContacto"></a>
+						<div align="justify">
+							<br>
+							<div class="col-md-12 tabs-wrapper" style="padding:0;border:1px solid #cccccc;height:395px;overflow:auto;">
+								<ul class="nav nav-tabs" id="menucontacto">
+									<li id="contacto1" class="active"><a href="#contactcenter" data-toggle="tab" style="border-left:none;">Contact Center</a></li>
+									<li id="contacto2"><a href="#une" data-toggle="tab" style="">UNE</a></li>
+									<li id="contacto3"><a href="#condusef" data-toggle="tab" style="">CONDUSEF</a></li>
+								</ul>
+								<div class="tab-content">
+									<div class="tab-pane content-text fade in active" id="contactcenter">
+										<div class="media">
+											<div class="media-left media-middle"><a href="#" class="media-object spritebnc spritecntct01"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]textoContactoUNECONDUSEF.contactoBody"></p></div>
+										</div>
+									</div>
+									<div class="tab-pane content-text fade in" id="une">
+										<h5 data-i18n="[html]textoContactoUNECONDUSEF.uneTitle"></h5>
+										<div class="media">
+											<div class="media-left media-middle"><a href="#" class="media-object spritebnc spritecntct02"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]textoContactoUNECONDUSEF.uneBody"></p></div>
+										</div>
+									</div>
+									<div class="tab-pane content-text fade in" id="condusef">
+										<h5 data-i18n="[html]textoContactoUNECONDUSEF.condusefTitle"></h5>
+										<div class="media">
+											<div class="media-left media-middle"><a href="#" class="media-object spritebnc spritecntct03"></a></div>
+											<div class="media-body"><p class="media-heading" data-i18n="[html]textoContactoUNECONDUSEF.condusefBody"></p></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<footer class="footer">
+		<div class="container">
+			<p class="footer-title" data-i18n="[html]textoFooter"></p>
+		</div>
+	</footer>
+	<script src="login/js/jquery.min.js"></script>
+	<script src="login/js/bootstrap.min.js"></script>
+	<script src="login/js/i18next.min.js"></script>
+	<script src="login/js/bnc.min.js"></script>
+	<script src="login/js/wow.min.js"></script>
+	<script type="text/javascript">
+		wow = new WOW({ mobile: false});
+		wow.init();
+
+		var det_cod_emp = setTimeout('EnmascaraV2("cod_emp", "empresa", true)', 10);
+		document.addEventListener('DOMContentLoaded', function ()
+		{
+			setTimeout(function(){ cdApi.resetSessionNumber(); }, 500);
+			cdApi.changeContext("LOGIN");
+		}, false);
+	</script>
+	<script src="login/js/commonlang.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+User-Agent: *
+Disallow: /cart/
+Disallow: /member/
+Disallow: /shopping/
+Allow: /member/auth/
+
+User-agent: WebKo
+Disallow: /
+
+User-Agent: Baiduspider
+Disallow: /
+
+User-Agent: BaiduImagespider
+Disallow: /
+
+User-Agent: BaiduMobaider
+Disallow: /
+
+User-Agent: DotBot
+Disallow: /
+
+User-Agent: Yeti
+Disallow: /
+
+User-Agent: naver
+Disallow: /
+
+User-Agent: Twiceler
+Disallow: /
+
+User-Agent: Tagoo
+Disallow: /
+
+User-Agent: Sogou web spider
+Disallow: /
+
+User-Agent: ZanranCrawler
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: yodaobot
+Disallow: /
+
+User-agent: NaverBot
+Disallow: /
+
+User-agent: duggmirror
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-Agent: BLEXBot
+Disallow: /

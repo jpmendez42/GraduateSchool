@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cart
+Disallow: /login
+Disallow: /account
+Sitemap: https://www.coin.it/it-it/sitemap_index.xml

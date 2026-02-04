@@ -1,0 +1,11 @@
+User-agent: *
+
+Allow: /
+Disallow: /certificate
+Disallow: /wp-admin/
+Disallow: /feed/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /verify-certificate
+
+Sitemap: https://www.guvi.in/sitemap.xml
+Sitemap: https://www.guvi.in/blog/sitemap_index.xml

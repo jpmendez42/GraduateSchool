@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /photo-gallery/
+Disallow: /kl.cgi
+Disallow: /log.cgi
+Disallow: /manual.cgi
+Disallow: /menu1*
+Disallow: /menu2*
+Disallow: /noid.cgi
+Disallow: /notfound.cgi
+Disallow: /thbbs.cgi
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://z-z.jp/sitemap2.xml

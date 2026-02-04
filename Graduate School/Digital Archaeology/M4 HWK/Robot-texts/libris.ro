@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /cart/products.jsp
+Disallow: /ComandaPas2.jsp
+Disallow: /comandaTa.jsp
+Disallow: /s.jsp
+Disallow: /ec.jsp
+Disallow: /tnl.jsp
+Disallow: /adm2/
+Disallow: /*2pau
+Disallow: /*2ptt
+Disallow: /*2ptu
+Disallow: /*2prp
+Disallow: /*2pdlst
+
+

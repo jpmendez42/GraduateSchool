@@ -1,0 +1,58 @@
+User-agent: bingbot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Yahoo
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 3
+Allow: /
+
+Disallow: /cauta/*/pentru*
+Disallow: /cauta/*/culoare*
+Disallow: /cauta/*/producatori*
+Disallow: /pentru-fetite/*/producatori*
+Disallow: /pentru-baieti/*/producatori*
+Disallow: /pentru-fetite/*/colectii*
+Disallow: /pentru-baieti/*/colectii*
+Disallow: /pentru-fetite/*/pret*
+Disallow: /pentru-baieti/*/pret*
+Disallow: /pentru-fetite/*/produse-cu*
+Disallow: /pentru-baieti/*/produse-cu*
+Disallow: /oferte-speciale/*/producatori*
+Disallow: /oferte-speciale/*/colectii*
+Disallow: /oferte-speciale/*/pret*
+Disallow: */listare*
+Disallow: */ordonare*
+Disallow: */stoc*
+Disallow: *,*
+Disallow: /*2pau
+Disallow: /*2ptt
+Disallow: /*2ptu
+Disallow: /*2prp
+Disallow: /*2pdlst
+
+Sitemap: https://www.nichiduta.ro/sitemaps/general-index.xml
+Sitemap: https://www.nichiduta.ro/sitemaps/active_products-index.xml
+Sitemap: https://www.nichiduta.ro/sitemaps/inactive_products-index.xml
+Sitemap: https://www.nichiduta.ro/sitemaps/new_products-index.xml
+Sitemap: https://www.nichiduta.ro/sitemaps/categories_filtered-index.xml
+Sitemap: https://www.nichiduta.ro/sitemaps/subcategories_filtered-index.xml

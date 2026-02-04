@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-News
+User-agent: Googlebot-Video
+User-agent: Bingbot
+User-agent: msnbot
+User-agent: msnbot-media
+User-agent: adidxbot
+User-agent: DuckDuckBot
+User-agent: Qwantbot
+User-agent: Qwantify
+User-agent: Slurp
+Disallow: /lista_frasi
+Allow: /

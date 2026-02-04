@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /reseptihaku/*?
+Disallow: /tuotehaku/*?
+Disallow: /artikkelihaku/*?
+Allow: /reseptihaku/*?sivu=
+Allow: /tuotehaku/*?sivu=
+Allow: /artikkelihaku/*?sivu=
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.valio.fi/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

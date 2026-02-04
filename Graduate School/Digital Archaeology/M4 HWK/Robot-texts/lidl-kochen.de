@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /mein-konto*
+Disallow: /fasttrack/*
+Disallow: /hinzufügen-rezept*
+Disallow: *?*kopieren-rezept*
+Disallow: /%C3%A4ndern-rezept*
+User-agent: ia_archiver
+Disallow: /
+Sitemap: https://www.lidl-kochen.de/sitemap.xml

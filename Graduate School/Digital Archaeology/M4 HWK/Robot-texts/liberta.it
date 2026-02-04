@@ -1,0 +1,19 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /area-riservata/
+Disallow: /private/
+Disallow: /search?
+Disallow: /*?print=
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: facebookexternalhit
+User-agent: Twitterbot
+Allow: /
+
+Sitemap: https://www.liberta.it/sitemap.xml
+Sitemap: https://www.liberta.it/google-news-sitemap.xml
+# END nuxt-robots

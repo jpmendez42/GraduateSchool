@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /client/*
+Disallow: /partner/*
+Disallow: /*[
+Disallow: /*]
+Disallow: /_next/*
+
+Sitemap: https://krystal.io/sitemap.xml

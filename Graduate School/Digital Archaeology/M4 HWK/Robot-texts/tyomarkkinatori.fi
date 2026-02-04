@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /api/
+Disallow: /*/api/
+Disallow: /.rest/errorlog
+
+# new site
+Disallow: /henkiloasiakkaat/oma-tyopolku/
+Disallow: /sv/personkunder/min-karriarstig/
+Disallow: /en/personal-customers/my-job-path/
+
+Disallow: /henkiloasiakkaat/asiointi
+Disallow: /sv/personkunder/arendehantering/
+Disallow: /en/personal-customers/official-matters/
+
+Disallow: /tyonantajat-ja-yrittajat/yrityksen-asiointi/
+Disallow: /sv/arbetsgivare-och-foretagare/foretagets-e-tjanster/
+Disallow: /en/employers-and-entrepreneurs/business-e-services/
+
+# old site (before 3.0)
+Disallow: /omat-sivut/
+Disallow: /sv/egna-sidor/
+Disallow: /en/my-own-pages/
+

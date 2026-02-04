@@ -1,0 +1,5 @@
+Sitemap: https://nova.gr/sitemap.xml
+Sitemap: https://ecare.nova.gr/gr/parakolouthisi-technikou-thematos/sitemap.xml
+Disallow: /api/
+Disallow: /lead?
+User-agent: *

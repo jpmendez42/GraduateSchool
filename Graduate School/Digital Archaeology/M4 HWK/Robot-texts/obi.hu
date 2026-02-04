@@ -1,0 +1,25 @@
+User-agent: *
+### Ajax u.a.
+Disallow: /decom/api-public*
+Disallow: /public/services
+Disallow: /store/popup/
+Disallow: /store/change
+Disallow: /*?themeChoiceId
+Disallow: /customer-reviews/
+Disallow: /api/customerreviews/
+Disallow: /shopping-list/add
+Disallow: /add-cart-layer
+Disallow: /search-flyout
+Disallow: /cmssearchresult-filter
+Disallow: /searchresult-filter
+Disallow: /decom/api/
+Disallow: /prudsys/recommit/
+### Auth, Login & Co
+Disallow: /authentication
+Disallow: /customer-account/registration/register
+Disallow: /*?*template=SDP
+Disallow: /author/
+### Druckansicht
+Disallow: /contact/*?*
+Sitemap: https://www.obi.hu/sitemaps/obi_hu_hu/sitemap_index.xml
+Sitemap: https://www.obi.hu/assets/discover/cms-sitemaps/hu/index.xml

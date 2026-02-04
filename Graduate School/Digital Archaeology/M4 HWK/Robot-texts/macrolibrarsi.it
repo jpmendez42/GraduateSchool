@@ -1,0 +1,61 @@
+User-Agent: *
+Disallow: /data/partner/
+Disallow: /data/cache/
+Disallow: /data/newsletter/
+Disallow: /cart/
+Disallow: /feed/
+Disallow: /recensioni/*ord=
+Disallow: /recensioni/*rating=
+Disallow: /search/
+Disallow: /login/
+Disallow: /areaclienti/favorites/add/
+Disallow: /checkout/
+Disallow: /cs/
+Disallow: /recensioni/*variant=
+
+user-agent: Pinterestbot
+Crawl-delay: 1
+
+User-agent: AhrefsBot
+Crawl-Delay: 20
+
+User-agent: AhrefsSiteAudit
+Crawl-Delay: 20
+
+User-agent: SemrushBot
+Crawl-Delay: 20
+
+User-agent: BLEXBot
+Crawl-delay: 20
+
+User-agent: DataForSeoBot
+Crawl-delay: 20
+
+User-Agent: Neevabot
+Crawl-delay: 20
+
+User-agent: SeekportBot
+Crawl-delay: 20
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: ltx71
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: BluechipBacklinks
+Disallow: /
+
+User-agent: AdsBot-Google
+Allow: /search/
+User-agent: AdsBot-Google-Mobile
+Allow: /search/
+User-agent: Mediapartners-Google
+Allow: /search/
+User-agent: MSAdsBot
+Allow: /search/
+
+Sitemap: https://www.macrolibrarsi.it/sitemap_index.xml

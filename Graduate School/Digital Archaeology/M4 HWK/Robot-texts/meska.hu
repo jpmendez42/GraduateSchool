@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /Ajandek/
+Disallow: /AnonymConversation
+Disallow: /Basket
+Disallow: /Billingo
+Disallow: /CMS
+Disallow: /Conversations/
+Disallow: /Favourite
+Disallow: /Fblogin
+Disallow: /Feedback/
+Disallow: /GiftNotice
+Disallow: /InvalidProduct
+Disallow: /KiemeltTermekek/
+Disallow: /Kirakat/
+Disallow: /Megtekintett
+Disallow: /meska/login
+Disallow: /Meskabala/
+Disallow: /ModAcc
+Disallow: /ModPass
+Disallow: /ModProfil
+Disallow: /Motto
+Disallow: /motto
+Disallow: /PressRoom/
+Disallow: /Product/shopStatement
+Disallow: /ProductCompilation/
+Disallow: /ProductView/index/
+Disallow: /Registration
+Disallow: /*?s=
+Disallow: /s/*:*
+Disallow: /s/Mind/q*
+Disallow: /Shop/index/sold/
+Disallow: /SimilarProducts
+Disallow: /Szulinap
+Disallow: /UserProfil/
+
+Allow:  /s/*:p-*
+
+
+Sitemap: https://www.meska.hu/img/sitemaps/sitemap-hu-index.xml
+Sitemap: https://www.meska.hu/img/sitemaps/categories0.xml
+Sitemap: https://www.meska.hu/img/sitemaps/holidays0.xml
+Sitemap: https://www.meska.hu/img/sitemaps/landing-pages0.xml
+Sitemap:  https://www.meska.hu/img/sitemaps/shops0.xml
+

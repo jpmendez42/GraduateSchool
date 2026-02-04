@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /prihlasit/
+Disallow: /registrace/
+Disallow: /pripomenout-heslo/
+Disallow: /pripomenout-jmeno/
+Disallow: /api/
+Disallow: /*?nahled=
+
+Disallow: */stahnout/
+Disallow: */koupit/$
+Disallow: */poptavka/$
+Disallow: */pridani-programu/$
+Disallow: /vyhledavani
+Disallow: /widgety/sw/$
+Disallow: /*?v=*
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+Sitemap: https://www.slunecnice.cz/sitemap/sitemap.xml

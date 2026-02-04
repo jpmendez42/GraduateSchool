@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /blog/payment-routing-101
+Disallow: /blog/orchestration-boldly-reshaping-the-infrastructure-of-payments
+Disallow: /in/pricing
+Disallow: /case-studies
+Disallow: /case-studies/book-my-show-and-its-ticket-to-higher-success-rates
+Disallow: /case-studies/indigo-s-payments-take-flight-with-juspay
+Disallow: /case-studies/adda-52-and-the-royal-flush-of-success-rates
+Disallow: /case-studies/physicswallah-inks-a-chapter-on-higher-success-rates
+Disallow: /case-studies/one-card-shines-with-higher-success-rates
+Disallow: /case-studies/pocketfm-tunes-to-higher-success-rates
+Disallow: /case-studies/jar-invests-in-higher-success-rates
+Disallow: /case-studies/hiscore-scores-big-on-checkout-experience
+
+Sitemap: https://juspay.io/sitemap-index.xml

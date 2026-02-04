@@ -1,0 +1,33 @@
+# robots.txt for //vorarlberg.at
+# version 3.2 29.8.2025
+
+User-agent: crawlervorarlberg
+Disallow: /suche/
+Allow: /crawler-artikel-land
+Crawl-delay: 1
+
+User-agent: *
+Crawl-delay: 1
+Disallow: /artikeluebersicht
+Disallow: /documents/
+Disallow: /o/
+Disallow: /suche/
+Disallow: /detailseite/
+Disallow: /detailseite-bh/
+Disallow: /detailseite-studien/
+Disallow: /coronadashboard-inaktiv
+Disallow: /mktest
+Disallow: /crawler-artikel-land
+Allow: /veroeffentlichungsportal-land$
+Allow: /veroeffentlichungsportal-bhbl$
+Allow: /veroeffentlichungsportal-bhbr$
+Allow: /veroeffentlichungsportal-bhdo$
+Allow: /veroeffentlichungsportal-bhfk$
+Disallow: /veroeffentlichungsportal-land/
+Disallow: /veroeffentlichungsportal-bhbl/
+Disallow: /veroeffentlichungsportal-bhbr/
+Disallow: /veroeffentlichungsportal-bhdo/
+Disallow: /veroeffentlichungsportal-bhfk/
+
+User-agent: SBIntuitionsBot
+Disallow: /

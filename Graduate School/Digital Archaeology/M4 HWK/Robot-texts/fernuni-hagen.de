@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /imperia/*.gif
+Allow: /imperia/*.jpg
+Allow: /imperia/*.jpeg
+Allow: /imperia/*.png
+Allow: /imperia/*.svg
+Disallow: /imperia/
+Disallow: /MB/
+Disallow: /mathinf/cgi-bin/
+Disallow: /fu-search/
+Disallow: /imperiaportal/
+Disallow: /archiv/
+Disallow: /uniintern/organisation/
+Sitemap: https://www.fernuni-hagen.de/sitemap.xml

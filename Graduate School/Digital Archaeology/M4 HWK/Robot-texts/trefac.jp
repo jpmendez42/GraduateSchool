@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /mypage/login.php
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: bingbot
+Crawl-Delay: 30
+
+sitemap:https://www.trefac.jp/sitemap/sitemap_index.xml

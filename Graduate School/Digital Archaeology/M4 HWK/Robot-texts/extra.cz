@@ -1,0 +1,5 @@
+   User-agent: *
+   Disallow: /*/diskuze
+   Disallow: /disqus/article/*
+   Sitemap: https://www.extra.cz/sitemap.xml
+   Sitemap: https://www.extra.cz/sitemap-google-news.xml

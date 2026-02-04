@@ -1,0 +1,13 @@
+User-agent: Googlebot
+
+Disallow:
+
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Allow: /*.js$
+Allow: /*.css$
+
+Sitemap: https://www.letribunaldunet.fr/sitemap_index.xml
+Sitemap: https://www.letribunaldunet.fr/news-sitemap.xml

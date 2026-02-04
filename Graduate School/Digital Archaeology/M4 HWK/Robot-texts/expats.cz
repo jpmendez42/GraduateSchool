@@ -1,0 +1,6 @@
+# robots.txt for http://www.expats.cz
+
+User-Agent: *
+
+Disallow: /czech-news/search/
+Disallow: /czech-news/search

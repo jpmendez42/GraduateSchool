@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: *
+Sitemap: https://www.liwest.at/index.php?type=999
+
+User-Agent: Googlebot-Image
+Disallow: /liwest-blog/blog

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /meta/history
+Disallow: /cdn-cgi/rum
+Disallow: /contact
+Disallow: /contact/formulier
+Disallow: /help/contact
+Disallow: /help/feedback
+User-agent: Baiduspider
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /

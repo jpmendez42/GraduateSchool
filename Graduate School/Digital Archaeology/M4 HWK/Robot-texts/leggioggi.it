@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /ebook.leggioggi.it
+Disallow: /informativa-sulla-privacy
+Disallow: /search/
+Disallow: */?s=
+
+Allow: /*css$
+Allow: /*js$
+Allow: /*png$
+Allow: /*jpg$
+Allow: /ads.txt
+
+Sitemap: https://www.leggioggi.it/sitemap_index.xml

@@ -1,0 +1,20 @@
+# robots.txt for http://www.fh-muenster.de/
+#
+# Alle Robots ausschliessen
+# Diese Verzeichnisse/Dateien sollen nicht durchsucht werden
+User-agent: *
+Disallow: /common/uploads/
+Disallow: /plugins/
+Disallow: /intern/
+Disallow: /htdig/
+Disallow: /testrubrikpool/
+Disallow: /temp/
+Disallow: /zik/
+Disallow: /cgi-bin/
+Disallow: /uploads/
+Disallow: /errormessage/
+Allow: /common/uploads/img_personen/
+Allow: /img_personen/
+Allow: /common/uploads/news/
+Allow: /common/uploads/story/
+Allow: /common/uploads/pflegezeit/

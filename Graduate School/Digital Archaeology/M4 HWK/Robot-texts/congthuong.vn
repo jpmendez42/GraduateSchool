@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /ads.txt
+Disallow: /fv*/Watch
+Sitemap: https://congthuong.vn/sitemap-news.xml
+Sitemap: https://congthuong.vn/sitemap-index.xml

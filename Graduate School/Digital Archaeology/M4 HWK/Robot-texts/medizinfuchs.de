@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /theme/besucher/img/payment/
+
+# https://ahrefs.com/robot/
+User-agent: AhrefsBot
+Crawl-Delay: 10
+Disallow: /redirect/
+
+# http://webmeup-crawler.com/
+User-agent: BLEXBot
+Disallow: /
+
+# https://www.seokicks.de/robot.html
+User-agent: SEOkicks
+Disallow: /
+
+# The Audisto Essential Crawler
+User-agent: audisto-essential
+Disallow: /
+
+# The Audisto Full Crawler
+User-agent: audisto
+Disallow: /
+
+# https://moz.com/help/moz-procedures/crawlers/dotbot
+User-agent: dotbot
+Disallow: /
+
+Sitemap: https://www.medizinfuchs.de/sitemap_de.xml

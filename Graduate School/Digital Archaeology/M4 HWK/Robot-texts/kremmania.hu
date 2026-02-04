@@ -1,0 +1,17 @@
+
+User-Agent: *
+Disallow: /image/thumbimage?image
+Disallow: /image/thumbimage%3Fimage
+Disallow: /*?query=
+Disallow: /signup
+Disallow: /signin
+Disallow: /*?next=
+Allow: /
+
+User-Agent: msnbot
+Disallow: /kremek/*&layout=standard&show_faces=false&width=450&locale=hu_HU&action=like&colorscheme=light&height=30
+Disallow: /kremek/*%26layout%3Dstandard
+Disallow: /produkty/*&layout=standard&show_faces=false&width=450&locale=hu_HU&action=like&colorscheme=light&height=30
+Disallow: /produkty/*%26layout%3Dstandard
+
+SITEMAP: https://kremmania.hu/sitemap.xml 

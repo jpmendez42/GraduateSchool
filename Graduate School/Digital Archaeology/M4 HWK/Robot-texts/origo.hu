@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /hirdetesek
+Disallow: /cikk-elonezet
+Disallow: /publicapi
+Allow: /publicapi/hu/rss/
+Sitemap: https://www.origo.hu/sitemapindex.xml
+Sitemap: https://www.origo.hu/news_sitemap.xml

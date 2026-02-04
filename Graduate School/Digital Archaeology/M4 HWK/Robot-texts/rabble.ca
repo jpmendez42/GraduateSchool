@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /forum/
+Disallow: /forums/
+Disallow: /incahoots/
+Disallow: /babble/
+Disallow: /author/a-splawinski/
+Allow: /wp-admin/admin-ajax.php
+Crawl-delay: 300
+
+Sitemap: https://rabble.ca/sitemap_index.xml
+Sitemap: https://rabble.ca/news-sitemap.xml

@@ -1,0 +1,85 @@
+User-agent:*
+Disallow: /search?q=
+Disallow: /esi/
+Disallow: /wp-admin/
+Disallow: /preview/
+Disallow: /search
+Disallow: /*?redirectURL=
+Disallow: /*{{url}}
+Disallow: /*%7B%7Burl%7D%7D
+Disallow: */galleries/gait
+Disallow: /*?s=
+Disallow: /*/google.com/*/pag/
+Disallow: /*/www.brandz.com/*/pag/
+Disallow: /*{{section}}
+Disallow: /*%7B%7Bsection%7D%7D
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+Disallow: /user-context?referrer
+Disallow: /services.min.js?_=
+Disallow: /com.condenast/yv8*
+
+# --------------------------------------
+# Articoli con /WP_HOME/
+# --------------------------------------
+Disallow: */WP_HOME/*
+
+
+# --------------------------------------
+# Paginazione delle categore
+# --------------------------------------
+## Disallow: */pag/*
+
+# --------------------------------------
+# Paginazione dei topic
+# --------------------------------------
+## Disallow: /topic/*/pag/*
+
+# --------------------------------------
+# Filtri su Pagine di Categoria
+# --------------------------------------
+Disallow: */cartella/*
+Disallow: /product/
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: Google-Extended
+User-agent: Google-CloudVertexBot
+User-agent: GoogleOther
+User-agent: Applebot-Extended
+User-agent: Amazonbot
+User-agent: meta-webindexer
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: cohere-training-data-crawler
+User-agent: cohere-ai
+User-agent: CCBot
+User-agent: PanguBot
+User-agent: PetalBot
+User-agent: Bytespider
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: MistralAI-User
+User-agent: Timpibot
+User-agent: Webzio
+User-agent: Webzio-Extended
+User-agent: archive.org_bot
+User-agent: ia_archiver
+User-agent: ia_archiver-web.archive.org
+User-agent: heritrix
+Disallow: /
+
+Sitemap: https://next.wired.it/sitemap_index.xml
+Sitemap: https://www.wired.it/sitemap.xml
+Sitemap: https://www.wired.it/feed/google-latest-news/sitemap-google-news
+Sitemap: https://www.wired.it/feed/rss
+Sitemap: https://www.wired.it/contributors-sitemap.xml
+Sitemap: https://www.wired.it/branded-sitemap.xml
+Sitemap: https://www.wired.it/categories-sitemap.xml
+Sitemap: https://www.wired.it/bundles-sitemap.xml

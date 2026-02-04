@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /add_series_review/*
+Disallow: /add_review/*
+Disallow: /first_time_ameba/*
+Disallow: /information/*
+Disallow: /mod_profNew/*
+Disallow: /mynotiNew/*
+Disallow: /mynoti_free_daily_episodes/*
+Disallow: /order_confirm/*
+Disallow: /passbookNew/*
+Disallow: /pc/*
+Disallow: /reader/*
+Disallow: /reward_historyNew/*
+Disallow: /reward_list
+Disallow: /mission
+Disallow: /shelf*
+Disallow: /series_list/bulk_buy*
+Disallow: /series_list/review/editor*
+Disallow: /cart*
+Disallow: /mypage*
+Disallow: /notification*
+Disallow: /coupons*
+Disallow: /mynoti_new*
+Disallow: /mynoti_list*
+Disallow: /purchase_history*
+Disallow: /wallet*
+Disallow: /settings*
+Disallow: /mangacoin*
+Disallow: /ameba_manga_login*
+Disallow: /books*
+Disallow: /detail/book_id*
+Disallow: /book_review/book_id*
+Disallow: /review_detail/review_id*
+
+
+Sitemap: https://dokusho-ojikan.jp/sitemap/sitemaps.xml

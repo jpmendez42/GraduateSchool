@@ -1,0 +1,48 @@
+User-agent: *
+
+Disallow: /*route=account/
+Disallow: /*route=affiliate/
+Disallow: /*route=checkout/
+Disallow: /*route=product/search
+Disallow: /index.php?route=product/product*&manufacturer_id=
+Disallow: /*?ps=product
+Disallow: /*?sort=
+Disallow: /*&sort=
+Disallow: /*?order=
+Disallow: /*&order=
+Disallow: /*?limit=
+Disallow: /*&limit=
+Disallow: /*?format=
+Disallow: /*&format=
+#Disallow: /*?tracking=
+#Disallow: /*&tracking=
+Disallow: /*?filter=
+Disallow: /*&filter=
+Disallow: /*?filter_name=
+Disallow: /*&filter_name=
+Disallow: /*?filter_sub_category=
+Disallow: /*&filter_sub_category=
+Disallow: /*?filter_description=
+Disallow: /*&filter_description=
+Disallow: /accedi$
+Disallow: /account-premium$
+Disallow: /account$
+Disallow: /carte-di-credito$
+Disallow: /crediti$
+Disallow: /cronologia-ordini$
+Disallow: /indirizzi$
+Disallow: /invita-un-amico$
+Disallow: /iscrizione-newsletter$
+Disallow: /lista-dei-desideri$
+Disallow: /password-dimenticata$
+Disallow: /punti-fedelta$
+Disallow: /registrati$
+Disallow: /resi$
+
+# inglese
+Disallow: /en/
+
+User-agent: Riddler
+Disallow: /
+
+Sitemap: https://farmacialoreto.it/sitemap.xml

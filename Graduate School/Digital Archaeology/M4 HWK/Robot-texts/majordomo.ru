@@ -1,0 +1,50 @@
+# *
+User-agent: *
+Allow: *.jpg
+Allow: *.png
+Allow: *.jpeg
+Allow: *.pdf
+Allow: *.js
+Allow: *.css
+Disallow: /search
+Disallow: /*.html
+Disallow: /*?
+Disallow: *utm
+Disallow: /en
+Disallow: /mail/unsubscribe/*
+
+# GoogleBot
+User-agent: GoogleBot
+Allow: *.jpg
+Allow: *.png
+Allow: *.jpeg
+Allow: *.pdf
+Allow: *.js
+Allow: *.css
+Disallow: /search
+Disallow: /*.html
+Disallow: /*?
+Disallow: *utm
+Disallow: /en
+Disallow: /mail/unsubscribe/*
+
+# Yandex
+User-agent: Yandex
+Allow: *.jpg
+Allow: *.png
+Allow: *.jpeg
+Allow: *.pdf
+Allow: *.js
+Allow: *.css
+Disallow: /search
+Disallow: /*.html
+Disallow: /*?
+Disallow: *utm
+Disallow: /en
+Disallow: /mail/unsubscribe/*
+
+# Host
+Host: https://www.majordomo.ru
+
+# Sitemaps
+Sitemap: https://www.majordomo.ru/sitemap.xml

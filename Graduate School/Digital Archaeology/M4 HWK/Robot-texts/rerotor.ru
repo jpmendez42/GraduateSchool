@@ -1,0 +1,37 @@
+User-Agent: *
+
+Allow: /doc$
+Disallow: /doc/
+
+Disallow: /fw
+Disallow: /privacy-policy/
+Disallow: /mvideo
+Disallow: /mts
+Disallow: /dns
+Disallow: /eldorado
+Disallow: /demo/
+Disallow: /megafon/
+Disallow: /tele2/
+Disallow: /creditasia/
+Disallow: /acer/
+Disallow: /mts-plus/
+Disallow: /button-blue/
+Disallow: /stimul/
+Disallow: /vsesmart/
+Disallow: /oferta_telegram
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow: /sub-success/
+Disallow: /thank-you-page/
+Disallow: /YML_rerotor.xml
+Clean-param: from&retargeting&evrica&etext&eldorado&yandex-source&KEY1&KEY0_KEY1_KEY2&gtm_debug&ref&stat-id&test-tag&banner-sizes&ctime&actual-format&pcodever&banner-test-tags&constructor-rendered-assets&rendered-direct-assets&width&height&subDesignId&order-banners-options&click-time&clickX&clickY&brandName&offer&newPrice&oldPrice&productName&description&showLogo&productimage&brandLogo&erid&_ym_debug&video&pcode-active-testids&_ym_status-check&_ym_lang&K0&K0_K1_K2
+Clean-param: _ym_debug_1&utm_postype&email&pcode-test-ids-from-count&partner-stat-id&ybaip=1&mvideo&hhtmFrom=employer&utm_position=3
+Sitemap: https://rerotor.ru/sitemap.xml
+Host: rerotor.ru

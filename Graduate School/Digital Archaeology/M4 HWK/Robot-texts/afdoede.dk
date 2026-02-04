@@ -1,0 +1,28 @@
+########################################################################################################################
+### AI crawler reference
+### The link below provides instructions to what kind of content can be used to train AI models on this website
+### https://afdoede.dk/ai.txt
+########################################################################################################################
+
+User-agent: *
+Disallow:
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Googlebot-Image
+Disallow: /
+
+Sitemap: https://cdn.afdoede.dk/tenant_afdo/sitemaps/sitemapindex.xml

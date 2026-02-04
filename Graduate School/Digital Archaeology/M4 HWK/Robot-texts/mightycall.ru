@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /search*
+Disallow: /wp-admin
+Disallow: /wp-login
+Disallow: /wp-includes
+Disallow: /wp-content/plugins
+Disallow: /wp-includes/js
+Disallow: /trackback
+Disallow: /category/*/*
+Disallow: */trackback
+Disallow: /*?*
+Disallow: /*?
+Disallow: /*~*
+Disallow: /*~
+Disallow: /?type*
+Disallow: /fw-slider/*
+Disallow: */feed/
+Disallow: /?blackhole
+Allow: /wp-content/cache/*
+Allow: /wp-content/themes/*
+Allow: /wp-content/*
+
+Sitemap: https://mightycall.ru/sitemap_index.xml

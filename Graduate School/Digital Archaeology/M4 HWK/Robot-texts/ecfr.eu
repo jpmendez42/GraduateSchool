@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://ecfr.eu/sitemap.xml
+Sitemap: https://ecfr.eu/sitemap-news.xml
+
+Sitemap: https://ecfr.eu/sitemap.xml

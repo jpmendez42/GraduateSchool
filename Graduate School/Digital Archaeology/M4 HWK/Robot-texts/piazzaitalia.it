@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /carts
+Disallow: /account
+Sitemap: https://www.piazzaitalia.it/it-it/sitemap/index.xml
+
+# Blocking Filters Sorting and Search
+Disallow: *productMetafield*
+Disallow: *sort*
+Disallow: *search*
+
+# Blocking Account Checkout and Cart
+Disallow: */account
+Disallow: */account/*
+Disallow: */cart/*
+Disallow: */wishlist
+Disallow: */checkouts
+Disallow: */checkouts/*

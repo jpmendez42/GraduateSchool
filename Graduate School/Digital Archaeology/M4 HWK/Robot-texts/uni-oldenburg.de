@@ -1,0 +1,6522 @@
+<!DOCTYPE html>
+<html class="uol" lang="de">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2025 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+
+
+
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<meta name="generator" content="TYPO3 CMS">
+<meta name="description" content="Die Universität Oldenburg liegt im Nordwesten Deutschlands. Sie wurde 1973 gegründet und trägt den Namen des Friedensnobelpreisträgers Carl von Ossietzky.">
+<meta name="robots" content="index, follow">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta property="og:title" content="Carl von Ossietzky Universität Oldenburg">
+<meta property="og:image" content="https://uol.de/fileadmin/_processed/9/5/csm_dba41-haarentor3_be1e65db4a.jpg">
+<meta property="og:image:url" content="https://uol.de/fileadmin/_processed/9/5/csm_dba41-haarentor3_be1e65db4a.jpg">
+<meta property="og:image:width" content="1920">
+<meta property="og:image:height" content="1005">
+<meta property="og:image:alt" content="Carl von Ossietzky Universität Oldenburg">
+<meta name="twitter:card" content="summary">
+<meta name="apple-mobile-web-app-title" content="Carl von Ossietzky Universität Oldenburg">
+
+<link as="style" media="all" rel="preload" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Css/fonts.css?1760387566" >
+<link rel="stylesheet" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Css/fonts.css?1760387566" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/media2click-5d7d92602c4bda2875894aa3d82d83b3.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/ecb3e01623a42af68084ccb4b40d310f-9d124314e658166b4451d2cb407e930e.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/ods_osm-1fb2918552348bae6247107b52237fd1.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/bootstrap.min-c4f32f7b964b4f820cd4af05c7642177.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/uol-fontawesome-1630030a0e9b509396260237fa45a793.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/flexslider-4f15f7fe230cd4b32f12711a168fb7f0.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/uol-flexslider-3f040ed217138151288ee7ef91bd525a.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/magnific-popup-215efa283684d151acb65693aa1bee18.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/owl.carousel.min-dd01f7278d84d554e1fcbbb819e2af83.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/owl.theme.default-34f3cc05d4ce7ea6e178eba0d020a983.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/perfect-scrollbar-b078e0a044620f313ced99e621d046d9.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/uol-4af568c9670153774222f6d3d3673592.css.gz?1760388147" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/jquery.fancybox.min-4e74f6d3bfe8a770b5a9fd7fc3b49de3.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/custom-ae6c37370ba78842f881e4b24c50e949.css.gz?1760387674" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/uniolslider-c78de427718065a3b0a2126e53598c1e.css.gz?1760387675" media="all">
+
+
+
+<script src="/typo3temp/assets/compressed/hasjs-7a66865084bde54be086362423cb2907.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/jquery-3.7.1.min-200034e3fbf8ad44b2c9247131563c94.js.gz?1760388147"></script>
+<script src="/typo3temp/assets/compressed/popper.min-1f3d6602159a8093420414eeffc87baf.js.gz?1760387674"></script>
+<script>
+    const m2cCookieLifetime = "7";
+</script>
+
+<title>Carl von Ossietzky Universität Oldenburg</title>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/unioltemplate/Resources/Public/Assets/Css/vc_lte_ie9.min.css" media="screen">
+<![endif]-->
+<!--[if IE  8]>
+<link rel="stylesheet" type="text/css" href="/typo3conf/ext/unioltemplate/Resources/Public/Assets/Css/vc-ie8.min.css" media="screen">
+<![endif]-->
+<script>
+var prefersDarkScheme;
+var currentTheme;
+function checkDarkMode() {
+  prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
+  currentTheme = localStorage.getItem("color-mode");
+  if (currentTheme == "dark") {
+    document.documentElement.setAttribute("data-colormode", "dark");
+  } else if (currentTheme == "light") {
+    document.documentElement.setAttribute("data-colormode", "light");
+  } else {
+    if(prefersDarkScheme.matches) {
+      document.documentElement.setAttribute("data-colormode", "system-dark");
+    } else {
+      document.documentElement.setAttribute("data-colormode", "system-light");
+    }
+  }
+  setTimeout(checkDarkMode, 5000);
+  return currentTheme;
+}
+checkDarkMode();
+</script>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/apple-touch-icon.png?v=3">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/apple-touch-icon-120x120.png?v=3" sizes="120x120">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/apple-touch-icon-152x152.png?v=3" sizes="152x152">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/android-chrome-192x192.png?v=3" sizes="192x192">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/android-chrome-512x512.png?v=3" sizes="512x512">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/favicon-16x16.png?v=5" sizes="16x16">
+	<link rel="icon" type="image/png" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/favicon-32x32.png?v=4" sizes="32x32">
+	<link rel="manifest" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/site.webmanifest?v=1">
+	<link rel="mask-icon" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/safari-pinned-tab.svg?v=1" color="#0059ab">
+	<link rel="shortcut icon" href="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/favicon-16x16.png?v=5">
+	<meta name="msapplication-TileColor" content="#da532c">
+	<meta name="msapplication-TileImage" content="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/mstile-150x150.png?v=1">
+	<meta name="theme-color" content="#ffffff">
+
+
+
+
+
+
+<link rel="canonical" href="https://uol.de/"/>
+
+<link rel="alternate" hreflang="de-DE" href="https://uol.de/"/>
+<link rel="alternate" hreflang="en-US" href="https://uol.de/en/"/>
+<link rel="alternate" hreflang="x-default" href="https://uol.de/"/>
+<script type="application/ld+json" id="ext-schema-jsonld">{"@context":"https://schema.org/","@type":"WebPage"}</script>
+</head>
+<body id="p3" class=" t3 header-3 layout0">
+
+
+
+<div id="wrapper" class="home">
+    <nav id="sprungnavi">
+	<p><a href="#sprung_sprache" accesskey="1"><strong>Navigation</strong></a> [<code>Access-Key 1</code>]</p>
+	<ul>
+		<li><a id="sprung_sprache" accesskey="8" href="#language_menu" lang="en">Choose other language</a> [<code>Access-Key 8</code>]</li>
+		<li><a id="sprung_inhalt" accesskey="2" href="#content">Zum Inhalt springen</a> [<code>Access-Key 2</code>]</li>
+		<li><a id="sprung_suche" href="#searchform">Zur Suche springen</a> [<code>Access-Key 4</code>]</li>
+		<li><a id="sprung_hauptnavi" accesskey="6" href="#nav-top">Zur Hauptnavigation springen</a> [<code>Access-Key 6</code>]</li>
+		<li><a id="sprung_zielgr" accesskey="9" href="#zielgruppennavi">Zur Zielgruppennavigation springen</a> [<code>Access-Key 9</code>]</li>
+		<li><a id="sprung_bc" accesskey="7" href="#navizeile">Zur Brotkrumennavigation springen</a> [<code>Access-Key 7</code>]</li>
+		<li><a id="sprung_acc" href="/barrierefreiheit">Informationen zur Barrierefreiheit</a></li>
+	</ul>
+</nav>
+
+<header id="header" class="main-header header-3">
+	<div id="header-container" class="container">
+		<div id="uol_logo" class="header-logo">
+			<a title="Carl von Ossietzky Universität Oldenburg - Offen für neue Wege." rel="home" href="/">
+				<img width="132" height="85"
+					src="/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/UOL-Logo.svg" style="width:132px" alt="Carl von Ossietzky Universität Oldenburg"/>
+
+			</a>
+		</div>
+
+		<div id="mainmenu" class="menu-main-inner">
+			<nav id="nav-mega" role="navigation"><ul id="nav-top" class="nav nav-menu level-1"><li id="menu-item-57057" class="nav-item item-1"><a href="/universitaet" title="Universität">Universität</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/universitaet">InfoPortal Universität</a></li><li id="menu-item-57081" class="menu-item item-1 menu-col-mode-0"><a href="/im-profil" title="Im Profil">Im Profil</a><ul class="level-3"><li><a href="/im-profil" title="Die Universität">Die Universität</a></li><li><a href="/chancengleichheit" title="Chancengleichheit">Chancengleichheit</a></li><li><a href="/digitalisierung" title="Digitalisierung">Digitalisierung</a></li><li><a href="/klimaschutz-nachhaltigkeit" title="Klimaschutz und Nachhaltigkeit">Klimaschutz und Nachhaltigkeit</a></li><li><a href="/leitbild-lehre" title="Leitbild für die Lehre">Leitbild für die Lehre</a></li><li><a href="/im-profil/geschichte" title="Daten zur Geschichte">Daten zur Geschichte</a></li><li><a href="/im-profil/namensgebung-chronologie" title="Namensgebung – Carl von Ossietzky">Namensgebung – Carl von Ossietzky</a></li><li><a href="/im-profil/persoenlichkeiten" title="Persönlichkeiten">Persönlichkeiten</a></li><li><a href="/in-bildern" title="Universität in Bildern">Universität in Bildern</a></li><li><a href="/kontakt" title="Kontakt / Anfahrt / Lageplan">Kontakt / Anfahrt / Lageplan</a></li></ul></li><li id="menu-item-57072" class="menu-item item-2 menu-col-mode-0"><a href="/aktuelles" title="Aktuelles">Aktuelles</a><ul class="level-3"><li><a href="/pressedienst" title="Pressedienst">Pressedienst</a></li><li><a href="/jobs" title="Stellenangebote">Stellenangebote</a></li><li><a href="/veranstaltungen" title="Veranstaltungskalender">Veranstaltungskalender</a></li><li><a href="/einblicke" title="EINBLICKE - Forschungsmagazin">EINBLICKE - Forschungsmagazin</a></li><li><a href="/presse/uni-info" title="UNI-INFO - Hochschulzeitung">UNI-INFO - Hochschulzeitung</a></li><li><a href="/aktuelles/news-feeds" title="News-Feeds">News-Feeds</a></li><li><a href="/zahlen-fakten" title="Zahlen und Fakten">Zahlen und Fakten</a></li><li><a href="/50jahre" title="Jubiläum 2024: 50 Jahre UOL">Jubiläum 2024: 50 Jahre UOL</a></li></ul></li><li id="menu-item-57058" class="menu-item item-3 menu-col-mode-0"><a href="/einrichtungen" title="Organe und Einrichtungen">Organe und Einrichtungen</a><ul class="level-3"><li><a href="/praesidium" title="Präsidium">Präsidium</a></li><li><a href="/gremien" title="Gremien">Gremien</a></li><li><a href="/verwaltung" title="Zentrale Verwaltung sowie Referate und Stabsstellen des Präsidiums">Zentrale Verwaltung sowie Referate und Stabsstellen des Präsidiums</a></li><li><a href="/bis" title="Universitätsbibliothek">Universitätsbibliothek</a></li><li><a href="/einrichtungen" title="Einrichtungen (A-Z)">Einrichtungen (A-Z)</a></li><li><a href="/dezernat1/organigramm-der-universitaet" title="Organigramm der Universität">Organigramm der Universität</a></li></ul></li><li id="menu-item-57065" class="menu-item item-4 menu-col-mode-0"><a href="/fakultaeten" title="Fakultäten">Fakultäten</a><ul class="level-3"><li><a href="/fk1" title="Fakultät I - Bildungs- und Sozialwissenschaften">Fakultät I - Bildungs- und Sozialwissenschaften</a></li><li><a href="/fk2" title="Fakultät II - Informatik, Wirtschafts- und Rechtswissenschaften">Fakultät II - Informatik, Wirtschafts- und Rechtswissenschaften</a></li><li><a href="/fk3" title="Fakultät III - Sprach- und Kulturwissenschaften">Fakultät III - Sprach- und Kulturwissenschaften</a></li><li><a href="/fk4" title="Fakultät IV - Human- und Gesellschaftswissenschaften">Fakultät IV - Human- und Gesellschaftswissenschaften</a></li><li><a href="/fk5" title="Fakultät V - Mathematik und Naturwissenschaften">Fakultät V - Mathematik und Naturwissenschaften</a></li><li><a href="/fk6" title="Fakultät VI - Medizin und Gesundheitswissenschaften">Fakultät VI - Medizin und Gesundheitswissenschaften</a></li></ul></li></ul></li><li id="menu-item-57022" class="nav-item item-2"><a href="/studium" title="Studium">Studium</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/studium">InfoPortal Studium</a></li><li id="menu-item-57046" class="menu-item item-1 menu-col-mode-0"><a href="/studium/studienentscheidung" title="Studienentscheidung">Studienentscheidung</a><ul class="level-3"><li><a href="/studium/studienangebot" title="Studienangebot">Studienangebot</a></li><li><a href="/lehrkraeftebildung/studieninteressierte" title="Lehramt">Lehramt</a></li><li><a href="/studium/beratung-studieninteressierte" title="Beratung Studieninteressierte">Beratung Studieninteressierte</a></li><li><a href="/studium/angebote-zur-studienorientierung" title="Angebote zur Studienorientierung">Angebote zur Studienorientierung</a></li><li><a href="/hit" title="Hochschulinformationstag">Hochschulinformationstag</a></li><li><a href="/studium/bewerben" title="Bewerben und Einschreiben">Bewerben und Einschreiben</a></li><li><a href="/studium/studienberechtigung" title="Studium ohne Abitur">Studium ohne Abitur</a></li><li><a href="/studium/vom-beruf-ins-studium" title="Vom Beruf ins Studium">Vom Beruf ins Studium</a></li><li><a href="/studium/campusleben" title="Campusleben">Campusleben</a></li><li><a href="/studium/finanzierung" title="Studienfinanzierung">Studienfinanzierung</a></li></ul></li><li id="menu-item-57036" class="menu-item item-2 menu-col-mode-0"><a href="/studium/studium-organisieren" title="Studium organisieren">Studium organisieren</a><ul class="level-3"><li><a href="/studium/studieneinstieg" title="Studieneinstieg">Studieneinstieg</a></li><li><a href="/studium/beratung-studierende" title="Beratung Studierende">Beratung Studierende</a></li><li><a href="https://elearning.uni-oldenburg.de/dispatch.php/search/angebot?cancel_login=1" target="target=_blank" rel="noreferrer" title="Veranstaltungsverzeichnis">Veranstaltungsverzeichnis</a></li><li><a href="/studium/erstsemester/studienplanung/stundenplan" title="Studienplanung">Studienplanung</a></li><li><a href="/studium/semestertermine" title="Semestertermine">Semestertermine</a></li><li><a href="/studium/pruefungen" title="Prüfungen">Prüfungen</a></li><li><a href="/anerkennung" title="Anerkennung">Anerkennung</a></li><li><a href="/studium/studierendenstatus" title="Studierendenstatus">Studierendenstatus</a></li><li><a href="/studium/workshops" title="Veranstaltungen">Veranstaltungen</a></li><li><a href="/studium/gebuehren/semesterbeitraege" title="Semesterbeiträge">Semesterbeiträge</a></li></ul></li><li id="menu-item-57029" class="menu-item item-3 menu-col-mode-0"><a href="/karriereberatung/perspektiven-nach-dem-studium" title="Perspektiven nach dem Studium">Perspektiven nach dem Studium</a><ul class="level-3"><li><a href="/karriereberatung/karriereportal" title="KarrierePortal">KarrierePortal</a></li><li><a href="/careerday" title="Career Day">Career Day</a></li><li><a href="/karriereberatung" title="Karriereberatung">Karriereberatung</a></li><li><a href="/zskb/beratung/promovieren" title="Promovieren">Promovieren</a></li><li><a href="/alumni" title="Alumni">Alumni</a></li><li><a href="/giz" title="Existenzgründung">Existenzgründung</a></li></ul></li><li id="menu-item-57023" class="menu-item item-4 menu-col-mode-0"><a href="/c3l" title="Lebenslanges Lernen">Lebenslanges Lernen</a><ul class="level-3"><li><a href="/c3l" title="Berufsbegleitende Studiengänge und Weiterbildungen">Berufsbegleitende Studiengänge und Weiterbildungen</a></li><li><a href="/lehre/hochschuldidaktik/zertifikat" title="Hochschuldidaktische Weiterbildung">Hochschuldidaktische Weiterbildung</a></li><li><a href="/gasthoerstudium" title="Gasthörstudium">Gasthörstudium</a></li><li><a href="/c3l/offene-hochschule" title="Offene Hochschule">Offene Hochschule</a></li><li><a href="/weiterbildung" title="Weiterbildungsangebote Übersicht">Weiterbildungsangebote Übersicht</a></li></ul></li></ul></li><li id="menu-item-56994" class="nav-item item-3"><a href="/forschung" title="Forschung">Forschung</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/forschung">InfoPortal Forschung und Transfer</a></li><li id="menu-item-57014" class="menu-item item-1 menu-col-mode-0"><a href="/forschung" title="Forschung">Forschung</a><ul class="level-3"><li><a href="/profile-schwerpunkte" title="Profile und Schwerpunkte">Profile und Schwerpunkte</a></li><li><a href="/exzellenzstrategie" title="Exzellenzstrategie">Exzellenzstrategie</a></li><li><a href="/forschung/koordinierte-forschungsprogramme" title="Koordinierte Forschungsprogramme">Koordinierte Forschungsprogramme</a></li><li><a href="/forschung/gefoerderte-nachwuchsgruppen" title="Geförderte Nachwuchsgruppen">Geförderte Nachwuchsgruppen</a></li><li><a href="/forschung/zentren" title="Zentren">Zentren</a></li><li><a href="/forschung/ausseruniversitaere-forschungseinrichtungen" title="Außeruniversitäre Forschungseinrichtungen">Außeruniversitäre Forschungseinrichtungen</a></li><li><a href="/forschung/qualitaetssicherung" title="Qualitätssicherung">Qualitätssicherung</a></li><li><a href="/tiere-und-tierversuche" title="Tiere und Tierversuche an der Universität Oldenburg">Tiere und Tierversuche an der Universität Oldenburg</a></li></ul></li><li id="menu-item-57015" class="menu-item item-2 menu-col-mode-0"><a href="/transfer" title="Transfer">Transfer</a><ul class="level-3"><li><a href="/transfer/existenzgruendungen" title="Existenzgründungen">Existenzgründungen</a></li><li><a href="/transfer/schlaues-haus-oldenburg" title="Wissenstransfer">Wissenstransfer</a></li><li><a href="/transfer/schlaues-haus-oldenburg" title="Schlaues Haus Oldenburg">Schlaues Haus Oldenburg</a></li><li><a href="/transfer/technologietransfer-und-patente" title="Technologietransfer und Patente">Technologietransfer und Patente</a></li><li><a href="/transfer/angebote-am-innovationscampus" title="Angebote am Innovation(s)Campus">Angebote am Innovation(s)Campus</a></li><li><a href="/transfer/an-institute-der-universitaet-oldenburg" title="An-Institute der Universität">An-Institute der Universität</a></li></ul></li><li id="menu-item-60096" class="menu-item item-3 menu-col-mode-0"><a href="/forschung/akademische-karrierewege" title="Akademische Karrierewege">Akademische Karrierewege</a><ul class="level-3"><li><a href="/graduiertenakademie/strategiepapiere-und-konzepte" title="Strategisches">Strategisches</a></li><li><a href="/forschung/akademische-karrierewege/promotionsinteressierte" title="Promotionsinteressierte">Promotionsinteressierte</a></li><li><a href="/forschung/akademische-karrierewege/promovierende" title="Promovierende">Promovierende</a></li><li><a href="/forschung/akademische-karrierewege/postdocs" title="Postdocs">Postdocs</a></li><li><a href="/forschung/akademische-karrierewege/juniorprofessur-und-nachwuchsgruppenleitung" title="Juniorprofessur und Nachwuchsgruppenleitung">Juniorprofessur und Nachwuchsgruppenleitung</a></li><li><a href="/forschung/akademische-karrierewege/fuehrungskraefte-in-der-wissenschaft" title="Führungskräfte in der Wissenschaft">Führungskräfte in der Wissenschaft</a></li><li><a href="/forschung/akademische-karrierewege/allianzen-und-netzwerke" title="Allianzen und Netzwerke">Allianzen und Netzwerke</a></li></ul></li><li id="menu-item-56995" class="menu-item item-4 menu-col-mode-0"><a href="/forschungsfoerderung" title="Förderung und Beratung">Förderung und Beratung</a><ul class="level-3"><li><a href="/forschungsfoerderung/foerderung-durch-die-universitaet/young-researchers-fellowship" title="Förderung durch die Universität">Förderung durch die Universität</a></li><li><a href="/forschungsfoerderung/nationale-foerderung" title="Nationale Förderung">Nationale Förderung</a></li><li><a href="/forschungsfoerderung/internationale-foerderung" title="Internationale Förderung">Internationale Förderung</a></li><li><a href="/forschungsfoerderung/qualifizierungsphase" title="Förderung in Qualifizierungsphasen">Förderung in Qualifizierungsphasen</a></li><li><a href="/forschungsfoerderung/wissenschaftliche-preise-und-weitere-foerdermassnahmen" title="Weitere Fördermaßnahmen">Weitere Fördermaßnahmen</a></li></ul></li></ul></li><li id="menu-item-56972" class="nav-item item-4"><a href="/international" title="International">International</a><ul class="row level-2 uol-submenu"><li class="btn-portal"><a href="/international">InfoPortal Internationales</a></li><li id="menu-item-56988" class="menu-item item-1 menu-col-mode-0"><a href="/willkommen-in-oldenburg" title="Willkommen in Oldenburg">Willkommen in Oldenburg</a><ul class="level-3"><li><a href="/internationale-studierende" title="Internationale Studierende (Studium mit Abschluss)">Internationale Studierende (Studium mit Abschluss)</a></li><li><a href="/austauschstudium" target="_blank" title="Internationale Austauschstudierende">Internationale Austauschstudierende</a></li><li><a href="/forschen-und-arbeiten-in-oldenburg/internationale-promovierende" title="Internationale Promovierende">Internationale Promovierende</a></li><li><a href="/forschen-und-arbeiten-in-oldenburg" title="Internationale WissenschaftlerInnen / Post-Docs / Personal">Internationale WissenschaftlerInnen / Post-Docs / Personal</a></li><li><a href="/gefluechtete" title="Geflüchtete">Geflüchtete</a></li></ul></li><li id="menu-item-56982" class="menu-item item-2 menu-col-mode-0"><a href="/international#c315122" title="Wege ins Ausland">Wege ins Ausland</a><ul class="level-3"><li><a href="/wege-ins-ausland" title="Studierende">Studierende</a></li><li><a href="/io/foerderung-internationaler-mobilitaet-und-kooperation" title="WissenschaftlerInnen">WissenschaftlerInnen</a></li><li><a href="/erasmus-stt" title="Hochschulpersonal">Hochschulpersonal</a></li></ul></li><li id="menu-item-56978" class="menu-item item-3 menu-col-mode-0"><a href="/international" title="Weltweit vernetzt">Weltweit vernetzt</a><ul class="level-3"><li><a href="/partneruniversitaeten" title="Partnerhochschulen">Partnerhochschulen</a></li><li><a href="/partneruniversitaeten/strategische-partneruniversitaeten" title="Strategische Partneruniversitäten">Strategische Partneruniversitäten</a></li><li><a href="/erasmus" title="Erasmus+ Programm">Erasmus+ Programm</a></li><li><a href="/internationale-projektfoerderung" title="Förderung internationaler Projekte">Förderung internationaler Projekte</a></li><li><a href="/io/nationaler-kodex" title="Nationaler Kodex Ausländerstudium">Nationaler Kodex Ausländerstudium</a></li></ul></li><li id="menu-item-56973" class="menu-item item-4 menu-col-mode-0"><a href="/international#c315124" title="Internationale Hochschule">Internationale Hochschule</a><ul class="level-3"><li><a href="/internationalisierungsstrategie" title="Internationalisierungsstrategie">Internationalisierungsstrategie</a></li><li><a href="/studium/internationale-studiengaenge" title="Internationale Studiengänge">Internationale Studiengänge</a></li><li><a href="/sprachenzentrum" title="Sprachangebote">Sprachangebote</a></li><li><a href="/internationalisierung-zu-hause" title="Vernetzung von Studierenden">Vernetzung von Studierenden</a></li><li><a href="/glossar" title="Deutsch-Englische Terminologie">Deutsch-Englische Terminologie</a></li><li><a href="/lehramtinternational" title="Lehramt.International">Lehramt.International</a></li></ul></li></ul></li></ul></nav>
+		</div>
+
+		
+		<ul id="service_nav" class="nav nav-pills pull-right nav-service">
+			<li id="service_lang">
+				<a href="#tab-language-menu-mobile" data-toggle="tab"><i class="fa fa-globe"></i></a>
+			</li>
+			<li id="service_colormode">
+				<a href="#tab-colormode-mobile" data-toggle="tab" title="Dark mode"><i class="fa fa-adjust"></i></a>
+			</li>
+			<li id="service_search">
+				<a href="#tab-search-mobile" accesskey="4" data-toggle="tab"><i class="fa fa-search"></i></a>
+			</li>
+			<li id="service_info">
+				<a href="#tab-info-mobile" data-toggle="tab"><i class="fa fa-info"></i></a>
+			</li>
+			<li id="service_login">
+				<a href="#tab-login-mobile" data-toggle="tab"><i class="fa fa-sign-in"></i></a>
+			</li>
+		</ul>
+		
+
+		<div class="x-nav-menu-toggle">
+			<div class="x-nav-menu-toggle-inner">
+				<div class="x-nav-menu-toggle-icon"><span></span></div>
+			</div>
+		</div>
+
+		<div id="tab-mobile" class="tab-content">
+			<div class="tab-pane fade popover" id="tab-language-menu-mobile">
+				<h4 class="lang_de">Sprache wechseln</h4>
+				<h4 class="lang_en">Change Language</h4>
+					
+					<ul id="language_menu_mobile" class="language-menu">
+						
+							
+									<li class="CUR flag_de">
+										<span class="langcode">de</span>Deutsch
+									</li>
+								
+						
+							
+									
+										<li class="NO SPC flag_en">
+											<a class="linked-language" href="/en/" title="English"><span class="langcode">en</span>English</a>
+										</li>
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+							
+									
+								
+						
+					</ul>
+					
+
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-colormode-mobile">
+				<h4 class="lang_de">Hell-/Dunkelmodus</h4><h4 class="lang_en">Light mode / Dark mode</h4>
+				<div id="colormode-wrap"><a class="color-mode__btn system"><span></span><b class="lang_de">Systemstandard</b><b class="lang_en">System standard</b></a>
+					<a class="color-mode__btn light"><span></span><b class="lang_de">Hell</b><b class="lang_en">Light</b></a>
+					<a class="color-mode__btn dark"><span></span><b class="lang_de">Dunkel</b><b class="lang_en">Dark</b></a>
+					<!-- div class="colormode-bw"><input id="colormode_bw" name="colormodebw" type="checkbox"><label for="colormode_bw"><span class="lang_de">schwarz-weiß</span></label></div -->
+
+				</div>
+				<p class="text-center" style="margin-bottom:0"><a href="https://uol.de/p88187" class="button_inline lang_de">Info und Anleitung</a>
+				<a href="https://uol.de/p88187en" class="button_inline lang_en">Info and instruction</a>
+				</p>
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-search-mobile">
+				<div id="search-wrap">
+					<label for="suchfeld"><span class="lang_de">Suche</span> <span class="lang_en">Search</span></label>
+					<form role="search" class="search-form" method="get" action="/suche" accept-charset="utf-8">
+						<input type="text" value="" name="q" id="suchfeld">
+						<p style="padding-left:2px"><input type="checkbox" id="s_extsuche" name="extsuche" value="goo" checked="checked" style="margin-right:4px"><label for="s_extsuche" style="cursor:pointer">&nbsp;<span class="lang_en">Embed&nbsp;</span><img src="https://uol.de/img/objekte/google.png" title="Google" alt="Google" style="height:1.3em;"><span class="lang_de">-Suche einbinden</span><span class="lang_en">&nbsp;search</span></label>
+							<span class="google-dsgvo-hinweis lang_de">(Mit der Aktivierung der Google-Suche bestätigen Sie, dass Sie mit der Einbindung und der dazu erforderlichen Datenübermittlung an Google einverstanden sind.)</span>
+							<span class="google-dsgvo-hinweis lang_en">(By activating Google Search, you confirm that you agree to the integration and the necessary data transfer to Google.)</span>
+							<script>document.getElementById("s_extsuche").checked = localStorage.getItem("uol_extsuche") == 'goo' ? true : false;</script>
+							<input type="hidden" name="ie" value="utf-8">
+							<input type="hidden" name="oe" value="utf-8">
+							<input type="hidden" name="cx" value="009619950304644246032:tmpbaar2o8i">
+							<input type="hidden" name="cof" value="FORID:9">
+							<input type="hidden" name="t3f" value="j">
+
+						</p>
+						<button type="submit"><span class="lang_de">suchen</span><span class="lang_en">search</span></button>
+					</form>
+				</div>
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-info-mobile">
+				<ul class="sub-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/alumni" title="Alumni Relations">Alumni</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/jav" title="Auszubildende">Auszubildende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/berufsausbildung" title="Berufsausbildungs-Interessierte">Berufsausbildungs-Interessierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/beschaeftigte" title="Informationen für Beschäftigte">Beschäftigte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/ehemalige" title="Ehemalige Beschäftigte">Ehemalige Beschäftigte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/studium/studieneinstieg" title="Erstsemester">Erstsemester</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/gasthoerstudium" title="Gasthörende">Gasthörende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/gefluechtete" title="Angebote und Programme für Geflüchtete">Geflüchtete</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/giz" title="Gründungsinteressierte">Gründungsinteressierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/willkommen-in-oldenburg" title="Internationale">Internationale</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/pressedienst" title="Journalistinnen und Journalisten">Journalistinnen und Journalisten</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/lehre" title="Für Lehrende und Lernende">Lehrende und Lernende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/studium/studienentscheidung" title="Studieninteressierte">Studieninteressierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/studium/studium-organisieren" title="Studierende">Studierende</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/unternehmen" title="Informationen für Unternehmen">Unternehmen</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/weiterbildung" title="Weiterbildungsinteressierte">Weiterbildungsinteressierte</a></li><li class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/forschung/akademische-karrierewege" title="Wissenschaftlicher Nachwuchs">Wissenschaftl. Nachwuchs</a></li></ul>
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+			<div class="tab-pane fade popover" id="tab-login-mobile">
+				<h4>Login</h4>
+				<ul class="cleanmenu geweitet logins">
+					<li id="studip-mobil">
+						<a id="siplogo" class="loginlink" href="https://elearning.uni-oldenburg.de"
+							 title="Stud.IP - Campus- und Lernmanagementsystem ">CampusPortal&nbsp;<span style="display: inline-block; background-image: url(/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/studip_logo.svg?v=1723061785); height: 22px; width: 64px; background-size: contain; background-repeat: no-repeat;"></span>
+						</a>
+					</li>
+					<li id="peoeip-desktop">
+						<a id="peoeiplink" class="loginlink" href="https://personalentwicklung.elearning.uni-oldenburg.de/" title="Personalweiterbildung PEOE.IP"><span class="lang_de">Personalweiterbildung</span><span class="lang_en">Staff training</span>&nbsp;<span id="head_peoeiplogo" style="display: inline-block; background-image: url(/_assets/d433799a7157dc4ba6bb3ee09f89cb2e/Assets/Images/peoeip-logo.svg?v=1723061785); height: 22px; width: 64px; background-size: contain; background-repeat: no-repeat;"></span>
+					  </a>
+					</li>
+					<li id="verwportal-desktop"><a id="verwaltlink" class="loginlink" href="https://uol.de/verwaltungsportal" title="Portal der Verwaltung"><span class="lang_de">Portal der Verwaltung</span><span class="lang_en">Portal of the Administration</span></a>
+					</li>
+					<li id="bewerbungsportale"><h4>Bewerbungsportal für Studienplätze</h4>
+<ul class="geweitet"><li><a href="https://stums.uni-oldenburg.de/">Bachelor</a></li><li><a href="https://stums.uni-oldenburg.de/">Master</a></li><li><a href="https://stums.uni-oldenburg.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces" target="_blank">Promotion</a></li></ul></li>
+
+				</ul>
+
+				<span class="btn-close"><i class="fa fa-close"></i></span>
+			</div>
+		</div>
+	</div>
+
+</header>
+
+    <div id="wrapper-content" class="clearfix">
+        <main class="site-content-page" id="home-portal">
+          
+    <div id="content">
+        
+
+	
+			<div id="c684064" class="frame frame-default frame-type-html frame-layout-0 buehne closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <div class="flexslider flexslider-uniolslider-fullslider">
+        <ul class="slides">   
+
+           <li id="slider_image_uni" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/uni/hsz-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/exzellenzstrategie">
+                                    <div class="h1">Exzellent forschen</div>
+                                    <div class="h2">Hörforschung - Meeresforschung - Forschung&nbsp;zur&nbsp;Tiernavigation</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHomepageOffen" href="/exzellenzstrategie">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+<!-- 
+            <li id="slider_image_uni_winter" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/uni_winter/hsz-winter-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/exzellenzstrategie">
+                                    <div class="h1">Exzellent forschen</div>
+                                    <div class="h2">Hörforschung - Meeresforschung - Forschung&nbsp;zur&nbsp;Tiernavigation</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHomepageOffen" href="/exzellenzstrategie">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+-->
+          <li id="slider_image_studium" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/studium/studieren-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                        
+                                <a href="/entdecken">
+                                    <div class="h1">Studieren in Oldenburg</div>
+                                    <div class="h2">Jetzt die Uni entdecken!</div>
+                                </a>
+                                <a class="innovation-button style2" style="background-color: #EE7203;" href="/entdecken">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+
+<!--   <li id="slider_image_hit" class="slider_image" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/HIT/HIT2024-1920.webp?v2')">
+	<div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/hit">
+                                    <div class="h1">Hochschul&shy;informationstag </div>
+                                    <div class="h2">am 20. Juni von 9 – 14.30 Uhr</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHitOffen" href="/hit">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+-->          
+            <li id="slider_image_antisem" class="slider_image slider_image_loaded" data-thumb-alt="" 
+          style="background-image: url('/fileadmin/uni/startseite/_banner/Mahnmal/slider-mahnmal-hsz-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                        
+                                <a href="/p82n8412">
+                                    <div class="h1">Kein Platz für Antisemitismus</div>
+                                    <div class="h2">Informationen und Stellungnahmen</div>
+                                </a>
+                                <a class="innovation-button style2" href="/p82n8412">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+          
+<!--          <li id="slider_image_medizin" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/f/umo/Kampagne/UMO-Wolken.webp')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                        
+                                <a href="/medizin-muss-wachsen">
+                                    <div class="h1">Ärztinnen und Ärzte fallen&nbsp;nicht vom&nbsp;Himmel</div>
+                                    <div class="h2">Uni-Medizin bereitet Ausbau auf 200 Studienanfänger*innen vor</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHomepageKampMedizin" style="background-color: #F1E632;color: #000;" href="/medizin-muss-wachsen">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li> 
+-->          
+            
+         
+<!--          <li id="slider_image_kindercampus" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/KinderCampus/1920.webp')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/p95470">
+                                    <div class="h1">Erlebnistag für die ganze&nbsp;Familie</div>
+                                    <div class="h2">Eindrücke vom KinderCampus</div>
+                                </a>
+                                <a class="innovation-button style2" style="background-color:var(--uol-50j-color)" id="buttonHomepageKinderCampus" href="/p95470">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+-->          
+          <!--
+          <li id="slider_image_nje2024" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/_processed/a/a/csm_Vorhang_auf_Stephan_Walzl_5b88b8da0c.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/im-profil">
+                                    <div class="h1">Neujahrsempfang von Universität und UGO</div>
+                                    <div class="h2">Jetzt letzte Karten für 18. Januar sichern</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHomepageOffen" href="/neujahrsempfang">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+-->
+           
+<!--          <li id="slider_image_uni" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/uni/hsz-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/im-profil">
+                                    <div class="h1">Offen für neue&nbsp;Wege</div>
+                                    <div class="h2">Die Universität Oldenburg</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHomepageOffen" href="/im-profil">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+-->       
+<!-- 
+          <li id="slider_image_uni_winter" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/uni_winter/hsz-winter-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/im-profil">
+                                    <div class="h1">Offen für neue&nbsp;Wege</div>
+                                    <div class="h2">Die Universität Oldenburg</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHomepageOffen" href="/im-profil">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+-->
+          
+          
+          <li id="slider_image_lehrkraefteportal" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/lehrkraefteportal/lehrkraefte-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                                <a href="/p87676">
+                                    <div class="h1">Oldenburger Lehrkräftebildung</div>
+                                    <div class="h2">Informationen, Strukturen und Profil</div>
+                                </a>
+                                <a class="innovation-button style2" id="buttonHomepageLKB" href="/p87676">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+
+          
+          <!-- li id="slider_image_erstis2023" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('https://uol.de/fileadmin/uni/startseite/_banner/Erstis2023/erstis-1920.jpg')">
+            <div class="flex-cont">
+              <div class="flex-caption">
+                        
+                <a href="/p82n8400">
+                  <div class="h1">Willkommen an&nbsp;der&nbsp;Uni!</div>
+                  <div class="h2">Erstsemester starten ins Studium</div>
+                </a>
+                <a class="innovation-button style2" href="/p82n8400">mehr erfahren</a>
+                            
+              </div>
+            </div>
+          </li --> 
+     
+                  
+
+     
+          <!--
+            <li id="slider_image_1" class="slider_image slider_image_unloaded"  style="background-image: url('/fileadmin/uni/startseite/_banner/forschung/1920.jpg')">
+                <div class="flex-cont">
+                    <a href="/exzellenzinitiative/">
+                    <div class="flex-caption">
+                        <div class="h1">Herausragende <br>Forschung</div>
+                        <div class="h2">Exzellenzcluster Hearing4all</div>
+                        <span class="innovation-button style2">mehr erfahren</span>
+                    </div>
+                    </a>
+                </div>
+            </li>
+          -->
+
+            <li id="slider_image_giz" class="slider_image slider_image_unloaded" style="background-image: url('/fileadmin/uni/startseite/_banner/gruender/gruenderuni-1920.jpg')">
+                <div class="flex-cont">
+                    <a href="/giz/">
+                    <div class="flex-caption">
+                        <div class="h1">Gründerinnen- und <br>Gründeruniversität</div>
+                        <div class="h2">Von der Idee zum Startup</div>
+                        <span class="innovation-button style2">mehr erfahren</span>
+                    </div>
+                    </a>
+                </div>
+            </li>
+          <li id="slider_image_c3l" class="slider_image slider_image_unloaded" style="background-image: url('/fileadmin/aktuelles/Homepage-Slides/C3L_1920x544px.jpg')">
+                <div class="flex-cont">
+                    <a href="https://uol.de/c3l/">
+                        <div class="flex-caption">
+                            <div class="h1">Berufsbegleitend studieren</div>
+                            <div class="h2">C3L – Center für lebenslanges Lernen</div>
+                            <span class="innovation-button style2">mehr erfahren</span>
+                        </div>
+                    </a>
+                </div>
+            </li>
+
+            
+                <!-- li id="slider_image_5" class="slider_image slider_image_unloaded"  style="background-image: url('/typo3conf/ext/uniolslider/Resources/Public/Images/Original/kustodien02.jpg')">
+                    <div class="flex-cont">
+                        <a href="/kustodien">
+                            <div class="flex-caption">
+                                <div class="h1">Kustodien<br>der Universität </div>
+                                <div class="h2">Die wissenschaftlichen Sammlungen</div>
+                                <span class="innovation-button style2">mehr erfahren</span>
+                            </div>
+                        </a>
+                    </div>
+                </li -->
+
+
+          
+            <li id="slider_image_ukraine" class="slider_image slider_image_loaded" data-thumb-alt="" style="background-image: url('/fileadmin/uni/startseite/_banner/ukraine/ukr-1920.jpg')">
+                <div class="flex-cont">
+                    <div class="flex-caption">
+                        
+                                <a href="/ukraine">
+                                    <div class="h1">Solidarität mit der Ukraine</div>
+                                    <div class="h2">Informationen und Unterstützung</div>
+                                </a>
+                                <a class="innovation-button style2" href="/ukraine">mehr erfahren</a>
+                            
+                    </div>
+                </div>
+            </li>
+          
+        </ul>
+    </div>
+
+<style>
+  .slider_image::after {
+    display: block;
+    padding: 0 5px;
+    text-align: right;
+    color: #fff;
+    position: absolute;
+    bottom: -5px;
+    right: 7px;
+    background: rgba(0,0,0,.1);
+    line-height: 1.3;
+	font-size: 9px;
+	transform: rotate(90deg);
+	transform-origin: center right;
+  }
+  
+  /*#slider_image_studium::after {
+    content: "Foto: ...";
+    background: rgba(0,0,0,.2);
+  }*/
+  
+  #slider_image_giz::after {
+    content: "Foto: istockphoto.de/Vasyl Dolmatov";
+    background: rgba(0,0,0,.2);
+  }
+  
+  #slider_image_nje2024::after {
+    content: "Foto: Oldenburgisches Staatstheater/Stephan Walzl";
+    background: rgba(0,0,0,.2);
+}
+  
+  @media (max-width: 1280px) {
+    
+    #slider_image_erstis2023 {
+      background-image: url("/fileadmin/uni/startseite/_banner/Erstis2023/erstis-1280.jpg")!important;
+    }
+    #slider_image_uni {
+      background-image: url("/fileadmin/uni/startseite/_banner/uni/hsz-1280.jpg")!important;
+    }
+    #slider_image_lehrkraefteportal {
+      background-image: url("/fileadmin/uni/startseite/_banner/lehrkraefteportal/lehrkraefte-1280.jpg")!important;
+    }
+    #slider_image_studium {
+      background-image: url("/fileadmin/uni/startseite/_banner/studium/studieren-1280.jpg")!important;
+    }
+    #slider_image_hit {
+      background-image: url("/fileadmin/uni/startseite/_banner/HIT/HIT2024-1280.webp")!important;
+    }
+    #slider_image_nmu {
+      background-image: url("/fileadmin/uni/startseite/_banner/NMU/25_Jahre_UOL_NMU_1280.jpg")!important;
+    }
+    #slider_image_uni_winter {
+      background-image: url("/fileadmin/uni/startseite/_banner/uni_winter/hsz-winter-1280.jpg")!important;
+    }
+    #slider_image_medizin {
+      /*background-image: url("/fileadmin/aktuelles/medizin/medizin-ukr-1280.jpg")!important;*/
+      background-image: url("/f/umo/Kampagne/UMO-Wolken.webp")!important;
+    }
+    #slider_image_antisem {
+      background-image: url("/fileadmin/uni/startseite/_banner/Mahnmal/slider-mahnmal-hsz-1280.jpg")!important;
+    }
+    #slider_image_ukraine {
+      background-image: url("/fileadmin/uni/startseite/_banner/ukraine/ukr-1280.jpg")!important;
+    }
+    #slider_image_giz {
+      background-image: url("/fileadmin/uni/startseite/_banner/gruender/gruenderuni-1280.jpg")!important;
+    }
+    #slider_image_c3l {
+      background-image: url('/fileadmin/aktuelles/Homepage-Slides/C3L_1280x500px.jpg')!important;
+    }
+  }
+  @media (max-width: 960px) {
+    #slider_image_erstis2023 {
+      background-image: url("/fileadmin/uni/startseite/_banner/Erstis2023/erstis-960.jpg")!important;
+    }
+    #slider_image_uni {
+      background-image: url("/fileadmin/uni/startseite/_banner/uni/hsz-960.jpg")!important;
+    }
+    #slider_image_lehrkraefteportal {
+      background-image: url("/fileadmin/uni/startseite/_banner/lehrkraefteportal/lehrkraefte-960.jpg")!important;
+    }
+    #slider_image_studium {
+      background-image: url("/fileadmin/uni/startseite/_banner/studium/studieren-960.jpg")!important;
+    }
+    #slider_image_1 {
+      background-image: url("/fileadmin/uni/startseite/_banner/forschung/960.jpg")!important;
+    }
+    /*#slider_image_hit {
+      background-image: url("/fileadmin/uni/startseite/_banner/HIT/hit-960.jpg")!important;
+    }*/
+    #slider_image_nmu {
+      background-image: url("/fileadmin/uni/startseite/_banner/NMU/25_Jahre_UOL_NMU_960.jpg")!important;
+    }
+    #slider_image_uni_winter {
+      background-image: url("/fileadmin/uni/startseite/_banner/uni_winter/hsz-winter-960.jpg")!important;
+    }
+    #slider_image_medizin {
+      /*background-image: url("/fileadmin/aktuelles/medizin/medizin-ukr-960.jpg")!important;*/
+      background-image: url("/f/umo/Kampagne/UMO-Wolken.webp")!important;
+    }
+    #slider_image_antisem {
+      background-image: url("/fileadmin/uni/startseite/_banner/Mahnmal/slider-mahnmal-hsz-960.jpg")!important;
+    }
+    #slider_image_ukraine {
+      background-image: url("/fileadmin/uni/startseite/_banner/ukraine/ukr-960.jpg")!important;
+    }
+    #slider_image_giz {
+      background-image: url("/fileadmin/uni/startseite/_banner/gruender/gruenderuni-960.jpg")!important;
+    }
+    #slider_image_c3l {
+      background-image: url('/fileadmin/aktuelles/Homepage-Slides/C3L_960x474px.jpg')!important;
+    }
+
+  }
+  @media (max-width: 639px) {
+    #span_unimed {
+      white-space: nowrap;
+    }
+  }
+
+  @media (max-width: 524px) {
+    #slider_image_medizin .flex-caption {
+      background: rgba(255,255,255,.7);
+    }
+    html[color-mode$="dark"] #slider_image_medizin .flex-caption,
+    html[data-colormode$="dark"] #slider_image_medizin .flex-caption {
+      background: rgb(0 0 0 / .3);
+    }
+  }
+  @media (max-width: 480px) {
+    #slider_image_erstis2023 {
+      background-image: url("/fileadmin/uni/startseite/_banner/Erstis2023/erstis-480.jpg")!important;
+    }
+    /* #slider_image_medizin {
+      background-image: url("/fileadmin/aktuelles/medizin/uni-medizin-480-start.jpg")!important;
+    } */
+    #slider_image_uni {
+      background-image: url("/fileadmin/uni/startseite/_banner/uni/hsz-480.jpg")!important;
+    }
+    #slider_image_lehrkraefteportal {
+      background-image: url("/fileadmin/uni/startseite/_banner/lehrkraefteportal/lehrkraefte-480.jpg")!important;
+    }
+    #slider_image_studium {
+      background-image: url("/fileadmin/uni/startseite/_banner/studium/studieren-480.jpg")!important;
+    }
+    #slider_image_1 {
+      background-image: url("/fileadmin/uni/startseite/_banner/forschung/480.jpg")!important;
+    }
+    /*#slider_image_hit {
+      background-image: url("/fileadmin/uni/startseite/_banner/HIT/hit-480.jpg")!important;
+    }*/
+    #slider_image_nmu {
+      background-image: url("/fileadmin/uni/startseite/_banner/NMU/25_Jahre_UOL_NMU_480.jpg")!important;
+    }
+    #slider_image_uni_winter {
+      background-image: url("/fileadmin/uni/startseite/_banner/uni_winter/hsz-winter-480.jpg")!important;
+    }
+    #slider_image_antisem {
+      background-image: url("/fileadmin/uni/startseite/_banner/Mahnmal/slider-mahnmal-hsz-480.jpg")!important;
+    }
+    #slider_image_ukraine {
+      background-image: url("/fileadmin/uni/startseite/_banner/ukraine/ukr-480.jpg")!important;
+    }
+
+    #slider_image_giz {
+      background-image: url("/fileadmin/uni/startseite/_banner/gruender/gruenderuni-480.jpg")!important;
+    }
+    #slider_image_c3l {
+      background-image: url('/fileadmin/aktuelles/Homepage-Slides/C3L_480x275px.jpg')!important;
+    }
+
+    li.slider_image::after {
+      padding: 0 10px 0 5px;
+    }
+  }
+  
+  @media (min-width: 525px) {
+    .flexslider-uniolslider-fullslider .slides img {
+      max-width: 37%;
+    }
+  }
+  
+  #slider_image_kindercampus .flex-caption {
+    background-color: rgb(255 255 255 / .7);
+  }
+
+    
+  /************* MEDIZIN AKTION ****************/
+  @media (min-width: 640px) {
+    a#buttonHomepageKampMedizin {
+        display: table;
+    	margin-top: -15px;
+	}
+  }
+  
+  @media (min-width: 768px) {
+    a#buttonHomepageKampMedizin {
+     	margin-top: 0;
+	}
+  }
+  
+  @media (max-width: 800px) {
+    #slider_image_medizin {
+      background-position-x: 0;
+    }
+  }
+/*  #slider_image_medizin .flex-caption > a:first-child::before {
+    content:"";
+    display:block;
+    float:right;
+    width: 120px;
+    height: 110px;
+    background: url('https://uol.de/fileadmin/aktuelles/medizin/Aktion-Banner/Stoerer.png') right top no-repeat;
+    background-size: contain;
+}
+  */
+#slider_image_medizin .flex-caption > a:first-child {    
+    display: inline
+    ;
+    background-size: 110px;
+    padding-right: 110px;
+}
+
+#slider_image_medizin .flex-caption {
+    max-width: 100vw;
+    background-color: rgb(255 255 255 / 40%);
+}
+  @media (min-width: 768px) {
+    #slider_image_medizin .flex-caption {
+      max-width: 55em;
+    }
+  }
+  
+  @media (min-width: 560px) {
+    #slider_image_medizin .flex-caption {
+      position: absolute;
+      bottom: 50%;
+      transform: translateY(50%);
+    }
+  }
+
+
+#slider_image_medizin .h1, #slider_image_medizin .hx {
+   /* color: rgb(252 236 0)!important; */
+}
+
+#slider_image_medizin .h2::before {
+     background: rgb(252 236 0)!important;
+ }
+
+@media (max-width: 479px) {
+    #slider_image_medizin .h2::before {
+        content: none;
+    }
+    #slider_image_medizin .flex-caption {
+        transform: translateY(55%);
+        
+    }
+}
+  
+  
+</style>
+
+<script>
+$(function(){
+  $('.flexslider').flexslider({
+    animation: "fade",
+    animationLoop: true,
+    dots: true,
+    slideshowSpeed: 8000,
+    animationSpeed: 1000
+  });
+});
+</script>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+    
+
+    <div id="c266313" class="frame  frame-default c238793 closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c266348" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-large frame-space-after-extra-small c238794 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+        <header>
+            
+
+
+    
+            
+                
+
+
+    
+            <h2 class="">
+                Aktuell
+            </h2>
+        
+
+
+
+            
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+
+				
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+                
+                    
+    
+    <div id="c266332" class="frame  frame-default c238814 pb-5 closed">
+        
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+        <ul class="nav nav-tabs">
+            
+                <li class="active"><a href="#tab-content-266344" data-toggle="tab">Top-Themen</a></li>
+            
+                <li><a href="#tab-content-266331" data-toggle="tab">Veranstaltungen</a></li>
+            
+                <li><a href="#tab-content-314428" data-toggle="tab">Zeitung &amp; Magazin</a></li>
+            
+        </ul>
+
+        <div class="tab-content c238814 pb-5 closed">
+            
+                <div id="tab-content-266344" class="tab-pane  active">
+                    
+                        
+    
+
+    
+        
+            
+
+	
+			<div id="c266366" class="frame frame-default frame-type-news_pi1 frame-layout-0 c238807 news-rahmen closed">
+				
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+				
+
+    
+    
+<div class="news">
+    
+	<!--TYPO3SEARCH_end -->
+	
+				
+								<div class="owl-theme">
+									 <div class="owl-nav"></div>
+								</div>
+
+							   <div class="owl-aktuell owl-carousel owl-theme news-aktuell">
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title="Kein Platz für Antisemitismus" tabindex="-1" href="/aktuelles/artikel/solidaritaet-mit-unseren-israelischen-partnern-8412">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/d/c/csm_15_02_88785bc33a.jpg" width="376" height="211" alt="" />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-10-13">
+		13.10.2025
+		<meta itemprop="datePublished" content="2025-10-13" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+		<span class="cat_49">
+				Hochschulpolitik
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				Kein Platz für Antisemitismus
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>Für ein Miteinander und eine respektvolle, dialogorientierte und verantwortungsbewusste Diskussionskultur auf dem Campus: neue Veranstaltungsangebote im Wintersemester zu den Themen Antisemitismus und Antidiskriminierung.</p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title="Kein Platz für Antisemitismus" href="/aktuelles/artikel/solidaritaet-mit-unseren-israelischen-partnern-8412">
+			mehr<span class="sr-only">: Kein Platz für Antisemitismus</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title="Feierlicher Start in ein besonderes Akademisches Jahr" tabindex="-1" href="/aktuelles/artikel/feierlicher-start-in-ein-besonderes-akademisches-jahr-12156">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/6/6/csm_251009_uni_auftakt067_096ced126e.jpg" width="376" height="211" alt="" />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-10-10">
+		10.10.2025
+		<meta itemprop="datePublished" content="2025-10-10" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_853">
+				Universität
+			</span>
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				Feierlicher Start in ein besonderes Akademisches Jahr
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>Uni und Universitätsgesellschaft Oldenburg (UGO) haben das neue Akademische Jahr mit einem Festakt im Audimax feierlich eröffnet. Festredner Prof. <span class="PMUntertitel">Manuel Hartung sprach über die Rolle von Universitäten in einer demokratischen Gesellschaft.&nbsp;</span></p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title="Feierlicher Start in ein besonderes Akademisches Jahr" href="/aktuelles/artikel/feierlicher-start-in-ein-besonderes-akademisches-jahr-12156">
+			mehr<span class="sr-only">: Feierlicher Start in ein besonderes Akademisches Jahr</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title="Für Antisemitismus sensibilisieren" tabindex="-1" href="/aktuelles/artikel/fuer-antisemitismus-sensibilisieren-12131">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/2/0/csm_Favorit_DSC_9295-lowRes_22ae6c48ba.jpg" width="376" height="211" alt="Frau Strübind sitzt dem Interviewer gegenüber. Sie sitzen im Sitzungssaal des Senats, im Hintergrund sind bunte Gemälde zu erkennen. Frau Strübind gestikuliert mit ihren Händen, während sie etwas erläutert." />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-10-08">
+		08.10.2025
+		<meta itemprop="datePublished" content="2025-10-08" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_853">
+				Universität
+			</span>
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+		<span class="cat_450">
+				Theologie
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				Für Antisemitismus sensibilisieren
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>Ab dem Wintersemester können Lehramtsstudierende lernen, gegen Antisemitismus an Schulen vorzugehen. Die Universität Oldenburg koordiniert das Programm. Andrea Strübind, Vizepräsidentin für Studium und Lehre, erläutert die Beweggründe und Inhalte.</p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title="Für Antisemitismus sensibilisieren" href="/aktuelles/artikel/fuer-antisemitismus-sensibilisieren-12131">
+			mehr<span class="sr-only">: Für Antisemitismus sensibilisieren</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title="1.800 Erstsemester beginnen ihr Studium an der Universität" tabindex="-1" href="/aktuelles/artikel/1800-erstsemester-beginnen-ihr-studium-an-der-universitaet-oldenburg-12120">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/8/9/csm_Universitaet-Erstsemester-10-2025-081_3ea99822cc.jpg" width="376" height="211" alt="Das Bild zeigt Erstsemester, die ihre Rucksäcke von freundlichen Mitarbeitenden der Presse &amp; Kommunikation überreicht bekommen." />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-10-06">
+		06.10.2025
+		<meta itemprop="datePublished" content="2025-10-06" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+		<span class="cat_48">
+				Studium und Lehre
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				1.800 Erstsemester beginnen ihr Studium an der Universität
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>1.800 Erstsemester beginnen in diesem Wintersemester ihr Studium an unserer Universität. Am Montag startete die Orientierungswoche mit der Eröffnungsfeier im Hörsaalzentrum.</p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title="1.800 Erstsemester beginnen ihr Studium an der Universität" href="/aktuelles/artikel/1800-erstsemester-beginnen-ihr-studium-an-der-universitaet-oldenburg-12120">
+			mehr<span class="sr-only">: 1.800 Erstsemester beginnen ihr Studium an der Universität</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title="Für Bewegung stark machen" tabindex="-1" href="/aktuelles/artikel/fuer-bewegung-stark-machen-12059">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/3/7/csm_Stiftung_Aktion_Hilfe_fuer_Kinder_TRYZE_4_446cdbfaed.jpg" width="376" height="211" alt="Das Bild zeigt einen roten Kegel, der auf einem Rasen steht. Im Hintergrund sind spielende Kinder mit Hula-Hoop-Reifen zu erkennen." />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-10-01">
+		01.10.2025
+		<meta itemprop="datePublished" content="2025-10-01" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+		<span class="cat_76">
+				Sportwissenschaft
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				Für Bewegung stark machen
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>Während der Coronapandemie fielen viele Sportangebote für Kinder weg – mit negativen Folgen. Die Sportwissenschaftlerin Katharina Pöppel will mit einem in Deutschland bisher kaum verbreiteten Bewegungskonzept die Freude an Bewegung zurückbringen.</p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title="Für Bewegung stark machen" href="/aktuelles/artikel/fuer-bewegung-stark-machen-12059">
+			mehr<span class="sr-only">: Für Bewegung stark machen</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title="Der menschliche Faktor" tabindex="-1" href="/aktuelles/artikel/der-menschliche-faktor-12067">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/7/8/csm_learninglab-240410-lowRes-30_fda91c35a0.jpg" width="376" height="211" alt="Großaufnahme eines Tabletts. Zwei Hände sind sichtbar, die linke hält das Tablett, die recht hält einen Spezialstift, mit der auf dem Bildschirm etwas eingegeben wird. " />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-09-24">
+		24.09.2025
+		<meta itemprop="datePublished" content="2025-09-24" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_1070">
+				Digitalisierung
+			</span>
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+		<span class="cat_136">
+				Arbeitsplatz Universität
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				Der menschliche Faktor
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>Durch die Digitalisierung ändern sich viele Tätigkeiten in der Verwaltung. Ein in Oldenburg koordiniertes, niedersachsenweites Kompetenzzentrum soll die Hochschulen dabei unterstützen, die Beschäftigten fit für die neuen Aufgaben zu machen.</p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title="Der menschliche Faktor" href="/aktuelles/artikel/der-menschliche-faktor-12067">
+			mehr<span class="sr-only">: Der menschliche Faktor</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title="Kontaktstudium erhält neue Förderung" tabindex="-1" href="/aktuelles/artikel/kontaktstudium-erhaelt-neue-foerderung-12007">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/4/6/csm_2025-08-15-Zertifikatsfeier-Kontaktstudium-frei-Moritz-vom-Ende_bca037581d.jpg" width="376" height="211" alt="Eine Gruppe von Menschen vor der Mensagebäude der Uni Oldenburg. Sie halten Mappen in den Händen, einige recken diese nach oben. Die Menschen sehen fröhlich aus. " />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-09-10">
+		10.09.2025
+		<meta itemprop="datePublished" content="2025-09-10" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_241">
+				CMC
+			</span>
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+		<span class="cat_433">
+				Pädagogik
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				Kontaktstudium erhält neue Förderung
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>Beratung und Weiterbildung für Migrant*innen und Geflüchtete mit pädagogischen Vorkenntnissen bietet das „Kontaktstudium“ bereits seit 2004. Nun wird es essenziell weiterentwickelt.&nbsp;</p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title="Kontaktstudium erhält neue Förderung" href="/aktuelles/artikel/kontaktstudium-erhaelt-neue-foerderung-12007">
+			mehr<span class="sr-only">: Kontaktstudium erhält neue Förderung</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+												
+
+
+
+
+
+	<div itemscope>
+	<div class="vc_column-inner ">
+		<a title=" Molekülschwingungen leiten Elektronenbewegung ein" tabindex="-1" href="/aktuelles/artikel/hochfrequente-molekuelschwingungen-leiten-elektronenbewegung-ein-11935">
+			<figure class="image">
+			
+					<img class="img-responsive" src="/fileadmin/_processed/8/b/csm_113_2025-08-01-Antonietta-De-Sio-Exp-Presse_1f631d6fe8.jpg" width="376" height="211" alt="" />
+				
+			</figure>
+		</a>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-08-28">
+		28.08.2025
+		<meta itemprop="datePublished" content="2025-08-28" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_47">
+				Forschung
+			</span>
+	
+		<span class="cat_45">
+				Top-Thema
+			</span>
+	
+		<span class="cat_79">
+				Physik
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+				 Molekülschwingungen leiten Elektronenbewegung ein
+		</h3>
+		<div class="teaser" itemprop="description">
+			
+				
+						<p>Ob in Solarzellen oder im Auge: Wenn Moleküle Licht absorbieren, stoßen sie komplexe Prozesse an. Wie die allerersten Momente dieses Prozesses ablaufen, hat ein internationales Forschungsteam um die Arbeitsgruppe Ultraschnelle Nano-Optik beobachtet.&nbsp;</p>
+					
+			
+		<a class="innovation-button style1 read-more aktuell" title=" Molekülschwingungen leiten Elektronenbewegung ein" href="/aktuelles/artikel/hochfrequente-molekuelschwingungen-leiten-elektronenbewegung-ein-11935">
+			mehr<span class="sr-only">:  Molekülschwingungen leiten Elektronenbewegung ein</span>
+		</a>
+	</div>
+</div>
+</div>
+
+
+										
+								</div>
+
+						
+				
+				
+
+
+				
+
+				
+
+
+
+			
+				
+
+
+
+
+			
+
+			
+
+
+
+
+		
+	<!--TYPO3SEARCH_begin-->
+
+</div>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+        
+    
+        
+            
+
+	
+			<div id="c266364" class="frame frame-default frame-type-html frame-layout-0 frame-space-before-small c239197x closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <a class="innovation-button style1 read-more aktuell" title="alle Top-Themen" href="https://uol.de/aktuelles/">
+      Alle News
+</a>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+        
+    
+
+
+    
+
+
+                    
+                </div>
+            
+                <div id="tab-content-266331" class="tab-pane ">
+                    
+                        
+    
+
+    
+        
+            
+
+	
+			<div id="c266365" class="frame frame-default frame-type-list frame-layout-0 c239288 closed">
+				
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+				
+
+    
+        
+
+<div class="lumophpinclude-pi1"><!-- Timestamp: 2025-10-13 22:43:11 -->
+<div class="tx-cal-controller" id="homepage-termine"><!-- div class="owl-theme tx"><div id="owl-calendar-nav" class="owl-nav"></div></div --><dl class="calendarize owl-calendar owl-carousel owl-theme calendar">	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">15.10.2025</span><span class="time">17:00 Uhr</span></div><div class="event-content">
+                    <h3>Infoveranstaltung: "Lehramt studieren2</h3>
+                    <div class="text"><p>Sie überlegen Lehramt zu studieren, haben aber noch offene Fragen? 
+In dieser Gruppenberatung erhalten Sie Informationen 
+-	zum Studienaufbau der verschiedenen Schulformen,
+-	zu den Fächerkombinationsvorgaben,
+-	zu Studienvoraussetzungen und 
+-	zur Bewerbung an der Universität Oldenburg. 
+Berater*innen der Zentralen Studien- und Karriereberatung beantworten individuelle Fragen.</p></div>
+                    <a href="/veranstaltungen/?ID=14868"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">15.10.2025</span><span class="time">17:00 Uhr</span></div><div class="event-content">
+                    <h3>Vortrag: "Gute Arbeit, gutes Leben. Arbeitszeitgesetz stärken, nicht aufweichen!"</h3>
+                    <div class="text"><p>Eine tägliche Arbeitszeit von 8 Stunden galt lange als soziale Errungenschaft. Die Bundesregierung plant jedoch, durch die Reformierung des Arbeitszeitgesetzes die bisherige Begrenzung durch eine wöchentliche Höchstarbeitszeit zu ersetzen. Damit könnten Arbeitstage auf bis zu 13 Stunden ausgedehnt werden. In ihrem Vortrag beleuchtet Yvonne Lott, welche Gefahren die geplante Reformierung des Gesetzes birgt und diskutiert, welche gesetzlichen, tariflichen und auch betrieblichen Regelungen mit Blick auf die Erwerbsarbeitszeit für bessere Arbeits- und Lebensbedingungen sinnvoll sind.</p></div>
+                    <a href="/veranstaltungen/?ID=14865"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">15.10.2025</span><span class="time">22:30 Uhr</span></div><div class="event-content">
+                    <h3>"Musical Movie Mittwoch"</h3>
+                    <div class="text"><p>Nachdem die Eltern der Protagonistin auf einer Bootsfahrt verunglücken wird sie am 18. Geburtstag zur Königin ihrer Heimat gekrönt. Ihre Schwester verliebt sich indes in einen König , den diese auch sofort heiraten will. Als die Protagonistin davon erfährt, kann diese ihre Emotionen nicht mehr kontrollieren und stürzt mit ihren magischen Fähigkeiten das Königreich in einen ewigen Winter.</p></div>
+                    <a href="/veranstaltungen/?ID=14910"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">16.10.2025</span><span class="time">14:00 Uhr</span></div><div class="event-content">
+                    <h3>"Das Universitätsarchiv als historisches Gedächtnis der Universität"</h3>
+                    <div class="text"><p>Das Universitätsarchiv fungiert als historisches Gedächtnis der Carl von Ossietzky Universität und dokumentiert die Entwicklung der Hochschule anhand verschiedenster Unterlagen und Medienformate - von Verwaltungsakten über Fotos und Tonbänder bis zu studentischen Flugblättern.
+
+Die Führung bietet einen Einblick in die spannende Aufgabenviefalt und Arbeitspraxis des Universitätsarchivs.
+
+Anmeldung unter: https://uol.de/veranstaltungen/blicke-hinter-die-kulissen/universitaetsarchiv</p></div>
+                    <a href="/veranstaltungen/?ID=14778"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">16.10.2025</span><span class="time">16:00 Uhr</span></div><div class="event-content">
+                    <h3>"Stadtrundgang zum Nationalsozialismus in Oldenburg"</h3>
+                    <div class="text"><p>Der Rundgang führt auf knapp vier Kilometern über zehn Stationen vom Pferdemarkt durch die Innenstadt zum alten Oldenburgischen Landtag und endet schließlich an der Gedenkwand für die jüdischen Opfer des Holocaust. Dabei werden an den Erinnerungsorten Aspekte wie mögliche Gründe für die frühen Erfolge der NSDAP in Oldenburg, Kriegserfahrungen der Bewohner*innen der Stadt und auch der zunehmende Antisemitismus, der schließlich im Holocaust mündete, thematisiert.  
+Anmeldungen bis12.10. auf der Homepage der Kooperationsstelle Hochschule-Gewerkschaften</p></div>
+                    <a href="/veranstaltungen/?ID=14834"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">16.10.2025</span><span class="time">20:00 Uhr</span></div><div class="event-content">
+                    <h3>Film: "Picture A Scientist - Frauen der Wissenschaft"</h3>
+                    <div class="text"><p>"Picture a Scientist" begleitet drei Wissenschaftlerinnen - Biologin Nancy Hopkins, Chemikerin Raychelle Burks und Geologin Jane Willenbring - auf ihrer Reise durch persönliche Erfahrungen in der Forschung, von offener Diskriminierung bis zu subtilen Benachteiligungen. 
+Im Anschluss an die Dokumentation gibt es das Angebot, einer Diskussionsrunde.</p></div>
+                    <a href="/veranstaltungen/?ID=14911"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">17.10.2025</span><span class="time">10:15 Uhr</span></div><div class="event-content">
+                    <h3>Seminar: "Stud.IP für Einsteiger*innen"</h3>
+                    <div class="text"><p>Zielgruppe: Lehrende der UOL.
+Die Plätze sind begrenzt. Eine Anmeldung (über Stud.IP) ist erforderlich.</p></div>
+                    <a href="/veranstaltungen/?ID=14844"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">17.10.2025</span><span class="time">19:00 Uhr</span></div><div class="event-content">
+                    <h3>Konzert: "Becerra 100 - Ein Komponist im Exil"</h3>
+                    <div class="text"><p>Das Institut für Musik widmet dem 1974-1990 an der Universität tätigen, aus Chile stammenden Komponisten Becerra-Schmidt einen umfangreichen Konzertabend. 
+Der Bundschuhchor singt Werke, die ihm gewidmet worden sind, das oh-ton-Ensemble bringt das ihm gewidmete Werk "Testimonium" zur Uraufführung. 
+Ein Stummfilm wird aufgrund von Original-Skizzen live vertont. Eine Komposition für MIDI-Flügel wird erstmals öffentlich gespielt.</p></div>
+                    <a href="/veranstaltungen/?ID=14894"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">17.10.2025</span><span class="time">20:00 Uhr</span></div><div class="event-content">
+                    <h3>Film: "Chirstopher Robin"</h3>
+                    <div class="text"><p>Christopher Robin, der Junge, der einst mit seinen Freunden aus dem Hundertmorgenwald die größten Abenteuer erlebte, ist erwachsen geworden. Seinem Job schenkt er mehr Aufmerksamkeit als seiner Familie und viele Zweifel plagen ihn. Indessen ist der in die Jahre gekommene Winnie Puuh vergeblich auf der Suche nach seinen Freunden Ferkel, I-Aah und Tigger und reist schließlich in das moderne London. Dort treffen beide aufeinander und begeben sich dort auf eine gemeinsame Reise.</p></div>
+                    <a href="/veranstaltungen/?ID=14909"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>	<dt class="vevent"><div class="dtstart-container"><div class="dtstart"><span class="date">17.10.2025</span><span class="time">20:00 Uhr</span></div><div class="event-content">
+                    <h3>Anime Sonderprogramm: "Anime Nights"</h3>
+                    <div class="text"><p>Auf dem Weg in ihr neues Zuhause, entdecken die Protagonistin und ihre Familie einen verlassenen Vergnügungspark. Sie schaffen es nicht den Park vor der Dämmerung wieder zu verlassen und durch einen Fluch die Eltern in grunzende Tiere verwandelt. Die Protagonistin beginnt im Badehaus einer Zauberin zu arbeiten, doch diese versucht ihren Namen zu stehlen und wer seinen Namen nicht kennt, findet nie wieder in seine Welt zurück. Während unsere Protagonistin nach einer Möglichkeit sucht, ihre Eltern zu retten, trifft sie auf allerlei seltsame Wesen?</p></div>
+                    <a href="/veranstaltungen/?ID=14912"><span class="innovation-button style1 read-more"> mehr</span></a>
+                    <div class="summary"></div>
+                </div>
+            </div>
+        </dt>
+</dl></div></div>
+
+
+    
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+        
+    
+        
+            
+
+	
+			<div id="c266363" class="frame frame-default frame-type-html frame-layout-0 c239198x closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <a class="innovation-button style1 read-more aktuell" title="alle Top-Themen" href="/veranstaltungen/">
+      alle Veranstaltungen
+</a>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+        
+    
+
+
+    
+
+
+                    
+                </div>
+            
+                <div id="tab-content-314428" class="tab-pane ">
+                    
+                        
+    
+
+    
+        
+            
+    
+
+    <div id="c314430" class="frame  frame-default frame-space-before-extra-small closed">
+        
+
+
+
+
+
+
+
+
+
+
+
+        
+        
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="inner-wrap">
+                    
+                        
+                            
+    
+
+    <div id="c314431" class="frame  frame-hggrau heft-text closed">
+        
+
+
+
+
+
+	
+
+
+
+
+
+
+
+        
+        
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="inner-wrap">
+                    
+                        
+                            
+
+	
+			<div id="c314433" class="frame frame-default frame-type-textmedia frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="/presse/uni-info" title="Aktuelle Ausgabe der Hochschulzeitung Uni-Info">
+                
+<img class="image-embed-item" title="Aktuelle Ausgabe der Hochschulzeitung Uni-Info" alt="Uni-Info" src="/fileadmin/presse/Publikationen/Uni-Info_mini.jpg?v=1751638476" width="215" height="320" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                        
+                    
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="inner-wrap">
+                    
+                        
+                            
+
+	
+			<div id="c314434" class="frame frame-default frame-type-textmedia frame-layout-0 dark-img-invers closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-left ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://uol.de/uni-info/" title="Uni-Info">
+                
+<img class="image-embed-item" title="Uni-Info" alt="Uni-Info" src="/fileadmin/uni/startseite/Uni-INFO_Marke.svg?v=1643193305" width="120" height="82" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+    </div>
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Die Hochschul­zeitung der&nbsp;Universität&nbsp;Oldenburg</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                        
+                    
+                        
+                            
+
+	
+			<div id="c314437" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small heft-link closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p><a href="https://uol.de/uni-info/" target="_blank" class="morelink innovation-button style1">Aktuelle Ausgabe</a></p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                        
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                        
+                    
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="inner-wrap">
+                    
+                        
+                            
+    
+
+    <div id="c314432" class="frame  frame-hggrau heft-text closed">
+        
+
+
+
+
+
+	
+
+
+
+
+
+
+
+        
+        
+
+        <div class="row">
+            <div class="col-md-6">
+                <div class="inner-wrap">
+                    
+                        
+                            
+
+	
+			<div id="c314435" class="frame frame-default frame-type-textmedia frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="/einblicke/69" title="Schwerpunkt Tiernavigation: Wie Tiere ihren Weg finden und was wir daraus lernen">
+                
+<img class="image-embed-item" title="Schwerpunkt Tiernavigation: Wie Tiere ihren Weg finden und was wir daraus lernen" src="/fileadmin/_processed/0/9/csm_cover-schwerpunkt-tiernavigation-wie-tiere-ihren-weg-finden-und-was-wir-daraus-lernen-koennen_fcb7264374.png" width="239" height="320" loading="lazy" alt="" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                        
+                    
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="inner-wrap">
+                    
+                        
+                            
+
+	
+			<div id="c314436" class="frame frame-default frame-type-textmedia frame-layout-0 dark-img-invers closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-left ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="/einblicke" title="EINBLICKE">
+                
+<img class="image-embed-item" title="EINBLICKE" alt="EINBLICKE" src="/fileadmin/uni/startseite/EINBLICKE_Marke.svg?v=1643193299" width="230" height="31" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+    </div>
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Das Forschungs­magazin der&nbsp;Universität&nbsp;Oldenburg</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                        
+                    
+                        
+                            
+
+	
+			<div id="c314438" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small heft-link closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p><a href="/einblicke" class="morelink innovation-button style1">Aktuelle Ausgabe</a></p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                        
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+                        
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+        
+    
+
+
+    
+
+
+                    
+                </div>
+            
+        </div>
+
+    </div>
+
+
+    
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+    
+
+    <div id="c348993" class="frame  frame-hggrau py-5 kopflinie closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+		<header>
+            
+			<h2>Campus-Leben</h2>
+
+			
+            
+		</header>
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c348992" class="frame frame-default frame-type-news_pi1 frame-layout-0 frame-space-before-extra-small c238811 pt-3 closed">
+				
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+				
+
+    
+    
+<div class="news">
+    
+	<!--TYPO3SEARCH_end -->
+	
+				
+				
+							<div class="owl-theme">
+									 <div class="owl-nav campus"></div>
+							</div>
+								<div class="owl-campus owl-carousel news-campus-leben">
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="„Alles ist leichter mit Freunden“" href="/aktuelles/artikel/alles-ist-leichter-mit-freunden-12118">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/8/5/csm_Marco_Bessert_Chemie-Philosophie_Nicht-fuer-Social-verwenden_acb90a94ae.jpg" width="691" height="389" alt="Ein junger Erwachsener sitzt auf einer Bank. Rechts von ihm steht sein Rucksack. Er lächelt in die Kamera. " />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-10-02">
+		02.10.2025
+		<meta itemprop="datePublished" content="2025-10-02" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+		<span class="cat_575">
+				Landingpage [Entdecken] Persönliches
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				„Alles ist leichter mit Freunden“
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Freunde gewinnen, sich organisieren und obendrein sein Pensum schaffen: Wie das erste Semester gelingt, verrät Lehramtsstudent Marco Bessert.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="„Alles ist leichter mit Freunden“" href="/aktuelles/artikel/alles-ist-leichter-mit-freunden-12118">
+				 mehr<span class="sr-only">: „Alles ist leichter mit Freunden“</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Niederländischer Orden für Hans Beelen" href="/aktuelles/artikel/niederlaendischer-orden-fuer-hans-beelen-12109">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/2/5/csm_250930_uni_verabschiedung-beelen-6_10ec76a32f.jpg" width="691" height="389" alt="Ein Mann steht auf einer Wiese und trägt einen weißen Anzug mit einem Orden im Jackett." />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-10-01">
+		01.10.2025
+		<meta itemprop="datePublished" content="2025-10-01" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+		<span class="cat_457">
+				Niederlandistik
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Niederländischer Orden für Hans Beelen
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Mit besonderer Leidenschaft setzt sich Hans Beelen für die niederländische Sprache ein. Dafür erhält der Sprachdozent nun eine hohe Auszeichnung des niederländischen Königshauses – und verabschiedet sich in den Ruhestand.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Niederländischer Orden für Hans Beelen" href="/aktuelles/artikel/niederlaendischer-orden-fuer-hans-beelen-12109">
+				 mehr<span class="sr-only">: Niederländischer Orden für Hans Beelen</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Das war der KinderCampus 2025" href="/veranstaltungen/kindercampus-2025/bildergalerie-kindercampus-2025">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/b/5/csm_250920_uni_kindercampus-64_abc1f60723.jpg" width="691" height="389" alt="" />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-09-22">
+		22.09.2025
+		<meta itemprop="datePublished" content="2025-09-22" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Das war der KinderCampus 2025
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Entdecken, ausprobieren, mitmachen, staunen und spielen – unter diesem Motto besuchten am Wochenende wieder rund 2.500 kleine und große Gäste den KinderCampus der Universität. Auch die zweite Auflage des Familientags war ein voller Erfolg.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Das war der KinderCampus 2025" href="/veranstaltungen/kindercampus-2025/bildergalerie-kindercampus-2025">
+				 mehr<span class="sr-only">: Das war der KinderCampus 2025</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Universität begrüßt neue FWJ-Leistende" href="/aktuelles/artikel/universitaet-begruesst-neue-fwj-leistende-12024">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/6/2/csm_DSC_9105-min_7b8ccb41cd.jpg" width="691" height="389" alt="Das Bild zeigt 19 der 22 Freiwilligen, die sich zu einem Gruppenbild aufgestellt haben. Sie stehen vor einem Unigebäude und lächeln in die Kamera." />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-09-19">
+		19.09.2025
+		<meta itemprop="datePublished" content="2025-09-19" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Universität begrüßt neue FWJ-Leistende
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>In diesem Monat sind 22 junge Menschen in das Freiwillige Wissenschaftliche Jahr an der Universität gestartet. Eingesetzt sind die Freiwilligen auf beiden Campi der Uni sowie in den Unikliniken. Sie erwarten viele verschiedene Tätigkeiten.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Universität begrüßt neue FWJ-Leistende" href="/aktuelles/artikel/universitaet-begruesst-neue-fwj-leistende-12024">
+				 mehr<span class="sr-only">: Universität begrüßt neue FWJ-Leistende</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="KinderCampus: Erlebnistag für die ganze Familie" href="/aktuelles/artikel/kindercampus-erlebnistag-fuer-die-ganze-familie-1-12011">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/a/b/csm_240420_kindercampus029_378f290775.jpg" width="691" height="389" alt="" />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-09-12">
+		12.09.2025
+		<meta itemprop="datePublished" content="2025-09-12" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				KinderCampus: Erlebnistag für die ganze Familie
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Entdecken, ausprobieren, mitmachen, staunen und spielen – das ist das Motto des KinderCampus am Samstag, 20. September, auf dem Campus Haarentor.&nbsp;</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="KinderCampus: Erlebnistag für die ganze Familie" href="/aktuelles/artikel/kindercampus-erlebnistag-fuer-die-ganze-familie-1-12011">
+				 mehr<span class="sr-only">: KinderCampus: Erlebnistag für die ganze Familie</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Northwest Alliance präsentiert sich in Boston" href="/aktuelles/artikel/northwest-alliance-praesentiert-sich-in-boston-11996">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/a/f/csm_GAIN-Tagung__2__41b3a14d84.jpg" width="691" height="389" alt="" title="GAIN-Tagung" />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-09-05">
+		05.09.2025
+		<meta itemprop="datePublished" content="2025-09-05" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_47">
+				Forschung
+			</span>
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+		<span class="cat_462">
+				Internationales
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Northwest Alliance präsentiert sich in Boston
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Als Teil der Northwest Alliance hat sich die Universität Oldenburg gerade auf der Jahrestagung des German Academic International Network präsentiert. Das Ziel: mit Forschenden, die in den USA arbeiten, ins Gespräch zu kommen.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Northwest Alliance präsentiert sich in Boston" href="/aktuelles/artikel/northwest-alliance-praesentiert-sich-in-boston-11996">
+				 mehr<span class="sr-only">: Northwest Alliance präsentiert sich in Boston</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Uni als fahrradfreundlicher Arbeitgeber prämiert" href="/aktuelles/artikel/uni-als-fahrradfreundlicher-arbeitgeber-praemiert-11999">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/3/2/csm_UEbergabe_Fahrradtertifikat_Credit_Daniel_Schmidt_quer_048fead59e.jpg" width="691" height="389" alt="Sechs Menschen stehen nebeneinander mit einem Fahrrad und einem Zertifikat." />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-09-05">
+		05.09.2025
+		<meta itemprop="datePublished" content="2025-09-05" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_1132">
+				Klimaschutz
+			</span>
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Uni als fahrradfreundlicher Arbeitgeber prämiert
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Die Uni Oldenburg ist nun offiziell „Fahrradfreundlicher Arbeitgeber“. Ein Zertifikat des Allgemeinen Deutschen Fahrrad-Clubs würdigt die aktive Förderung des Radverkehrs auf dem Campus. Weitere Ziele sind anvisiert.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Uni als fahrradfreundlicher Arbeitgeber prämiert" href="/aktuelles/artikel/uni-als-fahrradfreundlicher-arbeitgeber-praemiert-11999">
+				 mehr<span class="sr-only">: Uni als fahrradfreundlicher Arbeitgeber prämiert</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Sprachbarrieren überwinden" href="/aktuelles/artikel/sprachbarrieren-ueberwinden-11786">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/d/d/csm_Sprachbegleitung_DeutschPlus_UI-juli_4d5a08e36c.jpg" width="691" height="389" alt="Links im Bild sitzen zwei junge Männer, die auf einen Zettel schauen. Rechts im Bild sitzt eine junge Frau, daneben ein junger Mann - beide lächeln die ihnen gegenübersitzenden Männer an. In der Bildmitte stehen zwei Studentinnen, beide lachen ebenfalls die Männer links im Bild an. Sie befinden sich in einem Seminarraum, sitzen und stehen vor einem Gruppentisch. Im Hintergrund ist eine Tafel aufgestellt. " />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-08-28">
+		28.08.2025
+		<meta itemprop="datePublished" content="2025-08-28" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+		<span class="cat_943">
+				Sprachenzentrum
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Sprachbarrieren überwinden
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Das Tutorienprogramm „DeutschPlus“ unterstützt internationale Studierende, aber auch Kinder und Jugendliche beim Spracherwerb. Begleitet werden sie dabei von engagierten Tutorinnen und Tutoren aus der Studierendenschaft.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Sprachbarrieren überwinden" href="/aktuelles/artikel/sprachbarrieren-ueberwinden-11786">
+				 mehr<span class="sr-only">: Sprachbarrieren überwinden</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Hier sitzt es sich gut: Neue Möbel auf dem Campus " href="/aktuelles/artikel/hier-sitzt-es-sich-gut-neue-moebel-auf-dem-campus-11906">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/6/7/csm_25-08-18_13-21-22_3710_zugeschnitten_5c77390d12.jpg" width="691" height="389" alt="Menschen stehen um eine Sitzbank aus Holz." />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-08-21">
+		21.08.2025
+		<meta itemprop="datePublished" content="2025-08-21" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+		<span class="cat_575">
+				Landingpage [Entdecken] Persönliches
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Hier sitzt es sich gut: Neue Möbel auf dem Campus 
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Außergewöhnliche Sitzmöbel stehen neuerdings auf dem Campus Haarentor. Sitzend oder liegend: Hier lässt sich entspannen, lernen und austauschen. Studierende der Arbeitsgruppe Technische Bildung (ATB) haben an den Bänken gewerkelt.&nbsp;</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Hier sitzt es sich gut: Neue Möbel auf dem Campus " href="/aktuelles/artikel/hier-sitzt-es-sich-gut-neue-moebel-auf-dem-campus-11906">
+				 mehr<span class="sr-only">: Hier sitzt es sich gut: Neue Möbel auf dem Campus </span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+												
+
+
+
+<div class="row" itemscope>
+	<div class="col-md-6">
+<a title="Beraten, leiten, entwickeln" href="/aktuelles/artikel/beraten-leiten-entwickeln-11788">
+	
+			<figure class="image">
+				
+				<img maxWidth="691" maxHeight="360c" class="img-responsive" src="/fileadmin/_processed/f/a/csm_UI-S12_Interview_Wilks_b1941fdc3e.jpg" width="691" height="389" alt="Sebastian Wilks trägt ein blau grün kariertes Hemd und sitzt vor dem Gebäude A12 auf einer Bank. Er hat dunkles, kurzes Haar und einen Bart.Er gestikuliert mit seiner linken Hand. Ihm gegenüber sitzt eine junge Frau, die ihn interviewt. Man sieht die Frau nur von Hinten, sie hat schulterlanges, blondes, gewelltes Haar." />
+
+			</figure>
+		
+
+
+</a>
+  </div>
+  <div class="col-md-6 campusleben-text">
+		<div>
+	<div class="extra" xmlns:f="http://typo3.org/ns/TYPO3/CMS/Fluid/ViewHelpers" xmlns="">
+
+	<time datetime="2025-08-11">
+		11.08.2025
+		<meta itemprop="datePublished" content="2025-08-11" />
+	</time>
+
+
+	<!-- categories -->
+	
+	<span class="news-list-category">
+	
+		<span class="cat_50">
+				Campus-Leben
+			</span>
+	
+</span>
+	
+
+	
+</div>
+
+		<h3 itemprop="headline">
+
+				Beraten, leiten, entwickeln
+
+		</h3>
+
+				
+					
+							<div class="teaser">
+								<p>Sebastian Wilks ist seit 20 Jahren an der Universität tätig. Mittlerweile leitet er das Akademische Prüfungsamt. Er möchte seine Position nutzen, um die Entwicklung der Universität mitzugestalten.</p>
+							</div>
+						
+				
+
+
+			 <a class="innovation-button style1 read-more aktuell" title="Beraten, leiten, entwickeln" href="/aktuelles/artikel/beraten-leiten-entwickeln-11788">
+				 mehr<span class="sr-only">: Beraten, leiten, entwickeln</span>
+		</a>
+
+	  </div>
+	</div>
+</div>
+
+
+										
+								</div>
+						
+				
+
+
+				
+
+				
+
+
+
+			
+				
+
+
+
+
+			
+
+			
+
+
+
+
+		
+	<!--TYPO3SEARCH_begin-->
+
+</div>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+    
+
+    <div id="c348985" class="frame  frame-default hg-farbig- closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c348975" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-after-small c238785 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+        <header>
+            
+
+
+    
+            
+                
+
+
+    
+            <h2 class="">
+                Studieren in Oldenburg
+            </h2>
+        
+
+
+
+            
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+
+				
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+                
+                    
+
+    <div id="c348984" class="frame  frame-default c238790 closed">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="inner-wrap">
+                
+                    
+                        
+
+	
+			<div id="c348980" class="frame frame-default frame-type-textmedia frame-layout-1 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/fileadmin/_processed/2/a/csm_uniOL-erstsemester-147-20161010-LUKASLEHMANN-DE__1__fe48d41ba2.png" width="370" height="148" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+                    
+                        
+
+	
+			<div id="c348983" class="frame frame-default frame-type-textmedia frame-layout-1 frame-space-before-small closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+        <header>
+            
+
+
+    
+            <h4 class="">
+                Studienangebot
+            </h4>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Das Fächerspektrum an der Universität Oldenburg ist sehr breit. Hier können Sie sich über unser Angebot informieren.</p>
+<p><a href="/studium/studienangebot" class="innovation-button style1">Studiengänge von A - Z</a></p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+            </div>
+        </div>
+
+        <div class="col-lg-4">
+            <div class="inner-wrap">
+                
+                    
+                        
+
+	
+			<div id="c348981" class="frame frame-default frame-type-textmedia frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            
+                    
+<img class="image-embed-item" src="/fileadmin/_processed/6/3/csm_wiese-a5-studierende-campus-leben-2012_709afd7bd2.png" width="370" height="148" loading="lazy" alt="" />
+
+
+                
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+                    
+                        
+
+	
+			<div id="c348982" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+        <header>
+            
+
+
+    
+            <h4 class="">
+                Wohnen und Leben
+            </h4>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Neu an der Uni, aber noch ohne Wohnung und Plan? Wir geben Ihnen einen Überblick über das Wohn-, Freizeit- und Kulturangebot.</p>
+<p><a href="/studium/campusleben" class="innovation-button style1">Campusleben</a></p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="inner-wrap">
+                
+                    
+                        
+
+	
+			<div id="c348976" class="frame frame-default frame-type-textmedia frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="/studium/bewerben" title="Jetzt zum Wintersemester bewerben!">
+                
+<img class="image-embed-item" title="Jetzt zum Wintersemester bewerben!" src="/fileadmin/uni/startseite/studieren-bewerben-wise-nunito-sans.jpg?v=1608037333" width="520" height="208" loading="lazy" alt="" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+                    
+                        
+
+	
+			<div id="c348979" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+        <header>
+            
+
+
+    
+            <h4 class="">
+                Bewerben
+            </h4>
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Die Bewerbungsmodalitäten sind je nach Studiengang und angestrebtem Abschluss verschieden. Hier finden Sie detaillierte Informationen.</p>
+<p><a href="/studium/bewerben" class="innovation-button style1">Alles rund um die Bewerbung</a></p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+    
+
+    <div id="c348987" class="frame  frame-default frame-space-before-extra-small c239200x hg-farbig-blaubalken closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c348986" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <a class="innovation-button style1" href="/studium" target="_self">zum Infoportal</a>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+    
+
+    <div id="c349006" class="frame  frame-hggrau frame-hggrau py-5 closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c349003" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-after-large c238781 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+        <header>
+            
+
+
+    
+            
+                
+
+
+    
+            <h2 class="">
+                Neuberufene an der Universität
+            </h2>
+        
+
+
+
+            
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Wer ist neu in welchem Fach?<br> Eine Übersicht über neuberufene Professorinnen und Professoren in chronologischer Reihenfolge.</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+                
+                    
+
+	
+			<div id="c349004" class="frame frame-default frame-type-news_pi1 frame-layout-0 pt-3 closed">
+				
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+				
+
+    
+    
+<div class="news">
+    
+	<!--TYPO3SEARCH_end -->
+	
+				
+				
+				
+							<div class="owl-theme">
+									 <div id="owl-neuberufene-nav" class="owl-nav neuberufene"></div>
+							</div>
+								<div class="owl-neuberufene owl-carousel innovation-ourteam">
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Kai Siedenburg" href="/neuberufene/person/kai-siedenburg-12145">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/c/7/csm_Praesidium_Ernennung_Kai_Kristof_Siedenburg_25-09-2025z09_0579_85f4bd5588.jpg" width="300" height="300" alt="" />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Kai Siedenburg" href="/neuberufene/person/kai-siedenburg-12145">
+							Kai Siedenburg
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Systematische Musikwissenschaft</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Martin Bleichner" href="/neuberufene/person/martin-bleichner-11973">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/3/c/csm_Bleichner_Martin_frei_Schmidt_Daniel_fdba52d8a6.jpg" width="300" height="300" alt="" />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Martin Bleichner" href="/neuberufene/person/martin-bleichner-11973">
+							Martin Bleichner
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Translationale Psychologie</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Mandy Roheger" href="/neuberufene/person/mandy-roheger-1-11975">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/a/8/csm_Roheger_Mandy_frei_Schmidt_Daniel_bc5acc4384.jpg" width="300" height="300" alt="" />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Mandy Roheger" href="/neuberufene/person/mandy-roheger-1-11975">
+							Mandy Roheger
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Ambulantes Assessment in der Psychologie</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Sonja Pyott" href="/neuberufene/person/sonja-pyott-11977">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/c/7/csm_Pyott_Sonja_frei_Schmidt_Daniel_107a1a1252.jpg" width="300" height="300" alt="" />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Sonja Pyott" href="/neuberufene/person/sonja-pyott-11977">
+							Sonja Pyott
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Zelluläre Kommunikation in neurosensorischen Systemen</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Chih-Hong Cheng" href="/neuberufene/person/chih-hong-cheng-11920">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/e/b/csm_2025-08-22_Chih-Hong_Cheng-frei-daniel-schmidt_7aedd8b3e9.jpg" width="300" height="300" alt="" />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Chih-Hong Cheng" href="/neuberufene/person/chih-hong-cheng-11920">
+							Chih-Hong Cheng
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Sicherheit und Erklärbarkeit Lernender Systeme</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Peter Eppinger" href="/neuberufene/person/peter-eppinger-11757">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/5/5/csm_MHO_2025-07-15_Uni_OL_003_0bc52d3091.jpg" width="300" height="300" alt="Das Bild zeigt Peter Eppinger. Er steht auf einem Flur in der Uni und lächelt in die Kamera. Er trägt einen Anstecker mit Unilogo am Revers." />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Peter Eppinger" href="/neuberufene/person/peter-eppinger-11757">
+							Peter Eppinger
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Internationale Wirtschaftsbeziehungen</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Johanna Heine" href="/neuberufene/person/johanna-heine-11841">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/2/b/csm_Praesidium_Ernennung_Johanne_Heine_16-07-25_3_a15f3fd2a5.jpg" width="300" height="300" alt="" />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Johanna Heine" href="/neuberufene/person/johanna-heine-11841">
+							Johanna Heine
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Anorganische Chemie</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+												
+<!--
+	=====================
+		Partials/List/Item-neuberufene.html
+-->
+
+
+	<div class="ourteam-item">
+		<div class="ourteam-avatar">
+			<figure>
+				<a title="Mark Ellrichmann" href="/neuberufene/person/mark-ellrichmann-11451">
+					
+							<img class="img-responsive" src="/fileadmin/_processed/8/9/csm_Ellrichmann_Mark_Klinikum_Oldenburg_eaa5e053e6.jpg" width="300" height="300" alt="Portätbild von Mark Ellrichmann" />
+						
+				</a>
+			</figure>
+		</div>
+		<div class="over-ourteam">
+			<div class="content-middle">
+				<div class="ourteam-detail content-middle-inner">
+					<div class="ourteam-name">
+						<a title="Mark Ellrichmann" href="/neuberufene/person/mark-ellrichmann-11451">
+							Mark Ellrichmann
+						</a>
+					</div>
+					<div class="ourteam-job">
+						
+							
+									<p>Innere Medizin mit Schwerpunkt Gastroenterologie</p>
+								
+						
+					</div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+											
+								</div>
+						
+
+
+				
+
+				
+
+
+
+			
+				
+
+
+
+
+			
+
+			
+
+
+
+
+		
+	<!--TYPO3SEARCH_begin-->
+
+</div>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+                
+                    
+
+	
+			<div id="c349005" class="frame frame-default frame-type-html frame-layout-0 frame-space-before-small c239202 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <a class="innovation-button style1 read-more aktuell" title="alle Neuberufenen" href="/neuberufene/seite-1">
+      alle Neuberufenen
+</a>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+    
+
+    <div id="c349019" class="frame  frame-default hg-farbig- closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c349014" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-after-small c238779 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+        <header>
+            
+
+
+    
+            
+                
+
+
+    
+            <h2 class="">
+                Videoportal
+            </h2>
+        
+
+
+
+            
+        
+
+
+
+            
+
+
+
+            
+
+
+
+        </header>
+    
+
+
+
+	
+
+
+				
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+                
+                    
+
+    <div id="c349018" class="frame  frame-default c238753 closed">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    <div class="row">
+        <div class="col-lg-4">
+            <div class="inner-wrap">
+                
+                    
+                        
+
+	
+			<div id="c354845" class="frame frame-default frame-type-textmedia frame-layout-0 hg-uniblau30 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://youtu.be/jols1_WJyl0">
+                
+<img class="image-embed-item" src="/fileadmin/_processed/7/b/csm_uni-von-oben-25-video_aebb672d04.jpg" width="369" height="207" loading="lazy" alt="" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<h3>Uni von oben</h3>
+<p>Hörsaalzentrum, Bibliothek, Sportplätze und Forschungsgebäude - mit dem Drohnenflug lässt sich der Campus Haarentor, der Campus Wechloy und der Standort Wilhelmshaven aus der Vogelperspektive erkunden.</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+            </div>
+        </div>
+
+        <div class="col-lg-4">
+            <div class="inner-wrap">
+                
+                    
+                        
+
+	
+			<div id="c351202" class="frame frame-default frame-type-textmedia frame-layout-0 hg-uniblau30 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://youtu.be/5TQBDJi9mT0">
+                
+<img class="image-embed-item" src="/fileadmin/_processed/b/7/csm_50J50M-video_bf16f52a3d.jpg" width="369" height="207" loading="lazy" alt="" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<h3>Ich wünsche der UOL…</h3>
+<p>Rund 2.900 Mitarbeitende und 15.500 Studierende machen die Universität Oldenburg aus. Zum 50. Uni-Geburtstag stellten wir ein Jahr lang jede Woche einen von ihnen vor. Sie haben ganz persönliche Wünsche für die UOL.</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+            </div>
+        </div>
+        <div class="col-lg-4">
+            <div class="inner-wrap">
+                
+                    
+                        
+
+	
+			<div id="c349016" class="frame frame-default frame-type-textmedia frame-layout-0 hg-uniblau30 closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="1" data-ce-images="1">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://youtu.be/sDzw-ApDg0Y?feature=shared">
+                
+<img class="image-embed-item" src="/fileadmin/_processed/3/9/csm_erstsemester2024_399f08d79b.jpg" width="369" height="207" loading="lazy" alt="" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<h3>Tipps &amp; Tricks für Erstsemester</h3>
+<p>„Ein bisschen mehr lernen und darauf vorbereitet sein, dass es gerade in den Semesterferien doch ein bisschen mehr Arbeit sein könnte, als man vielleicht denkt.“ Diesen und weitere Tipps geben aktuelle Studierende den Erstsemestern.</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                    
+                
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+    
+
+    <div id="c266343" class="frame  frame-default hg-farbig-blaubalken closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c266359" class="frame frame-default frame-type-html frame-layout-0 c238759 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <a class="innovation-button style1" href="http://www.youtube.de/universityoldenburg/" target="_blank">zum Videoportal</a>
+
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <script>
+$(function(){
+  
+  /* Bühne */
+  $('.flexslider').flexslider({
+    animation: "fade",
+    animationLoop: true,
+  });
+
+  /* Tabs */
+  $(".nav-tabs > li:first-child a").addClass("active show");
+
+  $('.c238753 figure.image').each(function(){
+    $(this).css('position','relative').find('a').append('<span class="uol-yt-button"></span>');
+  });
+
+});
+</script>
+
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <script>
+$(function(){
+  /* Zeitung und Magazin */
+  $("#tab-content-314428 .col-md-6").addClass('col-sm-6').removeClass('col-md-6');
+});
+</script>
+
+<style>
+  .logoleiste img {
+    filter: grayscale(1);
+    transition: all 0.1s;
+    opacity: 0.8;
+  }
+  .logoleiste img:hover {
+    filter: grayscale(0);
+    opacity: 1;
+  }
+
+main header h2 {
+	font-size: 32px;
+	margin-bottom: 1em;
+}
+
+/*
+.news-list-category {
+	word-spacing: -2px;
+	transform-origin: left;
+	transform: scaleX(.95);
+}
+*/
+
+.news-aktuell .extra {
+    display: flex;
+    width: calc(100% - 25px);
+}
+
+.news-aktuell .extra > time {
+    width: fit-content;
+    padding-right: .2em;
+    flex-grow: 0;
+    flex-shrink: 0;
+}
+
+.news-aktuell .extra .news-list-category {
+    overflow-x: hidden;
+    flex-grow: 1;
+    transform: scaleX(1);
+    position: relative;
+}
+
+.news-aktuell .extra .news-list-category::after {
+    content: "";
+    width:2em;
+    display: block;
+    position: absolute;
+    top:0;
+    bottom:0;
+    right:0;
+    background: linear-gradient(90deg, transparent, var(--uol-bg-stufe1))   
+}
+
+/* Diese Kategorien generell ausblenden */
+.news-list-category > span.cat_45,
+.news-list-category > span.cat_47,
+.news-list-category > span.cat_50,
+.news-list-category > span.cat_551,
+.news-list-category > span.cat_575,
+.news-list-category > span.cat_1012,
+.news-list-category > span.cat_1231 {
+	display: none;
+}
+
+.news-list-category > span.cat_45:last-child:first-child,
+.news-list-category > span.cat_47:last-child:first-child,
+.news-list-category > span.cat_1012:last-child:first-child,
+.news-list-category > span.cat_1231:last-child:first-child {
+	display: inline;
+}
+
+/* .news-list-category > span.cat_45:last-child,
+.news-list-category > span.cat_47:last-child {
+	display: inline;
+}
+
+.news-list-category > span.cat_45:nth-child(2),
+.news-list-category > span.cat_45:nth-child(3),
+.news-list-category > span.cat_45:nth-child(4),
+.news-list-category > span.cat_47:nth-child(2),
+.news-list-category > span.cat_47:nth-child(3),
+.news-list-category > span.cat_47:nth-child(4){
+	display: none;
+} */
+
+/* .news-list-category > span.cat_45:first-child + span::before,
+.news-list-category > span.cat_47:first-child + span::before,
+.news-list-category > span.cat_45:nth-child(2) + span::before,
+.news-list-category > span.cat_47:nth-child(2) + span::before {
+	content: "\A0" !important;
+}
+   */
+.news .extra .news-list-category > span::before {
+  content: " \22c5 " !important;
+}
+
+/* für Script */
+.uol-yt-button {
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: url("/typo3conf/ext/unioltemplate/Resources/Public/Assets/Images/YT-Button.svg") bottom center;
+	background-size: cover;
+}
+
+.uol-yt-button:hover {
+	background-position: top center;
+}
+
+@media (min-width: 800px) {
+	.heft-text {
+		position: relative !important;
+	}
+
+	.heft-text .heft-link a {
+		display: inline !important;
+		position: absolute;
+		bottom: 10px;
+		left: 15px;
+	}
+}
+
+@media (max-width: 799px) {
+	.heft-link {
+		display: none;
+	}
+}
+
+.tx-cal-controller .owl-calendar .vevent .event-content {
+	height: 300px !important;
+}
+
+/******************************************************************************/
+/* Top-Themen */
+.news .owl-aktuell .extra {
+	white-space: nowrap;
+	/* min-height: 3.4em; */
+}
+
+.news .owl-aktuell .extra > * {
+	display: inline-block;
+}
+
+/******************************************************************************/
+/* Neuberufene */
+
+@media (max-width: 500px) {
+	#owl-neuberufene-nav {
+		height: 60px !important;
+	}
+}
+
+/******************************************************************************/
+/* EINBLICKE */
+
+.einblicke a {
+	color: #444444 !important;
+}
+
+.einblicke {
+	padding: 65px 0 50px 0;
+	background-color: #f1f1f1;
+}
+
+.einblicke h2 {
+	margin: 0 0 28px 0 !important;
+}
+
+
+/* Videoportal Texthinterlegung */
+#c266339 .ce-bodytext,
+#c349019 .ce-bodytext,
+#c266376 .ce-bodytext {
+  margin-top: calc(-1em - 4px);
+  padding: 10px;
+  /*background: rgba(0, 64, 106, .3);*/
+}
+
+.hg-uniblau30 .ce-bodytext {
+	background: rgba(0, 64, 106, .3);
+}
+  @media (min-width: 601px) {
+    .hg-uniblau30 h3 {
+      font-size: 18px;
+      margin-bottom: 7px;
+    }
+  }
+
+/* Ui/Einblicke Container DE */
+#c314430 div.col-sm-6,
+#c314430 div.inner-wrap,
+#c314430 div.container,
+#c314430 div.row,
+#c314430 div.frame-hggrau {
+	display: flex;
+	align-self: stretch;
+	justify-content: center;
+	flex-grow: 1;
+}
+
+#c314430 div div div div div div div div.inner-wrap {
+	flex-flow: column;
+}
+
+@media (max-width: 640px) {
+
+	.c239197, .c239198 {
+		height: 0;
+		overflow: hidden;
+	}
+}
+
+/******************************************************************************/
+/* Neuberufene */
+
+.c238810 .ourteam-des + p {
+	display: none !important
+}
+
+@media (min-width: 1200px) {
+	.c238810 {
+		margin-top: 20px
+	}
+}
+
+/******************************************************************************/
+/* Campus-Leben */
+
+.c238811 .campusleben-text {
+	display: flex;
+	align-items: center;
+}
+
+/*.c238811 .campusleben-text p {
+	margin-bottom: 50px;
+}*/
+
+@media (max-width: 600px) {
+	.c238811 .innovation-button.style1 {
+		margin-bottom: 0 !important;
+	}
+}
+
+.c238806 .ce-above .ce-gallery {
+	margin-bottom: 0;
+}
+
+.c238811 hr {
+	display: none !important
+}
+
+/******************************************************************************/
+/* EINBLICKE */
+
+.einblicke a {
+	color: #444444 !important;
+}
+
+.einblicke {
+	padding: 65px 0 50px 0;
+	background-color: #f1f1f1;
+}
+
+.einblicke h2 {
+	margin: 0 0 28px 0 !important;
+}
+
+/******************************************************************************/
+/* Zahlen und Fakten */
+
+/* Lernplätze im BIS */
+.c238777 h2,
+.c238777 p {
+	color: #acdffc !important;
+}
+
+/* Uni in Zahlen */
+.c238772 h2 {
+	margin-bottom: 30px;
+}
+
+  
+</style>
+
+
+<script>
+$(function(){
+    
+  /* Tabs */
+  $(".nav-tabs > li:first-child a").addClass("active show");
+
+  $('.c238753 figure.image').each(function(){
+    $(this).css('position','relative').find('a').append('<span class="uol-yt-button"></span>');
+  });
+});
+</script>
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <script>
+  $(function(){
+    
+    /* Campus-Leben */
+    $('.c238811 img.img-dummy').attr('src', '/typo3conf/ext/unioltemplate/Resources/Public/Assets/Images/CampusLeben.jpg');
+    
+    /* Neuberufene */
+    $('.ourteam-detail').each(function(){
+      $('<a class="ourteam-link">&rarr; mehr</a>').attr('href',$(this).find('a').first().attr('href')).appendTo(this);
+    });
+    
+  });  
+</script>
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <style>
+  /* Landingpage-Kategorien ausblenden */
+  .cat_551, .cat_575 {
+    display:none;
+  }
+  
+  #c266332 > ul > li a.active {
+    background-color: var(--uol-bg-stufe1-trans);
+  }
+  
+  #zielgruppenrahmen {
+    padding: 24px 0 30px 0;
+    background: #2a73a8;
+    margin-top: 0px;
+    background: var(--uol-bg-stufe1-trans);
+  }
+  #zielgruppenhoriz {
+    list-style: none;
+    display:flex;
+    flex-flow: row wrap;
+    padding:0;
+    margin: 0 auto;
+    width: auto;
+  }
+  #zielgruppenhoriz li {
+    flex-shrink: 1;
+   /* border: 1px dashed #ccc;  */
+    align-self: stretch;
+    display: flex;
+    justify-items: stretch;
+    width: auto;
+    padding: 6px 3px 0;
+    flex-grow: 1;
+  }
+
+  #zielgruppenhoriz li.nth-child(2n) {
+    background: var(--uol-bg-stufe1-trans);
+  }
+  #zielgruppenhoriz li a {
+    display:block;
+    width:100%;
+    padding: 5px 25px;
+    text-align:center;
+    font-size: 13px;
+    background: var(--uol-bg-color);
+  }
+
+</style>
+
+<script>
+  $(function(){
+    
+    var pid = $('body').attr('id').match(/[0-9]+/g);
+    if(pid == '57119' && $(window).width() > 1100) {
+    
+      $("#zielgruppennavi ul.sub-menu")
+      .first().clone()
+      .attr('id','zielgruppenhoriz')
+      .removeClass('sub-menu')
+      .wrap('<div class="container"></div>')
+      .parent()
+      .wrap('<div id="zielgruppenrahmen"></div>')
+      .parent()
+      //.insertBefore('#content')
+      .insertAfter('#c266299')
+      .removeClass('dropdown-menu')
+      .show();
+      
+      $('#c266348').removeClass('frame-space-before-extra-large').addClass('frame-space-before-large');
+    
+    }
+  
+  });
+</script>
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+
+	
+			
+			
+			
+			
+				
+
+
+
+			
+			
+			
+
+    <script>
+$(function(){
+  $('.uol-youtube-buttons figure.image > a').each(function(){
+    $(this).append('<span class="uol-yt-button"></span>');
+  });
+});
+</script>
+
+<style>
+  .uol-youtube-buttons figure.image > a {
+    display: block;
+    position: relative;
+  }
+  
+  .uol-yt-button {
+	display: block;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	background: url("/typo3conf/ext/unioltemplate/Resources/Public/Assets/Images/YT-Button.svg") bottom center;
+	background-size: cover;
+  }
+
+  .uol-yt-button:hover, a:focus .uol-yt-button {
+	background-position: top center;
+  }
+</style>
+
+
+			
+				
+
+
+
+			
+			
+				
+
+
+
+			
+			
+		
+
+
+    
+
+    <div id="c409763" class="frame  frame-default pt-4 pb-5 closed">
+        <div class="container">
+            
+
+
+
+
+
+	
+
+
+
+
+
+
+
+            
+                
+                    
+
+	
+			<div id="c409762" class="frame frame-default frame-type-textmedia frame-layout-0 galerie-weit dark-img-rahmen logoleiste closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-below ">
+		
+
+		
+				
+			
+
+		
+			
+
+    <div class="ce-gallery" data-ce-columns="8" data-ce-images="8">
+        
+            <div class="ce-outer">
+                <div class="ce-inner">
+        
+        
+            <div class="ce-row">
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://www.hrk.de/weltoffene-hochschulen">
+                
+<img class="image-embed-item" alt="Weltoffene Hochschulen - Gegen Fremdenfeindlichkeit" src="/fileadmin/_processed/2/8/csm_offene-hochschulen-DE-farbe_562a6ce780.png" width="85" height="42" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://hanseuniversityalliance.de/" title="Hanse University Alliance">
+                
+<img class="image-embed-item" title="Hanse University Alliance" alt="Hanse University Alliance" src="/mediapool/Logos/Hanse_University_Alliance/hua-logo.svg?v=1759843381" width="85" height="42" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://www.stifterverband.org/diversity-audit">
+                
+<img class="image-embed-item" alt="Stifterverband-Zertifikat Vielfalt gestalten" src="/fileadmin/_processed/7/9/csm_vielfalt-gestalten-farbe_6caa7e1d4e.png" width="85" height="103" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://www.charta-der-vielfalt.de/" title="Charta der Vielfalt">
+                
+<img class="image-embed-item" title="Charta der Vielfalt" alt="Charta der Vielfalt" src="/fileadmin/_processed/a/4/csm_charta-der-vielfalt-farbe_9ac479732b.png" width="85" height="100" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="/familienservice" title="Audit Familiengerechte Hochschule seit 2004">
+                
+<img class="image-embed-item" title="Audit Familiengerechte Hochschule seit 2004" alt="Audit Familiengerechte Hochschule seit 2004" src="/mediapool/Logos/sonstige/audit_fgh_2004-85.png?v=1751892370" width="85" height="85" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://www.hrk.de/themen/internationales/strategische-internationalisierung/audit-internationalisierung-der-hochschulen/">
+                
+<img class="image-embed-item" alt="HRK-Audit Internationalisierung der Hochschulen" src="/fileadmin/_processed/7/2/csm_hrk-audit-farbe_a6bc2229ff.png" width="85" height="85" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="https://antrag.akkreditierungsrat.de/akkrhochschulen/?systemakkreditiert=Ja&amp;name=oldenburg&amp;limit=100">
+                
+<img class="image-embed-item" alt="Systemakkreditiert - Akkreditierungsrat" src="/fileadmin/_processed/8/1/csm_Akkreditierungsrat_75d7da67bb.png" width="85" height="85" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+                    
+                        <div class="ce-column">
+                            
+
+        
+
+<figure class="image">
+    
+            <a href="/ugo">
+                
+<img class="image-embed-item" alt="Universitätsgesellschaft Oldenburg e. V." src="/fileadmin/_processed/4/1/csm_ugo-logo-farbe_6c693e2083.png" width="85" height="56" loading="lazy" />
+
+
+            </a>
+        
+    
+</figure>
+
+
+    
+
+
+                        </div>
+                    
+                
+            </div>
+        
+        
+                </div>
+            </div>
+        
+    </div>
+
+
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+    </div>
+
+        </main>
+    </div>
+    <footer id="wrapper-footer">
+	<div class="container">
+		<div class="row footer-top-col-3 footer-5">
+			<div class="col-lg-4 col-pos-1">
+				<aside id="footer_left">
+					<i class="mobile-icon fa fa-bank"></i>
+					
+    
+
+    <div id="c266316" class="frame  frame-default closed">
+        
+
+
+
+
+
+	
+		<header>
+            
+			<h4>Anschrift</h4>
+
+			
+            
+		</header>
+	
+
+
+
+
+
+
+
+        <div class="grid-1c">
+            
+                
+                    
+
+	
+			<div id="c266318" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+    
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-right ce-intext ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p>Carl von Ossietzky Universität Oldenburg<br> Ammerländer Heerstraße 114-118<br> 26129 Oldenburg<br> Tel. <a href="tel:+494417980">+49-(0)441-798-0</a>&nbsp;</p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+                
+                    
+
+	
+			<div id="c377683" class="frame frame-default frame-type-textmedia frame-layout-0 frame-space-before-small closed">
+				
+				
+					
+
+
+
+				
+				
+
+	
+		
+
+
+
+	
+
+
+				
+	
+	<div class="ce-textpic ce-center ce-above ">
+		
+			
+
+
+
+		
+
+		
+				<div class="ce-bodytext">
+					
+					<p class="mit-icon zeiger"><a href="/kontakt">Kontakt / Anfahrt / Lageplan</a></p>
+				</div>
+			
+
+		
+	</div>
+	
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+				</aside>
+			</div>
+			<div class="col-lg-4 col-sm-6 col-pos-2">
+				<aside id="footer_center">
+					<i class="mobile-icon fa fa-info-circle"></i>
+					
+    
+
+    <div id="c266289" class="frame  frame-default closed">
+        
+
+
+
+
+
+	
+		<header>
+            
+			<h4>Informationen</h4>
+
+			
+            
+		</header>
+	
+
+
+
+
+
+
+
+        <div class="grid-1c">
+            
+                
+                    
+
+	
+			<div id="c266319" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+    <ul class="uol_footer_links">
+<li><a class="internal-link" href="https://uol.de/datenschutzerklaerung">Datenschutz</a></li>
+  
+<li><a class="internal-link" href="https://uol.de/barrierefreiheit">Barrierefreiheit</a></li>
+
+<li><a class="internal-link" href="https://uol.de/sponsoringleistungen">Sponsoringleistungen</a></li>
+
+<li><a class="internal-link" href="https://uol.de/drittmittelforschung">Drittmittelforschung</a></li>
+
+<li><a class="internal-link" href="https://uol.de/impressum">Impressum</a></li>
+</ul>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+				</aside>
+			</div>
+			<div class="col-lg-4 col-sm-6 col-pos-3">
+				<aside id="footer_right">
+					<i class="mobile-icon fa fa-share-alt-square"></i>
+					
+    
+
+    <div id="c266321" class="frame  frame-default closed">
+        
+
+
+
+
+
+	
+		<header>
+            
+			<h4>Besuchen Sie uns auch hier</h4>
+
+			
+            
+		</header>
+	
+
+
+
+
+
+
+
+        <div class="grid-1c">
+            
+                
+                    
+
+	
+			<div id="c266322" class="frame frame-default frame-type-html frame-layout-0 closed">
+				
+				
+					
+
+
+
+				
+				
+				
+
+      <div>        
+    <ul class="widget-social-profile social-icon-no-border uol_footer_links">
+      <li><a href="https://www.linkedin.com/school/carl-von-ossietzky-university-of-oldenburg/" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+      <li><a href="https://www.facebook.com/UniversitaetOldenburg" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
+      <li><a href="https://www.youtube.com/user/UniversityOldenburg" target="_blank"><i class="fa fa-youtube"></i> Youtube</a></li>
+      <li><a href="https://www.instagram.com/uni.oldenburg/" target="_blank"><i class="fa fa-instagram"></i> Instagram</a></li>
+      <li><a href="https://wisskomm.social/@UniOldenburg" target="_blank" id="uol_footer_mastodon"><span></span> Mastodon</a></li>
+      <li class="unishop"><a href="https://unishop-oldenburg.de/"><i class="fa fa-shopping-cart"></i> Unishop</a></li>
+    </ul>
+  </div>
+<style>
+  .widget-social-profile .unishop a {
+    background-color: var(--uol-uniblau)!important;
+  }
+  .widget-social-profile .unishop a:hover {
+    background-color: var(--uol-blau1)!important;
+  }
+</style>
+
+
+				
+					
+
+
+
+				
+				
+					
+
+
+
+				
+			</div>
+		
+
+
+                
+            
+        </div>
+    </div>
+
+    
+
+
+				</aside>
+			</div>
+		</div>
+	</div>
+        <script type="text/javascript">
+            (function($){
+                setWidgetCollapse();
+                $(window).resize(function () {
+                    setWidgetCollapse();
+                });
+
+                function setWidgetCollapse(){
+                    var $windowWidth = $(window).width();
+                    if($windowWidth<576){
+                        $('footer aside.widget').each(function(){
+                            var title = $('h4:first',this);
+                            var content = $(title).next();
+                            $(title).addClass('show collapse');
+                            if(content!=null && content!='undefined')
+                                $(content).hide();
+                            $(title).off();
+                            $(title).click(function(){
+                                var content = $(this).next();
+                                if($(this).hasClass('expanded')){
+                                    $(this).removeClass('expanded');
+                                    $(title).addClass('collapse');
+                                    $(content).slideUp();
+                                }
+                                else
+                                {
+                                    $(this).addClass('expanded');
+                                    $(title).removeClass('collapse');
+                                    $(content).slideDown();
+                                }
+
+                            });
+
+                        });
+                    }else{
+                        $('footer aside.widget').each(function(){
+                            var title = $('h4:first',this);
+                            $(title).off();
+                            var content = $(title).next();
+                            $(title).removeClass('collapse');
+                            $(title).removeClass('expanded');
+                            $(content).show();
+                        });
+                    }
+                }
+            })(jQuery);
+        </script>
+        <div class="footer_bottom_holder">
+
+        </div>
+</footer>
+<a class="gotop" href="javascript:;">
+	<i class="fa fa-angle-up"><span lang="DE">Zum Seitananfang scrollen</span> <span lang="en">Scroll to the top of the page</span></i>
+</a>
+
+</div>
+
+<script src="/typo3temp/assets/compressed/media2click-c85134012c32e3159f868923245920cd.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/Form.min-00a5a0cd7ef40292e75966d3a20d14b0.js.gz?1760387674" defer="defer"></script>
+<script src="/typo3temp/assets/compressed/bootstrap.min-68c19f7bb249d98cc64407e883cba663.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/owl.carousel-8627caf48524ff2b077e14de8c347bfe.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/jquery.slicknav.min-50262396ce87682f27d3a1a1a96faa60.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/jquery.flexslider-min-7ffe4b1a3787bc0582099d68c998bb3c.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/facelift-4de5238d538882fb1b846f76ca768242.js.gz?1760388147"></script>
+<script src="/typo3temp/assets/compressed/jquery.magnific-popup.min-d866abb5766731ce84be9341d6cfed0f.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/jquery-accessibleMegaMenu.min-5c0b610951fbbbeb98e02e84ec1f6e56.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/jquery.fancybox.min-d072990571108332f220ef95bbbfaa9d.js.gz?1760387674"></script>
+<script src="/typo3temp/assets/compressed/uniolslider-32cbe1a373621cf74dddfd114642043c.js.gz?1760387675"></script>
+
+<!-- Piwik/Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  _paq.push(["setExcludedQueryParams", ["cHash"]]);
+  _paq.push(["setCookieDomain", "uol.de"]);
+  _paq.push(['disableCookies']);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    // https://analyse.uol.de/piwik
+    var u="https://analyse.uol.de/piwik/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    if (0 == 1) {
+      console.log('site_id=' + '1');
+    }
+    _paq.push(['setSiteId', 1]);
+
+
+    // subsite: Unterseiten loggen zusätzlich site
+    if('0' == '1' && '0' != '0' && '0' != '') {
+      if (0 == 1) {
+        console.log('subsite_id=' + '0');
+      }
+      //_paq.push(['addTracker', piwikUrl = u+'matomo.php', '0']);
+      const subSiteArray = '0'.split(',');
+      const subSiteArrayLength = subSiteArray.length;
+      for (var i = 0; i < subSiteArrayLength; i++) {
+        let subSiteId = subSiteArray[i];
+        if (0 == 1) {
+          console.log('in loop: subSiteId=' + subSiteId);
+        }
+        _paq.push(['addTracker', piwikUrl = u+'matomo.php', subSiteId]);
+      }
+    }
+
+    // nur für 404-Seite
+    if('0' == '1') {
+      _paq.push(['setDocumentTitle',  '404/URL = '
+        +  encodeURIComponent(document.location.pathname+document.location.search)
+        + ' /From = ' + encodeURIComponent(document.referrer)]);
+    }
+
+    // nur für Seite mit Suchergebnissen
+    /**
+     * Anzahl Suchergebnisse setzen (Variable searchCountForMatomo muss bereits gesetzt sein)
+     * - ermöglicht Ansicht "Search Keywords with No Results" (auch in matomo_widgets für TYPO3)
+     *
+     * @see https://matomo.org/faq/reports/tracking-site-search-keywords/#tracking-no-result-search-keywords
+     */
+    if('0' == '1') {
+          if (typeof searchCountForMatomo !== 'undefined') {
+              _paq.push(['setCustomUrl', document.URL + '&search_count=' + searchCountForMatomo]);
+          }
+    }
+
+
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async='async'; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<!-- End Piwik/Matomo Code -->
+</body>
+</html>

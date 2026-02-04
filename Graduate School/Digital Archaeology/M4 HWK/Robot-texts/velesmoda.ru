@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: /*search=
+Disallow: /*route=
+Disallow: /*login
+Disallow: /login
+Disallow: /*order-history
+Disallow: /*cart
+Disallow: /*wishlist
+Disallow: /*change-password
+Disallow: /*my-adress
+Disallow: /*account
+Disallow: /*mfp=
+Disallow: /*size=
+Disallow: /*rost=
+Disallow: /*season=
+Disallow: /*style=
+Disallow: /*details=
+Disallow: /*sleeve=
+Disallow: /*cloth=
+Disallow: /*color=
+Disallow: /*print=
+Disallow: /*rating=
+Disallow: /*manufacturer=
+Disallow: /admin
+Disallow: /search/
+Disallow: */?baobab
+Disallow: */?keyword
+Disallow: */?turboofferid
+Disallow: */?rb_clickid
+Disallow: */?hl=ru_BY
+Disallow: */?text=
+Disallow: /*%D0%95%D1%81%D1%82%D1%8C
+Disallow: /catalog/?page*manufacturers$
+Disallow: /*?sort=
+
+Allow: /*mfp=manufacturers
+Allow: /index.php?route=feed/*
+
+Sitemap: https://velesmoda.ru/newsm.xml
+
+User-agent: AhrefsBot
+Disallow: /

@@ -1,0 +1,53 @@
+# robots.txt fuer http://www.nuernberg.de/
+
+User-agent: *
+
+Disallow: /imperia/md/_sandkasten/bilder/intranet/
+Disallow: /imperia/md/_sandkasten/dokumente/intranet/
+Disallow: /imperia/md/bauordnungsbehoerde/bilder/intranet/
+Disallow: /imperia/md/frauenbeauftragte/bilder/intranet/
+Disallow: /imperia/md/frauenbeauftragte/dokumente/intranet/
+Disallow: /imperia/md/geoinformation/bilder/intranet/
+Disallow: /imperia/md/kem/bilder/intranet/
+Disallow: /imperia/md/kommunikation_stadtmarketing/bilder/intranet/
+Disallow: /imperia/md/personalamt/bilder/intranet/
+Disallow: /imperia/md/personalamt/dokumente/intranet/
+Disallow: /imperia/md/sandkasten/dokumente/intranet/
+Disallow: /imperia/md/stadtarchiv/bilder/intranet/
+Disallow: /imperia/md/stadtplanung/intranet/
+Disallow: /imperia/md/sun/bilder/intranet/
+Disallow: /imperia/md/zentral/bilder/intranet/
+Disallow: /imperia/md/zentral/dokumente/intranet/
+Disallow: /imperia/md/zentrale_dienste/dokumente/intranet/
+
+Disallow: /internet/referat6/presse.html
+Disallow: /internet/referat6/pressearchiv.html
+Disallow: /internet/eisbaer/pressemitteilungen.html
+
+Disallow: /presse/mitteilungen/presse_03944.html
+
+#Beginn pr3 Eintrag
+Disallow: /global/ajax_kontaktformular.html
+Disallow: /global/ajax_kontaktformular_en.html
+Disallow: /global/ajax_shariff.html
+Disallow: /global/ajax_shariff_de.html
+Disallow: /global/ajax_shariff_en.html
+Disallow: /global/ajax_webcam.html
+Disallow: /global/feedback.html
+Disallow: /global/feedback_plugin.html
+Disallow: /intranet_fuer_alle/
+
+#Ende pr3 Eintrag
+
+#newsletter kuf
+Disallow: /internet/kuf_kultur/newsletter/kufintern_67843.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_68350.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_69340.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_69610.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_70608.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_71979.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_76659.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_78626.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_83190.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_83925.html
+Disallow: /internet/kuf_kultur/newsletter/kufintern_86460.html

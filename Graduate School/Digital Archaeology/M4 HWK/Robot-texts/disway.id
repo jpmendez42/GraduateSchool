@@ -1,0 +1,16 @@
+User-agent: Googlebot
+
+Disallow: /search/*
+Disallow: /cariconvertpagging/* 
+
+User-agent: *
+Allow: /
+
+Sitemap: https://disway.id/sitemap.xml
+Sitemap: https://disway.id/sitemap/index.xml
+Sitemap: https://disway.id/sitemap/image.xml
+Sitemap: https://disway.id/sitemap/tag.xml
+Sitemap: https://disway.id/sitemap/taglong.xml
+Sitemap: https://disway.id/frontend/sitemapgoogle
+Sitemap: https://disway.id/frontend/sitemap
+

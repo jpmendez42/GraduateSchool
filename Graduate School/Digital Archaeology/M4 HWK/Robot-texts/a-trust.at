@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /mobile/*
+Disallow: /MonitoringEndpoint/
+Disallow: /securitylayer2/
+Disallow: /cdn/
+Disallow: /app/
+Disallow: /apps/
+Disallow: /AppAktivierung/
+Disallow: /api/
+Disallow: /aSignBkuServer/
+Disallow: /at_a-trust-timweb-p/
+Disallow: /TestIdentitaetenManagement/
+Disallow: /VrRacingScheduler/
+Disallow: /*?*
+Allow: /webshop/*?cat*
+Allow: /*?psd2*
+
+Sitemap: https://a-trust.at/sitemap.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /js/adultcheck.js
+Disallow: /js/vivionIdConsentPopup.js
+Disallow: /maintenance.html
+Disallow: /site/engage
+
+Allow: /

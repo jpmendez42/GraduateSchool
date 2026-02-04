@@ -1,0 +1,19 @@
+
+User-agent: * 
+Disallow: /tpl/pc/webgame/ 
+Disallow: /*?*
+Disallow: /game/detail/
+Disallow: /game/2/
+Disallow: /game/down*
+Disallow: /game/downs*
+Disallow: /search/
+Disallow: /public/
+Disallow: /ng-*
+Disallow: /*/commentlist/
+Disallow: /*/eventlist/
+User-agent: Baiduspider-news
+Disallow: /sys/
+Disallow: /sys/nav/nav/
+Disallow: /sys/list/mdl/
+Disallow: /sys/list/cate/
+Disallow: /sys/prd/prd/

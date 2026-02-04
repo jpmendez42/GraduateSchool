@@ -1,0 +1,29 @@
+User-agent: Googlebot
+Disallow: /member/
+Disallow: /feed/preview/
+Disallow: /search/?search*
+Disallow: /cosmetics/search/?search*
+Disallow: /cosmetics/*/cosmetics-list/?*search*
+Disallow: /cosmetics/*/cosmetics-list/?*order*
+Disallow: /cosmetics/*/reviews/?*search_*
+Disallow: /cosmetics/reviews/?*search_*
+Disallow: /featured-series/*/?*order*
+
+User-agent: CCBot
+User-agent: GPTBot
+User-agent: Applebot-Extended
+User-agent: Google-Extended
+User-agent: Meta-ExternalAgent
+User-agent: ClaudeBot
+User-agent: anthropic-ai
+User-agent: Claude-Web
+User-agent: cohere-ai
+User-agent: omgili
+User-agent: Timpibot
+User-agent: Webzio-Extended
+User-agent: Bytespider
+User-agent: ICC-Crawler
+Disallow: /
+
+Sitemap:https://i-voce.jp/sitemaps/sitemap.xml
+Sitemap:https://i-voce.jp/sitemaps/sitemap_article.xml

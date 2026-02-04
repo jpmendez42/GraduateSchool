@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: /cart
+Disallow: /order
+Disallow: /search
+
+Sitemap: https://yody.vn/sitemap.xml
+
+# Google AdsBot specific rules
+User-agent: adsbot-google
+Disallow: /cart
+Disallow: /order
+
+# Block Nutch completely
+User-agent: Nutch
+
+# AhrefsBot rules
+User-agent: AhrefsBot
+Crawl-delay: 10
+Disallow: /cart
+Disallow: /order
+
+# AhrefsSiteAudit rules
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
+Disallow: /admin
+Disallow: /login
+Disallow: /cart
+Disallow: /order
+
+# MJ12bot rules
+User-agent: MJ12bot
+Crawl-delay: 10
+
+# Pinterest bot rules
+User-agent: Pinterest
+Crawl-delay: 1
+
+# Additional sitemaps
+Sitemap: https://yody.vn/sitemap_products_1.xml
+Sitemap: https://yody.vn/sitemap_collections_1.xml
+Sitemap: https://yody.vn/sitemap_blogs_1.xml
+Sitemap: https://yody.vn/sitemap_pages_1.xml

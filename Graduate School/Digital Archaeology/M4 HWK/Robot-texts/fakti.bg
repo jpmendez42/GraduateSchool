@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+Host: https://fakti.bg
+Sitemap: https://fakti.bg/sitemap.xml
+Sitemap: https://fakti.bg/sitemapNews.xml
+Sitemap: https://fakti.bg/sitemap-images.xml
+Sitemap: https://fakti.bg/sitemapNews-images.xml
+Disallow: /captcha/*
+Disallow: /search?q=*
+Disallow: /terms
+Disallow: /citati*
+Disallow: /vchera
+Disallow: /novinite-dnes

@@ -1,0 +1,12 @@
+User-Agent: *
+Crawl-delay: 20
+Disallow: /search/
+Disallow: /bitrix/
+Disallow: /admin/
+Disallow: /upload/
+Disallow: /img/
+Disallow: /*?SHOWALL
+Disallow: /auth
+Dissalow: /rdrct.php
+Host: bloknot-voronezh.ru
+Sitemap: http://bloknot-voronezh.ru/sitemap.xml

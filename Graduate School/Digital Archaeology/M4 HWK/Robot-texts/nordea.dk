@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /System
+Disallow: /*.modal
+Disallow: /privat/produkter/bolan/bolanekalkyl.html?*
+Sitemap: https://www.nordea.dk/sitemap.xml
+User-agent: BLEXBot
+Disallow: /
+User-agent: Sogou
+Disallow: /

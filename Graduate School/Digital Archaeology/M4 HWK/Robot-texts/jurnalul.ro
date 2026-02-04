@@ -1,0 +1,7 @@
+Sitemap: https://jurnalul.ro/sitemap-news.xml
+Sitemap: https://jurnalul.ro/sitemap.xml
+
+User-agent: *
+Disallow: /rating.php*
+Disallow: *62727623*
+Allow: /

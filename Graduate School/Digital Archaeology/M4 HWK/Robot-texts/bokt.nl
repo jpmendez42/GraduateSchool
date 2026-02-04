@@ -1,0 +1,143 @@
+# robots.txt for https://www.bokt.nl/
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+
+User-agent: Mediapartners-Google
+# Allow /forums/memberlist.php
+Disallow: /forums/posting.php
+Disallow: /forums/report.php
+Disallow: /forums/login.php
+Disallow: /forums/mcp.php
+Disallow: /forums/ucp.php
+Disallow: /forums/postfreq.php
+Disallow: /forums/viewonline.php
+Disallow: /forums/calendar.php
+Disallow: /forums/verkleinen.php
+Disallow: /forums/mods/egosearch.php
+Disallow: /upload/
+Disallow: /tools/postfreq.php
+Disallow: /w/
+Allow: /w/skins/
+Disallow: /wiki/Speciaal:Random
+Disallow: /wiki/Speciaal%3ARandom
+Disallow: /wiki/Speciaal:Willekeurig
+Disallow: /wiki/Speciaal%3AWillekeurig
+Disallow: /wiki/Speciaal:Search
+Disallow: /wiki/Speciaal%3ASearch
+Disallow: /wiki/Speciaal:Recentchangeslinked
+Disallow: /wiki/Speciaal%3ARecentchangeslinked/
+Disallow: /wiki/Speciaal:VerwijzingenNaarHier/
+Disallow: /wiki/Speciaal%3AVerwijzingenNaarHier/
+Disallow: /wiki/Speciaal:Whatlinkshere/
+Disallow: /wiki/Speciaal%3AWhatlinkshere/
+Disallow: /wiki/Overleg:
+Disallow: /wiki/Overleg%3A
+Disallow: /wiki/Gebruiker:
+Disallow: /wiki/Gebruiker%3A
+
+Disallow: /markt/search
+
+
+User-agent: *
+Disallow: /forums/memberlist.php
+Disallow: /forums/posting.php
+Disallow: /forums/report.php
+Disallow: /forums/login.php
+Disallow: /forums/mcp.php
+Disallow: /forums/ucp.php
+Disallow: /forums/search.php
+Disallow: /forums/postfreq.php
+Disallow: /forums/viewonline.php
+Disallow: /forums/calendar.php
+Disallow: /forums/verkleinen.php
+Disallow: /forums/mods/egosearch.php
+Disallow: /apc.php
+Disallow: /tools/postfreq.php
+Disallow: /w/
+Allow: /w/skins/
+Disallow: /flarum/
+Disallow: /wiki/Speciaal:Random
+Disallow: /wiki/Speciaal%3ARandom
+Disallow: /wiki/Speciaal:Willekeurig
+Disallow: /wiki/Speciaal%3AWillekeurig
+Disallow: /wiki/Speciaal:Search
+Disallow: /wiki/Speciaal%3ASearch
+Disallow: /wiki/Speciaal:Recentchangeslinked
+Disallow: /wiki/Speciaal%3ARecentchangeslinked/
+Disallow: /wiki/Speciaal:VerwijzingenNaarHier/
+Disallow: /wiki/Speciaal%3AVerwijzingenNaarHier/
+Disallow: /wiki/Speciaal:Whatlinkshere/
+Disallow: /wiki/Speciaal%3AWhatlinkshere/
+Disallow: /wiki/Speciaal:Contributors/
+Disallow: /wiki/Speciaal%3AContributors/
+Disallow: /wiki/Overleg:
+Disallow: /wiki/Overleg%3A
+Disallow: /wiki/Gebruiker:
+Disallow: /wiki/Gebruiker%3A
+
+# Symfony
+Disallow: /report/
+
+# Drupal
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /markt/search
+Disallow: /markt/their-ads
+Disallow: /taxonomy/
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+
+Sitemap: https://www.bokt.nl/sitemap.xml
+Sitemap: https://www.bokt.nl/sitemap_forum.xml.gz

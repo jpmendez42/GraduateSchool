@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wow/gcp/vn/member/login-signup
+Disallow: /undefined/
+Disallow: */undefined/$
+Disallow: */undefined$
+User-agent: Googlebot-Image

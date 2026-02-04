@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta name="robots" content="noindex,nofollow" />
+    <meta name="googlebot" content="noarchive" />
+    <title>Störung</title>
+    <style>
+      body {
+        text-align: center;
+        margin: 0px;
+        font-family: "Roboto", sans-serif;
+      }
+      h1 {
+        margin-bottom: 20px;
+      }
+      .beck-header-shape-container {
+        height: 10px;
+        position: relative;
+        width: 100%;
+      }
+      .beck-header-shape-middle {
+        position: relative;
+        width: 100%;
+        height: 10px;
+      }
+      .beck-header-shape-container {
+        height: 10px;
+        position: relative;
+        width: 100%;
+      }
+      .beck-header-shape-attachment {
+        position: absolute;
+        left: -1px;
+        margin-left: 85%;
+        width: 20px;
+        height: 10px;
+      }
+      .beck-header-shape-attachment-rotate {
+        position: absolute;
+        right: -1px;
+        margin-right: 85%;
+        width: 20px;
+        height: 10px;
+        transform: rotate(-180deg);
+      }
+      .beck-header-shape {
+        right: 0px;
+        width: 85%;
+        position: absolute;
+      }
+      .beck-header {
+        position: absolute;
+        background: #bd2826;
+        height: 10px;
+      }
+      .beck-header-shape-rotate {
+        left: 0;
+        width: 85%;
+        transform: rotate(-180deg);
+      }
+      .beck-headline-1 {
+        color: #bd2826;
+        margin-bottom: 1rem;
+        font-weight: 500;
+        line-height: 1.2;
+        font-size: max(3rem, 1.375rem + 1.5vw);
+      }
+      .beck-headline-2 {
+        color: #bd2826;
+        margin-top: 0;
+        margin-bottom: 1rem;
+        font-weight: 400;
+        line-height: 1.2;
+        font-size: max(1.5rem, 0.7rem + 1.5vw);
+      }
+      .beck-subheadline-1 {
+        color: #737373;
+        font-size: 18px;
+      }
+      .beck-link-primary {
+        color: #bd2826;
+        text-decoration: none;
+      }
+      .beck-header-container {
+        padding-right: 24px;
+        padding-left: 24px;
+        display: flex;
+        flex-wrap: inherit;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0% 15%;
+        padding-top: 8px;
+        padding-bottom: 8px;
+      }
+      ul {
+        list-style: none;
+      }
+      .social-media li {
+        padding-top: 5px;
+      }
+      footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 50px;
+        font-size: 0.917em;
+      }
+      footer div > ul.separated > li:before {
+        content: "|";
+        padding: 0 2px 0 4px;
+        display: inline-block;
+        color: gray;
+      }
+      footer div > ul.separated > li:first-child:before {
+        content: "";
+      }
+      footer div > ul > li,
+      footer div > ul > li > a {
+        color: #bd2826;
+        text-decoration: none;
+      }
+      footer ul {
+        flex: 0 1 auto;
+        display: flex;
+        margin: 5px 0;
+      }
+      .beck-separator {
+        color: #9f9f9f;
+      }
+      hr {
+        margin: 1rem 0;
+        color: inherit;
+        border: 0;
+        border-top: 1px solid;
+        opacity: 0.25;
+      }
+      @media only screen and (min-width: 768px) {
+        .beck-page-container {
+          margin: 0 15%;
+        }
+      }
+      .triangle-container {
+        padding-top: 22px;
+        padding-bottom: 10px;
+        position: relative;
+      }
+      .triangle {
+        position: relative;
+        background-color: #bd2826;
+        text-align: left;
+        margin-top: 25px;
+        margin-left: 49%;
+      }
+      .triangle:before,
+      .triangle:after {
+        content: "";
+        position: absolute;
+        background-color: inherit;
+      }
+      .triangle,
+      .triangle:before,
+      .triangle:after {
+        width: 4em;
+        height: 4em;
+        border-top-right-radius: 30%;
+      }
+
+      .triangle {
+        transform: rotate(-60deg) skewX(-30deg) scale(1, 0.866);
+      }
+      .triangle:before {
+        transform: rotate(-135deg) skewX(-45deg) scale(1.414, 0.707) translate(0, -50%);
+      }
+      .triangle:after {
+        transform: rotate(135deg) skewY(-45deg) scale(0.707, 1.414) translate(50%);
+      }
+      .triangle-exclamation {
+        display: block;
+        position: absolute;
+        top: 48px;
+        margin-left: 49%;
+        left: 21px;
+        font-size: max(5rem, 1.375rem + 1.5vw);
+        color: white;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="beck-header-container">
+      <img
+        src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADsAAAA7CAMAAADy+wKBAAAABGdBTUEAALGPC/xhBQAAAuVQTFRFAAAAAAAAAAAAAAAAAAAAMzMzKioqJCQkHx8fHBwcGRkZFxcXFRUVExMTJCQSIiIiHx8fHh4eHBwcGhoaGRkZGBgYFxcXISEWHx8fHh4eHR0dHBwcGxsbGhoaGRkZGBgYHx8XHh4XHh4eHR0dHBwcGxsbGhoaGhoaGRkZHx8YHh4YHR0dHBwcGxsbGxsbGhoaGhoaGRkZHh4ZHR0dHBwcHBwcGxsbGxsbGhoaGhoaGRkZHR0ZHR0ZHBwcHBwcGxsbGxsbGxsbGhoaGhoaHR0ZHR0ZHBwcHBwcGxsbGxsbGhoaGhoaHR0aHR0ZHBwZHBwcGxsbGxsbGxsbGxsbGhoaHR0aHBwaHBwZHBwcHBwcGxsbGxsbGxsbGhoaHR0aHBwaHBwaHBwZHBwcGxsbGxsbGhoaHR0aHBwaHBwaHBwZHBwcGxsbGxsbGxsbGxsbHR0aHBwaHBwaHBwaHBwZGxsbGxsbGxsbGxsbHR0aHBwaHBwaHBwaHBwaGxsbGxsbGxsbGxsbHBwaHBwaHBwaHBwaGxsbGxsbGxsbGxsbHBwaHBwaHBwaHBwaGxsaGxsbGxsbGxsbHBwbHBwaHBwaHBwaGxsaGxsbGxsbGxsbGxsbHBwbHBwaHBwaHBwaGxsaGxsaGxsbGxsbGxsbHBwbHBwaHBwaGxsbGxsbGxsbHBwbHBwbHBwaHBwaHBwaGxsaGxsaGxsbGxsbHBwbHBwbHBwaHBwaHBwaGxsaGxsaGxsbGxsbHBwbHBwbHBwbHBwaHBwaGxsaGxsaGxsaGxsbHBwbHBwbHBwbHBwaHBwaGxsaGxsaGxsaGxsbGxsbHBwbHBwbHBwbHBwaGxsaGxsaGxsaGxsbGxsbHBwbHBwbHBwbHBwaGxsaGxsaGxsaGxsaGxsbHBwbHBwbHBwbHBwbGxsaGxsaGxsaGxsaGxsbHBwbHBwbHBwbHBwbGxsaGxsaGxsaGxsaGxsaHBwbHBwbHBwbHBwbHBwbf0nxkAAAAPZ0Uk5TAAECAwQFBgcICQoLDA0ODxAREhMUFRYXGBkaGxwdHh8gISIjJCUmJygpKissLi8wMTIzNDU2Nzg5Ojs8PT4/QEFCQ0RFRkdISUpMTU5PUFFSU1RVVldYWVpbXF1eX2BhYmNkZWdoaWprbG1ub3BxcnN0dXZ3eHl6e3x9fn+AgYOEhYaHiIqLjI2Oj5CRkpOUlZeYmZqbnJ2en6ChoqOkpaanqKmsra+wsbKztLW2t7i5uru8vb6/wMHCw8TFxsfIycrLzM3Oz9DR0tPU1dbX2Nna29zd3t/g4eLj5OXm5+jp6uvs7e7v8PHy8/T19vf4+fr7/P3+ZzcjEAAABiJJREFUSImVlnlYlFUUxt8BxVARFDEFRNKSwBAtc4sEc63M3bQU1Cg1FRfQckNQMiFFzSxNC8ONUFJc0VREy0iNckNcU3FBdob55v2759xvRsZSmzl/zH2f+93fd849c8/5LvB067p2RU8Zp1VfVaMD5l1F8jsXoIAsbekYG0yxVAN+IrnKQcc7FRyNESRvODnGuu8R1hjslE+yPVKOdHMAdoquIHkA75KMakLmOeQ64ALJHk43yKQGJJs7BLctJndgBZmGctKRoAGMI81+vcgfcYEMdYyVRM1sqDEbeWSbEMcOyRhyF/7iNlxiieEa/Rxh3TXeRxa/RRkP+pFDHXJ8kvTYzEWe5NwRZG+H2LVk6/UcH04GpVLztJNyHtgGQCzZbj07x/KQZxW32usxnlkARpG+GTUNDvHtOJa2+j+mcWsDQie3w0n+DGAgWe/cwZbmHJ8yjj08/uno/BpeDiumaeRdLgQwiNcbm2ckmLttZ+wuNfMUr2aS92Om7SzVbjUBEMUDg01BxSnRnBPHCsnA48xtlheAZ/ZO+aKY5z6JI6NkdhGT3k9c8ttQ05wIGgc+yeMIFo5wVcojvlJqNwXA81d4Z6Xv/A/LIidpd6PSn5SsABNZfTEvJzsjuaffbpI3nYBf5CUl4dHhy5k9uaLsiY1rWJEsNJ/d+dWyBs6bSHYFNNV57rS4VhSzmpe6PzlP9fp+MKqTm6iViREkFwDHFMvpfZLv3fh04TjYYVGSbaYBne4pNnPi1pFDz3CsPSxCFu6SXgW49cgmeb5RbD4vRdiFAviMPKHEYJKFA06viIz72F72uLUzhpE8Gph4nObJdqJBJPcrNYTkvAl5adEv2Ot2O8mvlVpGGgPGx++p2G4nKg2dkaJcb5MrXjyRk/n5Yw6Vr0+Hjf/+41rdF9ZHZCyZ1zwiYd/fr/0XHaNVFrNmw8ZmNnPupwU9KrJrNc/5hmZnZ82uqx51ySza3d66rl8eSzbxOKfVonUOqAMxAUDoAx72WpJ9MC9RfzReDuk9i4fFRWfXLE4tIlNr2TiFlrrB8JGRa3y6DVr45VIVP17X+g/TSKXDrl99W0aX6Eou1YMCWhkVm4Dg/bwwAN+YyMX6E6czlUCuzg4wnn7WAnR5wJMv6zJJSG3qK8OGJwzxOvN7xqrg7qpApAFdATazEsCrVbe8Hwb6hkYtpZGoQmHHzqmmOc0f/efFDDdY1+zmNWA9ZwF1/+QQm+QuJ3n9PQNaCrqjswq8fJLtX1KnSlwGBQOYzlzU8/PwDHgtzB9A0zJZfazXUBl6ybkSW+dSy/qQbKpv/CrHoe0P5B+JR5jlBXzL8tsWwtjYZFE84P4I20ep/qx0A5yqOQguV7gZCCdH6ylmqb8VJXMfws6V5BylkvWDU8gwIIMFgGsNp06zAP41j4OzyC1K5HKZznaWYt0A4FduNGSci5T1U6VRWm2fdc8TyfNK3OIMne3nu5jb5d3pPA6guSwv6GPDMs3yL3mbqdUXYdJrrJBHM69eTHlOfWsvyEyeLH8n2RaOszg+QXaUkRytsyGos5b3WwJrWCgzCdKl3QxTrtnAg3Q23gJVcYoMdxgCNNakGW/hKZnpQcrZA9w8PDwDe80/RbIsSLGh5EwZ87lEhmJhUSzJP0rVVlwq9PZqNRf5RpxtKLKRpSx+4F4ZqtkF8KYWiDoVlu9rlrVVKQu5o6LW78EPGC9DJEtcAH8yuUGzNMYAnUi9rywgZ9ey8ZYtqyorlIWARwUHI3RL+s4TfxxaKnfFL3hZvye/RdsimWFhd+k7HKYmVzPTtkpcixitq9ZyYX5o/nL7F2sDOFdTr1rvEkuMus1igf7pRl2y/iMPdIuRPMv9RSyC+Sp7ytpVaD2suuSybUCG73V2G5Aqh1+3JGbWs0jfi/wQeKkL5n/uAqPam4SWtOZdVzgnqoosQG9zcu0r52k5AUr0vVEVAbQpr+mncWsrfj/25FoAXnK07q0e4h+8n2TNmPLVzjbxdM81pU+O+CSHPwUCWFdtIm+aqbIDYIplpzTelN/84bZbAdBx7sb09dN174Pre3XugEaB9cPbuss6n7CwsJ4DlUVGvtniIfQPOgcAGdq5JaYAAAAASUVORK5CYII="
+        alt=""
+      />
+    </div>
+    <div>
+      <div class="beck-header-shape-container">
+        <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="beck-header-shape-attachment-rotate">
+          <path d="M0,0 L100,0 C25,50 50,75 0,100z" fill="#BD2826"></path>
+        </svg>
+        <div class="beck-header beck-header-shape"></div>
+      </div>
+      <!-- <div class="beck-header beck-header-shape-middle"></div> -->
+      <div class="beck-header-shape-container">
+        <svg viewBox="0 0 100 100" preserveAspectRatio="none" class="beck-header-shape-attachment">
+          <path d="M0,0 L100,0 C25,50 50,75 0,100z" fill="#BD2826"></path>
+        </svg>
+        <div class="beck-header beck-header-shape-rotate"></div>
+      </div>
+    </div>
+
+    <div class="beck-page-container">
+      <div class="triangle-container">
+        <div class="triangle"></div>
+        <div class="triangle-exclamation">!</div>
+      </div>
+      <h1 class="beck-headline-1">Seite nicht gefunden</h1>
+      <h2 class="beck-headline-2">Die von Ihnen angegebene Seite existiert nicht.</h2>
+    </div>
+
+    <footer class="footer">
+      <div class="service">
+        <ul class="column separated">
+          <li>
+            <a href="https://rsw.beck.de/impressum" title="Impressum" target="_blank">Impressum</a>
+          </li>
+          <li>
+            <a href="https://rsw.beck.de/datenschutz" target="_blank" title="Datenschutzerklärung">Datenschutz</a>
+          </li>
+          <li>
+            <a href="https://rsw.beck.de/agb" target="_blank">AGB</a>
+          </li>
+        </ul>
+      </div>
+    </footer>
+  </body>
+</html>

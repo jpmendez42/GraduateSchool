@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /_css/
+Allow: /_js/
+Allow: /_adv/bl*
+Disallow: /_*
+Disallow: /mailer/
+Disallow: /advert/
+Disallow: /automenu/
+Disallow: /imeniny/
+Disallow: /astro/
+Disallow: /astroc
+Disallow: /fortune/
+Disallow: /love/
+Disallow: /poisk/
+Disallow: /6
+Disallow: /china/6
+Host: https://1001goroskop.ru

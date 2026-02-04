@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://www.iltirreno.it/sitemap.xml
+Disallow: /*content.json$
+Disallow: /api/auth
+Allow: /

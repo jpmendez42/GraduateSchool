@@ -1,0 +1,70 @@
+User-agent: *
+Disallow: /pb/site/Freiburg/node/1279365/*
+Disallow: /pb/,Lde/1279365.html
+Disallow: /pb/1565235.html
+Disallow: /pb/359704.html
+
+Disallow: /pb/1790523.html 
+Disallow: /pb/,Lde/1790523.html
+Disallow: /pb/site/Freiburg/node/1790523.html 
+Disallow: /pb/205348.html
+Disallow: /pb/,Lde/205348.html
+
+Disallow: /servlet/PB/
+Disallow: /pb/site/freiburg_ebf/node*
+Disallow: /pb/site/freiburg_ese/node*
+Disallow: /pb/site/freiburg_frauundberuf/node*
+Disallow: /pb/site/freiburg_kinder/node*
+Disallow: /pb/site/freiburg_kulturamt/node*
+Disallow: /pb/site/freiburg_mundenhof/node*
+Allow: /pb/site/freiburg_museen/node/525489/*
+Allow: /pb/site/Freiburg/node/343211/*
+Disallow: /pb/site/freiburg_museen/node*
+
+Disallow: /pb/site/freiburg_rotteck/node*
+Disallow: /pb/site/freiburg_stadtbibliothek/node*
+Disallow: /pb/site/freiburg_stellenmarkt/node*
+Disallow: /pb/site/Freiburg/get/params_E1802300269/1019103/*
+
+Disallow: /pb/-/205348/verwaltungsdienste/oe6003792
+
+Disallow: /pb/site/Freiburg/search-autocomplete/*
+Disallow: /pb/site/freiburg_ebf/search-autocomplete/*
+Disallow: /pb/site/freiburg_ese/search-autocomplete/*
+Disallow: /pb/site/freiburg_frauundberuf/search-autocomplete/*
+Disallow: /pb/site/freiburg_kinder/search-autocomplete/*
+Disallow: /pb/site/freiburg_kulturamt/search-autocomplete/*
+Disallow: /pb/site/freiburg_mundenhof/search-autocomplete/*
+Disallow: /pb/site/freiburg_rotteck/search-autocomplete/*
+Disallow: /pb/site/freiburg_stadtbibliothek/search-autocomplete/*
+Disallow: /pb/site/freiburg_stellenmarkt/search-autocomplete/*
+
+Disallow: /pb/,Lru/*
+Disallow: /pb/,Les/*
+Disallow: /pb/,Lit/*
+
+User-agent: Slurp
+Crawl-delay: 180
+
+User-agent: msnbot
+Crawl-delay: 180
+
+User-agent: lycos
+Crawl-delay: 180
+
+User-agent: Mozilla/5.0 (compatible; Googlebot/2.1;+http://www.google.com/bot.html)
+Crawl-delay: 20
+
+User-agent: Googlebot-Image
+Crawl-delay: 20
+
+User-agent: *
+Crawl-delay: 20
+
+user-agent: bingbot
+Disallow: /pb/site/freiburg_ebf/node/*
+Disallow: /pb/site/freiburg_ese/node/*
+Disallow: /pb/site/freiburg_frauundberuf/node/*
+Disallow: /pb/site/freiburg_kinder/node/*
+Disallow: /pb/site/freiburg_kulturamt/node/*
+Disallow: /pb/site/freiburg_mundenhof/node/*

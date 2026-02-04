@@ -1,0 +1,15 @@
+Sitemap: https://www.targobank.de/de/sitemap_index.xml
+User-agent: *
+Disallow: /de/app/
+Disallow: /404.html
+Disallow: /nobots/
+Disallow: /de/user/
+Disallow: /en/user/
+Disallow: /de/logout/
+Disallow: /en/logout/
+Disallow: /de/identification/msg_deconnexion.html
+Disallow: /en/identification/msg_deconnexion.html
+Disallow: /de/lightbox/
+Disallow: /de/schnellnavigator/index.html
+Disallow: /de/ebanking/
+Disallow: /de/banque/

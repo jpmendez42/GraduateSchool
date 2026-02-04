@@ -1,0 +1,21 @@
+User-agent: Fasterfox
+Disallow: /
+
+User-agent: AmazonInformationDiscovery
+Disallow: /
+
+User-agent: *
+Disallow: /review.asp
+Disallow: /review_movie.asp
+Disallow: /review_book.asp
+Disallow: /review_game.asp
+Disallow: /fundgrube.asp
+Disallow: /members_search.asp
+Disallow: /members_charts.asp
+Disallow: /images/actor/
+Disallow: /images/artist/
+Disallow: /games_market_contact.asp
+Disallow: /cdimage.html
+Crawl-delay: 10
+
+

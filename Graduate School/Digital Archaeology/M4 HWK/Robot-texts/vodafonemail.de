@@ -1,0 +1,1391 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Vodafone E-Mail & Cloud - Kundenportal
+</title><meta name="author" content="mediaBEAM GmbH" /><meta name="publisher" content="Vodafone GmbH" /><meta name="copyright" content="Vodafone GmbH" /><meta name="description" content="Mit Vodafone E-Mail &amp; Cloud bist Du immer auf dem Laufenden. Du hast jederzeit Zugriff auf all Deine wichtigen E-Mails, Musik, Fotos und Dokumente." /><meta name="keywords" content="Vodafone E-Mail &amp; Cloud, E-Mail, SMS, MMS, Internet, Telefon, Fernsehen, Internetanbieter, Flatrate" /><meta name="page-topic" content="Kabelfernsehen, Internet, Telefonie" /><meta name="page-type" content="Kabelfernsehen, Internet, Telefonie" /><meta name="title" content="Kabelfernsehen, Internet und Telefonie - Vodafone" /><meta name="robots" content="index,follow" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="google-site-verification" content="T6POeYxm8A1-1UOFZGcJNZQcCs1JyGvFp1E79TmNokY" /><link rel="apple-touch-icon" href="img/apple-touch-icon-iphone.png" /><link rel="apple-touch-icon" href="img/apple-touch-icon.png" /><link rel="apple-touch-icon" sizes="152x152" href="img/touch-icon-ipad-retina.png" /><link rel="apple-touch-icon" sizes="144x144" href="img/apple-touch-icon-144x144.png" /><link rel="apple-touch-icon" sizes="120x120" href="img/touch-icon-iphone-retina.png" /><link rel="apple-touch-icon" sizes="114x114" href="img/touch-icon-iphone4.png" /><link rel="apple-touch-icon" sizes="76x76" href="img/apple-touch-icon-76x76.png" /><link rel="apple-touch-icon" sizes="72x72" href="img/touch-icon-ipad.png" /><link rel="apple-touch-icon" sizes="57x57" href="img/apple-touch-icon-57x57.png" /><link rel="apple-touch-icon" href="img/apple-touch-icon-precomposed.png" /><link rel="icon" type="image/png" href="img/favicon-32.png" sizes="32x32" /><link rel="icon" type="image/png" href="img/favicon-24.png" sizes="24x24" /><link rel="icon" type="image/png" href="img/favicon-16.png" sizes="16x16" /><link rel="shortcut icon" href="img/favicon.ico" />
+
+<link href="/css/vkd.min.css?bust=20241001" rel="stylesheet" />
+
+<link href="/css/foundation.min.css?bust=20241001" rel="stylesheet" />
+
+<link href="/css/partner.min.css?bust=20241001" rel="stylesheet" />
+
+<link href="/css/partnermobile.min.css?bust=20241001" rel="stylesheet" />
+
+    <script src="/js/require.js"></script>
+</head>
+<body style="height: 100%;">
+    
+    <div id="contentpane">
+        
+
+<div class="cookie-notice" style="display: none;">
+    <div class="kd-container">
+        <div class="cookie-notice-text">
+            <p>
+                <strong>Hinweis zu Cookies</strong>
+                <br />
+                Wir verwenden auf dieser Web-Seite Cookies. So verbessern wir sie und können Dir für Dich passende Angebote zeigen.
+                <a href="https://www.vodafone.de/unternehmen/verantwortung/datenschutz-online.html" target="_blank">Hier mehr erfahren</a>.
+            </p>
+        </div>
+        <div class="cookie-notice-button">
+            <button>Schließen</button>
+        </div>
+    </div>
+</div>
+
+
+<header class="header">
+    <div class="main-menu">
+        <div class="brand-area">
+            <a href="https://www.vodafone.de/" target="_blank">
+                <img src="img/logo.svg" alt="Vodafone E-Mail &amp; Cloud" />
+            </a>
+            <span class="schriftzug"><b>e-mail</b> &amp; cloud</span>
+        </div>
+        <div class="my-faq" data-ijs="faq-meta">
+            <img src="img/help_ffffff.svg" style="width: 24px; height: 24px;" />
+            <ul class="flyout">
+                <li>
+                    <a href="https://www.vodafone.de/hilfe/vodafonemail.html" target="_blank" title="Häufig gestellte Fragen">
+                        <img src="img/help_ffffff.svg" />Hilfe</a>
+                </li>
+                
+                <li>
+                    <hr>
+                </li>
+                <li>
+                    <a href="https://www.vodafonemail.de/portal/contact/privacy.aspx" target="_blank">
+                        <img src="img/page_secure_ffffff.svg" />Datenschutz</a>
+                </li>
+                <li>
+                    <a href="#" class="cookie-consent-button">
+                        <img src="img/shield_ffffff.svg" />Cookies</a>
+                </li>
+                <li>
+                    <a href="https://www.vodafone.de/unternehmen/soziale-verantwortung/datenschutz-privatsphaere.html" target="_blank">
+                        <img src="img/page_list_ffffff.svg" />Auftragsverarbeitung</a>
+                </li>
+                <li>
+                    <hr />
+                </li>
+                <li>
+                    <a href="https://www.vodafone.de/agb.html" target="_blank">
+                        <img src="img/page_agb_ffffff.svg" />AGB</a>
+                </li>
+                <li>
+                    <a href="https://www.vodafone.de/impressum.html" target="_blank">
+                        <img src="img/page_info_ffffff.svg" />Impressum</a>
+                </li>
+                <li>
+                    <a href="https://www.vodafonemail.de/portal/contact/description.aspx" target="_blank">
+                        <img src="img/page_list_ffffff.svg" />Leistungsbeschreibung</a>
+                </li>
+                <li>
+                    <a href="https://www.vodafonemail.de/portal/contact/overview.aspx" target="_blank">
+                        <img src="img/chat_ffffff.svg" />Feedback</a>
+                </li>
+            </ul>
+        </div>
+        <div>
+            <a href="https://live.vodafone.de/login" target="_blank" class="link-vodafone-live">
+                <img src="img/eml.svg" style="width: 24px; height: 24px;" />
+            </a>
+            <a href="https://www.vodafone.de/" target="_blank" class="link-vodafone">vodafone.de
+                <img src="img/arrow_forward_ffffff.svg" style="width: 24px; height: 24px; rotate: -45deg;" /></a>
+        </div>
+    </div>
+
+</header>
+<div class="navigation col navigation-menu-padding px-md-xxxx  px-lg-xx px-xl-m  menu-raised Click to" style="border-color: var(--omega-dark); background-color: var(--omega-dark);">
+    <nav id="breadcrumb" aria-labelledby="breadcrumb">
+        <ul class="breadcrumb d-flex align-items-center">
+            <li class="breadcrumb-item">
+                <a class="d-flex align-items-center" href="https://live.vodafone.de/">Home
+                    <img src="img/arrow_mini_forward.svg" /></a>
+            </li>
+            <li class="breadcrumb-item active">Vodafone E-Mail & Cloud</li>
+        </ul>
+    </nav>
+    <div style="clear: both;"></div>
+</div>
+<div style="clear: both;"></div>
+
+<script type="text/javascript">
+    require(["/js/config.js?bust=20241001"], function () {
+        require(['jquery'], function ($) {
+            $(function () {
+                $('.my-faq').on('click', function (evt) {
+                    var tar = $(evt.delegateTarget);
+                    if (tar.hasClass('is-active')) {
+                        tar.removeClass('is-active');
+                    } else {
+                        evt.stopPropagation();
+                        tar.addClass('is-active');
+                        $(document).one('click', function () {
+                            tar.removeClass('is-active');
+                        });
+                    }
+                });
+            });
+        });
+    });
+</script>
+
+        
+    <div class="kd-container">
+        <div class="login-area">
+            <div id="ContentPlaceHolder1_LoginConrtol_LoginPanel1" class="container">
+</div>
+
+
+
+<script type="text/template" id="twofa-recover-start-template">
+    <div id="container">
+        <div id="content">
+            <h2>Neuer QR-Code / Geheimschlüssel</h2>
+            <p><b>Du kannst nicht mehr auf Deine Authentifizierungs-App zugreifen?</b></p>
+            <p>Du kannst einfach selbst einen neuen QR-Code / Geheimschlüssel erstellen. Wir zeigen Dir, wie’s geht. Folge dazu den nächsten Schritten.</p>
+            <div class="infopanel">
+                <div class="infopanel-sidebar"></div>
+                <div>
+                    <p>Du bekommst einen Freischalt-Code an Deine Kontakt-Adresse oder Mobilfunk-Nummer. Diese Kontakt-Daten hast Du in Deinem E-Mail-Konto angegeben.</p>
+                </div>
+            </div>
+            <div class="input">
+                <p><a href="https://www.vodafonemail.de/portal/info/Alternative_Kontaktm%C3%B6glichkeit" target="_blank">Hier erfährst Du, wie Du Deine Kontakt-Adresse oder Mobilfunk-Nummer ändern kannst.</a></p>
+                <p>Deine Kontaktdaten sind aktuell? Prima! Bitte gib die Zeichenkette aus dem Bild ein. So sind wir sicher, dass Du ein Mensch bist.</p>
+                <div class="captcha">
+                    <img src="/controls/captcha.ashx" id="<#- this.cid #>-captcha-image" title="Captcha" alt="Captcha">
+                    <input class="btn btn-outline" style="cursor: pointer; margin: 0 0 30px 10px;" type="button" name="captcha-new" title="Neu laden" value="Neu laden">
+                </div>
+            </div>
+            <label for="captcha" class="required"><b>Zeichenkette eingeben</b></label>
+            <div class="input">
+                <input id="captcha" data-element="init-focus" type="text" placeholder="Zeichenkette" name="captcha" class="inputLarge" maxlength="5" value="" autocomplete="off" tabindex="2">
+                <div class="errorContent" data-error="captcha"></div>
+            </div>
+            <div class="button-bar">
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover">
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="twofa-recover-email-userlevel-template">
+    <div id="container">
+        <div id="content">
+            <h2>Das hat leider nicht geklappt</h2>
+            <p>Wir können das Passwort für Dein Vodafone E-Mail & Cloud-Konto im Moment nicht wiederherstellen.</p>
+            <p>Bitte versuch's später nochmal. Oder meld Dich bei unserer Service-Hotline. Du kannst uns auch eine E-Mail schicken: <a href="support@vodafonemail.de">support@vodafonemail.de</a></p>
+            <div class="button-bar">
+                <a data-command="render-default" class="btn btn-outline">Zurück</a>
+            </div>
+        </div>
+        <span class="clear"></span>
+    </div>
+</script>
+
+<script type="text/template" id="twofa-recover-email-no-contacts-template">
+    <div id="container">
+        <div id="content">
+            <h2>Bitte Kontaktdaten aktualisieren</h2>
+            <p>Schau bitte kurz in Dein E-Mail-Konto, ob Du eine gültige alternative E-Mail-Adresse oder Mobilfunk-Nummer hinterlegt hast.</p>
+            <div class="infopanel">
+                <div class="infopanel-sidebar"></div>
+                <div>
+                    <p>Du bekommst einen Freischalt-Code an Deine Kontakt-Adresse oder Mobilfunk-Nummer. Diese Kontakt-Daten hast Du in Deinem E-Mail-Konto angegeben.</p>
+                </div>
+            </div>
+            <p>Deine Daten sind aktuell? Prima! Komm einfach auf diese Seite zurück. Hier erstellst Du dann das neue E-Mail-/ IMAP-Passwort für Deine E-Mail-Adresse.</p>
+            <div class="button-bar">
+                <a data-command="render-default" class="btn btn-outline">Zurück</a>
+            </div>
+        </div>
+        <span class="clear"></span>
+    </div>
+</script>
+
+<script type="text/template" id="twofa-recover-verification-options-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein Freischaltcode</h2>
+            <p>Wir schicken Dir einen Freischaltcode. Gib diesen Code dann im nächsten Schritt ein. Wie möchtest Du den Freischaltcode bekommen?</p>
+            <div class="option-container">
+                <#
+                    var emailOption = this.options.optionList.find(o => o.type == 'email');
+                    if(emailOption){ #>
+                        <div class="option-item">
+                            <input name="type" type="radio" value="email" id="email">
+                            <span class="option-info">
+                                <label for="email">E-Mail an <b><#- emailOption.address #></b></label>
+                            </span>
+                        </div>
+                <# } #>
+    
+                <#
+                    var mobileOption = this.options.optionList.find(o => o.type == 'mobile');
+                    if(mobileOption){ #>
+                        <div class="option-item">
+                            <input name="type" type="radio" value="mobile" id="mobile">
+                            <span class="option-info">
+                                <label for="mobile">SMS an <b><#- mobileOption.address #></b></label>
+                            </span>
+                        </div>
+                <# } #>
+            </div>
+
+            <div class="errorContent" data-error="type"></div>
+
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="twofa-recover-verification-code-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein Freischaltcode ist gleich da</h2>
+            <# if(this.options.type == 'email'){ #>
+            <p>Wir haben eine E-Mail mit Deinem Code an <b><#- this.options.address.Address #></b> geschickt. Es kann bis zu 60 Sekunden dauern, bis die E-Mail ankommt.</p>
+            <# } else if(this.options.type == 'mobile'){ #>
+            <p>Wir haben eine SMS mit Deinem Code an <b><#- this.options.address.Address #></b> geschickt. Es kann bis zu 60 Sekunden dauern, bis die SMS ankommt.</p>
+            <# } #>    
+            <p>Gib den Freischaltcode bitte hier in den nächsten <b><span data-element="remaining-time"></span>Minuten</b> ein.</p>
+            <br />
+
+            <b>Freischaltcode eingeben</b>
+            <div id="codeFields"></div>
+            <div class="errorContent" data-error="code"></div>
+
+            <div class="infopanel" style="margin-bottom: 20px;">
+                <div class="infopanel-sidebar"></div>
+                <div>
+                    <p><b>Bitte denk dran: </b>Sobald Du Deinen Freischaltcode angefordert hast, hast Du <#- this.options.config.ValidationPeriodInMinutes #> Minuten Zeit, um ihn hier einzugeben. Erst nach den <#- this.options.config.ValidationPeriodInMinutes #> Minuten kannst Du einen neuen Freischaltcode anfordern.</p>
+                </div>
+            </div>
+
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="twofa-recover-verification-code-expired-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein Freischaltcode ist abgelaufen</h2>
+            <p>Zu Deiner Sicherheit gilt der Code nur <#- this.options.config.ValidationPeriodInMinutes #> Minuten. Forder jetzt einfach einen neuen Code an.</p>
+            <div class="infopanel">
+                <div class="infopanel-sidebar"></div>
+                <div>
+                    <b>Bitte denk dran:</b> Sobald Du Deinen Freischaltcode angefordert hast, hast Du <#- this.options.config.ValidationPeriodInMinutes #> Minuten Zeit, um ihn hier einzugeben. Erst nach den <#- this.options.config.ValidationPeriodInMinutes #> Minuten kannst Du einen neuen Freischaltcode anfordern.
+                </div>
+            </div>
+        </div>
+        <br />
+        <div class="button-bar">
+            <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+            <a data-command="resend-code" class="btn btn-secondary">Neuen Freischaltcode anfordern</a>
+        </div>
+
+        <div class="clear"></div>
+        <span style="display: none; margin: 6px;" class="progress-container">
+            <span class="loading ajax-loader"></span>Bitte warten...
+        </span>
+        <div class="errorContent" data-error="recover"></div>
+    </div>
+</script>
+<script type="text/template" id="twofa-recover-verification-code-max-tries-template">
+    <div id="container">
+        <div id="content">
+            <h2>Zu viele Versuche</h2>
+            <p>Du hast Deinen Freischaltcode zu oft falsch eingegeben. Zu Deiner Sicherheit dauert es dann eine Weile, bis Du es nochmal probieren kannst.</p>
+            <p>Du kannst in <span data-element="remaining-time"></span>Minuten einen neuen Freischaltcode anfordern. Oder starte die Freischaltung nochmal von vorn: Schließ dazu dieses Fenster und klick auf 'Zugangsdaten vergessen'.</p>
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">zurück</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+
+
+
+
+<script type="text/template" id="twofa-recover-qrcode-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein QR-Code / Geheimschlüssel</h2>
+            <p>Scann den QR-Code mit Deiner Authentifizierungs-App, um Dein Konto einzurichten – z.B. mit Google- oder Microsoft Authenticator. Oder gib einfach Deinen persönlichen Geheimschlüssel manuell ein.</p>
+            <b>QR-Code</b>
+            <div id="qrcode"></div>
+            <b>Geheimschlüssel</b>
+            <div class="secret-code"><#- this.options.twofa.secretCode #></div>
+            <br />
+            <div class="button-bar">
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="twofa-recover-totp-template">
+    <div id="container">
+        <div id="content">
+            <h2>Code eingeben</h2>
+            <p>Wir haben Dir einen Code an Deine Authentifizierungs-App geschickt. Gib diesen Code hier ein, um die 2-Faktor-Authentifizierung zu aktivieren.</p>
+            <label for="totp"><b>Code eingeben</b></label>
+
+            <div id="codeFields"></div>
+            <div class="errorContent" data-error="totp"></div>
+
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="twofa-recover-success-template">
+    <div id="container">
+        <div id="content">
+            <h2>Fertig</h2>
+            <p>Das hat geklappt: Du hast Deinen QR-Code / Geheimschlüssel neu beantragt. Du kannst Dich jetzt wieder in Dein E-Mail & Cloud-Konto einloggen.</p>
+            <div class="button-bar">
+                <a href="#" class="btn btn-secondary">Jetzt anmelden</a>
+            </div>
+        </div>
+    </div>
+
+</script>
+
+
+<script type="text/template" id="password-recover-start-template">
+    <div id="container">
+        <div id="content">
+            <h2>Zugangsdaten vergessen</h2>
+            <p>Du kannst Dir selbst ein neues E-Mail-/ IMAP-Passwort erstellen. Das geht ganz einfach in ein paar Schritten.</p>
+            <div class="infopanel">
+                <div class="infopanel-sidebar"></div>
+                <div>
+                    <p>Du bekommst einen Freischalt-Code an Deine Kontakt-Adresse oder Mobilfunk-Nummer. Diese Kontakt-Daten hast Du in Deinem E-Mail-Konto angegeben.</p>
+                </div>
+            </div>
+            <p><a href="https://www.vodafonemail.de/portal/info/Alternative_Kontaktm%C3%B6glichkeit" target="_blank">Hier erfährst Du, wie Du Deine Kontakt-Adresse oder Mobilfunk-Nummer ändern kannst.</a></p>
+            <p>Deine Daten sind aktuell? Dann klick auf Weiter. Das ist der erste Schritt zu Deinem neuen E-Mail-/ IMAP-Passwort.</p>
+            <div class="clear"></div>
+            <div class="button-bar">
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+        </div>
+    </div>
+
+</script>
+<script type="text/template" id="password-recover-email-template">
+    <div id="container">
+        <div id="content">
+            <h2>Zugangsdaten vergessen</h2>
+            <p>Gib hier Deine E-Mail-Adresse ein, für die Du ein neues E-Mail-/ IMAP-Passwort erstellen möchtest.</p>
+            <label for="emailAddress"><b>E-Mail-Adresse eingeben</b></label>
+            <div class="input">
+                <input id="emailAddress" type="text" placeholder="Deine E-Mail-Adresse" name="emailAddress" data-element="init-focus" class="inputLarge" value="" tabindex="2">
+                <div class="errorContent" data-error="email"></div>
+            </div>
+            <label class="empty-label">&nbsp;</label>
+            <div class="input">
+                <p>Bitte gib die Zeichenkette aus dem Bild ein. So sind wir sicher, dass Du ein Mensch bist.</p>
+                <div class="captcha">
+                    <img src="/controls/captcha.ashx" id="<#- this.cid #>-captcha-image" title="Captcha" alt="Captcha">
+                    <input class="btn btn-default" style="cursor: pointer; margin: 0 0 20px 20px;" type="button" name="captcha-new" title="Neu laden" value="Neu laden">
+                </div>
+            </div>
+            <label for="captcha" class="required"><b>Zeichenkette eingeben</b></label>
+            <div class="input">
+                <input id="captcha" type="text" placeholder="Zeichenkette" name="captcha" class="inputLarge" maxlength="5" value="" autocomplete="off" tabindex="2">
+                <div class="errorContent" data-error="captcha"></div>
+            </div>
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover">
+            </div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="password-recover-email-userlevel-template">
+    <div id="container">
+        <div id="content">
+            <h2>Das hat leider nicht geklappt</h2>
+            <p>Wir können das Passwort für Dein Vodafone E-Mail & Cloud-Konto im Moment nicht wiederherstellen.</p>
+            <p>Bitte versuch‘s später nochmal. Oder meld Dich bei unserer Service-Hotline. Du kannst uns auch eine E-Mail schicken: <a href="support@vodafonemail.de">support@vodafonemail.de</a></p>
+            <div class="button-bar">
+                <a data-command="render-default" class="btn btn-outline">Zurück</a>
+            </div>
+        </div>
+        <span class="clear"></span>
+    </div>
+</script>
+<script type="text/template" id="password-recover-email-no-contacts-template">
+    <div id="container">
+        <div id="content">
+            <h2>Bitte Kontaktdaten aktualisieren</h2>
+            <p>Schau bitte kurz in Dein E-Mail-Konto, ob Du eine gültige alternative E-Mail-Adresse oder Mobilfunk-Nummer hinterlegt hast.</p>
+            <div class="infopanel">
+                <div class="infopanel-sidebar"></div>
+                <div>
+                    <p>Du bekommst einen Freischalt-Code an Deine Kontakt-Adresse oder Mobilfunk-Nummer. Diese Kontakt-Daten hast Du in Deinem E-Mail-Konto angegeben.</p>
+                </div>
+            </div>
+            <p><a href="https://www.vodafonemail.de/portal/info/Alternative_Kontaktm%C3%B6glichkeit" target="_blank">Hier erfährst Du, wie Du Deine Kontakt-Adresse oder Mobilfunk-Nummer ändern kannst.</a></p>
+            <p>Deine Daten sind aktuell? Prima! Du kannst jetzt das neue E-Mail-/ IMAP-Passwort für Deine E-Mail-Adresse erstellen.</p>
+            <div class="button-bar">
+                <a data-command="render-default" class="btn btn-outline">Zurück</a>
+            </div>
+        </div>
+        <span class="clear"></span>
+    </div>
+</script>
+<script type="text/template" id="password-recover-totp-template">
+    <div id="container">
+        <div id="content">
+            <h2>Bitte Code eingeben</h2>
+            <p>Du hast die sichere 2-Faktor-Authentifizierung aktiviert. Schau bitte in Deine Authentifizierungs-App und gib hier den aktuellen Code ein:</p>
+        
+            <label for="totp"><b>Code eingeben</b></label>
+            <div id="codeFields"></div>
+            <div class="errorContent" data-error="totp"></div>
+
+            <p><b>Kein Zugriff auf die Authentifizierungs-App? </b>Meld Dich bei unserer Service-Hotline. Du kannst uns auch eine E-Mail schicken: <a href="mailto:support@vodafonemail.de">support@vodafonemail.de</a></p>
+
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="password-recover-verification-options-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein Freischaltcode</h2>
+            <p>Wir schicken Dir einen Freischaltcode. Gib diesen Code dann im nächsten Schritt ein. Wie möchtest Du den Freischaltcode bekommen?</p>
+            <div class="option-container">
+                <#
+                    var emailOption = this.options.optionList.find(o => o.type == 'email');
+                    if(emailOption){ #>
+                        <div class="option-item">
+                            <input name="type" type="radio" value="email" id="email">
+                            <span class="option-info">
+                                <label for="email">E-Mail an <b><#- emailOption.address #></b></label>
+                            </span>
+                        </div>
+                <# } #>
+    
+                <#
+                    var mobileOption = this.options.optionList.find(o => o.type == 'mobile');
+                    if(mobileOption){ #>
+                        <div class="option-item">
+                            <input name="type" type="radio" value="mobile" id="mobile">
+                            <span class="option-info">
+                                <label for="mobile">SMS an <b><#- mobileOption.address #></b></label>
+                            </span>
+                        </div>
+                <# } #>
+            </div>
+
+            <div class="errorContent" data-error="type"></div>
+
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="password-recover-verification-code-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein Freischaltcode ist gleich da</h2>
+            <# if(this.options.type == 'email'){ #>
+            <p>Wir haben eine E-Mail mit Deinem Code an <b><#- this.options.address.Address #></b> geschickt. Es kann bis zu 60 Sekunden dauern, bis die E-Mail ankommt.</p>
+            <# } else if(this.options.type == 'mobile'){ #>
+            <p>Wir haben eine SMS mit Deinem Code an <b><#- this.options.address.Address #></b> geschickt. Es kann bis zu 60 Sekunden dauern, bis die SMS ankommt.</p>
+            <# } #>    
+            <p>Gib den Freischaltcode bitte hier in den nächsten <b><span data-element="remaining-time"></span> Minuten</b> ein:</p>
+            <br />
+
+            <b>Freischaltcode eingeben</b>
+            <div id="codeFields"></div>
+            <div class="errorContent" data-error="code"></div>
+
+            <div class="infopanel" style="margin-bottom: 20px;">
+                <div class="infopanel-sidebar"></div>
+                <div>
+                    <p><b>Bitte denk dran: </b>Sobald Du Deinen Freischaltcode angefordert hast, hast Du <#- this.options.config.ValidationPeriodInMinutes #> Minuten Zeit, um ihn hier einzugeben. Erst nach den <#- this.options.config.ValidationPeriodInMinutes #> Minuten kannst Du einen neuen Freischaltcode anfordern.</p>
+                </div>
+            </div>
+
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+                <a data-command="next-step" class="btn btn-secondary">Weiter</a>
+            </div>
+
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="password-recover-verification-code-expired-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein Freischaltcode ist abgelaufen</h2>
+            <p>Zu Deiner Sicherheit gilt der Code nur <#- this.options.config.ValidationPeriodInMinutes #> Minuten. Forder jetzt einfach einen neuen Code an.</p>
+            <div class="infopanel">
+                <div class="infopanel-sidebar"></div>
+                <div><b>Bitte denk dran:</b> Sobald Du Deinen Freischaltcode angefordert hast, hast Du <#- this.options.config.ValidationPeriodInMinutes #> Minuten Zeit, um ihn hier einzugeben. Erst nach den <#- this.options.config.ValidationPeriodInMinutes #> Minuten kannst Du einen neuen Freischaltcode anfordern.</div>
+            </div>
+        </div>
+        <br />
+        <div class="button-bar">
+            <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+            <a data-command="resend-code" class="btn btn-secondary">Neuen Freischaltcode anfordern</a>
+        </div>
+
+        <div class="clear"></div>
+        <span style="display: none; margin: 6px;" class="progress-container">
+            <span class="loading ajax-loader"></span>Bitte warten...
+        </span>
+        <div class="errorContent" data-error="recover"></div>
+    </div>
+</script>
+<script type="text/template" id="password-recover-verification-code-max-tries-template">
+    <div id="container">
+        <div id="content">
+            <h2>Zu viele Versuche</h2>
+            <p>Du hast Deinen Freischaltcode zu oft falsch eingegeben. Zu Deiner Sicherheit dauert es dann eine Weile, bis Du es nochmal probieren kannst.</p>
+            <p>Du kannst in <span data-element="remaining-time"></span> Minuten einen neuen Freischaltcode anfordern. Oder starte die Freischaltung nochmal von vorn: Schließ dazu dieses Fenster und klick auf 'Zugangsdaten vergessen'.</p>
+            <div class="button-bar">
+                <a data-command="previous-step" class="btn btn-outline">Zurück</a>
+            </div>
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="password-recover-reset-template">
+    <div id="container">
+        <div id="content">
+            <h2>Dein neues Passwort</h2>
+            <p>Du hast es fast geschafft! Gib jetzt Dein neues Passwort ein. Bitte achte darauf: Dein neues Passwort muss sich von Deinem alten Passwort unterscheiden.</p>
+            <label for="password"><b>Neues Passwort eingeben</b></label>
+            <div class="input">
+                <input id="password" type="password" placeholder="Neues Passwort eingeben" name="password" data-element="init-focus" class="inputLarge" value="" autocomplete="off" tabindex="2">
+                <div class="errorContent" data-error="password">
+                </div>
+            </div>
+            <label for="password-repeat"><b>Neues Passwort wiederholen</b></label>
+            <div class="input">
+                <input id="password-repeat" type="password" placeholder="Neues Passwort eingeben" name="password-repeat" class="inputLarge" value="" autocomplete="off" tabindex="2">
+                <div class="errorContent" data-error="password-repeat">
+                </div>
+            </div>
+            <div class="infopanel">
+                <div class="infopanel-sidebar"></div>
+                <div>Du hast es fast geschafft! Gib jetzt Dein neues Passwort ein. Bitte achte darauf: Dein neues Passwort muss sich von Deinem alten Passwort unterscheiden.</div>
+            </div>
+            <br />
+            <div class="button-bar">
+                <a data-command="next-step" class="btn btn-secondary">Neues Passwort speichern</a>
+            </div>
+
+            <div class="clear"></div>
+            <span style="display: none; margin: 6px;" class="progress-container">
+                <span class="loading ajax-loader"></span>Bitte warten...
+            </span>
+            <div class="errorContent" data-error="recover"></div>
+        </div>
+    </div>
+</script>
+<script type="text/template" id="password-recover-success-template">
+    <div id="container">
+        <div id="content">
+            <h2>Fertig</h2>
+            <p>Das hat geklappt: Du hast Dein Passwort geändert. Du kannst Dich jetzt wieder in Dein E-Mail & Cloud-Konto einloggen.</p>
+            <div class="button-bar">
+                <a href="#" class="btn btn-secondary">Jetzt anmelden</a>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+<script type="text/template" id="ContentPlaceHolder1_LoginConrtol_LoginPanel1-login-panel-template">
+    <div class="editView">
+        <h2>Login mit E-Mail Zugangsdaten</h2>
+
+        <div id="errorbox" class="infopanel alertinfo" style="display: none;" data-nosnippet>
+            <div class="infopanel-sidebar"></div>
+            <div>
+                <h3>Das hat leider nicht geklappt</h3>
+                <p>Versuch‘s bitte nochmal oder klick unten auf „Zugangsdaten vergessen“. Du möchtest Dich über das MeinVodafone-Konto einloggen? Dann klick einfach <a href="https://www.vodafone.de/meinvodafone/account/login" target="_blank">hier</a>.</p>
+            </div>
+        </div>
+        <div id="errorbox-mfa" class="infopanel alertinfo" style="display: none;" data-nosnippet>
+            <div class="infopanel-sidebar"></div>
+            <div>
+                <h3>Das hat leider nicht geklappt</h3>
+                <p>Versuch‘s bitte nochmal oder klick unten auf „Kein Zugriff auf die Authentifizierungs-App“. Du möchtest Dich über das MeinVodafone-Konto einloggen? Dann klick einfach <a href="https://www.vodafone.de/meinvodafone/account/login" target="_blank">hier</a>.</p>
+            </div>
+        </div>
+        <div id="quarantinebox" class="infopanel alertinfo" style="display: none;" data-nosnippet>
+            <div class="infopanel-sidebar"></div>
+            <div>
+                <h3>Das hat leider nicht geklappt</h3>
+                <p>Wir haben festgestellt, dass jemand mehr als zehnmal hintereinander versucht hat, sich mit einem falschen Passwort in Deinen Vodafone E-Mail & Cloud-Konto einzuloggen. Dein Konto ist daher für 10 Minuten gesperrt. In dieser Zeit ist kein Login möglich.</p>
+            </div>
+        </div>
+        <div id="blockedbox" class="infopanel alertinfo" style="display: none;" data-nosnippet>
+            <div class="infopanel-sidebar"></div>
+            <div>
+                <h3>Dieses E-Mail-Konto existiert nicht oder ist gesperrt</h3>
+                <p>Damit wir Dir schnell helfen können, meld Dich bitte bei unserem Customer Care Team. So erreichst Du uns:</p>
+                <ul>
+                    <li style="list-style-image:none;">
+                        <p style="color:#999;"><b style="color:#fff;">Du bist Mobilfunk- oder Internet & Festnetz-Kund:in?</b> Als Vodafone-Kund:in erreichst Du uns kostenlos aus allen deutschen Netzen unter <nobr><b>0800 172 1212</b></nobr>. Halt bitte Deine Kundennummer bereit. Du findest sie auf der <a href="https://www.vodafone.de/meinvodafone" target="_blank">MeinVodafone-Startseite</a>.</p>
+                    </li>
+                    <li style="list-style-image:none;">
+                        <p style="color:#999;"><b style="color:#fff;">Du hast nur ein E-Mail-Konto bei uns?</b> Dann erreichst Du uns montags bis freitags von 8 und 17 Uhr unter <nobr><b>0900 123 45 23</b></nobr>. Für 1,99 €/Min aus dem deutschen Festnetz. Oder schreib uns eine E-Mail: support@vodafonemail.de.</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        <div id="logoutbox" class="infopanel" style="display: none;" data-nosnippet>
+            <div class="infopanel-sidebar"></div>
+            <div>
+                <h3>Du hast Dich erfolgreich ausgeloggt</h3>
+                <p>Danke, dass Du Vodafone E-Mail &amp; Cloud nutzt. Du bist jetzt vollständig abgemeldet.</p>
+            </div>
+        </div>
+        <div class="login-form-container" data-element="login-form">
+            <input type="hidden" name="force" value="" />
+            <input type="hidden" name="target" value="" />
+            <p>Für Deine E-Mail-Konten bei Vodafone, Arcor, Kabel Deutschland und Unitymedia.</p>
+            
+            <input type="text" class="inputXLarge" name="username" id="user" placeholder="E-Mail-Adresse" /><br />
+            
+            <div class="password">
+                <input type="password" class="inputXLarge" name="pwd" placeholder="E-Mail-Passwort" /><img id='toggle-pw-visibility' src='img/eye_view_password.svg'>
+            </div>
+            <span id="password-tip" style="width: 420px; margin: 8px 0; font-size: .8em; display: inline-block; text-align: left;">Trag hier Dein E-Mail-/ IMAP-Passwort ein.</span><br />
+            <input type="button" name="login" class="btn btn-primary" value="Login" title="Login" />
+            <div class="clear"></div>
+            <div class="footer">
+                <div class="loginProgress">
+                    <div style="display: none; padding-top: 8px;" class="progress-container">
+                        <span class="loading">Bitte warten...</span>
+                    </div>
+                </div>
+            </div>
+            <div class="txt-links">
+                <a href="https://www.vodafone.de/meinvodafone/account/login" target="_blank">MeinVodafone Login</a>
+                <a href="#" data-command="recover">Zugangsdaten vergessen</a>
+            </div>
+            <p style="color:#999;"><b style="color:#fff;">Du hast noch kein E-Mail-Konto?</b> Dann kannst Du Dich ganz einfach <a href="https://www.vodafone.de/privat/service/vodafone-email.html" target="_blank">hier registrieren</a>.</p>
+            <p style="color:#999;"><b style="color:#fff;">Barrierefreiheit!</b> Du kannst unser neues E-Mail & Cloud Portal nutzen. <a href="https://next.mail.vodafone.de" target="_blank">Hier klicken.</a></p>
+        </div>
+
+        <div class="totp-form-container" data-element="totp-form" style="display: none;">
+            <p>Du hast die sichere 2-Faktor-Authentifizierung aktiviert. Schau bitte in Deine Authentifizierungs-App und gib hier den aktuellen Code ein:  </p>
+            <div id="codeFields"></div>
+            <div>
+                <input type="button" name="back" class="btn btn-outline" value="Zurück" title="Zurück" />
+                <input type="button" name="authenticate" class="btn btn-primary" value="Authentifizieren" title="Authentifizieren" />
+            </div>
+            <div class="clear"></div>
+            <div class="footer">
+                <div class="loginProgress">
+                    <div style="display: none; padding-top: 8px;" class="progress-container">
+                        <span class="loading">Bitte warten...</span>
+                    </div>
+                </div>
+            </div>
+            <div class="txt">
+                <a href="#" data-command="twofa-recover">Kein Zugriff auf die Authentifizierungs-App?</a>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="429-dialog-template">
+    <div id="container">
+        <div id="content">
+            <h2>Das hat nicht geklappt</h2>
+            <p>Das System ist gerade sehr stark ausgelastet. Und wir konnten Deine Anfrage nicht sofort bearbeiten. Bitte versuch Dich gleich nochmal einzuloggen.</p>
+            <p>Vielen Dank für Deine Geduld!</p>
+            <div class="clear"></div>
+            <div class="button-bar">
+                <a data-command="close" class="btn btn-secondary">Schließen</a>
+            </div>
+
+        </div>
+    </div>
+</script>
+
+<script type="text/javascript">
+    require(['/js/config.js?bust=20241001'], function () {
+        require(["jquery", "controls/loginControl", "controls/forgotPasswordControl", "controls/recoverTwoFaControl", "fancybox"], function ($, LoginPanel, ForgotPasswordView, RecoverTwoFaView) {
+            $(function () {
+                var panel = new LoginPanel({
+                    'el': $('#ContentPlaceHolder1_LoginConrtol_LoginPanel1'),
+                    'serviceUrl': '/services/CustomerService.asmx',
+                    'webUrl': 'https://mail.vodafone.de',
+                    'panelTmpl': '#ContentPlaceHolder1_LoginConrtol_LoginPanel1-login-panel-template'
+                });
+                panel.render().focus('input[name="username"]');
+
+
+                $('#ContentPlaceHolder1_LoginConrtol_LoginPanel1').delegate('a[data-command="recover"]', 'click', function (e) {
+                    e.preventDefault();
+                    $.fancybox({
+                        hideOnOverlayClick: false,
+                        enableEscapeButton: false,
+                        centerOnScroll: true,
+                        padding: 30,
+                        titleShow: false,
+                        content: function () {
+                            var view = new ForgotPasswordView({
+                                'captchaUrl': '/controls/captcha.ashx',
+                                'serviceUrl': '/services/CustomerService.asmx'
+                            }).render().$el;
+
+                            return $('<div class="recover-fancybox"></div>').html(view)
+                        }
+                    });
+                });
+
+                $('#ContentPlaceHolder1_LoginConrtol_LoginPanel1').delegate('a[data-command="twofa-recover"]', 'click', function (e) {
+                    e.preventDefault();
+                    $.fancybox({
+                        hideOnOverlayClick: false,
+                        enableEscapeButton: false,
+                        centerOnScroll: true,
+                        padding: 30,
+                        titleShow: false,
+                        content: function () {
+                            var view = new RecoverTwoFaView({
+                                'captchaUrl': '/controls/captcha.ashx',
+                                'serviceUrl': '/services/CustomerService.asmx'
+                            }).render().$el;
+
+                            return $('<div class="recover-fancybox"></div>').html(view)
+                        }
+                    });
+                });
+
+                var q = location.href.split('?');
+                if (q.length >= 1) {
+                    switch (q[1]) {
+                        case 'login=failed':
+                            setTimeout(function () {
+                                $('#errorbox').slideDown();
+                            }, 0);
+                            break;
+                        case 'login=quarantine':
+                            setTimeout(function () {
+                                $('#quarantinebox').slideDown();
+                            }, 0);
+                            break;
+                        case 'login=blocked':
+                            setTimeout(function () {
+                                $('#blockedbox').slideDown();
+                            }, 0);
+                            break;
+                        case 'logout=success':
+                            var logoutbox = $('#logoutbox');
+                            setTimeout(function () {
+                                logoutbox.slideDown();
+                                setTimeout(function () {
+                                    logoutbox.slideUp();
+                                }, 5000);
+                            }, 0);
+                            break;
+                        case 'showforgotpassword=true':
+                            setTimeout(function () {
+                                $('a[data-command="recover"]').trigger('click');
+                            }, 0);
+                            break;
+                    }
+                }
+            });
+        });
+    });
+</script>
+
+        </div>
+        <div class="advertise-area">
+            <div class="ws2-image-text off mobile-left-align" id="image-text-module-763982">
+                <div class="bg-sprite"></div>
+                <div class="image-container"></div>
+                <div class="mobile-bg"></div>
+                <div class="content-container">
+                    <div class="container-v-align">
+                        <div class="ws2-text">
+                            <div>
+                                <div class="topteaser">
+                                    Vodafone Premium
+                                </div>
+                                <div class="headline-container">
+                                    <h2>Werbefrei und mehr Power</h2>
+                                </div>
+                                <div>
+                                    <p>
+                                        Upgrade für E-Mail Bestandskunden*: Buch im E-Mail Portal den E-Mail & Cloud Premium-Tarif - monatlich kündbar.
+                                    <span style="display: inline-block; color: #999; font-size: 12px; width: 100%;">* Nicht für alle Bestandstarife buchbar</span>
+                                    </p>
+
+                                </div>
+                                <div style="position: relative;">
+                                    <span style="vertical-align: bottom;">monatlich</span> <b style="font-size: 34px; position: relative; top: 7px;">1,99 €</b>
+                                </div>
+                            </div>
+                            <button onclick="topFunction()" class="ws2-btn arrow" id="paymentBtn">
+                                <span><b>Jetzt zugreifen</b></span>
+                                <img src="img/arrow_forward.svg" alt="Logg Dich ein" />
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="ws2-image-text ws2-image-text-app off mobile-right-align" id="image-text-module-763983">
+                <div class="content-container">
+                    <div class="container-v-align">
+                        <div class="ws2-text">
+                            <div>
+                                <div class="topteaser">
+                                    Vodafone E-Mail & Cloud-App
+                                </div>
+                                <div class="headline-container">
+                                    <h2>Erlebe mobile Freiheit</h2>
+                                </div>
+                                <div>
+                                    <p>Komfortabel und einfach: Lese und bearbeite Deine E-Mails in der Vodafone E-Mail & Cloud-App. Speicher Bilder und mehr sicher von unterwegs - zentral in Deinem Vodafone E-Mail & Cloud Speicher. Oder greif auf alle Kontakte zu.</p>
+                                </div>
+                                 <div style="display:flex;">
+                                    <a href="https://play.google.com/store/apps/details?id=de.kabeldeutschland.komfortcloud&hl=de" target="_blank" class="ws2-btn arrow btn-google">
+                                        <img src="https://mail.vodafone.de/pop3/img/vodafone/parallax/download_GooglePlay.png" style="width:90%;"/>
+                                    </a>
+                                    <a href="https://apps.apple.com/de/app/vodafone-e-mail-cloud/id805539884" target="_blank" class="ws2-btn arrow btn-apple">
+                                        <img src="https://mail.vodafone.de/pop3/img/vodafone/parallax/download_AppStore.png" style="width:82%;"/>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="bg-sprite"></div>
+                <div class="image-container-app"></div>
+                <div class="mobile-bg"></div>
+            </div>
+        </div>
+        <div class="faq-area">
+            <h2>Fragen zu Vodafone E-Mail & Cloud</h2>
+            <div class="btn btn-secondary">
+                <a href="https://www.vodafone.de/hilfe/email/info.html" target="_blank">Hier findest Du die Antworten
+                    <img src="img/arrow_forward.svg" alt="Mehr Fragen &amp; Antworten" /></a>
+            </div>
+        </div>
+        <script type="text/javascript">
+            require(["/js/config.js?bust=20241001"], function () {
+                requirejs(["jquery", "underscore", "backbone", "jquery-ui", "jquery-faq"], function ($, _, Backbone) {
+                    $(function () {
+                        var faq = $('#accordion').faq({
+                            entryUrl: 'services/FaqService.asmx/GetFaqEntry',
+                            searchUrl: 'services/FaqService.asmx/GetSearchResult',
+                            initEntry: 'App_FAQ_Top5',
+                            urlBase: './',
+                            maxDepth: 2
+                        });
+
+                        $('.cookie-consent-button').on('click', function (evt) {
+                            evt.preventDefault();
+                            evt.stopPropagation();
+
+                            window._sp_.loadPrivacyManagerModal(743224);
+                        });
+
+                    
+                    });
+                });
+            });
+        </script>
+
+        <script type="text/javascript">
+            function topFunction() {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+                setTimeout(function () {
+                    var userinput = document.getElementById("user");
+                    userinput.focus();
+                }, 500);
+            }
+        </script>
+
+        
+
+<script type="text/javascript">
+    (function () {
+
+        var guj = document.createElement('script');
+        guj.type = 'text/javascript';
+        guj.text = '\
+        var MoltenBundle = MoltenBundle || {};\
+        MoltenBundle.cmd = MoltenBundle.cmd || [];\
+        MoltenBundle.cmd.push(function () {\
+        MoltenBundle.getClient().setSiteType("desktop");\
+        MoltenBundle.getClient().setZone("_default");\
+        MoltenBundle.getClient().setIsIndexPage(false);\
+        });';
+
+        document.head.appendChild(guj);
+    })();
+</script>
+<script type="text/javascript">
+    !(function () {
+        var s = document.createElement('script');
+        s.type = 'text/javascript';
+        s.async = 'true';
+        s.src = (window.location.search.indexOf('gujAd=1') > -1) ? 'https://adctrl.emsmobile.de/molten/preview/vodafonemail.de/gujAd.js' : 'gujAd.js';
+
+        setTimeout(function () {
+            document.body.appendChild(s);
+        }, 1);
+    })();
+</script>
+
+
+
+<!-- begin loading of IOMb bootstrap code -->
+<script type='text/javascript' src="https://data-84bc7eaa45.vodafonemail.de/iomm/latest/bootstrap/stub.js"></script>
+<!-- end loading of IOMb bootstrap code -->
+
+<script type="text/javascript">
+    var MoltenBundle = MoltenBundle || {};
+    MoltenBundle.cmd = MoltenBundle.cmd || [];
+    MoltenBundle.cmd.push(function () {
+
+        MoltenBundle.Privacy.getConsentStatusPromise(true).then(function () {
+            if (MoltenBundle.Privacy.isAllowedVendor(730)) { //IVW
+                IOMm('configure', { st: 'vodafone', dn: 'data-84bc7eaa45.vodafonemail.de', dg: false, mh: 5 });
+            }
+
+            if (MoltenBundle.Privacy.isAllowedVendor(785)) { // AGOF
+                IOMm('configure', { st: 'vodafone', dn: 'data-84bc7eaa45.vodafonemail.de', dg: false, mh: 5 });
+                IOMm('3p', 'qds', 'in');
+            }
+
+            if (window.mb_adReady) {
+                if (fetchAd) fetchAd();
+                window.mb_adReady = false;
+            } else {
+                window.mb_adReady = true;
+            }
+        });
+    });    
+</script>
+
+<script type="text/javascript" src="https://data-84bc7eaa45.vodafonemail.de/iomm/latest/manager/base/es5/bundle.js"></script>
+
+
+
+
+
+
+
+<script type='text/javascript'><!--//<![CDATA[
+
+    window.enableAdsArea = true;
+
+    //Global scope
+    var fetchAd = null;
+
+    (function () {
+
+        var adSize = null,
+            ad = document.createElement('DIV'),
+            contentpane = null,
+            adInterval = null;
+
+        var wrapper = null;
+
+        //#region PageLoad
+        document.addEventListener('DOMContentLoaded', function () {
+
+            if (!contentpane) contentpane = document.querySelector('#contentpane');
+            if (!contentpane) return;
+
+            document.querySelector("#guj-spacer").classList.remove('hidden');
+
+            wrapper = document.querySelector('#gujWrapper');
+
+            ad.classList.add('gujAd');
+            ad.classList.add('skyscraper');
+            ad.id = 'skyscraper_1';
+
+            //document.body.appendChild(ad);
+            wrapper.appendChild(ad);
+
+            if (window.mb_adReady) {
+                if (fetchAd) fetchAd();
+                window.mb_adReady = false;
+            } else {
+                window.mb_adReady = true;
+            }
+
+        });
+        //#endregion
+
+        //#region Check Screensize
+        function checkscreensize() {
+            var width = window.innerWidth;
+
+            window.dispatchEvent(new Event('adSize'));
+
+            //if (width >= 1024 && width < 1200) {
+            //    adSize = 120;
+            //    return;
+            //}
+            //if (width >= 1200 && width < 1300) {
+            //    adSize = 160;
+            //    return;
+            //}
+            if (width >= 1300) {
+
+                var loadAd = adSize == null; //Size was null, directly load an advert
+
+                adSize = 300;
+
+
+                if (loadAd && fetchAd) {
+                    fetchAd();
+                }
+
+                return;
+            }
+
+            adSize = null;
+            return null;
+        }
+
+        window.addEventListener('resize', checkscreensize);
+        //#endregion
+
+        //#region Fetch Ad
+
+        var initialized = false;
+        var cooldown = false;
+
+        var fetchCounter = 0;
+        fetchAd = function (isAutoUpdate) {
+
+            //#region Cooldown/Debounce Logic
+            if (cooldown) return;
+
+            cooldown = true;
+
+            setTimeout(function () {
+                cooldown = false;
+            }, 1000);
+            //#endregion
+
+            if (adInterval) clearInterval(adInterval);
+
+            try {
+                checkscreensize();
+
+                if (adSize) {
+
+                    if (!initialized) {
+                        if (MoltenBundle !== undefined && MoltenBundle.cmd !== undefined) {
+                            MoltenBundle.cmd.push(function () {
+                                //console.warn('push skyscraper_1');
+                                MoltenBundle.push('skyscraper_1');
+
+                                if ('vf_mail_login') {
+                                  //  console.warn('pageview', 'vf_mail_login');
+                                    IOMm('pageview', { cp: 'vf_mail_login', pt: 'cp' });
+                                }
+                            });
+                            MoltenBundle.cmd.push(function () {
+                                MoltenBundle.finalize();
+                            });
+                            initialized = true;
+                        }
+                    } else {
+                        if (MoltenBundle !== undefined && MoltenBundle.cmd !== undefined) {
+                            MoltenBundle.cmd.push(function () {
+                                //console.warn('reloadAd skyscraper_1');
+                                MoltenBundle.getClient().reloadAd('skyscraper_1');
+
+                                if ('vf_mail_login') {
+                                    //console.warn('pageview', 'vf_mail_login');
+                                    IOMm('pageview', { cp: 'vf_mail_login', pt: 'cp' });
+                                }
+                            });
+                        }
+                    }
+
+                    //contentpane.classList.add('guj-spacer-' + adSize);
+                    contentpane.classList.add('spacer-content');
+                    ad.classList.add('guj-' + adSize);
+
+                } else {
+                    ad.classList.value = 'gujAd skyscraper';
+                }
+
+                window.dispatchEvent(new Event('resize'));
+            } catch (e) { }
+
+            fetchCounter += 1;
+
+            if (fetchCounter < 50) {
+                adInterval = setInterval(function () { fetchAd(true); }, 40 * 1000);
+            } else {
+                clearInterval(adInterval);
+            }
+
+        }
+
+        //#endregion
+
+
+    })();
+//]]>--></script>
+
+    </div>
+
+        
+
+<div class="prefix">
+    <footer>
+        <div class="mod mod-glnav-footer glnav" role="contentinfo">
+            <div class="belt">
+                <div class="grid mod mod-mondia" data-scope="sml" data-radio="true">
+                    <ul>
+                        <li>
+                            <a href="https://live.vodafone.de/login" target="_blank">
+                                <span class=" ">E-Mail</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://zuhauseplus.vodafone.de/internet-telefon/" target="_blank">
+                                <span class=" ">Vodafone Shop</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.vodafone.de/meinvodafone/account/login" target="_blank">
+                                <span class=" ">Mein Vodafone</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://live.vodafone.de/faq" target="_self">
+                                <span class=" ">Hilfe/FAQ</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://live.vodafone.de/subscriptions/" target="_self">
+                                <span class=" ">Meine Abos &amp; Käufe</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://live.vodafone.de/myDownloads" target="_self">
+                                <span class=" ">Meine Downloads</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://twitter.com/vodafone_de">
+                                <span class="icon icon-social-twitter"></span>
+                            </a>
+                            <a href="http://www.facebook.com/vodafoneDE">
+                                <span class="icon icon-social-facebook"></span>
+                            </a>
+                            <a href="https://www.instagram.com/vodafone_de/">
+                                <span class="icon icon-social-instagram"></span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="clear"></div>
+                    <hr />
+                    <div class="copyright">
+                        <span>© Vodafone 2025</span>
+                    </div>
+                    <ul class="mondia-ul-small">
+                        <li>
+                            <a href="https://www.vodafone.de/einfache-kuendigung.html" target="_blank">
+                                <span>Vertrag kündigen</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.vodafone.de/agb.html" target="_blank">
+                                <span>AGB</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://live.vodafone.de/impressum" target="_self">
+                                <span>Impressum</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.vodafone.de/barrierefreiheit.html" target="_blank">
+                                <span>Barrierefreiheit</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.vodafone.de/unternehmen/soziale-verantwortung/jugendschutz.html" target="_blank">
+                                <span>Jugendschutz</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://mail.vodafone.de/portal/contact/privacy.aspx" target="_blank">
+                                <span>Datenschutz</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="#" class="cookie-consent-button" target="_self">
+                                <span>Cookies</span>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.vodafone.de/hilfe/kontakt-zu-vodafone.html" target="_blank">
+                                <span>Kontakt</span>
+                            </a>
+                        </li>
+                    </ul>
+                    <div class="clear"></div>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <div data-command="scroll-top" class="scroll-top-btn">
+        <svg viewBox="0 0 100 100">
+            <path fill-opacity=".6" d="M50.5 16.231c-18.896 0-34.269 15.373-34.269 34.269S31.604 84.769 50.5 84.769 84.769 69.396 84.769 50.5 69.396 16.231 50.5 16.231z"></path><path fill="#999" d="M50.5 10C28.132 10 10 28.133 10 50.5 10 72.868 28.132 91 50.5 91 72.867 91 91 72.868 91 50.5 91 28.133 72.867 10 50.5 10zm0 74.769c-18.896 0-34.269-15.373-34.269-34.269S31.604 16.231 50.5 16.231 84.769 31.604 84.769 50.5 69.396 84.769 50.5 84.769z"></path><path fill="#FFF" fill-rule="evenodd" d="M35.5 34.924h31.154v6.231H35.5zM50.47 54.04l12.568 12.569 3.213-3.213L50.5 47.646l-15.751 15.75 3.182 3.183z" clip-rule="evenodd"></path></svg>
+    </div>
+</div>
+<script type="text/javascript">
+    require(["/js/config.js?bust=20241001"], function () {
+        require(['jquery'], function ($) {
+            $(function () {
+
+                $('.cookie-consent-button').on('click', function (evt) {
+                    evt.preventDefault();
+                    evt.stopPropagation();
+
+                    try {
+                        window._sp_.loadPrivacyManagerModal(743224);
+                    } catch (e) {
+
+                    }
+
+                });
+
+                $('[data-command="open-submenu"]').on('click', function (e) {
+                    var width = (window.innerWidth > 0) ? window.innerWidth : screen.width;
+                    if (width < 1025) {
+                        $(e.currentTarget).toggleClass("open").find('ul').slideToggle();
+                    }
+                });
+
+                var scrollBtn = $('.scroll-top-btn');
+                var classNameToShow = 'show';
+                $(document).on('scroll', function (e) {
+                    var offset = $(window).height() - $(e.currentTarget).scrollTop();
+                    if (offset < 0) {
+                        scrollBtn.addClass(classNameToShow);
+                    } else {
+                        scrollBtn.removeClass(classNameToShow);
+                    }
+
+                });
+
+                $('[data-command="scroll-top"]').on('click', function (e) {
+                    $("html, body").animate({ scrollTop: 0 }, 500);
+                    return false;
+                });
+
+
+            });
+        });
+    });
+</script>
+
+    </div>
+    <div id="guj-spacer" class="hidden">
+        <div id="gujWrapper"></div>
+    </div>
+    
+
+    
+
+<script type="text/javascript" src="/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=3951888" async></script></body>
+</html>

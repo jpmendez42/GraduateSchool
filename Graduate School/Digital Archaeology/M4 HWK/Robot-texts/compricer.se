@@ -1,0 +1,52 @@
+# Crawla. Byt. Spara.
+
+User-agent: *
+Disallow: /dyra-forsakringar-elavtal-och-lan/
+Disallow: /forsakring/barn/order
+Disallow: /forsakring/bil/order
+Disallow: /forsakring/hem/order
+Disallow: /forsakring/hund/order
+Disallow: /forsakring/inkomst/order
+Disallow: /forsakring/motorcykel/order
+Disallow: /forsakring/villa/order
+Disallow: /el/jamfor_el/result
+Disallow: /forsakring/atv/result
+Disallow: /forsakring/barn/result
+Disallow: /forsakring/bil/result
+Disallow: /forsakring/fritidshus/result
+Disallow: /forsakring/villa/result
+Disallow: /apple-app-site-association
+Disallow: /.well-known/assetlinks.json
+Disallow: /robots.txt
+
+Sitemap: https://www.compricer.se/sitemap/
+
+#                                           .,************,.
+#                                    *****************************,
+#                               ,**************************************.
+#                            **********************************************
+#                             ********************************************
+#                       ,       ,**************************************.
+#                     ,,,,,.       **********************************
+#                   .,,,,,,,,,       ,****************************.
+#                  ,,,,,,,,,,,,,.       ************************
+#                 ,,,,,,,,,,,,,,,,,       ,******************.
+#                ,,,,,,,,,,,,,,,,,,,,.       **************
+#               .,,,,,,,,,,,,,,,,,,,,,,,       ,********.
+#               ,,,,,,,,,,,,,,,,,,,,,,,,,,.       ****
+#               ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+#              .,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+#               ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,.
+#               ,,,,,,,,,,,,,,,,,,,,,,,,,,,,       /*
+#               ,,,,,,,,,,,,,,,,,,,,,,,,,.      .((((((
+#                ,,,,,,,,,,,,,,,,,,,,,,       /((((((((((/
+#                .,,,,,,,,,,,,,,,,,,       .((((((((((((((((
+#                 .,,,,,,,,,,,,,,,       /((((((((((((((((((((*
+#                   ,,,,,,,,,,,.      .((((((((((((((((((((((((((
+#                    ,,,,,,,,       /((((((((((((((((((((((((((((((*
+#                      ,,,.       (((((((((((((((((((((((((((((((((((#
+#                              /((((((((((((((((((((((((((((((((((((((((*
+#                           .#(((((((((((((((((((((((((((((((((((((((((((((
+#                             *((((((((((((((((((((((((((((((((((((((((((,
+#                                 *(((((((((((((((((((((((((((((((((#,
+#                                      ./((((((((((((((((((((((/.

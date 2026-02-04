@@ -1,0 +1,71 @@
+User-Agent: *
+Disallow: /logga-in*
+Disallow: /mina-sidor*
+Disallow: /nyhetsbrev*
+Disallow: /TSPD*
+Disallow: /bli-prenumerant/kampanj*
+Disallow: /bli-prenumerant/los-in/*
+Disallow: /bli-prenumerant/artikel/*
+Disallow: /artikel/*
+Disallow: /ntm-login*
+
+User-agent: Mb2345Browser
+Disallow: /
+
+User-agent: LieBaoFast
+Disallow: /
+
+User-agent: zh-CN
+Disallow: /
+
+User-agent: MicroMessenger
+Disallow: /
+
+User-agent: zh_CN
+Disallow: /
+
+User-agent: Kinza
+Disallow: /
+
+User-agent: OPPO A33
+Disallow: /
+
+User-agent: Aspeigel
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: Twitterbot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: DeepSeekBot
+Disallow: /
+User-agent: DeepSeek
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: claudebot
+Disallow: /
+User-agent: webizo-extended
+Disallow: /
+User-agent: cohere
+Disallow: /
+User-agent: amazonbot
+Disallow: /
+User-agent: pangubot
+Disallow: /
+User-agent: youbot
+Disallow: /
+User-agent: ccbot
+Disallow: /
+User-agent: meta-agent
+Disallow: /
+
+Sitemap: https://corren.se/sitemap/sitemap-index.xml

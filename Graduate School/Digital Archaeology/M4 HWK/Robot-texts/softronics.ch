@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /deskbar
+Disallow: /de/bestellen/schritt-1
+Disallow: /en/order/step-1
+Disallow: /de/bestellen/schritt-3
+Disallow: /en/order/step-3
+Disallow: /de/order/update/step1
+Disallow: /en/order/update/step1
+Disallow: /de/order/checkDomain
+Disallow: /en/order/checkDomain
+Sitemap: https://www.softronics.ch/sitemap.xml

@@ -1,0 +1,45 @@
+#####################################
+# Robots.txt
+# Stand: 20160615bh
+# Webseite: https://www.th-koeln.de
+#####################################
+
+#####################################
+Sitemap: https://www.th-koeln.de/sitemap.php
+#####################################
+
+#####################################
+# EGOV-20
+#####################################
+User-agent: Portalverbund.NRW
+Allow: /
+
+#####################################
+# Ausschlusz von Seiten
+#####################################
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /admin/
+Disallow: /suche/
+Disallow: /mobility/
+Disallow: /personen/axel.gaertner/
+Disallow: /en/person/axel.gaertner/
+Disallow: /ozg/haertefallauschuss_stupa.php
+Disallow: /ozg/studienbuero.php
+Disallow: /ozg/hochschulbibliothek.php
+Disallow: /ozg/historisches_archiv.php
+Disallow: /en/search/
+
+#####################################
+# Crawler ausschlieszen:
+#####################################
+
+User-agent: WebReaper
+User-agent: WebCopier
+User-agent: Offline Explorer
+User-agent: HTTrack
+User-agent: Microsoft.URL.Control
+User-agent: EmailCollector
+User-agent: penthesilea
+Disallow: /
+

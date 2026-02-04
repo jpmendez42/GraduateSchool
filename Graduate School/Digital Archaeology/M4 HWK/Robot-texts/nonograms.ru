@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /nonogramprint/
+Disallow: /nonograms/size/
+Disallow: /nonograms2/size/
+Disallow: /files/nonograms/stat/
+Disallow: /files/nonograms/small/
+Disallow: /public/
+Disallow: /search
+Disallow: /files/nonograms/large/*_0p.png
+Disallow: /register
+Disallow: /auth
+Disallow: /forgot
+Disallow: /profile
+Disallow: /user
+Disallow: /options
+Disallow: /unrated
+Disallow: /private
+Disallow: /ajax_comments
+
+User-agent: Mediapartners-Google
+Disallow: /nonogramprint/
+Disallow: /files/nonograms/stat/
+Disallow: /files/nonograms/small/
+Disallow: /public/
+Disallow: /register
+Disallow: /auth
+Disallow: /forgot
+Disallow: /profile
+Disallow: /user
+Disallow: /options
+Disallow: /private
+Disallow: /ajax_comments
+
+Host: www.nonograms.ru

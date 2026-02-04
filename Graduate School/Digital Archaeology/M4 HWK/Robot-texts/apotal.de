@@ -1,0 +1,1879 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html id="ie-fallback" lang="de" prefix="og: http://ogp.me/ns#"><![endif]-->
+<!--[if !(IE 7) | !(IE 8)  ]><!-->
+<html lang="de" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width">
+<meta name="author" content="Bad-Apotheke Versandapotheke" >
+<meta property="og:site_name" content="https://shop.apotal.de/">
+<meta property="og:type" content="website">
+<script type="text/javascript">var labels = {};labels['labelAC_productName'] = 'Produkte', labels['labelAC_category'] = 'Kategorien', labels['labelAC_brand'] = 'Hersteller', labels['labelAC_searchTerm'] = 'Suchbegriffe';</script>
+<noscript>
+<meta http-equiv="refresh" content="0; url=https://shop.apotal.de/?nojs=true" />
+</noscript>
+<meta name="viewport" content="width=device-width">
+<title>Bad-Apotheke Versandapotheke</title>
+<meta name="rating" content="GENERAL" >
+<meta name="robots" content="index,follow" >
+<meta property="og:title" content="Bad-Apotheke Versandapotheke">
+<meta property="og:image:width" content="200">
+<meta property="og:image:height" content="200">
+<script type="text/javascript"> var HTTP_PORT = '', HTTPS_PORT = '', shopUrl = 'https://shop.apotal.de', autocompleteURL = 'https://shop.apotal.de/autocomplete', windowURL = window.location + "", addproductAvailabe = 'true', urlRenderMinicart = 'https://shop.apotal.de/renderMinicart', urlAddItem = 'https://shop.apotal.de/additem', urlRenderMicrocart = 'https://shop.apotal.de/renderMicrocart', urlRenderLastSearches = 'https://shop.apotal.de/renderLastSearches', urlRenderLastProducts = 'https://shop.apotal.de/renderLastProducts', urlShowCart = 'https://shop.apotal.de/showcart', urlGPSR = 'https://shop.apotal.de/getManufacturerGPSR', urlGetBICForIBAN = 'https://shop.apotal.de/getBICForIBAN', getBreadcrumbsUrl = 'https://shop.apotal.de/getBreadcrumbsByPzn', eTrackerEcommerceActive = true, isPrudsysActive = false, useFlowplayer = false, isConsentricActive = false, pageType = 'home', productStoreId = 'apotal', showNewsletterPopup = '', getCategoryIdForProductUrl = 'https://shop.apotal.de/getCategoryIdForProduct', enableTrackersUrl = 'https://shop.apotal.de/enableTrackers', disableTrackersUrl = 'https://shop.apotal.de/disableTrackers', enableTrackersBasedOnUserSetting = 'true', linkRezeptFotoMobile = '', linkRezeptFotoMobileLabel = '', informationPopup = 'false', cookiePopupButtonPosition = 'true', urlRezept = 'https://shop.apotal.de/rezept', modifyAndSubmit = "https://shop.apotal.de/modifyAndCheckout", getMultipleProductImagesUrl = 'https://shop.apotal.de/getMultipleProductImages', hasERezeptProducts = 'false', isCartEmpty = 'true', hasRezeptPhotoProducts = 'false', onlyAllowOneSpecialTypePerCart = 'false', lng = '', searchPatternV2 = 'true', searchPatternV2Action = 'https://shop.apotal.de/search'.split(';')[0], noVibrate = 'false', printPrepareMsg = 'Druckvorbereitung...', isLoggedUser = 'false'; renderProductSummaryUrl = 'https://shop.apotal.de/renderProductSummary', getAssociatedStateUrl = 'https://shop.apotal.de/getAssociatedState', isWebtrekkActive = false, inputSearchText = "", labelProductCannotBeAdded = 'Sie können nicht dieses Produkt in den Warenkorb hinzufügen!', minicartContainerId = 'minicartContent', microcartContentId = 'microCart', getFFTrackingUrl = 'https://shop.apotal.de/trackingFactFinder', getFFTrackingOrderCompleteUrl = 'https://shop.apotal.de/trackingFactFinderOrderComplete', checkoutoptionsUrl = 'https://shop.apotal.de/checkoutoptions', renderSimpleContentUrl = 'https://shop.apotal.de/RenderSimpleContent', packstationNameLabel = 'Packstation', packstationPopupURL = 'https://shop.apotal.de/packstation', loadingImage = '/ecommerce/layout/images/loading.gif'; packstationPostNumber = 'PostNummer', postnummerNote = 'CommonPostnummerMinimLenght', packstationNumber = 'Packstation Nr.', firmaLabel = 'Firma', streetLabel = 'Straße', houseNumberLabel = 'Hausnummer'; postfilialeNumberLabel = 'Nummer', postfilialeLabel = 'Postfiliale', postfilialePostnummerLabel = 'Postnummer', quantityByPosition = new Array(); addToCartSuccessMessage = 'wurde in den Warenkorb gelegt', addToCartErrorMessage = 'konnte nicht in den Warenkorb gelegt werden. Der Artikel ist derzeit nicht lieferbar.', txtCookieMessage = '<div class=\"c-ov\"><\/div><div><div class=\"c-t\">COOKIE-EINSTELLUNGEN<\/div> <h1><b>Wir schützen Ihre Daten!<\/b><\/h1>Für die ordnungsgemäße Funktion unserer Website (z.B. Navigation, Warenkorb, Kundenkonto) setzen wir so genannte Cookies ein. Diese sind technisch notwendig, damit unser Shop überhaupt funktioniert. Darüber hinaus helfen uns Cookies, Pixel und vergleichbare Technologien, unsere Website an das von Ihnen bevorzugte Verhalten im Shop anzupassen. Die Informationen darüber, wie Sie unsere Seiten nutzen, setzen wir ein, um den Shop zu optimieren oder z.B. auf Sie zugeschnittene Werbung einblenden zu können. <br><br>Weitergehende Informationen hierzu finden Sie in unserer <a href=\"/datenschutz\">Datenschutzerklärung<\/a> bei dem Unterpunkt <a href=\"/datenschutz#cookie1\">Cookies<\/a>. <br><br>Bitte wählen Sie nachfolgend aus, welche Cookies gesetzt werden dürfen, und bestätigen Sie dies durch \"Auswahl bestätigen\" oder akzeptieren Sie alle Cookies durch \"Alles akzeptieren\": <br><br> <div class=\"wrap-collabsible\"> <input id=\"collapsible2\" class=\"toggle\" type=\"checkbox\"> <label class=\"lbl-toggle\"> <b>Mehr Information<\/b> <\/label><div class=\"collapsible-content\"><div class=\"content-inner\"><br><b>Technisch Notwendig:<\/b> Hierbei handelt es sich um Cookies, die für die Grundfunktionen unserer Website notwendig sind (z.B. Navigation, Warenkorb, Kundenkonto), weshalb auf diese nicht verzichtet werden kann. <br><br> <b>Komfort:<\/b> Diese Cookies werden genutzt um das Einkaufserlebnis noch ansprechender zu gestalten, beispielsweise für die Wiedererkennung des Besuchers oder unsere Seite an bevorzugte Verhaltensweisen (z.B. Spracheinstellung) anzupassen. Komfort-Cookies ermöglichen es uns auch auf Ihre Bedürfnisse zugeschrittene Inhalte anzuzeigen und unser Partnerprogramm zu betreiben. <br><br> <b>Statistik &amp; Tracking:<\/b> Hierüber lassen sich Informationen über die Art und Weise der Nutzung unserer Website sammeln, mit deren Hilfe wir unsere Website weiter für Sie optimieren können, den Inhalt auf unserer Website aber auch die Werbung auf Drittseiten möglichst relevant für Sie zu gestalten. Bitte beachten Sie, dass Daten hierfür teilweise an Dritte wie z.B. Google oder soziale Medien übertragen werden.<\/div><\/div><\/div><br><div class=\"settings\"><div class=\"ci\"><input id=\"tech\" class=\"checkbox\" type=\"checkbox\" checked=\"\" disabled=\"\"> <label for=\"tech\">Technisch erforderlich<\/label><\/div><div class=\"ci\"><input id=\"komf\" class=\"checkbox\" type=\"checkbox\"><label for=\"komf\"><\/label>Komfort<\/div><div class=\"ci\"><input id=\"stats\" class=\"checkbox\" type=\"checkbox\"> <label for=\"stats\"><\/label>Statistik &amp; Tracking<\/div><\/div>', txtCookieLink = 'Nur technisch notwendige Cookies', txtCheckSettings = 'Auswahl bestätigen', txtCookieAcceptAll = 'Alles akzeptieren', txtCookieAcceptNecessary = 'Nur n&ouml;tige Cookies akzeptieren', showAddToCartMessage = false, trackerEnabled = false, trackerEnabledConfort = false, txtInformationPopup = '', informationPopupPage = '', informationPopupShowAlways = ''; if(windowURL.substring(0,5) == 'https'){ if(autocompleteURL.substring(0,5) != 'https'){ autocompleteURL = autocompleteURL.replace("http","https"); } } imgProgressBar = new Image(); imgProgressBar.src = "/apotal/layout/images/addToCartLoader.gif"; imgProgressBar.srcdef = "/apotal/layout/images/blank.gif"; var uploadRezeptFileUrl = 'https://shop.apotal.de/uploadRezeptFile'; var uploadRezeptFileVerifyUrl = 'https://shop.apotal.de/uploadRezeptFileVerify'; var uploadBarcodeScannerResultUrl = 'https://shop.apotal.de/uploadBarcodeScannerResult'; </script> <script type="text/javascript">
+var serverDate = new Date('2025/10/14 00:02:59');
+cookieAgreementExpirationDays=28;
+</script>
+<link rel="stylesheet" href="/apotal/layout/css/main/main.min.css?v=18.09.1" type="text/css"><script src="/ecommerce/images/js/lib/vue.min.js" type="text/javascript" ></script> <script type="text/javascript" src="/apotal/layout/js/shop.min.js?v=18.09.1" ></script> <script>var userCentricsActive = 'false';</script>
+<script type="text/javascript">
+</script>
+<!-- etracker tracklet 5.0 -->
+<script type="text/javascript">
+// var et_pagename = "";
+// var et_areas = "";
+// var et_tval = 0;
+// var et_tsale = 0;
+// var et_tonr = "";
+// var et_basket = "";
+</script>
+<script id="_etLoader" type="text/javascript" charset="UTF-8" data-block-cookies="true" data-ecommerce-grabber="true" data-respect-dnt="true" data-secure-code="3X9dHm" src="//code.etracker.com/code/e.js" async></script>
+<!-- etracker tracklet 5.0 end -->
+<link href="/apotal/layout/images/favicon.ico" rel="Shortcut Icon">
+<link href="/apotal/layout/images/favicon.ico" rel="Shortcut Icon" type="image/x-icon">
+</head>
+<body class="currentView_main emptyCart" itemscope itemtype="http://schema.org/WebPage">
+<button id="contrastToggle" aria-pressed="false" aria-label="Toggle high contrast mode">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M448 256c0-106-86-192-192-192l0 384c106 0 192-86 192-192zM0 256a256 256 0 1 1 512 0A256 256 0 1 1 0 256z" fill="currentColor"/></svg>
+</button>
+
+
+<script>
+    var useEyeAbleContrast = false;
+  document.addEventListener('DOMContentLoaded', () => {
+    const contrastButton = document.getElementById('contrastToggle');
+    const shouldApplyContrast = localStorage.getItem('contrastMode') === 'true';
+    
+    if (shouldApplyContrast) {
+      document.body.classList.add('high-contrast');
+      contrastButton.setAttribute('aria-pressed', 'true');
+    }
+
+    contrastButton.addEventListener('click', () => {
+      if (window.EyeAbleAPI?.toggleContrast && useEyeAbleContrast) {
+        EyeAbleAPI.toggleContrast();
+      } else {
+        const isActive = document.body.classList.toggle('high-contrast');
+        contrastButton.setAttribute('aria-pressed', isActive);
+        localStorage.setItem('contrastMode', isActive);
+      }
+    });
+  });
+</script>
+
+<style>
+#contrastToggle {
+    position: fixed;
+    bottom: 1rem;
+    right: 0.6rem;
+    z-index: 9999;
+    appearance: none;
+    border: 0;
+    background: #000;
+    color: #fff;
+    border-radius: 6px;
+    border: 1px solid #fff;
+    box-shadow: 0px 1px 7px #505050;);
+    width: 38px;
+    height: 38px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#contrastToggle svg {
+    width: 35px;
+    transition-duration: 0.8s;
+    transition-property: transform;
+}
+
+.high-contrast #contrastToggle svg {
+    transform: rotate(90deg);
+}
+
+</style>
+<div class="page">
+<header id="header">
+<script type="Text/Javascript">
+var urlAddress = window.location;
+var pageName = document.title;
+var bookmarkPageKey = 'Drücken Sie STRG + D Seite zu den Favoriten hinzufügen!';
+</script>
+<div class="hgroup">
+<a class="logo" href="https://shop.apotal.de/main"><img class="logo" src="/images/generic_attachments/attachments/apotal/Logo_2024.gif" alt="apotal" /></a>
+<a id="payment_logo" target="_blank" href="/apotal/images/custom_designdata/Zahlung.pdf"><img width="240" height="55" src="/apotal/layout/images/leer.gif" alt="PayPal SOFORT" /></a>
+<ul class="buttons">
+<li class="lnkLogin"><a href="https://shop.apotal.de/checkLogin/main" id="sbtnLogin"><span>Anmelden</span></a></li>
+<li class="lnkContact"><a href="https://shop.apotal.de/kontaktformular"><span>Kontakt</span></a></li>
+<li class="lnkAgb"><a href="https://shop.apotal.de/renderFContent?attachmentId=10333"><span>AGB</span></a></li>
+<li class="lnkDatenschutz"><a href="https://shop.apotal.de/renderFContent?attachmentId=10331"><span>Datenschutz</span></a></li>
+<li class="lnkBarriere"><a href="https://shop.apotal.de/barrierefreiheitserklaerung"><span>Barrierefreiheitserklärung</span></a></li>
+<li class="lnkImpressum"><a href="https://shop.apotal.de/renderFContent?attachmentId=10329"><span>Impressum</span></a></li>
+<li class="lnkPrint"><a onclick="window.print();"><span>Seite drucken</span></a></li>
+</ul>
+<div class="languageFlag">
+<form method="post" name="chooseLanguage" action="https://shop.apotal.de/setSessionLocale/main" class=" selected de">
+<input type="hidden" name="locale" value="de"/>
+<input class="flag availableLocale" type="image" src="/images/svg/flags/normal/de.svg" alt="de" title="de" />
+</form>
+</div>
+</div><div id="microCart" class="minicart">
+<div class="h2">Warenkorb</div>
+<div id="cartcontent" class="minicartInfo">
+<a id="sbtnShowCartImg" href="https://shop.apotal.de/view/showcart" title="Warenkorb/Kasse"></a>
+<span class="cartProduct">
+Anzahl:
+<strong>0</strong>
+</span>
+<span class="cartPrice">
+Preis:
+<strong>0,00 €</strong>
+<span class="includeTaxes">(inkl. MwSt.)</span>
+</span>
+<a id="sbtnShowCart" class="cartLink" href="https://shop.apotal.de/view/showcart"><span>Warenkorb/Kasse<i class="icon-chevron-right"></i></span></a>
+</div>
+<div class="minicartListOverlay">
+
+Der Warenkorb ist leer
+<hr/>
+<div class="freeShipping">Mindestbestellwert 10,- Euro</div>
+
+</div>
+<div class="minicartList">
+
+Der Warenkorb ist leer
+<hr/>
+<div class="freeShipping">Mindestbestellwert 10,- Euro</div>
+
+</div>
+<hr/>
+<div class="freeShipping">Mindestbestellwert 10,- Euro</div>
+<input type="hidden" id="hiddenGrandTotal" value="0,00 €">
+<form id='testForm' name='testForm'><input type="hidden" value=""/></form>
+<script type="text/javascript">
+var microCartReloadFunction = function() {
+window.onbeforeunload = function () {
+microcart.onBeforeUnload();
+}
+var callMicrocartOnLoad = false;
+if (window.jQuery) {
+if (sessionStorage.getItem('wasOnPage') === null){
+jQuery(document).ready(function() {
+microcart.onLoad();
+});
+}
+} else {
+callMicrocartOnLoad = true;
+}
+microcart = {
+cookieName : 'grandTotal',
+skipReloadCookieName: 'skipReloadPage_apotal',
+getMicrocartTotalUrl : 'https://shop.apotal.de/getMicrocartTotal',
+renderMicrocartUrl: 'https://shop.apotal.de/renderMicrocart',
+renderMinicartUrl: 'https://shop.apotal.de/renderMinicart',
+isMicrocartOnPage : function() {
+return window.jQuery ? microcart.validateVisibility(jQuery('#microCart')) : false;
+},
+validateVisibility : function ($actor) {
+if ($actor !== undefined && $actor.length > 0) {
+var visibility = $actor.css('display');
+return (visibility !== undefined && visibility !== 'none');
+}
+return false;
+},
+getPageValue : function () {
+if (window.jQuery) {
+return cart.isCartOnPage() && window.location.href.indexOf('/emptycart') >= 0 ? 0.00 : jQuery('#hiddenGrandTotal').val();
+} else {
+return false;
+}
+},
+getCookieValue : function () {
+return Cookies.get(microcart.cookieName);
+},
+saveValue : function (value) {
+if (areCookiesEnabled() && microcart.getCookieValue() === 'null') {
+microcart.setCookie(value);
+}
+},
+setCookie : function (value) {
+Cookies.set(microcart.cookieName, value, { path: '/' });
+},
+deleteCookie : function () {
+Cookies.set(microcart.cookieName, null, { path: '/' });
+},
+decideRenderMicrocart : function (pageValue, realValue) {
+if (pageValue !== realValue) {
+microcart.reload();
+}
+},
+reload : function () {
+if (cart.isCartOnPage()) {
+try {
+var cartAmount = 0.00,
+pageAmount = window.jQuery ? jQuery('form[name="cartform"] dl.totalPricesList dd.versandkosten').eq(0).text().replace(/€|\s/g, '') : null;
+if(microcart.getCookieValue() !== undefined) {
+cartAmount = parseFloat(microcart.getCookieValue().replace(/€|\s/g, '').replace(/,/g, '.'));
+}
+if ((cartAmount !== 0.00 && !isNaN(cartAmount) && (pageAmount === '' || pageAmount !== cartAmount)) || (cartAmount === 0.00 && pageAmount !== cartAmount)) {
+if (window.location.href.indexOf('/emptycart') < 0 && window.location.href.indexOf('/addListToCart') < 0 
+&& window.location.href.indexOf('/additem/editShoppingList') < 0 && window.location.href.indexOf('/quickAddProductsToCart') < 0) {
+if ('true' === Cookies.get(microcart.skipReloadCookieName)) {
+Cookies.set(microcart.skipReloadCookieName, null, { path: '/' });
+} else {
+if (sessionStorage.getItem('wasOnPage') !== null) {
+window.location = 'https://shop.apotal.de/showcart';
+}
+}
+} else {
+history.replaceState('Object', "emptycart", "showcart");
+}
+}
+} catch (e) {
+console.error(e);
+}
+}
+if (window.jQuery) {
+jQuery('#cart-loading').show();
+}
+renderMicrocart(microcart.renderMicrocartUrl, 'testForm');
+},
+createSkipReloadCookie : function() {
+if (window.jQuery) {
+jQuery('form[name="cartform"] .updateQuantity, form[name="cartform"] .btnDeleteProductFromCart, form[name="addGutschineForm"] .buttonLinks, .addToCart, .btn ').on('click',function() {
+Cookies.set(microcart.skipReloadCookieName, 'true', { path: '/' });
+});
+}
+},
+onLoad : function () {
+if (microcart.isMicrocartOnPage()) {
+if (areCookiesEnabled()) {
+microcart.createSkipReloadCookie();
+microcart.decideRenderMicrocart(microcart.getPageValue(), microcart.getCookieValue());
+microcart.deleteCookie();
+} else {
+if (window.jQuery) {
+jQuery.ajax({
+url : microcart.getMicrocartTotalUrl,
+type : 'POST',
+}).done(function(resp) {
+microcart.decideRenderMicrocart(microcart.getPageValue(), JSON.parse(resp));
+});
+}
+}
+}
+if (typeof sessionStorage !== 'undefined') {
+sessionStorage.setItem('wasOnPage', 'true');
+}
+},
+onBeforeUnload : function () {
+if (microcart.isMicrocartOnPage()) {
+microcart.saveValue(microcart.getPageValue());
+}
+}
+}
+cart = {
+isCartOnPage : function() {
+return typeof pageType !== 'undefined' && 'cart' === pageType;
+}
+}
+microcart.onLoad();
+}
+</script>
+
+</div>
+</header><nav id="nav" aria-label="Menü">
+
+<ul>
+<li><a href="https://shop.apotal.de/view/showcart"><span>Bestellung</span></a></li>
+<li><a href="https://shop.apotal.de/viewprofile"><span>Kundendaten</span></a></li>
+  <li><a class="selected" href="https://shop.apotal.de/main"><span>Ihre Apotheke</span></a></li>
+</ul>
+</nav><aside id="aside-st">
+<div id="smallBoxSearch">
+<div class="h2"><span class="icon"></span>Produkt / Anbieter / Wirkstoff</div>
+<div class="small_box_content">
+<div class="small_box_content_middle">
+
+<form name="keywordsearchform" id="keywordsearchform" method="post" action="https://shop.apotal.de/keywordsearch">
+<dl role="search">
+<dt>
+<input type="text" class="searchWithAutocomplete text" name="SEARCH_STRING_CONTENT" id="SEARCH_STRING_CONTENT" maxlength="50" placeholder="" value=""/>
+<input type="hidden" name="clearSearch" value="Y"/>
+<input type="hidden" name="sortBy" value="default"/>
+<input type="hidden" name="SEARCH_OPERATOR" value="AND"/>
+</dt>
+<dd>
+<button type="submit" class="buttonLinks btnSearch"><span><em>Suchen</em></span></button>
+</dd>
+</dl>
+</form>
+<div class="navSearch"></div>
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+
+<div id="smallBoxCategory">
+<a class="superLnk angebote" href="https://shop.apotal.de/Angebote">Angebote</a>
+<a class="superLnk topseller" href="https://shop.apotal.de/listtopseller">Topseller</a>
+<div class="menuTree jQuery">
+<ul>
+<li class="level01 link">
+<a class="" href="https://shop.apotal.de/neu-bei-uns"> NEU bei uns </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/apothekensortiment"> Apothekensortiment </a></li>
+<li class="level01 link">
+<a class="" href="https://shop.apotal.de/aus-der-tv-werbung"> Aus der TV-Werbung </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/preisknueller"> Preisknüller </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/diaet"> Diät </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/allergie"> Allergie </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/allgemeinbefinden"> Allgemeinbefinden </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/alternative-therapien"> Alternative Therapien </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/augen"> Augen </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/babys-und-kleinkinder"> Babys & Kleinkinder </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/blase-niere-und-prostata"> Blase, Niere & Prostata </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/diabetes"> Diabetes </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/drogeriemarkt"> Drogeriemarkt </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/frau-und-mann"> Frau & Mann </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/fuss-und-nagelpilz"> Fuß- & Nagelpilz </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/geraete-und-tests"> Geräte & Tests </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/geschenkideen"> Geschenkideen </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/gesundes-leben"> gesundes Leben </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/grippale-infekte-und-erkaeltung"> Grippale Infekte & Erkältung </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/haare-und-naegel"> Haare & Nägel </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/hausapotheke"> Hausapotheke </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/heilung-der-haut"> Heilung der Haut </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/herz-kreislauf-und-blut"> Herz, Kreislauf & Blut </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/homecare"> Homecare </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/homoeopathische-mittel"> Homöopathische Mittel </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/immunsystem"> Immunsystem </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/inhalation"> Inhalation </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/inkontinenz"> Inkontinenz </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/insektenschutz"> Insektenschutz </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/kinder"> Kinder </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/kinder-oder-keine"> Kinder oder keine </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/knochen-muskeln-und-gelenke"> Knochen, Muskeln & Gelenke </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/kosmetik"> Kosmetik </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/koerperpflege"> Körperpflege </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/magen-darm-und-leber"> Magen, Darm & Leber </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/markenshops"> Markenshops </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/nahrungsergaenzung"> Nahrungsergänzung </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/nase"> Nase </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/naturheilkunde"> Naturheilkunde </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/naturkosmetik"> Naturkosmetik </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/nerven-gedaechtnis-und-gemuet"> Nerven, Gedächtnis & Gemüt </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/ohren"> Ohren </a></li>
+<li class="level01 link">
+<a class="" href="https://shop.apotal.de/pflanzliche-arzneimittel"> Pflanzliche Arzneimittel </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/praxisbedarf"> Praxisbedarf </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/raucherentwoehnung"> Raucherentwöhnung </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/reise"> Reise </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/schlaf-und-beruhigung"> Schlaf & Beruhigung </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/schmerzmittel"> Schmerzmittel </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/sonnenschutz"> Sonnenschutz </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/spezialnahrung"> Spezialnahrung </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/sport-und-freizeit"> Sport & Freizeit </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/tee"> Tee </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/themen-welten"> Themen-Welten </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/tiergesundheit-und-tierbedarf"> Tiergesundheit & Tierbedarf </a></li>
+<li class="level01 link">
+<a class="" href="https://shop.apotal.de/vegan-vegetarisch"> Vegan - vegetarisch </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/venen-und-arterien"> Venen & Arterien </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/vitamine-und-mineralien"> Vitamine & Mineralien </a></li>
+<li class="level01 group">
+<a class="" href="https://shop.apotal.de/zahn-und-mundpflege"> Zahn- & Mundpflege </a></li>
+</ul>
+</div>
+</div><div id="flexibleLeftContent_10302" class="flexibleLeftContent flexibleLeftContent_10302 ">
+<div class="small_box_content wihtoutTitle"> <div class="small_box_content_middle">
+<br />
+<br/>
+<br/>
+<p>
+<a href="/markenshops">
+<img src="/images/generic_attachments/attachments/apotal/links/Markenshop_alle.jpg" alt="Markenshops" width="190" height="40" />
+</a>
+</p>
+<p>
+        <img style="border-style: initial; border-color: initial; text-align: left;" src="/images/generic_attachments/attachments/apotal/markenshops.jpg" alt="Markenshops" />
+</p>
+<table border="0">
+         <tbody>
+                 <tr>
+                         <td>
+                                 <a href="/dermasence">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/dermasence_button.jpg" alt="Dermasence" width="94" height="35" />
+                                 </a>
+                         </td>
+<td>
+                                 <a href="/biolectra">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/biolectra_button.jpg" alt="Biolectra" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/ratiopharm">
+                                         <img src="/images/generic_attachments/attachments/apotal/ratiopharm_button1.jpg" alt="Ratiopharm" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/eucerin">
+                                         <img src="/images/generic_attachments/attachments/apotal/eucerin_button1.jpg" alt="Eucerin" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/orthomol">
+                                         <img src="/images/generic_attachments/attachments/apotal/orthomol_button.jpg" alt="Orthomol" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/bausch-lomb">
+                                         <img src="/images/generic_attachments/attachments/apotal/bausch_button1.jpg" alt="Bausch+Lomb" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/klosterfrau">
+                                         <img src="/images/generic_attachments/attachments/apotal/klosterfrau_button1.jpg" alt="Klosterfrau" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/bachblueten-original-rescue">
+                                         <img src="/images/generic_attachments/attachments/apotal/nelsons_button1.jpg" alt="Nelsons" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/dobendan">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/dobendan_button.jpg" alt="Dobendan" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/hevert">
+                                         <img src="/images/generic_attachments/attachments/apotal/hevert_button1.jpg" alt="Hevert" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/quiris-healthcare">
+                                         <img src="/images/generic_attachments/attachments/apotal/quiris_button1.jpg" alt="Quiris" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/olynth">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/olynth_button.jpg" alt="Olynth" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/magnesium-diasporal">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/diasporal_button.jpg" alt="Diasporal" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/clearblue-und-persona">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/persona.jpg" alt="Persona" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/orthim">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/orthim_button.jpg" alt="Orthim" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/hysan">
+                                         <img src="/images/generic_attachments/attachments/apotal/hysan_button.jpg" alt="Hysan" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/hansaplast">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/hansaplast_button.jpg" alt="Hansaplast" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/vichy">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/vichy_button.jpg" alt="VICHY" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/bepanthol">
+                                         <img src="/images/generic_attachments/attachments/apotal/bepanthol_button1.jpg" alt="Bepanthol" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/avene">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/avene_button.jpg" alt="Avene" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/zinkmangel">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/zinkorotat_button.jpg" alt="Zinkorotat" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/la-roche-posay">
+                                         <img src="/images/generic_attachments/attachments/apotal/lrp_button.jpg" alt="La Roche Posay" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/zein-pharma">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/zeinpharma_button.jpg" alt="Zein Pharma" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/excipial">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/excipial_button.jpg" alt="Excipial" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/lierac">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/lierac_button.jpg" alt="Lierac" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/tebonin">
+                                         <img src="/images/generic_attachments/attachments/apotal/tebonin_button1.jpg" alt="Tebonin" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/aronia">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/aronia_button.jpg" alt="aronia+" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/wick">
+                                         <img src="/images/generic_attachments/attachments/apotal/wick_button.jpg" alt="WICK" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/markenshops-dhu">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/dhu_button.jpg" alt="DHU" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/markenshops-doppelherz">
+                                         <img src="/images/generic_attachments/attachments/apotal/doppelherz_button.jpg" alt="Doppelherz" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/femibion">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/femibion_button.jpg" alt="Femibion" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/ursapharm">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/hylocomod_button.jpg" alt="HYLO-COMOD" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/mucosolvan">
+                                         <img src="/images/generic_attachments/attachments/apotal/mucosolvan_button.jpg" alt="Mucosolvan" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/murnauers-bachblueten">
+                                         <img src="/images/generic_attachments/attachments/apotal/murnauers_button.jpg" alt="Murnauers Bachbl ten" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/medipharma">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/medipharma_button.jpg" alt="medipharma" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/cetaphil-sun">
+                                         <img src="/images/generic_attachments/attachments/apotal/cetaphil_sun_button.jpg" alt="Cetaphil Sun" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/fenistil">
+                                         <img src="/images/generic_attachments/attachments/apotal/fenistil_button.jpg" alt="Fenistil" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/phyto">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/phyto_button.jpg" alt="Phyto" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/naturheilkunde-weleda">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/weleda_button.jpg" alt="Weleda" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/hexal">
+                                         <img src="/images/generic_attachments/attachments/apotal/hexal_button.jpg" alt="Hexal" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/antistax">
+                                         <img src="/images/generic_attachments/attachments/apotal/antistax_button.jpg" alt="Antistax" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/ladival">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/ladival_button.jpg" alt="Ladival" width="94" height="35"/>
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+                         <td>
+                                 <a href="/aliud-pharma">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/aliud_button.jpg" alt="Aliud" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/heumann">
+                                         <img src="/images/generic_attachments/attachments/apotal/heumann_button.jpg" alt="Heumann Pharma" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+                 <tr>
+<td>
+                                 <a href="/einfach-sparen-1a-pharma">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/1a_button.jpg" alt="1a Pharma" width="94" height="35" />
+                                 </a>
+                         </td>
+                         <td>
+                                 <a href="/regaine">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/regaine_button.jpg" alt="Regaine" width="94" height="35" />
+                                 </a>
+                         </td>
+                 </tr>
+<tr>
+<td>
+                                 <a href="/granu-fink">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/granu_fink_button.jpg" alt="Granu Fink" width="94" height="35" />
+                                 </a>
+                         </td>
+<td>
+                                 <a href="/wobenzym">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/wobenzym_button.jpg" alt="Wobenzym" width="94" height="35" />
+                                 </a>
+                         </td>
+</tr>
+<tr>
+<td>
+                                 <a href="/omni-biotic">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/omnibiotic_button.jpg" alt="OmniBiotic" width="94" height="35" />
+                                 </a>
+</td>
+<td>
+<a href="/unizink">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/unizink_button.jpg" alt="Unizink" width="94" height="35" />
+                                 </a>
+                         </td>
+</tr>
+<tr>
+<td>
+                                 <a href="/biotta">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/biotta_button.jpg" alt="Biotta" width="94" height="35" />
+                                 </a>
+</td>
+<td>
+                                 <a href="/abitima">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/abitima.jpg" alt="Abitima" width="94" height="35" />
+                                 </a>
+</td>
+</tr>
+<tr>
+<td>
+                                 <a href="/clearblue-schwangerschaftstest">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/clearblue_schwangerschaftstest.jpg" alt="Clearblue Schwangerschaftstest" width="94" height="35" />
+                                 </a>
+</td>
+<td>
+                                 <a href="/clearblue-ovulationstest">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/clearblue_ovulationstest.jpg" alt="Clearblue Ovulationstest" width="94" height="35" />
+                                 </a>
+</td>
+
+</tr>
+<tr>
+<td>
+                                 <a href="/pascoe-naturmedizin">
+                                         <img src="/images/generic_attachments/attachments/apotal/links/pascoe.jpg" alt="Pascoe" width="94" height="35" />
+                                 </a>
+</td>
+
+
+
+</tr>
+         </tbody>
+</table>
+<br />
+<br />
+<br />
+
+
+
+<p> </p>
+<p> </p>
+<table border="0">
+        <tbody>
+<tr height="78px">
+<td>
+<center>
+                                <a rel="nofollow" href="https://www.facebook.com/apotal" title="Facebook" target="_blank">
+                                        <img src="/images/generic_attachments/attachments/apotal/startseite/facebook.jpg" alt="Facebook" width="60" height="60">
+                                </a>
+</center>
+</td>
+
+<td>
+<center>
+<a rel="nofollow" href="https://www.medizinfuchs.de/" target="_blank"><img src="https://medizinfuchs.de/medizinfuchs-siegel-70/id/51" border="0" alt="medizinfuchs.de Partner-Apotheke" height="61" /></a>
+</center>
+                                 
+</td>
+
+</tr>
+                <tr style="height:69px;">
+                        <td>
+                                <a rel="nofollow" href="https://www.bvdva.de/bundesverband/mitgliederliste" target="_blank">
+                                        <img title="Mitglied BVDVA" src="/images/generic_attachments/attachments/apotal/startseite/bvdva_2013.jpg" alt="bvdva" width="86" height="31" />
+                                </a>
+                        </td>
+<!--
+<td>
+<a rel="nofollow" href="http://www.deutschlandsbesteshops.de/shopdetails/items/apotalde.html" target="_blank" alt="Beste Shops">
+<img title="Beste Shops" src="/images/generic_attachments/attachments/apotal/beste_shops.gif" />
+</a>
+</td>
+
+
+                </tr>
+                <tr height="91px">
+                        <td style="margin-top:10px;">
+<center>
+                                <img src="/images/generic_attachments/attachments/apotal/wz101118.jpg" alt="wz101118.jpg" width="80" height="70" />
+</center>
+
+                        </td>
+-->
+<td>
+<center>
+                                        <img src="/images/generic_attachments/attachments/apotal/startseite/vergleich_shop5.jpg" alt="Vergleich.org" width="91" height="91">
+</center>
+
+        </tbody>
+</table>
+
+<!--  billiger.de Partner button -->
+          <a href="https://www.billiger.de" target="_blank" rel="noopener">
+            <img
+              src="https://cdn.billiger.com/partnerbutton/8353"
+              alt="billiger.de - der Preisvergleich"
+              title="billiger.de - der Preisvergleich"
+            >
+          </a>
+        <!--  / billiger.de Partner button with Shop reviews -->
+
+<br/>
+<br/>
+<div style="position: relative; text-align: center;">
+        <a href="https://versandhandel.dimdi.de/websearch/servlet/Gate?accessid=dimdi_var&term=facfac26da5708faeb015df5aae2bea0">
+         <img style="z-index: 1" src="//versandhandel.dimdi.de/img/logo.png" alt="Link zum Versandhandels-Register"  height="150" /> 
+ </a>
+</div>
+<a rel="nofollow" href="https://versandhandel.dimdi.de/websearch/servlet/Gate?accessid=dimdi_var&term=facfac26da5708faeb015df5aae2bea0"> </a>
+
+
+<br/>
+<br/>
+<div style="position: relative; text-align: center;">
+        <a href="https://www.bvl.bund.de/DE/Arbeitsbereiche/05_Tierarzneimittel/02_Verbraucher/07_Haendlerregister/05_Tabelle/tam_haendler_node.html#TAM-H-129">
+         <img src="/images/generic_attachments/attachments/apotal/startseite/logo_vet.png" alt="Logo Tierarzneimittel" width="180" height="150"></a>
+</div>
+
+
+
+</div> <div class="small_box_content_bottom"></div> </div>
+</div>
+<div id="flexibleLeftContent_10363" class="flexibleLeftContent flexibleLeftContent_10363 ">
+<div class="small_box_content wihtoutTitle"> <div class="small_box_content_middle">
+
+
+</div> <div class="small_box_content_bottom"></div> </div>
+</div>
+
+</aside><section id="container" class="container-main" role="main">
+<div id="content_container">
+<div id="content">
+<div id="ajax_errors_container"></div>
+
+
+<div class="mainFcontent ">
+<link rel="stylesheet" type="text/css" href="/images/generic_attachments/attachments/apotal/custom_design_apotal.css">
+<div id="custom_welcome" style="float:left;max-width:100%;">
+<div id="custom_welcome_image">
+<img title="begruessung_01.jpg" src="/images/generic_attachments/attachments/apotal/begruessung_01.jpg" alt="begruessung_01.jpg" />
+</div>
+<div id="custom_welcome_text" style="font-family: Verdana; color: #666666; font-size: 13px;">
+<p style="margin:10px;">
+<span style="font-weight:bold;line-height: 18px;">
+Willkommen bei Apotal, Ihrer g&uuml;nstigen Versandapotheke.
+</span>
+</p>
+<p style="margin:10px;">
+<span style="line-height: 18px;">
+Wir f&uuml;hren nahezu das <span style="font-weight:bold;">gesamte Apothekensortiment</span>, auch seltene Arzneien k&ouml;nnen Sie bei uns bestellen, wie in jeder anderen Apotheke.
+</span>
+</p>
+</div>
+</div>
+<div id="custom_service" style="float:left;width:100%;margin-top:10px; margin-bottom:10px; float:left;">
+<div class="custom_full_len" style="float:left;font-family: Verdana; color: #666666; font-size: 13px; line-height:20px;font-weight:bold;">
+Medikamentenversand: 
+</div>
+<div class="custom_full_len" style="float:left;font-family: Verdana; color: #666666; font-size: 13px; line-height:20px;font-weight:bold;">
+schnell > diskret > zuverl&auml;ssig > kosteng&uuml;nstig
+</div>
+
+
+
+
+<div class="custom_banner">
+<a class="custom_banner_a" href="/e-rezept" title="E-Rezept">
+<img alt="E-Rezept" src="/images/generic_attachments/attachments/apotal/startseite/e_rezept_start.png" />
+</a>
+</div>
+
+
+
+<div class="custom_banner">
+<a class="custom_banner_a" href="/drogeriemarkt" title="apotal Drogerieangebote">
+<img alt="Drogerieangebote" src="/images/generic_attachments/attachments/apotal/startseite/drogerie_oktober.png" />
+</a>
+<div class="custom_banner_right">
+<a href="/drogerieangebote" title="Angebot des Monats">__</a>
+</div>
+</div>
+
+
+
+<div class="custom_banner">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=orthomol%20immun" title="orthomol immun">
+<img alt="orthomol immun" src="/images/generic_attachments/attachments/apotal/startseite/orthomol_immun_start.png" />
+</a>
+</div>
+<div class="custom_banner">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=dolormin%20frauen" title="Dolormin&reg; f&uuml;r Frauen">
+<img alt="Dolormin&reg; f&uuml;r Frauen" src="/images/generic_attachments/attachments/apotal/startseite/dolormin_frauen_start.png" />
+</a>
+<div class="custom_banner_right">
+<a href="/images/generic_attachments/attachments/apotal/pflichttext/dolormin_frauen_pflichttext.pdf" target="_blank" title="Pflichttext Dolormin&reg; f&uuml;r Frauen">__</a>
+</div>
+</div>
+<div class="custom_banner">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=dhu%20schuessler" title="DHU Sch&uuml;&szlig;ler-Salze">
+<img alt="DHU Sch&uuml;&szlig;ler-Salze" src="/images/generic_attachments/attachments/apotal/startseite/dhu_schuessler_start.png" />
+</a>
+<div class="custom_banner_right">
+<a href="/images/generic_attachments/attachments/apotal/pflichttext/dhu_schuesslersalze_pflichttext.pdf" target="_blank" title="Pflichttext DHU Sch&uuml;&szlig;ler-Salze">__</a>
+</div>
+</div>
+<div class="custom_banner">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=priorin%20bayer" title="Priorin&reg;">
+<img alt="Priorin&reg;" src="/images/generic_attachments/attachments/apotal/startseite/priorin_start.png" />
+</a>
+</div>
+<div class="custom_banner">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=vigantolvit" title="VIGANTOLVIT">
+<img alt="VIGANTOLVIT" src="/images/generic_attachments/attachments/apotal/startseite/vigantolvit_start.png" />
+</a>
+</div>
+<div class="custom_banner">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=eucerin%20anti%20pigment" title="Eucerin&reg;">
+<img alt="Eucerin&reg;" src="/images/generic_attachments/attachments/apotal/startseite/euceri_antipigment_start.png" />
+</a>
+</div>
+
+
+
+
+
+<div class="custom_banner">
+<div class="custom_banner_half">
+<a href="/keywordsearch/?SEARCH_STRING_CONTENT=gelorevoice">
+<img title="Gelorevoice" src="/images/generic_attachments/attachments/apotal/startseite/gelorevoice_start_klein.png" alt="Gelorevoice" />
+</a>
+</div>
+<div class="custom_banner_half_trenner">&nbsp;</div>
+<div class="custom_banner_half">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=multilind%20heilsalbe" title="Multilind&reg;">
+<img src="/images/generic_attachments/attachments/apotal/startseite/multilind_start_klein.png" alt="Multilind&reg;" />
+</a>
+<div class="custom_banner_right">
+<a href="/images/generic_attachments/attachments/apotal/pflichttext/multilind_pflichttext.pdf" target="_blank" title="Pflichttext Multilind&reg;">__</a>
+</div>
+</div>
+</div>
+<div class="custom_banner">
+<div class="custom_banner_half">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=floradix%20eisen" title="Floradix mit Eisen">
+<img src="/images/generic_attachments/attachments/apotal/startseite/floradix_eisen_start_klein.png" alt="Floradix mit Eisen" />
+</a>
+<div class="custom_banner_right">
+<a href="/images/generic_attachments/attachments/apotal/pflichttext/floradix_eisen_pflichttexte.pdf" target="_blank" title="Pflichttext Floradix mit Eisen">__</a>
+</div>
+</div>
+<div class="custom_banner_half_trenner">&nbsp;</div>
+<div class="custom_banner_half">
+<a class="custom_banner_a" href="/kytta-schmerzsalbe-waermecreme" title="Kytta&reg; Cashback">
+<img src="/images/generic_attachments/attachments/apotal/startseite/kytta30_start_klein.png" alt="Kytta&reg; Cashback;" />
+</a>
+<div class="custom_banner_right">
+<a href="/images/generic_attachments/attachments/apotal/pflichttext/kytta_schmerzsalbe_pflichttext.pdf" target="_blank" title="Pflichttext Kytta&reg;">__</a>
+</div>
+</div>
+</div>
+<div class="custom_banner">
+<div class="custom_banner_half">
+<a href="/keywordsearch/?SEARCH_STRING_CONTENT=multilac%20unilab">
+<img title="MULTILAC&reg;" src="/images/generic_attachments/attachments/apotal/startseite/multilac_start_klein.png" alt="MULTILAC&reg;" />
+</a>
+</div>
+<div class="custom_banner_half_trenner">&nbsp;</div>
+<div class="custom_banner_half">
+<a class="custom_banner_a" href="/keywordsearch/?SEARCH_STRING_CONTENT=benzaknen" title="Benzaknen&reg;">
+<img src="/images/generic_attachments/attachments/apotal/startseite/benzaknen_start_klein.png" alt="Benzaknen&reg;" />
+</a>
+<div class="custom_banner_right">
+<a href="/images/generic_attachments/attachments/apotal/pflichttext/benzaknen_pflichttext.pdf" target="_blank" title="Pflichttext Benzaknen&reg;">__</a>
+</div>
+</div>
+</div>
+
+
+
+<!--
+
+<div class="custom_themenwelten_text">
+<p>Unsere Themenwelten</p>
+</div>
+<div class="custom_banner">
+<div class="custom_banner_half">
+<a href="/keywordsearch/?SEARCH_STRING_CONTENT=gelorevoice">
+<img title="GeloRevoice" src="/images/generic_attachments/attachments/apotal/startseite/heiserkeit_themenshop.png" alt="GeloRevoice" />
+</a>
+</div>
+<div class="custom_banner_half_trenner">&nbsp;</div>
+<div class="custom_banner_half">
+<a href="/keywordsearch/?SEARCH_STRING_CONTENT=milgamma%20protect">
+<img title="milgamma&reg;" src="/images/generic_attachments/attachments/apotal/startseite/diabetes_milgamma_themenshop.png" alt="milgamma&reg;" />
+</a>
+</div>
+</div>
+<div class="custom_banner">
+<div class="custom_banner_half">
+<a href="/keywordsearch/?SEARCH_STRING_CONTENT=nuxe%20reve%20de%20miel">
+<img title="NUXE Reve de Miel" src="/images/generic_attachments/attachments/apotal/startseite/trockenehaut_themenshop.png" alt="NUXE Reve de Miel" />
+</a>
+</div>
+<div class="custom_banner_half_trenner">&nbsp;</div>
+<div class="custom_banner_half">
+<a href="/keywordsearch/?SEARCH_STRING_CONTENT=b12%20ankermann%20worwag">
+<img title="B12 Ankermann" src="/images/generic_attachments/attachments/apotal/startseite/vitaminb12_ankermann_themenshop.png" alt="B12 Ankermann" />
+</a>
+</div>
+</div>
+
+-->
+
+
+
+<div class="custom_vorteil">
+<div class="custom_vorteil_list">
+<span class="custom_vorteil_list_bold">
+Unser Vorteil f&uuml;r Sie:
+</span>
+</div>
+<ul class="custom_vorteil_list" style="list-style:none;">
+<li><span class="custom_vorteil_list_red1 custom_vorteil_list_big">20%* Basisrabatt </span>auf fast <span class="custom_vorteil_list_bold">alle</span> freiverk&auml;uflichen Arzneimittel</li>
+<li>Angebote sogar bis zu <span class="custom_vorteil_list_red1 custom_vorteil_list_big">70%* </span></li>
+<li>Wir liefern innerhalb Deutschlands  <span class="custom_vorteil_list_bold">versandkostenfrei</span> <span class="custom_vorteil_list_small">bei einem Mindestbestellwert von 10,- Euro.</span></li>
+<li>F&uuml;r jeden geworbenen Neukunden, der f&uuml;r mindestens 30 Euro nicht verschreibungspflichtige Produkte bestellt (ausgenommen B&uuml;cher), erhalten Sie <a href="/images/generic_attachments/attachments/apotal/neukundenwerbung.pdf" target="_blank"><span class="custom_vorteil_list_bold">10 Euro</span></a> Pr&auml;mie. <span class="custom_vorteil_list_small">Bitte haben Sie Verst&auml;ndnis, dass die Bearbeitungszeit aufgrund der gro&szlig;en Nachfrage, einige Zeit in Anspruch nehmen kann. </span></li>
+<li>Fordern Sie f&uuml;r die Einsendung von Rezepten <a href="/freiumschlage">Freiumschl&auml;ge</a> an</li>
+</ul>
+</div>
+<div class="custom_vorteil">
+<div class="custom_vorteil_list">
+<span class="custom_vorteil_list_bold custom_vorteil_list_red1">
+Einfach bestellen:
+</span>
+</div>
+<ul class="custom_vorteil_list" style="list-style:none;">
+<li>hier im Internetshop nach einmaliger Registrierung</li>
+<li>unter der kostenfreien Rufnummer <strong>0800-10 11 422</strong></li>
+<li>per eMail an <a href="mailto:info@bad-apotheke.com">info@bad-apotheke.com</a></li>
+<li>oder per Fax an die <strong>05424 - 21 64 47</strong></li>
+</ul>
+</div>
+<div class="custom_vorteil">
+<div class="custom_vorteil_list">
+<span class="custom_vorteil_list_bold">
+Unsere Kompetenzzentren helfen Ihnen gerne in Sachen
+</span>
+</div>
+<ul class="custom_vorteil_list" style="list-style:none;">
+<li style="display: inline;">Diabetes</li>
+<li style="display: inline;margin-left:15px;"><a href="/renderFContent?attachmentId=10361" target="_blank">Naturheilkunde</a></li>
+<li style="display: inline;margin-left:15px;;">Inkontinenz</li>
+</ul>
+</div>
+<div class="custom_themenwelten_text">
+<p>Unsere Angebote der Woche</p>
+</div>
+
+<!--
+
+
+<div class="custom_banner">
+<a href="/avene-happy30" title="AV&Egrave;NE #happy30">
+<img title="AV&Egrave;NE #happy30" src="/images/generic_attachments/attachments/apotal/startseite/avene_happy30_start.png" alt="AV&Egrave;NE #happy30" />
+</div>
+
+
+
+<div class="custom_banner">
+<a href="/ensbona-gewinnspiel" title="Gewinnspiel Ensbona">
+<img title="Gewinnspiel Ensbona" src="/images/generic_attachments/attachments/apotal/startseite/ensbona_i_watch_start.png" alt="Gewinnspiel Ensbona" />
+</div>
+
+
+-->
+
+
+
+<div class="erx-popup" style="display:none"><div class="erx-popup-content" style="width: auto;"><a class="erx-close"></a> <img src="
+/images/generic_attachments/attachments/apotal/apotal_start_500x250.jpg"> <a href="/e-rezept" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;z-index: 1;"></a> </div> </div>
+
+
+
+<script>
+                        jQuery(".erx-close, .erx-popup").on("click touchstop", e=>{
+                            sessionStorage.setItem("hide-rx-popup", "1");
+                            jQuery(".erx-popup").hide();
+                        }
+                        );
+
+                        if (!sessionStorage.getItem("hide-rx-popup")) {
+                            jQuery(".erx-popup").show();
+                        }
+</script>
+
+</div>
+
+
+
+<div id="categoryListDetail" class="grid">
+<div itemscope itemtype="http://schema.org/Product" id="product-09440195" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/imidin-n-nasenspray-09440195" itemprop="url"> IMIDIN N Nasenspray <span> 15 ml </span> <span class="productForm">Nasenspray</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_09440195_1760389964370"> <a href="https://shop.apotal.de/imidin-n-nasenspray-09440195" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/09440195_k.jpg"> <img src="/images/products/apotal/klein/09440195_k.jpg" alt="IMIDIN N Nasenspray" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150009440195" /> <meta itemprop="sku" content="09440195" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="17760">Anbieter:</dt> <dd class="producer" ifa-nr="17760" itemprop="brand">Aristo Pharma GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">09440195</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 15 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Nasenspray<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/imidin-n-nasenspray-09440195?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">1</span> </span> </a> </div> </dd> <dt class="listPrice">AVP<span>***</span></dt> <dd class="listPrice">5,97 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">2,89 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>3,08 €</span><span class="percent"> <em>(</em>52%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>192,67 €</span> pro 1 l<em>)</em></dd> <dt class="maxQuantity">Max. Abgabe:</dt> <dd class="maxQuantity">3</dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="2.89"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart577874_1760389964363form"> <input type="hidden" name="add_product_id" value="09440195"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964363" onclick="get(document.cart577874_1760389964363form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart577874_1760389964363form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/imidin-n-nasenspray-09440195" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-13352373" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/vitamin-b-komplex-ratiopharm-kapseln-13352373" itemprop="url"> VITAMIN B-KOMPLEX-ratiopharm Kapseln <span> 120 St </span> <span class="productForm">Kapseln</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_13352373_1760389964383"> <a href="https://shop.apotal.de/vitamin-b-komplex-ratiopharm-kapseln-13352373" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/13352373_k.jpg"> <img src="/images/products/apotal/klein/13352373_k.jpg" alt="VITAMIN B-KOMPLEX-ratiopharm Kapseln" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150013352373" /> <meta itemprop="sku" content="13352373" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="25137">Anbieter:</dt> <dd class="producer" ifa-nr="25137" itemprop="brand">ratiopharm GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">13352373</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 120 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Kapseln<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/vitamin-b-komplex-ratiopharm-kapseln-13352373?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">2</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">41,94 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">22,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>18,95 €</span><span class="percent"> <em>(</em>45%<em>)</em></span> </dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="22.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart905528_1760389964377form"> <input type="hidden" name="add_product_id" value="13352373"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964377" onclick="get(document.cart905528_1760389964377form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart905528_1760389964377form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/vitamin-b-komplex-ratiopharm-kapseln-13352373" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-08454700" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/eucerin-atopicontrol-lotion-08454700" itemprop="url"> EUCERIN AtopiControl Lotion <span> 400 ml </span> <span class="productForm">Lotion</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_08454700_1760389964395"> <a href="https://shop.apotal.de/eucerin-atopicontrol-lotion-08454700" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/08454700_k.jpg"> <img src="/images/products/apotal/klein/08454700_k.jpg" alt="EUCERIN AtopiControl Lotion" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150008454700" /> <meta itemprop="sku" content="08454700" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="4472">Anbieter:</dt> <dd class="producer" ifa-nr="4472" itemprop="brand">Beiersdorf AG Eucerin</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">08454700</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 400 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Lotion<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/eucerin-atopicontrol-lotion-08454700?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">9</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">26,95 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">18,19 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>8,76 €</span><span class="percent"> <em>(</em>33%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>45,48 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="18.19"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart644605_1760389964389form"> <input type="hidden" name="add_product_id" value="08454700"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964389" onclick="get(document.cart644605_1760389964389form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart644605_1760389964389form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/eucerin-atopicontrol-lotion-08454700" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-02787783" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/sedariston-konzentrat-hartkapseln-02787783" itemprop="url"> SEDARISTON Konzentrat Hartkapseln <span> 100 St </span> <span class="productForm">Hartkapseln</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_02787783_1760389964407"> <a href="https://shop.apotal.de/sedariston-konzentrat-hartkapseln-02787783" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/02787783_k.jpg"> <img src="/images/products/apotal/klein/02787783_k.jpg" alt="SEDARISTON Konzentrat Hartkapseln" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150002787783" /> <meta itemprop="sku" content="02787783" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="17760">Anbieter:</dt> <dd class="producer" ifa-nr="17760" itemprop="brand">Aristo Pharma GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">02787783</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 100 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Hartkapseln<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/sedariston-konzentrat-hartkapseln-02787783?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">4</span> </span> </a> </div> </dd> <dt class="listPrice">AVP<span>***</span></dt> <dd class="listPrice">31,99 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">18,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>13,00 €</span><span class="percent"> <em>(</em>41%<em>)</em></span> </dd> <dt class="artvfl1">MHD:</dt> <dd class="artvfl1">10/2026</dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="18.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart35127_1760389964402form"> <input type="hidden" name="add_product_id" value="02787783"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964402" onclick="get(document.cart35127_1760389964402form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart35127_1760389964402form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/sedariston-konzentrat-hartkapseln-02787783" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-08636252" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/symbioflor-2-suspension-08636252" itemprop="url"> SYMBIOFLOR 2 Suspension <span> 2X50 ml </span> <span class="productForm">Suspension</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_08636252_1760389964420"> <a href="https://shop.apotal.de/symbioflor-2-suspension-08636252" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/08636252_k.jpg"> <img src="/images/products/apotal/klein/08636252_k.jpg" alt="SYMBIOFLOR 2 Suspension" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150008636252" /> <meta itemprop="sku" content="08636252" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="7283">Anbieter:</dt> <dd class="producer" ifa-nr="7283" itemprop="brand">Klinge Pharma GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">08636252</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 2X50 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Suspension<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/symbioflor-2-suspension-08636252?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">1</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">35,02 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">22,89 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>12,13 €</span><span class="percent"> <em>(</em>35%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>228,90 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="22.89"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart33232_1760389964414form"> <input type="hidden" name="add_product_id" value="08636252"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964414" onclick="get(document.cart33232_1760389964414form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart33232_1760389964414form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/symbioflor-2-suspension-08636252" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-14163929" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/eucerin-anti-pigment-dual-serum-14163929" itemprop="url"> EUCERIN Anti-Pigment Dual Serum <span> 30 ml </span> <span class="productForm">Creme</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_14163929_1760389964433"> <a href="https://shop.apotal.de/eucerin-anti-pigment-dual-serum-14163929" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/14163929_k.jpg"> <img src="/images/products/apotal/klein/14163929_k.jpg" alt="EUCERIN Anti-Pigment Dual Serum" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150014163929" /> <meta itemprop="sku" content="14163929" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="4472">Anbieter:</dt> <dd class="producer" ifa-nr="4472" itemprop="brand">Beiersdorf AG Eucerin</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">14163929</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 30 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Creme<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/eucerin-anti-pigment-dual-serum-14163929?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">64</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">46,45 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">29,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>16,46 €</span><span class="percent"> <em>(</em>35%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>999,67 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="29.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1041794_1760389964427form"> <input type="hidden" name="add_product_id" value="14163929"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964427" onclick="get(document.cart1041794_1760389964427form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1041794_1760389964427form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/eucerin-anti-pigment-dual-serum-14163929" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-12472514" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/basica-direkt-basische-mikroperlen-12472514" itemprop="url"> BASICA direkt basische Mikroperlen <span> 80 St </span> <span class="productForm">Granulat</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_12472514_1760389964444"> <a href="https://shop.apotal.de/basica-direkt-basische-mikroperlen-12472514" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/12472514_k.jpg"> <img src="/images/products/apotal/klein/12472514_k.jpg" alt="BASICA direkt basische Mikroperlen" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150012472514" /> <meta itemprop="sku" content="12472514" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="23860">Anbieter:</dt> <dd class="producer" ifa-nr="23860" itemprop="brand">Protina Pharmazeutische GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">12472514</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 80 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Granulat<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" > <a href="https://shop.apotal.de/basica-direkt-basische-mikroperlen-12472514?showReviewSection=true"> <span class="rank"> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <span class="reviewers" >0</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">41,90 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">28,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>12,91 €</span><span class="percent"> <em>(</em>31%<em>)</em></span> </dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="28.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart861284_1760389964439form"> <input type="hidden" name="add_product_id" value="12472514"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964439" onclick="get(document.cart861284_1760389964439form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart861284_1760389964439form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/basica-direkt-basische-mikroperlen-12472514" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-16764768" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/vitamin-c-immunsystem-plus-kapseln-16764768" itemprop="url"> VITAMIN C IMMUNSYSTEM Plus Kapseln <span> 120 St </span> <span class="productForm">Kapseln</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_16764768_1760389964456"> <a href="https://shop.apotal.de/vitamin-c-immunsystem-plus-kapseln-16764768" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/16764768_k.jpg"> <img src="/images/products/apotal/klein/16764768_k.jpg" alt="VITAMIN C IMMUNSYSTEM Plus Kapseln" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150016764768" /> <meta itemprop="sku" content="16764768" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="9283">Anbieter:</dt> <dd class="producer" ifa-nr="9283" itemprop="brand">R(h)ein Nutrition &amp; Health GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">16764768</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 120 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Kapseln<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/vitamin-c-immunsystem-plus-kapseln-16764768?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">6</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">39,99 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">11,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>28,00 €</span><span class="percent"> <em>(</em>70%<em>)</em></span> </dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="11.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1151064_1760389964451form"> <input type="hidden" name="add_product_id" value="16764768"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964451" onclick="get(document.cart1151064_1760389964451form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1151064_1760389964451form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/vitamin-c-immunsystem-plus-kapseln-16764768" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-16620236" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/bronchostop-sine-hustensaft-16620236" itemprop="url"> BRONCHOSTOP Sine Hustensaft <span> 200 ml </span> <span class="productForm">Flüssigkeit zum Einnehmen</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_16620236_1760389964468"> <a href="https://shop.apotal.de/bronchostop-sine-hustensaft-16620236" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/16620236_k.jpg"> <img src="/images/products/apotal/klein/16620236_k.jpg" alt="BRONCHOSTOP Sine Hustensaft" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150016620236" /> <meta itemprop="sku" content="16620236" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="15350">Anbieter:</dt> <dd class="producer" ifa-nr="15350" itemprop="brand">MCM KLOSTERFRAU Vertr. GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">16620236</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 200 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Flüssigkeit zum Einnehmen<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/bronchostop-sine-hustensaft-16620236?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">1</span> </span> </a> </div> </dd> <dt class="listPrice">AVP<span>***</span></dt> <dd class="listPrice">15,97 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">4,79 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>11,18 €</span><span class="percent"> <em>(</em>70%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>23,95 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="4.79"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1152421_1760389964462form"> <input type="hidden" name="add_product_id" value="16620236"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964462" onclick="get(document.cart1152421_1760389964462form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1152421_1760389964462form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/bronchostop-sine-hustensaft-16620236" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-18157050" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/hyaluron-proyoung-retinol-nachtcreme-18157050" itemprop="url"> HYALURON PROYOUNG Retinol Nachtcreme <span> 50 ml </span> <span class="productForm">Nachtcreme</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_18157050_1760389964480"> <a href="https://shop.apotal.de/hyaluron-proyoung-retinol-nachtcreme-18157050" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/18157050_k.jpg"> <img src="/images/products/apotal/klein/18157050_k.jpg" alt="HYALURON PROYOUNG Retinol Nachtcreme" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150018157050" /> <meta itemprop="sku" content="18157050" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="11867">Anbieter:</dt> <dd class="producer" ifa-nr="11867" itemprop="brand">S+H Pharmavertrieb GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">18157050</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 50 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Nachtcreme<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/hyaluron-proyoung-retinol-nachtcreme-18157050?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">1</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">21,95 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">6,58 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>15,37 €</span><span class="percent"> <em>(</em>70%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>131,60 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="6.58"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1258368_1760389964474form"> <input type="hidden" name="add_product_id" value="18157050"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964474" onclick="get(document.cart1258368_1760389964474form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1258368_1760389964474form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/hyaluron-proyoung-retinol-nachtcreme-18157050" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-11538903" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/ginkgo-stada-120-mg-filmtabletten-11538903" itemprop="url"> GINKGO STADA 120 mg Filmtabletten <span> 120 St </span> <span class="productForm">Filmtabletten</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_11538903_1760389964491"> <a href="https://shop.apotal.de/ginkgo-stada-120-mg-filmtabletten-11538903" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/11538903_k.jpg"> <img src="/images/products/apotal/klein/11538903_k.jpg" alt="GINKGO STADA 120 mg Filmtabletten" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150011538903" /> <meta itemprop="sku" content="11538903" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="7118">Anbieter:</dt> <dd class="producer" ifa-nr="7118" itemprop="brand">STADA Consumer Health Deutschland GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">11538903</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 120 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Filmtabletten<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" > <a href="https://shop.apotal.de/ginkgo-stada-120-mg-filmtabletten-11538903?showReviewSection=true"> <span class="rank"> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <span class="reviewers" >0</span> </span> </a> </div> </dd> <dt class="listPrice">AVP<span>***</span></dt> <dd class="listPrice">83,35 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">28,49 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>54,86 €</span><span class="percent"> <em>(</em>66%<em>)</em></span> </dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="28.49"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart752584_1760389964486form"> <input type="hidden" name="add_product_id" value="11538903"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964486" onclick="get(document.cart752584_1760389964486form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart752584_1760389964486form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/ginkgo-stada-120-mg-filmtabletten-11538903" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-19345486" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/zink-25-mg-immunsystem-plus-hochdosiert-vegan-kps-19345486" itemprop="url"> ZINK 25 mg Immunsystem Plus hochdosiert+vegan Kps. <span> 120 St </span> <span class="productForm">Kapseln</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_19345486_1760389964501"> <a href="https://shop.apotal.de/zink-25-mg-immunsystem-plus-hochdosiert-vegan-kps-19345486" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/19345486_k.jpg"> <img src="/images/products/apotal/klein/19345486_k.jpg" alt="ZINK 25 mg Immunsystem Plus hochdosiert+vegan Kps." loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150019345486" /> <meta itemprop="sku" content="19345486" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="9283">Anbieter:</dt> <dd class="producer" ifa-nr="9283" itemprop="brand">R(h)ein Nutrition &amp; Health GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">19345486</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 120 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Kapseln<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/zink-25-mg-immunsystem-plus-hochdosiert-vegan-kps-19345486?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">2</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">39,95 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">7,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>31,96 €</span><span class="percent"> <em>(</em>80%<em>)</em></span> </dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="7.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1334722_1760389964498form"> <input type="hidden" name="add_product_id" value="19345486"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964498" onclick="get(document.cart1334722_1760389964498form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1334722_1760389964498form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/zink-25-mg-immunsystem-plus-hochdosiert-vegan-kps-19345486" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-16510594" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/dermature-milch-handcreme-16510594" itemprop="url"> DERMATURE Milch Handcreme <span> 75 ml </span> <span class="productForm">Creme</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_16510594_1760389964511"> <a href="https://shop.apotal.de/dermature-milch-handcreme-16510594" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/16510594_k.jpg"> <img src="/images/products/apotal/klein/16510594_k.jpg" alt="DERMATURE Milch Handcreme" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150016510594" /> <meta itemprop="sku" content="16510594" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="7170">Anbieter:</dt> <dd class="producer" ifa-nr="7170" itemprop="brand">Ferdinand Eimermacher GmbH &amp; Co.KG</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">16510594</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 75 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Creme<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/dermature-milch-handcreme-16510594?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">1</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">6,60 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">1,98 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>4,62 €</span><span class="percent"> <em>(</em>70%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>26,40 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="1.98"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1121494_1760389964507form"> <input type="hidden" name="add_product_id" value="16510594"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964507" onclick="get(document.cart1121494_1760389964507form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1121494_1760389964507form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/dermature-milch-handcreme-16510594" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-18758683" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/pari-testdirect-eisenmangel-selbsttest-blut-18758683" itemprop="url"> PARI TestDirect EISENMANGEL Selbsttest Blut <span> 1 St </span> <span class="productForm">Test</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_18758683_1760389964521"> <a href="https://shop.apotal.de/pari-testdirect-eisenmangel-selbsttest-blut-18758683" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/18758683_k.jpg"> <img src="/images/products/apotal/klein/18758683_k.jpg" alt="PARI TestDirect EISENMANGEL Selbsttest Blut" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150018758683" /> <meta itemprop="sku" content="18758683" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="1013">Anbieter:</dt> <dd class="producer" ifa-nr="1013" itemprop="brand">Pari GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">18758683</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 1 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Test<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" > <a href="https://shop.apotal.de/pari-testdirect-eisenmangel-selbsttest-blut-18758683?showReviewSection=true"> <span class="rank"> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <span class="reviewers" >0</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">19,95 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">4,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>14,96 €</span><span class="percent"> <em>(</em>75%<em>)</em></span> </dd> <dt class="artvfl1">MHD:</dt> <dd class="artvfl1">01/2026</dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="4.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1299085_1760389964517form"> <input type="hidden" name="add_product_id" value="18758683"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964517" onclick="get(document.cart1299085_1760389964517form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1299085_1760389964517form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/pari-testdirect-eisenmangel-selbsttest-blut-18758683" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-14006236" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/rhodiologes-200-mg-filmtabletten-14006236" itemprop="url"> RHODIOLOGES 200 mg Filmtabletten <span> 20 St </span> <span class="productForm">Filmtabletten</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_14006236_1760389964533"> <a href="https://shop.apotal.de/rhodiologes-200-mg-filmtabletten-14006236" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/14006236_k.jpg"> <img src="/images/products/apotal/klein/14006236_k.jpg" alt="RHODIOLOGES 200 mg Filmtabletten" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150014006236" /> <meta itemprop="sku" content="14006236" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="17995">Anbieter:</dt> <dd class="producer" ifa-nr="17995" itemprop="brand">Dr. Loges + Co. GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">14006236</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 20 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Filmtabletten<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" > <a href="https://shop.apotal.de/rhodiologes-200-mg-filmtabletten-14006236?showReviewSection=true"> <span class="rank"> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <span class="reviewers" >0</span> </span> </a> </div> </dd> <dt class="listPrice">AVP<span>***</span></dt> <dd class="listPrice">12,95 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">8,99 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>3,96 €</span><span class="percent"> <em>(</em>31%<em>)</em></span> </dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="8.99"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart923781_1760389964527form"> <input type="hidden" name="add_product_id" value="14006236"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964527" onclick="get(document.cart923781_1760389964527form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart923781_1760389964527form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/rhodiologes-200-mg-filmtabletten-14006236" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-19128926" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/eunova-schulhelden-gummies-19128926" itemprop="url"> EUNOVA Schulhelden Gummies <span> 60 St </span> <span class="productForm">Bonbons</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_19128926_1760389964544"> <a href="https://shop.apotal.de/eunova-schulhelden-gummies-19128926" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/19128926_k.jpg"> <img src="/images/products/apotal/klein/19128926_k.jpg" alt="EUNOVA Schulhelden Gummies" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150019128926" /> <meta itemprop="sku" content="19128926" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="7118">Anbieter:</dt> <dd class="producer" ifa-nr="7118" itemprop="brand">STADA Consumer Health Deutschland GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">19128926</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 60 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Bonbons<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/eunova-schulhelden-gummies-19128926?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">60</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">15,35 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">8,85 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>6,50 €</span><span class="percent"> <em>(</em>42%<em>)</em></span> </dd> <dt class="artvfl1">MHD:</dt> <dd class="artvfl1">09/2026</dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="8.85"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1337397_1760389964540form"> <input type="hidden" name="add_product_id" value="19128926"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964540" onclick="get(document.cart1337397_1760389964540form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1337397_1760389964540form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/eunova-schulhelden-gummies-19128926" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-17574509" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/redia-granulat-ballaststoff-drink-17574509" itemprop="url"> REDIA Granulat Ballaststoff-Drink <span> 30X12 g </span> <span class="productForm">Granulat zur Herstellung einer Suspension zum Einnehmen</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_17574509_1760389964555"> <a href="https://shop.apotal.de/redia-granulat-ballaststoff-drink-17574509" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/17574509_k.jpg"> <img src="/images/products/apotal/klein/17574509_k.jpg" alt="REDIA Granulat Ballaststoff-Drink" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150017574509" /> <meta itemprop="sku" content="17574509" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="34150">Anbieter:</dt> <dd class="producer" ifa-nr="34150" itemprop="brand">Wörwag Pharma GmbH &amp; Co. KG</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">17574509</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 30X12 <span> g</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Granulat zur Herstellung einer Suspension zum Einnehmen<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/redia-granulat-ballaststoff-drink-17574509?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">17</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">39,95 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">29,95 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>10,00 €</span><span class="percent"> <em>(</em>25%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>83,20 €</span> pro 1 kg<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="29.95"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1223982_1760389964551form"> <input type="hidden" name="add_product_id" value="17574509"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964551" onclick="get(document.cart1223982_1760389964551form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1223982_1760389964551form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/redia-granulat-ballaststoff-drink-17574509" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-19637898" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/rennie-zuckerfrei-kautabletten-19637898" itemprop="url"> RENNIE zuckerfrei Kautabletten <span> 36 St </span> <span class="productForm">Kautabletten</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_19637898_1760389964563"> <a href="https://shop.apotal.de/rennie-zuckerfrei-kautabletten-19637898" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/19637898_k.jpg"> <img src="/images/products/apotal/klein/19637898_k.jpg" alt="RENNIE zuckerfrei Kautabletten" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150019637898" /> <meta itemprop="sku" content="19637898" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="6410">Anbieter:</dt> <dd class="producer" ifa-nr="6410" itemprop="brand">Bayer Vital GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">19637898</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 36 <span> St</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Kautabletten<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" > <a href="https://shop.apotal.de/rennie-zuckerfrei-kautabletten-19637898?showReviewSection=true"> <span class="rank"> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <span class="reviewers" >0</span> </span> </a> </div> </dd> <dt class="listPrice">AVP<span>***</span></dt> <dd class="listPrice">13,99 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">9,79 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>4,20 €</span><span class="percent"> <em>(</em>30%<em>)</em></span> </dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="9.79"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1372816_1760389964560form"> <input type="hidden" name="add_product_id" value="19637898"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964560" onclick="get(document.cart1372816_1760389964560form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1372816_1760389964560form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/rennie-zuckerfrei-kautabletten-19637898" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-19860202" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/diapura-10-urea-multicare-creme-19860202" itemprop="url"> DIAPURA+ 10% Urea MultiCare Creme <span> 250 ml </span> <span class="productForm">Creme</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_19860202_1760389964569"> <a href="https://shop.apotal.de/diapura-10-urea-multicare-creme-19860202" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/19860202_k.jpg"> <img src="/images/products/apotal/klein/19860202_k.jpg" alt="DIAPURA+ 10% Urea MultiCare Creme" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150019860202" /> <meta itemprop="sku" content="19860202" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="14065">Anbieter:</dt> <dd class="producer" ifa-nr="14065" itemprop="brand">Diapura GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">19860202</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 250 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Creme<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating"> <a href="https://shop.apotal.de/diapura-10-urea-multicare-creme-19860202?showReviewSection=true"> <span class="rank"> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <i class="icon-star"></i> <span itemprop="ratingValue" class="hidden">5</span> <span itemprop="bestRating" class="hidden">5</span> <meta itemprop="worstRating" content = "1"/> <span class="reviewers" itemprop="reviewCount">1</span> </span> </a> </div> </dd> <dt class="listPrice">UVP<span>**</span></dt> <dd class="listPrice">16,95 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">11,85 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>5,10 €</span><span class="percent"> <em>(</em>30%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>47,40 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="11.85"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1368424_1760389964567form"> <input type="hidden" name="add_product_id" value="19860202"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964567" onclick="get(document.cart1368424_1760389964567form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1368424_1760389964567form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/diapura-10-urea-multicare-creme-19860202" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+<div itemscope itemtype="http://schema.org/Product" id="product-18892565" class="boxProduct "> <div class="boxProduct_middle"> <h3 itemprop="name"> <a href="https://shop.apotal.de/silomat-hustenloeser-ambroxolhydrochlorid-30mg-5ml-18892565" itemprop="url"> SILOMAT Hustenlöser Ambroxolhydrochlorid 30mg/5ml <span> 250 ml </span> <span class="productForm">Sirup</span> </a> </h3> <div class="image" id="productInfoLink_ecommerce_18892565_1760389964576"> <a href="https://shop.apotal.de/silomat-hustenloeser-ambroxolhydrochlorid-30mg-5ml-18892565" > <picture> <source type="image/jpg" srcset="/images/products/apotal/klein/18892565_k.jpg"> <img src="/images/products/apotal/klein/18892565_k.jpg" alt="SILOMAT Hustenlöser Ambroxolhydrochlorid 30mg/5ml" loading="lazy" itemprop="image" width="" height=""> </picture> </a> </div> <meta itemprop="gtin14" content="04150018892565" /> <meta itemprop="sku" content="18892565" /> <div class="productInformations"> <dl class="productAvailability"> <dt>Verf&uuml;gbarkeit<span>:</span></dt> <dd class="status status1"><span class="icon" data-title="sofort lieferbar">&nbsp;</span><span data-title="sofort lieferbar">sofort lieferbar</span></dd> </dl> <dl class="productInfos"> <dt class="producer" ifa-nr="7118">Anbieter:</dt> <dd class="producer" ifa-nr="7118" itemprop="brand">STADA Consumer Health Deutschland GmbH</dd> <dt class="pzn">Artikelnr.:</dt> <dd class="pzn" itemprop="productID">18892565</dd> <dt class="quantity">Einheit:</dt> <dd class="quantity" itemprop="model"> 250 <span> ml</span> </dd> <dt class="form">Darreichungsform:</dt> <dd class="form">Sirup<dd> </dl> <dl class="productPrice" > <dd> <div class="customerReviews" > <a href="https://shop.apotal.de/silomat-hustenloeser-ambroxolhydrochlorid-30mg-5ml-18892565?showReviewSection=true"> <span class="rank"> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <i class="icon-star empty"></i> <span class="reviewers" >0</span> </span> </a> </div> </dd> <dt class="listPrice">AVP<span>***</span></dt> <dd class="listPrice">17,65 €</dd> <dt class="yourPrice">Unser Preis<span>*</span></dt> <dd class="yourPrice">10,69 €<span class="mwst" style="display:none">&nbsp;(inkl. MwSt.)</span></dd> <dt class="youSave">Sie sparen</dt> <dd class="youSave"> <span>6,96 €</span><span class="percent"> <em>(</em>39%<em>)</em></span> </dd> <dt class="groundPrice">Grundpreis</dt> <dd class="groundPrice"><em>(</em><span>42,76 €</span> pro 1 l<em>)</em></dd> </dl> </div> <div class="hidden" itemprop="offers" itemscope itemtype="http://schema.org/Offer"> <meta itemprop="availability" content="http://schema.org/InStock"/>sofort lieferbar <span itemprop="price" content="10.69"></span><meta itemprop="priceCurrency" content="EUR"/><link itemprop="itemCondition" href="http://schema.org/NewCondition" /> </div> <div class="addToCartProductForm"> <form method="post" action="https://shop.apotal.de/additem" name="cart1334244_1760389964573form"> <input type="hidden" name="add_product_id" value="18892565"/> <input type="text" name="quantity" value="1" class="text quantity" pattern="[0-9]{1,}" /> <button type="submit" class="buttonLinks btnAddToCart addToCart " id="sbtnAddProd_1760389964573" onclick="get(document.cart1334244_1760389964573form,'https://shop.apotal.de/additem',alertContents);" title="In den Warenkorb"><span></span></button> <img src="/apotal/layout/images/blank.gif" class="loadingAddToCart" alt="loading..." data-name="cart1334244_1760389964573form_img"/> </form> </div> <div class="buttons"> <a class="buttonLinks btnDetails" href="https://shop.apotal.de/silomat-hustenloeser-ambroxolhydrochlorid-30mg-5ml-18892565" title="Details"><span><em>Details</em></span></a> </div> </div> </div>
+    </div>
+
+    
+
+
+</div>
+</div>
+</section><aside id="aside-dr">
+<div id="flexibleRightContent_10316" class="flexibleRightContent flexibleRightContent_10316 ">
+<div class="small_box_content wihtoutTitle">
+<div class="small_box_content_middle">
+<!--
+<p>
+<img title="Hotline" src="/images/generic_attachments/attachments/apotal/rechts/hotline_versand.gif" mce_src="/images/generic_attachments/attachments/apotal/rechts/hotline_versand.gif" />
+</p>
+-->
+<div style="position: relative; width: 190px; border: 0px solid green; margin-left: 8px;">
+<div style="position: relative; width: 100%; color: #f00; font-size: 17px; font-family: arial,verdana,sans-serif; margin-top: 5px;">
+0800-10 11 422<br />
+<div style="color:#666;font-size:0.5em;line-height: 1.3em;margin-top:4px;">
+gebührenfreie Rufnummer
+</div>
+</div>
+<div style="position: relative; width: 100%; color: #f00; font-size: 17px; font-family: arial,verdana,sans-serif; margin-top: 8px;">
+Versandkostenfrei<br />
+<div style="color:#666;font-size:0.5em;line-height: 1.3em;margin-top:4px;">
+innerhalb Deutschlands bei einem Mindestbestellwert von 10,- Euro oder bei Einsendung eines Kassenrezeptes
+</div>
+</div>
+</div>
+
+
+<br />
+
+<!--
+<p>
+<a href="/schatztruhe" target="_blank">
+<img title="apotal Schatztruhe" src="/images/generic_attachments/attachments/apotal/rechts/schatztruhe.gif" alt="apotal Schatztruhe" width="190" height="151" /></a>
+</p>
+
+
+
+<p>
+<a href="/ballongewinnspiel" target="_blank">
+<img title="apotal Ballongewinnspiel" src="/images/generic_attachments/attachments/apotal/rechts/ballongewinnspiel_190x151.gif" alt="apotal Ballongewinnspiel" width="190" height="151" /></a>
+
+</p>
+
+-->
+
+
+
+
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_11296" class="flexibleRightContent flexibleRightContent_11296 ">
+<div class="small_box_content wihtoutTitle">
+<div class="small_box_content_middle">
+<span style="font-family:'Verdana', 'Arial', 'Helvetica', 'sans-serif'; font-size:1.0em; line-height:1.4em; color:rgb(100,100,100);">
+
+<a href="/-unsere-70-er"><img src="/images/generic_attachments/attachments/apotal/rechts/aktion_40.gif" alt="Unsere 70&#37;er" /></a>
+
+
+</span>
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_10354" class="flexibleRightContent flexibleRightContent_10354 ">
+<div class="small_box_content wihtoutTitle">
+<div class="small_box_content_middle">
+<span style="font-family:'Verdana', 'Arial', 'Helvetica', 'sans-serif'; font-size:1.0em; line-height:1.4em; color:rgb(100,100,100);">
+
+<a href="/gutschein-aktionen"><img title="Gutschein-Aktionen" 
+src="/images/generic_attachments/attachments/apotal/rechts/box_gutschein_aktionen.gif" alt="Gutschein-Aktionen" width="190" height="117" /></a>
+<br/>
+
+
+
+<a href="/e-rezept"><img title="E-Rezept" 
+src="/images/generic_attachments/attachments/apotal/rechts/box_erezept.gif" alt="E-Rezept" width="190" height="117" /></a>
+<br/>
+
+
+
+<a href="/renderFContent?attachmentId=10304"><img title="Gratiszugaben" 
+src="/images/generic_attachments/attachments/apotal/rechts/gratis_zugaben.gif" alt="Gratiszugaben" width="190" height="86" /></a>
+<br/>
+
+
+
+<a href="/aktuelle-flyer"><img title="Aktuelle Flyer" 
+src="/images/generic_attachments/attachments/apotal/rechts/box_aktuelle_flyer.gif" alt="Aktuelle Flyer" width="190" height="117" /></a>
+<br/>
+
+
+</span>
+
+
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_10306" class="flexibleRightContent flexibleRightContent_10306 ">
+<div class="small_box_content wihtoutTitle">
+<div class="small_box_content_middle">
+<div class="ekomi_rating">
+<div class="small_box_title">
+<div class="small_box_title_middle">
+Bewertung
+</div>
+</div>
+<div class="small_box_content">
+<div class="small_box_content_middle">
+<!-- eKomiWidget START -->
+<style>#eKomiWidget_default{text-align:center}#eKomiWidget_default img {max-width:160px}</style>
+<div id="eKomiWidget_default"></div>
+<!-- eKomiWidget END -->
+</div>
+</div>
+</div>
+
+<!-- eKomiLoader START, only needed once per page -->
+<script type="text/javascript">// <![CDATA[
+    (function(){
+        eKomiIntegrationConfig = new Array(
+            {certId:'PY6L1XZ4PRXA62W'}
+        );
+        if(typeof eKomiIntegrationConfig != "undefined"){for(var eKomiIntegrationLoop=0;eKomiIntegrationLoop<eKomiIntegrationConfig.length;eKomiIntegrationLoop++){
+            var eKomiIntegrationContainer = document.createElement('script');
+            eKomiIntegrationContainer.type = 'text/javascript'; eKomiIntegrationContainer.defer = true;
+            eKomiIntegrationContainer.src = (document.location.protocol=='https:'?'https:':'http:') +"//connect.ekomi.de/integration_1363275970/" + eKomiIntegrationConfig[eKomiIntegrationLoop].certId + ".js";
+            document.getElementsByTagName("head")[0].appendChild(eKomiIntegrationContainer);
+        }}else{if('console' in window){ console.error('connectEkomiIntegration - Cannot read eKomiIntegrationConfig'); }}
+    })();
+// ]]></script>
+<!-- eKomiLoader END, only needed once per page -->
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_11327" class="flexibleRightContent flexibleRightContent_11327 ">
+<div class="small_box_content wihtoutTitle">
+<div class="small_box_content_middle">
+
+<br/>
+<div style="border:0 none; width:100%; text-align:center; height: 55px;">
+  <a href="https://www.idealo.de/preisvergleich/Shop/83768.html#i">
+    <img src="https://img.idealo.com/badges/83768/528fe1fa-0179-4b1c-a336-e79c060ca366" alt=" apotal.de - Unsere Kundenbewertungen" />
+  </a>
+</div>
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_11298" class="flexibleRightContent flexibleRightContent_11298 ">
+<div class="small_box_title">
+<div class="small_box_title_middle">
+Sportsponsoring
+</div>
+<div class="small_box_title_bottom"></div>
+</div>
+<div class="small_box_content">
+<div class="small_box_content_middle">
+<span style="font-family:'Verdana', 'Arial', 'Helvetica', 'sans-serif'; font-size:1.0em; line-height:1.4em; color:rgb(100,100,100);">
+
+<!---
+<p><a href="http://www.bvb.de/" target="_blank"><img src="/images/generic_attachments/attachments/apotal/rechts/BVB_VIP_Partner.gif" alt="BVB Partner" width="190" height="51" /></a></p>
+<p><a href="http://www.bayer04.de/" target="_blank"><img src="/images/generic_attachments/attachments/apotal/vip_partner_bayer.gif" alt="vip_partner_bayer.gif" width="190" height="51" /></a></p>
+--->
+
+<p><a href="https://www.borussia.de/de/startseite.html/" target="_blank"><img src="/images/generic_attachments/attachments/apotal/Borussia_VIP_Partner.gif" alt="Borussia Partner" width="190" height="51" /></a></p>
+<p><a href="http://www.vfl.de//" target="_blank"><img src="/images/generic_attachments/attachments/apotal/VIP_Partner_VFL.gif" alt="VFL Partner" width="190" height="51" /></a></p>
+<br/>
+
+</span>
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_10294" class="flexibleRightContent flexibleRightContent_10294 ">
+<div class="small_box_title">
+<div class="small_box_title_middle">
+Bestellung
+</div>
+<div class="small_box_title_bottom"></div>
+</div>
+<div class="small_box_content">
+<div class="small_box_content_middle">
+<span style="font-family:'Verdana', 'Arial', 'Helvetica', 'sans-serif'; font-size:1.0em; line-height:1.4em; color:rgb(100,100,100);">
+
+<ul>
+<li><a href="/images/generic_attachments/attachments/apotal/anmeldung.pdf" target="_blank">Hilfe zur Anmeldung</a></li>
+<li><a href="/images/generic_attachments/attachments/apotal/bestellvorgang.pdf" target="_blank">Hilfe zum Bestellvorgang</a></li>
+<li><a href="/images/generic_attachments/attachments/apotal/zahlung.pdf" target="_blank">Zahlungsmöglichkeiten</a></li>
+<li><a href="/e-rezept" target="_blank">Rezepte einlösen</a></li>
+<li><a href="/freiumschlage">Freiumschläge anfordern</a></li>
+<li><a href="/images/generic_attachments/attachments/apotal/freiumschlag_apotal.pdf" target="_blank">Freiumschläge downloaden</a></li>
+<li><a href="/Versandkosten">Auslandsbestellung</a></li>
+<li><a href="/reklamation">Reklamation</a></li>
+<li><a href="/images/generic_attachments/attachments/apotal/download/widerrufsformular/widerrufsformular.pdf" target="_blank">Widerrufsformular</a></li>
+<li><a href="/renderFContent?attachmentId=10298">Problembehebung</a></li>
+<li><a href="/images/generic_attachments/attachments/apotal/Bestellschein_apotal_online.pdf" target="_blank">Bestellschein</a></li>
+</ul>
+
+</span>
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_10312" class="flexibleRightContent flexibleRightContent_10312 ">
+<div class="small_box_title">
+<div class="small_box_title_middle">
+Beratung und Service
+</div>
+<div class="small_box_title_bottom"></div>
+</div>
+<div class="small_box_content">
+<div class="small_box_content_middle">
+<span style="font-family:'Verdana', 'Arial', 'Helvetica', 'sans-serif'; font-size:1.0em; line-height:1.4em; color:rgb(100,100,100);">
+
+<ul>
+<li><a href="/images/generic_attachments/attachments/apotal/alleswassiewissen_formular.pdf" target="_blank">Allgemeine Information</a></li>
+<li><a href="/produktberatung" target="_blank">Produktberatung</a></li>
+<li><a href="/images/generic_attachments/attachments/apotal/arzneimeldung.pdf" target="_blank">Meldung Arzneimittelrisiken</a></li>
+<li><a href="/renderFContent?attachmentId=10308" target="_blank">Zuzahlungsfreie Arzneien</a></li>
+<li><a href="/renderFContent?attachmentId=10304" target="_blank">Angebote & Downloads</a></li>
+<li><a href="/renderFContent?attachmentId=10543" target="_blank"><b>Newsletter</b></a></li>
+<li><a href="/images/generic_attachments/attachments/apotal/neukundenwerbung_formular.pdf" target="_blank">Neukundenprämie</a></li>
+<li><a rel="nofollow" href="https://apotal.recruitee.com/" target="_blank">Stellenangebote</a></li>
+</ul>
+
+</span>
+
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="flexibleRightContent_10296" class="flexibleRightContent flexibleRightContent_10296 ">
+<div class="small_box_content wihtoutTitle">
+<div class="small_box_content_middle">
+<span style="font-family:'Verdana', 'Arial', 'Helvetica', 'sans-serif'; font-size:1.0em; line-height:1.4em; color:rgb(100,100,100);">
+
+<p><img src="/images/generic_attachments/attachments/apotal/box_gutschein.gif" alt="box_gutschein.gif" /></p>
+<p><img src="/images/generic_attachments/attachments/apotal/box_katalog_kompetenz.gif" alt="box_katalog_kompetenz.gif" /></p>
+<p><a href="/katalog?diainko=true"><img src="/images/generic_attachments/attachments/apotal/box_katalog_diainko.gif" alt="box_katalog_diainko.gif" /></a></p>
+<p><img src="/images/generic_attachments/attachments/apotal/box_katalog_kompetenz_anschauen.gif" alt="box_katalog_kompetenz_anschauen.gif" /></p>
+
+</span>
+</div>
+<div class="small_box_content_bottom"></div>
+</div>
+</div>
+<div id="kairionRectBanner" style="display:none"></div>
+</aside></div>
+<div id="kairionSkyRightBanner" style="display:none"></div>
+<div id="kairionSkyLeftBanner" style="display:none"></div><script>
+
+  function buildKairion() {
+  var products = [];
+  products.push({gtin: "16620236", categories: ["33107","30712","32815","32296","32996"], price: 479 });
+  products.push({gtin: "13352373", categories: ["33107","31465","31521"], price: 2299 });
+  products.push({gtin: "12472514", categories: ["33107","31440","38748","31059","91653"], price: 2899 });
+  products.push({gtin: "14006236", categories: ["42036","33107","30973","31159","30665"], price: 899 });
+  products.push({gtin: "16510594", categories: ["33107","30712","31467"], price: 198 });
+  products.push({gtin: "11538903", categories: ["42036","33107","91153","69679","31566"], price: 2849 });
+  products.push({gtin: "02787783", categories: ["42036","33107","39182","43375","32021","30817","32037","31159","69446","31045","69449","68845","31038"], price: 1898 });
+  products.push({gtin: "18157050", categories: ["33107","30712","69620","33172","31935"], price: 658 });
+  products.push({gtin: "18758683", categories: ["33107","30712","37128"], price: 499 });
+  products.push({gtin: "18892565", categories: ["33107","32479"], price: 1069 });
+  products.push({gtin: "09440195", categories: ["33107","69584"], price: 289 });
+  products.push({gtin: "19637898", categories: ["91713","33107","31616"], price: 978 });
+  products.push({gtin: "19860202", categories: ["33107","30970","31893"], price: 1185 });
+  products.push({gtin: "17574509", categories: ["33107","31485"], price: 2995 });
+  products.push({gtin: "08454700", categories: ["33107","43375","31683","30780","68401","68405","68406"], price: 1819 });
+  products.push({gtin: "14163929", categories: ["33107","68328","90707","68396"], price: 2999 });
+  products.push({gtin: "19128926", categories: ["33107","31521"], price: 885 });
+  products.push({gtin: "08636252", categories: ["41726","33107","46790","32137","68198","46852"], price: 2289 });
+  products.push({gtin: "16764768", categories: ["41726","33107","30712","69071","31440","69819","30653"], price: 1199 });
+  products.push({gtin: "19345486", categories: ["33107","30712","43375","69819","30610"], price: 799 });
+  var cart_products = [];
+  <!--KairionCartStart-->
+	  <!--KairionCartEnd-->
+  var tags = [];
+  window.kias = window.kias || [];
+
+var consent = false;
+
+  window.kias.push(
+    {
+      cmd: "setPageSettings",
+      pageType: "front",
+      products: products,
+      tags: tags,
+      consent: consent
+    },
+    {
+      cmd: "setPageSlots",
+      slots: {
+        sky: "kairionSkyRightBanner",
+        sky2: "kairionSkyLeftBanner",
+        high: "kairionHighBanner",
+        high2: "kairionHigh2Banner",
+        high3: "kairionHigh3Banner",
+        high4: "kairionHigh4Banner",
+      },
+      callback: function(ads) {             
+
+  if (ads.adslots.length > 0) {
+  for(i in ads.adslots) {
+  if (ads.adslots[i].mediaUrls !== '') {
+if (ads.adslots[i].slotId === 'sky') {
+if (hasCustomSkyBanner !== undefined) {
+var kairionSkyRightBanner =  document.getElementById('kairionSkyRightBanner');
+if (typeof(kairionSkyRightBanner) !== 'undefined' && kairionSkyRightBanner !== null) {
+if (hasCustomSkyBanner === 'false') {
+document.getElementById("kairionSkyRightBanner").style.display = "block";
+} else {
+document.getElementById("kairionSkyRightBanner").style.display = "none";
+}
+}
+}
+}
+if (ads.adslots[i].slotId === 'sky2') {
+if (hasCustomSkyBanner !== undefined) {
+var kairionSkyLeftBanner =  document.getElementById('kairionSkyLeftBanner');
+if (typeof(kairionSkyLeftBanner) != 'undefined' && kairionSkyLeftBanner != null) {
+if (hasCustomSkyBanner === 'false') {
+document.getElementById("kairionSkyLeftBanner").style.display = "block";
+} else {
+document.getElementById("kairionSkyLeftBanner").style.display = "none";
+}
+}
+}
+}
+
+if (ads.adslots[i].slotId === 'high') {
+const kairionHighBanner = document.getElementById('kairionHighBanner');
+const customHighBanner = document.getElementById('customHighBanner');
+  if (kairionHighBanner !== null && (customHighBanner === null || customHighBanner.style.display !== 'block')) {
+document.getElementById("kairionHighBanner").style.display = "block";
+  }
+}
+
+if (ads.adslots[i].slotId === 'high2') {
+const kairionHigh2Banner = document.getElementById('kairionHigh2Banner');
+if (kairionHigh2Banner !== null) {
+document.getElementById("kairionHigh2Banner").style.display = "block";
+  }
+}
+if (ads.adslots[i].slotId === 'high3') {
+const kairionHigh3Banner = document.getElementById('kairionHigh3Banner');
+if (kairionHigh3Banner !== null) {
+document.getElementById("kairionHigh3Banner").style.display = "block";
+  }
+}
+if (ads.adslots[i].slotId === 'high4') {
+const kairionHigh4Banner = document.getElementById('kairionHigh4Banner');
+if (kairionHigh4Banner !== null) {
+document.getElementById("kairionHigh4Banner").style.display = "block";
+  }
+}
+  }
+  }
+  }
+
+          }
+    }
+      );
+  if (cart_products.length > 0) {
+    window.kias.push(
+      {
+        cmd: "setCartProducts",
+        products: cart_products
+      }
+    );
+  }
+  }
+
+  buildKairion();
+
+</script>
+<script src="https://js.kctag.net/kias-apotalde.js" async></script>
+<div id="customSkyBanner" style="display:none">
+<a id="customSkyBannerAnchor" href="" banner-id="" onclick="hitSkyBanner(this.href);return false;"  aria-label="banner">
+<img id="customSkyBannerImage" src="" aria-hidden="true" >
+</a>
+</div>
+<div id="customSkyBannerNoLink" style="display:none">
+<img id="customSkyBannerNoLinkImage" src="" aria-hidden="true" >
+</div>
+
+<div id="customSkyBannerLeft" style="display:none">
+<a id="customSkyBannerAnchorLeft" href="" banner-id="" onclick="hitSkyBannerLeft(this.href);return false;" aria-label="banner">
+<img id="customSkyBannerImageLeft" src="" aria-hidden="true" >
+</a>
+</div>
+<div id="customSkyBannerNoLinkLeft" style="display:none">
+<img id="customSkyBannerNoLinkImageLeft" src="" aria-hidden="true" >
+</div>
+
+<iframe id="customSkyBannerIFrame" src="" aria-hidden="true" style="display:none"></iframe>
+<iframe id="customSkyBannerIFrameLeft" src="" aria-hidden="true" style="display:none"></iframe>
+
+<script type="text/javascript">
+
+var Domain = (function (){
+var customBanner = function (data) {
+this.imageUrl = data.imageUrl || '';
+this.htmlUrl = data.htmlUrl || '';
+this.link = data.link || '';
+this.customBannerId = data.customBannerId || '';
+this.position = data.position || ['R'];
+this.stick = data.stick || 'N';
+}
+
+    return {
+        CustomBanner: customBanner
+    }
+})()
+
+var customSkyParams = {
+type: "SKY",
+page: "main",
+}
+var hasCustomSkyBanner = 'false';
+let getCustomSkyBannerUrl = new URL('https://shop.apotal.de/getCustomBanner');
+getCustomSkyBannerUrl.search = new URLSearchParams(customSkyParams).toString();
+fetch(getCustomSkyBannerUrl)
+.then(res => res.json())
+.then(jsonResult => {
+
+var customBanners = jsonResult.map(function (customBanner) {
+return new Domain.CustomBanner(customBanner);
+});
+for (const customBanner of customBanners) {
+if (customBanner) {
+hasCustomSkyBanner = 'true';
+for (const position of customBanner.position) {
+let customSkyBanner = "#customSkyBanner";
+let customSkyBannerAnchor = "#customSkyBannerAnchor";
+let customSkyBannerImage = "#customSkyBannerImage";
+let customSkyBannerNoLink = "#customSkyBannerNoLink";
+let customSkyBannerNoLinkImage = "#customSkyBannerNoLinkImage";
+let customSkyBannerIFrame = "#customSkyBannerIFrame";
+let aside = "aside-dr";
+
+if (position === 'L') {
+customSkyBanner = "#customSkyBannerLeft";
+customSkyBannerAnchor = "#customSkyBannerAnchorLeft";
+customSkyBannerImage = "#customSkyBannerImageLeft";
+customSkyBannerNoLink = "#customSkyBannerNoLinkLeft";
+customSkyBannerNoLinkImage = "#customSkyBannerNoLinkImageLeft";
+customSkyBannerIFrame = "#customSkyBannerIFrameLeft";
+aside = "aside-st";
+}
+
+if (customBanner.stick === 'T') {
+document.body.classList.add(position === 'L' ? 'bannerLeftTop' : 'bannerRightTop');
+}
+if (customBanner.stick === 'B') {
+document.body.classList.add(position === 'L' ? 'bannerLeftBottom' : 'bannerRightBottom');
+}
+
+if (customBanner.imageUrl) {
+if (customBanner.link) {
+const anchor = document.querySelector(customSkyBannerAnchor);
+const image = document.querySelector(customSkyBannerImage);
+anchor.setAttribute('href', customBanner.link);
+anchor.setAttribute("banner-id", customBanner.customBannerId);
+image.setAttribute('src', customBanner.imageUrl);
+
+const asideElement = document.getElementById(aside);
+const banner = document.querySelector(customSkyBanner);
+
+if (asideElement) {
+asideElement.appendChild(banner);
+banner.style.display = "block";
+} else {
+banner.style.display = "block";
+}
+} else {
+const noLinkImage = document.querySelector(customSkyBannerNoLinkImage);
+const noLinkBanner = document.querySelector(customSkyBannerNoLink);
+
+noLinkImage.setAttribute('src', customBanner.imageUrl);
+
+const asideElement = document.getElementById(aside);
+if (asideElement) {
+asideElement.appendChild(noLinkBanner);
+noLinkBanner.style.display = "block";
+} else {
+noLinkBanner.style.display = "block";
+}
+}
+}
+
+if (customBanner.htmlUrl) {
+const iframe = document.querySelector(customSkyBannerIFrame);
+iframe.setAttribute('src', customBanner.htmlUrl);
+iframe.style.display = "block";
+iframe.classList.add("fromUrl");
+
+const asideElement = document.getElementById(aside);
+const wrapper = document.createElement("div");
+wrapper.className = "fromUrlWrap";
+
+if (asideElement) {
+asideElement.appendChild(wrapper);
+}
+
+wrapper.appendChild(iframe);
+}
+
+if (customSkyParams['page'] !== 'main') {
+const kairionRectBanner = document.getElementById('kairionRectBanner');
+if (kairionRectBanner) {
+kairionRectBanner.style.display = "none";
+}
+}
+}
+}
+}
+
+if (customSkyParams['page'] === 'main') {
+hasCustomSkyBanner = 'false';
+}
+}).catch(() => {});
+
+function hitSkyBanner(bannerLink) {
+let url = new URL('https://shop.apotal.de/hitCustomBanner');
+let params = {customBannerId: document.getElementById("customSkyBannerAnchor").getAttribute('banner-id')};
+url.search = new URLSearchParams(params).toString();
+fetch(url).then(res => {
+if (bannerLink.indexOf(window.location.host) === -1 && !bannerLink.includes('javascript')) {
+window.open(bannerLink,'_blank');
+} else {
+window.location = bannerLink;
+}
+return true;
+});
+}
+function hitSkyBannerLeft(bannerLink) {
+let url = new URL('https://shop.apotal.de/hitCustomBanner');
+let params = {customBannerId: document.getElementById("customSkyBannerAnchorLeft").getAttribute('banner-id')};
+url.search = new URLSearchParams(params).toString();
+fetch(url).then(res => {
+if (bannerLink.indexOf(window.location.host) === -1) {
+window.open(bannerLink,'_blank');
+} else {
+window.location = bannerLink;
+}
+return true;
+});
+}
+</script>
+<footer id="footer">
+<table cellpadding="0" cellspacing="0" width="100%">
+<tr>
+<td align="center" width="100%">
+<table cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td>
+<div class="buttonsFooter" style="display:none">
+<div class="lnkBarriere"><a href="/barrierefreiheitserklaerung"><span>Barrierefreiheitserklärung</span></a></div>
+<div class="lnkContact"><a href="https://shop.apotal.de/kontaktformular"><span>Kontakt</span></a></div>
+<div class="lnkAgb"><a href="https://shop.apotal.de/renderFContent?attachmentId=10333"><span>AGB</span></a></div>
+<div class="lnkDatenschutz"><a href="https://shop.apotal.de/renderFContent?attachmentId=10331"><span>Datenschutz</span></a></div>
+
+<div class="lnkImpressum"><a href="https://shop.apotal.de/renderFContent?attachmentId=10329"><span>Impressum</span></a></div>
+
+</div><div class="text">
+  <span style="color: #666666; font-size: xx-small;">
+    <strong>
+      <span style="color: #ff0000;">*</span> inkl. MwSt. Rabatte gelten auf den Apothekenverkaufspreis und nicht für verschreibungspflichtige Medikamente.
+    </strong><br />
+    <span style="color: #ff0000;font-weight:bold;">**</span> Unverbindliche Preisempfehlung des Herstellers.<br />
+    <span style="color: #ff0000;font-weight:bold;">***</span> Verkaufspreis gemäß Lauer-Taxe; verbindlicher Abrechnungspreis nach der Großen Deutschen Spezialitätentaxe 
+
+(sog. Lauer-Taxe) bei Abgabe von nicht verschreibungspflichtigen Medikamenten zu Lasten der gesetzlichen Krankenversicherungen (z.B. bei Verschreibung des Medikaments an 
+
+Kinder unter 12 Jahren), die sich gemäß §129 Abs. 5a SGB V aus dem Abgabepreis des pharmazeutischen Unternehmens und der Arzneimittelpreisverordnung in der Fassung zum 
+
+31.12.2003 ergibt. Es handelt sich <span style="font-weight:bold;">nicht</span> um die unverbindliche Preisempfehlung des Herstellers.<br />
+    <span style="color: #ff0000;font-weight:bold;">****</span>BK: Beschaffungskosten. Diese Summe f&auml;llt zus&auml;tzlich an, da der Artikel direkt vom Hersteller 
+
+bezogen werden muss.</span>
+<br /><br />
+</div>
+
+<div class="text">
+  <span class="cookie-launcher" style="cursor: pointer;font-size: xx-small;">Hier können Sie Ihre Cookie-Zustimmung widerrufen</span>
+<br /><br />
+</div>
+
+
+<div class="text">
+<p align="left"><span style="color: #666666; font-size: xx-small;"> 
+Die angegebenen Preise beinhalten die gesetzlich
+vorgeschriebene Mehrwertsteuer. Der Versand innerhalb Deutschlands ist 
+
+versandkostenfrei bei einem Mindestbestellwert von 10,- Euro. Bei Sendungen ins Ausland fallen durch erhöhte Versicherungsgebühren Mehrkosten an 
+<a href="/Versandkosten">Versandkosten</a>
+
+
+ 
+Bei Artikeln, die wir ausschließlich über den Hersteller beziehen können, 
+
+fallen unter Umständen sogenannte Beschaffungskosten an (siehe BK).</span></p>
+<p align="left"><span style="color: #666666; font-size: xx-small;">Bad Apotheke Henning Fichter e.K. - Frankfurter Str. 27 - 49214 Bad Rothenfelde - Tel 0800 / 10 11 422 - Fax 05424 / 21 64 
+
+47<br />Preisänderungen und 
+
+Irrtümer sind vorbehalten. Abgabe nur in haushalts&uuml;blichen Mengen. <br />Alle Angaben ohne Gewähr.<br /><br /><strong>Verfügbarkeit:</strong> <br /><img 
+
+src="/apotal/layout/images/ampel_gruen.gif" 
+
+alt="" /> Der Artikel ist in der Regel sofort lieferbar, in Einzelf&auml;llen bis zu 6 Tage. <br /><img src="/apotal/layout/images/ampel_gelb.gif" alt="" /> Der Artikel muss direkt vom Hersteller bezogen 
+
+werden. Daher kann es zu l&auml;ngeren 
+
+Lieferzeiten und ggf. Zusatzkosten (siehe BK) kommen. In diesem Fall werden Sie informiert.<br /><img src="/apotal/layout/images/ampel_rot.gif" alt="" /> Der Artikel ist 
+
+derzeit nicht lieferbar. </span></p>
+</div>
+<!-- <div class="reference">Zu Risiken und Nebenwirkungen lesen Sie die Packungsbeilage und fragen Sie Ihre &Auml;rztin, Ihren Arzt oder in Ihrer Apotheke.</div> -->
+
+
+
+<style>
+#stepToBuyOne .boxButtons .btnCheckout {
+margin-left:inherit;
+}
+
+body, html {visibility: visible!important;}
+#orderAgreementInformation dd {
+width: calc(100% - 30px);
+}
+
+
+.tableShoppingListItems div.image img {
+    max-height: 70px;
+    max-width: 70px;
+}
+</style>
+<script>
+awPopup = window.location.href.includes("rezepteinreichen") ? awPopup2 : awPopup;
+awPopup = window.location.href.includes("e-rezept") ? awPopup2 : awPopup;
+</script></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+</footer>
+
+
+
+
+
+<script async src="https://cdn.eye-able.com/configs/shop.apotal.de.js"></script>
+<script async src="https://cdn.eye-able.com/public/js/eyeAble.js"></script>
+
+
+
+<script>
+try {
+if (navigator.serviceWorker) {
+ navigator.serviceWorker.getRegistrations().then(function (registrations) {
+for (const registration of registrations) {
+registration.unregister();
+}
+});
+}
+} catch (e) {
+console.error(e);
+}
+</script>
+</body>
+</html>

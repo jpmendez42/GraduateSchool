@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dynamic/
+Disallow: /css/
+Disallow: /images/
+Disallow: /script/
+Disallow: /logs/
+Disallow: /booking/
+
+Sitemap: https://www.omniplex.ie/sitemap.xml

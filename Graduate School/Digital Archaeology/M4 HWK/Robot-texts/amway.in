@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /cart
+Disallow: /checkout
+Disallow: /my-account
+Disallow: /my-office
+Disallow: /business-centre/
+Disallow: /business-reports/
+Disallow: /value-added-services/aiqa-health
+Disallow: /search/
+
+Sitemap: https://www.amway.in/sitemap.xml
+
+# Block specific bots
+User-agent: CazoodleBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot/1.0
+Disallow: /
+
+User-agent: Gigabot
+Disallow: /

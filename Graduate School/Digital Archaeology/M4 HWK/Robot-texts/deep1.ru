@@ -1,0 +1,34 @@
+User-agent: Yandex
+Disallow: /play
+Disallow: /stat
+Disallow: /wp-admin
+Disallow: /wp-json
+Disallow: /wp-includes
+Disallow: /wp-comments
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: */trackback
+Disallow: */feed
+Disallow: /cgi-bin
+Disallow: *?s=
+Host: deep1.ru
+
+User-agent: *
+Disallow: /play
+Disallow: /stat
+Disallow: /wp-admin
+Disallow: /wp-json
+Disallow: /wp-includes
+Disallow: /wp-comments
+Disallow: /wp-content/plugins
+Disallow: /wp-content/themes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: */trackback
+Disallow: */feed
+Disallow: /cgi-bin
+Disallow: *?s=
+
+Sitemap: https://deep1.ru/sitemap_index.xml

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /wp/app/uploads/_pda/*
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.yorkvilleu.ca/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

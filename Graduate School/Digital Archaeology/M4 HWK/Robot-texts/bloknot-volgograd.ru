@@ -1,0 +1,11 @@
+User-Agent: *
+Crawl-delay: 20
+Disallow: /search/
+Disallow: /bitrix/
+Disallow: /admin/
+Disallow: /upload/
+Disallow: /img/
+Disallow: /*?SHOWALL
+Disallow: /auth
+Host: bloknot-volgograd.ru
+Sitemap: http://bloknot-volgograd.ru/sitemap.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /parkering
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /*
+
+Sitemap: https://www.webhuset.no/sitemap.xml

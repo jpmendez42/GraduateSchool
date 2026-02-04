@@ -1,0 +1,40 @@
+User-agent: Baiduspider 
+Disallow: / 
+User-agent: BaiduImagespider 
+Disallow: / 
+User-agent: yodaobot 
+Disallow: / 
+User-agent: Yeti 
+Disallow: / 
+User-agent: NaverBot 
+Disallow: / 
+User-agent: Scooter 
+Disallow: / 
+User-agent: YandexBot 
+Disallow: / 
+User-agent: seznambot 
+Disallow: / 
+User-agent: teoma 
+Disallow: / 
+User-agent: EtaoSpider 
+Disallow: / 
+
+
+User-agent: * 
+Disallow: /search_result/
+Disallow: /home/search_result?
+Disallow: /home/cast_search/
+Disallow: /home/label_search/
+Disallow: /home/label_initials/
+Disallow: /home/series_search/
+Disallow: /home/gallery_viewer/
+Disallow: /search_result?
+Disallow: /download/
+Disallow: /search/
+Disallow: /lagoon/
+Disallow: /home/category/anime/adult_anime/=/cid/603419
+Disallow: /category/anime/adult_anime/=/cid/603419
+
+Sitemap: https://hbox.jp/sitemap_index.xml
+Sitemap: https://hbox.jp/sitemap_index_pc.xml
+Sitemap: https://hbox.jp/sitemap_list_index.xml

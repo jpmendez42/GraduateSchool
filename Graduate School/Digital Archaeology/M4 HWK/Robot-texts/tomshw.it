@@ -1,0 +1,116 @@
+# Robots.txt file for tomshw.it
+# Last updated: 2025-02-21
+
+# Search Engines and Good Bots
+User-agent: *
+User-agent: Applebot
+User-agent: Googlebot
+User-agent: Googlebot-News
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: AdsBot-Google
+User-agent: Mediapartners-Google
+User-agent: Bingbot
+User-agent: msnbot
+User-agent: DuckDuckBot
+User-agent: Slurp
+User-agent: Yandex
+User-agent: YandexImages
+User-agent: YandexBot
+Allow: /
+
+# System and API paths
+Disallow: /cms/
+Disallow: /nova-api/
+
+# Dynamic content and filters
+Disallow: /*?*keyword=
+Disallow: /*?*min_rating=
+Disallow: /*?*platform=
+Disallow: /*?*genre=
+Disallow: /*?*year=
+Disallow: /*?*s=
+Disallow: /*?*page=
+Disallow: /*?*vertical=
+
+# Taxonomy pages
+Disallow: /tag/
+Disallow: /brand/
+Disallow: /brand_tag/
+Disallow: /product/
+Disallow: /gallery/
+
+# Content sections
+Disallow: /notizie-hardware/
+Disallow: /notizie-videogioco/
+Disallow: /notizie-smartphone/
+Disallow: /notizie-culturapop/
+Disallow: /notizie-automotive/
+Disallow: /notizie-business/
+Disallow: /notizie-altro/
+Disallow: /notizie-video/
+Disallow: /tipo-prodotto/
+
+# Legacy and utility pages
+Disallow: /img_vedi.php
+Disallow: /forum/
+Disallow: /ricerca/
+Disallow: /codici-sconto/
+Disallow: /cont/
+Disallow: /software.php
+Disallow: /network.php
+Disallow: /amp_validated_url
+
+# Social Media Bots
+User-agent: Twitterbot
+User-agent: facebookexternalhit
+User-agent: WhatsApp
+Allow: /
+
+# Allow Adasta bot
+User-agent: grapeshot
+Allow: /
+
+# Allowed SEO Tools with rate limit
+User-agent: AhrefsBot
+Crawl-delay: 15
+Allow: /
+
+# Block known malicious, aggressive and other SEO bots
+User-agent: Acunetix
+User-agent: ChinaClaw
+User-agent: DotBot
+User-agent: FHscan
+User-agent: MJ12Bot
+User-agent: MauiBot
+User-agent: NPBot
+User-agent: NPBot-1/2.0
+User-agent: Teleport
+User-agent: magpie-crawler
+User-agent: PiplBot
+User-agent: Exabot
+User-agent: HTTrack
+User-agent: WebCopier
+User-agent: WebReaper
+User-agent: WebStripper
+User-agent: WebZIP
+User-agent: Wget
+User-agent: Xenu
+User-agent: Zao
+User-agent: Zeus
+User-agent: ZyBorg
+User-agent: Screaming Frog SEO Spider
+User-agent: rogerbot
+User-agent: Bytespider
+User-agent: SeznamBot
+User-agent: Linguee
+User-agent: ia_archiver
+User-agent: Baiduspider
+User-agent: proximic
+User-agent: 360Spider
+User-agent: SemrushBot
+Disallow: /
+
+# XML Sitemaps
+Sitemap: https://www.tomshw.it/sitemap.xml
+Sitemap: https://www.tomshw.it/google-news-sitemap.xml

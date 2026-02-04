@@ -1,0 +1,28 @@
+Sitemap: https://www.avisen.dk/sitemap_index.aspx 
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: upday
+Allow: /
+
+User-agent: *
+Disallow: /tu_*
+Disallow: /edit/
+Disallow: /Edit/
+Disallow: /errors/
+Disallow: /Errors/
+Disallow: /handlers/
+Disallow: /Handlers/
+Disallow: /5195128/
+Disallow: /jobhaandbog/emner/
+Disallow: /controlpanel/
+Disallow: /arkiv/
+Disallow: /utility/
+Disallow: /photos/
+Disallow: /touch
+Disallow: /touch/
+
+User-agent: *
+Allow: /
+

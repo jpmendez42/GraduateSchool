@@ -1,0 +1,26 @@
+Sitemap: https://www.csas.cz/sitemap.xml
+
+User-agent: Applebot
+Allow: /
+
+User-agent: *
+Disallow: /_jcr_content/*
+Disallow: /jcr:content/*
+Disallow: *jcr_content*
+Disallow: *jcr:content*
+Disallow: /etc*
+Disallow: /libs*
+Disallow: /webapi*
+Disallow: /onlinechat*
+Disallow: /applications*
+Disallow: /configuration/*
+Allow: */*.jpeg$
+Allow: */*.jpg$
+Disallow: ?utm
+Disallow: ?gclid=*
+Disallow: &gclid=*
+Disallow: ?fbclid=*
+User-agent: *
+Disallow: /*.compare
+Disallow: /*.question
+Disallow: /*nodeId=

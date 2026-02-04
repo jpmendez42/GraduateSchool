@@ -1,0 +1,137 @@
+# MODATA 19/06/23
+User-agent: Slurp
+Disallow: /
+
+# MODATA 01/09/23
+#User-agent: Bingbot
+#Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+# MODATA 02/09/23
+User-agent: Bytedance
+Disallow: /
+
+# MODATA 26/09/23
+User-agent: dotbot
+Disallow: /
+
+# MODATA 04/01/24
+User-agent: SemrushBot
+Disallow: /
+
+# MODATA 22/01/24
+User-agent: grapeshot
+Disallow: /
+
+User-agent: CriteoBot
+Disallow: /
+
+User-agent: semantic-visions.com
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+# MODATA 25/01/24
+User-agent: PetalBot
+Disallow: /
+
+# MODATA 26/01/24
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: nooze-bot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: AwarioBot
+Disallow: /
+
+# MODATA 27/01/24
+User-agent: dotbot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: um-IC
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: MojeekBot
+Disallow: /
+
+User-agent: BrightEdge Crawler
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Pagelbot
+Disallow: /
+
+User-agent: YahooInternalTag
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+# MODATA 11/03/2024
+User-agent: barkrowler
+Disallow: /wp-admin/
+
+# MODATA 19/06/2024
+User-agent: barkrowler
+Disallow: /
+
+# MODATA 12/07/24
+User-agent: GPTBot
+Disallow: /
+
+# MODATA 14/07/24
+User-agent: GrapeshotCrawler
+Disallow: /
+
+# MODATA 05/11/24
+User-agent: Senuto
+Disallow: /
+
+# MODATA 12/12/24
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+# MODATA 03/02/25
+User-agent: barkrowler
+Disallow: /
+
+# MODATA 15/09/25
+User-agent: Google-Extended
+Disallow:    /
+
+User-agent: GPTBot
+User-agent: ChatGPT-User
+Disallow: /

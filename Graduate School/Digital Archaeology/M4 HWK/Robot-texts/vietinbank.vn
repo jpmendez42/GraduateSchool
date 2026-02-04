@@ -1,0 +1,12 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /draft
+
+# Host
+Host: https://vietinbank.vn
+
+# Sitemaps
+Sitemap: https://vietinbank.vn/sitemap.xml

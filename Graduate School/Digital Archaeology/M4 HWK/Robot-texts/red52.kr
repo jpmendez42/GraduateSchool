@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Allow: /LINK/
+Allow: /PandaTV/
+Allow: /MIB/
+Allow: /AVKOREA/
+Allow: /AV_KOREA/
+Allow: /BlackChat/
+Allow: /CandyAI/
+Allow: /PornX/
+
+User-agent: YandexBot
+Crawl-delay: 30
+User-agent: bingbot
+Crawl-delay: 30

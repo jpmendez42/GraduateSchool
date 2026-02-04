@@ -1,0 +1,19 @@
+User-agent: *
+
+#Disallow: /fileadmin/template/css/
+#Disallow: /fileadmin/template/js/
+Disallow: /fileadmin/php/
+Disallow: /fileadmin/template/ts/
+Disallow: /fileadmin/template/ext/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/*/public
+Disallow: /typo3temp/
+Allow: /typo3temp/assets/
+Disallow: /typo3/
+
+#On empeche l'indexation de la page de resultats de recherche
+#Disallow: /resultats-de-recherche/ ces pages contiennent déjà un balise meta robots =>noindex, nofollow.
+#supprimer le nofollow
+
+#On empeche l'indexation des fichers typoscript
+#Disallow: /*.ts$ => désactivé avec /fileadmin/template/ts/

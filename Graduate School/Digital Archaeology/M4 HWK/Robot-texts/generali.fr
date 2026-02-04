@@ -1,0 +1,101 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+Disallow: /index.php/user/logout/***
+# URLS Generali
+Disallow: /ensemble-face-aux-risques/
+Disallow: /sites/default/files-d8/2022-05/Cadre_Souscription_Lemoine.pdf
+Disallow: /espace-client/public/activation/erreur
+Disallow: /mrh/reprise_tarification
+Disallow: /node
+Disallow: /taxonomy/
+Disallow: /bloc
+Disallow: /content/
+Disallow: /load-alert-block
+Disallow: /rb_371fc954-196a-4957-abe9-cc52be2f46a2
+Disallow: /sites/default/files-d8/2021-05/Publication internet 2020 VF_0.docx
+Disallow: /sites/default/files-d8/2022-10/RAPPORTTHSN2021.pdf
+Disallow: /sites/default/files-d8/2025-04/SG2013MARK-25-Fiche-Prevention-INONDATION.pdf
+Disallow: /sites/default/files-d8/2025-04/SG2014MARK-25-Fiche-Prevention-RGA.pdf
+Disallow: /sites/default/files-d8/2025-04/SG2076MARK-25-Fiche-MEMO-prevention-INONDATION.pdf
+Disallow: /sites/default/files-d8/2025-04/SG2075MARK-25-Fiche-MEMO-prevention-RGA.pdf
+Disallow: /sites/default/files-d8/2025-04/sg2013mark-25-fiche-prevention-inondation.pdf
+Disallow: /sites/default/files-d8/2025-04/sg2014mark-25-fiche-prevention-rga.pdf
+Disallow: /sites/default/files-d8/2025-04/sg2076mark-25-fiche-memo-prevention-inondation.pdf
+Disallow: /sites/default/files-d8/2025-04/sg2075mark-25-fiche-memo-prevention-rga.pdf
+Disallow: /sites/default/files-d8/2025-04/SG2014MARK-25-%20Fiche-prevention-RGA-0425.pdf
+Disallow: /sites/default/files-d8/2025-04/SG2013MARK-25-Fiche-prevention-INONDATION_0.pdf
+Disallow: /sites/default/files-d8/2025-04/SG2076MARK-25-%20Fiche-MEMO-prevention-INONDATION_0.pdf
+Disallow: /sites/default/files-d8/2025-04/W_04_SG2075MARK-25-Fiche-MEMO-prevention-RGA-0425.pdf
+Disallow: /sites/default/files-d8/2025-06/Fiche-Reduction-Vulnerabilite_RGA.pdf
+Disallow: /sites/default/files-d8/2025-06/Fiche-Reduction-Vulnerabilite_INONDATION.pdf
+Disallow: /sites/default/files-d8/2025-06/MEMO-Reduction-Vulnerabilite_RGA.pdf
+Disallow: /sites/default/files-d8/2025-06/MEMO-Reduction-Vulnerabilite_INONDATION.pdf
+Disallow: /sites/default/files-d8/2025-06/Fiche-Reduction-Vulnerabilite_INONDATION-PRO.pdf
+Disallow: /sites/default/files-d8/2022-09/prevoyance beneficiaire.jpg
+Disallow: /assurance-auto/rappel-agent/
+Disallow: /aide/results
+Disallow: /recherche
+Disallow: /*ajax
+Disallow: /mes-demandes-en-ligne/Automobile/acte/*civil
+
+User-agent: TextBulkerBot
+Disallow: /

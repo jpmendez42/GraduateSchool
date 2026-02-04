@@ -1,0 +1,10 @@
+User-agent: grapeshot
+Disallow:
+
+Sitemap: https://www.designmag.it/sitemap.xml
+Sitemap: https://www.designmag.it/sitemap-news.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php

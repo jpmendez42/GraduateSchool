@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /sess/
+Disallow: /shared/
+Disallow: /prasa/
+Disallow: /zamowienia_publiczne/files
+Disallow: /wyszukiwarka
+Disallow: /regulamin
+Disallow: /tvp-world/
+Allow: /
+Sitemap: https://belsat.eu/sitemap-full_index.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /api/sitemap
+Disallow: /api/
+Disallow: /?/
+Disallow: /risultati-ricerca/
+Disallow: /config/
+Disallow: /magazine/glossario/
+
+User-agent: Googlebot
+Allow: /magazine/glossario/
+
+Sitemap: https://www.bancobpm.it/sitemap_index.xml

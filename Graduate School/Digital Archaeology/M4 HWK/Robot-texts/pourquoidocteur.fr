@@ -1,0 +1,16 @@
+User-agent: *
+Sitemap:https://www.pourquoidocteur.fr/sitemap-news.xml
+Sitemap:https://www.pourquoidocteur.fr/sitemap.xml
+Sitemap:https://www.pourquoidocteur.fr/sitemap-images.xml
+Sitemap:https://www.pourquoidocteur.fr/sitemap-videos.xml
+Allow: /
+Allow: /admin/blacktheme/scripts/tinymce_new/js/tinymce/plugins/moxiemanager/data/files/
+Disallow: /admin
+Disallow: /Doconnection
+Disallow: /index.php?op=Home&action=Docennect
+Disallow: /index.php?op=Home&action=Doforget
+Disallow: /index.php?op=NewCommentsFeede
+Disallow: /index.php?op=CommentsFeeder
+Disallow: /index.php?op=Home&action=SendToFriend
+
+

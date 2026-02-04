@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><!--<![endif]-->
+
+
+<head>
+        <!-- Basic Page Needs -->
+    <meta charset="utf-8">
+
+    <title>Shaheed Nandkumar Patel Vishwavidyalaya, Raigarh (C.G.)</title>
+
+    <meta name="author" content="themesflat.com">
+
+    <!-- Mobile Specific Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Bootstrap  -->
+    <link rel="stylesheet" type="text/css" href="https://www.snpvraigarh.in/home_assets/stylesheets/bootstrap.css" >
+
+     <!--Theme Style--> 
+    <link rel="stylesheet" type="text/css" href="https://www.snpvraigarh.in/home_assets/stylesheets/style.css">
+
+     <!--Responsive--> 
+    <link rel="stylesheet" type="text/css" href="https://www.snpvraigarh.in/home_assets/stylesheets/responsive.css">
+    <!--
+     Colors 
+-->   
+<!--<link rel="stylesheet" type="text/css" href="https://www.snpvraigarh.in/home_assets/stylesheets/color1.css" id="colors">-->
+    
+     <!--Animation Style--> 
+    <!--<link rel="stylesheet" type="text/css" href="https://www.snpvraigarh.in/home_assets/stylesheets/animate.css">-->
+
+    <!--<link rel="stylesheet" type="text/css" href="https://www.snpvraigarh.in/home_assets/stylesheets/font-awesome.min.css">-->
+		
+    <!--<link href="https://www.snpvraigarh.in/home_assets/stylesheets/bootstrap.min.css" rel="stylesheet" type="text/css" />-->
+    
+    <!--<link rel="stylesheet" href="http://fontawesome.io/assets/font-awesome/css/font-awesome.css" type="text/css" />-->
+    
+    <link rel="stylesheet" href="https://www.snpvraigarh.in/css/jquery-ui-1.8.22.custom.css" type="text/css" />
+    
+    <!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">-->
+        <!-- jquery cdn --> 
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.0.2/jquery.js"></script>
+
+        <!-- bx slider script -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.js"></script>
+        <!-- bx slider css -->
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/bxslider/4.2.15/jquery.bxslider.min.css" rel="stylesheet" />
+        <!-- style.css-link-->
+        <link rel="stylesheet" href="https://www.snpvraigarh.in/css/defaultstyle.css?ver=1.0"> 
+        <!--Wow-script-cdn-animation-css-link-->
+        <link rel="stylesheet" type="text/css" href="https://www.snpvraigarh.in/css/animate.css">
+        <!--slick-theme.css-link-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick-theme.css">
+        <!--slick.css-link-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.css">
+        <!--slick.min.script-cdn -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.9/slick.min.js"></script>
+        <!--owl-carousel-script-cdn -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script> 
+        <!--owl-carouse-slider-css-->
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css" /> 
+        <!-- Fonts -->
+        <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
+        <!-- Fontawesome Icon -->
+        <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+        <!--WOW animation script-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script>
+            jQuery(document).ready(function($){
+              var time = 5;
+              var $bar,
+                  $slick,
+                  isPause,
+                  tick,
+                  percentTime;
+              
+              $slick = $('.slick.fullwidth');
+              $slick.slick({
+                dots:false, 
+                arrows: true,
+                autoplay: true,
+                autoplaySpeed: 2000,
+                slidesToShow: 1,
+                slidesToScroll: 1,
+                infinite: true,
+                buttons: true,
+                draggable: true,
+                adaptiveHeight: false,
+                mobileFirst: true,
+                pauseOnDotsHover: true, 
+                fade: true,
+                cssEase: 'linear'
+              });
+              
+              $bar = $('.slider-progress .progress');
+              
+              $('.slider-wrapper').on({
+                mouseenter: function() {
+                  isPause = true;
+                },
+                mouseleave: function() {
+                  isPause = false;
+                }
+              })
+              
+              function startProgressbar() {
+                resetProgressbar();
+                percentTime = 0;
+                isPause = false;
+                tick = setInterval(interval, 10);
+              }
+              
+              function interval() {
+                if(isPause === false) {
+                  percentTime += 1 / (time+0.1);
+                  $bar.css({
+                    width: percentTime+"%"
+                  });
+                  if(percentTime >= 100)
+                    {
+                      $slick.slick('slickNext');
+                      startProgressbar();
+                    }
+                }
+              }
+              function resetProgressbar() {
+                $bar.css({
+                 width: 0+'%' 
+                });
+                clearTimeout(tick);
+              }
+              startProgressbar();
+            });
+			
+		
+</script>
+    <link href="#" rel="shortcut icon">
+	
+	<style>.panel ul
+{
+    padding:0px;
+    margin:0px;
+    list-style:none;
+}
+.blog-box {
+   overflow: hidden;
+    border: solid 2px #eaeaea;
+    padding: 2px 20px;
+    margin-bottom: 10px;
+    width: 100%;
+      box-shadow: 0px 1px 1px 0px;
+    border-radius: 2px;
+}
+
+.news-item
+{
+      padding: 9px 7px;
+    margin: 5px;
+    border-bottom: 1px dotted #034881;
+}</style>
+
+
+
+<!--<script src="https://www.snpvraigarh.in/js/jQuery-2.1.4.min.js" type="text/javascript"></script>-->
+
+<script src="https://www.snpvraigarh.in/js/jquery-ui-min.js" type="text/javascript"></script>       
+		
+
+
+<script src="https://www.snpvraigarh.in/home_assets/javascript/jquery.bootstrap.newsbox.min.js" type="text/javascript"></script>
+
+<!-- Revolution Slider -->
+
+
+<script src="https://www.snpvraigarh.in/js/validation.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="https://www.snpvraigarh.in/js/custom.js"></script>
+
+<!--<script type="text/javascript" src="https://www.snpvraigarh.in/js/cbcs.js"></script>
+
+<script type="text/javascript" src="https://www.snpvraigarh.in/home_assets/javascript/jquery.themepunch.tools.min.js"></script>
+<script type="text/javascript" src="https://www.snpvraigarh.in/home_assets/javascript/jquery.themepunch.revolution.min.js"></script>
+<script type="text/javascript" src="https://www.snpvraigarh.in/home_assets/javascript/slider.js"></script>-->
+
+
+<script type="text/javascript">
+        
+$(document).on('focus',".datepicker", function(){
+    $(this).datepicker({
+        changeMonth: true,
+        changeYear: true,       
+        yearRange: '1940:2025',
+        dateFormat: "dd-mm-yy"
+});
+});
+
+$(document).ready(function(){
+     $("#submit_now").click(function(){
+      
+      var xx = validation("#page-form"); 
+      
+      if(!xx){
+          return false;
+      }
+  });
+});
+
+//////////////////////////
+
+    $(function () {
+        $(".demo1").bootstrapNews({
+            newsPerPage:7,
+		autoplay: true,
+	
+			pauseOnHover:true,
+            direction: 'up',
+            newsTickerInterval: 2000,
+            onToDo: function () {
+                //console.log(this);
+            }
+        });
+		
+		
+        $("#demo3").bootstrapNews({
+            newsPerPage: 3,
+            autoplay: false,
+            
+            onToDo: function () {
+                //console.log(this);
+            }
+        });
+    });
+</script>
+<script type="text/javascript">
+        jQuery(".backtotop").addClass("hidden-top");
+			jQuery(window).scroll(function () {
+			if (jQuery(this).scrollTop() === 0) {
+				jQuery(".backtotop").addClass("hidden-top")
+			} else {
+				jQuery(".backtotop").removeClass("hidden-top")
+			}
+		});
+
+		jQuery('.backtotop').click(function () {
+			jQuery('body,html').animate({
+					scrollTop:0
+				}, 1200);
+			return false;
+		});
+    </script>
+
+        
+</head>
+<style>
+/*    .ui-datepicker select.ui-datepicker-month, .ui-datepicker select.ui-datepicker-year{
+            width: 40%;
+    }*/
+    .ui-datepicker select.ui-datepicker-year{
+            width: 85%;
+    }
+    </style>
+    
+</head>
+<body id="davv-body">
+<!--Start-middel-header-section-->
+     <section id="middel-header">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="sh">
+                    <div class="col-md-10 col-md-offset-1">
+                        <div class="logo-class">
+                         <a href="https://www.snpvraigarh.in/">
+                             <div class="col-md-3"> 
+                                 <img src="https://www.snpvraigarh.in/home_assets/images/final_logo.png" class="img-responsive">
+                             </div>
+                             <div class="col-md-9" style="    margin-top: 33px;
+    font-size: 22px;
+    font-weight: 800;
+    color: #2e6da4;"> Shaheed Nandkumar Patel Vishwavidyalaya, Raigarh (C.G.)</div>
+						  
+                          </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="header-top">
+                    <div class="col-sm-12 pad-0">
+                        <div class="top-menu-section">
+                        <div class="top-ul">
+<!--                           <ul>
+                                <li>
+                                  <a href="https://www.snpvraigarh.in/public/authentication/student_login"><strong>				 
+								    Student Login
+								   </strong></a>
+                                </li>
+                                <li>
+                                    <a href="https://www.snpvraigarh.in/public/authentication/college_login"><strong>College Login</strong></a>
+                                </li>
+                                <li>    
+                                    <a href="https://www.snpvraigarh.in/public/authentication/university_login"><strong>University Login</strong></a>
+                                </li>
+                               
+                            </ul>-->
+                        </div>
+                        </div>
+                    </div>  
+                </div>
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+                </div>
+
+        </div>
+    </section>
+<!--End-middel-header-section-->  
+<!--Start-banner-section--> 
+    <section id="banner-section">
+        <!--Start-menu-header-section-->
+    <section id="menu-header">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="collapse navbar-collapse pad-0" id="myNavbar">
+                        <ul class="nav navbar-nav menu-ul">
+                            <li class="active"><a href="https://www.snpvraigarh.in/"><strong>
+							  <font color="#FFFFFF" size="3px">Home</font></strong></a></li>
+                           
+                            
+                              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><font color="#FFFFFF" size="3px"><strong>Application For</strong></font><span class="caret"></span></a>
+                                <ul class="dropdown-menu wow fadeIn">
+                                     <li><a href="https://www.snpvraigarh.in/public/registratin/applications#migration">Migration Certificate</a></li>
+                                    <li><a href="https://www.snpvraigarh.in/public/registratin/applications#provisional">Provisional Certificate</a></li>
+                                    <li><a href="https://www.snpvraigarh.in/public/registratin/applications#duplicate_marksheet">Duplicate Marksheet</a></li>
+                                      <li><a href="#">Eligibility Certificate</a></li>
+                                    
+                                </ul>
+                            </li>  
+                              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><font color="#FFFFFF" size="3px"><strong>Registration Enrollment</strong></font><span class="caret"></span></a>
+                                <ul class="dropdown-menu wow fadeIn">
+                                     <li> <a href="#">Regular</a></li>
+                                    <li><a href="#">Private</a></li>
+                                    <li><a href="#">Other University (Regular)</a></li>
+                                     
+                                </ul>
+                            </li>  
+                              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><font color="#FFFFFF" size="3px"><strong>Registration</strong></font><span class="caret"></span></a>
+                                <ul class="dropdown-menu wow fadeIn">
+                                     <li><a href="#">Private and Other University</a></li>
+                                    <li><a href="#">PHD (Exam & Enrollment)</a></li>
+                                    <li><a href="#">PHD (Only Enrollment)</a></li>
+                                    <li><a href="https://www.snpvraigarh.in/public/registratin/teacher_registration">Teachers Registration</a></li>
+                                </ul>
+                            </li>  
+                              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><font color="#FFFFFF" size="3px"><strong>Examination Forms</strong></font><span class="caret"></span></a>
+                                <ul class="dropdown-menu wow fadeIn">
+                                     <li><a href="#" id="main_exam_btn">Annual/Semester</a></li>
+                                    <li><a href="#" id="suppli_exam_btn">Supplementary</a></li>
+                                    <li><a href="#" id="udt_exam_btn">UTD</a></li>
+                                    <li> <a href="#" id="rvrt_exam_btn">Revaluation and Retotaling</a></li>
+                                    
+                                </ul>
+                            </li>  
+                              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><font color="#FFFFFF" size="3px"><strong>Registration Exam</strong></font><span class="caret"></span></a>
+                                <ul class="dropdown-menu wow fadeIn">
+                                     <li><a href="#">GAP </a></li>
+                                    
+                                </ul>
+                            </li>  
+                              <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><font color="#FFFFFF" size="3px"><strong>Download</strong></font><span class="caret"></span></a>
+                                <ul class="dropdown-menu wow fadeIn">
+                                     <li> <a href="#">Admit Card </a></li>
+                                    <li><a href="#">Attendance Sheet</a></li>
+                                    <li><a href="#" target="_blank">Question Paper without Login</a></li>
+                                    
+                                </ul>
+                            </li>  
+                            
+<!--                            <li class="float-right search-bar"> 
+                                <div id="wrap1">
+                                  			  	
+                                  <input type="text" id="search1" style="color: black; display: none;" name="search"  placeholder="Search Here!!!" required="true" >
+					 <button type="submit" style="color: black;" id="HomeSearch">  <i class="fa fa-search"></i> </button>
+								  
+                                </div>
+                            </li>-->
+                            
+                        </ul>
+                    </div>
+                    <div class="row"><marquee direction="left" style="color:#fff;" scrolldelay="100" behavior="scroll">शैक्षणिक सत्र 2025-26 में स्नातक स्तर के पाठ्यक्रम में प्रवेश लेने वाले विद्यार्थी राष्ट्रीय शिक्षा नीति 2020 के पाठ्यक्रम के अंतर्गत प्रवेश लेंगे.</marquee></div>
+                </div>
+            </div> 
+        </div>
+    </section><section id="content" class="content layout-mr nopos-contact nopos-main block">
+  <div class="yt-main">
+    <div class="yt-main-in1 container">
+      <div class="yt-main-in2 row-fluid">
+          <img src="https://www.snpvraigarh.in/images/error404.gif" class="img-responsive">
+      </div>
+    </div>
+  </div>
+</section>
+
+<script type="text/javascript" src="https://www.snpvraigarh.in/home_assets/javascript/bootstrap.min.js"></script>
+ <section id="bottom-footer-section">
+
+        <div class="container">
+
+        
+            <div class="row">
+
+                <div class="bottom-footer">
+
+                    <div class="col-sm-3 wow slideInUp">
+
+                        <div class="footer-heading">
+                            <h6><img src="https://www.snpvraigarh.in/home_assets/images/final_logo.png" class="img-responsive" style="width:70px;display: -webkit-inline-box;">
+                            UNIVERSITY</h6>
+
+                            
+                                <ul>
+
+<!--                                    <li> <div class="textwidget" style="font-size:12px;color: white;">Towards an Excellence through Equity, Atal Bihari Vajpayee University was established in June, 2012 though it was gazetted on 2nd March 2012. After its establishment, based on priority, the University has prepared the Road map as follows
+                                        </div></li>-->
+
+                                </ul>
+
+
+                                
+
+                        </div>
+
+                    </div>
+
+                    <div class="col-sm-3 wow slideInUp">
+
+                        <div class="footer-heading">
+
+                            <h6><a href="#">ONLINE EXAM FORM</a></h6>
+
+                           
+                              <ul>
+                                  <li><a href="#">Main/Supplementary Exam Form</a></li>
+
+                                  <li><a href="#">To know your Application Status</a></li>
+
+                                  <li><a href="#">Get Your Roll No & Enrollment</a></li>
+
+                                 
+                              </ul>
+                           <!--   <div class="visier-counter-div"> 
+                                <a class="scroll nav-link clsContenrchild clsEnquiry circle-ripple" href="#">
+                                  Total Visitors:  
+                                      <span>1020</span>
+                                </a>   
+                            </div>   -->
+                        </div>
+
+                    </div>
+
+                    <div class="col-sm-3 wow slideInUp">
+
+                        <div class="footer-heading">
+
+                            <h6><a href="#">OTHER LINKS</a></h6>
+
+                           
+                              <ul>
+
+                                  <li><a href="#">Home</a></li>
+
+                                  <li><a href="#">Application Status</a></li>
+
+                                  <li><a href="#">Results</a></li> 
+
+                                  <li> <a href="#">Contact Us</a> </li>
+                                  <li> <a href="https://www.snpvraigarh.in/public/home/terms"> Terms & Conditions</a></li>
+								  
+					
+                              </ul>
+                         
+                        </div>
+
+                    </div>
+
+                    <div class="col-sm-3 wow slideInUp">
+
+                        <div class="footer-heading">
+
+                            <h6>CONTACT US</h6>
+
+                           
+                            <h6 class="yellow-color">Shaheed Nandkumar Patel Vishwavidyalaya</h6><br/> <h5 class="yellow-color">Garhumaria, Odisha Road, Raigarh (Chhattisgarh)
+Pin code : 496001 </h5>
+                            <p>
+
+                                <i class="fa fa-envelope-o"></i><span>registrarsnpv@gmail.com</span>
+                            </p>
+
+                            
+                             
+							
+					
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+          
+        </div>
+
+    </section>
+
+<!--End-bootom-footer-section-->
+
+<!--Start-last-footer-section-->
+
+<section id="last-footer">
+
+  <div class="container">
+
+    <div class="row">
+
+       <div class="col-sm-12">
+
+         <div class="copy-right-footer">
+
+                  <div class="col-md-12 col-sm-12 col-xs-12">
+
+                   <div class="copyright col-md-10" align="center">
+                           Copyright © 2025 Shaheed Nandkumar Patel Vishwavidyalaya, Raigarh (C.G.). All Rights Reserved.
+                        </div>
+                  </div>
+             
+
+                </div>
+
+       </div>
+
+    </div>
+
+  </div>
+
+</section>

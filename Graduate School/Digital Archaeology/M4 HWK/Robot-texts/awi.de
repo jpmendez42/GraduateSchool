@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /fileadmin/
+Disallow: /typo3conf/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3temp/
+Disallow: /pdf/
+Disallow: /pdf/pdf-renderer.html
+Disallow: /index.php?id=1764&

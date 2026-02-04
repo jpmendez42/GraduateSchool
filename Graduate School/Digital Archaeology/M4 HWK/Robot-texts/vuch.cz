@@ -1,0 +1,36 @@
+    User-agent: *
+
+    Disallow: /admin/*
+    Disallow: /w/*
+    Disallow: /api/*
+    Disallow: /index.php
+    Disallow: /*?zenid=
+    Disallow: /*?mena
+    Disallow: /*&mena
+    Disallow: /*?nastranu
+    Disallow: /*&nastranu
+    Disallow: /*?razeni
+    Disallow: /*&razeni
+    Disallow: /*?styl=*
+    Disallow: /*&styl=*
+    Disallow: /*?enum=*
+    Disallow: /*&enum=*
+    Disallow: /*?_forceMobile
+    Disallow: /*&_forceMobile
+    Disallow: /*?_forceDesktop
+    Disallow: /*&_forceDesktop
+    Disallow: /*?_rcmd=
+    Disallow: /*&_rcmd=
+    Disallow: /Koupit*
+    Disallow: /add-cart*
+    Disallow: /_/planovani-trasy/*
+    Disallow: /_/login/*
+
+Disallow: /*?f=
+Disallow: /*?f*=
+Disallow: /*&f=
+Disallow: /*&f*=
+Disallow: /hlidaci-pes*
+
+
+Sitemap: https://www.vuch.cz/sitemap.xml

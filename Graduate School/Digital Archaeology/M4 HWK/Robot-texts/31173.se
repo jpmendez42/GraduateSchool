@@ -1,0 +1,638 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is brought to you by Pixelant. http://www.pixelant.se/
+
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2014 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
+-->
+
+<base href="https://www.31173.se/">
+
+<title>31173 Services AB - colocation och nätverk</title>
+<meta name="generator" content="TYPO3 6.2 CMS">
+<meta name="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimal-ui">
+
+
+<link rel="stylesheet" type="text/css" href="/typo3temp/compressor/merged-3bc467bd21f50d3dce1e4ba72acfc007.css?1573734593" media="all">
+
+
+
+<script src="/typo3temp/compressor/merged-f71ac0e6bff2176e498eee24a9127999.js?1415955269" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-75583517-1', 'www.31173.se');
+ga('send', 'pageview');
+</script>
+<meta name="description" content="31173 Services AB levererar colocation, våglängder, transport och internet i kapaciteter från 100 Mbps till 10 Gbps till företag och teleoperatörer i hela Sverige" />
+<meta name="keywords" content="31173 Services AB, colocation, serverhall, datahall, datacenter, fiber, våglängder, transport, internet, nätverkstjänster, kapacitet, 10 Gbps, teleoperatörer, Malmö, Helsingborg, Skåne, Sverige" />
+<meta name="author" content="Peter Eriksson" />
+<meta name="robots" content="index,follow" />
+<link rel="start" href="https://www.31173.se/" />
+<link rel="canonical" href="https://www.31173.se/" />
+
+
+	
+	<link href="http://fonts.googleapis.com/css?family=Open+Sans:400" rel="stylesheet" type="text/css">
+	<meta name="mobile-web-app-capable" content="yes">
+	<link rel="icon" type="image/png" href="/favicon-196x196.png" sizes="196x196">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<meta name="msapplication-TileColor" content="#00a300">
+	<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+	<meta name="format-detection" content="telephone=no">
+	<script>
+		// touchSupport
+		touchSupport = (('ontouchstart' in window) || (navigator.MaxTouchPoints > 0) || (navigator.msMaxTouchPoints > 0));
+		if (!touchSupport) {
+			document.documentElement.className += " no-touch";
+		}
+		else{
+			document.documentElement.className += " touch";
+		}
+		// IE version
+		var uA = window.navigator.userAgent;
+		var msie = uA.indexOf('MSIE ');
+		var trident = uA.indexOf('Trident/');
+		var ie;
+		function detectIE() {
+			if (msie > 0) {
+				// IE 10 or older => return version number
+				ie = 'ie' + parseInt(uA.substring(msie + 5, uA.indexOf('.', msie)), 10);
+				return ie;
+			}
+			if (trident > 0) {
+				// IE 11 (or newer) => return version number
+				var rv = uA.indexOf('rv:');
+				ie = 'ie' + parseInt(uA.substring(rv + 3, uA.indexOf('.', rv)), 10);
+				return ie;
+			}
+		return ie = 'nonIE';
+		}
+		detectIE();
+		if (ie === 'nonIE') {
+			document.documentElement.className += (' ' + ie);
+		} else{
+			document.documentElement.className += (' ' + (ie + ' ' + 'IE'));
+		}
+	</script>
+	
+		<link rel="stylesheet" type="text/css" href="/fileadmin/felayout_31173_services/main.css">
+</head>
+<body>
+
+
+
+
+
+
+	<!--[if lt IE 9]>
+		<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+	<![endif]-->
+	<header class="pxa-header">
+		
+		<a id="c854"></a><a id="c709"></a>
+
+	
+		<div class="header-middle">
+	
+	
+		<div class="container">
+	
+	
+	<div class="row">
+		
+			
+					
+				
+			<div class="col-md-12 ">
+				<div id="c541" class="csc-default">
+
+
+	<div class="logo">
+		
+			
+				
+					
+						<img class="img-responsive" alt="31173 Services AB" src="/fileadmin/user_upload/31173_logo_horizontal_color-80px.png" width="242" height="80" title="31173 Services AB" />
+					
+				
+			
+		
+	</div>
+</div>
+			</div>
+		
+	</div>
+	
+	
+		</div>
+	
+	
+		</div>
+	
+<a id="c710"></a>
+
+
+	<nav class="navbar navbar-default pxa-main-nav   pxa-main-nav-root-btn" role="navigation">
+		<div class="container">
+			
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle pxa-nav-toggle-button collapsed" data-toggle="collapse" data-target="#pxa-root-main-navbar-collapse">
+						<span class="sr-only">Toggle navigation</span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+			
+
+			
+			
+
+			<div class="collapse navbar-collapse" id="pxa-root-main-navbar-collapse">
+				
+					<div class="navbar-form navbar-right pxa-main-nav-search">
+						<form class="search search  pxasolr_typeahead_form" action="https://www.31173.se/search/" method="post">
+<div>
+<input type="hidden" name="tx_pxasolr_searchbox[__referrer][@extension]" value="PxaSolr" />
+<input type="hidden" name="tx_pxasolr_searchbox[__referrer][@controller]" value="Search" />
+<input type="hidden" name="tx_pxasolr_searchbox[__referrer][@action]" value="quicksearch" />
+<input type="hidden" name="tx_pxasolr_searchbox[__referrer][arguments]" value="YTowOnt9b46251a4c955b30f7eb86cca6b6c30ebb97e1b4b" />
+<input type="hidden" name="tx_pxasolr_searchbox[__trustedProperties]" value="a:4:{s:5:&quot;sword&quot;;i:1;s:18:&quot;resultsForOverview&quot;;i:1;s:15:&quot;searchResultUid&quot;;i:1;s:16:&quot;searchCurrentUid&quot;;i:1;}c05606ef2a385f0c0a424cda9a506cb2b51ec167" />
+</div>
+
+	<span class="icons icon-t3-search"></span>
+	<div class="form-group">
+		<input class="form-control quicksearch  pxasolr_typeahead_qs" type="text" name="tx_pxasolr_searchbox[sword]" />
+
+
+	</div>
+	
+<input id="loggedIn" type="hidden" name="" value="" />
+
+<!-- Save the number of items to show per searchtag in the overview -->
+<input class="resultsForOverview" type="hidden" name="tx_pxasolr_searchbox[resultsForOverview]" value="3" />
+<!-- current id and searchpage id -->
+<input id="searchResultUid" type="hidden" name="tx_pxasolr_searchbox[searchResultUid]" value="57" />
+<input id="searchCurrentUid" type="hidden" name="tx_pxasolr_searchbox[searchCurrentUid]" value="1" />
+</form>
+
+<script type="text/javascript">
+var suggest_url = 'https://www.31173.se/search/?eID=tx_solr_suggest&amp;id=1';
+suggest_url = suggest_url.replace(/\&amp;/g,'&');
+</script>
+
+					</div>
+				
+				
+				
+
+				
+						
+							<ul class="nav navbar-nav">
+								
+									
+											<li class="current">
+												<a title="Start" href="/">Start</a>
+											</li>
+										
+								
+									
+											<li class="sub">
+												<a href="/datacenter/" class="dropdown-toggle" data-toggle="dropdown" title="Datacenter">Datacenter<span class="icons icon-t3-dropdown-arrow"></span><span class="caret"></span></a>
+												
+													<ul class="dropdown-menu">
+														
+															<li class="">
+																<a title="Våra datacenter" href="/datacenter/">Våra datacenter</a>
+															</li>
+														
+															<li class="">
+																<a title="DC Lund Mobilvägen" href="/datacenter/dc-lund-mobilvagen/">DC Lund Mobilvägen</a>
+															</li>
+														
+															<li class="">
+																<a title="DC Malmö Scheelegatan" href="/datacenter/dc-malmo-scheelegatan/">DC Malmö Scheelegatan</a>
+															</li>
+														
+													</ul>
+												
+											</li>
+										
+								
+									
+											<li class="sub">
+												<a href="/nat/" class="dropdown-toggle" data-toggle="dropdown" title="Nät">Nät<span class="icons icon-t3-dropdown-arrow"></span><span class="caret"></span></a>
+												
+													<ul class="dropdown-menu">
+														
+															<li class="">
+																<a title="Vårt nät" href="/nat/">Vårt nät</a>
+															</li>
+														
+															<li class="">
+																<a title="POPar" href="/nat/popar/">POPar</a>
+															</li>
+														
+															<li class="">
+																<a title="Mindre noder och telestationer" href="/nat/mindre-noder-och-telestationer/">Mindre noder och telestationer</a>
+															</li>
+														
+															<li class="">
+																<a title="Looking glass" href="/nat/looking-glass/">Looking glass</a>
+															</li>
+														
+													</ul>
+												
+											</li>
+										
+								
+									
+											<li class="sub">
+												<a href="/tjanster/" class="dropdown-toggle" data-toggle="dropdown" title="Tjänster">Tjänster<span class="icons icon-t3-dropdown-arrow"></span><span class="caret"></span></a>
+												
+													<ul class="dropdown-menu">
+														
+															<li class="">
+																<a title="Våra tjänster" href="/tjanster/">Våra tjänster</a>
+															</li>
+														
+															<li class="">
+																<a title="Bredband" href="/tjanster/bredband/">Bredband</a>
+															</li>
+														
+															<li class="">
+																<a title="Nättjänster" href="/tjanster/nattjanster/">Nättjänster</a>
+															</li>
+														
+															<li class="">
+																<a title="Colocation" href="/tjanster/colocation/">Colocation</a>
+															</li>
+														
+															<li class="">
+																<a title="Fastighetsnät" href="/tjanster/fastighetsnat/">Fastighetsnät</a>
+															</li>
+														
+													</ul>
+												
+											</li>
+										
+								
+									
+											<li class="sub">
+												<a href="/om-oss/" class="dropdown-toggle" data-toggle="dropdown" title="Om oss">Om oss<span class="icons icon-t3-dropdown-arrow"></span><span class="caret"></span></a>
+												
+													<ul class="dropdown-menu">
+														
+															<li class="">
+																<a title="Om oss" href="/om-oss/">Om oss</a>
+															</li>
+														
+															<li class="">
+																<a title="Kontakt &amp; Bolagsuppgifter" href="/om-oss/kontakt-bolagsuppgifter/">Kontakt &amp; Bolagsuppgifter</a>
+															</li>
+														
+															<li class="">
+																<a title="Peering information" href="/om-oss/peering/">Peering information</a>
+															</li>
+														
+															<li class="">
+																<a title="Information om kameraövervakning" href="/om-oss/cctv/">Information om kameraövervakning</a>
+															</li>
+														
+													</ul>
+												
+											</li>
+										
+								
+							</ul>
+						
+					
+			</div>
+		</div>
+	</nav>
+
+
+
+	
+	</header>
+	<div class="pxa-start-page100">
+		<!--TYPO3SEARCH_begin-->
+		<a id="c653"></a>
+
+	
+	
+		<div class="container">
+	
+	
+	<div class="row">
+		
+			
+					
+				
+			<div class="col-md-12 ">
+				<a id="c876"></a><div class="csc-space-before-20"></div><div class="image-beside-right image-beside"><div class="image-wrap"><figure class="image"><img src="/fileadmin/_processed_/csm_31173_logo_symbol_color_47e28d370e.png" width="300" height="290" class="" alt="31173 Services AB" title="31173 Services AB"></figure></div><div class="text"><p><b>BREDBAND OCH NÄTTJÄNSTER<br /></b></p>
+<p>Vi levererar bredband från 10Mbit/s till 100Gbit/s till företag i Stockholm, Göteborg, Malmö, Helsingborg och Lund med omnejder. Vi levererar även avancerade nättjänster som transit, L2VPN, L3VPN, transport, remote peering, optiska våglängder och svartfiber.</p>
+<p>&nbsp;</p>
+<p><b>DATACENTER</b></p>
+<p>I våra datacenter i <a href="/datacenter/dc-lund-mobilvagen/" title="Opens internal link in current window" class="internal-link">Lund</a> och <a href="/datacenter/dc-malmo-scheelegatan/" title="Opens internal link in current window" class="internal-link">Malmö</a> levererar vi säkra och stabila colocation- och hostingtjänster till företag i hela landet. Här kan du hyra plats för allt från enstaka servrar till hela rack och rum. Vi erbjuder även inköp, installation och drifttjänster.</p>
+<p>&nbsp;</p>
+<p><b>NÄT I SVERIGE<br /></b></p>
+<p><a href="/nat/" title="Opens internal link in current window" class="internal-link">Vår Sverigering</a> sträcker sig för närvarande Malmö-Göteborg-Stockholm-Malmö, med förgreningar in i landet från dessa knutpunkter. Vi använder oss enbart av svartfiber och egen våglängdsutrustning eller hyrda optiska våglängder om 10Gbit/s eller mer och alla knutpunkter är anslutna med minst två separata fibervägar. </p>
+<p>&nbsp;</p>
+<p><b>INTERNATIONELLT NÄT<br /></b></p>
+<p><a href="/nat/" title="Opens internal link in current window" class="internal-link">Vårt IP/MPLS-baserade nät</a> sträcker sig för närvarande över 30 POP:ar i 7 länder från Stockholm i norr till Schweiz i söder med direkta kopplingar till strategiska knutpunkter i bland annat Köpenhamn, Amsterdam, London, Frankfurt, Paris och Zürich.</p>
+<p>Nätet är byggt med fokus på prestanda - låg latens och ingen överbokning - redundans och säkerhet.</p>
+<p> Vi använder oss enbart av optiska våglängder om 10Gbit/s eller mer och alla knutpunkter är anslutna med minst två våglängder, till minst två Tier 1 transitleverantörer, samt till minst en lokal Internet Exchange (IX).</p>
+<p>Nätet övervakas 24/7 och vi tillämpar kraven enligt MANRS (https://www.manrs.org/) inklusive filtrering på RPKI genom hela IP-nätet.</p></div></div>
+<div class="csc-default"><div class="divider"><hr></div></div>
+			</div>
+		
+	</div>
+	
+	
+		</div>
+	
+	
+
+<a id="c650"></a>
+
+	
+	
+		<div class="container">
+	
+	
+	<div class="row">
+		
+			
+					
+				
+			<div class="col-md-4 ">
+				<div id="c564" class="csc-default">
+
+	<div class="elem1 bigIcon">
+		
+			<span class="icons icon-graph"></span>
+		
+		
+			<h3>Våra datacenter</h3>
+		
+		
+			
+					<p>Läs mer om våra datacenter i Malmö och Lund!</p>
+				
+		
+		
+			<a href="/datacenter/" class="btn btn-default" title="Läs mer"><span>Läs mer</span></a>
+		
+	</div>
+</div>
+			</div>
+		
+			
+					
+				
+			<div class="col-md-4 ">
+				<div id="c588" class="csc-default">
+
+	<div class="elem1 bigIcon">
+		
+			<span class="icons icon-network"></span>
+		
+		
+			<h3>Vårt nät</h3>
+		
+		
+			
+					<p>Vårt nät byggdes från början för att hantera den massiva trafiken från våra datacenter, men är nu även tillgängligt för andra operatörer och kunder!</p>
+				
+		
+		
+			<a href="/nat/" class="btn btn-default" title="Läs mer"><span>Läs mer</span></a>
+		
+	</div>
+</div>
+			</div>
+		
+			
+					
+				
+			<div class="col-md-4 ">
+				<div id="c565" class="csc-default">
+
+	<div class="elem1 bigIcon">
+		
+			<span class="icons icon-briefcase"></span>
+		
+		
+			<h3>Våra tjänster</h3>
+		
+		
+			
+					<p>I våra datacenter och via vårt nät kan vi leverera många andra högkvalitativa tjänster, förutom bara plats och kapacitet.</p>
+				
+		
+		
+			<a href="/tjanster/" class="btn btn-default" title="Läs mer"><span>Läs mer</span></a>
+		
+	</div>
+</div>
+			</div>
+		
+	</div>
+	
+	
+		</div>
+	
+	
+
+<a id="c655"></a>
+
+	
+	
+		<div class="container">
+	
+	
+	<div class="row">
+		
+			
+					
+				
+			<div class="col-md-12 ">
+				<div class="csc-default"><div class="divider"><hr></div></div>
+			</div>
+		
+	</div>
+	
+	
+		</div>
+	
+	
+
+		<!--TYPO3SEARCH_end-->
+	</div>
+	<footer class="pxa-footer">
+		
+
+<footer class="footer">
+	<a id="c662"></a>
+
+	
+	
+		<div class="container">
+	
+	
+	<div class="row">
+		
+			
+					
+				
+			<div class="col-md-6 footer-about">
+				<a id="c501"></a><h4>Om 31173 Services AB</h4><p>31173 Services AB är datacenterspecialisten och nätleverantören i södra Sverige som skapar kostnadseffektiva lösningar för kunder med högt ställda krav på säkerhet, tillgänglighet och kapacitet.</p>
+			</div>
+		
+			
+					
+				
+			<div class="col-md-6 footer-contact">
+				<a id="c508"></a><h4>Kontakta oss</h4>
+<a id="c663"></a>
+
+	
+	
+	
+	<div class="row">
+		
+			
+					
+							
+						
+				
+			
+				
+			
+					
+							
+						
+				
+			
+				
+			<div class="col-xs-4  col-md-4  ">
+				<a id="c503"></a><p>31173 Services AB<br />Scheelegatan 9<br />212 28 Malmö</p>
+			</div>
+		
+			
+					
+							
+						
+				
+			
+				
+			
+					
+							
+						
+				
+			
+				
+			<div class="col-xs-2  col-md-2  ">
+				<div id="c573" class="csc-default"><div class="map">
+  <a class="icons icon-t3-map" href="/om-oss/kontakt-bolagsuppgifter/"></a>
+</div></div>
+			</div>
+		
+			
+					
+							
+						
+				
+			
+				
+			
+					
+							
+						
+				
+			
+				
+			<div class="col-xs-12  col-md-6  ">
+				<div id="c572" class="csc-default">
+
+	<ul class="nav contact-links" >
+		<li>
+		<p><span class="icons icon-t3-mobile"></span><span>Telefon:</span> <a href="tel:+46-40-6181000">+46-40-6181000</a></p>
+		</li>
+		<li><p><span class="icons icon-t3-mail"></span><span>Email:</span><a href="javascript:linkTo_UnCryptMailto('jxfiql7fkclX0..40+pb');">info@<span style="display:none;">remove-this.</span>31173.se</a></p>
+		</li>
+	</ul>
+</div>
+			</div>
+		
+	</div>
+	
+	
+	
+
+			</div>
+		
+	</div>
+	
+	
+		</div>
+	
+	
+<a id="c666"></a>
+
+	
+		<div class="footer-bottom">
+	
+	
+		<div class="container">
+	
+	
+	<div class="row">
+		
+			
+					
+				
+			<div class="col-md-7 footer-copyright">
+				<a id="c515"></a><p>© Alla rättigheter förbehållna 31173 Services AB</p>
+			</div>
+		
+			
+					
+				
+			<div class="col-md-5 footer-bottom-nav">
+				<a id="c516"></a><ul class="nav"><li><a href="/cookies/" title="Cookies">Cookies</a></li><li><a href="/anvandningsvillkor/" title="Användningsvillkor">Användningsvillkor</a></li></ul>
+			</div>
+		
+	</div>
+	
+	
+		</div>
+	
+	
+		</div>
+	
+
+</footer>
+
+
+	</footer>
+<script src="/typo3temp/compressor/merged-eb95dd1bf972cee7f227850bd4b56c28.js?1417085080" type="text/javascript"></script>
+<script src="/typo3temp/compressor/merged-37601cadbb72a6a10eb7a256b3aea5b1.js?1458900951" type="text/javascript"></script>
+
+
+</body>
+</html>

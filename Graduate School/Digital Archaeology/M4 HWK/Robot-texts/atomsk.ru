@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /live-program/
+Disallow: /voting/
+Disallow: /vt/
+Disallow: /stop-covid/
+Disallow: /quality/
+Disallow: /feedback-old/
+Disallow: /test/
+Disallow: /it-help/

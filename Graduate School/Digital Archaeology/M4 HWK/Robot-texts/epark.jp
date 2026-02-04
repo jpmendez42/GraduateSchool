@@ -1,0 +1,51 @@
+
+User-agent: *
+Allow: /sp/shop_sp/show/
+Allow: /sp/timetable/free/top/
+Allow: /sp/brandlist/
+Allow: /sp/images/
+Allow: /sp/uploads/
+Allow: /sp/shop_sp/map/
+Allow: /sp/karadadoc
+Allow: /sp/css/
+Allow: /sp/js/
+Allow: /sp/list/*
+Allow: /sp/waiting*
+Allow: /sp/mobileshop*
+Allow: /sp/mamakoe*
+Disallow: /sp/
+Disallow: /portal_lpm/
+Disallow: /shop_only_publication_wanted/
+Disallow: /info
+Disallow: /*keyword=
+Disallow: /search/gps/list
+Disallow: /search/result/list
+Disallow: /sp/list/*?*
+Disallow: /list/*?*
+Sitemap: https://epark.jp/sitemap_shopinfo.xml
+Sitemap: https://epark.jp/sitemap_genre_top.xml
+Sitemap: https://epark.jp/sitemap_search_list.xml
+
+User-agent: MSNBot
+Crawl-delay: 10
+
+User-agent: BingBot
+Crawl-delay: 30
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /

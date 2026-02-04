@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /foto/thumb
+Disallow: /foto/thumb/
+Disallow: /foto/thumb/*
+Disallow: /storage/thumb
+Disallow: /storage/thumb/
+Disallow: /storage/thumb/*
+Disallow: /foto/detaliu
+Disallow: /foto/detaliu/
+Disallow: /foto/detaliu/*
+
+User-agent: ClaudeBot
+Crawl-delay: 25
+
+User-agent: Amazonbot
+Crawl-delay: 25
+
+User-agent: PerplexityBot
+Crawl-delay: 25
+
+User-agent: Twitterbot/1.0
+Crawl-delay: 15
+
+User-agent: Twitterbot
+Crawl-delay: 15
+
+User-agent: OAI-SearchBot
+Crawl-delay: 15
+
+User-agent: ChatGPT-User
+Crawl-delay: 15
+
+User-agent: GPTBot
+Crawl-delay: 15
+
+User-agent: *
+Crawl-delay: 1

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /login
+Disallow: /vmap.xml
+Disallow: /s/

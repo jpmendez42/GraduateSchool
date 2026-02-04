@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /panel
+Disallow: /download
+Disallow: /search
+Allow: /
+Sitemap: https://www.carewellpharma.in/sitemap-index.xml
+Host: carewellpharma.in

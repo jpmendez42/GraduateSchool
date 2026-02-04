@@ -1,0 +1,10 @@
+# robots.txt for http://www.uniurb.it/
+
+User-agent: *           
+Disallow: /it/gweb/
+
+User-agent: *           
+Disallow: /qr/
+
+User-agent: GPTBot 
+Disallow: /

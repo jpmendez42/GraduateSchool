@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /templates/
+Disallow: /wp-admin/
+Disallow: *.zip
+Disallow: /wp-includes/
+Disallow: /icon/

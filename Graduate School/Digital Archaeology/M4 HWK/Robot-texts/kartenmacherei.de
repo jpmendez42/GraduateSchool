@@ -1,0 +1,64 @@
+User-agent: *
+Disallow: /*.xlsx$
+Disallow: /*.pdf$
+Allow: /hochzeitsstudie/assets/*.pdf$
+Disallow: /*?SID
+# Disallow: /*.js$
+# Disallow: /*.css$
+Disallow: /404.html
+Disallow: /enable-cookies
+Disallow: /admin/
+Disallow: /amfGateway/
+Disallow: /api/
+Disallow: /app/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product_compare/
+Disallow: /catalogsearch/
+Disallow: /cgi-bin/
+Disallow: /checkout/
+Disallow: /contacts/
+Disallow: /contacts/index/postAjax/
+Disallow: /downloader/
+Disallow: /install/
+Disallow: /images/
+# Disallow: /js/
+Disallow: /lib/
+Disallow: /magento/
+Disallow: /newsletter/
+Disallow: /pkginfo/
+Disallow: /private/
+Disallow: /poll/
+Disallow: /report/
+Disallow: /sendfriend/
+# Allow /skin/frontend/default/Kam/ etc
+# Allow /skin/m/
+Disallow: /skin/adminhtml/
+Disallow: /skin/frontend/base/
+Disallow: /skin/frontend/default/blank/
+Disallow: /skin/frontend/default/blue/
+Disallow: /skin/frontend/default/default/
+Disallow: /skin/frontend/default/french/
+Disallow: /skin/frontend/default/german/
+Disallow: /skin/frontend/default/iphone/
+Disallow: /skin/frontend/default/modern/
+Disallow: /skin/install/
+Disallow: /var/
+Disallow: /imgs/
+Disallow: /addonproductpage
+Disallow: /no-route
+# Rosemood additions
+Disallow: *?pp=*
+Disallow: *?gender=*
+Disallow: /pop-in/
+Disallow: /administration/
+Disallow: /pp/
+Disallow: /bm/
+Disallow: /noindex/
+Disallow: /favoris-verif/
+Disallow: /bundles/
+Disallow: /basket/
+Disallow: /*/m-color-quickview/
+Disallow: /ca/plus-d-avis/
+Disallow: /ajaxwishlist/
+Disallow: /phone/

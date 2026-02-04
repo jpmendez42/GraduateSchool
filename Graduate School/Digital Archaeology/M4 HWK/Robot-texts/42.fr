@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /login/
+Disallow: /campus/
+Disallow: /en/campus/
+Disallow: /pdf/
+Disallow: /press/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://42.fr/page-sitemap.xml

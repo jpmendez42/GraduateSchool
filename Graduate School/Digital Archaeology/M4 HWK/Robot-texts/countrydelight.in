@@ -1,0 +1,30 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /glyphicons/
+Disallow: /js/
+Disallow: /report/
+Disallow: /paybill/
+Disallow: /dashboard/
+Disallow: /whatsapp/
+Disallow: /suppliers/
+Disallow: /customer-care-survey-form/
+Disallow: /refunddetail/
+Disallow: /downtime/
+Disallow: /organic-suppliers/
+Disallow: /maintenance.html/
+Disallow: /vendor-details/
+Disallow: /deleteAccount/
+Disallow: /terms-conditions-ai/
+Disallow: /well-known/
+Disallow: /app/
+
+
+Sitemap: https://countrydelight.in/sitemap.xml

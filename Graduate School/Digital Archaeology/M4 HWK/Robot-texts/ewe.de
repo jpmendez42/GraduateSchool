@@ -1,0 +1,97 @@
+### robots.txt für www.ewe.de
+User-agent: *
+Allow: /
+crawl-delay: 5
+#Sitemap
+Sitemap: https://www.ewe.de/sitemap-index.xml
+## Sitecore
+Disallow: /sitecore
+Disallow: /Sitecore
+Disallow: /sitecore_files/
+Disallow: /sitecore modules/
+Disallow: /App_Browsers/
+Disallow: /App_config/
+Disallow: /App_Data/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: /xsl/
+## errorpages
+Disallow: /400
+Disallow: /500
+Disallow: /404?*$
+## api
+Disallow: /api/
+## Sperren CSS-Service 13.04.2017
+Disallow: /cssservice/
+## disallow media-subdir
+Disallow: /media/ewe/
+## disallow pdf-docouments
+#lowercase
+Disallow: /*.pdf$
+#uppercase
+Disallow: /*.PDF$
+## disallow graphics
+#lowercase
+Disallow: /*.jpg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.webP$
+#uppercase
+Disallow: /*.JPG$
+Disallow: /*.GIF$
+Disallow: /*.PNG$
+Disallow: /*.WEBP$
+## disallow old php-files
+Disallow: /*.php$
+Disallow: /*.php3$
+Disallow: /*.php4$
+Disallow: /*.php5$
+## disallow old asp-files
+Disallow: /*.asp$
+Disallow: /*.aspx$
+## disallow (office-)docouments 
+#lowercase
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xslx$
+Disallow: /*.ppt$
+Disallow: /*.pptx$
+Disallow: /*.docm$
+Disallow: /*.dot$
+Disallow: /*.dotm$
+Disallow: /*.wpd$
+Disallow: /*.odt$
+Disallow: /*.rtf$
+Disallow: /*.csv$
+Disallow: /*.txt$
+#uppercase
+Disallow: /*.DOC$
+Disallow: /*.DOCX$
+Disallow: /*.XLS$
+Disallow: /*.XSLX$
+Disallow: /*.PPT$
+Disallow: /*.PPTX$
+Disallow: /*.DOCM$
+Disallow: /*.DOT$
+Disallow: /*.DOTM$
+Disallow: /*.WPD$
+Disallow: /*.ODT$
+Disallow: /*.RTF$
+Disallow: /*.CSV$
+Disallow: /*.TXT$
+## special pages like
+## privatkunden/hilfe/ewe-infothek/download?doc=7fd79a73580d425aa83811390e401235&page=2 or
+## privatkunden/hilfe/ewe-infothek/download?page=15
+## privatkunden/hilfe/faq/faq-erdgas/?filter={8f38bbc2-a665-4812-88bf-f74a5d5f5e1d}
+## prefer startpages
+Disallow: /privatkunden/hilfe/ewe-infothek/*&page=*$ # disallow sub-pages
+Disallow: /privatkunden/hilfe/faq/faq-erdgas/*?filter=*$ # disallow filter
+Disallow: /privatkunden/hilfe/faq/*?filter=*$ # disallow filter
+Disallow: /privatkunden/hilfe?letter=*$ ## disallow single letters
+## fuer yandex
+# priority for www-domain
+User-Agent: YandexBot
+Host: www.ewe.de
+#Sitemap
+Sitemap: https://www.ewe.de/sitemap.xml

@@ -1,0 +1,32 @@
+User-agent: ecoresearchCrawler
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+User-agent: MetaJobBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: *
+Disallow: /cms/auth.php
+Disallow: /app/feedback/
+Disallow: /app/gaestebuch/
+Disallow: /app/verschicken/
+Disallow: /app/webcam/
+Disallow: /cms/*?facebook=J
+Disallow: /cms/bilder/popup/*
+Disallow: /luft2/
+Disallow: /cms/ziel/3464002/DE/
+Disallow: /cms/list/5166747/

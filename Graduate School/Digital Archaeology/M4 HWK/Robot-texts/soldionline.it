@@ -1,0 +1,101 @@
+# Robots.txt - soldionline.it
+
+# Blocco crawler BOT
+User-agent: 008
+Disallow: /
+
+# 2019-02-21
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: *
+
+Disallow: /voto/*
+Disallow: /ricerca/*
+Disallow: /sondaggi/*
+Disallow: /sendFriend/*
+Disallow: /fake*
+Disallow: /cerca/*
+Disallow: /autore/
+Disallow: /notizie/blog
+
+# ADD 2011.05.06 - by Pj e Bono.
+Disallow: /quotazioni/*/sort/*
+
+Disallow: /SOL_Editoriale.nsf*
+Disallow: /SOL_Editoriale.nsf/*
+Disallow: /a.pic1?EL*
+Disallow: /isin-feed/*
+
+# Da testare
+# Disallow: /*?
+
+# 2016.10.25 by Vinci
+Disallow: /gallery/
+Disallow: /images/
+
+# 2017.02.24
+Disallow: /pictures/2008/
+Disallow: /pictures/2009/
+Disallow: /pictures/2010/
+Disallow: /pictures/2011/
+Disallow: /pictures/2012/
+Disallow: /pictures/2013/
+Disallow: /pictures/2014/
+Disallow: /pictures/2015/
+Disallow: /pictures/2016/
+Disallow: /pictures/2017/01/
+
+# issue SOL-19
+Disallow: /isin/
+
+# issue SOL-65
+Disallow: /network-blog_OLD/
+
+# issue SOL-86
+Disallow: /blog_OLD/
+Disallow: /infografiche/
+Disallow: /SOL_Editoriale.nsf/
+Disallow: /isin-feed/
+Disallow: /soldinews/
+Disallow: /network/
+Disallow: /ptr/
+
+# 2019-01-10
+Disallow: /rss/*
+Disallow: /feed/*
+Disallow: /related/*
+
+# issue SOL-206
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: seekr
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+# FINE issue SOL-206
+
+# issue SOL-226
+User-agent: CCBot
+Disallow: /
+# FINE issue SOL-226

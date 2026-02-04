@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /lightadmin
+Disallow: /redirect_full.php
+Disallow: /comment-news/*

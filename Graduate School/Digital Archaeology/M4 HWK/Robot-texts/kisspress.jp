@@ -1,0 +1,7 @@
+User-Agent:*
+Disallow: /cms/
+Sitemap:https://kisspress.jp/sitemap/
+User-agent: ClaudeBot
+Disallow: /
+User-agent: CCBot
+Disallow: /

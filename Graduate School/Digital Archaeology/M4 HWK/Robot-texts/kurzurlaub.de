@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /suche.html
+Disallow: /assets/fonts/fontawesome-subset/
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+Sitemap: https://www.kurzurlaub.de/sitemap/www.kurzurlaub.de/googlesitemapkurzurlaub_index.xml

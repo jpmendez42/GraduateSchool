@@ -1,0 +1,11 @@
+User-agent: MJ12bot
+User-agent: Cliqzbot
+User-agent: dotbot
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-Agent: *
+Disallow: /service/
+Disallow: /customer/
+Disallow: /billing/
+Sitemap: http://www.chipstime.fr/sitemap.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://www.esselunga.it/it-it/sitemap.xml
+
+Disallow: /it-it/search.html*
+Disallow: /it-it/ricerca.html*
+Disallow: /it-it/fidaty/catalogo-premi.points:*
+Disallow: /it-it/fidaty/catalogo-premi.search:*
+Disallow: /area-utenti*
+Disallow: /services/istituzionale35/search/suggestion-api*
+Disallow: /services/istituzionale35/search/search-api*

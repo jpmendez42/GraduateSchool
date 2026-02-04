@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /redirect
+Disallow: /ajax/
+Disallow: /p/
+Disallow: /g/
+Disallow: /t/
+Disallow: /preview/discord.addFriend
+Disallow: /promocode
+Sitemap: https://vimetop.ru/sitemap.txt

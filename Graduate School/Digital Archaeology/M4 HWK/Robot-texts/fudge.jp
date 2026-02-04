@@ -1,0 +1,5 @@
+Sitemap: https://fudge.jp/sitemap.xml
+Sitemap: https://fudge.jp/news-sitemap.xml
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php

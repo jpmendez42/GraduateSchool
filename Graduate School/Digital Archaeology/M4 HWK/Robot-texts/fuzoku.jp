@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /redirect.html
+Disallow: /sample/
+Disallow: /*?ad
+Disallow: /*?utm
+Disallow: /*.asp$
+Disallow: /new_shop.asp
+Disallow: /agent_entryrules.html
+Disallow: /ajax/
+Disallow: /widget/
+Disallow: /discount_coupon/
+Disallow: /*/newshop/
+Disallow: /*/news/
+Disallow: /video/
+Disallow: /entry/
+Disallow: /mypage/
+Disallow: /*/reserve/*/?datetime=
+Disallow: /*/reserve/*/?course=*&datetime=
+
+User-agent:bingBot
+Crawl-delay:30
+
+User-agent: AhrefsBot
+Crawl-Delay:3600
+
+User-agent: Amazonbot
+Disallow: /
+
+Sitemap:https://fuzoku.jp/sitemap.xml

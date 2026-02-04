@@ -1,0 +1,55 @@
+
+
+
+
+    
+		
+				
+    			
+
+				 		
+
+			
+		
+    
+	
+    
+		
+	            
+            	    
+                	        		
+    
+            	
+		    										
+        
+	
+    	
+	
+	
+	
+	User-agent: *
+Disallow: /client/
+Disallow: /login.html
+Disallow: /enregistrement/
+Disallow: /lpageadmin/
+Disallow: /panier.html
+Disallow: /ajax/
+Disallow: *dynamicContent*
+Disallow: *gclid*
+Disallow: *parrain=*
+Disallow: *fids=*
+Disallow: *cids=*
+Disallow: *fds=*
+Disallow: *tids=*
+Disallow: *COMM_ID=*
+Sitemap: https://www.i-run.fr/sitemap.xml
+Sitemap: https://www.i-run.fr/sitemap-contenu.xml
+Sitemap: https://www.i-run.fr/chaussures_homme/sitemap.xml
+Sitemap: https://www.i-run.fr/chaussures_femme/sitemap.xml
+Sitemap: https://www.i-run.fr/vetement_sport_homme/sitemap.xml
+Sitemap: https://www.i-run.fr/vetement_sport_femme/sitemap.xml
+Sitemap: https://www.i-run.fr/electronique/sitemap.xml
+Sitemap: https://www.i-run.fr/accessoires/sitemap.xml
+Sitemap: https://www.i-run.fr/dietetique/sitemap.xml
+Sitemap: https://www.i-run.fr/infos/sitemap.html
+Sitemap: https://www.i-run.fr/sitemap-destockage.xml

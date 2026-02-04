@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /blog/wp-admin
+Disallow: /blog/wp-login.php
+Sitemap: https://www.brainacademy.id/sitemap.xml
+Sitemap: https://www.brainacademy.id/blog/sitemap.xml

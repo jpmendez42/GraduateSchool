@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /libs/
+Disallow: /controllers/
+Disallow: /configs/
+Disallow: /models/
+Disallow: /app/
+
+Sitemap: http://www.skaitv.gr/sitemaps.xml

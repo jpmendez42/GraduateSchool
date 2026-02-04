@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /recherche
+Disallow: /search
+Disallow: /explore/[type]
+Disallow: /article/preview/*
+Disallow: /article/dossier/preview/*
+Disallow: /newsletter/preview/*
+
+# Index Sitemap
+Sitemap: https://atlantico.fr/sitemap-index.xml
+
+# Authors Sitemap
+Sitemap: https://atlantico.fr/authors.xml
+
+# Explore Sitemap 
+Sitemap: https://atlantico.fr/explore-sitemap.xml
+
+# News Sitemap 
+Sitemap: https://atlantico.fr/news-sitemap.xml
+
+User-agent: Meltwater
+Disallow: /

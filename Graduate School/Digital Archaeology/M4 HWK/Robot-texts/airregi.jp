@@ -1,0 +1,8 @@
+# robots.txt
+User-Agent: *
+Disallow: /js-search*
+
+Sitemap: https://airregi.jp/wait/sitemap.xml
+Sitemap: https://airregi.jp/reserve/sitemap.xml
+Sitemap: https://airregi.jp/poichi/sitemap.xml
+Sitemap: https://airregi.jp/restaurant-board/sitemap.xml

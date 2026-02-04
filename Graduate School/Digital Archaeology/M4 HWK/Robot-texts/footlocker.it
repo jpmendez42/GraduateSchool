@@ -1,0 +1,29 @@
+#Modified 21.07.2025
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent:* 
+Disallow: /*cerca?q
+Disallow: /account/*
+Disallow: /cart
+Disallow: /wishlist/ 
+Disallow: /shoppingcart/ 
+Disallow: /checkout 
+Disallow: /checkout/*
+Disallow: /account/details
+Disallow: /account/orders
+Disallow: /account/preferences
+Disallow: /account/payment/new
+Disallow: /quickview/ 
+Disallow: /paygate/ccn
+Disallow: /en/
+Disallow: /es/
+Disallow: /fr/
+Disallow: /nl/
+Disallow: /de/
+Disallow: /mnt/
+Disallow: /content/foot-locker-inc/
+Disallow: /it/content/foot-locker-inc/*
+Noindex: /*?query
+Sitemap: https://www.footlocker.it/sitemap.xml

@@ -1,0 +1,65 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Allow: /wp-admin/admin-ajax.php
+
+# WordPress-specific clean-up
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: /?s=
+
+# Block tracking parameters
+Disallow: /*?utm_source=
+Disallow: /*?utm_medium=
+Disallow: /*?utm_campaign=
+Disallow: /*?fbclid=
+
+# Allow access to necessary resources to render the site
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/
+Allow: /wp-content/plugins/
+
+# Allow known AI bots
+User-agent: GPTBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: AnthropicBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: FirecrawlBot
+Allow: /
+
+User-agent: AndiBot
+Allow: /
+
+User-agent: ExaBot
+Allow: /
+
+User-agent: PhindBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+Sitemap: https://www.doutorfinancas.pt/sitemap_index.xml

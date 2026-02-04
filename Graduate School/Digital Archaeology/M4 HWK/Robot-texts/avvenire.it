@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /area-riservata/
+Disallow: /private/
+Disallow: /search?
+Disallow: /*?print=
+
+# News site specific bots
+User-agent: Googlebot-News
+Allow: /
+
+# Social media bots
+User-agent: facebookexternalhit
+User-agent: Twitterbot
+Allow: /
+
+# Sitemap
+Sitemap: https://www.avvenire.it/sitemap.xml
+
+# Sitemap Google
+Sitemap: https://www.avvenire.it/google-news-sitemap.xml

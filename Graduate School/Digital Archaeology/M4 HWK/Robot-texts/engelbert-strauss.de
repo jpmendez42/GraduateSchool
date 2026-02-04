@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /de/de/f/sicherheitsschuhe/
+Disallow: /*/f/
+Disallow: /*/kiosk
+Disallow: /*.atom
+Disallow: /*/geoip/
+Sitemap: https://www.strauss.com/sitemap.xml

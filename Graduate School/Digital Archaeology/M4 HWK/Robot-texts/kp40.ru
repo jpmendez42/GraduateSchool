@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cnstats/
+Disallow: /search/
+Disallow: /search
+Disallow: /site/search/
+Disallow: /site/cat/344/345/
+Disallow: /site/cat/344/346/
+Disallow: /nafisha/*&date=*
+Disallow: /click/
+Disallow: /api/
+Host: https://www.kp40.ru
+Sitemap: https://www.kp40.ru/sitemap_index.xml

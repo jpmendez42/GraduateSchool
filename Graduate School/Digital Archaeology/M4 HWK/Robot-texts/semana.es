@@ -1,0 +1,39 @@
+﻿User-agent: *
+Disallow: /usuarios/
+Disallow: /club/
+Disallow: /comunes/
+Disallow: /login.html
+Disallow: /1001866/
+Disallow: /galleryad.html
+Disallow: /etiqueta/
+Disallow: /lo-ultimo/
+Disallow: /revista
+Disallow: /boletin
+Disallow: /feeds
+Disallow: /buscador
+
+Disallow: /*PageSpeed*
+Disallow: /*ModPagespeed*
+
+Disallow: /temas/*_page=*
+
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Perplexity-User
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: Claude-SearchBot
+Disallow: /

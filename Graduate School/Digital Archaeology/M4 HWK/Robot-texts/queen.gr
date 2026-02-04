@@ -1,0 +1,50 @@
+# Queen.gr 11042022
+
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+
+Allow: /media/ads/
+Allow: /media/news/
+Allow: /media/com_news/
+Allow: /media/com_sitemaps/
+Allow: /media/com_feeds/
+Allow: /media/profiles/
+Allow: /media/template/
+Allow: /media/i.png
+Allow: /media/shared/
+Allow: /media/promo/
+
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /5288413/
+Disallow: /services/social/
+Disallow: /services/preroll/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+Sitemap: https://www.queen.gr/sitemap-news
+Sitemap: https://www.queen.gr/sitemap/articles
+Sitemap: https://www.queen.gr/sitemap/pages
+Sitemap: https://www.queen.gr/sitemap/tags

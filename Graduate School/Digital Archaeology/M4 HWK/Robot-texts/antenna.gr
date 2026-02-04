@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.antenna.gr/sitemap.xml
+Sitemap: https://www.antenna.gr/shows-sitemap
+Sitemap: https://www.antenna.gr/videos-sitemap
+Disallow: /ext/bbb9a2c06f30c7fa0f0022b80bcd231dcb523c4f/list.aspx

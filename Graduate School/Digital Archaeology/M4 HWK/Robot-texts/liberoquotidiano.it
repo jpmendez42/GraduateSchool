@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: /api/fragment/
+Disallow: /fragment/
+Disallow: /sezioni/520/speciali-elezioni-2015
+Disallow: /sezioni/524/nascondi-blog
+Disallow: /sezioni/526/art-bonus
+Disallow: /sezioni/536/test-dfp
+Disallow: /sezioni/555/test-criteo
+Disallow: /sezioni/566/test
+Disallow: /sezioni/585/dfp-nuova-release
+Disallow: /sezioni/599/test-privacy
+Disallow: /sezioni/603/test-facebook
+Disallow: /sezioni/606/test-prebid
+Disallow: /sezioni/624/test-amp
+Disallow: /news/italpress/
+Disallow: /news/adnkronos/
+Disallow: /search/
+Disallow: /__default/
+
+Sitemap: https://www.liberoquotidiano.it/sitemap.xml
+Sitemap: https://www.liberoquotidiano.it/sitemap_news.xml
+Sitemap: https://www.liberoquotidiano.it/sitemap-video.xml

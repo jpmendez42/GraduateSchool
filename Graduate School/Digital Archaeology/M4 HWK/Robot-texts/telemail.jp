@@ -1,0 +1,75 @@
+# no access
+
+User-agent: *
+Disallow: /*tes=
+Disallow: /*btc=0000041
+Disallow: /login/
+Disallow: /_pcsite/login/
+Disallow: /slatepc/login/
+Disallow: /usernew/
+Disallow: /_pcsite/usernew/
+Disallow: /slatepc/usernew/
+Disallow: /shingaku/questionnaire/present/
+Disallow: /shingaku/highschool/yumenavi/livemovie/pdf/
+Disallow: /shingaku/pc/shingaku/daigaku/school.php/detail.php
+Disallow: /shingaku/pc/shingaku/senmon/school.php/detail.php
+Disallow: /shingaku/pc/shingaku/gakuin/school.php/detail.php
+
+# Sitemap
+
+Sitemap: http://telemail.jp/shingaku/questionnaire/sitemap.xml
+
+# Crawl-delay-AhrefsBot
+
+User-agent: AhrefsBot
+crawl-delay: 5
+
+# Crawl-delay-AmazonAdBot
+
+User-agent: AmazonAdBot
+crawl-delay: 5
+
+# Crawl-delay-Amazonbot
+
+User-agent: Amazonbot
+crawl-delay: 5
+
+# Crawl-delay-Baiduspider
+
+User-agent: Baiduspider
+crawl-delay: 5
+
+# Crawl-delay-bingbot
+
+User-agent: bingbot
+crawl-delay: 5
+
+# Crawl-delay-DotBot
+
+User-agent: DotBot
+crawl-delay: 5
+
+# Crawl-delay-SemrushBot
+
+User-agent: SemrushBot
+crawl-delay: 5
+
+# Crawl-delay-Slurp
+
+User-agent: Slurp
+crawl-delay: 1
+
+# Crawl-delay-spam+bot
+
+User-agent: spam+bot
+crawl-delay: 5
+
+# Crawl-delay-Steeler
+
+User-agent: Steeler
+crawl-delay: 5
+
+# Crawl-delay-Yetibot
+
+User-agent: Yetibot
+crawl-delay: 5

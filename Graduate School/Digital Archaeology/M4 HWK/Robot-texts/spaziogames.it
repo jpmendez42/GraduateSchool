@@ -1,0 +1,57 @@
+#New robots.txt file for spaziogames.it
+
+# Bad Bots
+User-agent: Acunetix
+User-agent: ChinaClaw
+User-agent: DotBot
+User-agent: FHscan
+User-agent: MJ12Bot
+User-agent: MauiBot
+User-agent: NPBot*
+User-agent: NPBot-1/2.0
+User-agent: Teleport
+User-agent: magpie-crawler
+User-agent: PiplBot
+User-agent: Exabot
+Disallow: /
+
+# Good Bots
+
+User-agent: *
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: Mediapartners-Google
+
+# Areas to disallow
+Disallow: /cms
+
+# No-content pages
+Disallow: /generi
+Disallow: /piattaforme
+Disallow: /tags
+Disallow: /tag
+Disallow: /cerca
+Disallow: /videos
+Disallow: /*?*keyword=
+Disallow: /*?*min_rating=
+Disallow: /*?*platform=
+Disallow: /*?*genre=
+Disallow: /*?*year=
+
+Disallow: /notizie_videogiochi
+Disallow: /schede_videogiochi
+Disallow: /trucchi_videogiochi
+Disallow: /videorecensioni_videogiochi
+Disallow: /controls
+Disallow: /recensioni_videogiochi
+Disallow: /product
+Disallow: /pubblicita-su-spaziogames
+Disallow: /videogiochi/speciale
+Disallow: /flash/video_anteprima2.swf
+Disallow: /videorecensioni_alta_definizione_videogiochi
+Disallow: /video_hd
+Disallow: /notizie_videog
+Disallow: /index.aspx
+
+Sitemap: https://www.spaziogames.it/sitemap.xml
+Sitemap: https://www.spaziogames.it/google-news-sitemap.xml

@@ -1,0 +1,86 @@
+# robots.txt Uni Greifswald
+
+User-agent: *
+# Disallow general folders
+Disallow: /bin/
+Disallow: /Packages/
+Disallow: /shibboleth-be/
+Disallow: /storages/protected/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /typo3_src/
+Disallow: /uploads/
+
+# Disallow for non-speaking URLs
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+# Disallow Example-Pages
+Disallow: /beispielseiten/
+Disallow: */staging/*
+
+# Disallow Secure Download-Tokens
+Disallow: /*?token=*
+Disallow: /*&token=*
+
+# Disallow Login-Redirects
+Disallow: /*?redirect_url=*
+Disallow: /*&redirect_url=*
+Disallow: /login*
+Disallow: */?return_url=*
+
+# Allow/Disallow specific folders
+Allow: /typo3conf/ext/
+Allow: /typo3temp/assets/compressed/
+Allow: /typo3temp/DynCss/
+Allow: /typo3conf/ext/*/Resources/Public/*
+Allow: /typo3temp/compressor/
+Allow: /typo3temp/_processed_/
+Allow: /fileadmin/_processed_/
+Allow: /storages/uni-greifswald/
+
+Disallow: /typo3conf/ext/*/Private/
+Disallow: /storages/uni-greifswald/*/Private/
+Disallow: /storages/uni-greifswald/2_Studium/2.3_Mein_Studium/2.3.7_Formulare/
+Disallow: /storages/uni-greifswald/einrichtungen/bibliothek/Intranet/
+
+Disallow: /storages/*/Wichtige_Information/
+
+# Disallow very old ~-Entries
+Disallow: /~*
+
+# Botlist
+
+User-agent: adsbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Linkcheck by siteimprove.com
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Qwantify
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: SemanticScholarBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /

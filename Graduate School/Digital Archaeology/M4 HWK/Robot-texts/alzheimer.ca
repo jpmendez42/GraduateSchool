@@ -1,0 +1,123 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+# Disallow: /
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /en/api/
+Disallow: /fr/api/
+Disallow: /api/
+Disallow: /fr/whats-happening/event-calendar/today/
+Disallow: /en/whats-happening/event-calendar/today/
+Disallow: /fr/whats-happening/event-calendar/month/
+Disallow: /en/whats-happening/event-calendar/month/
+Disallow: /fr/whats-happening/event-calendar/week/
+Disallow: /en/whats-happening/event-calendar/week/
+Disallow: /fr/whats-happening/event-calendar/year/
+Disallow: /en/whats-happening/event-calendar/year/
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+# BC ufirst-training
+Disallow: /bc/en/ufirst-training/
+Disallow: /bc/en/node/3510
+Disallow: /bc/en/node/3512
+Disallow: /bc/en/node/3513
+Disallow: /bc/en/node/3514
+Disallow: /bc/en/node/3515
+Disallow: /bc/en/node/3519
+# Sitemap
+Sitemap: https://alzheimer.ca/sitemap.xml
+Sitemap: https://alzheimer.ca/nb/sitemap.xml
+Sitemap: https://alzheimer.ca/nl/sitemap.xml
+Sitemap: https://alzheimer.ca/ns/sitemap.xml
+Sitemap: https://alzheimer.ca/pei/sitemap.xml
+Sitemap: https://alzheimer.ca/federationquebecoise/sitemap.xml
+Sitemap: https://alzheimer.ca/abitibi/sitemap.xml
+Sitemap: https://alzheimer.ca/bassaintlaurent/sitemap.xml
+Sitemap: https://alzheimer.ca/centreduquebec/sitemap.xml
+Sitemap: https://alzheimer.ca/estrie/sitemap.xml
+Sitemap: https://alzheimer.ca/hautrichelieu/sitemap.xml
+Sitemap: https://alzheimer.ca/rivesud/sitemap.xml
+Sitemap: https://alzheimer.ca/suroit/sitemap.xml
+Sitemap: https://alzheimer.ca/on/sitemap.xml
+Sitemap: https://alzheimer.ca/chathamkent/sitemap.xml
+Sitemap: https://alzheimer.ca/cornwall/sitemap.xml
+Sitemap: https://alzheimer.ca/dufferincounty/sitemap.xml
+Sitemap: https://alzheimer.ca/durham/sitemap.xml
+Sitemap: https://alzheimer.ca/greybruce/sitemap.xml
+Sitemap: https://alzheimer.ca/hpe/sitemap.xml
+Sitemap: https://alzheimer.ca/huronperth/sitemap.xml
+Sitemap: https://alzheimer.ca/krr/sitemap.xml
+Sitemap: https://alzheimer.ca/kfla/sitemap.xml
+Sitemap: https://alzheimer.ca/lanark/sitemap.xml
+Sitemap: https://alzheimer.ca/muskoka/sitemap.xml
+Sitemap: https://alzheimer.ca/niagara/sitemap.xml
+Sitemap: https://alzheimer.ca/ottawa/sitemap.xml
+Sitemap: https://alzheimer.ca/peel/sitemap.xml
+Sitemap: https://alzheimer.ca/pklnh/sitemap.xml
+Sitemap: https://alzheimer.ca/sarnialambton/sitemap.xml
+Sitemap: https://alzheimer.ca/algoma/sitemap.xml
+Sitemap: https://alzheimer.ca/simcoecounty/sitemap.xml
+Sitemap: https://alzheimer.ca/sudburymanitoulin/sitemap.xml
+Sitemap: https://alzheimer.ca/thunderbay/sitemap.xml
+Sitemap: https://alzheimer.ca/timmins/sitemap.xml
+Sitemap: https://alzheimer.ca/ww/sitemap.xml
+Sitemap: https://alzheimer.ca/windsoressex/sitemap.xml
+Sitemap: https://alzheimer.ca/york/sitemap.xml
+Sitemap: https://alzheimer.ca/bc/sitemap.xml
+Sitemap: https://alzheimer.ca/sk/sitemap.xml
+Sitemap: https://alzheimer.ca/ab/sitemap.xml
+

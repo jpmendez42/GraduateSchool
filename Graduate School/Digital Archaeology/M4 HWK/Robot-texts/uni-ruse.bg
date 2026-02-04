@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+Disallow: /_themes/
+
+Sitemap: http://www.uni-ruse.bg:80/all-sites-sitemap.xml
+
+
+
+Sitemap: https://www.uni-ruse.bg:443/sitemap.xml

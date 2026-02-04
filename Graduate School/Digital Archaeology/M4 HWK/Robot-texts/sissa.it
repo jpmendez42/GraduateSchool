@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /scheduler/export/ical-subscribe.php*
+Disallow: /scheduler/
+Disallow: /im/
+Allow: /phonebook/
+Disallow: /phonebook/index.php
+Disallow: /phonebook/organizational-unit/
+Disallow: /phonebook/person/
+# Disallow: /

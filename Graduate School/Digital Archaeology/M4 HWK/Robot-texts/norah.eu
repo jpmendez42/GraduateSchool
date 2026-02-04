@@ -1,0 +1,31 @@
+# Website Sitemap
+Sitemap: https://www.norah.eu/nl/sitemap.xml
+
+# Crawlers Setup
+User-agent: *
+
+# Paths (clean URLs)
+Crawl-delay: 15
+Disallow: /zoeken/*
+Disallow: /checkout/*
+Disallow: /account/*
+Disallow: /wishlist/*
+Disallow: /privacy/
+Disallow: /disclaimer/
+Disallow: /voorwaarden/
+Disallow: /*account/
+Disallow: /*checkout/
+Disallow: /*widgets/
+Disallow: /*navigation/
+Disallow: /*bundles/
+Disallow: /compare
+Disallow: /checkout
+Disallow: /register
+Disallow: /note
+Disallow: /widgets
+Disallow: /wishlist
+Disallow: /search
+Disallow: /listing
+Disallow: /ticket
+Disallow: /search
+Disallow: /*?sInquiry=

@@ -1,0 +1,33 @@
+User-Agent: *
+Disallow: /*search/
+Disallow: /v8/
+Disallow: /preview/
+Disallow: /olymp2008/
+Disallow: /olymp2010/
+Disallow: /olymp2012/
+Disallow: /euro2008/
+Disallow: /euro2012/
+Disallow: /olymp2014/
+Disallow: /world2014/
+Disallow: /paralymp2014/
+
+User-agent: Yandex
+Disallow: /amp/
+Disallow: /v8/
+Disallow: /preview/
+Disallow: /*search/
+Disallow: /olymp2008/
+Disallow: /olymp2010/
+Disallow: /olymp2012/
+Disallow: /euro2008/
+Disallow: /euro2012/
+Disallow: /olymp2014/
+Disallow: /world2014/
+Disallow: /paralymp2014/
+Clean-param: ruid&from&fromtg&utm_source&utm_site&utm_campaign&noredir&autoplay&preview&google_preview&news&amp&utm_referrer&gdfp_req&lineItemId&creativeId&tpclid
+Clean-param: clid&back&frbcom&rbc_type&uts_medium&utm_p&tg_rhash&ampcf&fbclid&utm_medium&utm_content&email&utm_test&utm_reqid&ref&utm_
+Clean-param: nw&ls&rn&iu&id&nid&spo&grs&uid&cbb&no_header&ocid&pubsrcid&mgclid&cpage&p_a&p_n&p_c&_sm_byp&disableGlobalInfoCollect&continueFlag&yan_console&s&pifm_chp&pipage&deeplinkId&directDl&msLaunch&enableMobilePage&suppressPrompt
+Clean-param: print&worldcup2014&page&banner-test-tags&type&__ym_debug&force_isolation&_sm_au_&mibextid&mbstx&hl&is_app&wv-type&browser-info&foxConfig.debug&sa&ved&__rm_debug
+Clean-param: hcb&promo&mindbox-message-key&load_id&t&ysclid&n1&n2&fs&_&captcha&zarsrc&img_num&ct&cd&_sm_vck&es&isappinstalled
+
+Sitemap: https://sportrbc.ru/sitemap_index.xml

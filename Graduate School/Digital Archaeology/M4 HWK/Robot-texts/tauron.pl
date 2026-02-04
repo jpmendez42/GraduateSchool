@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /szukaj
+Disallow: /search
+Allow: /assets/
+Disallow: /sitecore
+Disallow: /Sitecore
+Disallow: /sitecore_files/
+Disallow: /sitecore modules/
+Disallow: /App_Browsers/
+Disallow: /App_config/
+Disallow: /App_Data/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: /xsl/
+Allow: /assets/images/
+Disallow: /assets/fonts/
+Disallow: /assets/scripts/
+Disallow: /assets/third_parts/
+Sitemap: https://www.tauron.pl/sitemap.xml
+Sitemap: https://biznes.tauron.pl/sitemap-biz.xml
+Sitemap: https://www.czatkowice.pl/sitemap-czatk.xml
+Sitemap: https://www.tauron-dystrybucja.pl/sitemapa-dystrybucja.xml
+Sitemap: https://cieplo.tauron.pl/sitemap.xml
+Sitemap: https://ekoenergia.tauron.pl/sitemap.xml
+Sitemap: https://tze.tauron.pl/sitemap-tze.xml
+Sitemap: https://ubezpieczenia.tauron.pl/sitemap-ubezpieczenia.xml

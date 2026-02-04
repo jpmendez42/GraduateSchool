@@ -1,0 +1,32 @@
+User-Agent: *
+Disallow: /search/
+Disallow: /cdn-cgi/
+Allow: /cdn-cgi/image/
+
+# Block AI content scrapers
+User-agent: "008"
+User-agent: Amazonbot
+User-agent: Applebot
+User-agent: Applebot-extended
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: Diffbot
+User-agent: FacebookBot
+User-agent: GPTBot
+User-agent: HTTrack
+User-agent: Nutch
+User-agent: OAI-SearchBot
+User-agent: Offline Explorer
+User-agent: PerplexityBot
+User-agent: Scrapy
+User-agent: YouBot
+User-agent: anthropic-ai
+User-agent: cohere-ai
+User-agent: omgili
+Disallow: /
+
+Sitemap: https://www.dexerto.es/sitemap_index.xml
+Sitemap: https://www.dexerto.es/news-sitemap.xml

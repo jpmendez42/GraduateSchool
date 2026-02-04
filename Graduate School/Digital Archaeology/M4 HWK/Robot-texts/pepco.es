@@ -1,0 +1,11 @@
+
+Sitemap: https://pepco.es/sitemap_index.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: *?s=*
+Disallow: *?search*
+Disallow: *?price*
+Disallow: *?order*
+Disallow: *?main_term=*
+Allow: /wp-admin/admin-ajax.php

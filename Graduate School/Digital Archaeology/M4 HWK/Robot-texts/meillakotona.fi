@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /app/
+Disallow: /satokausi/
+Disallow: /demo/
+
+User-Agent: ChatGPT-user
+Disallow: /
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+User-Agent: dotbot
+Disallow: /
+
+Sitemap: https://www.meillakotona.fi/sitemap.xml

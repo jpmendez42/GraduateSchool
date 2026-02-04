@@ -1,0 +1,12 @@
+User-agent: *
+# disallow duplicates
+Disallow: /*zobraz=nabidku
+# infinity hity
+Disallow: *playall=
+Disallow: *playall_cursor=
+Disallow: *playall_index=
+Disallow: *title=
+Disallow: *refreshed=
+# embed
+Disallow: *urlName=
+Disallow: /embed/

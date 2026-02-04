@@ -1,0 +1,8 @@
+User-agent:*
+Disallow:/goods/detail/goodsId/*/shopsId/line
+Disallow:/goods/detail/goodsId/*/shopsId/facebook
+Disallow:/goods/detail/goodsId/*/shopsId/gplus
+Disallow:/goods/detail/goodsId/*/shopsId/apple
+Disallow:/goods/detail/goodsId/*/shopsId/twitter
+Disallow:/goods/detail/goodsId/*/shopsId/yahoo
+

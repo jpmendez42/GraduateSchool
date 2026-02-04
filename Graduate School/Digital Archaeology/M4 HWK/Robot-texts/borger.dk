@@ -1,0 +1,21 @@
+Sitemap: https://www.borger.dk/sitemap.xml
+
+User-agent:*
+
+Disallow: /Soeg
+Disallow: /soeg
+Disallow: /Portalservicesiden
+Disallow: /portalservicesiden
+Disallow: /Deviceinformation
+Disallow: /deviceinformation
+Disallow: /LoginFejl
+Disallow: /loginfejl
+Disallow: /401
+Disallow: /404
+Disallow: /404-selvbetjening
+Disallow: /500
+Disallow: /logget-af
+Disallow: /usupporteret-selvbetjening
+Disallow: /vaelg-kommune
+Disallow: /Min-Side/
+Disallow: /min-side/

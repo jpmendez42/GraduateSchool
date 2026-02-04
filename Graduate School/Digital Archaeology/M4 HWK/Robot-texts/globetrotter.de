@@ -1,0 +1,23 @@
+
+User-Agent: *
+Disallow: /wishlist/
+Disallow: /basket/
+Disallow: /passwordreset/request/
+Disallow: /*?itm_medium*
+Disallow: /*?filter*
+Disallow: /register/
+Disallow: /account/
+Disallow: /login/
+Disallow: /*?sortBy*
+Disallow: /*.json*
+Disallow: /ajax/
+Disallow: */wp-json/*
+Disallow: */wp-statistics/*
+Disallow: */?name*
+Disallow: /eine-gruenere-wahl/*
+
+Sitemap: https://www.globetrotter.de/sitemap.xml
+Sitemap: https://www.globetrotter.de/magazin/post-sitemap.xml
+Sitemap: https://www.globetrotter.de/magazin/page-sitemap.xml
+Sitemap: https://www.globetrotter.de/magazin/podcast-sitemap.xml
+Sitemap: https://www.globetrotter.de/magazin/azubiblog-sitemap.xml

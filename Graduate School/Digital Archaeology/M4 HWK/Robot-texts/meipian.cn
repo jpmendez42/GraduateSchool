@@ -1,0 +1,20 @@
+User-agent: *
+Disallow:/user/profile/
+Disallow:/stat/
+Disallow:/new/
+Disallow:/resources/
+Disallow:/promo/
+Disallow:/plus/
+disallow:/plugins/
+disallow:/utility/
+disallow:/promo/
+Disallow:/*from=appviewrcmd*
+Disallow:/*tips=Admire*
+Disallow:/*token*
+Disallow:/index.php*
+Disallow:/jump.php*
+Disallow:/search.php*
+Disallow:/video.php*
+Disallow:/show.php*
+Disallow:/app/stat/
+Disallow:/dafault/article.php

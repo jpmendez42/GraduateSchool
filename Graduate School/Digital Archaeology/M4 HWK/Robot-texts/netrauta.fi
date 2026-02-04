@@ -1,0 +1,85 @@
+# SentiBot 
+User-agent: sentibot
+Disallow: /
+
+# Default Instructions
+User-agent: *
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+
+# Disable checkout & customer account
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /sales/
+
+# Disable Search pages
+Disallow: /search/
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /*?q=
+
+# Disable common folders
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+
+# Disable Tag & Review (Avoid duplicate content)
+Disallow: /tag/
+Disallow: /review/
+
+# Common files
+Disallow: /auth.json
+Disallow: /auth.json.sample
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /CHANGELOG.md
+Disallow: /CONTRIBUTING.md
+Disallow: /COPYING.txt
+Disallow: /Gruntfile.js
+Disallow: /Gruntfile.js.sample
+Disallow: /ISSUE_TEMPLATE.md
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /LICENSE_EE.txt
+Disallow: /nginx.conf.sample
+Disallow: /package.json
+Disallow: /php.ini.sample
+Disallow: /RELEASE_NOTES.txt
+Disallow: /PULL_REQUEST_TEMPLATE.md
+Disallow: /README_EE.md
+Disallow: /SECURITY.md
+
+# Disable sorting (Avoid duplicate content)
+Disallow: /*?*product_list_mode=
+Disallow: /*?*product_list_limit=
+
+# Disable version control folders and others
+Disallow: /*.git
+Disallow: /*.CVS
+Disallow: /*.Zip$
+Disallow: /*.Svn$
+Disallow: /*.Idea$
+Disallow: /*.Sql$
+Disallow: /*.Tgz$
+
+# Disable Bazaarvoice pages (Avoid duplicate content)
+Disallow: /*?*bvaction=
+Disallow: /*?*bvproductId=
+Sitemap: https://www.netrauta.fi/sitemap/sitemap.xml
+Sitemap: https://www.netrauta.fi/sitemap/sitemap_images.xml

@@ -1,0 +1,7 @@
+Sitemap: https://www.telsu.fi/sitemap.xml
+User-Agent: *
+Disallow: /x_*
+Disallow: /share*
+Allow: /
+User-agent: ClaudeBot
+Disallow: /

@@ -1,0 +1,64 @@
+User-agent: *
+
+Allow: /
+
+Disallow: */profil/*
+Disallow: */profil/email-megerosites/*
+Disallow: */profil/email-megerosites$
+Disallow: */profil/email-megerosites*?*
+Disallow: */profile/*
+Disallow: /fb/data-deletion
+Disallow: /csomagkovetes/
+Disallow: /csomagkovetes$
+Disallow: /csomagkovetes/*
+Disallow: /csomagkovetes*?*
+Disallow: /termekertekeles/koszonjuk/
+Disallow: /termekertekeles/koszonjuk$
+Disallow: /termekertekeles/koszonjuk/*
+Disallow: /termekertekeles/koszonjuk*?*
+Disallow: /ajax/*
+Disallow: /ajax/
+Disallow: /affiliate-cleaner
+Disallow: /api/
+Disallow: /api/*
+Disallow: /api/subscribers/
+Disallow: /api/subscribers$
+Disallow: /api/subscribers/*
+Disallow: /api/subscribers*?*
+Disallow: /sandbox/
+Disallow: /sandbox$
+Disallow: /sandbox/*
+Disallow: /sandbox*?*
+Disallow: /feeds/
+Disallow: /feeds$
+Disallow: /feeds/*
+Disallow: /mgmt/*
+Disallow: /admin/*
+Disallow: /cdn-cgi/*
+
+User-agent: 008
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+Sitemap: https://pepita.hu/sitemaps/groups/hu/brand-available-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/category-unavailable-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/innermost-category-available-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/product-review-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/static-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/top-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/brand-review-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/filtered-innermost-category-available-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/product-available-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/product-unavailable-group.hu.xml
+Sitemap: https://pepita.hu/sitemaps/groups/hu/sub-category-available-group.hu.xml

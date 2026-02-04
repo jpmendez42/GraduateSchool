@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /kosar
+Disallow: /checkout
+Disallow: /szallitasi-informaciok
+Disallow: /fizetes-es-szamlazas
+Disallow: /vasarlas-osszegzese
+Disallow: /sikeres-rendeles
+Sitemap: https://www.praktiker.hu/xml/sitemap-index.xml

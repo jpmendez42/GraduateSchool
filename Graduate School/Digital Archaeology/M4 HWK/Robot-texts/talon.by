@@ -1,0 +1,37 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: *call*
+Disallow: *search*
+Disallow: *recall*
+Disallow: *test*
+Disallow: *cabinet*
+Disallow: *select*
+Disallow: *feedback*
+Disallow: *.log*
+Disallow: */log/*
+Disallow: *webmaster*
+Disallow: *transport*
+Disallow: *Load*
+Disallow: *help*
+Disallow: *login_check*
+Disallow: *logout*
+Disallow: *cities*
+Disallow: *patient/policlinics*
+Disallow: *profile*
+Disallow: *registration/*
+Disallow: *target_connect*
+Disallow: *print*
+Disallow: *load*
+Disallow: *delete*
+Disallow: *save*
+Disallow: *genemu*
+Disallow: *policy*
+Disallow: */policlinic/*/order/*
+Disallow: */policlinic/*/services/*
+Disallow: */service/*/order/*
+Disallow: *?*
+
+Host: https://talon.by
+Sitemap: https://talon.by/sitemap.xml

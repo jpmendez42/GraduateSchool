@@ -1,0 +1,19 @@
+User-agent: *
+Host: https://www.nakanune.ru
+Disallow: /admin/
+Disallow: /comments/
+Disallow: /texts/partners
+Disallow: /service/blogger/
+Disallow: /service/print*
+Disallow: /companies/*
+Disallow: /anonces/
+Disallow: /research
+Disallow: /surveys/*
+Disallow: /con/*
+Crawl-delay: 10
+User-agent: AhrefsBot
+Disallow: /
+User-agent: bingbot
+Disallow: /
+
+Sitemap: https://www.nakanune.ru/ssitemap.xml

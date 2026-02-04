@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: *.pdf
+Disallow: /zapomenute-heslo.html
+Disallow: /registrace.html
+Disallow: /kontakt.html

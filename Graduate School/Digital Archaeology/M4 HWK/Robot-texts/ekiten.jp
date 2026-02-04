@@ -1,0 +1,41 @@
+User-agent: GoogleOther
+User-agent: Bytespider
+Disallow: /
+
+User-Agent:*
+Disallow: /login/
+Disallow: /signup/
+Disallow: /form/
+Disallow: /form_*/
+Disallow: /reserve-spkuji/
+Disallow: /help/
+Disallow: /serch_map/
+Disallow: /shop_*/reserve/
+Disallow: /ms*/
+Disallow: /api/
+Disallow: /official-hp-api/
+Disallow: /health-check
+Disallow: /health-check-full
+Disallow: /pdf/
+
+User-Agent:bingbot
+Crawl-delay:1
+
+Sitemap:https://www.ekiten.jp/sitemap_common.xml
+Sitemap:https://www.ekiten.jp/sitemap_shop.xml
+Sitemap:https://www.ekiten.jp/sitemap_shop_review.xml
+Sitemap:https://www.ekiten.jp/sitemap_shop_info.xml
+Sitemap:https://www.ekiten.jp/sitemap_redirect_shop.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_city.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_city_add.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_city_menu.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_station.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_station_add.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_station_menu.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_visit_city.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_visit_city_add.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_visit_city_menu.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_delivery_city.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_delivery_city_add.xml
+Sitemap:https://www.ekiten.jp/sitemap_list_delivery_city_menu.xml
+Sitemap:https://www.ekiten.jp/sitemap_user.xml

@@ -1,0 +1,2422 @@
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<meta charset="utf-8">
+<head>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>【公式】リピストX（クロス）</title>
+    <meta name="description" content="D2C/定期通販に特化したEC構築プラットフォームです。累計1700社超えの導入実績と万全のサポート体制！LP一体型購入フォームでCVRをアップ！" />
+    <meta name="keywords" content="リピスト" />
+    <meta name="robots" content="index,follow" />
+    <meta property="og:title" content="リピストクロス | D2C・定期通販のカートシステム" />
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://rpst.jp/xross/" />
+    <meta property="og:image" content="https://rpst.jp/wp-content/themes/precs/assets/img/rpst_ogp.png">
+    <meta property="og:site_name" content="D2C/定期通販に特化したEC構築プラットフォーム「リピストクロス」">
+    <meta property="og:description" content="D2C/定期通販に特化したEC構築プラットフォームです。累計1700社超えの導入実績と万全のサポート体制！LP一体型購入フォームでCVRをアップ！" />    
+ <!--メディアクエリ-->
+    <link rel="stylesheet" href="https://rpst.jp/wp-content/themes/precs/css/rpst_footer.css">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/css/lightbox.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.7.1/js/lightbox.min.js" type="text/javascript"></script>
+	<script src="https://ajaxzip3.github.io/ajaxzip3.js"></script>
+
+<!-- Optimize Next -->
+<script>(function(p,r,o,j,e,c,t,g){
+p['_'+t]={};g=r.createElement('script');g.src='https://www.googletagmanager.com/gtm.js?id=GTM-'+t;r[o].prepend(g);
+g=r.createElement('style');g.innerText='.'+e+t+'{visibility:hidden!important}';r[o].prepend(g);
+r[o][j].add(e+t);setTimeout(function(){if(r[o][j].contains(e+t)){r[o][j].remove(e+t);p['_'+t]=0}},c)
+})(window,document,'documentElement','classList','loading',2000,'N5N4GV28')</script>
+<!-- End Optimize Next -->    
+    
+    
+  
+  
+    
+    
+<!-- Twitter conversion tracking base code -->
+<script>
+!function(e,t,n,s,u,a){e.twq||(s=e.twq=function(){s.exe?s.exe.apply(s,arguments):s.queue.push(arguments);
+},s.version='1.1',s.queue=[],u=t.createElement(n),u.async=!0,u.src='https://static.ads-twitter.com/uwt.js',
+a=t.getElementsByTagName(n)[0],a.parentNode.insertBefore(u,a))}(window,document,'script');
+twq('config','ol38y');
+</script>
+<!-- End Twitter conversion tracking base code -->	
+
+<!-- PRECS GTM head -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N9Z6KWB');</script>
+<!-- End Google Tag Manager -->
+<!-- PRECS GTM head -->
+
+<!-- MA GTM head -->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-PSKHBXT');</script>
+<!-- End Google Tag Manager -->	
+<!-- MA GTM head -->
+
+<!-- Begin Mieruca Embed Code -->
+<script type="text/javascript" id="mierucajs">
+    window.__fid = window.__fid || [];__fid.push([487010106]);
+    (function() {
+    function mieruca(){if(typeof window.__fjsld != "undefined") return; window.__fjsld = 1; var fjs = document.createElement('script'); fjs.type = 'text/javascript'; fjs.async = true; fjs.id = "fjssync"; var timestamp = new Date;fjs.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://hm.mieru-ca.com/service/js/mieruca-hm.js?v='+ timestamp.getTime(); var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(fjs, x); };
+    setTimeout(mieruca, 500); document.readyState != "complete" ? (window.attachEvent ? window.attachEvent("onload", mieruca) : window.addEventListener("load", mieruca, false)) : mieruca();
+    })();
+    </script>
+    <!-- End Mieruca Embed Code -->
+    
+    <!-- Facebook Pixel Code -->
+    <script>
+      !function(f,b,e,v,n,t,s)
+      {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+      n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+      if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+      n.queue=[];t=b.createElement(e);t.async=!0;
+      t.src=v;s=b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t,s)}(window, document,'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+      fbq('init', '838013186621420');
+      fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=838013186621420&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Facebook Pixel Code -->	
+
+	<link href="https://rpst.jp/wp-content/themes/precs/assets/css/post_cases.css" rel="stylesheet">
+<title>2025トップページ(xross) - リピスト | EC/D2Cサイト構築システム</title>
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+		<!-- All in One SEO 4.8.1.1 - aioseo.com -->
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+	<link rel="canonical" href="https://rpst.jp/" />
+	<meta name="generator" content="All in One SEO (AIOSEO) 4.8.1.1" />
+		<meta property="og:locale" content="ja_JP" />
+		<meta property="og:site_name" content="リピスト | EC/D2Cサイト構築システム - D2C単品/定期通販に特化したEC構築プラットフォームです。累計1500社超えの導入実績と万全なサポート体制！LP一体型購入フォームでCVRを向上させます。" />
+		<meta property="og:type" content="article" />
+		<meta property="og:title" content="2025トップページ(xross) - リピスト | EC/D2Cサイト構築システム" />
+		<meta property="og:url" content="https://rpst.jp/" />
+		<meta property="article:published_time" content="2025-03-04T06:53:51+00:00" />
+		<meta property="article:modified_time" content="2025-03-04T09:07:00+00:00" />
+		<meta name="twitter:card" content="summary_large_image" />
+		<meta name="twitter:title" content="2025トップページ(xross) - リピスト | EC/D2Cサイト構築システム" />
+		<script type="application/ld+json" class="aioseo-schema">
+			{"@context":"https:\/\/schema.org","@graph":[{"@type":"BreadcrumbList","@id":"https:\/\/rpst.jp\/#breadcrumblist","itemListElement":[{"@type":"ListItem","@id":"https:\/\/rpst.jp\/#listItem","position":1,"name":"\u5bb6"}]},{"@type":"Organization","@id":"https:\/\/rpst.jp\/#organization","name":"rpst_test","description":"D2C\u5358\u54c1\/\u5b9a\u671f\u901a\u8ca9\u306b\u7279\u5316\u3057\u305fEC\u69cb\u7bc9\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u3059\u3002\u7d2f\u8a081500\u793e\u8d85\u3048\u306e\u5c0e\u5165\u5b9f\u7e3e\u3068\u4e07\u5168\u306a\u30b5\u30dd\u30fc\u30c8\u4f53\u5236\uff01LP\u4e00\u4f53\u578b\u8cfc\u5165\u30d5\u30a9\u30fc\u30e0\u3067CVR\u3092\u5411\u4e0a\u3055\u305b\u307e\u3059\u3002","url":"https:\/\/rpst.jp\/"},{"@type":"WebPage","@id":"https:\/\/rpst.jp\/#webpage","url":"https:\/\/rpst.jp\/","name":"2025\u30c8\u30c3\u30d7\u30da\u30fc\u30b8(xross) - \u30ea\u30d4\u30b9\u30c8 | EC\/D2C\u30b5\u30a4\u30c8\u69cb\u7bc9\u30b7\u30b9\u30c6\u30e0","inLanguage":"ja","isPartOf":{"@id":"https:\/\/rpst.jp\/#website"},"breadcrumb":{"@id":"https:\/\/rpst.jp\/#breadcrumblist"},"datePublished":"2025-03-04T15:53:51+09:00","dateModified":"2025-03-04T18:07:00+09:00"},{"@type":"WebSite","@id":"https:\/\/rpst.jp\/#website","url":"https:\/\/rpst.jp\/","name":"rpst_test","description":"D2C\u5358\u54c1\/\u5b9a\u671f\u901a\u8ca9\u306b\u7279\u5316\u3057\u305fEC\u69cb\u7bc9\u30d7\u30e9\u30c3\u30c8\u30d5\u30a9\u30fc\u30e0\u3067\u3059\u3002\u7d2f\u8a081500\u793e\u8d85\u3048\u306e\u5c0e\u5165\u5b9f\u7e3e\u3068\u4e07\u5168\u306a\u30b5\u30dd\u30fc\u30c8\u4f53\u5236\uff01LP\u4e00\u4f53\u578b\u8cfc\u5165\u30d5\u30a9\u30fc\u30e0\u3067CVR\u3092\u5411\u4e0a\u3055\u305b\u307e\u3059\u3002","inLanguage":"ja","publisher":{"@id":"https:\/\/rpst.jp\/#organization"}}]}
+		</script>
+		<!-- All in One SEO -->
+
+<link rel='dns-prefetch' href='//js.hs-scripts.com' />
+<script type="text/javascript" id="wpp-js" src="https://rpst.jp/wp-content/plugins/wordpress-popular-posts/assets/js/wpp.min.js?ver=7.3.4" data-sampling="0" data-sampling-rate="100" data-api-url="https://rpst.jp/wp-json/wordpress-popular-posts" data-post-id="0" data-token="15b5487eb7" data-lang="0" data-debug="0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/rpst.jp\/wp-includes\/js\/wp-emoji-release.min.js?ver=bd2cc1fd1b532b056ca5b6f8217ecc55"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://rpst.jp/wp-includes/css/dist/block-library/style.min.css?ver=bd2cc1fd1b532b056ca5b6f8217ecc55' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='toc-screen-css' href='https://rpst.jp/wp-content/plugins/table-of-contents-plus/screen.min.css?ver=2411.1' type='text/css' media='all' />
+<style id='toc-screen-inline-css' type='text/css'>
+div#toc_container {width: 100%;}div#toc_container ul li {font-size: 100%;}
+</style>
+<link rel='stylesheet' id='megamenu-css' href='https://rpst.jp/wp-content/uploads/maxmegamenu/style.css?ver=a07f44' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css' href='https://rpst.jp/wp-includes/css/dashicons.min.css?ver=bd2cc1fd1b532b056ca5b6f8217ecc55' type='text/css' media='all' />
+<link rel='stylesheet' id='wordpress-popular-posts-css-css' href='https://rpst.jp/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=7.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-pagenavi-css' href='https://rpst.jp/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<script type="text/javascript" src="https://rpst.jp/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://rpst.jp/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.1.40-->
+			<script class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			            <style id="wpp-loading-animation-styles">@-webkit-keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}@keyframes bgslide{from{background-position-x:0}to{background-position-x:-200%}}.wpp-widget-block-placeholder,.wpp-shortcode-placeholder{margin:0 auto;width:60px;height:3px;background:#dd3737;background:linear-gradient(90deg,#dd3737 0%,#571313 10%,#dd3737 100%);background-size:200% auto;border-radius:3px;-webkit-animation:bgslide 1s infinite linear;animation:bgslide 1s infinite linear}</style>
+            <style type="text/css">.broken_link, a.broken_link {
+	text-decoration: line-through;
+}</style><link rel="icon" href="https://rpst.jp/wp-content/uploads/2023/06/cropped-rpsticon1-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://rpst.jp/wp-content/uploads/2023/06/cropped-rpsticon1-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://rpst.jp/wp-content/uploads/2023/06/cropped-rpsticon1-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://rpst.jp/wp-content/uploads/2023/06/cropped-rpsticon1-1-270x270.png" />
+<style type="text/css">/** Mega Menu CSS: fs **/</style>
+	
+	
+	
+	
+	<!-- Start VWO Async SmartCode -->
+<link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com" />
+<script type='text/javascript' id='vwoCode'>
+window._vwo_code || (function() {
+var account_id=854178,
+version=2.0,
+settings_tolerance=2000,
+hide_element='body',
+hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+/* DO NOT EDIT BELOW THIS LINE */
+f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(){if(!f){f=true;var e=d.getElementById('_vis_opt_path_hides');if(e)e.parentNode.removeChild(e)}},finished:function(){return f},load:function(e){var t=this.getSettings(),n=d.createElement('script'),i=this;if(t){n.textContent=t;d.getElementsByTagName('head')[0].appendChild(n);if(!w.VWO||VWO.caE){stT.removeItem(cK);i.load(e)}}else{n.fetchPriority='high';n.src=e;n.type='text/javascript';n.onerror=function(){_vwo_code.finish()};d.getElementsByTagName('head')[0].appendChild(n)}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t=d.currentScript,n=d.createElement('style'),i=this.hide_element(),r=t&&!t.async&&i?i+this.hide_element_style():'',c=d.getElementsByTagName('head')[0];n.setAttribute('id','_vis_opt_path_hides');v&&n.setAttribute('nonce',v.nonce);n.setAttribute('type','text/css');if(n.styleSheet)n.styleSheet.cssText=r;else n.appendChild(d.createTextNode(r));c.appendChild(n);this.load('https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&vn='+version)}};w._vwo_code=code;code.init();})();
+</script>
+<!-- End VWO Async SmartCode -->
+	
+</head>
+
+<body>
+	
+<!-- PRECS GTM body -->
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N9Z6KWB"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- PRECS GTM body -->
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSKHBXT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+	
+
+    
+<header>
+  <div class="inner">
+    <p class="logo"><a class="over" href="#"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/lpx_logo.png" alt="belmise"></a></p>
+    <ul class="navi">
+      <li><div class="tel">03-6284-2812<span>受付時間 平日10:00~18:00</span></div></li>
+      <li>
+         	 <a class="button dynamic-link" href="https://rpst.jp/contact/" target="_blank">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none"><path d="M4.16667 17.6786C3.70833 17.6786 3.31597 17.5154 2.98958 17.189C2.66319 16.8626 2.5 16.4703 2.5 16.0119V4.34526C2.5 3.88692 2.66319 3.49456 2.98958 3.16817C3.31597 2.84178 3.70833 2.67859 4.16667 2.67859H10V4.34526H4.16667V16.0119H15.8333V10.1786H17.5V16.0119C17.5 16.4703 17.3368 16.8626 17.0104 17.189C16.684 17.5154 16.2917 17.6786 15.8333 17.6786H4.16667ZM8.08333 13.2619L6.91667 12.0953L14.6667 4.34526H11.6667V2.67859H17.5V8.51192H15.8333V5.51192L8.08333 13.2619Z" fill="green"/></svg>
+          お問い合わせ</a>
+          
+          
+         </li>
+    </ul>
+  </div>
+  <button class="sp-navi-toggle"><span class="bar"></span><span class="bar"></span><span class="bar"></span><span class="menu">MENU</span><span class="close">CLOSE</span></button>
+</header>
+
+
+
+
+<style>
+/* header */
+
+header {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px;
+    background: #fff;
+    box-shadow: 2px 2px 4px 0px rgba(0, 0, 0, 0.10);
+
+}
+header .inner {
+    position: relative;
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    height: 100%;
+    width: 98%;
+    max-width: 100%;
+}
+/* .logo */
+
+header .logo {
+  position: relative;
+  width: 180px;
+  margin: 0;
+  padding: 0;
+}
+header .logo a {
+  font-weight: bold;
+  text-decoration: none;
+  color: #333;
+}
+ 
+
+@media screen and (max-width: 767px) {
+  header .logo {
+    padding: 0;
+  }
+  header .logo a {
+  }
+}
+
+/* scroll */
+
+header {
+  transition: height 0.4s cubic-bezier(0.34, 0.615, 0.4, 0.985);
+}
+header.scroll {
+  height: 60px;
+  position: fixed;
+  z-index: 9999;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+header .logo {
+  transition: width 0.4s cubic-bezier(0.34, 0.615, 0.4, 0.985);
+}
+header.scroll .logo {
+  width: 70px;
+}
+
+/* header-navi-box */
+
+header .navi {
+  margin: 0 0 0 auto;
+  padding: 0;
+  font-size: 14px;
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+  list-style: none;
+}
+header .navi li {
+  margin: 5px 0 5px 20px;
+}
+    
+header .navi li .tel {
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 100%;
+}
+header .navi li .tel span {
+    display: block;
+    font-size: 14px;
+    font-weight: 400;
+}    
+header .navi li:first-child {
+  margin-left: 0;
+}
+header .navi li a {
+  display: block;
+  box-sizing: border-box;
+  text-decoration: none;
+    color: #427b38;
+    
+}
+header .navi li a:hover {
+  opacity: 0.7;
+}
+.button {
+    padding: 0;
+    border-radius: 3px;
+    border: solid 1px green;
+    color: #427b38;
+    background: #fff;
+    margin: 0;
+    width: 200px;
+    text-align: center;
+    height: 45px;
+    line-height: 40px;
+    font-size: 18px;
+}
+@media screen and (max-width: 767px) {
+  header .navi {
+    display: none;
+  }
+}
+
+/* open-button */
+
+.sp-navi-toggle {
+  display: none;
+  margin: auto 0;
+  font-size: 10px;
+  font-weight: bold;
+  line-height: 1;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 40px;
+  width: 16px;
+  height: 25px;
+  transition: all 0.4s;
+  color: #464646;
+  border: none;
+  outline: none;
+  background: none;
+  -webkit-appearance: unset;
+}
+.sp-navi-toggle .menu,
+.sp-navi-toggle .close {
+  position: absolute;
+  bottom: 0;
+  left: -50%;
+  display: block;
+  /*width: 34px;*/
+  height: 11px;
+}
+.sp-navi-toggle .close {
+  display: none;
+}
+.sp-navi-toggle .bar {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #464646;
+}
+.sp-navi-toggle .bar:nth-of-type(1) {
+  top: 0;
+}
+.sp-navi-toggle .bar:nth-of-type(2) {
+  top: 5px;
+}
+.sp-navi-toggle .bar:nth-of-type(3) {
+  top: 10px;
+}
+    
+    
+.sp-navi .tel {
+    font-weight: bold;
+    font-size: 30px;
+    text-align: center;
+}
+    
+    .sp-navi .tel span{display:block;font-size: 12px;}
+/* close-button */
+
+html.sidebar-is-open .sp-navi-toggle .bar:nth-of-type(1) {
+  top: 5px;
+  transform: rotate(45deg);
+}
+html.sidebar-is-open .sp-navi-toggle .bar:nth-of-type(2) {
+  top: 5px;
+  transform: rotate(-45deg);
+}
+html.sidebar-is-open .sp-navi-toggle .bar:nth-of-type(3) {
+  display: none;
+}
+html.sidebar-is-open .sp-navi-toggle .menu {
+  display: none;
+}
+html.sidebar-is-open .sp-navi-toggle .close {
+  display: block;
+}
+
+@media screen and (max-width: 767px) {
+  .sp-navi-toggle{
+    display: block;
+  }
+    
+header .inner {
+    padding: 10px 20px;
+}    
+    
+}
+
+/* sp-navi */
+
+.sp-navi-box {
+  display: none;
+}
+.sp-navi {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+  width: 100%;
+  height: 100vh;
+  font-size: 14px;
+  margin: 0;
+  padding: 0;
+}
+.sp-navi li {
+  padding: 20px 0;
+}
+.sp-navi li a {
+  display: block;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-weight: bold;
+}
+.sp-navi li a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+@media screen and (max-width: 767px) {
+  html.sidebar-is-open .sp-navi-box {
+    display: block;
+  }
+  html.sidebar-is-open {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    width: 100%;
+  }
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+a{
+  color: #333;
+}
+    
+    
+</style>   
+    
+<script>
+//sp menu
+
+(function () {
+  document
+    .querySelector("body")
+    .insertAdjacentHTML("afterbegin", '<div class="sp-navi-box"><div class="sp-navi"></div></div>');
+  document.querySelector(".sp-navi").innerHTML = document.querySelector(
+    ".navi"
+  ).innerHTML;
+
+  const documentElement = document.querySelector("html");
+  const contentElement = document.querySelector("#main");
+  const sidebarElement = document.querySelector(".sp-navi-box");
+  const openSidebar = function () {
+    scl_point = window.pageYOffset;
+    documentElement.classList.add("sidebar-is-open");
+    $("body").css("top", "-" + scl_point + "px");
+  };
+  const closeSidebar = function () {
+    documentElement.classList.remove("sidebar-is-open");
+    $(window).scrollTop(
+      $("body").css("top").replace(/-/g, "").replace(/px/g, "")
+    );
+    $("body").css("top", 0);
+  };
+  $(".sp-navi-toggle").click(function () {
+    //, .sp-navi-box a[href^=#]
+    if ($(".sidebar-is-open").length) {
+      closeSidebar();
+    } else {
+      openSidebar();
+    }
+  });
+})();
+    </script>    
+
+
+	
+  <!-- /HEADER --> <!-- サニタイズCSS -->
+    <link href="https://unpkg.com/sanitize.css" rel="stylesheet"/>
+    <!-- Google Font -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <!-- スタイルシートファイル -->
+   <link rel="stylesheet" href="https://rpst.jp/wp-content/themes/precs/css/newxross-style.css">
+    <!-- Javascriptファイル -->
+    <script src="https://rpst.jp/wp-content/themes/precs/js/xrossscript.js"></script>
+
+ <!-- メイン -->
+    <main>
+<div class="dot_bg">   
+ <!-- キービジュアル -->
+      <section class="kv">
+        <!--<div class="photo1"></div>
+        <div class="photo2"></div>-->
+        <ul class="center">
+          <li>
+            <h1 class="title2"><span>オン・オフ、マルチ対応SaaS通販カートシステム</span><br> <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/rpst.jp_fvlogo.webp" alt="皆様にご愛顧いただきおかげさまで13年"></h1>
+            <div class="sub-text1"> <span>新規獲得に強いEC構築</span>＋<br><span>定期管理</span>・<span>受注処理</span>・<span>広告分析</span>・<span>CS対応</span>も<br>リピストXで全て完結</div>
+          </li>
+          <li>
+            <div class="prise02">
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/anv13th.webp" alt="皆様にご愛顧いただきおかげさまで13年">
+              <!--<div class="postscript">※ 日本トレンドマップ研究所調べ。調査概要：定期通販系ASPカートシステムにおけるブランドの期待イメージ</div>-->
+            </div>
+            <ul class="buttons">
+              <li><a rel="noopener" href=" https://rpst.jp/document-xross-lp/" target="_blank" class="dynamic-link"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                <path d="M4.16667 17.6786C3.70833 17.6786 3.31597 17.5154 2.98958 17.189C2.66319 16.8626 2.5 16.4703 2.5 16.0119V4.34526C2.5 3.88692 2.66319 3.49456 2.98958 3.16817C3.31597 2.84178 3.70833 2.67859 4.16667 2.67859H10V4.34526H4.16667V16.0119H15.8333V10.1786H17.5V16.0119C17.5 16.4703 17.3368 16.8626 17.0104 17.189C16.684 17.5154 16.2917 17.6786 15.8333 17.6786H4.16667ZM8.08333 13.2619L6.91667 12.0953L14.6667 4.34526H11.6667V2.67859H17.5V8.51192H15.8333V5.51192L8.08333 13.2619Z" fill="white"/>
+                </svg>資料ダウンロード</a></li>
+              <li><a rel="noopener" href=" https://rpst.jp/contact-lp/" target="_blank" class="dynamic-link"><svg xmlns="http://www.w3.org/2000/svg" width="20" height="21" viewBox="0 0 20 21" fill="none">
+                <path d="M4.16667 17.6786C3.70833 17.6786 3.31597 17.5154 2.98958 17.189C2.66319 16.8626 2.5 16.4703 2.5 16.0119V4.34526C2.5 3.88692 2.66319 3.49456 2.98958 3.16817C3.31597 2.84178 3.70833 2.67859 4.16667 2.67859H10V4.34526H4.16667V16.0119H15.8333V10.1786H17.5V16.0119C17.5 16.4703 17.3368 16.8626 17.0104 17.189C16.684 17.5154 16.2917 17.6786 15.8333 17.6786H4.16667ZM8.08333 13.2619L6.91667 12.0953L14.6667 4.34526H11.6667V2.67859H17.5V8.51192H15.8333V5.51192L8.08333 13.2619Z" fill="#427b38"/>
+                </svg>お問い合わせ</a></li>
+            </ul>
+           <!-- <div class="target">新しいタブでページが開きます</div>
+            <div class="tel">
+              <h3 class="title number">☎ <a href="tel:03-6284-2812">03-6284-2812</a></h3>
+              <div class="hours">10:00～18:00( 土日祝日は除く )</div>
+            </div>-->
+          </li>
+          <li>
+              
+        <div class="fvslide">
+        <div class="pc-image">
+         <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_pcimg.webp" alt="PCイメージ">       
+         <div class="fv_container"> 
+             <div class="pc-images">
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider02.webp" alt="レカルカ" class="fade">
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider01.webp" alt="ベルタ" class="fade">     
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider03.webp" alt="ボンキッシュ" class="fade">
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider04.webp" alt="麻布化粧品" class="fade"> 
+             </div>     
+        </div>
+        </div> 
+                  
+                  
+        <div class="sp_img"> 
+          <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_spimg.webp" alt="spイメージ"> 
+         <div class="fv_container">
+        <div class="mobile-image">
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider02mb.webp" alt="レカルカ" class="fade">
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider01mb.webp" alt="ベルタ" class="fade">
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider03mb.webp" alt="ボンキッシュ" class="fade">
+             <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/fv_slider04mb.webp" alt="麻布化粧品" class="fade">
+        </div>     
+        </div>
+       </div>
+    </div></li>
+        </ul>
+      </section>
+    
+    
+             <style>
+           
+.fvslide{position: relative;}           
+.fv_container {
+    width: 690px;
+    position: absolute;
+    top: 25px;
+    left: 94px;
+}
+
+.fv_container.pc-image, .fv_container.mobile-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+.fv_container img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    animation: fadeAnimation 16s infinite;
+} 
+                 
+main .kv .center > li:nth-of-type(2) .prise02 img {
+    width: 80%;
+    margin-bottom: 8px;
+}                 
+  
+main .kv .center > li:nth-of-type(1) .title, main .kv .center > li:nth-of-type(1) .title2 {
+    background: linear-gradient(-90deg, #006400, #00CA00) ;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+                 
+main h1.title2 span {
+    background: linear-gradient(-90deg, #333, #000);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}                 
+                 
+main .kv .center > li:nth-of-type(3) .pc-image .fv_container img {
+    width: 504px;
+    position: absolute;
+    left: 30px;
+    top: 70px;
+}
+           
+           .fv_container .mobile-image{}
+main .kv .center > li:nth-of-type(3) .sp_img{position: absolute;
+    right: 30px;
+    bottom: 0;
+}          
+main .kv .center > li:nth-of-type(3) .sp_img img{
+    width: 128px;
+    height: auto;
+    z-index: 999;
+    position: relative;
+    right: -150px;
+}           
+main .kv .center > li:nth-of-type(3) .fv_container .mobile-image img {
+    width: 110px;
+    height: auto;
+    position: absolute;
+    left: -55px;
+    top: 72px;
+}
+
+.pc-images img:nth-child(1),
+.mobile-image img:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.pc-images img:nth-child(2),
+.mobile-image img:nth-child(2) {
+    animation-delay: 6s;
+}
+
+           
+ .pc-images img:nth-child(3),
+.mobile-image img:nth-child(3) {
+    animation-delay: 12s;
+}
+           
+.pc-images img:nth-child(4),
+.mobile-image img:nth-child(4) {
+    animation-delay: 18s;
+}           
+           
+           
+@keyframes fadeAnimation {
+    0% {
+        opacity: 0;
+    }
+    12.5% {
+        opacity: 1;
+    }
+    37.5% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+                 
+main .kv .center > li:nth-of-type(2) .buttons > li a {
+    padding: 12px 8px;
+}                 
+  
+.gr-label {
+    background: green;
+    padding: 5px;
+    color: #fff;
+    width: 150px;
+    text-align: center;
+    border-radius: 60px;
+    font-size: 12px;
+    position: relative;
+    top: -10px;
+    left: 10px;
+}             
+                 
+@media  (min-width: 767px) and (max-width: 1240px){                   
+main .kv .center > li:nth-of-type(2) .prise02 {
+        margin-bottom: 30px;
+        text-align: center;
+        position: relative;
+        left: 60px;
+        top: 20px;
+    }                 
+     }                 
+ 
+@media (max-width: 1000px){  
+    
+main .kv .center > li:nth-of-type(3) .pc-image {
+        width: 420px;
+        position: relative;
+    }
+    
+main .kv .center > li:nth-of-type(3) .pc-image img {
+        width: 520px;
+        height: auto;
+    } 
+    
+main .kv .center > li:nth-of-type(3) .pc-image .fv_container img {
+        width: 390px;
+        height: auto;
+        position: absolute;
+        left: -28px;
+        top: -10px;
+    }
+    
+    
+    main .kv .center > li:nth-of-type(3) .sp_img {
+        position: absolute;
+        right: 30px;
+        top: 50px;
+                bottom: 0;
+    }  
+main .kv .center > li:nth-of-type(3) .sp_img img {
+        width: 102px;
+        height: auto;
+        z-index: 999;
+        position: relative;
+        left: 100px;
+        top: 50px;
+    }
+    
+main .kv .center > li:nth-of-type(3) .sp_img .fv_container {
+    width: 100%;
+    position: absolute;
+    top: 25px;
+    left: 94px;
+}  
+    
+    
+main .kv .center > li:nth-of-type(3) .fv_container .mobile-image img {
+        width: 86px;
+        height: auto;
+        position: absolute;
+        left: 15px;
+        top: 50px;
+    }    
+    
+              
+  }           
+           
+@media (max-width: 768px){ 
+    
+    main .kv .center > li:nth-of-type(3) .pc-image {
+ width: 320px;
+    position: relative;
+}
+    
+    main .kv .center > li:nth-of-type(3) .pc-image img {
+        width: 320px;
+        height: auto;
+    }    
+        
+     
+main .kv .center > li:nth-of-type(3) .pc-image .fv_container {
+    width: 280px;
+    position: absolute;
+    top: 10px;
+    left: 0;
+}    
+    
+main .kv .center > li:nth-of-type(3) .pc-image .fv_container img {
+    width: 240px;
+    position: absolute;
+    left: 40px;
+    top: 0;
+}    
+    
+ main .kv .center > li:nth-of-type(2) .buttons > li a {
+        width: 200px;    }   
+    
+main .kv .center > li:nth-of-type(3) .sp_img {
+    position: absolute;
+    right: 30px;
+    bottom: 50px;
+}  
+    
+main .kv .center > li:nth-of-type(3) .sp_img img {
+        width: 82px;
+        height: auto;
+        z-index: 999;
+        position: relative;
+        right: -150px;
+        left: 30px;
+        top: 0;
+    } 
+    
+main .kv .center > li:nth-of-type(3) .sp_img .fv_container {
+    width: 100%;
+    position: absolute;
+    top: 25px;
+    left: 94px;
+}  
+    
+main .kv .center > li:nth-of-type(3) .fv_container .mobile-image img {
+        width: 68px;
+        height: auto;
+        position: absolute;
+        left: -57px;
+        top: 0;
+    }    
+    
+           }
+  @media (max-width: 468px){                
+        main .kv .center > li:nth-of-type(2) .buttons > li a {
+        width: 180px;
+    }             
+       }  
+                 
+.or-label1 {
+    background: #ee8c22;
+    padding: 5px;
+    color: #fff;
+    width: 150px;
+    text-align: center;
+    border-radius: 60px;
+    font-size: 12px;
+    position: absolute;
+    top: -15px;
+    left: unset !important;
+    font-weight: bold;
+} 
+                 
+.or-label2 {
+    background: #fff;
+    padding: 5px;
+    color: #ee8c22;
+    width: 150px;
+    text-align: center;
+    border-radius: 60px;
+    font-size: 12px;
+    font-weight: bold;
+    position: absolute;
+    top: -15px;
+    left: unset !important;
+    border: 2px solid #ee8c22;
+}  
+    main .xrossfeature ul.xfeatures {
+    gap: 30px 10px !important;
+}  
+                 
+main .xrossfeature ul.xfeatures > li {
+    border: 2px solid #6cbb74;
+}                 
+                 
+            </style> 
+    
+    
+        
+      <!-- 事例スライダー -->
+      <section class="example">
+        <div class="text">多くの企業がリピストクロスでEC通販を始めています</div>
+        <div class="conveyor-wrap">
+          <ul class="conveyor">
+            <li>
+              <input type="checkbox" name="slider" id="slide-lekarka1" value="101">
+              <label for="slide-lekarka1">
+                 <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo1.webp" alt="belmise">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-weeed1" value="102">
+              <label for="slide-weeed1">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo2.webp" alt="導入事例 - ECスタジオ">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-belta1" value="103">
+              <label for="slide-belta1">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo3.webp" alt="導入事例 - BELTA">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-nomura1" value="104">
+              <label for="slide-nomura1">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo4.webp" alt="導入事例 -野村乳業">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-bonquish1" value="105">
+              <label for="slide-bonquish1">
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo5.webp" alt="導入事例 - Bonquish">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-edoichi1" value="106">
+              <label for="slide-edoichi1">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo6.webp" alt="導入事例 - 江戸一">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-marumochiya1" value="107">
+              <label for="slide-marumochiya1">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/slide-marumochiya.webp" alt="導入事例 - まるもち家">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-azabu-cosmetics1" value="108">
+              <label for="slide-azabu-cosmetics1">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo8.webp" alt="導入事例 - 麻布化粧品">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-hinomaru1" value="109">
+              <label for="slide-hinomaru1">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo9.webp" alt="導入事例 - 日の丸醸造">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-ofood1" value="110">
+              <label for="slide-ofood1">
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo10.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+          </ul>
+          <ul class="conveyor">
+            <li>
+              <input type="checkbox" name="slider" id="slide-lekarka2" value="201">
+              <label for="slide-lekarka2">
+                 <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo11.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-weeed2" value="202">
+              <label for="slide-weeed2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo12.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-belta2" value="203">
+              <label for="slide-belta2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo13.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-nomura2" value="204">
+              <label for="slide-nomura2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo14.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-bonquish2" value="205">
+              <label for="slide-bonquish2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo15.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-edoichi2" value="206">
+              <label for="slide-edoichi2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo16.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-marumochiya2" value="207">
+              <label for="slide-marumochiya2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo17.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-azabu-cosmetics2" value="208">
+              <label for="slide-azabu-cosmetics2">
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo18.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-hinomaru2" value="209">
+              <label for="slide-hinomaru2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo19.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+                        <li>
+              <input type="checkbox" name="slider" id="slide-hinomaru2" value="209">
+              <label for="slide-hinomaru2">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo_okame.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>  
+          </ul>
+          <ul class="conveyor">
+            <li>
+              <input type="checkbox" name="slider" id="slide-lekarka3" value="301">
+              <label for="slide-lekarka3">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo21.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-weeed3" value="302">
+              <label for="slide-weeed3">
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/belletia.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-belta3" value="303">
+              <label for="slide-belta3">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/kagurazaka.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-nomura3" value="304">
+              <label for="slide-nomura3">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/froraison.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-bonquish3" value="305">
+              <label for="slide-bonquish3">
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo25.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-edoichi3" value="306">
+              <label for="slide-edoichi3">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/hrc.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-marumochiya3" value="307">
+              <label for="slide-marumochiya3">
+                 <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/racine.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-azabu-cosmetics3" value="308">
+              <label for="slide-azabu-cosmetics3">
+                 <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/acell.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-hinomaru3" value="309">
+              <label for="slide-hinomaru3">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo_mrb.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            <li>
+              <input type="checkbox" name="slider" id="slide-ofood3" value="310">
+              <label for="slide-ofood3">
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/forme.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+          </ul>
+             <ul class="conveyor">
+            <li>
+              <input type="checkbox" name="slider" id="slide-lekarka3" value="301">
+              <label for="slide-lekarka3">
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/logo/logo20.webp" alt="導入事例 - Ofood">
+              </label>
+            </li>
+            </ul>     
+        </div>
+      </section>
+       <!-- リピストクロスについて -->
+      <section class="about-rpst">
+        <div class="wrap">
+            <div class="bg-letter"> <div class="bg_font">RPST XROSS</div></div>
+          <h2 class="title"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/xross.webp" alt="サイト構築">なら<br>
+              高機能はそのままに<span>最安水準</span>の<br>ランニングコストを実現!</h2>
+          </div>
+            <div class="wrap2">
+          <ul>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point01.webp" alt="サイト構築">
+              <div class="text">ブランド<br>ページの構築</div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point02.webp" alt="バックオフィス">
+              <div class="text">定期販売<br>機能</div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point03.webp" alt="">
+              <div class="text">よりどり<br>販売</div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point04.webp" alt="">
+              <div class="text">リピート<br>施策機能</div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point05.webp" alt="">
+              <div class="text">WMS連携</div>
+            </li>
+                  <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point06.webp" alt="バックオフィス">
+              <div class="text">決済連携<br>機能</div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point07.webp" alt="">
+              <div class="text">分析・集計</div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point08.webp" alt="">
+              <div class="text">広告管理<br>機能</div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/about-point09.webp" alt="">
+              <div class="text">かご落ち<br>低減</div>
+            </li>  
+              
+              
+          </ul>
+          <div class="desc desc1"><span class="pc_txtwrap sp_txtwrap">リピストクロスは、EC事業者様の施策の追加に応じて</span><span class="green">固定費が上がることが無いよう、基本プランの中に充実した機能を内包！</span></div>
+          <div class="desc"><span class="pc_txtwrap sp_txtwrap">事業フェーズの変化とともに</span>「 <span class="green">気がついたらランニングコストが想定の予算を超過していた</span> 」<span class="pc_txtwrap sp_txtwrap">という事態を回避することが可能です。</div>
+            <div class="costcut"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/kakudai.webp" alt="導入企業は平均で65%コストカット。売上は426%拡大" style="width: 100%;">  </div>
+            
+        </div>
+      </section>
+        
+    <!-- お客様の声 -->
+      <section class="voice">
+        <div class="bg-letter"> <div class="bg_font">VOICE</div></div>
+        <div class="wrap">
+          <h2 class="title">お客様の声</h2>
+             <div class="txt">リピストクロスは、通販で有名な多くの企業様に導入されています。</div>
+          <div class="voicesbox">
+            <ul class="voices">
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/voice-photo1.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc"><span class="strong">欲しい機能がしっかり揃っていたこと、使いやすいダッシュボード</span>が乗り換えの決め手でした。<br>
+                  <span class="strong">以前からやりたかった施策も実行</span>できています。</div>
+                <div class="customer">
+                  <div class="genre">美容</div>
+                  <div class="name">株式会社レカルカ</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/lekarka/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/voice-photo2.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc"><span class="strong">銀行からの紹介</span>でリピストを導入。<br>
+                  初めてのECサイトでしたが、<span class="strong">サービス以外のEC全般の相談も</span>でき、気持ちも楽になりました。<span class="strong">業務の改善提案</span>ももらえ、作業効率も上がりました。</div>
+                <div class="customer">
+                  <div class="genre">食品</div>
+                  <div class="name">株式会社江戸一飯田</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/edoichi/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/voice-photo3.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc"><span class="strong">価格帯はカートサービスの中でダントツ</span>です！<br>
+                  <span class="strong">機能が非常に充実</span>しており、<span class="strong">サポートの方々がITの分野にも明るく、技術的な相談もできる</span>のが心強いです。</div>
+                <div class="customer">
+                  <div class="genre">アパレル</div>
+                  <div class="name">株式会社 ビズ服</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/bizfuku/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+             </ul>
+           <ul class="voices">
+               <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/epono_fv.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc">
+                   <span class="strong"> CS工数を15%削減</span>しつつ、更に顧客体験の改善により、<span class="strong">定期継続率が120%UP</span>しました。また、リピスト社は機能説明だけでなく、<span class="strong">豊富な事例をもとに集客方法などもアドバイスしてくれる</span>ので助かっています。
+                    </div>
+                <div class="customer">
+                  <div class="genre">食品／飲料</div>
+                  <div class="name">アンバー株式会社</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/epono/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/lekarka_fv.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc">
+                   <span class="strong"> 欲しい機能がしっかり揃っていたこと、使いやすいダッシュボード</span>が乗り換えの決め手でした。
+ <span class="strong"> 以前からやりたかった施策</span>も実行できています。
+                    </div>
+                <div class="customer">
+                  <div class="genre">美容</div>
+                  <div class="name">株式会社レカルカ</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/lekarka_xross/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/andyou01-1.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc">
+                     <span class="strong">売上が約700％向上</span>した要因は、「料金と機能の最適化」と「定期購入設定」、「丁寧なサポート対応」です。<br>
+<span class="strong">事業成長に合わせて料金と機能を常時最適化することで、事業の成功に寄与</span>したと考えています。
+</div>
+                <div class="customer">
+                  <div class="genre">健康食品</div>
+                  <div class="name">And you.株式会社</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/acell/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+            </ul>
+           <ul class="voices">
+               <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/voice-photo1.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc"><span class="strong">欲しい機能がしっかり揃っていたこと、使いやすいダッシュボード</span>が乗り換えの決め手でした。<br>
+                  <span class="strong">以前からやりたかった施策も実行</span>できています。</div>
+                <div class="customer">
+                  <div class="genre">美容</div>
+                  <div class="name">株式会社レカルカ</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/lekarka/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/voice-photo2.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc"><span class="strong">銀行からの紹介</span>でリピストを導入。<br>
+                  初めてのECサイトでしたが、<span class="strong">サービス以外のEC全般の相談も</span>でき、気持ちも楽になりました。<span class="strong">業務の改善提案</span>ももらえ、作業効率も上がりました。</div>
+                <div class="customer">
+                  <div class="genre">食品</div>
+                  <div class="name">株式会社江戸一飯田</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/edoichi/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+            <li>
+              <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/voice-photo3.webp" alt="お客様の声">
+              <div class="content">
+                <div class="desc"><span class="strong">価格帯はカートサービスの中でダントツ</span>です！<br>
+                  <span class="strong">機能が非常に充実</span>しており、<span class="strong">サポートの方々がITの分野にも明るく、技術的な相談もできる</span>のが心強いです。</div>
+                <div class="customer">
+                  <div class="genre">アパレル</div>
+                  <div class="name">株式会社 ビズ服</div>
+                </div>
+                <div class="more-btn">
+                  <a rel="noopener" href="https://rpst.jp/cases/bizfuku/" target="_blank">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="19" height="18" viewBox="0 0 19 18" fill="none">
+                      <path d="M4.41699 15.75C4.00449 15.75 3.65137 15.6031 3.35762 15.3094C3.06387 15.0156 2.91699 14.6625 2.91699 14.25V3.75C2.91699 3.3375 3.06387 2.98438 3.35762 2.69063C3.65137 2.39687 4.00449 2.25 4.41699 2.25H9.66699V3.75H4.41699V14.25H14.917V9H16.417V14.25C16.417 14.6625 16.2701 15.0156 15.9764 15.3094C15.6826 15.6031 15.3295 15.75 14.917 15.75H4.41699ZM7.94199 11.775L6.89199 10.725L13.867 3.75H11.167V2.25H16.417V7.5H14.917V4.8L7.94199 11.775Z" fill="#28A108"/>
+                    </svg>
+                    事例をくわしくみる
+                  </a>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>      
+              
+          <div class="more-btn">
+            <a rel="noopener" href="https://rpst.jp/cases/" target="_blank">
+              <svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21" fill="none">
+                <path d="M4.66667 18C4.20833 18 3.81597 17.8368 3.48958 17.5104C3.16319 17.184 3 16.7917 3 16.3333V4.66667C3 4.20833 3.16319 3.81597 3.48958 3.48958C3.81597 3.16319 4.20833 3 4.66667 3H10.5V4.66667H4.66667V16.3333H16.3333V10.5H18V16.3333C18 16.7917 17.8368 17.184 17.5104 17.5104C17.184 17.8368 16.7917 18 16.3333 18H4.66667ZM8.58333 13.5833L7.41667 12.4167L15.1667 4.66667H12.1667V3H18V8.83333H16.3333V5.83333L8.58333 13.5833Z" fill="#28A108"/>
+              </svg>
+              導入事例をもっとみる
+            </a>
+          </div>
+        </div>
+      </section> 
+        
+       <!-- 3つの理由 -->
+      <section id="reason" class="reason">
+       <div class="bg-letter"> <div class="bg_font">REASONS</div></div>
+        <h2 class="title"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/xross.webp" alt="サイト構築">が<br>
+          選ばれる<span>3つ</span>の理由</h2>
+        <div class="reason_box">  
+        <div class="wrap">
+          <div class="item1">
+            <div class="caption">
+            <div class="labelbox">
+            <div class="en">
+                <div class="line"></div>
+                <div class="text">REASON</div>
+              </div>
+             <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason01.webp" alt="REASON01">   
+             </div>     
+              <h3 class="title">EC運営に必要な多種多様な機能を基本プランの中に内包</h3>  
+            </div>
+              
+              
+            <div class="frame">
+            <div class="content2">
+                  リピストクロスは基本プランの中に、新規集客に必須の機能、在庫管理から決済処理、CRM施策まで、EC運営に欠かせない機能を多く搭載しています。
+<br><br>
+この一元化されたシステムにより固定費の増加を気にせずマーケティング／CRMに集中<br>
+できる環境をご提供することが可能です。
+                </div>
+              </div>
+　　　　　　　　　
+                 <div style="position: relative;"> 
+             <a href="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason01_img.webp" data-lightbox="group"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason01_img.webp"></a>　      
+            <div class="zoom"> <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/zoom.png">画像クリックで拡大</div>
+               </div>       
+            </div>
+
+
+            <div class="item2">
+              <div class="pc_view"><div class="caption">
+                 <h3 class="title"><span>最先端のマーケティング戦略に適応可能な</span>新規集客&顧客育成<br>機能を搭載</h3>    
+                 <div class="labelbox">  
+                <div class="en">
+                  <div class="line"></div>
+                  <div class="text">REASON</div>     
+                </div>
+                     <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason02.webp" alt="REASON02">
+                  </div>     
+                
+              </div></div>
+              <div class="caption sp_view">
+                 <div class="labelbox">  
+                <div class="en">
+                  <div class="line"></div>
+                  <div class="text">REASON</div>     
+                </div>
+                     <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason02.webp" alt="REASON02">
+                  </div>     
+                 <h3 class="title"><span>最先端のマーケティング戦略に適応可能な</span>新規集客&顧客育成<br>機能を搭載</h3>    
+              </div>    
+              <div class="frame">
+                <div class="content2">
+                  EC運営において重要なフォーム一体LPやSNS連携機能、メールマーケティングツールとのシームレスな連携など、新規顧客を効果的に集客するための機能を豊富に搭載して
+います。<br><br>
+市場の変化やビジネスの成長に合わせて、柔軟にマーケティング戦略を調整可能。<br>
+これにより、一貫して高い集客効果を実現し、ビジネスの拡大をサポートします。
+                </div>
+              </div> 
+                
+               <div style="position: relative;"> 
+             <a href="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason02_img.webp" data-lightbox="group"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason02_img.webp"></a>　      
+            <div class="zoom"> <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/zoom.png">画像クリックで拡大</div>
+               </div>     
+            <div class="note">新規顧客から顧客ロイヤル化まで<br>一貫して高い効果を実現し、ビジネスのサポートを拡大する機能群</div>    
+            </div>
+             
+            <div class="item3">
+              <div class="caption">
+            <div class="labelbox">  
+                <div class="en">
+                  <div class="line"></div>
+                  <div class="text">REASON</div>
+                </div>
+                <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason03.webp" alt="REASON03">          
+              </div>        
+                <h3 class="title">CSオペレーションの<br>工数最小化をサポート</h3>  
+              </div>
+              <div class="frame">
+                <div class="content2">
+                   高度な定期購入機能やマイページ機能、さらには多様な外部ツールとの連携を通じて、EC事業様の運営を最小限の人的リソースで実現します。
+<br><br>これらの機能により、顧客の問い合わせ対応から注文管理まで、日常業務の自動化と効率化を図ることが可能です。少ないスタッフでも顧客満足度を損なうことなく、スムーズに事業を運営できる環境を実現することでコスト削減はもちろんのこと、質の高い顧客体験の提供によりビジネスの成長を加速させます。
+                  <div style="display:none;">リピストでは<span class="strong3 bg-white">『導入がゴールではなく、使いこなすをゴール』</span>として日々のサポートを無料で行っています。<br>
+                  <br>
+                  開発・カスタマーサポート・営業が全て正社員であるため、徹底した社内研修と密な連携により、質の高いアフターサポートをご提供しています。<br>
+                  質問いただく方のリテラシーに合わせて回答し、<br>
+                  回答スピード（当日回答率100％）も含め<br>
+                  <span class="strong2 bg-white">サポート満足度は</span><span class="strong1 orange bg-white">99.8％</span><span class="strong1 bg-white">。</span><span class="small">※</span>　そのため、<span class="strong2 bg-white">サービスの</span><span class="strong2 bg-white">継続率も</span><span class="strong1 orange bg-white">98%</span>と、多くのお客様にご満足いただいています。
+                    </div>
+                    </div>
+              </div>
+               <div style="position: relative;"> 
+             <a href="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason03_img.webp" data-lightbox="group"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/reason03_img.webp"></a>　      
+            <div class="zoom"> <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/zoom.png">画像クリックで拡大</div>
+               </div>     
+                
+            </div>
+    
+          </div>
+      </div>
+      </section> 
+        
+    <!-- CTA1 -->
+      <section class="cta">
+        <ul class="buttons">
+          <li> <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/xross_document.webp" alt="リピストクロス資料">
+          </li>
+          <li>
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/3minit.webp" alt="3分でわかる！リピストクロス資料">
+              <a rel="noopener" href="https://rpst.jp/document-xross-lp/" target="_blank" class="dynamic-link">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+              <path d="M5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H12V5H5V19H19V12H21V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM9.7 15.7L8.3 14.3L17.6 5H14V3H21V10H19V6.4L9.7 15.7Z" fill="white"/>
+            </svg>
+            資料ダウンロード</a></li>
+        </ul>
+      </section>    
+            
+        
+      <!-- 特徴 -->
+      <section class="xrossfeature">
+         <div class="bg-letter"> <div class="bg_font">FEATURE</div></div>  
+          <h2 class="title">リピストクロスの<span>主要機能</span></h2>   
+        <ul class="xfeatures">
+        <li>
+                <div class="or-label1">全プラン標準機能</div>
+            <div class="title">デザイン自由度の高い<br>ブランドページ構築</div>
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature07.webp" alt="デザイン自由度の高いブランドページ構築">
+            <div class="text">ほぼすべてのページ・要素を自由にカスタマイズすることが可能なため、ブランドの世界観を表現することが可能です。</div>
+            <div class="drawer" style="display:none;">
+              <input type="checkbox" id="feature5">
+              <label for="feature5">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
+                  <path d="M19.6 21.5L13.3 15.2C12.8 15.6 12.225 15.9167 11.575 16.15C10.925 16.3833 10.2333 16.5 9.5 16.5C7.68333 16.5 6.14583 15.8708 4.8875 14.6125C3.62917 13.3542 3 11.8167 3 10C3 8.18333 3.62917 6.64583 4.8875 5.3875C6.14583 4.12917 7.68333 3.5 9.5 3.5C11.3167 3.5 12.8542 4.12917 14.1125 5.3875C15.3708 6.64583 16 8.18333 16 10C16 10.7333 15.8833 11.425 15.65 12.075C15.4167 12.725 15.1 13.3 14.7 13.8L21 20.1L19.6 21.5ZM9.5 14.5C10.75 14.5 11.8125 14.0625 12.6875 13.1875C13.5625 12.3125 14 11.25 14 10C14 8.75 13.5625 7.6875 12.6875 6.8125C11.8125 5.9375 10.75 5.5 9.5 5.5C8.25 5.5 7.1875 5.9375 6.3125 6.8125C5.4375 7.6875 5 8.75 5 10C5 11.25 5.4375 12.3125 6.3125 13.1875C7.1875 14.0625 8.25 14.5 9.5 14.5Z" fill="#4D4D4D"/>
+                </svg>
+                <div>詳細機能をみる<span>（一部）</span></div>
+                <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M12.667 17.1333L5.66699 10.1333L7.30033 8.5L12.667 13.8667L18.0337 8.5L19.667 10.1333L12.667 17.1333Z" fill="#4D4D4D"/>
+                </svg>
+              </label>
+              <div class="detail">
+                <hr>
+                <ul class="details">
+                  <li>
+                    <div class="caption">一括アップロード</div>
+                    <div class="content">受注データをCSV&nbsp;で取り込むことが可能です。<br>定期販売にも対応しているので、販売方法の幅も広がります。</div>
+                  </li>
+                  <li>
+                    <div class="caption">対応履歴</div>
+                    <div class="content">応対メモや、作業履歴も残しやすい仕様なので、外部コールセンターとの共有も行いやすくなります。</div>
+                  </li>
+                  <li>
+                    <div class="caption">優れた画面表示</div>
+                    <div class="content">実際のコールセンターと共同開発をしたため、使いやすく洗練された画面表示です。</div>
+                  </li>
+                </ul>
+              </div>
+          </li>
+         <li>
+             <div class="or-label1">全プラン標準機能</div>
+            <div class="title">LP一体型フォーム</div>
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature-illust3.webp" alt="LP一体型フォーム">
+            <div class="text">LP（ランディングページ）の中に入力補助付きの購入フォームがあるため、顧客の購入前の離脱を防げます。</div>
+            <div class="drawer">
+              <input type="checkbox" id="feature1">
+              <label for="feature1">
+                <svg xmlns="http://www.w3.org/2000/svg" width="24" height="25" viewBox="0 0 24 25" fill="none">
+                  <path d="M19.6 21.5L13.3 15.2C12.8 15.6 12.225 15.9167 11.575 16.15C10.925 16.3833 10.2333 16.5 9.5 16.5C7.68333 16.5 6.14583 15.8708 4.8875 14.6125C3.62917 13.3542 3 11.8167 3 10C3 8.18333 3.62917 6.64583 4.8875 5.3875C6.14583 4.12917 7.68333 3.5 9.5 3.5C11.3167 3.5 12.8542 4.12917 14.1125 5.3875C15.3708 6.64583 16 8.18333 16 10C16 10.7333 15.8833 11.425 15.65 12.075C15.4167 12.725 15.1 13.3 14.7 13.8L21 20.1L19.6 21.5ZM9.5 14.5C10.75 14.5 11.8125 14.0625 12.6875 13.1875C13.5625 12.3125 14 11.25 14 10C14 8.75 13.5625 7.6875 12.6875 6.8125C11.8125 5.9375 10.75 5.5 9.5 5.5C8.25 5.5 7.1875 5.9375 6.3125 6.8125C5.4375 7.6875 5 8.75 5 10C5 11.25 5.4375 12.3125 6.3125 13.1875C7.1875 14.0625 8.25 14.5 9.5 14.5Z" fill="#4D4D4D"/>
+                </svg>
+                <div>詳細機能をみる<span>（一部）</span></div>
+                <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M12.667 17.1333L5.66699 10.1333L7.30033 8.5L12.667 13.8667L18.0337 8.5L19.667 10.1333L12.667 17.1333Z" fill="#4D4D4D"/>
+                </svg>
+              </label>
+              <div class="detail">
+                <hr>
+                <ul class="details">
+                  <li>
+                    <div class="caption">62の最適化施策</div>
+                    <div class="content">顧客が簡単に購入できるよう、62の最適化施策を実施・改善し続けています。</div>
+                  </li>
+                  <li>
+                    <div class="caption">デザインカスタマイズ可能</div>
+                    <div class="content">他のページと同様、デザインのカスタマイズが柔軟にできます。</div>
+                  </li>
+                <li>
+                    <div class="caption">EFO標準搭載</div>
+                    <div class="content">住所自動入力やリアルタイムエラー、残り項目数の表示など離脱防止機能が標準搭載されており、CVRを向上させることが可能です</div>
+                  </li>	    
+                </ul>
+              </div>
+            </div>
+          </li>    
+          
+          <li>
+                <div class="or-label1">全プラン標準機能</div>
+            <div class="title" >自由度の高い定期販売機能</div>
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature-illust2.webp" alt="定期販売">
+            <div class="text">定期販売を行うための機能が豊富に揃っています。配送間隔の調整や、回数別施策を行うことが可能です。</div>
+            <div class="drawer">
+              <input type="checkbox" id="feature2">
+              <label for="feature2">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M11.667 17.5H13.667V11.5H11.667V17.5ZM12.667 9.5C12.9503 9.5 13.1878 9.40417 13.3795 9.2125C13.5712 9.02083 13.667 8.78333 13.667 8.5C13.667 8.21667 13.5712 7.97917 13.3795 7.7875C13.1878 7.59583 12.9503 7.5 12.667 7.5C12.3837 7.5 12.1462 7.59583 11.9545 7.7875C11.7628 7.97917 11.667 8.21667 11.667 8.5C11.667 8.78333 11.7628 9.02083 11.9545 9.2125C12.1462 9.40417 12.3837 9.5 12.667 9.5ZM12.667 22.5C11.2837 22.5 9.98366 22.2375 8.76699 21.7125C7.55033 21.1875 6.49199 20.475 5.59199 19.575C4.69199 18.675 3.97949 17.6167 3.45449 16.4C2.92949 15.1833 2.66699 13.8833 2.66699 12.5C2.66699 11.1167 2.92949 9.81667 3.45449 8.6C3.97949 7.38333 4.69199 6.325 5.59199 5.425C6.49199 4.525 7.55033 3.8125 8.76699 3.2875C9.98366 2.7625 11.2837 2.5 12.667 2.5C14.0503 2.5 15.3503 2.7625 16.567 3.2875C17.7837 3.8125 18.842 4.525 19.742 5.425C20.642 6.325 21.3545 7.38333 21.8795 8.6C22.4045 9.81667 22.667 11.1167 22.667 12.5C22.667 13.8833 22.4045 15.1833 21.8795 16.4C21.3545 17.6167 20.642 18.675 19.742 19.575C18.842 20.475 17.7837 21.1875 16.567 21.7125C15.3503 22.2375 14.0503 22.5 12.667 22.5ZM12.667 20.5C14.9003 20.5 16.792 19.725 18.342 18.175C19.892 16.625 20.667 14.7333 20.667 12.5C20.667 10.2667 19.892 8.375 18.342 6.825C16.792 5.275 14.9003 4.5 12.667 4.5C10.4337 4.5 8.54199 5.275 6.99199 6.825C5.44199 8.375 4.66699 10.2667 4.66699 12.5C4.66699 14.7333 5.44199 16.625 6.99199 18.175C8.54199 19.725 10.4337 20.5 12.667 20.5Z" fill="#4D4D4D"/>
+                </svg>
+                <div>詳細機能をみる<span>（一部）</span></div>
+                <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M12.667 17.1333L5.66699 10.1333L7.30033 8.5L12.667 13.8667L18.0337 8.5L19.667 10.1333L12.667 17.1333Z" fill="#4D4D4D"/>
+                </svg>
+              </label>
+              <div class="detail">
+                <hr>
+                <ul class="details">
+                  <li>
+                    <div class="caption">頒布会</div>
+                    <div class="content">毎回違う商品を、定期的にお届けできます。</div>
+                  </li>
+                  <li>
+                    <div class="caption">自動サイクル変更</div>
+                    <div class="content">初回は7日サイクル、2回目以降は30日サイクルなど、回数別にサイクル変動のある設定が可能です。</div>
+                  </li>
+                  <li>
+                    <div class="caption">回数別施策</div>
+                    <div class="content">初回割引や、3回目にプレゼント付与したり、回数毎の同梱物を出し分けることで、定期継続率を向上させることが可能です。</div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </li>
+            
+            
+            <li>
+              <div class="or-label1">全プラン標準機能</div>
+            <div class="title">1クリック購入</div>
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature04.webp" alt="1クリック購入">
+            <div class="text">1クリックで購入完了させることが可能となり、ユーザーの手間を極限まで減らし、CVRを最大化することが可能です。</div>
+            </li>
+
+             <li>
+                  <div class="or-label1">全プラン標準機能</div>
+            <div class="title" style="text-align: center !important;">購入完了画面での<br>アップセル/クロスセル</div>
+           <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature06.webp" alt="完了ページアップセル/クロスセル">
+            <div class="text">ユーザー商品を購入完了したタイミングは、ブランドに対する好意度が高い状態のため、アップセル／クロスセルを訴求することはLTVを最大化するために有効な手段です</div>
+            </li>
+            
+            
+             <li>
+               <div class="or-label1">全プラン標準機能</div>
+            <div class="title">離脱ポップアップ</div>
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature05.webp" alt="離脱ポップアップ">
+            <div class="text">ページ離脱にお得なクーポンなどを訴求することで離脱を防止することが可能です。</div>
+
+            </li>  
+
+             <li>
+                <div class="or-label1">全プラン標準機能</div>
+            <div class="title">よりどり販売</div>
+             <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature08.webp" alt="よりどり販売">
+            <div class="text">ユーザーがセット商品の組み合わせを自由に選ぶことができる機能です。ひとりひとりの好みに合わせたセット商品を作ることでLTVを最大化できます。また、組み合わせはマイページから変更することも可能です。</div>
+            <div class="drawer" style="display:none;">
+              <input type="checkbox" id="feature6">
+              <label for="feature6">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M12.283 18.5C12.633 18.5 12.9288 18.3792 13.1705 18.1375C13.4122 17.8958 13.533 17.6 13.533 17.25C13.533 16.9 13.4122 16.6042 13.1705 16.3625C12.9288 16.1208 12.633 16 12.283 16C11.933 16 11.6372 16.1208 11.3955 16.3625C11.1538 16.6042 11.033 16.9 11.033 17.25C11.033 17.6 11.1538 17.8958 11.3955 18.1375C11.6372 18.3792 11.933 18.5 12.283 18.5ZM11.383 14.65H13.233C13.233 14.1 13.2955 13.6667 13.4205 13.35C13.5455 13.0333 13.8997 12.6 14.483 12.05C14.9163 11.6167 15.258 11.2042 15.508 10.8125C15.758 10.4208 15.883 9.95 15.883 9.4C15.883 8.46667 15.5413 7.75 14.858 7.25C14.1747 6.75 13.3663 6.5 12.433 6.5C11.483 6.5 10.7122 6.75 10.1205 7.25C9.52884 7.75 9.11634 8.35 8.88301 9.05L10.533 9.7C10.6163 9.4 10.8038 9.075 11.0955 8.725C11.3872 8.375 11.833 8.2 12.433 8.2C12.9663 8.2 13.3663 8.34583 13.633 8.6375C13.8997 8.92917 14.033 9.25 14.033 9.6C14.033 9.93333 13.933 10.2458 13.733 10.5375C13.533 10.8292 13.283 11.1 12.983 11.35C12.2497 12 11.7997 12.4917 11.633 12.825C11.4663 13.1583 11.383 13.7667 11.383 14.65ZM12.333 22.5C10.9497 22.5 9.64967 22.2375 8.43301 21.7125C7.21634 21.1875 6.15801 20.475 5.25801 19.575C4.35801 18.675 3.64551 17.6167 3.12051 16.4C2.59551 15.1833 2.33301 13.8833 2.33301 12.5C2.33301 11.1167 2.59551 9.81667 3.12051 8.6C3.64551 7.38333 4.35801 6.325 5.25801 5.425C6.15801 4.525 7.21634 3.8125 8.43301 3.2875C9.64967 2.7625 10.9497 2.5 12.333 2.5C13.7163 2.5 15.0163 2.7625 16.233 3.2875C17.4497 3.8125 18.508 4.525 19.408 5.425C20.308 6.325 21.0205 7.38333 21.5455 8.6C22.0705 9.81667 22.333 11.1167 22.333 12.5C22.333 13.8833 22.0705 15.1833 21.5455 16.4C21.0205 17.6167 20.308 18.675 19.408 19.575C18.508 20.475 17.4497 21.1875 16.233 21.7125C15.0163 22.2375 13.7163 22.5 12.333 22.5ZM12.333 20.5C14.5663 20.5 16.458 19.725 18.008 18.175C19.558 16.625 20.333 14.7333 20.333 12.5C20.333 10.2667 19.558 8.375 18.008 6.825C16.458 5.275 14.5663 4.5 12.333 4.5C10.0997 4.5 8.20801 5.275 6.65801 6.825C5.10801 8.375 4.33301 10.2667 4.33301 12.5C4.33301 14.7333 5.10801 16.625 6.65801 18.175C8.20801 19.725 10.0997 20.5 12.333 20.5Z" fill="#4D4D4D"/>
+                </svg>
+                <div>詳細機能をみる<span>（一部）</span></div>
+                <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M12.667 17.1333L5.66699 10.1333L7.30033 8.5L12.667 13.8667L18.0337 8.5L19.667 10.1333L12.667 17.1333Z" fill="#4D4D4D"/>
+                </svg>
+              </label>
+              <div class="detail">
+                <hr>
+                <ul class="details">
+                  <li>
+                    <div class="content">計測したい広告毎に発行できるユニークな値のパラメータ。<br>
+                      代理店、代理店に紐づく媒体を設定することで発行できます。<br>
+                      ADコードを出稿ページのURLに付与して広告を出稿すると、CV数はもちろん、LTVの計測もできます。
+                    </div>
+                  </li>
+                </ul>
+            </div>
+          </li>
+            
+            
+             <li>
+               <div class="or-label2">オプション</div>
+            <div class="title">チャット型購入フォーム</div>
+             <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature03.webp" alt="チャット型購入フォーム">
+            <div class="text">対話形式の購入フォーム。心理的負担を軽減しCVRを最大化することが可能です。</div>
+            <div class="drawer" style="background: linear-gradient(0deg, rgba(255, 255, 255, 0.87) 0%, rgba(255, 255, 255, 0.87) 100%), #ee8c22 !important;
+    transform: translateZ(0);">
+              <input type="checkbox" id="feature3">
+              <label for="feature3">
+                <svg xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M11.667 17.5H13.667V11.5H11.667V17.5ZM12.667 9.5C12.9503 9.5 13.1878 9.40417 13.3795 9.2125C13.5712 9.02083 13.667 8.78333 13.667 8.5C13.667 8.21667 13.5712 7.97917 13.3795 7.7875C13.1878 7.59583 12.9503 7.5 12.667 7.5C12.3837 7.5 12.1462 7.59583 11.9545 7.7875C11.7628 7.97917 11.667 8.21667 11.667 8.5C11.667 8.78333 11.7628 9.02083 11.9545 9.2125C12.1462 9.40417 12.3837 9.5 12.667 9.5ZM12.667 22.5C11.2837 22.5 9.98366 22.2375 8.76699 21.7125C7.55033 21.1875 6.49199 20.475 5.59199 19.575C4.69199 18.675 3.97949 17.6167 3.45449 16.4C2.92949 15.1833 2.66699 13.8833 2.66699 12.5C2.66699 11.1167 2.92949 9.81667 3.45449 8.6C3.97949 7.38333 4.69199 6.325 5.59199 5.425C6.49199 4.525 7.55033 3.8125 8.76699 3.2875C9.98366 2.7625 11.2837 2.5 12.667 2.5C14.0503 2.5 15.3503 2.7625 16.567 3.2875C17.7837 3.8125 18.842 4.525 19.742 5.425C20.642 6.325 21.3545 7.38333 21.8795 8.6C22.4045 9.81667 22.667 11.1167 22.667 12.5C22.667 13.8833 22.4045 15.1833 21.8795 16.4C21.3545 17.6167 20.642 18.675 19.742 19.575C18.842 20.475 17.7837 21.1875 16.567 21.7125C15.3503 22.2375 14.0503 22.5 12.667 22.5ZM12.667 20.5C14.9003 20.5 16.792 19.725 18.342 18.175C19.892 16.625 20.667 14.7333 20.667 12.5C20.667 10.2667 19.892 8.375 18.342 6.825C16.792 5.275 14.9003 4.5 12.667 4.5C10.4337 4.5 8.54199 5.275 6.99199 6.825C5.44199 8.375 4.66699 10.2667 4.66699 12.5C4.66699 14.7333 5.44199 16.625 6.99199 18.175C8.54199 19.725 10.4337 20.5 12.667 20.5Z" fill="#4D4D4D"/>
+                </svg>
+                 <div>詳細機能をみる<span>（一部）</span></div>
+                <svg class="arrow" xmlns="http://www.w3.org/2000/svg" width="25" height="25" viewBox="0 0 25 25" fill="none">
+                  <path d="M12.667 17.1333L5.66699 10.1333L7.30033 8.5L12.667 13.8667L18.0337 8.5L19.667 10.1333L12.667 17.1333Z" fill="#4D4D4D"/>
+                </svg>
+              </label>
+              <div class="detail">
+                <hr>
+                <ul class="details">
+                  <li>
+                    <div class="caption">ノーコードで実装可能</div>
+                    <div class="content">エンジニアがいなくても管理画面から簡単に設定することが可能です。設問の順番などカスタマイズも簡単に行えます。</div>
+                  </li>
+                  <li>
+                    <div class="caption">離脱項目がわかるファネル分析</div>
+                    <div class="content">シナリオごとの分析はもちろん、離脱した項目がひと目でわかるファネル分析機能を活用することで、CVR最大化が可能です。</div>
+                  </li>
+                  <li>
+                    <div class="caption option">A/Bテスト機能</div>
+                    <div class="content">管理画面内から簡単にA/Bテスト設定が可能なため、分析結果に応じた改善パターンの検証を高速化できます。</div>
+                    </li>
+                    <li><div class="caption option">自由度の高いカスタマイズ</div>
+                    <div class="content">ソースファイル編集が可能なため、独自のデザインにカスタマイズすることが可能です。</div></li>    
+                  
+                </ul>
+              </div>
+            </div>
+
+          </li>
+           
+
+             <li>
+                <div class="or-label2">オプション</div>
+            <div class="title"> 選べる決済</div>
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/feature09.webp" alt="決済">
+            <div class="text">各種クレジット決済、コンビニ決済、Amazon pay、後払い決済、ペーパーレス後払いをご用意。<br>広い顧客のニーズに応えることができます。</div>
+          </li>    
+            
+          
+         
+    
+        </ul>
+      </section>
+
+
+          <!-- その他の機能 -->
+      <section class="others">
+        <div class="wrap">
+             <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/426.webp" alt="リピストクロスの導入効果" class="pc_view">
+           <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/sp_others.webp" alt="リピストクロスの導入効果" class="sp_view">
+          </div>  
+      </section>
+      
+      <!-- point-->
+      <section class="point">
+          <div class="bg-letter"> <div class="bg_font">POINT</div></div>
+        <div class="wrap">
+          <h2 class="title">リピストクロスが<span>評価されるポイント</span></h2>
+                <div class="pointbox">
+           <h2><div class="pt_label"><span>POINT</span><br>01</div>業界トップクラスの<span>手厚いサポート</span></h2>     
+          <div class="row">
+            <div class="item"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/point01_img.webp" alt="1クリック購入"></div>
+            <div class="body">申込後も変わらぬ密着サポートを提供し、業界トップクラスの顧客満足度を誇ります。<br><br>
+よくある「申込後の担当変更」は無く、サポートの手薄さを解消し、顧客一人ひとりに合わせた丁寧な対応を心がけています。質問やトラブルに迅速かつ適切に対応することで、お客様のビジネス運営を全面的にサポートします。</div>
+          </div>
+         </div>
+         <div class="pointbox">    
+         <h2><div class="pt_label"><span>POINT</span><br>02</div>「使いこなせない！」の<span>回避</span></h2> 
+          <div class="row">
+            <div class="item"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/point02_img.webp" alt="1クリック購入"></div>
+            <div class="body">EC運営の本質にフォーカスし、機能の過剰開発を避けることで、管理画面上で迷うことなく、圧倒的な使いやすさを実現しています。<br><br>さらに、コストメリットも最大化されるため、初めてEC事業を始める企業様やこれからEC事業を伸ばしていきたい企業様に最適な仕様です。</div>
+          </div>
+        </div>
+         <div class="pointbox">       
+         <h2><div class="pt_label"><span>POINT</span><br>03</div>リピストクロスの高い総合力で継続率<span>98.73％</span></h2>      
+          <div class="row">
+            <div class="item"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/point03_img.webp" alt="1クリック購入"></div>
+            <div class="body">リピストクロスは、契約年数の縛りを設けずに高い継続率を実現しています。<br><br>導入フェーズからの一貫したサポートにより、単にトラブルシューティングに対応するだけではなく、ビジネスの成長と課題解決へ向けた密接なサポートを提供しています。<br><br>
+              この包括的なアプローチは、機能性の高さと組み合わさり、多岐にわたるEC事業者様に選ばれる理由となっています。</div>
+          </div>
+        </div>
+          </div>  
+           
+      </section>
+
+<!-- CTA2 -->
+      <section class="cta">
+        <ul class="buttons">
+          <li> <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/xross_document.webp" alt="リピストクロス資料">
+          </li>
+          <li>
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/3minit.webp" alt="3分でわかる！リピストクロス資料">
+              <a rel="noopener" href="https://rpst.jp/document-xross-lp/" target="_blank" class="dynamic-link">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+              <path d="M5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H12V5H5V19H19V12H21V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM9.7 15.7L8.3 14.3L17.6 5H14V3H21V10H19V6.4L9.7 15.7Z" fill="white"/>
+            </svg>
+            資料ダウンロード</a></li>
+        </ul>
+      </section>
+
+     
+     
+ <!--グラフ-->
+<section class="graph">
+    <div class="wrap">
+         <h2 class="title">新規立ち上げから月商1億円以上まで<br>様々な商材での<span>導入実績多数!</span></h2>
+          <div id="graph-scroll" class="scroll">
+            <div id="graph-scroll-hint" class="hint">
+              <svg class="animate" xmlns="http://www.w3.org/2000/svg" width="118" height="61" viewBox="0 0 118 61" fill="none">
+                <path d="M91 33.5146L115 33.5147" stroke="white" stroke-width="4"/>
+                <path d="M105 22.5146L115 33.5146L105 43.5146" stroke="white" stroke-width="4"/>
+                <path d="M27 33.5146L3 33.5147" stroke="white" stroke-width="4"/>
+                <path d="M13 22.5146L3 33.5146L13 43.5146" stroke="white" stroke-width="4"/>
+                <mask id="mask0_238_5942" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="36" y="0" width="46" height="61">
+                  <rect x="36" y="0.756836" width="46" height="60" fill="#D9D9D9"/>
+                </mask>
+                <g mask="url(#mask0_238_5942)">
+                  <path d="M51.1644 63.2169C51.1644 64.0291 51.6999 64.7179 52.4368 64.9431L52.3583 65.0223H52.9583H76.499C77.4913 65.0223 78.2942 64.2128 78.2942 63.2183V53.7447L80.5177 46.0697C81.0036 44.3922 81.25 42.656 81.25 40.9072V21.7192C81.25 19.0022 79.0517 16.7893 76.3479 16.7893H75.2752C74.0647 16.7893 72.9651 17.2402 72.1124 17.971C71.2394 17.2418 70.1257 16.7893 68.8993 16.7893H68.148C66.8972 16.7893 65.7601 17.2573 64.879 18.0131C63.998 17.2573 62.8609 16.7893 61.6101 16.7893H60.8588C60.3422 16.7893 59.8495 16.8747 59.385 17.0209V6.35618C59.385 3.54935 57.1152 1.26465 54.3208 1.26465H53.5695C50.7751 1.26465 48.5053 3.54935 48.5053 6.35618V26.5641C48.1302 26.109 47.7282 25.6368 47.2993 25.1473C45.136 22.6777 41.3503 22.4156 38.8648 24.5591C36.3756 26.7053 36.0375 30.3944 38.097 32.9581C42.8151 38.8318 43.6204 40.055 43.717 40.2092C43.8199 40.4654 44.8768 43.0902 46.2914 46.0761C47.0279 47.6306 47.8627 49.286 48.7116 50.7573C49.5334 52.1819 50.3768 53.4489 51.1644 54.2834V63.2169ZM47.0414 38.8506L47.0413 38.8504C46.9627 38.6531 46.8523 38.3939 46.054 37.3004C45.2551 36.2061 43.7567 34.2623 40.8891 30.6918L40.889 30.6917C40.056 29.6559 40.1929 28.1666 41.2007 27.2986C42.2056 26.4332 43.7328 26.5391 44.6034 27.5323C46.6904 29.9156 48.1202 31.8962 48.6555 33.1174C48.9969 33.8971 49.8363 34.3288 50.6675 34.1555L50.6685 34.1553C51.4988 33.9787 52.093 33.2421 52.093 32.3899V6.35618C52.093 5.53704 52.7557 4.87262 53.5667 4.87262H54.3181C55.1291 4.87262 55.7918 5.53704 55.7918 6.35618V25.4557C55.7918 26.4502 56.5947 27.2597 57.587 27.2597C58.5794 27.2597 59.3822 26.4502 59.3822 25.4557V21.8836C59.3822 21.0645 60.0449 20.4001 60.856 20.4001H61.6073C62.4184 20.4001 63.0811 21.0645 63.0811 21.8836V25.4557C63.0811 26.4502 63.8839 27.2597 64.8763 27.2597C65.8686 27.2597 66.6715 26.4502 66.6715 25.4557V21.8836C66.6715 21.0645 67.3342 20.4001 68.1453 20.4001H68.8966C69.7074 20.4001 70.369 21.0642 70.369 21.8836V25.4557C70.369 26.4502 71.1718 27.2597 72.1642 27.2597C73.1565 27.2597 73.9594 26.4502 73.9594 25.4557V21.7206C73.9594 20.99 74.5505 20.3987 75.2724 20.3987H76.3452C77.068 20.3987 77.6568 20.9896 77.6568 21.7206V40.9085C77.6568 42.3147 77.4583 43.7127 77.0678 45.0618L74.7729 52.9829C74.7249 53.1471 74.701 53.3172 74.701 53.4882V61.4143H54.7535V53.4882C54.7535 52.8973 54.4653 52.3425 53.9817 52.0054L53.9816 52.0054C53.8006 51.8793 53.5743 51.646 53.31 51.3075C53.0486 50.9727 52.7609 50.5492 52.4549 50.0566C51.8432 49.0718 51.1669 47.8242 50.493 46.4872C49.1454 43.8137 47.8154 40.7992 47.0414 38.8506Z" fill="white" stroke="white" stroke-width="0.5"/>
+                </g>
+              </svg>
+              <div>横にスクロールできます</div>
+            </div>
+             <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/graph.webp" alt="グラフ">
+          </div>
+        </div>
+    
+    
+</section>
+  
+
+       <!-- オープンまでの流れ -->
+      <section class="flow">
+         <div class="bg-letter"> <div class="bg_font">FLOW</div></div>
+        <div class="wrap">
+          <h2 class="title">ECサイトオープンまでの流れ</h2>
+          <div id="flow-scroll" class="scroll">
+            <div id="flow-scroll-hint" class="hint">
+              <svg class="animate" xmlns="http://www.w3.org/2000/svg" width="118" height="61" viewBox="0 0 118 61" fill="none">
+                <path d="M91 33.5146L115 33.5147" stroke="white" stroke-width="4"/>
+                <path d="M105 22.5146L115 33.5146L105 43.5146" stroke="white" stroke-width="4"/>
+                <path d="M27 33.5146L3 33.5147" stroke="white" stroke-width="4"/>
+                <path d="M13 22.5146L3 33.5146L13 43.5146" stroke="white" stroke-width="4"/>
+                <mask id="mask0_238_5942" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="36" y="0" width="46" height="61">
+                  <rect x="36" y="0.756836" width="46" height="60" fill="#D9D9D9"/>
+                </mask>
+                <g mask="url(#mask0_238_5942)">
+                  <path d="M51.1644 63.2169C51.1644 64.0291 51.6999 64.7179 52.4368 64.9431L52.3583 65.0223H52.9583H76.499C77.4913 65.0223 78.2942 64.2128 78.2942 63.2183V53.7447L80.5177 46.0697C81.0036 44.3922 81.25 42.656 81.25 40.9072V21.7192C81.25 19.0022 79.0517 16.7893 76.3479 16.7893H75.2752C74.0647 16.7893 72.9651 17.2402 72.1124 17.971C71.2394 17.2418 70.1257 16.7893 68.8993 16.7893H68.148C66.8972 16.7893 65.7601 17.2573 64.879 18.0131C63.998 17.2573 62.8609 16.7893 61.6101 16.7893H60.8588C60.3422 16.7893 59.8495 16.8747 59.385 17.0209V6.35618C59.385 3.54935 57.1152 1.26465 54.3208 1.26465H53.5695C50.7751 1.26465 48.5053 3.54935 48.5053 6.35618V26.5641C48.1302 26.109 47.7282 25.6368 47.2993 25.1473C45.136 22.6777 41.3503 22.4156 38.8648 24.5591C36.3756 26.7053 36.0375 30.3944 38.097 32.9581C42.8151 38.8318 43.6204 40.055 43.717 40.2092C43.8199 40.4654 44.8768 43.0902 46.2914 46.0761C47.0279 47.6306 47.8627 49.286 48.7116 50.7573C49.5334 52.1819 50.3768 53.4489 51.1644 54.2834V63.2169ZM47.0414 38.8506L47.0413 38.8504C46.9627 38.6531 46.8523 38.3939 46.054 37.3004C45.2551 36.2061 43.7567 34.2623 40.8891 30.6918L40.889 30.6917C40.056 29.6559 40.1929 28.1666 41.2007 27.2986C42.2056 26.4332 43.7328 26.5391 44.6034 27.5323C46.6904 29.9156 48.1202 31.8962 48.6555 33.1174C48.9969 33.8971 49.8363 34.3288 50.6675 34.1555L50.6685 34.1553C51.4988 33.9787 52.093 33.2421 52.093 32.3899V6.35618C52.093 5.53704 52.7557 4.87262 53.5667 4.87262H54.3181C55.1291 4.87262 55.7918 5.53704 55.7918 6.35618V25.4557C55.7918 26.4502 56.5947 27.2597 57.587 27.2597C58.5794 27.2597 59.3822 26.4502 59.3822 25.4557V21.8836C59.3822 21.0645 60.0449 20.4001 60.856 20.4001H61.6073C62.4184 20.4001 63.0811 21.0645 63.0811 21.8836V25.4557C63.0811 26.4502 63.8839 27.2597 64.8763 27.2597C65.8686 27.2597 66.6715 26.4502 66.6715 25.4557V21.8836C66.6715 21.0645 67.3342 20.4001 68.1453 20.4001H68.8966C69.7074 20.4001 70.369 21.0642 70.369 21.8836V25.4557C70.369 26.4502 71.1718 27.2597 72.1642 27.2597C73.1565 27.2597 73.9594 26.4502 73.9594 25.4557V21.7206C73.9594 20.99 74.5505 20.3987 75.2724 20.3987H76.3452C77.068 20.3987 77.6568 20.9896 77.6568 21.7206V40.9085C77.6568 42.3147 77.4583 43.7127 77.0678 45.0618L74.7729 52.9829C74.7249 53.1471 74.701 53.3172 74.701 53.4882V61.4143H54.7535V53.4882C54.7535 52.8973 54.4653 52.3425 53.9817 52.0054L53.9816 52.0054C53.8006 51.8793 53.5743 51.646 53.31 51.3075C53.0486 50.9727 52.7609 50.5492 52.4549 50.0566C51.8432 49.0718 51.1669 47.8242 50.493 46.4872C49.1454 43.8137 47.8154 40.7992 47.0414 38.8506Z" fill="white" stroke="white" stroke-width="0.5"/>
+                </g>
+              </svg>
+              <div>横にスクロールできます</div>
+            </div>
+            <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/flow.webp" alt="オープンまでの流れ">
+          </div>
+        </div>
+      </section>
+
+
+      <!-- よくある質問 -->
+      <section class="qa">
+       
+        <div class="wrap">
+          <div class="bg-letter"> <div class="bg_font">FAQ</div></div>    
+          <h2 class="title">よくある質問</h2>
+          </div>
+           <div class="wrap2">
+            <ul>
+            <li>
+              <input type="checkbox" id="qa1">
+              <label for="qa1">
+                <svg class="q-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="21" viewBox="0 0 18 21" fill="none">
+                  <path d="M16.2275 16.3195L17.8115 18.2115C16.7995 19.4435 15.3475 20.1035 13.6535 20.1035C11.3655 20.1035 9.75945 19.2675 7.38345 16.7595C3.15945 16.2315 0.189453 13.0415 0.189453 8.86146C0.189453 4.28546 3.75345 0.897461 8.61545 0.897461C13.4555 0.897461 17.0415 4.26346 17.0415 8.86146C17.0415 12.4695 14.8195 15.3295 11.5415 16.3855C12.2895 17.1775 12.9495 17.4635 13.7195 17.4635C14.6655 17.4635 15.5015 17.0895 16.2275 16.3195ZM3.79745 8.86146C3.79745 11.7875 5.86545 13.7895 8.61545 13.7895C11.3655 13.7895 13.4335 11.7875 13.4335 8.86146C13.4335 5.93546 11.3655 3.93346 8.61545 3.93346C5.86545 3.93346 3.79745 5.93546 3.79745 8.86146Z"/>
+                </svg>
+                <div class="text">初期費用、月額費用はいくらでしょうか？</div>
+                <div class="btn-outer">
+                  <svg class="btn-open" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                    <rect y="5.5" width="13" height="2" fill="white"/>
+                    <rect x="5.5" y="13" width="13" height="2" transform="rotate(-90 5.5 13)" fill="white"/>
+                  </svg>
+                  <svg class="btn-close" xmlns="http://www.w3.org/2000/svg" width="13" height="3" viewBox="0 0 13 3" fill="none">
+                    <rect y="0.5" width="13" height="2" fill="white"/>
+                  </svg>
+                </div>
+              </label>
+              <div class="answer">
+                
+                <div class="content">
+                  <svg class="a-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                    <path d="M13.8952 16.1998L12.5312 12.8998H5.38123L4.01723 16.1998H0.365234L7.22923 0.799805H10.7492L17.6352 16.1998H13.8952ZM6.52524 10.1938H11.4092L8.96723 4.29781L6.52524 10.1938Z" fill="#28A108"/>
+                  </svg>
+                  <div class="text">月間の受注件数やご利用規模によって最適なプランが異なります。事業規模に合わせて無理のない予算でお使いいただけるプラン設計になっておりますので、お気軽にお問い合せください。</div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <input type="checkbox" id="qa2">
+              <label for="qa2">
+                <svg class="q-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="21" viewBox="0 0 18 21" fill="none">
+                  <path d="M16.2275 16.3195L17.8115 18.2115C16.7995 19.4435 15.3475 20.1035 13.6535 20.1035C11.3655 20.1035 9.75945 19.2675 7.38345 16.7595C3.15945 16.2315 0.189453 13.0415 0.189453 8.86146C0.189453 4.28546 3.75345 0.897461 8.61545 0.897461C13.4555 0.897461 17.0415 4.26346 17.0415 8.86146C17.0415 12.4695 14.8195 15.3295 11.5415 16.3855C12.2895 17.1775 12.9495 17.4635 13.7195 17.4635C14.6655 17.4635 15.5015 17.0895 16.2275 16.3195ZM3.79745 8.86146C3.79745 11.7875 5.86545 13.7895 8.61545 13.7895C11.3655 13.7895 13.4335 11.7875 13.4335 8.86146C13.4335 5.93546 11.3655 3.93346 8.61545 3.93346C5.86545 3.93346 3.79745 5.93546 3.79745 8.86146Z"/>
+                </svg>
+                <div class="text">最低契約期間はありますか？</div>
+                <div class="btn-outer">
+                  <svg class="btn-open" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                    <rect y="5.5" width="13" height="2" fill="white"/>
+                    <rect x="5.5" y="13" width="13" height="2" transform="rotate(-90 5.5 13)" fill="white"/>
+                  </svg>
+                  <svg class="btn-close" xmlns="http://www.w3.org/2000/svg" width="13" height="3" viewBox="0 0 13 3" fill="none">
+                    <rect y="0.5" width="13" height="2" fill="white"/>
+                  </svg>
+                </div>
+              </label>
+              <div class="answer">
+                
+                <div class="content">
+                  <svg class="a-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                    <path d="M13.8952 16.1998L12.5312 12.8998H5.38123L4.01723 16.1998H0.365234L7.22923 0.799805H10.7492L17.6352 16.1998H13.8952ZM6.52524 10.1938H11.4092L8.96723 4.29781L6.52524 10.1938Z" fill="#28A108"/>
+                  </svg>
+                  <div class="text">期限は設けておりません。いつでも解約いただけます。</div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <input type="checkbox" id="qa3">
+              <label for="qa3">
+                <svg class="q-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="21" viewBox="0 0 18 21" fill="none">
+                  <path d="M16.2275 16.3195L17.8115 18.2115C16.7995 19.4435 15.3475 20.1035 13.6535 20.1035C11.3655 20.1035 9.75945 19.2675 7.38345 16.7595C3.15945 16.2315 0.189453 13.0415 0.189453 8.86146C0.189453 4.28546 3.75345 0.897461 8.61545 0.897461C13.4555 0.897461 17.0415 4.26346 17.0415 8.86146C17.0415 12.4695 14.8195 15.3295 11.5415 16.3855C12.2895 17.1775 12.9495 17.4635 13.7195 17.4635C14.6655 17.4635 15.5015 17.0895 16.2275 16.3195ZM3.79745 8.86146C3.79745 11.7875 5.86545 13.7895 8.61545 13.7895C11.3655 13.7895 13.4335 11.7875 13.4335 8.86146C13.4335 5.93546 11.3655 3.93346 8.61545 3.93346C5.86545 3.93346 3.79745 5.93546 3.79745 8.86146Z"/>
+                </svg>
+                <div class="text">LP一体型フォームを使いたいのですが、どのプランから使えるのでしょうか？</div>
+                <div class="btn-outer">
+                  <svg class="btn-open" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                    <rect y="5.5" width="13" height="2" fill="white"/>
+                    <rect x="5.5" y="13" width="13" height="2" transform="rotate(-90 5.5 13)" fill="white"/>
+                  </svg>
+                  <svg class="btn-close" xmlns="http://www.w3.org/2000/svg" width="13" height="3" viewBox="0 0 13 3" fill="none">
+                    <rect y="0.5" width="13" height="2" fill="white"/>
+                  </svg>
+                </div>
+              </label>
+              <div class="answer">
+                
+                <div class="content">
+                  <svg class="a-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                    <path d="M13.8952 16.1998L12.5312 12.8998H5.38123L4.01723 16.1998H0.365234L7.22923 0.799805H10.7492L17.6352 16.1998H13.8952ZM6.52524 10.1938H11.4092L8.96723 4.29781L6.52524 10.1938Z" fill="#28A108"/>
+                  </svg>
+                  <div class="text">すべてのプランで無料で無制限でご利用いただけます。</div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <input type="checkbox" id="qa4">
+              <label for="qa4">
+                <svg class="q-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="21" viewBox="0 0 18 21" fill="none">
+                  <path d="M16.2275 16.3195L17.8115 18.2115C16.7995 19.4435 15.3475 20.1035 13.6535 20.1035C11.3655 20.1035 9.75945 19.2675 7.38345 16.7595C3.15945 16.2315 0.189453 13.0415 0.189453 8.86146C0.189453 4.28546 3.75345 0.897461 8.61545 0.897461C13.4555 0.897461 17.0415 4.26346 17.0415 8.86146C17.0415 12.4695 14.8195 15.3295 11.5415 16.3855C12.2895 17.1775 12.9495 17.4635 13.7195 17.4635C14.6655 17.4635 15.5015 17.0895 16.2275 16.3195ZM3.79745 8.86146C3.79745 11.7875 5.86545 13.7895 8.61545 13.7895C11.3655 13.7895 13.4335 11.7875 13.4335 8.86146C13.4335 5.93546 11.3655 3.93346 8.61545 3.93346C5.86545 3.93346 3.79745 5.93546 3.79745 8.86146Z"/>
+                </svg>
+                <div class="text">他社カートシステムや基幹システムからの移行は可能でしょうか？</div>
+                <div class="btn-outer">
+                  <svg class="btn-open" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                    <rect y="5.5" width="13" height="2" fill="white"/>
+                    <rect x="5.5" y="13" width="13" height="2" transform="rotate(-90 5.5 13)" fill="white"/>
+                  </svg>
+                  <svg class="btn-close" xmlns="http://www.w3.org/2000/svg" width="13" height="3" viewBox="0 0 13 3" fill="none">
+                    <rect y="0.5" width="13" height="2" fill="white"/>
+                  </svg>
+                </div>
+              </label>
+              <div class="answer">
+               
+                <div class="content">
+                  <svg class="a-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                    <path d="M13.8952 16.1998L12.5312 12.8998H5.38123L4.01723 16.1998H0.365234L7.22923 0.799805H10.7492L17.6352 16.1998H13.8952ZM6.52524 10.1938H11.4092L8.96723 4.29781L6.52524 10.1938Z" fill="#28A108"/>
+                  </svg>
+                  <div class="text">可能です。移行作業についても詳細にご案内いたしますのでお気軽にお問い合わせください。</div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <input type="checkbox" id="qa5">
+              <label for="qa5">
+                <svg class="q-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="21" viewBox="0 0 18 21" fill="none">
+                  <path d="M16.2275 16.3195L17.8115 18.2115C16.7995 19.4435 15.3475 20.1035 13.6535 20.1035C11.3655 20.1035 9.75945 19.2675 7.38345 16.7595C3.15945 16.2315 0.189453 13.0415 0.189453 8.86146C0.189453 4.28546 3.75345 0.897461 8.61545 0.897461C13.4555 0.897461 17.0415 4.26346 17.0415 8.86146C17.0415 12.4695 14.8195 15.3295 11.5415 16.3855C12.2895 17.1775 12.9495 17.4635 13.7195 17.4635C14.6655 17.4635 15.5015 17.0895 16.2275 16.3195ZM3.79745 8.86146C3.79745 11.7875 5.86545 13.7895 8.61545 13.7895C11.3655 13.7895 13.4335 11.7875 13.4335 8.86146C13.4335 5.93546 11.3655 3.93346 8.61545 3.93346C5.86545 3.93346 3.79745 5.93546 3.79745 8.86146Z"/>
+                </svg>
+                <div class="text">初めてのEC事業の立ち上げなのですが知見がないので不安です。相談することは可能でしょうか？</div>
+                <div class="btn-outer">
+                  <svg class="btn-open" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                    <rect y="5.5" width="13" height="2" fill="white"/>
+                    <rect x="5.5" y="13" width="13" height="2" transform="rotate(-90 5.5 13)" fill="white"/>
+                  </svg>
+                  <svg class="btn-close" xmlns="http://www.w3.org/2000/svg" width="13" height="3" viewBox="0 0 13 3" fill="none">
+                    <rect y="0.5" width="13" height="2" fill="white"/>
+                  </svg>
+                </div>
+              </label>
+              <div class="answer">
+               
+                <div class="content">
+                  <svg class="a-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                    <path d="M13.8952 16.1998L12.5312 12.8998H5.38123L4.01723 16.1998H0.365234L7.22923 0.799805H10.7492L17.6352 16.1998H13.8952ZM6.52524 10.1938H11.4092L8.96723 4.29781L6.52524 10.1938Z" fill="#28A108"/>
+                  </svg>
+                  <div class="text">可能です。月商3億円越えのEC運営経験者をはじめ、100社以上のEC事業立ち上げを支援してきた元プロジェクトマネージャなど業界知識の豊富なリピストアカウンティングチームがサポートいたします</div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <input type="checkbox" id="qa6">
+              <label for="qa6">
+                <svg class="q-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="21" viewBox="0 0 18 21" fill="none">
+                  <path d="M16.2275 16.3195L17.8115 18.2115C16.7995 19.4435 15.3475 20.1035 13.6535 20.1035C11.3655 20.1035 9.75945 19.2675 7.38345 16.7595C3.15945 16.2315 0.189453 13.0415 0.189453 8.86146C0.189453 4.28546 3.75345 0.897461 8.61545 0.897461C13.4555 0.897461 17.0415 4.26346 17.0415 8.86146C17.0415 12.4695 14.8195 15.3295 11.5415 16.3855C12.2895 17.1775 12.9495 17.4635 13.7195 17.4635C14.6655 17.4635 15.5015 17.0895 16.2275 16.3195ZM3.79745 8.86146C3.79745 11.7875 5.86545 13.7895 8.61545 13.7895C11.3655 13.7895 13.4335 11.7875 13.4335 8.86146C13.4335 5.93546 11.3655 3.93346 8.61545 3.93346C5.86545 3.93346 3.79745 5.93546 3.79745 8.86146Z"/>
+                </svg>
+                <div class="text">デザインのカスタマイズは可能ですか？</div>
+                <div class="btn-outer">
+                  <svg class="btn-open" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                    <rect y="5.5" width="13" height="2" fill="white"/>
+                    <rect x="5.5" y="13" width="13" height="2" transform="rotate(-90 5.5 13)" fill="white"/>
+                  </svg>
+                  <svg class="btn-close" xmlns="http://www.w3.org/2000/svg" width="13" height="3" viewBox="0 0 13 3" fill="none">
+                    <rect y="0.5" width="13" height="2" fill="white"/>
+                  </svg>
+                </div>
+              </label>
+              <div class="answer">
+               
+                <div class="content">
+                  <svg class="a-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                    <path d="M13.8952 16.1998L12.5312 12.8998H5.38123L4.01723 16.1998H0.365234L7.22923 0.799805H10.7492L17.6352 16.1998H13.8952ZM6.52524 10.1938H11.4092L8.96723 4.29781L6.52524 10.1938Z" fill="#28A108"/>
+                  </svg>
+                  <div class="text">すべてのページを独自にカスタマイズすることが可能です。</div>
+                </div>
+              </div>
+            </li>
+            <li>
+              <input type="checkbox" id="qa7">
+              <label for="qa7">
+                <svg class="q-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="21" viewBox="0 0 18 21" fill="none">
+                  <path d="M16.2275 16.3195L17.8115 18.2115C16.7995 19.4435 15.3475 20.1035 13.6535 20.1035C11.3655 20.1035 9.75945 19.2675 7.38345 16.7595C3.15945 16.2315 0.189453 13.0415 0.189453 8.86146C0.189453 4.28546 3.75345 0.897461 8.61545 0.897461C13.4555 0.897461 17.0415 4.26346 17.0415 8.86146C17.0415 12.4695 14.8195 15.3295 11.5415 16.3855C12.2895 17.1775 12.9495 17.4635 13.7195 17.4635C14.6655 17.4635 15.5015 17.0895 16.2275 16.3195ZM3.79745 8.86146C3.79745 11.7875 5.86545 13.7895 8.61545 13.7895C11.3655 13.7895 13.4335 11.7875 13.4335 8.86146C13.4335 5.93546 11.3655 3.93346 8.61545 3.93346C5.86545 3.93346 3.79745 5.93546 3.79745 8.86146Z"/>
+                </svg>
+                <div class="text">広告タグや計測タグなど各種タグの設置は可能ですか？</div>
+                <div class="btn-outer">
+                  <svg class="btn-open" xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13" fill="none">
+                    <rect y="5.5" width="13" height="2" fill="white"/>
+                    <rect x="5.5" y="13" width="13" height="2" transform="rotate(-90 5.5 13)" fill="white"/>
+                  </svg>
+                  <svg class="btn-close" xmlns="http://www.w3.org/2000/svg" width="13" height="3" viewBox="0 0 13 3" fill="none">
+                    <rect y="0.5" width="13" height="2" fill="white"/>
+                  </svg>
+                </div>
+              </label>
+              <div class="answer">
+                <div class="content">
+                  <svg class="a-icon" xmlns="http://www.w3.org/2000/svg" width="18" height="17" viewBox="0 0 18 17" fill="none">
+                    <path d="M13.8952 16.1998L12.5312 12.8998H5.38123L4.01723 16.1998H0.365234L7.22923 0.799805H10.7492L17.6352 16.1998H13.8952ZM6.52524 10.1938H11.4092L8.96723 4.29781L6.52524 10.1938Z" fill="#28A108"/>
+                  </svg>
+                  <div class="text">可能です。管理画面上で一元管理するタグマネージャー機能がございます。Google Tag ManagerやGoogle Analyticsなども設置可能です。</div>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </section>
+       <!-- CTA3 -->
+      <section class="cta">
+        <ul class="buttons">
+          <li> <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/xross_document.webp" alt="リピストクロス資料">
+          </li>
+          <li>
+               <img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/3minit.webp" alt="3分でわかる！リピストクロス資料">
+              <a rel="noopener" href="https://rpst.jp/document-xross-lp/" target="_blank" class="dynamic-link">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+              <path d="M5 21C4.45 21 3.97917 20.8042 3.5875 20.4125C3.19583 20.0208 3 19.55 3 19V5C3 4.45 3.19583 3.97917 3.5875 3.5875C3.97917 3.19583 4.45 3 5 3H12V5H5V19H19V12H21V19C21 19.55 20.8042 20.0208 20.4125 20.4125C20.0208 20.8042 19.55 21 19 21H5ZM9.7 15.7L8.3 14.3L17.6 5H14V3H21V10H19V6.4L9.7 15.7Z" fill="white"/>
+            </svg>
+            資料ダウンロード</a></li>
+        </ul>
+      </section>
+</div>     
+    </main>
+
+<div class="xrosslp_ft" style="display:none;">
+   <div class="ft_top">
+       <div class="wrap">
+            <div class="logoimg"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/xross_whlogo.png" alt="リピストクロスロゴ"></div>
+            <ul>
+                <li><a href="https://rpst.co.jp/about-us/#pr_outline" target="_blank">運営会社</a></li>
+                 <li><a href="https://rpst.co.jp/privacy-policy/" target="_blank">プライバシーポリシー</a></li>
+                 <li><a href="https://rpst.jp/rpstx-terms/" target="_blank">利用規約</a></li>
+            </ul>
+        </div>   
+    </div>
+    <div class="ft_btm">
+        <ul>
+            <li><div class="copy">© 2024 RPST Inc.</div></li>
+            <li><a href="https://privacymark.jp/" target="_blank"><img src="https://rpst.jp/wp-content/themes/precs/img/xross/newxross/privacy.png" alt="プライバシーマーク" style="width: 150px;"></a></li>
+        </ul>
+        
+    </div>
+</div>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // URLからクエリパラメータを取得
+    const params = new URLSearchParams(window.location.search);
+
+    // UTMパラメータを取得（utm_source, utm_medium, utm_campaign）
+    const utmParams = ['utm_source', 'utm_medium', 'utm_campaign'].reduce((acc, param) => {
+        if (params.has(param)) {
+            acc[param] = params.get(param);
+        }
+        return acc;
+    }, {});
+
+    // UTMパラメータを含むクエリストリングを構築
+    const utmQueryString = new URLSearchParams(utmParams).toString();
+
+    // ページ内のすべてのdynamic-linkクラスのリンクを取得
+    const dynamicLinks = document.querySelectorAll('.dynamic-link');
+
+    // 各リンクにUTMパラメータを追加
+    dynamicLinks.forEach(link => {
+        const originalUrl = link.href;
+        link.href = originalUrl.includes('?') ? `${originalUrl}&${utmQueryString}` : `${originalUrl}?${utmQueryString}`;
+    });
+});
+</script>
+
+        
+      
+<script src="https://code.jquery.com/jquery-3.6.1.js" integrity="sha256-3zlB5s2uwoUzrXK3BT7AX3FyvojsraNFxCc2vC/7pNI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/js-cookie/3.0.1/js.cookie.min.js" integrity="sha512-wT7uPE7tOP6w4o28u1DN775jYjHQApdBnib5Pho4RB0Pgd9y7eSkAV1BTqQydupYDB9GBhTcQQzyNMPMV3cAew==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+<script>
+$(function () {
+    $(document).ready(function () {
+        $('.banner-close').click(function() {
+            $(this).parent().hide();
+            Cookies.set("floating_banner", "close", {expires: 1});
+        });
+    });
+    $(window).on("scroll", function() {
+        if (Cookies.get("floating_banner") !== "close") {
+            if ($(this).scrollTop() > 100) {
+                $(".banner").fadeIn(300);
+            }
+        }
+    });
+});
+</script>
+
+<!-- ======= Footer ======= -->
+  <footer id="footer">
+    <div class="footer-top">
+      <div class="front_inner">
+        <div class="footer-list">
+
+          <div class="footer-contact">
+            <h3><a href="https://rpst.jp/"><img src="https://rpst.jp/wp-content/themes/precs//img/front/rpst_newlogo.png" class="img-fluid" alt=""></a></h3>
+			  
+				<div class="ftbtn_area">
+		 	<ul>
+			 		<!--<li><div class="ct_bt"><a href="https://rpst.jp/contact">お問い合わせ・資料請求</a></div></li>-->
+				<li><div class="sub_bt"><a href="https://rpst.jp/contact"  class="dynamic-link"  target="_blank">お問い合わせ</a></div></li>
+				<li><div class="ct_bt"><a href="https://rpst.jp/document-xross/"  class="dynamic-link"  target="_blank">資料ダウンロード</a></div></li>
+			 </ul> 
+		 </div>   
+  
+			  
+			<div class="tel">☎&nbsp;03-6284-2812<span>平日10:00〜18:00(土日祝日は除く)</span></div> 
+			
+			</div>
+			
+			
+          <div class="footer-links" style="display:none;">
+            <h4>サービス</h4>
+            <ul>
+				<li><i class="bx bx-chevron-right"></i> <a href="https://rpst.jp/xross" target="_blank">リピストX(クロス)</a></li>
+		        <li><i class="bx bx-chevron-right"></i> <a href="/xross-general" target="_blank">総合通販</a></li>
+				<li><i class="bx bx-chevron-right"></i> <a href="/xross-d2c" target="_blank">定期通販</a></li> 
+            </ul>
+          </div>
+		<div class="footer-links">
+            <h4>ECお役立ち情報</h4>
+            <ul>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://rpst.jp/blog/"　target="_blank">ECノウハウ</a></li>
+				<li style="display:none;"><i class="bx bx-chevron-right"></i> <a href="https://rpst.jp/seminar" target="_blank">セミナー・イベント</a></li>
+				<li><i class="bx bx-chevron-right"></i> <a href="https://rpst.jp/news" target="_blank">ニュース・リリース</a></li>
+				<li><i class="bx bx-chevron-right"></i> <a href="https://rpst.jp/rpstmedia" target="_blank">メディア実績</a></li>
+                <li><i class="bx bx-chevron-right"></i> <a href="https://rpst.jp/rpstdocument" target="_blank">お役立ち資料</a></li>
+            </ul>
+          </div>
+
+			<div class="footer-links">
+            <h4>機能・連携サービス</h4>
+            <ul>
+				<li><i class="bx bx-chevron-right"></i><a href="https://rpst.jp/cases" target="_blank">導入事例</a></li>
+				<li><i class="bx bx-chevron-right"></i><a href="https://rpst.jp/cases-list" target="_blank">導入企業一覧</a></li>
+				<li><i class="bx bx-chevron-right"></i><a href="https://rpst.jp/security" target="_blank">セキュリティ</a></li>
+				<li><i class="bx bx-chevron-right"></i><a href="https://rpst.jp/support" target="_blank">サポート</a></li>
+				<li><i class="bx bx-chevron-right"></i><a href="https://rpst.jp/partners" target="_blank">パートナー制度</a></li>
+            </ul>
+          </div>
+			
+			
+			<div class="footer-links" style="display:none;">
+            <h4>EC構築支援サービス</h4>
+            <ul>
+				<li><i class="bx bx-chevron-right"></i> カスタマーサクセス</a></li>
+				<li><i class="bx bx-chevron-right"></i> EC運用構築支援・運用支援</a></li>
+				<li><i class="bx bx-chevron-right"></i> デザイン / サイト制作</a></li>
+				<li><i class="bx bx-chevron-right"></i> コンサルティング</a></li>
+            </ul>
+          </div>
+
+        </div>
+		
+      </div>
+    </div>
+
+   <div class="ft_bottom">
+	<div class="container">
+		<div class="py-4">
+		  <div class="copyright">
+			  <ul>
+			   <li><a href="https://rpst.co.jp/about-us/#pr_outline" target="_blank" class="pst10">運営会社</a>&nbsp;|&nbsp;
+				   <a href="https://rpst.co.jp/privacy-policy/" target="_blank" class="pst10">プライバシーポリシー</a>&nbsp;|&nbsp;
+				    <a href="https://rpst.jp/rpstx-terms/" target="_blank" class="pst10">利用規約</a>&nbsp;&nbsp;																										   
+				 </li>  
+			  </ul>	  
+			  <span class="pc_view">&copy; 2025 RPST Inc.</span>
+			  </div>
+			
+			<div class="ftrt">
+			  <ul>
+			   <li>
+				   <a href="http://privacymark.jp/" target="_blank"> <img src="https://rpst.jp/wp-content/uploads/2023/12/21000997_EN.png" class="img-fluid" alt="" style="width: 65px;"></a>
+					 <img src="https://rpst.jp/wp-content/uploads/2023/12/ICMS.png" class="img-fluid" alt="" style="width: 85px;">	
+				   </li>  
+			  </ul>	  
+		  </div>
+		 <span class="sp_view">&copy; 2025 RPST Inc.</span>
+		</div>	 
+    </div>
+	</div>   
+	  <script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/precs\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<!-- Matomo --><script type="text/javascript">
+/* <![CDATA[ */
+(function () {
+function initTracking() {
+var _paq = window._paq = window._paq || [];
+_paq.push(['trackPageView']);_paq.push(['enableLinkTracking']);_paq.push(['alwaysUseSendBeacon']);_paq.push(['setTrackerUrl', "\/\/rpst.jp\/wp-content\/plugins\/matomo\/app\/matomo.php"]);_paq.push(['setSiteId', '1']);var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+g.type='text/javascript'; g.async=true; g.src="\/\/rpst.jp\/wp-content\/uploads\/matomo\/matomo.js"; s.parentNode.insertBefore(g,s);
+}
+if (document.prerendering) {
+	document.addEventListener('prerenderingchange', initTracking, {once: true});
+} else {
+	initTracking();
+}
+})();
+/* ]]> */
+</script>
+<!-- End Matomo Code --><script type="text/javascript" id="leadin-script-loader-js-js-extra">
+/* <![CDATA[ */
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"11.1.40"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://js.hs-scripts.com/43684966.js?integration=WordPress&amp;ver=11.1.40" id="leadin-script-loader-js-js"></script>
+<script type="text/javascript" id="toc-front-js-extra">
+/* <![CDATA[ */
+var tocplus = {"visibility_show":"\u8868\u793a","visibility_hide":"\u975e\u8868\u793a","width":"100%"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://rpst.jp/wp-content/plugins/table-of-contents-plus/front.min.js?ver=2411.1" id="toc-front-js"></script>
+<script type="text/javascript" id="q2w3_fixed_widget-js-extra">
+/* <![CDATA[ */
+var q2w3_sidebar_options = [{"sidebar":"q2w3-default-sidebar","use_sticky_position":false,"margin_top":0,"margin_bottom":0,"stop_elements_selectors":"","screen_max_width":0,"screen_max_height":0,"widgets":["#stickybox"]},{"sidebar":"mega-menu","use_sticky_position":false,"margin_top":0,"margin_bottom":0,"stop_elements_selectors":"","screen_max_width":0,"screen_max_height":0,"widgets":["#custom_html-2","#custom_html-5","#custom_html-6","#custom_html-7","#custom_html-8"]}];
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://rpst.jp/wp-content/plugins/q2w3-fixed-widget/js/frontend.min.js?ver=6.2.3" id="q2w3_fixed_widget-js"></script>
+<script type="text/javascript" src="https://rpst.jp/wp-includes/js/hoverIntent.min.js?ver=1.10.2" id="hoverIntent-js"></script>
+<script type="text/javascript" id="megamenu-js-extra">
+/* <![CDATA[ */
+var megamenu = {"timeout":"300","interval":"100"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://rpst.jp/wp-content/plugins/megamenu/js/maxmegamenu.js?ver=3.3.1.2" id="megamenu-js"></script>
+  </footer><!-- End Footer -->
+
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center">
+	<i class="bi bi-arrow-up-circle-fill"></i>
+</a>
+
+<script src="https://unpkg.com/swiper@7/swiper-bundle.min.js"></script>
+
+<script>
+   var myswiper = new Swiper('.swiper', {
+  autoplay: {
+    delay: 0,
+  },
+	   
+breakpoints: {
+    640: {
+      slidesPerView:8,
+      spaceBetween: 0,
+    }
+  },	   
+  loop: true,
+  speed: 3000,
+  slidesPerView:'3.5',
+  centeredSlides: true,
+  preventInteractionOnTransition: true,
+  pagination: {
+    el: '.swiper-pagination',
+    type: 'progressbar',
+  }
+	   
+});
+	
+var mySwiper = new Swiper('.swiper2', {
+        slidesPerView: '3',
+        spaceBetween: 10,
+        centeredSlides: true,
+        loop: true,
+        loopAdditionalSlides:3,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev"
+        },
+        autoplay: {
+            delay: 3000,
+        },
+		breakpoints: {
+    640: {
+      slidesPerView: 1,
+      spaceBetween: 0,
+    }
+  },
+		
+		  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+    });	
+	
+	
+var mySwiper = new Swiper('.swiper3', {
+        slidesPerView: '1',
+        spaceBetween: 80,
+        centeredSlides: true,
+        initialSlide: 8,
+        loop: true,
+        loopAdditionalSlides:8,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev"
+        },
+        autoplay: {
+            delay: 3000,
+        },
+		breakpoints: {
+    640: {
+      slidesPerView: 8,
+      spaceBetween: 10,
+    }
+  },
+		
+		  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+    });	
+	
+var mySwiper = new Swiper('.swiper4', {
+        slidesPerView: '1',
+        spaceBetween: 80,
+        centeredSlides: true,
+        initialSlide: 8,
+        loop: true,
+        loopAdditionalSlides:8,
+        navigation: {
+            nextEl: ".swiper-button-next",
+            prevEl: ".swiper-button-prev"
+        },
+        autoplay: {
+            delay: 3000,
+        },
+		breakpoints: {
+    640: {
+      slidesPerView: 8,
+      spaceBetween: 10,
+    }
+  },
+		
+		  pagination: {
+    el: ".swiper-pagination",
+    clickable: true,
+  },
+    });		
+	
+
+//アコーディオンをクリックした時の動作
+$('.title').on('click', function() {
+  $('.box').slideUp(500);
+    
+  var findElm = $(this).next(".box");
+    
+  if($(this).hasClass('close')){
+    $(this).removeClass('close');
+  }else{//それ以外は
+    $('.close').removeClass('close'); 
+    $(this).addClass('close');
+    $(findElm).slideDown(500);
+  }
+});
+
+</script>
+
+<style>
+.swiper-wrapper{
+  transition-timing-function: linear;
+}
+
+</style>
+
+</body>
+
+</html>
+
+<!-- Google Code for &#12522;&#12510;&#12540;&#12465;&#12486;&#12451;&#12531;&#12464; -->
+<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1019227964;
+var google_conversion_label = "HemyCIy_1gMQvN6A5gM";
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="https://rpst.jp/wp-content/themes/precs//googleads.g.doubleclick.net/pagead/viewthroughconversion/1019227964/?value=0&amp;label=HemyCIy_1gMQvN6A5gM&amp;guid=ON&amp;script=0"https://rpst.jp/wp-content/themes/precs/>
+</div>
+</noscript>
+       
+

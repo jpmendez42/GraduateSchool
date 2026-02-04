@@ -1,0 +1,13 @@
+# ------------------------------------------
+# ZOHO Corp. -- http://*.zohostatic.com
+# Robot Exclusion File -- robots.txt
+# Author:  Webmaster
+# Last Updated:  20/10/15 
+# ------------------------------------------
+User-agent: *
+Disallow: /
+Allow: /*.js
+Allow: /*.css
+Allow: /*.gif
+Allow: /*.png
+Allow: /*.jpg

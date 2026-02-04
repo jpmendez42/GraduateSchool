@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /hirdetesek
+Disallow: /cikk-elonezet
+Disallow: /publicapi
+Disallow: /kereses?global_filter=*
+Disallow: /kereses/
+Allow: /publicapi/hu/rss/
+Sitemap: https://www.mindmegette.hu/sitemapindex.xml

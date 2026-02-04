@@ -1,0 +1,13 @@
+     User-agent: *
+Allow: /SiteGlobals/Modules/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Forms/
+Allow: /SiteGlobals/Frontend/
+Allow: /SiteGlobals/Functions/Sitemap/
+Disallow: /SiteGlobals/
+Disallow: /cae/
+Disallow: /DE/Service/
+Disallow: /EN/Service/
+Disallow: /FR/Service/
+Crawl-delay: 12
+Sitemap: https://www.deutsche-rentenversicherung.de/Sitemap_Index.xml 

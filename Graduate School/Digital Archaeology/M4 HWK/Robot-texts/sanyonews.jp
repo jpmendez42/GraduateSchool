@@ -1,0 +1,2542 @@
+
+
+
+
+
+
+    
+<!-- トップページの場合の分岐 -->
+    <!-- カテゴリの場合 -->
+
+<!-- HTMLタグ除去 -->
+
+
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta name="viewport" content="width=device-width">
+<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+<meta name="robots" content="ALL">
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N8J87HG');</script>
+<!-- End Google Tag Manager -->
+
+<link rel="shortcut icon" href="//static.sanyonews.jp/files/img/favicon.ico" type="image/x-icon" />
+<link rel="apple-touch-icon" href="//static.sanyonews.jp/files/img/touch-icon/apple-touch-icon.png" />
+<link rel="icon" type="image/png" href="//static.sanyonews.jp/files/img/touch-icon/android-chrome.png">
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+
+
+<link rel="stylesheet" type="text/css" href="//static.sanyonews.jp/files/css/sanyo_font.css?ver6.4.2" />
+
+	
+
+<link rel="stylesheet" href="//static.sanyonews.jp/files/css/common.css" type="text/css" />
+<link rel="stylesheet" href="//static.sanyonews.jp/files/css/style.css" type="text/css" />
+<link rel="stylesheet" href="//static.sanyonews.jp/files/css/post.css" type="text/css" />
+
+
+
+
+	
+
+<title>山陽新聞デジタル｜さんデジ</title>
+<meta name="Description" content="山陽新聞デジタル（さんデジ）は山陽新聞社のニュースサイトです。岡山県内各地域や国内外のニュース、スポーツ速報を配信します。" />
+
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="//static.sanyonews.jp/files/js/scripts.js"></script>
+
+	
+
+
+
+
+<script src="//static.sanyonews.jp/files/js/lib/swiper/swiper-bundle.min.js"></script>
+<link rel="stylesheet" href="//static.sanyonews.jp/files/js/lib/swiper/swiper-bundle.min.css">
+
+<script type="text/javascript" src="//static.sanyonews.jp/files/js/top.js"></script>
+<link rel="stylesheet" type="text/css" href="//static.sanyonews.jp/files/css/top.css" />
+
+
+
+
+
+
+
+
+<!-- ▼広告用 -->
+
+
+
+<script type="application/javascript" src="//anymind360.com/js/3318/ats.js"></script>
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/83555300,6256618/sanyo/sanyo/news_pc_all_header', [[1, 1], [728, 90], [970, 250]], 'news_pc_all_header').addService(googletag.pubads());
+    googletag.defineSlot('/83555300,6256618/sanyo/sanyo/news_pc_all_right_1st', [[1, 1], [300, 250]], 'news_pc_all_right_1st').addService(googletag.pubads());
+    googletag.defineSlot('/83555300,6256618/sanyo/sanyo/JP_SSD_pc_all_right_2nd', ['fluid', [1, 1], [300, 250]], 'JP_SSD_pc_all_right_2nd').addService(googletag.pubads());
+    googletag.defineSlot('/83555300,6256618/sanyo/sanyo/news_pc_all_right_4th', [[1, 1], [300, 250], [300, 600]], 'news_pc_all_right_4th').addService(googletag.pubads());
+    googletag.defineSlot('/83555300,6256618/sanyo/sanyo/news_pc_all_footer', [[1, 1], [728, 90], [970, 250]], 'news_pc_all_footer').addService(googletag.pubads());
+    googletag.defineSlot('/83555300,6256618/sanyo/sanyo/news_pc_article_underarticle_left', [[1, 1], [300, 250]], 'news_pc_article_underarticle_left').addService(googletag.pubads());
+    googletag.defineSlot('/83555300,6256618/sanyo/sanyo/news_pc_article_underarticle_right', [[1, 1], [300, 250]], 'news_pc_article_underarticle_right').addService(googletag.pubads());
+googletag.defineSlot('/83555300,6256618/sanyo/sanyo/JP_ssd_pc_sidebar_right_1st', [[145, 100], [1, 1]], 'JP_ssd_pc_sidebar_right_1st').addService(googletag.pubads());
+googletag.defineSlot('/83555300,6256618/sanyo/sanyo/JP_ssd_pc_sidebar_left_1st', [[145, 100], [1, 1]], 'JP_ssd_pc_sidebar_left_1st').addService(googletag.pubads());
+googletag.defineSlot('/83555300,6256618/sanyo/sanyo/JP_ssd_pc_sidebar_right_2nd', [[145, 100], [1, 1]], 'JP_ssd_pc_sidebar_right_2nd').addService(googletag.pubads());
+googletag.defineSlot('/83555300,6256618/sanyo/sanyo/JP_ssd_pc_sidebar_left_2nd', [[145, 100], [1, 1]], 'JP_ssd_pc_sidebar_left_2nd').addService(googletag.pubads());
+googletag.defineSlot('/83555300,6256618/sanyo/sanyo/JP_ssd_pc_top_infeed', [[728, 90],  [468, 60], [1,  1]], 'JP_ssd_pc_top_infeed').addService(googletag.pubads());
+googletag.defineSlot('/83555300,6256618/sanyo/sanyo/JP_ssd_pc_ad_sanyoid_presents', [[300, 50], [1,  1]], 'JP_ssd_pc_ad_sanyoid_presents').addService(googletag.pubads());
+
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().collapseEmptyDivs();
+    googletag.enableServices();
+  });
+</script>
+
+
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({article:'auto'});
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
+  }(document.createElement('script'),
+  document.getElementsByTagName('script')[0],
+  '//cdn.taboola.com/libtrc/fourm-sanyonewspaper/loader.js',
+  'tb_loader_script');
+  if(window.performance && typeof window.performance.mark == 'function')
+    {window.performance.mark('tbl_ic');}
+</script>
+
+
+</head>
+
+
+<body>
+
+
+
+
+
+
+
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N8J87HG"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- HEADER -->
+<header class="header" id="header">
+	<div class="wrapper">
+		
+		<h1 class="logo"><a href="/"><img src="//static.sanyonews.jp/files/img/logo.svg" alt="山陽新聞" /></a></h1>
+		
+		<div class="header_nav">
+			<div class="header_nav_item">
+				<a href="https://www.sanyonews.jp/fagigate"><img class="nav_icon" src="https://static.sanyonews.jp/files/fagigate/img/favicon.ico" alt="">FAGIGATE</a>
+			</div>
+			<div class="header_nav_item">
+				<a href="https://medica.sanyonews.jp/"><img class="nav_icon" src="https://medica.sanyonews.jp/favicon.ico" alt="">MEDICA</a>
+			</div>
+			<div class="header_nav_item">
+				<a href="/0701_weather/">天気・防災</a>
+			</div>
+			<div class="header_nav_item">
+				<a href="/guide/">購読のご案内</a>
+			</div>
+			<!-- <div class="header_nav_item">
+				<a href="/newspaper/">朝刊紙面</a>
+			</div>
+			<div class="header_nav_item">
+				<a href="/ftext">新聞検索</a>
+			</div> -->
+		</div>
+		
+		<ul class="header_tools">
+
+			<li class="header_btn"><a href="/guide/">申し込み</a></li>
+			<li class="header_btn login"><a href="/service/login">ログイン</a></li>
+
+		</ul>
+
+	</div>
+</header>
+<!-- //HEADER -->
+
+
+
+<!-- GLOBAL_NAVI -->
+<nav class="gnav">
+	<div class="wrapper">
+		<ul class="gnav_list">
+			<li class="gnav_item active"><a href="/">トップ</a></li>
+			<li class="gnav_item"><a href="/okayama">岡山エリア</a>
+				<ul class="gnav_sub">
+					<li><a href="/okayama/m_syakai/jiken_jiko">事件・事故</a></li>
+					<li><a href="/okayama/m_syakai/kisyou_saigai/">気象・災害</a></li>
+					<li><a href="/okayama/m_seiji/seiji">政治行政</a></li>
+					<li><a href="/okayama/m_chihou_keizai/chihou_keizai">地方経済</a></li>
+					<li><a href="/okayama/m_seiji/election">選挙</a></li>
+					<li><a href="/elections">選挙結果</a></li>
+					<li><a href="/okayama/m_chihou_keizai/personnel">企業人事</a></li>
+					<li><a href="/okayama/m_syakai/iryo_fukushi">医療</a></li>
+					<li><a href="/okayama/m_syakai/traffic_info">交通情報</a></li>
+					<li><a href="/okayama/m_syakai/area_content">地域話題</a></li>
+					<li><a href="/okayama/m_syakai/judgment">裁判</a></li>
+					<li><a href="/okayama/m_odekake/odekake">おでかけ</a></li>
+					<li><a href="/okayama/m_life_culture/life_culture">くらし・文化</a></li>
+					<li><a href="/okayama/m_life_culture/kyouiku">教育</a></li>
+				</ul>
+			</li>
+			<li class="gnav_item"><a href="/sports">スポーツ</a>
+				<ul class="gnav_sub">
+
+					<li class="wide border"><a href="/sportsrecord">アマチュアスポーツ記録 <i class="fa-solid fa-chevron-right"></i></a></li>
+
+					<li><a href="/sports/fagiano">ファジアーノ</a></li>
+					<li><a href="/sports/seagulls">シーガルズ</a></li>
+					<li><a href="/sports/rivets">リベッツ</a></li>
+					<li><a href="/sports/tryhoop">トライフープ</a></li>
+					<li><a href="/sports/nadeshiko">なでしこ岡山</a></li>
+					<li><a href="/sports/area_baseball">高校野球</a></li>
+					<li><a href="/sports/etc_sports">各種スポーツ</a></li>
+				</ul>
+			</li>
+
+			<li class="gnav_item"><a href="/news_digest?utm=pc_globalmenu">ダイジェスト</a>
+			</li>
+
+			<li class="gnav_item"><a href="/area">地域別</a>
+				<ul class="gnav_sub area">
+					<li class="wide border"><a href="/okayama_top">岡山県&nbsp;<i class="fa-solid fa-chevron-right"></i></a></li>
+					<li><a href="/area/area_okayama/okayamashi">岡山</a></li>
+					<li><a href="/area/area_kurashiki_sojya/kurashikishi">倉敷</a></li>
+					<li><a href="/area/area_sakusyu/tsuyamashi">津山</a></li>
+					<li><a href="/area/area_tamano/tamanoshi">玉野</a></li>
+					<li><a href="/area/area_ikasa/kasaokashi">笠岡</a></li>
+					<li><a href="/area/area_ikasa/ibarashi">井原</a></li>
+					<li><a href="/area/area_kurashiki_sojya/sojashi">総社</a></li>
+					<li><a href="/area/area_takahashi_nimi/takahashishi">高梁</a></li>
+					<li><a href="/area/area_takahashi_nimi/nimishi">新見</a></li>
+					<li><a href="/area/area_tobi/bizenshi">備前</a></li>
+					<li><a href="/area/area_tobi/setouchishi">瀬戸内</a></li>
+					<li><a href="/area/area_tobi/akaiwashi">赤磐</a></li>
+					<li><a href="/area/area_sakusyu/maniwashi">真庭</a></li>
+					<li><a href="/area/area_sakusyu/mimasakashi">美作</a></li>
+					<li><a href="/area/area_ikasa/asakuchishi">浅口</a></li>
+					<li><a href="/area/area_tobi/wakecho">和気</a></li>
+					<li><a href="/area/area_kurashiki_sojya/hayashimacho">早島</a></li>
+					<li><a href="/area/area_ikasa/satosyocho">里庄</a></li>
+					<li><a href="/area/area_ikasa/yakagecho">矢掛</a></li>
+					<li><a href="/area/area_sakusyu/shinjoson">新庄</a></li>
+					<li><a href="/area/area_sakusyu/kagaminocho">鏡野</a></li>
+					<li><a href="/area/area_sakusyu/syoocho">勝央</a></li>
+					<li><a href="/area/area_sakusyu/nagicho">奈義</a></li>
+					<li><a href="/area/area_sakusyu/nishikuraawason">西粟倉</a></li>
+					<li><a href="/area/area_sakusyu/kumenancho">久米南</a></li>
+					<li><a href="/area/area_sakusyu/misakicho">美咲</a></li>
+					<li><a href="/area/area_takahashi_nimi/kibichuocho">吉備中央</a></li>
+					<li class="wide border"><a href="/area/area_bingo/hiroshimaken">広島県&nbsp;<i class="fa-solid fa-chevron-right"></i></a></li>
+				</ul>
+			</li>
+<!--
+			<li class="gnav_item"><a href="#">ダイジェスト</a>
+
+				<ul class="gnav_sub">
+					<li><a href="#">サブメニューが入ります</a></li>
+					<li><a href="#">サブメニューが入ります</a></li>
+					<li><a href="#">サブメニューが入ります</a></li>
+					<li><a href="#">サブメニューが入ります</a></li>
+				</ul>
+-->
+			</li>
+			<li class="gnav_item"><a href="/special">連載・特集</a>
+				<ul class="gnav_sub">
+					<li class="wide"><a href="/special/sandigi_special/digirepo">デジルポおかやま</a></li>
+					<li class="wide"><a href="/special/sandigi_special/read_data/">データを読む</a></li>
+					<li class="wide"><a href="/special/sandigi_special/news_visual">ビジュアルニュース</a></li>
+					<li class="wide"><a href="/special/sandigi_special/eiga_mandan">映画漫談 シネじいひとり旅</a></li>
+
+					
+					<li class="wide border align_right ">
+						<a href="/special/sandigi_special" class="contents_btn contents_btn_02">特集一覧へ</a>
+					</li>
+
+
+					<li class="wide"><a href="/special/paper_series/shimawata_rensai">島を渡る</a></li>
+					<li class="wide"><a href="/special/paper_series/novel_imada">未だ本能寺にあり</a></li>
+					<li class="wide"><a href="/special/paper_series/shouwa_story">昭和物語</a></li>
+
+					<li class="wide border align_right ">
+						<a href="/special/paper_series" class="contents_btn contents_btn_02">紙面連載一覧へ</a>
+					</li>
+
+					<li><a href="/prime/prime_special">プライムニュース</a></li>
+
+					<li><a href="/entertain/oricon">オリコン</a></li>				</ul>
+			</li>
+			<li class="gnav_item"><a href="/global">国内外</a>
+				<ul class="gnav_sub">
+					<li><a href="/global/global_syuyo">主要</a></li>
+					<li><a href="/global/global_seiji">政治</a></li>
+					<li><a href="/global/global_kezai">経済</a></li>
+					<li><a href="/marketnews/">マーケット速報</a></li>
+					<li><a href="/global/global_syakai">社会</a></li>
+					<li><a href="/global/global_kokusai">国際</a></li>
+					<li><a href="/global/global_sports">スポーツ</a></li>
+					<li><a href="/global/global_life_content">くらし・話題</a></li>
+					<li><a href="/global/global_culture">文化・芸能</a></li>
+					<li class="wide"><a href="/global/global_environment">科学・環境・医療・健康</a></li>
+				</ul>
+			</li>
+			<li class="gnav_item"><a href="/opinion">オピニオン</a>
+				<ul class="gnav_sub">
+					<li><a href="/opinion/tekiitteki/">滴一滴</a></li>
+					<li><a href="/opinion/shasetsu/">社説</a></li>
+					<li><a href="/opinion/column">コラム</a></li>
+				</ul>
+			</li>
+			<li class="gnav_item"><a href="/town/event?utm=pc_globalmenu">イベント</a>
+			</li>
+		</ul>
+
+		<div class="search_box">
+			<form method="GET" action="/search/" id="search" name="search">
+			<input type="hidden" name="group_key" value="search">
+				<div class="search_item">
+					<input type="text" name="kw" value="" class="search_text" placeholder="記事を検索">
+					<input type="submit" id="searchsubmit" class="search_button" value="&#xf002;">
+				</div>
+			</form>
+		</div>
+
+	</div>
+</nav>
+<!-- //GLOBAL_NAVI -->
+
+
+
+<!-- 注目 -->
+<div class="top_pickup">
+	<div class="wrapper">
+		<div class="top_pickup_title">注目</div>
+		<ul class="top_pickup_list">
+			<li><a href="https://www.sanyonews.jp/sportsrecord?utm=hotopic">アマチュアスポーツ記録</a></li>
+			<li><a href="https://www.sanyonews.jp/sports/area_baseball">高校野球</a></li>
+
+		</ul>
+	</div>
+</div>
+<!-- //注目 -->
+
+
+<!-- CONTAINER -->
+<div class="container container_top">
+	<div class="wrapper">
+	
+		<!-- MAIN -->
+		<div class="main">
+
+			
+<!-- ▼▼▼特集PR▼▼▼ -->
+
+
+
+
+	<section class="section">
+		<div class="section_wrap">
+			<div align="center">
+	<a href="https://www.sanyonews.jp/akitoku2025?utm=main_banner_top"><img src="//static.sanyonews.jp/files/image/feature/pr/akitoku_banner.jpg" alt="秋トクキャンペーン" style="margin-bottom:5px;"></a>
+			</div>
+		</div>
+	</section>
+<!-- ▲▲▲特集PR▲▲▲ -->
+		
+			
+		
+        
+        
+				<section class="section section_top_main">
+
+				<div class="flex_col flex_col_2">
+					<div class="flex_col_item top_main">
+						
+						
+						<div class="post_list post_list-type_grid">
+							<div class="post_item border">
+								<div class="post_thm">
+									<a href="/article/1805089"><div class="post_thm_bg">
+										<img src="//static.sanyonews.jp/image/article/size1/7/5/d/4/75d4c139bb2bea236f996240a3a6ef0c_1.jpg" alt="市町村間で自己負担最大約１万円の差　高齢者らのコロナワクチン定期接種">
+									</div></a>
+								</div>
+								<div class="post_body">
+                                                                
+
+
+									<h3 class="post_title"><a href="/article/1805089">市町村間で自己負担最大約１万円の差　高齢者らのコロナワクチン定期接種</a></h3>
+									<div class="post_meta">
+										<div class="post_date">
+
+	00:00
+	
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+			
+        
+        
+									
+						<div class="post_list post_list-type_thm_bg-s">
+									<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1809155"><div class="post_thm_bg ">
+								<img src="//static.sanyonews.jp/image/article/size3/8/8/7/b/887b565eba7c6dd120f24d575edd7eb1_1.jpg" alt="秋の中国高校野球組み合わせ決定　２４日開幕　岡山勢２年ぶりセンバツ切符獲得目指す">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                            
+
+							<h3 class="post_title"><a href="/article/1809155?rct=">秋の中国高校野球組み合わせ決定　２４日開幕　岡山勢２年ぶりセンバツ切符獲得目指す</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+							</div>							
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1809092"><div class="post_thm_bg  post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/9/3/5/1/935176a1e722bba439cd0d917eca4ca5_1.jpg" alt="岡山で民家２棟全焼　けが人なし">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                                                            
+
+							<h3 class="post_title"><a href="/article/1809092?rct=">岡山で民家２棟全焼　けが人なし</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+							</div>							
+								</div>
+						
+					</div>
+					<div class="flex_col_item top_sub">
+						<div class="post_list post_list-type_thm_bg-s">
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1809093"><div class="post_thm_bg  post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/a/e/0/8/ae08a2ac17ef1a35f642c14e9ac26596_1.jpg" alt="キリシタン流刑地 備前市・鶴島で野外ミサ　信者ら約２００人 苦難の歴史に思いはせ">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                                                                                                                                                                
+
+							<h3 class="post_title"><a href="/article/1809093?rct=">キリシタン流刑地 備前市・鶴島で野外ミサ　信者ら約２００人 苦難の歴史に思いはせ</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+							</div>							
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1806362"><div class="post_thm_bg ">
+								<img src="//static.sanyonews.jp/image/article/size3/7/7/2/7/772723c6a61f0f21af73f60c852ea7f6_1.jpg" alt="【食材ノート】サトイモ　コロッケや天ぷらにも">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                                                                                                                        
+
+							<h3 class="post_title"><a href="/article/1806362?rct=">【食材ノート】サトイモ　コロッケや天ぷらにも</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+	06:22
+	<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+							</div>							
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1809075"><div class="post_thm_bg ">
+								<img src="//static.sanyonews.jp/image/article/size3/f/5/4/9/f549f0d15610f92b17e5ac35ed9e9437_1.jpg" alt="期日前投票スタート 玉野市長選　１８日まで">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                                        
+
+							<h3 class="post_title"><a href="/article/1809075?rct=">期日前投票スタート 玉野市長選　１８日まで</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+							</div>							
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1807385"><div class="post_thm_bg ">
+								<img src="//static.sanyonews.jp/image/article/size3/5/e/8/a/5e8adbe1aab9c7addd6e8c354a626e82_1.jpg" alt="グルメや特産品を販売　岡山で１５日から商工会マルシェ">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                                        
+
+							<h3 class="post_title"><a href="/article/1807385?rct=">グルメや特産品を販売　岡山で１５日から商工会マルシェ</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+	05:27
+									</div>
+							</div>
+						</div>
+
+							</div>							
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1805919"><div class="post_thm_bg ">
+								<img src="//static.sanyonews.jp/image/article/size3/d/8/b/1/d8b16ef21eb3d27ffc8e906c4216cc11_1.jpg" alt="【年金の制度や相談窓口】請求漏れに注意を">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                                        
+
+							<h3 class="post_title"><a href="/article/1805919?rct=">【年金の制度や相談窓口】請求漏れに注意を</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+	05:00
+	<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+							</div>							
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1805918"><div class="post_thm_bg ">
+								<img src="//static.sanyonews.jp/image/article/size3/2/4/d/a/24da8654fb9cbce35d2e72dfdc817047_1.jpg" alt="（９）年金入門　「知る」ことが第一歩　関心持ち「定期便」確認を">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                                        
+
+							<h3 class="post_title"><a href="/article/1805918?rct=">（９）年金入門　「知る」ことが第一歩　関心持ち「定期便」確認を</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+	05:00
+	<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+							</div>							
+		
+					
+        
+        
+										<div class="post_item">
+								
+						<div class="post_thm">
+							<a href="/article/1809137"><div class="post_thm_bg ">
+								<img src="//static.sanyonews.jp/image/article/size3/d/b/5/3/db53c5f7951a8003f070bec55b0962c6_1.jpg" alt="優良保健師に１０人決定　山陽新聞社会事業団  ２２日表彰式">
+							</div></a>
+						</div>
+
+								<div class="post_body">
+                                                                                    
+
+							<h3 class="post_title"><a href="/article/1809137?rct=">優良保健師に１０人決定　山陽新聞社会事業団  ２２日表彰式</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+							</div>							
+		
+								</div>
+						
+
+					</div>
+				</div>
+				
+				<div class="align_right">
+					<a href="/okayama/syuyo" class="contents_btn contents_btn_01">もっと見る</a>
+				</div>
+				
+			</section>
+					
+        
+        
+
+
+		
+			
+			<section class="section section_bdtop1">
+				
+				<div class="heading heading_type_01">
+					<h2 class="heading_title"><a href="/special">連載・特集</a></h2>
+				</div>
+				
+				
+				<div class="series_slide_wrap">
+					<div class="swiper" id="series_slide">
+						<div class="swiper-wrapper post_list-type_grid">
+							<div class="swiper-slide post_item">
+						<div class="post_thm">
+							<a href="https://www.sanyonews.jp/special/paper_series/shouwa_story/"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/recommended/137_1.jpg" alt="昭和物語～山陽新聞アーカイブスから">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="https://www.sanyonews.jp/special/paper_series/shouwa_story/">昭和物語～山陽新聞アーカイブスから</a></h3>
+						</div>
+							</div>
+							<div class="swiper-slide post_item">
+						<div class="post_thm">
+							<a href="https://www.sanyonews.jp/taiyou?utm=picup"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/recommended/143_1.jpg" alt="岡山たいようプロジェクト">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="https://www.sanyonews.jp/taiyou?utm=picup">岡山たいようプロジェクト</a></h3>
+						</div>
+							</div>
+							<div class="swiper-slide post_item">
+						<div class="post_thm">
+							<a href="/special/paper_series/novel_imada"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/recommended/120_1.jpg" alt="未だ本能寺にあり">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/special/paper_series/novel_imada">未だ本能寺にあり</a></h3>
+						</div>
+							</div>
+							<div class="swiper-slide post_item">
+						<div class="post_thm">
+							<a href="/special/paper_series/shinsou_keizai"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/recommended/117_1.jpg" alt="深層keizai">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/special/paper_series/shinsou_keizai">深層keizai</a></h3>
+						</div>
+							</div>
+							<div class="swiper-slide post_item">
+						<div class="post_thm">
+							<a href="https://www.sanyonews.jp/special/sandigi_special/read_data/"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/recommended/121_1.jpg" alt="データを読む">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="https://www.sanyonews.jp/special/sandigi_special/read_data/">データを読む</a></h3>
+						</div>
+							</div>
+							<div class="swiper-slide post_item">
+						<div class="post_thm">
+							<a href="/special/paper_series/saigai_manabu"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/recommended/119_1.jpg" alt="災害から学ぶ">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/special/paper_series/saigai_manabu">災害から学ぶ</a></h3>
+						</div>
+							</div>
+							<div class="swiper-slide post_item">
+						<div class="post_thm">
+							<a href="https://www.sanyonews.jp/special/paper_series/50s"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/recommended/136_1.jpg" alt="５０代からの進路相談室">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="https://www.sanyonews.jp/special/paper_series/50s">５０代からの進路相談室</a></h3>
+						</div>
+							</div>
+
+						</div>
+					</div>
+					<div class="swiper-button-prev"></div>
+					<div class="swiper-button-next"></div>
+				</div>
+				
+				
+			
+<div class="post_list post_list-type_thm_bg-s flex_col flex_col_2" style="margin-top: 20px;">
+
+
+<div class="post_item flex_col_item">
+    <div class="post_thm">
+        <a href="/article/1805919"><div class="post_thm_bg">
+            <img src="//static.sanyonews.jp/image/article/size3/d/8/b/1/d8b16ef21eb3d27ffc8e906c4216cc11_1.jpg" alt="【年金の制度や相談窓口】請求漏れに注意を">
+        </div></a>
+    </div>
+    <div class="post_body">
+        <h3 class="post_title"><a href="/article/1805919">【年金の制度や相談窓口】請求漏れに注意を</a></h3>
+                                                                            
+                <div class="post_meta">
+                <div class="post_cate tag_list_article">
+                    <a href="/special/paper_series/50s">
+                        ５０代からの進路相談室
+                    </a>
+                </div>
+            </div>
+            <div class="post_meta">
+            <div class="post_date">
+05:00
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="post_item flex_col_item">
+    <div class="post_thm">
+        <a href="/article/1805918"><div class="post_thm_bg">
+            <img src="//static.sanyonews.jp/image/article/size3/2/4/d/a/24da8654fb9cbce35d2e72dfdc817047_1.jpg" alt="（９）年金入門　「知る」ことが第一歩　関心持ち「定期便」確認を">
+        </div></a>
+    </div>
+    <div class="post_body">
+        <h3 class="post_title"><a href="/article/1805918">（９）年金入門　「知る」ことが第一歩　関心持ち「定期便」確認を</a></h3>
+                                                                            
+                <div class="post_meta">
+                <div class="post_cate tag_list_article">
+                    <a href="/special/paper_series/50s">
+                        ５０代からの進路相談室
+                    </a>
+                </div>
+            </div>
+            <div class="post_meta">
+            <div class="post_date">
+05:00
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="post_item flex_col_item">
+    <div class="post_thm">
+        <a href="/article/1809093"><div class="post_thm_bg">
+            <img src="//static.sanyonews.jp/image/article/size3/a/e/0/8/ae08a2ac17ef1a35f642c14e9ac26596_1.jpg" alt="キリシタン流刑地 備前市・鶴島で野外ミサ　信者ら約２００人 苦難の歴史に思いはせ">
+        </div></a>
+    </div>
+    <div class="post_body">
+        <h3 class="post_title"><a href="/article/1809093">キリシタン流刑地 備前市・鶴島で野外ミサ　信者ら約２００人 苦難の歴史に思いはせ</a></h3>
+                                                                                                    
+                <div class="post_meta">
+                <div class="post_cate tag_list_article">
+                    <a href="/special/paper_series/shimawata_rensai">
+                        島を渡る
+                    </a>
+                </div>
+            </div>
+            <div class="post_meta">
+            <div class="post_date">
+10月13日
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="post_item flex_col_item">
+    <div class="post_thm">
+        <a href="/article/1807320"><div class="post_thm_bg">
+            <img src="//static.sanyonews.jp/image/article/size3/5/9/b/c/59bcad04c21d6ab1d3ec1a3c2f7357eb_1.jpg" alt="（３１）５１～５５年（１９７６～８０年）社会　入試改革で共通一次">
+        </div></a>
+    </div>
+    <div class="post_body">
+        <h3 class="post_title"><a href="/article/1807320">（３１）５１～５５年（１９７６～８０年）社会　入試改革で共通一次</a></h3>
+                                        
+                <div class="post_meta">
+                <div class="post_cate tag_list_article">
+                    <a href="/special/paper_series/shouwa_story">
+                        昭和物語～山陽新聞アーカイブスから
+                    </a>
+                </div>
+            </div>
+            <div class="post_meta">
+            <div class="post_date">
+10月12日
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+</div>
+
+			</section>
+
+			
+			
+			<section class="section section_bdtop1 section_top_opinion">
+
+				<div class="heading heading_type_01">
+					<h2 class="heading_title"><a href="/opinion">オピニオン</a></h2>
+				</div>
+				
+				<div class="post_list-type_grid flex_col flex_col_4">
+					
+					
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+    <a href="/article/1808776"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/1/1/c/d/11cd1bf3788c83a8b87b4ea0966726f4_1.jpg" alt="きょうは「失敗の日」">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808776">きょうは「失敗の日」</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+    <a href="/article/1808734"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/8/3/7/c/837cbe5d0f58d7f3cfa67e4d212a078c_1.jpg" alt="万博きょう閉幕　自治体も成果と経験 後世に ">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808734">万博きょう閉幕　自治体も成果と経験 後世に </a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+    <a href="/article/1808151"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/b/5/f/8/b5f8f5e1dfa4fe07c1320dd1077b0515_1.jpg" alt="在来線の列車旅">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808151">在来線の列車旅</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月12日
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+    <a href="/article/1807977"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/e/5/7/6/e57687c3a28fe6152658cd6c5a8b9a2e_1.jpg" alt="南海トラフ確率　備えの大切さ変わらない ">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1807977">南海トラフ確率　備えの大切さ変わらない </a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月12日
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+
+					
+					
+				</div>
+				
+			</section>
+
+			
+			
+
+			<section class="section section_bdtop1">
+				
+				<div class="heading heading_type_01">
+					<h2 class="heading_title"><a href="/keyword_list">いま注目のキーワード</a></h2>
+				</div>
+				<ul class="tag_list">
+					<li><a href="/trend_keyword/okayama_elec2025">岡山市長選2025</a></li>
+					<li><a href="/trend_keyword/kokuspo">国民スポーツ大会</a></li>
+					<li><a href="/trend_keyword/kuratouka">倉敷藤花戦</a></li>
+					<li><a href="/trend_keyword/okayamaartsummit">岡山芸術交流</a></li>
+					<li><a href="/trend_keyword/fusei">不正・不祥事</a></li>
+					<li><a href="/trend_keyword/sengo80">戦後80年</a></li>
+					<li><a href="/trend_keyword/trumpshock">トランプショック</a></li>
+					<li><a href="/trend_keyword/hansen">ハンセン病</a></li>
+					<li><a href="/trend_keyword/kw_setogei">瀬戸内国際芸術祭</a></li>
+					<li><a href="/trend_keyword/PFAS">ＰＦＡＳ問題</a></li>
+
+				</ul>
+				
+			</section>
+
+			
+			
+			<section class="section section_bdtop1 section_top_event">
+
+				<div class="heading heading_type_01">
+					<h2 class="heading_title"><a href="/town/event/event_list/2025-10-14">10月14日のイベント</a></h2>
+				</div>
+				
+				<!-- ▽▽▽カラムレイアウト（3カラム）▽▽▽ -->
+				<div class="post_list-type_grid flex_col flex_col_3">
+						
+					<div class="post_item flex_col_item">
+						<div class="post_thm">
+							<a href="/town/event/event_detail/34346"><div class="post_thm_bg">
+<img src="//static.sanyonews.jp/image/town_event/event_list/67d49685d075ed492bc25104a9a922a6.jpg" alt="西田俊英―不死鳥">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/town/event/event_detail/34346">西田俊英―不死鳥</a></h3>
+							<div class="post_summary">
+								<div class="post_summary_item venue">新見美術館</div>
+								<div class="post_summary_item period">10月4日～12月7日</div>
+							</div>
+						</div>
+					</div>
+					
+						
+					<div class="post_item flex_col_item">
+						<div class="post_thm">
+							<a href="/town/event/event_detail/34348"><div class="post_thm_bg">
+<img src="//static.sanyonews.jp/image/town_event/event_list/9578ff6cdb574b9599b2fcf865e95f72.jpg" alt="Team かんな Re-born ～森と人をつなぐプロジェクト～">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/town/event/event_detail/34348">Team かんな Re-born ～森と人をつなぐプロジェクト～</a></h3>
+							<div class="post_summary">
+								<div class="post_summary_item venue">岡山天満屋5階岡山贔屓</div>
+								<div class="post_summary_item period">10月8日～10月14日</div>
+							</div>
+						</div>
+					</div>
+					
+						
+					<div class="post_item flex_col_item">
+						<div class="post_thm">
+							<a href="/town/event/event_detail/34361"><div class="post_thm_bg">
+<img src="//static.sanyonews.jp/image/town_event/event_list/575bc8025494a422aa3bdaf2b26117c7.jpg" alt="ハローキティと出かけよう！「乗って集めてスタンプラリー」">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/town/event/event_detail/34361">ハローキティと出かけよう！「乗って集めてスタンプラリー」</a></h3>
+							<div class="post_summary">
+								<div class="post_summary_item venue">対象の公共交通や観光案内所</div>
+								<div class="post_summary_item period">10月1日～12月31日</div>
+							</div>
+						</div>
+					</div>
+					
+	
+				</div>
+				
+				
+				
+<!-- テキスト広告 -->
+<div class="ad_text flex_col flex_col_2 mt_30">
+	<div class="ad_text_item flex_col_item"><a rel="nofollow"  href="https://www.sanyonews.jp/pr/op/fagi.html"  target="_blank">【PR】ファジアーノ岡山のＷＥＢマガジン　最新情報を毎日お届け</a></div>
+	<div class="ad_text_item flex_col_item"><a rel="nofollow"  href="https://okayama.dashimasu.com"  target="_blank">【PR】働くに特化した山陽新聞のWEBメディア　ダシマス岡山</a></div>
+	<div class="ad_text_item flex_col_item"><a rel="nofollow"  href="https://fc-kamei.net"  target="_blank">【PR】フランチャイズ加盟</a></div>
+	<div class="ad_text_item flex_col_item"><a rel="nofollow"  href="https://www.shukatsu.jp/2027/34"  target="_blank">【PR】地元岡山への就職を本気で応援します！山陽新聞就活</a></div>
+
+</div>
+<!-- //テキスト広告  -->
+
+				
+				
+				
+			</section>
+
+			
+			
+			<section class="section section_bdtop1">
+				
+				
+				<div class="post_list post_list-type_grid flex_col flex_col_3">
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/sports">スポーツ</a></h2>
+						</div>
+						
+						
+						<div class="post_thm">
+    <a href="/article/1809155"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/8/8/7/b/887b565eba7c6dd120f24d575edd7eb1_1.jpg" alt="秋の中国高校野球組み合わせ決定　２４日開幕　岡山勢２年ぶりセンバツ切符獲得目指す">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809155">秋の中国高校野球組み合わせ決定　２４日開幕　岡山勢２年ぶりセンバツ切符獲得目指す</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/okayama/m_syakai">社会</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1805089"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/7/5/d/4/75d4c139bb2bea236f996240a3a6ef0c_1.jpg" alt="市町村間で自己負担最大約１万円の差　高齢者らのコロナワクチン定期接種">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1805089?rct=m_syakai">市町村間で自己負担最大約１万円の差　高齢者らのコロナワクチン定期接種</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+00:00
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+					
+
+
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/okayama/m_chihou_keizai">地方経済</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1806362"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/7/7/2/7/772723c6a61f0f21af73f60c852ea7f6_1.jpg" alt="【食材ノート】サトイモ　コロッケや天ぷらにも">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1806362?rct=m_chihou_keizai">【食材ノート】サトイモ　コロッケや天ぷらにも</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+06:22
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+					
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/okayama/m_seiji">政治行政</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1809075"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/f/5/4/9/f549f0d15610f92b17e5ac35ed9e9437_1.jpg" alt="期日前投票スタート 玉野市長選　１８日まで">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809075?rct=m_seiji">期日前投票スタート 玉野市長選　１８日まで</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+					
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/okayama/m_odekake">おでかけ</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1808999"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/2/d/2/9/2d29190fbdda667e92b57ededfad42a4_1.jpg" alt="タンチョウが優雅に羽ばたく　後楽園で恒例の散策 ４羽が来場者魅了">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808999?rct=m_odekake">タンチョウが優雅に羽ばたく　後楽園で恒例の散策 ４羽が来場者魅了</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+					
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/okayama/m_life_culture">くらし・文化・教育</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1805919"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/d/8/b/1/d8b16ef21eb3d27ffc8e906c4216cc11_1.jpg" alt="【年金の制度や相談窓口】請求漏れに注意を">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1805919?rct=m_life_culture">【年金の制度や相談窓口】請求漏れに注意を</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+05:00
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+					
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+				</div>
+				<!-- //flex_col -->
+				
+				
+			</section>
+
+			
+			
+			
+<div class="ad_space ad_space_main">
+	<div id='JP_ssd_pc_top_infeed' style='height:60px; width:468px; margin:0 auto;'>
+	<script>
+	googletag.cmd.push(function() { googletag.display('JP_ssd_pc_top_infeed'); });
+	</script>
+	</div>
+</div>
+
+			
+			
+			<section class="section section_bdtop1 section_top_movie">
+
+				<div class="heading heading_type_01">
+					<h2 class="heading_title"><a href="/movies/smovie">動画</a></h2>
+				</div>
+
+				
+				<div class="post_list-type_grid flex_col flex_col_3" id="movie_slide">
+					
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809093"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/a/e/0/8/ae08a2ac17ef1a35f642c14e9ac26596_1.jpg" alt="キリシタン流刑地 備前市・鶴島で野外ミサ　信者ら約２００人 苦難の歴史に思いはせ">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809093?rct=smovie">キリシタン流刑地 備前市・鶴島で野外ミサ　信者ら約２００人 苦難の歴史に思いはせ</a></h3>
+						</div>
+					</div>
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809091"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/7/6/f/c/76fc011d683d4ac9efba74e44ea7d704_1.jpg" alt="余第一位が先勝　関西棋院第一位決定戦開幕">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809091?rct=smovie">余第一位が先勝　関西棋院第一位決定戦開幕</a></h3>
+						</div>
+					</div>
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809092"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/9/3/5/1/935176a1e722bba439cd0d917eca4ca5_1.jpg" alt="岡山で民家２棟全焼　けが人なし">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809092?rct=smovie">岡山で民家２棟全焼　けが人なし</a></h3>
+						</div>
+					</div>
+
+
+					
+				</div>
+				
+				
+			</section>
+
+			
+			
+			<section class="section section_bdtop1">
+				
+				
+				<div class="post_list post_list-type_grid flex_col flex_col_3">
+					
+					
+						
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/prime/prime_special">国内外プライムニュース</a></h2>
+						</div>
+						
+						<div class="post_thm">
+    <a href="/article/1809200"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/d/7/8/8/d7883ec3b08b36927cbb27f8ff26d211_1.jpg" alt="戦禍の故郷思い個展開催、「暗闇照らす」　昭和の大横綱大鵬を描くウクライナ人画家">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809200?rct=prime_special">戦禍の故郷思い個展開催、「暗闇照らす」　昭和の大横綱大鵬を描くウクライナ人画家</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+05:03
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<!-- //flex_col_item -->
+
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<div class="heading_title">　</div>
+						</div>
+						
+						<div class="post_thm">
+    <a href="/article/1809060"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/f/b/6/a/fb6abab69ff900bccc292f150d73c13c_1.jpg" alt="加工場見学で絹織物「丹後ちりめん」身近に　京都・京丹後、生地表面に凹凸生み出す">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809060?rct=prime_special">加工場見学で絹織物「丹後ちりめん」身近に　京都・京丹後、生地表面に凹凸生み出す</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<!-- //flex_col_item -->
+
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<div class="heading_title">　</div>
+						</div>
+						
+						<div class="post_thm">
+    <a href="/article/1809040"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/c/5/1/d/c51d7165b0f27d8622aaf6c042fd5926_1.jpg" alt="「生活＝ワイド」放水路やダムが観光資源に　技術力、防災の役割学ぶ">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809040?rct=prime_special">「生活＝ワイド」放水路やダムが観光資源に　技術力、防災の役割学ぶ</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+<span class="post_icon limited"><img src="//static.sanyonews.jp/files/img/icon_key.svg" alt="会員限定" /></span>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<!-- //flex_col_item -->
+
+
+
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/global/global_syuyo">国内外ニュース</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1809207"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/b/0/7/9/b0798e94baffa1cec2238494d6ee2bfc_1.jpg" alt="ガザ和平、米と３国が首脳会合　停戦支援の文書署名">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809207?rct=global_syuyo">ガザ和平、米と３国が首脳会合　停戦支援の文書署名</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+06:57
+								</div>
+							</div>
+						</div>
+
+					
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/global/global_sports">国内外スポーツニュース</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1809201"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/1/b/7/6/1b7671786b00bf1505e37ca4d5c92f5b_1.jpg" alt="ＮＢＡ、中継でＡＩ活用　理解深めるデータ提供">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809201?rct=global_sports">ＮＢＡ、中継でＡＩ活用　理解深めるデータ提供</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+05:23
+								</div>
+							</div>
+						</div>
+
+					
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+					<div class="post_item flex_col_item border">
+						<div class="heading heading_type_01">
+							<h2 class="heading_title"><a href="/entertain/oricon">オリコンニュース</a></h2>
+						</div>
+						
+					
+						
+						<div class="post_thm">
+    <a href="/article/1809225"><div class="post_thm_bg">
+        <img src="//static.sanyonews.jp/image/article/size3/0/a/0/8/0a08ad87a6b814f5e567bc6051cfc261_1.jpg" alt="「ツイステ」3DCGライブイベント映像、ディズニープラスで期間限定配信">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809225?rct=oricon">「ツイステ」3DCGライブイベント映像、ディズニープラスで期間限定配信</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+06:10
+								</div>
+							</div>
+						</div>
+
+					
+
+
+
+					</div>
+					<!-- //flex_col_item -->
+					
+				</div>
+				<!-- //flex_col -->
+				
+				
+			</section>
+
+			
+			
+			<section class="section section_bdtop1">
+
+				<div class="heading heading_type_01">
+					<h2 class="heading_title"><a href="/pr_times">中四国のプレスリリース</a></h2>
+				</div>
+
+				
+				<div class="post_list post_list-type_grid flex_col flex_col_3">	
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+    <a href="/article/1808990"><div class="post_thm_bg">
+        <img src="https://prtimes.jp/img/86721/126/resize/d86721-126-229a26eeaf81f9f782b1-0.jpg" alt="TVアニメ「私を喰べたい、ひとでなし」大好評放送中！第3話 『希望の海』あらすじ・WEB予告エモーショナルポスター解禁！">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808990">TVアニメ「私を喰べたい、ひとでなし」大好評放送中！第3話 『希望の海』あらすじ・WEB予告エモーショナルポスター解禁！</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+    <a href="/article/1808951"><div class="post_thm_bg">
+        <img src="https://prtimes.jp/img/69473/123/resize/d69473-123-624d120c6cb32a05f4f8-1.png" alt="人事担当者注目！「リモートワークによって退職を思いとどまった理由」ランキング発表">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808951">人事担当者注目！「リモートワークによって退職を思いとどまった理由」ランキング発表</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+    <a href="/article/1808952"><div class="post_thm_bg">
+        <img src="https://prtimes.jp/img/171024/1/resize/d171024-1-4121c5299ba82d661f6b-5.jpg" alt="新店舗オープン情報">
+
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808952">新店舗オープン情報</a></h3>
+							<div class="post_meta">
+								<div class="post_date">
+10月13日
+								</div>
+							</div>
+						</div>
+
+					</div>
+
+
+					
+				</div>
+				<!-- //flex_col -->
+				
+				
+			</section>
+
+
+		</div>
+		<!-- //MAIN -->
+			
+		<!-- SIDEBAR -->
+		<div class="sidebar">
+
+			
+<!-- ▼▼▼警報・注意報（読み込み）▼▼▼ -->
+<div class="contents_side">
+        <div class=" section_side_alert">
+
+<!-- 共通設定 -->
+<script type="text/javascript" src="https://bousai-parts.kyodo-d.jp/contents/static/js/load_widget.js"></script>
+
+<!-- 線状降水帯 -->
+<script type="text/javascript">
+  kyd_bousai_widget.load({item:'senjoukousuitai', code:'033001', type:'mini', options:{'data-location':'https://www.sanyonews.jp/33_bousai_k/'}});
+</script>
+
+<!-- 避難情報 -->
+<script type="text/javascript">
+  kyd_bousai_widget.load({item:'evc', code:'33', type:'mini',  options:{'data-location':'https://www.sanyonews.jp/33_bousai_l/'}});
+</script>
+
+<!-- 地震速報 -->
+<script type="text/javascript">
+  kyd_bousai_widget.load({item:'jishin', code:'33', options:{'data-location':'https://www.sanyonews.jp/bousai_eq/'}});
+</script>
+
+<!-- 警報 -->
+<script type="text/javascript">
+  kyd_bousai_widget.load({item:'caution', code:'0701', options:{'data-location':'https://www.sanyonews.jp/33_bousai_k/'}});
+</script>
+
+<!-- 国民保護情報 -->
+<script type="text/javascript">
+  kyd_bousai_widget.load({item:'cp'});
+</script>
+
+<!-- 津波 -->
+<script type="text/javascript">
+  kyd_bousai_widget.load({item:'tsunami', type:'mini', options:{'data-location':'https://www.sanyonews.jp/bousai_eq/'}});
+</script>
+
+        </div>
+</div>
+<!-- ▲▲▲警報・注意報（読み込み）▲▲▲ -->
+
+<!-- 表示テスト -->
+<!-- <script type="text/javascript">
+  kyd_bousai_widget.load({item:'jishin', code:'99'});
+</script>  -->
+
+
+<!-- top -->
+			
+
+
+
+
+			
+<div class="section_side">
+	<div class="ad_space_side">
+		<a href="/news_digest?utm=side_banner"><img src="//static.sanyonews.jp/files/image/feature/pr/digest_pr.jpg" alt="ニュースダイジェスト" /></a>
+	</div>
+
+	<div class="ad_space_side">
+		<a href="/sportsrecord?utm=side_banner"><img src="//static.sanyonews.jp/files/image/feature/pr/sports_pr.jpg" alt="スポーツ記録" /></a>
+	</div>
+</div>
+
+
+			
+<div class="contents_side">
+	<div class="section_side_shimen">
+		<div class="side_shimen_parts">
+			<a href="/newspaper/"><img src="//static.sanyonews.jp/files/img/shimen.svg" alt="">朝刊紙面</a>
+		</div>
+		<div class="side_shimen_parts">
+			<a href="/ftext"><img src="//static.sanyonews.jp/files/img/shimen_search.svg" alt="">新聞検索</a>
+		</div>
+	</div>
+</div>
+
+			
+
+			<div class="section_side section_side_latest">
+				
+				<div class="heading heading_side_type_01">
+					<h2 class="heading_title">国内外ニュース</h2>
+				</div>
+				
+				<div class="section_wrap">
+					<div class="scroll_area">
+						<div class="post_list_side post_list-type_simple">
+							<div class="post_item">
+								<div class="post_date">
+06:57
+</div>
+								<h3 class="post_title"><a href="/article/1809207">ガザ和平、米と３国が首脳会合　停戦支援の文書署名</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+00:59
+</div>
+								<h3 class="post_title"><a href="/article/1809018">ハマス人質２０人全員解放　ガザ拘束２年、和平へ前進</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1809157">大阪・関西万博、閉幕　「多様性」示した１８４日</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1809115">立維国、首相指名で会談へ　野党候補一本化を模索</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1808961">玉木氏、立民と党首会談へ　首相指名、幹事長協議先行</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1808892">台風２３号、日本の東へ　伊豆諸島で高波警戒</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1809061">病原菌の薬剤耐性獲得が加速　感染症６件に１件、ＷＨＯ</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1809042">大阪・関西万博宣言の要旨</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1808987">中国、９月の対米輸出２７％減　マイナス幅は縮小</a></h3>
+							</div>
+							<div class="post_item">
+								<div class="post_date">
+10月13日
+</div>
+								<h3 class="post_title"><a href="/article/1808941">大阪・関西万博、閉幕へ　１８４日会期で２５００万人訪問</a></h3>
+							</div>
+
+					
+						</div>
+						<!-- //.post_list -->
+					</div>
+				</div>
+
+			</div>
+
+			
+			
+			<div class="section_side section_side_my">
+
+				<p class="my_news_text">
+					有料会員に登録して<a href="/service/login" class="underline">ログイン</a>すると、こちらに地域の天気・星座占い・自分好みのニュースを表示できます。
+				</p>
+
+					
+			</div>
+			<!-- //.my_news_box -->
+
+		
+			
+
+
+<div class="ad_space ad_space_side">
+<!-- /83555300/sanyo/sanyo/news_pc_all_right_1st -->
+<div id='news_pc_all_right_1st'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('news_pc_all_right_1st'); });
+  </script>
+</div>
+</div>
+
+
+
+			
+
+			
+			<div class="section_side section_side_ranking tab_menu js-tab">
+				
+				<div class="heading heading_side_type_01">
+					<h2 class="heading_title">ランキング</h2>
+					<div class="heading_parts">
+						<ul class="tab">
+							<li class="tab_item active">1時間</li>
+							<li class="tab_item">24時間</li>
+							<li class="tab_item">1週間</li>
+						</ul>
+					</div>
+				</div>
+				
+				<div class="section_wrap">
+					<div class="tab_panel_wrap">
+						<div class="tab_panel tab_panel_show">
+							
+							
+							<div class="post_list post_list-type_thm_bg-s">
+
+
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809092"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/9/3/5/1/935176a1e722bba439cd0d917eca4ca5_1.jpg" alt="岡山で民家２棟全焼　けが人なし">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809092?rct=">岡山で民家２棟全焼　けが人なし</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1807385"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/5/e/8/a/5e8adbe1aab9c7addd6e8c354a626e82_1.jpg" alt="グルメや特産品を販売　岡山で１５日から商工会マルシェ">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1807385?rct=">グルメや特産品を販売　岡山で１５日から商工会マルシェ</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1805919"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/d/8/b/1/d8b16ef21eb3d27ffc8e906c4216cc11_1.jpg" alt="【年金の制度や相談窓口】請求漏れに注意を">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1805919?rct=">【年金の制度や相談窓口】請求漏れに注意を</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1805918"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/2/4/d/a/24da8654fb9cbce35d2e72dfdc817047_1.jpg" alt="（９）年金入門　「知る」ことが第一歩　関心持ち「定期便」確認を">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1805918?rct=">（９）年金入門　「知る」ことが第一歩　関心持ち「定期便」確認を</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808688"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/c/6/3/8/c63899d1041ba0799a8083ee15648194_1.jpg" alt="岡山で倉庫と軽トラ全焼　１人けが">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808688?rct=">岡山で倉庫と軽トラ全焼　１人けが</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1805089"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/7/5/d/4/75d4c139bb2bea236f996240a3a6ef0c_1.jpg" alt="市町村間で自己負担最大約１万円の差　高齢者らのコロナワクチン定期接種">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1805089?rct=">市町村間で自己負担最大約１万円の差　高齢者らのコロナワクチン定期接種</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808975"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/4/3/7/a/437afabe35f0121679ca666a341fab5d_1.jpg" alt="酒気帯び運転の男逮捕　里庄町の２２歳男逮捕 岡山南署">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808975?rct=">酒気帯び運転の男逮捕　里庄町の２２歳男逮捕 岡山南署</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809137"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/d/b/5/3/db53c5f7951a8003f070bec55b0962c6_1.jpg" alt="優良保健師に１０人決定　山陽新聞社会事業団  ２２日表彰式">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809137?rct=">優良保健師に１０人決定　山陽新聞社会事業団  ２２日表彰式</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1806362"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/7/7/2/7/772723c6a61f0f21af73f60c852ea7f6_1.jpg" alt="【食材ノート】サトイモ　コロッケや天ぷらにも">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1806362?rct=">【食材ノート】サトイモ　コロッケや天ぷらにも</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809155"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/8/8/7/b/887b565eba7c6dd120f24d575edd7eb1_1.jpg" alt="秋の中国高校野球組み合わせ決定　２４日開幕　岡山勢２年ぶりセンバツ切符獲得目指す">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809155?rct=">秋の中国高校野球組み合わせ決定　２４日開幕　岡山勢２年ぶりセンバツ切符獲得目指す</a></h3>
+						</div>
+					</div>
+	
+
+
+							</div>
+							<!-- //.post_list -->
+							
+
+						</div>
+						<!-- //tab_panel -->
+						<div class="tab_panel">
+							
+							
+							<div class="post_list post_list-type_thm_bg-s">
+								
+
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809092"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/9/3/5/1/935176a1e722bba439cd0d917eca4ca5_1.jpg" alt="岡山で民家２棟全焼　けが人なし">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809092?rct=">岡山で民家２棟全焼　けが人なし</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808688"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/c/6/3/8/c63899d1041ba0799a8083ee15648194_1.jpg" alt="岡山で倉庫と軽トラ全焼　１人けが">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808688?rct=">岡山で倉庫と軽トラ全焼　１人けが</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1807839"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/4/4/d/1/44d1b03cb3985e39d06a7ba91e45fa82_2.jpg" alt="ストリート文化体験しよう　１９日に岡山でフェス">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1807839?rct=">ストリート文化体験しよう　１９日に岡山でフェス</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808766"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/2/a/4/0/2a405f5b8de03c4220fc3d7c46c1fa32_1.jpg" alt="倉敷 児島・鴻八幡宮例大祭　だんじり１８基 豪快に急傾斜の参道上る">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808766?rct=">倉敷 児島・鴻八幡宮例大祭　だんじり１８基 豪快に急傾斜の参道上る</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808746"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/5/1/f/2/51f2014182f81944830c61e7f2eca467_1.jpg" alt="「秋のおかやま桃太郎まつり」「集え！岡山城」　最終日も芸能やグルメ堪能">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808746?rct=">「秋のおかやま桃太郎まつり」「集え！岡山城」　最終日も芸能やグルメ堪能</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808497"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/1/5/2/c/152c4f6bea7877f1e78f29677e53a87b_1.jpg" alt="井原市美星町で民家全焼">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808497?rct=">井原市美星町で民家全焼</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808418"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/f/2/b/9/f2b9f6f274196bd84d58b2e1d8116738_1.jpg" alt="福山城にキッチンカー３５台集結　１３日までグルメグランプリ">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808418?rct=">福山城にキッチンカー３５台集結　１３日までグルメグランプリ</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808975"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/4/3/7/a/437afabe35f0121679ca666a341fab5d_1.jpg" alt="酒気帯び運転の男逮捕　里庄町の２２歳男逮捕 岡山南署">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808975?rct=">酒気帯び運転の男逮捕　里庄町の２２歳男逮捕 岡山南署</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808134"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/c/e/a/f/ceaf80a70c6a992355eae671013a981f_1.jpg" alt="いきなり抱きついたか　総社署 ７６歳男を逮捕">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808134?rct=">いきなり抱きついたか　総社署 ７６歳男を逮捕</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1806418"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/1/9/7/c/197c287ebcd9f80fc9b2e00fd241f2d4_2.jpg" alt="２５年産米の概算金１・５倍に　岡山２ＪＡ、販売価格に影響も">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1806418?rct=">２５年産米の概算金１・５倍に　岡山２ＪＡ、販売価格に影響も</a></h3>
+						</div>
+					</div>
+	
+
+
+
+							</div>
+							<!-- //.post_list -->
+							
+
+						</div>
+						<!-- //tab_panel -->
+						<div class="tab_panel">
+							
+							
+							<div class="post_list post_list-type_thm_bg-s">
+								
+
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1806098"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/e/4/5/6/e45645b13a939c1a3fecff1d70ff4006_1.jpg" alt="猪原氏が出馬表明　広島県知事選">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1806098?rct=">猪原氏が出馬表明　広島県知事選</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1809092"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/9/3/5/1/935176a1e722bba439cd0d917eca4ca5_1.jpg" alt="岡山で民家２棟全焼　けが人なし">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1809092?rct=">岡山で民家２棟全焼　けが人なし</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1806418"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/1/9/7/c/197c287ebcd9f80fc9b2e00fd241f2d4_2.jpg" alt="２５年産米の概算金１・５倍に　岡山２ＪＡ、販売価格に影響も">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1806418?rct=">２５年産米の概算金１・５倍に　岡山２ＪＡ、販売価格に影響も</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1805708"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/7/c/e/5/7ce5d0d8bf87678ae6adb8191f3c7e0e_1.jpg" alt="「自分があるのは岡山のおかげ」　国際若手指揮者コンＶ 米田さん">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1805708?rct=">「自分があるのは岡山のおかげ」　国際若手指揮者コンＶ 米田さん</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1803980"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/a/5/8/e/a58ede176890018ef73bb7ade063946c_4.jpg" alt="新見の「Ｄ５１」お召し仕様 来春完成へ　保存会が１７年かけ整備">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1803980?rct=">新見の「Ｄ５１」お召し仕様 来春完成へ　保存会が１７年かけ整備</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1807839"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/4/4/d/1/44d1b03cb3985e39d06a7ba91e45fa82_2.jpg" alt="ストリート文化体験しよう　１９日に岡山でフェス">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1807839?rct=">ストリート文化体験しよう　１９日に岡山でフェス</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1804138"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/8/3/9/5/8395970e2b13efc271a89b6cf478e992_2.jpg" alt="片上大橋の橋脚に亀裂　大型車に迂回呼びかけ">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1804138?rct=">片上大橋の橋脚に亀裂　大型車に迂回呼びかけ</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808688"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/c/6/3/8/c63899d1041ba0799a8083ee15648194_1.jpg" alt="岡山で倉庫と軽トラ全焼　１人けが">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808688?rct=">岡山で倉庫と軽トラ全焼　１人けが</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1808497"><div class="post_thm_bg post_thm_movie">
+								<img src="//static.sanyonews.jp/image/article/size3/1/5/2/c/152c4f6bea7877f1e78f29677e53a87b_1.jpg" alt="井原市美星町で民家全焼">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1808497?rct=">井原市美星町で民家全焼</a></h3>
+						</div>
+					</div>
+						
+					<div class="post_item flex_col_item">
+						
+						<div class="post_thm">
+							<a href="/article/1807030"><div class="post_thm_bg">
+								<img src="//static.sanyonews.jp/image/article/size3/d/6/c/c/d6cc13c14b8f3870a7132a4493ade9df_1.jpg" alt="【特集】秋の桃太郎まつり 集え！岡山城（１１、１２日）　ご当地グルメや鉄砲隊演舞　松丸亮吾さん、ほいけんたさんも参加">
+							</div></a>
+						</div>
+						<div class="post_body">
+							<h3 class="post_title"><a href="/article/1807030?rct=">【特集】秋の桃太郎まつり 集え！岡山城（１１、１２日）　ご当地グルメや鉄砲隊演舞　松丸亮吾さん、ほいけんたさんも参加</a></h3>
+						</div>
+					</div>
+	
+
+
+							</div>
+							<!-- //.post_list -->
+							
+
+						</div>
+						<!-- //tab_panel -->
+					</div>
+					<!-- //tab_panel_wrap -->
+				</div>
+
+			</div>
+
+			
+			
+			
+<!--山陽新聞ID会員限定プレゼント-->
+<div class="ad_space ad_space_side">
+<!-- /6256618/ad_sanyoid_presents -->
+<div id='JP_ssd_pc_ad_sanyoid_presents' style='min-width: 300px; min-height: 50px; margin:0 auto;'>
+  <script>
+    googletag.cmd.push(function() { googletag.display('JP_ssd_pc_ad_sanyoid_presents'); });
+  </script>
+</div>
+</div>
+
+<!--第2レクタングル広告-->
+<div class="ad_space ad_space_side">
+	<!-- /83555300/sanyo/sanyo/JP_SSD_pc_all_right_2nd -->
+	<div id='JP_SSD_pc_all_right_2nd' style='min-width: 300px; min-height: 250px;'>
+		<script>
+			googletag.cmd.push(function() { googletag.display('JP_SSD_pc_all_right_2nd'); });
+		</script>
+	</div>
+</div>
+			
+<div class="section_side">
+	<div class="mb_10 align_center">
+		<a href="/kishagaiku/" target="_blank"><img src="//static.sanyonews.jp/files/img/side_bnr_kishagaiku.jpg" alt="あなたのまちの特報班" /></a>
+	</div>
+
+	<div class="side_col side_col_2 ad_space_side">
+		<div class="side_col_item">
+			<!-- 左1番目_145x100 -->
+			<div id='JP_ssd_pc_sidebar_left_1st' style='height:100px; width:145px;'>
+			<script>
+			googletag.cmd.push(function() { googletag.display('JP_ssd_pc_sidebar_left_1st'); });
+			</script>
+			</div>
+		</div>
+		<div class="side_col_item">
+			<!-- 右1番目_145x100 -->
+			<div id='JP_ssd_pc_sidebar_right_1st' style='height:100px; width:145px;'>
+			<script>
+			googletag.cmd.push(function() { googletag.display('JP_ssd_pc_sidebar_right_1st'); });
+			</script>
+			</div>
+		</div>
+	</div>
+</div>
+
+			
+			
+			<div class="section_side">
+				
+				<div class="heading heading_side_type_01">
+					<h2 class="heading_title"><a href="/photographs">さんデジ写真館</a></h2>
+				</div>
+				
+				<div class="section_wrap">
+					<ul class="side_gallery">
+					
+						<li class="side_gallery_item">
+							<a href="/photogallery/gallery/198"><img src="//static.sanyonews.jp/image/event_photo_cover/198/list_ff0b4a1b80614e8d9e865ba5235bb043.jpg" alt="レディース杯ゴルフ2025" /></a>
+						</li>
+						<li class="side_gallery_item">
+							<a href="/photogallery/gallery/197"><img src="//static.sanyonews.jp/image/event_photo_cover/197/list_1934adcc0d8a6c1d4d4381649f83731e.jpg" alt="瀬戸内国際芸術祭２０２５" /></a>
+						</li>
+						<li class="side_gallery_item">
+							<a href="/photogallery/gallery/196"><img src="//static.sanyonews.jp/image/event_photo_cover/196/list_6aec17724686622e708db5e9d4859be6.jpg" alt="空中散歩2025" /></a>
+						</li>
+						
+
+						
+					</ul>
+				</div>
+			
+			</div>
+
+			
+			
+			<div class="section_side">
+				
+				<div class="heading heading_side_type_01">
+					<h2 class="heading_title">国内外の注目ニュース</h2>
+				</div>
+				
+				<div class="section_wrap">
+					<div class="post_list post_list-type_thm_bg-s">
+
+						
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1809157">大阪・関西万博、閉幕　「多様性」示した１８４日</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1809132">実績自賛「新たな中東の夜明け」　トランプ氏、イスラエル国会演説</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1809115">立維国、首相指名で会談へ　野党候補一本化を模索</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1809018">ハマス人質２０人全員解放　ガザ拘束２年、和平へ前進</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1808961">玉木氏、立民と党首会談へ　首相指名、幹事長協議先行</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1809125">大の里「さらに世界的な人気に」　１５日開幕のロンドン公演に向け</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1809071">前橋市長、続投に重ねて意欲　「公約の責任」市民に訴え</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1808892">台風２３号、日本の東へ　伊豆諸島で高波警戒</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1809061">病原菌の薬剤耐性獲得が加速　感染症６件に１件、ＷＨＯ</a></h3>
+						</div>
+						<div class="post_item">
+							<h3 class="post_title"><a href="/article/1808987">中国、９月の対米輸出２７％減　マイナス幅は縮小</a></h3>
+						</div>
+
+						
+												
+					</div>
+					<!-- //.post_list -->
+				</div>
+			
+			</div>
+
+			
+			
+			
+
+			
+			
+			
+			
+<!-- ▼▼▼バナー▼▼▼ -->
+<div class="ad_space_side">
+	<a href="https://c.sanyonews.jp/ad/macp.html" target="_blank"><img src="//static.sanyonews.jp/files/image/feature/pr/ma.jpg" alt="山陽新聞社「事業承継」相談窓口" /></a>
+</div>
+<!-- ▲▲▲バナー▲▲▲ -->
+
+
+			<div class="section_side section_side_info">
+				
+				<div class="heading heading_side_type_01">
+					<h2 class="heading_title">お知らせ</h2>
+				</div>
+				
+				<div class="post_list post_list-type_thm_bg-s">
+					
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/release/2025/10/20251010151000.html">第44回山陽女子ロードレース大会</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/recruit/alumni.html">ジョブリターン（アルムナイ）採用</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/release/2025/01/20250129154030.html">クリッピング契約に専用WEBシステム導入</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/release/2025/01/20250101000000.html">新規ご購読者紹介キャンペーン</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/release/2025/09/20250915000000.html">10/18・19日開催　終活セミナー</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/golf_senryu">第5回おかやまゴルフ川柳コンクール</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/podcasts/">山陽新聞ポッドキャスト</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/kibinowa/">吉備の環プロジェクト</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/sanyo_shogi/">山陽新聞将棋のページ</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://www.sanyonews.jp/town/event/search/event/?genre=7&special_flag=1">山陽新聞社のイベント</a></div>
+					</div>
+					<div class="post_item">
+						<div class="post_title post_title_arrow"><a href="https://c.sanyonews.jp/kyujin/">山陽新聞 配達スタッフ募集</a></div>
+					</div>
+
+					
+					
+				</div>
+				<!-- //.post_list -->
+				
+			</div>
+
+
+			
+<div class="section_side">
+	<div class="side_col side_col_2 ad_space_side">
+		<div class="side_col_item">
+			<!-- 左2番目_145x100 -->
+			<div id='JP_ssd_pc_sidebar_left_2nd' style='min-width: 145px; min-height: 100px;'>
+			<script>
+			googletag.cmd.push(function() { googletag.display('JP_ssd_pc_sidebar_left_2nd'); });
+			</script>
+			</div>
+		</div>
+		<div class="side_col_item">
+			<!-- 右2番目_145x100 -->
+			<div id='JP_ssd_pc_sidebar_right_2nd' style='min-width: 145px; min-height: 100px;'>
+			<script>
+			googletag.cmd.push(function() { googletag.display('JP_ssd_pc_sidebar_right_2nd'); });
+			</script>
+			</div>
+		</div>
+	</div>
+
+	<div class="ad_space ad_space_side">
+		<div id='news_pc_all_right_4th'>
+		<script>
+		googletag.cmd.push(function() { googletag.display('news_pc_all_right_4th'); });
+		</script>
+		</div>
+	</div>
+</div>
+
+		</div>
+		<!-- //SIDEBAR -->
+
+
+	</div>
+	<!-- //.wrapper -->
+	
+</div>
+<!-- //CONTAINER -->
+
+
+
+
+
+
+<div class="page_top" id="js_pagetop"><a href="#"><img src="//static.sanyonews.jp/files/img/pgtop.png" alt="ページトップへ" /></a></div>
+
+<!-- FOOTER -->
+<div class="footer">
+	
+	
+	
+
+	<div class="footer_section_01">
+		<div class="footer_head">
+			<div class="footer_logo"><a href="https://c.sanyonews.jp/"><img src="//static.sanyonews.jp/files/img/f_logo.svg" alt="山陽新聞" /></a></div>
+			<ul class="footer_sns">
+				<li><a href="https://www.facebook.com/sanyonews"><i class="fa-brands fa-square-facebook"></i></a></li>
+				<li><a href="https://twitter.com/sanyo_news"><i class="fa-brands fa-square-x-twitter"></i></a></li>
+				<li><a href="https://www.sanyonews.jp/output/free.xml"><i class="fa-solid fa-rss"></i></a></li>
+				<li><a href="https://www.youtube.com/channel/UCltQCFPgtmjluHqgolKmHaQ/featured"><i class="fa-brands fa-youtube"></i></a></li>
+			</ul>
+		</div>
+		<div class="fnav">
+			<div class="fnav_item fnav_flex">
+				<div class="fnav_col_01">
+					<div class="fnav_title">山陽新聞社運営サイト</div>
+				</div>
+				<div class="fnav_col_02">
+					<ul class="fnav_list">
+						<li><a href="https://c.sanyonews.jp/kibinowa/">吉備の環</a></li>
+						<li><a href="https://www.sanyonews.jp/fagigate/">ファジゲート</a></li>
+						<li><a href="https://medica.sanyonews.jp/">岡山の医療健康ガイド</a></li>
+						<li><a href="https://mbp-japan.com/okayama/">マイベストプロ岡山</a></li>
+						<li><a href="https://santa.sanyo.oni.co.jp/santa/pc/top/show.do">さん太クラブ</a></li>
+						<li><a href="https://c.sanyonews.jp/sanyo_golf/">山陽新聞ゴルフ</a></li>
+						<li><a href="https://www.sanyonews.jp/harefure">晴れ！フレ！岡山</a></li>
+						<li><a href="https://santa.sanyo.oni.co.jp/santa/pc/culture/showTop.do">山陽新聞カルチャープラザ</a></li>
+						<li><a href="https://lalaokayama.jp/lala_web/htdocs/lala/LALA000.php?m=0&sm=0">LaLa Okayama</a></li>
+						<li><a href="https://www.shingaku-guide.com/">山陽新聞進学ガイド</a></li>
+						<li><a href="https://c.sanyonews.jp/various/premium/">山陽新聞プレミアム倶楽部</a></li>
+						<li><a href="https://www.sanyonews.jp/kikaku_mairare/">まいられぇ岡山</a></li>
+						<li><a href="https://wwwa.pandanet.co.jp/a/sanyo/">囲碁サロン</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="fnav_item fnav_flex">
+				<div class="fnav_col_01">
+					<div class="fnav_title">山陽新聞グループ</div>
+				</div>
+				<div class="fnav_col_02">
+					<ul class="fnav_list">
+						<li><a href="https://c.sanyonews.jp/company/group/jigyoudan/">山陽新聞社会事業団</a></li>
+						<li><a href="http://www.sanyo-pc.com/">山陽印刷</a></li>
+						<li><a href="https://sj-sanyo.jp/">山陽新聞事業社</a></li>
+						<li><a href="https://www.sank.co.jp/">山陽計算センター</a></li>
+						<li><a href="https://www.soac.co.jp/">山陽メディアネット</a></li>
+						<li><a href="https://c.sanyonews.jp/company/group/sanplaza/">山陽新聞印刷センター</a></li>
+						<li><a href="https://www.sanyo-hanbai.jp/okayama/index.html">山陽新聞販売</a></li>
+						<li><a href="https://www.sanyo-hanbai.jp/kurashiki/index.html">山陽新聞倉敷販売</a></li>
+						<li><a href="http://sanyoliving.jp/">山陽リビングメディア</a></li>
+						<li><a href="https://www.oninet.ne.jp/">岡山ネットワーク</a></li>
+						<li><a href="https://www.webtsc.com/">テレビせとうち</a></li>
+						<li><a href="http://www.tsccreate.co.jp/">テレビせとうちクリエイト</a></li>
+						<li><a href="http://www.fm790.co.jp/">岡山シティエフエム</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="fnav_item fnav_flex">
+				<div class="fnav_col_01">
+					<div class="fnav_title">関連サイト</div>
+				</div>
+				<div class="fnav_col_02">
+					<ul class="fnav_list">
+						<li><a href="https://www.47news.jp/">47NEWS</a></li>
+						<li><a href="https://c.sanyonews.jp/various/47club/okayama/">47CLUB</a></li>
+						<li><a href="https://c.sanyonews.jp/company/group/sanyokai/">山陽新聞山陽会</a></li>
+						<li><a href="https://setonowa.co.jp/">せとのわ</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- //fnav -->
+	</div>
+	<!-- //footer_section_01 -->
+
+	<div class="footer_section_02">
+		<div class="fnav">
+			<div class="fnav_item fnav_flex">
+				<div class="fnav_col_01">
+					<div class="fnav_title">山陽新聞社から</div>
+				</div>
+				<div class="fnav_col_02">
+					<ul class="fnav_list">
+						<li><a href="https://c.sanyonews.jp/company/">会社案内</a></li>
+						<li><a href="https://c.sanyonews.jp/n_d/nie/">新聞に学ぶ</a></li>
+						<li><a href="https://c.sanyonews.jp/company/sdgs.html">SDGs</a></li>
+						<li><a href="https://c.sanyonews.jp/shimbunkan.html">さん太しんぶん館</a></li>
+						<li><a href="https://c.sanyonews.jp/recruit/">採用情報</a></li>
+						<li><a href="https://c.sanyonews.jp/read/">新聞購読</a></li>
+						<li><a href="https://c.sanyonews.jp/n_d/post/">新聞投稿</a></li>
+						<li><a href="https://videoposting.sanyonews.jp/">映像投稿</a></li>
+						<li><a href="https://www.sanyonews.jp/pr/op/policy-site.html">サイトポリシー</a></li>
+						<li><a href="https://www.sanyonews.jp/pr/op/policy-wplan.html">利用規約</a></li>
+						<li><a href="https://www.sanyonews.jp/service/page/faq">よくある質問</a></li>
+						<li><a href="https://c.sanyonews.jp/company/privacy/">個人情報の取り扱い</a></li>
+						<li><a href="https://www.sanyonews.jp/service/inquiry">お問い合わせ</a></li>
+					</ul>
+				</div>
+			</div>
+			<div class="fnav_item fnav_flex">
+				<div class="fnav_col_01">
+					<div class="fnav_title">記事・写真等サービス</div>
+				</div>
+				<div class="fnav_col_02">
+					<ul class="fnav_list">
+						<li><a href="https://c.sanyonews.jp/n_d/writings.html">著作物の利用</a></li>
+						<li><a href="https://c.sanyonews.jp/n_d/goods/">記念グッズ</a></li>
+						<li><a href="https://c.sanyonews.jp/sandexplus/">Sandex+日経テレコン</a></li>
+						<li><a href="https://c.sanyonews.jp/company/info/site/sanyomo.html">携帯サイトさんよも</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<!-- //fnav -->
+	</div>
+	<!-- //footer_section_02 -->
+
+	<div class="footer_section_03">
+		<p>掲載の記事・写真及び、図版などの無断転記を禁じます。すべての著作権は山陽新聞社、共同通信社、寄稿者に帰属します。</p>
+		<div class="copyright">Copyright © The Sanyo Shimbun. All Rights Reserved.</div>
+	</div>
+	<!-- //footer_section_03 -->
+
+</div>
+<!-- //FOOTER -->
+
+
+
+
+</body>
+</html>
+

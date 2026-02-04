@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /*?ua=*
+Disallow: /en/debug
+Disallow: /fr/debug
+Disallow: /en/cravings/
+Disallow: /fr/cravings/
+Disallow: /en/profiles/
+Disallow: /fr/profiles/
+Disallow: /en/profiles
+Disallow: /fr/profiles
+Disallow: /en/settings/
+Disallow: /fr/settings/
+Disallow: /en/search/
+Disallow: /fr/search/
+Disallow: /en/some-test-page
+Disallow: /fr/some-test-page
+
+Sitemap: https://www.crave.ca/sitemap.xml
+Sitemap: https://www.crave.ca/sitemap-article.xml	

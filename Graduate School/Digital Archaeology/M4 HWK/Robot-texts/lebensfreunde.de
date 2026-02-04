@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /login/passwordlost
+Disallow: /static/
+Disallow: /j/
+Disallow: /pdf/
+Disallow: /home/
+Disallow: /payment/
+Sitemap: http://www.lebensfreunde.de/sitemap.xml

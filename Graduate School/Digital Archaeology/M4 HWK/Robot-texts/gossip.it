@@ -1,0 +1,7 @@
+Sitemap: https://www.gossip.it/sitemap_index.xml
+User-agent: *
+Allow: /
+Crawl-delay: 5
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /video/playlist/

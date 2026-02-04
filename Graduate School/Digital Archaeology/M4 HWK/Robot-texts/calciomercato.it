@@ -1,0 +1,24 @@
+User-agent: grapeshot
+Disallow:
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: *
+Disallow: /2011/
+Disallow: /2012/
+Disallow: /2013/
+Disallow: /2014/
+Disallow: /2015/
+Disallow: /2016/
+Disallow: /2017/
+Disallow: /2018/
+Disallow: /2019/
+Disallow: /2020/
+Disallow: /2021/
+Disallow: /2022/
+Disallow: /*?s=
+
+Sitemap: https://www.calciomercato.it/sitemap.xml
+Sitemap: https://www.calciomercato.it/sitemap-news.xml

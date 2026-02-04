@@ -1,0 +1,23 @@
+User-agent: *
+# Seiten, die nicht über sprechende Pfade (RealURL) aufgerufen werden
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+# Entspricht der Standard-Sprache
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+# type 98 ist meistens die Druckversion
+Disallow: /*?print=1*
+Disallow: /*&print=1*
+
+# TYPO3
+Disallow: /typo3/*
+Disallow: /typo3_src/*
+Disallow: /uploads/*
+
+# Schutz einzelner Dateien, die vor allem über .htaccess geschützt sein sollten
+Disallow: *.sql
+Disallow: *.sql.gz
+
+Sitemap: /sitemap.xml

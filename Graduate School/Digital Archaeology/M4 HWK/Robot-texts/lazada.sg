@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wow/gcp/sg/member/login-signup
+Disallow: /undefined/
+Disallow: */undefined/$
+Disallow: */undefined$

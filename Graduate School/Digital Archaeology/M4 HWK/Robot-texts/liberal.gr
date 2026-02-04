@@ -1,0 +1,10 @@
+#Alexa
+User-Agent: Alexabot
+Disallow:
+
+#All others
+User-agent: *
+
+Sitemap: https://www.liberal.gr/sitemap_news.xml
+Sitemap: https://www.liberal.gr/sitemap_index.xml
+Sitemap: https://www.liberal.gr/sitemap_index_xrimatistirio.xml

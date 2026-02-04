@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+
+#folders
+Disallow: /typo3/*
+Disallow: /typo3_src/*
+Disallow: /typo3temp/*
+Allow: /_assets/
+Allow: /typo3temp/
+Allow: /typo3temp/assets/*
+Allow: /typo3/sysext/frontend/Resources/Public/*
+
+#sistem
+Disallow: /sis/*
+Disallow: /SIS/*
+Disallow: /dev/*
+Disallow: /nc/*
+Disallow: /pesquisa/*
+Disallow: /sistema/*
+Disallow: /Private/*
+Disallow: /Configuration/*
+Disallow: /fileadmin/bsdist/*
+Disallow: /fileadmin/form_definitions/*
+Disallow: /fileadmin/load/*
+Disallow: /fileadmin/OLD/*
+Disallow: /forbidden/
+
+Disallow: /*?*
+Disallow: /*&*
+
+Disallow: *.php*
+Disallow: *.sql*
+Disallow: *print.html*
+
+Allow: /?eID*
+
+Sitemap: https://www.mackenzie.br/sitemap.xml
+Sitemap: https://www.mackenzie.br/sitemap-news.xml

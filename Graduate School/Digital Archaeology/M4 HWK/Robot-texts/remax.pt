@@ -1,0 +1,75 @@
+Sitemap: https://remax.pt/sitemap.xml
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow: /*?searchQueryState=*
+Disallow: /*?s=*
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: *
+Allow: / 
+Disallow: /static
+Disallow: /api
+Disallow: /myprofile
+Disallow: /perfil
+Disallow: /mylisting
+
+User-agent: Mediapartners-Google
+Disallow: /*?searchQueryState=*
+Disallow: /*?s=*
+
+User-agent: AdsBot-Google-Mobile
+Disallow: /*?searchQueryState=*
+Disallow: /*?s=*
+
+User-agent: Yandex 
+Disallow: / 
+
+User-agent: YandexBot 
+Disallow: / 
+
+User-agent: HaosouSpider 
+Disallow: / 
+
+User-agent: 360Spider 
+Disallow: / 
+
+User-agent: Dotbot 
+Disallow: / 
+
+User-agent: Sogou 
+Disallow: / 
+
+User-agent: MJ12bot 
+Disallow: / 
+
+User-agent: SEMrushBot 
+Disallow: / 
+
+User-agent: YisouSpider 
+Disallow: / 
+
+User-agent: SeznamBot 
+Disallow: / 
+
+User-agent: LinkdexBot 
+Disallow: / 
+
+User-agent: Steeler 
+Disallow: / 
+
+User-agent: AhrefsBot 
+Disallow: / 
+
+User-agent: Trendiction-Bot 
+Disallow: / 
+
+User-agent: Sogou+web+spider 
+Disallow: / 
+
+User-agent: Exabot 
+Disallow: /

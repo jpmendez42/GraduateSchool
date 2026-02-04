@@ -1,0 +1,13 @@
+User-agent: *
+
+Sitemap: https://realsound.jp/google_news.xml
+Sitemap: https://realsound.jp/wp-content/themes/realsound/dev/urllist/sitemap/sitemap.xml
+Sitemap: https://realsound.jp/wp-content/themes/realsound/dev/urllist/urllist_entry.php?post_type=post&page=1
+Sitemap: https://realsound.jp/wp-content/themes/realsound/dev/urllist/urllist_entry.php?post_type=movie&page=1
+Sitemap: https://realsound.jp/wp-content/themes/realsound/dev/urllist/urllist_entry.php?post_type=tech&page=1
+Sitemap: https://realsound.jp/wp-content/themes/realsound/dev/urllist/urllist_entry.php?post_type=book&page=1
+
+Disallow: /wp-admin/
+
+#User-agent: bingbot
+#Crawl-Delay: 5

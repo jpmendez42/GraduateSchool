@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /users/profiles/
+
+User-Agent: ClaudeBot
+Crawl-delay: 1
+
+Sitemap: https://ticketjam.jp/shared/sitemaps/sitemaps_main.xml.gz
+Sitemap: https://ticketjam.jp/shared/sitemaps/sitemaps_categories.xml.gz
+Sitemap: https://ticketjam.jp/shared/sitemaps/sitemaps_event_groups.xml.gz
+Sitemap: https://ticketjam.jp/shared/sitemaps/sitemaps_events.xml.gz
+Sitemap: https://ticketjam.jp/shared/sitemaps/sitemaps_category_prefectures.xml.gz
+Sitemap: https://ticketjam.jp/shared/sitemaps/sitemaps_prefectures.xml.gz

@@ -1,0 +1,8 @@
+User-agent: wget
+Disallow:
+
+User-agent: linkchecker
+Disallow:
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /feed/
+Disallow: /*s=*
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.okmag.gr/sitemap_index.xml
+Sitemap: https://www.okmag.gr/news-sitemap

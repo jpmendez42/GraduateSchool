@@ -1,0 +1,39 @@
+User-Agent: *
+Disallow: /wp-admin
+Disallow: /wp-json/
+Disallow: /xmlrpc.php
+Disallow: /readme.html
+Disallow: /de/*
+Disallow: /pt/*
+Disallow: /it/*
+Disallow: /fr/*
+Disallow: /es/*
+Disallow: /ca/*
+Disallow: /en/*
+Disallow: /zh-TW/*
+Disallow: /ta/*
+Disallow: /*/vinskiawd
+Disallow: /*/vinskiy_awd
+Disallow: /*/feed*
+Disallow: /*/?filter_by=review_high?filter_by=review_high*
+Disallow: /*/?filter_by=popular7filter_bypopular7
+Disallow: /*/?filter_by=popularfilter_bypopular
+Disallow: /*.htm
+Disallow: /archive
+Disallow: */trackback/
+Disallow: */feed/
+Disallow: */comments/
+Disallow: /?feed=
+Disallow: /?s=
+
+Allow: /*.css
+Allow: /*.js
+Sitemap: https://awd.is/sitemap_index.xml
+
+User-agent: Yandex
+Disallow:
+Clean-param: filter_by
+Clean-param: noamp
+Clean-param: attempt
+Host: https://awd.is
+Sitemap: https://awd.is/sitemap_index.xml

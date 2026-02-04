@@ -1,0 +1,32 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Allow: /
+Allow: /profil/amon/
+Allow: /profil/anonymus/
+Allow: /profil/balkausky/
+Allow: /profil/gesa/
+Allow: /profil/holger-kueppers/
+Allow: /profil/melanie/
+Allow: /profil/jonathan/
+Allow: /profil/ruediger-fischer/
+Allow: /profil/sophia/
+Allow: /profil/tabea-bringewatt/
+Allow: /profil/wonderword/
+Allow: /profil/marco-polo/
+Allow: /profil/derkritische/
+
+
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /*?order=*
+Disallow: /*?listing-block_*-page=*
+Disallow: /bestenliste/
+Disallow: /online-quiz/*/bestenliste/
+Disallow: /online-quiz/*/punkte/
+Disallow: /profil/
+Disallow: /quiz-training/aktiv/
+
+Sitemap: https://quizworld.de/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

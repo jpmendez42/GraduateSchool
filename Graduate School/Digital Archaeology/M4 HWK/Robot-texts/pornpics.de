@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /?x=
+Disallow: /go/
+Disallow: /to/
+Disallow: /fs/
+Allow: /api/user/is_logged
+Disallow: /random/
+Disallow: /getchank2.php
+Disallow: /get.php
+Disallow: /pornpicsm.shtml
+Disallow: /pornpics.shtml
+Disallow: /pp-videos-m.html
+Disallow: /pp-videos.html
+Disallow: /a/
+Disallow: /galleries/logo/?site
+Disallow: /out/*
+Disallow: /sponsors.php?ps=*
+Disallow: /getnext.php?type=*
+Disallow: /webcams/
+Disallow: /webcams/viewed/
+Disallow: /additional_thumbs*
+Disallow: /advertise*
+Disallow: /api/votes/
+Sitemap: https://www.pornpics.com/sitemapindex.xml
+

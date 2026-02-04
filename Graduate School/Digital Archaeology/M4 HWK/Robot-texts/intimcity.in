@@ -1,0 +1,45 @@
+User-agent: Yandex
+Disallow: /admin*
+Disallow: /user*
+Disallow: /srch*
+Disallow: /district*
+Disallow: /chat*
+Disallow: /ankets*
+Disallow: /*pgnum*
+Disallow: /*page*
+Disallow: /*search*
+Disallow: /compare*
+Disallow: /rules.htm
+Disallow: /*print.htm
+Disallow: /metrosearch
+Disallow: /rayonsearch
+Disallow: /karta
+Disallow: /poisk
+Disallow: /Includes/saveimg.php
+Clean-param: f
+Clean-param: from
+Clean-param: superstarsmirror
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: *
+Disallow: *user_userinfo.php
+Disallow: /admin_ankets.php
+Disallow: /admin.php
+Disallow: /user.php
+Disallow: /srch1/
+Disallow: /srch2/
+Disallow: /srch3/
+Disallow: /srch4/
+Disallow: /srch5/
+Disallow: /srch6/
+Disallow: /rules.htm
+Disallow: /*print.htm
+Disallow: /metrosearch
+Disallow: /rayonsearch
+Disallow: /karta
+Disallow: /poisk
+Disallow: /Includes/saveimg.php
+
+Host: https://m.intimcity.guru

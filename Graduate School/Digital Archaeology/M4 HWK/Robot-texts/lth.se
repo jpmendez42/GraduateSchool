@@ -1,0 +1,15 @@
+#
+# ROBOTS.TXT FOR SITE: LTH
+#
+User-agent: *
+Disallow: /images/
+Disallow: /css/
+Disallow: /template/
+Disallow: /typo3/
+Disallow: /include/
+Disallow: /_secure/
+Disallow: /404/
+Disallow: /uploads/
+Disallow: /demo/
+Disallow: /typo3lth-demo/
+Disallow: /typo3testSite/

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-login.php
+
+Sitemap: https://lisari.gr/page-sitemap.xml
+Sitemap: https://lisari.gr/post-sitemap.xml
+Sitemap: https://lisari.gr/sfwd-courses-sitemap.xml
+Sitemap: https://lisari.gr/?custom_topic_sitemap=1
+Sitemap: https://lisari.gr/?custom_ebooks_sitemap=1
+Sitemap: https://lisari.gr/?custom_section_sitemap=1

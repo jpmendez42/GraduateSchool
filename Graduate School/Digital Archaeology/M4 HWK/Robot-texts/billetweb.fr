@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /invoice.php
+Disallow: /download.php
+Disallow: /passbook.php
+Disallow: /my_order.php
+Disallow: /files/*.xls
+Disallow: /files/*.xlsx
+Disallow: /images/front/features/*
+Disallow: /images/front/logo/*
+Disallow: /api/*
+Sitemap: https://www.billetweb.fr/files/sitemap.xml
+Sitemap: https://www.billetweb.fr/sitemap.xml

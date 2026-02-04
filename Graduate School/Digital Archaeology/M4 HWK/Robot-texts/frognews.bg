@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /send.php
+Disallow: /print.php
+Disallow: /glasat-na-jabata/frog-satira/
+
+Sitemap: https://frognews.bg/sitemap/sitemap.xml

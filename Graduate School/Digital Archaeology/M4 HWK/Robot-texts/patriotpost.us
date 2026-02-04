@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: */listen
+Disallow: /digests/
+Disallow: /subscription/
+Allow: /subscription/new
+
+User-agent: Googlebot-Image
+Disallow: /
+
+User-agent: msnbot-media
+Disallow: /

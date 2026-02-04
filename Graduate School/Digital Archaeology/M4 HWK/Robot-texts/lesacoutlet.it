@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /staging/
+Disallow: /staging_old/
+Disallow: /generator/
+Disallow: /*pprt.php*
+Sitemap: https://www.lesacoutlet.it/sitemap.xml
+Sitemap: https://www.lesacoutlet.it/sitemap_images.xml

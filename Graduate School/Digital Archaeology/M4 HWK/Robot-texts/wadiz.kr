@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /
+
+User-agent: Mediapartners-Google
+User-agent: Googlebot
+User-agent: Googlebot-image
+User-agent: NaverBot
+User-agent: Yeti
+User-agent: Daumoa
+User-agent: Twitterbot
+User-agent: facebookexternalhit
+Allow: /
+Crawl-delay: 1
+
+Sitemap: https://www.wadiz.kr/sitemap.xml

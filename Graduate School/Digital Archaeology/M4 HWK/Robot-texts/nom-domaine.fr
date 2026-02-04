@@ -1,0 +1,7 @@
+User-agent:	*
+
+Disallow: /verifier-domaine.html?search=*
+Disallow: /verifier-domaine.html?extraTld=*
+Disallow: /whois.html?dom=*
+
+Sitemap: https://nom-domaine.fr/sitemap.xml

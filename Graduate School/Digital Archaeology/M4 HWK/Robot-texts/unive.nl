@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /404
+Disallow: /500
+Disallow: /cookies
+Disallow: /zoeken
+Disallow: /page/
+Disallow: /*/_index_$
+Disallow: /rb_*
+Disallow: /*?kenteken=*
+
+Sitemap: https://www.unive.nl/sitemap-index.xml
+Sitemap: https://www.unive.nl/zakelijk/sitemap-index.xml
+Sitemap: https://www.unive.nl/zakelijk/boeren-van-morgen/sitemap-index.xml
+Sitemap: https://www.unive.nl/dichtbij/sitemap-index.xml
+Sitemap: https://www.unive.nl/noordholland/sitemap-index.xml
+Sitemap: https://www.unive.nl/noordnederland/sitemap-index.xml
+Sitemap: https://www.unive.nl/het-groene-hart/sitemap-index.xml
+Sitemap: https://www.unive.nl/voordeel-van-samen/sitemap-index.xml
+Sitemap: https://www.unive.nl/oost/sitemap-index.xml
+Sitemap: https://www.unive.nl/samen/sitemap-index.xml
+Sitemap: https://www.unive.nl/stad-en-land/sitemap-index.xml
+Sitemap: https://www.unive.nl/zuidnederland/sitemap-index.xml
+Sitemap: https://www.unive.nl/klantenservice/sitemap-index.xml
+Sitemap: https://www.unive.nl/over-unive/sitemap-index.xml
+Sitemap: https://www.unive.nl/onze-verhalen/sitemap-index.xml

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /*service=
+Allow: /*service=feed&media=google
+Disallow: /Article.asp?ArticleID=
+Disallow: /artAsXml
+Disallow: /Search
+Disallow: /search
+Disallow: /fx/*
+Disallow: /login
+Disallow: /logout
+Disallow: /profile
+Disallow: /gateway
+Disallow: /*?token=*
+Disallow: /5374/*
+Sitemap:  https://www.klikk.no/sitemapindex

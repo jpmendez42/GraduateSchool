@@ -1,0 +1,7 @@
+User-agent: Bingbot
+Disallow: /
+User-agent: *
+Allow: /
+sitemap: https://yamol.tw/sitemap/sitemap.xml
+
+

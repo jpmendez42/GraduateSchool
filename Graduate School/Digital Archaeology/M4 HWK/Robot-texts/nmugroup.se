@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: https://munin.nmugroup.com/
+Disallow: https://list.nmugroup.com/listinfo
+Disallow: http://glom.nmugroup.com/
+Disallow: https://mail.nmugroup.com/
+Disallow: https://munin.nmugroup.com/static/dynazoom.html?cgiurl_graph=/munin-cgi/munin-cgi-graph&plugin_name=nmugroup.se/indra.nmugroup.se/diskstats_latency/indra_vg_drbd_web&size_x=800&size_y=400&start_epoch=1661444273&stop_epoch=1696004273
+Disallow: https://glom.nmugroup.com/manual/fr/programs/index.html
+Disallow: https://munin.nmugroup.com/static/dynazoom.html?cgiurl_graph=/munin-cgi/munin-cgi-graph&plugin_name=nmugroup.se/indra.nmugroup.se/diskstats_latency/indra_vg_drbd_web&size_x=800&size_y=400&start_epoch=1695520301&stop_epoch=1695628301
+Disallow: https://munin.nmugroup.com/static/dynazoom.html?cgiurl_graph=/munin-cgi/munin-cgi-graph&plugin_name=nmugroup.se/mesh.nmugroup.se/diskstats_utilization/sdb&size_x=800&size_y=400&start_epoch=1695824522&stop_epoch=1695932522
+Disallow: https://glom.nmugroup.com/manual/fr/programs/suexec.html
+Disallow: https://glom.nmugroup.com/manual/fr/programs/apxs.html
+Disallow: https://glom.nmugroup.com/manual/fr/mod/mod_ssl.html
+Disallow: https://glom.nmugroup.com/manual/fr/programs/htpasswd.html
+Disallow: https://mail.nmugroup.com/manual/fr/mod/module-dict.html
+Disallow: https://munin.nmugroup.com/static/dynazoom.html?cgiurl_graph=/munin-cgi/munin-cgi-graph&plugin_name=nmugroup.se/indra.nmugroup.se/diskstats_latency/indra_vg_drbd_web&size_x=800&size_y=400&start_epoch=1661068301&stop_epoch=1695628301
+Disallow: https://glom.nmugroup.com/manual/fr/mod/mod_authn_dbm.html
+Disallow: https://glom.nmugroup.com/manual/fr/expr.html
+Disallow: https://mail.nmugroup.com/login?next=/auto/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.nmugroup.com/sitemap_index.xml

@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /install/
+Disallow: /manager/
+Disallow: /stat/
+Disallow: /intdocs/
+Disallow: /?
+Disallow: /*?
+Disallow: /index.php
+Host: https://metromax.ru
+Sitemap: https://metromax.ru/sitemap.xml

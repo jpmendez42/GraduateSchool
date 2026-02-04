@@ -1,0 +1,13 @@
+# robots.txt
+User-agent: *
+Disallow: /abi99/
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: Ocelli
+Disallow: /
+
+User-agent: Seekbot
+Disallow: /
+

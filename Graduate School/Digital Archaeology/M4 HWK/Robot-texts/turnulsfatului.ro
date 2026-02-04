@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: */?utm_source*
+Disallow: *&utm_medium*
+Disallow: */?utm_medium*
+
+Disallow: /*,*
+Allow: /*?&*
+Disallow: /*&*
+Disallow: /*)*
+
+Allow: /
+
+Sitemap: https://www.turnulsfatului.ro/sitemap.xml

@@ -1,0 +1,27 @@
+Sitemap: https://www.locservice.fr/sitemap.xml
+Sitemap: https://www.locservice.fr/sitemap_video.xml
+#
+User-agent: *
+Disallow: /presse/
+Disallow: /modules/
+Disallow: /locataires/consulter/
+Disallow: /services/
+Disallow: /affiliations/
+Disallow: /residences-etudiantes/ij_event.php
+Disallow: /selections-*
+Disallow: /locataires/match-*
+Disallow: /proprietaires/locations/
+Disallow: /_kml/
+Disallow: /newsletters/
+#
+User-agent: TurnitinBot
+Disallow: /
+#
+User-agent: ConveraCrawler
+Disallow: /
+#
+User-agent: QuepasaCreep
+Disallow: /
+#
+User-agent: Jetbot
+Disallow: /

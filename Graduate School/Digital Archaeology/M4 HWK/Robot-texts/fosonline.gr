@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://www.fosonline.gr/sitemap/articles
+Sitemap: https://www.fosonline.gr/sitemap/pages
+Sitemap: https://www.fosonline.gr/sitemap/tags
+Sitemap: https://www.fosonline.gr/news-articles

@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: /users/
+Allow: /users/regist
+Allow: /users/login
+Disallow: /reviews/add/
+Disallow: /doctors/
+Disallow: /qa/question
+Disallow: /qa/answer/
+Disallow: /points/
+Disallow: /hospitals/history
+Disallow: /reports/add
+Disallow: /6873731/
+Disallow: /apis/
+Disallow: /tracks/
+
+User-agent: bingbot
+Crawl-Delay: 1
+
+User-agent: CriteoBot
+Crawl-Delay: 5
+
+User-agent: ClaudeBot
+Crawl-delay: 5
+
+User-Agent: ImagesiftBot
+Crawl-delay: 5
+
+User-agent: AhrefsBot
+Crawl-Delay: 60
+
+User-agent: SemrushBot
+Crawl-Delay: 60
+
+User-agent: MJ12bot
+Crawl-Delay: 60
+
+User-agent: Sosospider
+Disallow: /
+
+Sitemap: https://caloo.jp/sitefeeds/allhospitals
+Sitemap: https://caloo.jp/sitefeeds/updatehospitals
+Sitemap: https://caloo.jp/sitefeeds/allhospitalreviews
+Sitemap: https://caloo.jp/sitefeeds/hospitalsearch_area_kamok
+Sitemap: https://caloo.jp/sitefeeds/hospitalsearch_station_kamok
+Sitemap: https://caloo.jp/sitefeeds/hospitalsearch_area_disease
+Sitemap: https://caloo.jp/sitefeeds/hospitalsearch_station_by_disease_id

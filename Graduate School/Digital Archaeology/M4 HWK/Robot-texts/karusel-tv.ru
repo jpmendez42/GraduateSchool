@@ -1,0 +1,29 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+# https://webmaster.yandex.ru/tools/robotstxt/
+
+User-agent: *
+Disallow: /f/index.php
+Disallow: *?s=n
+Disallow: *&s=n
+Disallow: *?l=b
+Disallow: *&l=b
+Disallow: *?start=
+Disallow: *&start=
+Disallow: *cnt=
+Disallow: *sent_comment=ok
+Disallow: *?page=1&
+Disallow: *&page=1&
+Disallow: *?page=1$
+Disallow: *&page=1$
+Disallow: *group=karusel
+Disallow: *foolsday=1
+Disallow: *position=after
+Disallow: *method=ajax
+Disallow: *sms_ss=vk
+Disallow: /page/documents
+Disallow: /football2024/video-series
+Disallow: *?show_battle=
+
+Host: https://www.karusel-tv.ru
+Sitemap: https://www.karusel-tv.ru/sitemap.xml.gz

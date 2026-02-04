@@ -1,0 +1,27 @@
+User-agent: *
+
+Disallow: /busqueda
+Disallow: /buscador
+Disallow: /buscador/
+Disallow: /_widget/operations
+Disallow: /cms/
+Disallow: /_preview
+Disallow: /authenticate
+Disallow: /authenticate/
+Disallow: /encuentro-expansion?
+Disallow: /intermx-expansion-summit-2022?
+Disallow: /conversaciones?
+Disallow: /intermx-expansion-summit
+
+User-agent: bingbot
+Disallow: /busqueda
+Disallow: /buscador
+Disallow: /buscador/
+
+User-agent: FlipboardProxy
+Allow: /
+
+Sitemap: https://expansion.mx/news-sitemap.xml
+Sitemap: https://politica.expansion.mx/news-sitemap.xml
+Sitemap: https://obras.expansion.mx/news-sitemap.xml
+Sitemap: https://lifeandstyle.expansion.mx/news-sitemap.xml

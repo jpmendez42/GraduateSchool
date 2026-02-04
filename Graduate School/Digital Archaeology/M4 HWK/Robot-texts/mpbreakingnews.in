@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+#Sitemaps
+Sitemap: https://mpbreakingnews.in/sitemap_index.xml
+Sitemap: https://mpbreakingnews.in/marathi/sitemap_index.xml

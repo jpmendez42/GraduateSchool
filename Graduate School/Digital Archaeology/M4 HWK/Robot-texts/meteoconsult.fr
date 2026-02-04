@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /recherche-previsions-meteo
+Disallow: /achats/*
+Disallow: /ajax/*
+Disallow: /payments/*
+Disallow: /vignette/*
+Disallow: /monitoring/*
+Disallow: */print$
+Disallow: */pdf$
+Disallow: */pdf-15$
+Disallow: */pdf-pro$

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /release/
+Disallow: /test/
+Disallow: /preview/
+Disallow: */article_list.html?page=2
+Disallow: */archive/
+Sitemap: https://mantan-web.jp/sitemap.xml
+Sitemap: https://mantan-web.jp/sitemap_index.xml
+
+

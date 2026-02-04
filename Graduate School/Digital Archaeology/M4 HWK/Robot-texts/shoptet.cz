@@ -1,0 +1,83 @@
+User-agent: *
+Disallow: /export/
+Disallow: /admin/
+Disallow: /script/
+Disallow: /api/
+Disallow: /action/
+Disallow: /*?priceMax
+Disallow: /*?priceMin
+Disallow: /*?parameterId
+Disallow: /*?order
+Disallow: /*?availabilityId
+Disallow: /*?manufacturerId
+Disallow: /*?stock
+Disallow: /*?pv*=*,
+Disallow: /*&pv*=*,
+Disallow: /*?pv*=*&pv*=
+Disallow: /*&pv*=*&pv*=
+Disallow: /*:*,*/
+Disallow: /*/?backTo=
+Disallow: /*?dd=*,
+Disallow: /*&dd=*,
+Disallow: /*?dd=*&pv*=
+Disallow: /*?pv*=*&dd=
+Disallow: /*/?letter=*
+Disallow: /vyhledavani/
+Disallow: /kosik/
+Disallow: /login/
+Disallow: /registrace/
+Disallow: /klient/zapomenute-heslo/
+Disallow: /affiliate-registrace/
+Disallow: /affiliate-zapomenute-heslo/
+Disallow: /uzivatel/
+Disallow: /affiliate/accounts/
+Disallow: /affiliate/scripts/
+
+Disallow: /*:diskuse
+Disallow: /*:dotaz
+Disallow: /*:hlidat-cenu
+Disallow: /*:klient-hodnoceni
+Disallow: /*:moznosti-dopravy
+Disallow: /*:wysiwyg
+
+Disallow: /projectAction/
+
+Disallow: /vyhladavanie/
+Disallow: /kosik/
+Disallow: /login/
+Disallow: /registracia/
+Disallow: /klient/zabudnute-heslo/
+Disallow: /affiliate-registracia/
+Disallow: /affiliate-zabudnute-heslo/
+Disallow: /klient/
+
+Disallow: /*:diskusia
+Disallow: /*:klient-hodnotenie
+Disallow: /*:moznosti-dorucenia
+Disallow: /*:otazka
+Disallow: /*:strazit-cenu
+Disallow: /*:wysiwyg
+
+Disallow: /nase-novinky/
+Disallow: /registracia-dokoncena/
+Disallow: /zaplatit-fakturu/
+
+Disallow: /expiroval/
+Disallow: /expiroval-smazan/
+Disallow: /expiroval-v-ochranne-lhute/
+Disallow: /nespusten/
+Disallow: /ukoncen/
+Disallow: /smazan/
+Disallow: /seznam-eshopu/
+
+Disallow: /expiroval-zmazany/
+Disallow: /expiroval-v-ochrannej-lehote/
+Disallow: /nespusteny/
+Disallow: /ukonceny/
+Disallow: /ukonceny-v-ochrannej-lehote/
+Disallow: /zmazany/
+Disallow: /zoznam-eshopov/
+
+Disallow: /captcha/
+
+Sitemap: https://www.shoptet.cz/sitemap.xml

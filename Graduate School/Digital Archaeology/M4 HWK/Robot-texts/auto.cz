@@ -1,0 +1,26 @@
+Sitemap: https://www.auto.cz/sitemap.xml
+Sitemap: https://www.auto.cz/sitemap-image.xml
+Sitemap: https://www.auto.cz/sitemap-videoarticle.xml
+Sitemap: https://www.auto.cz/sitemap-news.xml
+Sitemap: https://www.auto.cz/sitemap-sections.xml
+
+User-agent: *
+Disallow: /vyhledavani
+Disallow: /videoConfig/*
+Disallow: /captcha/*
+Disallow: /*?*nocache*
+Disallow: /*?*nocat*
+Disallow: /*?*__log*
+Disallow: /*?*mver*
+Disallow: /*.js*
+Disallow: /version.txt
+Disallow: /*?*recombee_recomm_id*
+Disallow: /app_export/*
+Disallow: /export/*
+Disallow: /*recombeePatternCategoryUrl*
+Disallow: /*?*page=
+Disallow: /objednat?*
+Disallow: /*?*success_return_url*
+Disallow: /prihlaseni
+Disallow: /*array*
+Disallow: /*?amp=1

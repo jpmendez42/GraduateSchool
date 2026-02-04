@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /xmlrpc.php
+Disallow: *?s*
+Disallow: /search
+Disallow: */trackback/
+Disallow: */feed
+Disallow: */attachment/*
+Disallow: */wp-json/*
+Disallow: */goto/*
+Host: https://vulkanvegas100.pl
+Sitemap: https://vulkanvegas100.pl/sitemap.xml

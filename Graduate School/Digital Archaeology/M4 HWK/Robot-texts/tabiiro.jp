@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /magazine/*/
+Disallow: /magazine/indivi.html
+Disallow: /magazine/indivi_g.html
+Disallow: /magazine/kobetsubook.html
+Disallow: /magazine/list.html
+Disallow: /magazine/list3.html
+Disallow: /kaiin/
+Disallow: /nbbkaiin/
+Disallow: /client_gourmet/facebook/
+Disallow: /gourmet_typesquaretest/
+Disallow: /api/
+Disallow: /book/areaguide/*/
+Disallow: /book/yado/*/
+Disallow: /book/gourmet/*/
+Disallow: /book/otoriyose/*/
+Disallow: /sp/book/areaguide/*/
+Disallow: /sp/book/gourmet/*/
+Disallow: /sp/book/yado/*/
+Disallow: /sp/book/otoriyose/*/
+Disallow: /plan/ssi/*
+Disallow: /test/
+Disallow: /otoriyose/monitor/api/*
+Disallow: /shiryo/
+
+Allow: /
+Allow: /magazine/
+Allow: /magazine
+
+Sitemap : https://tabiiro.jp/sitemap.xml

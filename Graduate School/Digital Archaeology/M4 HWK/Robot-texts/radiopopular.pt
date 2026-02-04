@@ -1,0 +1,7 @@
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: * 
+Allow: /files/sitemaps/
+
+Sitemap: https://lojae-s3-prd-files.radiopopular.pt/files/sitemaps/sitemap.xml

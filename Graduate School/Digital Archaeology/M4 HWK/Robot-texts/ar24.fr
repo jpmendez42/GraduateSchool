@@ -1,0 +1,1566 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>
+<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="fr" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 7]>
+<html class="no-js ie7 lt-ie9 lt-ie8" lang="fr" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js ie8 lt-ie9" lang="fr" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if IE 9]>
+<html class="no-js ie9" lang="fr" prefix="og: http://ogp.me/ns#"> <![endif]-->
+<!--[if gt IE 9]><!-->
+<html class="no-js" lang="fr" prefix="og: http://ogp.me/ns#"><!--<![endif]-->
+<head><meta charset="utf-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>(()=>{class RocketLazyLoadScripts{constructor(){this.v="2.0.4",this.userEvents=["keydown","keyup","mousedown","mouseup","mousemove","mouseover","mouseout","touchmove","touchstart","touchend","touchcancel","wheel","click","dblclick","input"],this.attributeEvents=["onblur","onclick","oncontextmenu","ondblclick","onfocus","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onscroll","onsubmit"]}async t(){this.i(),this.o(),/iP(ad|hone)/.test(navigator.userAgent)&&this.h(),this.u(),this.l(this),this.m(),this.k(this),this.p(this),this._(),await Promise.all([this.R(),this.L()]),this.lastBreath=Date.now(),this.S(this),this.P(),this.D(),this.O(),this.M(),await this.C(this.delayedScripts.normal),await this.C(this.delayedScripts.defer),await this.C(this.delayedScripts.async),await this.T(),await this.F(),await this.j(),await this.A(),window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this.everythingLoaded=!0,this.lastTouchEnd&&await new Promise(t=>setTimeout(t,500-Date.now()+this.lastTouchEnd)),this.I(),this.H(),this.U(),this.W()}i(){this.CSPIssue=sessionStorage.getItem("rocketCSPIssue"),document.addEventListener("securitypolicyviolation",t=>{this.CSPIssue||"script-src-elem"!==t.violatedDirective||"data"!==t.blockedURI||(this.CSPIssue=!0,sessionStorage.setItem("rocketCSPIssue",!0))},{isRocket:!0})}o(){window.addEventListener("pageshow",t=>{this.persisted=t.persisted,this.realWindowLoadedFired=!0},{isRocket:!0}),window.addEventListener("pagehide",()=>{this.onFirstUserAction=null},{isRocket:!0})}h(){let t;function e(e){t=e}window.addEventListener("touchstart",e,{isRocket:!0}),window.addEventListener("touchend",function i(o){o.changedTouches[0]&&t.changedTouches[0]&&Math.abs(o.changedTouches[0].pageX-t.changedTouches[0].pageX)<10&&Math.abs(o.changedTouches[0].pageY-t.changedTouches[0].pageY)<10&&o.timeStamp-t.timeStamp<200&&(window.removeEventListener("touchstart",e,{isRocket:!0}),window.removeEventListener("touchend",i,{isRocket:!0}),"INPUT"===o.target.tagName&&"text"===o.target.type||(o.target.dispatchEvent(new TouchEvent("touchend",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new MouseEvent("mouseover",{target:o.target,bubbles:!0})),o.target.dispatchEvent(new PointerEvent("click",{target:o.target,bubbles:!0,cancelable:!0,detail:1,clientX:o.changedTouches[0].clientX,clientY:o.changedTouches[0].clientY})),event.preventDefault()))},{isRocket:!0})}q(t){this.userActionTriggered||("mousemove"!==t.type||this.firstMousemoveIgnored?"keyup"===t.type||"mouseover"===t.type||"mouseout"===t.type||(this.userActionTriggered=!0,this.onFirstUserAction&&this.onFirstUserAction()):this.firstMousemoveIgnored=!0),"click"===t.type&&t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),"touchstart"===this.lastEvent&&"touchend"===t.type&&(this.lastTouchEnd=Date.now()),"click"===t.type&&(this.lastTouchEnd=0),this.lastEvent=t.type,t.composedPath&&t.composedPath()[0].getRootNode()instanceof ShadowRoot&&(t.rocketTarget=t.composedPath()[0]),this.savedUserEvents.push(t)}u(){this.savedUserEvents=[],this.userEventHandler=this.q.bind(this),this.userEvents.forEach(t=>window.addEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.addEventListener("visibilitychange",this.userEventHandler,{isRocket:!0})}U(){this.userEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!1,isRocket:!0})),document.removeEventListener("visibilitychange",this.userEventHandler,{isRocket:!0}),this.savedUserEvents.forEach(t=>{(t.rocketTarget||t.target).dispatchEvent(new window[t.constructor.name](t.type,t))})}m(){const t="return false",e=Array.from(this.attributeEvents,t=>"data-rocket-"+t),i="["+this.attributeEvents.join("],[")+"]",o="[data-rocket-"+this.attributeEvents.join("],[data-rocket-")+"]",s=(e,i,o)=>{o&&o!==t&&(e.setAttribute("data-rocket-"+i,o),e["rocket"+i]=new Function("event",o),e.setAttribute(i,t))};new MutationObserver(t=>{for(const n of t)"attributes"===n.type&&(n.attributeName.startsWith("data-rocket-")||this.everythingLoaded?n.attributeName.startsWith("data-rocket-")&&this.everythingLoaded&&this.N(n.target,n.attributeName.substring(12)):s(n.target,n.attributeName,n.target.getAttribute(n.attributeName))),"childList"===n.type&&n.addedNodes.forEach(t=>{if(t.nodeType===Node.ELEMENT_NODE)if(this.everythingLoaded)for(const i of[t,...t.querySelectorAll(o)])for(const t of i.getAttributeNames())e.includes(t)&&this.N(i,t.substring(12));else for(const e of[t,...t.querySelectorAll(i)])for(const t of e.getAttributeNames())this.attributeEvents.includes(t)&&s(e,t,e.getAttribute(t))})}).observe(document,{subtree:!0,childList:!0,attributeFilter:[...this.attributeEvents,...e]})}I(){this.attributeEvents.forEach(t=>{document.querySelectorAll("[data-rocket-"+t+"]").forEach(e=>{this.N(e,t)})})}N(t,e){const i=t.getAttribute("data-rocket-"+e);i&&(t.setAttribute(e,i),t.removeAttribute("data-rocket-"+e))}k(t){Object.defineProperty(HTMLElement.prototype,"onclick",{get(){return this.rocketonclick||null},set(e){this.rocketonclick=e,this.setAttribute(t.everythingLoaded?"onclick":"data-rocket-onclick","this.rocketonclick(event)")}})}S(t){function e(e,i){let o=e[i];e[i]=null,Object.defineProperty(e,i,{get:()=>o,set(s){t.everythingLoaded?o=s:e["rocket"+i]=o=s}})}e(document,"onreadystatechange"),e(window,"onload"),e(window,"onpageshow");try{Object.defineProperty(document,"readyState",{get:()=>t.rocketReadyState,set(e){t.rocketReadyState=e},configurable:!0}),document.readyState="loading"}catch(t){console.log("WPRocket DJE readyState conflict, bypassing")}}l(t){this.originalAddEventListener=EventTarget.prototype.addEventListener,this.originalRemoveEventListener=EventTarget.prototype.removeEventListener,this.savedEventListeners=[],EventTarget.prototype.addEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalAddEventListener.call(this,e,i,o):(t.savedEventListeners.push({target:this,remove:!1,type:e,func:i,options:o}),"mouseenter"!==e&&"mouseleave"!==e||t.originalAddEventListener.call(this,e,t.savedUserEvents.push,o))},EventTarget.prototype.removeEventListener=function(e,i,o){o&&o.isRocket||!t.B(e,this)&&!t.userEvents.includes(e)||t.B(e,this)&&!t.userActionTriggered||e.startsWith("rocket-")||t.everythingLoaded?t.originalRemoveEventListener.call(this,e,i,o):t.savedEventListeners.push({target:this,remove:!0,type:e,func:i,options:o})}}J(t,e){this.savedEventListeners=this.savedEventListeners.filter(i=>{let o=i.type,s=i.target||window;return e!==o||t!==s||(this.B(o,s)&&(i.type="rocket-"+o),this.$(i),!1)})}H(){EventTarget.prototype.addEventListener=this.originalAddEventListener,EventTarget.prototype.removeEventListener=this.originalRemoveEventListener,this.savedEventListeners.forEach(t=>this.$(t))}$(t){t.remove?this.originalRemoveEventListener.call(t.target,t.type,t.func,t.options):this.originalAddEventListener.call(t.target,t.type,t.func,t.options)}p(t){let e;function i(e){return t.everythingLoaded?e:e.split(" ").map(t=>"load"===t||t.startsWith("load.")?"rocket-jquery-load":t).join(" ")}function o(o){function s(e){const s=o.fn[e];o.fn[e]=o.fn.init.prototype[e]=function(){return this[0]===window&&t.userActionTriggered&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=i(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{const e=arguments[0][t];delete arguments[0][t],arguments[0][i(t)]=e})),s.apply(this,arguments),this}}if(o&&o.fn&&!t.allJQueries.includes(o)){const e={DOMContentLoaded:[],"rocket-DOMContentLoaded":[]};for(const t in e)document.addEventListener(t,()=>{e[t].forEach(t=>t())},{isRocket:!0});o.fn.ready=o.fn.init.prototype.ready=function(i){function s(){parseInt(o.fn.jquery)>2?setTimeout(()=>i.bind(document)(o)):i.bind(document)(o)}return"function"==typeof i&&(t.realDomReadyFired?!t.userActionTriggered||t.fauxDomReadyFired?s():e["rocket-DOMContentLoaded"].push(s):e.DOMContentLoaded.push(s)),o([])},s("on"),s("one"),s("off"),t.allJQueries.push(o)}e=o}t.allJQueries=[],o(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){o(t)}})}P(){const t=new Map;document.write=document.writeln=function(e){const i=document.currentScript,o=document.createRange(),s=i.parentElement;let n=t.get(i);void 0===n&&(n=i.nextSibling,t.set(i,n));const c=document.createDocumentFragment();o.setStart(c,0),c.appendChild(o.createContextualFragment(e)),s.insertBefore(c,n)}}async R(){return new Promise(t=>{this.userActionTriggered?t():this.onFirstUserAction=t})}async L(){return new Promise(t=>{document.addEventListener("DOMContentLoaded",()=>{this.realDomReadyFired=!0,t()},{isRocket:!0})})}async j(){return this.realWindowLoadedFired?Promise.resolve():new Promise(t=>{window.addEventListener("load",t,{isRocket:!0})})}M(){this.pendingScripts=[];this.scriptsMutationObserver=new MutationObserver(t=>{for(const e of t)e.addedNodes.forEach(t=>{"SCRIPT"!==t.tagName||t.noModule||t.isWPRocket||this.pendingScripts.push({script:t,promise:new Promise(e=>{const i=()=>{const i=this.pendingScripts.findIndex(e=>e.script===t);i>=0&&this.pendingScripts.splice(i,1),e()};t.addEventListener("load",i,{isRocket:!0}),t.addEventListener("error",i,{isRocket:!0}),setTimeout(i,1e3)})})})}),this.scriptsMutationObserver.observe(document,{childList:!0,subtree:!0})}async F(){await this.X(),this.pendingScripts.length?(await this.pendingScripts[0].promise,await this.F()):this.scriptsMutationObserver.disconnect()}D(){this.delayedScripts={normal:[],async:[],defer:[]},document.querySelectorAll("script[type$=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _(){await this.L();let t=[];document.querySelectorAll("script[type$=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let i=e.getAttribute("data-rocket-src");if(i&&!i.startsWith("data:")){i.startsWith("//")&&(i=location.protocol+i);try{const o=new URL(i).origin;o!==location.origin&&t.push({src:o,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(t){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this.Y(t,"preconnect")}async G(t){if(await this.K(),!0!==t.noModule||!("noModule"in HTMLScriptElement.prototype))return new Promise(e=>{let i;function o(){(i||t).setAttribute("data-rocket-status","executed"),e()}try{if(navigator.userAgent.includes("Firefox/")||""===navigator.vendor||this.CSPIssue)i=document.createElement("script"),[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),i.setAttribute(e,t.nodeValue))}),t.text&&(i.text=t.text),t.nonce&&(i.nonce=t.nonce),i.hasAttribute("src")?(i.addEventListener("load",o,{isRocket:!0}),i.addEventListener("error",()=>{i.setAttribute("data-rocket-status","failed-network"),e()},{isRocket:!0}),setTimeout(()=>{i.isConnected||e()},1)):(i.text=t.text,o()),i.isWPRocket=!0,t.parentNode.replaceChild(i,t);else{const i=t.getAttribute("data-rocket-type"),s=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",o,{isRocket:!0}),t.addEventListener("error",i=>{this.CSPIssue&&i.target.src.startsWith("data:")?(console.log("WPRocket: CSP fallback activated"),t.removeAttribute("src"),this.G(t).then(e)):(t.setAttribute("data-rocket-status","failed-network"),e())},{isRocket:!0}),s?(t.fetchPriority="high",t.removeAttribute("data-rocket-src"),t.src=s):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}}catch(i){t.setAttribute("data-rocket-status","failed-transform"),e()}});t.setAttribute("data-rocket-status","skipped")}async C(t){const e=t.shift();return e?(e.isConnected&&await this.G(e),this.C(t)):Promise.resolve()}O(){this.Y([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}Y(t,e){this.trash=this.trash||[];let i=!0;var o=document.createDocumentFragment();t.forEach(t=>{const s=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(s&&!s.startsWith("data:")){const n=document.createElement("link");n.href=s,n.rel=e,"preconnect"!==e&&(n.as="script",n.fetchPriority=i?"high":"low"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),t.nonce&&(n.nonce=t.nonce),o.appendChild(n),this.trash.push(n),i=!1}}),document.head.appendChild(o)}W(){this.trash.forEach(t=>t.remove())}async T(){try{document.readyState="interactive"}catch(t){}this.fauxDomReadyFired=!0;try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(document,"DOMContentLoaded"),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this.K(),this.J(window,"DOMContentLoaded"),window.dispatchEvent(new Event("rocket-DOMContentLoaded"))}catch(t){console.error(t)}}async A(){try{document.readyState="complete"}catch(t){}try{await this.K(),this.J(document,"readystatechange"),document.dispatchEvent(new Event("rocket-readystatechange")),await this.K(),document.rocketonreadystatechange&&document.rocketonreadystatechange(),await this.K(),this.J(window,"load"),window.dispatchEvent(new Event("rocket-load")),await this.K(),window.rocketonload&&window.rocketonload(),await this.K(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this.K(),this.J(window,"pageshow");const t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this.K(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}catch(t){console.error(t)}}async K(){Date.now()-this.lastBreath>45&&(await this.X(),this.lastBreath=Date.now())}async X(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}B(t,e){return e===document&&"readystatechange"===t||(e===document&&"DOMContentLoaded"===t||(e===window&&"DOMContentLoaded"===t||(e===window&&"load"===t||e===window&&"pageshow"===t)))}static run(){(new RocketLazyLoadScripts).t()}}RocketLazyLoadScripts.run()})();</script>
+<!-- start head.tpl.html-->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="viewport" content="width=device-width, initial-scale=1" id="viewport-meta"/>
+<link rel="icon" href="https://www.ar24.fr/wp-content/themes/ar24/assets/images/favicon.ico"/>
+
+<!-- /////// -->
+<!-- SCRIPTS -->
+<!-- /////// -->
+
+<script type="text/javascript" src="https://tarteaucitron.io/load.js?locale=fr&amp;domain=www.ar24.fr&amp;uuid=8f9bc1c3705d08b0e5c2a47900932bde7e00083b"></script>
+
+<!--[if lte IE 9]>
+<script type="text/javascript" src="https://www.ar24.fr/wp-content/themes/ar24/assets/js/fallbacks/html5shiv-printshiv.min.js"></script>
+<![endif]-->
+
+<!-- /////// -->
+<!-- SCRIPTS -->
+<!-- /////// -->
+
+<!-- jQuery & plugins jquery -->
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.ar24.fr/wp-content/themes/ar24/assets/js/fallbacks/jquery-3.6.0.min.js" data-rocket-defer defer></script>
+
+<!-- end head.tpl.html-->
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel="alternate" hreflang="en" href="https://www.ar24.fr/en/" />
+<link rel="alternate" hreflang="fr" href="https://www.ar24.fr/" />
+<link rel="alternate" hreflang="x-default" href="https://www.ar24.fr/" />
+
+	<!-- This site is optimized with the Yoast SEO plugin v26.0 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>AR24 - Lettre recommandée électronique en ligne (LRE)</title>
+<link crossorigin data-rocket-preconnect href="https://tarteaucitron.io" rel="preconnect">
+<link crossorigin data-rocket-preconnect href="https://cdn.tarteaucitron.io" rel="preconnect">
+<link crossorigin data-rocket-preconnect href="https://www.googletagmanager.com" rel="preconnect"><link rel="preload" data-rocket-preload as="image" href="https://www.ar24.fr/wp-content/uploads/2023/06/celia_assise3-574x575.jpg" media="(min-width: 1440px)" fetchpriority="high"><link rel="preload" data-rocket-preload as="image" href="https://www.ar24.fr/wp-content/uploads/2023/06/celia_assise3-574x575.jpg" media="(min-width: 1024px)" fetchpriority="high"><link rel="preload" data-rocket-preload as="image" href="https://www.ar24.fr/wp-content/uploads/2023/06/celia_assise3-574x575.jpg" media="(min-width: 768px)" fetchpriority="high">
+	<meta name="description" content="AR24 est un service d’envoi de lettre recommandée électronique (LRE) en ligne : conforme, rapide, sécurisé et économique !" />
+	<link rel="canonical" href="https://www.ar24.fr/" />
+	<meta property="og:locale" content="fr_FR" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="AR24 - Lettre recommandée électronique en ligne (LRE)" />
+	<meta property="og:description" content="AR24 est un service d’envoi de lettre recommandée électronique (LRE) en ligne : conforme, rapide, sécurisé et économique !" />
+	<meta property="og:url" content="https://www.ar24.fr/" />
+	<meta property="og:site_name" content="AR24" />
+	<meta property="article:publisher" content="https://www.facebook.com/ar24.fr?locale=fr_FR" />
+	<meta property="article:modified_time" content="2025-09-26T13:52:59+00:00" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:site" content="@AR24_fr" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.ar24.fr/","url":"https://www.ar24.fr/","name":"AR24 - Lettre recommandée électronique en ligne (LRE)","isPartOf":{"@id":"https://www.ar24.fr/#website"},"about":{"@id":"https://www.ar24.fr/#organization"},"datePublished":"2022-10-26T09:10:22+00:00","dateModified":"2025-09-26T13:52:59+00:00","description":"AR24 est un service d’envoi de lettre recommandée électronique (LRE) en ligne : conforme, rapide, sécurisé et économique !","breadcrumb":{"@id":"https://www.ar24.fr/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.ar24.fr/"]}]},{"@type":"BreadcrumbList","@id":"https://www.ar24.fr/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil"}]},{"@type":"WebSite","@id":"https://www.ar24.fr/#website","url":"https://www.ar24.fr/","name":"AR24","description":"Envoyez vos recommandés électroniques en ligne","publisher":{"@id":"https://www.ar24.fr/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.ar24.fr/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"fr-FR"},{"@type":"Organization","@id":"https://www.ar24.fr/#organization","name":"AR 24","url":"https://www.ar24.fr/","logo":{"@type":"ImageObject","inLanguage":"fr-FR","@id":"https://www.ar24.fr/#/schema/logo/image/","url":"https://www.ar24.fr/wp-content/uploads/2022/06/logo.png","contentUrl":"https://www.ar24.fr/wp-content/uploads/2022/06/logo.png","width":56,"height":14,"caption":"AR 24"},"image":{"@id":"https://www.ar24.fr/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/ar24.fr?locale=fr_FR","https://x.com/AR24_fr","https://www.linkedin.com/company/4871955/admin/dashboard/"]}]}</script>
+	<meta name="google-site-verification" content="DiuUjyATyros_TVQiVK8vDWvOTVvoV8vAF4tgevUB-E" />
+	<!-- / Yoast SEO plugin. -->
+
+
+
+<link data-minify="1" rel='stylesheet' id='ai1ic_style-css' href='https://www.ar24.fr/wp-content/cache/min/1/wp-content/plugins/cf7-image-captcha-pro/css/ai1ic-style.css?ver=1760349949' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://www.ar24.fr/wp-includes/css/dist/block-library/style.min.css?ver=6.8.2' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpml-legacy-dropdown-click-0-css' href='https://www.ar24.fr/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown-click/style.min.css?ver=1' media='all' />
+<link rel='stylesheet' id='ivory-search-styles-css' href='https://www.ar24.fr/wp-content/plugins/add-search-to-menu/public/css/ivory-search.min.css?ver=5.5.11' media='all' />
+<link data-minify="1" rel='stylesheet' id='ar24-style-css' href='https://www.ar24.fr/wp-content/cache/min/1/wp-content/themes/ar24/style.css?ver=1760349949' media='all' />
+<link data-minify="1" rel='stylesheet' id='heateor_sss_frontend_css-css' href='https://www.ar24.fr/wp-content/cache/min/1/wp-content/plugins/sassy-social-share/public/css/sassy-social-share-public.css?ver=1760349949' media='all' />
+<style id='heateor_sss_frontend_css-inline-css'>
+.heateor_sss_button_instagram span.heateor_sss_svg,a.heateor_sss_instagram span.heateor_sss_svg{background:radial-gradient(circle at 30% 107%,#fdf497 0,#fdf497 5%,#fd5949 45%,#d6249f 60%,#285aeb 90%)}.heateor_sss_horizontal_sharing .heateor_sss_svg,.heateor_sss_standard_follow_icons_container .heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent}.heateor_sss_horizontal_sharing .heateorSssTCBackground{color:#666}.heateor_sss_horizontal_sharing span.heateor_sss_svg:hover,.heateor_sss_standard_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}.heateor_sss_vertical_sharing span.heateor_sss_svg,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg{color:#fff;border-width:0px;border-style:solid;border-color:transparent;}.heateor_sss_vertical_sharing .heateorSssTCBackground{color:#666;}.heateor_sss_vertical_sharing span.heateor_sss_svg:hover,.heateor_sss_floating_follow_icons_container span.heateor_sss_svg:hover{border-color:transparent;}@media screen and (max-width:783px) {.heateor_sss_vertical_sharing{display:none!important}}div.heateor_sss_sharing_title{text-align:center}div.heateor_sss_sharing_ul{width:100%;text-align:center;}div.heateor_sss_horizontal_sharing div.heateor_sss_sharing_ul a{float:none!important;display:inline-block;}
+</style>
+<script id="wpml-cookie-js-extra">
+var wpml_cookies = {"wp-wpml_current_language":{"value":"fr","expires":1,"path":"\/"}};
+var wpml_cookies = {"wp-wpml_current_language":{"value":"fr","expires":1,"path":"\/"}};
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.ar24.fr/wp-content/cache/min/1/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=1760349949" id="wpml-cookie-js" defer data-wp-strategy="defer"></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.ar24.fr/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-dropdown-click/script.min.js?ver=1" id="wpml-legacy-dropdown-click-0-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.ar24.fr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js" data-rocket-defer defer></script>
+<link rel="https://api.w.org/" href="https://www.ar24.fr/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://www.ar24.fr/wp-json/wp/v2/pages/6049" /><link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.ar24.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ar24.fr%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.ar24.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ar24.fr%2F&#038;format=xml" />
+<meta name="generator" content="WPML ver:4.7.6 stt:1,4;" />
+<script type="rocketlazyloadscript" type=application/ld+json>{"@context":"https:\/\/schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quelle est la valeur juridique de la LRE ?","acceptedAnswer":{"@type":"Answer","text":"La Lettre Recommand\u00e9e \u00c9lectronique AR24 (LRE) poss\u00e8de la m\u00eame valeur juridique que le recommand\u00e9 papier (LRAR) selon l&rsquo;article L100 du code des postes et des communications \u00e9lectroniques. Ainsi en cas de litige, la LRE poss\u00e8de une valeur probante devant un juge et offre toute la protection n\u00e9cessaire \u00e0 l\u2019exp\u00e9diteur.\n"}},{"@type":"Question","name":"Comment envoyer des recommand\u00e9s en ligne ?","acceptedAnswer":{"@type":"Answer","text":"Pour envoyer une LRE depuis ar24.fr, il suffit de\u00a0:\n<ol>\n<li>Cr\u00e9er son compte AR24 en ajoutant un moyen de paiement ;<\/li>\n<li>Acc\u00e9der \u00e0 la page \u00ab Nouvel envoi \u00bb, choisir la lettre recommand\u00e9e \u00e9lectronique ;<\/li>\n<li>S\u2019authentifier \u00e0 l\u2019aide de son <a href=\"https:\/\/www.ar24.fr\/produits-et-services\/les-moyens-didentification-expediteur\/\">moyen d\u2019identification<\/a>. Si vous n\u2019en avez pas vous pouvez en commander un ;<\/li>\n<li>R\u00e9diger sa LRE, ajouter les pi\u00e8ces jointes ;<\/li>\n<li>L\u2019envoyer au destinataire.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Comment se d\u00e9roule la r\u00e9ception d\u2019un recommand\u00e9 en ligne (LRE) ?","acceptedAnswer":{"@type":"Answer","text":"<ol>\n<li>Une fois la LRE r\u00e9dig\u00e9e dans l\u2019interface AR24, elle est envoy\u00e9e instantan\u00e9ment au destinataire, qui est imm\u00e9diatement notifi\u00e9 par email. Il a 15 jours pour accuser r\u00e9ception de sa Lettre Recommand\u00e9e \u00c9lectronique.<\/li>\n<li>Le destinataire s\u2019identifie pour acc\u00e9der au contenu du courrier. Il peut faire cela <a href=\"https:\/\/www.ar24.fr\/produits-et-services\/les-moyens-didentification-destinataire\/\">\u00e0 distance, de diff\u00e9rentes mani\u00e8res<\/a>.<\/li>\n<li>Une fois que son identit\u00e9 valid\u00e9e, il accuse r\u00e9ception et vous, exp\u00e9diteur, vous recevez une preuve de r\u00e9ception.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Quelles sont les preuves associ\u00e9es \u00e0 la LRE ?","acceptedAnswer":{"@type":"Answer","text":"Les preuves de la Lettres Recommand\u00e9e \u00c9lectronique sont \u00e9quivalentes \u00e0 celles d\u2019un recommand\u00e9 papier.\n<ol>\n<li><a href=\"https:\/\/www.ar24.fr\/lre\/preuve-denvoi\/\">Preuve de d\u00e9p\u00f4t et d\u2019envoi<\/a> : Imm\u00e9diatement re\u00e7ue apr\u00e8s l\u2019envoi de la LRE, elle indique \u00e0 l\u2019exp\u00e9diteur que la LRE a \u00e9t\u00e9 d\u00e9pos\u00e9e sur nos serveurs et envoy\u00e9e \u00e0 son destinataire.<\/li>\n<li><a href=\"https:\/\/www.ar24.fr\/lre\/accuse-de-reception\/\">Preuve de r\u00e9ception<\/a> : Si vous recevez la preuve de r\u00e9ception, cela signifie que le destinataire a bien accus\u00e9 r\u00e9ception de sa LRE.<\/li>\n<li><a href=\"https:\/\/www.ar24.fr\/lre\/preuve-de-refus\/\">Preuve de refus<\/a> : Si vous recevez la preuve de refus, cela signifie que le destinataire a refus\u00e9 votre lettre recommand\u00e9e \u00e9lectronique.<\/li>\n<li><a href=\"https:\/\/www.ar24.fr\/lre\/preuve-de-negligence\/\">Preuve de n\u00e9gligence<\/a> : Elle indique que le destinataire n\u2019a pas accus\u00e9 r\u00e9ception de votre LRE dans les 15 jours qui suivent l\u2019envoi.<\/li>\n<\/ol>\n"}},{"@type":"Question","name":"Combien de pi\u00e8ces jointes puis-je ajouter dans une LRE ?","acceptedAnswer":{"@type":"Answer","text":"Chaque Lettre Recommand\u00e9e \u00c9lectronique achemin\u00e9e par AR24 comprend jusqu\u2019\u00e0 256 Mo de pi\u00e8ces jointes sans surco\u00fbt.\nAvec 256 Mo de pi\u00e8ces jointes, il est possible d&rsquo;envoyer diff\u00e9rents types de fichiers (PDF, JPEG, MP3&#8230;) des centaines d\u2019images ou de scans en haute d\u00e9finition, ou encore des documents de plusieurs dizaines milliers de pages.\n"}},{"@type":"Question","name":"Puis-je faire confiance \u00e0 AR24 pour l\u2019acheminement de mes recommand\u00e9s \u00e9lectroniques ?","acceptedAnswer":{"@type":"Answer","text":"Choisir AR24 c\u2019est choisir\u00a0:\n<ul>\n<li>Un prestataire de confiance qualifi\u00e9 par l\u2019ANSSI et achemineur de lettres recommand\u00e9es \u00e9lectroniques qualifi\u00e9es eIDAS.<\/li>\n<li>Une solution de Docaposte, filiale du Groupe La Poste.<\/li>\n<li>Une infrastructure informatique ultra-s\u00e9curis\u00e9e et un SAV efficace et disponible.<\/li>\n<li>Une expertise adapt\u00e9e \u00e0 chacun.<\/li>\n<\/ul>\n"}}]}</script><link rel="icon" href="https://www.ar24.fr/wp-content/uploads/2023/06/favico.png" sizes="32x32" />
+<link rel="icon" href="https://www.ar24.fr/wp-content/uploads/2023/06/favico.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.ar24.fr/wp-content/uploads/2023/06/favico.png" />
+<meta name="msapplication-TileImage" content="https://www.ar24.fr/wp-content/uploads/2023/06/favico.png" />
+			<style type="text/css" media="screen">
+			/* Ivory search custom CSS code */
+			border: none !important;			</style>
+					<style type="text/css">
+					</style>
+					<style type="text/css">
+						#is-ajax-search-result-1749 a,
+                #is-ajax-search-details-1749 a:not(.button) {
+					color: #535353 !important;
+				}
+                #is-ajax-search-details-1749 .is-ajax-woocommerce-actions a.button {
+                	background-color: #535353 !important;
+                }
+                        			</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+<!-- /////// -->
+<!--   CSS   -->
+<!-- /////// -->
+<!-- My CSS -->
+<link data-minify="1" rel="stylesheet" type="text/css" href="https://www.ar24.fr/wp-content/cache/min/1/wp-content/themes/ar24/assets/css/critical.css?ver=1760349949"/>
+<!-- //////// -->
+<!--   /CSS   -->
+<!-- //////// -->
+
+<script type="rocketlazyloadscript">
+var tarteaucitronForceLanguage="fr";
+
+</script>
+<style>
+.tac_visually-hidden {
+position:absolute; left:-5000px;height:0px; width:0px;
+}
+#tarteaucitronRoot span#tarteaucitronDisclaimerAlert {
+ display:block;
+padding-right: 0 !important;
+}
+</style>
+<meta name="generator" content="WP Rocket 3.19.4" data-wpr-features="wpr_delay_js wpr_defer_js wpr_minify_js wpr_lazyload_images wpr_lazyload_iframes wpr_preconnect_external_domains wpr_oci wpr_image_dimensions wpr_minify_css wpr_desktop" /></head>
+
+<body class="page-summary" class="home wp-singular page-template-default page page-id-6049 wp-theme-ar24 ar24">
+  
+<div  class="global-wrapper">
+
+  <!--[if lt IE 10]>
+  <div class="browsehappy">
+    <div class="site-content">
+      <p>Vous utilisez un <strong>ancien</strong> navigateur. Ce site risque de ne pas s'afficher correctement. <a href="http://browsehappy.com/">Mettez à jour votre navigateur</a> pour améliorer votre expérience.</p>
+    </div>
+  </div>
+  <![endif]-->
+  <ul class="skip-links" id="page-top">
+    <li><a href="#anchor-content">Aller au contenu</a></li>
+    <li><a href="#anchor-footer">Aller au pied de page</a></li>
+  </ul>
+<!-- start header.tpl.html-->
+<div  class="header__wrapper">
+    <div  class="banner-info--wrapper">
+        <div class="banner-info banner-info--announcement hide bg--light-grey" data-type="1" data-name="Bandeau informatif">
+  <button class="close js-close" aria-label="Fermer">
+    <span class="icon-close" aria-hidden="true"></span>
+  </button>
+
+  <div class="site-content">
+          <div class="wyg">
+          <div style="font-size: 12pt; font-family: Arial, sans-serif; line-height: 1.5; color: #000FFF;">
+  <strong>
+    ⚠️ Ensemble restons vigilants. Des campagnes d’hameçonnage (phishing) usurpant l'identité d'AR24 sont actuellement en cours. <br>Vous pouvez vérifier qu’une notification provient bien de nos services en vous rendant sur ce 
+    <a href="https://www.ar24.fr/verifier-un-email-ar24/" target="_blank" style="color: #1d70b8; text-decoration: underline;">lien</a>.
+</strong>
+</div>
+      </div>
+      </div>
+</div>
+    </div>
+
+  <header  role="banner" class="header">
+    <div class="site-content">
+      
+      <div class="wrapper-menu">
+                <a href="https://www.ar24.fr" class="logo" title="Logo_AR24">  
+          <img width="75" height="17" src="https://www.ar24.fr/wp-content/uploads/2022/11/ar24_blue.svg" alt="Logo AR24">
+        </a>
+                
+        <nav class="header__main-nav" role="navigation" aria-label="Navigation principale">
+          
+                       <div class="header__ul-wrapper"> 
+           <ul class=""><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><button aria-expanded="false" class="level-1-btn"  class="big" >Solutions</button></div>
+<div class="header__level-2-wrapper"  aria-hidden="true"><ul data="0" class="header__list-links">
+	<span><li data=\"1\" class="header__li-level-2"><div class="header__li-level-2__back">
+                            <button type="button" class="btn-back"><span class="icon-arrow-b"></span>Retour</button>
+                            </div><div class="header__lk-level-2"><button aria-expanded="false"  class="big"  class="big" >Nos courriers</button></div>
+	<div class="header__level-3-wrapper"  aria-hidden="true"><ul data="1" class="header__list-links">
+		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/lettre-recommandee-electronique-eidas-qualifiee/">Lettre Recommandée Electronique</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/courrier-suivi-electronique/">Envoi Recommandé Electronique Simple</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/lettre-recommandee-optimale/">Lettre Recommandée Optimale</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/lettre-recommandee-papier/">Lettre Recommandée Papier</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/avis-electronique-pour-syndics-de-copropriete/">Avis Électronique</a></div></li>		<li data=\"2\" class="header__li-level-3 underlined"><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/comparateur-de-lettres-recommandees/">Comparer nos courriers</a></div></li>	</ul>
+</li>	<span class="header__list-links header__list-links--ext" style="height: 354px;"><li data=\"9\" class="header__li-level-2"><div class="header__lk-level-2"><button aria-expanded="false"  class="big"  class="big" >Nos services</button></div>
+	<div class="header__level-3-wrapper"  aria-hidden="true"><ul data="1" class="header__list-links">
+		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/gestionnaire-de-consentements/">Gestionnaire de consentements</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/les-moyens-didentification-expediteur/">Moyens d’identification expéditeur</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/les-moyens-didentification-destinataire/">Moyens d’identification destinataire</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/pvid-verification-identite-digitale/">Vérification d&rsquo;identité à distance PVID</a></div></li>	</ul>
+</span>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><button aria-expanded="false"  class="big"  class="big" >Nos services partenaires</button></div>
+	<div class="header__level-3-wrapper"  aria-hidden="true"><ul data="1" class="header__list-links">
+		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/lre-ar24-identite-numerique/">L’Identité Numérique La Poste</a></div></li>		<li data=\"2\" class="header__li-level-3 "><div class="header__lk-level-3"><a href="https://www.ar24.fr/produits-et-services/digiposte/">Digiposte</a></div></li>	</ul>
+</li></ul>
+</li><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><button aria-expanded="false" class="level-1-btn"  class="big" >Clients</button></div>
+<div class="header__level-2-wrapper"  aria-hidden="true"><ul data="0" class="header__list-links">
+	<li data=\"1\" class="header__li-level-2"><div class="header__li-level-2__back">
+                            <button type="button" class="btn-back"><span class="icon-arrow-b"></span>Retour</button>
+                            </div><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/lre-assurance/">Assurance</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/lre-avocats/">Avocat</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/lre-banque-finance/">Banque / Finance</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/entreprises/">Entreprise</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/lre-professionnels-immobilier/">Immobilier</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/notaires/">Notaire</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/secteur-public/">Secteur Public</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/pour-qui/lre-syndics-de-coproprietes/">Syndic de copropriété</a></div></li></ul>
+</li><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><a aria-expanded="false" class="level-1-btn"  href="https://www.ar24.fr/devenir-partenaire-ar24/">Partenaires</a></div></li><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><button aria-expanded="false" class="level-1-btn"  class="big" >Tarifs</button></div>
+<div class="header__level-2-wrapper"  aria-hidden="true"><ul data="0" class="header__list-links">
+	<li data=\"1\" class="header__li-level-2"><div class="header__li-level-2__back">
+                            <button type="button" class="btn-back"><span class="icon-arrow-b"></span>Retour</button>
+                            </div><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/tarifs/">Nos tarifs sans engagement</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/offres/">Nos offres</a></div></li></ul>
+</li><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><button aria-expanded="false" class="level-1-btn"  class="big" >Aide</button></div>
+<div class="header__level-2-wrapper"  aria-hidden="true"><ul data="0" class="header__list-links">
+	<li data=\"1\" class="header__li-level-2"><div class="header__li-level-2__back">
+                            <button type="button" class="btn-back"><span class="icon-arrow-b"></span>Retour</button>
+                            </div><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/ma-lre/">Réceptionner une LRE</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/guide-livre-blanc-lre-fntc/">Guide pratique de la LRE</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/questions/">FAQ</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/verifier-un-email-ar24/">Vérifier la légitimité de l’email reçu</a></div></li></ul>
+</li><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><button aria-expanded="false" class="level-1-btn"  class="big" >Pourquoi AR24 ?</button></div>
+<div class="header__level-2-wrapper"  aria-hidden="true"><ul data="0" class="header__list-links">
+	<li data=\"1\" class="header__li-level-2"><div class="header__li-level-2__back">
+                            <button type="button" class="btn-back"><span class="icon-arrow-b"></span>Retour</button>
+                            </div><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/qui-sommes-nous/">Qui sommes-nous ?</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/avantages/">Avantages</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/promesse-client/">Promesse client</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/integration-api/">Intégration API</a></div></li></ul>
+</li><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><a aria-expanded="false" class="level-1-btn"  href="https://www.ar24.fr/blog/">Blog</a></div>
+<div class="header__level-2-wrapper"  aria-hidden="true"><ul data="0" class="header__list-links">
+	<li data=\"1\" class="header__li-level-2"><div class="header__li-level-2__back">
+                            <button type="button" class="btn-back"><span class="icon-arrow-b"></span>Retour</button>
+                            </div><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/assurance/">Assurance</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/avocat/">Avocat</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/banque-finance/">Banque / Finance</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/entreprise/">Entreprise</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/immobilier/">Immobilier</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/secteur-public/">Secteur Public</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/notaire/">Notaire</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="/category/syndic/">Syndic</a></div></li></ul>
+</li><li data=\"0\" class="header__li-level-1"><div class="header__lk-level-1"><button aria-expanded="false" class="level-1-btn"  class="big" >Contact</button></div>
+<div class="header__level-2-wrapper"  aria-hidden="true"><ul data="0" class="header__list-links">
+	<li data=\"1\" class="header__li-level-2"><div class="header__li-level-2__back">
+                            <button type="button" class="btn-back"><span class="icon-arrow-b"></span>Retour</button>
+                            </div><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/contact/expediteur/">Je suis déjà client</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/grands-comptes-ou-revendeurs/">Je ne suis pas encore client</a></div></li>	<li data=\"1\" class="header__li-level-2"><div class="header__lk-level-2"><a aria-expanded="false"  href="https://www.ar24.fr/contact/destinataire/">Je suis destinataire</a></div></li></ul>
+</li></ul>                </div>
+                          <div class="header__right-btns">
+                        <a title="S'inscrire" target="_blank" class="btn" href="https://app.ar24.fr/fr/user/register?mtm_campaign=cta-navbar&mtm_kwd=inscription">S'inscrire</a>
+                        <a title="Se connecter" target="_blank" class="btn btn--secondary btn--secondary-header" href="https://app.ar24.fr/fr/user/login?mtm_campaign=cta-navbar&mtm_kwd=connexion">Se connecter</a>
+                        <span class="mob-hidden language-switcher">
+                            <button class="language-switcher__top" aria-expanded="false"><span class="icon-arrow-b"></span>fr</button>
+              <div class="language-switcher__bottom">
+                
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-dropdown-click js-wpml-ls-legacy-dropdown-click">
+	<ul>
+
+		<li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-fr wpml-ls-current-language wpml-ls-last-item wpml-ls-item-legacy-dropdown-click">
+
+			<a href="#" class="js-wpml-ls-item-toggle wpml-ls-item-toggle">
+                <span class="wpml-ls-native">FR</span></a>
+
+			<ul class="js-wpml-ls-sub-menu wpml-ls-sub-menu">
+				
+					<li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-first-item">
+						<a href="https://www.ar24.fr/en/" class="wpml-ls-link">
+                            <span class="wpml-ls-display">EN</span></a>
+					</li>
+
+							</ul>
+
+		</li>
+
+	</ul>
+</div>
+              </div>
+            </span>
+          </div>
+        </nav>
+        <!-- <button class="btn-submenu-panel btn-submenu-panel__search" aria-controls="content-search" aria-expanded="false">
+          <span class="out">Search</span>
+          <span class="icon-search"></span>
+        </button> -->
+        <!-- <div id="content-search" class="submenu-panel" aria-hidden="true">
+          <div class="site-content">
+            <form action="#" method="post">
+              <input type="search" placeholder="Rechercher un mot clé">
+              <button type="submit" class="btn">Rechercher</button>
+            </form>
+            <button class="submenu-panel__close"><span class="out">Close</span><span class="icon-close"></span></button>
+          </div>
+        </div> -->
+        <div class="header__right-btns--mobile">
+          <!-- <a class="btn btn--ghost" href="https://app.ar24.fr/fr/user/login?mtm_campaign=cta-navbar&mtm_kwd=connexion" target="_blank">Se connecter</a> -->
+          
+<div class="wpml-ls-statics-shortcode_actions wpml-ls wpml-ls-legacy-dropdown-click js-wpml-ls-legacy-dropdown-click">
+	<ul>
+
+		<li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-fr wpml-ls-current-language wpml-ls-last-item wpml-ls-item-legacy-dropdown-click">
+
+			<a href="#" class="js-wpml-ls-item-toggle wpml-ls-item-toggle">
+                <span class="wpml-ls-native">FR</span></a>
+
+			<ul class="js-wpml-ls-sub-menu wpml-ls-sub-menu">
+				
+					<li class="wpml-ls-slot-shortcode_actions wpml-ls-item wpml-ls-item-en wpml-ls-first-item">
+						<a href="https://www.ar24.fr/en/" class="wpml-ls-link">
+                            <span class="wpml-ls-display">EN</span></a>
+					</li>
+
+							</ul>
+
+		</li>
+
+	</ul>
+</div>
+          <button class="btn-menu" aria-expanded="false">
+            <span class="out">Menu</span>
+            <span class="btn-menu__hamburger">
+              <span class="btn-menu__hamburger-box">
+                <span class="btn-menu__hamburger-inner"></span>
+              </span>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+</div>
+ 
+
+<!-- end header.tpl.html-->
+
+  <div id="anchor-content"></div>
+
+<div id="anchor-content"></div>
+<main class="page-content-wrapper" role="main">
+<!-- start main -->
+
+   
+
+<div class="paragraph-full-width mt-0">
+
+<!-- start bk-herobanner--homepage.tpl.html-->
+<div class="bk-herobanner bk-herobanner--homepage">
+  <!-- <div class="paragraph"> -->
+    <div class="bk-herobanner__content">
+      <div class="bk-herobanner__content__left">
+        <h1>Envoyez vos recommandés électroniques en ligne</h1>
+        <div class="separator separator--large"></div>
+        <p>L’équivalent de la lettre recommandée papier, 100% dématérialisé de l’envoi à la réception.</p>
+        <div class="btn-wrapper">
+                    <a title="&gt;&gt; Découvrez la simplicité du recommandé électronique en vidéo" target="_blank" class="btn btn--secondary" href="https://youtu.be/X1D7ZXrF6yk?si=JekmaprTx1jP3tYM">&gt;&gt; Découvrez la simplicité du recommandé électronique en vidéo</a>
+                    <a title="Contacter un conseiller" target="_blank" class="btn btn--primary" href="https://www.ar24.fr/grands-comptes-ou-revendeurs/?mtm_campaign=cta-home&mtm_kwd=header-contacter-un-commercial">Contacter un conseiller</a>
+                  </div>
+        <div class="bk-herobanner--homepage__logo">AR24 est une solution de Docaposte, filiale de                <img src="https://www.ar24.fr/wp-content/uploads/2023/03/LA_POSTE_JAUNE_HP_2.png" width="75" height="75" alt="logo La poste">
+                </div>
+      </div>
+        
+      <div class="bk-herobanner__content__bg ">
+      <!-- start responsive-img-lazy.tpl.html-->
+    <picture class="">
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2023/06/celia_assise3-574x575.jpg" media="(min-width: 1440px)">
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2023/06/celia_assise3-574x575.jpg" media="(min-width: 1024px)">
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2023/06/celia_assise3-574x575.jpg" media="(min-width: 768px)">
+    <img fetchpriority="high" src="https://www.ar24.fr/wp-content/uploads/2023/06/celia_assise3-574x575.jpg" alt=""  width="665" height="575"><!-- Image mobile -->
+  </picture>
+  
+
+<!-- end responsive-img-lazy.tpl.html-->
+      </div>
+    </div>
+  <!-- </div> -->
+</div>
+
+<!-- end bk-herobanner--homepage.tpl.html-->
+  
+</div>
+
+
+<div class="paragraph-full-width" id="">
+<!-- start bk-slider-logo.tpl.html-->
+<h2 class="ta-c body-xlarge--plus">Ils nous font confiance</h2><div class="bk-slider-logo">
+  <div class="bk-slider js-slider-multi-4" data-uniquelabel="Carrousel des logos">
+    <div class="js-slider-container" role="list">
+
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2023/02/Frame-2-133x34.png" width="133" height="34" alt="Fiducial"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2023/02/Logo-OGGO-Data_carr.png" width="133" height="34" alt="Oggo Data"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2024/12/happywait-133x34.png" width="133" height="34" alt="Happywait"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2023/01/VILOGI-Logo_1020_720-002-120x34.png" width="133" height="34" alt="Vilogi"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2023/01/Frame-5-133x34.png" width="133" height="34" alt="MySendingBox"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/12/Frame-3-2-1-133x34.png" width="133" height="34" alt="Matera"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/12/Logo_MyNotary_montserrat-png.png" width="133" height="34" alt="My Notary"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/11/Logo-lovys-133x34.png" width="133" height="34" alt="Lovys"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/11/MicrosoftTeams-image-22-133x34.png" width="133" height="34" alt="ACommeAssure"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/11/Logo-partenaire-1-133x34.png" width="133" height="34" alt="Luko"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/31-133x34.png" width="133" height="34" alt="Netheos"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/30-133x34.png" width="133" height="34" alt="SPI Immobilier"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/32-133x34.png" width="133" height="34" alt="L&rsquo;Identité Numérique"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/27-1-133x34.png" width="133" height="34" alt="ImmoSign"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/logo-modelo-legal-rgb_horiz-orange-blue-133x34.png" width="133" height="34" alt="Modelo Legal"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/25-1-133x34.png" width="133" height="34" alt="Square Habitat"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/28-133x34.png" width="133" height="34" alt="Bouygues Immobilier"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/23-133x34.png" width="133" height="34" alt="Banque Postale"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/26-1-133x34.png" width="133" height="34" alt="Nexity"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/24-1-133x34.png" width="133" height="34" alt="Unlatch"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/22-133x34.png" width="133" height="34" alt="TGS France"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/19-1-133x34.png" width="133" height="34" alt="DivorceMG"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/21-133x34.png" width="133" height="34" alt="Fain"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/17-133x34.png" width="133" height="34" alt="Theis"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/20-1-133x34.png" width="133" height="34" alt="Divorcéo"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/15-133x34.png" width="133" height="34" alt="Foncia"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/18-133x34.png" width="133" height="34" alt="Mairesse"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/14-1-133x34.png" width="133" height="34" alt="Septeo Notaires"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/caisse-epargne-ok-133x34.png" width="133" height="34" alt="Caisse d&rsquo;épargne"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/12-133x34.png" width="133" height="34" alt="CDC Habitat"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/11-133x34.png" width="133" height="34" alt="Groupe SNI"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/10-133x34.png" width="133" height="34" alt="Guy Hoquet"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/8-133x34.png" width="133" height="34" alt="Orpi"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/9-133x34.png" width="133" height="34" alt="L&rsquo;Olivier"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/Frame-2-1.svg" width="133" height="34" alt="Septeo"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+             <div class="bk-slider__slide bk-slider-logo__box" role="listitem">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+        <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/09/Frame-6-1-1.svg" width="133" height="34" alt="Edilink"
+        />
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+      </div>
+      
+
+           </div>
+  </div>
+</div>
+
+<!-- end bk-slider-logo.tpl.html-->
+</div>
+
+
+
+
+<div class="paragraph" id="">
+  <h2>Pourquoi faire confiance à la Lettre Recommandée Électronique en ligne ?</h2>  <div class="bk-avantages ">
+
+<!-- start bk-card-avantages.tpl.html-->
+<div class="bk-card-avantages">
+    
+  <div class="bk-card-avantages__img ">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+    <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-avantages-picto-1-72x72.png" width="72" height="72" alt="HP-avantages-picto-1" />
+  </noscript>
+
+<!-- end img-lazy.tpl.html-->
+</div>    <h4 >Légal</h4>
+    <p>Qualifiée par l’ANSSI, la lettre recommandée électronique AR24 (LRE) possède la même valeur juridique que la lettre recommandée papier (LRAR) (Article L100 du CPCE).</p>
+</div>
+
+<!-- end bk-card-avantages.tpl.html-->
+<!-- start bk-card-avantages.tpl.html-->
+<div class="bk-card-avantages">
+    
+  <div class="bk-card-avantages__img ">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+    <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-avantages-picto-2-72x72.png" width="72" height="72" alt="HP-avantages-picto-2" />
+  </noscript>
+
+<!-- end img-lazy.tpl.html-->
+</div>    <h4 >Rapide</h4>
+    <p>Processus d’envoi simple 100% en ligne. Accélérez vos procédures grâce à l’acheminement instantané.</p>
+</div>
+
+<!-- end bk-card-avantages.tpl.html-->
+<!-- start bk-card-avantages.tpl.html-->
+<div class="bk-card-avantages">
+    
+  <div class="bk-card-avantages__img ">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+    <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-avantages-picto-3-72x72.png" width="72" height="72" alt="HP-avantages-picto-3" />
+  </noscript>
+
+<!-- end img-lazy.tpl.html-->
+</div>    <h4 >Sécurisé</h4>
+    <p>Toutes les données sont hébergées sur nos serveurs en France. Conforme aux règlements eIDAS, RGPD et au dispositif LCB-FT.</p>
+</div>
+
+<!-- end bk-card-avantages.tpl.html-->
+<!-- start bk-card-avantages.tpl.html-->
+<div class="bk-card-avantages">
+    
+  <div class="bk-card-avantages__img ">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+    <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-avantages-picto-4-72x72.png" width="72" height="72" alt="HP-avantages-picto-4" />
+  </noscript>
+
+<!-- end img-lazy.tpl.html-->
+</div>    <h4 >Économique</h4>
+    <p>2 à 5 fois moins cher qu'un courrier recommandé papier avec avis de réception. Tarif unique sans surcoût, jusqu’à 256 Mo de pièces jointes.</p>
+</div>
+
+<!-- end bk-card-avantages.tpl.html-->
+
+</div>
+</div>
+<div class="paragraph" id="">
+  <h2>Une expertise adaptée pour chaque professionnel</h2>    <div class="grid">
+<div class="grid__cell 1/4--desktop 1/4--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-pro.tpl.html-->
+<div class="bk-card-pro">
+    <a href="https://www.ar24.fr/pour-qui/lre-assurance/" target="" title="">
+    
+    
+    <div class="bk-card__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-expertise-assurance-48x48.png" width="48" height="48" alt="HP-expertise-assurance"
+  />
+</noscript>
+<!-- end img-lazy.tpl.html-->
+    </div>
+    
+    <div class="bk-card-pro__title">
+      <h4>Assurance</h4>
+      <span class="icon-arrow-line-r"></span>
+    </div>
+      </a>
+</div>
+
+<!-- end bk-card-pro.tpl.html-->
+    </div>
+<div class="grid__cell 1/4--desktop 1/4--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-pro.tpl.html-->
+<div class="bk-card-pro">
+    <a href="https://www.ar24.fr/pour-qui/lre-avocats/" target="" title="">
+    
+    
+    <div class="bk-card__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-expertise-avocat-48x48.png" width="48" height="48" alt="HP-expertise-avocat"
+  />
+</noscript>
+<!-- end img-lazy.tpl.html-->
+    </div>
+    
+    <div class="bk-card-pro__title">
+      <h4>Avocat</h4>
+      <span class="icon-arrow-line-r"></span>
+    </div>
+      </a>
+</div>
+
+<!-- end bk-card-pro.tpl.html-->
+    </div>
+<div class="grid__cell 1/4--desktop 1/4--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-pro.tpl.html-->
+<div class="bk-card-pro">
+    <a href="https://www.ar24.fr/pour-qui/lre-banque-finance/" target="" title="">
+    
+    
+    <div class="bk-card__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-expertise-banque-finance-48x48.png" width="48" height="48" alt="HP-expertise-banque-finance"
+  />
+</noscript>
+<!-- end img-lazy.tpl.html-->
+    </div>
+    
+    <div class="bk-card-pro__title">
+      <h4>Banque / Finance</h4>
+      <span class="icon-arrow-line-r"></span>
+    </div>
+      </a>
+</div>
+
+<!-- end bk-card-pro.tpl.html-->
+    </div>
+<div class="grid__cell 1/4--desktop 1/4--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-pro.tpl.html-->
+<div class="bk-card-pro">
+    <a href="https://www.ar24.fr/pour-qui/entreprises/" target="" title="">
+    
+    
+    <div class="bk-card__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-expertise-entreprises-48x48.png" width="48" height="48" alt="HP-expertise-entreprises"
+  />
+</noscript>
+<!-- end img-lazy.tpl.html-->
+    </div>
+    
+    <div class="bk-card-pro__title">
+      <h4>Entreprise</h4>
+      <span class="icon-arrow-line-r"></span>
+    </div>
+      </a>
+</div>
+
+<!-- end bk-card-pro.tpl.html-->
+    </div>
+<div class="grid__cell 1/4--desktop 1/4--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-pro.tpl.html-->
+<div class="bk-card-pro">
+    <a href="https://www.ar24.fr/pour-qui/lre-professionnels-immobilier/" target="" title="">
+    
+    
+    <div class="bk-card__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-expertise-immobilier-48x48.png" width="48" height="48" alt="HP-expertise-immobilier"
+  />
+</noscript>
+<!-- end img-lazy.tpl.html-->
+    </div>
+    
+    <div class="bk-card-pro__title">
+      <h4>Immobilier</h4>
+      <span class="icon-arrow-line-r"></span>
+    </div>
+      </a>
+</div>
+
+<!-- end bk-card-pro.tpl.html-->
+    </div>
+<div class="grid__cell 1/4--desktop 1/4--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-pro.tpl.html-->
+<div class="bk-card-pro">
+    <a href="https://www.ar24.fr/pour-qui/notaires/" target="" title="">
+    
+    
+    <div class="bk-card__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-expertise-notaires-48x48.png" width="48" height="48" alt="HP-expertise-notaires"
+  />
+</noscript>
+<!-- end img-lazy.tpl.html-->
+    </div>
+    
+    <div class="bk-card-pro__title">
+      <h4>Notaire</h4>
+      <span class="icon-arrow-line-r"></span>
+    </div>
+      </a>
+</div>
+
+<!-- end bk-card-pro.tpl.html-->
+    </div>
+<div class="grid__cell 1/4--desktop 1/4--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-pro.tpl.html-->
+<div class="bk-card-pro">
+    <a href="https://www.ar24.fr/pour-qui/lre-syndics-de-coproprietes/" target="" title="">
+    
+    
+    <div class="bk-card__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/07/HP-expertise-syndic-de-copro-48x48.png" width="48" height="48" alt="HP-expertise-syndic-de-copro"
+  />
+</noscript>
+<!-- end img-lazy.tpl.html-->
+    </div>
+    
+    <div class="bk-card-pro__title">
+      <h4>Syndic de copro</h4>
+      <span class="icon-arrow-line-r"></span>
+    </div>
+      </a>
+</div>
+
+<!-- end bk-card-pro.tpl.html-->
+    </div>
+    
+   
+  </div>
+
+</div>
+<div class="paragraph-from-tablet" id="">
+<!-- start bk-card-select.tpl.html-->
+<div class="bk-card-select">
+  <div class="grid grid--middle">
+    <div class="bk-card-select__left grid__cell 7/12--desktop 1/1--mobile">
+      <h3>Un courrier réglementé pour chacun de vos usages</h3>
+      <p>Avec des preuves de dépôt / envoi et de réception / refus / négligence, AR24 vous permet de faire courir les délais légaux.</p>
+      <div class="js-slider--mobile slider-filtres" data-uniquelabel="Carrousel des filtres">
+        <ul class="js-slider-container js-tabs no-styled-list" role="tablist">
+                    <li aria-controls="filtre-panel-1" class="btn btn--secondary" role="tab" tabindex="0"  id="filtre-tab-1" aria-selected="true">Lettre Recommandée Électronique</li>
+                    <li aria-controls="filtre-panel-2" class="btn btn--secondary" role="tab" tabindex="1"  id="filtre-tab-2" >Avis Électronique</li>
+                    <li aria-controls="filtre-panel-3" class="btn btn--secondary" role="tab" tabindex="2"  id="filtre-tab-3" >Lettre Recommandée Papier</li>
+                    <li aria-controls="filtre-panel-4" class="btn btn--secondary" role="tab" tabindex="3"  id="filtre-tab-4" >Lettre Recommandée Optimale</li>
+                    <li aria-controls="filtre-panel-5" class="btn btn--secondary" role="tab" tabindex="4"  id="filtre-tab-5" >Envoi Recommandé Électronique Simple</li>
+                  </ul>
+      </div>
+    </div>
+    <div class="bk-card-select__right grid__cell 5/12--desktop 1/1--mobile">
+
+            <div class="bk-card--large" role="tabpanel" aria-labelledby="filtre-tab-1" id="filtre-panel-1">
+        <a title="" href="https://www.ar24.fr/produits-et-services/lettre-recommandee-electronique-eidas-qualifiee/" target="">
+          <div class="title">
+            <h4>Lettre Recommandée Électronique</h4>
+            <span class="icon-arrow-line-r"></span>
+          </div>
+          <p><p>La lettre recommandée électronique qualifiée par l’ANSSI est le strict équivalent numérique et juridique de la lettre recommandée papier avec avis de réception (LRAR).</p>
+</p>
+        </a>
+      </div>
+            <div class="bk-card--large" role="tabpanel" aria-labelledby="filtre-tab-2" id="filtre-panel-2">
+        <a title="" href="https://www.ar24.fr/produits-et-services/avis-electronique-pour-syndics-de-copropriete/" target="">
+          <div class="title">
+            <h4>Avis Électronique</h4>
+            <span class="icon-arrow-line-r"></span>
+          </div>
+          <p><p>Pour les syndics de copropriété : Convocation d’assemblées générales, PV d’AG et mises en demeure.</p>
+</p>
+        </a>
+      </div>
+            <div class="bk-card--large" role="tabpanel" aria-labelledby="filtre-tab-3" id="filtre-panel-3">
+        <a title="" href="https://www.ar24.fr/produits-et-services/lettre-recommandee-papier/" target="">
+          <div class="title">
+            <h4>Lettre Recommandée Papier</h4>
+            <span class="icon-arrow-line-r"></span>
+          </div>
+          <p><p>Lettre recommandée rédigée en ligne, imprimée par le groupe La Poste puis distribuée par le facteur.</p>
+</p>
+        </a>
+      </div>
+            <div class="bk-card--large" role="tabpanel" aria-labelledby="filtre-tab-4" id="filtre-panel-4">
+        <a title="" href="https://www.ar24.fr/produits-et-services/lettre-recommandee-optimale/" target="">
+          <div class="title">
+            <h4>Lettre Recommandée Optimale</h4>
+            <span class="icon-arrow-line-r"></span>
+          </div>
+          <p><p>Lettre recommandée dont le format de distribution est choisi par le destinataire : électronique ou papier.</p>
+</p>
+        </a>
+      </div>
+            <div class="bk-card--large" role="tabpanel" aria-labelledby="filtre-tab-5" id="filtre-panel-5">
+        <a title="" href="https://www.ar24.fr/produits-et-services/courrier-suivi-electronique/" target="">
+          <div class="title">
+            <h4>Envoi Recommandé Électronique Simple</h4>
+            <span class="icon-arrow-line-r"></span>
+          </div>
+          <p><p>Envoi avec accusé de réception sans vérification d’identité.</p>
+</p>
+        </a>
+      </div>
+      
+          </div>
+  </div>
+</div>
+
+<!-- end bk-card-select.tpl.html-->
+</div>
+
+<div class="paragraph" id="">
+<!-- start bk-timeline.tpl.html-->
+<h2 class="mb-m">Envoyez votre recommandé en ligne facilement</h2>
+<div class=" bk-timeline  ">
+
+  <div class="bk-timeline-elem">
+    <!-- SUPPRIMER OU LAISSER VIDE SI VERSION SANS IMAGE -->
+        <!-- /SUPPRIMER OU LAISSER VIDE SI VERSION SANS IMAGE/ -->
+    <div class="bk-timeline-elem-num" data-height="">
+      <p class="like-h2">1</p>
+    </div>
+    <div class="bk-timeline-elem-text"><p>Je crée un compte AR24 gratuitement</p>
+</div>
+  </div>
+
+  <div class="bk-timeline-elem">
+    <!-- SUPPRIMER OU LAISSER VIDE SI VERSION SANS IMAGE -->
+        <!-- /SUPPRIMER OU LAISSER VIDE SI VERSION SANS IMAGE/ -->
+    <div class="bk-timeline-elem-num" data-height="">
+      <p class="like-h2">2</p>
+    </div>
+    <div class="bk-timeline-elem-text"><p>Je me munis d’un <a href="https://www.ar24.fr/produits-et-services/les-moyens-didentification-expediteur/">moyen d’identification</a> ou j’en commande un sur le site AR24</p>
+</div>
+  </div>
+
+  <div class="bk-timeline-elem">
+    <!-- SUPPRIMER OU LAISSER VIDE SI VERSION SANS IMAGE -->
+        <!-- /SUPPRIMER OU LAISSER VIDE SI VERSION SANS IMAGE/ -->
+    <div class="bk-timeline-elem-num" data-height="">
+      <p class="like-h2">3</p>
+    </div>
+    <div class="bk-timeline-elem-text"><p>J’envoie ma première LRE et je reçois mes preuves électroniques</p>
+</div>
+  </div>
+
+
+<!-- end bk-timeline.tpl.html-->
+</div>
+
+<div class="bk-timeline__note"><p>Rappel : si votre destinataire n’est pas un professionnel, vous devez obtenir son consentement avant votre envoi. Vous pouvez recueillir celui-ci grâce à notre <a href="https://www.ar24.fr/produits-et-services/gestionnaire-de-consentements/">Gestionnaire de consentements</a>.</p>
+</div>
+
+<div class="btn-wrapper btn-wrapper--center">
+    <a href="https://app.ar24.fr/fr/user/register?mtm_campaign=cta-home&mtm_kwd=commencer-2" class="btn -primary" target="">Commencer</a>
+    <a href="https://www.ar24.fr/grands-comptes-ou-revendeurs/?mtm_campaign=cta-home&mtm_kwd=contacter-un-commercial-2" class="btn  btn--secondary" target="">Contacter un commercial</a>
+  </div>
+</div>
+
+<div class="paragraph-from-tablet" id="">
+<!-- start bk-card-security.tpl.html-->
+<div class="bk-card-security ">
+  <div class="grid grid--middle">
+        <div class="grid__cell 8/12--desktop 8/12--medium 1/1--tablet 1/1--mobile">
+     
+      <h2>Premier service de lettres recommandées électroniques qualifiées eIDAS par l’ANSSI</h2>
+      <p><p>AR24 est le premier prestataire de lettres recommandées électroniques qualifiées eIDAS en France par l’Agence Nationale de la Sécurité des Systèmes d'Information (ANSSI). Il est également le seul service proposant l’identification universelle et à distance du destinataire afin de rendre la LRE accessible à tous. Cette qualification vous assure la fiabilité et la sécurité de nos services.</p>
+</p>
+            <a title="Plus d’informations" class="btn btn--secondary" href="https://www.ar24.fr/certifications/" target="">Plus d’informations</a>
+                </div>
+        <div class="grid__cell 4/12--desktop 4/12--medium 1/1--tablet 1/1--mobile ta-c">
+      <!-- start img-lazy.tpl.html-->
+      <noscript class="loading-lazy">
+                <img class="" loading="lazy" src="/wp-content/uploads/2022/06/Visa-de-sécurité.svg" width="300" height="175" alt="Visa" />
+           
+      </noscript>
+      <!-- end img-lazy.tpl.html-->
+    </div>
+    </div>
+</div>
+<!-- end bk-card-security.tpl.html-->
+</div>
+
+<!-- TrustBox script  <script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script> End TrustBox script -->
+
+<div class="paragraph" id="">
+<!-- start bk-slider-avis.tpl.html-->
+<h2 class="mb-xxs">Ils utilisent nos lettres recommandées en ligne</h2><div id="avistrustpilottac"></div>
+<div class="bk-slider-avis">
+  <div class="bk-slider js-slider-avis" data-uniquelabel="Carrousel des avis">
+    <div class="js-slider-container">
+
+      
+<div class="bk-slider__slide">
+<!-- start bk-card-avis.tpl.html-->
+<div class="bk-card-avis">
+  <div>
+    <div class="bk-card-avis__id">
+      <p class="name like-h4">MOREAU Emilie</p>
+      <p class="function">Avocat à Angers</p>
+    </div>
+    <div>
+      <p class="content"><p>Service très pratique, plus besoin de se déplacer pendant les heures d&rsquo;ouverture du bureau de poste et gain de temps pour les clients qui peuvent ouvrir leur recommandé le soir même.</p>
+</p>
+    </div>
+  </div>
+    <div class="bk-card-avis__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/10/1-84x38.png" width="84" height="38" alt="1"
+  />
+</noscript>
+
+<!-- end img-lazy.tpl.html-->
+  </div>
+</div>
+
+<!-- end bk-card-avis.tpl.html-->
+</div>
+
+      
+<div class="bk-slider__slide">
+<!-- start bk-card-avis.tpl.html-->
+<div class="bk-card-avis">
+  <div>
+    <div class="bk-card-avis__id">
+      <p class="name like-h4">VIGUIER Henri</p>
+      <p class="function">Avocat à Marseille</p>
+    </div>
+    <div>
+      <p class="content"><p>Rapidité, efficacité et simplicité d&rsquo;utilisation, AR24 est la solution parfaite pour les envois papiers ou électroniques.</p>
+</p>
+    </div>
+  </div>
+    <div class="bk-card-avis__img">
+<!-- start img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <img class="" loading="lazy" src="https://www.ar24.fr/wp-content/uploads/2022/10/2-84x38.png" width="84" height="38" alt="2"
+  />
+</noscript>
+
+<!-- end img-lazy.tpl.html-->
+  </div>
+</div>
+
+<!-- end bk-card-avis.tpl.html-->
+</div>
+
+      
+<div class="bk-slider__slide">
+<!-- start bk-card-avis.tpl.html-->
+<div class="bk-card-avis">
+  <div>
+    <div class="bk-card-avis__id">
+      <p class="name like-h4">PINGUET Robert</p>
+      <p class="function">Agent immobilier</p>
+    </div>
+    <div>
+      <p class="content"><p>Simple et pratique à utiliser et à mettre en œuvre.</p>
+</p>
+    </div>
+  </div>
+  </div>
+
+<!-- end bk-card-avis.tpl.html-->
+</div>
+
+      
+<div class="bk-slider__slide">
+<!-- start bk-card-avis.tpl.html-->
+<div class="bk-card-avis">
+  <div>
+    <div class="bk-card-avis__id">
+      <p class="name like-h4">OREGGIA Laurence</p>
+      <p class="function">Clerc de notaire</p>
+    </div>
+    <div>
+      <p class="content"><p>Très bon outil de travail.</p>
+</p>
+    </div>
+  </div>
+  </div>
+
+<!-- end bk-card-avis.tpl.html-->
+</div>
+
+      
+<div class="bk-slider__slide">
+<!-- start bk-card-avis.tpl.html-->
+<div class="bk-card-avis">
+  <div>
+    <div class="bk-card-avis__id">
+      <p class="name like-h4">MICHEL Claudie</p>
+      <p class="function">Agent commercial</p>
+    </div>
+    <div>
+      <p class="content"><p>Site indispensable dans notre profession.</p>
+</p>
+    </div>
+  </div>
+  </div>
+
+<!-- end bk-card-avis.tpl.html-->
+</div>
+
+      
+<div class="bk-slider__slide">
+<!-- start bk-card-avis.tpl.html-->
+<div class="bk-card-avis">
+  <div>
+    <div class="bk-card-avis__id">
+      <p class="name like-h4">BOIRON Anthony</p>
+      <p class="function">Agent immobilier</p>
+    </div>
+    <div>
+      <p class="content"><p>Rapide efficace et sécurisé. Je l&rsquo;utilise souvent et c&rsquo;est très pratique. Cout beaucoup moins élevé à l&rsquo;envoi qu&rsquo;un dossier papier. Que du plus.</p>
+</p>
+    </div>
+  </div>
+  </div>
+
+<!-- end bk-card-avis.tpl.html-->
+</div>
+
+      
+      
+    </div>
+
+    <div class="bk-slider__controls">
+      <button type="button" class="bk-slider__prev js-slider-prev">
+        <span class="icon-arrow-l"></span>
+        <span class="out">Précédent</span>
+      </button>
+      <div class="bk-slider__dots js-slider-dots"></div>
+      <button type="button" class="bk-slider__next js-slider-next">
+        <span class="icon-arrow-r"></span>
+        <span class="out">Suivant</span>
+      </button>
+    </div>
+  </div>
+</div>
+
+<!-- end bk-slider-avis.tpl.html-->
+</div>
+<div class="paragraph" id="">
+  <h2>Dernières actualités</h2>  <div class="js-slider--mobile slider-actu" data-uniquelabel="Carrousel des actus">
+    <div class="js-slider-container grid" role="list">
+
+
+<div class="grid__cell 1/3--desktop 1/3--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-actu.tpl.html-->
+<div class="bk-card-actu">
+  <div class="bk-card-actu__top">
+<!-- start responsive-img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <picture class="">
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/cheque-impaye-350x200.png" media="(min-width: 1366px)"/>
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/cheque-impaye-350x200.png" media="(min-width: 1024px)"/>
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/cheque-impaye-350x200.png" media="(min-width: 768px)"/>
+     <a href="https://www.ar24.fr/entreprise/cheque-impaye-quelles-demarches-pour-les-entreprises-creancieres/" title="Chèque impayé : quelles démarches pour les entreprises créancières ?"><img src="https://www.ar24.fr/wp-content/uploads/2025/10/cheque-impaye-769x439.png" alt="chèque impayé" loading="lazy" width="350" height="200" /></a><!-- Image mobile -->
+  </picture>
+</noscript>
+
+<!-- end responsive-img-lazy.tpl.html-->
+  </div>
+
+  <div class="bk-card-actu__body">
+    <div class="bk-card-actu__body__date">13/10/2025</div>
+    <div class="bk-card-actu__body__text">
+      <a href="https://www.ar24.fr/entreprise/cheque-impaye-quelles-demarches-pour-les-entreprises-creancieres/" title="Chèque impayé : quelles démarches pour les entreprises créancières ?" class="bk-card-actu__body__title">Chèque impayé : quelles démarches pour les entreprises créancières ?</a>
+      <div class="separator"></div>
+      <div class="bk-card-actu__body__teaser"></div>
+    </div>
+  </div>
+</div>
+
+<!-- end bk-card-actu.tpl.html-->
+      </div>
+
+
+<div class="grid__cell 1/3--desktop 1/3--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-actu.tpl.html-->
+<div class="bk-card-actu">
+  <div class="bk-card-actu__top">
+<!-- start responsive-img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <picture class="">
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/Article_API-AR24-350x200.png" media="(min-width: 1366px)"/>
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/Article_API-AR24-350x200.png" media="(min-width: 1024px)"/>
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/Article_API-AR24-350x200.png" media="(min-width: 768px)"/>
+     <a href="https://www.ar24.fr/entreprise/api-ar24-integrer-l-envoi-de-courriers-recommandes-electroniques-dans-votre-logiciel-metier/" title="API AR24 : intégrer facilement l’envoi de courriers recommandés électroniques dans votre logiciel métier"><img src="https://www.ar24.fr/wp-content/uploads/2025/10/Article_API-AR24-769x439.png" alt="API AR24" loading="lazy" width="350" height="200" /></a><!-- Image mobile -->
+  </picture>
+</noscript>
+
+<!-- end responsive-img-lazy.tpl.html-->
+  </div>
+
+  <div class="bk-card-actu__body">
+    <div class="bk-card-actu__body__date">09/10/2025</div>
+    <div class="bk-card-actu__body__text">
+      <a href="https://www.ar24.fr/entreprise/api-ar24-integrer-l-envoi-de-courriers-recommandes-electroniques-dans-votre-logiciel-metier/" title="API AR24 : intégrer facilement l’envoi de courriers recommandés électroniques dans votre logiciel métier" class="bk-card-actu__body__title">API AR24 : intégrer facilement l’envoi de courriers recommandés électroniques dans votre logiciel métier</a>
+      <div class="separator"></div>
+      <div class="bk-card-actu__body__teaser"></div>
+    </div>
+  </div>
+</div>
+
+<!-- end bk-card-actu.tpl.html-->
+      </div>
+
+
+<div class="grid__cell 1/3--desktop 1/3--medium 1/2--tablet 1/1--mobile">
+<!-- start bk-card-actu.tpl.html-->
+<div class="bk-card-actu">
+  <div class="bk-card-actu__top">
+<!-- start responsive-img-lazy.tpl.html-->
+<noscript class="loading-lazy">
+  <picture class="">
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/attestation-employeur-350x200.png" media="(min-width: 1366px)"/>
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/attestation-employeur-350x200.png" media="(min-width: 1024px)"/>
+    <source srcset="https://www.ar24.fr/wp-content/uploads/2025/10/attestation-employeur-350x200.png" media="(min-width: 768px)"/>
+     <a href="https://www.ar24.fr/entreprise/attestation-employeur-et-fin-de-contrat-pourquoi-remettre-les-documents-au-salarie-par-lre-ar24/" title="Attestation employeur et fin de contrat : pourquoi remettre les documents au salarié par LRE AR24 ?"><img src="https://www.ar24.fr/wp-content/uploads/2025/10/attestation-employeur-769x439.png" alt="Attestation employeur" loading="lazy" width="350" height="200" /></a><!-- Image mobile -->
+  </picture>
+</noscript>
+
+<!-- end responsive-img-lazy.tpl.html-->
+  </div>
+
+  <div class="bk-card-actu__body">
+    <div class="bk-card-actu__body__date">06/10/2025</div>
+    <div class="bk-card-actu__body__text">
+      <a href="https://www.ar24.fr/entreprise/attestation-employeur-et-fin-de-contrat-pourquoi-remettre-les-documents-au-salarie-par-lre-ar24/" title="Attestation employeur et fin de contrat : pourquoi remettre les documents au salarié par LRE AR24 ?" class="bk-card-actu__body__title">Attestation employeur et fin de contrat : pourquoi remettre les documents au salarié par LRE AR24 ?</a>
+      <div class="separator"></div>
+      <div class="bk-card-actu__body__teaser"></div>
+    </div>
+  </div>
+</div>
+
+<!-- end bk-card-actu.tpl.html-->
+      </div>
+
+</div>
+<div class="bk-slider__controls">
+  <div class="bk-slider__dots js-slider-dots"></div>
+</div>
+</div>
+<div class="btn-wrapper btn-wrapper--center"><a title="Voir toutes les actualités" target="" class="btn btn--secondary" href="https://www.ar24.fr/blog/">Voir toutes les actualités</a></div>   
+</div>
+  
+
+
+
+
+
+<div class="paragraph" id="">
+<!-- start bk-accordion-columns.tpl.html-->
+<h2>Guides et FAQ</h2>  <h3 class="like-h4 mb-xxs">Nos sujets récurrents</h3>  <div class="grid grid--large">
+  
+    <div class="grid__cell 1/2--desktop 1/2--medium 1/2--tablet 1/1--mobile">
+      <div class="bk-accordion__list-item">
+        <button class="bk-accordion__list-item-label js-accordion-item" aria-expanded="false">
+          Quelle est la valeur juridique de la LRE ?          <span class="icon-accordion cross"></span>
+        </button>
+        <div class="bk-accordion__list-item-content wysiwyg-content js-accordion-item-content">
+          <p><p>La Lettre Recommandée Électronique AR24 (LRE) possède la même valeur juridique que le recommandé papier (LRAR) selon l&rsquo;article L100 du code des postes et des communications électroniques. Ainsi en cas de litige, la LRE possède une valeur probante devant un juge et offre toute la protection nécessaire à l’expéditeur.</p>
+</p>
+          <!--<p><a href="#" class="btn -primary">a.btn.-primary</a></p>-->
+        </div>
+      </div>
+    </div>
+   
+    <div class="grid__cell 1/2--desktop 1/2--medium 1/2--tablet 1/1--mobile">
+      <div class="bk-accordion__list-item">
+        <button class="bk-accordion__list-item-label js-accordion-item" aria-expanded="false">
+          Comment envoyer des recommandés en ligne ?          <span class="icon-accordion cross"></span>
+        </button>
+        <div class="bk-accordion__list-item-content wysiwyg-content js-accordion-item-content">
+          <p><p>Pour envoyer une LRE depuis ar24.fr, il suffit de :</p>
+<ol>
+<li>Créer son compte AR24 en ajoutant un moyen de paiement ;</li>
+<li>Accéder à la page « Nouvel envoi », choisir la lettre recommandée électronique ;</li>
+<li>S’authentifier à l’aide de son <a href="https://www.ar24.fr/produits-et-services/les-moyens-didentification-expediteur/">moyen d’identification</a>. Si vous n’en avez pas vous pouvez en commander un ;</li>
+<li>Rédiger sa LRE, ajouter les pièces jointes ;</li>
+<li>L’envoyer au destinataire.</li>
+</ol>
+</p>
+          <!--<p><a href="#" class="btn -primary">a.btn.-primary</a></p>-->
+        </div>
+      </div>
+    </div>
+   
+    <div class="grid__cell 1/2--desktop 1/2--medium 1/2--tablet 1/1--mobile">
+      <div class="bk-accordion__list-item">
+        <button class="bk-accordion__list-item-label js-accordion-item" aria-expanded="false">
+          Comment se déroule la réception d’un recommandé en ligne (LRE) ?          <span class="icon-accordion cross"></span>
+        </button>
+        <div class="bk-accordion__list-item-content wysiwyg-content js-accordion-item-content">
+          <p><ol>
+<li>Une fois la LRE rédigée dans l’interface AR24, elle est envoyée instantanément au destinataire, qui est immédiatement notifié par email. Il a 15 jours pour accuser réception de sa Lettre Recommandée Électronique.</li>
+<li>Le destinataire s’identifie pour accéder au contenu du courrier. Il peut faire cela <a href="https://www.ar24.fr/produits-et-services/les-moyens-didentification-destinataire/">à distance, de différentes manières</a>.</li>
+<li>Une fois que son identité validée, il accuse réception et vous, expéditeur, vous recevez une preuve de réception.</li>
+</ol>
+</p>
+          <!--<p><a href="#" class="btn -primary">a.btn.-primary</a></p>-->
+        </div>
+      </div>
+    </div>
+   
+    <div class="grid__cell 1/2--desktop 1/2--medium 1/2--tablet 1/1--mobile">
+      <div class="bk-accordion__list-item">
+        <button class="bk-accordion__list-item-label js-accordion-item" aria-expanded="false">
+          Quelles sont les preuves associées à la LRE ?          <span class="icon-accordion cross"></span>
+        </button>
+        <div class="bk-accordion__list-item-content wysiwyg-content js-accordion-item-content">
+          <p><p>Les preuves de la Lettres Recommandée Électronique sont équivalentes à celles d’un recommandé papier.</p>
+<ol>
+<li><a href="https://www.ar24.fr/lre/preuve-denvoi/">Preuve de dépôt et d’envoi</a> : Immédiatement reçue après l’envoi de la LRE, elle indique à l’expéditeur que la LRE a été déposée sur nos serveurs et envoyée à son destinataire.</li>
+<li><a href="https://www.ar24.fr/lre/accuse-de-reception/">Preuve de réception</a> : Si vous recevez la preuve de réception, cela signifie que le destinataire a bien accusé réception de sa LRE.</li>
+<li><a href="https://www.ar24.fr/lre/preuve-de-refus/">Preuve de refus</a> : Si vous recevez la preuve de refus, cela signifie que le destinataire a refusé votre lettre recommandée électronique.</li>
+<li><a href="https://www.ar24.fr/lre/preuve-de-negligence/">Preuve de négligence</a> : Elle indique que le destinataire n’a pas accusé réception de votre LRE dans les 15 jours qui suivent l’envoi.</li>
+</ol>
+</p>
+          <!--<p><a href="#" class="btn -primary">a.btn.-primary</a></p>-->
+        </div>
+      </div>
+    </div>
+   
+    <div class="grid__cell 1/2--desktop 1/2--medium 1/2--tablet 1/1--mobile">
+      <div class="bk-accordion__list-item">
+        <button class="bk-accordion__list-item-label js-accordion-item" aria-expanded="false">
+          Combien de pièces jointes puis-je ajouter dans une LRE ?          <span class="icon-accordion cross"></span>
+        </button>
+        <div class="bk-accordion__list-item-content wysiwyg-content js-accordion-item-content">
+          <p><p>Chaque Lettre Recommandée Électronique acheminée par AR24 comprend jusqu’à 256 Mo de pièces jointes sans surcoût.</p>
+<p>Avec 256 Mo de pièces jointes, il est possible d&rsquo;envoyer différents types de fichiers (PDF, JPEG, MP3&#8230;) des centaines d’images ou de scans en haute définition, ou encore des documents de plusieurs dizaines milliers de pages.</p>
+</p>
+          <!--<p><a href="#" class="btn -primary">a.btn.-primary</a></p>-->
+        </div>
+      </div>
+    </div>
+   
+    <div class="grid__cell 1/2--desktop 1/2--medium 1/2--tablet 1/1--mobile">
+      <div class="bk-accordion__list-item">
+        <button class="bk-accordion__list-item-label js-accordion-item" aria-expanded="false">
+          Puis-je faire confiance à AR24 pour l’acheminement de mes recommandés électroniques ?          <span class="icon-accordion cross"></span>
+        </button>
+        <div class="bk-accordion__list-item-content wysiwyg-content js-accordion-item-content">
+          <p><p>Choisir AR24 c’est choisir :</p>
+<ul>
+<li>Un prestataire de confiance qualifié par l’ANSSI et achemineur de lettres recommandées électroniques qualifiées eIDAS.</li>
+<li>Une solution de Docaposte, filiale du Groupe La Poste.</li>
+<li>Une infrastructure informatique ultra-sécurisée et un SAV efficace et disponible.</li>
+<li>Une expertise adaptée à chacun.</li>
+</ul>
+</p>
+          <!--<p><a href="#" class="btn -primary">a.btn.-primary</a></p>-->
+        </div>
+      </div>
+    </div>
+    
+  
+  </div>
+
+<!-- end bk-accordion-columns.tpl.html-->
+</div>
+<div class="paragraph">
+<!-- start bk-links.tpl.html-->
+<h3 class="like-h4">Liens utiles</h3><div class="bk-links ">
+    <a href="https://app.livestorm.co/ar24-2" target="" class="bk-link btn btn--useful">
+    <div class="bk-link__title">
+      <p>Nos webinaires</p>
+      <span class="icon-arrow-r"></span>
+    </div>
+  </a>
+    <a href="https://www.ar24.fr/questions/" target="" class="bk-link btn btn--useful">
+    <div class="bk-link__title">
+      <p>Nos FAQ</p>
+      <span class="icon-arrow-r"></span>
+    </div>
+  </a>
+  </div>
+
+<!-- long-arrow = icon avec branche -->
+<!-- half = largeur limitée à 50% -->
+
+<!-- end bk-links.tpl.html-->
+</div>
+
+<div class="paragraph-from-tablet" id="">
+<!-- start bk-card-contact.tpl.html-->
+<div class="bk-card-contact">
+  <h2>Contact et Support</h2>
+  <p><p>Notre service clients est à votre disposition par email ou par téléphone.</p>
+</p>  <a class="btn btn--secondary" href="https://www.ar24.fr/contact/?mtm_campaign=cta-home&mtm_kwd=nous-contacter" target="">Nous contacter</a></div>
+
+<!-- end bk-card-contact.tpl.html-->
+</div>
+
+<!-- end main -->
+</main>
+
+<!-- start footer.tpl.html-->
+<div class="footer__wrapper" id="anchor-footer">
+  <footer role="contentinfo" class="footer">
+    <a href="#page-top" class="btn-back-to-top js-btn-back-to-top"><span class="icon-arrow-t"></span><span class="out">Retour en haut de page</span></a>
+
+    <div class="footer__top site-content">
+      <ul>
+                <li class="like-h4">Assistance</li>
+                    <li><a href="https://app.livestorm.co/ar24-2" target="" title="Webinaires">Webinaires</a></li>
+                <li><a href="/questions/" target="" title="FAQ">FAQ</a></li>
+                <li><a href="https://www.ar24.fr/ma-lre/" target="" title="J'ai reçu une LRE">J'ai reçu une LRE</a></li>
+                <li><a href="https://app.ar24.fr/fr/page/email" target="" title="Vérifier un email">Vérifier un email</a></li>
+                <li><a href="https://otp-client.ar24.fr/" target="" title="Générateur de codes à usage unique">Générateur de codes à usage unique</a></li>
+                <li><a href="https://www.ar24.fr/contact/" target="" title="Nous contacter">Nous contacter</a></li>
+              </ul>
+      <ul>
+                <li class="like-h4">À propos</li>
+                      <li><a href="https://www.ar24.fr/qui-sommes-nous/" target="" title="Qui sommes-nous ?">Qui sommes-nous ?</a></li>
+                <li><a href="https://www.ar24.fr/blog/" target="" title="Blog">Blog</a></li>
+                <li><a href="https://www.ar24.fr/integration-api/" target="" title="Intégration API">Intégration API</a></li>
+                <li><a href="https://www.ar24.fr/lre/" target="" title="Portail LRE">Portail LRE</a></li>
+                <li><a href="https://www.ar24.fr/avantages/" target="" title="Avantages">Avantages</a></li>
+                <li><a href="https://www.ar24.fr/certifications/" target="" title="Certifications">Certifications</a></li>
+                <li><a href="https://www.ar24.fr/category/assurance/" target="" title="Assurance">Assurance</a></li>
+              </ul>
+      <ul class="inline-list">
+                <li><a class="obflink" title="LinkedIn" data-o="aHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2NvbXBhbnkvYXIyNA==" target="_blank"><span class="icon-linkedin"></span></a></li>
+                <li><a class="obflink" title="Facebook" data-o="aHR0cHM6Ly93d3cuZmFjZWJvb2suY29tL2FyMjQuZnI=" target="_blank"><span class="icon-facebook"></span></a></li>
+                <li><a class="obflink" title="Twitter" data-o="aHR0cHM6Ly90d2l0dGVyLmNvbS9BUjI0X2Zy" target="_blank"><span class="icon-twitter"></span></a></li>
+                <li><a class="obflink" title="YouTube" data-o="aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ3A4WWd3OWhWTHk5LTdPQ2Q3VGV2MGc=" target="_blank"><span class="icon-youtube"></span></a></li>
+             
+      </ul>
+    </div>
+    <div class="footer__middle site-content">
+      <div>
+        <p>Tous droits réservés AR24 2024.<br />
+Hébergé en France. 🇫🇷</p>
+<p>AR24 est une solution de Docaposte, filiale de <img decoding="async" class="alignnone size-full wp-image-9793" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2055%2036'%3E%3C/svg%3E" alt="" width="55" height="36" data-lazy-src="https://www.ar24.fr/wp-content/uploads/2023/01/LA_POSTE_JAUNE_footer.png" /><noscript><img decoding="async" class="alignnone size-full wp-image-9793" src="https://www.ar24.fr/wp-content/uploads/2023/01/LA_POSTE_JAUNE_footer.png" alt="" width="55" height="36" /></noscript></p>
+      </div>
+      <div>
+                  <img src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20170%2075'%3E%3C/svg%3E" width="170" height="75" alt="" data-lazy-src="https://www.ar24.fr/wp-content/uploads/2025/01/logo_DOCAPOSTE_RVB_CS.png"><noscript><img src="https://www.ar24.fr/wp-content/uploads/2025/01/logo_DOCAPOSTE_RVB_CS.png" width="170" height="75" alt=""></noscript>
+              </div>
+    </div>
+    <div class="footer__bottom site-content">
+      <ul class="inline-list">
+                <li><a href="https://www.ar24.fr/mentions-legales/" target="" title="Mentions légales">Mentions légales</a></li>
+                <li><a href="https://www.ar24.fr/politique-de-confidentialite/" target="" title="Politique de confidentialité">Politique de confidentialité</a></li>
+                <li><a href="https://www.ar24.fr/politique-cookies-ar24/" target="" title="Politique de cookies">Politique de cookies</a></li>
+                <li><a href="#tarteaucitron" target="" title="Gestion des cookies">Gestion des cookies</a></li>
+                <li><a href="https://www.ar24.fr/cgu-pvid/" target="_blank" title="CGU du Service PVID">CGU du Service PVID</a></li>
+                <li><a href="https://www.ar24.fr/politique-de-confidentialite-pvid/" target="" title="Politique de confidentialité du Service PVID">Politique de confidentialité du Service PVID</a></li>
+                <li><a href="https://www.ar24.fr/declaration-daccessibilite-ar24-fr-site-institutionnel/" target="" title="Accessibilité : non conforme">Accessibilité : non conforme</a></li>
+              </ul>
+    </div>
+  </footer>
+</div>
+<div id="warning-modal" class="popin popin--s mfp-hide"><p>Pour voir les vidéos Youtube, vous devez accepter les cookies associés. Vous pouvez modifier vos préférences en termes de cookies en <a class="js-close-popin" href="#tarteaucitron" title="Gestion des cookies">cliquant ici</a>.</p></div>
+<!-- end footer.tpl.html-->
+
+</div>
+<script type="rocketlazyloadscript" data-rocket-src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.js?features=Array.prototype.find,Promise,Object.assign" data-rocket-defer defer></script> <!-- TO DO, insert script with vendors on local to avoid multiple network calls -->
+
+<link data-minify="1" rel="stylesheet" type="text/css" href="https://www.ar24.fr/wp-content/cache/min/1/wp-content/themes/ar24/assets/css/main.css?ver=1760349949"/>
+<link rel="stylesheet" type="text/css" href="https://www.ar24.fr/wp-content/themes/ar24/assets/css/print.css" media="print"/>
+<script type="rocketlazyloadscript" data-rocket-type="text/javascript" data-rocket-src="https://www.ar24.fr/wp-content/themes/ar24/assets/js/scripts.min.js" data-rocket-defer defer></script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/ar24\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script type="rocketlazyloadscript" id="cf7ic_script-js-before">
+const cf7ic_ajax_url = "https://www.ar24.fr/wp-admin/admin-ajax.php";
+const ai1ic_audio_url = "https://www.ar24.fr/ai1ic/audio/";
+const ai1ic_plugin_url = "https://www.ar24.fr/wp-content/plugins/cf7-image-captcha-pro/";
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.ar24.fr/wp-content/cache/min/1/wp-content/plugins/cf7-image-captcha-pro/js/cf7ic-script.js?ver=1760349949" id="cf7ic_script-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.ar24.fr/wp-content/cache/min/1/wp-content/themes/ar24/js/navigation.js?ver=1760349949" id="ar24-navigation-js" data-rocket-defer defer></script>
+<script type="rocketlazyloadscript" id="heateor_sss_sharing_js-js-before">
+function heateorSssLoadEvent(e) {var t=window.onload;if (typeof window.onload!="function") {window.onload=e}else{window.onload=function() {t();e()}}};	var heateorSssSharingAjaxUrl = 'https://www.ar24.fr/wp-admin/admin-ajax.php', heateorSssCloseIconPath = 'https://www.ar24.fr/wp-content/plugins/sassy-social-share/public/../images/close.png', heateorSssPluginIconPath = 'https://www.ar24.fr/wp-content/plugins/sassy-social-share/public/../images/logo.png', heateorSssHorizontalSharingCountEnable = 0, heateorSssVerticalSharingCountEnable = 0, heateorSssSharingOffset = -10; var heateorSssMobileStickySharingEnabled = 0;var heateorSssCopyLinkMessage = "Link copied.";var heateorSssUrlCountFetched = [], heateorSssSharesText = 'Shares', heateorSssShareText = 'Share';function heateorSssPopup(e) {window.open(e,"popUpWindow","height=400,width=600,left=400,top=100,resizable,scrollbars,toolbar=0,personalbar=0,menubar=no,location=no,directories=no,status")}
+</script>
+<script type="rocketlazyloadscript" data-minify="1" data-rocket-src="https://www.ar24.fr/wp-content/cache/min/1/wp-content/plugins/sassy-social-share/public/js/sassy-social-share-public.js?ver=1760349950" id="heateor_sss_sharing_js-js" data-rocket-defer defer></script>
+<script id="ivory-search-scripts-js-extra">
+var IvorySearchVars = {"is_analytics_enabled":"1"};
+</script>
+<script type="rocketlazyloadscript" data-rocket-src="https://www.ar24.fr/wp-content/plugins/add-search-to-menu/public/js/ivory-search.min.js?ver=5.5.11" id="ivory-search-scripts-js" data-rocket-defer defer></script>
+<script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async src="https://www.ar24.fr/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js"></script></body>
+</html>
+<!-- This website is like a Rocket, isn't it? Performance optimized by WP Rocket. Learn more: https://wp-rocket.me - Debug: cached@1760372246 -->

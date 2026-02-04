@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /*prefn*
+Disallow: /*prefv*
+Disallow: /*pmin
+Disallow: /*pmax
+Disallow: /carrinho*
+Disallow: /*srule*
+Disallow: /conta/
+Disallow: /checkout*
+Disallow: *view=grid*
+Disallow: *view=list*
+Disallow: /quickview*
+Disallow: /resultados-pesquisa-wells*
+Disallow: /*Product-ShowQuickView
+Disallow: /natal.html
+Disallow: /*Search-UpdateGrid
+ 
+Disallow: /*Analytics-Start 
+Disallow: /*Product-Variation
+Disallow: /*title-description-contactUs*
+Disallow: /*bebe-e-mama/essenciais-do-bebe
+Disallow: /ver-detalhe-folheto-campanha-promocoes
+Disallow: /*?bundleReferral=
+ 
+Sitemap: https://wells.pt/sitemap_index.xml

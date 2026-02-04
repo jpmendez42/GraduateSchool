@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: *orderby
+Disallow: *filter
+Disallow: *min_price
+Disallow: *max_price
+Disallow: *redirect
+Disallow: *s=
+Disallow: *filter_brand
+Disallow: *filter_color
+Disallow: *query_type
+Disallow: *filter_gender
+Disallow: *guide-accordion
+Disallow: *store-map-overlay
+Disallow: *?add-to-cart=
+#Nuove regole Queryo
+Disallow: *?disponibile=
+Disallow: *?novita=
+Disallow: /my-account/
+Disallow: /cart/
+Disallow: /checkout/
+
+Sitemap: https://www.toyscenter.it/sitemap_index.xml
+
+User-agent: sistrix
+Disallow: /
+
+User-agent: SISTRIX Crawler
+Disallow: /
+
+User-agent: SISTRIX
+Disallow: /

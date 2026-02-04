@@ -1,0 +1,51 @@
+User-agent: *
+Disallow: /usuarios/
+Disallow: /club/
+Disallow: /comunes/
+Disallow: /login.html
+Disallow: /buscador/
+Disallow: /concursos
+Disallow: /boletin/
+Disallow: /feeds
+Disallow: /revista/
+
+Disallow: /horoscopo/semanal/aries
+Disallow: /horoscopo/semanal/tauro
+Disallow: /horoscopo/semanal/geminis
+Disallow: /horoscopo/semanal/cancer
+Disallow: /horoscopo/semanal/leo
+Disallow: /horoscopo/semanal/virgo
+Disallow: /horoscopo/semanal/libra
+Disallow: /horoscopo/semanal/escorpio
+Disallow: /horoscopo/semanal/sagitario
+Disallow: /horoscopo/semanal/capricornio
+Disallow: /horoscopo/semanal/acuario
+Disallow: /horoscopo/semanal/piscis
+
+Disallow: /horoscopo/horoscopo-semanal
+
+Disallow: /*?_gl=*
+Disallow: /*?fbclid=*
+Disallow: /*/{{link}}$
+Disallow: /*/{{url}}$
+
+User-agent: GPTBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Perplexity-User
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: Claude-SearchBot
+Disallow: /

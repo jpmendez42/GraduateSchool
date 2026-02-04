@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /bin/
+Disallow: /includes/files/
+Disallow: /static/generated/
+Disallow: /static/generated_external/
+Disallow: /static/template/
+Allow: /web/video_redirect.aspx?*
+Allow: /web/feed*
+Disallow: /web/
+Disallow: /interactive/vota.asp*
+Disallow: /ultimissime/flash.asp?ticker=*
+Disallow: /credits/informativa-privacy-cookie-368986.html
+Disallow: /includes/files/privacy.htm
+
+Sitemap: https://www.affaritaliani.it/sitemap.xml
+

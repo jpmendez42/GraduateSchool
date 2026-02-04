@@ -1,0 +1,25 @@
+User-agent: Bytespider
+Disallow: /
+User-agent: *
+Crawl-delay: 10
+Allow: /
+Disallow: /fileadmin/_temp_
+Disallow: /fileadmin/portal/intranet/ 
+Disallow: /fileadmin/user_upload/  
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+Disallow: /typo3/
+Disallow: /piwik/
+# Only allow URLs generated with RealURL
+Disallow: /*?id=*
+Disallow: /*&id=*
+# L=0 is the default language
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+# typeNum = 98 is usually the print version.
+Disallow: /*?type=98*
+Disallow: /*&type=98*
+Disallow: /*?cHash*
+Disallow: /*?tx_powermail_pi1*  
+Disallow: /*?tx_ttnews
+Sitemap:  https://computerspielenacht.htwk-leipzig.de/sitemapindex.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: *drawer*
+Disallow: *Drawer*
+Disallow: *DRAWER*
+Disallow: *varukorg*
+Disallow: */handla/*NO_BINDING*
+Sitemap: https://www.tre.se/sitemap.xml
+Sitemap: https://s3.eu-central-1.amazonaws.com/sitemaps.customersaas.com/tre-se/sv_sv/sitemap.xml
+Host: https://www.tre.se

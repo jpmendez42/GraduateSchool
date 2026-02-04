@@ -1,0 +1,29 @@
+# Paths (index.php URLs)
+Disallow: /index.php/*
+
+# Paths (clean URLs)
+Disallow: /admin
+Disallow: /comment/reply
+Disallow: /contact
+Disallow: /logout
+Disallow: /node/add
+Disallow: /search
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+
+# Paths (no clean URLs) – fixed!
+Disallow: /?q=admin
+Disallow: /?q=comment/reply
+Disallow: /?q=contact
+Disallow: /?q=logout
+Disallow: /?q=node/add
+Disallow: /?q=search
+Disallow: /?q=user/password
+Disallow: /?q=user/register
+Disallow: /?q=user/login
+
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+

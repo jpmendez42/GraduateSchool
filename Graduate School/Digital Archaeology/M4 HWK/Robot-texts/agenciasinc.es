@@ -1,0 +1,37 @@
+User-agent: *
+Allow: /
+Allow: /var/ezwebin_site/storage/
+Allow: /var/ezwebin_site/cache/public/stylesheets/
+Allow: /var/ezwebin_site/cache/public/javascript/
+Disallow: /En-exclusiva/
+Disallow: /admin/
+Disallow: /sincadmin/
+Disallow: /extension/
+Disallow: /bundles/
+Disallow: /share/
+Disallow: /js/
+Disallow: /css/
+Disallow: /design/
+Disallow: /ezwebin_site_admin/
+Disallow: /audios/
+Disallow: /UserFiles/
+Disallow: /layout/
+Disallow: /promo/
+Disallow: /bin/
+Disallow: /kernel/
+Disallow: /lib/
+Disallow: /settings/
+Disallow: /update/
+Disallow: /support/
+Disallow: /schemas/
+Disallow: /print/
+Disallow: /instituciones/
+Disallow: /institutions/
+Disallow: /utils/
+Disallow: /en/
+Disallow: /eng/
+Disallow: /content/keyword/
+Disallow: /content/download/
+
+
+Sitemap: https://www.agenciasinc.es/sitemap.xml

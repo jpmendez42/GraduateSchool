@@ -1,0 +1,9 @@
+User-Agent:*
+Disallow: /edit
+Sitemap: https://uma-x.jp/sitemap.gz
+
+User-agent: Bingbot
+Crawl-delay: 2
+
+User-agent: AhrefsBot
+Crawl-delay: 60

@@ -1,0 +1,91 @@
+User-agent: *
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /*customer/account/
+Disallow: /sendfriend/
+Disallow: /*SID=
+Disallow: /*?q=
+Disallow: /*?
+Disallow: /*product_list_dir
+Disallow: /*product_list_order
+Disallow: /*product_list_limit
+Disallow: /*product_list_mode
+Disallow: /*producttype
+Disallow: /*?price
+Disallow: /*?morfi
+Disallow: /*?perioxtekotita
+Disallow: /*?packing
+Disallow: /*?peeling
+Disallow: /*?ingredientscream
+Disallow: /*?skin_type
+Disallow: /*?offers
+Disallow: /*?ingredients
+Disallow: /*?condition
+Disallow: /*start
+Disallow: /*?aln=✓
+Disallow: *?replytocom
+Allow: /*?___store
+Allow: /*?_store
+Allow: /*?__store
+Allow: /*?start
+Allow: /*-start
+Allow: /*-restart
+Allow: /*-strongstart
+Allow: /*?p
+Allow: /*?PageSpeed
+Allow: /*&start
+Allow: /*pub
+Allow: /*amp
+Allow: /*css?family=Roboto
+Allow: /*?Itemid=0
+Allow: /*?width
+
+User-agent: dotbot
+Crawl-delay: 5
+
+User-agent: rogerbot
+Crawl-delay: 5
+
+# Allow AI search and agent use
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: PerplexityBot
+User-agent: FirecrawlAgent
+User-agent: AndiBot
+User-agent: ExaBot
+User-agent: PhindBot
+User-agent: YouBot
+Allow: /
+
+# Disallow AI training data collection
+User-agent: GPTBot
+User-agent: CCBot
+User-agent: Google-Extended
+Disallow: /
+
+# Allow traditional search indexing
+User-agent: Googlebot
+User-agent: Bingbot
+Allow: /
+
+# Disallow access to admin areas for all bots
+User-agent: *
+Disallow: /admin/
+Disallow: /internal/
+
+
+Sitemap: https://www.vita4you.gr/pub/media/feed/sitemap/siteproductsen.xml
+Sitemap: https://www.vita4you.gr/pub/media/feed/sitemap/siteproductsgr.xml
+
+Sitemap: https://www.vita4you.gr/pub/media/feed/sitemap/sitecategoriesen.xml
+Sitemap: https://www.vita4you.gr/pub/media/feed/sitemap/sitecategoriesgr.xml
+Sitemap: https://www.vita4you.gr/pub/media/feed/sitemap/sitepagesen.xml
+Sitemap: https://www.vita4you.gr/pub/media/feed/sitemap/sitepagesgr.xml
+
+Sitemap: https://www.vita4you.gr/blog-vita4you/sitemap.xml

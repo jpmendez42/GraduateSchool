@@ -1,0 +1,95 @@
+#  =========================  
+# SVT robots.txt – governs AI and search access to SVT content  
+# Use of our content for AI training is not permitted  
+# Access for public search indexing is allowed  
+#  =========================  
+
+# Allow search engines  
+User-agent: Bingbot  
+Allow: /  
+
+User-agent: ChatGPT-User   
+Allow: /  
+
+User-agent: Googlebot  
+Allow: /  
+
+User-agent: OAI-Search   
+Allow: /  
+
+User-agent: PerplexityBot   
+Allow: /  
+
+# Disallow known AI training crawlers  
+User-agent: 360Spider   
+Disallow: /  
+
+User-agent: Amazonbot   
+Disallow: /  
+
+User-agent: anthropic-ai   
+Disallow: /  
+
+User-agent: Applebot-Extended  
+Disallow: /  
+
+User-agent: BaiChuanBot   
+Disallow: /  
+
+User-agent: Bytespider   
+Disallow: /  
+
+User-agent: CCBot   
+Disallow: /  
+
+User-agent: ClaudeBot   
+Disallow: /  
+
+User-agent: DeepSeekBot   
+Disallow: /  
+
+User-agent: Meta-ExternalAgent   
+Disallow: /  
+
+User-agent: Meta-ExternalFetcher   
+Disallow: /  
+
+User-agent: Omgilibot   
+Disallow: /  
+
+User-agent: Sogou Spider   
+Disallow: /  
+
+User-agent: TansuoBot   
+Disallow: /  
+
+User-agent: WeChatBot   
+Disallow: /  
+
+User-agent: Yibot   
+Disallow: /  
+ 
+User-agent: ZhipuAI   
+Disallow: /  
+
+User-agent: Google-Extended 
+Disallow: / 
+
+User-agent: GPTBot 
+Disallow: /
+
+# Allow social sharing previews  
+User-agent: facebookexternalhit   
+Allow: /  
+ 
+User-agent: LinkedInBot 
+Allow: / 
+ 
+User-agent: Twitterbot   
+Allow: / 
+
+# Host
+Host: https://www.svtplay.se
+
+# Sitemaps
+Sitemap: https://www.svtplay.se/sitemap.xml

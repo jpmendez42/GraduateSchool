@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: *
+Disallow: /new
+
+User-agent: *
+Disallow: /check.php
+
+
+User-agent: *
+Disallow: /affgo.php

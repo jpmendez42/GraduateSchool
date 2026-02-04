@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-json/
+Disallow: /*?
+Disallow: /*?p=*
+Disallow: /*?s=*
+Disallow: /search/
+Disallow: /news/page/*
+Disallow: /category/*/page/*
+Disallow: /tag/
+Disallow: /author/
+Disallow: /*/?random-post=1
+Crawl-delay: 10
+Sitemap: https://www.onlarissa.gr/sitemap_index.xml

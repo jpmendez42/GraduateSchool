@@ -1,0 +1,24 @@
+﻿User-agent: *
+Disallow: /admin/
+Disallow: /css/
+Disallow: /classes/
+Disallow: /logs/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /useruploads/
+Disallow: /js/
+Disallow: /xsl/
+Crawl-delay: 1
+
+User-agent: Yandex
+Disallow: /admin/
+Disallow: /css/
+Disallow: /classes/
+Disallow: /logs/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /useruploads/
+Disallow: /js/
+Disallow: /xsl/
+Crawl-delay: 1
+Host: gumrf.ru

@@ -1,0 +1,871 @@
+
+<!doctype html>
+<html lang="ja">
+<head>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5D3T9G5');</script>
+<!-- End Google Tag Manager -->
+    
+<meta charset="utf-8">
+<meta name="viewport" content="width=980px">
+<title>～ご満足クオリティ～北の快適工房｜公式サイトトップページ</title>
+<meta name="keywords" content="健康食品,通販,北の快適工房">
+<meta name="description" content="北の快適工房は「ビックリするほど良い商品ができた時にしか発売しないこと」がコンセプトの健康食品・化粧品のブランドです。">
+<!-- favicon -->
+<link rel="shortcut icon" href="images/favicon.ico">
+<!-- ogp ↓ -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@kaitekikobo">
+<meta property="og:title" content="～ご満足クオリティ～北の快適工房">
+<meta property="og:description" content="北の快適工房は「ビックリするほど良い商品ができた時にしか発売しないこと」がコンセプトの健康食品・化粧品のブランドです。">
+<meta property="og:image" content="https://www.kaitekikobo.jp/ogp_images/ogp_kobologo.png" />
+<meta property="og:url" content="https://www.kaitekikobo.jp/">
+<!-- ogp ↑ -->
+
+<!-- css -->
+<link href="css/style.css" rel="stylesheet" type="text/css">
+
+<!-- js -->
+<script type="text/javascript" src='https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
+<script src="js/bxslider.js"></script>
+<script src="js/script.js"></script>
+
+<!--ヘッダースクロールJS-->
+<script src="https://www.kaitekikobo.jp/js/jquery.marquee.js"></script>
+<script>
+$(function () {
+  $('p.ticker2').each(function(){
+    if ($(this).text().replace(/\s+/g,'').length > 20) {
+          $(this).marquee();
+        }
+});
+});
+</script>
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="js/html5shiv.js"></script>
+<script src="js/selectivizr-min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<!-- alternateタグ -->
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.kaitekikobo.jp/sp/" >
+<!-- End alternateタグ -->
+
+</head>
+
+<body id="pagetop">
+    
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5D3T9G5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+    
+<!--============================
+	ヘッダー
+==============================-->
+
+<a href="/?kheader"></a>
+<a name="top"></a>
+<!--============================ 
+	ヘッダー
+==============================-->
+<header class="header mb10">
+	<div class="container clearFix">
+<!--スクロール表示：20文字以上でスクロール表示されます-->
+
+    <p class="ticker2">
+	・・・・・<a href="https://www.kaitekikobo.jp/news/#link_250528">【新商品情報】『リフィスト』発売開始のお知らせ</a><br>
+	<!--・・・・・<a href="https://www.kaitekikobo.jp/attention230605.php">【お知らせ】インターネット上での風評被害について</a>-->
+   <!-- ・・・・・<a href="https://www.kaitekikobo.jp/news/#link_20230922">【新商品情報】『ハックティック』発売開始のお知らせ</a>-->
+    <!--・・・・・<a href="https://www.kaitekikobo.jp/news/#link_20230301">【新商品情報】『ヒアロエイド』発売開始のお知らせ</a>
+    ・・・・・<a href="https://www.kaitekikobo.jp/news/#link_20220729">NP後払い手数料変更のお知らせ</a>
+        ・・・・・<a href="https://www.kaitekikobo.jp/news/index.php#link_20221005_kb">『黒梅日和』販売終了のお詫びとお知らせ</a>-->
+        <!--    ・・・・・<a href="https://www.kaitekikobo.jp/news/#link_20220329_01">【新商品情報】『ピンテ』発売開始のお知らせ</a>-->
+    </p>
+	<!--スクロールEND-->    
+		<h1 class="left mt15"><a href="http://www.kaitekikobo.jp/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/header_logo.png" alt="北の快適工房"></a></h1>
+		<ul class="right ta_right mt40">
+			<li class="btn01"><a href="https://www.kaitekikobo.jp/soudan/index.php#shitsumon">よくあるお問合わせ</a></li>
+			<li class="btn02"><a href="https://teiki.in/">ログイン（定期専用マイページ）</a></li>
+		</ul>
+	</div>
+</header>
+<!--============================ 
+	グローバルナビ
+==============================-->
+<nav class="gn sticker no_adjust">
+	<ul class="clearFix pos_rel">
+		<li><a href="http://www.kaitekikobo.jp/bace/"><img src="https://www.kaitekikobo.jp/images/common/header/gn01.png" alt="私たちの原点" class="btn"></a></li>
+		<li><a href="http://www.kaitekikobo.jp/concept/"><img src="https://www.kaitekikobo.jp/images/common/header/gn02.png" alt="ものづくりの考え方" class="btn"></a></li>
+		<li class="dd dd01"><a href="http://www.kaitekikobo.jp/shopping/"><img src="https://www.kaitekikobo.jp/images/common/header/gn03.png" alt="商品一覧" class="btn"></a>
+			<div class="box clearFix box_item_w" style="overflow: hidden; display: none;">
+				<div class="right clearFix box_item">
+					<div class="box03">
+						<h3>ビューティーライン</h3>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/lif-ist/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img49.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/lif-ist/">リフィスト</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/sarabrich/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img48.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/sarabrich/">サラブリッチ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/cashymilk/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img47.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/cashymilk/">速乾キャシーミルク</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/flashwa/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img46.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/flashwa/">フラシュワ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/hack-tick/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img45.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/hack-tick/">ハックティック</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/pin-te/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img43.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/pin-te/">ピンテ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/shinpist/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img38.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/shinpist/">シンピスト</a></dd>
+						</dl>
+                        <dl>
+							<dt><a href="https://www.kaitekikobo.jp/eyekirara/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img12.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/eyekirara/">アイキララII</a></dd>
+						</dl>
+                        <dl>
+							<dt><a href="https://www.kaitekikobo.jp/cheekpore/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img35.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/cheekpore/">チークポアパッチ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/odekodeep/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img34.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/odekodeep/">オデコディープパッチ</a></dd>
+						</dl>
+					</div>
+					<div class="box04">
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/mikendeep/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img32.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/mikendeep/">ミケンディープパッチ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/hyalodeep/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img19.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/hyalodeep/">ヒアロディープパッチ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/hoippu/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img11_2.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/hoippu/">二十年ほいっぷ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/carenanopack/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img18_2.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/carenanopack/">CARE NANO PACK<br>-ケアナノパック-</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/maymewhite60/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img20_2.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/maymewhite60/">メイミーホワイト60</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/luminapeel/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img22.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/luminapeel/">ルミナピール</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/lidkirara/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img24.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/lidkirara/">リッドキララ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/handpurena/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img28.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/handpurena/">ハンドピュレナ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/neckesthe/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img29.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/neckesthe/">ネックエステミスト</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/fizzy-spa/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img50.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/fizzy-spa/">フィジスパ</a></dd>
+						</dl>
+					</div>
+					<div class="box01">
+						<h3>カイテキライン：ヘルスケア</h3>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/origo/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img01.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/origo/">カイテキオリゴ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/doka/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img02.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/doka/">カイテキどかスリム茶</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/susucha/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img03.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/susucha/">えぞ式すーすー茶</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/yumeshizuku/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img04.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/yumeshizuku/">北の大地の夢しずく</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/koujukan/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img05.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/koujukan/">紅珠漢～こうじゅかん～</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/zuki/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img06.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/zuki/">ずきしらずの実</a></dd>
+						</dl>
+                        <dl>
+							<dt><a href="https://www.kaitekikobo.jp/okosamaorigo/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img31.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/okosamaorigo/">おこさま用カイテキオリゴ</a></dd>
+						</dl>
+                        <dl>
+							<dt><a href="https://www.kaitekikobo.jp/hyaloaid/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img44.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/hyaloaid/">ヒアロエイド</a></dd>
+						</dl>
+						<h3 class="head_household">カイテキライン：<br>ハウスホールドケア</h3>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/rimosavon/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img27.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/rimosavon/">リモサボン</a></dd>
+						</dl>
+					</div>
+					
+					<div class="box02">
+						<h3>カイテキライン：スキンケア</h3>
+                        <dl>
+							<dt><a href="https://www.kaitekikobo.jp/clear/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img10.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/clear/">みんなの肌潤糖<br>～クリアタイプ～</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/scrub/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img07.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/scrub/">みんなの肌潤糖<br>～アトケアタイプ～</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/hadajunlotion/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img08.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/hadajunlotion/">みんなの肌潤ろーしょん</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/hb/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img09.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/hb/">みんなの肌潤風呂</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/clearfootveil/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img13_2.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/clearfootveil/">クリアフットヴェール</a></dd>
+						</dl>
+                        
+                        <dl>
+							<dt><a href="https://www.kaitekikobo.jp/nonosmell/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img14.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/nonosmell/">ノーノースメル</a></dd>
+						</dl>
+                        <dl>
+							<dt><a href="https://www.kaitekikobo.jp/cs-shot/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img16.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/cs-shot/">クリアストロングショット<br>アルファ</a></dd>
+						</dl>
+                        <h3 class="head_gramens">メンズライン</h3>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/moudas/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img40.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/moudas/">モウダス 薬用 発毛促進剤</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/mens-eyekirara/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img30.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/mens-eyekirara/">メンズアイキララ</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/peelshot/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img36.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/peelshot/">ピールショット</a></dd>
+						</dl>
+						<dl>
+							<dt><a href="https://www.kaitekikobo.jp/hari-shu/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/header/dd01_img37.png" alt="image"></a></dt>
+							<dd><a href="https://www.kaitekikobo.jp/hari-shu/">ハリシュ</a></dd>
+						</dl>
+					</div>
+					
+				</div>
+			</div>
+		</li>
+		<li class="dd dd02"><a href="http://www.kaitekikobo.jp/guide/"><img src="https://www.kaitekikobo.jp/images/common/header/gn04.png" alt="ご利用ガイド" class="btn"></a>
+			<div class="box">
+				<h2 class="ta_center left"><img src="https://www.kaitekikobo.jp/images/common/header/dd02_ttl.png" alt="ご利用ガイド"></h2>
+				<div class="right">
+					<ul class="clearFix">
+<li><a href="https://www.kaitekikobo.jp/guide/#link01">定期購入について</a></li>
+<li><a href="https://www.kaitekikobo.jp/guide/#link02">商品の追加購入について</a></li>
+<li><a href="https://www.kaitekikobo.jp/guide/#link03">送料・配送方法について</a></li>
+<li><a href="https://www.kaitekikobo.jp/guide/#link04">お支払い方法について</a></li>
+<li><a href="https://www.kaitekikobo.jp/guide/#link05">返品交換について</a></li>
+<li><a href="https://www.kaitekikobo.jp/guide/#link07">全額返金保証制度について</a></li>
+					</ul>
+				</div>
+			</div>
+		</li>
+		<li><a href="http://www.kaitekikobo.jp/soudan/"><img src="https://www.kaitekikobo.jp/images/common/header/gn05.png" alt="相談・お問合わせ" class="btn"></a></li>
+	</ul>
+</nav>
+<!--============================
+	メインイメージ
+==============================-->
+
+<div class="mainimage mb40"> <!-- スライドショー -->
+	<div class="slide_wrap">
+		<div class="slide_wrap01" style="height: 410px;">
+			<div class="slide_wrap02">
+				<ul class="slideshow">
+					
+					<li><a href="http://www.kaitekikobo.jp/shopping/"><img src="images/top/slide01.jpg" alt="slide"></a></li>
+					<li><a href="https://www.super-cart.net/cart/transfers?ad_id=kobo_topslide_LI&item_id=LI"><img src="images/top/slide_pc_li.jpg" alt="slide"></a></li>
+					<li><a href="https://www.super-cart.net/cart/transfers?ad_id=kobo_topslide_CH&item_id=CH"><img src="images/top/slide_pc_ch.jpg" alt="slide"></a></li>
+					
+					<!--<li><a href="https://www.super-cart.net/cart/transfers?ad_id=kobo_topslide_pc_si&item_id=SI"><img src="images/top/slide_pc_si_sale02.jpg" alt="slide"></a></li>-->
+					<li><a href="https://www.kaitekikobo.jp/shopping/"><img src="images/top/slide04.jpg" alt="slide"></a></li>
+					<li><a href="http://www.kaitekikobo.jp/bace/"><img src="images/top/slide02.jpg" alt="slide"></a></li>
+					<li><a href="http://www.kaitekikobo.jp/concept/"><img src="images/top/slide03.jpg" alt="slide"></a></li>
+					<li><a href="http://www.kaitekikobo.jp/soudan/"><img src="images/top/slide05.jpg" alt="slide"></a></li>
+				</ul><!-- /slideshow -->
+				<!--<ul class="bx-pager clearFix">
+					<li><a data-slide-index="0" href=""><img src="images/top/slide_pc_attention_thumb.png" alt="thumb"></a></li>
+					<li><a data-slide-index="1" href=""><img src="images/top/slide_pc_ai_thumb.jpg" alt="thumb"></a></li>-->
+					<!--<li><a data-slide-index="1" href=""><img src="images/top/slide_pc_si_sale02_thumb.jpg" alt="thumb"></a></li>-->
+					<!--<li><a data-slide-index="2" href=""><img src="images/top/thumb04.png" alt="thumb"></a></li>
+					<li><a data-slide-index="3" href=""><img src="images/top/thumb02.png" alt="thumb"></a></li>
+					<li><a data-slide-index="4" href=""><img src="images/top/thumb03.png" alt="thumb"></a></li>
+					<li><a data-slide-index="5" href=""><img src="images/top/thumb05.jpg" alt="thumb"></a></li>
+					<li><a data-slide-index="6" href=""><img src="images/top/thumb01.png" alt="thumb"></a></li>
+				</ul>-->
+			</div><!-- /slide_wrap02 -->
+		</div><!-- /slide_wrap01 -->
+	</div><!-- /slide_wrap -->
+</div><!-- /mainimage -->
+
+<div class="container clearFix">
+
+	<!--============================
+		コンテンツ
+	==============================-->
+	<div class="contents">
+		
+		<!-- attention -->
+		<div style="margin: 0 0 1rem; text-align: center; background:  #fff; border: 1px solid #e6e6e6;">
+			<a href="https://www.kaitekikobo.jp/attention240228.php" style="display: inline-block; border-bottom: 1px dashed #ccc;"><img src="images/top/top_pc_attention_bnr_01.png" alt="弊社のメールアドレスを使用したフィッシング詐欺にご注意ください"></a>
+			<a href="https://www.kaitekikobo.jp/attention230605.php" style="display: inline-block; border-bottom: 1px dashed #ccc;"><img src="images/top/top_pc_attention_bnr_02.png" alt="インターネット上での風評被害について"></a>
+			<a href="https://www.kaitekikobo.jp/attention250718.php"><img src="images/top/top_pc_attention_bnr_03.png" alt="なりすましアカウントに関する注意喚起のお知らせ"></a>
+        </div>
+			
+		<!-- sec01 -->
+		<section class="top_sec01 mb40">
+			<h2 class="pos_rel mb15"><img src="images/top/top_sec01_ttl.png" alt="商品一覧"><span class="pos_ab allbtn"><a href="https://www.kaitekikobo.jp/shopping/"><img src="images/top/top_sec01_btn.png" alt="商品すべてをみる"></a></span></h2>
+			<div class="slider_wrap">
+				<ul class="slider ta_center">
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/fizzy-spa/" class="fade"><img src="images/top/item50.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/fizzy-spa/">フィジスパ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/lif-ist/" class="fade"><img src="images/top/item49.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/lif-ist/">リフィスト</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/sarabrich/" class="fade"><img src="images/top/item48.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/sarabrich/">サラブリッチ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/cashymilk/" class="fade"><img src="images/top/item47.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/cashymilk/">速乾キャシーミルク</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/flashwa/" class="fade"><img src="images/top/item46.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/flashwa/">フラシュワ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/hack-tick/" class="fade"><img src="images/top/item45.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/hack-tick/">ハックティック</a></p>
+					</li>
+                    <li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/hyaloaid/" class="fade"><img src="images/top/item44.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/hyaloaid/">ヒアロエイド</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/pin-te/" class="fade"><img src="images/top/item43.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/pin-te/">ピンテ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/moudas/" class="fade"><img src="images/top/item40.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/moudas/">モウダス 薬用 発毛促進剤</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/shinpist/" class="fade"><img src="images/top/item38.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/shinpist/">シンピスト</a></p>
+					</li>
+                    <li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/cheekpore/" class="fade"><img src="images/top/item35.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/cheekpore/">チークポアパッチ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/odekodeep/" class="fade"><img src="images/top/item34.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/odekodeep/">オデコディープパッチ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/mikendeep/" class="fade"><img src="images/top/item32.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/mikendeep/">ミケンディープパッチ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/hyalodeep/" class="fade"><img src="images/top/item19.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/hyalodeep/">ヒアロディープパッチ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/hoippu/" class="fade"><img src="images/top/item11_2.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/hoippu/">二十年ほいっぷ</a></p>
+					</li>
+                    <li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/eyekirara/" class="fade"><img src="images/top/item12.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/eyekirara/">アイキララII</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/carenanopack/" class="fade"><img src="images/top/item18_2.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/carenanopack/">CARE NANO PACK<br>
+					-ケアナノパック-</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/maymewhite60/" class="fade"><img src="images/top/item20_2.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/maymewhite60/">メイミーホワイト60</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/luminapeel/" class="fade"><img src="images/top/item22.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/luminapeel/">ルミナピール</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/lidkirara/" class="fade"><img src="images/top/item24.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/lidkirara/">リッドキララ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/handpurena/" class="fade"><img src="images/top/item28.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/handpurena/">ハンドピュレナ</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/neckesthe/" class="fade"><img src="images/top/item29.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/neckesthe/">ネックエステミスト</a></p>
+					</li>
+					<li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/origo/" class="fade"><img src="images/top/item01.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/origo/">カイテキオリゴ</a></p>
+
+					</li>
+					<li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/doka/" class="fade"><img src="images/top/item02.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/doka/">カイテキどかスリム茶</a></p>
+					</li>
+					<li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/susucha/" class="fade"><img src="images/top/item03.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/susucha/">えぞ式すーすー茶</a></p>
+					</li>
+					<li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/yumeshizuku/" class="fade"><img src="images/top/item04.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/yumeshizuku/">北の大地の夢しずく</a></p>
+					</li>
+					<li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/koujukan/" class="fade"><img src="images/top/item05.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/koujukan/">紅珠漢～こうじゅかん～</a></p>
+					</li>
+					<li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/zuki/" class="fade"><img src="images/top/item06.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/zuki/">ずきしらずの実</a></p>
+					</li>
+                    <li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/okosamaorigo/" class="fade"><img src="images/top/item31.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/okosamaorigo/">おこさま用カイテキオリゴ</a></p>
+					</li>
+					<li>
+						<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/clear/" class="fade"><img src="images/top/item10.png" alt="item"></a></figure></div>
+						<p><a href="https://www.kaitekikobo.jp/clear/">みんなの肌潤糖<br>～クリアタイプ～</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/scrub/" class="fade"><img src="images/top/item07.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/scrub/">みんなの肌潤糖<br>～アトケアタイプ～</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/hadajunlotion/" class="fade"><img src="images/top/item08.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/hadajunlotion/">みんなの肌潤ろーしょん</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/hb/" class="fade"><img src="images/top/item09.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/hb/">みんなの肌潤風呂</a></p>
+					</li>
+					<li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/rimosavon/" class="fade"><img src="images/top/item27.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/rimosavon/">リモサボン</a></p>
+					</li>
+                    <li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/clearfootveil/" class="fade"><img src="images/top/item13_2.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/clearfootveil/">クリアフットヴェール</a></p>
+					</li>
+                    <li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/nonosmell/" class="fade"><img src="images/top/item14.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/nonosmell/">ノーノースメル</a></p>
+					</li>
+                    <li>
+					<div class="img_box"><figure><a href="https://www.kaitekikobo.jp/cs-shot/" class="fade"><img src="images/top/item16.png" alt="item"></a></figure></div>
+					<p><a href="https://www.kaitekikobo.jp/cs-shot/">クリアストロングショット アルファ</a></p>
+					</li>
+					 <li>
+					  <div class="img_box"><figure><a href="https://www.kaitekikobo.jp/mens-eyekirara/" class="fade"><img src="images/top/item30.png" alt="item"></a></figure></div>
+					  <p><a href="https://www.kaitekikobo.jp/mens-eyekirara/">メンズアイキララ</a></p>
+     				</li>
+					 <li>
+					  <div class="img_box"><figure><a href="https://www.kaitekikobo.jp/peelshot/" class="fade"><img src="images/top/item36.png" alt="item"></a></figure></div>
+					  <p><a href="https://www.kaitekikobo.jp/peelshot/">ピールショット</a></p>
+     				</li>
+					 <li>
+					  <div class="img_box"><figure><a href="https://www.kaitekikobo.jp/hari-shu/" class="fade"><img src="images/top/item37.png" alt="item"></a></figure></div>
+					  <p><a href="https://www.kaitekikobo.jp/hari-shu/">ハリシュ</a></p>
+     				</li>
+				</ul>
+			</div>
+		</section><!-- /sec01 -->
+
+		
+		<section class="top_sec02 mb40">
+			<h2 class="pos_rel"><img src="images/top/top_sec_media_ttl_d1_pc.png" alt="ニュース"><span class="pos_ab allbtn"><a href="https://www.kaitekikobo.jp/media/"><img src="images/top/top_sec_media_btn01.jpg" alt="詳しくはこちら"></a></span></h2>
+			<div class="box media_box">
+			<div class="slider_wrap">
+				<ul class="slider ta_center">
+    <li>
+		<a href="https://www.kaitekikobo.jp/media/#link_media_20250922"><img src="media/images/media_250922.png" alt=""></a>
+	</li>
+    <li>
+		<a href="https://www.kaitekikobo.jp/media/#link_media_20250916"><img src="media/images/media_250916.png" alt=""></a>
+	</li>
+    <li>
+		<a href="https://www.kaitekikobo.jp/media/#link_media_20250827"><img src="media/images/media_250827.png" alt=""></a>
+	</li>
+    <li>
+		<a href="https://www.kaitekikobo.jp/media/#link_media_20250428"><img src="media/images/media_250428.png" alt=""></a>
+	</li>
+    <li>
+		<a href="https://www.kaitekikobo.jp/media/#link_media_20250314"><img src="media/images/media_250314.png" alt=""></a>
+	</li>
+    <li>
+		<a href="https://www.kaitekikobo.jp/media/#link_media_20250128"><img src="media/images/media_250128.png" alt=""></a>
+	</li>
+				</ul>
+			</div>
+			</div>
+		</section>
+		
+		<!-- sec02 -->
+		<section class="top_sec02 mb40">
+			<h2 class="pos_rel"><img src="images/top/top_sec_news_ttl_pc.png" alt="ニュース"><span class="pos_ab allbtn pos_ab_media"><a href="http://www.kaitekikobo.jp/news/"><img src="images/top/top_sec02_btn01.png" alt="過去の情報"></a></span></h2>
+			<div class="box">
+        	<dl>
+					<dt class="category"><img src="images/top/new_ico02.png" alt="お知らせ"></dt>
+					<dd class="discription">
+					<!--<time>2020年10月20日 </time>-->
+						<p><a href="https://kaitekikobo.jp/guinness/">ギネス世界記録認定のお知らせ</a></p>
+					</dd>
+					<dd class="more_btn ta_right allbtn"><a href="https://kaitekikobo.jp/guinness/"><img src="images/top/top_sec02_btn02.png" alt="詳細はこちら"></a></dd>
+       		 </dl>
+				
+				<dl>
+		  		  <dt class="category"><img src="images/top/new_ico02.png" alt="お知らせ"></dt>
+					<dd class="discription">
+						<p><a href="https://www.kaitekikobo.jp/news/index.php#link_attention_tel">
+							電話番号のおかけ間違いにご注意ください
+						</a></p>
+					</dd>
+					<dd class="more_btn ta_right allbtn">
+						<a href="https://www.kaitekikobo.jp/news/index.php#link_attention_tel"><img src="images/top/top_sec02_btn02.png" alt="詳細はこちら"></a>
+					</dd>
+				</dl>
+				<dl>
+					<dt class="category"><img src="images/top/new_ico01.png" alt="更新"></dt>
+					<dd class="discription">
+					  <time>2025年9月16日</time>
+					  <p><a href="https://kaitekinotane.blog.jp/">快適のタネ「582話」を更新しました！<br>
+				      今回は、「<strong>秋が近づいたら残暑バテにご用心</strong>」をお届けします。</a></p>
+					  </dd>
+					<dd class="more_btn ta_right allbtn"><a href="http://kaitekinotane.blog.jp/"><img src="images/top/top_sec02_btn02.png" alt="詳細はこちら"></a></dd>
+				</dl>
+				<dl>
+		  		  <dt class="category"><img src="images/top/new_ico02.png" alt="お知らせ"></dt>
+					<dd class="discription">
+						<time>2025年5月28日</time>
+						<p><a href="https://www.kaitekikobo.jp/news/index.php#link_250528">
+							【新商品情報】次世代のリフトアップ<span class="fo07">※</span>マイクロニードル化粧品<br>『リフィスト』発売開始のお知らせ</a><br><span class="fo07">※パッチの物理的効果
+						</a></p>
+					</dd>
+					<dd class="more_btn ta_right allbtn">
+						<a href="https://www.kaitekikobo.jp/news/index.php#link_250528"><img src="images/top/top_sec02_btn02.png" alt="詳細はこちら"></a>
+					</dd>
+				</dl>
+
+				
+<!--				<dl>
+				  <dt class="category"><img src="images/top/new_ico02.png" alt="お知らせ"></dt>
+				  <dd class="discription">
+					<time>2024年9月30日</time>
+					<p><a href="http://www.kaitekikobo.jp/news/index.php#link_20240930">
+					  【新商品情報】「ケア」と「速乾」を同時に叶えるヘアトリートメント<br>
+						『速乾キャシーミルク』発売開始のお知らせ
+					</a></p>
+				  </dd>
+				  <dd class="more_btn ta_right allbtn">
+					<a href="http://www.kaitekikobo.jp/news/index.php#link_20240930"><img src="images/top/top_sec02_btn02.png" alt="詳細はこちら"></a>
+				  </dd>
+       		 	</dl>-->
+		  </div>
+		</section>
+			<!-- /sec02 -->
+
+
+		<div class="box_wrap clearFix">
+
+			<!-- sec03 -->
+			<section class="top_sec03 box50">
+				<h2><a href="http://kobodayori.blog.jp/" target="_blank" class="fade"><img src="images/top/top_sec03_ttl.png" alt="工房だより"></a></h2>
+				<div class="box">
+					<p>北の快適工房代表木下からの、月に１回のお手紙。北海道の風景や、工房の風景をお届けいたします。</p>
+				</div>
+			</section><!-- /sec03 -->
+
+			<!-- sec04 -->
+			<section class="top_sec04 box50">
+				<h2><a href="http://kaitekinotane.blog.jp/" target="_blank" class="fade"><img src="images/top/top_sec04_ttl.png" alt="快適のタネ"></a></h2>
+				<div class="box">
+					<p>健康管理士からの目からうろこの健康ネタが盛りだくさん。快適な暮らしのための健康コラム。</p>
+				</div>
+			</section><!-- /sec04 -->
+		</div>
+			
+	</div><!-- /contents -->
+
+	<!--============================
+		サイドバー
+	==============================-->
+	<aside class="sidebar">
+
+		<!-- sec01 -->
+		<section class="side_sec01 box mb20">
+			<h2><img src="images/common/side_sec01_ttl.png" alt="マイページ"></h2>
+			<p class="ta_center mb15 allbtn"><a href="http://teiki.in/teiki/login.php"><img src="images/common/side_sec01_btn.png" alt="ログインはこちら"></a></p>
+			<ul class="list_arrow">
+				<li><a href="https://teiki.in/webdb/login/login">定期コース/仮予約コースの変更・解約</a></li>
+				<li><a href="https://teiki.in/webdb/login/login">コース内容変更（お届け日など）</a></li>
+				<li><a href="https://teiki.in/webdb/login/login">お客様情報の変更</a></li>
+			</ul>
+			<p class="ta_center mb00 mt10"><img src="images/common/side_tel_pc_01.png" alt="24時間受付自動音声ダイヤル"></p>
+			<p class="tel_text mb00 mt00">
+				定期コースの確認・変更・解約は<br>
+				自動音声ダイヤルでも承っております。<br>
+				その他のご相談は<a href="https://www.kaitekikobo.jp/soudan/">こちら</a>
+			</p>
+	
+			<p class="tel_text mb00">
+				<img src="images/common/side_tel_pc_02.png" alt="24時間受付自動音声ダイヤル" class="mb05">
+				<span class="fo-blue bold">（番号のおかけ間違いにご注意ください）</span>
+				
+			</p>
+			<p class="bdt_dashed" style="width: 90%; margin: 0 auto; padding: 10px 5px 5px;">
+				<span class="fo-brown bold">ご注文時の電話番号の端末から<br>ご連絡ください。</span>
+			</p>
+	
+		</section>
+		<!-- /sec01 -->
+
+		<!-- 新商品情報 -->
+        
+		<section class="side_sec02 box mb20">
+			<h2 class="mb10"><img src="images/common/side_sec02_ttl.png" alt="新商品情報"></h2>
+			<figure class="ta_center mb05"><a href="https://www.kaitekikobo.jp/lif-ist/" class="fade"><img src="images/common/side_sec02_img_li.png" alt="item"></a></figure>
+			<p class="ta_right pr15 allbtn"><a href="https://www.kaitekikobo.jp/lif-ist/"><img src="images/common/side_sec02_btn.png" alt="もっとみる"></a></p>	
+		</section>
+
+        <!-- /sec02 -->
+
+		<section class="side_csr box mb20">
+			<figure class="ta_center allbtn"><a href="https://www.kaitekikobo.jp/user/comment.php"><img src="images/common/comment_bnr_pc.gif" alt="体験談のご投稿はこちら"></a></figure>
+		</section>
+		
+		<section class="side_csr box mb20">
+			<figure class="ta_center allbtn"><a href="https://www.kaitekikobo.jp/eco/"><img src="images/common/eco_bnr_pc.gif" alt="～地球の未来を守る取り組み～エコプロジェクト"></a></figure>
+		</section>		
+		
+		<section class="side_csr box mb20">
+			<figure class="ta_center allbtn"><a href="https://www.kaitekikobo.jp/ill_resaler/"><img src="images/common/resaler_bnr01_pc.gif" alt="転売品・類似品にご注意ください"></a></figure>
+		</section>
+		
+	</aside><!-- /sidebar -->
+
+</div>
+
+<!--============================
+	フッター
+==============================-->
+<div class="footer_chat_wrap"><!-- chatbot設置ページ用wrap -->
+    
+<footer class="footer mt40">
+	<div class="container clearFix">
+		<div class="box">
+			<h2><a href="http://www.kaitekikobo.jp/">トップ</a></h2>
+			<ul class="list_arrow mb10">
+				<li><a href="http://www.kaitekikobo.jp/bace/">私たちの原点</a></li>
+				<li><a href="http://www.kaitekikobo.jp/concept/">モノづくりの考え方</a></li>
+				<li><a href="http://www.kaitekikobo.jp/news/">ニュース</a></li>
+				<li class="mb30"><a href="http://www.kaitekikobo.jp/eco/">エコプロジェクト</a></li>
+			</ul>
+			<h2><a href="http://www.kaitekikobo.jp/guide/">ご利用ガイド</a></h2>
+			<ul class="list_arrow">
+				<li><a href="http://www.kaitekikobo.jp/guide/#link01">定期購入について</a></li>
+				<li><a href="http://www.kaitekikobo.jp/guide/#link02">商品の追加購入について</a></li>
+				<li><a href="http://www.kaitekikobo.jp/guide/#link03">送料・配送方法について</a></li>
+				<li><a href="http://www.kaitekikobo.jp/guide/#link04">お支払い方法について</a></li>
+				<li><a href="http://www.kaitekikobo.jp/guide/#link05">返品交換について</a></li>
+				<!--<li><a href="http://www.kaitekikobo.jp/guide/#link06">税込総額の算出について</a></li>-->
+				<li><a href="http://www.kaitekikobo.jp/kaiyaku/">ご解約について</a></li>
+				<li><a href="https://www.kaitekikobo.jp/soudan/">相談・お問合わせ</a></li>
+			</ul>
+		</div>
+<div class="box">
+			<h2>ビューティーライン</h2>
+			<ul class="list_arrow">
+				<li><a href="https://www.kaitekikobo.jp/lif-ist/">リフィスト</a></li>
+				<li><a href="https://www.kaitekikobo.jp/sarabrich/">サラブリッチ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/cashymilk/">速乾キャシーミルク</a></li>
+				<li><a href="https://www.kaitekikobo.jp/flashwa/">フラシュワ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/hack-tick/">ハックティック</a></li>
+				<li><a href="https://www.kaitekikobo.jp/pin-te/">ピンテ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/shinpist/">シンピスト</a></li>
+                <li><a href="https://www.kaitekikobo.jp/eyekirara/">アイキララII</a></li>
+                <li><a href="https://www.kaitekikobo.jp/cheekpore/">チークポアパッチ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/odekodeep/">オデコディープパッチ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/mikendeep/">ミケンディープパッチ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/hyalodeep/">ヒアロディープパッチ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/hoippu/">二十年ほいっぷ</a></li>
+                <li><a href="https://www.kaitekikobo.jp/carenanopack/">CARE NANO PACK<br>-ケアナノパック-</a></li>
+				<li><a href="https://www.kaitekikobo.jp/maymewhite60/">メイミーホワイト60</a></li>
+				<li><a href="https://www.kaitekikobo.jp/luminapeel/">ルミナピール</a></li>
+				<li><a href="https://www.kaitekikobo.jp/lidkirara/">リッドキララ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/handpurena/">ハンドピュレナ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/neckesthe/">ネックエステミスト</a></li>
+				<li><a href="https://www.kaitekikobo.jp/fizzy-spa/">フィジスパ</a></li>
+			</ul>
+		</div>
+		<div class="box2">
+			<h2>カイテキライン：ヘルスケア</h2>
+			<ul class="list_arrow mb10">
+				<li><a href="https://www.kaitekikobo.jp/origo/">カイテキオリゴ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/doka/">カイテキどかスリム茶</a></li>
+				<li><a href="https://www.kaitekikobo.jp/susucha/">えぞ式すーすー茶</a></li>
+				<li><a href="https://www.kaitekikobo.jp/yumeshizuku/">北の大地の夢しずく</a></li>
+				<li><a href="https://www.kaitekikobo.jp/koujukan/">紅珠漢～こうじゅかん～</a></li>
+				<li><a href="https://www.kaitekikobo.jp/zuki/">ずきしらずの実</a></li>
+				<li><a href="https://www.kaitekikobo.jp/okosamaorigo/">おこさま用カイテキオリゴ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/hyaloaid/">ヒアロエイド</a></li>
+			</ul>
+		</div>
+
+		<div class="box2">
+			<h2>カイテキライン：スキンケア</h2>
+			<ul class="list_arrow">
+				<li><a href="https://www.kaitekikobo.jp/clear/">みんなの肌潤糖<br>～クリアタイプ～</a></li>
+				<li><a href="https://www.kaitekikobo.jp/scrub/">みんなの肌潤糖<br>～アトケアタイプ～</a></li>
+				<li><a href="http://www.kaitekikobo.jp/hadajunlotion/">みんなの肌潤ろーしょん</a></li>
+				<li><a href="https://www.kaitekikobo.jp/hb/">みんなの肌潤風呂</a></li>
+				<li><a href="https://www.kaitekikobo.jp/clearfootveil/">クリアフットヴェール</a></li>
+                <li><a href="http://www.kaitekikobo.jp/nonosmell/">ノーノースメル</a></li>
+				<li><a href="https://www.kaitekikobo.jp/cs-shot/">クリアストロングショット<br>アルファ</a></li>
+			</ul>
+		</div>
+		
+		
+
+		<div class="box">
+			<h2>カイテキライン：<br>ハウスホールドケア</h2>
+			<ul class="list_arrow mb10">
+				<li><a href="https://www.kaitekikobo.jp/rimosavon/">リモサボン</a></li>
+			</ul>
+			<h2 class="h2_other">メンズライン</h2>
+			<ul class="list_arrow">
+				<li><a href="https://www.kaitekikobo.jp/moudas/">モウダス 薬用 発毛促進剤</a></li>
+				<li><a href="https://www.kaitekikobo.jp/mens-eyekirara/">メンズアイキララ</a></li>
+				<li><a href="https://www.kaitekikobo.jp/peelshot/">ピールショット</a></li>
+				<li><a href="https://www.kaitekikobo.jp/hari-shu/">ハリシュ</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="container clearFix">
+		<!-- sns -->
+		<table width="185" border="1" align="center" cellpadding="1" cellspacing="0" style="border-collapse: collapse; margin: 20px auto 0;">
+			<tbody>
+                <tr>
+                    
+				<td width="33%" style="padding: 0 5px; text-align: center;">
+                    <a href="https://twitter.com/kaitekikobo">
+                        <img src="https://kaitekikobo.jp/images/sns/x_logo.png" width="40px">
+                    </a>
+                    
+				</td><td width="33%" style="padding: 0 5px; text-align: center;">
+                    <a href="https://line.me/R/ti/p/%40116daiaa">
+                        <img src="https://kaitekikobo.jp/images/sns/line.png" width="40px">
+                    </a>
+                    
+				</td><td width="34%" style="padding: 0 5px; text-align: center;">
+                    <a href="https://www.instagram.com/kitanokaitekikobo/">
+                        <img src="https://kaitekikobo.jp/images/sns/Instagram.png" width="40px">
+                    </a>
+                </td>
+                </tr>
+		  </tbody>
+		</table>
+	<div class="box3">
+			<ul>
+				<li class="mb10"><a href="https://privacymark.jp/" target="_blank" class="fade"><img src="https://www.kaitekikobo.jp/images/common/footer/footer_bnr01.png" alt="プライバシーマーク"></a></li>
+				<li class="mb10"><a href="https://jadma.or.jp/" target="_blank" class="fade"><img src="https://www.kaitekikobo.jp/images/common/footer/footer_bnr02.png" alt="JDMA"></a></li>
+                <li><img src="/images/common/footer/footer_bnr03_2.png" alt=""></li>
+			</ul>
+		</div>
+	</div>
+	<p class="footer_logo ta_center"><a href="http://www.kaitekikobo.jp/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/footer/footer_logo.png" alt="北の快適工房"></a></p>
+	
+	<ul class="copyright ta_center">
+		<li><a href="http://www.kaitekikobo.jp/corporate/#link_01">ご利用規約</a></li>
+		<li><a href="http://www.kaitekikobo.jp/corporate/#link_02">個人情報保護方針</a></li>
+		<li><a href="http://www.kaitekikobo.jp/corporate/#link_03">特定商取引法に基づく表記</a></li>
+		<li>Copyright© Kitano-Kaitekikobo All rights reserved.</li>
+	</ul>
+	
+	<!--SNS -->
+	<ul class="footer_sns ta_center">
+		<li class="mb20"><a href="http://www.kaitekikobo.jp/soudan/" class="fade"><img src="https://www.kaitekikobo.jp/images/common/footer/footer_ico02.png" alt="Contact"></a></li>
+		<li><a href="#pagetop" class="fade"><img src="https://www.kaitekikobo.jp/images/common/footer/pagetop02.png" alt="facebook"></a></li>
+	</ul><!-- /footer_sns -->
+</footer>
+
+
+<!--Google Analytics kaitekikobo-->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-117049-29']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--Google Analytics-ここまで--></div>	
+    
+<!-- チャットボット用 -->
+<script>(function(){
+var w=window,d=document;
+var s="https://app.chatplus.jp/cp.js";
+d["__cp_d"]="https://app.chatplus.jp";
+d["__cp_c"]="fcb0b4fa_1";
+var a=d.createElement("script"), m=d.getElementsByTagName("script")[0];
+a.async=true,a.src=s,m.parentNode.insertBefore(a,m);})();</script>
+<!-- チャットボット用 -->
+        
+</body>
+</html>

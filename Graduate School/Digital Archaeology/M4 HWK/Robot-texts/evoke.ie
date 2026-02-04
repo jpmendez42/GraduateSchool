@@ -1,0 +1,26 @@
+Sitemap: https://evoke.ie/sitemap.xml
+Sitemap: https://evoke.ie/news-sitemap.xml
+# Global rules
+# -----------------
+User-Agent: *
+Disallow: /cgi-bin
+Disallow: /wp-
+Disallow: /?s=
+Disallow: *&s=           
+Disallow: /search           
+Disallow: *?attachment_id=
+Disallow: */embed
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/
+Allow: /*/*.js           
+Allow: /*/*.css           
+Allow: /wp-*.png          
+Allow: /wp-*.jpg          
+Allow: /wp-*.jpeg        
+Allow: /wp-*.gif           
+Allow: /wp-*.svg          
+Allow: /wp-*.pdf
+
+User-agent: PetalBot
+Disallow: /

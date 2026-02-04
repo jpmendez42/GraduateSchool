@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: */?
+Disallow: */account/
+Disallow: */checkout/
+Disallow: */widgets/
+Disallow: */navigation/
+Disallow: */bundles/
+
+Disallow: */impressum$
+Disallow: */datenschutz$
+Disallow: */agb$
+
+Disallow: */admin/
+Disallow: */wishlist/
+
+Disallow: */dvsn/
+
+Sitemap: https://www.pollin.de/sitemap.xml
+
+# de

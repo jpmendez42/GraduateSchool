@@ -1,0 +1,42 @@
+User-agent: *
+
+Allow: /
+
+Host: https://www.systembolaget.se
+
+Disallow: /bestalla-och-handla/privatimport/forfragan/bekraftelse/
+Disallow: /nytt/dryckesauktioner/att-salja-pa-auktion/varderingsformular/
+Disallow: /bestalla-och-handla/privatimport/forfragan/
+Disallow: /presentkort/bestall-presentkort/
+Disallow: /mina-sidor/mina-privatimporter/privatimport/
+Disallow: /mina-sidor/mina-bestallningar/min-bestallning/
+Disallow: /mina-sidor/mina-listor/min-lista/
+Disallow: /mina-sidor/mina-bevakningar/
+Disallow: /mina-sidor/mina-bestallningar/
+Disallow: /mina-sidor/mina-privatimporter/
+Disallow: /mina-sidor/mina-bokningar/
+Disallow: /mina-sidor/mina-kontouppgifter/
+Disallow: /mina-sidor/mina-listor/
+Disallow: /kopflode/varukorg/
+Disallow: /kopflode/varukorgleverans/
+Disallow: /kopflode/varukorgkontaktuppgifter/
+Disallow: /kopflode/varukorgserveringstillstand/
+Disallow: /kopflode/kassan/
+Disallow: /kopflode/kassanfelsida/
+Disallow: /kopflode/kassanbekraftelse/
+Disallow: /mina-sidor/min-smakprofil/
+Disallow: /mina-sidor/betygsatta-drycker/
+Disallow: /kopflode/
+Disallow: /mina-sidor/
+Disallow: /notfound/
+Disallow: /delad-lista/
+Disallow: /hamta-i-butik/
+Disallow: /varukorg/*
+Disallow: /kassan/*
+Disallow: /mina-sidor/*
+Disallow: /skapa-konto/konto-bekraftat/
+Disallow: /bestalla-och-handla/privatimport/forfragan/*
+Disallow: /kundservice/*fbclid=*
+
+Sitemap: https://www.systembolaget.se/sitemap.xml
+    

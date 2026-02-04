@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+User-Agent: *
+Disallow: /admin/
+Disallow:/blog/
+Disallow:/?ref
+Disallow:/?PageSpeed=noscript
+Disallow:/tag/
+Disallow:/bai-viet?tag
+Disallow:/bai-viet?tags=online
+Disallow:/dang-nhap
+Disallow:/index062019.php?page=admin_orders
+
+# BEGIN XML-SITEMAP
+Sitemap: https://tuha.vn/sitemap.xml
+# END XML-SITEMAP

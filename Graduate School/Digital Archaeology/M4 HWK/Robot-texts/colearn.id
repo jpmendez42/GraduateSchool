@@ -1,0 +1,104 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /user/verify-email?*
+Disallow: /.well-known/apple-app-site-association
+Disallow: /tanya/watch/*
+Disallow: /jadwal
+Disallow: /smartfest
+Disallow: /_next/data/*/tanya/*.json
+
+# GPTBot
+User-agent: GPTBot
+Allow: /
+Disallow: /tanya/*
+Disallow: /user/verify-email?*
+Disallow: /.well-known/apple-app-site-association
+Disallow: /tanya/watch/*
+Disallow: /jadwal
+Disallow: /smartfest
+Disallow: /_next/data/*/tanya/*.json
+
+# Yandex
+User-agent: Yandex
+Allow: /
+Disallow: /user/verify-email?*
+Disallow: /.well-known/apple-app-site-association
+Disallow: /tanya/watch/*
+Disallow: /jadwal
+Disallow: /smartfest
+
+# Linguee
+User-agent: Linguee
+Disallow: /
+
+# SurdotlyBot
+User-agent: SurdotlyBot
+Disallow: /
+
+# BUbiNG
+User-agent: BUbiNG
+Disallow: /
+
+# SemrushBot-SA
+User-agent: SemrushBot-SA
+Disallow: /
+
+# SemrushBot
+User-agent: SemrushBot
+Disallow: /
+
+# rogerbot
+User-agent: rogerbot
+Disallow: /
+
+# dotbot
+User-agent: dotbot
+Disallow: /
+
+# BLEXBot
+User-agent: BLEXBot
+Disallow: /
+
+# spbot
+User-agent: spbot
+Disallow: /
+
+# SEOdiver
+User-agent: SEOdiver
+Disallow: /
+
+# dataprovider
+User-agent: dataprovider
+Disallow: /
+
+# magpie-crawler
+User-agent: magpie-crawler
+Disallow: /
+
+# GetIntent Crawler
+User-agent: GetIntent Crawler
+Disallow: /
+
+# Twitterbot
+User-agent: Twitterbot
+Disallow: 
+
+# Mediapartners-Google
+User-agent: Mediapartners-Google
+Disallow: 
+
+# Facebot
+User-agent: Facebot
+Disallow: 
+
+# Host
+Host: https://colearn.id
+
+# Sitemaps
+Sitemap: https://colearn.id/sitemap.xml
+Sitemap: https://colearn.id/tanya-sitemap.xml
+Sitemap: https://colearn.id/sitemaps/chapters.xml
+Sitemap: https://colearn.id/sitemaps/sections.xml
+Sitemap: https://colearn.id/sitemaps/topics.xml
+Sitemap: https://colearn.id/sitemaps/mengajar/sitemap.xml

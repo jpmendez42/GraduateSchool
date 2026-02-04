@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /*?utm=*
+Disallow: /*?fbclid=*
+Disallow: /*?date-from=*
+Disallow: /*?date-to=*
+Disallow: /*?date=*
+Disallow: /*?type=*
+Disallow: /*?type_id=*
+Disallow: /*?competition_id=*
+Disallow: /*?type2=*
+Disallow: /cgi-bin/
+Disallow: /wp-admin/*
+Disallow: /wp-login.php
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/*.js
+Disallow: /wp-includes
+Disallow: /nx-json
+
+User-agent: Googlebot-news
+Allow: /
+
+# Sitemaps
+Sitemap: https://www.ieidiseis.gr/sitemap_index.xml
+Sitemap: https://www.ieidiseis.gr/sitemap_news.xml

@@ -1,0 +1,153 @@
+# AI crawlers
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: DuckAssistBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: MistralAI-User
+Disallow: /
+
+User-agent: Claude-User
+Disallow: /
+
+User-agent: Gemini-Deep-Research
+Disallow: /
+
+
+User-agent: Mediapartners-Google
+User-agent: Googlebot
+User-agent: *
+
+# Directories
+Disallow: /z-demo-univers
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /recherche/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login*
+Disallow: /user/logout/
+
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+Disallow: /jwplayer_video/
+Disallow: /mon-compte*
+Disallow: /_fragment*
+Disallow: /_ajax/
+Disallow: /_externals/
+Disallow: /_partners/
+Disallow: /z-demo-univers
+Disallow: /z-demo-rubrique-niv1/
+Disallow: /_fos_user_context_hash
+Disallow: /login
+Disallow: /autologin
+Disallow: /sso/*
+Disallow: /magic/link
+Disallow: /magic/link/consume
+Disallow: /*?amp_js_v=0.1
+Disallow: */amp/*
+Disallow: /z-demo/
+Disallow: /?article-id=
+Disallow: /?fr=operanews
+Disallow: /?jwsource=cl
+Disallow: /?dicbo=
+Disallow: /?xtor=
+Disallow: /?limit=
+Disallow: /?at_campaign=
+Disallow: /?dossier=
+Disallow: /*?trk=
+
+# 404
+Disallow: /*/1000$
+
+# Feeds
+Disallow: /feeds/*?fulltext=1
+
+# Video
+Disallow: /digiteka_video
+Disallow: /dailymotion_video
+Disallow: /recettes-sante/recherche*
+Disallow: /run-trainer
+Disallow: */annuaire-des-associations-de-therapie-naturelle/*
+Disallow: */annuaire-des-associations-de-patients/*
+
+Sitemap: https://www.santemagazine.fr/sitemap-index.xml

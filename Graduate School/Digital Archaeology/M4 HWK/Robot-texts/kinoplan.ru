@@ -1,0 +1,40 @@
+User-Agent: *
+Disallow: /page23763464.html
+Disallow: /pricing
+Disallow: /page6020738.html
+Disallow: /header
+Disallow: /page6022998.html
+Disallow: /footer
+Disallow: /page6264884.html
+Disallow: /4o4
+Disallow: /page14037845.html
+Disallow: /products/tms
+Disallow: /page14038103.html
+Disallow: /products/kinosite
+Disallow: /page14039597.html
+Disallow: /products/kinokassa
+Disallow: /page34429688.html
+Disallow: /products/crm
+Disallow: /page39427448.html
+Disallow: /products/bar
+Disallow: /page46895233.html
+Disallow: /products/kinowidget
+Disallow: /page46958219.html
+Disallow: /products/ads
+Disallow: /page30254841.html
+Disallow: /rfrit
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /members/login*
+Disallow: /members/signup*
+Disallow:
+
+
+Sitemap: https://kinoplan.ru/sitemap.xml
+Sitemap: https://kinoplan.ru/sitemap-feeds.xml

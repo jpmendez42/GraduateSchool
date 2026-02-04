@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /redirect/
+Disallow: /login/
+Disallow: /oauth/
+Disallow: /confirm/
+Disallow: /search/
+Disallow: /m/
+Disallow: /*/diary/*/rss/$
+Disallow: /groups/*/rss/$
+Disallow: /*?*
+Disallow: /*/likes/
+Disallow: /*/likes/sent/
+Disallow: /*/likes/mutual/
+Disallow: /*/guests/
+Disallow: /*/favorites/
+Disallow: /*/favorites-me/
+Disallow: /*/diary/$
+Disallow: /*/diary/read/$
+Disallow: /*/diary/readers/$
+Disallow: /*/photos/
+Disallow: /*/groups/$
+Disallow: /*/groups/my/$
+Disallow: /*/groups/posts/$
+Disallow: /*/diary/bez-nazvaniya*/$
+Disallow: /groups/*/users/
+Allow: /
+Host: https://love.ru/
+Sitemap: https://love.ru/sitemap_search.xml
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /

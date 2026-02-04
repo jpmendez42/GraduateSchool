@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /*?m=
+Disallow: /*?h=
+Disallow: /*?c=
+Disallow: /*?ord=
+Disallow: /*?att_*=
+Disallow: /*?Att*=
+Disallow: /*?pmin=
+Disallow: /*?pmax=
+Disallow: /*?search=
+#Disallow: /*?IsMobile=
+Disallow: /parfumdreams-special-offers
+Disallow: /parfumdreams-selection
+Disallow: /we-care
+Disallow: /*/_framework/blazor.boot.json$
+Disallow: /*/_framework/blazor.*.js$
+Disallow: /*/_framework/*.dll
+Disallow: /*/_framework/*.wasm
+Disallow: /*/_framework/*.pdb
+Disallow: /*/_framework/*.map
+
+Disallow: /downloads/
+Disallow: /upload/
+Disallow: /FileHandling.aspx
+Disallow: /FileHandling
+Disallow: /UserRegistration.aspx
+Disallow: /CHANEL/Suche
+Disallow: /Facebook/
+Disallow: /Order/
+Disallow: /User/
+Disallow: /Shared/
+Disallow: /Content/Article_ImageDialog
+Disallow: /Content/Article_VideoDialog
+ 
+Disallow: /Content/ProductQuestion?articleId=*
+ 
+Allow: /User/Login
+ 
+sitemap: https://www.parfumdreams.de/Sitemaps/sitemap.de.xml
+
+

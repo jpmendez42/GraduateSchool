@@ -1,0 +1,25 @@
+#
+# robots.txt for https://www.livelaw.in/
+User-agent: *
+Allow: /
+Disallow: /admin/*
+Disallow: /search/*
+Disallow: /search?*
+Disallow: /xhr/*
+Disallow: /preview/story-*
+Disallow: /amp/preview/story-*
+Disallow: /staging/* 
+Disallow: /alfoo
+Disallow: /sildoo
+Disallow: /dutas
+Disallow: /metsmall
+Disallow: /pdf_upload/*
+Disallow: /xhr/getNewsMixin*
+Disallow:  /embed/*
+
+
+Disallow: /content/servlet/RDESController?*
+
+Sitemap: https://www.livelaw.in/sitemap/sitemap-index.xml
+Sitemap: https://www.livelaw.in/news-sitemap-daily.xml
+Sitemap: https://www.livelaw.in/feeds.xml

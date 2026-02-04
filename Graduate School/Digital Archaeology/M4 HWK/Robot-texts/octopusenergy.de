@@ -1,0 +1,9 @@
+# Rules
+User-agent: *
+Allow: /
+
+# Host
+Host: https://octopusenergy.de/
+
+# Sitemaps
+Sitemap: https://octopusenergy.de/sitemap.xml

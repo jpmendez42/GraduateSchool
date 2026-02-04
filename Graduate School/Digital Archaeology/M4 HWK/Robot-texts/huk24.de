@@ -1,0 +1,44 @@
+# HUK24 Stand 201709
+
+# alle Bots erlauben:
+User-agent:*
+
+Disallow: /apps/
+Disallow: /Emailtexte/
+Disallow: /files/
+Disallow: /techn_hilfe/
+Disallow: /Umfrage/
+Disallow: /META-INF/
+Disallow: /WEB-INF/
+Disallow: /zz_resources/
+Disallow: /anbieter/index.jsp
+Disallow: /content/huk24/webcontent/
+Disallow: /start_pin.do*
+
+Disallow: /*?page
+Disallow: /*?secure
+Disallow: /*?action
+Disallow: /*?dnt_cl
+Disallow: /*?nm_lpfrom
+Disallow: /*?PID
+Disallow: /*?linkid
+Disallow: /*?Login
+Disallow: /*?VMNR
+Disallow: /*?utm_content
+Disallow: /*?utm_source
+Disallow: /*?site
+Disallow: /*?autoopen
+Disallow: /*?XID
+Disallow: /*?erid
+Disallow: /*?get
+Disallow: /*?Path
+Disallow: /*?ma
+Disallow: /*?csrft
+Disallow: /*?TXT_B_KENNUNG
+Disallow: /*?TXT_PIN
+Disallow: /*?Rating
+Disallow: /*?ID
+Disallow: /*.pdf$
+
+# Angabe der Sitemap ist Agent-unabhaengig:
+Sitemap: http://www.huk24.de/sitemap.xml

@@ -1,0 +1,8 @@
+﻿User-agent: *
+Disallow: /?id=*
+Disallow: /cp/
+Disallow: /html/
+Disallow: /popup/
+Disallow: /temp/
+Disallow: /tpoint/
+Disallow: /user/

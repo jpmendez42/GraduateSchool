@@ -1,0 +1,24 @@
+User-agent: *
+
+Sitemap: https://broniboy.ru/sitemap.xml
+Sitemap: https://broniboy.ru/sitemap-gelendzhik.xml
+Sitemap: https://broniboy.ru/sitemap-ufa.xml
+Sitemap: https://broniboy.ru/sitemap-novorossijsk.xml
+Sitemap: https://broniboy.ru/sitemap-kazan.xml
+Sitemap: https://broniboy.ru/sitemap-ekaterinburg.xml
+Sitemap: https://broniboy.ru/sitemap-tyumen.xml
+Sitemap: https://broniboy.ru/sitemap-samarkand.xml
+Sitemap: https://broniboy.ru/sitemap-belgorod.xml
+Sitemap: https://broniboy.ru/sitemap-volgograd.xml
+Sitemap: https://broniboy.ru/sitemap-moscow.xml
+Sitemap: https://broniboy.ru/sitemap-krasnodar.xml
+Sitemap: https://broniboy.ru/sitemap-tver.xml
+Sitemap: https://broniboy.ru/sitemap-nn.xml
+Sitemap: https://broniboy.ru/sitemap-samara.xml
+Sitemap: https://broniboy.ru/sitemap-ryazan.xml
+Sitemap: https://broniboy.ru/sitemap-rostov-na-donu.xml
+Sitemap: https://broniboy.ru/sitemap-anapa.xml
+Sitemap: https://broniboy.ru/sitemap-voronezh.xml
+Sitemap: https://broniboy.ru/sitemap-sochi.xml
+Sitemap: https://broniboy.ru/sitemap-novosibirsk.xml
+Sitemap: https://broniboy.ru/sitemap-lipetsk.xml

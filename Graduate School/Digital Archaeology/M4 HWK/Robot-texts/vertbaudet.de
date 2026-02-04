@@ -1,0 +1,36 @@
+#
+# robots.txt 
+# www.vertbaudet.de
+#
+
+User-agent: Googlebot
+Allow: /*
+Disallow: /Catalog/Browse
+
+User-Agent: *
+Disallow: /.well-known/assetlinks.json
+Disallow: /404.html?
+Disallow: /web/compte/
+Disallow: /default.aspx
+Disallow: /panier.aspx
+Disallow: /modificationcompte.aspx*
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: SeekportBot
+Disallow: /
+
+User-agent: Seekport
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+Sitemap: https://www.vertbaudet.de/sitemap-index364.xml

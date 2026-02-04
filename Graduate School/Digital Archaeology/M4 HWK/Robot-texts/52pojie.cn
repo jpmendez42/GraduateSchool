@@ -1,0 +1,43 @@
+#
+# robots.txt for Discuz! X3
+#
+
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: *
+Disallow: /api/
+Disallow: /data/
+Disallow: /source/
+Disallow: /install/
+Disallow: /template/default/
+Disallow: /config/
+Disallow: /uc_client/
+Disallow: /uc_server/
+Disallow: /admin.php
+Disallow: /search.php
+Disallow: /member.php
+Disallow: /member.php?mod=logging*
+Disallow: /api.php
+Disallow: /misc.php
+Disallow: /connect.php
+Disallow: /forum.php?mod=redirect*
+Disallow: /forum.php?mod=post*
+Disallow: /forum.php?mod=misc*
+Disallow: /home.php?*
+Disallow: /*?mod=misc*
+Disallow: /*?mod=attachment*
+Disallow: /*mobile=yes*
+Disallow: /space-*
+Disallow: /forum.php?fid=*
+Disallow: /forum.php?aid=*
+Disallow: /forum.php?goto=*
+Disallow: /forum.php?tid=*
+Disallow: /forum.php?op=*
+Disallow: /forum.php?do=*
+Disallow: /*?peed=noscript
+Disallow: /*?ModPagespeed=noscript
+Disallow: /?*
+Disallow: /index.php?*
+Disallow: /*?_t_t_t=*

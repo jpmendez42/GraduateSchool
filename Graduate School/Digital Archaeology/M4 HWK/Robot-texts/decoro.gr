@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /api/
+Disallow: /*?text_id=
+Disallow: /send_friend.php/?id=
+Disallow: /*?search=
+Disallow: /*?vals
+Disallow: /favorite/
+Disallow: /student/
+Disallow: /basket/
+Disallow: /order_visitor/
+Sitemap: https://www.decoro.gr/marketing/pages_sitemap.xml
+Sitemap: https://www.decoro.gr/marketing/product_cat_sitemap.xml
+Sitemap: https://www.decoro.gr/marketing/blog-sitemap.xml
+Sitemap: https://www.decoro.gr/marketing/product_sitemap.xml
+Sitemap: https://www.decoro.gr/marketing/filter_cat_sitemap.xml

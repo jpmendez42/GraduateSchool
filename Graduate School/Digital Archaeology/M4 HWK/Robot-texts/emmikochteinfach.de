@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /wprm_print/recipe/*
+
+Sitemap: https://emmikochteinfach.de/sitemap_index.xml

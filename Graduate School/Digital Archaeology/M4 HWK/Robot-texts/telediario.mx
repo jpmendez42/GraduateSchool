@@ -1,0 +1,50 @@
+# modified at 21-02-2025
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+#Crawl-delay: 10
+# Directories
+Disallow: /node/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+Disallow: /firebase-messaging-sw.js
+Disallow: /index.php
+Disallow: /service-worker.js
+# Paths (clean URLs)
+# Disallow:
+# Paths (no clean URLs)
+Disallow: /?content=dynamic/
+
+User-agent: grapeshot
+Disallow:
+
+# Sitemaps
+Sitemap: https://www.telediario.mx/sitemap/sitemap-articles-index.xml
+Sitemap: https://www.telediario.mx/sitemap/sitemap-images-index.xml
+Sitemap: https://www.telediario.mx/sitemap/sitemap-videos-index.xml
+Sitemap: https://www.telediario.mx/sitemap/sitemap-tags-index.xml
+Sitemap: https://www.telediario.mx/sitemap/sitemap-default-current.xml
+Sitemap: https://www.telediario.mx/sitemap/sitemap-google-news-index.xml

@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /remote-login.php
+Disallow: /cerca/*
+Disallow: */embed/
+Disallow: /*?s=*
+
+User-agent: OAI-SearchBot
+Allow: /cerca/*
+
+User-agent: dotbot
+User-agent: dotbot/1.0
+User-agent: Baiduspider
+User-agent: MegaIndex.ru
+User-agent: grapeshot
+User-agent: Acunetix
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: BomboraBot
+User-agent: BUbiNG
+Disallow: /
+
+Sitemap: https://quifinanza.it/news-sitemap.xml
+
+Sitemap: https://quifinanza.it/sitemap.xml

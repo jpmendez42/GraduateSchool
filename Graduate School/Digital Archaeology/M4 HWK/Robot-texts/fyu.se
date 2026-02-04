@@ -1,0 +1,15 @@
+# Greetings traveler. If you are reading this and you are not a robot
+# know that you 're cool and I like you already!
+# Give yourself a pat in the back, oh if you happen to be a human 
+# please see humans.txt
+
+User-agent: *
+
+Disallow: /api/
+Disallow: /search/
+Disallow: /search?
+Disallow: /oembed/
+Disallow: /oembed?
+Disallow: /assets/
+Disallow: /terms
+Crawl-delay: 20

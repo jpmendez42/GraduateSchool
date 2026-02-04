@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /wishlist
+Disallow: /kaufen/suchen
+Disallow: /verkaufen/suche
+Disallow: /my
+Disallow: /checkout
+Disallow: */api
+Disallow: */auth$
+Disallow: */auth?*$
+Disallow: *?*q=
+Disallow: *?*query=
+Disallow: *?*affltid=
+Disallow: *?*inStock=
+Disallow: *?*inSale=
+Disallow: *?*sortBy=
+Disallow: *?*ref=
+Disallow: *?*refToken=
+Disallow: *?*searchUuid=
+Disallow: *?*f_variant_availability*=
+Disallow: *?*f_prop*=
+Disallow: *?*priceMin=
+Disallow: *?*priceMax=
+Disallow: *?*variant=
+Disallow: *?*awc=
+Disallow: *?*gclid=
+Disallow: *?*c%5B%5D=
+
+Sitemap: https://www.rebuy.de/de_categorized_sitemap_index-1.xml.gz
+
+
+

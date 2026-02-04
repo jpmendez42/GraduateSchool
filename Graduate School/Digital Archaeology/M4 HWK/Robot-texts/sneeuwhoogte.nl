@@ -1,0 +1,1 @@
+User-agent: *Disallow: /profiel/Disallow: /vakanties/Sitemap: https://www.sneeuwhoogte.nl/sitemap.xml

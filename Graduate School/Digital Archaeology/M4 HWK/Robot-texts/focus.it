@@ -1,0 +1,47 @@
+User-agent: *
+Disallow: /core.i/
+Disallow: /settings/
+Disallow: /codice-sconto/ottieni-coupon/*
+Disallow: /codice-sconto/search?
+Disallow: /*?preview=
+
+User-agent: Googlebot
+Disallow: /core.i/
+Disallow: /settings/
+Disallow: /codice-sconto/ottieni-coupon/*
+Disallow: /codice-sconto/search?
+Disallow: /*?preview=
+Disallow: /codice-sconto/
+Disallow: /codice-sconto
+Disallow: /mondo-focus/sconti/
+Disallow: /mondo-focus/sconti
+
+Sitemap: https://www.focus.it/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: seekr
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+

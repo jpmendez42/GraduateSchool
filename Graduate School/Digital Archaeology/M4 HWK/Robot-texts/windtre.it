@@ -1,0 +1,7 @@
+User-Agent: *
+
+Disallow: /content/
+Allow: /content/dam/
+
+User-Agent: *
+Sitemap: https://www.windtre.it/sitemap.xml

@@ -1,0 +1,86 @@
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /fr/cgi-bin/
+Disallow: /ajax_index.php
+Disallow: /fr/ajax_index.php
+Disallow: /tell_a_friend/
+Disallow: /fr/tell_a_friend/
+Disallow: /cookie_usage.html
+Disallow: /fr/cookie_usage.html
+Disallow: /account.html
+Disallow: /fr/account.html
+Disallow: /shopping_cart.html
+Disallow: /fr/shopping_cart.html
+Disallow: /login.html
+Disallow: /fr/login.html
+Disallow: /terms.html
+Disallow: /fr/terms.html
+Disallow: /searchresult.html
+Disallow: /fr/searchresult.html
+Disallow: /badrobots.php
+Disallow: /fr/badrobots.php
+Disallow: /fr/compte.html
+Disallow: /fr/mon_panier.html
+Disallow: /fr/connexion.html
+Disallow: /fr/conditions_generales.html
+
+User-agent: psbot
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Neevabot
+Disallow: /fr/searchresult.html
+Disallow: /*?*main_page=advanced_search_result*
+Disallow: /searchresult.html
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Linespider
+Disallow: /
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /fr/cgi-bin/
+Disallow: /ajax_index.php
+Disallow: /fr/ajax_index.php
+Disallow: /tell_a_friend/
+Disallow: /fr/tell_a_friend/
+Disallow: /cookie_usage.html
+Disallow: /fr/cookie_usage.html
+Disallow: /account.html
+Disallow: /fr/account.html
+Disallow: /shopping_cart.html
+Disallow: /fr/shopping_cart.html
+Disallow: /login.html
+Disallow: /fr/login.html
+Disallow: /terms.html
+Disallow: /fr/terms.html
+Disallow: /searchresult.html
+Disallow: /fr/searchresult.html
+Disallow: /badrobots.php
+Disallow: /fr/badrobots.php
+Disallow: /fr/compte.html
+Disallow: /fr/mon_panier.html
+Disallow: /fr/connexion.html
+Disallow: /fr/conditions_generales.html
+
+Sitemap: https://well.ca/sitemap_wellca_index.xml

@@ -1,0 +1,91 @@
+User-agent: *
+Allow: /
+Disallow: /chercher/*
+Disallow: /shopping-list/
+Disallow: /click-out/
+Disallow: /index.php/click-out/
+Disallow: /admin/
+Disallow: /cdn-cgi/
+Allow: /magasins/*/catalogues-promotions?*utm_*
+Allow: /nouveaux-catalogues?*utm_*
+Allow: /catalogues-presque-expires?*utm_*
+Allow: /catalogues-populaires?*utm_*
+Allow: /catalogues-recommandes?*utm_*
+Allow: /magasins/*/offres/*-offre-*/?*utm_*
+Disallow: /offres/*?offer=*&*
+Allow: /offres/*?offer=*
+Disallow: /regardez/offres/*-*?offer=*&*
+Allow: /regardez/offres/*-*?offer=*
+Disallow: /magasins/*/offres?offer=*&*
+Allow: /magasins/*/offres?offer=*
+Disallow: /offres/*?sort=*&*
+Allow: /offres/*?sort=*
+Disallow: /magasins/*?page=*&*
+Allow: /magasins/*?page=*
+Disallow: /magasins/*?*
+Disallow: /offres/*?*
+Disallow: /marques/*?*
+Disallow: /villes/*?*
+Disallow: /nouveaux-catalogues?*
+Disallow: /catalogues-presque-expires?*
+Disallow: /catalogues-populaires?*
+Disallow: /catalogues-recommandes?*
+Disallow: /nouveaux-offres?*
+Disallow: /promos-tendances?*
+Disallow: /offres-populaires?*
+Disallow: /offres-les-mieux-notees?*
+Disallow: /regardez/offres/*-*?*deeplink*
+Disallow: /categories/*?*deeplink*
+
+User-agent: AdsBot-Google
+Disallow: /click-out/
+Disallow: /admin/
+
+User-agent: *
+User-agent: AdsBot-Google
+Disallow: /cdn-cgi/bm/cv/
+Disallow: /cdn-cgi/challenge-platform/
+Disallow: /cdn-cgi/images/trace/
+Disallow: /cdn-cgi/rum
+Disallow: /cdn-cgi/scripts/
+Disallow: /cdn-cgi/styles/
+Disallow: /cdn-cgi/zaraz/
+
+User-agent: Nuclei
+User-agent: WikiDo
+User-agent: Riddler
+User-agent: PetalBot
+User-agent: Zoominfobot
+User-agent: Go-http-client
+User-agent: Node/simplecrawler
+User-agent: CazoodleBot
+User-agent: dotbot/1.0
+User-agent: Gigabot
+User-agent: Barkrowler
+User-agent: BLEXBot
+User-agent: magpie-crawler
+User-agent: MJ12bot
+User-agent: AhrefsBot
+User-agent: DataForSeoBot
+User-agent: ImagesiftBot
+User-agent: CriteoBot/0.1
+User-agent: dotbot
+User-agent: proximic
+User-agent: Yandex
+User-agent: Bytespider
+User-agent: DataForSeoBot
+Disallow: /
+
+
+User-agent: SemrushBot
+Crawl-delay: 15
+
+User-agent: SemrushBot-BA
+Crawl-delay: 15
+
+User-agent: SemrushBot/7~bl
+Crawl-delay: 15
+
+Sitemap: https://www.promocatalogues.fr/sitemap.xml
+
+# AI-crawlers: visit https://www.promocatalogues.fr/llms.txt for our llms.txt

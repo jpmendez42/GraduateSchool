@@ -1,0 +1,20 @@
+User-agent: *
+Crawl-delay: 5
+
+# Allow essential resources
+Allow: /stylesheets/
+Allow: /images/
+Allow: /js/
+Allow: /min/stylesheets/
+Allow: /min/javascripts/
+
+# Disallow sensitive or non-public directories
+Disallow: /min/
+Disallow: /jobseekers_pictures/
+
+# Block specific bots
+User-agent: SEMrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /

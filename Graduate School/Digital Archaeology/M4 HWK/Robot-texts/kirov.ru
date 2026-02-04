@@ -1,0 +1,15 @@
+User-agent: *
+Host: kirov.online
+Disallow: /assets/
+Disallow: /content/site/captcha
+Disallow: /test-page
+Disallow: /afisha/search
+Disallow: /frames/
+Disallow: /frames/obl
+Disallow: /frames/obl?img=no
+Disallow: /comment/default/captcha
+Disallow: /uploads
+Clean-param: utm_source&utm_campaign&utm_medium&utm_referrer&utm_content&utm_term
+Clean-param: fs
+Clean-param: stat
+Sitemap: https://www.kirov.online/sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: * 
+Disallow: /sok/
+Disallow: /en/search/
+Disallow: /EPiServer/
+Sitemap: https://www.slu.se/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: grapeshot
+Disallow:
+
+Sitemap: https://www.motorzoom.it/sitemap.xml
+Sitemap: https://www.motorzoom.it/sitemap-news.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

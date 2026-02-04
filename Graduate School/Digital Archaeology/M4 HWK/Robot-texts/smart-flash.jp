@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/*
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /?s=*
+Disallow: /*?attachment
+Disallow: /?attachment=*
+
+Sitemap: https://smart-flash.jp/sitemap-news.xml/
+Sitemap: https://smart-flash.jp/sitemap_index_posts.xml
+Sitemap: https://smart-flash.jp/sitemap_index_news.xml
+Sitemap: https://smart-flash.jp/sitemap_index_taxonomy.xml

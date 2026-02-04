@@ -1,0 +1,10 @@
+# Generated content of robots.txt for project hn.cz
+
+user-agent: GPTBot
+disallow: /
+
+user-agent: *
+allow: /
+crawl-delay: 1
+
+sitemap: https://hn.cz/sitemap.xml

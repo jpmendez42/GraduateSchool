@@ -1,0 +1,25 @@
+User-agent: PetalBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /da-DK/
+Disallow: /sv-SE/
+Disallow: /fi-FI/
+Disallow: /nn-NO/
+
+Disallow: /filtrering/
+Disallow: /link/
+Disallow: /cust/
+Disallow: /sortiment/
+Disallow: /filter/
+Disallow: /ProductVariantProxy/
+Disallow: /outlet/
+
+Disallow: /*?*fcat=
+Disallow: /*?*fv=
+Disallow: /*?*parameters.page=
+Disallow: /*?*parameters.SearchPhrase=

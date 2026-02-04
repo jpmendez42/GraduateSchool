@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: */cart/*
+Disallow: */checkout/*
+Disallow: */order/*
+Disallow: */locale/set*
+Disallow: /control/
+Disallow: /download/
+Disallow: /redirect/
+Disallow: /api/

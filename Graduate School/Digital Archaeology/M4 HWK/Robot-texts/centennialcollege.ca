@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /umbraco/
+Disallow: /umbraco_client/
+Disallow: /Services/ProgramDBService.asmx/
+Sitemap: https://www.centennialcollege.ca/centennialsitemap

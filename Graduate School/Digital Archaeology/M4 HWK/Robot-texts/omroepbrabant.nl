@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /?news/
+Disallow: /content/
+Disallow: /embedded/
+Disallow: /data/
+Disallow: /inc/
+Disallow: /*/-
+Disallow: /nos/
+Disallow: /zoeken?q=*
+Sitemap: https://www.omroepbrabant.nl/sitemap.xml

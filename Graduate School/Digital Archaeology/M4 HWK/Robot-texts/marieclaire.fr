@@ -1,0 +1,33 @@
+User-Agent: *
+Disallow: /*?firstId=
+Disallow: /ope/
+Disallow: /adsite-under/
+Disallow: /recherche
+Disallow: /archives/*/*/*
+Disallow: /direct/
+Disallow: /photo/*/*/*
+Disallow: /blogs/
+Disallow: /idees/blogs/
+Disallow: /idees/fiches/objet=
+Disallow: /idees/fiches/theme=
+Disallow: /idees/fiches/technique=
+Disallow: /idees/fiches/magazine=
+Disallow: /idees/archives/*
+Disallow: /maison/blogs/
+Disallow: /cuisine/recettes/*
+Disallow: /print/article/*
+Disallow: /webview/
+Disallow: /codes-promo/codes-promo/visit/*
+Disallow: /horo/
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Netvibes
+Disallow: /

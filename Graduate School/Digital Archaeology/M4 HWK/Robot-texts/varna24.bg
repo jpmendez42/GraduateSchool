@@ -1,0 +1,16 @@
+User-agent: Yandex
+Disallow: / 
+
+User-agent: SemrushBot
+Disallow: /
+Allow: /
+Allow: /novini/
+Allow: /sport/
+
+User-agent: *
+Disallow: /admin.php
+
+Host: www.varna24.bg
+Sitemap: https://www.varna24.bg/sitemap.xml
+Sitemap: https://www.varna24.bg/v24_google_news.xml
+Sitemap: https://www.varna24.bg/sitemap_v24_index.xml

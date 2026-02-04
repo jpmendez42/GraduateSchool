@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /?embed=*
+Disallow: /*&embed=*
+Disallow: /*?bp_source=*
+Disallow: /*&bp_source=*
+Disallow: /*?fb=*
+Disallow: /*&fb=*
+Disallow: /vallalatok/keszulekrendeles
+Disallow: /map/
+sitemap: https://www.yettel.hu/sitemap.xml

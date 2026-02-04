@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /Drukuj/
+Disallow: /front/
+Disallow: /view/
+Disallow: /user-files*
+Disallow: /paywall/*
+Disallow: /user-session-proxy/*
+Disallow: /__acc/
+Disallow: /_cdf/
+Disallow: /_variant/
+Disallow: /a8f4d8cd95e164917035b64b867a45dd

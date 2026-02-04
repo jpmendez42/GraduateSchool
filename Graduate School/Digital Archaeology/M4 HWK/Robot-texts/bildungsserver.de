@@ -1,0 +1,86 @@
+# robots.txt for http://dbs.schule.de/
+
+User-agent: Java
+Disallow: /
+ 
+User-agent: LiteFinder
+Disallow: /
+
+User-agent: IDBot
+Disallow: /
+
+User-agent: MnoGoSearch
+Disallow: /
+
+User-agent: Twitterbot
+Disallow: /a
+Allow: /img
+Allow: /images
+Allow: /icons
+
+User-Agent: *
+Disallow: /In_Entwicklung
+Disallow: /Redakt
+Disallow: /aktuell
+Disallow: /alles
+Disallow: /archiv
+Disallow: /archiv
+Disallow: /bonsa
+Disallow: /bww_defekt_meldn
+Disallow: /cdrom
+Disallow: /db/bb
+Disallow: /db/dgf
+Disallow: /db/dgi/
+Disallow: /db/dip
+Disallow: /db/dz
+Disallow: /db/eintra
+Disallow: /db/empb
+Disallow: /db/flisten.html?Rnum=
+Disallow: /db/forma
+Disallow: /db/fw
+Disallow: /db/ifs
+Disallow: /db/kita
+Disallow: /db/lern
+Disallow: /db/medio
+Disallow: /db/set
+Disallow: /db/sopae
+Disallow: /db/wipos
+Disallow: /db/wiw
+Disallow: /dbw
+Disallow: /defekt_meldn
+Disallow: /dgf
+Disallow: /doc
+Disallow: /eintragen.htm
+Disallow: /error
+Disallow: /im
+Disallow: /innovationsportal/metasuch
+Disallow: /innovationsportal/kommenta
+Disallow: /kompetenzmodelle
+Disallow: /konta
+Disallow: /logs
+Disallow: /m1test
+Disallow: /manches
+Disallow: /metasuch
+Disallow: /mirror
+Disallow: /osm
+Disallow: /pix
+Disallow: /search
+Disallow: /sitemap.html
+Disallow: /sitemap_e.html
+Disallow: /statistik
+Disallow: /temp
+Disallow: /termine
+Disallow: /tiles 
+Disallow: /vieles
+Disallow: /www.forum 
+Disallow: /zd
+Allow: /dgfe/zeitschriften.html
+
+
+User-agent: XingBot
+Disallow: /jobboerse/
+
+User-agent: XING-contenttabreceiver
+Disallow: /jobboerse/
+
+Sitemap: http://www.bildungsserver.de/sitemapindex.xml

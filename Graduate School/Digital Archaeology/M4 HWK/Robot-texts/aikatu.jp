@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-Delay: 5
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://aikatu.jp/sitemap_index.xml
+Sitemap: https://aikatu.jp/sitemap.xml
+Sitemap: https://aikatu.jp/sitemap.html

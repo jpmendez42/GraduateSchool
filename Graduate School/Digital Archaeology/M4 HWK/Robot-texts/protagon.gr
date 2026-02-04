@@ -1,0 +1,32 @@
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: *
+Crawl-delay: 3
+
+User-agent: 008
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: BLP_bbot/0.1
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: asterias
+Disallow: /
+
+User-agent: Exabot
+Disallow: /

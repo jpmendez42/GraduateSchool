@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Disallow: /vfrointegration/appmanager/
+Disallow: /oferte-speciale-vodafone-business-si-bat/
+Disallow: /oferte-speciale-vodafone-business-si-flip/
+Disallow: /oferte-speciale-vodafone-business-si-ing/
+Disallow: /oferte-speciale-vodafone-business-si-raiffeisen/
+Disallow: /notificare-privind-furnizarea-licentelor-microsoft/
+Disallow: /lista-prefixelor-internationale/
+Disallow: /popcos-testing-page/
+Disallow: */business/promotii/campanii/*
+
+Sitemap: https://www.vodafone.ro/sitemap.xml

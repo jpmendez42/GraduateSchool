@@ -1,0 +1,15 @@
+User-agent: GPTBot
+Crawl-delay: 20
+Allow: /
+
+User-agent: ClaudeBot
+Crawl-delay: 20
+Allow: /
+
+User-agent: PerplexityBot
+Crawl-delay: 20
+Allow: /
+
+User-agent: *
+Allow: /
+Sitemap: https://www.infocamere.it/dam/sitemap.xml

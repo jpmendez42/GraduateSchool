@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /hirdetesek
+Disallow: /cikk-elonezet
+Disallow: /publicapi
+Allow: /publicapi/hu/rss/
+Sitemap: https://magyarnemzet.hu/sitemapindex.xml

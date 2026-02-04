@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/*
+Disallow: /wp-includes/*
+Disallow: /wp-login.php
+Disallow: /genre/search/*
+
+Sitemap: https://dime.jp/sitemapindex.xml

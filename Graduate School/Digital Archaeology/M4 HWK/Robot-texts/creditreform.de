@@ -1,0 +1,67 @@
+    User-agent: *
+
+# Only allow URLs generated with RealURL
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+# L=0 is the default language
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+# typeNum = 98 is usually the print version.
+Disallow: /*?type=98*
+Disallow: /*&type=98*
+Disallow: /*suche?*
+Disallow: /*?tx_news*
+
+# YOAST SEO
+Disallow: /*?type=1480321830*
+Disallow: /*&type=1480321830*
+
+# Should always be protected (.htaccess)
+Disallow: /*/Private/*
+Disallow: /fileadmin/templates/html/*
+Disallow: /*/Configuration/*
+
+Disallow: /typo3temp/.htaccess$
+Disallow: /typo3temp/.opcode_cleared$
+Disallow: /typo3temp/.sz_dynamic_sysdomains_hash$
+Disallow: /typo3temp/logs/*
+Disallow: /typo3temp/var/*
+Disallow: /typo3temp/captcha/*
+Disallow: /typo3temp/csp-violations.log$
+
+Disallow: *.sql
+Disallow: *.sql.gz
+Disallow: /csp.php
+Disallow: /*?a=login*
+Disallow: /*?adlt*
+Disallow: /*?amount*
+Disallow: /*?author*
+Disallow: /*?chash*
+Disallow: /*?country*
+Disallow: /*?fbclid*
+Disallow: /*?feed*
+Disallow: /*?file*
+Disallow: /*?gb*
+Disallow: /*?get*
+Disallow: /*?j*
+Disallow: /*?lang*
+Disallow: /*?limit*
+Disallow: /*?login*
+Disallow: /*?mdrv*
+Disallow: /*?mode*
+Disallow: /*?msclkid*
+Disallow: /*?option*
+Disallow: /*?page*
+Disallow: /*?prk*
+Disallow: /*?register*
+Disallow: /*?TID*
+Disallow: /*?tx_news_pi1%5Bnews%5D*
+Disallow: /*?tx_solr%5Bq%5D*
+Disallow: /*?tx_szcrefozert_szcrefozert%5Baction%5D*
+Disallow: /*?tx_szvcfinder_vcfinder%5Baction%5D*
+Disallow: /*?type*
+Disallow: /*?wt_ga*
+Disallow: /*?wt_mc*
+Disallow: /*?yandex-source*

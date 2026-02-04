@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /c/portal/linkki*
+Disallow: /fi/yritykset*
+Disallow: /fi/henkiloasiakkaat*
+Disallow: */auth/*
+Disallow: /combo*
+Disallow: *rd_token*
+Disallow: */undefined*
+Sitemap: https://www.op.fi/sitemap.xml

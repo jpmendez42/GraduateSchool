@@ -1,0 +1,7 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /embed/
+Disallow: /neoplayer/
+Disallow: /api/
+Disallow: *.html
+Sitemap: https://tv2play.hu/sitemap.xml

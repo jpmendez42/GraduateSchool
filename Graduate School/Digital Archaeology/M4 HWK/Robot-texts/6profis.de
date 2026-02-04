@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /member/
+Sitemap: https://www.6profis.de/sitemap/sitemap.xml
+
+User-agent: bingbot
+Crawl-delay: 20

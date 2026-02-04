@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /search/*
+Disallow: /writers/*
+Disallow: /tags/*
+Disallow: /134214902/*
+Disallow: /google60ccfbb21519d923.html
+Disallow: /api/*
+
+Sitemap:https://ciatr.jp/sitemap-index

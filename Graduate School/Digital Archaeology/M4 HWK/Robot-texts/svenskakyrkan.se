@@ -1,0 +1,17 @@
+# go away new filearea
+User-agent: googlebot
+User-agent: google
+Crawl-delay: 10
+
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /act/tacksida
+Disallow: /act/tacksida-*
+User-agent: SemrushBot
+Disallow: /
+# Disallow: /
+
+Sitemap: https://www.svenskakyrkan.se/sitemap/sitemap-index.xml

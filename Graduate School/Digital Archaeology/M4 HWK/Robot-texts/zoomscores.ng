@@ -1,0 +1,106 @@
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Zoom Live Soccer</title>
+    <meta
+      name="viewport"
+      rel="stylesheet"
+      content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0"
+    />
+    <link
+      rel="icon"
+      href="https://zoomcnt.bet9ja.com/cdn/bet9ja/common/favicon.ico?ver=v1"
+    />
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://zoomcnt.bet9ja.com/cdn/bet9ja/zoom/css/responsive/zoom-banner.min.css"
+    />
+
+    <script>
+      function goToDownloadPage() {
+        window.open(
+          "https://play.google.com/store/apps/details?id=com.logispin.zoomscore.app",
+          "_blank"
+        );
+      }
+
+      function closeBanner() {
+        document.getElementById("banner").style.display = "none";
+      }
+
+      function selectSoccer() {
+        document.getElementById("zoomapi").src =
+          "https://zoomapi.bet9ja.com/zoom/live/all-live?clientId=202&notMobile=1&offset=3600000";
+        document
+          .getElementById("tennis-switch-btn")
+          .classList.remove("is-active");
+        document.getElementById("soccer-switch-btn").classList.add("is-active");
+        document.title = "Zoom Live Soccer";
+      }
+
+      function selectTennis() {
+        document.getElementById("zoomapi").src =
+          "https://tennis.ng.zoomvirtualsports.com/zoom-tennis/draw?offset=3600000";
+        document
+          .getElementById("soccer-switch-btn")
+          .classList.remove("is-active");
+        document.getElementById("tennis-switch-btn").classList.add("is-active");
+        document.title = "Zoom Live Tennis";
+      }
+    </script>
+  </head>
+
+  <body>
+    <div id="container">
+      <div class="banner" id="banner">
+        <div class="banner__close" onclick="closeBanner()">
+          <icon class="icon-close"></icon>
+        </div>
+        <div class="banner__logo">
+          <icon class="icon-logo"></icon>
+        </div>
+        <div class="banner__txt">
+          <div class="banner__txt-title">Get the Zoom app</div>
+          <div class="banner__txt-sub-title">Enhance your experience</div>
+        </div>
+        <div class="banner__btn mr15">
+          <button
+            class="btn-download"
+            type="button"
+            onclick="goToDownloadPage()"
+          >
+            Download
+          </button>
+        </div>
+      </div>
+      <div class="sports-switch">
+        <div class="sports-switch__wrap">
+          <div
+            id="soccer-switch-btn"
+            class="sports-switch__btn is-active"
+            onclick="selectSoccer()"
+          >
+            <i class="sports-soccer"></i>
+            <div class="sports-switch__btn-txt">Soccer</div>
+          </div>
+          <div
+            id="tennis-switch-btn"
+            class="sports-switch__btn"
+            onclick="selectTennis()"
+          >
+            <i class="sports-tennis"></i>
+            <div class="sports-switch__btn-txt">Tennis</div>
+          </div>
+        </div>
+      </div>
+      <iframe
+        id="zoomapi"
+        class="zoom-wrapper"
+        src="https://zoomapi.bet9ja.com/zoom/live/all-live?clientId=202&notMobile=1&offset=3600000"
+      ></iframe>
+    </div>
+
+    <script></script>
+  </body>
+</html>

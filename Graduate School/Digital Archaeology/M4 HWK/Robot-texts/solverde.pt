@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+
+Disallow: /*?hideKYC=
+Disallow: /*?pid=
+Disallow: /*?utm_source=
+Disallow: /*?afterLoginUrl=
+Disallow: /*?btag=
+Disallow: /*?trk=
+Disallow: /*?clientType=
+Disallow: /*?skipRegistrationInvitation=
+
+
+Sitemap: https://www.solverde.pt/sitemap.xml

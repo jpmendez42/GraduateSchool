@@ -1,0 +1,48 @@
+User-agent: *
+Sitemap: https://www.deguisetoi.fr/sitemap.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.rubrique.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.cms.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.rubrique_specifique.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.deguisements-adultes.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.deguisements-enfants.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.deguisements-couples.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.accessoire-maquillage.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.masques.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.decorations-cotillons.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.maquillage.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.produit.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.sonata_page_page.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.sonata_page_tag.xml
+Sitemap: https://www.deguisetoi.fr/sitemap/new/www.deguisetoi.fr.sonata_page_classification.xml
+
+Disallow: /recherche.php
+Disallow: /AdmDeguiseToi/
+Disallow: /produit-rapide.php
+Disallow: /produits-avis-client.php
+Disallow: /produits-imprimer.php
+Disallow: /readreview.php
+Disallow: /searchResult.php
+Disallow: /searchResult2.php
+Disallow: /searchResult-refonte2015.php
+Disallow: /cart/
+Disallow: /imagesfb/
+Disallow: /s/
+Disallow: /produit/
+Disallow: /paiement/
+Disallow: /Symfony/web/app.php
+Disallow: /cdn-cgi/
+
+Disallow: /*?fbclid=*
+Disallow: *filter=*
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+Disallow: *type=*
+Disallow: *device_view=*
+Disallow: *type=*
+Disallow: *tri=*
+Disallow: *setLine=*
+Disallow: *category=*
+Disallow: *fromcontact=*
+

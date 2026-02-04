@@ -1,0 +1,12 @@
+Sitemap: https://humboldt-foundation.de/sitemap.xml
+User-agent: *
+Allow: /
+Allow: /typo3conf/ext/rsmavhsitepackage/Resources/Public/Image/avh-logo-twitter.png
+Disallow: /typo3conf/
+Disallow: /typo3/
+Disallow: /*cHash
+Disallow: /*?id=*
+Disallow: /*&type=100
+Disallow: /*&type=98
+Disallow: /print/
+Disallow: /dest/

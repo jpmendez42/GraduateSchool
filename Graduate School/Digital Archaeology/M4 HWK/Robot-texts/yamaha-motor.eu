@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en-GB">
+
+    <head>
+    <meta charset="UTF-8"/>
+    
+    <title>Yamaha Motor Europe - Yamaha Motor</title>
+    <meta name="description" content="Discover the world of Yamaha motorcycles, marine products, and other exciting vehicles. Explore our range, find dealers, and stay up to date with the latest news and events." data-react-helmet="true"/>
+
+    
+    <script defer="defer" type="text/javascript" src="/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js"></script>
+<script type="application/ld+json">
+        {"@context":"https://schema.org","@type":"WebSite","name":"Yamaha Motor United Kingdom","url":"https://www.yamaha-motor.eu/gb/en/home"}
+    </script>
+    
+    <meta name="template" content="home-page-template" data-react-helmet="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    
+
+    
+    
+    
+
+    
+        <link rel="canonical" href="https://www.yamaha-motor.eu/gb/en/home/" data-react-helmet="true"/>
+    
+
+    
+
+    
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/yme/clientlibs/clientlib-base.lc-ea0449c46a157fa487a18a31d771f2d4-lc.min.css" type="text/css">
+
+
+
+
+
+
+<meta name="theme-color" content="#000000"/>
+<link rel="icon" href="/etc.clientlibs/yme/clientlibs/clientlib-react/resources/favicon.ico"/>
+<link rel="apple-touch-icon" href="/etc.clientlibs/yme/clientlibs/clientlib-react/resources/apple-touch-icon.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/yme/clientlibs/clientlib-react/resources/favicon-32x32.png"/>
+<link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/yme/clientlibs/clientlib-react/resources/favicon-16x16.png"/>
+<link rel="icon" type="image/png" sizes="512x512" href="/etc.clientlibs/yme/clientlibs/clientlib-react/resources/android-chrome-512x512.png"/>
+<link rel="icon" type="image/png" sizes="192x192" href="/etc.clientlibs/yme/clientlibs/clientlib-react/resources/android-chrome-192x192.png"/>
+<link rel="manifest" href="/etc.clientlibs/yme/clientlibs/clientlib-react/resources/site.webmanifest"/>
+
+<!-- AEM page model -->
+<meta property="cq:pagemodel_root_url" content="/gb/en.model.json"/>
+
+
+    <meta data-adobe-data-layer-url="https://assets.adobedtm.com/544f7527b6ab/130e67d324a0/launch-fe97e93bcf8e.min.js"/>
+    
+        <link rel="preconnect" href="https://dev.visualwebsiteoptimizer.com"/>
+        <script id="vwoCode" type="text/javascript">    <!-- Start VWO Async SmartCode -->
+         window._vwo_code || (function() {
+            var account_id=607589,
+              version=2.1,
+              settings_tolerance=2000,
+              hide_element='body',
+              hide_element_style = 'opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important',
+              /* DO NOT EDIT BELOW THIS LINE */
+              f=false,w=window,d=document,v=d.querySelector('#vwoCode'),cK='_vwo_'+account_id+'_settings',cc={};try{var c=JSON.parse(localStorage.getItem('_vwo_'+account_id+'_config'));cc=c&&typeof c==='object'?c:{}}catch(e){}var stT=cc.stT==='session'?w.sessionStorage:w.localStorage;code={use_existing_jquery:function(){return typeof use_existing_jquery!=='undefined'?use_existing_jquery:undefined},library_tolerance:function(){return typeof library_tolerance!=='undefined'?library_tolerance:undefined},settings_tolerance:function(){return cc.sT||settings_tolerance},hide_element_style:function(){return'{'+(cc.hES||hide_element_style)+'}'},hide_element:function(){if(performance.getEntriesByName('first-contentful-paint')[0]){return''}return typeof cc.hE==='string'?cc.hE:hide_element},getVersion:function(){return version},finish:function(e){if(!f){f=true;var t=d.getElementById('_vis_opt_path_hides');if(t)t.parentNode.removeChild(t);if(e)(new Image).src='https://dev.visualwebsiteoptimizer.com/ee.gif?a='+account_id+e}},finished:function(){return f},addScript:function(e){var t=d.createElement('script');t.type='text/javascript';if(e.src){t.src=e.src}else{t.text=e.text}d.getElementsByTagName('head')[0].appendChild(t)},load:function(e,t){var i=this.getSettings(),n=d.createElement('script'),r=this;t=t||{};if(i){n.textContent=i;d.getElementsByTagName('head')[0].appendChild(n);if(!w.VWO||VWO.caE){stT.removeItem(cK);r.load(e)}}else{var o=new XMLHttpRequest;o.open('GET',e,true);o.withCredentials=!t.dSC;o.responseType=t.responseType||'text';o.onload=function(){if(t.onloadCb){return t.onloadCb(o,e)}if(o.status===200){_vwo_code.addScript({text:o.responseText})}else{_vwo_code.finish('&e=loading_failure:'+e)}};o.onerror=function(){if(t.onerrorCb){return t.onerrorCb(e)}_vwo_code.finish('&e=loading_failure:'+e)};o.send()}},getSettings:function(){try{var e=stT.getItem(cK);if(!e){return}e=JSON.parse(e);if(Date.now()>e.e){stT.removeItem(cK);return}return e.s}catch(e){return}},init:function(){if(d.URL.indexOf('__vwo_disable__')>-1)return;var e=this.settings_tolerance();w._vwo_settings_timer=setTimeout(function(){_vwo_code.finish();stT.removeItem(cK)},e);var t;if(this.hide_element()!=='body'){t=d.createElement('style');var i=this.hide_element(),n=i?i+this.hide_element_style():'',r=d.getElementsByTagName('head')[0];t.setAttribute('id','_vis_opt_path_hides');v&&t.setAttribute('nonce',v.nonce);t.setAttribute('type','text/css');if(t.styleSheet)t.styleSheet.cssText=n;else t.appendChild(d.createTextNode(n));r.appendChild(t)}else{t=d.getElementsByTagName('head')[0];var n=d.createElement('div');n.style.cssText='z-index: 2147483647 !important;position: fixed !important;left: 0 !important;top: 0 !important;width: 100% !important;height: 100% !important;background: white !important;';n.setAttribute('id','_vis_opt_path_hides');n.classList.add('_vis_hide_layer');t.parentNode.insertBefore(n,t.nextSibling)}var o='https://dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&vn='+version;if(w.location.search.indexOf('_vwo_xhr')!==-1){this.addScript({src:o})}else{this.load(o+'&x=true')}}};w._vwo_code=code;code.init();})();
+        </script>
+    
+
+
+
+    
+
+
+
+
+
+    <link rel="alternate" href="https://www.yamaha-motor.eu/gb/en/home/" hreflang="en-GB"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/al/en/home/" hreflang="en-AL"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/at/de/home/" hreflang="de-AT"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/be/nl/home/" hreflang="nl-BE"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/be/fr/home/" hreflang="fr-BE"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/ba/hr/home/" hreflang="hr-HR"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/bg/bg/home/" hreflang="bg-BG"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/hr/hr/home/" hreflang="hr-HR"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/cy/en/home/" hreflang="en-CY"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/cz/cs/home/" hreflang="cs-CZ"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/dk/da/home/" hreflang="da-DK"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/ee/et/home/" hreflang="et-EE"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/fi/fi/home/" hreflang="fi-FI"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/fr/fr/home/" hreflang="fr-FR"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/de/de/home/" hreflang="de-DE"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/gr/el/home/" hreflang="el-GR"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/hu/hu/home/" hreflang="hu-HU"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/is/en/home/" hreflang="en-IS"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/ie/en/home/" hreflang="en-IE"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/kv/en/home/" hreflang="en-XK"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/it/it/home/" hreflang="it-IT"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/lv/lv/home/" hreflang="lv-LV"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/lt/lt/home/" hreflang="lt-LT"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/lu/fr/home/" hreflang="fr-LU"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/me/sr/home/" hreflang="hr-HR"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/mk/mk/home/" hreflang="mk-MK"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/nl/nl/home/" hreflang="nl-NL"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/no/nb/home/" hreflang="nb-NO"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/pl/pl/home/" hreflang="pl-PL"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/pt/pt/home/" hreflang="pt-PT"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/ro/ro/home/" hreflang="ro-RO"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/rs/sr/home/" hreflang="sr-RS"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/sk/sk/home/" hreflang="sk-SK"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/si/sl/home/" hreflang="sl-SI"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/es/es/home/" hreflang="es-ES"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/se/sv/home/" hreflang="sv-SE"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/ch/fr/home/" hreflang="fr-CH"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/ch/de/home/" hreflang="de-CH"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/tr/tr/home/" hreflang="tr-TR"/>
+<link rel="alternate" href="https://www.yamaha-motor.eu/ua/uk/home/" hreflang="uk-UA"/>
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+
+    
+
+    
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/yme/clientlibs/clientlib-react.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" type="text/css">
+
+
+
+    
+
+    
+    
+</head>
+
+    <body class="home-page page basicpage" id="home-page-05529aed94" data-cmp-data-layer-enabled>
+        
+        
+            
+
+
+
+            <noscript>You need to enable JavaScript to run this app.</noscript>
+<div id="spa-root"></div>
+
+            
+    
+    
+<script src="/etc.clientlibs/yme/clientlibs/clientlib-react.lc-6a67d617f9f4083ec0a2f12acca7d7a8-lc.min.js"></script>
+
+
+
+    
+
+
+  <script async src="/etc.clientlibs/core/wcm/components/commons/site/clientlibs/container.lc-0a6aff292f5cc42142779cde92054524-lc.min.js"></script>
+<script async src="/etc.clientlibs/yme/clientlibs/clientlib-base.lc-5fe9df02a1cc69f16a4268419b7e90e1-lc.min.js"></script>
+
+
+
+    
+
+    
+
+    
+    
+
+
+
+    
+    
+
+            
+
+        
+    </body>
+</html>

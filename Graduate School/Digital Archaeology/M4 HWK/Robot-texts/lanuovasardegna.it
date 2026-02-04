@@ -1,0 +1,11 @@
+User-agent: *
+Sitemap: https://www.lanuovasardegna.it/sitemap.xml
+Disallow: /*content.json$
+Disallow: /api/auth
+Disallow: /italia-mondo
+Allow: /
+
+User-agent: facebookexternalhit/1.1
+Disallow: /*content.json$
+Disallow: /api/auth
+Allow: /

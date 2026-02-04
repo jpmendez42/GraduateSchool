@@ -1,0 +1,156 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /suche
+Disallow: /en/search
+Disallow: /suche/
+Disallow: /en/search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /login
+Disallow: /user/login
+Disallow: /user/logout
+Disallow: /node/
+Disallow: /en/node/
+Disallow: /aba-gebiet?*
+Disallow: /aba-gebiet/?*
+Disallow: /en/aba-gebiet?*
+Disallow: /en/aba-gebiet/?*
+Disallow: /cites-sachverstaendige?*
+Disallow: /cites-sachverstaendige/?*
+Disallow: /en/cites-sachverstaendige?*
+Disallow: /en/cites-sachverstaendige/?*
+Disallow: /daten-und-fakten?*
+Disallow: /daten-und-fakten/?*
+Disallow: /en/data-and-facts?*
+Disallow: /en/data-and-facts/?*
+Disallow: /veranstaltungen?*
+Disallow: /veranstaltungen/?*
+Disallow: /en/events?*
+Disallow: /en/events/?*
+Disallow: /veranstaltungen-ina?*
+Disallow: /veranstaltungen-ina/?*
+Disallow: /en/events-ina?*
+Disallow: /en/events-ina/?*
+Disallow: /faqs?*
+Disallow: /faqs/?*
+Disallow: /en/faqs?*
+Disallow: /en/faqs/?*
+Disallow: /aktuelle-stellenangebote?*
+Disallow: /aktuelle-stellenangebote/?*
+Disallow: /en/jobs?*
+Disallow: /en/jobs/?*
+Disallow: /bedeutsame-landschaft?*
+Disallow: /bedeutsame-landschaft/?*
+Disallow: /en/significant-landscapes?*
+Disallow: /en/significant-landscapes/?*
+Disallow: /natura-2000-gebiet?*
+Disallow: /natura-2000-gebiet/?*
+Disallow: /en/natura-2000-gebiet?*
+Disallow: /en/natura-2000-gebiet/?*
+Disallow: /natura-2000-lebensraum?*
+Disallow: /natura-2000-lebensraum/?*
+Disallow: /en/natura-2000-habitats?*
+Disallow: /en/natura-2000-habitats/?*
+Disallow: /aktuelles?*
+Disallow: /aktuelles/?*
+Disallow: /en/latest-news?*
+Disallow: /en/latest-news/?*
+Disallow: /pressemitteilungen?*
+Disallow: /pressemitteilungen/?*
+Disallow: /en/press-release?*
+Disallow: /en/press-release/?*
+Disallow: /projektsteckbriefe?*
+Disallow: /projektsteckbriefe/?*
+Disallow: /en/project?*
+Disallow: /en/project/?*
+Disallow: /landschaftssteckbriefe?*
+Disallow: /landschaftssteckbriefe/?*
+Disallow: /en/landschaftssteckbriefe?*
+Disallow: /en/landschaftssteckbriefe/?*
+Disallow: /publikationen?*
+Disallow: /publikationen/?*
+Disallow: /en/publications?*
+Disallow: /en/publications/?*
+Disallow: /suche?*
+Disallow: /suche/?*
+Disallow: /en/search?*
+Disallow: /en/search/?*
+Disallow: /artenportraits?*
+Disallow: /artenportraits/?*
+Disallow: /en/species?*
+Disallow: /en/species/?*
+Disallow: /praxisbeispiele?*
+Disallow: /praxisbeispiele/?*
+Disallow: /en/practical-examples?*
+Disallow: /en/practical-examples/?*
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/suche/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/login
+Disallow: /index.php/user/login
+Disallow: /index.php/user/logout
+Disallow: /index.php/node/
+# Paths (no clean URLs)
+Disallow: /index.php/en/admin/
+Disallow: /index.php/en/comment/reply/
+Disallow: /index.php/en/filter/tips
+Disallow: /index.php/en/node/add/
+Disallow: /index.php/en/suche/
+Disallow: /index.php/en/user/password
+Disallow: /index.php/en/user/register
+Disallow: /index.php/en/login
+Disallow: /index.php/en/user/login
+Disallow: /index.php/en/user/logout
+Disallow: /index.php/en/node/
+
+Sitemap: https://www.bfn.de/sitemap.xml
+Sitemap: https://www.bfn.de/sitemaps/news/sitemap.xml

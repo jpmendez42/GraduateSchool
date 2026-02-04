@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+
+# folders
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*
+Disallow: /*tx_powermail_pi1
+
+# sitemap
+Sitemap: https://www.hs-furtwangen.de/sitemap.xml

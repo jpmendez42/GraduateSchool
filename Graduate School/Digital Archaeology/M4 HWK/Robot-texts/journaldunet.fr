@@ -1,0 +1,46 @@
+# https://www.journaldunet.fr
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /recherche/
+Disallow: /*xhr
+Disallow: /api/
+Disallow: /account/login
+
+# Open data
+Disallow: /management/ville/recherche
+Disallow: /economie/impots/*,
+Disallow: /economie/impots/*/ville-*/*-
+Disallow: /economie/impots/*/departement-*/*-
+Disallow: /economie/impots/*/region-*/*-
+Disallow: /economie/impots/recherche
+Disallow: /business/budget-ville/*,
+Disallow: /business/budget-ville/*/ville-*/*-
+Disallow: /business/budget-ville/*/departement-*/*-
+Disallow: /business/budget-ville/*/region-*/*-
+Disallow: /business/budget-ville/recherche
+Disallow: /business/prix/recherche
+Disallow: /web-tech/fonds/recherche
+Disallow: /business/salaire/recherche
+Disallow: /business/salaire/patron/recherche
+
+
+Sitemap: https://www.journaldunet.fr/sitemap/
+
+# Block https://opensiteexplorer.org/dotbot
+User-agent: dotbot
+Disallow: /
+
+# Block http://ahrefs.com/robot/
+User-agent: AhrefsBot
+Disallow: /
+
+# Block https://dataforseo.com/dataforseo-bot
+User-agent: DataForSeoBot
+Disallow: /
+
+# Block https://www.semrush.com/bot/
+User-agent: SemrushBot
+Disallow: /

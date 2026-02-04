@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /ads.txt
+Disallow: /api/
+Disallow: /index.php/
+Disallow: /*-print*
+
+Sitemap: https://docnhanh.vn/sitemap.xml
+Sitemap: https://docnhanh.vn/google-news.xml

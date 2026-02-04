@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /stud?*
+Disallow: /stud/*?*
+Disallow: /sale?*
+Disallow: /sale/*?*
+
+Sitemap: https://dogs.ie/sitemap.xml

@@ -1,0 +1,171 @@
+# robots.txt for play3.de (optimiert)
+# Stand: 2025-08-25
+
+# ------------------------------------------------------------
+# Globale Regeln (alle Crawler)
+# ------------------------------------------------------------
+User-agent: *
+
+# Yoast/WordPress-spezifische Parameter
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /page/*/?s&paged=
+Disallow: /*/page/*/?style=white
+Disallow: /*/page/*/?style=black
+Disallow: /*/page/*/?autoplay=1
+Disallow: /search/
+Disallow: /*/?cmpscreencustom
+
+# WordPress Core/REST
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-json/
+Disallow: /wp-json/wordpress-popular-posts/v1/popular-posts/
+Disallow: /wp-json/wordpress-popular-posts/v2/popular-posts/
+
+# Invision Community – Seiten mit wenig/keinem Unique Content
+Disallow: /forum/*/startTopic/
+Disallow: /forum/*/discover/unread/
+Disallow: /forum/*/markallread/
+Disallow: /forum/*/staff/
+Disallow: /forum/*/cookie/
+Disallow: /forum/*/online/
+Disallow: /forum/*/events/
+Disallow: /forum/*/discover/
+Disallow: /forum/*/leaderboard/
+Disallow: /forum/*/search/
+Disallow: /forum/*/tags/
+Disallow: /forum/*?advancedSearchForm=
+Disallow: /forum/*/register/
+Disallow: /forum/*/lostpassword/
+Disallow: /forum/*/login/
+
+# Invision Community – Facetten & Redirect-Seiten
+Disallow: /forum/*?sortby=
+Disallow: /forum/*?filter=
+Disallow: /forum/*?tab=
+Disallow: /forum/*?do=
+Disallow: /forum/*ref=
+Disallow: /forum/*?forumId*
+Disallow: /forum/*&do=findComment
+
+# Invision Community – Profile (viel Crawl-Aufwand, wenig Wert)
+Disallow: /forum/*/profile/
+
+# ------------------------------------------------------------
+# Crawling-Drosselung
+# ------------------------------------------------------------
+User-agent: Bingbot
+Crawl-delay: 5
+
+User-agent: DataForSeoBot
+Crawl-delay: 10
+
+User-agent: BLEXbot
+Crawl-delay: 10
+
+User-agent: SEOkicks
+Crawl-delay: 20
+
+User-agent: dotbot
+Crawl-delay: 10
+
+# ------------------------------------------------------------
+# Bots / Crawler, die vollständig blockiert werden
+# (mehrere User-agent-Zeilen, gemeinsame Disallow-Regel)
+# ------------------------------------------------------------
+# Bots komplett blockieren
+User-agent: sogou spider
+User-agent: Baiduspider
+User-agent: AhrefsBot
+User-agent: SemrushBot-SA
+User-agent: Flamingo_SearchEngine
+User-agent: anthropic-ai
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: aiHitBot
+User-agent: Amazonbot
+User-agent: Andibot
+User-agent: Applebot-Extended
+User-agent: Awario
+User-agent: bedrockbot
+User-agent: Brightbot 1.0
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Cotoyogi
+User-agent: Crawlspace
+User-agent: Datenbank Crawler
+User-agent: Devin
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: Echobot Bot
+User-agent: EchoboxBot
+User-agent: FacebookBot
+User-agent: Factset_spyderbot
+User-agent: FirecrawlAgent
+User-agent: FriendlyCrawler
+User-agent: Gemini-Deep-Research
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: GoogleAgent-Mariner
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+User-agent: iaskspider/2.0
+User-agent: ICC-Crawler
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: ISSCyberRiskCrawler
+User-agent: Kangaroo Bot
+User-agent: meta-externalagent
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalfetcher
+User-agent: Meta-ExternalFetcher
+User-agent: MistralAI-User
+User-agent: MistralAI-User/1.0
+User-agent: MyCentralAIScraperBot
+User-agent: netEstate Imprint Crawler
+User-agent: NovaAct
+User-agent: omgili
+User-agent: omgilibot
+User-agent: Operator
+User-agent: PanguBot
+User-agent: Panscient
+User-agent: panscient.com
+User-agent: Perplexity-User
+User-agent: PerplexityBot
+User-agent: PetalBot
+User-agent: PhindBot
+User-agent: Poseidon Research Crawler
+User-agent: QualifiedBot
+User-agent: QuillBot
+User-agent: quillbot.com
+User-agent: SBIntuitionsBot
+User-agent: Scrapy
+User-agent: SemrushBot-OCOB
+User-agent: SemrushBot-SWA
+User-agent: Sidetrade indexer bot
+User-agent: SummalyBot
+User-agent: Thinkbot
+User-agent: TikTokSpider
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: WARDBot
+User-agent: Webzio-Extended
+User-agent: wpbot
+User-agent: YandexAdditional
+User-agent: YandexAdditionalBot
+User-agent: YouBot
+Disallow: /
+
+# ------------------------------------------------------------
+# Sitemaps
+# ------------------------------------------------------------
+Sitemap: https://www.play3.de/sitemap_index.xml
+Sitemap: https://www.play3.de/forum/sitemap.php

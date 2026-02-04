@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /img/
+
+Disallow: /prihlasit/
+Disallow: /registrace/
+Disallow: /pripomenout-heslo/
+Disallow: /pripomenout-jmeno/
+Disallow: /api/
+Disallow: /*?nahled=
+
+Disallow: */odpovedet/$
+Disallow: */pridat/$
+Disallow: /vyhledavani
+Disallow: /ad-iframe/
+Disallow: /widgety/clanky/
+
+Sitemap: http://www.lupa.cz/sitemap/sitemap.xml

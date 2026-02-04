@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /*?*page/*
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://noklapja.hu/uploads/sitemap/www.noklapja.hu_sitemap.xml

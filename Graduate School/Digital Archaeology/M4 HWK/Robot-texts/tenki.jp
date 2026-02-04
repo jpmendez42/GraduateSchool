@@ -1,0 +1,12 @@
+User-agent: * 
+Disallow: /promotion/.html
+Disallow: /lite/promotion/.html
+Disallow: /index.html
+Disallow: /leisure/search/?
+Disallow: /?map_leisure_category
+Disallow: /?jiscode
+
+Sitemap: https://tenki.jp/sitemap_pc.xml
+Sitemap: https://tenki.jp/sitemap_lite.xml
+
+LLMS: https://tenki.jp/llms.txt

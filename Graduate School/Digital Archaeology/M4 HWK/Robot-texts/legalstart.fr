@@ -1,0 +1,49 @@
+
+# Allow HubSpot Site Search Indexing
+
+
+User-agent: HubSpotContentSearchBot
+Allow: /
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*
+
+
+User-Agent: *
+Disallow: /compte/
+Disallow: /parcours-creation/*
+Disallow: /cs/c/*
+Disallow: /hs-fs/hubfs/preview-models/*
+Disallow: /tache/
+Disallow: /workflow/
+Disallow: /cdn-cgi/
+Disallow: /*?next=*
+Disallow: /*?slug=*
+Disallow: /*%20/*
+Disallow: /*?specialite=*
+Disallow: /*/?start_page=*
+Disallow: /_hcms*
+Disallow: /avocats/*
+Allow: /lsmsr*.js$
+Allow: /lsmsr*.js?*$
+Allow: /lsmsr*/js$
+Allow: /lsmsr*/js?*$
+Allow: /lsmsr*.html$
+Allow: /lsmsr*.html?*$
+Disallow: /lsmsr
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*
+
+Sitemap: https://www.legalstart.fr/sitemap.xml
+
+User-agent: *
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*

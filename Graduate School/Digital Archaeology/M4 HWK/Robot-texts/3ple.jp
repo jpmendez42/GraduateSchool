@@ -1,0 +1,23 @@
+user-agent: Baiduspider
+disallow: /
+
+user-agent: BaiduImagespider
+disallow: /
+
+user-agent: BaiduMobaider
+disallow: /
+
+user-agent: SemrushBot
+disallow: /
+
+user-agent: DotBot
+disallow: /
+
+user-agent: MJ12bot
+disallow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+user-agent: *
+disallow: /preview/

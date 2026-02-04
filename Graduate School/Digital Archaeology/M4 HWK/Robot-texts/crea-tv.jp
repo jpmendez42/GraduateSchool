@@ -1,0 +1,37 @@
+User-Agent: baiduspider
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-Agent: yeti
+Disallow: /
+
+User-Agent: twiceler
+Disallow: /
+
+User-Agent: dotbot
+Disallow: /
+
+User-agent: yandex
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /User/ViComm/man/(S(IMPACT-*))/data/
+Disallow: /User/ViComm/man/data/
+Disallow: /User/ViComm/woman/(S(IMPACT-*))/data/
+Disallow: /User/ViComm/woman/data/
+Disallow: /User/ViComm/man/(S(IMPACT-*))/movie/
+Disallow: /User/ViComm/man/movie/
+Disallow: /User/ViComm/woman/(S(IMPACT-*))/movie/
+Disallow: /User/ViComm/woman/movie/
+Disallow: /mm/
+Disallow: /mw/
+Disallow: /wm/
+Disallow: /ww/

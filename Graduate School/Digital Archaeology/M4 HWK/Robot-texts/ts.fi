@@ -1,0 +1,179 @@
+# Scraping is not allowed for training AI language models, or selling to AI companies
+
+User-agent: *
+Disallow: /section
+Disallow: /ajax
+Disallow: /keskustelut
+Disallow: /json
+Disallow: /video/embed
+Disallow: /app/webview/sinulle/
+
+# ChatGPT crawler
+User-agent: ChatGPT-user
+Disallow: /
+
+# ChatGPT crawler 2.9.2025
+User-agent: ChatGPT-User
+Disallow: /
+
+#ChatGPT plugins
+User-agent: GPTBot
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# Bard and Vertex
+User-agent: Google-Extended
+Disallow: /
+
+# FacebookBot
+User-agent: FacebookBot
+Disallow: /
+
+# Amazonbot
+User-agent: Amazonbot
+Disallow: /
+
+# ByteDance
+User-agent: Bytespider
+Disallow: /
+
+# Omgili
+User-agent: Omgili
+Disallow: /
+
+# Omgilibot
+User-agent: Omgilibot
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+# Claude Web
+User-agent: Claude-Web
+Disallow: /
+
+# Claude Bot
+User-agent: ClaudeBot 
+Disallow: /
+
+# ImagesiftBot
+User-Agent: ImagesiftBot
+Disallow: /
+
+# Cohere 10.2.2025
+User-agent: cohere-ai
+Disallow: /
+
+# PerplexityBot 10.2.2025
+User-agent: PerplexityBot
+Disallow: /
+
+# YouBot 10.2.2025
+User-agent: YouBot
+Disallow: /
+
+# Diffbot 10.2.2025
+User-agent: Diffbot
+Disallow: /
+
+# Applebot-Extended 10.2.2025
+User-agent: Applebot-Extended
+Disallow: /
+
+# OAI-SearchBot 10.2.2025
+User-agent: OAI-SearchBot
+Disallow: /
+
+# Google-CloudVertexBot 10.2.2025
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+# Meta-ExternalAgent 10.2.2025
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+# Meta-ExternalFetcher 10.2.2025
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# Webzio-Extended 10.2.2025
+User-agent: Webzio-Extended
+Disallow: /
+
+# FriendlyCrawler 10.2.2025
+User-agent: FriendlyCrawler
+Disallow: /
+
+# meta-externalagent 10.2.2025
+User-agent: meta-externalagent
+Disallow: /
+
+# meta-externalfetcher 10.2.2025
+User-agent: meta-externalfetcher
+Disallow: /
+
+# TeleportPro 10.2.2025
+User-agent: TeleportPro
+Disallow: /
+
+# Qwam content intelligence 10.2.2025
+User-agent: Qwam content intelligence
+Disallow: /
+
+# Timpibot 10.2.2025
+User-agent: Timpibot
+Disallow: /
+
+# Kangaroo Bot 10.2.2025
+User-agent: Kangaroo Bot
+Disallow: /
+
+# AI2Bot 10.2.2025
+User-agent: AI2Bot
+Disallow: /
+
+# VelenPublicWebCrawler 10.2.2025
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+# img2dataset 10.2.2025
+User-agent: img2dataset
+Disallow: /
+
+# Sidetrade indexer bot 10.2.2025
+User-agent: Sidetrade indexer bot
+Disallow: /
+
+# PanguBot 10.2.2025
+User-agent: PanguBot
+Disallow: /
+
+# ISSCyberRiskCrawler 10.2.2025
+User-agent: ISSCyberRiskCrawler
+Disallow: /
+
+# Ai2Bot-Dolma 10.2.2025
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+# Scrapy crawler 2.9.2025
+User-agent: Scrapy
+Disallow: / 
+
+# Gemini-Deep-Research 2.9.2025
+User-agent: Gemini-Deep-Research
+Disallow: /
+
+# PetalBot 13.10.2025
+User-agent: PetalBot
+Disallow: /
+
+sitemap: https://www.ts.fi/sitemap_latest.xml
+sitemap: https://www.ts.fi/gnews_sitemap.xml
+sitemap: https://www.ts.fi/content/app/staticsitemaps/sitemapindex_recent.xml
+sitemap: https://www.ts.fi/content/app/staticsitemaps/sitemapindex_1997-2022.xml
+sitemap: https://www.ts.fi/content/app/staticsitemaps/old/sitemapindex.xml

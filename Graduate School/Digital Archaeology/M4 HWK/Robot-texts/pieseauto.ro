@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /contul-meu/*
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /

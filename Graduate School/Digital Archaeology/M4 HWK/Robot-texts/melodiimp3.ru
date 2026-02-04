@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /search
+Disallow: /feedback
+Disallow: /registration
+Disallow: /login
+Disallow: /restore
+Disallow: /redirector/
+Disallow: /download/
+Disallow: /m$
+Disallow: /f$
+Disallow: /m/
+Disallow: /f/
+Disallow: /pravoobladatelyam
+Host: https://melodiimp3.ru
+Sitemap: https://melodiimp3.ru/sitemap.xml

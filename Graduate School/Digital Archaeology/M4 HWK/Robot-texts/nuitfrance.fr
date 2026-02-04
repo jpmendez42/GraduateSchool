@@ -1,0 +1,25 @@
+User-agent: 8LEGS
+User-agent: AspiegelBot
+User-agent: BLEXBot
+User-agent: Barkrowler
+User-agent: DotBot
+User-agent: MauiBot
+User-agent: Nimbostratus-Bot
+User-agent: PetalBot
+User-agent: SeznamBot
+User-agent: Sogou
+User-agent: serpstatbot
+User-agent: trendiction
+User-agent: TextBulkerBot
+Crawl-delay: 180
+Disallow: /wp-admin/
+User-agent: GPTBot
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.nuitfrance.fr/sitemap_index.xml
+Sitemap: http://www.nuitfrance.fr/sitemap-news.xml

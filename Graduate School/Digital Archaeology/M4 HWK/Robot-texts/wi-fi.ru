@@ -1,0 +1,29 @@
+User-agent: Yandex
+Disallow: /*utm_
+Disallow: /*openstat
+Disallow: /penguin
+Disallow: /*?playeri=
+Disallow: /*?ref=
+Disallow: /*?clid
+Disallow: /?
+sitemap: https://wi-fi.ru/sitemap_index.xml
+Host: https://wi-fi.ru
+
+User-agent: Googlebot
+Disallow: /*utm_
+Disallow: /*openstat
+Disallow: /penguin
+Disallow: /*?playeri=
+Disallow: /*?ref=
+Disallow: /?
+Disallow: /rss/
+sitemap: https://wi-fi.ru/sitemap_index.xml
+
+User-agent: *
+Disallow: /*utm_
+Disallow: /*openstat
+Disallow: /penguin
+Disallow: /*?playeri=
+Disallow: /*?ref=
+Disallow: /?
+sitemap: https://wi-fi.ru/sitemap_index.xml

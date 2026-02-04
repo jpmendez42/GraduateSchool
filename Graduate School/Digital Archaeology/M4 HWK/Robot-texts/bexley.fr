@@ -1,0 +1,114 @@
+# Default robots.txt for bexley.fr
+User-agent: *
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /wishlist/
+Disallow: /admin/
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /sendfriend/
+Disallow: /enable-cookies/
+Disallow: /LICENSE.txt
+Disallow: /LICENSE.html
+Disallow: /skin/
+Disallow: /js/
+Disallow: /bxl_bx/ajax/
+Disallow: /directory/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pub/
+Disallow: /tag/
+Disallow: /review/
+Disallow: /*?refSrc=
+Disallow: /*?nosto=
+Disallow: /*?selecteur=
+Disallow: /*?&refSrc=
+Disallow: /*?&nosto=
+Disallow: /*?&selecteur=
+Disallow: /*?order=
+Disallow: /*&order=
+Disallow: /*?dir=
+Disallow: /*&dir=
+Disallow: /*?limit=
+Disallow: /*&limit=
+Disallow: /*?mode=
+Disallow: /*&mode=
+Disallow: /*?price=
+Disallow: /*&price=
+Disallow: /*?product_list_order=
+Disallow: /*&product_list_order=
+Disallow: /*SID=
+Disallow: /aw_rma/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /amasty_promo/popup/reload/
+Disallow: /sales/
+Disallow: /physicalsales/
+Disallow: /bexley_rma/
+Disallow: /newsletter/
+Disallow: /*?utm_
+Disallow: /*&utm_
+
+User-Agent: AhrefsBot
+Crawl-Delay: 60
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: ShopWiki
+Disallow: /
+
+User-agent: msnbot
+Disallow: /
+
+User-Agent: bingbot
+Crawl-delay: 1
+
+User-agent: Slurp
+Crawl-delay: 5
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Riddler
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MegaIndex.ru/2.0
+Disallow: /
+
+User-agent: Cliqzbot
+Disallow: /
+
+User-agent: ClaudeBot
+Crawl-delay: 10
+User-agent: Claude-User
+Crawl-delay: 10
+User-agent: Claude-SearchBot
+Crawl-delay: 10
+
+User-agent: Meta-ExternalAgent
+Crawl-delay: 10
+User-agent: Meta-ExternalFetcher
+Crawl-delay: 10

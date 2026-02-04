@@ -1,0 +1,73 @@
+#Updated on 25.07.2025
+# 1. Block all crawlers by default.
+User-agent: *
+Disallow: /
+
+# 2. Grant specific access to trusted crawlers.
+User-agent: Googlebot
+User-agent: Google-Extended
+User-agent: Bingbot
+User-agent: YandexBot
+User-agent: Applebot
+User-agent: Twitterbot
+User-agent: LinkedInBot
+User-agent: Pinterestbot
+User-agent: meta-externalagent
+User-agent: facebookexternalhit
+User-agent: meta-externalfetcher
+User-agent: Twitterbot
+User-agent: GPTBot
+User-agent: PerplexityBot
+User-agent: GeminiBot
+User-agent: CCBot
+User-agent: Amazonbot
+User-agent: DuckAssistBot
+User-agent: Slurp
+User-agent: Google-InspectionTool
+User-agent: claudebot
+User-agent: Baiduspider
+User-agent: Adsbot-Google
+User-agent: Adsbot-Google-Mobile
+User-agent: OfferistaCrawler/1.0
+User-agent: petalbot
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: Screaming Frog SEO Spider
+Disallow: /bg/cart
+Disallow: /bg/checkout
+Disallow: /bg/my-account
+Disallow: /bg/return-product
+Disallow: /en/cart
+Disallow: /en/checkout
+Disallow: /en/my-account
+Disallow: /en/return-product
+Disallow: /*pricerange=
+Disallow: /*pageselect=
+Disallow: /*relevance:
+Disallow: /medias/*Variant-colour*
+Disallow: /medias/*Product-bundle*
+Disallow: /medias/*FreeGift*
+Disallow: /medias/*Mini-cart*
+Disallow: /medias/*Basket*
+
+# 3. Grant specific access to image crawlers (if rules differ, otherwise not needed).
+User-agent: Googlebot-Image
+Disallow: /bg/cart
+Disallow: /bg/checkout
+Disallow: /bg/my-account
+Disallow: /bg/return-product
+Disallow: /en/cart
+Disallow: /en/checkout
+Disallow: /en/my-account
+Disallow: /medias/*Variant-colour*
+Disallow: /medias/*Product-bundle*
+Disallow: /medias/*FreeGift*
+Disallow: /medias/*Mini-cart*
+Disallow: /medias/*Basket*
+
+# 4. Add crawl-delay for specific bots if needed.
+User-agent: claudebot
+Crawl-delay: 10
+
+# 5. Provide sitemap location.
+Sitemap: https://www.technopolis.bg/sitemap.xml

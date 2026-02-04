@@ -1,0 +1,35 @@
+sitemap: http://www.xboxdynasty.de/sitemap_index.xml
+
+User-Agent: *
+
+Disallow: /wp/wp-admin/
+Disallow: /wp/wp-includes/
+Disallow: /wp/wp-content/
+Disallow: /wp/?
+Disallow: /wp-content/
+Disallow: /wp/wp-login.php
+Disallow: /login/
+Disallow: /feed/
+Disallow: /comments/feed/
+Disallow: /trackback/
+Disallow: /*/*?dmode=
+Disallow: /*/attachment/*
+Allow: /wp-content/uploads/
+
+Disallow: /eyeblaster
+Disallow: /addineyeV2.html
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+User-agent: msnbot-media
+Allow: /wp-content/uploads/
+
+User-agent: MSNBOT_Mobile
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: MediaPartners-Google
+Allow: /

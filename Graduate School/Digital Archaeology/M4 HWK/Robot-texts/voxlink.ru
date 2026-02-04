@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /tag/
+Disallow: */?
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search
+Disallow: /author/
+Disallow: */embed
+Disallow: */page/
+Disallow: */feed/
+Disallow: */our-clients/
+Disallow: */policy/
+Allow: */uploads
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+Allow: /wp-*.svg
+Allow: /wp-*.pdf
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://voxlink.ru/sitemap.xml

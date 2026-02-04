@@ -1,0 +1,25 @@
+# Allow crawling of all content:
+User-agent: *
+Allow: /
+
+# Disallow certain TYPO3 folders:
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+
+# Allow extensions as they might contain important assets:
+Allow: /typo3conf/ext/
+
+# Disallow certain parameters:
+# 1. No pages that aren't 'beautified':
+#Disallow: /*?id=*
+# 2. No pages with cHash:
+#Disallow: /*cHash
+# 3. No powermail thanks pages:
+Disallow: /*tx_powermail_pi1
+# 4. No forms:
+Disallow: /*tx_form_formframework
+
+# Add XML sitemaps, one per language:
+Sitemap: https://www.lrz.de/sitemap.xml
+Sitemap: https://www.lrz.de/en/sitemap.xml

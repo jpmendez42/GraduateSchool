@@ -1,0 +1,91 @@
+User-agent: *
+
+Disallow: /tiny/
+Disallow: /includes
+Disallow: /imgs
+Disallow: /imgstat
+Disallow: */pf/api/
+Disallow: /.well-known/assetlinks.json
+Disallow: /recherche/
+
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/rss/alaune.xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sections-sitemap.xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-news.xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-by-week-2020-now.xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-by-week-2010-2020.xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/current-year-to-now.xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/days/rolling/?outputType=xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/weeks/rolling/?outputType=xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/months/rolling/?outputType=xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/years/rolling/?outputType=xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/days/latest/?outputType=xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/weeks/latest/?outputType=xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/months/latest/?outputType=xml
+Sitemap: https://www.lexpress.fr/arc/outboundfeeds/sitemap-all/years/latest/?outputType=xml
+
+User-agent: TunitinBot
+Disallow: /
+
+User-agent: ConveraCrawler
+Disallow: /
+
+User-agent: QuepasaCreep
+Disallow: /
+
+User-agent: Jetbot
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: Digimind
+Disallow: /
+
+User-agent: Knowings D
+Disallow: /
+
+User-agent: kbcrawl
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: AmiSoftware
+Disallow: /
+
+User-agent: Newzbin
+Disallow: /
+
+User-agent: Ask n read
+Disallow: /
+
+User-agent: Qwam content intelligence
+Disallow: /
+
+User-agent: Zite
+Disallow: /
+
+User-agent: flipboard
+Disallow: /
+
+User-agent: FlipboardProxy
+Disallow: /
+
+User-agent: Youmag
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /*.svg
+Disallow: /*.js

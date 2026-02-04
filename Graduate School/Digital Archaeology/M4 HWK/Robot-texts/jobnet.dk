@@ -1,0 +1,468 @@
+
+
+
+<!DOCTYPE html>
+<html class="no-js jobnet"
+      lang="da"
+      data-build="2025.3.0.18"
+      data-ng-app="Jobnet">
+
+<head data-jn-header-manager>
+    <meta charset="utf-8" />
+
+    <script src="https://cdn-eu.cookietractor.com/cookietractor.js" data-lang="da-DK" data-id="997a8f64-3979-4aaf-a7ad-d75d4a075a3e"></script>
+
+    
+    <title>Forside</title>
+    <meta name="description"
+          content="" />
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1" />
+    
+    <link href="/CV/bundles/jobnet/styles/themes/jqueryui?v=tnDXbSoBDWbbJp6Mq-7PNZ2WgEiO41s0WI3Jpab9v5k1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/normalization?v=8SYC4_fo8F7yKup3Ic3pmxETVZDCktLLOPXjtIVe2Zk1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/normalizationprint?v=oRijEx5qJuAAPi5Biy05nn2lsj7dhIKZLJ8zNwNOAZs1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/pages/frontpage?v=b0uJhe0DDrzyPRudKQHMIHXSH0Pzm0hAvpGFSzz1_FQ1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/core?v=ONfADYKRI1Nc5mF-zs8USGBw0m2n4xTcB_a9b-CDX3Y1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/bootstrap?v=n5CvACU4jgrz5sEsgyh2dKMN4XRrA5MP6E3JSohx-b01" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/forms?v=8DnLu7NN0cZujC30MY8tnOA4_ljhQP03ipKkQdcB2401" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/forms/legacy?v=4k4iAA6St0qtiAAnW3O75mQYd21p8D9GP_qKkjyws5o1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/clientsession?v=9Dk9MAAUbEWVrzj4jSMoiYR-OBW5AYUGjqCrWu9RTPA1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/moderncommon?v=DDMlYioue2NXDKptu4t9LxWmZ0pyZsoZpGdJ3IIWGLQ1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/navigation?v=wrynJzhv9q3fvwTcAc1lzm3ExOGFaWgYOAuqDOozlsk1" rel="stylesheet"/>
+
+    <link href="/CV/bundles/jobnet/styles/moderncore?v=WrfdLwD6_z90AfhpVDauBTgYbjPcyrJGQ0Y54FRvWqk1" rel="stylesheet"/>
+
+
+    <style>
+        .dynamic-background {
+            background: url("/cv/Images/Frontpage/Background/job23.jpg?jv=2025.3.0.18") #E5EBF7 top center no-repeat;
+        }
+    </style>
+
+<link rel="apple-touch-icon" sizes="180x180" href="https://job.jobnet.dk/cdn/favicon/apple-touch-icon.png?v=2bwmBNYP6K">
+<link rel="icon" type="image/png" sizes="32x32" href="https://job.jobnet.dk/cdn/favicon/favicon-32x32.png?v=2bwmBNYP6K">
+<link rel="icon" type="image/png" sizes="194x194" href="https://job.jobnet.dk/cdn/favicon/favicon-194x194.png?v=2bwmBNYP6K">
+<link rel="icon" type="image/png" sizes="192x192" href="https://job.jobnet.dk/cdn/favicon/android-chrome-192x192.png?v=2bwmBNYP6K">
+<link rel="icon" type="image/png" sizes="16x16" href="https://job.jobnet.dk/cdn/favicon/favicon-16x16.png?v=2bwmBNYP6K">
+<link rel="manifest" href="https://job.jobnet.dk/cdn/favicon/manifest.json?v=2bwmBNYP6K">
+<link rel="mask-icon" href="https://job.jobnet.dk/cdn/favicon/safari-pinned-tab.svg?v=2bwmBNYP6K" color="#2b5797">
+<link rel="shortcut icon" href="https://job.jobnet.dk/cdn/favicon/favicon.ico?v=2bwmBNYP6K">
+<meta name="theme-color" content="#ffffff">
+    <script src="/CV/bundles/jobnet/scripts/modernizr?v=Jf9PWRgqMqlxWLvJvLc5qNDEmYPzTJjpgqJsl6LpI6A1"></script>
+
+
+    <script type="text/javascript">
+        window.addEventListener('CookieConsentGiven', function (event) {
+            if (cookieTractor.consentGivenFor('statistical')) {
+                var _paq = window._paq = window._paq || [];
+                /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+                _paq.push(['trackPageView']);
+                _paq.push(['enableLinkTracking']);
+                var u = "https://analytics.jobnet.dk/";
+
+                _paq.push(['setTrackerUrl', u + 'matomo.php']);
+                _paq.push(['setSiteId', '2']);
+                var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0];
+                g.async = true; g.src = u + 'matomo.js'; s.parentNode.insertBefore(g, s);
+            }
+        });
+
+        // Custom tracking functions
+        window.TrackCustomAnalyticsEvent = function (category, action, name, value) {
+            if (cookieTractor.consentGivenFor('statistical')) {
+                _paq.push(['trackEvent', category, action, name, value]);
+            }
+        };
+
+    </script>
+
+    
+    <script type="text/template" id="ProfileDeletedContent">
+    <div id="ProfileDeletedDialog" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="form-dialog">
+                    <div class="modal-header">
+                        <h1 class="modal-title">Din adgang er blevet slettet</h1>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            Hvis du vil have adgang til Jobnet, skal du derfor oprette dig som bruger igen.
+                        </p>
+                        <div class="clearBoth"></div>
+                        <hr />
+                        <nav class="clearfix navigation navigation-tertiary">
+                            <button type="button" aria-label="Opret ny bruger" class="button primary" autofocus tabindex="0" data-dismiss="modal">Ok</button>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+</head>
+
+<body class="frontpage responsive">
+    <div data-jn-generic-error-listener></div>
+    <div class="page-background">
+
+
+
+<header id="header" aria-label="Jobnet banner">
+
+<div class="skip-nav-container">
+    <a href="#SkipNavigation" tabindex="0">Spring navigationen over</a>
+</div>
+
+    <h1 class="hidden">Jobnet</h1>
+
+<div class="bootstrap-container page-area header-area no-print">
+    <a href="/CV/Citizen/MyPage" class="jobnet-logo">
+        <img id="logo" src="https://job.jobnet.dk/cdn/Logos/jobnet_logo.svg?jv=2025.3.0.18" alt="Forside logo" />
+    </a>
+
+            <span id="GoToFrontpageToLogin">
+                <a class="primary" href="/CV/Frontpage">Log ind</a>
+            </span>
+
+</div>
+</header>
+
+
+
+
+
+
+
+
+        
+        
+
+
+
+<span id="BrowserInfoModal" data-jn-modal
+    data-trigger="event"
+    data-open-auto="false"
+    data-confirm-txt="LUK"
+    data-hide-dismiss="true"
+    data-scope="{'url': 'https://support.jobnet.dk/krav-til-dit-system/browsere-og-smartphones'}"
+    data-title="Du bør ikke bruge Internet Explorer på Jobnet efter d. 12. juni 2021"
+    data-view="/CV/Areas/Frontpage/Scripts/Angular/Modal/partial.browserNotSupported.html">
+</span>
+
+<article id="Welcome" class="dynamic-background clearfix" aria-label="Welcome to Jobnet">
+    
+    <h1 class="sr-only">Velkommen til Jobnet</h1>
+    <div id="WelcomeContent" class="bootstrap-container">
+        <div class="row">
+            <article id="FindJobs" class="col-xs-12 col-sm-6 col-md-5 col-lg-4" aria-label="Find job">
+                <div>
+                    <h2>
+                        <label for="SearchField">Find job</label>
+                    </h2>
+                    <section aria-label="Søg på jobnet">
+                        <form id="frmFrontPageSearch">
+                            <input id="SearchField" type="Search" placeholder="fx stilling, by, virksomhed" />
+                            <button id="btnSearch"
+                                    class="button-search icon icon-spyglass icon-2x"
+                                    type="submit"
+                                    aria-label="Søg på Jobnet">
+                            </button>
+                        </form>
+                    </section>
+                    <!--
+                        <a class="text-small" id="AdvancedSearch" href="/CV/FindWork"> &gt; Vis flere søgekriterier</a>
+                    -->
+                    <a aria-label="Vis flere søgekriterier" class="primary" href="/CV/FindWork" id="AdvancedSearch">Vis flere s&#248;gekriterier</a>
+                </div>
+            </article>
+
+            
+                <section id="Credentials" class="col-xs-12 col-sm-6 col-md-5 col-lg-4" aria-label="Login">
+                    <div id="LoginExistingUser">
+                        <span id="SkipNavigation" tabindex="-1"></span>
+                        
+                        <h2 id="MainContent" tabindex="-1">
+                            Allerede bruger?
+                        </h2>
+                        <a id="CredentialsKnownUserMitIdLogin" class="button primary nemlogin-focus" href="/CV/login.ashx?profile=Person" aria-label="Log ind med MitID">
+                            Log ind med <img src="/CV/Images/Frontpage/MitID_LOGO_CLEAN_CROPPED_1d3847.png?jv=2025.3.0.18" alt="MitID" width="73" height="16" />
+                        </a>
+                        <hr />
+                        <div class="login-operations">
+                            <a aria-label="Har du ikke MitID? Gå til log ind med brugerkoder" class=" primary" href="/CV/UsernameAndPassword">Har du ikke MitID? G&#229; til log ind med brugerkoder</a>
+                        </div>
+                    </div>
+                    
+                    <div id="CreateNewUser">
+                        <h2>
+                            Ny bruger?
+                        </h2>
+                        <a id="CredentialsCreateNewUser" href="/CV/NemLogin/CreateCitizenProfile" class="button"
+                           aria-label="Opret mig med MitID">Opret mig med <img src="/CV/Images/Frontpage/MitID_LOGO_CLEAN_CROPPED_1d3847.png?jv=2025.3.0.18" alt="MitID" width="73" height="16" /></a>
+                    </div>
+                </section>
+            <ul class="contact-support col-xs-12 col-sm-6 col-md-7 col-lg-8">
+                <li class="col-xs-12 col-md-6">
+                    <a href="https://info.jobnet.dk/mit-jobcenter" target="_blank">
+                        <img src="/CV/Images/FrontPage/JobcenterImage.png?jv=2025.3.0.18" alt="Kontakt dit jobcenter billede" />
+                        <figure>Kontakt dit jobcenter</figure>
+                    </a>
+                </li>
+                <li class="col-xs-12 col-md-6">
+                    <a href="https://support.jobnet.dk" target="_blank">
+                        <img src="/CV/Images/FrontPage/KontaktSupportenImg.jpg?jv=2025.3.0.18" alt="Kontakt supporten billede" />
+                        <figure>Support</figure>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</article>
+
+
+<aside id="StatisticsArea" aria-label="Statistik">
+    <div class="bootstrap-container statistics">
+        <ul class="clearfix row">
+            <li id="Ungeloeftet" class="col-xs-10 col-sm-5 col-md-4 hidden-xs hidden-sm stat-item">
+                <strong>Er du 13-17 år?</strong>Nu kan du søge <b>Fritidsjob</b> på Find Job
+            </li>
+            <li id="NoNewAvailablePositions" class="col-xs-10 col-sm-5 col-md-4 stat-item">
+                <strong>
+                    1.791
+                </strong>Ledige stillinger siden i går
+            </li>
+            <li id="NoAvailablePositions" class="hidden-xs col-sm-5 col-md-4 stat-item">
+                <strong>
+                    30.574
+                </strong>Ledige stillinger
+            </li>
+        </ul>
+    </div>
+</aside>
+
+
+    </div>
+
+
+<footer id="MainFooter" class="block page-area bootstrap-container no-print">
+    <nav id="FooterNavigation" class="clearfix" aria-label="Vigtige Jobnet links">
+        <div class="navigation-box">
+            <section class="navigation-section" aria-label="Footer-sektion: Jobsøgning">
+                <h2>
+                    Jobsøgning
+                </h2>
+                <div tabindex="0" class="sr-only">Til dig som søger job</div>
+                <ul>
+                    <li><a aria-label="Søg jobbet - åbner i ny fane" class="external" href="https://www.borger.dk/arbejde-dagpenge-ferie/Arbejdsloeshed/find-et-job?NavigationTaxonomyId=00f2b35b-88e5-4ed5-a98c-fb062df75f0f" target="_blank">S&#248;g jobbet</a></li>
+                    <li><a aria-label="Mit CV på Jobnet - åbner i ny fane" class="external" href="https://info.jobnet.dk/jobsoeger/mit-cv-paa-jobnet/" target="_blank">Mit CV p&#229; Jobnet</a></li>
+                    <li><a aria-label="Virksomhedspraktik og løntilskud - åbner i ny fane" class="external" href="https://star.dk/indsatser/virksomhedsrettede-redskaber" target="_blank">Virksomhedspraktik og l&#248;ntilskud</a></li>
+                    <li><a aria-label="Meld dig ledig - åbner i ny fane" class="external" href="https://star.dk/digital-service/borger-it/tilmelding-registrering-jobcentret-sygefravaer-fravaer-fritagelser/tilmelding-registrering-i-jobcentret/vejledninger-til-tilmelding-registrering-i-jobcentret" target="_blank">Meld dig ledig</a></li>
+                    <li><a aria-label="Job i udlandet (EURES) - åbner i ny fane" class="external" href="https://info.jobnet.dk/eures/" target="_blank">Job i udlandet (EURES)</a></li>
+                    <li><a aria-label="WORKINDENMARK - åbner i ny fane" class="external" href="https://www.workindenmark.dk" target="_blank">WORKINDENMARK</a></li>
+                    <li><a aria-label="Din ret og pligt som ledig - åbner i ny fane" class="external" href="https://info.jobnet.dk/om-jobnet/ret-og-pligt/" target="_blank">Din ret og pligt som ledig</a></li>
+                    <li><a aria-label="Kompetenceafklaring og sprogkort - åbner i ny fane" class="external" href="https://info.jobnet.dk/jobsoeger/kompetenceafklaring-og-sprogkort/" target="_blank">Kompetenceafklaring og sprogkort</a></li>
+                    <li><a aria-label="Regler, love og bekendtgørelser - åbner i ny fane" class="external" href="https://star.dk/om-styrelsen/love-og-regler/" target="_blank">Regler, love og bekendtg&#248;relser</a></li>
+                </ul>
+            </section>
+        </div>
+        <div class="navigation-box">
+            <section class="navigation-section" aria-label="Footer-sektion: Hjælp">
+                <h2>
+                    Hjælp
+                </h2>
+                <div tabindex="0" class="sr-only">Hjælp</div>
+                <ul>
+                    <li><a aria-label="FAQ for jobsøgere - åbner i ny fane" class="external" href="https://support.jobnet.dk/ofte-stillede-spoergsmaal-fra-borgere" target="_blank">FAQ for jobs&#248;gere</a></li>
+                    <li><a aria-label="FAQ for arbejdsgivere - åbner i ny fane" class="external" href="https://support.jobnet.dk/ofte-stillede-spoergsmaal-fra-virksomheder" target="_blank">FAQ for arbejdsgivere</a></li>
+                    <li><a aria-label="Kontakt dit jobcenter - åbner i ny fane" class="external" href="https://info.jobnet.dk//mit+jobcenter" target="_blank">Kontakt dit jobcenter</a></li>
+                    <li><a aria-label="Kontakt supporten - åbner i ny fane" class="external" href="https://support.jobnet.dk" target="_blank">Kontakt supporten</a></li>
+                    <li><a aria-label="Vejledninger til brug af Jobnet - åbner i ny fane" class="external" href="https://support.jobnet.dk/vejledninger" target="_blank">Vejledninger til brug af Jobnet</a></li>
+                    <li><a aria-label="Blanketter - åbner i ny fane" class="external" href="https://info.jobnet.dk/blanketter" target="_blank">Blanketter</a></li>
+                    <li><a aria-label="Læs højt - åbner i ny fane" class="external" href="https://info.jobnet.dk/hjaelp-til-jobnet/laes-hoejt" target="_blank">L&#230;s h&#248;jt</a></li>
+                </ul>
+            </section>
+        </div>
+        <div class="navigation-box">
+            <section class="navigation-section" aria-label="Footer-sektion: Til dig, som er">
+                <h2>
+                    Til dig, som er ...
+                </h2>
+                <ul>
+                    <li><a aria-label="Dagpengemodtager - åbner i ny fane" class="external" href="https://star.dk/ydelser/ledighed/arbejdsloeshedsdagpenge/" target="_blank">Dagpengemodtager</a></li>
+                    <li><a aria-label="Kontanthjælps- eller uddannelseshjælpsmodtager - åbner i ny fane" class="external" href="https://star.dk/ydelser/ledighed/kontanthjaelp-og-uddannelseshjaelp/" target="_blank">Kontanthj&#230;lps- eller uddannelseshj&#230;lpsmodtager</a></li>
+                    <li><a aria-label="Sygedagpengemodtager - åbner i ny fane" class="external" href="https://star.dk/ydelser/sygdom-og-barsel/sygedagpenge/" target="_blank">Sygedagpengemodtager</a></li>
+                    <li><a aria-label="Godkendt til fleksjob - åbner i ny fane" class="external" href="https://star.dk/indsatser/indsatser-ved-sygdom-nedslidning-mv/fleksjob" target="_blank">Godkendt til fleksjob</a></li>
+                    <li><a aria-label="I jobafklaringsforløb - åbner i ny fane" class="external" href="https://star.dk/indsatser/indsatser-ved-sygdom-nedslidning-mv/jobafklaringsforloeb" target="_blank">I jobafklaringsforl&#248;b</a></li>
+                    <li><a aria-label="Jobsøger med handikap - åbner i ny fane" class="external" href="https://star.dk/handicap" target="_blank">Jobs&#248;ger med handikap</a></li>
+                    <li><a aria-label="Uddannelsesparat - åbner i ny fane" class="external" href="https://info.jobnet.dk/jobsoeger/afklaring/" target="_blank">Uddannelsesparat</a></li>
+                </ul>
+            </section>
+        </div>
+        <div class="navigation-box">
+            <section class="navigation-section" aria-label="Footer-sektion: Jobnet">
+                <h2>
+                    Jobnet
+                </h2>
+                <div tabindex="0" class="sr-only">Jobnet</div>
+                <ul>
+                    <li><a aria-label="Om Jobnet - åbner i ny fane" class="external" href="https://info.jobnet.dk/om-jobnet/" target="_blank">Om Jobnet</a></li>
+                    <li><a aria-label="Persondata på Jobnet - åbner i ny fane" class="external" href="https://info.jobnet.dk/om-jobnet/politik-om-persondata/" target="_blank">Persondata p&#229; Jobnet</a></li>
+                    <li><a aria-label="Tilgængelighed - åbner i ny fane" class="external" href="https://www.was.digst.dk/jobnet-dk" target="_blank">Tilg&#230;ngelighed</a></li>
+                    <li><a aria-label="Krav til browser - åbner i ny fane" class="external" href="https://support.jobnet.dk/krav-til-dit-system/browsere-og-smartphones" target="_blank">Krav til browser</a></li>
+                    <li><a aria-label="Jobnet in English - opens in a new tab" class="external" href="https://info.jobnet.dk/om+jobnet/jobnet+in+english" lang="en" target="_blank">Jobnet in English</a></li>
+                    <li><a aria-label="Om STAR - åbner i ny fane" class="external" href="https://star.dk/om-styrelsen" target="_blank">Om STAR</a></li>
+                    <li><a href="javascript:cookieTractor.openConsentSettings()">Du kan ændre dit cookie-samtykke her</a></li>
+                </ul>
+
+                <br />
+                <img src="https://job.jobnet.dk/cdn/logos/StarLogo.svg" id="StarLogo" class="float-right hidden-xs hidden-sm" alt="" />
+            </section>
+        </div>
+    </nav>
+</footer>
+
+
+
+<script type="text/template" id="SessionWarningDialogContent" data-is-nemlogin='False'>
+    <div id="SessionWarningDialog" class="modal fade" role="alertdialog" aria-label="Du er ved at blive logget ud" data-logout-link='/CV/Logout'>
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="form-dialog">
+                    <header class="modal-header" aria-label="Advarsel">
+                        <h1 class="modal-title">Login-notifikation</h1>
+                    </header>
+                    <div class="modal-body" aria-label="Du bliver logget ud">
+                        <p>Du har været inaktiv på Jobnet i over 25 minutter. Ønsker du at fortsætte på Jobnet, tryk fortsæt</p>
+                        <hr>
+                        <div class="clearfix">
+                            <a href="/CV/logout" id="SessionWarningDialogLogout" role="button" class="button">Log af</a>
+                                <button id="SessionWarningDialogButton" type="button" class="button primary pull-right" data-dismiss="modal">Fortsæt</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="SessionTimeoutDialogContent">
+    <div id="SessionTimeoutDialog" class="modal fade" role="alertdialog" aria-label="Du er logget ud">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="form-dialog">
+                    <header class="modal-header" aria-label="Logget ud">
+                        <h1 class="modal-title">Logget ud</h1>
+                    </header>
+                    <div class="modal-body" aria-label="Informat angående fejlen">
+                        <p>Du er desværre blevet logget ud af Jobnet, da du ikke har været aktiv i 60 minutter. Hvis du har foretaget ændringer på Jobnet, er de muligvis ikke gemt.</p>
+                        <hr>
+                        <div class="clearfix">
+                            <button id="SessionTimeoutDialogButton" type="button" class="button primary pull-right" data-dismiss="modal">Tilbage til Jobnet</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+<script type="text/template" id="SessionErrorDialogContent">
+    <div id="SessionErrorDialog" class="modal fade" role="alertdialog" aria-label="Der er sket en fejl">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="form-dialog">
+                    <header class="modal-header" aria-label="Fejl">
+                        <h1 class="modal-title">Fejl</h1>
+                    </header>
+                    <div class="modal-body" aria-label="Information angående fejlen">
+                        <p>Der er desværre sket en fejl. Hvis du har foretaget ændringer på Jobnet, er de muligvis ikke gemt.</p>
+                        <hr />
+                        <p>Teknisk information om fejlen:</p>
+                        <p id="SessionErrorInfo"></p>
+                        <hr>
+                        <div class="clearfix">
+                            <button id="SessionErrorDialogButton" type="button" class="button primary pull-right" data-dismiss="modal">OK</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</script>
+
+
+    <script src="/CV/bundles/jobnet/scripts/jquery?v=0G2EBG6y9T0P2vDIrsS-JVes18uJeIX40cmNKxqf8901"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/jqueryui?v=vuqpaomqfb9ZzKN4h7dzjwyWUuusxEjMgUJ9sEx2iNE1"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/base?v=1If-b92NBc_QTj2LUc6m3Bmv74y4D6I8j1bG8XL8vvc1"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/bootstrap?v=YpZkKLUadK4AVbejT4EW4BqsBF6hO8aYej9oxbHCTQg1"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/menu?v=OVxFjREGnLnahUbHEmDNz9jN14Vwlcxw2e7xf8faQsc1"></script>
+
+    
+    <script src="/CV/bundles/jobnet/scripts/jqueryvalidate?v=AiJI9G2gS_8PaxGFlscABvR-2Y-pHYrBN13r3TA5wvY1"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/jqueryCombined?v=GGeEz4e76P0limwKlexjJigxjq2WgaueQywkdcTZg_o1"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/utility?v=jHgFbxwHddG180Px4CgJbXoRnyF_3Zi9qIbqiD4Bcno1"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/frontpage?v=LLakpPaEoKzIUxjn0Lo1V1f1CPhuck37crEiCd_tqiw1"></script>
+
+    <script src="/CV/bundles/jobnet/scripts/forms?v=_J17JyRiEHDl4XvzNqOUTIPeOzY0YL4JZAp2V6OOZFg1"></script>
+
+    <script>
+        const userAgent = window.navigator.userAgent;
+        const ie10OrOlder = userAgent.indexOf('MSIE ');
+        const ie11 = userAgent.indexOf('Trident/');
+        const ie11OrOlder = (ie10OrOlder >= 0 || ie11 >= 0);
+        $('#BrowserInfoModal').attr('data-open-auto', ie11OrOlder);
+        $(function () {
+            //Solves IEs problem with placeholder
+            Jobnet.Utility.Placeholder.setPlaceholderAttributeAtPageLevel();
+            // serviceMessage slidedown if needed
+            $('#ServiceMessage').hide().slideDown(500, "swing");
+            $('#ServiceMessageClose').on('click', function () {
+                $('#ServiceMessage').slideUp(500, "swing");
+            });
+            var submitHandler = new Jobnet.Forms.DisableOnSubmit(null, "#fff");
+            submitHandler.setup();
+        });
+    </script>
+    <script src="/CV/bundles/jobnet/scripts/angularjs?v=sojHBHn40Jd_BAbV41BSRUUM4lxpJ83AsOQKRcMn2jE1"></script>
+
+
+
+    <input id="hdnServerDateNow"
+           type="hidden"
+           value="2025-10-14 00:03 " />
+    <input id="UserRole"
+           type="hidden"
+           value="" />
+
+    <script>
+        
+            (function () {
+                $('#LogoutLink, .logout-shown-inside-menu').on("click", function () {
+                    sessionStorage.clear();
+                    localStorage.setItem('pcvlogout', 'logout');
+                });
+            })();
+    </script>
+</body>
+
+</html>

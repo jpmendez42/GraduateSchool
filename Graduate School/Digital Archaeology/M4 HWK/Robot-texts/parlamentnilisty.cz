@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /profily-sprava/
+Disallow: /tagy/
+Disallow: /tags/
+Disallow: */diskuse
+Disallow: /kraje/
+Disallow: /search.aspx?*
+
+User-agent: Mediapartners-Google
+Disallow: /profily-sprava/
+Disallow: /search.aspx?
+
+# http://www.grapeshot.co.uk/crawler.php
+User-agent: grapeshot
+Disallow:

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /?s=
+Disallow: /search/
+Disallow: /dlm_uploads/
+Disallow: /*?noamp=mobile&
+Disallow: /*?noamp=mobile&*
+Disallow: /page/*?amp
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://businessday.ng/sitemap_index.xml

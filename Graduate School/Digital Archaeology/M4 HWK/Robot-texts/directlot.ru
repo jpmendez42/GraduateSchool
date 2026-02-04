@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /tempfile/
+Disallow: /img-ava/
+Disallow: /img-lot-prev/
+Disallow: /php-js.php
+Disallow: /globalmsg.js
+Disallow: /index.php
+Disallow: /info-illustration
+Disallow: /possibilities.php?f=lichnoe-soobshenie-novoe
+Host: directlot.ru
+Sitemap: https://directlot.ru/sitemap.xml

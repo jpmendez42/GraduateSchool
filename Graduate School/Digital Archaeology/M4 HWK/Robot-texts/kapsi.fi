@@ -1,0 +1,8 @@
+User-agent: ChangeDetection
+Disallow: /tiedotteet/
+
+User-agent: *
+Disallow: /poytakirjat/
+Disallow: /search.html
+
+Sitemap: http://www.kapsi.fi/sitemap.xml

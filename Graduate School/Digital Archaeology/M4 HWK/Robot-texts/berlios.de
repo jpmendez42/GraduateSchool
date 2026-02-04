@@ -1,0 +1,39 @@
+# AhrefsBot
+User-agent: AhrefsBot
+Disallow: /
+
+# MajesticSEO Bot
+User-agent: MJ12bot
+Disallow: /
+
+# SEMrush Bot
+User-agent: SemrushBot
+Disallow: /
+
+# Moz's Dotbot
+User-agent: DotBot
+Disallow: /
+
+# Sistrix Bot
+User-agent: SISTRIX Crawler
+Disallow: /
+
+# Searchmetrics Bot
+User-agent: SearchmetricsBot
+Disallow: /
+
+# SpyFu
+User-agent: SpyFu
+Disallow: /
+
+# Alexa (Amazon) Bot
+User-agent: ia_archiver
+Disallow: /
+
+# Cognitive SEO
+User-agent: CognitiveSEO
+Disallow: /
+
+# FindThatLead Bot
+User-agent: FindThatLead
+Disallow: /

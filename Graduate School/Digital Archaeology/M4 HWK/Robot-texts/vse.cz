@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/languages/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /readme.html
+Disallow: /refer/
+
+Sitemap: https://www.vse.cz/sitemap.xml
+Sitemap: https://www.vse.cz/english/sitemap.xml

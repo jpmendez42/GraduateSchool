@@ -1,0 +1,21 @@
+# robots.txt
+# @url: https://www.laregion.fr
+
+User-agent: *
+Allow: /local/cache-css/
+Allow: /local/cache-js/
+Noindex: /local/
+Noindex: /plugins-dist/
+Noindex: /plugins/
+Noindex: /squelettes-dist/
+Noindex: /squelettes/
+Disallow: /IMG/pdf/
+Disallow: /ecrire/
+Disallow: /lib/
+Disallow: /prive/
+Disallow: /spip.php?action=*
+Disallow: /spip.php?page=login*
+Disallow: /*.api/
+Crawl-delay: 1
+
+Sitemap: https://www.laregion.fr/sitemap.xml

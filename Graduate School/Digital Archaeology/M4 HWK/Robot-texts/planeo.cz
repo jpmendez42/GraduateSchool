@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: *filter=*
+Disallow: *sort=*
+Disallow: *logout*
+Disallow: /kosik*
+Disallow: /prihlaseni*
+Disallow: /registrace*
+Disallow: /muj-ucet*
+Disallow: /vyhledavani*
+
+
+Sitemap: https://www.planeo.cz/sitemap.xml

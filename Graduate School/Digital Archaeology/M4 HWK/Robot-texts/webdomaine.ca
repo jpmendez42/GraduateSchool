@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="fr" data-context="base">
+    <head>
+        <meta charset="utf-8" />
+        <title>WebDomaine</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" />
+
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" href="/static/img/wdom-2-logo-sq.svg?h=d23d706b94054ac0262bffc4924c184c" type="image/svg+xml" />
+        <link rel="apple-touch-icon" href="/static/img/wdom-2-logo-sq-180.png?h=efbdaf25f92a024a807ef670510aab51" />
+        <link rel="manifest" href="/static/img/manifest.webmanifest" />
+
+        <link rel="stylesheet" href="/static/gen/base.min.css?h=64f9f0bee526384d58e3c6c84bed1d66">
+
+        
+
+        <script id="wdata-site_tag" type="application/json">"wdom-client"</script>
+        <script id="wdata-site_name_lg" type="application/json">{"en": "WebDomaine.ca", "fr": "WebDomaine.ca"}</script>
+        <script id="wdata-LANGUAGES" type="application/json">["fr", "en"]</script>
+        <script id="wdata-LANGUAGE_NAMES" type="application/json">{"en": "English", "fr": "Fran\u00e7ais"}</script>
+        
+        <script id="wdata-lg_context" type="application/json">["html"]</script>
+
+        <script async src="/static/gen/dist/base.bundle.js?h=13a5a8f41304ef73cec7935565076dcc"></script>
+    </head>
+
+    <body class="page-home" >
+<div id="page-layout" class="show-top-alert">
+    <div id="page-top-alert">
+        <p>Avis de mise à jour de notre plateforme de gestion des domaines «<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.webdomaine.ca/fr/">Webdomaine</a>» : les maintenances systématiques auront lieu chaque<span>&nbsp;</span><strong>mercredi de 5&nbsp;h (HE) à 7&nbsp;h</strong></p>
+    </div>
+    <div id="page-top-bar">
+        <div id="navigation-bar">
+            <div></div>
+            <div><a href="/en/">English</a></div>
+        </div>
+    </div>
+
+    <div id="page-top-menu">        <div class="logo-webdo">
+            <img src="/static/img/wdom-2-logo-text.svg?h=e528067f5110000b75272e78d4d185c3" alt="Logo WebDomaine" aria-hidden="true">
+        </div>
+        <div class="info-arc"></div>
+        <div class="link-arc">
+            <div>
+                <div>
+                    <span class="logo-arc">
+                        <span id="logo-arc-logo"></span>
+                        <span id="logo-arc-text"></span>
+                    </span>
+                    <a href="https://www.arcinformatique.ca/" class="btn btn-outline-light btn-sm">arcinformatique.ca</a>
+                </div>
+            </div>
+        </div></div>
+
+    <div id="page-content">
+    <div class="grid-login">
+        <div class="block0">
+            <div class="pre-login">Bienvenue</div>
+            <div class="middle-login">
+                <div id="signin-container"></div>
+            </div>
+            <div class="post-login"></div>
+        </div>
+        <div class="block1 scheme scheme-inverted">
+            <div class="scheme scheme-inverted">
+                <div><h1><span data-sclass="highlight-1" class="highlight-1">Webdomaine</span> vous permet de :</h1><ul><li><p>Contrôle votre <span data-sclass="highlight-1" class="highlight-1">hébergement Web et vos courriels</span> ;</p></li><li><p>administre <span data-sclass="highlight-1" class="highlight-1">vos DNS</span> comme vous le souhaitez ;</p></li><li><p><span data-sclass="highlight-1" class="highlight-1">sécurise l’enregistrement</span> de vos noms avec une large gamme d'extensions disponibles ;</p></li><li><p>S'adresse <span data-sclass="highlight-1" class="highlight-1">principalement</span> aux clients canadiens, en particulier aux entreprises et particuliers québécois.;</p></li><li><p>Offre un service <span data-sclass="highlight-1" class="highlight-1">clientèle local</span> et <span data-sclass="highlight-1" class="highlight-1">prédictif</span>.</p></li></ul><hr/><h2>À propos</h2><p>A.R.C. Informatique est certifiée auprès de l’Autorité canadienne pour les enregistrements internet (CIRA) afin d’offrir aux organisations et aux individus un service d’enregistrements des noms de domaine sécuritaire, fiable et professionnel.</p><hr/></div>
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+    <div id="page-footer">
+        <div>
+    <div class="logo-cira">
+        <img src="/static/img/cira-footer-fr.png?h=db3f5eddb5c8542b4de340f4697d702a" alt="CIRA">
+    </div>
+    <div class="socials">
+        <div></div>
+    </div>
+    <div class="copy">
+        © A.R.C. Informatique inc., 2025
+    </div>
+    <div class="contact-group">
+        <div class="contact-title"></div>
+        <div class="contact"></div>
+    </div>
+</div>
+    </div>
+
+</div>
+
+<div id="consent-wrap" data-version="ab4444f899df450fa32ce927ce272c4b"></div>
+    </body>
+</html>

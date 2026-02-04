@@ -1,0 +1,21 @@
+User-agent: *
+
+Disallow: /fwk/utloggad
+Disallow: /fwk/timeout
+
+Disallow: /privatpers/blanketter_och_intyg/ladda_ner_blanketter/
+Disallow: /privatpers/foralder/hjalp_hyran/aterbetalning_av_bostadsbidrag/
+Disallow: /privatpers/foralder/login/
+Disallow: /privatpers/privatpers/foralder/
+Disallow: /privatpers/foralder/hjalp_hyran/aterbetalning_av_bostadsbidrag/aterbetalning_av_bostadsbidrag/
+Disallow: /privatpers/studerande/bobidrag/
+Disallow: /privatpers/loginOld/!ut/p/z0/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zinQwMDCydDB0N3IMszA08jZ19jSyCTI0MDAz1g1Pz9AuyHRUB_O0t2A!!/
+Disallow: /press/remisser
+Disallow: /myndigheter/e-tjanster/ssbtek/testmiljo
+Disallow: /Home
+Disallow: /privatpers/just-nu-ar-det-manga-som-ar-inne-pa-mina-sidor
+Disallow: /myndigheter_old
+Disallow: /*!ut/p/
+Disallow: /omfk/
+
+Sitemap: https://www.forsakringskassan.se/sitemap.xml

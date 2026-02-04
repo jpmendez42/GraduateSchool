@@ -1,0 +1,22 @@
+Sitemap: https://static.askdoctors.jp/drugs-sitemap_index.xml.gz
+Sitemap: https://static.askdoctors.jp/topics-sitemap_index.xml.gz
+Sitemap: https://static.askdoctors.jp/article-sitemap_index.xml.gz
+Sitemap: https://static.askdoctors.jp/landing-sitemap_index.xml.gz
+
+User-agent: *
+Disallow: /patient/
+Disallow: /doctor/
+Disallow: /sso/
+Disallow: /mypage/
+Disallow: /public/
+Disallow: /qa/
+Disallow: /hospitals/
+
+User-agent: BecomeBot
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
+
+User-agent: LC-Crawler
+Disallow: /

@@ -1,0 +1,134 @@
+User-agent: *
+Disallow: /cauta/
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+Disallow: /blog/wp-admin/
+Allow: /blog/wp-admin/admin-ajax.php
+Disallow: /blog/?s=
+
+Disallow: /errors/
+Disallow: /opt/
+Disallow: /*/checkout/
+Disallow: /*/customer/
+Disallow: /*/review/
+Disallow: /*/sendfriend/
+Disallow: /*/index.php/
+Disallow: /graphql
+Disallow: /*/graphql
+Disallow: /wishlist/
+Disallow: /*/wishlist/
+Disallow: /catalogsearch/
+Disallow: /*/catalogsearch/
+Disallow: /*?*&
+Disallow: /*?*,
+Disallow: /*noresults
+Disallow: /*stores/store/redirect/
+Disallow: /*from_store=
+Disallow: /*?seo_follow=disallow
+
+User-agent: 008
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /cauta/
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+Disallow: /blog/wp-admin/
+Allow: /blog/wp-admin/admin-ajax.php
+Disallow: /blog/?s=
+
+Disallow: /errors/
+Disallow: /opt/
+Disallow: /*/checkout/
+Disallow: /*/customer/
+Disallow: /*/review/
+Disallow: /*/sendfriend/
+Disallow: /*/index.php/
+Disallow: /graphql
+Disallow: /*/graphql
+Disallow: /wishlist/
+Disallow: /*/wishlist/
+Disallow: /catalogsearch/
+Disallow: /*/catalogsearch/
+Disallow: /*?*&
+Disallow: /*?*,
+Disallow: /*noresults
+Disallow: /*stores/store/redirect/
+Disallow: /*from_store=
+Disallow: /*?seo_follow=disallow
+Disallow:
+
+User-agent: Googlebot-image
+Disallow: /cauta/
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+Disallow: /blog/wp-admin/
+Allow: /blog/wp-admin/admin-ajax.php
+Disallow: /blog/?s=
+
+Disallow: /errors/
+Disallow: /opt/
+Disallow: /*/checkout/
+Disallow: /*/customer/
+Disallow: /*/review/
+Disallow: /*/sendfriend/
+Disallow: /*/index.php/
+Disallow: /graphql
+Disallow: /*/graphql
+Disallow: /wishlist/
+Disallow: /*/wishlist/
+Disallow: /catalogsearch/
+Disallow: /*/catalogsearch/
+Disallow: /*?*&
+Disallow: /*?*,
+Disallow: /*noresults
+Disallow: /*stores/store/redirect/
+Disallow: /*from_store=
+Disallow: /*?seo_follow=disallow
+Disallow:
+
+
+Sitemap: https://marelepescar.ro/sitemap.xml
+Sitemap: https://marelepescar.ro/blog/sitemap_index.xml

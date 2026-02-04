@@ -1,0 +1,64 @@
+User-agent: Googlebot
+Disallow: /img/thumbs/*
+Disallow: /img1/thumbs/*
+Disallow: /interface/internal/*
+Disallow: /impressum-kontakt/*
+Disallow: /auktionen.cfm*
+Disallow: /rechnung-bestell-nr-*
+Disallow: /thema/*
+Allow: /f/sitemaps
+Allow: /f/siteindex
+Disallow: /f/*
+
+User-agent: Googlebot-Image
+Disallow: /img/thumbs/*
+Disallow: /img1/thumbs/*
+Disallow: /interface/internal/*
+Disallow: /impressum-kontakt/*
+Disallow: /auktionen.cfm*
+Disallow: /rechnung-bestell-nr-*
+Disallow: /thema/*
+Allow: /f/sitemaps
+Allow: /f/siteindex
+Disallow: /f/*
+
+User-agent: Googlebot-Mobile
+Disallow: /img/thumbs/*
+Disallow: /img1/thumbs/*
+Disallow: /interface/internal/*
+Disallow: /impressum-kontakt/*
+Disallow: /auktionen.cfm*
+Disallow: /rechnung-bestell-nr-*
+Disallow: /thema/*
+Allow: /f/sitemaps
+Allow: /f/siteindex
+Disallow: /f/*
+
+User-agent: Bingbot
+Disallow: /img/thumbs/*
+Disallow: /img1/thumbs/*
+Disallow: /interface/internal/*
+Disallow: /impressum-kontakt/*
+Disallow: /auktionen.cfm*
+Disallow: /rechnung-bestell-nr-*
+Disallow: /thema/*
+Allow: /f/sitemaps
+Allow: /f/siteindex
+Disallow: /f/*
+
+User-agent: *
+Disallow: /img/thumbs/*
+Disallow: /img1/thumbs/*
+Disallow: /interface/internal/*
+Disallow: /impressum-kontakt/*
+Disallow: /auktionen.cfm*
+Disallow: /rechnung-bestell-nr-*
+Disallow: /thema/*
+Allow: /f/sitemaps
+Allow: /f/siteindex
+Disallow: /f/*
+Sitemap: https://www.hood.de/f/siteindex.xml
+
+
+
+

@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+	<title>404 - Namirial</title>
+
+	<!-- Google font -->
+	<link rel="preconnect" href="https://fonts.gstatic.com">
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap" rel="stylesheet">
+
+	<!-- Custom stlylesheet -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css" integrity="sha512-oHDEc8Xed4hiW6CxD7qjbnI+B07vDdX7hEPTvn9pSZO1bcRqHp8mj9pyr+8RVC2GmtEfI2Bi9Ke9Ass0as+zpg==" crossorigin="anonymous" />
+
+	<style>
+		* {
+			-webkit-box-sizing: border-box;
+					box-sizing: border-box;
+		  }
+		  
+		  body {
+			padding: 0;
+			margin: 0;
+		  }
+		  
+		  #notfound {
+			position: relative;
+			height: 100vh;
+		  }
+		  
+		  #notfound .logo {
+			width: 204px;
+			height: 48px;
+			position: absolute;
+			top: 50px;
+			left: 50%;
+			-webkit-transform: translate(-50%);
+				-ms-transform: translate(-50%);
+					transform: translate(-50%);
+		  }
+		  
+		  #notfound .notfound {
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			-webkit-transform: translate(-50%, -50%);
+				-ms-transform: translate(-50%, -50%);
+					transform: translate(-50%, -50%);
+		  }
+		  
+		  .notfound {
+			max-width: 920px;
+			width: 100%;
+			line-height: 1.4;
+			text-align: center;
+			padding-left: 30px;
+			padding-right: 30px;
+			display: none;
+		  }
+		  
+		  .notfound.active {
+			  display: block;
+		  }
+		  
+		  .notfound .notfound-err {
+			position: absolute;
+			height: 100px;
+			top: 0;
+			left: 50%;
+			-webkit-transform: translateX(-50%);
+				-ms-transform: translateX(-50%);
+					transform: translateX(-50%);
+			z-index: -1;
+		  }
+		  
+		  .notfound h1 {
+			font-family: 'Open Sans', sans-serif;
+			font-size: 34px;
+			color: #000;
+			font-weight: 700;
+			text-transform: uppercase;
+			margin: 0px;
+			line-height: 1;
+		  }
+		  
+		  .notfound .notfound-err h2 {
+			font-family: 'Open Sans', sans-serif;
+			color: #f3f3f3;
+			font-weight: 900;
+			font-size: 250px;
+			margin: 0px;
+			line-height: 1;
+			position: absolute;
+			left: 50%;
+			top: 50%;
+			-webkit-transform: translate(-50%, -50%);
+				-ms-transform: translate(-50%, -50%);
+					transform: translate(-50%, -50%);
+		  }
+		  
+		  .notfound p {
+			font-family: 'Open Sans', sans-serif;
+			max-width: 600px;
+			font-size: 18px;
+			color: #000;
+			font-weight: 400;
+			/* text-transform: uppercase; */
+			margin: 24px auto 32px;
+			line-height: 1.5;
+		  }
+		  
+		  .notfound a {
+			font-family: 'Open Sans', sans-serif;
+			font-size: 14px;
+			text-decoration: none;
+			text-transform: uppercase;
+			background: #000;
+			display: inline-block;
+			padding: 8px 16px;
+			border-radius: 4px;
+			color: #fff;
+			font-weight: 700;
+			-webkit-transition: 0.2s all;
+			transition: 0.2s all;
+		  }
+		  
+		  .notfound a:hover {
+			background-color: #333;
+			color: #fff;
+		  }
+		  
+		  @media only screen and (max-width: 480px) {
+			.notfound .notfound-err h2 {
+			  font-size: 180px;
+			}
+			.notfound h1 {
+			  font-size: 27px;
+			}
+			.notfound p {
+			  font-size: 16px;
+			}
+		  }
+		  
+	</style>
+
+	<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+	<!-- Custom javascript -->
+	<script>
+		$( document ).ready(function() {
+			var userLang = navigator.language || navigator.userLanguage;
+			if($('.' + userLang.split('-')[0]).length) {
+				$('.notfound').removeClass('active');
+				$('.' + userLang.split('-')[0]).addClass('active');
+			}
+		});
+	</script>
+
+	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+		  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+</head>
+<body>
+	<div id="notfound">
+		<img src="data:image/svg+xml;base64, PHN2ZyB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiB2aWV3Qm94PSIwIDAgMzkzNCA5NjciIHZlcnNpb249IjEuMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWw6c3BhY2U9InByZXNlcnZlIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGNsaXAtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiPjxnIGZpbGw9IiMyMzFmMjAiIGZpbGwtcnVsZT0ibm9uemVybyI+PHBhdGggZD0iTTU5MS41ODQgNDgzLjUyMWMwIDYyLjk5Ni01MS4wMzggMTEzLjk4OC0xMTMuOTg4IDExMy45ODgtNjIuOTk2IDAtMTEzLjk1OC01MC45OTItMTEzLjk1OC0xMTMuOTg4IDAtNjIuOTUgNTAuOTYyLTExMy45ODcgMTEzLjk1OC0xMTMuOTg3IDYyLjk1IDAgMTEzLjk4OCA1MS4wMzcgMTEzLjk4OCAxMTMuOTg3em0tOTguNzIxIDE3NC4zMDV2NTEuNzI1YzExMy4wOTYtNy41MjEgMjAzLjU1NC05OC4xMzggMjEwLjgxMy0yMTEuMjhINjUxLjk1Yy03LjAyNSA4NC43MDktNzQuMzggMTUyLjIxNy0xNTkuMDg4IDE1OS41NTV6Ii8+PHBhdGggZD0iTTMwMi42IDQ4My41MjFjMC05Ni42MDQgNzguMzQ2LTE3NC45OTIgMTc0Ljk5Ni0xNzQuOTkyIDkxLjIzIDAgMTY2LjE3MSA2OS44OCAxNzQuMjU5IDE1OS4wNjdoNTEuNzI5QzY5NS40IDM0OS44OTIgNTk3LjMzOCAyNTYuOTYgNDc3LjU5NiAyNTYuOTZjLTEyNS4xNjIgMC0yMjYuNTY3IDEwMS40NDUtMjI2LjU2NyAyMjYuNTYyIDAgMTE5Ljk5MiA5My4zIDIxOC4xMyAyMTEuMjI2IDIyNi4wM3YtNTEuNzI1QzM3Mi44NDIgNjUwLjA1IDMwMi42IDU3NS4wMzQgMzAyLjYgNDgzLjUyeiIvPjxwYXRoIGQ9Ik01Mi42MiA0ODMuNTIxYzAtMjM0LjY5NiAxOTAuMTgtNDI1LjAzOCA0MjQuOTc2LTQyNS4wMzggMjI5LjM1NSAwIDQxNi4yNjMgMTgxLjc5NiA0MjQuNjggNDA5LjExM2g1Mi41NzVDOTQ2LjUwOSAyMDcuOTU4IDczNi4wNzYuMTEzIDQ3Ny41OTYuMTEzIDIxMy44MzQuMTEzIDAgMjE2LjU1IDAgNDgzLjUyYzAgMjYxLjggMjA1LjU5MiA0NzQuOTYzIDQ2Mi4yNTUgNDgzLjE0NnYtNTguNDJDMjM0LjY2NyA5MDAuMTkyIDUyLjYyIDcxMy4xMjYgNTIuNjIgNDgzLjUyeiIvPjxwYXRoIGQ9Ik00OTIuODYzIDkwOC4yNDd2NTguNDJjMjUxLjg1LTguMDA4IDQ1NC41NDItMjEzLjM5NiA0NjIuMDgtNDY4LjM5NmgtNTIuNjY3Yy03LjUyMSAyMjIuNzg4LTE4Ni42MjEgNDAyLjA3Ni00MDkuNDEzIDQwOS45NzZ6Ii8+PHBhdGggZD0iTTQ5Mi44NjMgODI0Ljc5MnY1MS44MjVjMjA1LjMzLTcuODU0IDM3MC4zMjEtMTczLjAwNCAzNzcuODU5LTM3OC4zNDZoLTUxLjg1Yy03LjQ4IDE3Ni43MzQtMTQ5LjI3NiAzMTguNzE3LTMyNi4wMSAzMjYuNTIxeiIvPjxwYXRoIGQ9Ik0xMzUuOTQ2IDQ4My41MjFjMC0xODguNjMgMTUzLjAwNC0zNDEuNTgzIDM0MS42NS0zNDEuNTgzIDE4My4zMDUgMCAzMzIuODU5IDE0NC4zNjIgMzQxLjE5NiAzMjUuNjU4aDUxLjg1Qzg2Mi4yNiAyNTcuNjQ2IDY4OS41NjcgOTAuMDgzIDQ3Ny41OTYgOTAuMDgzYy0yMTcuMzMzIDAtMzkzLjQ1NCAxNzYuMTU1LTM5My40NTQgMzkzLjQzOCAwIDIxMi4xOTIgMTY3LjkzNyAzODUuMDY3IDM3OC4xMTMgMzkzLjA5NnYtNTEuODU0Yy0xODEuNTYzLTguMDI5LTMyNi4zMS0xNTcuNjg3LTMyNi4zMS0zNDEuMjQyeiIvPjxwYXRoIGQ9Ik0yMTkuNTU5IDQ4My41MjFjMC0xNDIuNDk2IDExNS40OTEtMjU4LjAzNyAyNTguMDM3LTI1OC4wMzcgMTM3LjA4IDAgMjQ5LjI4IDEwNi45OTUgMjU3LjU1NSAyNDIuMTEyaDUxLjg1NGMtOC4yNzUtMTYzLjcwOC0xNDMuNjE3LTI5My44Ny0zMDkuNDA5LTI5My44Ny0xNzEuMTU0IDAtMzA5Ljg0NiAxMzguNjU4LTMwOS44NDYgMzA5Ljc5NSAwIDE2Ni4wMTMgMTMwLjU1OSAzMDEuNTA1IDI5NC41MDUgMzA5LjQ4NFY3NDEuMTJjLTEzNS4zNDItNy45NDUtMjQyLjY5Ni0xMjAuMjI1LTI0Mi42OTYtMjU3LjZ6Ii8+PHBhdGggZD0iTTQ5Mi44NjMgNzQxLjEyMXY1MS44NWMxNTkuMTUtNy43MDggMjg2LjcwOC0xMzUuNTA0IDI5NC4yMDQtMjk0LjdoLTUxLjg4M2MtNy4zMDQgMTMwLjU1NS0xMTEuNzYzIDIzNS4xODQtMjQyLjMyMSAyNDIuODV6bTU1Ni41LTUzMy4yNDFoMTQ0LjM2N2wxODcuNDU0IDMzMi41ODNoMS41MDlWMjA3Ljg3OWgxMzIuMjc5djUzOS42ODRoLTE0NC4zN0wxMTgzLjE1IDQxMS4yMWgtMS41MTd2MzM2LjM1NGgtMTMyLjI3VjIwNy44OHptNjkyLjM3NiA0NzEuNjU4YzYxLjIyIDAgODEuNjMtMzQuNzc1IDc4LjYwOC0xMTUuNjUtMTguMTQxIDExLjMzNy01MS40IDEzLjYwOC03OS4zNjYgMjEuMTY3LTI4LjcyNSA2LjgtNTIuOTA5IDE4Ljg5MS01Mi45MDkgNDkuODg3IDAgMzEuNzQ2IDI0Ljk0MiA0NC41OTYgNTMuNjY3IDQ0LjU5NnptLTE2Ni4yOTItMjAzLjMzYzIuMjctNTEuNCAyNi40NTQtODQuNjU0IDYxLjIzLTEwNS4wNTggMzQuNzYyLTE5LjY1NCA4MC4xMTYtMjcuMjEyIDEyNC43MTYtMjcuMjEyIDkyLjk2NyAwIDE4Mi45MTMgMjAuNDA4IDE4Mi45MTMgMTMxLjUxMnYxNzEuNTg4YzAgMzMuMjU0IDAgNjkuNTMgMTUuMTIgMTAwLjUyNWgtMTI5LjI1NGMtNC41MzctMTIuMDk2LTYuMDQ2LTI0LjE4Ny03LjU1OC0zNy4wNDItMzMuMjU4IDM0Ljc3NS04Mi4zODggNDguMzc1LTEyOS4yNSA0OC4zNzUtNzQuODM0IDAtMTMzLjc5Mi0zNy43ODctMTMzLjc5Mi0xMTguNjYyIDAtMTI3Ljc0MiAxMzkuMDg0LTExNy45MjEgMjI4LjI3MS0xMzYuMDU0IDIxLjkyNS00LjU0MiAzNC4wMTMtMTIuMSAzNC4wMTMtMzYuMjg0IDAtMjkuNDc5LTM1LjUyMS00MC44Mi02MS45OC00MC44Mi0zNS41MjUgMC01OC4yIDE1Ljg3NC02NC4yNSA0OS4xMzNoLTEyMC4xNzl6bTQyOC41NzEtMTIwLjkzM2gxMjQuNzE3djUzLjY2M2gxLjUwOGMyMy40MzQtMzkuMzA0IDY1LjAxMy02NSAxMTIuNjIxLTY1IDQ5LjEzOCAwIDkyLjk3NSAxNS44NyAxMTQuMTQyIDYzLjQ5MSAzMC45ODMtNDEuNTc1IDY5LjUzMy02My40OTEgMTIyLjQ1LTYzLjQ5MSAxMjQuNzEzIDAgMTM4LjMyMSA5NC40NzkgMTM4LjMyMSAxNjkuMzEydjIzNC4zMTNoLTEyOC40OTZWNTE3LjAyNWMwLTQyLjMyOS0yMC40MTItNjcuMjctNTMuNjctNjcuMjctNTUuMTcyIDAtNjAuNDY3IDQyLjMyNS02MC40NjcgMTA1LjgydjE5MS45ODhoLTEyOC40OTJ2LTIyMi45OGMwLTQ2LjEwOC0xMy42MDktNzQuODI4LTQ4LjM4LTc0LjgyOC00Ni4xMTIgMC02NS43NTQgMjYuNDU0LTY1Ljc1NCAxMDYuNTc1djE5MS4yMzNoLTEyOC41VjM1NS4yNzV6bTY3OS41MjYgMGgxMjguNDk2djM5Mi4yODhoLTEyOC40OTZWMzU1LjI3NXptMTI4LjQ5Ni00OS4xMzNoLTEyOC40OTZ2LTk4LjI2M2gxMjguNDk2djk4LjI2M3ptNzAuMjk2IDQ5LjEzM2gxMjQuNzEydjY4Ljc4aDEuNTE3YzE4Ljg5Ni00OS44ODQgNjIuNzMzLTc2LjMzOCAxMTcuOTEzLTc2LjMzOCA5LjgyIDAgMjAuNDA4Ljc1NCAzMC4yMzcgMy4wMjV2MTE3LjE1NGMtMTYuNjMzLTQuNTMzLTMxLjc0Ni03LjU1OC00OS4xMzMtNy41NTgtNjMuNDk2IDAtOTYuNzUgNDMuODQyLTk2Ljc1IDkyLjk3djE5NC4yNTVoLTEyOC40OTZWMzU1LjI3NXptMjk3LjA1NCAwaDEyOC40OTZ2MzkyLjI4OEgzMTc5LjM5VjM1NS4yNzV6bTEyOC40OTYtNDkuMTMzSDMxNzkuMzl2LTk4LjI2M2gxMjguNDk2djk4LjI2M3ptMjI2Ljc1IDM3My4zOTZjNjEuMjI1IDAgODEuNjMtMzQuNzc1IDc4LjYwOS0xMTUuNjUtMTguMTM4IDExLjMzNy01MS4zOTYgMTMuNjA4LTc5LjM2NyAyMS4xNjctMjguNzE3IDYuOC01Mi45MDQgMTguODkxLTUyLjkwNCA0OS44ODcgMCAzMS43NDYgMjQuOTQxIDQ0LjU5NiA1My42NjIgNDQuNTk2em0tMTY2LjI4My0yMDMuMzNjMi4yNjItNTEuNCAyNi40NS04NC42NTQgNjEuMjE2LTEwNS4wNTggMzQuNzc1LTE5LjY1NCA4MC4xMjUtMjcuMjEyIDEyNC43MjEtMjcuMjEyIDkyLjk2NyAwIDE4Mi45MTMgMjAuNDA4IDE4Mi45MTMgMTMxLjUxMnYxNzEuNTg4YzAgMzMuMjU0IDAgNjkuNTMgMTUuMTE3IDEwMC41MjVoLTEyOS4yNTVjLTQuNTI1LTEyLjA5Ni02LjAzNy0yNC4xODctNy41NTQtMzcuMDQyLTMzLjI1NCAzNC43NzUtODIuMzg3IDQ4LjM3NS0xMjkuMjU0IDQ4LjM3NS03NC44MyAwLTEzMy43OC0zNy43ODctMTMzLjc4LTExOC42NjIgMC0xMjcuNzQyIDEzOS4wNzYtMTE3LjkyMSAyMjguMjYzLTEzNi4wNTQgMjEuOTI1LTQuNTQyIDM0LjAxMy0xMi4xIDM0LjAxMy0zNi4yODQgMC0yOS40NzktMzUuNTIxLTQwLjgyLTYxLjk3NS00MC44Mi0zNS41MyAwLTU4LjIwNCAxNS44NzQtNjQuMjQ2IDQ5LjEzM2gtMTIwLjE4em00MzMuMDk2LTI2OC4zMjhoMTI4LjV2NTM5LjY4M2gtMTI4LjV6Ii8+PC9nPjwvc3ZnPg==" alt="Namirial" class="logo">
+		<div class="notfound en active">
+			<div class="notfound-err">
+				<h2>404</h2>
+			</div>
+			<h1>Page not found</h1>
+			<p>The page you are looking for may have been moved, removed, or temporarily unavailable.</p>
+		</div>
+		<div class="notfound it">
+			<div class="notfound-err">
+				<h2>404</h2>
+			</div>
+			<h1>Pagina non trovata</h1>
+			<p>La pagina che stai cercando potrebbe essere stata spostata, rimossa o essere temporaneamente non disponibile.</p>
+		</div>
+	</div>
+</body>
+</html>

@@ -1,0 +1,39 @@
+# Revenu Québec
+
+User-agent: *
+
+# NE PAS INDEXER les url avec les param id et L
+Disallow: /*?id=*
+Disallow: /*&id=*
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+# NE PAS INDEXER les url que se termine par .html
+Disallow: /*.html
+
+# NE PAS INDEXER les répertoires /Private/ et /Configuration/ (toujours être protégé avec .htaccess)
+Disallow: /*/Private/*
+Disallow: /*/Configuration/*
+
+# NE PAS INDEXER La page Ma Zone Extranet
+Disallow: /mazoneextranet/*
+
+# NE PAS INDEXER le répertoire /documents/
+Disallow: /documents/*
+
+# INDEXER toutes les images
+Allow: /images/*
+
+# INDEXER seulement les .css, .js, .jpg, .gif et .png dans le répertoire /typo3temp/
+Disallow: /typo3temp/*
+Allow: /typo3temp/*.css
+Allow: /typo3temp/*.css.*.gzip
+Allow: /typo3temp/*.js
+Allow: /typo3temp/*.js.*.gzip
+Allow: /typo3temp/*.jpg
+Allow: /typo3temp/*.gif
+Allow: /typo3temp/*.png
+
+# Liste des sitemap.xml
+Sitemap: https://www.revenuquebec.ca/fr/sitemap.xml
+Sitemap: https://www.revenuquebec.ca/en/sitemap.xml

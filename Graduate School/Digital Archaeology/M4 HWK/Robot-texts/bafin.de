@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /SiteGlobals/Forms/Suche/
+Disallow: /SharedDocs/Bilder/DE/Artikel/Fintech_DAOS
+Disallow: /DE/_pgb/
+Disallow: /Login/
+Disallow: /LoginDefault/
+Disallow: /NoIndex/
+Crawl-delay: 10
+Sitemap: https://www.bafin.de/Sitemap_Index.xml

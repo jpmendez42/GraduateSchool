@@ -1,0 +1,221 @@
+
+# version: 1
+
+# HTTPS www.wam.ae
+
+User-agent: *
+Sitemap: https://www.wam.ae/ar/sitemap/menu.xml
+Sitemap: https://www.wam.ae/ar/sitemap/news.xml
+Sitemap: https://www.wam.ae/ar/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/ar/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/en/sitemap/menu.xml
+Sitemap: https://www.wam.ae/en/sitemap/news.xml
+Sitemap: https://www.wam.ae/en/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/en/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/bn/sitemap/menu.xml
+Sitemap: https://www.wam.ae/bn/sitemap/news.xml
+Sitemap: https://www.wam.ae/bn/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/bn/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/zh/sitemap/menu.xml
+Sitemap: https://www.wam.ae/zh/sitemap/news.xml
+Sitemap: https://www.wam.ae/zh/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/zh/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/de/sitemap/menu.xml
+Sitemap: https://www.wam.ae/de/sitemap/news.xml
+Sitemap: https://www.wam.ae/de/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/de/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/es/sitemap/menu.xml
+Sitemap: https://www.wam.ae/es/sitemap/news.xml
+Sitemap: https://www.wam.ae/es/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/es/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/fa/sitemap/menu.xml
+Sitemap: https://www.wam.ae/fa/sitemap/news.xml
+Sitemap: https://www.wam.ae/fa/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/fa/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/hi/sitemap/menu.xml
+Sitemap: https://www.wam.ae/hi/sitemap/news.xml
+Sitemap: https://www.wam.ae/hi/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/hi/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/fr/sitemap/menu.xml
+Sitemap: https://www.wam.ae/fr/sitemap/news.xml
+Sitemap: https://www.wam.ae/fr/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/fr/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/it/sitemap/menu.xml
+Sitemap: https://www.wam.ae/it/sitemap/news.xml
+Sitemap: https://www.wam.ae/it/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/it/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/ml/sitemap/menu.xml
+Sitemap: https://www.wam.ae/ml/sitemap/news.xml
+Sitemap: https://www.wam.ae/ml/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/ml/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/ps/sitemap/menu.xml
+Sitemap: https://www.wam.ae/ps/sitemap/news.xml
+Sitemap: https://www.wam.ae/ps/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/ps/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/pt/sitemap/menu.xml
+Sitemap: https://www.wam.ae/pt/sitemap/news.xml
+Sitemap: https://www.wam.ae/pt/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/pt/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/ru/sitemap/menu.xml
+Sitemap: https://www.wam.ae/ru/sitemap/news.xml
+Sitemap: https://www.wam.ae/ru/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/ru/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/si/sitemap/menu.xml
+Sitemap: https://www.wam.ae/si/sitemap/news.xml
+Sitemap: https://www.wam.ae/si/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/si/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/tr/sitemap/menu.xml
+Sitemap: https://www.wam.ae/tr/sitemap/news.xml
+Sitemap: https://www.wam.ae/tr/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/tr/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/ur/sitemap/menu.xml
+Sitemap: https://www.wam.ae/ur/sitemap/news.xml
+Sitemap: https://www.wam.ae/ur/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/ur/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/id/sitemap/menu.xml
+Sitemap: https://www.wam.ae/id/sitemap/news.xml
+Sitemap: https://www.wam.ae/id/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/id/sitemap/articles/archive.xml
+
+Sitemap: https://www.wam.ae/he/sitemap/menu.xml
+Sitemap: https://www.wam.ae/he/sitemap/news.xml
+Sitemap: https://www.wam.ae/he/sitemap/articles/current.xml
+# Sitemap: https://www.wam.ae/he/sitemap/articles/archive.xml
+
+Disallow: /a/
+
+Disallow: /ar/search$
+Disallow: /ar/search/
+Disallow: /ar/search?
+Disallow: /en/search$
+Disallow: /en/search/
+Disallow: /en/search?
+Disallow: /bn/search$
+Disallow: /bn/search/
+Disallow: /bn/search?
+Disallow: /zh/search$
+Disallow: /zh/search/
+Disallow: /zh/search?
+Disallow: /de/search$
+Disallow: /de/search/
+Disallow: /de/search?
+Disallow: /es/search$
+Disallow: /es/search/
+Disallow: /es/search?
+Disallow: /fa/search$
+Disallow: /fa/search/
+Disallow: /fa/search?
+Disallow: /hi/search$
+Disallow: /hi/search/
+Disallow: /hi/search?
+Disallow: /fr/search$
+Disallow: /fr/search/
+Disallow: /fr/search?
+Disallow: /it/search$
+Disallow: /it/search/
+Disallow: /it/search?
+Disallow: /ml/search$
+Disallow: /ml/search/
+Disallow: /ml/search?
+Disallow: /ps/search$
+Disallow: /ps/search/
+Disallow: /ps/search?
+Disallow: /pt/search$
+Disallow: /pt/search/
+Disallow: /pt/search?
+Disallow: /ru/search$
+Disallow: /ru/search/
+Disallow: /ru/search?
+Disallow: /si/search$
+Disallow: /si/search/
+Disallow: /si/search?
+Disallow: /tr/search$
+Disallow: /tr/search/
+Disallow: /tr/search?
+Disallow: /ur/search$
+Disallow: /ur/search/
+Disallow: /ur/search?
+Disallow: /id/search$
+Disallow: /id/search/
+Disallow: /id/search?
+Disallow: /he/search$
+Disallow: /he/search/
+Disallow: /he/search?
+Disallow: /ar/ai-search$
+Disallow: /ar/ai-search/
+Disallow: /ar/ai-search?
+Disallow: /en/ai-search$
+Disallow: /en/ai-search/
+Disallow: /en/ai-search?
+Disallow: /bn/ai-search$
+Disallow: /bn/ai-search/
+Disallow: /bn/ai-search?
+Disallow: /zh/ai-search$
+Disallow: /zh/ai-search/
+Disallow: /zh/ai-search?
+Disallow: /de/ai-search$
+Disallow: /de/ai-search/
+Disallow: /de/ai-search?
+Disallow: /es/ai-search$
+Disallow: /es/ai-search/
+Disallow: /es/ai-search?
+Disallow: /fa/ai-search$
+Disallow: /fa/ai-search/
+Disallow: /fa/ai-search?
+Disallow: /hi/ai-search$
+Disallow: /hi/ai-search/
+Disallow: /hi/ai-search?
+Disallow: /fr/ai-search$
+Disallow: /fr/ai-search/
+Disallow: /fr/ai-search?
+Disallow: /it/ai-search$
+Disallow: /it/ai-search/
+Disallow: /it/ai-search?
+Disallow: /ml/ai-search$
+Disallow: /ml/ai-search/
+Disallow: /ml/ai-search?
+Disallow: /ps/ai-search$
+Disallow: /ps/ai-search/
+Disallow: /ps/ai-search?
+Disallow: /pt/ai-search$
+Disallow: /pt/ai-search/
+Disallow: /pt/ai-search?
+Disallow: /ru/ai-search$
+Disallow: /ru/ai-search/
+Disallow: /ru/ai-search?
+Disallow: /si/ai-search$
+Disallow: /si/ai-search/
+Disallow: /si/ai-search?
+Disallow: /tr/ai-search$
+Disallow: /tr/ai-search/
+Disallow: /tr/ai-search?
+Disallow: /ur/ai-search$
+Disallow: /ur/ai-search/
+Disallow: /ur/ai-search?
+Disallow: /id/ai-search$
+Disallow: /id/ai-search/
+Disallow: /id/ai-search?
+Disallow: /he/ai-search$
+Disallow: /he/ai-search/
+Disallow: /he/ai-search?
+
+Disallow: /Account/Login$
+Disallow: /Account/Login/
+Disallow: /Account/Login?

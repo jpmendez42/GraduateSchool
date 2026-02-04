@@ -1,0 +1,9 @@
+# cc.systempage.robots CMS page, generated Mon Oct 13 06:27:27 CEST 2025.
+User-agent: *
+Disallow: /search?*
+Disallow: /*ViewParametricSearch-SimpleOfferSearch?*
+Disallow: /*SearchParameter*
+Disallow: /my-stadium/
+Sitemap: https://www.stadiumoutlet.se/INTERSHOP/web/BOS/Stadium-SwedenOutlet-Site/sv_SE/-/SEK/ViewSiteMapXML-Start?SyndicationID=outletSitemap
+Sitemap: https://www.stadiumoutlet.se/INTERSHOP/web/WFS/Stadium-SwedenOutlet-Site/sv_SE/-/SEK/ViewSiteMapXML-Start?FilePattern=product&SiteMapFileNo=0&SyndicationID=outletSitemap
+Sitemap: https://www.stadiumoutlet.se/INTERSHOP/web/WFS/Stadium-SwedenOutlet-Site/sv_SE/-/SEK/ViewSiteMapXML-Start?FilePattern=catalogcategory&SiteMapFileNo=0&SyndicationID=outletSitemap

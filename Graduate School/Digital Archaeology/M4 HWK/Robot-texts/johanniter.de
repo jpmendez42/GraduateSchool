@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /subsite-muster*
+Disallow: /seitenbereich-muster*
+Disallow: /detailseite-muster*
+Disallow: /preview*
+Disallow: /*/mobile_nav.html
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Sitemap: https://www.johanniter.de/sitemap.xml
+Crawl-delay: 5

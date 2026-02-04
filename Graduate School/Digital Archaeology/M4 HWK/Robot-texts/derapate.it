@@ -1,0 +1,10 @@
+User-agent: grapeshot
+Disallow:
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.derapate.it/sitemap.xml
+Sitemap: https://www.derapate.it/sitemap-news.xml

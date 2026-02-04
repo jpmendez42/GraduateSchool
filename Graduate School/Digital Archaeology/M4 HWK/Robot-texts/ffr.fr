@@ -1,0 +1,12 @@
+# robots.txt pour le front
+Sitemap: https://www.ffr.fr/sitemap.xml
+Sitemap: https://www.ffr.fr/sitemap-news.xml
+
+User-agent: *
+
+Disallow: /recherche*
+Disallow: /politique-de-cookies
+Disallow: /cgu
+Disallow: /mentions-legales
+Disallow: /ffr/publications-officielles/discipline-anti-dopage
+Crawl-delay: 1

@@ -1,0 +1,38 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# Images
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+# Directories
+Disallow: /core/
+# Paths
+Disallow: /recherche/
+Disallow: /en/recherche/
+Disallow: /es/recherche/
+Disallow: /de/recherche/
+Disallow: /it/recherche/
+Disallow: /ar/recherche/
+Disallow: /cc-webservice/
+
+# Disallow Facetting
+Disallow: /*?f[*
+Disallow: /*&f[*
+Disallow: /*?f%5B0*
+Disallow: /*&f%5B1*

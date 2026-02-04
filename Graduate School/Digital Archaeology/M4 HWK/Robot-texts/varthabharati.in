@@ -1,0 +1,20 @@
+#
+# robots.txt for https://www.varthabharati.in
+user-agent: *
+Allow: /
+Disallow: /admin/*
+Disallow: /search/*
+Disallow: /search?*
+Disallow: /xhr/*
+Disallow: /preview/story-*
+Disallow: /amp/preview/story-*
+Disallow: /staging/* 
+Disallow: /alfoo
+Disallow: /sildoo
+Disallow: /dutas
+Disallow: /metsmall
+
+Sitemap: https://www.varthabharati.in/sitemap/sitemap-index.xml
+Sitemap: https://www.varthabharati.in/news-sitemap-daily.xml
+Sitemap: https://www.varthabharati.in/feeds.xml
+Sitemap: https://www.varthabharati.in/sitemap-daily.xml

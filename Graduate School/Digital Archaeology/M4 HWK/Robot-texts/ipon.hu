@@ -1,0 +1,26 @@
+User-agent: Yandex
+Disallow: /
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Googlebot-image
+Disallow:
+
+User-agent: *
+Disallow: /shop/group/
+Disallow: /shop/product/
+Disallow: /shop/grupa/
+Disallow: /shop/proizvod/
+Disallow: /shop/grup/
+Disallow: /shop/produs/
+Disallow: /shop/gruppe/
+Disallow: /shop/produkt/
+Disallow: /shop/skupini/
+Disallow: /shop/izdelka/
+Disallow: /webshop/
+
+Sitemap: https://ipon.hu/sitemap.xml

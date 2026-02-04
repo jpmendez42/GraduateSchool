@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: *.pdf$
+Disallow: /service/renshu/
+
+User-agent: Googlebot
+Disallow: /*?utm_source=a8*
+Disallow: /?A8
+
+Sitemap: https://goope.jp/sitemap.xml

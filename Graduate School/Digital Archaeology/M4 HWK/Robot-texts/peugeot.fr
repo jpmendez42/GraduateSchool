@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /*?lcdv
+Disallow: /*?gclsrc
+Disallow: /*?&gclid
+Disallow: /*utm_source
+Disallow: /api/
+Disallow: /*?id
+Disallow: /*utm_content
+Disallow: /*utm_campaign
+Disallow: /*utm_medium
+Sitemap: https://www.peugeot.fr/sitemap.xml
+Sitemap: https://www.peugeot.fr/acheter-en-ligne/sitemap/AP/FR/sitemap.xml

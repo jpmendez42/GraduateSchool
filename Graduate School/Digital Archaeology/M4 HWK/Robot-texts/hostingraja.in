@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: /beta/*
+Disallow: /test/*
+Disallow: /osticket/*
+Disallow: /ticket/*
+Disallow: /administrator/*
+Disallow: /control/*
+Disallow: /cache/*
+Disallow: /component/media/*
+Disallow: /installation/*
+Disallow: /language/*
+Disallow: /logs/*
+Disallow: /tmp/*
+Disallow: /ajaxUpdate.php*
+Disallow: /ajaxUpdate.php?*
+Disallow: /joomla-theme-collections.html*
+Disallow: /ads.txt
+Disallow: /payment/*
+Disallow: /newlp/images/*
+Disallow: /component/*
+Disallow: /modules/*
+Disallow: /plugins/*
+Disallow: /affiliates/*
+Disallow: /hrreseller/*
+Disallow: /index.php/*
+Disallow: /geoip*
+Disallow: /newlp/*
+Disallow: /resellerlp/*
+Disallow: /payment/*
+Disallow: /joomla-theme-collections.html?*
+Disallow: /wp-theme-demo/*
+Disallow: /*.html
+Disallow: /*.php
+Disallow: /wp-themes-demo.html?*
+Disallow: /category/*
+Disallow: /login/
+Disallow: /login$
+Disallow: /login/pwreset.php
+
+Allow: /*.js
+Allow: /*.jgz
+Allow: /*.css
+Allow: /*.cgz
+
+Sitemap: https://www.hostingraja.in/sitemap.xml
+

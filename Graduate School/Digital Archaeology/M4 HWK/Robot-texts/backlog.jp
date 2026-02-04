@@ -1,0 +1,1930 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@backlogapp">
+        <meta name="twitter:domain" content="backlog.com">
+
+        <!-- ============ -->
+        <!-- = OG:IMAGE = -->
+        <!-- ============ -->
+                  <meta property="og:image" content="https://backlog.com/backlog_ogp_ja.png">
+        
+        <meta property="fb:app_id" content="417292271624387" >
+
+        <!-- Google Tag Manager Production Environment-->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TSQPXBL');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+        
+        <link rel="shortcut icon" href="/favicon.ico">
+
+        <link rel="alternate" hreflang="x-default" href="https://nulab.com/backlog/">
+        <link rel="alternate" hreflang="en" href="https://nulab.com/backlog/">
+        <link rel="alternate" hreflang="ja" href="/ja/">
+
+        <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.12 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Backlog｜チームで使うプロジェクト管理・タスク管理ツール</title>
+	<meta name="description" content="Backlogは、業務を可視化して、チームのコミュニケーションの促進を目的としたプロジェクト管理ツールです。シンプルな操作性と親しみやすい見た目で、開発者だけでなく、デザイナー、マーケターなど、チームで働くすべての人が使えるのが特徴です。" />
+	<link rel="canonical" href="/ja/" />
+	<meta property="og:locale" content="ja_JP" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="Backlog｜チームで使うプロジェクト管理・タスク管理ツール" />
+	<meta property="og:description" content="Backlogは、業務を可視化して、チームのコミュニケーションの促進を目的としたプロジェクト管理ツールです。シンプルな操作性と親しみやすい見た目で、開発者だけでなく、デザイナー、マーケターなど、チームで働くすべての人が使えるのが特徴です。" />
+	<meta property="og:url" content="https://backlog.com/ja/" />
+	<meta property="og:site_name" content="Backlog.com (JA)" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","@id":"https://backlog.com/ja/","url":"https://backlog.com/ja/","name":"Backlog｜チームで使うプロジェクト管理・タスク管理ツール","isPartOf":{"@id":"https://backlog.com/ja/#website"},"description":"Backlogは、業務を可視化して、チームのコミュニケーションの促進を目的としたプロジェクト管理ツールです。シンプルな操作性と親しみやすい見た目で、開発者だけでなく、デザイナー、マーケターなど、チームで働くすべての人が使えるのが特徴です。","breadcrumb":{"@id":"https://backlog.com/ja/#breadcrumb"},"inLanguage":"ja"},{"@type":"BreadcrumbList","@id":"https://backlog.com/ja/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://backlog.com/ja/#website","url":"https://backlog.com/ja/","name":"Backlog.com (JA)","description":"チームで使うプロジェクト管理・タスク管理ツールBacklog","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://backlog.com/ja/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"ja"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='splide-css'  href='/app/themes/backlog-child/assets/css/vendor/splide-core.min.css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='/ja/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='generic-css'  href='/app/themes/backlog-child/assets/css/site.css?250930044107&#038;ver=5.9.4' media='all' />
+<script src='/ja/wp-includes/js/jquery/jquery.min.js' id='jquery-core-js'></script>
+<script src='/ja/wp-includes/js/jquery/jquery-migrate.min.js' id='jquery-migrate-js'></script>
+<script src='/app/themes/backlog-child/assets/js/vendor/jquery.url.js' id='jquery.url-js'></script>
+<link rel="https://api.w.org/" href="/ja/wp-json/" />
+                
+        <script>
+            function selectLanguage(lang) {
+                window.location.href = lang.options[lang.selectedIndex].value;
+            }
+        </script>
+
+                    <script>
+                redirectByLang();
+                function redirectByLang() {
+                    var LANGS = ['ja'];
+                    var BASE_PATH = '/';
+
+                    var pathLang = location.pathname.split('/')[1];
+                    if (LANGS.indexOf(pathLang) > -1) {
+                        setCookie(pathLang);
+                        return;
+                    }
+                    var cookieLang = getCookieLang();
+                    if (cookieLang === 'en') {
+                        return;
+                    }
+                    if (LANGS.indexOf(cookieLang) > -1) {
+                        location.href = BASE_PATH + cookieLang;
+                        return;
+                    }
+
+                    var browserLang = getBrowserLang();
+                    for(var i=0; i<LANGS.length; i++) {
+                        if (browserLang.indexOf(LANGS[i]) === 0) {
+                            location.href = BASE_PATH + LANGS[i];
+                            return;
+                        }
+                    }
+                }
+                function setCookie(lang) {
+                    var expires = new Date(new Date().getTime() + (1000 * 60 * 60 * 24 * 30)); // 30 days
+                    document.cookie = 'lang=' + lang + ';path=/;expires=' + expires.toGMTString() + ';';
+                }
+                function getCookieLang() {
+                    var match = document.cookie.match(/lang=(\w+)/);
+                    if (match) {
+                        return match[1];
+                    } else {
+                        return null;
+                    }
+                }
+                function getBrowserLang() {
+                    try {
+                        return (navigator.browserLanguage || navigator.language || navigator.userLanguage);
+                    } catch(e) {
+                        return '';
+                    }
+                }
+            </script>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link rel="preload" as="style" fetchpriority="high" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&display=swap" media="print" onload='this.media="all"' />
+
+        <!-- Start Visual Website Optimizer Asynchronous Code -->
+        <script>
+        var _vwo_code=(function(){
+        var account_id=267090,
+        settings_tolerance=2000,
+        library_tolerance=2500,
+        use_existing_jquery=false,
+        /* DO NOT EDIT BELOW THIS LINE */
+        f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+        </script>
+        <!-- End Visual Website Optimizer Asynchronous Code -->
+
+        <!-- backlog.com に対する OneTrust Cookie 同意通知の始点 -->
+<script src="https://cdn-au.onetrust.com/scripttemplates/otSDKStub.js" data-domain-script="b919cbe4-2535-4b4d-97d6-64c8d41a0874" ></script>
+<script>
+function OptanonWrapper() { }
+</script>
+<!-- backlog.com に対する OneTrust Cookie 同意通知の終点 -->
+
+        <!-- Mixpanel for the purchase now -->
+                  <script>
+            (function (f, b) { if (!b.__SV) { var e, g, i, h; window.mixpanel = b; b._i = []; b.init = function (e, f, c) { function g(a, d) { var b = d.split("."); 2 == b.length && ((a = a[b[0]]), (d = b[1])); a[d] = function () { a.push([d].concat(Array.prototype.slice.call(arguments, 0))); }; } var a = b; "undefined" !== typeof c ? (a = b[c] = []) : (c = "mixpanel"); a.people = a.people || []; a.toString = function (a) { var d = "mixpanel"; "mixpanel" !== c && (d += "." + c); a || (d += " (stub)"); return d; }; a.people.toString = function () { return a.toString(1) + ".people (stub)"; }; i = "disable time_event track track_pageview track_links track_forms track_with_groups add_group set_group remove_group register register_once alias unregister identify name_tag set_config reset opt_in_tracking opt_out_tracking has_opted_in_tracking has_opted_out_tracking clear_opt_in_out_tracking start_batch_senders people.set people.set_once people.unset people.increment people.append people.union people.track_charge people.clear_charges people.delete_user people.remove".split( " "); for (h = 0; h < i.length; h++) g(a, i[h]); var j = "set set_once union unset remove delete".split(" "); a.get_group = function () { function b(c) { d[c] = function () { call2_args = arguments; call2 = [c].concat(Array.prototype.slice.call(call2_args, 0)); a.push([e, call2]); }; } for ( var d = {}, e = ["get_group"].concat( Array.prototype.slice.call(arguments, 0)), c = 0; c < j.length; c++) b(j[c]); return d; }; b._i.push([e, f, c]); }; b.__SV = 1.2; e = f.createElement("script"); e.type = "text/javascript"; e.async = !0; e.src = "undefined" !== typeof MIXPANEL_CUSTOM_LIB_URL ? MIXPANEL_CUSTOM_LIB_URL : "file:" === f.location.protocol && "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js".match(/^\/\//) ? "https://cdn.mxpnl.com/libs/mixpanel-2-latest.min.js" : "//cdn.mxpnl.com/libs/mixpanel-2-latest.min.js"; g = f.getElementsByTagName("script")[0]; g.parentNode.insertBefore(e, g); } })(document, window.mixpanel || []);
+            mixpanel.init('1105bf66dd4dcbec09009ba91157a9be');
+          </script>
+          <script defer>
+            document.addEventListener('DOMContentLoaded', function () {
+              const targetButtons = document.querySelectorAll('.js-mixpanel-button');
+              targetButtons.forEach(function (button) {
+                button.addEventListener('click', function () {
+                  const planName = button.getAttribute('data-plan-name');
+                  mixpanel.track('[Backlog] Purchase Now Button Clicked', {
+                    'Plan': planName
+                  });
+                });
+              });
+            });
+          </script>
+        
+    </head>
+    <body class="home blog">
+
+        <!-- Google Tag Manager Production Environment (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TSQPXBL"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+
+<div id="page" class="top home.php home has_hero">
+  <div class="header-login-bar is-login-for-pc js-login-container-pc">
+    <div class="header-login-bar__inner">
+      <button type="button" id="loginDropdown" class="header-login-bar__button login-dropdown"><span class="header-login-bar__icon"><img class="header-login-bar__icon-door" src="/app/themes/backlog-child/assets/img/common/icon/icon_door.svg" alt="" width="16" height="16" loading="lazy"></span>ログイン</button>
+      <div id="loginDropdownContent" class="login-dropdown-content">
+        <p class="login-dropdown-title">スペースIDを入力してください</p>
+        <div class="login-form-wrap">
+          <form name="spaceForm" id="formID" class="login-dropdown-content__form-ID">
+            https:// <input type="text" value="" data-val="スペースIDを入力" name="spaceID" id="inputID" class="login-dropdown-content__input-ID" autocomplete="off">
+            <select id="domainID"></select>
+          </form>
+          <button id="goBtn" class="login-dropdown-content__go-btn">移動</button>
+        </div>
+        <div id="errerTip" class="login-dropdown-content__errer-tip" style="display: none;">
+          <p>スペースIDとして利用できない文字が含まれているか、先頭か末尾にハイフンが存在します。</p>
+        </div>
+        <div id="errerTip2" class="login-dropdown-content__errer-tip" style="display: none;">
+          <p>存在しないスペースIDです。</p>
+        </div>
+        <ul id="loginSpaceList" class="login-dropdown-content__login-space-list">
+        </ul>
+        <p class="login-dropdown-content__faq-link"><a href="https://backlog.com/ja/support/general/what-id/">スペースIDとは？</a></p>
+        <button type="button" id="closeDropdown" class="login-dropdown-content__close-dropdown" aria-label="ログインを閉じる"></button>
+      </div>
+      <div class="login-animation">
+        <div class="login-animation__wrapper">
+          <div class="animation-logo">
+            <div class="animation-logo__b"></div>
+            <div class="animation-logo__a"></div>
+            <div class="animation-logo__c"></div>
+            <div class="animation-logo__k"></div>
+            <div class="animation-logo__l"></div>
+            <div class="animation-logo__o"></div>
+            <div class="animation-logo__g"></div>
+            <div class="animation-logo__by"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <header id="header" class="header js-sticky-header">
+    <div class="header__group">
+      <div id="logo" class="header__logo">
+        <a class="header__logo-link gtm__header-nav" href="https://backlog.com/ja/"><img src="/app/themes/backlog-child/assets/img/common/logo/logo_backlog.svg" alt="Backlogのロゴ" width="114" height="40"></a>
+        <a class="header__logo-link -anniversary" href="https://backlog.com/ja/20th-anniversary/" target="_blank" data-tab-icon="false"><img src="/app/themes/backlog-child/assets/img/common/logo/logo_anniversary.svg" alt="20周年記念のロゴ" width="50" height="24"><span class="visually-hidden">（新しいタブで開く）</span></a>
+      </div>
+      <div class="header__mobile-menu">
+        <button type="button" class="header__mobile-menu-icon js-mobile-menu-button" aria-label="メニュー">
+          <span class="header__mobile-menu-bar"></span>
+        </button>
+      </div>
+      <div class="header__nav js-global-navigation-menu">
+        <div id="js-global-navigation-label" class="visually-hidden">グローバルナビゲーション</div>
+        <nav class="header__nav-container">
+          <ul class="header__nav-list">
+          <li class="header__nav-item js-header-submenu-container">
+              <button type="button" class="header__nav-link js-header-submenu-trigger "> 機能 <span class="header__icon"><svg class="header__icon-arrow" xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C10.0976 0.683418 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976315 1.31658 -0.0976315 0.683417 0.292893 0.292893C0.683417 -0.0976315 1.31658 -0.0976315 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976312 9.31658 -0.0976311 9.70711 0.292893Z" fill="#16161a"/></svg></span></button>
+              <div class="header__submenu js-header-submenu-body">
+                <div id="js-header-submenu-label-function" class="js-header-submenu-label visually-hidden">機能一覧</div>
+                <div class="header__submenu-group">
+                  <div class="header__submenu-inner">
+                    <a class="header__submenu-anchor is-list gtm__header-nav" href="https://backlog.com/ja/function/">機能一覧<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                  </div>
+                  <div class="header__submenu-inner">
+                    <ul class="header__submenu-list">
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/function/ganttchart/">ガントチャート<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/function/document/">ドキュメント<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/function/kanban-board/">カンバンボード<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/function/file-sharing/">ファイル共有<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/function/burndown-chart/">バーンダウンチャート<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/function/git-subversion/">Git / Subversion<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="header__nav-item js-header-submenu-container">
+              <button type="button" class="header__nav-link js-header-submenu-trigger "> 活用シーン <span class="header__icon"><svg class="header__icon-arrow" xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C10.0976 0.683418 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976315 1.31658 -0.0976315 0.683417 0.292893 0.292893C0.683417 -0.0976315 1.31658 -0.0976315 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976312 9.31658 -0.0976311 9.70711 0.292893Z" fill="#16161a"/></svg></span></button>
+              <div class="header__submenu js-header-submenu-body">
+                <div id="js-header-submenu-label-scene" class="js-header-submenu-label visually-hidden">活用シーン</div>
+                <div class="header__submenu-group">
+                  <div class="header__submenu-inner">
+                    <a class="header__submenu-anchor is-list gtm__header-nav header__submenu-title" href="https://backlog.com/ja/scene#usage">使い方別<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                  </div>
+                  <div class="header__submenu-inner">
+                    <ul class="header__submenu-list">
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/project-management/">プロジェクト管理<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/task-management/">タスク管理<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/version-control/">バージョン管理<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/manual-management/">マニュアル管理・共有<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+                <div class="header__submenu-group">
+                  <div class="header__submenu-inner">
+                    <a class="header__submenu-anchor is-list gtm__header-nav header__submenu-title" href="https://backlog.com/ja/scene#job">職種別<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                  </div>
+                  <div class="header__submenu-inner">
+                    <ul class="header__submenu-list">
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/web-creative/" data-tab-icon="false">Web制作・クリエイティブ<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/marketing/">広報・マーケティング<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/back-office/">バックオフィス<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/scene/system-development/">システム開発<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="header__nav-item">
+              <a class="header__nav-link gtm__header-nav " href="https://backlog.com/ja/customers/">導入事例</a>
+            </li>
+            <li class="header__nav-item">
+              <a class="header__nav-link gtm__header-nav "
+              href="https://backlog.com/ja/pricing/">料金</a>
+            </li>
+            <li class="header__nav-item js-header-submenu-container">
+              <button type="button" class="header__nav-link js-header-submenu-trigger ">お役立ち情報<span class="header__icon"><svg class="header__icon-arrow" xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C10.0976 0.683418 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976315 1.31658 -0.0976315 0.683417 0.292893 0.292893C0.683417 -0.0976315 1.31658 -0.0976315 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976312 9.31658 -0.0976311 9.70711 0.292893Z" fill="#16161a"/></svg></span></button>
+              <div class="header__submenu js-header-submenu-body">
+                <div id="js-header-submenu-label-useful" class="js-header-submenu-label visually-hidden">お役立ち情報メニュー</div>
+                <div class="header__submenu-group">
+                  <div class="header__submenu-inner">
+                    <ul class="header__submenu-list">
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/document/">お役立ち資料<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/blog/">ブログ<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="header__nav-item js-header-submenu-container">
+              <button type="button" class="header__nav-link js-header-submenu-trigger                 ">活用サポート<span class="header__icon"><svg class="header__icon-arrow" xmlns="http://www.w3.org/2000/svg" width="10" height="6" viewBox="0 0 10 6" fill="none"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.70711 0.292893C10.0976 0.683418 10.0976 1.31658 9.70711 1.70711L5.70711 5.70711C5.31658 6.09763 4.68342 6.09763 4.29289 5.70711L0.292893 1.70711C-0.0976315 1.31658 -0.0976315 0.683417 0.292893 0.292893C0.683417 -0.0976315 1.31658 -0.0976315 1.70711 0.292893L5 3.58579L8.29289 0.292893C8.68342 -0.0976312 9.31658 -0.0976311 9.70711 0.292893Z" fill="#16161a"/></svg></span></button>
+              <div class="header__submenu js-header-submenu-body">
+                <div id="js-header-submenu-label-scene" class="js-header-submenu-label visually-hidden">活用サポート</div>
+                <div class="header__submenu-group">
+                  <div class="header__submenu-inner">
+                    <ul class="header__submenu-list">
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/seminar/">セミナー<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://support-ja.backlog.com/hc/ja" target="_blank" data-tab-icon="false" rel="nofollow">ヘルプセンター<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                      <li class="header__submenu-item">
+                        <a class="header__submenu-anchor gtm__header-nav" href="https://backlog.com/ja/contact/">お問い合わせ<span class="header__submenu-icon"><svg width="16" height="17" viewBox="0 0 16 17" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M6.29289 4.29289C6.68342 3.90237 7.31658 3.90237 7.70711 4.29289L11.7071 8.29289C12.0976 8.68342 12.0976 9.31658 11.7071 9.70711L7.70711 13.7071C7.31658 14.0976 6.68342 14.0976 6.29289 13.7071C5.90237 13.3166 5.90237 12.6834 6.29289 12.2929L9.58579 9L6.29289 5.70711C5.90237 5.31658 5.90237 4.68342 6.29289 4.29289Z" fill="#16161A"/></svg></span></a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </li>
+            <li class="header__nav-item is-button">
+              <a class="button button--sm button--contained -primary gtm__header-nav" href="https://registerjp.backlog.com/trial/with-new-account/plan/51" target="_blank">30日間無料で試す<span class="visually-hidden">（新しいタブで開く）</span></a>
+            </li>
+            <li class="header__nav-item is-button">
+              <a class="button button--sm button--outlined -primary gtm__header-nav" href="https://backlog.com/ja/document/">資料ダウンロード</a>
+            </li>
+          </ul>
+          <div class="header-login-bar is-login-for-sp">
+            <div class="header-login-bar__group">
+              <a class="header-login-bar__link js-login-link-mobile" href="https://apps.nulab.com/signin" target="_blank" data-tab-icon="false"><span class="header-login-bar__icon"><img class="header-login-bar__icon-door" src="/app/themes/backlog-child/assets/img/common/icon/icon_door.svg" alt="" width="16" height="16" loading="lazy"></span>ログイン</a>
+            </div>
+          </div>
+        </nav>
+      </div>
+    </div>
+  </header>
+  <div class="header__modal-background js-modal-background"></div>
+
+  
+<main id="main" class="page-home style-guide">
+    <div class="home-hero">
+    <div class="home-hero__container">
+        <div class="home-hero__main">
+            <h1 class="home-hero__heading">
+                <span>タスクを可視化し一元管理</span><em>チームで使うならBacklog</em>
+            </h1>
+            <div class="home-hero__image">
+                <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/hero_capture.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/hero_capture.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/hero_capture@2x.webp?202410 2x" width="601" height="347" alt="Backlog利用イメージのキャプチャ。PCやスマートフォンでBacklogを開いている。" fetchpriority="high" loading="eager" decoding="auto">
+            </div>
+            <div class="home-hero__buttons">
+                <a class="primary-action-button --plain" href="https://registerjp.backlog.com/trial/with-new-account/plan/51" target="_blank" data-tab-icon="false">
+                                            <small class="primary-action-button__small-text">すべての機能がご利用可能</small>
+                                        <span class="primary-action-button__main-text">30日間無料で試す</span>
+                    <span class="visually-hidden">（新しいタブで開く）</span>                    <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17">
+                        <path clip-rule="evenodd" d="M6.293 4.293a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414-1.414L9.586 9 6.293 5.707a1 1 0 0 1 0-1.414Z" />
+                    </svg>
+                </a>
+                <a class="primary-action-button --outlined" href="/ja/document/backlog-three-documents/" target="_blank" rel="noopener noreferrer" data-tab-icon="false">
+                    <small class="primary-action-button__small-text">Backlogがよくわかる！</small>
+                    <span class="primary-action-button__main-text">資料をダウンロードする</span>
+                    <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M16.646 11.19a1.207 1.207 0 0 1 0 1.707l-3.793 3.793a1.207 1.207 0 0 1-1.706 0l-3.793-3.793A1.207 1.207 0 0 1 9.06 11.19L12 14.13l2.94-2.94a1.207 1.207 0 0 1 1.707 0Z" />
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M12 17.043c-.666 0-1.207-.54-1.207-1.207V1.664a1.207 1.207 0 1 1 2.414 0v14.172c0 .667-.54 1.207-1.207 1.207Z" />
+                        <path fill-rule="evenodd" clip-rule="evenodd" d="M22 16a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-5a1 1 0 1 1 2 0v4h18v-4a1 1 0 0 1 1-1Z" />
+                    </svg>
+                </a>
+            </div>
+        </div>
+        <ul class="home-hero__records">
+            <li class="home-hero-record">
+                <img class="home-hero-record__ornament --start" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/award_ornament.svg?202410" alt="" width="41" height="70" fetchpriority="high" loading="eager" decoding="auto">
+                <p class="home-hero-record__content">
+                    <span class="home-hero-record__metric">有料<br aria-hidden="true">契約数</span>
+                    <b class="home-hero-record__number">14,000</b>
+                    <span class="home-hero-record__unit">件以上</span>
+                    <span class="home-hero-record__annotation" aria-describedby="records-note-1">※1</span>
+                </p>
+                <img class="home-hero-record__ornament --end" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/award_ornament.svg?202410" alt="" width="41" height="70" fetchpriority="high" loading="eager" decoding="auto">
+            </li>
+            <li class="home-hero-record">
+                <img class="home-hero-record__ornament --start" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/award_ornament.svg?202410" alt="" width="41" height="70" fetchpriority="high" loading="eager" decoding="auto">
+                <p class="home-hero-record__content">
+                    <span class="home-hero-record__metric">有料利用<br aria-hidden="true">ユーザー数</span>
+                    <b class="home-hero-record__number">140</b>
+                    <span class="home-hero-record__unit">万人以上</span>
+                    <span class="home-hero-record__annotation" aria-describedby="records-note-2">※2</span>
+                </p>
+                <img class="home-hero-record__ornament --end" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/award_ornament.svg?202410" alt="" width="41" height="70" fetchpriority="high" loading="eager" decoding="auto">
+            </li>
+            <li class="home-hero-record">
+                <img class="home-hero-record__ornament --start" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/award_ornament.svg?202410" alt="" width="41" height="70" fetchpriority="high" loading="eager" decoding="auto">
+                <p class="home-hero-record__content">
+                    <span class="home-hero-record__metric">サービス<br aria-hidden="true">継続率</span>
+                    <b class="home-hero-record__number">98.8</b>
+                    <span class="home-hero-record__unit">%</span>
+                    <span class="home-hero-record__annotation" aria-describedby="records-note-3">※3</span>
+                </p>
+                <img class="home-hero-record__ornament --end" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/award_ornament.svg?202410" alt="" width="41" height="70" fetchpriority="high" loading="eager" decoding="auto">
+            </li>
+        </ul>
+        <p class="home-hero__record-notes">
+            <small id="records-note-1">※1：2024年9月末時点。</small>
+            <small id="records-note-2">※2：2024年9月末時点の有料契約内でBacklogを使用している利用者数の合計（契約者に招待されて同一スペースで使用しているユーザーを含む）</small>
+            <small id="records-note-3">※3：2024年9月末時点の有料契約総数に占める解約数を引いた割合。</small>
+        </p>
+    </div>
+</div>
+    <section class="page-home__hero-logos">
+    <div class="page-home__inner">
+        <h2 class="page-home__small-heading"> Backlogは業種・業界を問わず、多くの企業に選ばれています </h2>
+        <ul class="customer-logos">
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyota_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyota_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyota_logo@2x.webp?20210 2x'
+                alt='トヨタ自動車株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/meti_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/meti_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/meti_logo@2x.webp?20210 2x'
+                alt='経済産業省'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/lions_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/lions_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/lions_logo@2x.webp?20210 2x'
+                alt='株式会社西武ライオンズ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kirin_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kirin_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kirin_logo@2x.webp?20210 2x'
+                alt='キリンホールディングス株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/itochu_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/itochu_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/itochu_logo@2x.webp?20210 2x'
+                alt='伊藤忠商事株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/mufg_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/mufg_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/mufg_logo@2x.webp?20210 2x'
+                alt='株式会社三菱UFJ銀行'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kddiwc_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kddiwc_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kddiwc_logo@2x.webp?20210 2x'
+                alt='株式会社KDDIウェブコミュニケーションズ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ffg_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ffg_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ffg_logo@2x.webp?20210 2x'
+                alt='株式会社ふくおかフィナンシャルグループ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/fujitsu_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/fujitsu_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/fujitsu_logo@2x.webp?20210 2x'
+                alt='富士通株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/starflyer_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/starflyer_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/starflyer_logo@2x.webp?20210 2x'
+                alt='株式会社スターフライヤー'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ntt_communications_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ntt_communications_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ntt_communications_logo@2x.webp?20210 2x'
+                alt='NTTコミュニケーションズ株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/skymark_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/skymark_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/skymark_logo@2x.webp?20210 2x'
+                alt='スカイマーク株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kobe_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kobe_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kobe_logo@2x.webp?20210 2x'
+                alt='神戸市'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamato_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamato_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamato_logo@2x.webp?20210 2x'
+                alt='ヤマト運輸株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/nomura_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/nomura_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/nomura_logo@2x.webp?20210 2x'
+                alt='野村不動産ホールディングス株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toppan_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toppan_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toppan_logo@2x.webp?20210 2x'
+                alt='凸版印刷株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyo-keizai_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyo-keizai_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyo-keizai_logo@2x.webp?20210 2x'
+                alt='株式会社東洋経済新報社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kitagas_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kitagas_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kitagas_logo@2x.webp?20210 2x'
+                alt='北海道ガス株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamap_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamap_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamap_logo@2x.webp?20210 2x'
+                alt='株式会社ヤマップ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/adx_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/adx_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/adx_logo@2x.webp?20210 2x'
+                alt='株式会社ADX Consulting'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+    </ul>
+    </div>
+</section>
+    <section id="about" class="page-home-about page-home__shorter-section">
+    <div class="page-home-about__container page-home__inner">
+        <h2 class="page-home__heading heading heading-level-2">1分でわかる！プロジェクト・タスク管理ツール「Backlog」とは？</h2>
+        <iframe class="page-home-about__video" src="https://www.youtube.com/embed/h-GkAOQKU40?si=2B1JuscAIp4w0YW8" title="YouTube動画プレイヤー" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <div class="page-home-about__description">
+            <p>Backlog（バックログ）は、プロジェクトごとに発生する課題などの情報をオンライン上で一元管理。他のツールにはないコミュニケーション機能でチームのコミュニケーションを促進し、プロジェクトを成功へと導きます。</p>
+            <p>使いやすいユーザインターフェースを追求しているので、これまでにプロジェクト管理ツールを使用したことがない方でも、すぐに簡単に使うことができます。</p>
+        </div>
+    </div>
+</section>
+    
+<div class="cta-buttons">
+    <div class="cta-buttons__inner">
+        <p class="cta-buttons__catch">チームで使うプロジェクト・タスク管理ツールならBacklog</p>
+        <div class="cta-buttons__buttons">
+            <a class="primary-action-button --plain"
+                        href="https://registerjp.backlog.com/trial/with-new-account/plan/51"target="_blank" data-tab-icon="false">
+                             <small class="primary-action-button__small-text">すべての機能がご利用可能</small>
+                             <span class="primary-action-button__main-text">30日間無料で試す</span>
+                <span class="visually-hidden">（新しいタブで開く）</span>                <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17">
+                    <path clip-rule="evenodd" d="M6.293 4.293a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414-1.414L9.586 9 6.293 5.707a1 1 0 0 1 0-1.414Z" />
+                </svg>
+            </a>
+            <a class="primary-action-button --outlined" href="/ja/document/backlog-three-documents/" target="_blank" rel="noopener" data-tab-icon="false">
+                <small class="primary-action-button__small-text">Backlogがよくわかる！</small>
+                <span class="primary-action-button__main-text">資料をダウンロードする</span>
+                <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M16.646 11.19a1.207 1.207 0 0 1 0 1.707l-3.793 3.793a1.207 1.207 0 0 1-1.706 0l-3.793-3.793A1.207 1.207 0 0 1 9.06 11.19L12 14.13l2.94-2.94a1.207 1.207 0 0 1 1.707 0Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 17.043c-.666 0-1.207-.54-1.207-1.207V1.664a1.207 1.207 0 1 1 2.414 0v14.172c0 .667-.54 1.207-1.207 1.207Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M22 16a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-5a1 1 0 1 1 2 0v4h18v-4a1 1 0 0 1 1-1Z" />
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>
+
+    <section class="page-home__section">
+        <div class="page-home__inner">
+            <h2 class="page-home__heading heading heading-level-2">プロジェクト・タスク管理に使えるBacklogの特徴</h2>
+            <div class="side-content">
+                <section class="side-content__section">
+                    <div class="side-content__group">
+                        <div class="side-content__content -margin-top-reset">
+                            <h3 class="side-content__subheading"><b class="side-content__emphasis">タスクの担当者・期日が明確</b>になり、確認漏れや遅延を防ぐ</h3>
+                            <div class="side-content__description">
+                                <p class="side-content__text">誰がどのタスクを進めているかを分かりやすく見える化。「あの案件どうなってたっけ？」を防いで業務が円滑に進む手助けをします。</p>
+                                <p class="side-content__text">さらにガントチャートを使えば、全体の進行状況も一目で確認可能。プロジェクトが順調に進んでいるかを判断し、必要に応じた計画変更や調整もしやすくなります。</p>
+                            </div>
+                        </div>
+                        <div class="side-content__image -shadow">
+                            <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/capture_ganttchart.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/capture_ganttchart.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/capture_ganttchart@2x.webp?202410 2x" alt="Backlogのガントチャート機能の例。プロジェクトの作業計画が図にまとめられている。" width="640" height="344" loading="lazy">
+                        </div>
+                    </div>
+                </section>
+                <section class="side-content__section">
+                    <div class="side-content__group -reverse">
+                        <div class="side-content__content -margin-top-reset">
+                            <h3 class="side-content__subheading"><b class="side-content__emphasis">直感的な操作性と親しみやすいデザインで</b>チーム全員が安心して使える</h3>
+                            <div class="side-content__description">
+                                <p class="side-content__text">シンプルな操作性と親しみやすいUI/UXにこだわっており、チームで働くすべての人が使えるように設計されています。</p>
+                                <p class="side-content__text">そのためエンジニアだけでなく、デザイナー、マーケター、バックオフィス、営業など、さまざまな職種・業界で使われています。</p>
+                            </div>
+                        </div>
+                        <div class="side-content__image">
+                            <video src="/app/themes/backlog-child/assets/video/home/friendly-user-interface.mp4" width="640" height="353" loop autoplay muted playsinline controls aria-label="Backlogを操作している様子をキャプチャした動画"></video>
+                        </div>
+                    </div>
+                </section>
+                <section class="side-content__section">
+                    <div class="side-content__group">
+                        <div class="side-content__content -margin-top-reset">
+                            <h3 class="side-content__subheading"><b class="side-content__emphasis">人数によって料金が変わらない</b>から、メンバーが増えても安心</h3>
+                            <div class="side-content__description">
+                                <p class="side-content__text">Backlogはスペース課金なので、利用ユーザー数によって料金が変わりません。</p>
+                                <p class="side-content__text">スタンダードプラン以上ならユーザー数は無制限なので、プロジェクトが進んでチームメンバーが増えたときも気軽にメンバーを追加いただけます。</p>
+                            </div>
+                        </div>
+                        <div class="side-content__image -shadow">
+                            <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/capture_users_list.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/capture_users_list.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/capture_users_list@2x.webp?202410 2x" alt="Backlogのユーザー設定管理画面。ユーザーの一覧が表示されている。" width="640" height="351" loading="lazy">
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </section>
+
+    
+<section class="functions-section">
+    <div class="functions-section__inner">
+        <h2 class="functions-section__heading">プロジェクト・タスク管理に活用できるBacklogの<span>機能一覧</span></h2>
+        <div class="functions-section__items">
+                            <a href="https://backlog.com/ja/function/ganttchart/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_gantt_chart.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">ガントチャート                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/kanban-board/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_kanban_board.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">カンバンボード                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/file-sharing/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_sharing_files.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">ファイル共有                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/wiki/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_wiki.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">Wiki                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/burndown-chart/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_burndown_chart.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">バーンダウンチャート                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/git-subversion/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_git.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">Git / Subversion                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/subtask/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_parent_child.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">親子課題                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/comment/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_comment.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">課題ごとのコメント                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/notification/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_bell.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">お知らせ機能                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/mobileapp/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_mobile.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">モバイルアプリ                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/accesscontrol/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_global.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">IPアドレス制限                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/twostep-verification/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_key.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">2段階認証                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                            <a href="https://backlog.com/ja/function/document/" class="functions-section__item">
+                    <img class="functions-section__icon" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/icon_document.svg" alt="" width="40" height="40" loading="lazy">
+                    <span class="functions-section__function-name">ドキュメント                                                    <span class="icon-beta -margin-left">BETA</span>
+                                            </span>
+                    <svg class="functions-section__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg>
+                </a>
+                    </div>
+
+        <div class="functions-section__buttons">
+            <a href="https://backlog.com/ja/function/" class="simple-link-button">機能一覧を見る<svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                </svg></a>
+        </div>
+    </div>
+</section>
+
+    
+<div class="cta-buttons">
+    <div class="cta-buttons__inner">
+        <p class="cta-buttons__catch">チームで使うプロジェクト・タスク管理ツールならBacklog</p>
+        <div class="cta-buttons__buttons">
+            <a class="primary-action-button --plain"
+                        href="https://registerjp.backlog.com/trial/with-new-account/plan/51"target="_blank" data-tab-icon="false">
+                             <small class="primary-action-button__small-text">すべての機能がご利用可能</small>
+                             <span class="primary-action-button__main-text">30日間無料で試す</span>
+                <span class="visually-hidden">（新しいタブで開く）</span>                <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17">
+                    <path clip-rule="evenodd" d="M6.293 4.293a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414-1.414L9.586 9 6.293 5.707a1 1 0 0 1 0-1.414Z" />
+                </svg>
+            </a>
+            <a class="primary-action-button --outlined" href="/ja/document/backlog-three-documents/" target="_blank" rel="noopener" data-tab-icon="false">
+                <small class="primary-action-button__small-text">Backlogがよくわかる！</small>
+                <span class="primary-action-button__main-text">資料をダウンロードする</span>
+                <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M16.646 11.19a1.207 1.207 0 0 1 0 1.707l-3.793 3.793a1.207 1.207 0 0 1-1.706 0l-3.793-3.793A1.207 1.207 0 0 1 9.06 11.19L12 14.13l2.94-2.94a1.207 1.207 0 0 1 1.707 0Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 17.043c-.666 0-1.207-.54-1.207-1.207V1.664a1.207 1.207 0 1 1 2.414 0v14.172c0 .667-.54 1.207-1.207 1.207Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M22 16a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-5a1 1 0 1 1 2 0v4h18v-4a1 1 0 0 1 1-1Z" />
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>
+
+    <section class="page-home__section">
+        <div class="page-home__inner">
+            <h2 class="page-home__heading heading heading-level-2">Backlogの導入事例</h2>
+            <ul class="customer-logos">
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyota_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyota_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyota_logo@2x.webp?20210 2x'
+                alt='トヨタ自動車株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/meti_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/meti_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/meti_logo@2x.webp?20210 2x'
+                alt='経済産業省'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/lions_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/lions_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/lions_logo@2x.webp?20210 2x'
+                alt='株式会社西武ライオンズ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kirin_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kirin_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kirin_logo@2x.webp?20210 2x'
+                alt='キリンホールディングス株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/itochu_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/itochu_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/itochu_logo@2x.webp?20210 2x'
+                alt='伊藤忠商事株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/mufg_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/mufg_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/mufg_logo@2x.webp?20210 2x'
+                alt='株式会社三菱UFJ銀行'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kddiwc_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kddiwc_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kddiwc_logo@2x.webp?20210 2x'
+                alt='株式会社KDDIウェブコミュニケーションズ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ffg_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ffg_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ffg_logo@2x.webp?20210 2x'
+                alt='株式会社ふくおかフィナンシャルグループ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/fujitsu_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/fujitsu_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/fujitsu_logo@2x.webp?20210 2x'
+                alt='富士通株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/starflyer_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/starflyer_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/starflyer_logo@2x.webp?20210 2x'
+                alt='株式会社スターフライヤー'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ntt_communications_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ntt_communications_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/ntt_communications_logo@2x.webp?20210 2x'
+                alt='NTTコミュニケーションズ株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/skymark_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/skymark_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/skymark_logo@2x.webp?20210 2x'
+                alt='スカイマーク株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kobe_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kobe_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kobe_logo@2x.webp?20210 2x'
+                alt='神戸市'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamato_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamato_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamato_logo@2x.webp?20210 2x'
+                alt='ヤマト運輸株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/nomura_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/nomura_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/nomura_logo@2x.webp?20210 2x'
+                alt='野村不動産ホールディングス株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toppan_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toppan_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toppan_logo@2x.webp?20210 2x'
+                alt='凸版印刷株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyo-keizai_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyo-keizai_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/toyo-keizai_logo@2x.webp?20210 2x'
+                alt='株式会社東洋経済新報社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kitagas_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kitagas_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/kitagas_logo@2x.webp?20210 2x'
+                alt='北海道ガス株式会社'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamap_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamap_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/yamap_logo@2x.webp?20210 2x'
+                alt='株式会社ヤマップ'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+            <li class="customer-logos__item">
+            <img
+                src='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/adx_logo.webp?202410'
+                srcset='/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/adx_logo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/customer-logo/adx_logo@2x.webp?20210 2x'
+                alt='株式会社ADX Consulting'
+                width="180"
+                height="64"
+                loading="lazy">
+        </li>
+    </ul>
+
+            <div class="page-home-cases">
+                <section class="page-home-cases__carousel js-home-cases-carousel splide" aria-label="導入事例の紹介スライダー">
+                    <div class="page-home-cases__carousel-container">
+                        <div class="splide__arrows">
+                            <button class="splide__arrow splide__arrow--prev">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M15.884 5.616a1.25 1.25 0 0 1 0 1.768L10.768 12.5l5.116 5.116a1.25 1.25 0 0 1-1.768 1.768l-6-6a1.25 1.25 0 0 1 0-1.768l6-6a1.25 1.25 0 0 1 1.768 0Z" />
+                                </svg>
+                            </button>
+                            <button class="splide__arrow splide__arrow--next">
+                                <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                                </svg>
+                            </button>
+                        </div>
+                        <div class="splide__track">
+                            <div class="splide__list">
+                                                                    <div class="splide__slide">
+                                        
+<a class="customers-card" href="https://backlog.com/ja/customers/case-study-kirinholdings/">
+    <div class="customers-card__thumbnail">
+        <img
+            class="customers-card__img"
+            src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/kirin_holdings.webp"
+            srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/kirin_holdings.webp 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/kirin_holdings@2x.webp 2x"
+            width="352" height="197"
+            alt="キリンホールディングス株式会社のロゴと社員の方が写っている写真" loading="lazy">
+    </div>
+    <div class="customers-card__content">
+        <p class="customers-card__company-name">キリンホールディングス株式会社様</p>
+        <p class="customers-card__article-title">全グループでBacklogを活用！キリンホールディングスが取り組む業務改善</p>
+        <div class="customers-card__meta-data">
+            <span class="customers-card__industry-type">業種：製造・メーカー</span>
+            <span class="customers-card__business-scale">事業規模：1,001名以上</span>
+        </div>
+    </div>
+</a>
+                                    </div>
+                                                                    <div class="splide__slide">
+                                        
+<a class="customers-card" href="https://backlog.com/ja/customers/case-study-meti/">
+    <div class="customers-card__thumbnail">
+        <img
+            class="customers-card__img"
+            src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/meti.webp"
+            srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/meti.webp 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/meti@2x.webp 2x"
+            width="352" height="197"
+            alt="経済産業省の庁舎を背景に、銘板と職員のみなさんが写っている写真" loading="lazy">
+    </div>
+    <div class="customers-card__content">
+        <p class="customers-card__company-name">経済産業省様</p>
+        <p class="customers-card__article-title">経済産業省が事務作業を3分の1に削減！行政手続オンライン化の一翼を担う</p>
+        <div class="customers-card__meta-data">
+            <span class="customers-card__industry-type">業種：行政・自治体</span>
+            <span class="customers-card__business-scale">事業規模：1,001名以上</span>
+        </div>
+    </div>
+</a>
+                                    </div>
+                                                                    <div class="splide__slide">
+                                        
+<a class="customers-card" href="https://backlog.com/ja/customers/case-study-ffg/">
+    <div class="customers-card__thumbnail">
+        <img
+            class="customers-card__img"
+            src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/ffg.webp"
+            srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/ffg.webp 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/ffg@2x.webp 2x"
+            width="352" height="197"
+            alt="株式会社ふくおかフィナンシャルグループのロゴと社員のみなさんが写っている写真" loading="lazy">
+    </div>
+    <div class="customers-card__content">
+        <p class="customers-card__company-name">株式会社ふくおかフィナンシャルグループ様</p>
+        <p class="customers-card__article-title">BacklogとNulab Passが金融DXの一助に～ふくおかフィナンシャルグループDX戦略の秘訣とは～</p>
+        <div class="customers-card__meta-data">
+            <span class="customers-card__industry-type">業種：金融・保険</span>
+            <span class="customers-card__business-scale">事業規模：1,001名以上</span>
+        </div>
+    </div>
+</a>
+                                    </div>
+                                                                    <div class="splide__slide">
+                                        
+<a class="customers-card" href="https://backlog.com/ja/customers/case-study-starflyer/">
+    <div class="customers-card__thumbnail">
+        <img
+            class="customers-card__img"
+            src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/starflyer.webp"
+            srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/starflyer.webp 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/starflyer@2x.webp 2x"
+            width="352" height="197"
+            alt="株式会社スターフライヤーの飛行機を背景に社員のみなさんが写っている写真" loading="lazy">
+    </div>
+    <div class="customers-card__content">
+        <p class="customers-card__company-name">株式会社スターフライヤー様</p>
+        <p class="customers-card__article-title">脱メールで業務効率化！スターフライヤーのパイロット・客室乗務員・整備士のBacklog活用術</p>
+        <div class="customers-card__meta-data">
+            <span class="customers-card__industry-type">業種：運輸・物流</span>
+            <span class="customers-card__business-scale">事業規模：301〜1,000名</span>
+        </div>
+    </div>
+</a>
+                                    </div>
+                                                                    <div class="splide__slide">
+                                        
+<a class="customers-card" href="https://backlog.com/ja/customers/case-study-teamlab/">
+    <div class="customers-card__thumbnail">
+        <img
+            class="customers-card__img"
+            src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/teamlab.webp"
+            srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/teamlab.webp 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/teamlab@2x.webp 2x"
+            width="352" height="197"
+            alt="チームラボのロゴと社員のみなさんが写っている写真" loading="lazy">
+    </div>
+    <div class="customers-card__content">
+        <p class="customers-card__company-name">チームラボ様</p>
+        <p class="customers-card__article-title">チームラボ流Backlog活用法！スピーディーで漏れのないプロジェクト管理を実現</p>
+        <div class="customers-card__meta-data">
+            <span class="customers-card__industry-type">業種：IT・通信</span>
+            <span class="customers-card__business-scale">事業規模：301〜1,000名</span>
+        </div>
+    </div>
+</a>
+                                    </div>
+                                                                    <div class="splide__slide">
+                                        
+<a class="customers-card" href="https://backlog.com/ja/customers/case-study-pacifico-2/">
+    <div class="customers-card__thumbnail">
+        <img
+            class="customers-card__img"
+            src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/pacifico.webp"
+            srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/pacifico.webp 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/customers/logo/pacifico@2x.webp 2x"
+            width="352" height="197"
+            alt="株式会社横浜国際平和会議場（パシフィコ横浜）のロゴと社員のみなさんが写っている写真" loading="lazy">
+    </div>
+    <div class="customers-card__content">
+        <p class="customers-card__company-name">株式会社横浜国際平和会議場（パシフィコ横浜）様</p>
+        <p class="customers-card__article-title">運用コストを40分の1に削減した、大規模WebリニューアルプロジェクトにBacklogを活用</p>
+        <div class="customers-card__meta-data">
+            <span class="customers-card__industry-type">業種：その他</span>
+            <span class="customers-card__business-scale">事業規模：11名〜100名</span>
+        </div>
+    </div>
+</a>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                    <ul class="splide__pagination"></ul>
+                </section>
+                <div class="page-home-cases__buttons">
+                    <a href="/ja/customers/" class="simple-link-button">
+                        <span>導入事例一覧をもっと見る</span> <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                        </svg></a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="pricing" class="page-home-pricing page-home__shorter-section">
+        <div class="page-home-pricing__container">
+            <h2 class="page-home__heading heading heading-level-2">Backlogの料金プラン</h2>
+            <p class="page-home__description">チームのタスク管理から大規模なプロジェクト管理まで、規模や用途に合わせてプランを選ぶことができます。</p>
+
+            <div class="page-home-pricing__contents">
+                <div class="page-home-pricing__box">
+                    <ul class="plans-feature">
+    <li class="plans-feature__item">
+        <figure class="plans-feature__figure">
+            <img
+                class="plans-feature__img"
+                src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/initial_cost.svg"
+                width="82"
+                height="82"
+                alt="">
+        </figure>
+        <p class="plans-feature__text">初期費用は<br>無料</p>
+    </li>
+    <li class="plans-feature__item">
+        <figure class="plans-feature__figure">
+            <img
+                class="plans-feature__img -rectangle"
+                src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/people.svg"
+                width="165"
+                height="72"
+                alt="">
+        </figure>
+        <p class="plans-feature__text -width-112">人数が増えても<br>料金はそのまま</p>
+    </li>
+    <li class="plans-feature__item">
+        <figure class="plans-feature__figure">
+            <img
+                class="plans-feature__img"
+                src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/calender.svg"
+                width="82"
+                height="82"
+                alt="">
+        </figure>
+        <p class="plans-feature__text">選べる<br>契約期間</p>
+    </li>
+</ul>
+                    
+<div class="plans-panel">
+    <fieldset class="plans-panel__toggle radio-toggle js-plan-switch__toggle">
+        <legend class="visually-hidden">支払い期間（選択に応じて料金が変わります）</legend>
+        <div class="radio-toggle__item">
+            <input type="radio" class="visually-hidden" name="payment-period" id="payment-period-monthly" value="monthly" checked>
+            <label for="payment-period-monthly" class="radio-toggle__label">月払い</label>
+        </div>
+        <div class="radio-toggle__item">
+            <input type="radio" class="visually-hidden" name="payment-period" id="payment-period-annual" value="annual">
+            <label for="payment-period-annual" class="radio-toggle__label">年払い<span>(5%オフ)</span></label>
+        </div>
+    </fieldset>
+
+    <div class="plans-panel__body plan-list">
+        <section class="plan-list__individual">
+            <h3 class="plan-list__heading">
+                <svg aria-hidden="true" fill="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 20">
+                    <path d="M9 11.515c-4.576 0-8.36 3.163-8.988 7.277-.101.662.45 1.208 1.12 1.208h15.737c.668 0 1.22-.546 1.119-1.208-.627-4.114-4.412-7.277-8.988-7.277ZM13.842 4.848A4.845 4.845 0 0 1 9 9.697a4.845 4.845 0 0 1-4.842-4.849A4.845 4.845 0 0 1 9 0a4.845 4.845 0 0 1 4.842 4.848Z" fill="#1b8561" />
+                </svg>
+                <span>個人利用向け</span>
+            </h3>
+
+                        <section class="plan-list__card plan-card ">
+    <h4 class="plan-card__heading">スターター</h4>
+    <p class="plan-card__catch">少人数のチームで利用</p>
+    <p class="plan-card__price">
+        <span class="plan-card__price-unit">￥</span>
+        <span class="plan-card__price-number js-plan-switch__price" data-price-monthly="2,970" data-price-annual="33,858">2,970</span>
+        <span class="plan-card__price-period js-plan-switch__period">/月</span>
+    </p>
+    <a class="plan-card__button button button--contained -primary -with-icon -shadow" href="https://registerjp.backlog.com/trial/with-new-account/plan/27" >30日間無料で試す<span class="visually-hidden">（スタータープラン）</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+        </svg>
+    </a>
+            <a class="plan-card__link js-mixpanel-button" href="https://registerjp.backlog.com/trial/with-new-account/plan/27?buy-now" data-plan-name="Starter">
+            すぐに契約を始める            <span class="visually-hidden">（スタータープラン）</span>
+        </a>
+    
+    <ul class="plan-card__list">
+                    <li class="plan-card__list-item">30ユーザー数</li>
+                    <li class="plan-card__list-item">5プロジェクト</li>
+                    <li class="plan-card__list-item">ストレージ（容量）：1GB</li>
+                    <li class="plan-card__list-item">カンバンボード</li>
+                    <li class="plan-card__list-item">ドキュメント</li>
+                    <li class="plan-card__list-item">2段階認証</li>
+            </ul>
+    </section>
+                    </section>
+
+        <section class="plan-list__team">
+            <h3 class="plan-list__heading -team">
+                <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 17">
+                    <path d="M4.444 6.857c-2.26 0-4.128 2.13-4.438 4.9-.05.447.222.814.552.814H8.33c.33 0 .603-.367.553-.813-.31-2.77-2.18-4.9-4.439-4.9ZM7.357 3c0 1.657-1.315 3-2.938 3-1.622 0-2.937-1.343-2.937-3S2.797 0 4.42 0c1.623 0 2.938 1.343 2.938 3ZM15.555 6.857c-2.26 0-4.128 2.13-4.438 4.9-.05.447.222.814.552.814h7.772c.33 0 .603-.367.553-.813-.31-2.77-2.18-4.9-4.439-4.9ZM18.352 3c0 1.657-1.315 3-2.937 3-1.622 0-2.937-1.343-2.937-3s1.315-3 2.937-3c1.622 0 2.937 1.343 2.937 3Z" fill="#319B77" />
+                    <path d="M9.999 9.786c-2.606 0-4.609 2.425-4.936 5.345a1.34 1.34 0 0 0 .221.916c.176.251.467.453.83.453h7.77c.363 0 .654-.202.83-.453a1.34 1.34 0 0 0 .22-.916c-.326-2.92-2.329-5.345-4.935-5.345ZM9.916 9.776c1.908 0 3.437-1.577 3.437-3.5s-1.53-3.5-3.437-3.5c-1.909 0-3.437 1.577-3.437 3.5s1.528 3.5 3.437 3.5Z" fill="#319B77" stroke="#EDFBF6" stroke-linejoin="round" />
+                </svg>
+                <span>組織・チーム利用向け</span>
+            </h3>
+                        <section class="plan-list__card plan-card ">
+    <h4 class="plan-card__heading">スタンダード</h4>
+    <p class="plan-card__catch">主要な機能で始める</p>
+    <p class="plan-card__price">
+        <span class="plan-card__price-unit">￥</span>
+        <span class="plan-card__price-number js-plan-switch__price" data-price-monthly="17,600" data-price-annual="200,640">17,600</span>
+        <span class="plan-card__price-period js-plan-switch__period">/月</span>
+    </p>
+    <a class="plan-card__button button button--contained -primary -with-icon -shadow" href="https://registerjp.backlog.com/trial/with-new-account/plan/41" >30日間無料で試す<span class="visually-hidden">（スタンダードプラン）</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+        </svg>
+    </a>
+            <a class="plan-card__link js-mixpanel-button" href="https://registerjp.backlog.com/trial/with-new-account/plan/41?buy-now" data-plan-name="Standard">
+            すぐに契約を始める            <span class="visually-hidden">（スタンダードプラン）</span>
+        </a>
+    
+    <ul class="plan-card__list">
+                    <li class="plan-card__list-item">無制限のユーザー数 ※</li>
+                    <li class="plan-card__list-item">100プロジェクト</li>
+                    <li class="plan-card__list-item">ストレージ（容量）：30GB</li>
+                    <li class="plan-card__list-item">ガントチャート</li>
+                    <li class="plan-card__list-item">カンバンボード</li>
+                    <li class="plan-card__list-item">ドキュメント</li>
+                    <li class="plan-card__list-item">2段階認証</li>
+                    <li class="plan-card__list-item">50個までのIPアドレス制限</li>
+            </ul>
+            <p class="plan-card__note">※ 安定した運用を維持するため、最大10,000人までを推奨</p>
+    </section>
+                        <section class="plan-list__card plan-card -highlight">
+    <h4 class="plan-card__heading">プレミアム</h4>
+    <p class="plan-card__catch">全機能をフルに</p>
+    <p class="plan-card__price">
+        <span class="plan-card__price-unit">￥</span>
+        <span class="plan-card__price-number js-plan-switch__price" data-price-monthly="29,700" data-price-annual="338,580">29,700</span>
+        <span class="plan-card__price-period js-plan-switch__period">/月</span>
+    </p>
+    <a class="plan-card__button button button--contained -primary -with-icon -shadow" href="https://registerjp.backlog.com/trial/with-new-account/plan/51" >30日間無料で試す<span class="visually-hidden">（プレミアムプラン）</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+        </svg>
+    </a>
+            <a class="plan-card__link js-mixpanel-button" href="https://registerjp.backlog.com/trial/with-new-account/plan/51?buy-now" data-plan-name="Premium">
+            すぐに契約を始める            <span class="visually-hidden">（プレミアムプラン）</span>
+        </a>
+    
+    <ul class="plan-card__list">
+                    <li class="plan-card__list-item">無制限のユーザー数 ※</li>
+                    <li class="plan-card__list-item">無制限のプロジェクト数</li>
+                    <li class="plan-card__list-item">ストレージ（容量）：100GB</li>
+                    <li class="plan-card__list-item">ガントチャート</li>
+                    <li class="plan-card__list-item">カンバンボード</li>
+                    <li class="plan-card__list-item">ドキュメント</li>
+                    <li class="plan-card__list-item">自由に属性をカスタマイズ</li>
+                    <li class="plan-card__list-item">2段階認証の必須化</li>
+                    <li class="plan-card__list-item">100個までのIPアドレス制限</li>
+            </ul>
+            <p class="plan-card__note">※ 安定した運用を維持するため、最大10,000人までを推奨</p>
+    </section>
+                        <section class="plan-list__card plan-card ">
+    <h4 class="plan-card__heading">プラチナ</h4>
+    <p class="plan-card__catch">高度なセキュリティ</p>
+    <p class="plan-card__price">
+        <span class="plan-card__price-unit">￥</span>
+        <span class="plan-card__price-number js-plan-switch__price" data-price-monthly="82,500" data-price-annual="940,500">82,500</span>
+        <span class="plan-card__price-period js-plan-switch__period">/月</span>
+    </p>
+    <a class="plan-card__button button button--contained -primary -with-icon -shadow" href="https://registerjp.backlog.com/trial/with-new-account/plan/81" >30日間無料で試す<span class="visually-hidden">（プラチナプラン）</span><svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+        </svg>
+    </a>
+            <a class="plan-card__link js-mixpanel-button" href="https://registerjp.backlog.com/trial/with-new-account/plan/81?buy-now" data-plan-name="Platinum">
+            すぐに契約を始める            <span class="visually-hidden">（プラチナプラン）</span>
+        </a>
+    
+    <ul class="plan-card__list">
+                    <li class="plan-card__list-item">無制限のユーザー数 ※</li>
+                    <li class="plan-card__list-item">無制限のプロジェクト数</li>
+                    <li class="plan-card__list-item">ストレージ（容量）：300GB</li>
+                    <li class="plan-card__list-item">ガントチャート</li>
+                    <li class="plan-card__list-item">カンバンボード</li>
+                    <li class="plan-card__list-item">ドキュメント</li>
+                    <li class="plan-card__list-item">自由に属性をカスタマイズ</li>
+                    <li class="plan-card__list-item">2段階認証の必須化</li>
+                    <li class="plan-card__list-item">IPアドレス制限の上限数なし</li>
+                    <li class="plan-card__list-item">アクセスログの提供</li>
+            </ul>
+            <p class="plan-card__note">※ 安定した運用を維持するため、最大10,000人までを推奨</p>
+    </section>
+                    </section>
+    </div>
+
+    <ul class="plans-panel__annotations">
+        <li class="plans-panel__annotation">価格は全て税込表示です。</li>
+        <li class="plans-panel__annotation">お客様のサーバにインストールしてご利用いただけるオンプレミスの<a href="/ja/enterprise/" target="_blank">Backlogエンタープライズプラン</a>もございます。</li>
+    </ul>
+</div>
+
+                    <div class="page-home-pricing__buttons">
+                        <a href="/ja/pricing/" class="simple-link-button">料金プランを見る <svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                                <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                            </svg></a>
+                    </div>
+                </div>
+
+                <section class="page-home-pricing__box">
+                    <h3 class="heading heading-level-3 -center">導入までの流れ</h3>
+                    <div class="page-home-pricing__flow">
+                        <ol class="introduction-flow">
+    <li class="introduction-flow__item">
+        <p class="introduction-flow__label">STEP 1</p>
+        <p class="introduction-flow__heading"><span class="introduction-flow__group">無料トライアルへ</span><span class="introduction-flow__group">お申し込み</span></p>
+        <p class="introduction-flow__text">トライアル中は選択したプランの全機能（アクセスログ、セキュリティチェックシートの提供を除く）がご利用いただけます。</p>
+    </li>
+    <li class="introduction-flow__item">
+        <p class="introduction-flow__label">STEP 2</p>
+        <p class="introduction-flow__heading">チーム内でお試し利用</p>
+        <p class="introduction-flow__text">初めての方向けの無料説明会などサポートも充実しています。</p>
+    </li>
+    <li class="introduction-flow__item">
+        <p class="introduction-flow__label">STEP 3</p>
+        <p class="introduction-flow__heading">ご契約</p>
+        <p class="introduction-flow__text">無料トライアル中、もしくはトライアル終了後にプランの確定と支払方法の選択をしていただきます。</p>
+    </li>
+    <li class="introduction-flow__item">
+        <p class="introduction-flow__label">STEP 4</p>
+        <p class="introduction-flow__heading">正式導入完了</p>
+        <p class="introduction-flow__text">いよいよ正式導入へ。無料トライアル中のデータは引き続きご利用いただけますのでご安心ください。</p>
+    </li>
+</ol>
+                    </div>
+                </section>
+
+                <div class="page-home-pricing__cta">
+                    <a class="primary-action-button --plain" href="https://registerjp.backlog.com/trial/with-new-account/plan/51" target="_blank" data-tab-icon="false">
+                        <small class="primary-action-button__small-text">すべての機能がご利用可能</small>
+                        <span class="primary-action-button__main-text">30日間無料で試す</span>
+                        <span class="visually-hidden">（新しいタブで開く）</span>
+                        <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17">
+                            <path clip-rule="evenodd" d="M6.293 4.293a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414-1.414L9.586 9 6.293 5.707a1 1 0 0 1 0-1.414Z" />
+                        </svg>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="page-home__section">
+        <div class="page-home__inner">
+            <h2 class="page-home__heading heading heading-level-2">Backlogの導入や定着をサポートするコンテンツも豊富</h2>
+            <div class="page-home-supports">
+                <section class="supports-card">
+                    <p class="supports-card__catch">導入を検討している方</p>
+                    <h3 class="supports-card__heading">無料セミナー＆説明会</h3>
+                    <img class="supports-card__image" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/seminar.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/seminar.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/seminar@2x.webp?202410 2x" width="576" height="208" alt="" loading="lazy">
+                    <a href="/ja/seminar/" class="supports-card__link">開催日程を確認する<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17">
+                            <path clip-rule="evenodd" d="M6.293 4.293a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414-1.414L9.586 9 6.293 5.707a1 1 0 0 1 0-1.414Z" />
+                        </svg></a>
+                </section>
+                <section class="supports-card">
+                    <p class="supports-card__catch">Backlogユーザーの学びと交流の場</p>
+                    <h3 class="supports-card__heading">Backlog Community Lab</h3>
+                    <img class="supports-card__image" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/b-lab.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/b-lab.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/b-lab@2x.webp?202410 2x" width="576" height="208" alt="bラポ" loading="lazy">
+                    <a href="https://backlog-community-lab.backlog.com/" target="_blank" class="supports-card__link">Backlog Community Labを見る</a>
+                </section>
+                <section class="supports-wide-card">
+                    <p class="supports-wide-card__catch">Backlogのユーザーコミュニティ</p>
+                    <h3 class="supports-wide-card__logo">
+                        <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/jbug_logo_for_wide_card.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/jbug_logo_for_wide_card.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/supports-card/jbug_logo_for_wide_card@2x.webp?202410 2x" width="420" height="208" alt="JBUG Japan Backlog User Group" loading="lazy">
+                    </h3>
+                    <p class="supports-wide-card__body">JBUG（Japan Backlog User Group）は、プロジェクト・タスク管理ツールBacklogのユーザーコミュニティです。実体験から得た知見やノウハウをシェアし、共に「働くを楽しくする」を実現したいと考えています。</p>
+                    <a href="https://jbuginfo.backlog.com/" target="_blank" class="supports-wide-card__link">JBUGサイトを見る</a>
+                </section>
+            </div>
+        </div>
+    </section>
+
+    <section class="page-home-news page-home__shorter-section">
+        <div class="page-home-news__container page-home__inner">
+            <h2 class="page-home__heading heading heading-level-2">お知らせ</h2>
+            
+<div class="page-home-news__list recent-news">
+                        <article class="recent-news__article">
+        <h3 class="recent-news__title">
+            <a href="https://backlog.com/ja/blog/nulab-conference-2025-announcement-7/" class="recent-news__link">
+                【まだ間に合う！】10/17(金) 開催「Nulab Conference 2025」参加申込受付中            </a>
+        </h3>
+        <time class="recent-news__date" datetime="2025-10-10T18:00:51">
+            2025年10月10日        </time>
+        <div class="recent-news__category">
+            イベント        </div>
+        <svg class="recent-news__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z"></path>
+        </svg>
+    </article>
+                        <article class="recent-news__article">
+        <h3 class="recent-news__title">
+            <a href="https://backlog.com/ja/blog/backlog-update-gfm-2510/" class="recent-news__link">
+                GitHub Flavored MarkdownをMarkdownとして正式リリースします            </a>
+        </h3>
+        <time class="recent-news__date" datetime="2025-10-09T09:00:33">
+            2025年10月9日        </time>
+        <div class="recent-news__category">
+            リリース情報        </div>
+        <svg class="recent-news__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z"></path>
+        </svg>
+    </article>
+                        <article class="recent-news__article">
+        <h3 class="recent-news__title">
+            <a href="https://backlog.com/ja/blog/nulab-conference-2025-announcement-6/" class="recent-news__link">
+                【Nulab Conference 2025】Backlog AI 新機能発表！Backlogが描くプロジェクト・タスク管理の未来            </a>
+        </h3>
+        <time class="recent-news__date" datetime="2025-10-07T12:25:41">
+            2025年10月7日        </time>
+        <div class="recent-news__category">
+            イベント        </div>
+        <svg class="recent-news__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z"></path>
+        </svg>
+    </article>
+                        <article class="recent-news__article">
+        <h3 class="recent-news__title">
+            <a href="https://backlog.com/ja/blog/nulab-conference-2025-announcement-5/" class="recent-news__link">
+                【Nulab Conference 2025】チームワークマネジメントを深堀りする、注目の追加講演情報をお知らせ！            </a>
+        </h3>
+        <time class="recent-news__date" datetime="2025-10-07T08:36:05">
+            2025年10月7日        </time>
+        <div class="recent-news__category">
+            イベント        </div>
+        <svg class="recent-news__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z"></path>
+        </svg>
+    </article>
+                        <article class="recent-news__article">
+        <h3 class="recent-news__title">
+            <a href="https://backlog.com/ja/blog/guidebook-2025-on-sale/" class="recent-news__link">
+                Backlog公式ガイドブック『ゼロからはじめるBacklog活用大全』本日発売！            </a>
+        </h3>
+        <time class="recent-news__date" datetime="2025-10-02T11:00:20">
+            2025年10月2日        </time>
+        <div class="recent-news__category">
+            お知らせ        </div>
+        <svg class="recent-news__arrow" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" aria-hidden="true">
+            <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z"></path>
+        </svg>
+    </article>
+    </div>
+            <div class="page-home-news__buttons">
+                <a href="/ja/blog/" class="simple-link-button">
+                    <span>お知らせをもっと見る</span><svg width="20" height="20" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                        <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M9.116 5.616a1.25 1.25 0 0 1 1.768 0l6 6a1.25 1.25 0 0 1 0 1.768l-6 6a1.25 1.25 0 0 1-1.768-1.768l5.116-5.116-5.116-5.116a1.25 1.25 0 0 1 0-1.768Z" />
+                    </svg></a>
+            </div>
+        </div>
+    </section>
+
+    
+<div class="cta-buttons">
+    <div class="cta-buttons__inner">
+        <p class="cta-buttons__catch">チームで使うプロジェクト・タスク管理ツールならBacklog</p>
+        <div class="cta-buttons__buttons">
+            <a class="primary-action-button --plain"
+                        href="https://registerjp.backlog.com/trial/with-new-account/plan/51"target="_blank" data-tab-icon="false">
+                             <small class="primary-action-button__small-text">すべての機能がご利用可能</small>
+                             <span class="primary-action-button__main-text">30日間無料で試す</span>
+                <span class="visually-hidden">（新しいタブで開く）</span>                <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 17">
+                    <path clip-rule="evenodd" d="M6.293 4.293a1 1 0 0 1 1.414 0l4 4a1 1 0 0 1 0 1.414l-4 4a1 1 0 0 1-1.414-1.414L9.586 9 6.293 5.707a1 1 0 0 1 0-1.414Z" />
+                </svg>
+            </a>
+            <a class="primary-action-button --outlined" href="/ja/document/backlog-three-documents/" target="_blank" rel="noopener" data-tab-icon="false">
+                <small class="primary-action-button__small-text">Backlogがよくわかる！</small>
+                <span class="primary-action-button__main-text">資料をダウンロードする</span>
+                <svg class="primary-action-button__icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M16.646 11.19a1.207 1.207 0 0 1 0 1.707l-3.793 3.793a1.207 1.207 0 0 1-1.706 0l-3.793-3.793A1.207 1.207 0 0 1 9.06 11.19L12 14.13l2.94-2.94a1.207 1.207 0 0 1 1.707 0Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12 17.043c-.666 0-1.207-.54-1.207-1.207V1.664a1.207 1.207 0 1 1 2.414 0v14.172c0 .667-.54 1.207-1.207 1.207Z" />
+                    <path fill-rule="evenodd" clip-rule="evenodd" d="M22 16a1 1 0 0 1 1 1v5a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-5a1 1 0 1 1 2 0v4h18v-4a1 1 0 0 1 1-1Z" />
+                </svg>
+            </a>
+        </div>
+    </div>
+</div>
+
+    <section class="page-home__section">
+        <div class="page-home__inner">
+            <h2 class="page-home__heading heading heading-level-2">Backlog関連サービスの<span>ご紹介</span></h2>
+            <p class="page-home__description">Backlogをもっと使いやすくする関連サービスをご用意しています。</p>
+
+            <div class="page-home-related-services">
+                <section class="home-services-card">
+                    <h3 class="home-services-card__logo">
+                        <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/cacoo_logo.svg?202410" width="288" height="70" alt="Cacoo by Nulab" loading="lazy">
+                    </h3>
+                    <img class="home-services-card__image" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/cacoo.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/cacoo.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/cacoo@2x.webp?202410 2x" width="576" height="328" alt="" loading="lazy">
+                    <p class="home-services-card__description">かんたんにキレイに図が描ける<br aria-hidden="true">ビジュアルコラボレーションツール​</p>
+                    <a href="https://cacoo.com/ja/home" target="_blank" class="home-services-card__link -cacoo" data-tab-icon="false">
+                        <span>Cacooを見る</span>
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="（新しいタブで開く）">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M1.91663 4.00008C1.91663 2.84949 2.84937 1.91675 3.99996 1.91675H5.99996C6.41417 1.91675 6.74996 2.25253 6.74996 2.66675C6.74996 3.08096 6.41417 3.41675 5.99996 3.41675H3.99996C3.67779 3.41675 3.41663 3.67792 3.41663 4.00008V12.0001C3.41663 12.3222 3.67779 12.5834 3.99996 12.5834H12C12.3221 12.5834 12.5833 12.3222 12.5833 12.0001V10.0001C12.5833 9.58587 12.9191 9.25008 13.3333 9.25008C13.7475 9.25008 14.0833 9.58587 14.0833 10.0001V12.0001C14.0833 13.1507 13.1506 14.0834 12 14.0834H3.99996C2.84937 14.0834 1.91663 13.1507 1.91663 12.0001V4.00008Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.25 2.66675C9.25 2.25253 9.58579 1.91675 10 1.91675H13.3333C13.7475 1.91675 14.0833 2.25253 14.0833 2.66675V6.00008C14.0833 6.4143 13.7475 6.75008 13.3333 6.75008C12.9191 6.75008 12.5833 6.4143 12.5833 6.00008V3.41675H10C9.58579 3.41675 9.25 3.08096 9.25 2.66675Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8636 2.13642C14.1565 2.42931 14.1565 2.90418 13.8636 3.19708L7.19696 9.86374C6.90406 10.1566 6.42919 10.1566 6.1363 9.86374C5.8434 9.57085 5.8434 9.09598 6.1363 8.80308L12.803 2.13642C13.0959 1.84352 13.5707 1.84352 13.8636 2.13642Z" fill="currentColor" />
+                        </svg>
+                    </a>
+                </section>
+                <section class="home-services-card">
+                    <h3 class="home-services-card__logo">
+                        <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/nulabpass/nulabpass_logo.svg?202501" width="288" height="70" alt="Nulab Pass" loading="lazy">
+                    </h3>
+                    <img class="home-services-card__image" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/nulabpass.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/nulabpass.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/nulabpass@2x.webp?202410 2x" width="576" height="328" alt="" loading="lazy">
+                    <p class="home-services-card__description">ヌーラボサービスのアカウント管理をもっと安全に簡単に​</p>
+                    <a href="https://nulab.com/ja/nulabpass/" target="_blank" class="home-services-card__link -nulabpass" data-tab-icon="false">
+                        <span>Nulab Passを見る</span>
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="（新しいタブで開く）">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M1.91663 4.00008C1.91663 2.84949 2.84937 1.91675 3.99996 1.91675H5.99996C6.41417 1.91675 6.74996 2.25253 6.74996 2.66675C6.74996 3.08096 6.41417 3.41675 5.99996 3.41675H3.99996C3.67779 3.41675 3.41663 3.67792 3.41663 4.00008V12.0001C3.41663 12.3222 3.67779 12.5834 3.99996 12.5834H12C12.3221 12.5834 12.5833 12.3222 12.5833 12.0001V10.0001C12.5833 9.58587 12.9191 9.25008 13.3333 9.25008C13.7475 9.25008 14.0833 9.58587 14.0833 10.0001V12.0001C14.0833 13.1507 13.1506 14.0834 12 14.0834H3.99996C2.84937 14.0834 1.91663 13.1507 1.91663 12.0001V4.00008Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.25 2.66675C9.25 2.25253 9.58579 1.91675 10 1.91675H13.3333C13.7475 1.91675 14.0833 2.25253 14.0833 2.66675V6.00008C14.0833 6.4143 13.7475 6.75008 13.3333 6.75008C12.9191 6.75008 12.5833 6.4143 12.5833 6.00008V3.41675H10C9.58579 3.41675 9.25 3.08096 9.25 2.66675Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8636 2.13642C14.1565 2.42931 14.1565 2.90418 13.8636 3.19708L7.19696 9.86374C6.90406 10.1566 6.42919 10.1566 6.1363 9.86374C5.8434 9.57085 5.8434 9.09598 6.1363 8.80308L12.803 2.13642C13.0959 1.84352 13.5707 1.84352 13.8636 2.13642Z" fill="currentColor" />
+                        </svg>
+                    </a>
+                </section>
+                <section class="home-services-card">
+                    <h3 class="home-services-card__logo">
+                        <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/nulab-partner_logo.svg?202410" width="288" height="70" alt="Nulab 公式パートナー" loading="lazy">
+                    </h3>
+                    <img class="home-services-card__image" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/nulab-partner.webp?202410" srcset="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/nulab-partner.webp?202410 1x, /app/themes/backlog-child/assets/img/style-guide-library-japanese/home/nulab-partner@2x.webp?202410 2x" width="576" height="328" alt="" loading="lazy">
+                    <p class="home-services-card__description">お客様のご要望に合わせ、<br aria-hidden="true">お客様と共に課題解決を目指します</p>
+                    <a href="https://nulab.com/ja/partner/" target="_blank" class="home-services-card__link -partner" data-tab-icon="false">
+                        <span>公式パートナーを見る</span>
+                        <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="（新しいタブで開く）">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M1.91663 4.00008C1.91663 2.84949 2.84937 1.91675 3.99996 1.91675H5.99996C6.41417 1.91675 6.74996 2.25253 6.74996 2.66675C6.74996 3.08096 6.41417 3.41675 5.99996 3.41675H3.99996C3.67779 3.41675 3.41663 3.67792 3.41663 4.00008V12.0001C3.41663 12.3222 3.67779 12.5834 3.99996 12.5834H12C12.3221 12.5834 12.5833 12.3222 12.5833 12.0001V10.0001C12.5833 9.58587 12.9191 9.25008 13.3333 9.25008C13.7475 9.25008 14.0833 9.58587 14.0833 10.0001V12.0001C14.0833 13.1507 13.1506 14.0834 12 14.0834H3.99996C2.84937 14.0834 1.91663 13.1507 1.91663 12.0001V4.00008Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.25 2.66675C9.25 2.25253 9.58579 1.91675 10 1.91675H13.3333C13.7475 1.91675 14.0833 2.25253 14.0833 2.66675V6.00008C14.0833 6.4143 13.7475 6.75008 13.3333 6.75008C12.9191 6.75008 12.5833 6.4143 12.5833 6.00008V3.41675H10C9.58579 3.41675 9.25 3.08096 9.25 2.66675Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8636 2.13642C14.1565 2.42931 14.1565 2.90418 13.8636 3.19708L7.19696 9.86374C6.90406 10.1566 6.42919 10.1566 6.1363 9.86374C5.8434 9.57085 5.8434 9.09598 6.1363 8.80308L12.803 2.13642C13.0959 1.84352 13.5707 1.84352 13.8636 2.13642Z" fill="currentColor" />
+                        </svg>
+                    </a>
+                </section>
+            </div>
+        </div>
+    </section>
+
+    <section class="page-home-company page-home__shorter-section">
+    <div class="page-home__inner">
+        <div class="page-home-company__box">
+            <h2 class="page-home__heading heading heading-level-2">企業情報</h2>
+            <dl class="company-outline">
+                <div class="company-outline__item">
+                    <dt class="company-outline__term">会社名</dt>
+                    <dd class="company-outline__description">株式会社ヌーラボ（英文：Nulab Inc.）</dd>
+                </div>
+                <div class="company-outline__item">
+                    <dt class="company-outline__term">設立</dt>
+                    <dd class="company-outline__description">2004年3月29日</dd>
+                </div>
+                <div class="company-outline__item">
+                    <dt class="company-outline__term">資本金</dt>
+                    <dd class="company-outline__description">6億1,700万円（2023年3月31日時点）</dd>
+                </div>
+                <div class="company-outline__item">
+                    <dt class="company-outline__term">所在地</dt>
+                    <dd class="company-outline__description">
+                        <ul class="company-outline__items">
+                            <li>
+                                <p>福岡本社</p>
+                                <p>〒810-0041 福岡県福岡市中央区大名一丁目8-6 HCC BLD. 2・6・7F</p>
+                            </li>
+                            <li>
+                                <p>東京事務所</p>
+                                <p>〒105-0012 東京都港区芝大門2-1-16 ＋SHIFT SHIBADAIMON B1F</p>
+                            </li>
+                            <li>
+                                <p>京都事務所</p>
+                                <p>〒600-8364 京都府京都市下京区突抜2-360 いぐちビル</p>
+                            </li>
+                        </ul>
+                    </dd>
+                </div>
+                <div class="company-outline__item">
+                    <dt class="company-outline__term">海外子会社</dt>
+                    <dd class="company-outline__description">
+                        <ul>
+                            <li>Nulab USA, Inc.（ニューヨーク）</li>
+                            <li>Nulab Netherlands B.V.（アムステルダム）</li>
+                        </ul>
+                    </dd>
+                </div>
+                <div class="company-outline__item">
+                    <dt class="company-outline__term">上場証券取引所</dt>
+                    <dd class="company-outline__description">東京証券取引所 グロース市場（証券コード：5033）</dd>
+                </div>
+            </dl>
+                            <div class="page-home-company__buttons">
+                    <a href="https://nulab.com/ja/" class="simple-link-button" target="_blank" rel="noopener noreferrer" data-tab-icon="false">コーポレートサイトを見る <svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="（新しいタブで開く）">
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M1.91663 4.00008C1.91663 2.84949 2.84937 1.91675 3.99996 1.91675H5.99996C6.41417 1.91675 6.74996 2.25253 6.74996 2.66675C6.74996 3.08096 6.41417 3.41675 5.99996 3.41675H3.99996C3.67779 3.41675 3.41663 3.67792 3.41663 4.00008V12.0001C3.41663 12.3222 3.67779 12.5834 3.99996 12.5834H12C12.3221 12.5834 12.5833 12.3222 12.5833 12.0001V10.0001C12.5833 9.58587 12.9191 9.25008 13.3333 9.25008C13.7475 9.25008 14.0833 9.58587 14.0833 10.0001V12.0001C14.0833 13.1507 13.1506 14.0834 12 14.0834H3.99996C2.84937 14.0834 1.91663 13.1507 1.91663 12.0001V4.00008Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M9.25 2.66675C9.25 2.25253 9.58579 1.91675 10 1.91675H13.3333C13.7475 1.91675 14.0833 2.25253 14.0833 2.66675V6.00008C14.0833 6.4143 13.7475 6.75008 13.3333 6.75008C12.9191 6.75008 12.5833 6.4143 12.5833 6.00008V3.41675H10C9.58579 3.41675 9.25 3.08096 9.25 2.66675Z" fill="currentColor" />
+                            <path fill-rule="evenodd" clip-rule="evenodd" d="M13.8636 2.13642C14.1565 2.42931 14.1565 2.90418 13.8636 3.19708L7.19696 9.86374C6.90406 10.1566 6.42919 10.1566 6.1363 9.86374C5.8434 9.57085 5.8434 9.09598 6.1363 8.80308L12.803 2.13642C13.0959 1.84352 13.5707 1.84352 13.8636 2.13642Z" fill="currentColor" />
+                        </svg></a>
+                </div>
+                    </div>
+    </div>
+</section>
+
+</main>
+
+
+
+<footer class="footer">
+    <div class="footer__body">
+        <div class="footer__inner">
+            <ul class="footer__nav">
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">製品情報<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/security/">セキュリティ</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/integrations/">外部サービス連携</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/developer/">開発者向け</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://status.nulab.com/" target="_blank">Backlog運用状況</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">機能<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/function/">機能一覧</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/function/ganttchart/">ガントチャート</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/function/document/">ドキュメント</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/function/kanban-board/">カンバンボード</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/function/burndown-chart/">バーンダウンチャート</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/function/file-sharing/">ファイル共有</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/function/git-subversion/">Git / Subversion</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">活用シーン<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/scene/">活用シーン一覧</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/scene/project-management/">プロジェクト管理</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/scene/task-management/">タスク管理</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/scene/team-collaboration/">コラボレーション</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/scene/version-control/">バージョン管理</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/scene/internal-wiki/">社内wiki</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/scene/manual-management/">マニュアル管理・共有</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">料金<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/pricing/">プランと料金</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/pricing#estimate">見積書発行</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/enterprise/" target="_blank">エンタープライズ</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/npo/" target="_blank">NPO法人向け</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/education/" target="_blank">学生向け</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">お役立ち情報<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/document/">お役立ち資料</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/customers/">導入事例</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/blog/">ブログ</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">導入サポート<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/seminar/">セミナー</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://nulab.com/ja/partner/join/" target="_blank">公式パートナー</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">運用サポート<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://support-ja.backlog.com/hc/ja" target="_blank" rel="nofollow">ヘルプセンター</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog.com/ja/contact/">お問い合わせ</a>
+                        </li>
+                    </ul>
+                </li>
+                <li class="footer__category">
+                    <div class="footer__button js-footer-accordion-trigger">コミュニティ<span class="footer__icon"><img class="footer__icon-arrow" src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/common/arrow-down-black.svg" alt="" width="14" height="8" loading="lazy"></span></div>
+                    <ul class="footer__items js-footer-accordion-content">
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://backlog-community-lab.backlog.com/" target="_blank">bラボ</a>
+                        </li>
+                        <li class="footer__item">
+                            <a class="footer__link" href="https://jbuginfo.backlog.com/" target="_blank">JBUG</a>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+            <div class="footer__information">
+                <div class="footer__image">
+                    <img class="footer__logo" src="/app/themes/backlog-child/assets/img/common/logo/logo_backlog.svg" alt="Backlogのロゴ" width="114" height="40" loading="lazy">
+                </div>
+                <div class="footer__company">
+                    <p class="footer__name">株式会社ヌーラボ</p>
+                    <p class="footer__postal-code">〒810-0041</p>
+                    <p class="footer__address">福岡県福岡市中央区大名1丁目8-6 HCC BLD. 2・6・7F</p>
+                </div>
+                <ul class="footer__socials">
+                    <li class="footer__socials-button">
+                        <a class="footer__socials-icon gtm-social-footer-icon--facebook" href="https://www.facebook.com/Backlogapp/" target="_blank" rel="noreferrer" data-tab-icon="false">
+                            <img src="/app/themes/backlog-child/assets/img/common/footer/icon_facebook.svg" alt="Facebookで閲覧する" width="24" height="24" loading="lazy">
+                        </a>
+                    </li>
+                    <li class="footer__socials-button">
+                        <a class="footer__socials-icon gtm-social-footer-icon--twitter" href="https://twitter.com/backlogapp" target="_blank" rel="noreferrer" data-tab-icon="false">
+                            <img src="/app/themes/backlog-child/assets/img/common/footer/icon_x.svg" alt="X（旧Twitter）で閲覧する" width="24" height="24" loading="lazy">
+                        </a>
+                    </li>
+                    <li class="footer__socials-button">
+                        <a class="footer__socials-icon gtm-social-footer-icon--linkedin" href="https://www.linkedin.com/showcase/backlogtool" target="_blank" rel="noreferrer" data-tab-icon="false">
+                            <img src="/app/themes/backlog-child/assets/img/common/footer/icon_linkedin.svg" alt="Linkedinで閲覧する" width="28" height="24" loading="lazy">
+                        </a>
+                    </li>
+                    <li class="footer__socials-button">
+                        <a class="footer__socials-icon gtm-social-footer-icon--youtube" href="https://www.youtube.com/channel/UC2DWK8YGUQLWHt5Un6q0I6g" target="_blank" rel="noreferrer" data-tab-icon="false">
+                            <img src="/app/themes/backlog-child/assets/img/common/footer/icon_youtube.svg" alt="YouTubeで閲覧する" width="34" height="24" loading="lazy">
+                        </a>
+                    </li>
+                </ul>
+                <div class="footer__group">
+                    <img class="footer__icon-globe" src="/app/themes/backlog-child/assets/img/common/footer/icon_globe.svg" alt="言語選択" width="24" height="24" loading="lazy">
+                    <ul class="footer__languages">
+                        <li class="footer__language">
+                            <a class="footer__link" href="https://backlog.com/ja/" aria-label="日本語でページを表示する">日本語</a>
+                        </li>
+                        <li class="footer__language">
+                            <a class="footer__link" href="https://nulab.com/backlog/" target="_blank" aria-label="Display page in English" lang="en">English</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer__products">
+        <a href="https://cacoo.com/ja/home" target="_blank" class="footer__products-link">
+            <span class="footer__products-logo">
+                <img src="/app/themes/backlog-child/assets/img/style-guide-library-japanese/home/cacoo_logo.svg" alt="Cacooのロゴ" width="160" height="40" loading="lazy">
+            </span>
+            <span class="footer__products-text">ビジュアルコラボレーションツール</span>
+        </a>
+        <a href="https://nulab.com/ja/nulabpass/" target="_blank" class="footer__products-link">
+            <span class="footer__products-logo">
+                <img src="/app/themes/backlog-child/assets/img/common/logo/logo_nulabpass_136_25.svg" alt="Nulab Passのロゴ" width="148" height="40" loading="lazy">
+            </span>
+            <span class="footer__products-text">アカウント管理をもっと安全・カンタンに</span>
+        </a>
+    </div>
+    <div class="footer__block">
+        <ul class="footer__unit">
+            <li>
+                <a class="footer__anchor" href="https://nulab.com/ja/about/" target="_blank">会社概要</a>
+            </li>
+            <li>
+                <a class="footer__anchor" href="https://nulab.com/ja/terms/" target="_blank">利用規約</a>
+            </li>
+            <li>
+                <a class="footer__anchor" href="https://nulab.com/ja/privacy/" target="_blank">プライバシーポリシー</a>
+            </li>
+            <li>
+                <a class="footer__anchor" href="https://nulab.com/ja/privacy/cookie-policy/" target="_blank">クッキーに関する方針</a>
+            </li>
+            <li>
+                <button type="button" id="ot-sdk-btn" class="ot-sdk-show-settings footer__anchor">クッキー設定</button>
+            </li>
+        </ul>
+    </div>
+    <p class="footer__bottom">
+        <small class="footer__copyright">©︎ 2025 Nulab Inc. All rights reserved.</small>
+      </p>
+</footer>
+
+<script src='https://www.google.com/recaptcha/api.js?render=6LfGPm8cAAAAAOmsh0F3cTiYtlWtWZv0s2gOK7hT&#038;ver=3.0' id='google-recaptcha-js'></script>
+<script id='wpcf7-recaptcha-js-extra'>
+var wpcf7_recaptcha = {"sitekey":"6LfGPm8cAAAAAOmsh0F3cTiYtlWtWZv0s2gOK7hT","actions":{"homepage":"homepage","contactform":"contactform"}};
+</script>
+<script src='/app/plugins/contact-form-7/modules/recaptcha/script.js' id='wpcf7-recaptcha-js'></script>
+<script src='/app/themes/backlog-child/assets/js/jquery.config.js?250930044107&#038;ver=1' id='generic-js'></script>
+<script src='/app/themes/backlog-child/assets/js/style-guide-library-japanese/plan-switch.js' id='plan-switch-js'></script>
+<script src='/app/themes/backlog-child/assets/js/vendor/splide.min.js' id='splide-js'></script>
+<script src='/app/themes/backlog-child/assets/js/style-guide-library-japanese/pages/home.js?202410&#038;ver=5.9.4' id='home-js'></script>
+
+</div>
+</body>
+</html>

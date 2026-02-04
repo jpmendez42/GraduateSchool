@@ -1,0 +1,51 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+User-agent: *
+Disallow: /usedcar/favorites
+Disallow: /usedcar/inquiry
+Disallow: /usedcar/cs_inquiry
+Disallow: /usedcar/inquiry_add
+Disallow: /usedcar/redirect
+Disallow: /usedcar/ajax_city_list
+Disallow: /usedcar/ajax_grade_list
+Disallow: /usedcar/ajax_model_list?multi=true
+Disallow: /usedcar/ajax_model_list
+Disallow: /usedcar/ajax_model_form_list
+Disallow: /sell/get_address
+Disallow: /script/ScriptServlet
+Disallow: /usedcar/autoloan
+Disallow: /usedcar/bike
+Disallow: /usedcar/favorite_status
+Disallow: /usedcar/signin_status
+Disallow: /usedcar/page_loaded
+Disallow: /usedcar/popup_load
+Disallow: /usedcar/srt/*
+Disallow: /usedcar/block_pages/
+Disallow: /usedcar/sp_inquiry
+Disallow: /usedcar/sp_inquiry_cs
+Disallow: /usedcar/ajax_sidebar_data
+Disallow: /usedcar/ajax_info_car_favorites
+Disallow: /usedcar/ajax_load_incomplete_inquiry_list
+Disallow: /usedcar/ajax_no_car_recommend_list
+Disallow: /usedcar/ajax_favorite_recommended_cars
+Disallow: /usedcar/loansimulator
+Allow: /
+
+User-agent: SemrushBot
+Disallow: /
+User-agent: AlphaSeoBot
+Disallow: /
+User-agent: AlphaSeoBot-SA
+Disallow: /
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow: /
+
+Sitemap: https://kuruma-ex.jp/sitemaps/sitemap_index.xml.gz
+Sitemap: https://kuruma-ex.jp/sitemaps/maker_pages.xml.gz
+Sitemap: https://kuruma-ex.jp/sitemaps/areatop_index.xml.gz
+Sitemap: https://kuruma-ex.jp/sitemaps/detail_pages.xml.gz
+Sitemap: https://kuruma-ex.jp/sitemaps/shop_pages.xml.gz
+Sitemap: https://kuruma-ex.jp/sitemaps/grade_pages.xml.gz
+Sitemap: https://kuruma-ex.jp/sitemaps/gd_city_pages.xml.gz
+Sitemap: https://kuruma-ex.jp/sitemaps/selected_model_form.xml.gz

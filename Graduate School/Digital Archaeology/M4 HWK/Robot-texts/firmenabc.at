@@ -1,0 +1,80 @@
+User-agent: *
+Allow: /
+
+# Folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /_assets/
+Allow: /typo3temp/
+
+# Parameters
+Disallow: /*?id=*                                  # non speaking URLs
+Disallow: /*cHash                                 # no cHash
+Disallow: /*tx_powermail_pi1              # no powermail thanks pages
+Disallow: /*tx_form_formframework    # no forms
+
+# Exclude search
+Disallow: /suche/
+
+# Exclude company preview
+Disallow: /firma-preview
+
+# Allow cHash in sitemap
+Allow: /*sitemap.xml*cHash
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+ 
+User-agent: TeleportPro
+Disallow: /
+ 
+User-agent: EmailCollector
+Disallow: /
+ 
+User-agent: EmailSiphon
+Disallow: /
+ 
+User-agent: WebBandit
+Disallow: /
+ 
+User-agent: WebZIP
+Disallow: /
+ 
+User-agent: WebReaper
+Disallow: /
+ 
+User-agent: WebStripper
+Disallow: /
+ 
+User-agent: Web Downloader
+Disallow: /
+ 
+User-agent: WebCopier
+Disallow: /
+ 
+User-agent: Offline <span class="IL_AD" id="IL_AD4">Explorer</span> Pro
+Disallow: /
+ 
+User-agent: HTTrack Website Copier
+Disallow: /
+ 
+User-agent: Offline Commander
+Disallow: /
+ 
+User-agent: Leech
+Disallow: /
+ 
+User-agent: WebSnake
+Disallow: /
+ 
+User-agent: BlackWidow
+Disallow: /
+ 
+User-agent: HTTP Weazel
+Disallow: /
+
+# Sitemap
+Sitemap: https://www.firmenabc.at/sitemap.xml

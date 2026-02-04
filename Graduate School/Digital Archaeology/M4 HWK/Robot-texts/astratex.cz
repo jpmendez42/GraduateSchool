@@ -1,0 +1,21 @@
+Sitemap: https://www.astratex.cz/sitemap_wwwastratexcz.xml
+
+User-agent: *
+Disallow: /*sort=low
+Disallow: /*sort=high
+Disallow: /*sort=date
+Disallow: /*sort=topsale
+Disallow: /*sort=default
+Disallow: /*last=
+Disallow: /nejcastejsi-dotazy-test/
+Disallow: /vdp/
+Disallow: /ajax/
+Disallow: /services/
+Disallow: /api/1/
+Disallow: /pages/
+Disallow: /?lp=
+Disallow: /*fPrice=
+Disallow: /*?debug=
+Disallow: /*?&
+Disallow: /*?search
+Disallow: /?par

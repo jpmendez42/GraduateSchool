@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /en/
+Disallow: /es/
+Disallow: /nl/
+Disallow: /de/
+Disallow: /pt/
+Disallow: /cn/
+Disallow: /partants/
+Disallow: /state
+Disallow: /dermins
+Disallow: /fp_js_form_validator/check_unique_entity
+Disallow: /api

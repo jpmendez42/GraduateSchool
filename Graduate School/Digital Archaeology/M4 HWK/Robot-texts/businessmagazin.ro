@@ -1,0 +1,18 @@
+User-Agent: *
+Allow: /
+
+Disallow: /a.html?*
+Disallow: /m.html
+Disallow: /printare*
+Disallow: /abonamente
+Disallow: /newsletter
+Disallow: /contact
+Disallow: /arhiva
+Disallow: /cauta?in=
+Disallow: *?p=
+Disallow: /rss-feed.xml
+Disallow: /autor/simona-biculeasa-m-ro
+
+Sitemap: http://www.businessmagazin.ro/sitemap-aa.xml.gz
+Sitemap: http://www.businessmagazin.ro/sitemap-ab.xml.gz
+Sitemap: http://www.businessmagazin.ro/sitemap-ac.xml.gz

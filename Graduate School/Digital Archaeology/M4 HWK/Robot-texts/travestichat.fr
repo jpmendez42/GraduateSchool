@@ -1,0 +1,388 @@
+		<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="fr-FR" data-code-site="tc" data-theme="light">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, shrink-to-fit=no, viewport-fit=cover">
+        <meta name="robots" content="index, follow">
+        <meta name="title" content="Rencontrez des travestis et des trans sur Divineva">
+        <meta name="description" content="Envie d'une rencontre avec un travesti? Inscris-toi sur Divineva pour découvrir la plus grande communauté travesti de France. 30 000 connectés par jour.">
+        <title>Rencontrez des travestis et des trans sur Divineva</title>
+        <base href="https://www.divineva.com/">
+        
+        <link rel="preconnect" href="https://www.googletagmanager.com">
+        <link rel="preconnect" href="https://www.google-analytics.com">
+        <link rel="preconnect" href="https://region1.analytics.google.com">
+
+        <link rel="preload" href="fonts/icons/font/icons.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="fonts/icons-index/font/icons-index.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="assets/fonts/RobotoFlex.woff2" as="font" type="font/woff2" crossorigin>
+        <link rel="preload" href="assets/css/style-dad4188a59.css" as="style">
+        <link fetchpriority="high" rel="preload" href="img/img_tc/home-bg-mobile.webp" as="image" media="(max-width: 767px) and (min-width: 1px)">
+            <link fetchpriority="high" rel="preload" href="img/img_tc/home-bg.webp" as="image" media="(min-width: 768px) and (max-width: 767px)"><link fetchpriority="high" rel="preload" href="img/img_tc/screenshots/screenshot-home.webp" as="image">        <link rel="preload" href="scss/vitrine.min.css" as="style">
+
+        <!-- CSS -->
+                <link rel="stylesheet" href="assets/css/style-dad4188a59.css">
+        <link rel="stylesheet" href="assets/css/style-sm-36485c7a6d.css" media="screen and (min-width: 576px)">
+        <link rel="stylesheet" href="assets/css/style-md-06589eb2a9.css" media="screen and (min-width: 768px)">
+        <link rel="stylesheet" href="assets/css/style-lg-51af6f48c8.css" media="screen and (min-width: 992px)">
+        <link rel="stylesheet" href="assets/css/style-xl-cf54d660df.css" media="screen and (min-width: 1200px)">
+        <link rel="stylesheet" href="scss/vitrine.min.css">
+        <!-- /CSS -->
+
+        <link rel="manifest" href="manifest_tc.json">
+        <!-- URL CANONIQUE -->
+        <link rel="canonical" href="https://www.divineva.com">
+
+        <!-- FAVICON -->
+        <link rel="apple-touch-icon" sizes="180x180" href="img/img_tc/favicon/apple-touch-icon.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="img/img_tc/favicon/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="img/img_tc/favicon/favicon-16x16.png">
+        <link rel="mask-icon" href="img/img_tc/favicon/safari-pinned-tab.svg" color="#4D0078">
+        <link rel="shortcut icon" href="img/img_tc/favicon/favicon.ico">
+        <!-- /FAVICON -->
+
+        <!-- THEME COLOR -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="msapplication-starturl" content="/">
+        <!-- Chrome, Firefox OS, Opera, SAFARI -->
+        <meta name="theme-color" content="#4D0078">
+        <meta name="theme-color" media="(prefers-color-scheme: light)" content="#4D0078">
+        <meta name="theme-color" media="(prefers-color-scheme: dark)"  content="#4D0078">
+        <!-- Windows Phone -->
+        <meta name="msapplication-config" content="img/img_tc/favicon/browserconfig.xml">
+        <meta name="msapplication-navbutton-color" content="#4D0078">
+        <meta name="msapplication-TileColor" content="#4D0078">
+        <!-- iOS Safari -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <!-- /THEME COLOR -->
+        <!-- 640x1136 -->
+        <link rel="apple-touch-startup-image" media="(width: 320px) and (height: 568px) and (-webkit-device-pixel-ratio: 2)" href="img/img_tc/splashscreen/splash-portrait-640x1136.png">
+        <link rel="apple-touch-startup-image" media="(width: 568px) and (height: 320px) and (-webkit-device-pixel-ratio: 2)" href="img/img_tc/splashscreen/splash-landscape-1136x640.png">
+        <!-- 750x1334 -->
+        <link rel="apple-touch-startup-image" media="(width: 375px) and (height: 667px) and (-webkit-device-pixel-ratio: 2)" href="img/img_tc/splashscreen/splash-portrait-750x1334.png">
+        <link rel="apple-touch-startup-image" media="(width: 667px) and (height: 375px) and (-webkit-device-pixel-ratio: 2)" href="img/img_tc/splashscreen/splash-landscape-1334x750.png">
+        <!-- 1080x1920 -->
+        <link rel="apple-touch-startup-image" media="(width: 360px) and (height: 640px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1080x1920.png">
+        <link rel="apple-touch-startup-image" media="(width: 640px) and (height: 360px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-1920x1080.png">
+        <!-- 1125x2436 -->
+        <link rel="apple-touch-startup-image" media="(width: 375px) and (height: 812px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1125x2436.png">
+        <link rel="apple-touch-startup-image" media="(width: 812px) and (height: 375px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2436x1125.png">
+        <!-- 828x1792 -->
+        <link rel="apple-touch-startup-image" media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 2)" href="img/img_tc/splashscreen/splash-portrait-828x1792.png">
+        <link rel="apple-touch-startup-image" media="(width: 896px) and (height: 414px) and (-webkit-device-pixel-ratio: 2)" href="img/img_tc/splashscreen/splash-landscape-1792x828.png">
+        <!-- 1242x2688 -->
+        <link rel="apple-touch-startup-image" media="(width: 414px) and (height: 896px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1242x2688.png">
+        <link rel="apple-touch-startup-image" media="(width: 896px) and (height: 414px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2688x1242.png">
+        <!-- 1170x2532 -->
+        <link rel="apple-touch-startup-image" media="(width: 390px) and (height: 844px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1170x2532.png">
+        <link rel="apple-touch-startup-image" media="(width: 844px) and (height: 390px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2532x1170.png">
+        <!-- 1080x2340 -->
+        <link rel="apple-touch-startup-image" media="(width: 360px) and (height: 780px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1080x2340.png">
+        <link rel="apple-touch-startup-image" media="(width: 780px) and (height: 360px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2340x1080.png">
+        <!-- 1284x2778 -->
+        <link rel="apple-touch-startup-image" media="(width: 428px) and (height: 926px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1284x2778.png">
+        <link rel="apple-touch-startup-image" media="(width: 926px) and (height: 428px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2778x1284.png">
+        <!-- 1290x2796 -->
+        <link rel="apple-touch-startup-image" media="(width: 430px) and (height: 932px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1290x2796.png">
+        <link rel="apple-touch-startup-image" media="(width: 932px) and (height: 430px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2796x1290.png">
+        <!-- 1179x2556 -->
+        <link rel="apple-touch-startup-image" media="(width: 393px) and (height: 852px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1179x2556.png">
+        <link rel="apple-touch-startup-image" media="(width: 852px) and (height: 393px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2556x1179.png">
+        <!-- 1206x2622 -->
+        <link rel="apple-touch-startup-image" media="(width: 402px) and (height: 874px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1206x2622.png">
+        <link rel="apple-touch-startup-image" media="(width: 874px) and (height: 402px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2622x1206.png">
+        <!-- 1320x2868 -->
+        <link rel="apple-touch-startup-image" media="(width: 440px) and (height: 956px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-portrait-1320x2868.png">
+        <link rel="apple-touch-startup-image" media="(width: 956px) and (height: 440px) and (-webkit-device-pixel-ratio: 3)" href="img/img_tc/splashscreen/splash-landscape-2868x1320.png">
+
+        <!-- OPEN GRAPH -->
+        <meta property="og:title" content="Rencontrez des travestis et des trans sur Divineva">
+        <meta property="og:type" content="website">
+        <meta property="og:url" content="https://www.divineva.com">
+        <meta property="og:image" content="https://www.divineva.com/img/img_tc/share/facebook-opengraph.jpg">
+        <meta property="og:description" content="Envie d'une rencontre avec un travesti? Inscris-toi sur Divineva pour découvrir la plus grande communauté travesti de France. 30 000 connectés par jour.">
+        <!-- /OPEN GRAPH -->
+        <!-- TWITTER CARD -->
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="https://www.divineva.com">
+        <meta name="twitter:title" content="Rencontrez des travestis et des trans sur Divineva">
+        <meta name="twitter:description" content="Envie d'une rencontre avec un travesti? Inscris-toi sur Divineva pour découvrir la plus grande communauté travesti de France. 30 000 connectés par jour.">
+        <meta name="twitter:image" content="https://www.divineva.com/img/img_tc/share/twitter-card.jpg">
+        <!-- /TWITTER CARD -->
+
+        	<!-- Google tag (gtag.js) -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-5FGZC9MSJD"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-5FGZC9MSJD');
+	</script>
+    </head>
+
+    <body id="index" data-instant-allow-query-string>
+        <div id="modalContainer"></div>
+        <div id="loader" class=""><div class="loader-ripple"><div class="ripple"><div></div><div></div></div></div></div>
+        <div id="preloader"></div>
+
+        <!-- MAIN-WRAPPER -->
+        <div id="main-wrapper">
+			<!-- HEADER -->
+	        <header>
+                <div id="header-index">
+                    <div class="container container-header">
+                        <div class="header-left">
+                            <a class="d-inline-flex" href="/?action=deconnexion" title="Accueil de Divineva (anciennement Travestichat)">
+                                                                            <img class="header-logo" height="52"
+                                                src="img/img_tc/logo-white.svg"
+                                                alt="Rencontrez des travestis et des trans sur Divineva" loading="eager">
+                                                                    </a>
+                        </div>
+                        <div class="header-right">
+                            <a class="btn btn-white text-uppercase px-5" href="connexion-divineva">Connexion</a>
+                            <a class="btn btn-primary text-uppercase px-5" href="inscription-divineva">Inscription</a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <!-- /HEADER -->
+
+            <!-- FOR HOME ONLY -->
+	        <div id="fixed-mobile-buttons">
+                <div class="container">
+                    <div class="row g-2">
+                        <div class="col"><a class="btn btn-white text-uppercase" href="inscription-divineva">Inscription</a></div>
+                        <div class="col"><a class="btn btn-dark text-uppercase" href="connexion-divineva">Connexion</a></div> 
+                    </div>
+                </div>
+            </div>
+            <!-- /FOR HOME ONLY --> 		<script src="https://accounts.google.com/gsi/client" async defer></script>
+		<!-- PAGE-WRAPPER -->
+		<div id="page-wrapper">
+
+			<!-- HOME -->
+			<section id="home">
+				<div id="home-top">
+					<div class="bg-index-container">
+												<picture>
+							<source srcset="img/img_tc/home-bg.webp" media="(min-width: 768px) and (max-width: 767px)">
+							<source srcset="img/img_tc/home-bg-mobile.webp" media="(max-width: 767px) and (min-width: 1px)">
+							<img class="img-index" src="img/img_tc/home-bg.webp" alt="Rencontrez des travestis et des trans sur Divineva" loading="eager">
+						</picture>
+					</div>
+					<div class="container">
+						<div class="row">
+							<div class="col-12">
+																		<img class="home-logo" height="85" src="img/img_tc/logo-white.svg" alt="Rencontrez des travestis et des trans sur Divineva" loading="eager">
+																	<H1>La rencontre<br><span>travesti</span></H1>							</div>
+						</div>
+					</div>
+				</div>
+
+								
+				<div id="home-bottom">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-6 text-center">
+								<img class="img-fluid mt-3 mb-4" height="326" width="400" src="img/img_tc/screenshots/screenshot-home.webp" alt="Rencontrez des travestis et des trans sur Divineva" loading="eager">
+							</div>
+							<div class="col-md-6 text-white">
+																		<h2 class="text-white">Rencontrez des milliers<br>de trans et travestis</h2>
+										<p>Faites de vraies rencontres, uniques et proches de chez vous et vos envies&nbsp;!
+											Divineva
+											est le premier site de rencontre pour travesti où vous pouvez exprimer votre sexualité
+											sans
+											tabou.</p>
+								
+																		<p>Rencontrez dès maintenant notre communauté&nbsp;:<br><b>8864 membres actuellement en ligne&nbsp;!</b></p>
+										<div class="btn btn-white text-uppercase px-5 mt-3" onclick="lien('acces_ctrl.php?or=visiteur')">Membres en ligne <i class="icon-angle-right ms-2"></i></div>
+															</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- /HOME -->
+
+			<!-- FEATURES -->
+			<section id="home-features-section">
+				<div class="container">
+					<div class="row justify-content-center">
+						<div class="col-md-9 col-lg-8 col-xl-7">
+							<div class="home-feature__liste">
+																		<div class="home-feature-item"><i class="icon-home-bg-1"><i class="icon-home-chat"></i></i><div class="home-feature-item__title">Chat</div></div>										<div class="home-feature-item"><i class="icon-home-bg-6"><i class="icon-home-annonces"></i></i><div class="home-feature-item__title">Annonces</div></div>										<div class="home-feature-item"><i class="icon-home-bg-2"><i class="icon-home-forum"></i></i><div class="home-feature-item__title">Forum</div></div>								
+							</div>
+																<p class="px-lg-5">Divineva est le site de rencontre travesti et transgenre de référence en
+										France,
+										Belgique et Suisse. Que vous soyez simplement curieux, à la découverte du monde du transgenre,
+										gender fluide, non binaire, queer, ou à la recherche d’un plan cul, le site est fait pour
+										vous. Vous
+										pourrez discuter et échanger avec des membres ouverts et bienveillants célibataires
+										directement au
+										travers d’un tchat en ligne ou bien regarder des vidéos amateurs, partagées par la communauté.
+										N'hésitez plus et inscrivez-vous !</p>
+															<div class="text-center mt-5">
+								<a class="btn btn-primary text-uppercase px-5" href="acces_ctrl.php?or=visiteur">découvrez le site <i class="icon-angle-right ms-2"></i></a>
+								<!-- <a class="btn btn-primary text-uppercase px-5" href="inscription-divineva">découvrez le site <i class="icon-angle-right ms-2"></i></a> -->
+							</div>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- /FEATURES -->
+
+		</div>
+		<!-- /PAGE-WRAPPER -->
+
+		            <!-- FOOTER -->
+            <footer>
+                <div id="footer">
+                    <div id="footer-top" class="container">
+                        <div class="row">
+                            <div class="col-md-7 order-md-last">
+                                <img class="footer-bg-img" src="img/img_tc/footer-bg.webp"
+                                    alt="Rencontrez des travestis et des trans sur Divineva" loading="lazy">
+                            </div>
+                            <div class="col-md-5 d-flex align-items-end justify-content-center justify-content-md-start">
+                                <h2 class="mt-0">
+                                                                                <img class="footer-logo" height="52" src="img/img_tc/logo-white.svg" alt="Rencontrez des travestis et des trans sur Divineva" loading="lazy">
+                                                                            </h2>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-5 d-flex flex-column justify-content-between">
+                                <div>
+                                                                        <p>Le seul site de rencontre travesti, trans, gender fluide, queer et non binaire en France et Belgique. Découvrez une communauté active et bienveillante qui aime partager, donner des conseils et se rencontrer, au travers d’un forum, de bons plans et d’un espace vidéo. Inscription nécessaire pour avoir accès aux annonces, au blog et au forum&nbsp;!</p>
+                                </div>
+                                <div class="d-flex justify-content-center justify-content-md-start">
+                                    <button class="btn footer-btn-rs" onclick="partage_tw()" type="button">Partagez Divineva <i class="icon-logo-x rs-logo"></i></button>
+                                </div>
+                            </div>
+                            <div class="col-1 d-none d-xl-block"></div>
+                            <div class="col-md-2 col-lg-3 col-xl-3">
+                                <h2 class="text-primary">Divineva</h2>
+                                <div class="row">
+
+                                                                                <div class="col-6 col-md-12">
+                                                <ul>
+                                                    <li><a href="connexion-divineva">Connexion</a></li>
+                                                    <li><a href="inscription-divineva">Inscription</a></li>
+                                                    <li><a href="visiter-divineva">Visiter</a></li>
+                                                </ul>
+                                            </div>
+                                            <div class="col-6 col-md-12">
+                                                <ul>
+                                                    <li><a href="forum">Forum travesti</a></li>
+                                                    <li><a href="videos-divineva">Vidéos travesti</a></li>
+                                                    <li><a href="membres-divineva">Membres en ligne</a></li>
+                                                </ul>
+                                            </div>
+                                                                            </div>
+                            </div>
+                            <div class="col-md-5 col-lg-4 col-xl-3">
+                                <h2 class="text-grey2">Partenaires</h2>
+                                <div class="row">
+                                    <div class="col-6">
+                                            <ul>
+                                            <li><a href="https://www.gaym.com?cid=971" rel="noopener noreferrer" target="_blank">Gaym</a></li>
+                                        <li><a href="https://www.lespompeurs.com?cid=971" rel="noopener noreferrer" target="_blank">Lespompeurs</a></li>
+                                        <li><a href="https://www.candaulib.com?cid=971" rel="noopener noreferrer" target="_blank">Candaulib</a></li>
+                                        <li><a href="https://www.lespompeuses.com?cid=971" rel="noopener noreferrer" target="_blank">Lespompeuses</a></li>
+                                        <li><a href="https://www.gaytrip.fr?cid=971" rel="noopener noreferrer" target="_blank">Gaytrip</a></li>
+                                        <li><a href="https://www.sexylib.com?cid=971" rel="noopener noreferrer" target="_blank">Sexylib</a></li>
+                                        </ul>
+                                            </div><div class="col-6">
+                                            <ul><li><a href="https://www.generationbi.com?cid=971" rel="noopener noreferrer" target="_blank">Generationbi</a></li>
+                                        <li><a href="https://www.transtrav.com?cid=971" rel="noopener noreferrer" target="_blank">Transtrav</a></li>
+                                        <li><a href="https://www.lesrebeus.com?cid=971" rel="noopener noreferrer" target="_blank">Lesrebeus</a></li>
+                                        <li><a href="https://www.candaulisme.net?cid=971" rel="noopener noreferrer" target="_blank">Candaulisme</a></li>
+                                                                                </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="footer-bottom" class="container">
+                        <div class="row">
+                            <div class="col-md-6 d-block d-md-flex justify-content-start">
+                                <a href="contact-divineva">Contact</a>
+                                <a href="mentions-legales-divineva">Mentions légales</a>
+                            </div>
+                            <div class="col-md-6 d-block d-md-flex justify-content-end">
+                                <a href="cgu-divineva">CGU</a>
+                                <a href="charte-divineva">Données personnelles</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- /FOOTER -->
+        </div>
+		<!-- /MAIN-WRAPPER -->
+
+        <script src="js/jquery-4.0.0-rc.1.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/component.min.js"></script>
+                <script src="js/script.min.js"></script>
+		<script defer src="plugins/instant.page-5.2.0/instant.page.min.js"></script>
+        <script>
+            function partage_tw(){
+                var winHeight = 320;
+                var winWidth = 600;
+                var winTop = (screen.height / 2) - (winHeight / 2);
+                var winLeft = (screen.width / 2) - (winWidth / 2);
+
+                var text = "Rencontrez des travestis et des trans sur Divineva";
+                var url = "http://twitter.com/share?text="+encodeURIComponent(text)+"&url="+encodeURIComponent('https://www.divineva.com')+"&hashtags=divineva";
+
+                window.open(url, '_blank', 'top=' + winTop + ',left=' + winLeft + ',toolbar=0,status=0,width=' + winWidth + ',height=' + winHeight);
+                return false;
+            }
+        </script>		<script>
+			document.addEventListener('DOMContentLoaded', function() {
+				var header = document.querySelector('header');
+
+				function handleScroll() {
+					if (window.pageYOffset > 40) {
+						header.classList.add('active');
+					} else {
+						header.classList.remove('active');
+					}
+				}
+				handleScroll();
+				window.addEventListener('scroll', handleScroll);
+
+				switch ("") {
+					case "_validation_suppression":
+						showToast("Votre compte a bien été supprimé.<br/>Un changement d'avis ?<br/>Une reconnexion dans les <b>14 jours</b> suffit pour le réactiver.");
+						break;
+					case "mdp_oublie_valide":
+						let text_toast = ("" == "sms") ? "Si un compte associé à ce numéro existe dans notre système, vous recevrez un SMS pour réinitialiser votre mot de passe." : "Si un compte associé à cet email existe dans notre système, vous recevrez un mail pour réinitialiser votre mot de passe. Pensez à vérifier les “spams”.";
+						showToast(text_toast);
+						break;
+					case "mdp_redefine":
+					case "mdp_redefine_test":
+						openModal('popup_mdp_redefine', '1&e=&i=&d=&key=');
+						break;
+					case "mdp_redefini":
+						showToast("Votre nouveau mot de passe a été enregistré");
+						break;
+					case "send_msg_ok":
+						showToast("Votre question a bien été envoyée");
+						break;
+					case "am":
+						showToast("L'alerte email a bien été retirée");
+						break;
+					case "nm":
+					case "sn":
+					case "nml":
+						showToast("Les notifications par email ont bien été retirées");
+						break;
+				}
+			});
+
+					</script>
+
+	</body>
+</html>

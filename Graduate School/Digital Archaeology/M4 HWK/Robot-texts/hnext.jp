@@ -1,0 +1,229 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="ja"
+  data-page-id="adultguest-login"
+  data-is-use-ko="">
+<head>
+<meta charset="UTF-8">
+<meta name="rating" content="adult" />
+<meta name="robots" content="noindex,nofollow"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta http-equiv="X-UA-Compatible" content="requiresActiveX=true" />
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0">
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<link rel="canonical" href="https://video.hnext.jp/login"/>
+<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?t=20200410" />
+
+
+<title>ログイン | U-NEXT</title>
+
+<script>
+  var unx = unx || {};
+  unx.preinit = {
+    'env' : {"isMobile":false,"isTablet":false,"isPC":true,"isWebView":false,"isAndroid":false,"isIOS":false,"isChrome":false,"isIE11":false,"isEdge":false,"isSafari":false,"isTV":false,"isFeaturePhone":false,"isPlayOnSilverlight":true,"isPlayOnShaka":false,"isHlsFairplay":false}
+  };
+</script>
+
+  <script src="/static/js/dist/base.min.js?rev=20251002102641"></script>
+
+
+
+  <link rel="stylesheet" href="//fonts.googleapis.com/earlyaccess/notosansjapanese.css">
+
+  
+  <link rel="stylesheet" href="/static/css/dist/all.min.css?rev=20251002102641">
+
+
+<style>
+.__page {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  gap: 3rem;
+  height: 100vh;
+}
+.__contaner {
+  width: calc(100% - 2rem);
+  margin: 0 auto;
+  max-width: 640px;
+}
+.__main {
+  padding: 6rem 0 0;
+}
+.__footer {
+  padding: 2rem 0;
+  display: flex;
+  gap: 1rem;
+}
+.__footer-link {
+  font-size: 1rem;
+  color: #1a1a1a;
+  text-decoration: underline;
+}
+.__main-logo {
+  height: 40px;
+  display: block;
+}
+.__main-title {
+  font-size: 24px;
+  font-weight: bold;
+  display: flex;
+  flex-wrap: wrap;
+  color: #1a1a1a;
+}
+.__main-text {
+  font-size: 16px;
+  line-height: 1.8;
+}
+.__main-buttnlink {
+  display: block;
+  width: fit-content;
+  min-width: 8rem;
+  background: #666;
+  border-radius: 4px;
+  align-items: center;
+}
+.__main-buttnlink-text {
+  padding: 8px 16px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #fff;
+  text-align: center;
+}
+.__mt16 {
+  margin-top: 16px;
+}
+.__mt32 {
+  margin-top: 32px;
+}
+</style>
+
+
+</head>
+<body>
+
+
+
+<div class="__page">
+  <div>
+    <div class="__contaner">
+      <div class="__main">
+        <img src='/static/logo/hnext_logo.svg' alt='H-NEXT' class="__main-logo">
+
+        <div class="__mt32"></div>
+
+        <div class="__main-title">
+          こちらのサイトは、U-NEXTの会員のみご利用できます。
+        </div>
+        <div class="__mt16"></div>
+        <div class="__main-text">
+          <div>
+            U-NEXTのwebサイトにログインして、
+          </div>
+          <div>
+            その他♡メニューからもう一度お試しください。
+          </div>
+        </div>
+        <div class="__mt32"></div>
+        <div>
+          <a href='https://account.unext.jp/login?backurl=https%3A%2F%2Fvideo.unext.jp%2Fgenre%2Fsemiadult' class="__main-buttnlink">
+            <div  class="__main-buttnlink-text">
+              ログイン
+            </div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="__contaner">
+      <ul class="__footer">
+        <li>
+          <a href="http://help.unext.jp/legal/terms-hnext" target="_blank" rel="noopener noreferrer">
+            <span class="__footer-link">利用規約</span>
+          </a>
+        </li>
+        <li>
+          <a href="http://contact.unext.jp/hnext-inquiry" target="_blank" rel="noopener noreferrer">
+            <span class="__footer-link">お問い合わせ</span>
+          </a>
+        </li>
+      </ul>
+    <div>
+  </div>
+
+</div>
+
+
+
+
+
+
+
+<div class="jsui-toast  jsui-toast">
+  <div class="jsui-toast__panel  jsui-toast__panel">
+    <div class="jsui-toast__msgbox  cell">
+      <span class="ico unx-ico-check  jsui-toast__icon  pr-8  va-m"></span>
+      <span class="jsui-toast__msg  va-m"></span>
+    </div>
+  </div>
+</div>
+
+
+
+<script>
+  var unx = unx || {};
+  unx.ganalytics = unx.ganalytics || {};
+  unx.ganalytics.setDimension = function() {
+    ga('set', 'dimension1', 'false');
+  }
+</script>
+
+
+<!--[if lte IE8]>
+<script src="/static/lib/jquery-1.11.2.min.js?rev=20251002102641"></script><![endif]-->
+
+
+  
+  <script src="/static/js/dist/all.min.js?rev=20251002102641"></script>
+
+
+<script src="/static/analytics/analytics.hnext.js?rev=20251002102641"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-66178160-3"></script>
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'UA-66178160-3');
+  gtag('config', 'UA-66178160-9',{
+    'linker': {
+      'domains': ['unext.jp','hnext.jp']
+    }
+  });
+</script>
+
+
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WWD5MFG');</script>
+<!-- End Google Tag Manager -->
+
+
+
+
+
+
+
+</body>
+</html>

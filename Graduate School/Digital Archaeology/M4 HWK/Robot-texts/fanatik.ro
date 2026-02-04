@@ -1,0 +1,35 @@
+Sitemap: https://www.fanatik.ro/sitemap_index.xml
+Sitemap: https://www.fanatik.ro/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/*
+Disallow: /wp-login.php
+Disallow: /author/*
+Disallow: /aHR0cHM*
+Disallow: /?s=*
+Disallow: /page/*/?s
+Disallow: /page/*?s
+Disallow: /?p=*
+Disallow: *?img=
+Disallow: /poze/*
+Disallow: /93450053/*
+Disallow: /categorie/*
+Disallow: /sondaje/*
+Disallow: /eticheta/*
+Disallow: /?attachment_id=*
+Disallow: /wp-json/strawberry/*
+Disallow: /*filters:contrast(5):quality(70)*
+Disallow: /bWFpbHRvOj9*
+
+User-agent: Amazonbot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: grapeshot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: AudigentAdBot
+Disallow: /
+User-Agent: ImagesiftBot
+Disallow: /

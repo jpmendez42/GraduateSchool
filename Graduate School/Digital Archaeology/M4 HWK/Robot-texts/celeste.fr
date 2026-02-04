@@ -1,0 +1,21 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /*?ref=
+Disallow: /*.php$
+Disallow: /page/
+Disallow: /wp-json/
+Disallow: /file/
+Disallow: /?p=
+Disallow: /wp-content/uploads/2023/12/EU-Code-of-Conduct-MARILYN-2020.pdf
+Disallow: /wp-content/uploads/2021/07/20210707-itrgames.com_.pdf
+Disallow: /wp-content/uploads/2021/02/RDP-CELESTE-210121.pdf
+Disallow: /wp-content/uploads/2021/07/20210707-La-Lettre-Api.pdf
+Disallow: /wp-content/uploads/2021/03/20210318_Le_Tarn_Libre_-1.pdf
+Allow: /*css?*
+Allow: /*js?*
+Allow: /*?utm*
+
+Sitemap: https://www.celeste.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

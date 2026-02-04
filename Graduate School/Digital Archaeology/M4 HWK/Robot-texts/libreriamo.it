@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /public/
+Allow: /wp-admin/admin-ajax.php
+Allow: /feed/
+Allow: /ads.txt
+
+
+Sitemap: https://libreriamo.it/sitemap_index.xml
+Sitemap: https://libreriamo.it/news-sitemap.xml

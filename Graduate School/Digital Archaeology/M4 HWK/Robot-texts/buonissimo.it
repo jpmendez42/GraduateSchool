@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /search/
+Disallow: */view/fotogallery*
+User-agent: OAI-SearchBot
+Allow: /search/
+
+Sitemap: https://www.buonissimo.it/sitemap_index.xml
+Sitemap: https://www.buonissimo.it/feed/ricette/
+Sitemap: https://www.buonissimo.it/feed/rubriche/

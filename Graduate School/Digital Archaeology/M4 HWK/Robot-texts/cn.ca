@@ -1,0 +1,12 @@
+﻿User-Agent: *
+Disallow: /webteam
+Disallow: /en/webteam
+Disallow: /fr/webteam
+Disallow: /test
+Disallow: /en/test
+Disallow: /fr/test
+Disallow: /paga
+Disallow: /fr/apag
+Disallow: /en/paga
+
+Sitemap: https://cn.ca/sitemap.xml

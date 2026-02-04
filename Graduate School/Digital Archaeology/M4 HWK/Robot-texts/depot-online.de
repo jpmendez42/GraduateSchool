@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /de/account
+Disallow: /de/wishlist
+Disallow: /de/basket
+Disallow: /de/checkout
+Disallow: /de/order #part of checkout with checkout subdomain.
+Disallow: /prudsys
+Disallow: /api
+
+Sitemap: https://www.depot-online.de/sitemap.xml

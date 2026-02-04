@@ -1,0 +1,58 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /?*
+Disallow: /polls/
+Disallow: /articles/
+Disallow: /support/
+Disallow: *.php*
+Disallow: /?action=
+Disallow: /*/?genre
+Disallow: /?tid=
+Disallow: /r/
+Allow: /css/
+Allow: /js/
+Allow: /wl/
+Allow: /site-images/
+Allow: /?action=landing*
+
+User-agent: GoogleBot
+Disallow: /*?*
+Disallow: /?*
+Disallow: /polls/
+Disallow: /articles/
+Disallow: /support/
+Disallow: *.php*
+Disallow: /?action=
+Disallow: /*/?genre
+Disallow: /?tid=
+Disallow: /r/
+Allow: /css/
+Allow: /js/
+Allow: /wl/
+Allow: /site-images/
+Allow: /?action=landing*
+
+User-agent: Yandex
+Disallow: /*?*
+Disallow: /?*
+Disallow: /polls/
+Disallow: /articles/
+Disallow: /support/
+Disallow: *.php*
+Disallow: /?action=
+Disallow: /*/?genre
+Disallow: /?tid=
+Disallow: /r/
+Allow: /css/
+Allow: /js/
+Allow: /wl/
+Allow: /site-images/
+Allow: /?action=landing*
+Clean-param: tid&genre&action
+Host: https://rusdate.de/
+
+Sitemap: https://rusdate.de/sitemap.xml.gz
+
+User-agent: MediaPartners-Google
+Allow: /
+

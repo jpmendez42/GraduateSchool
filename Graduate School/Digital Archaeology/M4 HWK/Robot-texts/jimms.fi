@@ -1,0 +1,46 @@
+User-agent: Riddlerbot 
+Disallow: /
+
+User-agent: Riddler
+Disallow: /
+
+User-agent: wget 
+Disallow: /
+
+User-agent: Tyxobot 
+Disallow: /
+
+User-agent: MJ12bot 
+Disallow: /
+
+User-agent: ltx71 
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: *
+Disallow: /*/shoppingcart*
+Disallow: /*/ShoppingCart*
+Disallow: /*/checkout*
+Disallow: /*/CheckOut*
+Disallow: /fi/CheckOut*
+Disallow: /en/CheckOut*
+Disallow: /*/giftcard*
+Disallow: /*/GiftCard*
+Disallow: /fi/GiftCard*
+Disallow: /en/GiftCard*
+Disallow: /*/account*
+Disallow: /*/Account*
+Disallow: /api/*
+Disallow: /minicart*
+Disallow: /hae/*
+Disallow: /*/Product/Search*
+Disallow: /huutokauppa/*
+Disallow: /fi/ShoppingCart/AddItem
+Disallow: /en/ShoppingCart/AddItem
+Disallow: /css/*
+Disallow: /js/*
+Disallow: /*/Home/ChangeCurrentCulture
+Disallow: /fi/Home/ChangeCurrentCulture
+Disallow: /en/Home/ChangeCurrentCulture

@@ -1,0 +1,121 @@
+# Google Other
+User-agent: GoogleOther
+Crawl-delay: 5
+
+# bingbot
+User-agent: bingbot
+Crawl-delay: 5
+
+# Search engine of Huawei
+User-Agent: PetalBot
+Disallow: /
+Crawl-delay: 30
+# Disallow: /explore/
+
+# TikTok
+User-agent: Bytespider
+Disallow: /
+
+# https://velen.io/
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+# Moz dotbot
+User-agent: dotbot
+Disallow: /explore/
+
+# Applebot
+User-agent: Applebot
+Disallow: /explore/
+
+# Amazonbot
+User-agent: Amazonbot
+# Disallow: /explore/
+Disallow: /
+
+# Block Comscore Web Crawler
+User-Agent: proximic
+Disallow: /
+
+# serpstatbot
+User-agent: serpstatbot
+Disallow: /explore/
+
+# trendictionBot
+User-agent: trendictionBot
+Disallow: /explore/
+
+# obeys robots.txt
+User-agent: MJ12bot
+Disallow: /explore/
+
+# admantx does not care about robots.txt
+User-agent: ADmantX
+Disallow: /explore/
+Crawl-delay: 30
+User-agent: admantx
+Disallow: /explore/
+Crawl-delay: 30
+
+User-agent: ias_crawler
+Disallow: /explore/
+
+User-agent: CriteoBot/0.1
+Disallow: /explore/
+Crawl-delay: 30
+
+User-agent: AhrefsBot
+Disallow:
+Crawl-delay: 30
+
+# Used for Teads
+User-agent: grapeshot
+Disallow:
+Crawl-delay: 30
+
+User-Agent: *
+Disallow: /explore/*page
+
+# ==== Update at 2024/1/6 ====
+User-agent: Scrapy
+Disallow: /
+
+User-Agent: ImagesiftBot
+Disallow: /
+
+# https://dataforseo.com/dataforseo-bot
+User-agent: DataForSeoBot
+Disallow: /
+
+# User-agent: DataForSeoBot
+# Disallow: /explore/
+# Crawl-delay: 30
+
+
+# http://www.opensiteexplorer.org/dotbot
+User-agent: DotBot
+User-agent: dotbot
+Disallow: /
+
+# https://app.hypefactors.com/media-monitoring/about.html
+User-agent: Buck
+Disallow: /
+
+# https://babbar.tech/crawler
+User-agent: barkrowler
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# ==== Update at 2025/7/16 ====
+# Allow ChatGPT, SemrushBot
+# User-agent: GPTBot
+# Disallow: /
+
+# https://www.semrush.com/bot/
+# User-agent: SemrushBot
+# Disallow: /

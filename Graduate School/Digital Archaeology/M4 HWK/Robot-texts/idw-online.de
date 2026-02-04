@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*pdfnews
+Disallow: /*search
+Disallow: /*simplesearch
+Disallow: /*login
+Disallow: /*eventsrss
+Disallow: /*forwarddocument
+Disallow: /*newsimage
+Disallow: /*pressreleasesrss
+
+User-agent: Twitterbot
+Allow: /*newsimage

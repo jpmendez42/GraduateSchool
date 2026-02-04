@@ -1,0 +1,159 @@
+## It's forbidden to use search robots or other automatic methods to access Leboncoin.fr.
+## Access is only permitted with special permission from Leboncoin.fr.
+
+## Bots friendly
+User-agent: Googlebot
+User-agent: Googlebot-Mobile
+User-agent: Yahoo! Slurp
+User-agent: Slurp
+User-agent: slurp
+User-agent: msnbot
+User-agent: bingbot
+User-agent: ia_archiver
+# friendly exceptions
+Allow: /aide.htm
+Allow: /aide_pro.htm
+# www2 only
+Allow: /livres
+Allow: /linge_de_maison
+Disallow: /ai
+Disallow: /cp
+Disallow: /support
+Disallow: /account
+Disallow: /account/index.html
+Disallow: /dc/decisions_de_justice
+Disallow: /dc/accessibilite
+# Adviews
+Disallow: /annonce
+Disallow: /classified/latest/
+Allow: /annonces
+Disallow: /vi/*
+Disallow: /li
+Disallow: /*/*.htm
+Disallow: /ad/animaux/*
+Disallow: /ad/animaux_perdus/*
+Disallow: /ad/autres/*
+# Holidays calendar pages
+Disallow: /*/vacancier/
+# Bloquage des Demandes
+Disallow: /*/demandes
+# all
+Disallow: /*th=0
+Disallow: /aw
+Disallow: /st
+Disallow: /maintenance.html
+Disallow: /pub
+Disallow: /report-abuse
+Disallow: /profile/
+Disallow: /oauth2callback
+Disallow: /discovery/*
+# Blocage des /Recherche (Rav)
+Disallow: /recherche
+Disallow: /boutique/*/*print=0
+Disallow: /boutique/*.htm?*ca=*_k&*
+Disallow: /popup_siege_social.htm
+Disallow: /dc/popup_siege_social
+Disallow: /*_mediametrie
+#on autorise boutiques (.htm)
+Allow: /boutique*
+#on autorise les html
+Allow: /*/*.html
+Disallow: /*/bonnes_affaires
+# Pages filtres
+Allow: /f/*
+# Gestion villes
+Allow: /v/*
+#Partners
+Disallow: /partners/*
+Allow: /partners/sofinco*
+#Messaging
+Disallow: /messages/*
+Allow: /*
+
+## AdsBot-Google and AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+# friendly exceptions
+Allow: /recherche?category=2&*
+Allow: /recherche?category=9&*
+Allow: /recherche?category=10&*
+Allow: /recherche?category=11&*
+Allow: /recherche?category=13&*
+Allow: /aide.htm
+Allow: /aide_pro.htm
+# www2 only
+Allow: /livres
+Allow: /linge_de_maison
+Disallow: /ai
+Disallow: /cp
+Disallow: /support
+Disallow: /account
+Disallow: /account/index.html
+Disallow: /dc/decisions_de_justice
+Disallow: /dc/accessibilite
+# Adviews
+Disallow: /annonce
+Disallow: /classified/latest/
+Allow: /annonces
+Disallow: /vi/*.htm
+Disallow: /li
+# Holidays calendar pages
+Disallow: /*/vacancier/
+# Bloquage des Demandes
+Disallow: /*/demandes
+# all
+Disallow: /*th=0
+Disallow: /aw
+Disallow: /st
+Disallow: /maintenance.html
+Disallow: /pub
+Disallow: /report-abuse
+Disallow: /profile/
+Disallow: /oauth2callback
+Disallow: /boutique/*/*print=0
+Disallow: /boutique/*.htm?*ca=*_k&*
+Disallow: /popup_siege_social.htm
+Disallow: /dc/popup_siege_social
+Disallow: /*_mediametrie
+Disallow: /discovery/*
+#on autorise boutiques (.htm)
+Allow: /boutique*
+#on autorise les html
+Allow: /*/*.html
+#on bloque les annonces avec et sans parametres
+Disallow: /*/*.htm
+Disallow: /*/bonnes_affaires/
+Disallow: /f/*
+Allow: /*
+
+# Allow specific Ads Googlebot to access all our pages
+User-agent: Mediapartners-Google
+Allow: /*
+
+# Allow proximic to access all our pages
+User-agent: proximic
+Disallow:
+
+# LLMs configuration
+User-agent: Google-Extended
+Disallow: /ad/
+Allow: /*
+
+User-agent: OAI-SearchBot
+Disallow: /ad/
+Allow: /*
+
+User-agent: ChatGPT-User
+Disallow: /ad/
+Allow: /*
+
+# Link to the sitemap index file
+Sitemap: https://www.leboncoin.fr/auto-main.xml
+
+Disallow: /app-router-poc
+Disallow: /pages-router-poc
+
+# Allow Meta's crawler for Instagram feature
+User-agent: facebookexternalhit
+Allow: /dc/cookies
+Disallow: /*

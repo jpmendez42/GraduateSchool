@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /sign-in/
+Disallow: /sign-out/
+Disallow: /verify-email/
+Disallow: /forgot-password/
+Disallow: /change-password/
+Disallow: /search/?term*
+Disallow: /json/
+Disallow: /go/
+Disallow: /*admin/
+Disallow: /*_openstat
+Disallow: /*from=adwords
+Disallow: /*utm_source*
+Disallow: /*gclid=
+Disallow: /*cf_chl_captcha*
+Allow: /rss.xml
+Host: https://ukrfootball.ua
+
+Sitemap: https://ukrfootball.ua/sitemap.xml
+Sitemap: https://ukrfootball.ua/sitemap.news.xml
+Sitemap: https://ukrfootball.ua/sitemap.latest.xml
+Sitemap: https://ukrfootball.ua/sitemap.latest.txt
+Sitemap: https://ukrfootball.ua/rss.latest.xml

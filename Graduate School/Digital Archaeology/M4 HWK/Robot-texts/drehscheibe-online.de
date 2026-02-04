@@ -1,0 +1,12 @@
+# robots.txt for https://www.drehscheibe-online.de/
+# 
+
+User-agent: *
+Disallow: /dso_header/
+Disallow: /ds_sifo/
+Disallow: /ds_cms/ds_anzeigen.php
+Disallow: /ds_redaktion/ds_foto.php
+Disallow: /ds_redaktion/ds_termine.php
+Disallow: /ds_redaktion/ds_treff.php
+
+# Sitemap: https://www.drehscheibe-online.de/sitemap.xml

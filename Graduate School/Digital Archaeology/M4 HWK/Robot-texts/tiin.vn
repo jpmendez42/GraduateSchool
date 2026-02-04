@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Disallow: /search.html?
+
+Sitemap: https://tiin.vn/sitemap.xml
+Sitemap: https://tiin.vn/sitemapcate.xml
+Sitemap: https://tiin.vn/SitemapNews.xml

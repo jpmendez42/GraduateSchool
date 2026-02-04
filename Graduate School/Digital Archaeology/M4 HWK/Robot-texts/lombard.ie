@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: *m.int.html*
+Crawl-delay:2
+Sitemap: https://www.lombard.ie/sitemap.xml

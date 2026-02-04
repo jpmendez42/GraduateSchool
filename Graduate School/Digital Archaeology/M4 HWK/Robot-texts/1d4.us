@@ -1,0 +1,90 @@
+<html>
+<head>
+<title>Passive DNS Database Lookup - for robots.txt</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script type="text/javascript">
+window.onload=foo;
+function foo() {
+	v = document.getElementById("email");
+	v.style.display='none';
+}
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-27999377-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<style type="text/css">
+td {
+        color: #000;
+        margin: 4px;
+        padding: 4px;
+//        font-family: "Courier New", Courier, mono;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 11px;
+        font-weight: normal;
+        border-bottom: 1px none #BFE9FF;
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2),
+{
+	td {
+	        color: #000;
+	        margin: 4px;
+	        padding: 4px;
+	//        font-family: "Courier New", Courier, mono;
+		font-family: verdana, arial, helvetica, sans-serif;
+		font-size: 22px;
+	        font-weight: normal;
+	        border-bottom: 1px none #BFE9FF;
+	}
+}
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2)      and (min-width: 1300px),
+only screen and (   min--moz-device-pixel-ratio: 2)      and (min-width: 1300px),
+only screen and (     -o-min-device-pixel-ratio: 2/1)    and (min-width: 1300px),
+only screen and (        min-device-pixel-ratio: 2)      and (min-width: 1300px),
+only screen and (                min-resolution: 192dpi) and (min-width: 1300px),
+only screen and (                min-resolution: 2dppx)  and (min-width: 1300px) { 
+
+td {
+        color: #000;
+        margin: 4px;
+        padding: 4px;
+//        font-family: "Courier New", Courier, mono;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-size: 11px;
+        font-weight: normal;
+        border-bottom: 1px none #BFE9FF;
+}
+  /* Large screen, retina, stuff to override above media query */
+
+}
+tr.odd {
+        background-color: #F1E2FF;
+}
+table
+{ 
+margin-left: auto;
+margin-right: auto;
+}
+</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google-site-verification" content="XxW7M_ZDhCgM-TKbjsiyDJOaNMy4ngKKDib0oyjvxSE" />
+</head>
+<body>
+<table width="66%" cellpadding="10" cellspacing="0">
+<form action="/" id="tsf" method="GET" name="f">
+<tr> <td>Enter host name or IP address:
+<input type="text" name="q" maxlength="1024" value="" title="Search" spellcheck="false">
+<input type="submit" value="Search">
+</form> </td>
+<td> 0 result(s) for <a href='http://robots.txt'>robots.txt</a> </td> </tr>
+<tr><td><b>name</b><td><b>query type</b></td><td><b>result</b></td><td><b>first seen</b></td><td><b>last seen</b></td></tr>
+</table>
+<div style='width: 66%; margin: auto;'><h4 style='font-family: verdana, arial, helvetica, sans-serif'>WHOIS info for: robots.txt </h4></div><div style='border: 1px solid black; width: 66%; margin: auto;'><div style=' margin: 0 auto;'> <pre>No whois server is known for this kind of object.
+</pre></div></div> 
+</body></html>

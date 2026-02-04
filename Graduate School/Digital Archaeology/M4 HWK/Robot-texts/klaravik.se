@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /registrera-dig/SP/tack
+Disallow: /registrera-dig/SF/tack
+Disallow: /registrera-dig/UP/tack
+Disallow: /registrera-dig/UF/tack
+
+User-agent: GPTBot
+Allow: /
+Disallow: /registrera-dig/SP/tack
+Disallow: /registrera-dig/SF/tack
+Disallow: /registrera-dig/UP/tack
+Disallow: /registrera-dig/UF/tack

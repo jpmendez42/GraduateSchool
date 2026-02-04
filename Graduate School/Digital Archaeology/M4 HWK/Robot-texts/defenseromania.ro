@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cauta?q=*
+Disallow: /tag/*
+Disallow: /autori/*
+Sitemap: https://www.defenseromania.ro/sitemap/sitemap-index.xml

@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: */!ut/
+Disallow: *?utm
+Sitemap: https://www.galicia.ar/sitemap.xml
+Sitemap: https://www.galicia.ar/sitemap-beneficios.xml

@@ -1,0 +1,34 @@
+User-agent: *
+Allow: /
+Disallow: /utilisateur
+Disallow: /rkrt_v3
+Disallow: /voitures-neuves 
+Disallow: /newsletters
+Disallow: /neuf
+Disallow: /reservation
+Disallow: /projet
+Disallow: /pdf
+Disallow: /assets/pdf/reglementjeu_filtre_taprochainevoiture_0722.pdf
+Disallow: /fiche/pdf
+Disallow: /occasions
+Disallow: /occasions/photos
+Disallow: /gallerie
+Disallow: *recherchecourte*
+Disallow: /avis-clients?*
+Disallow: /concession-*/voiture-occasion/*
+Disallow: /concession-*/voiture-neuve/*
+Disallow: /concession-*/recherche*
+Disallow: /mentions?*
+Disallow: /mentionscgi?*
+Disallow: /recherche?*
+Disallow: /maintenance/maintenance.php
+Sitemap: https://www.autosphere.fr/sitemap.xml
+# User Agent AdsBot
+User-agent: AdsBot-Google
+Disallow:
+# User Agent Mediapartners-Google
+User-agent: Mediapartners-Google
+Disallow:
+# User Agent Googlebot-image
+User-agent: Googlebot-Image
+Disallow:

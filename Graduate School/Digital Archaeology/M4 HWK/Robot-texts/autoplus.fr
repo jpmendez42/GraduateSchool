@@ -1,0 +1,39 @@
+# fichier statique /wp-content/themes/auto-sites/autoplus/robots.txt
+# XML Sitemap & Google News Feeds version 4.5 - http://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.autoplus.fr/sitemap.xml
+Sitemap: https://www.autoplus.fr/sitemap-news.xml
+
+User-agent: *
+Disallow: /*/xmlrpc.php
+Disallow: /*/wp-*.php
+Disallow: /*/trackback/
+Disallow: /*?wptheme=
+Disallow: /*?comments=
+Disallow: /*?replytocom
+Disallow: /*/comment-page-
+Disallow: /*?s=
+Disallow: /*?*preview_id=*
+Disallow: /fiche-technique?
+Disallow: /fiche-technique/page/*?
+Allow: /*/wp-content/themes/*/assets/
+Allow: /*/wp-includes/js
+Allow: /*/wp-content/themes/**/*.css
+Allow: /*/wp-content/themes/**/*.js
+Allow: /*/wp-content/themes/**/*.gif
+Allow: /*/wp-content/plugins/**/*.css
+Allow: /*/wp-content/plugins/**/*.js
+Allow: /*/wp-content/plugins/**/*.gif
+
+User-agent: grapeshot
+Disallow:
+
+User-agent: CCBot
+Crawl-delay: 2
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

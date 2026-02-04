@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 1
+Sitemap: https://www.zzap.ru/sitemap.xml
+Disallow: /sys/
+Disallow: /admin/
+Disallow: /plugin/
+Disallow: /webservice/
+Disallow: /cdn-cgi/
+Disallow: /upload/
+Disallow: /webhooks/
+Clean-param: noheader&code_desc

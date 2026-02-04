@@ -1,0 +1,88 @@
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: WoZuKaufenBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SEMrushBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: Mediatoolkitbot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+
+
+User-agent: *
+Disallow: /*.pdf$
+Disallow: */view_status/
+Disallow: */article_per_page/
+Disallow: */popup/true
+Disallow: /media/content/infocenter/pdfs/
+Disallow: /account.php
+Disallow: /account_addressbook.php
+Disallow: /account_basket_settings.php
+Disallow: /account_data_change.php
+Disallow: /account_lastseen.php
+Disallow: /account_login_settings.php
+Disallow: /account_newsletter.php
+Disallow: /account_opinion_tags.php
+Disallow: /account_orders.php
+Disallow: /account_orders_info.php
+Disallow: /account_orders_open.php
+Disallow: /account_orders_settings.php
+Disallow: /account_password_change.php
+Disallow: /account_password.php
+Disallow: /account_product_view_settings.php
+Disallow: /account_recommended.php
+Disallow: /address_book.php
+Disallow: /create_account.php
+Disallow: /display_vvcodes.php
+Disallow: /get_pdf.php
+Disallow: /login
+Disallow: /logoff.php
+Disallow: /newsletter.php
+Disallow: /order_login.php
+Disallow: /order_overview.php
+Disallow: /order_payment_method.php
+Disallow: /order_shipping.php
+Disallow: /order_success.php
+Disallow: /password_reset.php
+Disallow: /popup_comparator.php
+Disallow: /popup_lagerstatus_help.php
+Disallow: /popup_newsletter.php
+Disallow: /popup_orders_print.php
+Disallow: /popup_product_gallery.php
+Disallow: /popup_survey.php
+Disallow: /product_info_error_agent.php
+Disallow: /product_info_improvement_agent.php
+Disallow: /product_info_question_agent.php
+Disallow: /product_info_reviews_write.php
+Disallow: /shopping_cart.php
+Disallow: /shopping_cart_print.php
+Disallow: /welcome.php
+Disallow: /wishlist.php
+Disallow: /wishlist_print.php
+Disallow: /Highlights/Livekarte
+
+Sitemap: https://www.mindfactory.de/sitemap.xml

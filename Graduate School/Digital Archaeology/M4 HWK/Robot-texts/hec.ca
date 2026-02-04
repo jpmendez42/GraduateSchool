@@ -1,0 +1,19 @@
+
+User-Agent: *
+
+Disallow: /bin/
+Disallow: /public_html/
+Disallow: /programmes-beta/
+Disallow: /en/programs-beta/
+Disallow: /etudiant-beta/
+Disallow: /en/students-beta/
+Disallow: /registrariat/surveillance-examens/index.html
+Disallow: /registrariat/surveillance-examens/
+Disallow: /registrariat/surveillance-examens/guide-assistance-clavardage-teams/index.html
+Disallow: /registrariat/surveillance-examens/guide-assistance-clavardage-teams/
+Disallow: /registrariat/surveillance-examens/guide-surveillance-salle/index.html
+Disallow: /registrariat/surveillance-examens/guide-surveillance-salle/
+Disallow: /ecole-des-dirigeants/formations/formations-sur-mesure-pour-entreprises/habiletes-politiques-dans-les-organisations-soyez-un-acteur-strategique.html
+Disallow: /ecole-des-dirigeants/formations/webinaires-capsules-web/le-caij-et-led-vous-proposent-une-serie-de-capsules-web.html
+Disallow: /daip-old/
+Sitemap: https://www.hec.ca/sitemap.xml

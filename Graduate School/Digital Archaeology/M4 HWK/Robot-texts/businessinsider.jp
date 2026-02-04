@@ -1,0 +1,54 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: *
+Disallow: /article/178160/
+Disallow: /article/178092/
+Disallow: /font/*
+Disallow: /prime_about/?ref_pageid=
+Disallow: /feed/index.xml*?d=
+Disallow: /index.xml*?d=
+Disallow: /*?preview=*
+Disallow: /asset/
+Disallow: /assets/
+Disallow: /assets_c/
+Disallow: /upload_files/
+Disallow: /api/
+Disallow: /static/
+Disallow: /article_type/
+Disallow: /article_images/
+Disallow: /search/
+Disallow: /15055520/
+Disallow: /article/[slug]
+Disallow: /category/[slug]
+Disallow: /feature/[slug]
+Disallow: /regular/[slug]
+Disallow: /author/[slug]
+
+User-agent: *
+Sitemap: https://www.businessinsider.jp/sitemap/index.xml
+Sitemap: https://www.businessinsider.jp/feed/google_news_sitemap.xml

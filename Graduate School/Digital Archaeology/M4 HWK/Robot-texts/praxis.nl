@@ -1,0 +1,47 @@
+User-agent: *
+
+# Sitemap
+Sitemap: https://www.praxis.nl/sitemap.xml
+
+Allow: /*/content?*filterKeys=*
+
+Disallow: /admincockpit
+Disallow: /cart
+Disallow: /cmscockpit
+Disallow: /hac
+Disallow: /hmc
+Disallow: /importcockpit
+Disallow: /lightbox
+Disallow: /mcc
+Disallow: /onderhoudspagina
+Disallow: /productcockpit
+Disallow: /search
+Disallow: /versionpage
+Disallow: /view
+Disallow: /*/account-register
+Disallow: /*/register
+Disallow: /*/carousel
+Disallow: /*/got-account
+Disallow: /*/store_selector
+Disallow: /*/zoomImages
+Disallow: /*?lat*
+Disallow: /*?addCompare*
+Disallow: /*?compare*
+Disallow: /*?q=*
+Disallow: /*?removeCompare*
+Disallow: /*?referer*
+Disallow: /*/shd-delivery-address-postal
+Disallow: /service/montageservice/aankoop
+Disallow: /newsletter/unsubscribe*
+Disallow: /voordemakers/login?*
+Disallow: /login?redirectUrl=*
+Disallow: /*filterKeys=*
+Disallow: *.pdf
+Disallow: /assortiment/weekaanbieding/*
+Disallow: /*/makers/myprofile*
+Disallow: /*/makers/order-status*
+Disallow: /*/makers/questions*
+Disallow: /voordemakers/myprofile*
+Disallow: /voordemakers/order-status*
+Disallow: /voordemakers/questions*
+Disallow: /fragment/redirectUnauthorized

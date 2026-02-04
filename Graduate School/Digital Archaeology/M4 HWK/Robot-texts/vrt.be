@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /libs/
+Disallow: /vrtnws/*?ref=
+Disallow: /vrtnws/*linkId=
+Disallow: /vrtnws/*/sso/callback*error
+Disallow: /vrtnws/*teaser.marge
+Disallow: /vrtnws/*?t=
+
+User-agent: AI2Bot
+User-agent: Amazonbot
+User-agent: Applebot-Extended
+User-agent: anthropic-ai
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: FacebookBot
+User-agent: Google-Extended
+User-agent: GPTBot
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: OAI-SearchBot
+User-Agent: PerplexityBot
+User-agent: PerplexityUser
+Disallow: /vrtnws/
+
+Sitemap: https://www.vrt.be/vrtnws/nl.sitemap-index.xml
+
+Sitemap: https://www.vrt.be/vrtnws/en.sitemap-index.xml
+
+Sitemap: https://www.vrt.be/vrtnws/fr.sitemap-index.xml
+
+Sitemap: https://www.vrt.be/vrtnws/de.sitemap-index.xml
+
+Sitemap: https://www.vrt.be/vrtnws/nl.news-sitemap.xml

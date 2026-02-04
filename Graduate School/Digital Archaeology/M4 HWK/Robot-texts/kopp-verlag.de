@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /$ws/
+Disallow: /$WS/
+Disallow: /$WS/kopp-verlag/websale8_shop-kopp-verlag/benutzer/navigation/grafiken/pdf_report/
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Googlebot
+Allow: /$WS/kopp-verlag/websale7_shop-kopp-verlag/produkte/medien/bilder/
+
+Sitemap: https://www.kopp-verlag.de/toprank-sitemap_index_01-aa.xml

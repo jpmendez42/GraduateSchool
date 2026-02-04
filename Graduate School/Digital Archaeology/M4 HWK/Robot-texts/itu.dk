@@ -1,0 +1,9 @@
+
+   User-agent: AhrefsBot
+   Disallow: /
+
+   User-agent: *
+   Disallow: /docadm/
+   Disallow: /kommunikation/
+   Disallow: /sitecore/
+     

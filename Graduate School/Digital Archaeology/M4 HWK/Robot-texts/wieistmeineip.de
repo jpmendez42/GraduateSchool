@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /user/
+Disallow: /facebook/
+Disallow: /feedback/
+Disallow: /ajax/
+Sitemap: https://www.wieistmeineip.de/sitemap-de.xml

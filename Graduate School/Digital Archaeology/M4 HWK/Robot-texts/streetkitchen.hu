@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /profilom
+Disallow: /elfelejtett-jelszo
+Disallow: /jelszo-visszaallitas
+
+Allow: /
+
+Sitemap: https://streetkitchen.hu/sitemap.xml
+        

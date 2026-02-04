@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ivysilani/api
+Disallow: /ivysilani/*?*sort=*
+Disallow: /ivysilani/oblibene
+Disallow: /ivysilani/rozkoukane
+Disallow: /profil
+
+Sitemap: https://www.ceskatelevize.cz/ivysilani/sitemap/sitemap.xml
+Sitemap: https://ct24.ceskatelevize.cz/sitemap_all.xml
+Sitemap: https://sport.ceskatelevize.cz/sitemap.xml 
+

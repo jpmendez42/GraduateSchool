@@ -1,0 +1,12 @@
+User-agent: Yandex
+Disallow: /payments/
+Disallow: /payments/paypagezonk?
+Disallow: /payments/paypagethousand?
+Disallow: /payments/PayPageStones?
+Disallow: /payments/paypagedurak?
+Disallow: /logout
+Disallow: /User/
+Disallow: /home/contacts
+Disallow: /ResponseCode?
+Disallow: /ResponseCodeOK?
+Disallow: /game

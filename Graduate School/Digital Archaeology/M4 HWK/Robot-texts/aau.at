@@ -1,0 +1,13 @@
+User-agent: *
+Crawl-Delay: 4
+
+Allow: *.css
+Allow: *.js
+
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /vaau/lv
+
+#Sitemap archive
+Sitemap: https://www.aau.at/sitemap_index.xml

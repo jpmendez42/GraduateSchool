@@ -1,0 +1,45 @@
+User-agent: *
+Disallow: /account/
+Disallow: /admin/
+Disallow: /cms/
+Disallow: /inc/
+Disallow: /iframes/
+Disallow: /iphoneapp/
+Disallow: /popup/
+Disallow: /myehorses/
+Disallow: /reitartikel/
+Disallow: /search*
+Disallow: /similarhorses/
+Disallow: /test/
+Disallow: /topseller/ready
+Disallow: /premium/ready
+Disallow: /wirecard/
+Disallow: /pdf/
+Disallow: /facebook/
+Sitemap: https://www.ehorses.de/sitemap.xml
+
+User-agent: LinkedInBot/1.0
+Disallow: /kleinanzeigen/
+
+User-agent: XING-contenttabreceiver/2.0
+Disallow: /kleinanzeigen/
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /account/
+Disallow: /admin/
+Disallow: /cms/
+Disallow: /inc/
+Disallow: /iframes/
+Disallow: /iphoneapp/
+Disallow: /popup/
+Disallow: /myehorses/
+Disallow: /reitartikel/
+Disallow: /search*
+Disallow: /similarhorses/
+Disallow: /test/
+Disallow: /topseller/ready
+Disallow: /premium/ready
+Disallow: /wirecard/
+Disallow: /pdf/
+Disallow: /facebook/

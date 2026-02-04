@@ -1,0 +1,32 @@
+User-agent: *
+Disallow: /account/
+Disallow: /en/account/
+Disallow: */account/*
+Disallow: */print
+Disallow: */print/*
+Disallow: */imprimer
+Disallow: /assessor/*
+Disallow: /agent/*
+Disallow: /consultant/*
+Disallow: /conseiller/*
+Disallow: /conseiller-immobilier/*/estimation
+Disallow: /en/real-estate-agent/*/estimate
+Disallow: /estimation-agent-response*
+Disallow: /liste/annonces*
+Disallow: /fr/*
+Disallow: *?returnTo=*
+Disallow: */v2_*
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: msnbot-media
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://www.iadfrance.fr/sitemap.xml

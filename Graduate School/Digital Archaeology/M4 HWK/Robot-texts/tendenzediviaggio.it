@@ -1,0 +1,9 @@
+User-agent: grapeshot
+Disallow:
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.tendenzediviaggio.it/sitemap.xml
+Sitemap: https://www.tendenzediviaggio.it/sitemap-news.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /x-net/
+Disallow: /ita/
+Disallow: /banca-online/
+Disallow: /SSRDocumentDisplayer?
+Disallow: /SSRDisplayerI?
+Disallow: /SSRDisplayerP?

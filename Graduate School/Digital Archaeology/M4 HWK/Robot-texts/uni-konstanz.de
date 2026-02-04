@@ -1,0 +1,6 @@
+User-agent: Googlebot
+Disallow: /typo3/
+Allow: /
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /Scripts/
+Disallow: /Fonts/
+Disallow: /lib/
+Disallow: /Themes/
+Disallow: /VCS/

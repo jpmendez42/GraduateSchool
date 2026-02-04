@@ -1,0 +1,64 @@
+User-agent: *
+Disallow: /index.php?id*
+
+Disallow: /studium/vor-dem-studium/bewerbung-einschreibung/internationale-bewerberinnen-und-bewerber/bewerbungsvorgang/master/uni-assist-deutsche/master-international-economics-and-business/*
+Disallow: /en/study/before-you-begin/apply/apply-for-a-degree-programme/application-process/postgrads/direct-applications-from-german-nationals/ma-international-economics-and-business/*
+Disallow: /studium/vor-dem-studium/bewerbung-einschreibung/internationale-bewerberinnen-und-bewerber/bewerbungsvorgang/*
+Disallow: /en/study/before-you-begin/apply/german-language-requirements/application-process/*
+Disallow: /en/study/before-you-begin/apply/apply-for-a-degree-programme/application-process/*
+
+Disallow: /dokumente/studierende/Stud_sekretariat/*
+Disallow: /benchmarks/
+Disallow: /statistics/
+Disallow: /htdig/
+Disallow: /sophos/
+Disallow: */vorlesungsverzeichnis/*
+Disallow: */personenverzeichnis/*
+Disallow: */20190226/*
+Disallow: */webservice/*
+Disallow: *tt_news*
+Disallow: *no_cache=1*
+Disallow: *cHash=*
+Disallow: /en/study/study-options/course-catalogue/
+Disallow: */40-jahre-festwochenende-Sponsoring/*
+Disallow: /typo3temp/*
+Allow: /typo3temp/assets/*
+Disallow: /typo3/*
+Disallow: /visitgod/*
+
+#Stud.IP-Detailseiten:
+Disallow: /*&config_id=*
+Disallow: /*?config_id=*
+
+#Disallow: */bewerbungsvorgang/*
+
+Disallow: /fileadmin/01_intelec_daten/
+Allow: /fileadmin/Dateien/Arbeitsgruppe/Netze/*
+Disallow: /fileadmin/Dateien/*
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: memoryBot
+Disallow: /
+
+User-agent: Bayernsuche
+Disallow: /
+
+User-agent: BayernBot
+Disallow: /
+
+User-agent: jobs.de-Robot
+Disallow: /
+
+User-agent: Megaindex.ru
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+disallow: / 
+
+User-agent: Scrapy
+Disallow: /

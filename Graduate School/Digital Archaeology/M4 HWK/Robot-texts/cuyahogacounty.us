@@ -1,0 +1,809 @@
+ <!DOCTYPE html> <html lang="en" > <head><script>var elasticSearchUrl = '/search'; var elasticSearchBox = 'txtSiteSearch'; var elasticSearchButton = 'btnSiteSearch';</script> <meta charset="utf-8" /> <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"> <title>
+	The Official Government Website of Cuyahoga County
+</title> <link href="/ResourcePackages/Bootstrap5/assets/dist/css/main.min.css?package=Bootstrap5" rel="stylesheet" type="text/css" /><link href="/Frontend-Assembly/ElasticSearch.Widgets/Mvc/Styles/elasticsearch.css?package=Bootstrap5" rel="stylesheet" type="text/css" /> <!-- ======= Preconnect ======= --> <!-- ======= Oswald font ======= --> <link href="//fonts.googleapis.com/css?family=Oswald:300,500,700%7COpen+Sans:400,600,700" rel="stylesheet"> <!-- ======= Roboto font======= --> <!--link href="fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet"--> <!-- ======= Font-Awesome font======= --> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" /> <!-- ======= New Home Page is CustomLayout.css ======= --> <link rel="stylesheet" type="text/css" href="/ResourcePackages/Bootstrap5/assets/dist/css/CustomLayout.css"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/animate/animate.min.css" rel="stylesheet"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/aos/aos.css" rel="stylesheet"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/boxicons/css/boxicons.min.css" rel="stylesheet"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/remixicon/remixicon.css" rel="stylesheet"> <link href="/ResourcePackages/Bootstrap5/assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet"> <!--link rel="stylesheet" type="text/css" href="~/ResourcePackages/Bootstrap5/assets/dist/css/vendor/bootstrap/css/bootstrap.min.css"--> <meta name="description" content="The Official Government Website of Cuyahoga County, Ohio" /><script type="text/javascript">
+window._monsido = window._monsido || {
+        token: "G98XI9WyVuNOTjDxOORC8g",
+        statistics: {
+            enabled: true,
+            cookieLessTracking: false,
+            documentTracking: {
+                enabled: true,
+                documentCls: "monsido_download",
+                documentIgnoreCls: "monsido_ignore_download",
+                documentExt: ["pdf","doc","ppt","docx","pptx"],
+            },
+        },
+        heatmap: {
+            enabled: true,
+        },
+    };
+</script><script type="text/javascript" src="https://app-script.monsido.com/v2/monsido-script.js"></script><meta name="Generator" content="Sitefinity 15.1.8333.0 DX" /><link rel="canonical" href="https://cuyahogacounty.gov" /><meta name="description" content="The Official Government Website of Cuyahoga County, Ohio" /></head> <body> <script src="/ScriptResource.axd?d=6DQe8ARl7A9TiuWej5ttCugEt5dXLt7aQvOQHfjD85AsMD4OYhUWJUKzWqBg1-ljb9DkVxro2_mr-B360oH5vreFeuVdk5hYnG21srLJIODuGQmNBLLC12-Kh9nXV_McJa9clN53tDSM-Q3xDq4oEWXmBf9dceEzQoDuM8ENdYIgyX7VNnsrY1ObsSdUv1sN0&amp;t=2d10166" type="text/javascript"></script><script src="/ScriptResource.axd?d=dJqyoTStQGFGCcNtOAFUcgk0grw9ZeY25fmkHiLZ8moEZgG9sKBqfUYJONfNfyv0mTZDRr-mfBCjrmWq0RzEhlP1_ezZ1rxJsCHAK_bRJk3Qiy_vnAKUM6a-7P329kOVcPgWVY4PYoB1MlMN4G9GDlOjXZTHvdQeW0YHLR84gOGRiV2iwnVL2-PZqDVj1GmS0&amp;t=2d10166" type="text/javascript"></script> <!--div class="container-fluid">
+      <asp:contentplaceholder ID='Contentplaceholder1' runat='server' />
+  </div-->  <script src="/ScriptResource.axd?d=Uf8BQcxRshYGUr_fjsqPCMi97ak7Yodv0u1Db_Q5NP28uP30ItF9EwyHJ2m4qP5EJ2w_7HezbNyCeHba9gRxMf77-jyc20P4zJtgNoB-T0PQQtRRoVWC4w95KqW1-MK92HrTk6lLyAYvSuzp8gMuO1qFJ4JQe7jmkRUJqaTNMCr3wxsGstnsHylrQCcI1JEw0&amp;t=2d10166" type="text/javascript"></script> <script src="/ResourcePackages/Bootstrap5/assets/dist/js/bootstrap.min.js" type="text/javascript"></script>  <script src="/Frontend-Assembly/ElasticSearch.Widgets/Mvc/Scripts/elasticsearch.js?package=Bootstrap5&amp;v=MTU5MjgwMzM2Mw%3d%3d" type="text/javascript"></script> <section id="topbar" class="fixed-top d-flex align-items-center g-0 ft"> <div class="container-fluid d-flex align-items-center justify-content-center justify-content-md-between site-alert  g-0"> <div class="container-fluid d-flex align-items-center g-0"> <!-- ======= Site Alert ======= --> <div id="site_alert" class="Xng-hide container-fluid g-0"> <div class="container-fluid  g-0"> 
+
+
+
+<div class="site-alert">
+    </div> </div> </div> </div> </div> </section> <!-- ======= Header ======= --> <header id="header" class="fixed-top d-flex align-items-center  pt-4 header-scrolled"> <div class="container d-flex align-items-center justify-content-between"> <img src="/ResourcePackages/Bootstrap5/assets/dist/images/cc_logo_home.png" class="img-fluid" alt="Cuyahoga County Logo" /> <!-- ======= Navbar ======= --> <nav id="navbar" class="navbar navbar-expand-md navbar"> <ul> 
+
+
+
+
+
+<div>
+    <!--nav class="navbar navbar-expand-md navbar"-->
+        <div class="container-fluid">
+            
+               			
+				  
+				        <!--ul>
+						<li><a class="nav-link scrollto active" href="#hero">HOME</a> </li>
+					    </ul-->
+				
+					<button class="navbar-toggler nav-link scrollto" type="button" data-bs-toggle="collapse" data-bs-target='#navbar-1' aria-controls='navbar-1' aria-expanded="false" aria-label="Toggle navigation">
+						<span class="navbar-toggler-icon"></span>
+					</button>
+					
+						<ul>
+						 <li><a class="nav-link scrollto active" href="#hero">HOME</a> </li>
+						<li class="nav-item">
+							<a class="nav-link scrollto " href="/home/services" target="_self">Services</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link scrollto " href="/home/business" target="_self">Business</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link scrollto " href="/home/government" target="_self">Government</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link scrollto " href="/home/community" target="_self">Community</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link scrollto " href="/a-z-directory" target="_self">Departments</a>
+						</li>
+
+						</ul>
+					</div>
+					
+				
+        </div>
+		
+    <!--/nav-->
+</div>
+
+
+
+
+
+
+
+
+ </ul> </nav> <span class="bi bi-list mobile-nav-toggle ng-hide"></span> <button onclick="openSearch()" id="mobilesearch" class="mobile-search-toggle  mobile-only ng-hide" aria-controls="expandsearch" aria-expanded="false" aria-label="Open Search on mobile" title="Open Search on mobile"><i class="fas fa-search"></i></button> <button onclick="closeSearch()" id="closesearch" class="mobile-search-toggle mobile-only extended" aria-label="Open close on mobile" title="Open close on mobile"><i class="fa-solid fa-xmark"></i></button> <div id="expandsearch" class="ng-hide">
+
+<div class="d-block">
+<div class="d-flex me-5 pe-5 search-box-vert-mobile"  role="search" style="margin-top:-20px">
+
+    <input type="search" title="Search input" placeholder="Search" id="6cdeca9a-2729-4276-8038-ef4e0c732ecf" class="form-control  d-none" value="" aria-autocomplete="both" aria-describedby='SearchInfo-1' />
+
+    <button type="button" class="btn  d-none" id="88b13f03-112f-48d3-afa9-6b029457a168" ><i class="fa-solid fa-magnifying-glass btn-search"></i></button>
+    <span id='SearchInfo-1' aria-hidden="true" hidden>When autocomplete results are available use up and down arrows to review and enter to select.</span>
+
+
+    <input type="hidden" data-sf-role="resultsUrl" value="/code/search-results" />
+    <input type="hidden" data-sf-role="indexCatalogue" value="main-index" />
+    <input type="hidden" data-sf-role="disableSuggestions" value='false' />
+    <input type="hidden" data-sf-role="minSuggestionLength" value="3" />
+    <input type="hidden" data-sf-role="suggestionFields" value="Title,Content" />
+    <input type="hidden" data-sf-role="language" value="en" />
+    <input type="hidden" data-sf-role="siteId" value="f3ea71cd-b8c9-4a53-b0db-ee5d552472fc" />
+    <input type="hidden" data-sf-role="suggestionsRoute" value="/restapi/search/suggestions" />
+    <input type="hidden" data-sf-role="searchTextBoxId" value='#6cdeca9a-2729-4276-8038-ef4e0c732ecf' />
+    <input type="hidden" data-sf-role="searchButtonId" value='#88b13f03-112f-48d3-afa9-6b029457a168' />
+    <input type="hidden" data-sf-role="scoringSettings" value='' />
+</div>
+
+
+
+
+
+<div class="twelve70">
+    <div class="form-inline es-search-box">
+        <div class="form-inner d-flex">
+            <div class="form-group" style="position: relative;">
+                <label for="txtSiteSearch" class="sr-only">Site Search</label>
+                <input type="text" id="txtSiteSearch" class="form-control" placeholder="Search" autocomplete="off" aria-label="Insert Keyword to search"/>
+            </div>
+            <button type="button" id="btnSiteSearch" class="btn btn-primary" title="Search">
+                <span class="visually-hidden">Submit</span>
+                <i class="fas fa-search"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+</div> <!-- end of navbar --> </div> <!-- ======= Breadcrumbs. No need as this is only Home page ======= --> </header> <!-- End Header --> <!-- ======= Hero Carousel ======= --> <section id="hero" class="d-flex justify-cntent-center align-items-center ng-hide"> <div id="heroCarousel" data-bs-interval="5000" class="container-fluid carousel carousel-fade ng-hide" data-bs-ride="carousel"> <!--iframe src="https://player.vimeo.com/video/898356164?autoplay=1&badge=0&autopause=0&player_id=1&app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:-50px;left:0;width:130%;height:130%;object-fit: fill;!important" title="Seasonal Website Video"></iframe--> <!--script src="https://player.vimeo.com/api/player.js"></script--> </div> </section><!-- End Hero --> <!-- End Hero Carousel --> <main> <section id="ri" class="ri"> <div class="container"> <!--div class="row">
+           <asp:contentplaceholder ID='ContentPlaceholderRoundIcons' runat='server' />
+        </div--> <div class="row"> <div class="col-lg-12  align-items-stretch"> <div class="icon-round-boxes d-flex flex-column justify-content-center"> <div class="row mt-4"> <div class="container"> <div class="row"> <div class="col-12 col-sm-6 col-md-4 col-xl-2"> <div class="card mx-auto card-transparent"> <div class="card-body align-card-content-center"> <a href="/treasury/pay-your-taxes" class="mx-auto stretched-link pay-your-taxes" target="_blank" aria-label="Pay Your Taxes"> <span class="fa-stack fa-3x round-button-fa"> <i class="fa-regular fa-circle fa-stack-2x"></i> <i class="fa-solid fa-money-check-dollar fa-stack-1x" style="-fa-animation-direction: reverse"></i><br /> </span> </a> <h2 class="card-title text-primary">Pay Your Taxes</h2> <p class="transparent-card-text">Explore ways to pay, opt-in for E-Billing</p> </div> </div> </div> <div class="col-12 col-sm-6 col-md-4 col-xl-2"> <div class="card mx-auto card-transparent"> <div class="card-body align-card-content-center"> <a href="https://myplace.cuyahogacounty.gov/?utm_source=County_Home&utm_medium=Link&utm_campaign=Primary_CTA&utm_content=Property_Search" class="mx-auto stretched-link property-search" target="_blank" aria-label="Property Search"> <span class="fa-stack fa-3x round-button-fa"> <i class="fa-regular fa-circle fa-stack-2x"></i> <i class="fa-solid fa-house-circle-check fa-stack-1x" style="-fa-animation-direction: reverse"></i><br /> </span> </a> <h2 class="card-title text-primary">Property Search</h2> <p class="transparent-card-text">Search property information and more</p> </div> </div> </div> <div class="col-12 col-sm-6 col-md-4 col-xl-2"> <div class="card mx-auto card-transparent"> <div class="card-body align-card-content-center"> <a href=https://cpdocket.cp.cuyahogacounty.gov/?utm_source =County_Home&utm_medium =Link&utm_campaign =Primary_CTA&utm_content =Court_Dockets" class="mx-auto  stretched-link court-dockets" target="_blank" aria-label="Court Dockets"> <span class="fa-stack fa-3x round-button-fa"> <i class="fa-regular fa-circle fa-stack-2x"></i> <i class="fa-solid fa-gavel fa-stack-1x" style="-fa-animation-direction: reverse"></i><br /> </span> </a> <h2 class="card-title text-primary">Court Dockets</h2> <p class="transparent-card-text">Case records search system and more</p> </div> </div> </div> <div class="col-12 col-sm-6 col-md-4 col-xl-2"> <div class="card mx-auto card-transparent"> <div class="card-body align-card-content-center"> <a href="https://cuyahoga.oh.publicsearch.us" class="mx-auto  stretched-link records-search" target="_blank" aria-label="Records Search"> <span class="fa-stack fa-3x round-button-fa"> <i class="fa-regular fa-circle fa-stack-2x"></i> <i class="fa-solid fa-file fa-stack-1x" style="-fa-animation-direction: reverse"></i><br /> </span> </a> <h2 class="card-title text-primary">Records Search</h2> <p class="transparent-card-text">Cuyahoga County official records search</p> </div> </div> </div> <div class="col-12 col-sm-6 col-md-4 col-xl-2"> <div class="card mx-auto card-transparent"> <div class="card-body align-card-content-center"> <a href="https://hhs.cuyahogacounty.gov/services-hub?utm_source=County_Home&utm_medium=Link&utm_campaign=Most_Popular_Services&utm_content=Social_Services" class="mx-auto  stretched-link social-service" target="_blank" aria-label="Social Services"> <span class="fa-stack fa-3x round-button-fa"> <i class="fa-regular fa-circle fa-stack-2x"></i> <i class="fa-solid fa-hands-holding-child fa-stack-1x" style="-fa-animation-direction: reverse"></i><br /> </span> </a> <h2 class="card-title text-primary">Social Services</h2> <p class="transparent-card-text">County residents benefits & services</p> </div> </div> </div> <div class="col-12 col-sm-6 col-md-4 col-xl-2"> <div class="card mx-auto card-transparent"> <div class="card-body align-card-content-center"> <a href="https://ccprod-lm01.cloud.infor.com:1444/lmghr/Jobs/page/JobsHomePage?csk.showusingxi=true&csk.JobBoard=EXTERNAL&csk.HROrganization=10&utm_source=County_Home&utm_medium=Link&utm_campaign=Primary_CTA&utm_content=Find_a_Career" class="mx-auto  stretched-link careers" target="_blank" aria-label="Careers"> <span class="fa-stack fa-3x round-button-fa"> <i class="fa-regular fa-circle fa-stack-2x"></i> <i class="fa-solid fa-user-tie fa-stack-1x" style="-fa-animation-direction: reverse"></i><br /> </span> </a> <h2 class="card-title text-primary">Careers</h2> <p class="transparent-card-text">Join Our Team! Apply on our jobs board.</p> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </section> <!-- ======= Featured Items (.fi) Section ======= --> <section id="fi" class="fi fi-section-bg" style="/* padding:5rem 0 10rem 0; */"> <div class="container"> 
+
+<script src="https://cdn.usefathom.com/script.js" data-site="WVYURSYW" defer></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div >
+    <div ><div class="section-title"><h2>County Spotlight</h2></div></div>    
+</div><div class="row" data-sf-element="Row">
+    <div id="ContentPlaceholderFeaturedItems_TB5860D3B012_Col00" class="sf_colsIn col-lg-4  p-3 d-flex align-items-stretch" data-sf-element="Column 1" data-placeholder-label="Column 1">
+
+
+<div>
+  <div class="card shadow-lg mt-1 h-100">
+      <img class="card-img-top img-fluid" src="https://cuyahogacms.blob.core.windows.net/home/images/default-source/default-album/centro-villa.jpg?sfvrsn=6ec6d193_0" title="Centro Villa" alt="A public transit bus is driving on a city street near a modern looking building with murals on the side." width=600 height=185 />
+    <div class="card-body">
+        <h5 class="card-title">Program to Boost TOD</h5>
+              <p class="card-text">County announces Transit-Oriented Development Loan Program to support projects near public transit.</p>
+
+      <a class="stretched-link" href="https://cuyahogacounty.gov/county-news/county-news-detail/2025/08/25/cuyahoga-county-s-new-loan-program-to-boost-jobs-and-development-near-transit" aria-label='Program to Boost TOD'>Learn More and Apply </a>
+
+    </div>
+  </div>
+</div>
+    </div>
+    <div id="ContentPlaceholderFeaturedItems_TB5860D3B012_Col01" class="sf_colsIn col-lg-4  p-3  d-flex align-items-stretch" data-sf-element="Column 2" data-placeholder-label="Column 2">
+
+
+<div>
+  <div class="card shadow-lg mt-1 h-100">
+      <img class="card-img-top img-fluid" src="https://cuyahogacms.blob.core.windows.net/home/images/default-source/countynews/snap-medicaid424797073.jpg?sfvrsn=a5c7703e_0" title="Snap-medicaid" alt="Five people sitting at a table in front of an audience and a man standing doing sign language." width=600 height=185 />
+    <div class="card-body">
+        <h5 class="card-title">Changes to Medicaid and SNAP</h5>
+              <p class="card-text">County leaders and community partners shared information about federal changes to benefits and impact on residents.</p>
+
+      <a class="stretched-link" href="https://www.youtube.com/watch?v=Qt_61ip-NFQ" aria-label='Changes to Medicaid and SNAP'>Watch the recording </a>
+
+    </div>
+  </div>
+</div>
+    </div>
+    <div id="ContentPlaceholderFeaturedItems_TB5860D3B012_Col02" class="sf_colsIn col-lg-4  p-3  d-flex align-items-stretch" data-sf-element="Column 3" data-placeholder-label="Column 3">
+
+
+<div>
+  <div class="card shadow-lg mt-1 h-100">
+      <img class="card-img-top img-fluid" src="https://cuyahogacms.blob.core.windows.net/home/images/default-source/countynews/fwinstitute-kickoff.jpg?sfvrsn=28a6ea4c_0" title="FWInstitute-KickOff" alt="A woman is holding a microphone and speaking to a room filled with people at tables." width=600 height=185 />
+    <div class="card-body">
+        <h5 class="card-title">Fresh Water Institute</h5>
+              <p class="card-text">From water safety education to Great Lakes advocacy, FWI aims to strengthen freshwater stewardship.</p>
+
+      <a class="stretched-link" href="https://cuyahogacounty.gov/sustainability/initiatives/fresh-water-institute" aria-label='Fresh Water Institute'>Learn more </a>
+
+    </div>
+  </div>
+</div>
+    </div>
+</div>
+ </div> </section> <!-- End Featured Items Section --> <!-- ======= Council and Executive Section ======= --> <section id="council" class="services section-bg " style="/* padding:5rem 0 5rem 0; */"> <div class="ce"> <div class="container" "> <div class="section-title"> <div class="row"> 
+<div class="row" data-sf-element="Row">
+    <div id="ContentPlaceholderCouncilAndExecutive_TB5860D3B020_Col00" class="sf_colsIn col-lg-6 p-1 d-flex align-items-stretch" data-sf-element="Column 1" data-placeholder-label="Insert County Council Contnet (CARD)">
+
+
+<div class="h-100">
+
+  <div class="text-center"><h2>EXECUTIVE</h2></div>
+
+  <div class="card shadow-lg p-4">
+    <!--img src="~/ResourcePackages/Bootstrap5/assets/dist/images/council-card-icon.jpg" class="card-img-top county-card-icon" alt="card-img-top"-->
+      <div>  <img class="card-img-top img-fluid img-thumbnail" src="https://cuyahogacms.blob.core.windows.net/home/images/default-source/executive/cris-ronaynehorizontal.jpg?sfvrsn=3d3c4a37_1" title="Chris Ronayne and Cuyahoga County headquarters" alt="Cris Ronayne smiling in suit and tie in front the Cuyahoga County Headquarters" width=1130 height=349 style="border-top-right-radius:0px;border-top-left-radius:0px" /></div>
+    <div class="card-body border-5 border-top-5 border-danger ">
+              <p class="card-text text-start"><p style="font-style: normal; text-align: left;">County Executive Chris Ronayne took office in January of 2023. He is dedicated to public service, with leadership and measurable results at the County Planning Commission, the City of Cleveland, and University Circle.</p>
+<br></p>
+      <a class="stretched-link" href="/executive" aria-label="County Executive"></a>
+    </div>
+  </div>
+
+</div>
+    </div>
+    <div id="ContentPlaceholderCouncilAndExecutive_TB5860D3B020_Col01" class="sf_colsIn col-lg-6 p-1 d-flex align-items-stretch" data-sf-element="Column 2" data-placeholder-label="Insert Executive Contnet (CARD)">
+
+
+<div class="h-100">
+
+  <div class="text-center"><h2>COUNTY COUNCIL</h2></div>
+
+  <div class="card shadow-lg p-4">
+    <!--img src="~/ResourcePackages/Bootstrap5/assets/dist/images/council-card-icon.jpg" class="card-img-top county-card-icon" alt="card-img-top"-->
+      <div>  <img class="card-img-top img-fluid img-thumbnail" src="https://cuyahogacms.blob.core.windows.net/home/images/default-source/council/council.jpg?sfvrsn=6033e777_5" title="Council" alt="group of council members" width=1130 height=350 style="border-top-right-radius:0px;border-top-left-radius:0px" /></div>
+    <div class="card-body border-5 border-top-5 border-danger ">
+              <p class="card-text text-start"><p style="font-style: normal; text-align: left;">County Council is the co-equal legislative branch of government made up of 11 elected representatives voted on by the people of their respective districts. Council meetings are the 2nd and 4th Tuesday of the month at 5:00 p.m. and open to the public.</p></p>
+      <a class="stretched-link" href="/council" aria-label="County Council"></a>
+    </div>
+  </div>
+
+</div>
+
+
+    </div>
+</div>
+ </div> </div> </div> </div> </section> <!-- End Council and Executive Items Section --> <!-- ======= News Items (.ne) Section ======= --> <section id="ne" class="fi-section-bg" style="/* padding:5rem 0 10rem 0; */"> <div class="ne"> <div class="container"> <div class="row">
+
+<div >
+    <div ><div class="section-title"><h2>News &amp; Information</h2></div></div>    
+</div>
+<div>
+  <ul class="rail-list hola shadow-lg p-1 mb-2 p-3 mb-5  rounded">
+
+        <div class="row">
+          <div class="col">
+            <div class="card-group">
+              <div class="card mb-1 hover-overlay">
+                <div class="row g-0 card-block">
+                  <div class="col-md-2 p-1 card-block d-none d-lg-block no_thumbnail_news_bg">
+                    <div class="card__corner shadow-sm">
+                      <div class="card__corner-triangle"></div>
+                    </div>
+
+
+                    <img src='https://cuyahogacms.blob.core.windows.net/home/images/default-source/countynews/fallaerialnortholmsted.jpg?sfvrsn=dfbe587b_1' class="img-fluid w-50 d-none d-sm-block d-md-noneX img-thumbnail img-path-news" alt="Cuyahoga County News Thumbnail">
+
+
+                  </div>
+                  <div class="col-md-10">
+                    <div class="card-header bg-transparent border-0 float-end text-muted small me-3"><i>10/09/2025</i> </div>
+                    <div class="card-body justify-content-start">
+                      <div class="card-title push-right-50"><a href="https://cuyahogacounty.gov/county-news/county-news-detail/2025/10/09/cuyahoga-county-returns--35-million-in-real-estate-assessment-funds-to-cities--school-districts-and-other-taxing-authorities" class="stretched-link  lead one-line-title">Cuyahoga County Returns $35 Million in Real Estate Assessment Funds to Cities, School Districts and Other Taxing Authorities</a></div>
+                      <p class="card-text">
+                        <span class="text-muted">
+
+                          <span class="push-right-50 one-line-title"> Cuyahoga County Executive Chris Ronayne announced the return of $35 million in Real Estate Assessment funds to cities, school districts, and other taxing authorities in Cuyahoga County.</span>
+
+
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <div class="card-group">
+              <div class="card mb-1 hover-overlay">
+                <div class="row g-0 card-block">
+                  <div class="col-md-2 p-1 card-block d-none d-lg-block no_thumbnail_news_bg">
+                    <div class="card__corner shadow-sm">
+                      <div class="card__corner-triangle"></div>
+                    </div>
+
+
+                    <img src='https://cuyahogacms.blob.core.windows.net/home/images/default-source/countynews/sheriff-car-lights.jpg?sfvrsn=b58c3406_1' class="img-fluid w-50 d-none d-sm-block d-md-noneX img-thumbnail img-path-news" alt="Cuyahoga County News Thumbnail">
+
+
+                  </div>
+                  <div class="col-md-10">
+                    <div class="card-header bg-transparent border-0 float-end text-muted small me-3"><i>10/06/2025</i> </div>
+                    <div class="card-body justify-content-start">
+                      <div class="card-title push-right-50"><a href="https://cuyahogacounty.gov/county-news/county-news-detail/2025/10/06/cuyahoga-county-sheriff&#39;s-department-revises-pursuit-policy-to-strengthen-community-safety" class="stretched-link  lead one-line-title">Cuyahoga County Sheriff&#39;s Department Revises Pursuit Policy To Strengthen Community Safety</a></div>
+                      <p class="card-text">
+                        <span class="text-muted">
+
+                          <span class="push-right-50 one-line-title"> Cuyahoga County Executive Chris Ronayne joins Cuyahoga County Sheriff Harold A. Pretel in announcing a revision of the policies and procedures that guide the Sheriff’s Department on vehicle pursuits.</span>
+
+
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <div class="card-group">
+              <div class="card mb-1 hover-overlay">
+                <div class="row g-0 card-block">
+                  <div class="col-md-2 p-1 card-block d-none d-lg-block no_thumbnail_news_bg">
+                    <div class="card__corner shadow-sm">
+                      <div class="card__corner-triangle"></div>
+                    </div>
+
+
+                    <img src='https://cuyahogacms.blob.core.windows.net/home/images/default-source/countynews/virgilbrownbldg.jpg?sfvrsn=d89aa46b_1' class="img-fluid w-50 d-none d-sm-block d-md-noneX img-thumbnail img-path-news" alt="Cuyahoga County News Thumbnail">
+
+
+                  </div>
+                  <div class="col-md-10">
+                    <div class="card-header bg-transparent border-0 float-end text-muted small me-3"><i>10/02/2025</i> </div>
+                    <div class="card-body justify-content-start">
+                      <div class="card-title push-right-50"><a href="https://cuyahogacounty.gov/county-news/county-news-detail/2025/10/02/what-the-government-shutdown-means-for-cuyahoga-county-residents-receiving-federal-benefits" class="stretched-link  lead one-line-title">What the Government Shutdown Means for Cuyahoga County Residents Receiving Federal Benefits</a></div>
+                      <p class="card-text">
+                        <span class="text-muted">
+
+                          <span class="push-right-50 one-line-title"> See shutdown FAQs from Cuyahoga Job and Family Services</span>
+
+
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <div class="card-group">
+              <div class="card mb-1 hover-overlay">
+                <div class="row g-0 card-block">
+                  <div class="col-md-2 p-1 card-block d-none d-lg-block no_thumbnail_news_bg">
+                    <div class="card__corner shadow-sm">
+                      <div class="card__corner-triangle"></div>
+                    </div>
+
+
+                    <img src='https://cuyahogacms.blob.core.windows.net/home/images/default-source/countynews/justicecenter1.jpg?sfvrsn=45f20a36_1' class="img-fluid w-50 d-none d-sm-block d-md-noneX img-thumbnail img-path-news" alt="Cuyahoga County News Thumbnail">
+
+
+                  </div>
+                  <div class="col-md-10">
+                    <div class="card-header bg-transparent border-0 float-end text-muted small me-3"><i>10/02/2025</i> </div>
+                    <div class="card-body justify-content-start">
+                      <div class="card-title push-right-50"><a href="https://cuyahogacounty.gov/county-news/county-news-detail/2025/10/02/cuyahoga-county-welcomes-back-in-person-visitation-for-corrections-center-residents" class="stretched-link  lead one-line-title">Cuyahoga County Welcomes Back In-person Visitation for Corrections Center Residents</a></div>
+                      <p class="card-text">
+                        <span class="text-muted">
+
+                          <span class="push-right-50 one-line-title"> The Cuyahoga County Corrections Center has reinstated in-person visitation for residents of the facility, restoring options to connect face-to-face with family, friends, and loved ones.</span>
+
+
+                        </span>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+  </ul>
+
+  <p class="float-end mb-3"><a href="/executive/news" data-sf-ec-immutable=""><em>More News</em></a></p>
+</div>
+
+<style>
+  @media only screen and (max-width: 1024px) {
+    .push-right-50 {
+      margin-left: 50px;
+    }
+  }
+
+  .card:hover {
+    text-decoration: none !important;
+    background-color: none !important;
+    background: none !important;
+  }
+
+  .card-title a {
+    text-decoration: none;
+  }
+
+  .wrapper {
+    padding: 20px;
+    background: #eaeaea;
+    max-width: 400px;
+    margin: 50px auto;
+  }
+
+  .one-line-title {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+
+
+
+  .card .card__corner {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 2em;
+    height: 2em;
+    background-color: #e6e7e8;
+    background: linear-gradient(45deg, rgba(255,255,255,0.9737066701680672) 30%, rgba(230,231,232,1) 50%, rgba(255,255,255,1) 0%)
+  }
+
+    .card .card__corner .card__corner-triangle {
+      position: absolute;
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 0 2em 2em 0;
+      border-color: transparent #f1f2f2 transparent transparent;
+    }
+</style><div id="ContentPlaceholderNews_TB5860D3B017_Col00" class="sf_colsIn" data-sf-element="Div" data-placeholder-label="Insert News">
+<div >
+    <div ><div class="section-title">
+    <h2>UPCOMING EVENTS</h2>
+</div></div>    
+</div></div>
+</div> <div class="row">
+<div id="ContentPlaceholderEvents_TB5860D3B019_Col00" class="sf_colsIn" data-sf-element="Div" data-placeholder-label="Insert Events">
+
+
+<div class="moudle list events">
+
+
+
+  <ul class="item-list shadow-lg p-1 mb-2 p-3 mb-5  rounded">
+      <li class="item list-group-item list-group-item-action p-0" >
+        <div class="title bold d-flex" style="width:inherit">
+
+          <div class="square square-lg btn-primary p-3 text-center">
+
+                <span class="display-5 ps-3 pe-3">14</span>
+                <div class="small">
+                  Oct 2025<br />
+
+                </div>
+
+          </div>
+
+          <ul class="list-group list-group-flush  news-title fw-normal" style="width:inherit">
+            <li class="list-group-item h-100 bg-transparent">
+              <a href="https://cuyahogacounty.gov/calendar/event-detail/2025/10/14/boards-and-commissions/investment-advisory-committee-meeting---10-14-25"  target="_blank" rel="noopener noreferrer" class="stretched-link lead one-line-title" id="newsItem">
+                Investment Advisory Committee Meeting - 10/14/25 <hr class="hr blurry" />
+            </a>
+
+              <span class="text-muted small p-0 pull-to-left fw-normal">Start: 10:30 AM<span> - </span>End: 11:30 AM | </span>
+
+
+
+            <span class="text-muted small p-0 fw-normal">
+                <span>
+                  Cuyahoga County Administrative Headquarters
+                  
+<span> - </span>                </span>
+              <span> 2079 East Ninth Street, Committee Room B, 4-407</span>              <span> Cleveland</span>
+
+                <span>
+                  
+<span>, </span>                  OH
+                </span>
+              <span> 44115</span>              <br>
+            </span>
+
+            <div class="summary fw-normal" >
+              
+            </div>
+
+            <div class="related-content fw-normal" style="display:none">
+                <a href="https://cuyahogacms.blob.core.windows.net/home/docs/default-source/agendas/101425-iacagenda.pdf?sfvrsn=8b59bb1a_1">
+                  <svg class="icon icon-notebook-list"><use xlink:href="#icon-notebook-list"></use></svg>
+                  <span>Agenda</span>
+                </a>
+                                        </div>
+          </li>
+
+
+
+
+        </ul>
+
+      </div>
+    </li>
+      <li class="item list-group-item list-group-item-action p-0" >
+        <div class="title bold d-flex" style="width:inherit">
+
+          <div class="square square-lg btn-primary p-3 text-center">
+
+                <span class="display-5 ps-3 pe-3">14</span>
+                <div class="small">
+                  Oct 2025<br />
+
+                </div>
+
+          </div>
+
+          <ul class="list-group list-group-flush  news-title fw-normal" style="width:inherit">
+            <li class="list-group-item h-100 bg-transparent">
+              <a href="https://cuyahogacounty.gov/calendar/event-detail/2025/10/14/boards-and-commissions/10-14-25---board-of-control-meeting"  target="_blank" rel="noopener noreferrer" class="stretched-link lead one-line-title" id="newsItem">
+                10/14/25 - Board of Control Meeting <hr class="hr blurry" />
+            </a>
+
+              <span class="text-muted small p-0 pull-to-left fw-normal">Start: 11:00 AM<span> - </span>End: 12:00 PM | </span>
+
+
+
+            <span class="text-muted small p-0 fw-normal">
+              <span> Cmmt Room B - 2079 East 9-th Street 4-th Floor</span>              
+
+                            <br>
+            </span>
+
+            <div class="summary fw-normal" >
+              Open to public & may also be accessed via livestream:  YouTube.com/CuyahogaCounty
+            </div>
+
+            <div class="related-content fw-normal" style="display:none">
+                <a href="https://cuyahogacms.blob.core.windows.net/home/docs/default-source/boards-and-commissions/internal/boc/2025/101425-bocagenda.pdf?sfvrsn=85082ae2_1">
+                  <svg class="icon icon-notebook-list"><use xlink:href="#icon-notebook-list"></use></svg>
+                  <span>Agenda</span>
+                </a>
+                                        </div>
+          </li>
+
+
+
+
+        </ul>
+
+      </div>
+    </li>
+      <li class="item list-group-item list-group-item-action p-0" >
+        <div class="title bold d-flex" style="width:inherit">
+
+          <div class="square square-lg btn-primary p-3 text-center">
+
+                <span class="display-5 ps-3 pe-3">14</span>
+                <div class="small">
+                  Oct 2025<br />
+
+                </div>
+
+          </div>
+
+          <ul class="list-group list-group-flush  news-title fw-normal" style="width:inherit">
+            <li class="list-group-item h-100 bg-transparent">
+              <a href="https://cuyahogacounty.gov/calendar/event-detail/2025/10/14/council/committee-of-the-whole-meeting-executive-session---10-14-2025"  target="_blank" rel="noopener noreferrer" class="stretched-link lead one-line-title" id="newsItem">
+                Committee of the Whole Meeting/Budget Hearing/Executive Session - 10/14/2025 <hr class="hr blurry" />
+            </a>
+
+              <span class="text-muted small p-0 fw-normal">Start:  1:00 PM | </span>
+
+
+
+            <span class="text-muted small p-0 fw-normal">
+              <span> C. Ellen Connally Council Chambers-2079 East 9th Street, 4th Floor</span>              
+
+                            <br>
+            </span>
+
+            <div class="summary fw-normal" >
+              
+            </div>
+
+            <div class="related-content fw-normal" style="display:none">
+                <a href="https://cuyahogacms.blob.core.windows.net/home/docs/default-source/council/committees/cotw/2025/20251014-ccwhl-agendapcp.pdf?sfvrsn=a056c21b_1">
+                  <svg class="icon icon-notebook-list"><use xlink:href="#icon-notebook-list"></use></svg>
+                  <span>Agenda</span>
+                </a>
+                                        </div>
+          </li>
+
+
+
+
+        </ul>
+
+      </div>
+    </li>
+      <li class="item list-group-item list-group-item-action p-0" >
+        <div class="title bold d-flex" style="width:inherit">
+
+          <div class="square square-lg btn-primary p-3 text-center">
+
+                <span class="display-5 ps-3 pe-3">14</span>
+                <div class="small">
+                  Oct 2025<br />
+
+                </div>
+
+          </div>
+
+          <ul class="list-group list-group-flush  news-title fw-normal" style="width:inherit">
+            <li class="list-group-item h-100 bg-transparent">
+              <a href="https://cuyahogacounty.gov/calendar/event-detail/2025/10/14/council/council-meeting---10-14-2025"  target="_blank" rel="noopener noreferrer" class="stretched-link lead one-line-title" id="newsItem">
+                Council Meeting - 10/14/2025 <hr class="hr blurry" />
+            </a>
+
+              <span class="text-muted small p-0 fw-normal">Start:  5:00 PM | </span>
+
+
+
+            <span class="text-muted small p-0 fw-normal">
+              <span> C. Ellen Connally Council Chambers-4th Floor 2079 East 9th Street</span>              
+
+                            <br>
+            </span>
+
+            <div class="summary fw-normal" >
+              
+            </div>
+
+            <div class="related-content fw-normal" style="display:none">
+                <a href="https://cuyahogacms.blob.core.windows.net/home/docs/default-source/council/committees/council/2025/20251014-mtg-agendapcp.pdf?sfvrsn=f79a1911_1">
+                  <svg class="icon icon-notebook-list"><use xlink:href="#icon-notebook-list"></use></svg>
+                  <span>Agenda</span>
+                </a>
+                                        </div>
+          </li>
+
+
+
+
+        </ul>
+
+      </div>
+    </li>
+  </ul>
+
+
+
+
+  <p class="float-end"><a href="/calendar" sfref="[f669d9a7-009d-4d83-ddaa-000000000002]DD97DE68-9695-41C0-A728-B1F2037050A2" data-sf-ec-immutable=""><em>More Events</em></a></p>
+</div>
+
+
+
+<style>
+  .one-line-title {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+  }
+
+  #newsItem a:hover {
+    background: none;
+    background-color: black;
+  }
+
+  .news-title a:link {
+    text-decoration: none;
+  }
+
+  .news-title a:visited {
+    text-decoration: none;
+  }
+
+  .news-title a:hover {
+    text-decoration: none !important;
+    background-color: none !important;
+    background: none !important;
+  }
+
+  .news-title {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    color: #555555;
+    text-decoration: none;
+  }
+
+  .list-group-item {
+    position: relative;
+    display: block;
+    padding: 0.5rem 1rem !important;
+    color: #212529 !important;
+    background: #fff;
+    border: 1px solid rgba(0,0,0,.125);
+    text-decoration: none;
+  }
+
+    .list-group-item a:hover {
+      background: rgb(255,255,255);
+      background: linear-gradient(173deg, rgba(255,255,255,0.9737066701680672) 59%, rgba(255,255,255,0) 100%);
+    }
+
+
+  .news-title {
+    font-size: 1.1rem !important;
+    font-weight: 600 !important;
+    color: #555555;
+    text-decoration: none;
+  }
+
+  hr.blurry {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(260, 260, 260, 1), rgba(0, 0, 0, 0.1), rgba(260, 260, 260, 1));
+    border-top: none !important;
+  }
+
+
+  .btn-primary {
+    color: #fff;
+    background: #005587;
+    background-color: #005587;
+    border-color: #2e6da4;
+  }
+</style></div>
+</div> </div> </div> </section> </main> <!-- End of Main --> <!-- ======= Footer ======= --> <footer id="footer"> <div class="container-fluid"> <div class="row" style="height:2px;"> <div class="col" style="background:red"> </div> <div class="col" style="background:white"> </div> <div class="col" style="background:blue"> </div> </div> </div> </div> <div class="footer-official-site"> <div class="container"> <div class="row"> <div class="col-lg-12"> <ul class="m-d expand-list"> <li data-md-content="300"> <label name="tab" for="tab" tabindex="-1" class="tab_lab" role="tab"><img src="/ResourcePackages/Bootstrap/assets/dist/images/us_flag_small.png" alt="Image of the United States flag" class="img-thumbnail"> An official website of the Cuyahoga County government. <em>Here’s how you know...</em></label> <input type="checkbox" class="tab" id="tab2" tabindex="0" aria-label="Image of the United States flag" /> <span class="open-close-icon"><i class="fas fa-plus"></i><i class="fas fa-minus"></i></span><hr class="hr blurry_blue"> <div class="content"> <div class="row"> <div class="col-1"><i class="fa-solid fa-building-columns fa-2x"></i></div> <div class="col-5"><p class="text-uppercase">The .gov means it's official.</p>A .gov website belongs to an official government organization in the United States.</div> <div class="col-1"><i class="fa-solid fa-lock fa-2x"></i></div> <div class="col-5"><p class="text-uppercase">The site is secure.</p>A lock or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.</div> </div> </div> </li> </ul> </div> </div> </div> </div> </footer> <div id="footer"> <div class="footer-top"> <div class="container hide-footer"> <div class="row"> 
+
+<div >
+    <div ><div class="row"><div class="col-lg-3 col-md-6 footer-links"><h4>OUR SERVICES</h4><ul><li><em class="bx bx-chevron-right"></em><a href="/home">Home</a></li><li><em class="bx bx-chevron-right"></em><a href="/home/government">My Government</a></li><li><em class="bx bx-chevron-right"></em><a href="/topics?term=Services">Services</a></li><li><em class="bx bx-chevron-right"></em><a href="/home/business">Business</a></li><li><em class="bx bx-chevron-right"></em><a href="/i-want-to-contact">I Want to contact</a></li><li><em class="bx bx-chevron-right"></em><a href="/calendar">Calendar</a></li></ul></div><div class="col-lg-3 col-md-6 footer-links"><h4>DISCLAIMERS &amp; POLICY</h4><ul><li><em class="bx bx-chevron-right"></em><a href="/accessibility">Accessibility</a></li><li><em class="bx bx-chevron-right"></em><a href="/information-technology/security/disclosure">Vulnerability Disclosure Policy</a></li><li><em class="bx bx-chevron-right"></em><a href="/disclaimer">Disclaimer</a></li><li><em class="bx bx-chevron-right"></em><a href="/privacy-policy">Privacy policy</a></li></ul></div><div class="col-lg-3 col-md-6 footer-contact"><h4>CONTACT</h4><p><a href="https://goo.gl/maps/Umbm17pQH9k" target="_blank"><em class="fas fa-map-marker-alt  me-1" aria-hidden="true"></em>Cuyahoga County Headquarters<br data-sf-ec-immutable="" /><span class="ms-3">2079 East Ninth Street</span><br /><span class="ms-3">Cleveland, OH 44115</span></a><br /><a href="tel:216-443-7000" data-sf-ec-immutable=""><em class="fas fa-phone fa-1x me-1" aria-hidden="true"></em>216-443-7000</a></p><p><a href="/public-records-request"><em class="fa-regular fa-folder-open fa-1x" aria-hidden="true"></em>&nbsp;Public Records Request</a></p></div><div class="col-lg-3 col-md-6 footer-contact"><h4>STAY CONNECTED &amp; INFORMED</h4><div class="footer-text"><a href="/county-news/newsletter-registration"><em class="fa-regular fa-newspaper fa-1x" aria-hidden="true"></em><span class="ms-1 fs-6">Newsletters and Alerts
+                </span>
+ </a><br /><a href="/executive/news/lets-talk-cuyahoga-podcast"><em class="fa-solid fa-microphone-lines fa-1x" aria-hidden="true"></em><span class="ms-1 fs-6">Podcast
+ </span>
+ </a><br /><a href="/i-want-to-contact/county-social-media"><em class="fa-solid fa-at fa-1x" aria-hidden="true"></em><span class="ms-1 fs-6">Social Media
+                </span>
+ </a></div><div class="social-links mt-3"><ul class="list-unstyled"><li class="list-inline-item"><a href="https://www.facebook.com/CuyahogaCounty" title="Facebook" target="_blank" data-sf-ec-immutable=""><em class="fab fa-facebook fa-1x" aria-hidden="true"></em><span class="text-hide">Facebook</span></a></li><li class="list-inline-item"><a href="https://x.com/CuyahogaCounty" title="X formerly Twitter" target="_blank" data-sf-ec-immutable=""><em class=" fa-brands fa-x-twitter fa-1x" aria-hidden="true"></em><span class="text-hide">X formerly Twitter</span></a></li><li class="list-inline-item"><a href="https://www.instagram.com/cuyahogacounty" title="Instagram" target="_blank" data-sf-ec-immutable=""><em class="fab fa-instagram-square fa-1x" aria-hidden="true"></em><span class="text-hide">Instagram</span></a></li><li class="list-inline-item"><a href="https://www.youtube.com/CuyahogaCounty" title="YouTube" target="_blank" data-sf-ec-immutable=""><em class="fab fa-youtube-square fa-1x" aria-hidden="true"></em><span class="text-hide">Youtube</span></a></li><li class="list-inline-item"><a href="/executive/news/lets-talk-cuyahoga-podcast" title="Podcast" target="_blank"><em class="fas fa-podcast fa-lg"></em><span class="text-hide">Podcast</span></a></li><li class="list-inline-item"><a href="/county-news/newsletter-registration" title="Newsletter Registration" target="_blank"><em class="fas fa-envelope fa-lg"></em><span class="text-hide">Newsletter Registration</span></a></li></ul></div></div></div></div>    
+</div><script type="application/json" id="PersonalizationTracker">
+	{"IsPagePersonalizationTarget":false,"IsUrlPersonalizationTarget":false,"PageId":"20ef0713-e51f-446e-8cf7-bc9573c6636c"}
+</script><script type="text/javascript" src="/WebResource.axd?d=NjxTqR2bqTw1rewxxlkHPuu4Av4sFeDkyO_-RiLw1sTCtRZSgPji-nelQhHfaVQJSjsYTfAJmNGQ8QqCuWVdTD9aHhNNgprNtchYHBnSe4fStvMastikbIDrnK_FiILZAc90yocO5H1za-8yNEl6jkPoHxYvqYN6gUM2dTvk_Mf_iiPAZYz6E2OIJvbgbunsVtl6_o54Qze7ip-ylDmGDUjdJ__BRTkfa_mxV4h29741&amp;t=638870492023673238">
+
+</script><script type="text/javascript">
+window.addEventListener('load', (event) => {
+  document.querySelectorAll('.pay-your-taxes').forEach(item => {
+    item.addEventListener('click', event => {
+      fathom.trackEvent('Pay Your Taxes click');
+    });
+  });
+});
+
+</script><script type="text/javascript">
+window.addEventListener('load', (event) => {
+  document.querySelectorAll('.property-search').forEach(item => {
+    item.addEventListener('click', event => {
+      fathom.trackEvent('Property Search click');
+    });
+  });
+});
+
+</script><script type="text/javascript">
+window.addEventListener('load', (event) => {
+  document.querySelectorAll('.court-dockets').forEach(item => {
+    item.addEventListener('click', event => {
+      fathom.trackEvent('Court Dockets click');
+    });
+  });
+});
+
+</script><script type="text/javascript">
+window.addEventListener('load', (event) => {
+  document.querySelectorAll('.records-search').forEach(item => {
+    item.addEventListener('click', event => {
+      fathom.trackEvent('Records Search click');
+    });
+  });
+});
+
+</script><script type="text/javascript">
+window.addEventListener('load', (event) => {
+  document.querySelectorAll('.social-service').forEach(item => {
+    item.addEventListener('click', event => {
+      fathom.trackEvent('Social Services click');
+    });
+  });
+});
+
+</script><script type="text/javascript">
+window.addEventListener('load', (event) => {
+  document.querySelectorAll('.careers').forEach(item => {
+    item.addEventListener('click', event => {
+      fathom.trackEvent('Careers click');
+    });
+  });
+});
+
+</script> </div> </div> </div> <div class="container"> <div class="copyright">
+        &copy; Copyright <strong><span> Cuyahoga County</span></strong>. All Rights Reserved
+      </div> </div> </div> <!-- End Footer --> <div class="clients-slider"></div> <a href="#" class="back-to-top d-flex align-items-center justify-content-center" aria-label="back to top"><i class="bi bi-arrow-up-short"></i></a> <!-- Vendor JS Files --> <script src="/ResourcePackages/Bootstrap5/assets/vendor/aos/aos.js"></script> <script src="/ResourcePackages/Bootstrap5/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script> <script src="/ResourcePackages/Bootstrap5/assets/vendor/glightbox/js/glightbox.min.js"></script> <script src="/ResourcePackages/Bootstrap5/assets/vendor/isotope-layout/isotope.pkgd.min.js"></script> <script src="/ResourcePackages/Bootstrap5/assets/vendor/swiper/swiper-bundle.min.js"></script> <script src="/ResourcePackages/Bootstrap5/assets/dist/js/main.js"></script> <script>
+    document.title = "The Official Government Website of Cuyahoga County, Ohio";
+
+  </script> </body> </html>

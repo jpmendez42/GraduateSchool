@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+Disallow: /community 
+Disallow: /wp-admin
+Disallow: /wp-json/wp/v2
+Disallow: /wp-json/oembed/1.0/
+Disallow: /login
+Disallow: /register
+Disallow: /user-name
+Disallow: /password-reset
+Disallow: /condizioni-dutilizzo
+Disallow: /edit-profile
+Disallow: /colori-dautunno
+Disallow: /uploadimages.php
+Disallow: /destinazioni/isola-di-comacina-a-ossuccio.html
+Disallow: /destinazioni/itinerari-ed-escursioni-ad-ossuccio-lisola-di-comacina.html
+Disallow: /wp-content/uploads/columbus_300x250_2025.gif

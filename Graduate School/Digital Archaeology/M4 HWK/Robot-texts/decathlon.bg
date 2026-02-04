@@ -1,0 +1,93 @@
+User-agent: *
+
+# Files
+Disallow: /my-address
+Disallow: /my-addresses
+Disallow: /login
+Disallow: /cart
+Disallow: /discount
+Disallow: /guest-order-tracking
+Disallow: /order-history
+Disallow: /identity
+Disallow: /my-account
+Disallow: /order
+Disallow: /order-confirmation
+Disallow: /order-track
+Disallow: /order-slip
+Disallow: /password-recovery
+
+## Custom
+# Directories
+Disallow: /classes/
+Disallow: /config/
+Disallow: /controllers/
+Disallow: /download/
+Disallow: /localization/
+Disallow: /log/
+Disallow: /mails/
+Disallow: /override/
+Disallow: /tools/
+Disallow: /translations/
+Disallow: /upload/
+Disallow: /vendor/
+Disallow: /webtools/
+
+# Private pages
+Disallow: /address*
+Disallow: /pdf*
+Disallow: /authentication
+Disallow: /footer
+Disallow: /get-file
+Disallow: /header
+Disallow: /history
+Disallow: /identity
+Disallow: /credit-slip
+Disallow: /images.inc
+Disallow: /statistics
+Disallow: /attachment.php
+Disallow: /guest-tracking
+
+# Filters and internal search
+Disallow: /search/
+Disallow: *prod_bg*
+Disallow: *?q=
+Disallow: *?filters=
+Disallow: *order=
+
+# Parameters
+Disallow: *controller=
+Disallow: *action=
+Allow: *action=loadReviews*
+Disallow: *tag=
+Disallow: *id_currency=
+Disallow: *search_query=
+Disallow: *merchandising=
+Disallow: *back=
+
+# Reviews
+Disallow: *?reviews_page=
+Disallow: *?reviews_note=
+Disallow: *?reviews_sort=
+
+# Modules
+Disallow: /module/oneshop_openvoice/api*
+Disallow: /module/openvoice/api*
+Disallow: /module/oneshop_member/
+Disallow: /module/deca_connect/
+Disallow: /module/oneshop_oneff/
+Disallow: /module/oneshop_algolia/
+Disallow: /module/oneshop_aiapi/
+Disallow: /module/oneshop_stock/
+Disallow:/module/ps_shoppingcart/
+Disallow: /module/oneshop_personalization_engine/
+Disallow: /module/oneshop_mobile_banners/
+Disallow: /module/oneshop_woosmap/
+
+# Cloudflare
+Disallow: /cdn-cgi/
+
+# Other
+Disallow: /_Incapsula_Resource*
+
+# Sitemap
+Sitemap: https://www.decathlon.bg/sitemap-bg-index.xml

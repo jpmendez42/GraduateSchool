@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot-Image
+Disallow: /*.pdf$
+
+Sitemap: https://www.hofer.at/sitemap.xml
+Sitemap: https://www.hofer.at/sitemap_products.xml
+Sitemap: https://www.hofer.at/sitemap_recipes.xml
+Sitemap: https://www.hofer.at/sitemap_videos.xml
+Sitemap: https://www.hofer.at/sitemap_images.xml
+Sitemap: https://filialen.hofer.at/sitemap.xml

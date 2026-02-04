@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /leistungsbeantragung/
+Disallow: /leistungsverzeichnis/*/suche*
+
+Sitemap: https://verwaltung.bund.de/leistungsverzeichnis/sitemap_index.xml

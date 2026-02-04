@@ -1,0 +1,19 @@
+User-Agent: *
+Allow: /
+
+Disallow: /en.html
+Disallow: /en/
+Disallow: /recherche.html
+
+# folders
+Disallow: /typo3/
+
+# parameters
+Disallow: /*?id=*
+Disallow: /*cHash
+Disallow: /*tx_form_formframework
+Disallow: /*?tx_solr*
+Disallow: /*tx_gspublication_publication%5Bfilters%5D*
+Disallow: /*tx_arcepavis_results%5Bq%5D*
+
+Sitemap: https://www.arcep.fr/sitemap.xml

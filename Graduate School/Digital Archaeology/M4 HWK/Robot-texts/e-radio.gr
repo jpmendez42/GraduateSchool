@@ -1,0 +1,33 @@
+User-agent: Googlebot-Image
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+
+User-agent: Googlebot
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+
+Disallow: /*post.asp?*
+Disallow: /*?pt=html5*
+Disallow: /*?pt=muses*
+
+User-agent: Opebot-v (https://www.1plusx.com)
+Allow: /
+
+
+Sitemap: https://www.e-radio.gr/sitemap
+Sitemap: https://www.e-radio.gr/sitemap/static.asp
+Sitemap: https://www.e-radio.gr/sitemap/radios.asp
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2010
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2011
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2012
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2013
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2014
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2015
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2016
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2017
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2018
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2019
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2020
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2021
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2022
+Sitemap: https://www.e-radio.gr/sitemap/newsfeed.asp?year=2023

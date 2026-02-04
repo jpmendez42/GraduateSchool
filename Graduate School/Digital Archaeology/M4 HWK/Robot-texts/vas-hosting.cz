@@ -1,0 +1,6 @@
+Sitemap: https://www.vas-hosting.cz/sitemap_cs_CZ.xml
+User-agent: *
+Disallow: /redirect/
+Disallow: /*?*fid=
+Disallow: /*?*do=
+Disallow: /*?*fbclid=

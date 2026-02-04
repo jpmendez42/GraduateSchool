@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /rezerwacje/
+Disallow: /signalr/
+Disallow: *wyszukiwanie*
+Disallow: *embedded*
+Disallow: /produkty*animacja
+Disallow: /app/*
+Disallow: /apteka-internetowa/*
+Disallow: /core*
+Disallow: /orders/
+Allow: /
+Sitemap: https://www.gdziepolek.pl/sitemapindex.xml
+User-agent: GPTBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /

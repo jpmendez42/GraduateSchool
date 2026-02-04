@@ -1,0 +1,113 @@
+User-agent: Mediapartners-Google
+
+Allow: /
+
+
+
+User-agent: *
+
+Disallow: /system/action/
+
+Disallow: /cron/action/
+
+Disallow: /adminAbuse/
+
+Disallow: /daemon/
+
+Disallow: /editBanners/
+
+Disallow: /editProductBanners/
+
+Disallow: /facebookLogin/
+
+Disallow: /googleLogin/
+
+Disallow: /fulltext/
+
+Disallow: /printPage/
+
+Disallow: /settings/
+
+Disallow: /stat/
+
+Disallow: /temp/
+
+Disallow: /upload/
+
+Disallow: /uploads/
+
+Disallow: /download/
+
+Disallow: *?mode=
+
+Disallow: /auth/
+
+Disallow: *code.php
+
+Disallow: /ajax/action/counter/
+
+Disallow: /user/
+
+Disallow: /tests/
+
+Disallow: /console/
+
+Disallow: *500.php
+
+Allow: /
+
+
+
+#Baiduspider
+
+User-agent: Baiduspider
+
+Disallow: /
+
+
+## Added by PTN
+
+User-agent: AddThis.com robot tech.support@clearspring.com
+
+Disallow: /
+
+
+
+User-agent: msnbot
+
+Crawl-delay: 1
+
+
+
+User-Agent: bingbot
+
+Crawl-delay: 1
+
+
+
+User-agent: AddThis.com
+
+Disallow: /
+
+
+
+User-agent: AhrefsBot
+
+Disallow: /
+
+
+User-agent: YandexBot 
+Disallow: /
+
+User-agent: Yandex 
+Disallow: / 
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: CriteoBot/0.1
+Crawl-delay: 5
+
+User-agent: BLEXBot
+
+Disallow: /

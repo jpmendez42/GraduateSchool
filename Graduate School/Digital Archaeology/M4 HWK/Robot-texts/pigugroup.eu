@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>PHH</title>
+<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="GENERATOR" content="EasyWeb4" />
+<meta name="AUTHOR" content="Fresh Media" />
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="robots" content="" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=8">
+<meta name="twitter:image" content="https://phhgroup.eu/static/themes/site/img/site_logo_share.png" /><meta property="og:title" content="PHH" />
+<meta property="og:url" content="https://phhgroup.eu/" />
+<meta property="og:image" content="https://phhgroup.eu/static/themes/site/img/site_logo_share.png"><meta property="og:description" content="" />
+<meta property="og:site_name" content="PHH" />
+<link rel="shortcut icon" sizes="16x16 32x32 48x48 64x64 128x128" href="/static/themes/site/img/favicon.ico" type="image/x-icon" />
+<link rel="canonical" href="https://phhgroup.eu/" />
+<link href="/static/themes/site/css/fonts.css?v1.3.10" type="text/css" rel="stylesheet" />
+<link href="/static/themes/site/css/icons.css?v1.3.10" type="text/css" rel="stylesheet" />
+<link href="/static/themes/site/css/style.css?v1.3.10" type="text/css" rel="stylesheet" />
+<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-WT5MN59WZ9"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-WT5MN59WZ9'); </script>
+<script type="text/javascript">
+
+    (function(c,l,a,r,i,t,y){
+
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+
+    })(window, document, "clarity", "script", "mm6cmufce5");
+
+</script></head>
+<body class="device_desktop preload" data-ng-app="EwSiteApp">
+<div class="loader-holder" data-html2canvas-ignore><div class="custom-loader"></div></div><div class="sitehomepage">
+	<div>
+	<header class="header header--sitehomepage">
+		<div class="header__container container-fluid global_container2">
+			<div class="header__logo">
+				<a href="https://phhgroup.eu/en" aria-label="logo">
+					<img src="/static/themes/site/img/site_logo_sitehomepage.svg" alt="homepage logo">
+				</a>
+			</div>
+			<div class="header__langs">
+				<div class="current-lang">
+					<span class="text">en</span>
+					<span><em class="icon icon-chevron-down"></em></span>
+				</div>
+				<div class="list">
+																													<div class="lang">
+								<a href="https://phhgroup.eu/lv">Lv</a>
+							</div>
+																																														<div class="lang">
+								<a href="https://phhgroup.eu/pl">Pl</a>
+							</div>
+															</div>
+			</div>
+		</div>
+	</header>
+</div>
+	<div class="sitehomepage__content homepage_container">
+					<div class="sitehomepage__blocks">
+									<div class="sitehomepage__block sitehomepage__block--group" style="background: url(/data/public/thumbnails/2023/04/crop_683x458_left-test.jpg) rgba(43, 70, 102, 0.7);">
+						<div class="wrapper same-height">
+							<h1 class="title ">PHH Group</h1>
+							<a href="/phh-group/9" class="mygtukas white">Learn about us</a>
+						</div>
+					</div>
+														<div class="sitehomepage__block sitehomepage__block--marketplace" style="background: url(/data/public/thumbnails/2023/04/crop_683x458_right-test.jpg) rgba(43, 70, 102, 0.7);">
+						<div class="wrapper same-height">
+							<h1 class="title ">PHH Group Marketplace</h1>
+							<a href="/marketplace/14" class="mygtukas white">Start selling now</a>
+						</div>
+					</div>
+																</div>
+	</div>
+	<div class="footer-container">
+	<footer class="footer footer--sitehomepage">
+		<div class="container-fluid global_container">
+			<div class="text">
+				2025 Pigu Hobby Hall Group
+			</div>
+		</div>
+	</footer>
+</div>
+
+<script>
+	
+		var translations = new Array();
+		function onLoadFunctions() {
+			}
+				var secure_xsrf_name='SITEXSRF141';
+				var site_name_trimmed='PHH';
+				var current_lang='en';
+				var global_js_trans={"next":"Next","prev":"*prev*"};
+	window.onload = onLoadFunctions;
+</script>
+		<script src="/static/libs/_packed/pack.min.js?v1.3.10"></script>
+		<script src="/static/libs/angular/angular.min.js?v1.8.2"></script>
+		<script src="/static/libs/angular/i18n/angular-locale_en.js?v1.8.2"></script>
+		<script src="/static/libs/localization/messages_en.js?v1.3.10"></script>
+		<script src="/static/themes/site/js/script.js?v1.3.10"></script>
+	<div data-ng-controller="EuCookieCtrl" data-ng-cloak="" data-ng-init="state=0;" data-store-url="/eucookie/savechoise" class="cookie_container" data-ng-show="showLine" aria-label="Cookie management dialog">
+		<div class="container-fluid global_container">
+			<div class="cookies_above">
+									<div class="cookie_text_above formatted_text">
+						<p>We would like to inform you that this site uses cookies. If you agree, please press "I agree" or continue browsing. </p>
+					</div>
+								<div class="cookies_checkboxes">
+					<div class='labels_wrapper'>
+													<label class="one_variant input_group_parent disabled">
+								<input type="checkbox" disabled data-ng-model="data.privacy_1" data-ng-init="data.privacy_1=true" title="Mandatory"/>
+								<span class="radio_design"></span>
+								Mandatory
+								</label>
+															<label class="one_variant input_group_parent">
+								<input type="checkbox"  data-ng-model="data.privacy_2" data-ng-init="data.privacy_2=false" title="Functional"/>
+								<span class="radio_design"></span>
+								Functional
+								</label>
+															<label class="one_variant input_group_parent">
+								<input type="checkbox"  data-ng-model="data.privacy_3" data-ng-init="data.privacy_3=false" title="Statistical"/>
+								<span class="radio_design"></span>
+								Statistical
+								</label>
+															<label class="one_variant input_group_parent">
+								<input type="checkbox"  data-ng-model="data.privacy_4" data-ng-init="data.privacy_4=false" title="Marketing"/>
+								<span class="radio_design"></span>
+								Marketing
+								</label>
+																</div>
+								<div class="btns-wrapper">
+
+									<button class="blue save_cookies" data-ng-class="loading ? 'loading':''" type="button" data-ng-click="storeAllChoises();">Accept all</button>
+									<button class="blue save_cookies" data-ng-class="loading ? 'loading':''" type="button" data-ng-click="storeChoises();">Save</button>
+									<button class="blue save_cookies" data-ng-class="loading ? 'loading':''" type="button" data-ng-click="storeMandatoryCookies();">Decline</button>
+								</div>
+								<div class="img_loading" data-ng-show="loading">
+									<img src="/static/themes/site/img/reused/loading32.gif" alt="Loading" width="32" height="32" />
+								</div>
+							</div>
+							<div class="error_message" data-ng-show="error">
+								<label class="error">*no_post_data*</label>
+							</div>
+							<div class="toggle_cookies_block" data-ng-class="pop ? 'open':'closed'" data-ng-click="showPop();"><span class="toggle_cookies_block_title">More information</span><span class="icon icon-chevron-down"></span></div>
+						</div>
+
+						<div class="cookies_pop" data-ng-show="pop">
+							<div class="sections_texts">
+								<div class="sections_padding">
+																														<div class="one_section formatted_text">
+												<h3>Mandatory</h3>
+												<div>Mandatory cookies ensure the functioning of the website (session). They are designed to improve the operation of the website and collect general (anonymous) information about the use of the website:</div>
+<div>
+<table style="width: 100%;" border="0">
+<tbody>
+<tr>
+<td style="width: 20%;">Name</td>
+<td style="width: 20%;">Provider</td>
+<td style="width: 36.3146%;">Purpose</td>
+<td style="width: 10.3755%;">Expiry</td>
+<td style="width: 13.3099%;">Type</td>
+</tr>
+<tr>
+<td style="width: 20%;">CookieConsent</td>
+<td style="width: 20%;"><a href="https://www.cookiebot.com/goto/privacy-policy/" target="_blank" rel="noopener">Cookiebot</a></td>
+<td style="width: 36.3146%;">Stores the user's cookie consent state for the current domain</td>
+<td style="width: 10.3755%;">1 year</td>
+<td style="width: 13.3099%;">HTTP</td>
+</tr>
+<tr>
+<td style="width: 20%;">CONSENT</td>
+<td style="width: 20%;"><a href="https://policies.google.com/privacy" target="_blank" rel="noopener">YouTube</a></td>
+<td style="width: 36.3146%;">Used to detect if the visitor has accepted the marketing category in the cookie banner. This cookie is necessary for GDPR-compliance of the website.</td>
+<td style="width: 10.3755%;"> </td>
+<td style="width: 13.3099%;"> </td>
+</tr>
+</tbody>
+</table>
+</div>
+<div> </div>
+												</div>
+																																														<div class="one_section formatted_text">
+												<h3>Functional</h3>
+												<div>Preference cookies enable a website to remember information that changes the way the website behaves or looks, like your preferred language or the region that you are in.</div>
+<div> </div>
+<div><strong>We do not use cookies of this type.</strong></div>
+<div> </div>
+												</div>
+																																														<div class="one_section formatted_text">
+												<h3>Statistical</h3>
+												<p>Tracking cookies from Google Analytics. These cookies allow to identify, count website visitors, and track how they navigate through the website while using it. This helps to improve the performance of the site, for example, by ensuring that users can easily find what they are looking for.</p>
+<p><strong>We do not use cookies of this type.</strong></p>
+												</div>
+																																														<div class="one_section formatted_text">
+												<h3>Marketing</h3>
+												<p>These cookies are used to identify website visitors when they return to the website. This allows to provide content for social networks tailored to the needs of the site visitors and memorize information that is relevant for customers.</p>
+<p><strong>We do not use cookies of this type.</strong></p>
+												</div>
+																																						</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									</body>
+</html></div>

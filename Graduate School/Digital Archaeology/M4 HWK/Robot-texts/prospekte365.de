@@ -1,0 +1,44 @@
+
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Bots de Google Ads
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: AdsBot-Google-Mobile
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+
+# Bots de monetización y marketing
+User-agent: AmazonAdBot
+Disallow:
+
+User-agent: adidxbot
+Disallow:
+
+User-agent: CriteoBot
+Disallow:
+
+User-agent: PubMatic
+Disallow:
+
+User-agent: TTD-Content
+Disallow:
+
+User-agent: AdIdxBot
+Disallow:
+
+User-agent: openxbot
+Disallow:
+
+User-agent: rurl
+Disallow:
+
+
+Sitemap:https://prospekte365.de/sitemap1/sitemap-0.xml
+Sitemap:https://prospekte365.de/sitemap1/sitemap-brochures.xml
+   

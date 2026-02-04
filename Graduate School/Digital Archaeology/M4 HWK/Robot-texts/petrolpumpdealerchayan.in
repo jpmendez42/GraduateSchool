@@ -1,0 +1,4 @@
+user-agent: *
+Disallow: /viewads/totaladvertisementdata
+Disallow: /applicants/*
+Disallow: /petrol_adcheck/*

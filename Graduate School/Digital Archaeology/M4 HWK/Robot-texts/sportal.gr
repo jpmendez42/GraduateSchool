@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ajax
+Disallow: /nx-ajax
+Disallow: /search
+Disallow: /account
+Disallow: /cms/article-preview
+
+Sitemap: https://www.sportal.gr/news.xml
+Sitemap: https://www.sportal.gr/sitemap.xml

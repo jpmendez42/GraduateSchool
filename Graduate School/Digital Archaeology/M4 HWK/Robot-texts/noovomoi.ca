@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /content/dam/style-de-vie/uploadImg/
+
+Disallow: /style-de-vie/fr/
+Disallow: /content/dam/
+
+Sitemap: https://www.noovomoi.ca/sitemap.xml
+Sitemap: https://www.noovomoi.ca/en-vedette/sitemap-news.xml
+Sitemap: https://www.noovomoi.ca/sitemap-video.xml

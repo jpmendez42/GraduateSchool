@@ -1,0 +1,13 @@
+User-agent: Slurp 
+Crawl-delay: 1
+
+User-Agent: serpstatbot
+Crawl-Delay: 20
+
+User-agent: bingbot
+Crawl-Delay: 10
+
+User-agent: AhrefsBot
+Crawl-Delay: 10
+
+Sitemap:https://yuyu-tei.jp/ext/sitemap/yuyutei/index.xml

@@ -1,0 +1,9 @@
+Sitemap: http://www.taxheaven.gr/exports/sitemaps/sitemap_almanac.xml
+Sitemap: http://www.taxheaven.gr/exports/sitemaps/sitemap_calendar.xml
+Sitemap: http://www.taxheaven.gr/exports/sitemaps/sitemap_circulars.xml
+Sitemap: http://www.taxheaven.gr/exports/sitemaps/sitemap_google_news.xml
+Sitemap: http://www.taxheaven.gr/exports/sitemaps/sitemap_laws.xml
+Sitemap: http://www.taxheaven.gr/exports/sitemaps/sitemap_news.xml
+Sitemap: http://www.taxheaven.gr/exports/sitemaps/sitemap_webinars.xml
+User-agent: *
+Disallow: /seminars/*

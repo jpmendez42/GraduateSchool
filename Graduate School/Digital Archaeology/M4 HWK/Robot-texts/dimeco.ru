@@ -1,0 +1,85 @@
+# This virtual robots.txt file was created by the Virtual Robots.txt WordPress plugin: https://www.wordpress.org/plugins/pc-robotstxt/
+# This virtual robots.txt file was created by the Virtual Robots.txt WordPress plugin: https://www.wordpress.org/plugins/pc-robotstxt/
+User-agent: *               # общие правила для роботов, кроме Яндекса и Google, 
+                            # т.к. для них правила ниже
+Disallow: /cgi-bin          # папка на хостинге
+Disallow: /?                # все параметры запроса на главной
+Disallow: /wp-              # все файлы WP: /wp-json/, /wp-includes, /wp-content/plugins
+Disallow: /wp/              # если есть подкаталог /wp/, где установлена CMS (если нет, 
+                            # правило можно удалить)
+Disallow: *?s=              # поиск
+Disallow: *&s=              # поиск
+Disallow: /search/          # поиск
+Disallow: /author/          # архив автора
+Disallow: /users/           # архив авторов
+Disallow: */trackback       # трекбеки, уведомления в комментариях о появлении открытой 
+                            # ссылки на статью
+Disallow: */feed            # все фиды
+Disallow: */rss             # rss фид
+Disallow: */embed           # все встраивания
+Disallow: */wlwmanifest.xml # xml-файл манифеста Windows Live Writer (если не используете, 
+                            # правило можно удалить)
+Disallow: /xmlrpc.php       # файл WordPress API
+Disallow: *utm*=             # ссылки с utm-метками
+Disallow: *openstat=        # ссылки с метками openstat
+Allow: */uploads            # открываем папку с файлами uploads
+
+User-agent: GoogleBot       # правила для Google (комментарии не дублирую)
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: /wp/
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: */feed
+Disallow: */rss
+Disallow: */embed
+Disallow: */wlwmanifest.xml
+Disallow: /xmlrpc.php
+Disallow: *utm*=
+Disallow: *openstat=
+Allow: */uploads
+Allow: /*/*.js              # открываем js-скрипты внутри /wp- (/*/ - для приоритета)
+Allow: /*/*.css             # открываем css-файлы внутри /wp- (/*/ - для приоритета)
+Allow: /wp-*.png            # картинки в плагинах, cache папке и т.д.
+Allow: /wp-*.jpg            # картинки в плагинах, cache папке и т.д.
+Allow: /wp-*.jpeg           # картинки в плагинах, cache папке и т.д.
+Allow: /wp-*.gif            # картинки в плагинах, cache папке и т.д.
+Allow: /wp-admin/admin-ajax.php # используется плагинами, чтобы не блокировать JS и CSS
+
+User-agent: Yandex          # правила для Яндекса (комментарии не дублирую)
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: /wp/
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: */feed
+Disallow: */rss
+Disallow: */embed
+Disallow: */wlwmanifest.xml
+Disallow: /xmlrpc.php
+Allow: */uploads
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+Allow: /wp-admin/admin-ajax.php
+Clean-Param: utm_source&utm_medium&utm_campaign # Яндекс рекомендует не закрывать 
+                            # от индексирования, а удалять параметры меток, 
+                            # Google такие правила не поддерживает
+Clean-Param: openstat       # аналогично
+
+Sitemap: https://tele-m.com/sitemap_index.xml
+
+Host: tele-m.com

@@ -1,0 +1,9 @@
+# All robots are welcome
+User-Agent: *
+Disallow: /haku
+Disallow: /t/uusi$
+
+Disallow: /lainaa/wp-admin/
+Allow: /lainaa/wp-admin/admin-ajax.php
+
+Sitemap: https://www.suomi24.fi/lainaa/sitemap_index.xml

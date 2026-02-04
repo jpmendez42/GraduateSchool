@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /member/
+Disallow: /sp/member/
+Disallow: /snapitem/
+Disallow: /sp/snapitem/
+Disallow: /login
+Disallow: /login/
+Disallow: /sign_up
+Disallow: /sign_up/
+Disallow: /mypage
+Disallow: /mypage/
+
+User-agent: ClaudeBot
+Crawl-delay: 1

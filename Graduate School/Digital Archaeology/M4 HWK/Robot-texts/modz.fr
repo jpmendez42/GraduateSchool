@@ -1,0 +1,123 @@
+#SEO-EXCLUSION-PRIMELIS-18-09-2019
+User-agent: *
+Disallow : */fr/Catalogue*
+Disallow : /*&reload*
+Disallow : /*?aspxerrorpath=*
+Disallow : /*?cc=*
+Disallow : /*?ccat=*
+Disallow : /*?cf=*
+Disallow : /*?cg=*
+Disallow : /*?famille=*
+Disallow : /*?genre=*
+Disallow : /*?index*
+Disallow : /*?marque=*
+Disallow : /*?mq=*
+Disallow : /*?mrasn=*
+Disallow : /*?reload*
+Disallow : /*?rewrited=*
+Disallow : /*?rmd=*
+Disallow : /*?selection=*
+Disallow : /*?sousFamille=*
+Disallow : /*?style=*
+Disallow : /*?tri=*
+Disallow : /*?unavailable=*
+Disallow : /*?unva=*
+Disallow : /*?utm*
+Disallow : /*?xtref=*
+Disallow: /fr/club_alerting2n.aspx
+Disallow : /*?rm=*
+Disallow : /*?ctr=*
+Disallow : /*?ct=*
+Disallow : /*?matiere=*
+Disallow : /*?remise=*
+Disallow : /*?sl=*
+Disallow : /*?modal=*
+Disallow : /*?bonus=*
+Disallow : /*?gender=*
+Disallow : /modzlab/*
+Disallow : /home/LoadSearch
+Disallow: /ads.txt
+Disallow: /*assetlinks.json
+Disallow: /*.html/$
+#Disallow: /*/couleur-*/
+Allow: /marques/couleur-d-ivoire/
+Allow: /marques/couleur-pourpre/
+Disallow: /panier/Index
+#Disallow: /Reassurance
+Disallow: /Club/
+Disallow: /Produit
+Disallow: /Catalogue
+Disallow: /Wish*ist
+Disallow: /Panier
+Disallow: /Inscription
+Disallow: /Paiement/
+Disallow: /marques/*
+Allow: /marques/$
+Allow: /marques/*/*
+Disallow: /fr/
+Allow: /fr/codereductionmodz
+Disallow: /club/
+Allow: /club/contact/
+Allow: /club/problemetechnique/
+Allow: /club/parrainage/
+Disallow: /PersonnalShopping/
+Disallow: /PanierApi/
+Disallow: /marques/*?modal=*
+Disallow: /layout/
+#OTHER-UA
+User-agent: Mediapartners-Google*
+Disallow: /
+User-agent: IsraBot
+Disallow: /
+User-agent: Orthogaffe
+Disallow: /
+User-agent: UbiCrawler
+Disallow: /
+User-agent: DOC
+Disallow: /
+User-agent: Zao
+Disallow: /
+User-agent: sitecheck.internetseer.com
+Disallow: /
+User-agent: Zealbot
+Disallow: /
+User-agent: MSIECrawler
+Disallow: /
+User-agent: SiteSnagger
+Disallow: /
+User-agent: WebStripper
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: Fetch
+Disallow: /
+User-agent: Offline Explorer
+Disallow: /
+User-agent: Teleport
+Disallow: /
+User-agent: TeleportPro
+Disallow: /
+User-agent: WebZIP
+Disallow: /
+User-agent: linko
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: Microsoft.URL.Control
+Disallow: /
+User-agent: Xenu
+Disallow: /
+User-agent: larbin
+Disallow: /
+User-agent: libwww
+Disallow: /
+User-agent: ZyBORG
+Disallow: /
+User-agent: Download Ninja
+Disallow: /
+User-agent: k2spider
+Disallow: /
+User-agent: NPBot
+Disallow: /
+User-agent: WebReaper
+Disallow: /

@@ -1,0 +1,68 @@
+User-agent: *
+Disallow: /tsb2b/
+Disallow: /test/
+Disallow: /shoplist/
+Disallow: /ts2shared/
+Disallow: /portal/
+Disallow: /shopbetreiber/pdf_download/TS-ASK_v1.2.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_de.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_AUT_de.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_CHE_de.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_en.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_EUO_en.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_fr.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_BEL_fr.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_CHE_fr.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_pl.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_es.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_nl.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_BEL_nl.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_it.pdf
+Disallow: /tsdocument/PRACTICE_HANDBOOK_DEU_de.pdf
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: infometrics-bot
+Disallow: /
+
+# based on https://github.com/ai-robots-txt/ai.robots.txt
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: FriendlyCrawler
+User-agent: iaskspider/2.0
+User-agent: ICC-Crawler
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: ISSCyberRiskCrawler
+User-agent: Kangaroo Bot
+User-agent: omgili
+User-agent: omgilibot
+User-agent: PetalBot
+User-agent: Scrapy
+User-agent: Sidetrade indexer bot
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
+User-agent: YouBot
+Disallow: /
+
+Sitemap: https://www.trustedshops.de/ts_sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/de-at/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/de-ch/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/en-eu/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/en-gb/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/es-es/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/fr-ch/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/fr-fr/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/it-it/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/nl-be/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/nl-nl/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/pl-pl/sitemaps/sitemap.xml
+Sitemap: https://www.trstd.com/pt-pt/sitemaps/sitemap.xml

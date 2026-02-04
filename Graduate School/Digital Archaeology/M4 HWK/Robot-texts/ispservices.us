@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /appliance/
+Disallow: /login/
+Disallow: /api/
+Disallow: /files/
+Disallow: /console/

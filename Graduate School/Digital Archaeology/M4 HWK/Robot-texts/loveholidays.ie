@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /api/
+Disallow: /*.json
+Disallow: /search/
+Disallow: /book/
+Disallow: /book/hotel-only
+Disallow: /ajax/
+Disallow: /downloads/
+Disallow: /holidays/redirect/
+Disallow: /graphql
+Disallow: /content/
+Disallow: /customer/*
+Disallow: /manage/*
+Allow: /customer/add-booking
+Allow: /customer/login/
+
+User-agent: Abrave Spider
+Disallow: /
+
+User-agent: Updownerbot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+Sitemap: https://www.loveholidays.ie/sitemap-holidays-default-with-hreflang.xml

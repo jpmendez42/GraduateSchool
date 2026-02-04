@@ -1,0 +1,1222 @@
+<!doctype html>
+<html lang="de-DE">
+<head>
+	<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<title>highfivve &#8211; Smart Monetization für Publisher</title>
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<link rel='dns-prefetch' href='//js-eu1.hs-scripts.com' />
+<link rel="alternate" type="application/rss+xml" title="highfivve &raquo; Feed" href="https://highfivve.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="highfivve &raquo; Kommentar-Feed" href="https://highfivve.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/highfivve.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<link rel='stylesheet' id='pa-frontend-css' href='https://highfivve.com/wp-content/uploads/premium-addons-elementor/pa-frontend-2280d4251.min.css?ver=1760384014' media='all' />
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<link rel='stylesheet' id='ht-contactform-block-style-css' href='https://highfivve.com/wp-content/plugins/ht-contactform/blocks/src/assets/css/style-index.css?ver=2.4.1' media='all' />
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://highfivve.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2' media='all' />
+<link rel='stylesheet' id='trp-language-switcher-style-css' href='https://highfivve.com/wp-content/plugins/translatepress-multilingual/assets/css/trp-language-switcher.css?ver=2.10.6' media='all' />
+<link rel='stylesheet' id='hello-elementor-css' href='https://highfivve.com/wp-content/themes/hello-elementor/style.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css' href='https://highfivve.com/wp-content/themes/hello-elementor/theme.min.css?ver=2.6.1' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.32.4' media='all' />
+<link rel='stylesheet' id='widget-image-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.4' media='all' />
+<link rel='stylesheet' id='widget-nav-menu-css' href='https://highfivve.com/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.32.2' media='all' />
+<link rel='stylesheet' id='elementor-icons-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.44.0' media='all' />
+<link rel='stylesheet' id='elementor-post-26-css' href='https://highfivve.com/wp-content/uploads/elementor/css/post-26.css?ver=1760383998' media='all' />
+<link rel='stylesheet' id='widget-spacer-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.32.4' media='all' />
+<link rel='stylesheet' id='widget-heading-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.4' media='all' />
+<link rel='stylesheet' id='pa-glass-css' href='https://highfivve.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/liquid-glass.min.css?ver=4.11.40' media='all' />
+<link rel='stylesheet' id='pa-btn-css' href='https://highfivve.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/button-line.min.css?ver=4.11.40' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='e-swiper-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.32.4' media='all' />
+<link rel='stylesheet' id='widget-image-carousel-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/css/widget-image-carousel.min.css?ver=3.32.4' media='all' />
+<link rel='stylesheet' id='widget-divider-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.32.4' media='all' />
+<link rel='stylesheet' id='widget-lottie-css' href='https://highfivve.com/wp-content/plugins/elementor-pro/assets/css/widget-lottie.min.css?ver=3.32.2' media='all' />
+<link rel='stylesheet' id='elementor-post-1118-css' href='https://highfivve.com/wp-content/uploads/elementor/css/post-1118.css?ver=1760383998' media='all' />
+<link rel='stylesheet' id='elementor-post-56-css' href='https://highfivve.com/wp-content/uploads/elementor/css/post-56.css?ver=1760383998' media='all' />
+<link rel='stylesheet' id='elementor-post-84-css' href='https://highfivve.com/wp-content/uploads/elementor/css/post-84.css?ver=1760383998' media='all' />
+<link rel='stylesheet' id='bdt-uikit-css' href='https://highfivve.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.21.7' media='all' />
+<link rel='stylesheet' id='ep-helper-css' href='https://highfivve.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/ep-helper.css?ver=8.2.6' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all' />
+<script src="https://highfivve.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://highfivve.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://highfivve.com/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://highfivve.com/wp-json/wp/v2/pages/1118" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://highfivve.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.3" />
+<link rel="canonical" href="https://highfivve.com/" />
+<link rel='shortlink' href='https://highfivve.com/' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://highfivve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhighfivve.com%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://highfivve.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fhighfivve.com%2F&#038;format=xml" />
+			<!-- DO NOT COPY THIS SNIPPET! Start of Page Analytics Tracking for HubSpot WordPress plugin v11.3.21-->
+			<script class="hsq-set-content-id" data-content-id="standard-page">
+				var _hsq = _hsq || [];
+				_hsq.push(["setContentType", "standard-page"]);
+			</script>
+			<!-- DO NOT COPY THIS SNIPPET! End of Page Analytics Tracking for HubSpot WordPress plugin -->
+			<link rel="alternate" hreflang="de-DE" href="https://highfivve.com/"/>
+<link rel="alternate" hreflang="en-GB" href="https://highfivve.com/en/"/>
+<link rel="alternate" hreflang="de" href="https://highfivve.com/"/>
+<link rel="alternate" hreflang="en" href="https://highfivve.com/en/"/>
+<meta name="generator" content="Elementor 3.32.4; settings: css_print_method-external, google_font-enabled, font_display-auto">
+<style>
+	.page-id-718 .page-content {
+		max-width: 1140px;
+		margin: center;
+	}
+</style>
+<script type="text/javascript" data-cmp-ab="1" 
+src="https://cdn.consentmanager.net/delivery/autoblocking/9c73cb3831c1c.js" data-cmp-host="d.delivery.consentmanager.net" data-cmp-cdn="cdn.consentmanager.net" data-cmp-codesrc="1">
+</script>
+<script src="https://sak.userreport.com/highfivvecom/launcher.js" async id="userreport-launcher-script"></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async type="text/plain" class="cmplazyload" data-cmp-vendor="s26" data-cmp-src="https://www.googletagmanager.com/gtag/js?id=G-04F6NC8SBN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-04F6NC8SBN');
+</script>
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			<link rel="icon" href="https://highfivve.com/wp-content/uploads/2021/02/favicon-150x150.png" sizes="32x32" />
+<link rel="icon" href="https://highfivve.com/wp-content/uploads/2021/02/favicon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://highfivve.com/wp-content/uploads/2021/02/favicon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://highfivve.com/wp-content/uploads/2021/02/favicon-300x300.png" />
+</head>
+<body class="home wp-singular page-template-default page page-id-1118 wp-theme-hello-elementor translatepress-de_DE elementor-default elementor-kit-26 elementor-page elementor-page-1118">
+
+
+<a class="skip-link screen-reader-text" href="#content">
+	Zum Inhalt wechseln</a>
+
+		<header data-elementor-type="header" data-elementor-id="56" class="elementor elementor-56 elementor-location-header" data-elementor-post-type="elementor_library">
+					<section class="elementor-section elementor-top-section elementor-element elementor-element-05665ed elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="05665ed" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-01c3121" data-id="01c3121" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-abec965 elementor-widget elementor-widget-image" data-id="abec965" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="/">
+							<img fetchpriority="high" width="1101" height="279" src="https://highfivve.com/wp-content/uploads/2022/07/Logo.png" class="attachment-full size-full wp-image-46" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/07/Logo.png 1101w, https://highfivve.com/wp-content/uploads/2022/07/Logo-300x76.png 300w, https://highfivve.com/wp-content/uploads/2022/07/Logo-1024x259.png 1024w, https://highfivve.com/wp-content/uploads/2022/07/Logo-768x195.png 768w" sizes="(max-width: 1101px) 100vw, 1101px" />								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-07665e3" data-id="07665e3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-37723ce elementor-nav-menu__align-end elementor-nav-menu__text-align-center elementor-nav-menu--stretch elementor-widget__width-auto elementor-widget-tablet__width-auto elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="37723ce" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menü" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
+				<ul id="menu-1-37723ce" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-143"><a href="/#mission" aria-current="page" class="elementor-item elementor-item-anchor">Mission</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-144"><a href="/#2" aria-current="page" class="elementor-item elementor-item-anchor">Solutions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-145"><a href="/#case" aria-current="page" class="elementor-item elementor-item-anchor">Case Studies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1542"><a href="https://highfivve.com/careers/" class="elementor-item">Career</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1477"><a href="https://highfivve.com/de-news/" class="elementor-item">News</a></li>
+</ul>			</nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menü umschalten" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-37723ce" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-143"><a href="/#mission" aria-current="page" class="elementor-item elementor-item-anchor" tabindex="-1">Mission</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-144"><a href="/#2" aria-current="page" class="elementor-item elementor-item-anchor" tabindex="-1">Solutions</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-145"><a href="/#case" aria-current="page" class="elementor-item elementor-item-anchor" tabindex="-1">Case Studies</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1542"><a href="https://highfivve.com/careers/" class="elementor-item" tabindex="-1">Career</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1477"><a href="https://highfivve.com/de-news/" class="elementor-item" tabindex="-1">News</a></li>
+</ul>			</nav>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-6125c29 elementor-widget__width-auto elementor-widget elementor-widget-button" data-id="6125c29" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-sm" href="/#kontakt">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Get in Touch</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+				<div class="elementor-element elementor-element-ecd8c8f elementor-nav-menu__align-center elementor-widget__width-auto elementor-widget-tablet__width-auto elementor-nav-menu--dropdown-none elementor-hidden-mobile elementor-widget elementor-widget-nav-menu" data-id="ecd8c8f" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menü" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-ecd8c8f" class="elementor-nav-menu"><li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-1434"><a href="https://highfivve.com/" class="elementor-item"><span data-no-translation><span class="trp-ls-language-name">DE</span></span></a></li>
+<li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-1433"><a href="https://highfivve.com/en/" class="elementor-item"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-ecd8c8f" class="elementor-nav-menu"><li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-1434"><a href="https://highfivve.com/" class="elementor-item" tabindex="-1"><span data-no-translation><span class="trp-ls-language-name">DE</span></span></a></li>
+<li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-1433"><a href="https://highfivve.com/en/" class="elementor-item" tabindex="-1"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</header>
+		
+<main id="content" class="site-main post-1118 page type-page status-publish has-post-thumbnail hentry" role="main">
+		<div class="page-content">
+				<div data-elementor-type="wp-page" data-elementor-id="1118" class="elementor elementor-1118" data-elementor-post-type="page">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-7f5b06b elementor-section-full_width elementor-section-height-min-height elementor-section-height-default elementor-section-items-middle" data-id="7f5b06b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c9f38dd" data-id="c9f38dd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-46bd1ca elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="46bd1ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7e7bd59" data-id="7e7bd59" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-987a7b2 elementor-widget elementor-widget-spacer" data-id="987a7b2" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1a9dcdf elementor-widget elementor-widget-heading" data-id="1a9dcdf" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Smart Monetization</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fb1ff73 premium-header-block premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="fb1ff73" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h2 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">vom Publisher </span><span class="premium-dual-header-second-header "> für Publisher</span></h2> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-260632d elementor-widget elementor-widget-text-editor" data-id="260632d" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Mit Smart-Monetization unterstützen wir Publisher dabei die Website-Performance zu verbessern. Wir haben immer die Nutzer im Blick und maximieren die Werbeumsätze&#8230;</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3e95e15 elementor-widget__width-inherit elementor-align-left elementor-widget elementor-widget-button" data-id="3e95e15" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+									<div class="elementor-button-wrapper">
+					<a class="elementor-button elementor-button-link elementor-size-md" href="https://meetings-eu1.hubspot.com/meetings/flowolf/potentialanalyse">
+						<span class="elementor-button-content-wrapper">
+									<span class="elementor-button-text">Jetzt kostenlose Analyse anfordern!</span>
+					</span>
+					</a>
+				</div>
+								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-94fa9b4" data-id="94fa9b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7964aac elementor-widget__width-initial elementor-widget elementor-widget-image" data-id="7964aac" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="800" height="800" src="https://highfivve.com/wp-content/uploads/2023/07/Highfive-Infografik-1.svg" class="attachment-large size-large wp-image-1137" alt="" srcset="https://highfivve.com/wp-content/uploads//2023/07/Highfive-Infografik-1.svg 150w, https://highfivve.com/wp-content/uploads//2023/07/Highfive-Infografik-1.svg 300w, https://highfivve.com/wp-content/uploads//2023/07/Highfive-Infografik-1.svg 1024w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ac8e247 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ac8e247" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-59e738a" data-id="59e738a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-83e0d61 elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="83e0d61" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;arrows&quot;,&quot;slides_to_show&quot;:&quot;5&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:21,&quot;sizes&quot;:[]},&quot;slides_to_show_tablet&quot;:&quot;4&quot;,&quot;slides_to_show_mobile&quot;:&quot;1&quot;,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Bild Karussell" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/gutefrage.jpg" alt="gutefrage" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/helpster.jpg" alt="helpster" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/speisekarte.jpg" alt="speisekarte" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/Unbenannt-1-1.jpg" alt="Unbenannt-1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/gelbeseiten.jpg" alt="gelbeseiten" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/telefonbuch-1.jpg" alt="telefonbuch" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/news.jpg" alt="news" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/prinz.jpg" alt="prinz" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/qiez.jpg" alt="qiez" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/sanego.jpg" alt="sanego" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/stellplatz.jpg" alt="stellplatz" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="12 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/stylight.jpg" alt="stylight" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="13 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2023/09/das-oertliche-1.jpg" alt="das-oertliche-1" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="14 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/lovlybooks.jpg" alt="lovlybooks" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="15 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/testedich.jpg" alt="testedich" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="16 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/unternehmer.jpg" alt="unternehmer" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="17 von 17"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/utopia.jpg" alt="utopia" /></figure></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>					</div>
+				
+									</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+		<div class="elementor-element elementor-element-f919df2 e-grid e-con-boxed e-con e-parent" data-id="f919df2" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-0ba9584 elementor-widget elementor-widget-image" data-id="0ba9584" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://highfivve.com/wp-content/uploads/elementor/thumbs/GCPP-qohmvvp99ctuszjpmoy9t2cmrgthukod9zakwaycxs.png" title="GCPP" alt="GCPP" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-c891607 elementor-widget elementor-widget-image" data-id="c891607" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://highfivve.com/wp-content/uploads/elementor/thumbs/BVDW-Logo-qohmyym8r9y0xwjj56qc22njhgnwuq7w9209fulfyc.png" title="BVDW-Logo" alt="BVDW-Logo" loading="lazy" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-0ad96cb elementor-widget__width-inherit elementor-widget elementor-widget-image" data-id="0ad96cb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" src="https://highfivve.com/wp-content/uploads/elementor/thumbs/prebid-member-qohmsgkee25ak2iklpq58ff8xzoeu83j51tz120xkw.png" title="prebid-member" alt="prebid-member" loading="lazy" />															</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-489d8ad elementor-section-height-min-height elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="489d8ad" data-element_type="section" id="mission">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-524ad76" data-id="524ad76" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c812292 elementor-widget elementor-widget-spacer" data-id="c812292" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d7bd3f5 elementor-widget elementor-widget-heading" data-id="d7bd3f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Unsere Mission</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-4faa02c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4faa02c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8161cde elementor-widget elementor-widget-text-editor" data-id="8161cde" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Unsere Vermarktung basiert auf dem Grundsatz, dass sich die gesamte Reichweite eines Publishers erfolgreich und effizient programmatisch vermarkten lässt.</p><p>Wir fokussieren uns zu 100% auf Programmatic.</p><p>Unser strategischer Ansatz basiert auf der Erfolgsformel: smarte Monetarisierung und Programmatic First. Ziel ist ein erfolgreiches Gesamtkonzept für Nutzer, Publisher und Werbetreibende zu schaffen.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-2fd78d9 elementor-widget elementor-widget-spacer" data-id="2fd78d9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e6914dc" data-id="e6914dc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-43f0c21 elementor-widget elementor-widget-spacer" data-id="43f0c21" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-81292c5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81292c5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-32f4e2a" data-id="32f4e2a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<div class="elementor-element elementor-element-faddfad elementor-widget elementor-widget-spacer" data-id="faddfad" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-4aa046a" data-id="4aa046a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-eccfe2c elementor-widget elementor-widget-spacer" data-id="eccfe2c" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e6d8903 elementor-widget elementor-widget-heading" data-id="e6d8903" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Unsere Technologie</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-26f5f81 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="26f5f81" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-136c410 elementor-widget elementor-widget-text-editor" data-id="136c410" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Die highfivve One-Tag-Solution vereint einen marktführend, schnellen AdTag der neusten Generation mit lokalen und globalen Display-Demand.</p><p>In kombination mit der highfivve Yield-Engine wird das Displayinventar konstant analysiert, ausgewertet und algorithmisch optimiert zur Auktion angeboten. </p><p>Dabei fokussieren wir uns auf ein Zusammenspiel zwischen User Experience und Website-Performance. Jeder Kunde erhält ein immutable AdTag und ein transparentes Umsatz-Reporting und hat Zugriff auf ein Kampagnenmanagement zur Eigenvermarktung.</p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-dbe7ef5 elementor-widget elementor-widget-spacer" data-id="dbe7ef5" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2bfbff0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2bfbff0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cd0849c" data-id="cd0849c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1db9454 elementor-widget elementor-widget-heading" data-id="1db9454" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Unsere Partner</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-28ecbbd elementor-widget elementor-widget-image" data-id="28ecbbd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="330" height="15" src="https://highfivve.com/wp-content/uploads/2022/07/partner.png" class="attachment-large size-large wp-image-130" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/07/partner.png 330w, https://highfivve.com/wp-content/uploads/2022/07/partner-300x14.png 300w" sizes="(max-width: 330px) 100vw, 330px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-d81907d elementor-arrows-position-inside elementor-widget elementor-widget-image-carousel" data-id="d81907d" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;arrows&quot;,&quot;slides_to_show&quot;:&quot;5&quot;,&quot;image_spacing_custom&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:45,&quot;sizes&quot;:[]},&quot;slides_to_show_tablet&quot;:&quot;4&quot;,&quot;image_spacing_custom_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:31,&quot;sizes&quot;:[]},&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;speed&quot;:500,&quot;image_spacing_custom_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-image-carousel-wrapper swiper" role="region" aria-roledescription="carousel" aria-label="Bild Karussell" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper" aria-live="off">
+								<div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="1 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/criteo.jpg" alt="criteo" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="2 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/equativ.jpg" alt="equativ" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="3 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/googleadmanager.jpg" alt="googleadmanager" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="4 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/xandr.jpg" alt="xandr" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="5 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/index.jpg" alt="index" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="6 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/magnite.jpg" alt="magnite" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="7 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/orbidder.jpg" alt="orbidder" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="8 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/prebid.jpg" alt="prebid" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="9 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/pubmatic.jpg" alt="pubmatic" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="10 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/sod.jpg" alt="sod" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="11 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/teadstv.jpg" alt="teadstv" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="12 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/transparent.jpg" alt="transparent" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="13 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/yiedlab.jpg" alt="yiedlab" /></figure></div><div class="swiper-slide" role="group" aria-roledescription="slide" aria-label="14 von 14"><figure class="swiper-slide-inner"><img decoding="async" class="swiper-slide-image" src="https://highfivve.com/wp-content/uploads/2022/09/yoc.jpg" alt="yoc" /></figure></div>			</div>
+												<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-chevron-left"></i>					</div>
+					<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0">
+						<i aria-hidden="true" class="eicon-chevron-right"></i>					</div>
+				
+									</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4ab7489 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4ab7489" data-element_type="section" id="2">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0620f86" data-id="0620f86" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4de223b elementor-widget elementor-widget-heading" data-id="4de223b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Lösungen für Smart Monetization</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-7784443 elementor-widget elementor-widget-image" data-id="7784443" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="719" height="15" src="https://highfivve.com/wp-content/uploads/2022/07/linie.png" class="attachment-large size-large wp-image-121" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/07/linie.png 719w, https://highfivve.com/wp-content/uploads/2022/07/linie-300x6.png 300w" sizes="(max-width: 719px) 100vw, 719px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5758455 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5758455" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-30a5c45" data-id="30a5c45" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-acff66e elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="acff66e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-179b93a" data-id="179b93a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-a394d23 elementor-align-left elementor-widget elementor-widget-lottie" data-id="a394d23" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Audio-Frequency-1.json&quot;,&quot;id&quot;:1214,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-43b6191 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="43b6191" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">AdStack</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-d1b73cc elementor-widget elementor-widget-text-editor" data-id="d1b73cc" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Highperformance AdStack der über Jahre aus Best-of-Breed Komponenten kontinuierlich auf einer der reichweitenstärksten Plattform Deutschlands im Einsatz ist und kontinuierlich weiterentwickelt wird.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-79a5299" data-id="79a5299" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-16cf36d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="16cf36d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e626c69" data-id="e626c69" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-1fc9f58 elementor-align-left elementor-widget elementor-widget-lottie" data-id="1fc9f58" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Directions-1.json&quot;,&quot;id&quot;:1240,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-e0c6576 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="e0c6576" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">CoreWebVitals</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e6a3823 elementor-widget elementor-widget-text-editor" data-id="e6a3823" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Neben der reinen Umsatzbetrachtung bilden zusätzliche Faktoren die auf das Nutzererlebnis einzahlen eine immer wichtigere Rolle in der Vermarktungs- stragetie. Wir bieten Ihnen eine maßgeschneiderte Monetarisierung von Publisher, für Publisher.</p><div id="professor_prebid-root"> </div>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4117e05" data-id="4117e05" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-f27fd3d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="f27fd3d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-ebe59ba" data-id="ebe59ba" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d9ea63a elementor-align-left elementor-widget elementor-widget-lottie" data-id="d9ea63a" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Data-Server.json&quot;,&quot;id&quot;:1242,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-fc14c9a premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="fc14c9a" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">Yield Engine</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-2cfbfdd elementor-widget elementor-widget-text-editor" data-id="2cfbfdd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Neben dem State of the Art AdStack und dem exklusiven Zugang zu globalem Demand, haben wir eine Hightech Yield Engine entwickelt. Mit dieser auf Machine Learning basierenden Yield- Optimierung erwirtschaften wir für unsere Kunden im Durchschnitt 30% höhere Umsätze als der Markt!</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d22167f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d22167f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-b67841b" data-id="b67841b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-a8d2319 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="a8d2319" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-c59d17b" data-id="c59d17b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-0098efd elementor-align-left elementor-widget elementor-widget-lottie" data-id="0098efd" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Files-Network.json&quot;,&quot;id&quot;:1236,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-ffcd8a7 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="ffcd8a7" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">Demand-Management</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8566fb3 elementor-widget elementor-widget-text-editor" data-id="8566fb3" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Unser AdTech Stack ist SSP agnostisch aufgebaut und ermöglicht Ihnen den Media-Inventarverkauf über eine umfangreiche Auswahl an SSPs. Sie entscheiden, über welche Technologie Sie verkaufen möchten und schalten Demand frei der zu Ihren Nutzern und AdLayout passt.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-46e8d87" data-id="46e8d87" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-871d848 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="871d848" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-0a73139" data-id="0a73139" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-4c52e3d elementor-align-left elementor-widget elementor-widget-lottie" data-id="4c52e3d" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/User.json&quot;,&quot;id&quot;:1228,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-28b54d3 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="28b54d3" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">Consent- Management</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-489b077 elementor-widget elementor-widget-text-editor" data-id="489b077" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Wir bieten unseren Publishern eine Consent Management Lösung (CMP) an um DSGVO konform vermarkten zu können. Der Einsatz einer CMP ist vor allem im Bereich der programmatischen Vermarktung aber auch für Onsite-Tracking etc. sehr wichtig und heute bereits Standard. Wir arbeiten in dem Bereich mit dem Anbieter Consentmanager.de zusammen und bieten unseren Kunden eine Integration an.</p><div id="professor_prebid-root"> </div>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e71dff2" data-id="e71dff2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-e1b0369 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="e1b0369" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-d912c1b" data-id="d912c1b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5be0bd1 elementor-align-left elementor-widget elementor-widget-lottie" data-id="5be0bd1" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Target-1.json&quot;,&quot;id&quot;:1249,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-0fb91a6 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="0fb91a6" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">AntiAdBlock</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-55f3a09 elementor-widget elementor-widget-text-editor" data-id="55f3a09" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Im Marktdurchschnitt können etwa 30% des verfügbaren Inventars oftmals nicht vermarktet werden, da der User keinen Consent gibt oder einen Adblocker im Einsatz hat. Wir bieten unseren Kunden eine Lösung, die es ermöglicht auch diese Reichweiten zurückzuholen und wieder zu monetarisieren.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1fb8f5a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fb8f5a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-30b25b6" data-id="30b25b6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-3bd2bc2 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="3bd2bc2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-53a51cb" data-id="53a51cb" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fac65ab elementor-align-left elementor-widget elementor-widget-lottie" data-id="fac65ab" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Exit-Screen.json&quot;,&quot;id&quot;:1238,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-43ed9c1 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="43ed9c1" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">AntiAdFraud</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-f3ba9ef elementor-widget elementor-widget-text-editor" data-id="f3ba9ef" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Mit unserer Anti AdFraud Detection Lösung stellen wir sicher, dass auf Ihren Seiten keine Ads ausgespielt werden, die schadhafte Software o.Ä. enthalten können. Zudem blockieren wir Heavy Ads, Spam Ads sowie Autoredirects auf Ihren Seiten. Die Einstellung übernehmen wir individuell, in Absprache mit dem Publisher. Die Qualität und Brand Safety ist sowohl für Sie als Publisher, als auch für den User und die Werbetreibenden essentiell.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-973d14c" data-id="973d14c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-7de8843 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="7de8843" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a317229" data-id="a317229" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-ae8fb9b elementor-align-left elementor-widget elementor-widget-lottie" data-id="ae8fb9b" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Favourite-Bookmark-1.json&quot;,&quot;id&quot;:1247,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-5176689 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="5176689" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">1stPartyData</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-5e39ef5 elementor-widget elementor-widget-text-editor" data-id="5e39ef5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Profitieren Sie von unserem Ist Party Daten Ansatz. Egal ob IAB Standard Segment oder Custom Audience, wir liefern der Demand Side die passenden Daten um auch in Zukunft in einer cookieless World zielgerichtetes Advertising anbieten zu können. Starten Sie mit unserem Know How im Bereich Datenvermarktung durch und erhöhen Sie die Performance und somit den Wert und Umsatz von programmatischen Kampagnen.</p>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d3d0c80" data-id="d3d0c80" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+					<div class="elementor-background-overlay"></div>
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-0fc86d0 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="0fc86d0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e68f408" data-id="e68f408" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5a3a7a1 elementor-align-left elementor-widget elementor-widget-lottie" data-id="5a3a7a1" data-element_type="widget" data-settings="{&quot;source_json&quot;:{&quot;url&quot;:&quot;https:\/\/highfivve.com\/wp-content\/uploads\/2023\/07\/Star-2.json&quot;,&quot;id&quot;:1230,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;loop&quot;:&quot;yes&quot;,&quot;play_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:0.8000000000000000444089209850062616169452667236328125,&quot;sizes&quot;:[]},&quot;reverse_animation&quot;:&quot;yes&quot;,&quot;source&quot;:&quot;media_file&quot;,&quot;caption_source&quot;:&quot;none&quot;,&quot;link_to&quot;:&quot;none&quot;,&quot;trigger&quot;:&quot;arriving_to_viewport&quot;,&quot;viewport&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;start_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:0,&quot;sizes&quot;:[]},&quot;end_point&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:100,&quot;sizes&quot;:[]},&quot;renderer&quot;:&quot;svg&quot;}" data-widget_type="lottie.default">
+				<div class="elementor-widget-container">
+					<div class="e-lottie__container"><div class="e-lottie__animation"></div></div>				</div>
+				</div>
+				<div class="elementor-element elementor-element-2793383 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="2793383" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span"># </span><span class="premium-dual-header-second-header ">Identity</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-7b6dbdd elementor-widget elementor-widget-text-editor" data-id="7b6dbdd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>Cookieless Vermarktung: highfivve arbeitet bereits mit den wichtigsten Identity Solutions zusammen, und kann diese für die Vermarktung in Absprache mit dem Publisher einsetzen. Dies wird zukünftig, in einer cookieless World, essentiell für Umsatz und eCPM sein. Heute erreichen wir durch die Zusammenarbeit bereits deutlich bessere Ergebnisse auf Safari und Firefox.</p><div id="professor_prebid-root"> </div>								</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8cf02bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8cf02bd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-84ad7cf" data-id="84ad7cf" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5b94a18 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="5b94a18" data-element_type="section" id="case" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4722870" data-id="4722870" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6e44119 premium-header-inline premium-lq__none premium-box-lq__none elementor-widget elementor-widget-premium-addon-dual-header" data-id="6e44119" data-element_type="widget" data-widget_type="premium-addon-dual-header.default">
+				<div class="elementor-widget-container">
+					
+					<h3 class="premium-dual-header-first-header "><span class="premium-dual-header-first-span">Success </span><span class="premium-dual-header-second-header ">Stories</span></h3> 		
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-85f4d08 elementor-widget elementor-widget-template" data-id="85f4d08" data-element_type="widget" data-widget_type="template.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-template">
+					<div data-elementor-type="section" data-elementor-id="1703" class="elementor elementor-1703" data-elementor-post-type="elementor_library">
+			<div class="elementor-element elementor-element-720260f e-flex e-con-boxed e-con e-parent" data-id="720260f" data-element_type="container">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-7337560 pa-carousel-template elementor-widget elementor-widget-premium-carousel-widget" data-id="7337560" data-element_type="widget" data-widget_type="premium-carousel-widget.default">
+				<div class="elementor-widget-container">
+							<div id="premium-carousel-wrapper-7337560" class="premium-carousel-wrapper premium-carousel-hidden carousel-wrapper-7337560  premium-carousel-dots-below" data-settings="{&quot;vertical&quot;:false,&quot;appearance&quot;:&quot;single&quot;,&quot;slidesToShow&quot;:1,&quot;infinite&quot;:true,&quot;speed&quot;:300,&quot;fade&quot;:false,&quot;autoplay&quot;:true,&quot;autoplaySpeed&quot;:5000,&quot;draggable&quot;:true,&quot;touchMove&quot;:true,&quot;adaptiveHeight&quot;:false,&quot;variableWidth&quot;:false,&quot;cssEase&quot;:&quot;ease&quot;,&quot;pauseOnHover&quot;:false,&quot;centerMode&quot;:false,&quot;arrows&quot;:true,&quot;dots&quot;:true,&quot;slidesDesk&quot;:1,&quot;slidesTab&quot;:1,&quot;slidesMob&quot;:1,&quot;animation&quot;:&quot;null&quot;,&quot;tabletBreak&quot;:1025,&quot;mobileBreak&quot;:768,&quot;navigation&quot;:[],&quot;carouselNavigation&quot;:&quot;dots&quot;,&quot;templatesNumber&quot;:6}">
+								<div class="premium-carousel-nav-dot">
+										<i class="fas fa-circle" aria-hidden="true"></i>
+										</div>
+										<div class="premium-carousel-nav-arrow-prev">
+					<a type="button" data-role="none" class="carousel-arrow carousel-prev" aria-label="Previous" role="button" href="#">
+													<i class="fas fa-angle-left" aria-hidden="true"></i>
+												</a>
+					</div>
+					<div class="premium-carousel-nav-arrow-next">
+						<a type="button" data-role="none" class="carousel-arrow carousel-next" aria-label="Next" role="button" href="#">
+															<i class="fas fa-angle-right" aria-hidden="true"></i>
+														</a>
+					</div>
+						<div id="premium-carousel-7337560" class="premium-carousel-inner">
+										<div class="premium-carousel-template item-wrapper">
+							<style>.elementor-1721 .elementor-element.elementor-element-c8cee01:not(.elementor-motion-effects-element-type-background), .elementor-1721 .elementor-element.elementor-element-c8cee01 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-1721 .elementor-element.elementor-element-c8cee01 > .elementor-container{min-height:500px;}.elementor-1721 .elementor-element.elementor-element-c8cee01, .elementor-1721 .elementor-element.elementor-element-c8cee01 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-1721 .elementor-element.elementor-element-c8cee01{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-1721 .elementor-element.elementor-element-c8cee01 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-1721 .elementor-element.elementor-element-238ccf1 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-1721 .elementor-element.elementor-element-238ccf1 img{max-width:50%;border-radius:500px 500px 500px 500px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-1721 .elementor-element.elementor-element-e85d622{text-align:center;}.elementor-1721 .elementor-element.elementor-element-e85d622 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:18px;font-weight:400;line-height:1.2em;color:#000000;}.elementor-1721 .elementor-element.elementor-element-65f1bf4 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 40px 20px 20px;}.elementor-1721 .elementor-element.elementor-element-d9a24f9{--spacer-size:32px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-1721 .elementor-element.elementor-element-86c9284{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );color:#000000;}.elementor-1721 .elementor-element.elementor-element-212a8f3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-1721 .elementor-element.elementor-element-212a8f3{text-align:right;}.elementor-1721 .elementor-element.elementor-element-212a8f3 img{width:409px;max-width:100%;}:root{--page-title-display:none;}</style>		<div data-elementor-type="page" data-elementor-id="1721" class="elementor elementor-1721" data-elementor-post-type="elementor_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-c8cee01 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="c8cee01" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-544f18d" data-id="544f18d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-238ccf1 elementor-widget elementor-widget-image" data-id="238ccf1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="512" height="512" src="https://highfivve.com/wp-content/uploads/2024/03/henry-hesse-camping.info_.png" class="attachment-large size-large wp-image-1732" alt="Henry Hesse camping.info" srcset="https://highfivve.com/wp-content/uploads/2024/03/henry-hesse-camping.info_.png 512w, https://highfivve.com/wp-content/uploads/2024/03/henry-hesse-camping.info_-300x300.png 300w, https://highfivve.com/wp-content/uploads/2024/03/henry-hesse-camping.info_-150x150.png 150w, https://highfivve.com/wp-content/uploads/2024/03/henry-hesse-camping.info_-12x12.png 12w" sizes="(max-width: 512px) 100vw, 512px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e85d622 elementor-widget elementor-widget-heading" data-id="e85d622" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-heading-title elementor-size-default">Henry Hesse <br>
+<i>Operations Manager bei camping.info</i>
+</h3>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-65f1bf4" data-id="65f1bf4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d9a24f9 elementor-widget elementor-widget-spacer" data-id="d9a24f9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-86c9284 elementor-widget elementor-widget-text-editor" data-id="86c9284" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>&#8222;<span class="m_3314507307458887100oypena">Bei offenen Fragen wird immer zeitnah und lösungsorientiert geholfen. Die Lösung von highfivve überzeugt durch hohe Transparenz, was die Einbindung und Aussteuerung von Werbemitteln betrifft.</span><u></u><u></u>&#8222;</p><div id="professor_prebid-root"> </div><div id="professor_prebid-root"> </div><div id="professor_prebid-root"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-212a8f3 elementor-widget elementor-widget-image" data-id="212a8f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="272" height="121" src="https://highfivve.com/wp-content/uploads/2024/03/camping_logo.png" class="attachment-full size-full wp-image-1723" alt="Camping.info Logo" srcset="https://highfivve.com/wp-content/uploads/2024/03/camping_logo.png 272w, https://highfivve.com/wp-content/uploads/2024/03/camping_logo-18x8.png 18w" sizes="(max-width: 272px) 100vw, 272px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+													</div>
+												<div class="premium-carousel-template item-wrapper">
+							<style>.elementor-1715 .elementor-element.elementor-element-c8cee01:not(.elementor-motion-effects-element-type-background), .elementor-1715 .elementor-element.elementor-element-c8cee01 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-1715 .elementor-element.elementor-element-c8cee01 > .elementor-container{min-height:500px;}.elementor-1715 .elementor-element.elementor-element-c8cee01, .elementor-1715 .elementor-element.elementor-element-c8cee01 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-1715 .elementor-element.elementor-element-c8cee01{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-1715 .elementor-element.elementor-element-c8cee01 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-1715 .elementor-element.elementor-element-238ccf1 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-1715 .elementor-element.elementor-element-238ccf1 img{max-width:50%;border-radius:500px 500px 500px 500px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-1715 .elementor-element.elementor-element-e85d622{text-align:center;}.elementor-1715 .elementor-element.elementor-element-e85d622 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:18px;font-weight:400;line-height:1.2em;color:#000000;}.elementor-1715 .elementor-element.elementor-element-65f1bf4 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 40px 20px 20px;}.elementor-1715 .elementor-element.elementor-element-d9a24f9{--spacer-size:32px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-1715 .elementor-element.elementor-element-86c9284{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );color:#000000;}.elementor-1715 .elementor-element.elementor-element-212a8f3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-1715 .elementor-element.elementor-element-212a8f3{text-align:right;}.elementor-1715 .elementor-element.elementor-element-212a8f3 img{width:409px;max-width:100%;}:root{--page-title-display:none;}</style>		<div data-elementor-type="page" data-elementor-id="1715" class="elementor elementor-1715" data-elementor-post-type="elementor_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-c8cee01 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="c8cee01" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-544f18d" data-id="544f18d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-238ccf1 elementor-widget elementor-widget-image" data-id="238ccf1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="800" height="806" src="https://highfivve.com/wp-content/uploads/2024/03/corina_lingscheidt_news.de_.png" class="attachment-large size-large wp-image-1718" alt="Corina Lingscheidt" srcset="https://highfivve.com/wp-content/uploads/2024/03/corina_lingscheidt_news.de_.png 800w, https://highfivve.com/wp-content/uploads/2024/03/corina_lingscheidt_news.de_-298x300.png 298w, https://highfivve.com/wp-content/uploads/2024/03/corina_lingscheidt_news.de_-150x150.png 150w, https://highfivve.com/wp-content/uploads/2024/03/corina_lingscheidt_news.de_-768x774.png 768w, https://highfivve.com/wp-content/uploads/2024/03/corina_lingscheidt_news.de_-12x12.png 12w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e85d622 elementor-widget elementor-widget-heading" data-id="e85d622" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Corina Lingscheidt<br>
+<i>Geschäftsführerin von news.de</i>
+</h4>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-65f1bf4" data-id="65f1bf4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d9a24f9 elementor-widget elementor-widget-spacer" data-id="d9a24f9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-86c9284 elementor-widget elementor-widget-text-editor" data-id="86c9284" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>&#8222;highfivve ist ein Vermarkter, der das Geschäftsmodell der Reichweiten-vermarktung ganzheitlich betrachtet und selbst Erfahrungen als Publisher mitbringt. Wir vertrauen dem Team deshalb monatlich mehr als 30 Mio. Ad Impressions und einen großen Teil unserer Umsätze an. Seit mehr als zwei Jahren arbeiten wir nun zusammen und sind sehr zufrieden.&#8220;</p><div id="professor_prebid-root"> </div><div id="professor_prebid-root"> </div><div id="professor_prebid-root"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-212a8f3 elementor-widget elementor-widget-image" data-id="212a8f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="430" height="120" src="https://highfivve.com/wp-content/uploads/2024/03/news_de_logo.png" class="attachment-full size-full wp-image-1717" alt="news.de logo" srcset="https://highfivve.com/wp-content/uploads/2024/03/news_de_logo.png 430w, https://highfivve.com/wp-content/uploads/2024/03/news_de_logo-300x84.png 300w, https://highfivve.com/wp-content/uploads/2024/03/news_de_logo-18x5.png 18w, https://highfivve.com/wp-content/uploads/2024/03/elementor/thumbs/news_de_logo-qlkxs0368xwb8d8gus3evd953vsn9nelobfd79uzhs.png 200w" sizes="(max-width: 430px) 100vw, 430px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+													</div>
+												<div class="premium-carousel-template item-wrapper">
+							<style>.elementor-666 .elementor-element.elementor-element-0b8ff99 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-666 .elementor-element.elementor-element-0b8ff99:not(.elementor-motion-effects-element-type-background), .elementor-666 .elementor-element.elementor-element-0b8ff99 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-666 .elementor-element.elementor-element-0b8ff99 > .elementor-container{min-height:500px;}.elementor-666 .elementor-element.elementor-element-0b8ff99, .elementor-666 .elementor-element.elementor-element-0b8ff99 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-666 .elementor-element.elementor-element-0b8ff99{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-666 .elementor-element.elementor-element-0b8ff99 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-666 .elementor-element.elementor-element-38fe01e > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 40px 20px 20px;}.elementor-666 .elementor-element.elementor-element-3574b3a{--spacer-size:10px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-666 .elementor-element.elementor-element-9dba8b4{width:var( --container-widget-width, 120.27% );max-width:120.27%;--container-widget-width:120.27%;--container-widget-flex-grow:0;font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );color:#000000;}.elementor-666 .elementor-element.elementor-element-efdeb97{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );color:#32D2D2;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-666 .elementor-element.elementor-element-8007e9e > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-666 .elementor-element.elementor-element-8007e9e{text-align:right;}.elementor-666 .elementor-element.elementor-element-8007e9e img{width:332px;max-width:100%;}:root{--page-title-display:none;}@media(min-width:768px){.elementor-666 .elementor-element.elementor-element-f40f1f9{width:6.402%;}.elementor-666 .elementor-element.elementor-element-38fe01e{width:93.264%;}.elementor-666 .elementor-element.elementor-element-5e03aad{width:49.324%;}.elementor-666 .elementor-element.elementor-element-23f8145{width:50.609%;}}</style>		<div data-elementor-type="page" data-elementor-id="666" class="elementor elementor-666" data-elementor-post-type="elementor_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-0b8ff99 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="0b8ff99" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f40f1f9" data-id="f40f1f9" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-38fe01e" data-id="38fe01e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3574b3a elementor-widget elementor-widget-spacer" data-id="3574b3a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-9dba8b4 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="9dba8b4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><b>Bis 2016 war gutefrage.net in einer klassischen Online Displayvermarktung</b></p><p><b>Nach Implementierung des highfivve AdStacks 2017/2018 konnten folgende Resultate erzielt werden.</b></p><p> </p><ul><li><p>21% Anstieg des Umsatzes pro Seitenaufruf (Page RPM)</p></li><li><p>3x höherer Mobil-TKP in Q4 2018, verglichen mit Q1 2016</p></li><li><p>Zeitersparnis bis zum kompletten Laden der Seite</p></li><li><p>26% weniger Anfragen an externe Server</p></li><li><p>29% Zeitersparnis bis die erste Anzeige sichtbar wird</p></li></ul><div id="professor_prebid-root"> </div>								</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-11d8808 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11d8808" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-5e03aad" data-id="5e03aad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-efdeb97 elementor-widget elementor-widget-text-editor" data-id="efdeb97" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><span style="color: #32d2d2;"><a style="color: #32d2d2;" href="https://highfivve.com/wp-content/uploads/2022/09/google-Case-Study-deutsch-1.pdf" target="_blank" rel="noopener">Link zur Case Study (Deutsch)</a></span></p><p><span style="color: #32d2d2;"><a style="color: #32d2d2;" href="https://highfivve.com/wp-content/uploads/2022/09/Google-Case-Study-englisch-1.pdf" target="_blank" rel="noopener" data-wplink-edit="true">Link zur Case Study (Englisch)</a></span></p><div id="professor_prebid-root"> </div><div id="professor_prebid-root"> </div>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-23f8145" data-id="23f8145" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-8007e9e elementor-widget elementor-widget-image" data-id="8007e9e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="800" height="157" src="https://highfivve.com/wp-content/uploads/2022/09/gute-frage-1.png" class="attachment-large size-large wp-image-683" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/09/gute-frage-1.png 800w, https://highfivve.com/wp-content/uploads/2022/09/gute-frage-1-300x59.png 300w, https://highfivve.com/wp-content/uploads/2022/09/gute-frage-1-768x151.png 768w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+													</div>
+												<div class="premium-carousel-template item-wrapper">
+							<style>.elementor-661 .elementor-element.elementor-element-52a3007 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-661 .elementor-element.elementor-element-52a3007:not(.elementor-motion-effects-element-type-background), .elementor-661 .elementor-element.elementor-element-52a3007 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-661 .elementor-element.elementor-element-52a3007 > .elementor-container{min-height:500px;}.elementor-661 .elementor-element.elementor-element-52a3007, .elementor-661 .elementor-element.elementor-element-52a3007 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-661 .elementor-element.elementor-element-52a3007{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-661 .elementor-element.elementor-element-52a3007 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-661 .elementor-element.elementor-element-52d2489 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-661 .elementor-element.elementor-element-52d2489 img{max-width:50%;border-radius:200px 200px 200px 200px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-661 .elementor-element.elementor-element-14673cd{text-align:center;}.elementor-661 .elementor-element.elementor-element-14673cd .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:18px;font-weight:400;line-height:1.2em;color:#000000;}.elementor-661 .elementor-element.elementor-element-6e38f1b > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 40px 20px 20px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-661 .elementor-element.elementor-element-2761a2a{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );color:#000000;}.elementor-661 .elementor-element.elementor-element-3feaf82{--spacer-size:10px;}.elementor-661 .elementor-element.elementor-element-867108b > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-661 .elementor-element.elementor-element-867108b{text-align:right;}.elementor-661 .elementor-element.elementor-element-867108b img{width:347px;max-width:100%;}:root{--page-title-display:none;}</style>		<div data-elementor-type="page" data-elementor-id="661" class="elementor elementor-661" data-elementor-post-type="elementor_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-52a3007 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="52a3007" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-34dd615" data-id="34dd615" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-52d2489 elementor-widget elementor-widget-image" data-id="52d2489" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="200" height="200" src="https://highfivve.com/wp-content/uploads/2022/09/patrick.png" class="attachment-full size-full wp-image-662" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/09/patrick.png 200w, https://highfivve.com/wp-content/uploads/2022/09/patrick-150x150.png 150w" sizes="(max-width: 200px) 100vw, 200px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-14673cd elementor-widget elementor-widget-heading" data-id="14673cd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Patrick Schoyswohl <br><i>
+Inhaber &amp; Geschäftsführer - Klickimpuls.at
+Vermoegenmagazin.de</i></h4>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-6e38f1b" data-id="6e38f1b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-2761a2a elementor-widget elementor-widget-text-editor" data-id="2761a2a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>“Sehr professionell, wie die gesamte Umsetzung gelaufen ist. Kennt man von anderen Vermarktern / Agenturen einfach nicht. Super Truppe und wirklich tolle und schnelle Umsetzung! Danke und weiter so.”</p><div id="professor_prebid-root"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-3feaf82 elementor-widget elementor-widget-spacer" data-id="3feaf82" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-867108b elementor-widget elementor-widget-image" data-id="867108b" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="400" height="113" src="https://highfivve.com/wp-content/uploads/2022/09/vermoegen-2.png" class="attachment-large size-large wp-image-680" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/09/vermoegen-2.png 400w, https://highfivve.com/wp-content/uploads/2022/09/vermoegen-2-300x85.png 300w" sizes="(max-width: 400px) 100vw, 400px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+													</div>
+												<div class="premium-carousel-template item-wrapper">
+							<style>.elementor-236 .elementor-element.elementor-element-59fa818 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-236 .elementor-element.elementor-element-59fa818:not(.elementor-motion-effects-element-type-background), .elementor-236 .elementor-element.elementor-element-59fa818 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-236 .elementor-element.elementor-element-59fa818 > .elementor-container{min-height:500px;}.elementor-236 .elementor-element.elementor-element-59fa818, .elementor-236 .elementor-element.elementor-element-59fa818 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-236 .elementor-element.elementor-element-59fa818{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-236 .elementor-element.elementor-element-59fa818 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-236 .elementor-element.elementor-element-aa3afa0 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-236 .elementor-element.elementor-element-aa3afa0 img{max-width:50%;border-radius:200px 200px 200px 200px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-236 .elementor-element.elementor-element-2c1d895{text-align:center;}.elementor-236 .elementor-element.elementor-element-2c1d895 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:18px;font-weight:400;line-height:1.2em;color:#000000;}.elementor-236 .elementor-element.elementor-element-9463b42 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 40px 20px 20px;}.elementor-236 .elementor-element.elementor-element-fbfb86c{--spacer-size:10px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-236 .elementor-element.elementor-element-e853582{font-family:"Poppins", Sans-serif;font-size:19px;font-weight:300;line-height:1.2em;letter-spacing:0px;color:#000000;}.elementor-236 .elementor-element.elementor-element-cdd2409 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-236 .elementor-element.elementor-element-cdd2409{text-align:right;}.elementor-236 .elementor-element.elementor-element-cdd2409 img{width:326px;max-width:100%;}:root{--page-title-display:none;}</style>		<div data-elementor-type="page" data-elementor-id="236" class="elementor elementor-236" data-elementor-post-type="elementor_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-59fa818 elementor-section-height-min-height elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="59fa818" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e41d4d5" data-id="e41d4d5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-aa3afa0 elementor-widget elementor-widget-image" data-id="aa3afa0" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="300" height="300" src="https://highfivve.com/wp-content/uploads/2022/08/foto-mann.jpg" class="attachment-full size-full wp-image-239" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/08/foto-mann.jpg 300w, https://highfivve.com/wp-content/uploads/2022/08/foto-mann-150x150.jpg 150w" sizes="(max-width: 300px) 100vw, 300px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-2c1d895 elementor-widget elementor-widget-heading" data-id="2c1d895" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Jürgen Renghart<br><i> Business Development</i></h4>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-9463b42" data-id="9463b42" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-fbfb86c elementor-widget elementor-widget-spacer" data-id="fbfb86c" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-e853582 elementor-widget elementor-widget-text-editor" data-id="e853582" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<h3><b>Vor der Zusammenarbeit mit highfivve</b></h3><p>Wir hatten ein gefühlt ausser Kontrolle geratenes Setup und wussten nicht mit wieviel Umsatz wir von Monat-zu-Monat rechnen konnten. Die Schwankungen waren enorm.</p><h3><b>Nach der Umstellung zu highfivve</b></h3><p>Nach Erarbeitung eines Nutzerfreundlichen AdLayouts für Speisekarte.de und einfacher Implementierung des AdTags, konnten wir seit dem Umsatzsteigerungen von mehr als 50% aufweisen.</p><div id="professor_prebid-root"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-cdd2409 elementor-widget elementor-widget-image" data-id="cdd2409" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="480" height="120" src="https://highfivve.com/wp-content/uploads/2022/08/speisekarte-logo.png" class="attachment-large size-large wp-image-238" alt="" srcset="https://highfivve.com/wp-content/uploads/2022/08/speisekarte-logo.png 480w, https://highfivve.com/wp-content/uploads/2022/08/speisekarte-logo-300x75.png 300w" sizes="(max-width: 480px) 100vw, 480px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+													</div>
+												<div class="premium-carousel-template item-wrapper">
+							<style>.elementor-222 .elementor-element.elementor-element-c8cee01:not(.elementor-motion-effects-element-type-background), .elementor-222 .elementor-element.elementor-element-c8cee01 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-222 .elementor-element.elementor-element-c8cee01 > .elementor-container{min-height:500px;}.elementor-222 .elementor-element.elementor-element-c8cee01, .elementor-222 .elementor-element.elementor-element-c8cee01 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-222 .elementor-element.elementor-element-c8cee01{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 0px 0px;}.elementor-222 .elementor-element.elementor-element-c8cee01 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-222 .elementor-element.elementor-element-238ccf1 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-222 .elementor-element.elementor-element-238ccf1 img{max-width:50%;border-radius:500px 500px 500px 500px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-222 .elementor-element.elementor-element-e85d622{text-align:center;}.elementor-222 .elementor-element.elementor-element-e85d622 .elementor-heading-title{font-family:"Poppins", Sans-serif;font-size:18px;font-weight:400;color:#000000;}.elementor-222 .elementor-element.elementor-element-65f1bf4 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:20px 40px 20px 20px;}.elementor-222 .elementor-element.elementor-element-d9a24f9{--spacer-size:32px;}.elementor-widget-text-editor{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-text );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-222 .elementor-element.elementor-element-86c9284{font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );color:#000000;}.elementor-222 .elementor-element.elementor-element-212a8f3 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 0px 0px;}.elementor-222 .elementor-element.elementor-element-212a8f3{text-align:right;}.elementor-222 .elementor-element.elementor-element-212a8f3 img{width:409px;max-width:100%;}:root{--page-title-display:none;}</style>		<div data-elementor-type="page" data-elementor-id="222" class="elementor elementor-222" data-elementor-post-type="elementor_library">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-c8cee01 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="c8cee01" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-544f18d" data-id="544f18d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-238ccf1 elementor-widget elementor-widget-image" data-id="238ccf1" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="360" height="360" src="https://highfivve.com/wp-content/uploads/2024/03/bernhard-finkbeiner.jpeg" class="attachment-large size-large wp-image-1698" alt="" srcset="https://highfivve.com/wp-content/uploads/2024/03/bernhard-finkbeiner.jpeg 360w, https://highfivve.com/wp-content/uploads/2024/03/bernhard-finkbeiner-300x300.jpeg 300w, https://highfivve.com/wp-content/uploads/2024/03/bernhard-finkbeiner-150x150.jpeg 150w, https://highfivve.com/wp-content/uploads/2024/03/bernhard-finkbeiner-12x12.jpeg 12w" sizes="(max-width: 360px) 100vw, 360px" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-e85d622 elementor-widget elementor-widget-heading" data-id="e85d622" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h4 class="elementor-heading-title elementor-size-default">Dipl.-Inf. Bernhard Finkbeiner
+<i>Geschäftsführer</i></h4>				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-65f1bf4" data-id="65f1bf4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d9a24f9 elementor-widget elementor-widget-spacer" data-id="d9a24f9" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-86c9284 elementor-widget elementor-widget-text-editor" data-id="86c9284" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>&#8222;Selten haben wir mit einem so zuverlässigen und kompetenten Partner wie highfivve zusammen gearbeitet: Wir schätzen die transparente und effektive Kommunikation sowie die technische Expertise sehr!&#8220;</p><div id="professor_prebid-root"> </div>								</div>
+				</div>
+				<div class="elementor-element elementor-element-212a8f3 elementor-widget elementor-widget-image" data-id="212a8f3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img loading="lazy" decoding="async" width="800" height="800" src="https://highfivve.com/wp-content/uploads/2022/09/Frag-Mutti-logo.svg" class="attachment-large size-large wp-image-563" alt="" srcset="https://highfivve.com/wp-content/uploads//2022/09/Frag-Mutti-logo.svg 150w, https://highfivve.com/wp-content/uploads//2022/09/Frag-Mutti-logo.svg 300w, https://highfivve.com/wp-content/uploads//2022/09/Frag-Mutti-logo.svg 1024w" sizes="(max-width: 800px) 100vw, 800px" />															</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+		
+													</div>
+									</div>
+								</div>
+						</div>
+				</div>
+					</div>
+				</div>
+				</div>
+				</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5812721 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="5812721" data-element_type="section" id="kontakt" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-89f7df8" data-id="89f7df8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5266017 elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="5266017" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default">Say</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-22286ba elementor-widget__width-auto elementor-widget elementor-widget-heading" data-id="22286ba" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+					<h2 class="elementor-heading-title elementor-size-default"> HELLO!</h2>				</div>
+				</div>
+				<div class="elementor-element elementor-element-53cb049 elementor-widget elementor-widget-text-editor" data-id="53cb049" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><strong>Ob als Publisher, Agentur, Partner.</strong></p><p>highfivve GmbH<br />Erika-Mann-Straße 23<br />80636 München</p><p>+49 89 51 51 46 -100<br /><a href="mailto:team@highfivve.com" target="_blank" rel="noopener">team@highfivve.com</a></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-d2e35e2 elementor-view-stacked elementor-widget__width-auto elementor-shape-circle elementor-widget elementor-widget-icon" data-id="d2e35e2" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="https://www.xing.com/pages/highfivvegmbh">
+			<i aria-hidden="true" class="fab fa-xing"></i>			</a>
+		</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-8dbf62a elementor-view-stacked elementor-widget__width-auto elementor-shape-circle elementor-widget elementor-widget-icon" data-id="8dbf62a" data-element_type="widget" data-widget_type="icon.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-icon-wrapper">
+			<a class="elementor-icon" href="https://www.linkedin.com/company/highfivve">
+			<i aria-hidden="true" class="fab fa-linkedin-in"></i>			</a>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-18dc51c" data-id="18dc51c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-c8b818f elementor-widget elementor-widget-html" data-id="c8b818f" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+					
+<div class="wpcf7 no-js" id="wpcf7-f207-p1118-o1" lang="de-DE" dir="ltr" data-wpcf7-id="207">
+<div class="screen-reader-response"><p role="status" aria-live="polite" aria-atomic="true"></p> <ul></ul></div>
+<form action="/#wpcf7-f207-p1118-o1" method="post" class="wpcf7-form init" aria-label="Kontaktformular" novalidate="novalidate" data-status="init">
+<fieldset class="hidden-fields-container"><input type="hidden" name="_wpcf7" value="207" /><input type="hidden" name="_wpcf7_version" value="6.1.2" /><input type="hidden" name="_wpcf7_locale" value="de_DE" /><input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f207-p1118-o1" /><input type="hidden" name="_wpcf7_container_post" value="1118" /><input type="hidden" name="_wpcf7_posted_data_hash" value="" />
+</fieldset>
+<p><label> Name<br />
+<span class="wpcf7-form-control-wrap" data-name="your-name"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-name" /></span> </label>
+</p>
+<p><label> E-Mail-Adresse<br />
+<span class="wpcf7-form-control-wrap" data-name="your-email"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-email wpcf7-validates-as-required wpcf7-text wpcf7-validates-as-email" aria-required="true" aria-invalid="false" value="" type="email" name="your-email" /></span> </label>
+</p>
+<p><label> Betreff<br />
+<span class="wpcf7-form-control-wrap" data-name="your-subject"><input size="40" maxlength="400" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" value="" type="text" name="your-subject" /></span> </label>
+</p>
+<p><label> Nachricht<br />
+<span class="wpcf7-form-control-wrap" data-name="your-message"><textarea cols="40" rows="10" maxlength="2000" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" name="your-message"></textarea></span> </label>
+</p>
+<p><input class="wpcf7-form-control wpcf7-submit has-spinner" type="submit" value="Senden" />
+</p><div class="wpcf7-response-output" aria-hidden="true"></div>
+</form>
+</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c0535ff elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c0535ff" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-efb9a5b" data-id="efb9a5b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-d0848ff elementor-widget elementor-widget-spacer" data-id="d0848ff" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+							<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+				<div class="post-tags">
+					</div>
+			</div>
+
+	<section id="comments" class="comments-area">
+
+	
+
+
+</section><!-- .comments-area -->
+</main>
+
+			<footer data-elementor-type="footer" data-elementor-id="84" class="elementor elementor-84 elementor-location-footer" data-elementor-post-type="elementor_library">
+					<footer class="elementor-section elementor-top-section elementor-element elementor-element-3fb57102 elementor-section-content-bottom elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="3fb57102" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-58a4380e" data-id="58a4380e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-11fd8cbd elementor-widget elementor-widget-text-editor" data-id="11fd8cbd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p>© 2023 highfivve.com</p>								</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-61fc800e" data-id="61fc800e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-3b37c4cb elementor-widget__width-auto elementor-widget elementor-widget-text-editor" data-id="3b37c4cb" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+									<p><a href="/datenschutz">Datenschutz</a> | <a href="/impressum">Impressum</a> | <a href="https://highfivve.com/careers">Careers</a></p>								</div>
+				</div>
+				<div class="elementor-element elementor-element-9093190 elementor-nav-menu__align-center elementor-widget__width-auto elementor-widget-tablet__width-auto elementor-nav-menu--dropdown-none elementor-hidden-mobile elementor-widget elementor-widget-nav-menu" data-id="9093190" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot; aria-hidden=\&quot;true\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+								<nav aria-label="Menü" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-9093190" class="elementor-nav-menu"><li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-1434"><a href="https://highfivve.com/" class="elementor-item"><span data-no-translation><span class="trp-ls-language-name">DE</span></span></a></li>
+<li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-1433"><a href="https://highfivve.com/en/" class="elementor-item"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true">
+				<ul id="menu-2-9093190" class="elementor-nav-menu"><li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher current-language-menu-item menu-item-1434"><a href="https://highfivve.com/" class="elementor-item" tabindex="-1"><span data-no-translation><span class="trp-ls-language-name">DE</span></span></a></li>
+<li class="trp-language-switcher-container menu-item menu-item-type-post_type menu-item-object-language_switcher menu-item-1433"><a href="https://highfivve.com/en/" class="elementor-item" tabindex="-1"><span data-no-translation><span class="trp-ls-language-name">EN</span></span></a></li>
+</ul>			</nav>
+						</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</footer>
+				</footer>
+		
+<template id="tp-language" data-tp-language="de_DE"></template><script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/hello-elementor\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+			<script>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='elementor-post-1703-css' href='https://highfivve.com/wp-content/uploads/elementor/css/post-1703.css?ver=1760383998' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css' href='https://highfivve.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.11.40' media='all' />
+<link rel='stylesheet' id='pa-slick-css' href='https://highfivve.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/slick.min.css?ver=4.11.40' media='all' />
+<script id="pa-frontend-js-extra">
+var PremiumSettings = {"ajaxurl":"https:\/\/highfivve.com\/wp-admin\/admin-ajax.php","nonce":"fe50078032"};
+</script>
+<script src="https://highfivve.com/wp-content/uploads/premium-addons-elementor/pa-frontend-2280d4251.min.js?ver=1760384014" id="pa-frontend-js"></script>
+<script src="https://highfivve.com/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://highfivve.com/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://highfivve.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.2" id="swv-js"></script>
+<script id="contact-form-7-js-translations">
+( function( domain, translations ) {
+	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
+	localeData[""].domain = domain;
+	wp.i18n.setLocaleData( localeData, domain );
+} )( "contact-form-7", {"translation-revision-date":"2025-09-28 13:56:19+0000","generator":"GlotPress\/4.0.1","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=2; plural=n != 1;","lang":"de"},"This contact form is placed in the wrong place.":["Dieses Kontaktformular wurde an der falschen Stelle platziert."],"Error:":["Fehler:"]}},"comment":{"reference":"includes\/js\/index.js"}} );
+</script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/highfivve.com\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    }
+};
+</script>
+<script src="https://highfivve.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.2" id="contact-form-7-js"></script>
+<script id="leadin-script-loader-js-js-extra">
+var leadin_wordpress = {"userRole":"visitor","pageType":"home","leadinPluginVersion":"11.3.21"};
+</script>
+<script src="https://js-eu1.hs-scripts.com/25598067.js?integration=WordPress&amp;ver=11.3.21" id="leadin-script-loader-js-js"></script>
+<script id="wpfront-scroll-top-js-extra">
+var wpfront_scroll_top_data = {"data":{"css":"#wpfront-scroll-top-container{position:fixed;cursor:pointer;z-index:9999;border:none;outline:none;background-color:rgba(0,0,0,0);box-shadow:none;outline-style:none;text-decoration:none;opacity:0;display:none;align-items:center;justify-content:center;margin:0;padding:0}#wpfront-scroll-top-container.show{display:flex;opacity:1}#wpfront-scroll-top-container .sr-only{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}#wpfront-scroll-top-container .text-holder{padding:3px 10px;-webkit-border-radius:3px;border-radius:3px;-webkit-box-shadow:4px 4px 5px 0px rgba(50,50,50,.5);-moz-box-shadow:4px 4px 5px 0px rgba(50,50,50,.5);box-shadow:4px 4px 5px 0px rgba(50,50,50,.5)}#wpfront-scroll-top-container{right:20px;bottom:20px;}#wpfront-scroll-top-container img{width:auto;height:auto;}#wpfront-scroll-top-container .text-holder{color:#ffffff;background-color:#000000;width:auto;height:auto;;}#wpfront-scroll-top-container .text-holder:hover{background-color:#000000;}#wpfront-scroll-top-container i{color:#000000;}","html":"<button id=\"wpfront-scroll-top-container\" aria-label=\"\" title=\"\" ><img src=\"https:\/\/highfivve.com\/wp-content\/plugins\/wpfront-scroll-top\/includes\/assets\/icons\/36.png\" alt=\"\" title=\"\"><\/button>","data":{"hide_iframe":false,"button_fade_duration":200,"auto_hide":false,"auto_hide_after":2,"scroll_offset":100,"button_opacity":0.8000000000000000444089209850062616169452667236328125,"button_action":"top","button_action_element_selector":"","button_action_container_selector":"html, body","button_action_element_offset":0,"scroll_duration":400}}};
+</script>
+<script src="https://highfivve.com/wp-content/plugins/wpfront-scroll-top/includes/assets/wpfront-scroll-top.min.js?ver=3.0.1.09211" id="wpfront-scroll-top-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.32.4" id="elementor-webpack-runtime-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.4" id="elementor-frontend-modules-js"></script>
+<script src="https://highfivve.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Auf Facebook teilen","shareOnTwitter":"Auf Twitter teilen","pinIt":"Anheften","download":"Herunterladen","downloadImage":"Bild downloaden","fullscreen":"Vollbild","zoom":"Zoomen","share":"Teilen","playVideo":"Video abspielen","previous":"Zur\u00fcck","next":"Weiter","close":"Schlie\u00dfen","a11yCarouselPrevSlideMessage":"Vorherige Folie","a11yCarouselNextSlideMessage":"N\u00e4chste Folie","a11yCarouselFirstSlideMessage":"Dies ist die erste Folie","a11yCarouselLastSlideMessage":"Dies ist die letzte Folie","a11yCarouselPaginationBulletMessage":"Gehe zur Folie"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobil Hochformat","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobil Querformat","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Hochformat","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Querformat","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Breitbild","value":2400,"default_value":2400,"direction":"min","is_enabled":false}},"hasCustomBreakpoints":false},"version":"3.32.4","is_static":false,"experimentalFeatures":{"container":true,"nested-elements":true,"home_screen":true,"global_classes_should_enforce_capabilities":true,"e_variables":true,"cloud-library":true,"e_opt_in_v4_page":true,"import-export-customization":true,"e_pro_variables":true},"urls":{"assets":"https:\/\/highfivve.com\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/highfivve.com\/wp-admin\/admin-ajax.php","uploadUrl":"https:\/\/highfivve.com\/wp-content\/uploads"},"nonces":{"floatingButtonsClickTracking":"3b98ded6df"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":1118,"title":"highfivve%20%E2%80%93%20Smart%20Monetization%20f%C3%BCr%20Publisher","excerpt":"","featuredImage":"https:\/\/highfivve.com\/wp-content\/uploads\/2023\/09\/highfivve-logo-share.png"}};
+</script>
+<script src="https://highfivve.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.4" id="elementor-frontend-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1" id="smartmenus-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5" id="swiper-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6" id="lottie-js"></script>
+<script id="bdt-uikit-js-extra">
+var element_pack_ajax_login_config = {"ajaxurl":"https:\/\/highfivve.com\/wp-admin\/admin-ajax.php","language":"de","loadingmessage":"Sending user info, please wait...","unknownerror":"Unknown error, make sure access is correct!"};
+var ElementPackConfig = {"ajaxurl":"https:\/\/highfivve.com\/wp-admin\/admin-ajax.php","nonce":"c22d70336c","data_table":{"language":{"lengthMenu":"Show _MENU_ Entries","info":"Showing _START_ to _END_ of _TOTAL_ entries","search":"Search :","paginate":{"previous":"Previous","next":"Next"}}},"contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"mailchimp":{"subscribing":"Subscribing you please wait..."},"search":{"more_result":"More Results","search_result":"SEARCH RESULT","not_found":"not found"},"words_limit":{"read_more":"[read more]","read_less":"[read less]"},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+</script>
+<script src="https://highfivve.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.21.7" id="bdt-uikit-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/common/helper.min.js?ver=8.2.6" id="element-pack-helper-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/slick.min.js?ver=4.11.40" id="pa-slick-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.32.2" id="elementor-pro-webpack-runtime-js"></script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/highfivve.com\/wp-admin\/admin-ajax.php","nonce":"c6c2afd793","urls":{"assets":"https:\/\/highfivve.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/highfivve.com\/wp-json\/"},"settings":{"lazy_load_background_images":true},"popup":{"hasPopUps":false},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook_sdk":{"lang":"de_DE","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/highfivve.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="https://highfivve.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.32.2" id="elementor-pro-frontend-js"></script>
+<script src="https://highfivve.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.32.2" id="pro-elements-handlers-js"></script>
+
+</body>
+</html>

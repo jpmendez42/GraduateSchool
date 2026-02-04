@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+
+Allow: /
+
+Sitemap: https://www.madata.gr/sitemap.xml
+Sitemap: https://www.madata.gr/sitemap2.xml

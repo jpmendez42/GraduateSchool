@@ -1,0 +1,106 @@
+# =========================
+# 1) General Site Rules
+# =========================
+
+User-agent: *
+Disallow: /rss/kb
+Disallow: /health
+Disallow: /8cbf4ebb-4570-4351-a0ad-45b19148e4de
+
+# =========================
+# 2) Explicitly Allowed Agents
+# =========================
+
+# OpenAI Search Bot is explicitly allowed to access all content
+User-agent: OAI-SearchBot
+Disallow:
+
+# =========================
+# 3) AI / LLM-Related Crawlers (Disallowed)
+# =========================
+
+# Common Crawl robot, the resulting dataset is often used for LLM training.
+User-agent: CCBot
+Disallow: /
+
+# ChatGPT robot, used to improve ChatGPT LLM.
+User-agent: ChatGPT-User
+Disallow: /
+
+# ChatGPT robot, may be used to improve ChatGPT LLM.
+User-agent: GPTBot
+Disallow: /
+
+# Robot used to improve Bard and Vertex AI LLMs.
+User-agent: Google-Extended
+Disallow: /
+
+# Used by webz.io; their datasets are frequently used to train LLMs.
+User-agent: omgili
+Disallow: /
+
+# Used by webz.io; their datasets are frequently used to train LLMs.
+User-agent: omgilibot
+Disallow: /
+
+# FacebookBot crawls public web pages, which can feed Facebook’s LLM efforts.
+User-agent: FacebookBot
+Disallow: /
+
+# Amazonbot is used to train Amazon services such as Alexa.
+User-agent: Amazonbot
+Disallow: /
+
+# Bytespider is ByteDance's bot (TikTok); may not respect robots.txt but is known for AI/ML data gathering.
+User-agent: Bytespider
+Disallow: /
+
+# Robot used to improve Anthropic AI LLMs.
+User-agent: anthropic-ai
+Disallow: /
+
+# Additional known AI/LLM bots
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Kangaroo Bot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+# =========================
+# Sitemap
+# =========================
+
+Sitemap: https://www.tv4.se/sitemap.xml

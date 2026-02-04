@@ -1,0 +1,9 @@
+Host: autoreview.ru
+User-agent: *
+Crawl-delay: 2
+Disallow: /profile/*
+Disallow: /subscribe/*
+Disallow: /register/*
+Disallow: /js/*
+Disallow: /css/*
+Disallow: /files/*

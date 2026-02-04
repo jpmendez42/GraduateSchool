@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /1001694/
+Disallow: /40135427/
+Disallow: /multimedia/
+Disallow: /minuto-a-minuto/
+Disallow: /ios/
+Disallow: /infored/
+Disallow: /impresion/
+Disallow: /wp-admin
+
+Sitemap: https://www.informador.mx/sitemaps/index.xml
+Sitemap: https://www.informador.mx/sitemaps/googlenews.xml
+Sitemap: https://www.informador.mx/sitemaps/news-daily.xml
+Sitemap: https://www.informador.mx/sitemaps/personas.xml
+Sitemap: https://www.informador.mx/sitemaps/superbowl2021.xml

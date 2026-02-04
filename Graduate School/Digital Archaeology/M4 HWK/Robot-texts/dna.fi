@@ -1,0 +1,12 @@
+User-Agent:  facebookexternalhit
+Disallow: /yrityksille/artikkelit-ja-blogit
+
+User-Agent:  Amazonbot
+Disallow: /yrityksille/artikkelit-ja-blogit
+
+User-Agent: *
+Disallow: */asset_publisher/
+Disallow: /*?*doAsUserId=
+Sitemap: https://www.dna.fi/sitemap.xml
+Sitemap: https://www.dna.fi/yrityksille/sitemap.xml
+Sitemap: https://www.dna.fi/tuki-puhelimet/container-sitemap.xml

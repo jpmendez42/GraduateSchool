@@ -1,0 +1,42 @@
+User-agent: Googlebot
+User-agent: bingbot
+User-agent: Applebot
+User-agent: DuckDuckBot
+User-agent: DotBot
+User-agent: AhrefsBot
+User-agent: TwitterBot
+User-agent: AdsBot-Google
+User-agent: AdsBot-Google-Mobile
+User-agent: bitlybot
+User-agent: Startpagina-Linkchecker
+User-agent: Googlebot-Image
+User-agent: Pinterestbot
+User-agent: Semrushbot
+User-agent: SiteAuditBot
+
+
+Disallow: /downloads/
+Disallow: /static/
+Disallow: /ajax/
+Disallow: /blocks/
+Disallow: /content/
+Disallow: /emailtemplates/
+Disallow: /includes/
+Disallow: /redirect/
+Disallow: /tiles/
+Disallow: /voorugevonden/
+Disallow: /u-kunt-bestellen/
+Disallow: /order/
+Disallow: /orders/
+Disallow: /lists/
+Disallow: /listdetail/
+Disallow: /invoicemanagement/
+Disallow: /invoice2/
+Disallow: /paidinvoicesoverview/
+Disallow: /cartpreview/
+Disallow: /cartconfirmation/
+Allow: /
+Sitemap: https://www.technischeunie.nl/sitemap.xml
+
+User-agent: *
+Disallow: /

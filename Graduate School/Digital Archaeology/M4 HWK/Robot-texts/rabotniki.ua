@@ -1,0 +1,53 @@
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Disallow: /user/
+Disallow: /uk/user/
+Disallow: /stroiteli/
+Disallow: /admin/
+Disallow: /personal/
+Disallow: /account/
+Disallow: /uk/account/
+Disallow: /registration/
+Disallow: /verification/
+Disallow: /add/
+Disallow: /login/
+Disallow: /ua/stroiteli/
+Disallow: /ua/admin/
+Disallow: /ua/personal/
+Disallow: /ua/registration/
+Disallow: /ua/verification/
+Disallow: /ua/add/
+Disallow: /ua/login/
+Disallow: /ru/
+Disallow: /*license/
+Disallow: /*reviews/
+Disallow: /img/hbs612s.jpg
+Disallow: /image/license/
+Disallow: /image/doc/
+Disallow: /forum/faq.php
+Disallow: /forum/mcp.php
+Disallow: /forum/memberlist.php
+Disallow: /forum/posting.php
+Disallow: /forum/report.php
+Disallow: /forum/search.php
+Disallow: /forum/style.php 
+Disallow: /forum/ucp.php
+Disallow: /forum/viewonline.php
+Disallow: /forum/app.php
+Disallow: /price/search-click-log/
+Disallow: /uk/price/search-click-log/
+Disallow: /uk/ajax/check-draft
+Disallow: /partner-click
+Disallow: /ajax/
+
+Host: https://www.rabotniki.ua
+Sitemap: https://www.rabotniki.ua/sitemap.xml
+Sitemap: https://www.rabotniki.ua/sitemap/images-big.xml

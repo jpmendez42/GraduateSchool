@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /files/
+Disallow: /folders/
+Disallow: /guests/
+Disallow: /errors/
+Disallow: /include/
+Disallow: /browse
+Disallow: /browse/
+Disallow: /shares/
+Disallow: /download/
+Sitemap: https://www.mydrive.ch/sitemap.xml

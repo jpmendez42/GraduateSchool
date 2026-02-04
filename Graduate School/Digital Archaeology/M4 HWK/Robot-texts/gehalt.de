@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*jsessionid*
+Disallow: /stellenangebote-jobs*
+User-agent: EmailCollector
+Disallow: /
+User-agent: Adsbot-Google
+Allow: /
+User-agent: Mediapartners-Google*
+Allow: /
+
+Sitemap: https://www.gehalt.de/sitemap.xml

@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /assets/agentur/
+Disallow: /product/variation-layer/
+Disallow: /market-change-layer/
+Disallow: /account-rating/
+Disallow: /account-market/
+Disallow: /rating/
+Disallow: /evaluate/javascript
+Disallow: /search/
+Sitemap: https://www.dehner.de/de/sitemap-plp/
+Sitemap: https://www.dehner.de/de/sitemap-pdp/
+Sitemap: https://www.dehner.de/content/sitemap.xml

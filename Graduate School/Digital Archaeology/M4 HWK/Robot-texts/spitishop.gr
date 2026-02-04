@@ -1,0 +1,35 @@
+User-agent: Googlebot-Image
+Disallow:
+
+
+User-agent: *
+Allow: /themes/spitishop/cache/*.js$
+Allow: /themes/spitishop/cache/*.css$
+Disallow: /themes/spitishop/cache/*
+
+
+Disallow: /modules/rcpgtagmanager/rcpgtagmanager-ajax.php
+Disallow: /module/favoriteproducts/actions?process=remove
+Disallow: /module/favoriteproducts/actions?process=toggle
+Disallow: /module/favoriteproducts/actions?process=add
+Disallow: *module/advancedpopupcreator/*
+Disallow: /module/amazzingfilter/ajax*
+Disallow: /module/sleedcolorrecommendation/ajax*
+Disallow: *?rand=*
+Disallow: /*?id_product=*&controller=product*
+Disallow: /*controller=product*ajax=true*
+Disallow: /index.php?controller=product&id_product=*
+Disallow: /module/klaviyops/Β 
+Disallow: /index.php?controller=attachment*
+Disallow: /*?*%2A*
+Disallow: /*?*%25*
+
+
+Allow: */module/wkamp/*
+Allow: /*/*?p=*
+Allow: /module/ets_megamenu/*
+Allow: /*.css$
+Allow: *.css
+
+
+Sitemap: https://www.spitishop.gr/sitemaps/sitemap_index.xml

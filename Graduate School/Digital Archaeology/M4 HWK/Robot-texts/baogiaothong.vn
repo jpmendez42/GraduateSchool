@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /ajax/
+Disallow: /api/
+Sitemap: https://baoxaydung.vn/sitemap.xml
+Sitemap: https://baoxaydung.vn/google-news-sitemap.xml

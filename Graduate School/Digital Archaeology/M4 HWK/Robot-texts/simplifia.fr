@@ -1,0 +1,66 @@
+User-Agent: *
+Disallow: /inscriptioncarbone14.php
+Disallow: /newsletterhebdo.php
+Disallow: /demarchesenligne/demarchescaton*
+Disallow: /espaceperso/
+Disallow: /espacecf/
+Disallow: /cf_connexion.php
+Disallow: /cf_creationdecompte.php
+Disallow: /cf_mdpoublie.php
+Disallow: /avis-de-deces/ajax*
+Disallow: /avis-de-deces/recueillement*
+Disallow: /avis-de-deces/selected*
+Disallow: /avis-de-deces/transform*
+Disallow: /pompes-funebres/*/photo
+Disallow: /pompes-funebres/ajax*
+Disallow: /obseques-en-ligne/devis/*
+Disallow: /avis-de-deces/recherche*
+Disallow: /boutique/funeraire*
+Sitemap: https://www.simplifia.fr/sitemap-index.xml
+Sitemap: https://www.simplifia.fr/boutique/sitemap_index.xml
+Sitemap: https://www.simplifia.fr/sitemap-memorial.xml
+Sitemap: https://www.simplifia.fr/sitemap-memorial-cities.xml
+Sitemap: https://www.simplifia.fr/sitemap-memorial-departements.xml
+Disallow: /pompes-funebres/ville/*latlng*
+Disallow: /img-sugar/*
+Disallow: /autosuggest
+#Disallow: /boutique/*defunct_encoded
+#Disallow: /boutique/*affiliate_key*
+Disallow: /cgv
+Disallow: /cgu
+Disallow: /demarchesenligne/mentionslegales.php
+Disallow: /connexion.php
+Disallow: /funerarium/ 
+Disallow: /pompes-funebres/
+Disallow: /cimetieres/ 
+Disallow: /agences-pompes-funebres/
+Disallow: /*?wordfence*
+Disallow: /v1/*
+
+
+
+#
+#                                                      ___
+#                                                ,_-_-\'   `-,
+#                       ___,-\'~~~`_-\'~~~~`_-_-\' ,-\'       \\,
+#               ___,_-\'          \'        ,-~~~~~            :
+#          _,_-\'                 ,        ; ;       ) "   __   \\,
+#    _,_-\'     ,                 ,\'      :: "  ;  ` ,\'  (\\o\\)
+#   / _,       `,                     ,  `; " ;    (     `~~ `\'\\
+#  ; /         ,`               ,     `    ~~~`. " ;   _     ,  `.
+# ,\'/          ` ,              `     ` ,  ,    \\_/ ?   ;    )   `.
+# :;:            `                      `  ` ,     uu`_-(___(    ~:
+# :::          , ,  ,            ,   ;     , `  ,-\'      \\~(  ~   :
+# ||:          ` `  `         ,  ` ,\'    ( ` _,-          \\ \\_   ~:
+# :|`.        , ,  ,          `_   ;       ) );            \\__>   :
+# |:  : ;     ` `  ` ;  __,_-~~ `-(         ( |              `.  ~|
+# : :         ` __,_-\'           :  ()    : :               |~  ;
+# |;  |  `     ,-\'    ;             :  )(   | `.         /(   `. ~|
+# ::  :   ~  _/;     ;               |   )  :  :        ; /    ;~ ;
+# {}  ;     /  :   ~ :               :      ; ,;        : `._,-  ,
+# {} /~    /   ;    ;                 : ,  |  `;         `.___,-\'
+#  ;~    ;    ;  ~ `.                | `  )   ; +
+#  :`    \\    `;~   \\                ;~   `-, `-. +
+#   `.__OOO;    `;_OOO;               )_____OO;_(O) +
+#                 ~~~~~~       ~~~~                ~~~~~~~~ ~~~~'
+#

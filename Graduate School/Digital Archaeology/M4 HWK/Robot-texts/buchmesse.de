@@ -1,0 +1,10 @@
+# robots.txt for https://www.buchmesse.de
+
+User-agent: *
+Disallow: /ics/*
+Allow: /
+
+Sitemap: https://www.buchmesse.de/sitemap.xml
+
+# Only one indexing every four seconds:
+Crawl-delay: 4

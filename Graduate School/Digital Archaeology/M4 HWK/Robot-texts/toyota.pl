@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://www.toyota.pl/sitemap.xml
+Disallow: /content/forms/af/
+Disallow: */_jcr_content/*
+Disallow: /header-and-footer/
+Disallow: *?focusImage*
+Disallow: /bin/cocadap*
+Disallow: /sys*
+Disallow: /libs/cq/i18n/
+Disallow: /var/dxp/forms/datasources/

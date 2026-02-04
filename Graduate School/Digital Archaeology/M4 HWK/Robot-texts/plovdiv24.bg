@@ -1,0 +1,16 @@
+User-agent: Yandex
+Disallow: / 
+
+User-agent: SemrushBot
+Disallow: /
+Allow: /
+Allow: /novini/
+Allow: /sport/
+
+User-agent: *
+Disallow: /admin.php
+
+Host: www.plovdiv24.bg
+Sitemap: https://www.plovdiv24.bg/sitemap.xml
+Sitemap: https://www.plovdiv24.bg/p24_google_news.xml
+Sitemap: https://www.plovdiv24.bg/sitemap_p24_index.xml

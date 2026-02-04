@@ -1,0 +1,25 @@
+
+      User-agent: *
+Disallow: /404/
+Disallow: /binaries/content/gallery/politie/vermist/ongeidentificeerde-personen/
+Disallow: /binaries/*/content/gallery/politie/vermist/ongeidentificeerde-personen/
+Disallow: /aangifte-of-melding-doen/voorbereiding-aangifte/
+Disallow: /zoek
+Disallow: /algemeen/internetaangifte/
+Disallow: /aangifte-of-melding-doen/meldpunten/
+Disallow: /zoek*
+Disallow: /zoek?
+Disallow: /mijn-buurt/*/formulier/
+Disallow: /amberalert
+Disallow: /sms
+Disallow: /algemeen/
+Disallow: /content/documents/configuratie/politie/robotstxt.yaml
+Disallow: /nl-alert
+Disallow: /contact/woordvoering
+Disallow: /contact/woordvoering/
+Disallow: binaries/content/assets
+Disallow: binaries/content/assets/
+Disallow: /formulier/
+Disallow: /page/
+Disallow: /error/
+Disallow: /errors/

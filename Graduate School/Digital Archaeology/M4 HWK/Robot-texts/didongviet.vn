@@ -1,0 +1,25 @@
+# *
+User-agent: *
+Allow: /dchannel/wp-admin/admin-ajax.php
+Disallow: /check-out
+Disallow: /login
+Disallow: /register
+Disallow: /notfound
+Disallow: /active
+Disallow: /change-password
+Disallow: /reset-password
+Disallow: /order-success
+Disallow: /payment/success
+Disallow: /customer/*
+Disallow: /members
+Disallow: /tra-cuu
+Disallow: /search?q=
+Disallow: /tra-gop
+Disallow: /dchannel/wp-admin/
+Disallow: /dchannel/wp-login.php*
+Disallow: /dchannel/?s=
+Disallow: /error/*
+
+# Sitemaps
+Sitemap: https://didongviet.vn/sitemap.xml
+Sitemap: https://didongviet.vn/dchannel/sitemap_index.xml

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /newsfeed-2/
+Disallow: */page/*
+Disallow: /*?filter_by=
+Disallow: /*?orderby=
+
+Allow: /wp-content/uploads/
+Allow: *.css
+Allow: *.js
+
+Sitemap: https://theindependent.sg/post-sitemap1.xml
+Sitemap: https://theindependent.sg/news-sitemap.xml
+Sitemap: https://theindependent.sg/sitemap_index.xml

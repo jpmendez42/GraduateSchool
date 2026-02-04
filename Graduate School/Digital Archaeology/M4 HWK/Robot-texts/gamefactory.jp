@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<meta http-equiv="content-script-type" content="text/javascript" />
+<title>エラー | りぼんタンinワンダーランド</title>
+<link href="/assets/contents/16/pc.css" media="all" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/favicon.ico" />
+</head>
+<body>
+<!--header start-->
+<div id="header">
+	<h1 class="header-logo"><img src="/assets/contents/16/key_v_title.png" width="466" height="88" alt="りぼんタンinワンダーランド" /></h1>
+</div>
+<!--header end-->
+<!--wrapper start-->
+<div id="wrapper">
+<div id="contents">
+	<div class="contents-section section-type1">
+		<h1 class="contents-title title-type1"><span class="contents-title-Ltext">エラー</span></h1>
+			<div class="margin15">
+        <h2 class="paddingB5">ログインされていません。</h2>
+        ゲームプレイにはログインが必要です。
+				<ul class="btn-column1">
+					<!--<li class="btn btn-type3 btnM btn-w200"><a href="http://pex.jp/"　target="_top"><span class="btn-icon">PeXTOPへ</span></a></li>-->
+					<li class="btn btn-type2 btnM btn-w200"><a href="/static/rules.html" target="rules"><span class="btn-icon">ルールへ</span></a></li>
+				</ul>
+			</div>
+	</div>
+</div>
+</div>
+<!--wrapper end-->
+</body>
+</html>
+<!-- ::CLOUDFLARE_ERROR_500S_BOX:: -->
+<!-- ::CLOUDFLARE_ERROR_1000S_BOX:: -->
+<!-- ::ALWAYS_ONLINE_NO_COPY_BOX:: -->
+<!-- ::IM_UNDER_ATTACK_BOX:: -->

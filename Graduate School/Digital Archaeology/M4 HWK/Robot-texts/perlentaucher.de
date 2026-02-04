@@ -1,0 +1,18 @@
+User-agent: Googlebot-Image
+Disallow: /
+Allow: /favicon.svg
+Allow: /favicon.ico
+Allow: /apple-touch-icon.png
+Allow: /static/img/perlentaucher-logo-*.png
+
+User-agent: *
+Disallow: /newsletter/archiv/
+Disallow: /aehnlich-zu?
+Disallow: /suche?
+Disallow: /nsuche?
+Disallow: /buecherschau/woche/?
+Disallow: /buchKSL/*?
+Disallow: /stichwort/*?
+
+Sitemap: https://www.perlentaucher.de/sitemap.xml
+

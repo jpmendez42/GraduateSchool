@@ -1,0 +1,12 @@
+# XML Sitemap & Google News version 5.3.3 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.wineandfoodtour.it/sitemap.xml
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.wineandfoodtour.it/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

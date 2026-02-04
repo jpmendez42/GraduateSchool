@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /404.php
+Disallow: /index.php
+Disallow: /*.dll
+Disallow: /*.ini
+Disallow: /snaptube-privacy-policy
+Disallow: https://www.snaptubeapp.com/how-to/how-to/*
+Disallow: https://www.snaptubeapp.com//facebook-downloader 
+Disallow: https://www.snaptubeapp.com//download-instagram-videos
+Disallow: https://www.snaptubeapp.com//tiktok-downloader
+Disallow: /*sitemap-posttype-page.xml
+Disallow: *.html/attachment/*
+
+Sitemap: https://www.snaptubeapp.com/sitemap.xml
+Sitemap: https://www.snaptubeapp.com/sitemap_index.xml
+Sitemap: https://www.snaptubeapp.com/how-to-ar/sitemap.xml
+Sitemap: https://www.snaptubeapp.com/how-to-es/sitemap.xml
+Sitemap: https://www.snaptubeapp.com/how-to-fr/sitemap.xml
+Sitemap: https://www.snaptubeapp.com/how-to-hi/sitemap.xml
+Sitemap: https://www.snaptubeapp.com/how-to-id/sitemap.xml
+Sitemap: https://www.snaptubeapp.com/how-to-pt/sitemap.xml
+Sitemap: https://www.snaptubeapp.com/how-to-tr/sitemap.xml

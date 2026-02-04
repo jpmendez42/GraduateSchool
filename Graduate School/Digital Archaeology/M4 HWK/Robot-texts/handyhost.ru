@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /js2/
+Disallow: /api/
+Disallow: /phpmyadmin/
+Disallow: /advcash/
+Disallow: /index.php
+Disallow: /email.html
+Disallow: *?
+Sitemap: https://handyhost.ru/sitemap.xml
+
+User-agent: Googlebot
+Allow: *.css
+Allow: *.js
+Disallow: /api/
+Disallow: /phpmyadmin/
+Disallow: /advcash/
+Disallow: /enot/
+Disallow: /index.php
+Disallow: /email.html
+Disallow: *?
+Sitemap: https://handyhost.ru/sitemap.xml
+
+User-agent: Yandex
+Disallow: /js2/
+Disallow: /api/
+Disallow: /phpmyadmin/
+Disallow: /advcash/
+Disallow: /enot/
+Disallow: /index.php
+Disallow: /email.html
+Disallow: *?
+Host: https://handyhost.ru
+Clean-param: promocode&from&partner&page-id&utm_source&utm_campaign&utm_content&utm_term&ref&sel&url&mod&useridsend&clientname&search&hash&rid&pos&dev&hvhost0

@@ -1,0 +1,40 @@
+# This file is served from S3 and needs to be copied there manually. The file can be found in the se.booli.prod.static bucket.
+
+User-Agent: *
+Disallow: /auth/
+Disallow: /save/
+Disallow: /error/
+Disallow: /rss/
+Disallow: /user/
+Disallow: /mail/
+Disallow: /siteFull.html
+Disallow: /503.html
+Disallow: /redirect
+Disallow: /redirect/
+Disallow: /embed*
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: ia_archiver
+Disallow: /
+
+User-Agent: proximic
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: NettRapport Crawler
+Disallow: /
+
+User-agent: Genieo
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+User-Agent: Mediapartners-Google
+Disallow:
+
+Sitemap: https://www.booli.se/sitemap.xml

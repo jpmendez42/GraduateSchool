@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /blog/wp-includes/*
+Disallow: /blog/login
+Disallow: /blog/wp-admin/*
+Disallow: /catalogue/*
+Disallow: /blog/wp-content/*
+Disallow: /pricing-details
+Disallow: /release
+Disallow: /download-billing-invoice/*
+Disallow: /online-gst-Invoice-software-free
+Disallow: /free/billing-software-for-retail-shop/medical-shop
+Disallow: /free/billing-software-for-retail-shop/optical-store
+Disallow: /cdn-cgi/l/email-protection
+
+#Sitemap Locations
+Sitemap: https://vyaparapp.in/sitemap.xml
+Sitemap: https://vyaparapp.in/sitemap_index.xml
+Sitemap: https://vyaparapp.in/blog/sitemap_index.xml

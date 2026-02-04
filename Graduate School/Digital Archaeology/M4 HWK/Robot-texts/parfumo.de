@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /action/
+Disallow: /action_fdb/
+Disallow: /board/
+
+User-agent: Googlebot
+User-agent: GoogleOther
+Disallow: /s_perfumes_x.php?*
+
+User-agent: Mozilla/5.0 (compatible; OGDWCtxCrawler)
+Allow: /
+
+User-agent: Bytespider
+User-agent: MJ12bot
+User-agent: ia_archiver
+User-agent: trendictionbot
+User-agent: DotBot
+User-agent: Amazonbot
+User-agent: weborama-fetcher
+User-agent: Timpibot
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+User-agent: relemindbot
+Disallow: /

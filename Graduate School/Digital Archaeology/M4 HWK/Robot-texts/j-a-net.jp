@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /partner/
+Disallow: /client/
+Disallow: /cgi-bin/
+Sitemap: https://j-a-net.jp/sitemap.xml

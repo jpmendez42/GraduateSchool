@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+<head>
+  <meta charset="utf-8" />
+<meta name="title" content="Life&#039;s on you, Music&#039;s on us | Music Streaming | Stingray Music" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="og:site_name" content="Stingray Music" />
+<link rel="shortlink" href="https://music.stingray.com/en/" />
+<link rel="canonical" href="https://music.stingray.com/en/" />
+<meta name="twitter:title" content="Life&#039;s on you, Music&#039;s on us | Music Streaming | Stingray Music" />
+<meta name="twitter:description" content="Listen to channels expertly curated for all of life&#039;s moments on all your devices. Start your free trial today. Streaming music ad-fee, 24/7." />
+<meta name="description" content="Listen to channels expertly curated for all of life&#039;s moments on all your devices. Start your free trial today. Streaming music ad-fee, 24/7." />
+<meta name="abstract" content="Listen to channels expertly curated for all of life&#039;s moments on all your devices. Start your free trial today. Streaming music ad-fee, 24/7." />
+<meta property="og:title" content="Life&#039;s on you, Music&#039;s on us | Music Streaming | Stingray Music" />
+<meta property="og:description" content="Listen to channels expertly curated for all of life&#039;s moments on all your devices. Start your free trial today. Streaming music ad-fee, 24/7." />
+<meta name="twitter:image" content="https://music.stingray.com/themes/custom/music/images/Stingray-Music-TwitterCard.png" />
+<meta property="og:image" content="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" />
+<meta property="og:image:url" content="https://music.stingray.com/themes/custom/music/images/Stingray-Music-MetaImage-en.png" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/custom/music/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://music.stingray.com/en/home" />
+<link rel="alternate" hreflang="fr" href="https://music.stingray.com/fr/home" />
+<link rel="alternate" hreflang="es" href="https://music.stingray.com/es/home" />
+<link rel="alternate" hreflang="nl" href="https://music.stingray.com/nl/home" />
+<link rel="alternate" hreflang="pt-pt" href="https://music.stingray.com/pt/home" />
+<link rel="alternate" hreflang="de" href="https://music.stingray.com/de/home" />
+<link rel="revision" href="/en/US/" />
+
+    <title>Life&#039;s on you, Music&#039;s on us | Music Streaming | Stingray Music</title>
+
+          <link rel="apple-touch-icon" sizes="180x180" href="/themes/custom/music/images/favicons/apple-touch-icon.png">
+      <link rel="icon" type="image/png" sizes="32x32" href="/themes/custom/music/images/favicons/favicon-32x32.png">
+      <link rel="icon" type="image/png" sizes="16x16" href="/themes/custom/music/images/favicons/favicon-16x16.png">
+      <link rel="manifest" href="/themes/custom/music/images/favicons/manifest.json">
+      <link rel="mask-icon" href="/themes/custom/music/images/favicons/safari-pinned-tab.svg" color="#f90058">
+    
+    
+    
+    <meta name="theme-color" content="#ffffff">
+    <style media="all">
+@import url("/core/assets/vendor/normalize-css/normalize.css?r9b3oj");
+@import url("/modules/custom/admin_menu/css/stingray_admin_menu.css?r9b3oj");
+@import url("/libraries/font-stingray_icons/css/stingray-icons-set.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/ajax-progress.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/align.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/autocomplete-loading.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/fieldgroup.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/container-inline.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/clearfix.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/details.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/hidden.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/item-list.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/js.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/nowrap.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/position-container.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/progress.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/reset-appearance.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/resize.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/sticky-header.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/system-status-counter.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/system-status-report-counters.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/system-status-report-general-info.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/tabledrag.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/tablesort.module.css?r9b3oj");
+@import url("/core/themes/stable/css/system/components/tree-child.module.css?r9b3oj");
+@import url("/core/assets/vendor/jquery.ui/themes/base/core.css?r9b3oj");
+@import url("/modules/custom/basic_block/css/index.css?r9b3oj");
+@import url("/modules/contrib/colorbox/styles/default/colorbox_style.css?r9b3oj");
+</style>
+<style media="all">
+@import url("/libraries/select2/dist/css/select2.min.css?r9b3oj");
+@import url("/themes/custom/neato/css/neato_stingray.css?r9b3oj");
+@import url("/core/themes/classy/css/components/messages.css?r9b3oj");
+@import url("/libraries/aos/dist/aos.css?r9b3oj");
+@import url("/themes/custom/music/css/stingray_music.css?r9b3oj");
+</style>
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+  </head>
+  <body style="opacity: 0;">
+
+        <noscript>
+      <style>
+        body {
+          opacity: 1 !important;
+        }
+      </style>
+    </noscript>
+
+          
+    
+            <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+      <div id="hero">
+      
+
+<div id="block-videobannerblock" class="block block-stingray-carousel block-video-banner-block">
+  
+    
+      
+<div class="video-banner-block layout_inverted" style="background-image: url(https://d3g6ufbyufj3dt.cloudfront.net/music/s3fs-public/Homepage/image-video.jpg)">
+  <video class="video-banner-background" autoplay loop muted>
+    <source src="https&#x3A;&#x2F;&#x2F;d3g6ufbyufj3dt.cloudfront.net&#x2F;music&#x2F;s3fs-public&#x2F;Homepage&#x2F;Music_TVSpot_Web.mp4" type="video/mp4">
+  </video>
+  <div class="video-banner-content">
+    <p class="as-h1 text-align-center">Life's on you.<br />
+Music's on us.</p>
+
+<p>&nbsp;</p>
+
+<p class="text-align-center"><a class="big button" href="https://go.onelink.me/wEkK/1ca2508e?af_force_deeplink=true" onclick="gaSend('Button', 'Click', 'Home_TopBanner_Start your free access-EN');" target="_blank">Download the app</a></p>
+
+  </div>
+  </div>
+
+  </div>
+
+  </div>
+
+<div class="container">
+
+  
+  <main role="main" class="parallax content-type--page layout_homepage" style="background-image: url();">
+    <section id="content" class="parallax__group">
+        
+
+
+<div id="block-stingraybasicblock-41" class="block block-stingray-basic-block">
+  
+    
+            
+<div class="stingray_basic_block layout_homepage wysiwyg" style="background-color: #dfedff;padding-top: 20px;padding-bottom: 10px;">
+  <div class="row-wrapper wysiwyg" style="background-color: #dfedff;">
+	<div class="row">
+		<div class="col" style="max-width:25%;padding-right:5px;"><img alt="" data-entity-type="" data-entity-uuid="" height="192" src="https://corporate.stingray.com/wp-content/uploads/2023/04/Stingray_black_text.svg" width="192" /></div>
+
+		<div class="col">
+			<p style="font-size:15px;"><strong>Welcome to the Stingray Music website, one of Stingray's many products.</strong><br /><br />
+			Stingray's mission is to continually redefine the landscape of music, media, and entertainment content. Discover why millions of consumers and major brands worldwide trust Stingray for exceptional and customized audiovisual experiences. <a href="https://www.stingray.com/?utm_source=editorial&amp;utm_medium=website&amp;utm_content=sm_redirection_msg" target="_blank">Visit the company website to explore all its products and services</a></p>
+		</div>
+	</div>
+</div>
+
+</div>
+
+  </div>
+<div id="block-stingray-music-content" class="block block-system block-system-main-block">
+  
+    
+      <article id="node-1" class="" data-history-node-id="1" role="article" about="/en/US/" typeof="schema:WebPage">
+  
+      <span property="schema:name" content="Home page" class="rdf-meta hidden"></span>
+
+
+  
+  
+
+
+
+            <div property="schema:text" class="field field--name-body field--type-text-with-summary field--label-hidden field__item"></div>
+      
+
+
+  
+  
+  
+</article>
+  </div>
+
+
+<div id="block-stingraybasicblock" class="block block-stingray-basic-block">
+  
+    
+            
+<div class="stingray_basic_block layout_inverted wysiwyg" style="background-image: url(https://d3g6ufbyufj3dt.cloudfront.net/music/s3fs-public/backgrounds/background-blue.jpg); padding-top: 40px;padding-bottom: 40px;">
+  <div class="row-wrapper wide wysiwyg">
+	<div class="row align-center" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+		<div class="col">
+			<p class="as-h1">Just<br />
+			HIT Play</p>
+
+			<p> </p>
+
+			<p class="introduction">Humans, not robots, made 1000s of music channels just for you.</p>
+
+			<p class="text-align-center"> </p>
+			<!--<p><a class="decoration-underline" href="#">Learn more about Stingray Music</a></p>--></div>
+
+		<div class="col"><img alt="Listen to music online" data-entity-type="" data-entity-uuid="" height="1080" src="https://d3g6ufbyufj3dt.cloudfront.net/music/s3fs-public/images/devices/stingraymusic-devices-en.png" width="1920" /></div>
+	</div>
+</div>
+
+</div>
+
+  </div>
+
+<div id="block-trendingnowblock" class="block block-stingray-music-features block-trending-now-block">
+  
+    
+      <div data-reactify="Trending" data-header="&lt;h2&gt;Trending now&lt;/h2&gt;
+
+&lt;p&gt;Listen to today&#039;s most popular channels in your region&lt;/p&gt;
+
+&lt;div id=&quot;trending-now&quot; style=&quot;position: absolute; top: -100px; left: 0; width: 0; height: 0; pointer-events: none;&quot;&gt;&amp;nbsp;&lt;/div&gt;
+"></div>
+  </div>
+
+<div id="block-stingraybasicblock-2" class="block block-stingray-basic-block">
+  
+    
+            
+<div class="stingray_basic_block layout_inverted wysiwyg" style="background-image: url(https://d3g6ufbyufj3dt.cloudfront.net/music/s3fs-public/backgrounds/background-blue.jpg); padding-top: 40px;padding-bottom: 40px;">
+  <div class="row-wrapper wysiwyg" data-aos="fade-up" data-aos-duration="1000" data-aos-once="true">
+	<div class="row">
+		<div class="col">
+			<h2 class="as-h1 text-align-center">Music<br />
+			everywhere</h2>
+
+			<h1 class="as-p text-align-center introduction">Seamless music streaming everywhere life takes you.<br />
+			 </h1>
+
+			<p class="text-align-center links-music-everywhere size-h2"><a href="/en/mobile-app">MOBILE</a> • <a href="/en/web-player">WEB</a> • <a href="/en/television">TV</a> • CAR • SMART SPEAKERS</p>
+
+			<p class="text-align-center svg-music-everywhere"><a class="sprite mobile" href="/en/mobile-app"> </a> <a class="sprite webplayer" href="/en/web-player"> </a> <a class="sprite tv" href="/en/television"> </a> <a class="sprite car"> </a> <a class="sprite speaker"> </a></p>
+
+			<p class="text-align-center"><a class="button" href="/en/devices" onclick="gaSend('Button', 'Click', 'Home_Devices_ViewAllDevice-EN');">View all devices</a></p>
+		</div>
+	</div>
+</div>
+
+</div>
+
+  </div>
+
+<div id="block-stingraybasicblock-20" class="block block-stingray-basic-block">
+  
+    
+            
+<div class="stingray_basic_block layout_inverted wysiwyg" style="background-image: url(https://d3g6ufbyufj3dt.cloudfront.net/music/s3fs-public/backgrounds/background-blue.jpg); padding-top: 10px;padding-bottom: 10px;">
+  
+</div>
+
+  </div>
+
+<div id="block-stingraypromotionblock" class="block block-stingray-music-features block-stingray-promotion-block">
+  
+    
+      <div class="promotion-list items-0">
+  </div>
+
+  </div>
+
+<div id="block-contentblock" class="block block-block-content block-block-content6d3ff49c-6c84-4639-a7fe-e0209135b627">
+  
+    
+      
+  </div>
+
+    </section>
+  </main>
+
+  
+  
+      <footer id="site-footer" role="contentinfo">
+              <section class="footer-top">
+            <div class="row-wrapper ">
+    
+
+<div id="block-footermenublock" class="block block-stingray-footer block-footer-menu-block">
+  
+    
+      <div class="footer-block layout_inverted row-wrapper wysiwyg">
+  <div class="row">
+    <div class="col">
+      <ul>
+                  <li>
+            
+                                                        
+                            
+              <a class="menu-title "  href="/en/US/devices" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Devices&quot;&#x29;">Devices</a>
+
+                      </li>
+                  <li>
+            
+                                                        
+                            
+              <a   href="/en/US/mobile-music-streaming" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Mobile&#x20;app&quot;&#x29;">Mobile app</a>
+
+                      </li>
+                  <li>
+            
+                                                        
+                            
+              <a   href="/en/US/web-player" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Web&#x20;Player&quot;&#x29;">Web Player</a>
+
+                      </li>
+                  <li>
+            
+                                                        
+                            
+              <a   href="/en/US/television" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Television&quot;&#x29;">Television</a>
+
+                      </li>
+              </ul>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+<div id="block-footermenublock-2" class="block block-stingray-footer block-footer-menu-block">
+  
+    
+      <div class="footer-block layout_inverted row-wrapper wysiwyg">
+  <div class="row">
+    <div class="col">
+      <ul>
+                  <li>
+            
+                                                        
+                            
+              <a   href="/en/US/about-us" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;About&#x20;us&quot;&#x29;">About us</a>
+
+                      </li>
+                  <li>
+            
+                                                        
+                            
+              <a   href="/en/US/rising-star" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Stingray&#x20;Rising&#x20;Stars&quot;&#x29;">Stingray Rising Stars</a>
+
+                      </li>
+                  <li>
+            
+                                                        
+                            
+              <a class="external " target="_blank" href="https://blog.stingray.com?utm_medium=stingray_music_website&amp;utm_source=referral" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Blog&quot;&#x29;">Blog</a>
+
+                      </li>
+                  <li>
+            
+                                                        
+                            
+              <a class="external " target="_blank" href="https://musicsupport.stingray.com?utm_content=sm_website_footer_menu&amp;utm_medium=website&amp;utm_source=editorial" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Support&quot;&#x29;">Support</a>
+
+                      </li>
+                  <li>
+            
+                                                        
+                            
+              <a class="external " target="_blank" href="https://musicsupport.stingray.com/hc/en-us/requests/new" onclick="gaSend&#x28;&quot;Footer-Menu&quot;,&#x20;&quot;Click&quot;,&#x20;&quot;Contact&quot;&#x29;">Contact</a>
+
+                      </li>
+              </ul>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+<div id="block-stingraydownloadstorefooter" class="block block-stingray-footer block-stingray-download-store-footer">
+  
+    
+      <div class="download-store-block layout_inverted row-wrapper wysiwyg">
+    <div class="row">
+        <div class="col">
+            <div class="block-title">
+                Download the app
+            </div>
+                        <div class="apple">
+                <a href="https://go.onelink.me/wEkK/fb30da56" target="_blank" onClick="gaSend('Link', 'Download', 'Footer-iTunes-Button');"><img src="https://d3g6ufbyufj3dt.cloudfront.net/music/s3fs-public/downloadstore/apple-store-en.svg" style="width: 130px"/></a>
+            </div>
+                                    <div class="android">
+                <a href="https://go.onelink.me/wEkK/2b32cded" target="_blank" onClick="gaSend('Link', 'Download', 'Footer-Android-Button');"><img src="https://d3g6ufbyufj3dt.cloudfront.net/music/s3fs-public/downloadstore/google-play-en.svg" style="width: 130px"/></a>
+            </div>
+                    </div>
+    </div>
+</div>
+
+  </div>
+
+<div id="block-stingraysocialmediafooter" class="block block-stingray-footer block-stingray-social-media-footer">
+  
+    
+      
+
+<div class="social-media-block layout_inverted row-wrapper wysiwyg">
+  <div class="row">
+    <div class="col">
+      <div class="block-title">
+        Talk music with us
+      </div>
+
+      <div class="social-icons">
+                                                      
+            <a class="icon icon-char facebook" href="https://www.facebook.com/stingray.music/" target="_blank" onClick="gaSend('Socials', 'Click', 'Facebook');">
+                              <span>(</span>
+                          </a>
+
+                                                                                  
+            <a class="icon icon-char twitter" href="https://twitter.com/stingraymusic" target="_blank" onClick="gaSend('Socials', 'Click', 'Twitter');">
+                              <span>&#039;</span>
+                          </a>
+
+                                                                
+            <a class="icon icon-char youtube" href="https://www.youtube.com/user/GalaxieMusic" target="_blank" onClick="gaSend('Socials', 'Click', 'YouTube');">
+                              <span>+</span>
+                          </a>
+
+                                                                
+            <a class="icon icon-char instagram" href="https://www.instagram.com/Stingray_Music/" target="_blank" onClick="gaSend('Socials', 'Click', 'Instagram');">
+                              <span>&amp;</span>
+                          </a>
+
+                                          </div>
+
+              
+        <div>
+          <a class="button" href="/en/contact#block-stingraynewsletterblock" onClick="gaSend('Button', 'Click', 'Get the newsletter');">
+            Get the newsletter
+          </a>
+        </div>
+          </div>
+  </div>
+</div>
+
+
+  </div>
+  </div>
+
+        </section>
+      
+      <section class="footer-bottom">
+        
+
+<div class="row-wrapper">
+  <div class="row">
+    <div class="col logo"><a href="http://www.stingray.com/" target="_blank"><img src="/modules/custom/footer/images/stingray-logo-updated.svg" class="logo" alt="Stingray"/></a></div>
+    <div class="col links nav">
+      <a href="https://www.stingray.com/advertising-sales/" target="_blank" onClick="gaSend('Link', 'Click', 'Advertising');">
+    Advertising
+  </a><a href="https://www.stingray.com/streaming-distribution/" target="_blank" onClick="gaSend('Link', 'Click', 'Streaming &amp; distribution');">
+    Streaming & distribution
+  </a><a href="https://www.stingray.com/consumer/" target="_blank" onClick="gaSend('Link', 'Click', 'Consumer products');">
+    Consumer products
+  </a><a href="https://www.stingray.com/business-solutions/" target="_blank" onClick="gaSend('Link', 'Click', 'Business solutions');">
+    Business solutions
+  </a><a href="https://www.stingray.com/radio/" target="_blank" onClick="gaSend('Link', 'Click', 'Radio');">
+    Radio
+  </a><a href="https://www.stingray.com/about/" target="_blank" onClick="gaSend('Link', 'Click', 'About us');">
+    About us
+  </a><a onClick=ConsentManager.openCookiePreferences()>
+    Cookies settings
+  </a>    </div>
+  </div>
+</div>
+
+          <div class="row-wrapper ">
+    
+
+<div id="block-stingraybasicblock-copyrights" class="block block-stingray-basic-block">
+  
+    
+      
+<div class="stingray_basic_block layout_inverted wysiwyg" style="">
+  <p class="tinytext lessfaded text-align-center">© 2018-2025 Stingray Group Inc. All rights reserved. STINGRAY®, STINGRAY®MUSIC and other related marks and logos are trademarks of Stingray Group in Canada, the United States of America and/or other territories. <a href="http://www.stingray.com/en/privacy-policy" onclick="gaSend('Link', 'Visit', 'Privacy-Policy');" target="_blank">Privacy Policy</a> | <a href="http://www.stingray.com/en/terms-and-conditions" onclick="gaSend('Link', 'Visit', 'Terms-and-Conditions');" target="_blank">Terms and Conditions</a></p>
+
+</div>
+
+  </div>
+  </div>
+
+      </section>
+    </footer>
+  </div>
+
+<div id="react-header-container">
+  <header id="header">
+    <div id="toolbar">
+        
+
+<nav role="navigation" aria-labelledby="block-stingray-music-main-menu-menu" id="block-stingray-music-main-menu" class="block block-menu navigation menu--main">
+      
+
+  <ul class="menu">
+          <li class="menu-item">
+      <a href="https://webplayer.stingray.com/?utm_campaign=sm_on-going&amp;utm_content=webplayer-buttons&amp;utm_medium=website-referral&amp;utm_source=editorial&amp;utm_stingray_id=2c18d5ef0c61" title="Take the music with wherever life takes you. Download the free mobile music app that puts curated channels in the palm of your hands. Start you free.">Listen now</a>
+          </li>
+          <li class="menu-item">
+      <a href="/en/US/television" title="To find you TV line up, please select your provider and search by channel name or channel number." data-drupal-link-system-path="node/13">TV lineup</a>
+          </li>
+          <li class="menu-item">
+      <a href="/en/US/devices" data-drupal-link-system-path="node/4">Devices</a>
+          </li>
+    </ul>
+
+
+
+
+  </nav>
+
+
+<div id="block-stingray-music-branding" class="block block-system block-system-branding-block">
+  
+    
+            <a href="/en/US/" rel="home" class="site-logo">
+      <img src="/themes/custom/music/logo.svg" alt="Stingray Music" />
+    </a>
+  </div>
+
+  <div id="trigger-overlay-container">
+    <label>Menu</label>
+    <div id="trigger-overlay">
+
+      <span></span>
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+
+    </div>
+  </header>
+</div>
+
+  </div>
+
+    
+    
+          <script type="application/json" data-translation="connector">
+        {"Access":"Access","Home":"Home","Settings":"Settings","Submit":"Submit","Select a channel":"Select a channel","Select a provider":"Select a provider","http:\/\/www.stingray.com\/":"http:\/\/www.stingray.com\/"}
+      </script>
+          <script type="application/json" data-translation="newsletter">
+        {"Your name":"Your name","Your email":"Your email","Your message":"Your message","Your first name":"Your first name","Your last name":"Your last name","Your phone number":"Your phone number","Your company name":"Your company name","Your city":"Your city","Your state\/province":"Your state\/province","Number of location(s)":"Number of location(s)","Topic":"Topic","Subscribe to the newsletter":"Subscribe to the newsletter"}
+      </script>
+          <script type="application/json" data-translation="react_util">
+        {"Load more":"Load more","Filter by :":"Filter by :","Clear filter(s)":"Clear filter(s)","Send":"Send","Clear":"Clear","selected":"selected"}
+      </script>
+    
+    <script
+      src="https://d1g4ozz7tvtyuj.cloudfront.net/cookies.js"
+      type="text/javascript"
+      id="consent-script"
+      data-primary-color="#111111"
+      data-secondary-color="#1D1DF0"
+      data-hover-background-color="#012287"
+      data-gtmid=GTM-K7QZC5N
+      data-cookie-prefix="music"
+      data-language=en
+      async
+      defer
+    />
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/1","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","jquery":{"ui":{"datepicker":{"isRTL":false,"firstDay":0}}},"colorbox":{"opacity":"0.85","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"user":{"uid":0,"permissionsHash":"1acad99a7056f6ebac55eb421d36643a1bd1607ecde89f0210b20a7c28445832"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.5.15"></script>
+<script src="/core/misc/drupal.js?v=8.5.15"></script>
+<script src="/core/misc/drupal.init.js?v=8.5.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/modules/locale/locale.datepicker.js?v=8.5.15"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/datepicker-min.js?v=1.12.1"></script>
+<script src="/libraries/select2/dist/js/select2.full.min.js?r9b3oj"></script>
+<script src="/libraries/jsutils/mobile_detector.js?v=8.5.15"></script>
+<script src="/libraries/jsutils/query_util.js?v=8.5.15"></script>
+<script src="/libraries/js-cookie/src/js.cookie.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/neato_stingray_script.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/language-switcher.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/overlay-menu.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/header.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/carousel.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/jquery.fitvids.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/jquery.clickOutside-event.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/expand-collapse.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/block-partners.js?v=8.5.15"></script>
+<script src="/themes/custom/neato/js/components/banner-video.js?v=8.5.15"></script>
+<script src="/libraries/aos/dist/aos.js?r9b3oj"></script>
+<script src="/themes/custom/music/js/index.js?v=8.5.15"></script>
+<script src="/libraries/colorbox/jquery.colorbox-min.js?v=8.5.15"></script>
+<script src="/modules/contrib/colorbox/js/colorbox.js?v=8.5.15"></script>
+<script src="/modules/contrib/colorbox/styles/default/colorbox_style.js?v=8.5.15"></script>
+
+  </body>
+</html>

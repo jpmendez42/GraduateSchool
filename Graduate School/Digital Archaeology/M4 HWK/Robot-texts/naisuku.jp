@@ -1,0 +1,41 @@
+User-agent: bingbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: Slurp
+Crawl-delay: 2
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: Steeler
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: msnbot-media
+Disallow: /
+
+User-agent: msnbot
+Disallow: /
+
+User-agent: ltx71
+Disallow: /
+
+User-agent: SurdotlyBot
+Disallow: /

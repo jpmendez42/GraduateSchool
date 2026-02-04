@@ -1,0 +1,41 @@
+User-Agent: *
+Disallow: /page64954849.html
+Disallow: /bundle
+Disallow: /page64407489.html
+Disallow: /navigation
+Disallow: /page64964547.html
+Disallow: /support
+Disallow: /page64559659.html
+Disallow: /page_not_found
+Disallow: /page63689929.html
+Disallow: /new_header
+Disallow: /page64826997.html
+Disallow: /page59801021.html
+Disallow: /trademark
+Disallow: /page59801137.html
+Disallow: /software-registration
+Disallow: /page36952006.html
+Disallow: /page37022207.html
+Disallow: /page65414591.html
+Disallow: /otraslevoj-standart
+Disallow: /page65789021.html
+Disallow: /page67397921.html
+Disallow: /page69022095.html
+Disallow: /solutions/bi
+Disallow: /page69405401.html
+Disallow: /come-back-to-us
+Disallow: /page72222177.html
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: https://profitbase.ru/sitemap.xml
+Sitemap: https://profitbase.ru/sitemap-store.xml
+Sitemap: https://profitbase.ru/sitemap-feeds.xml

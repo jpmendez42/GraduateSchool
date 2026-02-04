@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /kosik/*
+Disallow: /objednavka-doprava-a-platba/*
+Disallow: /pridat-do-kosiku/*
+Disallow: /*?*fbclid=
+
+Disallow: /*?*&p*&p*
+
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*/*webp*
+Allow: /*/*jpg*
+Allow: /*/*png*
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: ReactorNetty/1.0.22
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+sitemap: https://www.superzoo.cz/sitemap.xml

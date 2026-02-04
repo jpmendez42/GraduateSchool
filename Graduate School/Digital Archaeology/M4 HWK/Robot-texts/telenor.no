@@ -1,0 +1,42 @@
+                                                                    
+# Updated: 23.01.2025
+
+User-agent: *
+
+Allow: /sitemap/
+Allow: /sitemap/products/privat/
+Allow: /sitemap/om/
+Allow: /sitemap/openmind/
+Allow: /sitemap/bedrift/
+Disallow: /privat/minesider/
+Disallow: /mitt-telenor/
+Disallow: /binaries/
+Disallow: /developer/
+Disallow: /system/
+Disallow: /test/
+Disallow: /privat/test/
+Disallow: /sok?*
+Disallow: /sok/?*
+Disallow: /a/
+Disallow: /privat/kundeservice/tvhjelp/tv-signal/feilkoder/feilkoder-json.jsp
+Disallow: /bedrift/test/
+Disallow: /bedrift/forbundsavtaler/
+Disallow: /bedrift/system/
+Disallow: /bedrift/minbedrift/
+Disallow: /bedrift/mbw/
+
+User-agent: Googlebot
+Disallow:
+User-agent: Googlebot-image
+Disallow:
+
+User-agent: Wall-E
+Disallow: 
+
+# Sitemaps
+Sitemap: https://www.telenor.no/sitemap/
+Sitemap: https://www.telenor.no/sitemap/bedrift/
+Sitemap: https://www.telenor.no/sitemap/products/privat/
+Sitemap: https://www.telenor.no/sitemap/om/
+Sitemap: https://www.telenor.no/sitemap/openmind/
+Sitemap: https://www.telenor.no/sitemap/tv/

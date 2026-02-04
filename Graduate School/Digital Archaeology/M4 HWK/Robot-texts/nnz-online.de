@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow: /admin
+Disallow: /admin2
+Disallow: /_3460
+Disallow: /_3460_kyf
+Disallow: /_3460_eic
+Disallow: /_3460_uhz
+Disallow: /_3580
+Disallow: /_css
+Disallow: /_error
+Disallow: /_include
+Disallow: /_template
+Disallow: /_vgf
+Disallow: /GeneratedItems
+Disallow: /images
+Disallow: /_css
+Disallow: /_statisch
+Disallow: /kyf
+Disallow: /ndh
+Disallow: /vgf
+Disallow: /*WS_SESSION

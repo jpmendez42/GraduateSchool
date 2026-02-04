@@ -1,0 +1,48 @@
+#
+# robots.txt - Home Hardware https://www.homehardware.ca
+#
+
+User-agent: *
+Disallow: /admin
+Disallow: /user
+Disallow: /en/user
+Disallow: /fr/user
+Disallow: /myaccount
+Disallow: /cart
+Disallow: /en/cart
+Disallow: /fr/cart
+Disallow: /checkout
+Disallow: /en/checkout
+Disallow: /fr/checkout
+Disallow: /en/testcategory/c/7799
+Disallow: /testcategory/c/7799
+Disallow: /en/searchable-products/
+Disallow: /products/60/
+Disallow: /products/145/
+Disallow: /products/300/
+Disallow: /dealer/
+Disallow: /documents/
+Disallow: /en/cat/
+Disallow: /en/dealer-microsites
+Disallow: /en/index
+Disallow: /en/rec/
+Disallow: /images/
+Disallow: /products/index/
+Disallow: /products/landing/
+Disallow: /2020-login
+Disallow: /en/new-lbm-hardlines/c/1
+Disallow: /fr/new-lbm-hardlines/c/1
+
+#Development Test Paths (2022)
+Disallow: /*/c-test/
+Disallow: /*/store-locator-test
+Disallow: /*/t-articles/
+Disallow: /*/t-buying-guides/
+Disallow: /*/t-projects/
+Disallow: /*/t-here-s-how-hub
+Disallow: /*/t-blogs/
+Disallow: /*/p-test/
+Disallow: /*/t-search
+
+#Sitemaps
+Sitemap: https://www.homehardware.ca/sitemap.xml

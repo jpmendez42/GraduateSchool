@@ -1,0 +1,23 @@
+#d#robots_single.txt
+User-agent: *
+Crawl-delay: 1
+Disallow: /img/
+Disallow: /r/
+Disallow: /html/
+Disallow: /report-error/
+Disallow: /rapportera-fel/
+Disallow: /fehler-melden/
+Disallow: /app/app.html
+Disallow: /print/flashcards/
+Disallow: /skriv-ut/flashcards/
+Disallow: /drucken/flashcards/
+Disallow: /print/flashcards2/
+Disallow: /skriv-ut/flashcards2/
+Disallow: /drucken/flashcards2/
+Disallow: /forhorsinstallningar/
+Disallow: /test-settings/
+Disallow: /abfrageeinstellungen/
+Disallow: /skriv-ut/*.pdf$
+Disallow: /drucken/*.pdf$
+Disallow: /print/*.pdf$
+#Disallow: /*?

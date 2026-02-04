@@ -1,0 +1,579 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="cs" xml:lang="cs" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-L33HXFS5TY"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-L33HXFS5TY');
+</script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+	<meta http-equiv="Content-Language" content="cs"/>
+	<meta http-equiv="Pragma" content="no-cache"/>
+	<meta http-equiv="Keywords" content="Holidayinfo, hory, lyžování, lyže, lyžařský areál, zima, střediska, kamery, Panorama"/>
+	<title>Holidayinfo - domovská stránka</title>
+	<script src="js/jquery_latest.js" type="text/javascript"></script>
+	<script src="js/modernizr_latest.js" type="text/javascript"></script>
+	<script src="js/pws_main.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_utils.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_layman.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_panel.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_dropdownmenu.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_treemenu.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_imgbox.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_ga.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_hol3_base.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_hol3_topspace.68b329da98.min.js" type="text/javascript"></script>
+<script src="js/pws_hol3_homepage.68b329da98.min.js" type="text/javascript"></script>
+
+	<link href="css/hol3_main.php" type="text/css" rel="stylesheet"/>
+	<link href="css/hol3_topmenu.php" type="text/css" rel="stylesheet"/>
+	<link href="css/hol3_bottombar.php" type="text/css" rel="stylesheet"/>
+</head>
+<body>
+<script type="text/javascript">
+
+	if (!window.console) {var console = {};}
+	if (!console.log) {console.log = function() {};}
+
+	isready=false;
+
+	var do_ready=function()
+	{
+		if ((!Modernizr.svg)||(!Modernizr.csstransforms)||(!Modernizr.inlinesvg))
+		{
+			location.reload("err_nosuppbrowser.php?lang=cs");
+		}
+	
+		isready=true;
+	
+			
+	var initfail=false;
+	var initerr;
+	
+	while (true)
+	{
+				if (!$pws.init(null))
+		{
+			initfail=true;
+			initerr=$pws.initErr();
+			break;
+		}
+
+		var initdata={
+			dtforms: {
+				"yyyymmdd": "%d%.%m%.%Y%",
+				"hhmm": "%H%:%M%",
+				"hhmmss": "%H%:%M%:%S%",
+				"yyyymmddhhmm": "%d%.%m%.%Y% %H%:%M%",
+				"yyyymmddhhmmss": "%d%.%m%.%Y% %H%:%M%:%S%",
+				"wdddmm": "%A% %d%.%m%.",
+				"dayname_mon": "Pondělí",
+				"dayname_tue": "Úterý",
+				"dayname_wed": "Středa",
+				"dayname_thu": "Čtvrtek",
+				"dayname_fri": "Pátek",
+				"dayname_sat": "Sobota",
+				"dayname_sun": "Neděle"
+				}
+			};
+		if (!$pws.utils.init(initdata))
+		{
+			initfail=true;
+			initerr=$pws.utils.initErr();
+			break;
+		}
+
+		if (!$pws.layman.init(null))
+		{
+			initfail=true;
+			initerr=$pws.scrolltext.initErr();
+			break;
+		}
+
+		if (!$pws.panel.init(null))
+		{
+			initfail=true;
+			initerr=$pws.panel.initErr();
+			break;
+		}
+
+		if (!$pws.dropdownmenu.init(null))
+		{
+			initfail=true;
+			initerr=$pws.dropdownmenu.initErr();
+			break;
+		}
+
+		var initdata={
+			method: "gtm"
+		};
+		if (!$pws.ga.init(initdata))
+		{
+			initfail=true;
+			initerr=$pws.ga.initErr();
+			break;
+		}
+		
+		var statdata={
+			domain: "",
+			usercode: "",
+			defaultpage: "",
+			pageprefix: ""
+		};
+		$pws.ga.initCode(statdata);
+
+		var initdata={
+			http_protocol: "https",
+			http_protoprefix: "https://"
+		};
+		if (!$pws.hol3_base.init(initdata))
+		{
+			initfail=true;
+			initerr=$pws.hol3_base.initErr();
+			break;
+		}
+
+		var initdata={
+			season: "summer",
+			lang_htmlcode: "cs",
+			topnavsep: " > ",
+			rightbutlink: "",
+			treebut_winter: "Pohoří",
+			treebut_summer: "Střediska",
+			tophotelsbut: "Top hotely",
+			tophotelstime: 10000,
+			tophotelshidetime: 100,
+			tophotelsdataurl: "",
+			tophotelspage_numcols: 2,
+			tophotelspage_titleheight: 0.20,
+			tophotelspage_colsheight: 0.75,
+			tophotelspage_maxtitleheight: 175,
+			tophotelspage_maxcolwidth: 640,
+			tophotelspage_maxcolheight: 200,
+			tophotelspage_titl: "Top hotely",
+			tophotelspage_details: "Detaily",
+			tophotelscenterspaceid: "",
+			summerweb: "%http_proto%://leto.holidayinfo.cz",
+			winterweb: "%http_proto%://zima.holidayinfo.cz",
+			ebookweb: "https://indd.adobe.com/view/8fd035c4-740f-49ba-90b5-ca51c84341c1",
+			czechskipassweb: "%http_proto%://www.czechskipass.cz",
+			fbsitourweb: "https://www.facebook.com/HOLIDAYINFO.CZ",
+			iskiweb: "%http_proto%://www.iski.cc/home.php?cc=CZ",
+			aboutusweb: "%http_proto%://www.sitour.cz",
+			onlinecrossweb: "",
+			accomtype: "%c:accom/type",
+			accombaseurl: "http://hotely.holidayinfo.cz/sitour/%langcode%/accommodation/list?lkCS=leto",
+			cheval_baseurl: "https://accom.holidayinfo.cz/accomregs.php?lang=%langcode%",
+			cheval_noloc: "1",
+			sitourtv_baseurl: "%http_proto%://m.devel2.holidayinfo.cz/vp_uniplay.php?lang=%langcode%&playspec=playlist&playlist=%playlist%&vp_audio=default&tempsnowup=0&vp_notifyparent=0&vp_enablefullscreen=1&ga_sect=hol3.0",
+			youtubetv_baseurl: ""
+		};
+		if (!$pws.hol3_topspace.init(initdata))
+		{
+			initfail=true;
+			initerr=$pws.hol3_topspace.initErr();
+			break;
+		}
+
+		var initdata={
+			locale: {
+				lang_htmlcode: "cs",
+				lang_holid: 1,
+				topnav_home: "Home",
+				titl_skiresorts: "areálů",
+				titl_summerresorts: "středisek",
+				titl_cams: "kamer",
+				titl_accom: "ubytovacích míst",
+				titl_maps: "map",
+				titl_locevallinks: "Hodnocení středisek",
+				titl_locevalremark_winter: "(zimní sezóna)",
+				titl_locevalremark_summer: "(letní sezóna)"
+			},
+			cfgdata: {
+				season: "summer",
+				img_switchtime: 5000,
+				num_skiresorts: "",
+				num_cams: "",
+				num_accom: "",
+				num_maps: "",
+				panels_hspc: 25,
+				panels_roffset: 45,
+				panels_boffset: 0,
+				showphotoname: 0,
+				locevallinks_campaign: "",
+				locevallinks_links: "homepage_loceval_summer",
+				locevallinks_numcols: "4",
+				locevallinks_margin: "25",
+				locevallinks_space: "5",
+				locevallinks_autohide: "30",
+				locevallinks_notonhomepage: "y"
+			}
+		};
+		if (!$pws.hol3_homepage.init(initdata))
+		{
+			initfail=true;
+			initerr=$pws.hol3_homepage.initErr();
+			break;
+		}
+
+
+		
+		break;
+	}
+	
+	if (initfail)
+	{
+		var $errdiv=$("<div style=\"display: table-cell; text-align: center; vertical-align: middle;\">Can't initialize: "+initerr+"</div>");
+		$errdiv.width($("body").width());
+		$errdiv.height($("body").height());
+		$("body").empty();
+		$("body").append($errdiv);
+		return;
+	}
+
+
+		
+		var params={ webroot: "/", webpage: "", pagecat: "homepage", langcode: "cs", http_protocol: "https", http_protoprefix: "https://" };
+$pws.hol3_base.baseJSInit(params);
+$pws.hol3_topspace.setupTopSpace("toppanel=1","topnav=1","langswitch=1","dtclock=1","layman=1");
+$pws.hol3_homepage.setupPageDiv({"photodata":[{"photo_objid":["39"],"photo_id":"1","photo_name":"Kouty","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=1&season=summer"},{"photo_objid":["40"],"photo_id":"2","photo_name":"Medv\u011bd\u00edn","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=2&season=summer"},{"photo_objid":["47"],"photo_id":"3","photo_name":"lipno stezka","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=3&season=summer"},{"photo_objid":["41"],"photo_id":"4","photo_name":"sas \u0161pi\u010d\u00e1k","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=4&season=summer"},{"photo_objid":["46"],"photo_id":"5","photo_name":"tosovice","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=5&season=summer"},{"photo_objid":["43"],"photo_id":"6","photo_name":"\u010cern\u00e1 hora pec","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=6&season=summer"},{"photo_objid":["42"],"photo_id":"7","photo_name":"\u017eelezn\u00e1 ruda","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=7&season=summer"},{"photo_objid":["45"],"photo_id":"8","photo_name":"aqua moravia","photo_url":"hol3_data.php?type=homepageimg&cntry=1&id=8&season=summer"}],"locevallinks":[{"name":"Bed\u0159ichov","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=bedrichov"},{"name":"Benecko","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=benecko"},{"name":"B\u00edl\u00e1","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=bila"},{"name":"Bo\u017e\u00ed Dar - Neklid","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=bdar"},{"name":"\u010cerven\u00e1 Voda","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=bukovka"},{"name":"De\u0161tn\u00e9 v Orl. hor\u00e1ch","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=destne_voh"},{"name":"Doln\u00ed Morava","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=dolmor"},{"name":"Je\u0161t\u011bd","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=jested"},{"name":"Harrachov","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=harr"},{"name":"Herl\u00edkovice","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=herlik"},{"name":"Chotou\u0148","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=chotoun"},{"name":"Karlov","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=karlov"},{"name":"Kl\u00ednovec","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=klinovec"},{"name":"Kl\u00edny","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=kliny"},{"name":"Kop\u0159ivn\u00e1","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=koprivna"},{"name":"Kouty nad Desnou","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=kouty_nd"},{"name":"Krali\u010d\u00e1k","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=kralicak"},{"name":"Koh\u00fatka","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=kohutka"},{"name":"Lipno","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=kramolin"},{"name":"Mon\u00ednec","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=moninec"},{"name":"Ob\u0159\u00ed sud Javorn\u00edk","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=obrisud"},{"name":"Ole\u0161nice","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=olesnice"},{"name":"Paseky nad Jizerou","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=pasekynj"},{"name":"Ple\u0161ivec","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=plesivec"},{"name":"Prad\u011bd","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=praded"},{"name":"Ramzov\u00e1","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=ramz"},{"name":"Rokytnice n. Jiz.","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=rokytnicenj"},{"name":"\u0158\u00ed\u010dky v O. h.","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=ricky_voh"},{"name":"Sever\u00e1k","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=severak"},{"name":"Skiresort \u010c. hora - Pec","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&loctype=grp&localias=skiresortch"},{"name":"\u0160pindler\u016fv Ml\u00fdn","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&loctype=grp&localias=spindl"},{"name":"Tanvaldsk\u00fd \u0160pi\u010d\u00e1k","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=tspicak"},{"name":"V\u00edtkovice","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=vitkovice"},{"name":"Zadov","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=zadov"},{"name":"\u017delezn\u00e1 Ruda - \u0160pi\u010d\u00e1k","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=zrspicak"},{"name":"\u017delezn\u00e1 Ruda - N\u00e1dra\u017e\u00ed","url":"http:\/\/hodnoceni.holidayinfo.cz\/evalform.php?campaign=leto&lang=cz&localias=zrnadrazi"}]},"hol3_centerspace_cont");
+
+
+		$("#hol3_pagecontainer").css("min-width",1170+"px");
+		$("#hol3_pagecontainer").css("min-height",600+"px");
+		
+		$(window).on("resize",function(e)
+		{
+			if(e.target!==this)
+			{
+				return;
+			}
+			
+            		if(localStorage.getItem('consent') !== null) {
+                		$("#hol3_bottomspace").css("height", "72px");
+        	        	$("#consent_banner").css("display", "none");
+	            	} else {
+                		$("#hol3_bottomspace").css("height", "102px");
+        	        	$("#consent_banner").css("display", "flex");
+	            	}
+
+			if ($(window).width()<1170)
+			{
+				$("body").css("overflow-x","scroll");
+			}
+			else
+			{
+				$("body").css("overflow-x","hidden");
+			}
+
+			if ($(window).height()<600)
+			{
+				$("body").css("overflow-y","scroll");
+			}
+			else
+			{
+				$("body").css("overflow-y","hidden");
+			}
+			
+			
+			if ($pws.hol3_topspace)
+			{
+				$pws.hol3_topspace.doResize();
+			}
+				
+			if ($("#hol3_centerspace"))
+			{
+				if ($("#hol3_pagecontainer"))
+				{
+					var ch=$("#hol3_pagecontainer").outerHeight();
+				
+					if ($("#hol3_topspace"))
+					{
+						ch-=$("#hol3_topspace").height();
+					}
+					
+					if ($("#hol3_bottomspace"))
+					{
+						ch-=$("#hol3_bottomspace").height();
+					}
+									
+					$("#hol3_centerspace").css("height",ch+"px");
+				}
+			}
+			
+			if ($pws.hol3_homepage)
+			{
+				$pws.hol3_homepage.doResize();
+			}
+
+			if ($pws.hol3_grpcams)
+			{
+				$pws.hol3_grpcams.doResize();
+			}
+			else
+			{
+				if ($pws.hol3_cams)
+				{
+					$pws.hol3_cams.doResize();
+				}
+			}
+			
+			if ($pws.hol3_maps)
+			{
+				$pws.hol3_maps.doResize();
+			}
+
+			if ($pws.hol3_snowinfo)
+			{
+				$pws.hol3_snowinfo.doResize();
+			}
+
+			if ($pws.hol3_liftsoverview)
+			{
+				$pws.hol3_liftsoverview.doResize();
+			}
+
+			if ($pws.hol3_locinfo)
+			{
+				$pws.hol3_locinfo.doResize();
+			}
+
+			if ($pws.hol3_locgrpinfo)
+			{
+				$pws.hol3_locgrpinfo.doResize();
+			}
+
+			if ($pws.hol3_locweather)
+			{
+				$pws.hol3_locweather.doResize();
+			}
+
+			if ($pws.hol3_locpricelist)
+			{
+				$pws.hol3_locpricelist.doResize();
+			}
+
+			if ($pws.hol3_globaccom)
+			{
+				$pws.hol3_globaccom.doResize();
+			}
+
+			if ($pws.hol3_linkaccom)
+			{
+				$pws.hol3_linkaccom.doResize();
+			}
+			
+			if ($pws.hol3_panomap)
+			{
+				$pws.hol3_panomap.doResize();
+			}
+
+			if ($pws.hol3_locevallist)
+			{
+				$pws.hol3_locevallist.doResize();
+			}
+
+			if ($pws.hol3_locevaldet)
+			{
+				$pws.hol3_locevaldet.doResize();
+			}
+			
+			if ($pws.hol3_camslide)
+			{
+				$pws.hol3_camslide.doResize();
+			}
+
+			if ($pws.hol3_accomcheval)
+			{
+				$pws.hol3_accomcheval.doResize();
+			}
+
+			if ($pws.hol3_sitourtv)
+			{
+				$pws.hol3_sitourtv.doResize();
+			}
+
+			if ($pws.hol3_youtubetv)
+			{
+				$pws.hol3_youtubetv.doResize();
+			}
+			
+			e.stopPropagation();
+		});
+
+		$(window).trigger("resize");
+	};
+
+	var check_ready=function()
+	{
+		if (!isready)
+		{
+			do_ready();
+		}
+		
+		if (document.readyState=="complete")
+		{
+			$(window).trigger("resize");
+		}
+		else
+		{
+			setTimeout(check_ready,500);
+		}
+	};
+
+	$(document).ready(function()
+	{
+		check_ready();
+	});
+	
+
+
+</script>
+<noscript>
+<span>Chybí podpora Javascriptu...</span>
+<!-- <meta http-equiv="refresh" content="0; url=err_nojavascript.php?lang=cs"/> -->
+</noscript>
+<div id="hol3_pagecontainer">
+	<div id="hol3_topspace"><div id="hol3_topspace_cont">
+<div id="hol3_topspace_bg" class="hol3_topspace_bg" style="position: absolute;"></div>
+<div id="hol3_topspace_logo" class="hol3_topspace_logo" style="position: absolute;"></div>
+<div id="hol3_topspace_panelcont" style="position: absolute;"></div>
+<div id="hol3_topspace_topicons" style="position: absolute;">
+	<div style="margin-top: 15px;"><a href="https://www.facebook.com/HOLIDAYINFO.CZ" onClick="javascript:$pws.hol3_base.makeStatHit({pagepath:'facebook'});" target="_blank"><img style="border-style: none;" src="images/lista_facebook.png" width="20" height="20"/></a></div>
+</div>
+<div id="hol3_topspace_langscont" style="position: absolute;"></div>
+<div id="hol3_topspace_dtclockcont" class="hol3_topspace_dtclock" style="position: absolute;"></div>
+<div id="hol3_topspace_topnavcont" class="hol3_topspace_topnav" style="position: absolute;"></div>
+<div id="hol3_topspace_tophotelscont" class="hol3_topspace_tophotels" style="position: absolute;"></div>
+<div id="hol3_topspace_treemenucont" class="hol3_topspace_treemenu" style="position: absolute;">
+	<div id="hol3_topspace_treemenubut" class="hol3_topspace_treemenubut"></div>
+	<div id="hol3_topspace_tophotelsbut" class="hol3_topspace_tophotelsbut"></div>
+</div>
+<div id="hol3_topspace_rightlinkbut" style="position:absolute;"><div class="hol3_topspace_rightlinkbut">Zima</div>
+</div>
+
+<div style="display: none;">
+
+<ul id="hol3_topspace_langpanelitems">
+<li _pws_lang="cz"><img style="padding: 2px;" width="20" height="13" id="hol3_topspace_lang_cz" src="images/vlajka-cz.svg" title="Čeština"/>
+</li>
+<li _pws_lang="de"><img style="padding: 2px;" width="20" height="13" id="hol3_topspace_lang_de" src="images/vlajka-de.svg" title="Deutsch"/>
+</li>
+<li _pws_lang="en"><img style="padding: 2px;" width="20" height="13" id="hol3_topspace_lang_en" src="images/vlajka-en.svg" title="English"/>
+</li>
+<li _pws_lang="pl"><img style="padding: 2px;" width="20" height="13" id="hol3_topspace_lang_pl" src="images/vlajka-pl.svg" title="Polski"/>
+</li>
+
+</ul>
+
+<ul id="hol3_topspace_panelitems">
+<li _pws_panelid="cams" class="hol3_topspace_panel_cams"><div class="hol3_topspace_panel_but_in"><span class="hol3_topspace_panel_but_span">Kamery</span></div></li>
+<li _pws_panelid="locations" class="hol3_topspace_panel_locations"><div class="hol3_topspace_panel_but_in"><span class="hol3_topspace_panel_but_span">Střediska</span></div></li>
+<li _pws_panelid="liftsoverview" class="hol3_topspace_panel_liftsoverview"><div class="hol3_topspace_panel_but_in"><span class="hol3_topspace_panel_but_span">Provoz lanových drah</span></div></li>
+<li _pws_panelid="weather" class="hol3_topspace_panel_weather"><div class="hol3_topspace_panel_but_in"><span class="hol3_topspace_panel_but_span">Předpověď počasí</span></div></li>
+
+
+<li  class="hol3_topspace_panel_youtubetv"><div onClick="window.open('https://www.youtube.com/channel/UC7rDqzAKFjkBwNJReOcCQcg/live', '_blank');" class="hol3_topspace_panel_but_in"><span class="hol3_topspace_panel_but_span">Panorama TV</span></div></li>
+
+
+<li _pws_panelid="accomcheval" class="hol3_topspace_panel_accommodation"><div class="hol3_topspace_panel_but_in"><span class="hol3_topspace_panel_but_span">Ubytování</span></div></li>
+<li _pws_panelid="moreinfo" class="hol3_topspace_panel_moreinfo"><div class="hol3_topspace_panel_but_in"><span class="hol3_topspace_panel_but_span">Další informace</span></div></li>
+</ul>
+
+<ul id="hol3_topmenu_moreinfo">
+<li><img src="images/topmenu_img3_leto.png" width="160" height="50"/></li>
+<li _pws_menuid="mapweather">Předpověď počasí</li>
+<li _pws_menuid="maps">Mapy</li>
+<li _pws_menuid="fbsitour"><div onClick="$pws.hol3_base.makeStatHit({pagepath:'facebook'});">Facebook</div></li>
+<!-- <li _pws_menuid="iski"><div onClick="$pws.hol3_base.makeStatHit({pagepath:'iski'});">iSKI</div></li> -->
+<li _pws_menuid="aboutus"><div onClick="$pws.hol3_base.makeStatHit({pagepath:'sitourweb'});">O nás</div></li>
+<li _pws_menuid="winter">Zimní střediska</li>
+</ul>
+
+
+
+
+
+
+
+<ul id="hol3_topspace_accommenuitems">
+<li class="hol3_topspace_accommenu_nolink">Ještědský hřbet</li>
+<li class="hol3_topspace_accommenu_nolink">Jizerské hory</li>
+<li class="hol3_topspace_accommenu_nolink">Krkonoše</li>
+<li class="hol3_topspace_accommenu_nolink">Orlické hory</li>
+<li class="hol3_topspace_accommenu_nolink">Králický Sněžník</li>
+<li class="hol3_topspace_accommenu_nolink">Jeseníky</li>
+<li class="hol3_topspace_accommenu_nolink">Beskydy</li>
+<li class="hol3_topspace_accommenu_nolink">Česká Sibiř</li>
+<li class="hol3_topspace_accommenu_nolink">Šumava</li>
+<li class="hol3_topspace_accommenu_nolink">Krušné hory</li>
+<li class="hol3_topspace_accommenu_nolink">Vysočina</li>
+<li class="hol3_topspace_accommenu_nolink">Nízký Jeseník</li>
+<li class="hol3_topspace_accommenu_nolink">Oderské vrchy</li>
+<li class="hol3_topspace_accommenu_nolink">Zajímavá místa</li>
+</ul>
+
+
+</div>
+</div>
+</div>
+	<div id="hol3_centerspace"><div id="hol3_centerspace_cont" style="width: 100%; height: 100%;">
+</div>
+</div>
+	<div id="hol3_bottomspace"><div id="consent_banner" style="height:30px; background:#333; display:flex; justify-content:center; align-items:center;">
+	<div style="font-size:14px;margin-right:5px;">
+	Pokračováním v návštěvě tohoto webu souhlasíte s používáním souborů pro statistické, analytické a marketingové účely.
+	</div>
+        <script>
+            var consentClick = function(value)
+            {
+                localStorage.setItem("consent",JSON.stringify({
+                    "ad_storage":value,
+                    "ad_user_data":value,
+                    "ad_personalization":value,
+                    "analytics_storage":value
+                }));
+                $(window).trigger('resize');
+                $pws.ga.updateConsent();
+            }
+        </script>
+      	<button id="cookies-accept" style="background:#007bff;margin-right:5px; color:white; border:none;height:fit-content;padding:4px 13px; border-radius:5px; cursor:pointer;"
+            onClick="consentClick('granted')">
+            Přijmout</button>
+      	<button id="cookies-reject" style="background:#ccc; border:none;height:fit-content; padding:4px 13px; border-radius:5px; cursor:pointer; margin-right:10px;"
+            onClick="consentClick('denied')">
+        Odmítnout</button>
+
+</div>
+
+
+<div style="position:relative">
+    <div id="hol3_bottomspace_advertcontleft">
+	    	<div class="hol3_bottomspace_advert hol3_bottomspace_bannerleft" style="margin-top: 4px;"><a href="https://innogy.cz" onClick="javascript:$pws.hol3_base.makeBannerHit('innogy.cz')" target="_blank"><img style="border-style:none;" src="images/innogy_banner_Holidayinfo_365x60px_2020.gif"/></a></div>
+
+
+    </div>
+    <div id="hol3_bottomspace_advertcontright">
+    </div>
+    <button id="cookie_button" onClick="localStorage.removeItem('consent'); $(window).trigger('resize'); $pws.ga.updateConsent();">
+        <svg className="" fill="none" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <g stroke="#fff" strokeLinecap="round" strokeLinejoin="round" strokeWidth="2">
+                <path d="M12.152 4.087c0-.367-.052-.733-.152-1.087 4.968.005 8.994 4.04 9 9 .016 4.963-4.03 8.984-9 9s-8.984-4.037-9-9c1.112.236 2.27-.002 3.15-.72a3.83 3.83 0 0 0 1.42-3.006 4.5 4.5 0 0 0-.07-.781 3.28 3.28 0 0 0 3.07-.351 3.69 3.69 0 0 0 1.582-3.055m-9.15 2.915V7H3v.002zm5-4V3H8v.002zm-4 0V3H4v.002z" />
+                <path d="M10.002 17.002V17H10v.002zm5-2V15H15v.002zm-4-3V12H11v.002zm5-2V10H16v.002zm-13-3V7H3v.002zm5-4V3H8v.002zm-4 0V3H4v.002z" />
+            </g>
+        </svg>
+    </button >
+    <div id="hol3_bottomspace_sitour">
+	    <a href="http://www.sitour.cz" target="_blank"><img style="border-style: none;" src="images/rekl_bottom_sitour_logo.png"></a>
+    </div>
+</div>
+</div>
+</div>
+</body>
+</html>

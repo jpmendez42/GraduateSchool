@@ -1,0 +1,6 @@
+﻿User-agent: *
+Disallow: /*?q=*
+Disallow: /Util/
+Disallow: /EPiServer/
+Allow: /
+Sitemap: https://www.msb.se/Mvc/SiteMap/GetXml

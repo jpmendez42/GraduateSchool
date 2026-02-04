@@ -1,0 +1,18 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://binero.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
+
+# Disallow preview URLs
+User-agent: *
+Disallow: /*?*preview=true
+
+# Disallow access to other directories
+Disallow: /wp-admin/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /backup/

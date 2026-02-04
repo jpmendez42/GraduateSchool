@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /controller/javascript/minified/
+Allow: /mail-system/pub/newsletters/
+
+Disallow: /admin/
+Disallow: /controller/
+Disallow: /mail-system/
+Disallow: /stock-admin/
+
+Disallow: /detalii-email/
+Disallow: /detaliu-notificare/
+Disallow: /detalii-sms/
+Disallow: /compara-produse/
+Disallow: /produse-disponibile/
+Disallow: /contul-meu/
+
+Sitemap: https://www.sportisimo.ro/pub/sitemaps/sportisimo.ro/sitemaps_index.xml

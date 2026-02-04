@@ -1,0 +1,101 @@
+User-agent: *
+Sitemap: https://kotiliesi.fi/asmagsitemapindex.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://kotiliesi.fi/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/vappu-keittiossa/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/suklaapossu/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/deko-nakoislehti/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/maalla-nakoislehti/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/kotiliesi-kasityo-nakoislehti/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/erikoislehdet/sitemap_index.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-user
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-Agent: ImagesiftBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+# ChatGPT crawler
+User-agent: GPTBot
+Disallow: /
+
+# ChatGPT plugins
+User-agent: ChatGPT-User
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# FacebookBot crawls to improve language models
+User-Agent: FacebookBot
+Disallow: /
+
+# Bard and Vertex AI generative APIs
+User-agent: Google-Extended
+Disallow: /
+
+# Omgilibot/webz.io sells data for training LLMs
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://kotiliesi.fi/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/vappu-keittiossa/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/suklaapossu/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/deko-nakoislehti/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/maalla-nakoislehti/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/kotiliesi-kasityo-nakoislehti/sitemap_index.xml
+Sitemap: https://kotiliesi.fi/erikoislehdet/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

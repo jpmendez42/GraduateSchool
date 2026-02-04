@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /produkte/compare
+Disallow: /produkte/checkout
+Disallow: /produkte/register
+Disallow: /produkte/account
+Disallow: /produkte/address
+Disallow: /produkte/note
+Disallow: /produkte/widgets
+Disallow: /produkte/listing
+Disallow: /produkte/ticket
+Disallow: /produkte/wishlist
+
+Allow: /produkte/widgets/emotion
+Sitemap: https://www.globus.de/produkte/sitemap_index.xml
+Sitemap: https://www.globus.de/sitemap.xml

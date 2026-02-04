@@ -1,0 +1,589 @@
+<!DOCTYPE html>
+<html lang='de'>
+<head>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta charset='utf-8'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<title>Webhosting, Domains und Cloud von lima-city</title>
+<link as='style' href='/assets/application-34be0cf7620eb7f909bb61c28d3b91ee61375afecd0bfe3caf7a56852b9142d3.css' rel='preload'>
+<link rel="stylesheet" media="all" href="/assets/application-34be0cf7620eb7f909bb61c28d3b91ee61375afecd0bfe3caf7a56852b9142d3.css" />
+<link rel="stylesheet" media="screen" href="/assets/public_layout-e92ee078c0a4b4d9e1ac851339615f5581193652025904225956a63477cb2d1a.css" />
+
+<link rel="shortcut icon" type="image/x-icon" href="/assets/favicon-e09db3f431058ee6fca2b397e1908d7d263544ea53b47611d6a5534b5edcdf0b.ico" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="sxwKYFpvsqa0odgI6K5dQzImKnJLFNXgfE+RTgB+W8wu3I9uxr/v9ocUu6vWix8a2drKA0zx9WlCgQcICQVsYw==" />
+<link href='/assets/apple-touch-icon-c1225aad314a16138b25d1aa7fe4438a4828d98b5415b0cbc805e36687b7c7eb.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'>
+<link href='/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'>
+<link href='/site.webmanifest' rel='manifest'>
+<link href='https://www.lima-city.de/' rel='canonical'>
+<link color='#5bbad5' href='/safari-pinned-tab.svg' rel='mask-icon'>
+<meta content='#00aba9' name='msapplication-TileColor'>
+<meta content='#ffffff' name='theme-color'>
+<meta content='lima-city bietet bezahltes und kostenloses Webhosting mit viel Webspace und günstigen Domains an. Unsere günstigen und hochperformanten Cloud-Server mit flexibler Abrechnung sind einfach und schnell zu benutzen.' name='description'>
+<meta content='index,follow' name='robots'>
+<script type='text/javascript'>
+var _rollbarConfig = {
+accessToken: 'db058c0b66b94c9197b43a13f9d575da',
+captureUncaught: true,
+captureUnhandledRejections: true,
+payload: {
+    environment: "production",
+    // context: 'rollbar/test'
+    client: {
+      javascript: {
+        code_version: '1.0',
+      }
+    }
+  }
+};
+// Rollbar Snippet
+!function(r){var e={};function o(n){if(e[n])return e[n].exports;var t=e[n]={i:n,l:!1,exports:{}};return r[n].call(t.exports,t,t.exports,o),t.l=!0,t.exports}o.m=r,o.c=e,o.d=function(r,e,n){o.o(r,e)||Object.defineProperty(r,e,{enumerable:!0,get:n})},o.r=function(r){"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(r,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(r,"__esModule",{value:!0})},o.t=function(r,e){if(1&e&&(r=o(r)),8&e)return r;if(4&e&&"object"==typeof r&&r&&r.__esModule)return r;var n=Object.create(null);if(o.r(n),Object.defineProperty(n,"default",{enumerable:!0,value:r}),2&e&&"string"!=typeof r)for(var t in r)o.d(n,t,function(e){return r[e]}.bind(null,t));return n},o.n=function(r){var e=r&&r.__esModule?function(){return r.default}:function(){return r};return o.d(e,"a",e),e},o.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},o.p="",o(o.s=0)}([function(r,e,o){"use strict";var n=o(1),t=o(5);_rollbarConfig=_rollbarConfig||{},_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://cdn.rollbar.com/rollbarjs/refs/tags/v2.26.0/rollbar.min.js",_rollbarConfig.async=void 0===_rollbarConfig.async||_rollbarConfig.async;var a=n.setupShim(window,_rollbarConfig),l=t(_rollbarConfig);window.rollbar=n.Rollbar,a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,l)},function(r,e,o){"use strict";var n=o(2),t=o(3);function a(r){return function(){try{return r.apply(this,arguments)}catch(r){try{console.error("[Rollbar]: Internal error",r)}catch(r){}}}}var l=0;function i(r,e){this.options=r,this._rollbarOldOnError=null;var o=l++;this.shimId=function(){return o},"undefined"!=typeof window&&window._rollbarShims&&(window._rollbarShims[o]={handler:e,messages:[]})}var s=o(4),d=function(r,e){return new i(r,e)},c=function(r){return new s(d,r)};function u(r){return a((function(){var e=this,o=Array.prototype.slice.call(arguments,0),n={shim:e,method:r,args:o,ts:new Date};window._rollbarShims[this.shimId()].messages.push(n)}))}i.prototype.loadFull=function(r,e,o,n,t){var l=!1,i=e.createElement("script"),s=e.getElementsByTagName("script")[0],d=s.parentNode;i.crossOrigin="",i.src=n.rollbarJsUrl,o||(i.async=!0),i.onload=i.onreadystatechange=a((function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){i.onload=i.onreadystatechange=null;try{d.removeChild(i)}catch(r){}l=!0,function(){var e;if(void 0===r._rollbarDidLoad){e=new Error("rollbar.js did not load");for(var o,n,a,l,i=0;o=r._rollbarShims[i++];)for(o=o.messages||[];n=o.shift();)for(a=n.args||[],i=0;i<a.length;++i)if("function"==typeof(l=a[i])){l(e);break}}"function"==typeof t&&t(e)}()}})),d.insertBefore(i,s)},i.prototype.wrap=function(r,e,o){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._rollbar_wrapped&&(r._rollbar_wrapped=function(){o&&"function"==typeof o&&o.apply(this,arguments);try{return r.apply(this,arguments)}catch(o){var e=o;throw e&&("string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e),e}},r._rollbar_wrapped._isWrap=!0,r.hasOwnProperty))for(var t in r)r.hasOwnProperty(t)&&(r._rollbar_wrapped[t]=r[t]);return r._rollbar_wrapped}catch(e){return r}};for(var p="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,captureEvent,captureDomContentLoaded,captureLoad".split(","),f=0;f<p.length;++f)i.prototype[p[f]]=u(p[f]);r.exports={setupShim:function(r,e){if(r){var o=e.globalAlias||"Rollbar";if("object"==typeof r[o])return r[o];r._rollbarShims={},r._rollbarWrappedError=null;var l=new c(e);return a((function(){e.captureUncaught&&(l._rollbarOldOnError=r.onerror,n.captureUncaughtExceptions(r,l,!0),e.wrapGlobalEventHandlers&&t(r,l,!0)),e.captureUnhandledRejections&&n.captureUnhandledRejections(r,l,!0);var a=e.autoInstrument;return!1!==e.enabled&&(void 0===a||!0===a||"object"==typeof a&&a.network)&&r.addEventListener&&(r.addEventListener("load",l.captureLoad.bind(l)),r.addEventListener("DOMContentLoaded",l.captureDomContentLoaded.bind(l))),r[o]=l,l}))()}},Rollbar:c}},function(r,e,o){"use strict";function n(r,e,o,n){r._rollbarWrappedError&&(n[4]||(n[4]=r._rollbarWrappedError),n[5]||(n[5]=r._rollbarWrappedError._rollbarContext),r._rollbarWrappedError=null);var t=e.handleUncaughtException.apply(e,n);o&&o.apply(r,n),"anonymous"===t&&(e.anonymousErrorsPending+=1)}r.exports={captureUncaughtExceptions:function(r,e,o){if(r){var t;if("function"==typeof e._rollbarOldOnError)t=e._rollbarOldOnError;else if(r.onerror){for(t=r.onerror;t._rollbarOldOnError;)t=t._rollbarOldOnError;e._rollbarOldOnError=t}e.handleAnonymousErrors();var a=function(){var o=Array.prototype.slice.call(arguments,0);n(r,e,t,o)};o&&(a._rollbarOldOnError=t),r.onerror=a}},captureUnhandledRejections:function(r,e,o){if(r){"function"==typeof r._rollbarURH&&r._rollbarURH.belongsToShim&&r.removeEventListener("unhandledrejection",r._rollbarURH);var n=function(r){var o,n,t;try{o=r.reason}catch(r){o=void 0}try{n=r.promise}catch(r){n="[unhandledrejection] error getting `promise` from event"}try{t=r.detail,!o&&t&&(o=t.reason,n=t.promise)}catch(r){}o||(o="[unhandledrejection] error getting `reason` from event"),e&&e.handleUnhandledRejection&&e.handleUnhandledRejection(o,n)};n.belongsToShim=o,r._rollbarURH=n,r.addEventListener("unhandledrejection",n)}}}},function(r,e,o){"use strict";function n(r,e,o){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){for(var n=e.addEventListener;n._rollbarOldAdd&&n.belongsToShim;)n=n._rollbarOldAdd;var t=function(e,o,t){n.call(this,e,r.wrap(o),t)};t._rollbarOldAdd=n,t.belongsToShim=o,e.addEventListener=t;for(var a=e.removeEventListener;a._rollbarOldRemove&&a.belongsToShim;)a=a._rollbarOldRemove;var l=function(r,e,o){a.call(this,r,e&&e._rollbar_wrapped||e,o)};l._rollbarOldRemove=a,l.belongsToShim=o,e.removeEventListener=l}}r.exports=function(r,e,o){if(r){var t,a,l="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(t=0;t<l.length;++t)r[a=l[t]]&&r[a].prototype&&n(e,r[a].prototype,o)}}},function(r,e,o){"use strict";function n(r,e){this.impl=r(e,this),this.options=e,function(r){for(var e=function(r){return function(){var e=Array.prototype.slice.call(arguments,0);if(this.impl[r])return this.impl[r].apply(this.impl,e)}},o="log,debug,info,warn,warning,error,critical,global,configure,handleUncaughtException,handleAnonymousErrors,handleUnhandledRejection,_createItem,wrap,loadFull,shimId,captureEvent,captureDomContentLoaded,captureLoad".split(","),n=0;n<o.length;n++)r[o[n]]=e(o[n])}(n.prototype)}n.prototype._swapAndProcessMessages=function(r,e){var o,n,t;for(this.impl=r(this.options);o=e.shift();)n=o.method,t=o.args,this[n]&&"function"==typeof this[n]&&("captureDomContentLoaded"===n||"captureLoad"===n?this[n].apply(this,[t[0],o.ts]):this[n].apply(this,t));return this},r.exports=n},function(r,e,o){"use strict";r.exports=function(r){return function(e){if(!e&&!window._rollbarInitialized){for(var o,n,t=(r=r||{}).globalAlias||"Rollbar",a=window.rollbar,l=function(r){return new a(r)},i=0;o=window._rollbarShims[i++];)n||(n=o.handler),o.handler._swapAndProcessMessages(l,o.messages);window[t]=n,window._rollbarInitialized=!0}}}}]);
+// End Rollbar Snippet
+
+
+</script>
+<script src="https://www.googletagmanager.com/gtag/js?id=AW-1006956138" async="async"></script>
+<script type='text/javascript'>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'analytics_storage': 'denied'
+});
+
+gtag('config', 'AW-1006956138');
+</script>
+</head>
+<body class='custom-container no-sidebar' data-logged-in='false'>
+<div class='hero-background'>
+<header class='bd-navbar navbar navbar-expand-md header-lima-usercp flex-row'>
+<div class='container'>
+<a class='navbar-brand mr-auto' href='/' title='kostenloser Webspace werbefrei'>
+<img alt="lima-city: kostenloser Webspace, professionelles Webhosting und WordPress-Hosting &amp; Cloud" src="/assets/layout/logo-header-c308ecd5372822e060f1c1f8cc7408a000b86e5c7d46b6f00287dfb3774c086f.svg" />
+</a>
+<button aria-controls='navbarSupportedContent' aria-expanded='false' aria-label='Toggle navigation' class='navbar-toggler' data-target='#navbarSupportedContent' data-toggle='collapse' type='button'>
+<i class='fa fa-2x fa-bars fa-fw'></i>
+</button>
+<div class='collapse navbar-collapse' id='navbarSupportedContent'>
+<ul class='navbar-nav navbar-main ml-auto'>
+<li class="nav-item"><a class="nav-link" href="/webhosting">Webhosting</a></li>
+<li class="nav-item"><a class="nav-link" href="/domains">Domains</a></li>
+<li class="nav-item"><a class="nav-link" href="/vserver">vServer</a></li>
+<li class="nav-item"><a class="nav-link" href="/hilfe">Hilfe</a></li>
+<li class='menu-item-cart nav-item'>
+<a class='nav-link nav-cart' href='/cart' title='Warenkorb'>
+<div class='icon-wrapper' id='navCartItemCount'>
+<i class='fa fa-shopping-cart fa-lg fa-fw'></i>
+</div>
+<span class='d-inline-block d-sm-none description'>
+Warenkorb
+</span>
+</a>
+</li>
+</ul>
+<ul class='navbar-nav navbar-login'>
+<li class='nav-item'>
+<a class="nav-link" href="/register"><i class='fa fa-rocket fa-fw'></i>
+Registrieren
+</a></li>
+<li class='nav-item'>
+<a class="nav-link" href="/login"><i class='fa fa-sign-in fa-fw'></i>
+Login
+</a></li>
+</ul>
+
+</div>
+</div>
+</header>
+
+<section class='hero hero-homepage'>
+<div class='container'>
+<div class='row'>
+<div class='col-md-6'>
+<h1>We ❤ Webhosting</h1>
+<h2>Schnelles Webhosting für Einsteiger & Profis</h2>
+<ul>
+<li>günstige Tarife mit transparenten Preisen</li>
+<li>persönlicher & leidenschaftlicher Support</li>
+<li>über 18 Jahre Webhosting-Erfahrung</li>
+</ul>
+<a class="btn btn-primary btn-block" href="/webhosting">zu den Webhosting-Paketen &rarr;
+</a></div>
+</div>
+</div>
+<img class="homepage-hero-img d-none d-sm-none d-md-block d-lg-block" src="/assets/layout/homepage-hero-image-38c0317f9c7f104891ed91c2f670c417aa133860f87b0205106b6cb0fe3465ec.svg" />
+<img class="clouds-hero-img" src="/assets/layout/svg-clouds-homepage-7afeac94cbd89dceaab0852ee53d7e0aa2342574931190a0cb1ea1c0eb131509.svg" />
+</section>
+
+</div>
+<section class='section text-center section-after-hero after-hero-images'>
+<div class='container'>
+<aside class='d-lg-flex align-items-center text-center text-lg-left'>
+<div class='mr-0 mr-lg-4 mb-2 mb-lg-3'>
+<a rel="noopener noreferer" target="_blank" href="https://www.hosttest.de/webhoster/lima-city"><img alt="Wir sind Webhoster des Jahres 2024!" height="275" src="/assets/whdj2024-47149698a5c13114ecdbed67dbad607383697a7304fbac1a7052e8ddbc2ee879.svg" />
+</a></div>
+<div class='mb-3'>
+<h2>Wir sind Webhoster des Jahres 2019, 2020, 2021, 2022, 2023 & 2024!</h2>
+<p>lima-city wurde zum sechsten Mal in Folge zum Webhoster des Jahres in der Kategorie "Webhosting" gewählt. Vielen Dank an unsere Kunden und Unterstützer!</p>
+</div>
+</aside>
+
+</div>
+</section>
+<section class='section text-center __no-h3-margin-bottom'>
+<div class='container'>
+<h2 class='header-section'>Unsere Produkte</h2>
+<div class='row mb-5'>
+<div class='col-md-6'>
+<a class="cloudy-product-link" href="/webhosting"><img class="image-section" src="/assets/layout/homepage-webhosting-105eb04f94135386c810bb8a5518fda10cfc95c8d8303c720a9969e76b95fddf.jpg" />
+<h3>Webhosting & WordPress-Hosting</h3>
+<div class='text-in-section'>Blitzschnelles SSD-Webhosting mit PHP & MySQL, WordPress-Toolkit, kostenlosem SSL für alle Webseiten uvm.</div>
+</a><a class="btn btn-secondary" href="/webhosting">Webhosting entdecken &rarr;
+</a></div>
+<div class='col-md-6'>
+<a class="cloudy-product-link" href="/domains"><img class="image-section" src="/assets/layout/homepage-domains-8323f690ef4be372ae98dc2fe449218e3c514b8bcff23f26711cb01c843f3d9c.jpg" />
+<h3>Domains</h3>
+<div class='text-in-section'>Registriere 364 Domain-Endungen zu günstigen Preisen - 1 GB E-Mail-Speicher je Domain enthalten!</div>
+</a><a class="btn btn-secondary" href="/domains">Domains kaufen &rarr;
+</a></div>
+</div>
+<div class='row'>
+<div class='col-md-6'>
+<a class="cloudy-product-link" href="/webhosting/webspace-kostenlos"><img class="image-section" src="/assets/layout/homepage-webhosting-105eb04f94135386c810bb8a5518fda10cfc95c8d8303c720a9969e76b95fddf.jpg" />
+<h3>Kostenloser Webspace</h3>
+<div class='text-in-section'>Kostenloses, werbefreies Webhosting für Einsteiger, zum Experimentieren und Basteln</div>
+</a><a class="btn btn-secondary" href="/webhosting/webspace-kostenlos">zum kostenlosen Webspace &rarr;
+</a></div>
+<div class='col-md-6'>
+<a class="cloudy-product-link" href="/cloud"><img class="image-section" src="/assets/layout/homepage-cloud-vps-279f1efe12b4a03322e47f434fb47fa30086165e131731299edca0f3815120ee.jpg" />
+<h3>Cloud-VPS</h3>
+<div class='text-in-section'>Das Beste aus vServer und Cloud: unsere Cloud-VPS mit stundenbasierter Abrechnung</div>
+</a><a class="btn btn-secondary" href="/cloud">mehr über Cloud-VPS &rarr;
+</a></div>
+</div>
+</div>
+</section>
+<section class='section'>
+<div class='container'>
+<div class='green-block'>
+<h2>Jetzt 14 Tage kostenlos und ohne Risiko testen!</h2>
+<p>
+Teste jetzt für 14 Tage unsere Webhosting-Pakete ganz unverbindlich und kostenlos - eine Eingabe von Zahlungsdaten ist nicht notwendig, ohne automatische Buchung bzw. Verlängerung.
+</p>
+<p>
+Alle Funktionen - bis auf das Registrieren von Inklusiv-Domains - sind verfügbar, kostenlose Subdomains können als Test-Adressen verwendet werden.
+</p>
+<a class='btn btn-primary mb-4' href='/register'>
+Jetzt registrieren und kostenlos testen!
+→
+</a>
+<a class='font-weight-bold btn mb-4 text-dark' href='tel:+004942140899994'>
+Noch Fragen? 0421 / 40 89 99 94 (Mo-Fr. 8:00 - 17:00)
+</a>
+</div>
+</div>
+</section>
+<div class="wave-divider flipped mt-mobile-none d-none d-sm-block"><img src="/assets/layout/svg-wave-7c56772eac8a89594a99e0159ddbcdb788e2d79ff96ad1d5b9625cd49bc3a3f8.svg" /></div>
+<section class='section section-intro text-center __no-margin-bottom'>
+<div class='container'>
+<h1>Erfahren. Leidenschaftlich. Fair.</h1>
+<div class='text-in-section'>15 Jahre Erfahrung mit <a href="/webhosting">Webhosting</a> für Kunden aus aller Welt und allen Branchen, großem und kleinem Budget, hohen und noch höheren Ansprüchen sprechen für sich. Egal ob es eine Webhosting-Lösung, Domain-Registrierung, E-Mail-Adressen, Cloud-Server oder eine ganz eigene Lösung sein soll: wir sind gerne dafür da!</div>
+</div>
+</section>
+<section class='section section-tile-images text-center'>
+<div class='container'>
+<h2 class='header-section'>Unsere Philosophie</h2>
+<div class='row'>
+<div class='col-md-4'>
+<div class='tile-wrapper'>
+<div class='tile-image'>
+<svg viewBox='0 0 70.17 90.14'>
+<g style='fill: url(&#39;#gradient1&#39;);'>
+<path d='M69.82,42.42l-2-3a9.25,9.25,0,0,1,0-9.25l2-2.91a2,2,0,0,0-.66-2.89l-3.36-1.88a9.27,9.27,0,0,1-4.66-8.1l.12-3.63a2,2,0,0,0-2.08-2.06l-3.61.15a9.27,9.27,0,0,1-8.1-4.72L45.65,1A2,2,0,0,0,42.84.3l-3,1.88a9.69,9.69,0,0,1-9.31,0l-.09-.05L27.4.4a2,2,0,0,0-2.72.74L22.91,4.22A9.32,9.32,0,0,1,14.75,9H11.27a2,2,0,0,0-2,2v3.51a9.26,9.26,0,0,1-4.68,8.06L1.26,24.32a2,2,0,0,0-.71,2.9l2,2.92a9.29,9.29,0,0,1,0,9.27l-2.21,3a2,2,0,0,0,.73,3l3.48,1.7a9.26,9.26,0,0,1,4.66,8l-.21,3.55A2,2,0,0,0,9.48,60a1.94,1.94,0,0,0-.08.21L4.76,76.79a2,2,0,0,0,2.18,2.52L17.18,78l8.16,6.63a2,2,0,0,0,3.19-1L31.8,72l2.91,16.53a2,2,0,0,0,3.06,1.33l11.36-7.39,13.41,3.21A2,2,0,0,0,65,83.34l-3.9-22.13a2,2,0,0,0-.4-.87,2,2,0,0,0,.43-1.23V55.19a9.29,9.29,0,0,1,4.67-8.1l3.34-1.77a2,2,0,0,0,.71-2.9ZM25.5,79.59,19,74.34a2,2,0,0,0-1.52-.43L9.42,75l3.83-13.66a2,2,0,0,0,.07-.56l1.51,0a9.34,9.34,0,0,1,8.09,4.67l1.7,3.21a2,2,0,0,0,2.84.75l1.12-.71Zm23.72-1.26a2,2,0,0,0-1.56.27l-9.54,6.21L34.84,66.18l.34,0a8.77,8.77,0,0,1,4.71,1.29l3,1.79a2,2,0,0,0,2.76-.72l1.8-3.15a9.15,9.15,0,0,1,8-4.45l1.69.09a2,2,0,0,0-.05.89L60.51,81ZM63.92,43.54A13.17,13.17,0,0,0,57.1,55.29V57l-1.39-.08a13,13,0,0,0-11.77,6.53l-.75,1.3L42,64a13.27,13.27,0,0,0-13.62,0l-1.23.78-.68-1.29a13.27,13.27,0,0,0-11.31-6.82H14.7l-1.53,0,.08-1.42A13.2,13.2,0,0,0,6.4,43.5L5,42.83l.82-1.11.08-.11a13.22,13.22,0,0,0,0-13.69L5.12,26.8l1.32-.7A13.13,13.13,0,0,0,13.26,14.4V13h1.38A13.37,13.37,0,0,0,26.42,6.14l.73-1.27,1.26.72A13.57,13.57,0,0,0,42,5.56l1.21-.76.71,1.26a13.15,13.15,0,0,0,11.8,6.82l1.45-.06,0,1.45A13.16,13.16,0,0,0,63.86,26l1.38.77L64.43,28a13.2,13.2,0,0,0,0,13.69l.8,1.16Z'></path>
+<path d='M35.09,19.65A15.18,15.18,0,1,0,50.26,34.83,15.19,15.19,0,0,0,35.09,19.65Zm0,26.35A11.18,11.18,0,1,1,46.26,34.83,11.19,11.19,0,0,1,35.09,46Z'></path>
+</g>
+<g>
+<linearGradient id='gradient1'>
+<stop offset='0%' stop-color='#c9e761'></stop>
+<stop offset='100%' stop-color='#abcd2f'></stop>
+</linearGradient>
+</g>
+</svg>
+</div>
+<h3>Erfahrung</h3>
+<div class='text-in-section'>
+Wir haben 2003 mit kostenlosem Webspace begonnen und sind zu einem Webhosting-Provider mit 15 Jahren
+Erfahrung im Hosting von hunderttausenden Webseiten gewachsen.
+</div>
+</div>
+</div>
+<div class='col-md-4'>
+<div class='tile-wrapper'>
+<div class='tile-image'>
+<svg viewBox='0 0 89.14 83.33'>
+<g style='fill: url(&#39;#gradient2&#39;);'>
+<path d='M82.56,7.61l-.68-.68A23.42,23.42,0,0,0,65.21,0,23.86,23.86,0,0,0,48.82,6.65l-4.25,3.87L40.32,6.63A23.87,23.87,0,0,0,23.93,0,23.42,23.42,0,0,0,7.26,6.91l-.68.68A22.24,22.24,0,0,0,0,23.89C0,29.48,2.16,35.2,6.25,40.45c.1.13.22.26.33.38,9.27,11.29,27.74,33.46,31.75,37.7l3.32,3.53a4,4,0,0,0,2.91,1.26h0a4,4,0,0,0,2.9-1.25l3.33-3.52c4-4.24,22.47-26.41,31.75-37.71.12-.13.23-.25.33-.38,4.09-5.25,6.25-11,6.25-16.56A22.24,22.24,0,0,0,82.56,7.61ZM79.73,38c-.06.08-.13.14-.2.22C70.09,49.74,51.77,71.72,47.9,75.82l-3.33,3.52-3.33-3.54c-3.87-4.1-22.19-26.08-31.64-37.59-.06-.08-.14-.14-.2-.22C6.24,33.93,4,29.09,4,23.89A18.38,18.38,0,0,1,9.41,10.41l.68-.68A19.45,19.45,0,0,1,23.93,4,20,20,0,0,1,37.6,9.56c.88.82,7,6.36,7,6.36s6.09-5.51,7-6.33A20,20,0,0,1,65.21,4,19.45,19.45,0,0,1,79.05,9.76l.68.68a18.38,18.38,0,0,1,5.41,13.48C85.14,29.11,82.9,34,79.73,38Z'></path>
+</g>
+<g>
+<linearGradient id='gradient2'>
+<stop offset='0%' stop-color='#c9e761'></stop>
+<stop offset='100%' stop-color='#abcd2f'></stop>
+</linearGradient>
+</g>
+</svg>
+</div>
+<h3>Leidenschaft</h3>
+<div class='text-in-section'>
+Unser Herz schlägt für Webhosting, Domains und Server! Erfahrung alleine reicht nicht, wenn man nicht auch die Leidenschaft mitbringt, die Extra-Meile zu laufen. Und das tun wir!
+</div>
+</div>
+</div>
+<div class='col-md-4'>
+<div class='tile-wrapper'>
+<div class='tile-image'>
+<svg viewBox='0 0 91.44 79.65'>
+<g style='fill: url(&#39;#gradient3&#39;);'>
+<path d='M65.71,75.65h-18V18.57a9.41,9.41,0,0,0,7.23-7.48H84.67a2,2,0,1,0,0-4H54.81a9.38,9.38,0,0,0-18.2,0H6.76a2,2,0,1,0,0,4H36.48a9.41,9.41,0,0,0,7.23,7.48V75.65h-18a2,2,0,1,0,0,4h40a2,2,0,0,0,0-4ZM40.32,9.4a5.4,5.4,0,1,1,5.4,5.4A5.4,5.4,0,0,1,40.32,9.4Z'></path>
+<path d='M32.92,33.83a2,2,0,0,0-.45-1.7L18,15.67a2.07,2.07,0,0,0-3,0L.49,32.19a2,2,0,0,0-.12.17l0,0A2,2,0,0,0,0,33.78C.15,43.84,7.48,52,16.47,52S32.76,43.86,32.92,33.83ZM16.51,20,26.59,31.5H6.42Zm0,28C10.18,48,5,42.54,4.13,35.5H28.81C28,42.54,22.76,48,16.47,48Z'></path>
+<path d='M91,33.13,76.49,16.67a2.07,2.07,0,0,0-3,0L59,33.19a2,2,0,0,0-.12.17l0,0a2,2,0,0,0-.32,1.38C58.64,44.84,66,53,75,53s16.29-8.11,16.45-18.14A2,2,0,0,0,91,33.13ZM75,21,85.08,32.5H64.9Zm0,28c-6.29,0-11.5-5.43-12.34-12.47H87.3C86.46,43.54,81.24,49,75,49Z'></path>
+</g>
+<g>
+<linearGradient id='gradient3'>
+<stop offset='0%' stop-color='#c9e761'></stop>
+<stop offset='100%' stop-color='#abcd2f'></stop>
+</linearGradient>
+</g>
+</svg>
+</div>
+<h3>Fairness</h3>
+<div class='text-in-section'>
+Wir bieten Webhosting kostenlos an, vermeiden lange Vertragslaufzeiten und kompliziertes Kleingedrucktes. Nicht als Marketing-Kampagne, sondern schon immer.
+</div>
+</div>
+</div>
+</div>
+<a class='btn btn-secondary text-large' href='/ueber-lima-city'>
+Erfahre mehr über lima-city &rarr;
+</a>
+</div>
+</section>
+<div class="wave-divider flipped mt-mobile-none d-none d-sm-block"><img src="/assets/layout/svg-wave-7c56772eac8a89594a99e0159ddbcdb788e2d79ff96ad1d5b9625cd49bc3a3f8.svg" /></div>
+<section class='section section-reviews'>
+<div class='container'>
+<div class='text-center'>
+<h2 class='header-section'>Kundenmeinungen</h2>
+</div>
+<div class='product-reviews'>
+<div class='product-review-item' style='background-image: url(&#39;https://www.lima-city.de/assets/layout/pr-bg-5-d5ddb891769d2139e45ebb8c3c52fb4e449dfe04038e4bb0163e9b051a5104fc.jpg&#39;);'>
+<div class='product-review-thumb'>
+<img alt='' src='layout/product-avatar-1.jpg'>
+</div>
+<div class='product-review-content'>
+<div class='product-review-text'>
+Sehr netter und schneller Service, super günstige Domains (wenn man sie denn braucht, auch die werbefreien Free-Angebote sind super!) mit E-Mail inbegriffen , kostenloses SSL, was will man mehr!
+
+100% weiterzuempfehlen, bester Hosting-Anbieter den ich je hatte!
+</div>
+<div class='product-review-name'>
+Eric, Januar 2017
+</div>
+</div>
+</div>
+<div class='product-review-item' style='background-image: url(&#39;https://www.lima-city.de/assets/layout/pr-bg-4-0a47f3b96c1a4c6351825822a1e94eb394a5ee1a09e12adaef51303b4c28d1ed.jpg&#39;);'>
+<div class='product-review-thumb'>
+<img alt='' src='layout/product-avatar-1.jpg'>
+</div>
+<div class='product-review-content'>
+<div class='product-review-text'>
+Hast du deine Webseite gecrashed oder wurde sie gehakt, stehst hilflos vor dem Nichts und dem Glauben „das wars“…! Hier nicht!! Der Support von Lima-City ist einmalig. Schnell: oft sogar (in Bezug auf „schnell“) am Wochenende. Kompetent: die wissen wirklich alles und machen auch fast alles. Freundlich: es gibt eine persönliche Anrede (man duzt sich). Ich bezahle freiwillig und lächerlich wenig und sollte mich dafür eigentlich schämen. Vielen Dank bis hierher ;-)
+</div>
+<div class='product-review-name'>
+<a target="_blank" href="http://www.spirisfeed.com/">Iris Treppner <i class="fa fa-external-link"></i></a>, Februar 2018
+</div>
+</div>
+</div>
+<div class='product-review-item' style='background-image: url(&#39;https://www.lima-city.de/assets/layout/pr-bg-1-7c054b6c3936a7c0d90f23e23df27a3fdd2f732a9472a09031b8a498a856ad8f.jpg&#39;);'>
+<div class='product-review-thumb'>
+<img alt='' src='https://storage.googleapis.com/lima-city/ref-logos/rida_amirini_x.png'>
+</div>
+<div class='product-review-content'>
+<div class='product-review-text'>
+Seit 2013 sind wir gerne bei lima-city. Wir haben schon viele andere Hoster ausprobiert, verglichen zu lima-city konnten diese uns nicht annähernd so einen guten Service und Preis-Leistungs-Verhältnis anbieten.
+</div>
+<div class='product-review-name'>
+<a target="_blank" href="https://rs-apps.de">Rida Amirini <i class="fa fa-external-link"></i></a>, Februar 2018
+<div class='customer-logo'>
+<a target="_blank" href="https://rs-apps.de"><img class="customer-logo mt-3" src="https://storage.googleapis.com/lima-city/ref-logos/rsapps.png" />
+</a></div>
+</div>
+</div>
+</div>
+<div class='product-review-item' style='background-image: url(&#39;https://www.lima-city.de/assets/layout/pr-bg-3-a5cf51bf0dec6ec1c36ab2ea9f791831dccacbf42c8343d3a96d5626cb76a8e8.jpg&#39;);'>
+<div class='product-review-thumb'>
+<img alt='' src='layout/product-avatar-1.jpg'>
+</div>
+<div class='product-review-content'>
+<div class='product-review-text'>
+Als Business Kunden sind wir auf schnelles und verlässliches Hosting angewiesen. lima-city erfüllt seit Jahren unsere hohen Ansprüche und ist vor allem durch den exzellenten Support ganz klar unsere Nr. 1!
+</div>
+<div class='product-review-name'>
+<a target="_blank" href="https://www.shapepress.com">Daniel Höller, Shapepress <i class="fa fa-external-link"></i></a>, Januar 2018
+<div class='customer-logo'>
+<a target="_blank" href="https://www.shapepress.com"><img class="customer-logo mt-3" src="https://storage.googleapis.com/lima-city/ref-logos/shapepress.png" />
+</a></div>
+</div>
+</div>
+</div>
+<div class='product-review-item' style='background-image: url(&#39;https://www.lima-city.de/assets/layout/pr-bg-1-7c054b6c3936a7c0d90f23e23df27a3fdd2f732a9472a09031b8a498a856ad8f.jpg&#39;);'>
+<div class='product-review-thumb'>
+<img alt='' src='https://storage.googleapis.com/lima-city/ref-logos/eva_schreck.jpg'>
+</div>
+<div class='product-review-content'>
+<div class='product-review-text'>
+Bei lima-city bin ich seit Jahren sehr gut beim Thema Domain Registrierung und Webhosting aufgehoben, ob für meine Firma, meine Kunden oder auch privat. Erstklassiger Support ist hier selbstverständlich und die angebotene Lösung ist einfach und funktioniert zuverlässig - dafür zahle ich gerne das Premium Paket. 
+Ich sage wie immer Dankeschön und weiter so.
+</div>
+<div class='product-review-name'>
+<a target="_blank" href="https://tuteco.de">Eva Schreck, Geschäftsführerin & Principal Consultant bei .tuteco <i class="fa fa-external-link"></i></a>, Februar 2018
+<div class='customer-logo'>
+<a target="_blank" href="https://tuteco.de"><img class="customer-logo mt-3" src="https://storage.googleapis.com/lima-city/ref-logos/tuteco.png" />
+</a></div>
+</div>
+</div>
+</div>
+<div class='product-review-item' style='background-image: url(&#39;https://www.lima-city.de/assets/layout/pr-bg-4-0a47f3b96c1a4c6351825822a1e94eb394a5ee1a09e12adaef51303b4c28d1ed.jpg&#39;);'>
+<div class='product-review-thumb'>
+<img alt='' src='https://storage.googleapis.com/lima-city/ref-logos/benjamin_sen.png'>
+</div>
+<div class='product-review-content'>
+<div class='product-review-text'>
+Wir hosten all unsere Website- &amp; Cloud-Projekte bei lima-city und haben die stetigen Verbesserungen miterlebt. Rundum zufrieden, sowohl mit den Produkten als auch mit dem Service. 57 gehostete Domains sagen etwas darüber aus.
+</div>
+<div class='product-review-name'>
+<a target="_blank" href="https://artkurat.de/">Benjamin Sen <i class="fa fa-external-link"></i></a>, Februar 2018
+<div class='customer-logo'>
+<a target="_blank" href="https://artkurat.de/"><img class="customer-logo mt-3" src="https://storage.googleapis.com/lima-city/ref-logos/artkurat-cropped.png" />
+</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<!-- ! page rendered successfully -->
+
+<footer>
+<div class='container'>
+<div class='row'>
+<div class='col-md-3'>
+<a class='footer-logo' href='/'>
+<img src="/assets/layout/logo-06afd1c805e966c5058346b085603f6b67c98aaa14b79614af5d22350878c2aa.svg" />
+</a>
+<ul class='social-icons'>
+<li>
+<a class='fb' href='https://www.facebook.com/limacity/' rel='publisher noopener' target='_blank' title='lima-city bei Facebook'>
+<i class='fa fa-facebook'></i>
+</a>
+</li>
+<li>
+<a class='twitter' href='https://twitter.com/limacity' rel='publisher noopener' target='_blank' title='lima-city bei Twitter'>
+<i class='fa fa-twitter'></i>
+</a>
+</li>
+</ul>
+</div>
+<div class='col-md-6'>
+<div class='footer-navigation'>
+<h3>Navigation</h3>
+<ul>
+<li>
+<a href='/'>Startseite</a>
+</li>
+<li>
+<a href='/webhosting'>Webhosting</a>
+</li>
+<li>
+<a href='/webhosting/wordpress'>WordPress-Hosting</a>
+</li>
+<li>
+<a href='/webhosting/reseller'>Agentur- & Reseller-Hosting</a>
+</li>
+<li>
+<a href='/domains'>Domains</a>
+</li>
+<li>
+<a href='/domains/prepaid'>Prepaid-Domains</a>
+</li>
+<li>
+<a href='/vserver'>vServer</a>
+</li>
+<li>
+<a href='/cloud'>Cloud-VPS</a>
+</li>
+<li>
+<a href='/webhosting/webspace-kostenlos' title='Kostenloser, werbefreier Webspace'>kostenloser Webspace</a>
+</li>
+<li>
+<a href='/webhosting/bildung' title='Webhosting für Schulen, Universitäten, VHS-Kurse, Fortbildungen und Lehrveranstaltungen'>Hosting für Bildungszwecke</a>
+</li>
+<li>
+<a href='/partnerprogramm' title='Kunden werben und Geld verdienen im lima-city Partnerprogramm'>
+Partnerprogramm
+</a>
+</li>
+<li>
+<a href='/login'>Login</a>
+</li>
+<li>
+<a href='/community'>Community</a>
+</li>
+<li>
+<a href='https://blog.lima-city.de'>Blog</a>
+</li>
+<li>
+<a href='/hilfe'>Hilfe</a>
+</li>
+<li>
+<a href='/ueber-lima-city'>Über Uns</a>
+</li>
+<li>
+<a href='/ueber-lima-city#datacenter'>Rechenzentrum</a>
+</li>
+<li>
+<a href='/juristisches#agb'>AGB</a>
+</li>
+<li>
+<a href='/juristisches#impressum'>Impressum</a>
+</li>
+<li>
+<a href='/juristisches#datenschutzerklaerung'>Datenschutzerklärung</a>
+</li>
+<li>
+<a href='/juristisches#vertraege-kuendigen'>Verträge kündigen</a>
+</li>
+<li>
+<a href='http://lima-status.de'>Server-Status</a>
+</li>
+<li>
+<a href='https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage'>Online Dispute Resolution</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='col-md-3'>
+<div class='footer-contacts'>
+<div class='footer-contacts-item'>
+<strong>support@lima-city.de</strong>
++49 421/40 89 99 94
+<br>
+(Mo-Fr von 8:00-17:00 Uhr)
+</div>
+<div class='footer-contacts-item'>
+<strong>TrafficPlex GmbH</strong>
+Konsul-Smidt-Str. 90
+<br>
+28217 Bremen, Deutschland
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+<link as='script' href='/assets/jquery_1_8-47cad1cc1a361803b2d73964b6c69f8f7fd99f5b509ff7fe4ae88c7c1757408f.js' rel='preload'>
+<link as='script' href='/assets/application-54e16a755a2f136df557001d1176c37193845a0bff3b70f9369ac863df997532.js' rel='preload'>
+<script src="/assets/jquery_1_8-47cad1cc1a361803b2d73964b6c69f8f7fd99f5b509ff7fe4ae88c7c1757408f.js"></script>
+<script src="/assets/application-54e16a755a2f136df557001d1176c37193845a0bff3b70f9369ac863df997532.js"></script>
+<script>
+  var _paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//www.lima-city.de/tools/matomo/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+<div aria-label='Cookie-Einstellungen' aria-live='polite' class='cookie-banner' hidden id='cookie-banner' role='dialog'>
+<div class='cookie-banner__copy'>
+<strong>Hier, ein 🍪!</strong>
+<p>
+Wir nutzen essentielle Cookies, um unsere Seitenfunktionalität bereitzustellen. Marketing-Cookies helfen uns, Angebote zu verbessern.
+</p>
+</div>
+<div class='cookie-banner__actions'>
+<button class='btn btn-light cookie-banner__button' data-choice='essential' type='button'>
+Nur essentielle Cookies
+</button>
+<button class='btn btn-primary cookie-banner__button cookie-banner__button--primary' data-choice='marketing' type='button'>
+Marketing-Cookies erlauben
+</button>
+</div>
+</div>
+<script>
+  (function() {
+    var consentCookieName = 'lc_cookie_consent';
+    var banner = document.getElementById('cookie-banner');
+    if (!banner) { return; }
+  
+    var storedConsent = readConsent();
+    if (storedConsent) {
+      applyConsent(storedConsent);
+      return;
+    }
+  
+    banner.hidden = false;
+    banner.setAttribute('aria-hidden', 'false');
+    banner.classList.add('cookie-banner--visible');
+  
+    var buttons = banner.querySelectorAll('[data-choice]');
+    buttons.forEach(function(button) {
+      button.addEventListener('click', function() {
+        var choice = button.getAttribute('data-choice');
+        applyConsent(choice);
+        storeConsent(choice);
+        banner.classList.remove('cookie-banner--visible');
+        banner.setAttribute('aria-hidden', 'true');
+        banner.hidden = true;
+      });
+    });
+  
+    function applyConsent(choice) {
+      if (choice === 'marketing' && typeof window.gtag === 'function') {
+        window.gtag('consent', 'update', {
+          'ad_storage': 'granted',
+          'ad_user_data': 'granted',
+          'ad_personalization': 'granted',
+          'analytics_storage': 'granted'
+        });
+      }
+    }
+  
+    function storeConsent(value) {
+      var maxAge = 365 * 24 * 60 * 60; // 1 Jahr
+      var secure = window.location.protocol === 'https:' ? '; Secure' : '';
+      document.cookie = consentCookieName + '=' + value + '; Max-Age=' + maxAge + '; Path=/; SameSite=Lax' + secure;
+    }
+  
+    function readConsent() {
+      var match = document.cookie.match(new RegExp('(?:^|; )' + consentCookieName.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '=([^;]*)'));
+      return match ? decodeURIComponent(match[1]) : null;
+    }
+  })();
+</script>
+
+<script src="/assets/public_layout-a4c88b1f5971461caab8411bb23164811b83af86f35ad61dd06fba0eec17f235.js"></script>
+
+
+</body>
+</html>

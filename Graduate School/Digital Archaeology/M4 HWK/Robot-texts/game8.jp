@@ -1,0 +1,29 @@
+User-agent: Googlebot
+Disallow: /archives/search
+Disallow: /*?page=
+Disallow: /*&page=
+Disallow: /*?page%3d
+Disallow: /*?page%3D
+Disallow: /*?c_page=
+Disallow: /*&c_page=
+Disallow: /*/forums/
+Disallow: /*?markerid=
+Disallow: /*?darkschemeovr=
+Disallow: /*?p=
+Disallow: /*?noads_preregistration_id=
+Disallow: /*/comments
+Disallow: /*/search
+Disallow: /users/*
+Disallow: /*/preview
+Disallow: /dynamic_links/*
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+Sitemap: https://game8.jp/sitemaps/sitemap.xml.gz

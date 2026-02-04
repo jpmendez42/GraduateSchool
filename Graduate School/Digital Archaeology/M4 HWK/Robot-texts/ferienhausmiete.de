@@ -1,0 +1,59 @@
+User-agent: *
+Allow: /
+
+#Bewertungsformular Objekte
+
+Disallow: /bewerten.php?obj_nr*
+Disallow: *.htm?preview=1
+Disallow: *.htm?utm_source=recommandation
+Disallow: *.htm?booking_step=*
+Disallow: *?map=1
+Disallow: *?map=2
+Disallow: /anfrage.php?obj_nr*
+Disallow: /verwalten/*
+
+Disallow: /ferienwohnung-ferienhaus-urlaub/*?*
+Disallow: /vacation-rentals/*?*
+Disallow: /location-vacances-saisonniere/*?*
+Disallow: /apartamenty-domki-kwatery/*?*
+Disallow: /casa-vacanza-appartamento/*?*
+Disallow: /casa-vacaciones-apartamento/*?*
+Disallow: /appartement-vakantiehuis/*?*
+Disallow: /apartman-kuca-za-odmor/*?*
+Disallow: /urlaub/*?*
+
+Disallow: /familienurlaub/*
+Disallow: /barriere/*
+Disallow: /romantik/*
+Disallow: /bauernhof/*
+Disallow: /stadt/*
+Disallow: /fruehbucher/*
+
+Disallow: /sw.js
+Disallow: /OneSignalSDKWorker.js
+
+Sitemap: https://www.ferienhausmiete.de/sitemap/sitemap.xml
+
+User-agent: BUbiNG
+Disallow: /
+
+User-agent: Genieo
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: JamesBOT
+Disallow: /
+
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: SeznamBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /

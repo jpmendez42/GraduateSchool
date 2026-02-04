@@ -1,0 +1,1545 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="UTF-8">
+  <title>人材派遣・日々紹介・請負・業務委託管理システム-STAFF EXPRESS</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11">
+
+  <meta name="apple-mobile-web-app-title" content="人材派遣・日々紹介・請負・業務委託管理システム-STAFF EXPRESS">
+  <meta name="description"
+    content="人材派遣管理システムのSTAFF EXPRESS(スタッフエクスプレス)は、人材派遣の管理における総合パッケージシステムです。STAFF EXPRESSひとつで派遣・請負・紹介の業務をワンストップで管理。人材管理・人材ビジネス全般をカバーし、ビジネススタイルや市況の変化にも柔軟に対応します。">
+  <meta name="keywords" content="人材派遣管理システム,人材派遣ソフト,派遣管理,人材紹介管理システム,人材紹介管理ソフト,スタッフエクスプレス,STAFF EXPRESS">
+
+  <meta property="og:title" content="人材派遣・日々紹介・請負・業務委託管理システム-STAFF EXPRESS">
+  <meta property="og:site_name" content="人材派遣・日々紹介・請負・業務委託管理システム-STAFF EXPRESS">
+  <meta property="og:description"
+    content="人材派遣管理システムのSTAFF EXPRESS(スタッフエクスプレス)は、人材派遣の管理における総合パッケージシステムです。STAFF EXPRESSひとつで派遣・請負・紹介の業務をワンストップで管理。人材管理・人材ビジネス全般をカバーし、ビジネススタイルや市況の変化にも柔軟に対応します。">
+  <meta property="og:image" content="assets/images/ogimage.png">
+  <meta property="og:url" content="http://www.staffexpress.jp/">
+
+  <link rel="apple-touch-icon" href="https://www.staffexpress.jp/contents/common/icons/apple-touch-icon.png">
+  <link rel="icon" type="image/png" href="https://www.staffexpress.jp/contents/common/icons/favicon-16x16.png"
+    sizes="16x16">
+  <link rel="icon" type="image/png" href="https://www.staffexpress.jp/contents/common/icons/favicon-32x32.png"
+    sizes="32x32">
+  <link rel="icon" type="image/png" href="https://www.staffexpress.jp/contents/common/icons/android-chrome-192x192.png"
+    sizes="192x192">
+
+
+  <!--
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.css">
+  <link rel="stylesheet" href="./css/lib/slick.css" />
+  <link rel="stylesheet" href="./css/lib/slick-theme.css" />
+  -->
+  <link rel="stylesheet" href="./css/common.css">
+  <link rel="stylesheet" href="./css/top.css">
+  <link rel="stylesheet" href="./css/top_add.css">
+
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"
+    integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+  <!--
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.inview/1.0.0/jquery.inview.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll.min.js"></script>
+  <script src="./js/lib/slick.js"></script>
+  -->
+  <script src="./js/common.js"></script>
+
+  <script src="./js/top.js"></script>
+  <script>
+    $(function () {
+      // footerより下にスクロールで追従ボタン非表示
+      var footer = $('#footer').innerHeight();
+      window.onscroll = function () {
+        var point = window.pageYOffset;
+        var docHeight = $(document).height();
+        var dispHeight = $(window).height();
+
+        if (point > docHeight - dispHeight - footer) {
+          $('#fixed-nav').hide();
+        } else {
+          $('#fixed-nav').show();
+        }
+      };
+    });
+
+    jQuery(function ($) {
+      $(".faq dt").on("click", function () {
+        $(this).next().slideToggle(300);
+        $(this).toggleClass("open", 300);
+      });
+    });
+  </script>
+  <!--
+  <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
+  <script type="text/javascript">
+    $(function () {
+      const mySwiper01 = new Swiper('.swiper', {
+        slidesPerView: 'auto',
+        centeredSlides: true,
+        spaceBetween: 0,
+        grabCursor: true,
+        speed: 800,
+        loop: true,
+        autoplay: {
+          delay: 3000,
+          disableOnInteraction: false,
+        },
+        // breakpoints: {
+        //   600: {
+        //     slidesPerView: 2,
+        //   },
+        //   1025: {
+        //     slidesPerView: 3.8,
+        //     spaceBetween: 20,
+        //   }
+        // },
+      });
+
+      if ($(window).width() < 768) {
+        $(".about-service__scroll").scrollLeft(100);
+        $(".reason-01 .reason__body-img-scroll").scrollLeft(200);
+        console.log($(".reason-01 .reason__body-img-scroll"));
+      }
+    });
+  </script>
+  -->
+
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"> -->
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <link rel="preload" href="https://fonts.googleapis.com/css2?family=Barlow:wght@400;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+
+  <!-- Google Tag Manager -->
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WSNQKK3');</script>
+<!-- End Google Tag Manager -->
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '677264842736295');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=677264842736295&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+</head>
+
+<body id="body">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WSNQKK3" height="0" width="0"
+      style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <!--================ SSI header ================-->
+<header id="header">
+  <div class="header-inner">
+    <h1 class="header-logo">
+      <a href="/index.html"><img src="../images/common/logo.svg" alt="STAFF EXPRESS" width="240" height="28"></a> 
+    </h1>
+ 
+    <!--pc navi-->
+    <nav class="global-nav">
+  <ul>
+    <li class="toggle"> <a href="" class="js-header-toggle"><span>サービス</span></a>
+      <div class="ul-wrap">
+        <div class="ul-wrap-list before"> <a class="ul-wrap-list__ttl" href="/service">派遣先(人材受入)・派遣元(雇用企業)向け「オールインワン統合基盤サービス」</a>
+          <ol class="ul-wrap-list__list --blue">
+            <li><a href="/service/01.html"><span>利用申込</span></a></li>
+            <li><a href="/service/02.html"><span>事務所管理・情報提供</span></a></li>
+            <li><a href="/service/03.html"><span>応募者管理</span></a></li>
+            <li><a href="/service/04.html"><span>人材管理・入社手続き</span></a></li>
+            <li><a href="/service/05.html"><span>外国人あんしん就労</span></a></li>
+            <li><a href="/service/06.html"><span>コミュニケーション</span></a></li>
+            <li><a href="/service/07.html"><span>求人依頼～契約内容の確認</span></a></li>
+            <li><a href="/service/08.html"><span>案件・マッチング</span></a></li>
+            <li><a href="/service/09.html"><span>契約締結</span></a></li>
+            <li><a href="/service/10.html"><span>勤怠管理</span></a></li>
+            <li><a href="/service/11.html"><span>給与前払</span></a></li>
+            <li><a href="/service/13.html"><span>給与</span></a></li>
+            <li><a href="/service/13.html"><span>年末調整</span></a></li>
+            <li><a href="/service/14.html"><span>請求管理</span></a></li>
+            <li><a href="/service/15.html"><span>経営分析</span></a></li>
+            <li><a class="arrow" href="/movie"><span>運用動画まとめ</span></a></li>
+            <li><a class="arrow" href="/movie/manual.html"><span>実操作動画まとめ</span></a></li>
+            <li></li>
+            <li></li> <li></li>
+            <li><a class="building" href="/added-group.html"><span>複数法人で使える</span>
+            </a></li>
+            <li><a class="smh" href="/added_weblite.html"><span>スマホで使える</span></a></li>
+      
+          </ol>
+        </div>
+        <!-- /.ul-wrap-list -->
+        <!-- <div class="ul-wrap-list --green"> <a class="ul-wrap-list__ttl" href="/partner.html">人材受入会社向け STAFF EXPRESS
+            PARTNER＋</a>
+          <ol class="ul-wrap-list__list">
+            <li><a href="/partner.html#anc01"><span>ダッシュボード</span></a></li>
+            <li><a href="/partner.html#anc02"><span>求人依頼</span></a></li>
+            <li><a href="/partner.html#anc03"><span>契約締結</span></a></li>
+            <li><a href="/partner.html#anc04"><span>勤怠承認</span></a></li>
+            <li><a href="/partner.html#anc05"><span>請求処理</span></a></li>
+          </ol>
+        </div> -->
+        <!-- /.ul-wrap-list -->
+        <div class="ul-wrap-list --orange">
+          <a class="ul-wrap-list__ttl" href="/neo.html">就業スタッフ向け</a>
+
+
+          <ol class="ul-wrap-list__list --no-mark">
+            <li><a href="/neo.html"><span>- NEO</span></a></li>
+            <li><a href="/neoworks.html"><span>- NEOWORKS</span></a></li>
+          </ol>
+          <!-- <ul class="ul-wrap-list__list ">
+            <li><a href="/neo.html"><span>- STAFF EXPRESS NEO</span></a></li>
+            <li><a href="/neoworks.html"><span>- NEOWORKS</span></a></li>
+          </ul> -->
+        </div>
+        <!-- /.ul-wrap-list -->
+
+        <div class="ul-wrap-list --nolink">安心してご利用いただくために
+          <ul class="ul-wrap-list__list">
+            <li><a href="/support.html"><span>- 充実のサポート</span></a></li>
+            <li><a href="/security.html"><span>- 安心のセキュリティ</span></a></li>
+          </ul>
+        </div>
+        <!-- /.ul-wrap-list -->
+      </div>
+      <!-- /.ul-wrap -->
+    </li>
+    <li><a href="/number.html">数字で見るSTAFF EXPRESS</a></li>
+    <li><a href="/plan.html">料金</a></li>
+    <li><a href="/reason.html">選ばれる理由</a></li>
+    <!-- <li><a href="./case.html">導入事例</a></li> -->
+    <li><a href="/flow.html">導入の流れ</a></li>
+    <li><a href="/faq/index.html">よくある質問(FAQ)</a></li>
+    <li><a href="https://www.staffexpress.jp/blog/" target="_blank">お役立ちコラム</a></li>
+
+  </ul>
+</nav>
+
+<div id="drawer-trigger"> <span></span> </div>
+<!-- /#drawer-trigger -->
+
+    
+  </div>
+  <!-- /.header-inner -->
+  <!-- <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-bsgycumyvuwjmwlj.js"></script> -->
+  <script type="text/javascript" charset="utf-8" src="https://kenga.tech/heatmaps-wgidslbelqyvhbzg.js"></script>
+    <!-- ABテスト -->
+    <script type="text/javascript" charset="utf-8" src="https://kenga.tech/pop-ups-hovwklsizgyvaecm.js"></script>
+    <!-- /ABテスト -->
+</header>
+
+    <!--sp navi-->
+    <div id="drawer-nav">
+  <div class="drawer-nav__wrap">
+    <nav class="drawer-menu">
+      <ul>
+        <li class="toggle"> <a class="accordion-trigger downArrow" href="">- サービス</a>
+          <div class="ul-wrap accordion-target">
+            <ul>
+              <li class="ul-wrap-list before"> <a class="ul-wrap-list__ttl" href="/service">- 派遣先(人材受入)・派遣元(雇用企業)向け「オールインワン統合基盤サービス」</a>
+                <ol class="ul-wrap-list__list">
+                  <li><a href="/service/01.html"><span>利用申込</span></a></li>
+                  <li><a href="/service/02.html"><span>事務所管理・情報提供</span></a></li>
+                  <li><a href="/service/03.html"><span>応募者管理</span></a></li>
+                  <li><a href="/service/04.html"><span>人材管理・入社手続き</span></a></li>
+                  <li><a href="/service/05.html"><span>外国人あんしん就労</span></a></li>
+                  <li><a href="/service/06.html"><span>コミュニケーション</span></a></li>
+                  <li><a href="/service/07.html"><span>求人依頼～契約内容の確認</span></a></li>
+                  <li><a href="/service/08.html"><span>案件・マッチング</span></a></li>
+                  <li><a href="/service/09.html"><span>契約締結</span></a></li>
+                  <li><a href="/service/10.html"><span>勤怠管理</span></a></li>
+                  <li><a href="/service/11.html"><span>給与前払</span></a></li>
+                  <li><a href="/service/13.html"><span>給与</span></a></li>
+                  <li><a href="/service/13.html"><span>年末調整</span></a></li>
+                  <li><a href="/service/14.html"><span>請求管理</span></a></li>
+                  <li><a href="/service/15.html"><span>経営分析</span></a></li>
+                  <li><a class="arrow" href="/movie"><span>運用動画まとめ</span></a></li>
+                  <li><a class="arrow" href="/movie/manual.html"><span>実操作動画まとめ</span></a></li>
+                  <li><a class="building" href="/added-group.html"><span>複数法人で使える</span>
+                  </a></li>
+                  <li><a class="smh" href="/added_weblite.html"><span>スマホで使える</span></a></li>
+                </ol>
+              </li>
+              <!-- <li class="ul-wrap-list"> <a class="ul-wrap-list__ttl" href="/partner.html">- 人材受入会社向け STAFF EXPRESS
+                  PARTNER+</a>
+                <ol class="ul-wrap-list__list">
+                  <li><a href="/partner.html#anc01"><span>ダッシュボード</span></a></li>
+                  <li><a href="/partner.html#anc02"><span>求人依頼</span></a></li>
+                  <li><a href="/partner.html#anc03"><span>契約締結</span></a></li>
+                  <li><a href="/partner.html#anc04"><span>勤怠承認</span></a></li>
+                  <li><a href="/partner.html#anc05"><span>請求処理</span></a></li>
+                </ol>
+              </li> -->
+              <li class="ul-wrap-list">
+                <a class="ul-wrap-list__ttl" href="/neo.html">就業スタッフ向け</a>
+
+                <ol class="ul-wrap-list__list --hyphen">
+                  <li><a href="/neo.html"><span>NEO</span></a></li>
+                  <li><a href="/neoworks.html"><span>NEOWORKS</span></a></li>
+
+                </ol>
+
+
+              </li>
+              <li class="ul-wrap-list --hyphen">
+                <p class="ul-wrap-list__ttl">- 安心してご利用いただくために</p>
+                <ol class="ul-wrap-list__list">
+                  <li><a href="/support.html"><span>充実のサポート</span></a></li>
+                  <li><a href="/security.html"><span>安心のセキュリティ</span></a></li>
+                </ol>
+              </li>
+
+
+            </ul>
+          </div>
+        </li>
+        <li><a href="/number.html">- 数字で見るSTAFF EXPRESS</a></li>
+        <li><a href="/plan.html">- 料金</a></li>
+        <li><a href="/reason.html">- 選ばれる理由</a></li>
+        <!-- <li><a href="./case.html">- 導入事例</a></li> -->
+        <li><a href="/flow.html">- 導入の流れ</a></li>
+        <li><a href="/faq/index.html">- よくある質問(FAQ)</a></li>
+        <li><a href="https://www.staffexpress.jp/blog/" target="_blank">- お役立ちコラム</a></li>
+
+      </ul>
+    </nav>
+  </div>
+  <!-- /.drawer-nav__wrap -->
+</div>
+<!-- /#drawer-nav -->
+<!--================ /header ================-->
+
+
+  <main id="main">
+    <article>
+      <section class="mv">
+        <div class="wrap">
+          <div class="mv__grid">
+            <div class="mv__ttl">
+              <picture>
+                <source srcset="./images/top/mv_ttl_pc.webp" media="(min-width: 768px)" width="541" height="118" loading="lazy">
+                <img src="./images/top/mv_ttl_sp.webp" alt="人材ビジネスなら、これひとつ。" width="338" height="176">
+              </picture>
+            </div>
+            <!-- /.mv__ttl -->
+
+            <div class="mv__img">
+              <ul>
+                <li>
+                  <!-- <p class="ttl"><img src="./images/top/mv_ttl001.webp" alt="ご利用実績10,000社突破!" width="189" height="56" loading="lazy"></p> -->
+                  <p class="img"><img src="./images/top/mv_img001.webp" alt="人材受入会社" width="270" height="270" loading="lazy"></p>
+                </li>
+                <li>
+                  <!-- <p class="ttl"><img src="./images/top/mv_ttl002.webp" alt="ご利用ライセンス15,000突破!" width="180" height="56" loading="lazy"></p> -->
+                  <p class="img"><img src="./images/top/mv_img002.webp" alt="人材会社" width="270" height="270" loading="lazy"></p>
+                </li>
+              </ul>
+            </div>
+            <!-- /.mv__img -->
+
+            <div class="mv__price">
+              <!-- <img src="./images/top/mv_txt.webp" alt="人材業界をDX" width="266" height="43" loading="lazy"> -->
+              <div class="mv__btn">
+                <a href="https://www.staffexpress.jp/contents/contact/">資料請求・お問い合わせ</a>
+              </div>
+            </div>
+            <!-- /.mv__price -->
+          </div>
+          <!-- /.mv__grid -->
+        </div>
+        <!-- /.wrap -->
+      </section>
+
+
+      <!--===================
+          ANCHOR MENU
+        ====================-->
+      <section class="anchor">
+        <div class="wrap">
+          <ul>
+            <li class="anc_about">
+              <a href="#about">
+                <figure><img src="./images/top/icon_anchor_001.webp" alt="サービス紹介" width="57" height="70" loading="lazy"></figure>
+                <p class="txt">サービス紹介</p>
+              </a>
+            </li>
+            <li class="anc_number">
+              <a href="#number">
+                <figure><img src="./images/top/icon_anchor_002.webp" alt="数字で見るSTAFF EXPRESS" width="62" height="58" loading="lazy"></figure>
+                <p class="txt">数字で見る<br>STAFF EXPRESS</p>
+              </a>
+            </li>
+            <li class="anc_plan">
+              <a href="#plan">
+                <figure><img src="./images/top/icon_anchor_003.webp" alt="料金プラン" width="63" height="63" loading="lazy"></figure>
+                <p class="txt">料金プラン</p>
+              </a>
+            </li>
+            <li class="anc_reason">
+              <a href="#reason">
+                <figure><img src="./images/top/icon_anchor_004.webp" alt="選ばれる理由" width="63" height="64" loading="lazy"></figure>
+                <p class="txt">選ばれる理由</p>
+              </a>
+            </li>
+            <li class="anc_flow">
+              <a href="#flow">
+                <figure><img src="./images/top/icon_anchor_005.webp" alt="導入の流れ" width="68" height="60" loading="lazy"></figure>
+                <p class="txt">導入の流れ</p>
+              </a>
+            </li>
+            <li class="anc_faq">
+              <a href="#faq">
+                <figure><img src="./images/top/icon_anchor_006.webp" alt="よくあるご質問" width="63" height="64" loading="lazy"></figure>
+                <p class="txt">よくあるご質問</p>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <!-- /.anchor -->
+
+      <!--=============================
+          ABOUT
+        ==============================-->
+      <section class="about" id="about">
+        <div class="wrap">
+          <h2>派遣、紹介、請負、準委任、警備などに<br class="sp">関わるあらゆる取引に対応。<br>派遣元(雇用企業)と派遣先(受入企業)、<br class="sp">スタッフの情報を一元管理。</h2>
+          <div class="graph">
+            <p class="title-txt">ご利用実績</p>
+            <ul>
+              <li>
+                <figure><img src="./images/top/reason_graph_01.webp" alt="PARTNER+ご利用企業10,000社突破！" width="350" height="264" loading="lazy"></figure>
+                <p class="txt">派遣先(受入企業)</p>
+              </li>
+              <li>
+                <figure><img src="./images/top/reason_graph_02.webp" alt="EXPRESSシリーズご利用企業1,000社突破！15,000ライセンス超" width="350" height="264" loading="lazy"></figure>
+                <p class="txt">派遣元(雇用企業)</p>
+              </li>
+              <li>
+                <figure><img src="./images/top/reason_graph_03.webp" alt="NEOご利用スタッフ200,000円/月突破！" width="350" height="264" loading="lazy"></figure>
+                <p class="txt">スタッフ</p>
+              </li>
+            </ul>
+          </div>
+          <!-- /.graph -->
+          <div class="price">
+            <div class="item">
+              <span class="txt">初期費用</span>
+              <span class="num"><span>0</span>円</span>
+            </div>
+            <!-- /.item -->
+            <div class="item">
+              <span class="txt">月額</span>
+              <span class="num"><span>25,000</span>円～</span>
+            </div>
+            <!-- /.item -->
+          </div>
+          <!-- /.price -->
+        </div>
+        <!-- /.wrap -->
+      </section>
+
+      <!--===================
+          CTA
+        ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+      <!--=============================
+          SERVICE
+        ==============================-->
+      <section class="service">
+        <div class="wrap">
+          <div class="box">
+            <h2>圧倒的なオールインワンサービスで<br>業務管理をフルカバーします。</h2>
+            <figure class="sp"><img src="./images/top/service_image.webp" alt="圧倒的なオールインワンサービスで業務管理をフルカバーします。" width="384" height="544" loading="lazy"></figure>
+            <p class="txt">派遣元(雇用企業)、派遣先(受入企業)、スタッフの三者に及ぶオールインワンサービスをご提供しています。<br><span>上流工程から下流工程まで完全連動する</span>「業務のつながり」を通して、全体最適、理想的な業務管理を実現なさってください。</p>
+            <div class="btn"><a href="service/">サービスの全容を知る</a></div>
+          </div>
+          <figure class="map pc"><img src="./images/top/service_image.webp" alt="圧倒的なオールインワンサービスで業務管理をフルカバーします。" width="678" height="960" loading="lazy"></figure>
+        </div>
+        <!-- /.wrap -->
+      </section>
+      <!-- /.service -->
+
+      <!--=============================
+          COVER
+        ==============================-->
+      <section class="cover">
+        <div class="wrap">
+          <h2>STAFF EXPRESSは、<br>派遣、紹介、請負、準委任、警備における<br class="sp">幅広い管理業務をカバーしています。</h2>
+          <ul>
+            <li>
+              <a href="service/01.html">
+                <p class="txt">利用申込</p>
+                <figure><img src="./images/top/icon_cover_001.webp" alt="利用申込" width="61" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/02.html">
+                <p class="txt">事務所管理・情報提供</p>
+                <figure><img src="./images/top/icon_cover_002.webp" alt="事務所管理・情報提供" width="61" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/03.html">
+                <p class="txt">応募者管理</p>
+                <figure><img src="./images/top/icon_cover_003.webp" alt="応募者管理" width="75" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li class="navy">
+              <a href="service/04.html">
+                <p class="txt">人材管理・入社手続き</p>
+                <figure><img src="./images/top/icon_cover_004.webp" alt="人材管理・入社手続き" width="95" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/05.html">
+                <p class="txt">外国人あんしん就労</p>
+                <figure><img src="./images/top/icon_cover_005.webp" alt="外国人あんしん就労" width="85" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/06.html">
+                <p class="txt">コミュニケーション</p>
+                <figure><img src="./images/top/icon_cover_006.webp" alt="コミュニケーション" width="67" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/07.html">
+                <p class="txt">求人依頼〜契約内容の確認</p>
+                <figure><img src="./images/top/icon_cover_007.webp" alt="求人依頼〜契約内容の確認" width="40" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/08.html">
+                <p class="txt">案件・マッチング</p>
+                <figure><img src="./images/top/icon_cover_008.webp" alt="案件・マッチング" width="60" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/09.html">
+                <p class="txt">契約締結</p>
+                <figure><img src="./images/top/icon_cover_009.webp" alt="契約締結" width="62" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/10.html">
+                <p class="txt">勤怠管理</p>
+                <figure><img src="./images/top/icon_cover_010.webp" alt="勤怠管理" width="66" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/11.html">
+                <p class="txt">給与前払</p>
+                <figure><img src="./images/top/icon_cover_011.webp" alt="給与前払" width="59" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/13.html">
+                <p class="txt">給与</p>
+                <figure><img src="./images/top/icon_cover_012.webp" alt="給与" width="70" height="44" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/13.html">
+                <p class="txt">年末調整</p>
+                <figure><img src="./images/top/icon_cover_013.webp" alt="年末調整" width="101" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/14.html">
+                <p class="txt">請求管理</p>
+                <figure><img src="./images/top/icon_cover_014.webp" alt="請求管理" width="75" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+            <li>
+              <a href="service/15.html">
+                <p class="txt">経営分析</p>
+                <figure><img src="./images/top/icon_cover_015.webp" alt="経営分析" width="61" height="64" loading="lazy"></figure>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <!-- /.wrap -->
+      </section>
+      <!-- /.cover -->
+
+      <!--===================
+        CTA
+      ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+      <!--===================
+          ISSUE
+      ====================-->
+      <section class="issue" id="issue">
+        <div class="wrap">
+          <h2>サイロ化の罠(発生する課題例)</h2>
+          <p class="lead">部分最適にしかならないシステムの導入はサイロ化（業務プロセスや業務アプリケーション、<br class="pc">各種システムが孤立し、情報が連携されていない様子）によりDXが進まず、企業競争力を失います。</p>
+          <p class="btn"><a href="https://www.staffexpress.jp/blog/solution/siloization/">サイロ化とは</a></p>
+          <div class="cnt_block">
+            <div class="box no01">
+              <p><span>Excel・スプレッドシート</span>をかき集めて<span>なんとか運用</span></p>
+            </div>
+            <div class="box no02 rev">
+              <p><span>ツギハギ</span>だらけの<br class="sp"><span>複数システム</span>の運用</p>
+            </div>
+            <div class="box no03">
+              <p><span>自社開発への未練</span>があり、結果<br class="sp"><span>ツギハギ</span>だらけ</p>
+            </div>
+            <div class="box no04">
+              <p>複数システムに同じ情報を<br class="sp"><span>多重入力・転記</span></p>
+            </div>
+            <div class="box no05 rev">
+              <p>複数システムにある<br><em>データの不整合が起きる</em></p>
+            </div>
+            <div class="box no06">
+              <p><span>バケツリレー</span>による<br><span>システム間データ連携</span></p>
+            </div>
+            <div class="box no07 rev">
+              <p><em>複数システム</em>それぞれに<em>運用</em>と<br class="sp"><em>保守コストがかかる</em></p>
+            </div>
+            <div class="box no08">
+              <p>営業は別ツールを使っていて、<br><span>基幹システムとの情報が<br class="sp">遮断されている</span></p>
+            </div>
+            <div class="box no09 rev">
+              <p>結局<span>個別カスタマイズが必要</span></p>
+            </div>
+            <div class="box no10">
+              <p>業務プロセスの標準化が<br class="sp"><span>いっこうに進まない</span></p>
+            </div>
+            <div class="box no11 rev">
+              <p>一人あたりの業務量は<br><span>軽減どころか増えている</span></p>
+            </div>
+            <div class="box no12">
+              <p><span>人手不足</span>で内勤社員の<br class="sp"><span>採用もこまっている</span></p>
+            </div>
+            <div class="box no13 rev">
+              <p><span>社内リソース</span><br class="sp">を本来取り組むべき業務に<br><span>割り当てれない</span></p>
+            </div>
+            <div class="box no14">
+              <p><span>属人化</span>による<br class="sp"><span>ムラと習慣化によるムダ</span></p>
+            </div>
+            <div class="box no15 rev">
+              <p><span>我流の運用</span>仕組みになっている</p>
+            </div>
+            <div class="box no16">
+              <p><span>業務フロー</span>が<span>確立していない</span></p>
+            </div>
+            <div class="box no17 rev">
+              <p>部署や部門を超えたによる<br><span>コミュニケーション不足、<br class="sp">情報遮断、情報共有の遅さ</span></p>
+            </div>
+            <div class="box no18">
+              <p>リアルタイムとはかけ離れた<br class="sp"><span>タイムラグのある経営指標</span></p>
+            </div>
+            <div class="box no19 rev">
+              <p>全社横断的なデータの活用ができず<br class="sp"><span>「宝の持ち腐れ」</span></p>
+            </div>
+            <div class="box no20">
+              <p>意思決定の<span>スピードが落ちる</span></p>
+            </div>
+            <div class="box no21 rev">
+              <p><span>法令改正対応</span>が<span>二周遅れ</span></p>
+            </div>
+            <div class="box no22 rev">
+              <p>自社システムも実は<br class="sp"><em class="sm">業務適合性が高いわけではない</em></p>
+            </div>
+            <div class="box no23">
+              <p>外部環境、ビジネスの変化に<br class="sp"><span>柔軟に対応できない</span></p>
+            </div>
+            <div class="box no24 rev">
+              <p>お客様満足度<em class="lg">スタッフ満足度が下がる</em></p>
+            </div>
+          </div><!-- /.cnt_block -->
+          <div class="ph">
+            <picture>
+              <source srcset="images/top/issue_img_sp.webp" media="(max-width: 767px)" width="366" height="380">
+              <img src="images/top/issue_img_pc.webp" alt="イノベーションが起きない" loading="lazy" width="754" height="458">
+            </picture>
+          </div>
+        </div>
+      </section>
+      <!-- /.issue -->
+
+      <!--===================
+          INNOVATION
+      ====================-->
+      <section class="innv" id="innv">
+        <div class="wrap">
+          <h2>課題を解決し、<br class="sp">最善な状態をご提供します。</h2>
+          <div class="innv_block">
+            <ul>
+              <li>業務の自動化で<br>スピードアップ</li>
+              <li>Excel・スプレッドシート<br>依存からの<br class="sp">卒業</li>
+              <li>統合システムにより<br>部分最適が<br class="sp">全体最適へ</li>
+              <li>データの正確性</li>
+              <li>属人的業務の<br class="sp">排除による<br>業務標準化</li>
+              <li>ベスト<br>プラクティスな<br>運用</li>
+              <li>リアルタイムな<br>経営指標で<br class="sp">戦略策定</li>
+              <li>最大資産<br class="sp">(情報資産)を<br>一元管理</li>
+              <li class="img_box">
+                <picture>
+                  <source srcset="images/top/innv_main_sp.webp" media="(max-width: 767px)" width="673" height="470">
+                  <img src="images/top/innv_main_pc.webp" alt="課題を解決し、最善な状態をご提供します。" loading="lazy" width="327" height="350">
+                </picture>  
+              </li>
+              <li>ペーパレスで<br>オフィスから<br>紙がなくなる</li>
+              <li>DXの推進</li>
+              <li>管理コストの削減</li>
+              <li>スピーディーな<br>意思決定</li>
+              <li>データの<br>一元管理で<br class="sp">組織が活性化</li>
+              <li>従業員の<br>パフォーマンスの<br class="sp">最大化</li>
+              <li>迅速な法令遵守</li>
+              <li>スタッフ満足度向上</li>
+            </ul>
+          </div><!-- /.innv_block -->
+          <div class="cnt_block">
+            <div class="box">
+              <figure><img src="images/top/innv_img001.webp" alt="パフォーマンスの最大化" width="180" height="180"></figure>
+              <div class="txt_area">
+                <h3>パフォーマンスの<span>最大化</span></h3>
+                <p>STAFF EXPRESSの導入により、業務フローが明確に確立され、情報共有がスムーズに行われます。これにより、部署を超えたコミュニケーションが活性化し、属人化やムダが解消。内勤社員は本来の業務に集中でき、リソースが最適に配分されます。結果として、業務効率が向上し、組織全体の生産性が飛躍的に高まります。</p>
+              </div>
+            </div>
+            <div class="box">
+              <figure><img src="images/top/innv_img002.webp" alt="システム運用の最適化" width="180" height="180"></figure>
+              <div class="txt_area">
+                <h3>システム運用の<span>最適化</span></h3>
+                <p>STAFF EXPRESSでは、複数システム間のデータ整合性が確保され、業務プロセスが標準化されます。これにより、情報の多重入力や転記が不要になり、業務の属人化が解消。効率的なデータ連携が実現し、運用・保守コストが大幅に削減されます。結果として、一人あたりの業務量は軽減し、チーム全体がより生産的に機能する環境が整います。</p>
+              </div>
+            </div>
+            <div class="box">
+              <figure><img src="images/top/innv_img003.webp" alt="スピーディーな意思決定" width="180" height="180"></figure>
+              <div class="txt_area">
+                <h3><span>スピーディー</span>な意思決定</h3>
+                <p>STAFF EXPRESSの導入により、経営指標がリアルタイムで可視化され、全社横断的なデータ活用が実現します。これにより、情報の迅速な共有が促進され、意思決定のスピードが飛躍的に向上。データを最大限に活用することで、組織全体の戦略的な判断が可能となり、競争力の強化につながります。</p>
+              </div>
+            </div>
+            <div class="box">
+              <figure><img src="images/top/innv_img004.webp" alt="迅速な法令遵守対応" width="180" height="180"></figure>
+              <div class="txt_area">
+                <h3><span>迅速な</span>法令遵守対応</h3>
+                <p>STAFF EXPRESSでは、法令改正への対応が迅速化され、自社の業務適合性が向上します。リアルタイムでの法令情報の更新が可能となり、システムが自動的に必要な変更を反映。これにより、法令遵守が確実に行われ、リスクが軽減されます。結果として、安心して業務に専念できる環境が整い、企業の信頼性も高まります。</p>
+              </div>
+            </div>
+            <div class="box">
+              <figure><img src="images/top/innv_img005.webp" alt="組織の適応力が活性化" width="180" height="180"></figure>
+              <div class="txt_area">
+                <h3>組織の適応力が<span>活性化</span></h3>
+                <p>STAFF EXPRESSの導入により、外部環境やビジネスの変化に迅速かつ柔軟に対応できる体制が整います。リアルタイムのデータ分析により、市場ニーズを的確に把握し、サービスや業務プロセスを適宜調整可能。これにより、顧客満足度とスタッフ満足度が向上し、組織全体が活気に満ちた、競争力のある環境を実現します。</p>
+              </div>
+            </div>
+          </div><!-- /.cnt_block -->
+        </div>
+      </section>
+      <!-- /.innv -->
+  
+      <!--===================
+          CTA
+      ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+      <!--===================
+          NUMBER
+        ====================-->
+      <section class="number" id="number">
+        <div class="wrap">
+          <h2>数字で見ても、その実力は圧倒的です。</h2>
+          <h3>利用実績</h3>
+          <div class="block">
+            <figure class="pc"><img src="./images/number/achievements_bar_graph_01.png" alt="1,000社突破 15,000ライセンス型" width="975" height="430" loading="lazy"></figure>
+            <figure class="sp"><img src="./images/number/sp/achievements_bar_graph_01.png" alt="1,000社突破 15,000ライセンス型" width="375" height="381" loading="lazy"></figure>
+          </div><!-- /.block -->
+          <div class="block customer">
+            <div class="box">
+              <p class="txt">「オールインワン」プランを<br>ご利用のお客様</p>
+              <p class="sub">「ライト」プラン...2%　「スモール」プラン...1%</p>
+              <figure><img src="./images/number/achievements_pie_graph_01.png" alt="「オールインワン」プランを利用のお客様" width="155" height="155" loading="lazy"></figure>
+            </div>
+            <div class="box">
+              <p class="txt">ノンカスタマイズで<br>運用しているお客さま割合</p>
+              <p class="sub"></p>
+              <figure><img src="./images/number/achievements_pie_graph_02.png" alt="ノンカスタマイズで運用しているお客さま割合"  width="155" height="155" loading="lazy"></figure>
+            </div>
+          </div><!-- /.block -->
+          <div class="block ranking">
+            <div class="box">
+              <p class="txt">オールインワンによって<br>実現できたことランキング</p>
+              <figure><img src="./images/number/ranking_list.png" alt="オールインワンによって実現できたことランキング" width="458" height="162" loading="lazy"></figure>
+            </div>
+            <p class="txt sp">導入前の状況</p>
+            <figure class="pc"><img src="./images/number/ranking_graph.png" alt="導入前の状況" width="425" height="155" loading="lazy"></figure>
+            <figure class="sp"><img src="./images/top/number_before_sp.webp" alt="導入前の状況" width="335" height="418" loading="lazy"></figure>
+          </div><!-- /.block -->
+          <div class="block brushup">
+            <p class="txt">サービス開始からの<br class="sp">累計ブラッシュアップ件数</p>
+            <figure><img src="./images/number/brushup_number.png" alt="10,000点以上" width="338" height="110" loading="lazy"></figure>
+          </div><!-- /.block -->
+          <div class="block ratio">
+            <div class="box">
+              <p class="txt">DB.CLOUDの稼働率</p>
+              <figure><img src="./images/number/number_data_08.png" alt="99.9968%" width="167" height="115" loading="lazy"></figure>
+            </div>
+            <div class="box">
+              <p class="txt">直近1年間の<br>サービス利用継続率</p>
+              <figure><img src="./images/number/number_data_05.png" alt="97%" width="100" height="115" loading="lazy"></figure>
+            </div>
+            <div class="box">
+              <p class="txt">他会社との差別化が<br>できてると思う割合</p>
+              <figure><img src="./images/number/number_data_19.png" alt="84%以上" width="100" height="115" loading="lazy"></figure>
+            </div>
+          </div><!-- /.block -->
+          <div class="block account">
+            <div class="box">
+              <p class="ttl">1日1アカウントの利用料</p>
+              <p class="sub">オールインワンプランをソフトウェア購入で<br class="sp">20アカウントを5年利用した場合</p>
+            </div>
+            <div class="box num">
+              <figure><img src="./images/number/number_price.png" alt="200円" width="195" height="71" loading="lazy"></figure>
+              <p class="txt">コーヒー代より<br class="sp">お安く使えます！</p>
+            </div>
+          </div><!-- /.block -->
+          <div class="btn"><a href="number.html">STAFF EXPRESSのデータを詳しく見る</a></div>
+        </div>
+      </section>
+      <!-- /.number -->
+
+      <!--===================
+          CTA
+        ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+      <!--===================
+          PLAN
+        ====================-->
+      <section class="plan" id="plan">
+        <div class="wrap">
+          <h2>オールインワンがコストパフォーマンスを最大化します。</h2>
+          <figure class="pc"><img src="./images/top/plan_img.webp" width="973" height="464" alt="オールインワンがコストパフォーマンスを最大化します。" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/plan_img_sp.webp" width="345" height="433" alt="オールインワンがコストパフォーマンスを最大化します。" loading="lazy"></figure>
+          <p class="lead">
+            派遣、紹介、請負、準委任、警備業界特有の機能が網羅されていないサービスを利用するとき<br>
+            <span>アナログ業務が残ったままになったり、<br>
+            エクセルや複数システムを使って業務プロセスを補う</span>ことになります。<br>
+            この場合人的コストとして、<span>データ整合性や業務プロセスをつなぐ工数、<br>
+            属人化した業務の教育や管理</span>が発生し、業務効率が落ちます。<br>
+            多くの場合、「人的コスト」は「システムコスト」より、<span class="att">大幅なコスト高</span>となります。
+          </p>
+          <div class="area">
+            <div class="block all">
+              <p class="ttl"><span>All in one</span>オールインワンプラン</p>
+              <div class="box">
+                <p class="txt">全ての範囲を一元管理し<br>最大効率化をしたい場合にオススメ！</p>
+                <dl>
+                  <dt>サブスク</dt>
+                  <dd>￥<span>35,000～</span><em>/月</em></dd>
+                </dl>
+                <dl>
+                  <dt>買切価格</dt>
+                  <dd>￥<span>600,000～</span></dd>
+                </dl>
+                <ul>
+                  <li>採用管理</li>
+                  <li>人材管理</li>
+                  <li>案件管理</li>
+                  <li>契約管理</li>
+                  <li>勤怠管理</li>
+                  <li>給与管理</li>
+                  <li>請求管理</li>
+                  <li>実績管理</li>
+                </ul>
+              </div>
+            </div><!-- /.block -->
+            <div class="block light">
+              <p class="ttl"><span>Light</span>ライトプラン</p>
+              <div class="box">
+                <p class="txt">給与・請求計算を<br>別管理したい場合のオススメ！</p>
+                <dl>
+                  <dt>サブスク</dt>
+                  <dd>￥<span>30,000～</span><em>/月</em></dd>
+                </dl>
+                <dl>
+                  <dt>買切価格</dt>
+                  <dd>￥<span>500,000～</span></dd>
+                </dl>
+                <ul>
+                  <li>採用管理</li>
+                  <li>人材管理</li>
+                  <li>案件管理</li>
+                  <li>契約管理</li>
+                  <li>勤怠管理</li>
+                  <li class="none">給与管理</li>
+                  <li class="none">請求管理</li>
+                  <li class="none">実績管理</li>
+                </ul>
+              </div>
+            </div><!-- /.block -->
+            <div class="block small">
+              <p class="ttl"><span>Small</span>スモールプラン</p>
+              <div class="box">
+                <p class="txt">ミニマムで始めたい場合に<br>オススメ！</p>
+                <dl>
+                  <dt>サブスク</dt>
+                  <dd>￥<span>25,000～</span><em>/月</em></dd>
+                </dl>
+                <dl>
+                  <dt>買切価格</dt>
+                  <dd>￥<span>400,000～</span></dd>
+                </dl>
+                <ul>
+                  <li>採用管理</li>
+                  <li>人材管理</li>
+                  <li>案件管理</li>
+                  <li>契約管理</li>
+                  <li class="none">勤怠管理</li>
+                  <li class="none">給与管理</li>
+                  <li class="none">請求管理</li>
+                  <li class="none">実績管理</li>
+                </ul>
+              </div>
+            </div><!-- /.block -->
+          </div><!-- /.area -->
+          <div class="btn"><a href="plan.html">料金プランを詳しく見る</a></div>
+        </div>
+      </section>
+      <!-- /.plan -->
+
+      <!--===================
+          CTA
+        ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+      <!--===================
+          REASON
+        ====================-->
+      <section class="reason" id="reason">
+        <div class="wrap">
+          <h2>選ばれるために、<br class="sp">全ての課題を解決します。</h2>
+          <p class="lead">STAFF EXPRESSの<br class="sp">オールインワンシステムは、<br>皆さまが持つ業務課題を、<br class="sp">5つの軸で解決することができます。</p>
+          <p class="sub">派遣、紹介、請負、準委任、警備に関わる全ての人が利用できるサービスです。<br class="pc">派遣元(雇用企業)、派遣先(受入企業)、スタッフの情報を一元管理するオールインワンサービスです。</p>
+          <div class="block">
+            <figure><img src="./images/top/reason_img.webp" alt="選ばれるために、全ての課題を解決します。" width="566" height="587" loading="lazy"></figure>
+            <h3 class="sp">オールインワン</h3>
+            <div class="box num01">
+              <p class="ttl"><span>01.</span>派遣元(雇用企業)から派遣先(受入企業)の<br>スタッフ利用サービスまでご提供</p>
+              <p class="txt">派遣元 (雇用企業)、派遣先 (受入企業)のスタッフに及ぶ環境を一体的にDXすることで、全員の満足度向上へ。</p>
+            </div>
+            <h3 class="sp">社内業務管理一元化</h3>
+            <div class="box num02">
+              <p class="ttl"><span>02.</span>派遣元(雇用企業)、派遣先(受入企業)<br>のあらゆる業務を一元化</p>
+              <p class="txt">スタッフ・案件管理、配置、契約書、勤怠、給与前払、給与、請求まで一元管理します。派遣、紹介、業務請負のいずれも対応できます。</p>
+            </div>
+            <h3 class="sp">ペーパーレス</h3>
+            <div class="box num03">
+              <p class="ttl"><span>03.</span>すべての領域で、ペーパーレス。</p>
+              <p class="txt">今まで当たり前にかかっていた、書類を印刷するコスト、郵送コストを削減できます。</p>
+            </div>
+            <h3 class="sp">法令対応機能拡張</h3>
+            <div class="box num04">
+              <p class="ttl"><span>04.</span>法令対応も、迅速に</p>
+              <p class="txt">保守サービス範囲内で法令改正に準拠した書類作成やオペレーションをすることが可能です。</p>
+            </div>
+            <h3 class="sp">セキュリティ</h3>
+            <div class="box num05">
+              <p class="ttl"><span>05.</span>安心のセキュリティ</p>
+              <p class="txt">ISOを取得してお客様の大切なデータ(財産)を安全・確実にお預かりします。</p>
+            </div>
+          </div>
+          <div class="btn"><a href="reason.html">選ばれる理由を詳しく見る</a></div>
+        </div>
+      </section>
+      <!-- /.reason -->
+
+      <!--===================
+          CTA
+        ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+      <!--===================
+          FLOW
+        ====================-->
+      <section class="flow" id="flow">
+        <div class="wrap">
+          <h2>導入まで伴走して<br class="sp">サポートします。</h2>
+          <div class="area">
+            <div class="block">
+              <div class="box">
+                <p class="num">01</p>
+                <p class="ttl">製品＆料金説明</p>
+                <p class="txt">派遣ビジネスのDX実現に向けた、新しい世界を体感いただけます。</p>
+              </div>
+              <div class="box">
+                <p class="num">02</p>
+                <p class="ttl">無料個別相談</p>
+                <p class="txt">お客様の課題解決のために、個別の打ち合わせを何度でも行わせていただきます。</p>
+              </div>
+              <div class="box">
+                <p class="num">03</p>
+                <p class="ttl">補助金利用の検討</p>
+                <p class="txt">STAFF EXPRESSが認定を受けている助成金の利用についてご検討ください。</p>
+              </div>
+              <div class="box">
+                <p class="num">04</p>
+                <p class="ttl">ご注文〜環境構築</p>
+                <p class="txt">ご注文いただきましたら、1週間程度で、環境構築ならびにSTAFF EXPRESSをメールにて納品いたします。</p>
+              </div>
+              <div class="box">
+                <p class="num">05</p>
+                <p class="ttl">導入指導〜本番運用</p>
+                <p class="txt">認定インストラクターによるオンライン導入支援サービスを提供いたします。</p>
+              </div>
+            </div>
+          </div>
+          <div class="btn"><a href="flow.html">導入の流れを詳しく見る</a></div>
+        </div>
+      </section>
+      <!-- /.flow -->
+
+      <!--===================
+          CTA
+        ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+      <!--===================
+          VOICE
+        ====================-->
+      <section class="voice">
+        <div class="wrap">
+          <h2>ご利用していただいている方からも、<br class="sp">ご評価いただいています。</h2>
+          <div class="area">
+            <h3><span>Voice from CUSTOMER</span>プロダクト編</h3>
+            <div class="block">
+              <div class="box">
+                <figure><img src="./images/top/guest_man_01.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">エクセルから脱却できた！</div>
+                  <p>エクセルでの管理が主だったため、システムへの苦手意識があったけど操作が簡単で私も使えました！</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_01.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">不満の他システムから乗換えて満足！</div>
+                  <p>できないことが多く不満の多かった他システムからエクスプレスに変更出来て、内勤者が満足してます！</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_02.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">安心できた派遣システムの実績</div>
+                  <p>様々な派遣会社に使用されているノウハウと派遣システム一筋の導入実績が心強く、導入を決定しました。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_02.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">応募者増加のきっかけに！！</div>
+                  <p>「給与前払が可能」と応募時に掲載したら、一気に募集人数が大幅に増加しました！</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_03.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">内勤者の給与計算もできる！</div>
+                  <p>内勤者の給与管理もエクスプレスで出来たので、システムを使い分けなくて凄く便利になりました。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_03.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">バックオフィスの効率化200%!!</div>
+                  <p>管理人数を大幅削減でき、バックオフィスの作業効率は導入前と比べて200%はアップしていると思う。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_04.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">痒い所に手が届くシステムでした</div>
+                  <p>どれも似たような製品だと思ったので、当初は安い別システムを選んだが、結局エクスプレスに乗り換えました。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_04.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">グループ内の人材配置で活躍です。</div>
+                  <p>グループエディションでグループ会社間のスタッフ配置がスムーズにできて受注率がUPしました。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_05.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">紙の運用がほとんど無くなりました！</div>
+                  <p>契約書類、同意書、勤怠FAX、給与明細など、紙の管理がほぼなくなり、ペーパレス化がいっきに進みました。</p>
+                </div>
+              </div>
+            </div><!-- /.block -->
+          </div><!-- /.area -->
+          <div class="area">
+            <h3><span>Voice from CUSTOMER</span>保守サポート編</h3>
+            <div class="block">
+              <div class="box">
+                <figure><img src="./images/top/guest_man_05.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">ダイレクト問合せが便利です。</div>
+                  <p>システムから直接サポートチームへ問い合わせが出来き、回答のステータスも分かるので、やきもきしません！</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_01.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">導入研修サポートが手厚い！</div>
+                  <p>導入研修で分からない箇所は直ぐに答えてもらえるので、迷わず導入ができました。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_01.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">機能のアップデート案内が楽しみ！</div>
+                  <p>今回はどんな便利機能だろう！と機能バージョンアップの案内をワクワクしながら楽しみにしてます。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_02.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">本番導入までのサポートが手厚い</div>
+                  <p>システム導入に不安も多かったけどサポートチームの方の対応が手厚いフォローで無事導入完了できた。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_02.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">他のシステムからの乗り換えが簡単</div>
+                  <p>システム乗り換えが思ったより簡単でした。サポートの方のアドバイスとインポートツールで楽にできました！</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_03.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">社内へのシステム説明が助かりました。</div>
+                  <p>サポートではないけど、システム鳥瞰図が社内運用時にイメージを説明するのに凄く助かりました。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_03.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">親身にやさしい対応でした。</div>
+                  <p>サポートチームの親身な対応に好感が持てました。問い合わせの回答も丁寧で好感が持てます。</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_woman_04.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">法令対応がしっかりしてるので安心</div>
+                  <p>法令対応の案内を事前にして頂けるので、対応方針などシステムに安心してお任せできます！</p>
+                </div>
+              </div>
+              <div class="box">
+                <figure><img src="./images/top/guest_man_04.webp" alt="お客様" width="77" height="80" loading="lazy"></figure>
+                <div class="txtbox">
+                  <div class="ttl">手厚いマニュアルに助けられた！</div>
+                  <p>サポートチームに教えてもらったマニュアルが大活躍！ちょっとしたことなら自分で解決出来ちゃいます！</p>
+                </div>
+              </div>
+            </div><!-- /.block -->
+          </div><!-- /.area -->
+        </div>
+      </section>
+      <!-- /.voice -->
+
+      <!--===================
+          FAQ
+        ====================-->
+      <section class="faq" id="faq">
+        <div class="wrap">
+          <h2>疑問に答える、<br class="sp">準備ができています。</h2>
+          <dl>
+            <dt>納品から本稼働までに必要な期間の目安を教えてください。</dt>
+            <dd>お客様の規模により、本稼働までにご対応いただく内容やスケジュールも異なります。<br>
+              以下を目安として、ご覧ください。
+              <figure><img src="./images/faq/meyasu.webp" alt="お客様の規模により、本稼働までにご対応いただく内容やスケジュールも異なります。" width="533" height="300" loading="lazy"></figure>
+              これまで数百社以上を導入支援してきた専任研修担当がスケジュール策定からご支援いたしますのでご安心ください。納品から本稼働までのステップは<a href="https://staffexpress.jp/enhance/learning/siMS12s.pdf?_ga=2.167783009.1946067438.1721882853-2088216928.1720578752&_gac=1.20003530.1721136619.CjwKCAjwtNi0BhA1EiwAWZaANIoO_kfVBGCXcRH2ARjSB563DO5lJSyRHPGoQAlN-QJH9YCnaxp-exoCOisQAvD_BwE&_fsi=a2ooKU4o" target="_blank">こちら</a>からご確認いただけます。</dd>
+          </dl>
+          <dl>
+            <dt>どのような企業が利用していますか？</dt>
+            <dd>日本全国（47都道府県）の企業にご利用いただいています。<br>事業開始予定のスタートアップ企業から株式上場している企業まで、企業規模に関わらず幅広くご導入いただいています。<br>STAFF
+              EXPRESSは、人材ビジネス全般（人材派遣や人材紹介、業務委託、請負、日々紹介）に関わるすべての人が利用できる総合管理サービスを提供しており、多くの企業にお選びいただいています。</dd>
+          </dl>
+          <dl>
+            <dt>当社の事業規模では、使いこなせるか不安です...。</dt>
+            <dd>お客様のビジネス規模、成長に合わせて最適なプランをご提供していますのでご安心ください。<figure><img src="./images/faq/img_reason_02.webp" alt="選ばれる理由02" width="500" height="149" loading="lazy"></figure>
+            </dd>
+          </dl>
+          <dl>
+            <dt>内勤社員の給与計算も可能ですか。</dt>
+            <dd>スタッフエクスプレスでは、内勤社員の皆様方の労務管理としてSTAFF EXPRESSを利用可能です。<figure><img src="./images/faq/img_reason_04_01.webp" alt="選ばれる理由02" width="543" height="119" loading="lazy"></figure>
+            </dd>
+          </dl>
+          <dl>
+            <dt>グループ会社の導入も検討していますが、その分エクスプレスを使う必要がありますか。</dt>
+            <dd>その必要はありません。1つのSTAFF EXPRESSで一元管理が可能です。<figure><img src="./images/faq/img_reason_04_02.webp" alt="選ばれる理由02" width="400" height="100" loading="lazy">
+              </figure>
+            </dd>
+          </dl>
+          <dl>
+            <dt>法改正への対応はどうなっていますか？</dt>
+            <dd>追加費用をいただくことなく、法令改正に対応したバージョンを提供いたします。
+              <figure><img src="./images/faq/support02.webp" alt="サポート" width="510" height="255" loading="lazy"></figure>
+              各種帳票のテンプレートも法令改正に対応した内容へアップデートいたしますので、コンプライアンス面のリスクやコストを気にすることなくご利用いただけます。</dd>
+          </dl>
+          <dl>
+            <dt>セキュリティに関する外部認証を取得していますか？</dt>
+            <dd>
+              Pマーク（プライバシーマーク）、ISO9001、ISO2701、ISO27017を取得しています。<br>当社は、お客様の大切なデータ（財産）を安全・確実にお預かりするためにシステムセキュリティはもちろん、サービス提供事業者として組織的に取り組み、全社員が一丸となり事故を未然に防止する決意で運用しています。<br>詳しくは<a
+                href="security.html">セキュリティ</a>をご覧ください。
+              <div class="img_list">
+                <figure><img src="./images/faq/logo_security-01.webp" alt="セキュリティ" width="74" height="48" loading="lazy"></figure>
+                <figure><img src="./images/faq/logo_security-02.webp" alt="セキュリティ" width="74" height="48" loading="lazy"></figure>
+                <figure><img src="./images/faq/logo_security-03.webp" alt="セキュリティ" width="74" height="48" loading="lazy"></figure>
+                <figure><img src="./images/faq/logo_security-04.webp" alt="セキュリティ" width="74" height="48" loading="lazy"></figure>
+              </div>
+            </dd>
+          </dl>
+          <dl>
+            <dt>サブスクリプションプランと購入プランの違いを教えてください。</dt>
+            <dd>
+              サブスクリプションプランは、ライセンス利用料金を初期費用としてではなく、月額料金としてお支払いしていただく導入プランです。<br>スタートアップのお客様や、初めてのシステム導入で不安なお客様におススメです。<br>※会計上は「経費」扱いになります。<br>
+              購入プランは、ライセンス利用料金を初期費用としてお支払いいただくことで、月額費用を抑えて運用していく導入方法です。<br>補助金や助成金の対象となりやすく、どの規模のお客様にもおススメできる導入プランです。<br>※会計上は「資産」となります。<br>
+              サブスクリプションプランと購入プランは2.5～3年程度でトータルコストが分岐します。
+              <figure><img src="./images/faq/no7.webp" alt="プラン" width="393" height="168" loading="lazy"></figure>
+            </dd>
+          </dl>
+          <dl>
+            <dt>サブスクリプションプランから購入プランに切り替えることは可能ですか。</dt>
+            <dd>可能です。<br>ご希望のお客様は、弊社サポート窓口までご相談ください。</dd>
+          </dl>
+          <div class="btn"><a href="faq/">その他のFAQも見る</a></div>
+        </div>
+      </section>
+      <!-- /.faq -->
+
+      <!--===================
+          CTA
+        ====================-->
+      <section class="cta_block">
+        <div class="wrap">
+          <div class="box">
+            <p class="txt">派遣元(雇用企業)と<br class="sp">派遣先(受入企業)をつなぐ<br>総合業務支援なら、<br class="sp">これひとつ。</p>
+            <div class="btn"><a href="https://www.staffexpress.jp/contents/contact/" target="_blank">資料請求・お問い合わせ</a></div>
+          </div>
+          <figure class="pc"><img src="./images/top/cta_contact001.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="484" height="261" loading="lazy"></figure>
+          <figure class="sp"><img src="./images/top/cta_contact001_sp.webp" alt="人材派遣、人材紹介、業務請負ならこれひとつ。" width="189" height="169" loading="lazy"></figure>
+        </div>
+      </section>
+      <!-- /.cta_block -->
+
+    </article>
+  </main>
+
+  <div id="fixed-nav" class="fixed-nav">
+  <p class="close pc"><img src="/images/common/btn_cta_close.webp" alt="閉じる" width="72" height="72"></p>
+  <a href="https://www.staffexpress.jp/contents/contact/" target="_blank">
+    <picture class="btn pc">
+      <img src="/images/common/btn_cta.webp" alt="資料請求・お問い合わせ" width="360" height="89">
+    </picture>
+    <picture class="img">
+      <source media="(max-width: 767px)" srcset="/images/common/btn_cta.webp">
+      <img src="/images/common/btn_cta_img.webp" alt="資料請求・お問い合わせ" width="266" height="312">
+    </picture>
+  </a>
+</div>
+
+
+
+<!--================ SSI footer ================-->
+<footer id="footer">
+  <div class="footer__wrap">
+    <div class="footer-flex">
+
+      <div class="footer-address">
+        <div class="footer-logo"> <a href="https://www.si-system.jp/" target="_blank">
+            <img src="../../images/common/footer_logo.svg" alt="Si.System" width="111" height="117" loading="lazy">
+          </a> </div>
+        <!-- /.footer-logo -->
+        <h2 class="footer-address__ttl"> <a href="https://www.si-system.jp/" target="_blank"
+            style="color: #ffffff;">株式会社エスアイ・システム</a> </h2>
+        <ul class="footer-address__list">
+          <li><span>札幌本社</span><br>〒060-0002 札幌市中央区北2条西1丁目10番地 ピア2.1 9F</li>
+          <li><span>旭川オフィス</span><br>〒070-8004 <br class="sp">旭川市神楽4条6丁目1-15 第一レジデンス太陽の郷1F</li>
+        </ul>
+        <!-- <div class="footer-address__flex"> 
+          <span class="footer-address__tel">TEL:<span>011-522-9377</span></span>
+          <time class="footer-address__time">平日<span>9:30-17:30</span></time>
+        </div> -->
+        <!-- /.footer-address__flex -->
+        <!-- <div class="footer-address__notice">
+          <p>※12:00-13:00除く ※土/日/祝日/夏季•年末年始を除く</p>
+        </div> -->
+        <!-- /.footer-address__notice -->
+      </div>
+      <!-- /.footer-address -->
+      <div class="footer-service">
+        <!-- <h3 class="footer-service__ttl"><a href="./service/index.html">- STAFF EXPRESS</a></h3> -->
+        <nav class="footer-nav__main-ttl">
+          <ul>
+            <li class="footer-nav__main--top"><a href="https://www.staffexpress.jp/">サイトトップ</a></li>
+            <li>サービス</li>
+            <li><a href="/service/index.html">人材会社・人材受入会社向け<br>
+                 「オールインワン統合基盤サービス」</a></li>
+          </ul>
+        </nav>
+        <nav class="footer-service__nav">
+          <ul class="counter-list">
+            <li>
+              <a href="/service/01.html">
+                <span class="counter"></span><span>利用申込</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/02.html">
+                <span class="counter"></span><span>事務所管理・情報提供</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/03.html">
+                <span class="counter"></span><span>応募者管理</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/04.html">
+                <span class="counter"></span><span>人材管理・入社手続き</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/05.html">
+                <span class="counter"></span><span>外国人あんしん就労</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/06.html">
+                <span class="counter"></span><span>コミュニケーション</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/07.html">
+                <span class="counter"></span><span>求人依頼～契約内容の確認</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/08.html">
+                <span class="counter"></span><span>案件・マッチング</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/09.html">
+                <span class="counter"></span><span>契約締結</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/10.html">
+                <span class="counter"></span><span>勤怠管理</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/11.html">
+                <span class="counter"></span><span>給与前払</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/12.html">
+                <span class="counter"></span><span>給与</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/13.html">
+                <span class="counter"></span><span>年末調整</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/14.html">
+                <span class="counter"></span><span>請求管理</span>
+              </a>
+            </li>
+            <li>
+              <a href="/service/15.html">
+                <span class="counter"></span><span>経営分析</span>
+              </a>
+            </li>
+            <li>
+              <a href="/movie/">
+                <span class="footer-movie">運用動画まとめ</span>
+              </a>
+            </li>
+            <li>
+              <a href="/movie/manual.html">
+                <span class="footer-movie">実操作動画まとめ</span>
+              </a>
+            </li>
+          
+            <li>
+              <a href="/added-group.html">
+                <span class="footer-building">複数法人で使える</span>
+              </a>
+            </li>
+            <li>
+              <a href="/added_weblite.html">
+                <span class="footer-smh">スマホで使える</span>
+              </a>
+            </li>
+          </ul>
+        
+          <nav class="footer-nav__main">
+            <ul>
+              <li>就業スタッフ向け</li>
+              <li>
+                <a href="/neo.html">
+                  <span>-　NEO</span>
+                </a>
+              </li>
+              <li>
+                <a href="/neoworks.html">
+                  <span>-　NEOWORKS</span>
+                </a>
+              </li>
+            </ul>
+          </nav>
+        
+          <nav class="footer-nav__main">
+            <ul>
+              <li>安心してご利用いただくために</li>
+              <li><a href="/support.html"><span>-　充実のサポート</span></a></li>
+              <li><a href="/security.html"><span>-　安心のセキュリティ</span></a></li>
+            </ul>
+          </nav>
+        </nav>
+        
+
+        <!-- /.footer-service__flex -->
+      </div>
+      <!-- /.footer-service -->
+      <nav class="footer-nav">
+        <ul>
+          <li><a href="/number.html">数字で見るSTAFF EXPRESS</a></li>
+
+
+          <li><a href="/plan.html">料金</a></li>
+
+          <li><a href="/reason.html">選ばれる理由</a></li>
+          <li><a href="/flow.html">導入の流れ</a></li>
+          <li><a href="/faq/index.html">よくある質問(FAQ)</a>
+            <ul class="footer-nav__item">
+              <li><a href="/faq/index.html">-　導入</a></li>
+              <li><a href="/faq/price.html"><span>-　料金</span></a></li>
+              <li><a href="/faq/service.html"><span>-　サービス</span></a></li>
+              <li><a href="/faq/function.html"><span>-　サービス(機能)</span></a></li>
+              <li><a href="/faq/support.html"><span>-　サポート</span></a></li>
+              <li><a href="/faq/security.html"><span>-　セキュリティ</span></a></li>
+              <li><a href="/faq/it.html"><span>-　IT導入補助金</span></a></li>
+            </ul>
+
+          </li>
+          <li><a href="/blog">お役立ちコラム</a></li>
+          <li><a href="/case.html">導入事例</a></li>
+          <li><a href="/feature.html">機能一覧</a></li>
+          <li><a href="/report.html">帳票サンプル</a></li>
+
+
+
+        </ul>
+      </nav>
+    </div>
+    <!-- /.footer-flex -->
+  </div>
+  <!-- /.wrap -->
+  <div class="copyright"> <small>COPYRIGHT (C) SI.SYSTEM CO., LTD. ALL RIGHTS RESERVED.</small> </div>
+  <!-- /.copyright -->
+</footer>
+<!--================ /footer ================-->
+</body>
+
+</html>

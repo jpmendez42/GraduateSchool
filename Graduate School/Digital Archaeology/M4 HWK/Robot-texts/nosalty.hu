@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /kereses/
+Disallow: /*?adag=*
+Disallow: /preview/
+Disallow: /receptkonyv/
+
+Sitemap: https://www.nosalty.hu/sitemap.xml
+Sitemap: https://www.nosalty.hu/sitemap-news.xml

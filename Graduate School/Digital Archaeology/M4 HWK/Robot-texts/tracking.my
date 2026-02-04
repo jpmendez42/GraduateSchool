@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.tracking.my/sitemap.xml
+Sitemap: https://www.tracking.my/sitemap-link.xml
+User-agent: grapeshot
+Disallow:

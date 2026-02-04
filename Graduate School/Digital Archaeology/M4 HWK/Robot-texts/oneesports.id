@@ -1,0 +1,15 @@
+User-Agent: *
+Crawl-delay: 5
+Disallow: /search/
+Disallow: /?s=
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /jp/sitemap.xml
+Sitemap: https://www.oneesports.gg/sitemap_index.xml
+
+User-agent: Bytespider
+User-agent: Amazonbot
+User-agent: CCBot
+User-agent: Claude-Web
+User-agent: ClaudeBot
+Disallow: /

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /opencms/opencms/system/
+Allow: /sitemap.xml
+Allow: /opencms/opencms/
+Allow: /downloadservices/
+Allow: /opencms/export/my_template/resources/
+Disallow: /
+
+Sitemap: https://www.acquistinretepa.it/sitemap.xml

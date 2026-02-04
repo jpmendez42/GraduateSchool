@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://re-feed.jp/sitemap.xml
+Sitemap: https://re-feed.jp/sitemap.rss
+

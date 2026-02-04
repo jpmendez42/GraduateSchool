@@ -1,0 +1,105 @@
+User-Agent: *
+Disallow: /auth/
+Disallow: /personal/
+Disallow: /export/
+Disallow: /*index.php
+Disallow: /*search/
+Disallow: /*slide_show/
+Disallow: /*gallery*order=*
+Disallow: /*print=
+Disallow: /*register=
+Disallow: /*password=
+Disallow: /*login=
+Disallow: /*logout=
+Disallow: /*auth=
+Disallow: /*action=
+Disallow: /*bitrix_*=
+Disallow: /*backurl
+Disallow: /*back_url
+Disallow: /*print_course=Y
+Disallow: /*COURSE_ID=
+Disallow: /*SHOWALL
+Disallow: /*show_all=
+Disallow: /*?sort
+Disallow: /*?bxajaxid=
+Disallow: */filter/*/*/*/
+Disallow: /*filter/price_sku/
+Disallow: /*=desc
+Disallow: /*?view=
+Disallow: /*ajax/
+Disallow: /*resize=320
+Disallow: /*bxajaxid=
+Disallow: /*arrFilter
+Disallow: /*set_filter
+Disallow: /catalog/novinki/devochkam/
+Disallow: *tagtag_uid*
+Disallow: *back_url_admin=*
+Disallow: *view=*
+Disallow: *sort-*
+Disallow: *city=*
+Disallow: *CITY_ID=*
+Disallow: *on&*
+Disallow: */ajax/*
+Disallow: */?agegirls=*
+Disallow: */?&on*
+Disallow: */?_utl_t=*
+Disallow: */?ad*
+Disallow: */?cat_geu=*
+Disallow: */?division=*
+Disallow: */?f*
+Disallow: */?lang=*
+Disallow: *?on*
+Disallow: */?p*
+Disallow: */?resize=*
+Disallow: */?s*
+Disallow: */?ref=*
+Disallow: */?source=*
+Disallow: */?clear_cache=*
+Disallow: *?p=*
+Disallow: */by/*
+Disallow: */ru/*
+Disallow: */kz/*
+Disallow: */uz/*
+Disallow: */en/*
+Disallow: */?external_browser_redirect*
+Disallow: *?target*
+Disallow: *?rt_t*
+Disallow: */Jenschinam/*
+Disallow: *?hl*
+Disallow: *?msclkid*
+Disallow: *?dev*
+Disallow: *?resize*
+Disallow: *?cat=*
+Disallow: *?city_id*
+Disallow: *?new=Y           # новая страница
+Disallow: *?edit=           # редактирование
+Disallow: *?preview=        # предпросмотр
+Disallow: *forgot_password= # забыли пароль
+Disallow: *change_password= # изменить пароль
+Disallow: /*index.php$      # дубли страниц index.php
+Disallow: *TYPE=
+Disallow: /*utm*=           # ссылки с utm-метками
+Disallow: /*openstat=       # ссылки с метками openstat
+Disallow: /*from=           # ссылки с метками from
+Disallow: /*clid=           # ссылки с метками clid
+Disallow: /*gad_source=     # ссылки с метками gad_source
+Disallow: *?__*
+Disallow: *?billnumber*
+Disallow: *?mindbox-message-key*
+Disallow: */certificates*
+Disallow: *?m-message-key-id*
+
+Allow: */upload/            # открываем папку с файлами uploads
+Allow: *.js
+Allow: *.css
+Allow: /local/*.jpg
+Allow: /local/*.jpeg
+Allow: /local/*.webp
+Allow: /local/*.png
+Allow: /local/*.gif
+
+Clean-param: _gl&click_id&m_debug&orderid&disableGlobalInfoCollect&etext&theme&mbstx&tid&_currency&order&ved&etext&tid&mbst&ybaip
+
+Sitemap: https://markformelle.by/sitemap-main.xml
+Sitemap: https://markformelle.by/images_sitemap.xml
+Sitemap: https://markformelle.by/sitemap_filter.xml

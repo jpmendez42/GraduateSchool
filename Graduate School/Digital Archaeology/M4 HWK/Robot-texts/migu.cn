@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" id="filterGray">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="referrer" content="origin">
+        <!-- <meta charset="utf-8" name="referrer" content="no-referrer"> -->
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+        <link rel="icon" type="image/png" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+        <meta name="description" content="咪咕文化科技有限公司（简称“咪咕公司”）是中国移动面向移动互联网领域设立，负责数字内容运营的专业公司。致力于通过文化+科技，满足人民群众的美好生活需要。目前，已成为国内领先的全场景品牌沉浸平台和正版数字内容汇聚平台。">
+        <meta name="keywords" content="咪咕、咪咕文化、咪咕体育、咪咕阅读、咪咕音乐、咪咕视讯、咪咕数媒、咪咕新空、咪咕互娱">
+        <title>咪咕-以新质内容焕彩美好生活</title>
+        <script type="application/javascript">
+            // 接入amber
+            var _amberConfig = _amberConfig || [];
+            window._amberConfig = _amberConfig;
+            let appKey = 'fd5f6b1e18da419386f990e7b0edd543' // 测试
+            if (window.location.host === 'www.migu.cn') {
+                appKey = 'e75dabb9bebe4894a57b1fc26e7342bb' // 正式
+            }
+            (function(){
+                var etm = 1 * Date.now();
+                _amberConfig.push(['_enterTime', etm]);
+                _amberConfig.push(['_accountId', appKey]);
+                _amberConfig.push(['_trackSwitch', '00']);
+                _amberConfig.push(['_isInBrowser', true]);
+                (function() {
+                    var vds = document.createElement('script');
+                    vds.type='text/javascript';
+                    vds.async = true;
+                    vds.src = 'https://ambersdk.migu.cn/uemjs/amber-web-sdk-min.js';
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(vds, s);
+                })();
+            })();
+        </script>
+      <script type="module" crossorigin src="/assets/index-DTkoZL7h.js"></script>
+      <link rel="stylesheet" crossorigin href="/assets/index-ALcGBEmO.css">
+      <script type="module">import.meta.url;import("_").catch(()=>1);(async function*(){})().next();if(location.protocol!="file:"){window.__vite_is_modern_browser=true}</script>
+      <script type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+    </head>
+    <body>
+        <div id="app"></div>
+        <script>
+            // 浏览器兼容性判断
+            if (/Trident/.test(window.navigator.userAgent) && !(/browserVersionLow/.test(window.location.href))) {
+                window.location.href = 'browserVersionLow.html'
+            }
+        </script>
+        <!-- <script
+            src="https://code.jquery.com/jquery-2.2.4.min.js"
+            integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44="
+            crossorigin="anonymous">
+        </script> -->
+        <!-- <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script> -->
+        <!-- <script type="application/javascript" src="https://passport.migu.cn/popup/login?sourceid=208086&id=J_LoginBtn"></script> -->
+      <script nomodule>!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+      <script nomodule crossorigin id="vite-legacy-polyfill" src="/assets/polyfills-legacy-IgS3OHHW.js"></script>
+      <script nomodule crossorigin id="vite-legacy-entry" data-src="/assets/index-legacy-B8nEZ5iO.js">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+    </body>
+</html>

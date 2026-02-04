@@ -1,0 +1,66 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/wpo-plugins-tables-list.json
+Allow: /wp-admin/admin-ajax.php
+#
+# Promo images 
+Disallow: /wp-content/2025/09/Valdemarsro-app.jpg
+Disallow: /wp-content/2025/09/madplan_12.png
+Disallow: /wp-content/2025/09/madplan_11.jpg
+Disallow: /wp-content/2025/09/madplan_10.gif
+Disallow: /wp-content/2025/09/madplan_8-scaled.jpg
+Disallow: /wp-content/2025/09/madplan_7-scaled.jpg
+Disallow: /wp-content/2025/09/Madplan_5.jpg
+Disallow: /wp-content/2025/09/madplan_4.png
+Disallow: /wp-content/2025/09/Madplan_3.jpg
+Disallow: /wp-content/2025/09/Madplan_2.jpg
+Disallow: /wp-content/2025/09/Madplan_1.jpg
+Disallow: /wp-content/2025/09/Indkoeb_5.png
+Disallow: /wp-content/2025/09/Indkoeb_4.gif
+Disallow: /wp-content/2025/09/Indkoeb_2.gif
+Disallow: /wp-content/2025/09/indkoeb_1.jpg
+Disallow: /wp-content/2025/09/Favoritter_5.gif
+Disallow: /wp-content/2025/09/Favoritter_4.gif
+Disallow: /wp-content/2025/09/Favoritter_3.gif
+Disallow: /wp-content/2025/09/favoritter_2.jpg
+Disallow: /wp-content/2025/09/favoritter_1.jpg
+Disallow: /wp-content/2025/09/premium_2.jpg
+Disallow: /wp-content/2025/09/premium_1.jpg
+Disallow: /wp-content/2025/09/reklamefri_1-1.jpg
+Disallow: /wp-content/2025/09/madplan-14.jpg
+Disallow: /wp-content/2025/09/madplan-12-1.jpg
+Disallow: /wp-content/2025/09/madplan-11.jpg
+Disallow: /wp-content/2025/09/madplan-10.jpg
+Disallow: /wp-content/2025/09/madplan-6.jpg
+Disallow: /wp-content/2025/09/madplan-3.jpg
+Disallow: /wp-content/2025/09/madplan-2.jpg
+Disallow: /wp-content/2025/09/Madplan-1.jpg
+Disallow: /wp-content/2025/09/indkoebsliste-3.jpg
+Disallow: /wp-content/2025/09/Indkoebsliste-2.jpg
+Disallow: /wp-content/2025/09/indkoebsliste-1.gif
+Disallow: /wp-content/2025/09/premium-1.jpg
+Disallow: /wp-content/2025/09/reklamefri_1.jpg
+Disallow: /wp-content/2025/09/Favoritter-4.jpg
+Disallow: /wp-content/2025/09/Favoritter-3.jpg
+Disallow: /wp-content/2025/09/favoritter-2.jpg
+Disallow: /wp-content/2025/09/favoritter-1.jpg
+Disallow: /wp-content/2025/05/Vegetar_aftensmad_nyhed_1.jpg
+Disallow: /wp-content/2025/05/Vegetar_aftensmad_nyhed_2.jpg
+Disallow: /wp-content/2025/05/Vegetar_aftensmad_nyhed_2-1.jpg
+Disallow: /wp-content/2025/05/Vegetar_aftensmad_nyhed_1-1.jpg
+
+
+User-agent: *
+Disallow: /wp-content/wpo/wpo-plugins-tables-list.json
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.valdemarsro.dk/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,9 @@
+User-agent: Twitterbot
+Disallow:
+
+User-Agent: FacebookBot
+Crawl-delay: 20
+
+User-agent: *
+Disallow:
+Crawl-delay: 10

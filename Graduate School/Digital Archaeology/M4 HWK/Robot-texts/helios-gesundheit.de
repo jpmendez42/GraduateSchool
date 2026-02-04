@@ -1,0 +1,8 @@
+User-agent:*
+
+Allow:/
+Sitemap: https://www.helios-gesundheit.de/sitemap.xml
+
+Disallow: /*?id=*
+Disallow: /*&amp;id=*
+Disallow: /*&amp;amp;id=*

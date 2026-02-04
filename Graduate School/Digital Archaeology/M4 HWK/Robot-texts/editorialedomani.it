@@ -1,0 +1,29 @@
+User-agent: *
+
+Disallow: /*?user=
+Disallow: /*&user=
+Disallow: /*?__twitter_impression=
+Disallow: /*&__twitter_impression=
+Disallow: /*?__FB_PRIVATE_TRACKING__=
+Disallow: /*&__FB_PRIVATE_TRACKING__=
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /*version/
+Disallow: /*?path=
+Disallow: /*&path=
+Disallow: /*?q=
+Disallow: /*&q=
+Disallow: /*?view=
+Disallow: /*&view=
+Disallow: /*?code=
+Disallow: /*&code=
+Disallow: /*?ref=
+Disallow: /*&ref=
+Disallow: /*?product_id=
+Disallow: /*&product_id=
+Disallow: /*?plan_id=
+Disallow: /*&plan_id=
+Disallow: /*?is_gift=
+Disallow: /*&is_gift=
+
+Sitemap: https://www.editorialedomani.it/sitemaps/sitemap_index.xml

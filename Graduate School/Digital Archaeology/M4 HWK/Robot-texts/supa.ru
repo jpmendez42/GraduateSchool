@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /create/search*
+Disallow: /app/*
+Disallow: /*?
+Allow: /blog?page=*
+Allow: /*.css$
+Allow: /*.css?
+Allow: /*.js$
+Allow: /*.js?
+Allow: /*.ttf$
+Allow: /*.ttf*?
+Allow: /*.woff$
+Allow: /*.woff*?
+Allow: /*.woff2$
+Allow: /*.woff2*?
+Clean-param: ref

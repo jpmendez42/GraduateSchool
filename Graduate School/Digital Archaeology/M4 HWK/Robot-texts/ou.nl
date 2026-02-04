@@ -1,0 +1,22 @@
+User-Agent: "Siteimprove crawler"
+Disallow: /
+User-Agent: *
+Disallow: /web/studieaanbod/
+Disallow: /web/informatica/
+Disallow: /web/cultuurwetenschappen/
+Disallow: /web/managementwetenschappen/
+Disallow: /web/natuurwetenschappen/
+Disallow: /web/psychologie/
+Disallow: /web/rechtswetenschappen/
+Disallow: /web/nieuws-en-agenda/
+Disallow: /web/studeren/
+Disallow: /web/over-ons/
+Disallow: /web/senior-digi-vaardig/
+Disallow: /*p_p_id
+Disallow: /*p_auth
+Disallow: /*p_l_back_url
+Disallow: /*redirecter
+Disallow: */zoekresultaten
+Allow: /*p_p_id=UserProfileViewer_WAR_userprofileportlets_cws
+Allow: /*p_p_id=UserProfileViewer_WAR_profieldienst
+Sitemap: https://www.ou.nl/sitemap.xml

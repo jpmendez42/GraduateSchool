@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /$
+Allow: /cas/login
+Allow: /portail/*
+Allow: /config/config.json
+Disallow: /

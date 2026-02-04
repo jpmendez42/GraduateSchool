@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-login.php
+Disallow: /wp-register.php
+Disallow: /cgi-bin/
+Disallow: /xmlrpc.php
+Allow: /wp-content/themes/
+Allow: /wp-content/uploads/
+Allow: /wp-content/smush-webp/
+Allow: /wp-content/uploads-webpc/

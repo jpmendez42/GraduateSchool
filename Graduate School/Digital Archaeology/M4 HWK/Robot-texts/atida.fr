@@ -1,0 +1,42 @@
+## v-2025-07-07-1
+## https://www.atida.fr
+
+Sitemap: https://www.atida.fr/media/sitemap/fr/sitemap-index.xml
+
+User-agent: Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)
+Disallow: /*
+
+User-agent: yandex
+Disallow: *
+
+User-agent: gecko
+Disallow: *
+
+User-agent: *
+
+Disallow: /checkout/
+Disallow: /wishlist/
+Disallow: /customer/account/
+Disallow: /search
+Disallow: /catalogsearch/
+Disallow: /*/account
+Disallow: /catalog/product/view/
+
+Disallow: /*?brand=
+Disallow: /*&brand=
+Disallow: /*brand_subbrand=
+Disallow: /*search_query=
+Disallow: /*format=
+Disallow: /*skin_type=
+Disallow: /*hair_type=
+Disallow: /*taste=
+Disallow: /*color=
+Disallow: /*size=
+Disallow: /*spf=
+Disallow: /*absorption_level=
+Disallow: /*vitamins=
+Disallow: /*minerals=
+Disallow: /*queryID=
+Disallow: /*__cn_tracker=
+Disallow: /*price=
+Disallow: /*page=

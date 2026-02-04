@@ -1,0 +1,14 @@
+# robots.txt PULS 24
+
+User-agent: *
+Disallow: /suche
+Disallow: /images/large/*
+
+User-agent: Mediapartners-Google
+Disallow:
+
+Sitemap: https://www.puls24.at/sitemaps/article/sitemap.xml
+Sitemap: https://www.puls24.at/sitemaps/video/sitemap.xml
+Sitemap: https://www.puls24.at/sitemaps/show/sitemap.xml
+Sitemap: https://www.puls24.at/sitemaps/google_news.xml
+Sitemap: https://www.puls24.at/rssfeed

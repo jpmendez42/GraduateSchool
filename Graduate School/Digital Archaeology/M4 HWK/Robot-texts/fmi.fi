@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /image/
+Disallow: /documents/
+Sitemap: https://www.ilmatieteenlaitos.fi/sitemap.xml
+Sitemap: https://www.ilmatieteenlaitos.fi/local-weather-sitemap.xml
+Clean-param: p_auth /

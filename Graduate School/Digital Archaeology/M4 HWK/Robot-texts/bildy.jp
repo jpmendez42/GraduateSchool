@@ -1,0 +1,158 @@
+User-agent: *
+Allow: /
+Disallow:/material/c3776/*
+Disallow: /document/*
+Disallow: /*.pdf$
+Disallow: /*.php$
+Disallow: /*shop_item_detail?dummy*
+Disallow: /*shop_category_list*
+Disallow: /*jsessionid*
+Disallow: /*jsp-examples*
+Disallow: /*examples*
+Disallow: /*/SCL*
+Disallow: /estimate?ProductID*
+Disallow: /estimate?AttribID*
+Disallow: /member_favorite*
+Disallow: /style/*
+Disallow: /*?sort=
+Disallow: /*?cmd=
+Disallow: /*?show=
+Disallow: /*?display=
+Disallow: /*?*&sort=
+Disallow: /*?*&cmd=
+Disallow: /*?*&show=
+Disallow: /*?display=
+Disallow: /cart?cmd=estimate$
+Disallow: /step1$
+Disallow: /step2$
+Disallow: /step2?ShopID=watanabe$
+Disallow: /step2?cmd=login$
+Disallow: /step3$
+Disallow: /step4$
+Disallow: /step4_credit$
+Disallow: /step5_paypay$
+Disallow: /step5_rakuten$
+Disallow: /step_purchase_detail$
+Disallow: /l24/
+Disallow: /h24/
+Disallow: /v24/
+Disallow: /lv24/
+Disallow: /hv24/
+Disallow: /l40/
+Disallow: /h40/
+Disallow: /v40/
+Disallow: /lv40/
+Disallow: /hv40/
+Disallow: /l100/
+Disallow: /h100/
+Disallow: /v100/
+Disallow: /lv100/
+Disallow: /hv100/
+Disallow: /l5/
+Disallow: /h5/
+Disallow: /v5/
+Disallow: /lv5/
+Disallow: /hv5/
+Disallow: /l20/
+Disallow: /h20/
+Disallow: /v20/
+Disallow: /lv20/
+Disallow: /hv20/
+Disallow: /l10/
+Disallow: /h10/
+Disallow: /v10/
+Disallow: /lv10/
+Disallow: /hv10/
+Disallow: /watanabe/
+Disallow: /c0/
+Disallow: /nope/
+Disallow: /search/
+Disallow: /examples/
+Disallow: /handtools/c1035-masada-page3/
+Disallow: /laser/c1149c1189/20/ 
+Disallow: /laser/c1149c1189/h100/ 
+Disallow: /laser/c1149c1189/h20/ 
+Disallow: /laser/c1149c1189/h5/ 
+Disallow: /laser/c1149c1189/hv5/ 
+Disallow: /tool/c1035c1446/20/ 
+Disallow: /tool/c1035c1446/h5/ 
+Disallow: /tool/c1035c1446_1/h5/ 
+Disallow: /tool/c1035c1446/5/ 
+Disallow: /handtools/c1646-masada/
+Disallow: /handtools/-asada-ver/
+Disallow: /shop_info?ShopID=watanabe
+Disallow:/laser/-page5/
+Disallow:/laser/-page24/
+Disallow:/laser/-page13/
+Disallow:/laser/-page4/
+Disallow:/laser/-page26/
+Disallow:/laser/-page17/
+Disallow:/laser/-page2/
+Disallow:/laser/-page4-show40/
+Disallow:/laser/-page9/
+Disallow:/laser/-page15/
+Disallow:/laser/c832c942/
+Disallow:/laser/c1195c1471-tone/
+Disallow:/laser/c1195c1471/
+Disallow:/laser/c832c942/
+Disallow:/laser/c1195c1474-rex/
+Disallow:/laser/c832c943c1477/
+Disallow:/laser/c832c943c948/
+Disallow:/handtools/c1035c1447/
+Disallow:/power/c1533-page/
+Disallow:/engine/c9c1569/
+Disallow:/engine/c1c507/
+Disallow:/jobsite/c1578-page/
+Disallow:/jobsite/c1578-page/
+Disallow:/jobsite/c1656c1657-page/
+Disallow:/laser/c832c942c943/
+Disallow:/laser/c832c943/
+Disallow:/handtools/c1025c1028-asada/
+Disallow:/bosch-page/
+Disallow:/laser/c832c942c946/
+Disallow:/laser/c1615c1956c1957/
+Disallow:/laser/c1615c1956c1958/
+Disallow:/laser/c832c942c944/
+Disallow:/handtools/c1035c1740c1744/
+Disallow:/power/c507c1694/p13419/
+Disallow:/laser/c1195c1471/
+Disallow:/laser/c1195c1471-supertool/
+Disallow:/laser/c1195c1471-tone/
+Disallow:/laser/c1195c1471-robster/
+Disallow:/laser/c1195c1471-toptools/
+Disallow:/power/c507-hataya/
+Disallow:/ladders/c1573c1929/
+Disallow:/ladders/c1573/
+Disallow:/ladders/c1603c1637-page/
+Disallow: /*-show100$
+Disallow: /*-show40$
+Disallow: /*-ver$
+Disallow: /*-high$
+Disallow: /*might1
+Disallow: /*ranking_list$
+Disallow: /-page*/
+User-agent: Applebot
+Allow: /
+User-agent: bingbot
+Crawl-delay: 30
+User-agent: MJ12bot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: *
+Disallow: /cgi-bin
+User-agent: ICC-Crawler
+Disallow: /
+User-agent: facebookcatalog/1.0
+Crawl-delay: 5
+User-agent: Y!J-BRJ/YATS crawler
+Crawl-Delay: 20
+

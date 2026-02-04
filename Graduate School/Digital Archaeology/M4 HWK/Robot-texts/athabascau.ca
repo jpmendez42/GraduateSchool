@@ -1,0 +1,44 @@
+Sitemap: https://www.athabascau.ca/academic-partnerships/sitemap.xml
+Sitemap: https://www.athabascau.ca/alumni/sitemap.xml
+Sitemap: https://www.athabascau.ca/archives/sitemap.xml
+Sitemap: https://www.athabascau.ca/business/sitemap.xml
+Sitemap: https://www.athabascau.ca/calendar/sitemap.xml
+Sitemap: https://www.athabascau.ca/careers/sitemap.xml
+Sitemap: https://www.athabascau.ca/convocation/sitemap.xml
+Sitemap: https://www.athabascau.ca/cybersecurity/sitemap.xml
+Sitemap: https://www.athabascau.ca/etext-initiative/sitemap.xml
+Sitemap: https://www.athabascau.ca/finance/sitemap.xml
+Sitemap: https://www.athabascau.ca/gartner/sitemap.xml
+Sitemap: https://www.athabascau.ca/giving/sitemap.xml
+Sitemap: https://www.athabascau.ca/graduate-studies/sitemap.xml
+Sitemap: https://www.athabascau.ca/health-disciplines/sitemap.xml
+Sitemap: https://www.athabascau.ca/humanities-and-social-sciences/sitemap.xml
+Sitemap: https://www.athabascau.ca/indigenous/sitemap.xml
+Sitemap: https://www.athabascau.ca/library/sitemap.xml
+Sitemap: https://www.athabascau.ca/math-site/sitemap.xml
+Sitemap: https://www.athabascau.ca/ombuds-office/sitemap.xml
+Sitemap: https://www.athabascau.ca/president/sitemap.xml
+Sitemap: https://www.athabascau.ca/prior-learning/sitemap.xml
+Sitemap: https://www.athabascau.ca/provost-vice-president-academic/sitemap.xml
+Sitemap: https://www.athabascau.ca/registrar/sitemap.xml
+Sitemap: https://www.athabascau.ca/research/sitemap.xml
+Sitemap: https://www.athabascau.ca/science-and-technology/sitemap.xml
+Sitemap: https://www.athabascau.ca/sitemap.xml
+Sitemap: https://www.athabascau.ca/support-services/sitemap.xml
+Sitemap: https://www.athabascau.ca/syllabi/sitemap.xml
+Sitemap: https://www.athabascau.ca/university-secretariat/sitemap.xml
+Sitemap: https://www.athabascau.ca/vice-president-finance-administration/sitemap.xml
+Sitemap: https://www.athabascau.ca/vice-president-information-technology/sitemap.xml
+Sitemap: https://www.athabascau.ca/vice-president-university-relations/sitemap.xml
+Sitemap: https://www.athabascau.ca/wellness/sitemap.xml
+Sitemap: https://www.athabascau.ca/write-site/sitemap.xml
+Sitemap: https://www.athabascau.ca/writer-in-residence/sitemap.xml
+
+
+
+User-Agent: *
+Disallow: /uportal/messages/staff
+Disallow: /api/syllabus-orphan/index.php
+Disallow: /courses/
+Disallow: /webtools/phonelist
+Disallow: /_cascade/

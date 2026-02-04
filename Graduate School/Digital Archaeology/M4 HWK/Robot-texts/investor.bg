@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /forum/showthread.php?t=4949
+Disallow: /forum/showthread.php?t=14738
+Disallow: /news/recommend/*
+Disallow: /news/date/*
+Disallow: /users/index/*
+Disallow: /news/printer/*
+Disallow: /imoti/view/*
+Disallow: /forum/blogs
+Disallow: /club/members
+Disallow: /info/sms
+Disallow: /login
+Disallow: /vmap.xml
+Disallow: /s/
+

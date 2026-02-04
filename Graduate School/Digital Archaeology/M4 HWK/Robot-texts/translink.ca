@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /temp/
+Disallow: /upload/
+Disallow: /-/media/Documents/
+Disallow: /profile/
+Sitemap: https://www.translink.ca/sitemap.xml
+Sitemap: https://www.translink.ca/transit-schedules-sitemap.xml
+Sitemap: https://www.translink.ca/events-sitemap.xml

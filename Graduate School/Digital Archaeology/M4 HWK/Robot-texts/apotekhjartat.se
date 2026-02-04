@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /kassa
+Disallow: /klubb-hjartat/mina-ordrar
+Disallow: /klubb-hjartat/externa-kort
+Sitemap: https://www.apotekhjartat.se/api/sitemap/sitemapindex.xml

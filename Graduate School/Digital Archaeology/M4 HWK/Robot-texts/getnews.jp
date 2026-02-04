@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /typo/
+
+Sitemap: https://getnews.jp/wp-sitemap.xml
+

@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /?s=
+Disallow: /search/
+Disallow: /comments/
+Disallow: /trackback/
+Disallow: /?attachment_id=
+Disallow: *?replytocom=
+
+Disallow: /*?utm_source
+Disallow: /*?utm_medium
+Disallow: /*?utm_campaign
+Disallow: /*&utm_source
+Disallow: /*&utm_medium
+Disallow: /*&utm_campaign
+Disallow: /*?render_id
+Disallow: /*&render_id
+
+
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/
+Allow: /wp-content/plugins/
+
+Allow: /feed/
+Allow: /*/feed/
+Allow: /tag/
+Allow: /author/
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+
+Sitemap: https://www.bizbrasov.ro/sitemap_index.xml
+Sitemap: https://www.bizbrasov.ro/news-sitemap.xml

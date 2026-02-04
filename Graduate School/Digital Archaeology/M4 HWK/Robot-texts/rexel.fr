@@ -1,0 +1,312 @@
+User-agent: *
+Disallow: */frx/cart
+Disallow: */frx/cart/*
+Disallow: *_=*
+Disallow: */*/c/brands
+Disallow: *//c/
+Disallow: */_s/saveFulfillmentJson
+Disallow: */addBulkProductItemsToCart
+Disallow: */addBulkProductItemsToCartReplacementModel
+Disallow: */addCustomerUserNboProductTocart
+Disallow: */addObseleteReplacementProductItemsToCart
+Disallow: */addProductsToCartFormConfigurator
+Disallow: */addToCartFromUrl
+Disallow: */addtoJoblist/*
+Disallow: */c/.seo-collapse
+Disallow: */**/c/browseCategoryAndBrandForMobile
+Disallow: */checkout
+Disallow: */checkout/*
+Disallow: */closeGlobalPromotion
+Disallow: */closeNotificationIcon
+Disallow: *collapseTwo
+Disallow: */combined.css*
+Disallow: */combined.js*
+Disallow: */compare/
+Disallow: */cookieCosent
+Disallow: */cookieCosentToggler
+Disallow: */deliveryDateSimulatorData.json
+Disallow: */enableCookieConsent
+Disallow: */erp/*
+Disallow: */fast-register
+Disallow: */findDefaultStore
+Disallow: */findNearestStoreForAnonymous
+Disallow: */footer/globalSites
+Disallow: */GDPRCookieContainerComponentController/*
+Disallow: */getBranchList*
+Disallow: */getHtmlFormContent
+Disallow: */getInspirationCompanyUrl
+Disallow: */getJWTTokenAndUserDetails
+Disallow: */getLimitedDistributionPickupZip
+Disallow: */getNotificationMsgvaluesForLD
+Disallow: */isQuantityVisibleForProducts
+Disallow: */oauth/getOauthToken
+Disallow: */getHtmlFormContent
+Disallow: */getPagablePickupBranchesForAnonymous.json
+Disallow: */getRegionList
+Disallow: */getReplacementForObsoleteproduct
+Disallow: */getTieredPricingMap
+Disallow: */getJWTTokenAndUserDetails
+Disallow: */isQuantitySectionVisible
+Disallow: */isQuantityVisibleForProducts
+Disallow: */login
+Disallow: */login/*
+Disallow: */logout
+Disallow: */medias/*.pdf
+Disallow: */mergeCart/*
+Disallow: */mobilelogin*
+Disallow: */mobileprivacy
+Disallow: */mobileRegistration*
+Disallow: */mockMedia/*
+Disallow: */mostordered/getcategories
+Disallow: */my-account
+Disallow: */my-account/*
+Disallow: */myaccountpopup
+Disallow: */my-company/*
+Disallow: */mysettings
+Disallow: */newQuickorder/*
+Disallow: */notification/*
+Disallow: */oauth/getOauthToken
+Disallow: */obseleteProductAddToCart
+Disallow: */order-return/*
+Disallow: */order-new-return/*
+Disallow: */p/getEmailPDPpopup
+Disallow: */p/getTieredPricing
+Disallow: */p/slangKeyword
+Disallow: */pf/getProductSelectedVariant
+Disallow: */pf/productvariants
+Disallow: *page=0
+Disallow: *page=-1
+Disallow: *pageSize=*&
+Disallow: */perse/getNoResultsPage
+Disallow: */prefillAddToCart
+Disallow: */priceToolTip/*
+Disallow: */product360view/*
+Disallow: */productBranchStock
+Disallow: */productBranchStock/*
+Disallow: */punchoutCxmlCart/punchout
+Disallow: */quickorder
+Disallow: */recommendedCategories.ajax
+Disallow: */register
+Disallow: */register/*
+Disallow: */removeChangeRegionPopup
+Disallow: */removeGDPRLegalNotification
+Disallow: */removePCIComplianceNotification
+Disallow: */replacementProduct
+Disallow: */sales/*
+Allow: */searchSpring/*
+Disallow: */search*
+Disallow: */search/searchCategory
+Disallow: */updatelanguage
+Disallow: */updateRegion
+Disallow: */validateUpdateRegion
+Disallow: */view/TabbedNavigationComponentController/updateTabIndex
+Disallow: */p/*/zoomImages
+Disallow: *{0}
+Disallow: *%7B0%7D
+
+## cms related
+Disallow:*/cms/getPDPContent.json?productCode=*
+## testing
+
+# allow odd PDP combinations
+Allow: *%3A*%3A*/p/*
+
+## site specific blocks
+
+# old facets - params - tests
+Disallow: *q=:relevance*&filter=*:*  ## old + new
+Disallow: *relevance&filter=*:*  ## old + new
+Disallow: *isOnlyProductIds=&isOrderForm=&skuIndex=&isCreateOrderForm*
+Disallow: */c/*displayProductList*
+Disallow: *pageSize=
+Disallow: *text&filter&aliasname&
+Disallow: *text=&filter=&aliasname=&q=%3Arelevance%3A
+Disallow: *q=:relevance
+Disallow: *q=%3Arelevance
+Disallow: *skuIndex=0&isPaginationRqst=true&isOrderForm=false&isCreateOrderForm=false
+Disallow: *isOnlyProductIds*isOrderForm*isCreateOrderForm
+
+## PERSE
+Disallow: *relevance*&filter=*:*  ## old + new
+Disallow: *relevance&filter=*:*  ## old + new
+Disallow: *filter=*:*
+Disallow: *filter=*:*~*
+Disallow: *filter=*:*;*:*
+Allow: *filter=brandCode:*
+Disallow: *filter=brandCode:*~*
+Disallow: *filter=brandCode:*;*
+Disallow: */Fabricant/*/c/*filter=brandCode:*
+Allow: */Fabricant/*/c/*filter=categoryCode:*
+Disallow: */Fabricant/*/c/*filter=categoryCode:*~*
+Disallow: */Fabricant/*/c/*filter=categoryCode:*;*
+Allow: *filter=baseProductSku:*
+Disallow: *filter=baseProductSku:*~*
+Disallow: *filter=baseProductSku:*;*
+
+Allow: */Fabricant/*/c/*filter=classificationName:*
+Disallow: */Fabricant/*/c/*filter=classificationName:*~
+Disallow: */Fabricant/*/c/*filter=classificationName:*;*
+
+Allow: */Fabricant/*/c/*filter=WF000001:*
+Disallow: */Fabricant/*/c/*filter=WF000001:*~
+Disallow: */Fabricant/*/c/*filter=WF000001:*;*
+
+## SwiC
+Allow: */c/*text=*
+Disallow: */c/*filter=*text=*
+Disallow: */c/*text=*filter=*
+
+Disallow: */c/main-*.js
+Disallow: */c/scripts-*.js
+Disallow: */c/polyfills-*.js
+Disallow: */c/runtime-*.js
+Disallow: */breadcrumb*
+Disallow: */frx/p/*
+
+# Limit PLP Facet Crawling 
+
+# OLD Disallow facets but those allowed elsewhere
+Disallow: *%3Arelevance%3A*%3A*
+Disallow: *:relevance:*:*
+
+## OLD disallow other
+Disallow: */c/*__*
+Disallow: */c/*/*productbranchstock*
+Disallow: *page=-1*
+## disallow facet removal
+Disallow: */c/*text=&filter=&aliasname=&partialSearch=#
+
+## bot blocking
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AspiegelBot
+Disallow: /
+
+User-agent: AwarioBot
+Disallow: /
+
+User-agent: Better Uptime Bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: BrightEdge Crawler
+Disallow: /
+
+User-agent: CazoodleBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User 
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: crawler
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: de/bot
+Disallow: /
+
+User-agent: DnBCrawler
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Electron
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: Gigabot
+Disallow: /
+
+User-agent: Go-http-client
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Java
+Disallow: /
+
+User-agent: Links
+Disallow: /
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: NE Crawler
+Disallow: /
+
+User-agent: okhttp
+Disallow: /
+
+User-agent: OpenindexSpider
+Disallow: /
+
+User-agent: Orbbot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Python aiohttp
+Disallow: /
+
+User-agent: Python Requests
+Disallow: /
+
+User-agent: Resoruce Scraper
+Disallow: /
+
+User-agent: robot
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: SiteScoreBot
+Disallow: /
+
+User-agent: Sooptimo-Scraper
+Disallow: /
+
+User-agent: WebKit Nightly
+Disallow: /
+
+User-agent: ZoominfoBot
+Disallow: /
+
+User-agent: Zune
+Disallow: /
+
+
+Sitemap: https://www.rexel.fr/frx/sitemap.xml
+
+#v20251009

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*availability_search*
+Disallow: /*availabilitysearch*
+Sitemap: https://www.sandaya.fr/sitemap.xml

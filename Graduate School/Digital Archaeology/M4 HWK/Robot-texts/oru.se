@@ -1,0 +1,26 @@
+User-agent: Scrapy
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: *
+Disallow: /inforum/
+Disallow: /episerver/
+Disallow: /PageFiles/
+Disallow: /Recycle-Bin/
+Disallow: /Templates/
+Disallow: /templates/
+Disallow: /bin/
+Disallow: /util/
+Disallow: /WebServices/
+Disallow: /TinyMceFilePicker/
+Disallow: /*/SaveToCalendar/
+Disallow: /kalendarium/passerade-evenemang/
+Disallow: /*https://
+Disallow: /*https%3A%2F%2F
+Disallow: /*http://
+Disallow: /*http%3A%2F%2F
+
+Sitemap: https://www.oru.se/sitemap.xml
+Sitemap: https://www.oru.se/sitemap_en.xml

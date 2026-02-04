@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /privacy-static/
+Disallow: /comunicazioni/
+Allow: /identitadigitale/conf-spid-pers/
+Allow: /identitadigitale/conf-spid-prof/
+Allow: /identitadigitale/welcome/
+Allow: /identitadigitale/welcome18/
+Disallow: /identitadigitale/
+Sitemap: https://www.infocert.it/sitemap-infocert.it.xml

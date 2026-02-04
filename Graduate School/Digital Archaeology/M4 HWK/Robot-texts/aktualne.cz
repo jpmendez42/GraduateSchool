@@ -1,0 +1,3636 @@
+<!DOCTYPE html>
+<html lang="cs" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<head>
+
+	<meta charset="utf-8">
+	<meta name="referrer" content="unsafe-url">
+	<title>Aktuálně - Aktuálně.cz</title>
+
+<meta name="robots" content="index, follow, max-image-preview:large">
+
+<meta name="keywords" content="Aktuálně.cz, Aktuálně, zprávy, zpravodajství, aktuální zprávy, novinky">
+<meta name="copyright" content="1999-2025 (c) Economia, a.s.">
+<meta property="og:site_name" content="Aktuálně.cz - Víte, co se právě děje">
+<meta property="og:locale" content="cs_CZ">
+	<meta property="og:type" content="website">
+<link rel="canonical" href="https://www.aktualne.cz/">
+<meta property="og:title" content="Aktuálně | Aktuálně.cz">
+	<meta property="og:image" content="https://asset.stdout.cz/fe/aktualne/img/largetile.png">
+	<meta property="og:image:width" content="310">
+	<meta property="og:image:height" content="310">
+<meta name="description" content="Aktuálně.cz - kompletní zpravodajství, zprávy z domova i ze světa">
+<meta property="fb:admins" content="751454461">
+<meta property="fb:admins" content="568193362">
+<meta property="fb:admins" content="1162950483">
+<meta property="fb:admins" content="713863314">
+<meta property="fb:admins" content="1053518352">
+<meta property="fb:admins" content="1300718444">
+<meta property="fb:admins" content="1649469665">
+<meta property="fb:app_id" content="120597348021544">
+<meta property="fb:pages" content="137301989386,219372751414211,114573568574344">
+<meta name="twitter:site" content="@Aktualnecz">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Aktuálně">
+<meta name="twitter:url" content="https://www.aktualne.cz/">
+
+<link rel="manifest" href="/manifest.json">
+
+
+	<script type="application/ld+json">
+		{"@context":"http:\/\/schema.org","url":"https:\/\/www.aktualne.cz\/","name":"Aktu\u00e1ln\u011b.cz","@type":"WebSite","publisher":{"@type":"Organization","name":"Aktu\u00e1ln\u011b.cz","logo":{"@type":"ImageObject","url":"\/\/asset.stdout.cz\/fe\/aktualne\/img\/apple-touch-icon.png","description":"V\u00edte, co se pr\u00e1v\u011b d\u011bje"}}}
+	</script>
+
+	<meta content="width=device-width, initial-scale=1, minimum-scale=1, shrink-to-fit=no" name="viewport">
+<script id="snapshot-consent-wall">
+window.gdprAppliesGlobally = true;
+
+	function a (e) {
+		if (!window.frames[e]) {
+			if (document.body && document.body.firstChild) { var t = document.body; var n = document.createElement("iframe"); n.style.display = "none"; n.name = e; n.title = e; t.insertBefore(n, t.firstChild) }
+			else { setTimeout(function () { a(e) }, 5) }
+		}
+	}
+	function e (n, r, o, c, s) {
+		function e (e, t, n, a) { if (typeof n !== "function") { return } if (!window[r]) { window[r] = [] } var i = false; if (s) { i = s(e, t, n) } if (!i) { window[r].push({ command: e, parameter: t, callback: n, version: a }) } }
+		e.stub = true;
+		function t (a) {
+			if (!window[n] || window[n].stub !== true) { return }
+			if (!a.data) { return }
+			var i = typeof a.data === "string"; var e; try { e = i ? JSON.parse(a.data) : a.data } catch (t) { return } if (e[o]) { var r = e[o]; window[n](r.command, r.parameter, function (e, t) { var n = {}; n[c] = { returnValue: e, success: t, callId: r.callId }; a.source.postMessage(i ? JSON.stringify(n) : n, "*") }, r.version) }
+		}
+		if (typeof window[n] !== "function") { window[n] = e; if (window.addEventListener) { window.addEventListener("message", t, false) } else { window.attachEvent("onmessage", t) } }
+	}
+	e("__tcfapi", "__tcfapiBuffer", "__tcfapiCall", "__tcfapiReturn"); a("__tcfapiLocator");
+	(function (e) {
+		var t = document.createElement("script");
+		t.id = "spcloader";
+		t.type = "text/javascript";
+		t.async = true;
+		t.src = "https://sdk.privacy-center.org/" + e + "/loader.js?target=" + document.location.hostname;
+		t.charset = "utf-8";
+		var n = document.getElementsByTagName("script")[0];
+		n.parentNode.insertBefore(t, n)
+	})("9a8e2159-3781-4da1-9590-fbf86806f86e");
+window.didomiLoaded = true;
+var script = document.createElement("script");
+script.type = "text/javascript";
+script.src = "https://cdn.cpex.cz/cmp/v2/cpex-cmp.min.js"
+
+document.head.append(script);
+</script>
+<script>
+window.eco_cmp_adapter_queue = window.eco_cmp_adapter_queue || [];
+</script>
+<script src="//asset.stdout.cz/fe/cmp-adapter/js/cmp-adapter.72ebaf72.js" async onload="EcoCMPAdapter.initQueue()"></script>
+	<!-- Google Tag Manager -->
+	<script type="text/javascript">
+		(function (w, d, s, l, i) {
+			w[l] = w[l] || [];
+			w[l].push({'gtm.start': new Date().getTime(), event: 'gtm.js'});
+			var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+			j.async = true;
+			j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+			f.parentNode.insertBefore(j, f);
+		})(window, document, 'script', 'dataLayer', 'GTM-KHBVHG8');
+	</script>
+	<!-- End Google Tag Manager -->
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,400i,700&amp;subset=latin-ext&amp;display=fallback">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Barlow:400,400i,700,700i&amp;subset=latin-ext&amp;display=fallback">
+	<link rel="stylesheet" href="//asset.stdout.cz/fe/common/css/font-awesome-6-5-1.css">
+		<link rel="stylesheet" type="text/css" href="//asset.stdout.cz/fe/aktualne/css/aktualne.cd444717.css">
+	<link title="Aktuálně.cz" rel="search" type="application/opensearchdescription+xml" href="//asset.stdout.cz/fe/opensearch/aktualne-cz.xml">
+	<link rel="shortcut icon" href="//asset.stdout.cz/fe/common/img/aktualne_cz.ico">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-title" content="Aktuálně.cz">
+	<link rel="apple-touch-icon" href="//asset.stdout.cz/fe/aktualne/img/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="//asset.stdout.cz/fe/aktualne/img/favicon-16x16.png" sizes="16x16">
+	<link rel="icon" type="image/png" href="//asset.stdout.cz/fe/aktualne/img/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="//asset.stdout.cz/fe/aktualne/img/favicon-96x96.png" sizes="96x96">
+	<link rel="icon" type="image/png" href="//asset.stdout.cz/fe/aktualne/img/android-chrome-192x192.png" sizes="192x192">
+	<meta name="msapplication-square70x70logo" content="//asset.stdout.cz/fe/aktualne/img/smalltile.png">
+	<meta name="msapplication-square150x150logo" content="//asset.stdout.cz/fe/aktualne/img/mediumtile.png">
+	<meta name="msapplication-wide310x150logo" content="//asset.stdout.cz/fe/aktualne/img/widetile.png">
+	<meta name="msapplication-square310x310logo" content="//asset.stdout.cz/fe/aktualne/img/largetile.png">
+<script>
+	window.ga4CommandsQueue = window.ga4CommandsQueue || [];
+</script>
+<script src="//asset.stdout.cz/fe/ga4/js/ga4.2996c2bc.js" async onload="EcoGA4.initWhenReady({
+		site: &quot;aktualnehp&quot;,
+		pageType: &quot;homepage&quot;
+		})">
+</script>
+	<script type="text/javascript" src="//asset.stdout.cz/fe/aktualne/js/bbx-desktop.ca02bb8b.js"></script>
+
+
+	<script type="text/javascript">
+		BBX.context.site = "aktualnehp";
+		BBX.context.crumblast = "";
+		BBX.context.experiment = "zz";
+		BBX.context.page_type = "listing";
+		BBX.context.virtual = "";
+		BBX.device = "desktop";
+	</script>
+	<script type="text/javascript" src="//asset.stdout.cz/fe/external/iframe.js?v=2"></script>
+
+<script type="text/javascript">
+	var _virtual_prefix = "";
+
+	var _virtual_path = "";
+	if (!_virtual_path) {
+		_virtual_path = location.pathname.split(';')[0];
+	}
+
+	var _virtual_url = BBX.urlParser(_virtual_path + location.search).prefix(_virtual_prefix).getPathQuery();
+</script>
+
+<script>
+	/* na kazdou n-tou reload reklam, url */
+	SiteAdvert.initRefresh(3, _virtual_url);
+</script>
+<script>
+	/* template:'article' (svetly obsah) || 'gallery' (tmavy obsah) || hp (homepage) || 'list' (sekce, tag, hledani...) */
+	var page_type = "listing";
+		var s_template = 'hp';
+
+	var s_keywords = [];
+
+	window._sashec_queue = window._sashec_queue || [];
+</script>
+
+<script src="https://prod-snowly-sasic.stdout.cz/dist/aktualne/sasic.min.js" onLoad="_sasic.init()"></script>
+<script src="https://prod-snowly-sasic.stdout.cz/libs/sashec-connector.min.js" onLoad="_sashec.init()"></script>
+
+<script>
+	window._als_queue = window._als_queue || [];
+	window.AlsOptions = { tag: 'aktualne' };
+</script>
+
+<script src="https://prod-snowly-als.stdout.cz/dist/als.min.js" async onLoad="_feLogging.initLogging()"></script>
+
+
+<script>
+	BBX.context.saGroups = ['extra', 'default'];
+	var saGroupSettings = {
+		site: 'aktualne',
+		area: "hp",
+		keyword: s_keywords,
+		targets: {
+			device: SiteAdvert.device || 'u',
+			template: s_template,
+			ab: "zz"
+			
+			,id:"b-vs-aktualnehp"
+			
+			
+		},
+		callback: SiteAdvert.eventCallback
+	};
+	BBX.context.saGroups.map(function(group) {
+		return SiteAdvert.Queue.push(['group', Object.assign({}, saGroupSettings), group]);
+	});
+	SiteAdvert.loadSeznamSspIfNeeded();
+	BBX.context.ga4Sasic = {
+		template: s_template,
+		device: SiteAdvert.device || 'u',
+		site: 'aktualne',
+		area: "hp",
+	};
+</script>
+<script>
+window.eco_cmp_adapter_queue = window.eco_cmp_adapter_queue || [];
+window.eco_cmp_adapter_queue.push({
+	command: 'checkConsentByPreset',
+	preset: 'onesignal',
+	callback: function(status, ctx) {
+		if (status === true) {
+			EcoCMPAdapter.logger.log(ctx.preset + ' allowed by consent');
+			BBX.loadScript('https://cdn.onesignal.com/sdks/OneSignalSDK.js', { async: 'async', defer: 'defer' }, function() {
+				EcoCMPAdapter.logger.log(ctx.preset + ' loaded by preset');
+			})
+		} else {
+			EcoCMPAdapter.logger.log(ctx.preset + ' skipped, no consent');
+		}
+	}
+});
+</script>
+<script>
+	(function (w) {
+		OneSignal = w.OneSignal || [];
+		OneSignal.push(['init', {
+			appId: 'a2924c17-052d-489d-899d-bbd26021e045',
+			autoRegister: false,
+			notifyButton: {
+				enable: false
+			},
+			promptOptions: {
+				actionMessage: "Odebírejte mimořádné zprávy Aktuálně.cz. Zapněte si upozornění!",
+				acceptButtonText: "Ano, zapnout",
+				cancelButtonText: "Ne, děkuji"
+			},
+			welcomeNotification: {
+				title: "Aktuálně.cz",
+				message: "Děkujeme za přihlášení k odběru!",
+			}
+		}]);
+
+		function promptAndSubscribeUser() {
+			if (!SiteAdvert.source || SiteAdvert.source.substr(0, 3) !== 'sez') {
+				OneSignal.push(function() {
+					OneSignal.showHttpPrompt();
+				});
+			}
+		}
+
+		if(BBX.checkStorageSupport(w.localStorage)) {
+			// rounded per seconds
+			var ttl = 60 * 60 * 24 * 60; // seconds * minutes * hours * days
+			var name = 'bbxOneSignalConfirmExpire';
+			var now = parseInt(Date.now() / 1000, 10);
+			var nextTriggerTime = parseInt(w.localStorage.getItem(name), 10);
+			if (isNaN(nextTriggerTime) || now >= nextTriggerTime) {
+				w.localStorage.setItem(name, now + ttl);
+				promptAndSubscribeUser();
+				console.log('BBX Onesignal: next trigger planned to timestamp ' + (now + ttl));
+			}
+		} else {
+			promptAndSubscribeUser();
+		}
+
+	}(window));
+</script>
+
+	<script>BBX.loader.loadLib("//asset.stdout.cz/fe/react-apps/js/bbx-react.2c0d62ee.js", 'React');</script>
+  <script>window.carodaInstreamAllowed =
+    true && (window.location.href.indexOf("caroda=skip-instream") === -1);
+  </script>
+    <script src="//asset.stdout.cz/fe/caroda-loader/js/caroda-loader.52ba7221.js" async onload="_aktuCarodaLoader.initOnReady()"></script>
+		<link rel="alternate" type="application/rss+xml" href="https://www.aktualne.cz/rss/" title="RSS: Aktuálně - Aktuálně.cz">
+
+
+<script>
+(function (d, w, src) {
+	// Do not load on embed_iframe, when skipped or already loaded
+	if (
+		w.location.search.match(/caroda=skip-instream/) ||
+		d.querySelector('script[src*="' + src + '"]')
+	) {
+		return;
+	}
+	var elem = d.createElement('script');
+	elem.src = src;
+	elem.setAttribute('crossorigin', 'anonymous');
+	elem.defer = 'defer';
+	d.head.appendChild(elem);
+})(document, window, '//cdn5.caroda.io/embedded.video.aktualne.cz/preload.js');
+</script>
+</head>
+
+<body class="no-focus bbx-site-aktualnehp" data-template="homepage" data-section="homepage" data-bbx-design="v2">
+<script type="text/javascript">
+var pp_gemius_use_cmp = true;
+	/* (C)2000-"2025" Gemius SA - gemiusAudience / aktualne.cz / Aktualne-HP */
+	var pp_gemius_identifier = "cohFZIdgdR_Ct21R65q5hXXozSVZyGeJTEHf9ULHPQT.i7";
+var pp_gemius_extraparameters = [
+	'title='+ "aktualne",
+	'guid='+ "b:vs:aktualnehp",
+	'pubtime='+ (null || '')
+];
+SiteAdvert.setGemiusId(pp_gemius_identifier);
+</script>
+
+<script type="text/javascript">
+function gemius_pending(i) { window[i] = window[i] || function() { var x = window[i+'_pdata'] = window[i+'_pdata'] || []; x[x.length]=arguments;};};
+gemius_pending('gemius_hit'); gemius_pending('gemius_event'); gemius_pending('pp_gemius_hit'); gemius_pending('pp_gemius_event');
+(function(d,t) { try { var gt=d.createElement(t),s=d.getElementsByTagName(t)[0]; gt.setAttribute('async','async'); gt.setAttribute('defer','defer');
+gt.src=document.location.protocol+'//spir.hit.gemius.pl/xgemius.js'; s.parentNode.insertBefore(gt,s);} catch (e) { }})(document,'script');
+</script>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript>
+		<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KHBVHG8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+	</noscript>
+	<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript">
+BBX.assetsDir = "//asset.stdout.cz/fe/";
+BBX.imgDir = "//asset.stdout.cz/fe/aktualne/img/";
+</script>
+
+<div class="brand-a" id="brand-a">
+<div class="brand-b" id="brand-b">
+<div class="brand-c" id="brand-c">
+
+
+
+
+<div id="header" class="worker-menu-replace"><script type="module" crossorigin src="https://asset.stdout.cz/aktu-menu/assets/index-BzuF2x7H.js"></script>
+<link rel="stylesheet" crossorigin href="https://asset.stdout.cz/aktu-menu/assets/index-B8NYieJT.css">
+<!-- AKTU-MENU -->
+<link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&display=swap" rel="stylesheet" />
+<script>
+  window._ecohec || (window._ecohec = {});
+  window._ecohec.desktopNavigationHeight = 96;
+</script>
+<div id="aktu-menu-spa" data-desktop-menu-height="96"></div>
+</div><!-- /.menu -->
+
+
+<div data-class="advert-wrapper--leader">
+	<div class="advert sa-hide" id="reklama-leader">
+		<div class="advert__inner">
+			<div class="advert__name">reklama</div>
+			<div class="advert__content" id="sas-leader">
+				<script type="text/javascript">
+					(function (w) {
+						var getWholeLeaderElement = function(element) {
+							return element.parentNode.parentNode;
+						};
+						var fixAdvert = _sashec.scrollAnchor &&
+							_sashec.scrollAnchor(w, getWholeLeaderElement) ||
+							function () { };
+						var leaderCallback = function (evt) {
+							fixAdvert(evt);
+						};
+
+						SiteAdvert.Queue.push([
+							'position',
+							'sas-leader',
+							{
+								size: function (device) {
+									if (w.BBX.context.site === "aktualnehp" && w.s_template === 'hp' && device === 'm') {
+										return {
+											size: null
+										}
+									}
+									if (device === 'm') {
+										return { size: ['strip'] };
+									} else if (device === 't') {
+										return {
+											size: ['leader', '79a', '91a', '92a'],
+											hbId: 'leaderboard'
+										};
+									} else {
+										return {
+											size: ['leader', '79a', '91a', '92a', '11a', '21a'],
+											hbId: 'leaderboard'
+										}
+									}
+								},
+								_hbBbx: 'exact_set',
+								callback: leaderCallback,
+								callbackData: 'leader'
+							},
+							'extra'
+						]);
+					})(window);
+				</script>
+			</div>
+		</div>
+	</div>
+</div>
+<script>
+var wrapperDiv = document.querySelector('div[data-class="advert-wrapper--leader"]');
+
+if (wrapperDiv) {
+	if (window.BBX.context.site === "aktualnehp" && window.s_template === 'hp' && window.SiteAdvert.detectDevice() === 'm') {
+		// do nothing
+	} else {
+		wrapperDiv.classList.add(wrapperDiv.getAttribute('data-class'));
+	}
+}
+</script>
+
+<div class="page clearfix">
+		
+
+
+
+			
+
+	<div>
+		<div class="wrapper wrapper--hp">
+
+			<div class="left-column" data-ec-list="listing-homepage-aktualnehp">
+					
+
+								<div class="hp-opener clearfix"
+			 data-ga4-id="6428ea9aa85811f0a1910cc47ab5f122" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Babišovy záložní plány: Turek za imunitu, úlitba Hradu i menšinová vláda" data-ga4-author="Vratislav Dostál" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-event="impression,click">
+				<a href="https://zpravy.aktualne.cz/domaci/turek-je-stale-ve-hre-o-vladu-aspon-zdanlive-babis-mu-zahadn/r~6428ea9aa85811f0a1910cc47ab5f122/" data-ec data-ec-pid="6428ea9aa85811f0a1910cc47ab5f122" data-ec-pos="1">
+					<div class="hp-opener__image">
+						<span class="intrinsic"><picture><source media="(max-width: 1024px)" srcset="//cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_extract=141,0,1928,1085_resize=160,90_.jpg?hash=e78a4d509873871d991858d2d5c4cbcf 160w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_extract=141,0,1928,1085_resize=240,135_.jpg?hash=f8b9a1654ce9eaa5896d0ed856823ee3 240w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_extract=141,0,1928,1085_resize=480,270_.jpg?hash=ec038fabf29881ec6064f569c912e915 480w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_extract=141,0,1928,1085_resize=720,405_.jpg?hash=0f423ac3eb0afd7d0c47f86fd14e4725 720w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_extract=141,0,1928,1085_resize=960,540_.jpg?hash=58c75b8dcc5c27ee7fba568cbd1b9761 960w"><source srcset="//cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_resize=160,120_.jpg?hash=4cb1eebcacfc92e8b72309d51d1b7815 160w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_resize=240,180_.jpg?hash=b39f8b49efb1857adc320c9aba022467 240w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_resize=480,360_.jpg?hash=0977f500e1b0d2521378c303a6a82077 480w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_resize=720,540_.jpg?hash=336feb0a1671ca5b259ff33c99f64e56 720w, //cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_resize=960,720_.jpg?hash=a176b7f89b879b1fe86e44bb7c3e16fc 960w"><img src="//cdn.xsd.cz/resize/186734cac0b33757af1dcb3cfcd2f1c3_resize=480,360_.jpg?hash=0977f500e1b0d2521378c303a6a82077" width="480" height="360" alt="Babišovy záložní plány: Turek za imunitu, úlitba Hradu i menšinová vláda" restricted="off"></picture></span>
+					</div>
+					<h2 class="hp-opener__title">
+
+
+						Babišovy záložní plány: Turek za imunitu, úlitba Hradu i menšinová vláda
+					</h2>
+					<div class="hp-opener__desc">
+						Pondělní jednání zástupců ANO a Motoristů o podobě příští vlády průlom nepřineslo. A nejspíš ani nemohlo.
+					</div>
+				</a>
+			</div><!-- hp-opener -->
+
+	<div class="triple-wrap clearfix">
+		<div
+			class="triple-box"
+		 data-ga4-id="b9c15cdaa83f11f0a26cac1f6b220ee8" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Politická šikana: Kauza Turek může mít pro Babiše dva následky. Jeden je zničující" data-ga4-author="Michaela Nováčková, Vratislav Dostál, Matyáš Zrno" data-ga4-published="2025-10-13" data-ga4-position="2" data-ga4-block="triplebox" data-ga4-event="impression,click">
+			
+			<a href="https://zpravy.aktualne.cz/domaci/politicka-sikana-kauza-turek-muze-mit-pro-babise-dva-nasledk/r~b9c15cdaa83f11f0a26cac1f6b220ee8/" data-ec data-ec-pid="b9c15cdaa83f11f0a26cac1f6b220ee8" data-ec-pos="2">
+				<div class="triple-box__image">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/eff21874f5af3694bac2900284e2c4c9_extract=0,58,996,663_resize=224,149_.jpg?hash=8d8561092ce318a7de9677850322e809" srcset="//cdn.xsd.cz/resize/eff21874f5af3694bac2900284e2c4c9_extract=0,58,996,663_resize=74,49_.jpg?hash=9633c22362d28b21af58caeb0ed2d247 74w, //cdn.xsd.cz/resize/eff21874f5af3694bac2900284e2c4c9_extract=0,58,996,663_resize=112,75_.jpg?hash=7726667cea2e59272601e64478104799 112w, //cdn.xsd.cz/resize/eff21874f5af3694bac2900284e2c4c9_extract=0,58,996,663_resize=224,149_.jpg?hash=8d8561092ce318a7de9677850322e809 224w, //cdn.xsd.cz/resize/eff21874f5af3694bac2900284e2c4c9_extract=0,58,996,663_resize=336,224_.jpg?hash=b958e055f75a8b879f51dadcfa69e420 336w, //cdn.xsd.cz/resize/eff21874f5af3694bac2900284e2c4c9_extract=0,58,996,663_resize=448,299_.jpg?hash=37625ddb03727a09e4e285e075c68a52 448w" sizes="(max-width: 480px) 100vw, (max-width: 850px) 30vw, 224px" width="224" height="149" alt="Politická šikana: Kauza Turek může mít pro Babiše dva následky. Jeden je zničující" restricted="off"></span>
+				</div>
+				<div class="triple-box__title">
+
+
+					Politická šikana: Kauza Turek může mít pro Babiše dva následky. Jeden je zničující
+				</div>
+			</a>
+		</div>
+		<div
+			class="triple-box"
+		 data-ga4-id="5c9198e4a83611f0a065ac1f6b220ee8" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Vrah Aničky neprošel detektorem lži, zůstal ale na svobodě. Usvědčili ho až po smrti" data-ga4-author="Vojtěch Štěpán" data-ga4-published="2025-10-13" data-ga4-position="3" data-ga4-block="triplebox" data-ga4-event="impression,click">
+			
+			<a href="https://zpravy.aktualne.cz/domaci/zmizenix/r~5c9198e4a83611f0a065ac1f6b220ee8/" data-ec data-ec-pid="5c9198e4a83611f0a065ac1f6b220ee8" data-ec-pos="3">
+				<div class="triple-box__image">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/87433d94f1f331e3b5c9fe210637eb0c_resize=224,149_.jpg?hash=79047225760273413ae751c985dd4333" srcset="//cdn.xsd.cz/resize/87433d94f1f331e3b5c9fe210637eb0c_resize=74,49_.jpg?hash=6970fbdb6c0b9e40f79142be8a25b018 74w, //cdn.xsd.cz/resize/87433d94f1f331e3b5c9fe210637eb0c_resize=112,75_.jpg?hash=10a6671161f32f74f62cfb23c50ef6a0 112w, //cdn.xsd.cz/resize/87433d94f1f331e3b5c9fe210637eb0c_resize=224,149_.jpg?hash=79047225760273413ae751c985dd4333 224w, //cdn.xsd.cz/resize/87433d94f1f331e3b5c9fe210637eb0c_resize=336,224_.jpg?hash=d16b12deb587f77add79313790f09a48 336w, //cdn.xsd.cz/resize/87433d94f1f331e3b5c9fe210637eb0c_resize=448,299_.jpg?hash=694db5b044607c8da1d78142cbd51e72 448w" sizes="(max-width: 480px) 100vw, (max-width: 850px) 30vw, 224px" width="224" height="149" alt="Vrah Aničky neprošel detektorem lži, zůstal ale na svobodě. Usvědčili ho až po smrti" restricted="off"></span>
+				</div>
+				<div class="triple-box__title">
+
+
+					Vrah Aničky neprošel detektorem lži, zůstal ale na svobodě. Usvědčili ho až po smrti
+				</div>
+			</a>
+		</div>
+		<div
+			class="triple-box"
+		 data-ga4-id="9110cf24a82a11f0a26cac1f6b220ee8" data-ga4-type="article" data-ga4-section="zahranici" data-ga4-crumbs="zpravy,zahranici" data-ga4-title='Putin naznačil odhalení "superzbraní." Může jít o dvě velmi nebezpečné jaderné hrozby' data-ga4-author="Michaela Lišková" data-ga4-published="2025-10-13" data-ga4-position="4" data-ga4-block="triplebox" data-ga4-event="impression,click">
+			
+			<a href="https://zpravy.aktualne.cz/zahranici/tajemny-putin-naznacil-odhaleni-obavanych-zbrani-pohrozil-i/r~9110cf24a82a11f0a26cac1f6b220ee8/" data-ec data-ec-pid="9110cf24a82a11f0a26cac1f6b220ee8" data-ec-pos="4">
+				<div class="triple-box__image">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/aa8669fac3ea33639d20a7382a5a569a_resize=224,149_.jpg?hash=0883996cefc98e0118e14344dc3506f4" srcset="//cdn.xsd.cz/resize/aa8669fac3ea33639d20a7382a5a569a_resize=74,49_.jpg?hash=7d9ea407b0dd8eaa0265eb5a5455158c 74w, //cdn.xsd.cz/resize/aa8669fac3ea33639d20a7382a5a569a_resize=112,75_.jpg?hash=d559b885f28b93a05eef84d907c1cd2e 112w, //cdn.xsd.cz/resize/aa8669fac3ea33639d20a7382a5a569a_resize=224,149_.jpg?hash=0883996cefc98e0118e14344dc3506f4 224w, //cdn.xsd.cz/resize/aa8669fac3ea33639d20a7382a5a569a_resize=336,224_.jpg?hash=1255dc6648e34d79d9afbcfa088fdc0b 336w, //cdn.xsd.cz/resize/aa8669fac3ea33639d20a7382a5a569a_resize=448,299_.jpg?hash=b466a2470271c905e9adb26b42e6a86a 448w" sizes="(max-width: 480px) 100vw, (max-width: 850px) 30vw, 224px" width="224" height="149" alt="Putin naznačil odhalení &quot;superzbraní.&quot; Může jít o dvě velmi nebezpečné jaderné hrozby" restricted="off"></span>
+				</div>
+				<div class="triple-box__title">
+
+
+					Putin naznačil odhalení "superzbraní." Může jít o dvě velmi nebezpečné jaderné hrozby
+				</div>
+			</a>
+		</div>
+	</div>
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-1">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-1">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-1', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 1,
+					callbackData: 'mediumrectangle-1'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="c6950e94a86111f0ae9c0cc47ab5f122" data-ga4-type="article" data-ga4-section="fotbal" data-ga4-crumbs="sport,fotbal" data-ga4-title="Senzace dokonána. Sopečné ostrovy s půlmilionem obyvatel si zahrají na fotbalovém MS" data-ga4-author="Sport, ČTK" data-ga4-published="2025-10-13" data-ga4-position="5" data-ga4-event="impression,click">
+		<a href="https://sport.aktualne.cz/fotbal/senzace-dokonana-ostrovni-stat-s-pulmilionem-obyvatel-si-zah/r~c6950e94a86111f0ae9c0cc47ab5f122/" data-ec data-ec-pid="c6950e94a86111f0ae9c0cc47ab5f122" data-ec-pos="5">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/7e56a23b392531fd9d1053f31666a2a2_resize=240,160_.jpg?hash=74dafbd71c8c238e99573d4ab2927c27" srcset="//cdn.xsd.cz/resize/7e56a23b392531fd9d1053f31666a2a2_resize=240,160_.jpg?hash=74dafbd71c8c238e99573d4ab2927c27 1x, //cdn.xsd.cz/resize/7e56a23b392531fd9d1053f31666a2a2_resize=360,240_.jpg?hash=3df1fd26432d6f920e351d92a122f329 1.5x, //cdn.xsd.cz/resize/7e56a23b392531fd9d1053f31666a2a2_resize=480,320_.jpg?hash=eccbe677dd447e6f7365c319bb021bff 2x" sizes="240px" width="240" height="160" alt="Senzace dokonána. Sopečné ostrovy s půlmilionem obyvatel si zahrají na fotbalovém MS" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://sport.aktualne.cz/fotbal/senzace-dokonana-ostrovni-stat-s-pulmilionem-obyvatel-si-zah/r~c6950e94a86111f0ae9c0cc47ab5f122/" data-ec data-ec-pid="c6950e94a86111f0ae9c0cc47ab5f122" data-ec-pos="5" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Senzace dokonána. Sopečné ostrovy s půlmilionem obyvatel si zahrají na fotbalovém MS
+			</h3>
+				<div class="small-box__desc">
+		Tým Kapverd si definitivně zajistil účast na MS 2026 výhrou 3:0 nad Svazijskem.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--online small-box--listing clearfix" data-ga4-id="b685bd1ea03711f0bf960cc47ab5f122" data-ga4-type="online" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title='Turek se omluvil. "Platí dřívější dohoda," řekl Macinka po schůzce s Babišem' data-ga4-author="Domácí, ČTK" data-ga4-published="2025-10-09" data-ga4-position="6" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/domaci/volebni-online/r~b685bd1ea03711f0bf960cc47ab5f122/" data-ec data-ec-pid="b685bd1ea03711f0bf960cc47ab5f122" data-ec-pos="6">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/fbdf61e26ec1317dbc90e412faa6b5cb_extract=199,222,1599,1066_resize=240,160_.jpg?hash=1a8df0986305b4c0652c51bdf27e4666" srcset="//cdn.xsd.cz/resize/fbdf61e26ec1317dbc90e412faa6b5cb_extract=199,222,1599,1066_resize=240,160_.jpg?hash=1a8df0986305b4c0652c51bdf27e4666 1x, //cdn.xsd.cz/resize/fbdf61e26ec1317dbc90e412faa6b5cb_extract=199,222,1599,1066_resize=360,240_.jpg?hash=1b22a144841e5211f969e61c990c9616 1.5x, //cdn.xsd.cz/resize/fbdf61e26ec1317dbc90e412faa6b5cb_extract=199,222,1599,1066_resize=480,320_.jpg?hash=14517f743200b405ef56ce4655b3c69b 2x" sizes="240px" width="240" height="160" alt="Turek se omluvil. &quot;Platí dřívější dohoda,&quot; řekl Macinka po schůzce s Babišem" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/domaci/volebni-online/r~b685bd1ea03711f0bf960cc47ab5f122/" data-ec data-ec-pid="b685bd1ea03711f0bf960cc47ab5f122" data-ec-pos="6" data-ec-skip>
+			<h3 class="small-box__title">
+
+		<div
+		 class="box-label box-label--inline box-label--red box-label--live">
+				ŽIVĚ
+		</div>
+
+		Turek se omluvil. "Platí dřívější dohoda," řekl Macinka po schůzce s Babišem
+			</h3>
+				<div class="small-box__desc">
+		Veškeré povolební dění sledujeme v online reportáži.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="d8f43d9ca85e11f0bf960cc47ab5f122" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Bývalý premiér Topolánek oznámil, že má rakovinu slinivky. Čeká ho chemoterapie" data-ga4-author="Martin Sluka" data-ga4-published="2025-10-13" data-ga4-position="7" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/domaci/byvaly-premier-topolanek-oznamil-ze-ma-rakovinou-slinivky-ce/r~d8f43d9ca85e11f0bf960cc47ab5f122/" data-ec data-ec-pid="d8f43d9ca85e11f0bf960cc47ab5f122" data-ec-pos="7">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/4c27aaa46ea3341c9082332fa6fb24cc_extract=0,72,1620,1080_resize=240,160_.jpg?hash=dbbe31865577fcf4a8af0ccaf36b9023" srcset="//cdn.xsd.cz/resize/4c27aaa46ea3341c9082332fa6fb24cc_extract=0,72,1620,1080_resize=240,160_.jpg?hash=dbbe31865577fcf4a8af0ccaf36b9023 1x, //cdn.xsd.cz/resize/4c27aaa46ea3341c9082332fa6fb24cc_extract=0,72,1620,1080_resize=360,240_.jpg?hash=3ad4d18117fc34d2b4f593c13d85011f 1.5x, //cdn.xsd.cz/resize/4c27aaa46ea3341c9082332fa6fb24cc_extract=0,72,1620,1080_resize=480,320_.jpg?hash=dab4eaa0b38a621bbe30ae1cb955da99 2x" sizes="240px" width="240" height="160" alt="Bývalý premiér Topolánek oznámil, že má rakovinu slinivky. Čeká ho chemoterapie" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/domaci/byvaly-premier-topolanek-oznamil-ze-ma-rakovinou-slinivky-ce/r~d8f43d9ca85e11f0bf960cc47ab5f122/" data-ec data-ec-pid="d8f43d9ca85e11f0bf960cc47ab5f122" data-ec-pos="7" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Bývalý premiér Topolánek oznámil, že má rakovinu slinivky. Čeká ho chemoterapie
+			</h3>
+				<div class="small-box__desc">
+		Devětašedesátiletý Topolánek se ke svému zdravotnímu stavu poprvé otevřeně vyjádřil v souvislosti s nedávným úmrtím jaderné fyzičky Dany Drábové.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+	<div class="advert-wrapper--prannotation">
+<div class="advert advert--prannotation sa-hide" id="reklama-prannotation-1">
+	<div class="advert__inner">
+		<div class="advert__native" id="sas-prannotation-1"></div>
+		<div class="advert__content" id="sas-prannotation-render-1"></div>
+		<script>
+			window._ecohec.renderPrAnnotation = SiteAdvert.advertRenderer.prAnnotation;
+			SiteAdvert.advertRenderer.positions[1] = "Default";
+			SiteAdvert.Queue.push(['position', 'sas-prannotation-1', {
+				size: ['prannotation'],
+				pos: 1,
+				callbackData: 'prannotation-1'
+			}]);
+		</script>
+	</div>
+</div>
+	</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="b1ceb9baa5e111f0a1910cc47ab5f122" data-ga4-type="article" data-ga4-section="zahranici" data-ga4-crumbs="zpravy,zahranici" data-ga4-title='"Rusové budou hysteričtí." Moldavsko zbrojí a z Moskvy létají velmi ostré vzkazy' data-ga4-author="Eliška Novotná" data-ga4-published="2025-10-13" data-ga4-position="8" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/zahranici/protiruske-smerovani-zeme-je-nemistne-moskva-se-oprela-do-mo/r~b1ceb9baa5e111f0a1910cc47ab5f122/" data-ec data-ec-pid="b1ceb9baa5e111f0a1910cc47ab5f122" data-ec-pos="8">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/a08653b867f2338494d401081bdf214e_resize=240,160_.jpg?hash=ce451e2a55e8d743dea3e20f999fde18" srcset="//cdn.xsd.cz/resize/a08653b867f2338494d401081bdf214e_resize=240,160_.jpg?hash=ce451e2a55e8d743dea3e20f999fde18 1x, //cdn.xsd.cz/resize/a08653b867f2338494d401081bdf214e_resize=360,240_.jpg?hash=c37007282412794e90224795c86f1c89 1.5x, //cdn.xsd.cz/resize/a08653b867f2338494d401081bdf214e_resize=480,320_.jpg?hash=727a454500ae019ce572840faa5d3878 2x" sizes="240px" width="240" height="160" alt="&quot;Rusové budou hysteričtí.&quot; Moldavsko zbrojí a z Moskvy létají velmi ostré vzkazy" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+			1:09
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/zahranici/protiruske-smerovani-zeme-je-nemistne-moskva-se-oprela-do-mo/r~b1ceb9baa5e111f0a1910cc47ab5f122/" data-ec data-ec-pid="b1ceb9baa5e111f0a1910cc47ab5f122" data-ec-pos="8" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		"Rusové budou hysteričtí." Moldavsko zbrojí a z Moskvy létají velmi ostré vzkazy
+			</h3>
+				<div class="small-box__desc">
+		Moldavsko představilo novou vojenskou strategii na dalších deset let. Ta vyvolala silné reakce z Moskvy.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="6b3e288ea84611f09a9dac1f6b220ee8" data-ga4-type="article" data-ga4-section="film" data-ga4-crumbs="magazin,kultura,film" data-ga4-title="„Všichni v týhle zemi se mě budou snažit zabít.“ Do kin jde film podle Stephena Kinga" data-ga4-author="Petra Smítalová" data-ga4-published="2025-10-13" data-ga4-position="9" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/kultura/film/do-kin-jde-film-bezici-muz-podle-knihy-stephena-kinga/r~6b3e288ea84611f09a9dac1f6b220ee8/" data-ec data-ec-pid="6b3e288ea84611f09a9dac1f6b220ee8" data-ec-pos="9">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/681df923bb7639348855aa7755a8a18e_resize=240,160_.jpg?hash=40a4e3677ece7aa366d8ff46c28b6cf0" srcset="//cdn.xsd.cz/resize/681df923bb7639348855aa7755a8a18e_resize=240,160_.jpg?hash=40a4e3677ece7aa366d8ff46c28b6cf0 1x, //cdn.xsd.cz/resize/681df923bb7639348855aa7755a8a18e_resize=360,240_.jpg?hash=a5ecb41d5c610c0707bd993c83593b54 1.5x, //cdn.xsd.cz/resize/681df923bb7639348855aa7755a8a18e_resize=480,320_.jpg?hash=6a639ca16b61bd8eeecc886412356e79 2x" sizes="240px" width="240" height="160" alt="„Všichni v týhle zemi se mě budou snažit zabít.“ Do kin jde film podle Stephena Kinga" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+			2:24
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/kultura/film/do-kin-jde-film-bezici-muz-podle-knihy-stephena-kinga/r~6b3e288ea84611f09a9dac1f6b220ee8/" data-ec data-ec-pid="6b3e288ea84611f09a9dac1f6b220ee8" data-ec-pos="9" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		„Všichni v týhle zemi se mě budou snažit zabít.“ Do kin jde film podle Stephena Kinga
+			</h3>
+				<div class="small-box__desc">
+		Režisér Edgar Wright natočil nelítostnou akční sci-fi Běžící muž s Glenem Powellem v hlavní roli.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="c4cf7040a82a11f0bb77ac1f6b220ee8" data-ga4-type="article" data-ga4-section="zahranici" data-ga4-crumbs="zpravy,zahranici" data-ga4-title='"Spíš hon na nejbližšího mechanika." Šéf NATO si střílí z Rusů a jejich ponorky' data-ga4-author="Zahraničí, ČTK" data-ga4-published="2025-10-13" data-ga4-position="10" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/zahranici/hon-na-nejblizsiho-mechanika-sef-nato-si-strili-z-rusu-a-jej/r~c4cf7040a82a11f0bb77ac1f6b220ee8/" data-ec data-ec-pid="c4cf7040a82a11f0bb77ac1f6b220ee8" data-ec-pos="10">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/45780dcdafec3e97a0f2e428aa4b3342_extract=159,183,1494,995_resize=240,160_.jpg?hash=13811aa857fb0445a29d994c03158b5f" srcset="//cdn.xsd.cz/resize/45780dcdafec3e97a0f2e428aa4b3342_extract=159,183,1494,995_resize=240,160_.jpg?hash=13811aa857fb0445a29d994c03158b5f 1x, //cdn.xsd.cz/resize/45780dcdafec3e97a0f2e428aa4b3342_extract=159,183,1494,995_resize=360,240_.jpg?hash=22f661d7df4129cad64b56ad2c83e9c0 1.5x, //cdn.xsd.cz/resize/45780dcdafec3e97a0f2e428aa4b3342_extract=159,183,1494,995_resize=480,320_.jpg?hash=5e7206fdb69077b7855d4bf88264aee7 2x" sizes="240px" width="240" height="160" alt="&quot;Spíš hon na nejbližšího mechanika.&quot; Šéf NATO si střílí z Rusů a jejich ponorky" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/zahranici/hon-na-nejblizsiho-mechanika-sef-nato-si-strili-z-rusu-a-jej/r~c4cf7040a82a11f0bb77ac1f6b220ee8/" data-ec data-ec-pid="c4cf7040a82a11f0bb77ac1f6b220ee8" data-ec-pos="10" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		"Spíš hon na nejbližšího mechanika." Šéf NATO si střílí z Rusů a jejich ponorky
+			</h3>
+				<div class="small-box__desc">
+		Ruské ministerstvo obrany popřelo informace o tom, že se u břehů Francie kvůli poruše nouzově vynořila ruská ponorka.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="70b72278a82511f0b2180cc47ab5f122" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Turek platově brutálně prodělá. O to víc, pokud nebude ministrem, ale jen poslancem" data-ga4-author="Viet Tran" data-ga4-published="2025-10-13" data-ga4-position="11" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/domaci/turek-platove-brutalne-prodela-o-to-vic-pokud-nebude-ministr/r~70b72278a82511f0b2180cc47ab5f122/" data-ec data-ec-pid="70b72278a82511f0b2180cc47ab5f122" data-ec-pos="11">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/9945c07130693f6a9069ab72b1c35eb1_extract=246,243,1565,1043_resize=240,160_.jpg?hash=aabcb40a1920155f5851a9f30c761f08" srcset="//cdn.xsd.cz/resize/9945c07130693f6a9069ab72b1c35eb1_extract=246,243,1565,1043_resize=240,160_.jpg?hash=aabcb40a1920155f5851a9f30c761f08 1x, //cdn.xsd.cz/resize/9945c07130693f6a9069ab72b1c35eb1_extract=246,243,1565,1043_resize=360,240_.jpg?hash=943d409004eee4d009ec5b55dd27de63 1.5x, //cdn.xsd.cz/resize/9945c07130693f6a9069ab72b1c35eb1_extract=246,243,1565,1043_resize=480,320_.jpg?hash=2da7ccc5d1a4ae9766a8cf48669cec7c 2x" sizes="240px" width="240" height="160" alt="Turek platově brutálně prodělá. O to víc, pokud nebude ministrem, ale jen poslancem" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/domaci/turek-platove-brutalne-prodela-o-to-vic-pokud-nebude-ministr/r~70b72278a82511f0b2180cc47ab5f122/" data-ec data-ec-pid="70b72278a82511f0b2180cc47ab5f122" data-ec-pos="11" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Turek platově brutálně prodělá. O to víc, pokud nebude ministrem, ale jen poslancem
+			</h3>
+				<div class="small-box__desc">
+		Nově zvolený poslanec za Motoristy sobě se rozloučí nejen s pohádkovým platem a náhradami, ale také relativním klidem v Bruselu.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+	<div class="advert-wrapper--prannotation">
+<div class="advert advert--prannotation sa-hide" id="reklama-prannotation-2">
+	<div class="advert__inner">
+		<div class="advert__native" id="sas-prannotation-2"></div>
+		<div class="advert__content" id="sas-prannotation-render-2"></div>
+		<script>
+			window._ecohec.renderPrAnnotation = SiteAdvert.advertRenderer.prAnnotation;
+			SiteAdvert.advertRenderer.positions[2] = "Default";
+			SiteAdvert.Queue.push(['position', 'sas-prannotation-2', {
+				size: ['prannotation'],
+				pos: 2,
+					targets: { spec: "benative" },
+				callbackData: 'prannotation-2'
+			}]);
+		</script>
+	</div>
+</div>
+	</div>
+
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="88db3fe8a81f11f0b589ac1f6b220ee8" data-ga4-type="gallery" data-ga4-section="galerie-a-videa" data-ga4-crumbs="zpravy,galerie-a-videa" data-ga4-title="Kim ukázal svaly: Severní Korea slaví raketami schopnými zasáhnout USA" data-ga4-author="Jan Bezucha" data-ga4-published="2025-10-13" data-ga4-position="12" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/korea-prehlidka/r~88db3fe8a81f11f0b589ac1f6b220ee8/" data-ec data-ec-pid="88db3fe8a81f11f0b589ac1f6b220ee8" data-ec-pos="12" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/korea-prehlidka/r~88db3fe8a81f11f0b589ac1f6b220ee8/" data-ec data-ec-pid="88db3fe8a81f11f0b589ac1f6b220ee8" data-ec-pos="12">
+			<h3 class="gallery-box__title">
+
+
+		Kim ukázal svaly: Severní Korea slaví raketami schopnými zasáhnout USA
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/a2c8d3fea29230d3a16debd48aafe81c_resize=291,194_.jpg?hash=0c4c964c5af0cbf7d23d1f8fd283de93" srcset="//cdn.xsd.cz/resize/a2c8d3fea29230d3a16debd48aafe81c_resize=291,194_.jpg?hash=0c4c964c5af0cbf7d23d1f8fd283de93 1x, //cdn.xsd.cz/resize/a2c8d3fea29230d3a16debd48aafe81c_resize=436,291_.jpg?hash=10a4c10dc4daabb72b0ad1bb1f6382ac 1.5x, //cdn.xsd.cz/resize/a2c8d3fea29230d3a16debd48aafe81c_resize=582,388_.jpg?hash=01c595552757798c136c932bad62674e 2x" sizes="291px" width="291" height="194" alt="Kim ukázal svaly: Severní Korea slaví raketami schopnými zasáhnout USA" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 12 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/d6b9a4aae5143b7eb951fe8dbddd6399_resize=140,93_.jpg?hash=356235f64db77de17d8131dbd4ed2786" srcset="//cdn.xsd.cz/resize/d6b9a4aae5143b7eb951fe8dbddd6399_resize=140,93_.jpg?hash=356235f64db77de17d8131dbd4ed2786 1x, //cdn.xsd.cz/resize/d6b9a4aae5143b7eb951fe8dbddd6399_resize=210,140_.jpg?hash=7ab7d4a5c47d6dd5396693543caaafbe 1.5x, //cdn.xsd.cz/resize/d6b9a4aae5143b7eb951fe8dbddd6399_resize=280,187_.jpg?hash=9b211d7308caa5bf78b82f7a510c05e7 2x" sizes="140px" width="140" height="93" alt="Speciální vojenské jednotky předvedly svoje vystoupení před zraky nejvyššího vedení země a tisíců diváků." loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/d1557d10c05a328db79bfa0ab439febe_resize=140,93_.jpg?hash=e6966bbbb4563e741cc7814fefc370f3" srcset="//cdn.xsd.cz/resize/d1557d10c05a328db79bfa0ab439febe_resize=140,93_.jpg?hash=e6966bbbb4563e741cc7814fefc370f3 1x, //cdn.xsd.cz/resize/d1557d10c05a328db79bfa0ab439febe_resize=210,140_.jpg?hash=d35e742e9a4082768703ab75692f674d 1.5x, //cdn.xsd.cz/resize/d1557d10c05a328db79bfa0ab439febe_resize=280,187_.jpg?hash=2f9895fdb1c612ff43aa70c16ab7c8c3 2x" sizes="140px" width="140" height="93" alt="Severokorejský vůdce Kim Čong-un vládne od 17. prosince 2011, kdy převzal moc po svém zesnulém otci Kim Čong-ilovi jako třetí a nejmladší syn." loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="9bb47ed6a82e11f095ee0cc47ab5f122" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Turkovy příspěvky zřejmě někdo před smazáním cíleně shromažďoval, míní expert" data-ga4-author="ČTK" data-ga4-published="2025-10-13" data-ga4-position="13" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/domaci/expert-udajne-turkovy-prispevky-nekdo-pred-smazanim-asi-cile/r~9bb47ed6a82e11f095ee0cc47ab5f122/" data-ec data-ec-pid="9bb47ed6a82e11f095ee0cc47ab5f122" data-ec-pos="13">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/158dd7d353a13c7099608a1c5dd6af99_extract=294,0,1306,871_resize=240,160_.jpg?hash=d8444d81d42db2349d7dff3e7a0e477d" srcset="//cdn.xsd.cz/resize/158dd7d353a13c7099608a1c5dd6af99_extract=294,0,1306,871_resize=240,160_.jpg?hash=d8444d81d42db2349d7dff3e7a0e477d 1x, //cdn.xsd.cz/resize/158dd7d353a13c7099608a1c5dd6af99_extract=294,0,1306,871_resize=360,240_.jpg?hash=0294809d5dbfcf964127bc112a338c62 1.5x, //cdn.xsd.cz/resize/158dd7d353a13c7099608a1c5dd6af99_extract=294,0,1306,871_resize=480,320_.jpg?hash=1c662d08760f74908df7886e5952f4b7 2x" sizes="240px" width="240" height="160" alt="Turkovy příspěvky zřejmě někdo před smazáním cíleně shromažďoval, míní expert" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/domaci/expert-udajne-turkovy-prispevky-nekdo-pred-smazanim-asi-cile/r~9bb47ed6a82e11f095ee0cc47ab5f122/" data-ec data-ec-pid="9bb47ed6a82e11f095ee0cc47ab5f122" data-ec-pos="13" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Turkovy příspěvky zřejmě někdo před smazáním cíleně shromažďoval, míní expert
+			</h3>
+				<div class="small-box__desc">
+		Přímo na Facebooku smazané příspěvky po 90 dnech viditelné nejsou a nedají se najít.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="599ea436a86f11f0a26cac1f6b220ee8" data-ga4-type="article" data-ga4-section="hokej" data-ga4-crumbs="sport,hokej" data-ga4-title="Pastrňák ohromil v nezvyklé roli. Blýskl se fantastickým zákrokem v brance" data-ga4-author="Sport" data-ga4-published="2025-10-13" data-ga4-position="14" data-ga4-event="impression,click">
+		<a href="https://sport.aktualne.cz/hokej/pastrnak-ohromil-v-nezvykle-roli-blyskl-se-fantastickym-zakr/r~599ea436a86f11f0a26cac1f6b220ee8/" data-ec data-ec-pid="599ea436a86f11f0a26cac1f6b220ee8" data-ec-pos="14">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/550c6b3ad1273661abcc90fd946884d7_resize=240,160_.jpg?hash=a24274b902bdaf89cf54d1b663d9751b" srcset="//cdn.xsd.cz/resize/550c6b3ad1273661abcc90fd946884d7_resize=240,160_.jpg?hash=a24274b902bdaf89cf54d1b663d9751b 1x, //cdn.xsd.cz/resize/550c6b3ad1273661abcc90fd946884d7_resize=360,240_.jpg?hash=f736c50df28f9add5b7f09fc26c5ebf3 1.5x, //cdn.xsd.cz/resize/550c6b3ad1273661abcc90fd946884d7_resize=480,320_.jpg?hash=d34e0b11ec346b4a9c624bdd1f36ac87 2x" sizes="240px" width="240" height="160" alt="Pastrňák ohromil v nezvyklé roli. Blýskl se fantastickým zákrokem v brance" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://sport.aktualne.cz/hokej/pastrnak-ohromil-v-nezvykle-roli-blyskl-se-fantastickym-zakr/r~599ea436a86f11f0a26cac1f6b220ee8/" data-ec data-ec-pid="599ea436a86f11f0a26cac1f6b220ee8" data-ec-pos="14" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Pastrňák ohromil v nezvyklé roli. Blýskl se fantastickým zákrokem v brance
+			</h3>
+				<div class="small-box__desc">
+		Bruins si přes parádní zákrok českého útočníka, jeho asistenci a dvě gólové přihrávky Pavla Zachy připsali první prohru v sezoně, Tampě podlehli 3:4.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+	<div class="advert-wrapper--prannotation">
+<div class="advert advert--prannotation sa-hide" id="reklama-prannotation-3">
+	<div class="advert__inner">
+		<div class="advert__native" id="sas-prannotation-3"></div>
+		<div class="advert__content" id="sas-prannotation-render-3"></div>
+		<script>
+			window._ecohec.renderPrAnnotation = SiteAdvert.advertRenderer.prAnnotation;
+			SiteAdvert.advertRenderer.positions[3] = "Default";
+			SiteAdvert.Queue.push(['position', 'sas-prannotation-3', {
+				size: ['prannotation'],
+				pos: 3,
+				callbackData: 'prannotation-3'
+			}]);
+		</script>
+	</div>
+</div>
+	</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="35755216a86611f0801c0cc47ab5f122" data-ga4-type="article" data-ga4-section="auto" data-ga4-crumbs="zpravy,ekonomika,auto" data-ga4-title="Poptávka slábne a Čína roste. V Evropě může zavřít až osm automobilových továren" data-ga4-author="ČTK" data-ga4-published="2025-10-13" data-ga4-position="15" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/ekonomika/auto/v-evrope-muze-zavrit-az-osm-automobilovych-tovaren/r~35755216a86611f0801c0cc47ab5f122/" data-ec data-ec-pid="35755216a86611f0801c0cc47ab5f122" data-ec-pos="15">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/a61469734d153c068de9db3d4b0ede56_resize=240,160_.jpg?hash=ae67bab789d9b69eebdf80ca8153dca6" srcset="//cdn.xsd.cz/resize/a61469734d153c068de9db3d4b0ede56_resize=240,160_.jpg?hash=ae67bab789d9b69eebdf80ca8153dca6 1x, //cdn.xsd.cz/resize/a61469734d153c068de9db3d4b0ede56_resize=360,240_.jpg?hash=0c04d6366de5827cc1fa85ea34945c0a 1.5x, //cdn.xsd.cz/resize/a61469734d153c068de9db3d4b0ede56_resize=480,320_.jpg?hash=94c5171dd7d905670219b6c88d552774 2x" sizes="240px" width="240" height="160" alt="Poptávka slábne a Čína roste. V Evropě může zavřít až osm automobilových továren" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/ekonomika/auto/v-evrope-muze-zavrit-az-osm-automobilovych-tovaren/r~35755216a86611f0801c0cc47ab5f122/" data-ec data-ec-pid="35755216a86611f0801c0cc47ab5f122" data-ec-pos="15" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Poptávka slábne a Čína roste. V Evropě může zavřít až osm automobilových továren
+			</h3>
+				<div class="small-box__desc">
+		Evropský automobilový průmysl čekají těžké časy. Závody využívají své kapacity v průměru jen z poloviny, což výrazně snižuje zisky.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="26ffce5e9ae811f0801c0cc47ab5f122" data-ga4-type="article" data-ga4-section="zahranici" data-ga4-crumbs="zpravy,zahranici" data-ga4-title='Ruští krtci mají problém. Ukrajinský "test" je dokáže odhalit během vteřiny' data-ga4-author="Blahoslav Baťa" data-ga4-published="2025-10-13" data-ga4-position="16" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/zahranici/rusti-agenti-a-saboteri-s-nim-marne-bojuji-vysloveni-jednoho/r~26ffce5e9ae811f0801c0cc47ab5f122/" data-ec data-ec-pid="26ffce5e9ae811f0801c0cc47ab5f122" data-ec-pos="16">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/738474051b213017ad33e7b5158bdc51_resize=240,160_.jpg?hash=105260cf0756d02b055a3572b03ad3c9" srcset="//cdn.xsd.cz/resize/738474051b213017ad33e7b5158bdc51_resize=240,160_.jpg?hash=105260cf0756d02b055a3572b03ad3c9 1x, //cdn.xsd.cz/resize/738474051b213017ad33e7b5158bdc51_resize=360,240_.jpg?hash=1192220160def51ccf6bacba0d327972 1.5x, //cdn.xsd.cz/resize/738474051b213017ad33e7b5158bdc51_resize=480,320_.jpg?hash=4a6b2e04a0b9c4364d3702ce646e8baa 2x" sizes="240px" width="240" height="160" alt="Ruští krtci mají problém. Ukrajinský &quot;test&quot; je dokáže odhalit během vteřiny" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+			0:41
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/zahranici/rusti-agenti-a-saboteri-s-nim-marne-bojuji-vysloveni-jednoho/r~26ffce5e9ae811f0801c0cc47ab5f122/" data-ec data-ec-pid="26ffce5e9ae811f0801c0cc47ab5f122" data-ec-pos="16" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Ruští krtci mají problém. Ukrajinský "test" je dokáže odhalit během vteřiny
+			</h3>
+				<div class="small-box__desc">
+		Rusko se po dobu své rozsáhlé invaze snaží mezi Ukrajince infiltrovat své agenty a sabotéry. Ukrajinci ale vymysleli metodu, jak je identifikovat.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+
+
+				
+
+	<div class="specialnews"
+	 data-ga4-id="8569ad909d3911ebaedf0cc47ab5f122" data-ga4-type="graphics" data-ga4-section="podcasty" data-ga4-crumbs="magazin,kultura,podcasty" data-ga4-title="." data-ga4-published="2021-09-01" data-ga4-position="1" data-ga4-block="Speciál" data-ga4-event="impression,click" data-ec-list="specialnews-aktualnehp">
+		<a href="https://magazin.aktualne.cz/kultura/podcasty/podcasty-aktualne/r~8569ad909d3911ebaedf0cc47ab5f122/" data-ec data-ec-pid="8569ad909d3911ebaedf0cc47ab5f122" data-ec-pname="." data-ec-pos="1">
+			<span class="intrinsic intrinsic-3x1"><img src="//cdn.xsd.cz/resize/93ea70db2b0a32a9869cde8fff46be5c_resize=1040,347_.png?hash=99195a7e9b56a25da55899d6da7f3a4e" srcset="//cdn.xsd.cz/resize/93ea70db2b0a32a9869cde8fff46be5c_resize=346,115_.png?hash=e3cdc2a7b63f574b09a28dad480fb98c 346w, //cdn.xsd.cz/resize/93ea70db2b0a32a9869cde8fff46be5c_resize=520,173_.png?hash=2a92efcdb2c6e847aa1782dc447deaf8 520w, //cdn.xsd.cz/resize/93ea70db2b0a32a9869cde8fff46be5c_resize=1040,347_.png?hash=99195a7e9b56a25da55899d6da7f3a4e 1040w, //cdn.xsd.cz/resize/93ea70db2b0a32a9869cde8fff46be5c_resize=1560,520_.png?hash=23580c1f6659984b4e86d0410e9ff7e9 1560w, //cdn.xsd.cz/resize/93ea70db2b0a32a9869cde8fff46be5c_resize=2080,693_.png?hash=a798abf4a2d80f8cc37acdfc9f220813 2080w" sizes="1040px" width="1040" height="347" alt="." restricted="off"></span>
+		</a>
+	</div>
+
+			</div><!-- /.left-column -->
+
+	<div class="right-column">
+
+	<h3 class="timeline-title">Právě se děje</h3>
+
+	<div id="site-filter" class="timeline-checkbox hidden"></div>
+	<script>
+		BBX.sitefilter('.page');
+	</script>
+
+	<div class="timeline timeline--psd"
+		 data-ga4-title="psd"
+		 data-ga4-type="block"
+		 data-ga4-event="impression" data-ec-list="psd-homepage-aktualnehp">
+
+			
+		<div class="small-box filter-b-site-sport clearfix">
+			<a
+				href="https://sport.aktualne.cz/fotbal/slovaci-se-hodinu-trapili-s-lucemburskem-ale-ms-maji-zase-bl/r~ca5a8662a87a11f0801c0cc47ab5f122/"
+			 data-ga4-id="ca5a8662a87a11f0801c0cc47ab5f122" data-ga4-type="article" data-ga4-section="fotbal" data-ga4-crumbs="sport,fotbal" data-ga4-title="Slováci se hodinu trápili s Lucemburskem, ale MS mají zase blíž. Trefil se i Schranz" data-ga4-author="Sport, ČTK" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="psd" data-ga4-event="impression,click" data-ec data-ec-pid="ca5a8662a87a11f0801c0cc47ab5f122" data-ec-pos="1">
+<div class="timeline__label">
+		před 28 minutami
+</div>
+				<h3 class="small-box__title">
+
+
+					Slováci se hodinu trápili s Lucemburskem, ale MS mají zase blíž. Trefil se i Schranz
+				</h3>
+			</a>
+		</div><!-- /.small-box -->
+	
+		<div class="small-box filter-b-site-aktualne clearfix">
+			<a
+				href="https://zpravy.aktualne.cz/domaci/volebni-online/r~b685bd1ea03711f0bf960cc47ab5f122/"
+			 data-ga4-id="b685bd1ea03711f0bf960cc47ab5f122" data-ga4-type="online" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title='Turek se omluvil. "Platí dřívější dohoda," řekl Macinka po schůzce s Babišem' data-ga4-author="Domácí, ČTK" data-ga4-published="2025-10-09" data-ga4-position="2" data-ga4-block="psd" data-ga4-event="impression,click" data-ec data-ec-pid="b685bd1ea03711f0bf960cc47ab5f122" data-ec-pos="2">
+<div class="timeline__label">
+		<span class="aktualizovano">Aktualizováno</span> před 1 hodinou
+</div>
+				<h3 class="small-box__title">
+
+		<div
+		 class="box-label box-label--inline box-label--red box-label--live">
+				ŽIVĚ
+		</div>
+
+					Turek se omluvil. "Platí dřívější dohoda," řekl Macinka po schůzce s Babišem
+				</h3>
+			</a>
+		</div><!-- /.small-box -->
+	
+		<div class="small-box filter-b-site-aktualne clearfix">
+			<a
+				href="https://zpravy.aktualne.cz/zahranici/valka-na-ukrajine-online-prenos/r~441055587f3211f0b589ac1f6b220ee8/"
+			 data-ga4-id="441055587f3211f0b589ac1f6b220ee8" data-ga4-type="online" data-ga4-section="zahranici" data-ga4-crumbs="zpravy,zahranici" data-ga4-title='"Když vy tomahawky Kyjevu, tak my atomovky." Medveděv (zase) hrozí Trumpovi' data-ga4-author="ČTK, Reuters, Zahraničí" data-ga4-published="2025-09-17" data-ga4-position="3" data-ga4-block="psd" data-ga4-event="impression,click" data-ec data-ec-pid="441055587f3211f0b589ac1f6b220ee8" data-ec-pos="3">
+<div class="timeline__label">
+		<span class="aktualizovano">Aktualizováno</span> před 1 hodinou
+</div>
+				<h3 class="small-box__title">
+
+		<div
+		 class="box-label box-label--inline box-label--red box-label--live">
+				ŽIVĚ
+		</div>
+
+					"Když vy tomahawky Kyjevu, tak my atomovky." Medveděv (zase) hrozí Trumpovi
+				</h3>
+			</a>
+		</div><!-- /.small-box -->
+	
+		<div class="small-box filter-b-site-sport clearfix">
+			<a
+				href="https://sport.aktualne.cz/hokej/pastrnak-ohromil-v-nezvykle-roli-blyskl-se-fantastickym-zakr/r~599ea436a86f11f0a26cac1f6b220ee8/"
+			 data-ga4-id="599ea436a86f11f0a26cac1f6b220ee8" data-ga4-type="article" data-ga4-section="hokej" data-ga4-crumbs="sport,hokej" data-ga4-title="Pastrňák ohromil v nezvyklé roli. Blýskl se fantastickým zákrokem v brance" data-ga4-author="Sport" data-ga4-published="2025-10-13" data-ga4-position="4" data-ga4-block="psd" data-ga4-event="impression,click" data-ec data-ec-pid="599ea436a86f11f0a26cac1f6b220ee8" data-ec-pos="4">
+<div class="timeline__label">
+		před 1 hodinou
+</div>
+				<h3 class="small-box__title">
+
+
+					Pastrňák ohromil v nezvyklé roli. Blýskl se fantastickým zákrokem v brance
+				</h3>
+			</a>
+		</div><!-- /.small-box -->
+	
+		<div class="small-box filter-b-site-aktualne clearfix">
+			<a
+				href="https://zpravy.aktualne.cz/ekonomika/auto/v-evrope-muze-zavrit-az-osm-automobilovych-tovaren/r~35755216a86611f0801c0cc47ab5f122/"
+			 data-ga4-id="35755216a86611f0801c0cc47ab5f122" data-ga4-type="article" data-ga4-section="auto" data-ga4-crumbs="zpravy,ekonomika,auto" data-ga4-title="Poptávka slábne a Čína roste. V Evropě může zavřít až osm automobilových továren" data-ga4-author="ČTK" data-ga4-published="2025-10-13" data-ga4-position="5" data-ga4-block="psd" data-ga4-event="impression,click" data-ec data-ec-pid="35755216a86611f0801c0cc47ab5f122" data-ec-pos="5">
+<div class="timeline__label">
+		před 2 hodinami
+</div>
+				<h3 class="small-box__title">
+
+
+					Poptávka slábne a Čína roste. V Evropě může zavřít až osm automobilových továren
+				</h3>
+			</a>
+		</div><!-- /.small-box -->
+	
+		<div class="small-box filter-b-site-sport clearfix">
+			<a
+				href="https://sport.aktualne.cz/fotbal/senzace-dokonana-ostrovni-stat-s-pulmilionem-obyvatel-si-zah/r~c6950e94a86111f0ae9c0cc47ab5f122/"
+			 data-ga4-id="c6950e94a86111f0ae9c0cc47ab5f122" data-ga4-type="article" data-ga4-section="fotbal" data-ga4-crumbs="sport,fotbal" data-ga4-title="Senzace dokonána. Sopečné ostrovy s půlmilionem obyvatel si zahrají na fotbalovém MS" data-ga4-author="Sport, ČTK" data-ga4-published="2025-10-13" data-ga4-position="6" data-ga4-block="psd" data-ga4-event="impression,click" data-ec data-ec-pid="c6950e94a86111f0ae9c0cc47ab5f122" data-ec-pos="6">
+<div class="timeline__label">
+		<span class="aktualizovano">Aktualizováno</span> před 3 hodinami
+</div>
+				<h3 class="small-box__title">
+
+
+					Senzace dokonána. Sopečné ostrovy s půlmilionem obyvatel si zahrají na fotbalovém MS
+				</h3>
+			</a>
+		</div><!-- /.small-box -->
+	
+		<div class="small-box filter-b-site-aktualne clearfix">
+			<a
+				href="https://zpravy.aktualne.cz/domaci/byvaly-premier-topolanek-oznamil-ze-ma-rakovinou-slinivky-ce/r~d8f43d9ca85e11f0bf960cc47ab5f122/"
+			 data-ga4-id="d8f43d9ca85e11f0bf960cc47ab5f122" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Bývalý premiér Topolánek oznámil, že má rakovinu slinivky. Čeká ho chemoterapie" data-ga4-author="Martin Sluka" data-ga4-published="2025-10-13" data-ga4-position="7" data-ga4-block="psd" data-ga4-event="impression,click" data-ec data-ec-pid="d8f43d9ca85e11f0bf960cc47ab5f122" data-ec-pos="7">
+<div class="timeline__label">
+		před 3 hodinami
+</div>
+				<h3 class="small-box__title">
+
+
+					Bývalý premiér Topolánek oznámil, že má rakovinu slinivky. Čeká ho chemoterapie
+				</h3>
+			</a>
+		</div><!-- /.small-box -->
+
+			<div class="benative">
+		<div class="benative__box">
+			<a class="benative__title" href="https://zpravy.aktualne.cz/ekonomika/partnerske-projekty-benative/r~c25feb607b7c11ed93abac1f6b220ee8/">BeNative</a>
+			<div class="benative__content">
+						<a class="benative__content__link" href="https://zpravy.aktualne.cz/prumyslove-nemovitosti-investice-ktera-drzi-evropu-pohromade/r~e74be74094c811f0b553ac1f6b220ee8/">Průmyslové nemovitosti: Investice, která drží Evropu pohromadě</a>
+			</div>
+		</div>
+	</div>
+
+
+		<a class="more-btn more-btn--timeline"
+		   href="https://www.aktualne.cz/prave-se-stalo/"
+		   data-evt-active
+		   data-evt-category="hp-button-news"
+		   data-evt-label="@location">
+			Další zprávy
+		</a>
+	</div>
+
+	
+
+	<div class="m-sticky">
+		<div class="m-sticky__content">
+			<div class="js-caroda-desktop js-caroda-mobile"></div>
+
+<div id="reklama-multisize-1" class="advert sa-hide">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-multisize-1">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-multisize-1', {
+					size: function (device) {
+						if (device === 'm' && 1 !== 3) {
+							return { size: ['mediumrectangle', 'square300'] };
+						} else if (device === 'm' && 1 === 3) {
+							return { size: null };
+						} else {
+							return {
+								size: ['halfpage', 'mediumrectangle', 'square300', 'widesky'],
+								hbId: "halfpage1"
+							};
+						}
+					},
+					pos: 1,
+					_hbBbx: 'exact_set',
+					callbackData: 'multisize-1'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+		</div>
+	</div>
+
+	</div><!-- /.right-column -->
+
+		</div><!-- /.wrapper -->
+
+
+		<div class="wrapper wrapper--hp-sections">
+			<div class="left-column" data-evt-active="true" data-evt-category="floor-aktualnehp-title" data-evt-filter=".floor-title a" data-evt-label="@href">
+				
+
+	<div class="floor-title">
+		<a href="/infografika/l~i:keyword:945/">Grafiky</a>
+	</div>
+	<div data-ga4-title="Grafiky" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-grafiky">
+
+
+
+<div>
+
+	<div class="small-box small-box--graphicscoda small-box--listing clearfix" data-ga4-id="37111796a36f11f0b589ac1f6b220ee8" data-ga4-type="graphicscoda" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title="Noc, kdy jezero Nyos vydechlo smrt. Tichý výbuch zabil téměř 1800 lidí" data-ga4-author="Dan Poláček, Šárka Nádeníčková" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Grafiky" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/katastrofa-jezero-nyos-limnicka-erupce-ticha-smrt-1986/r~37111796a36f11f0b589ac1f6b220ee8/" data-ec data-ec-pid="37111796a36f11f0b589ac1f6b220ee8" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/f129c96960e93c6bbcde843f02547215_extract=329,468,1001,666_resize=240,160_.jpg?hash=7881d71a51484375bbbafbfc7da78f99" srcset="//cdn.xsd.cz/resize/f129c96960e93c6bbcde843f02547215_extract=329,468,1001,666_resize=240,160_.jpg?hash=7881d71a51484375bbbafbfc7da78f99 1x, //cdn.xsd.cz/resize/f129c96960e93c6bbcde843f02547215_extract=329,468,1001,666_resize=360,240_.jpg?hash=48c29a081d7bc197b088e9f617b84fac 1.5x, //cdn.xsd.cz/resize/f129c96960e93c6bbcde843f02547215_extract=329,468,1001,666_resize=480,320_.jpg?hash=855d8c3b537e6e1557367bbf24b04f6e 2x" sizes="240px" width="240" height="160" alt="Noc, kdy jezero Nyos vydechlo smrt. Tichý výbuch zabil téměř 1800 lidí" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--graphicscoda">
+		Přehled
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/katastrofa-jezero-nyos-limnicka-erupce-ticha-smrt-1986/r~37111796a36f11f0b589ac1f6b220ee8/" data-ec data-ec-pid="37111796a36f11f0b589ac1f6b220ee8" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Noc, kdy jezero Nyos vydechlo smrt. Tichý výbuch zabil téměř 1800 lidí
+			</h3>
+				<div class="small-box__desc">
+		Jedna noc, jedno jezero, 1800 obětí. Mrazivý příběh tiché a neviditelné smrti, která bez varování unikla z hlubin a udusila vše živé.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+	<div class="small-box small-box--graphics small-box--listing clearfix" data-ga4-id="61d945fae5f811e584160025900fea04" data-ga4-type="graphics" data-ga4-section="tenis" data-ga4-crumbs="sport,tenis" data-ga4-title="Bejlek je poprvé ve stovce, Siniaková zvýšila náskok v čele. Projděte si žebříčky" data-ga4-author="Sport" data-ga4-published="2025-07-14" data-ga4-position="2" data-ga4-block="Grafiky" data-ga4-event="impression,click">
+		<a href="https://sport.aktualne.cz/tenis/tenisove-zebricky/r~61d945fae5f811e584160025900fea04/" data-ec data-ec-pid="61d945fae5f811e584160025900fea04" data-ec-pos="2">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/528f460663613d04a1607956e792ff09_extract=30,67,1086,725_resize=480,320_.jpg?hash=678aeb8bb652d0a532cb2299af12ef83" srcset="//cdn.xsd.cz/resize/528f460663613d04a1607956e792ff09_extract=30,67,1086,725_resize=480,320_.jpg?hash=678aeb8bb652d0a532cb2299af12ef83 1x, //cdn.xsd.cz/resize/528f460663613d04a1607956e792ff09_extract=30,67,1086,725_resize=720,480_.jpg?hash=11617cbf0bcbb40e38aff4eff3b273b0 1.5x, //cdn.xsd.cz/resize/528f460663613d04a1607956e792ff09_extract=30,67,1086,725_resize=960,640_.jpg?hash=9d197c1b80344611f4f6e487d851d200 2x" sizes="480px" width="480" height="320" alt="Bejlek je poprvé ve stovce, Siniaková zvýšila náskok v čele. Projděte si žebříčky" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--graphics">
+		Infografika
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://sport.aktualne.cz/tenis/tenisove-zebricky/r~61d945fae5f811e584160025900fea04/" data-ec data-ec-pid="61d945fae5f811e584160025900fea04" data-ec-pos="2" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Bejlek je poprvé ve stovce, Siniaková zvýšila náskok v čele. Projděte si žebříčky
+			</h3>
+				<div class="small-box__desc">
+		Linda Nosková je stále novou českou tenisovou jedničkou, Kateřina Siniaková zvýšila náskok v čele světového pořadí v deblu.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+<div class="advert advert--prannotation sa-hide" id="reklama-prannotation-3">
+	<div class="advert__inner">
+		<div class="advert__native" id="sas-prannotation-3"></div>
+		<div class="advert__content" id="sas-prannotation-render-3"></div>
+		<script>
+			window._ecohec.renderPrAnnotation = SiteAdvert.advertRenderer.prAnnotation;
+			SiteAdvert.advertRenderer.positions[3] = "Default";
+			SiteAdvert.Queue.push(['position', 'sas-prannotation-3', {
+				size: ['prannotation'],
+				pos: 3,
+				callbackData: 'prannotation-3'
+			}]);
+		</script>
+	</div>
+</div>
+
+
+
+<div>
+
+	<div class="small-box small-box--graphicscoda small-box--listing clearfix" data-ga4-id="956cf9805b0411f09af20cc47ab5f122" data-ga4-type="graphicscoda" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title="Skutečný příběh Řezníka z Plainfieldu. Ed Gein znovu ožívá jako seriálové Monstrum" data-ga4-author="Dan Poláček, Dagmar Tichá" data-ga4-published="2025-07-13" data-ga4-position="3" data-ga4-block="Grafiky" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/ed-gein-skutecny-pribeh-psycho/r~956cf9805b0411f09af20cc47ab5f122/" data-ec data-ec-pid="956cf9805b0411f09af20cc47ab5f122" data-ec-pos="3">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/0aba280cc8593bcab68df5d74e0b0aab_extract=363,531,907,604_resize=240,160_.jpg?hash=18684a08924d0005746641b3e599b7f0" srcset="//cdn.xsd.cz/resize/0aba280cc8593bcab68df5d74e0b0aab_extract=363,531,907,604_resize=240,160_.jpg?hash=18684a08924d0005746641b3e599b7f0 1x, //cdn.xsd.cz/resize/0aba280cc8593bcab68df5d74e0b0aab_extract=363,531,907,604_resize=360,240_.jpg?hash=022189c129c4fee4a20efa8920f1411d 1.5x, //cdn.xsd.cz/resize/0aba280cc8593bcab68df5d74e0b0aab_extract=363,531,907,604_resize=480,320_.jpg?hash=4287fda126edd718ee14dd7bd7716419 2x" sizes="240px" width="240" height="160" alt="Skutečný příběh Řezníka z Plainfieldu. Ed Gein znovu ožívá jako seriálové Monstrum" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--graphicscoda">
+		Přehled
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/ed-gein-skutecny-pribeh-psycho/r~956cf9805b0411f09af20cc47ab5f122/" data-ec data-ec-pid="956cf9805b0411f09af20cc47ab5f122" data-ec-pos="3" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Skutečný příběh Řezníka z Plainfieldu. Ed Gein znovu ožívá jako seriálové Monstrum
+			</h3>
+				<div class="small-box__desc">
+		Ed Gein: tichý farmář, který vyráběl věci a převleky z lidských ostatků, inspiroval nejděsivější horory. Příběh monstra skrytého za fasádou souseda.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-2">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-2">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-2', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 2,
+					callbackData: 'mediumrectangle-2'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://video.aktualne.cz/">Video</a>
+	</div>
+	<div data-ec-list="floor-aktualnehp-video">
+
+	<div
+	 data-ga4-id="2f2a9bf8a83611f0bf960cc47ab5f122" data-ga4-type="article" data-ga4-section="z-domova" data-ga4-crumbs="video,z-domova" data-ga4-title="Co bude s Turkem a celou vládou? Macinka i hlavní aktér jednali s Babišem" data-ga4-author="ČTK" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Video" data-ga4-event="impression,click" class="aktualnehp-video-box aktualnehp-video-box--opener clearfix">
+
+		<a href="https://video.aktualne.cz/z-domova/zive-co-bude-s-turkem-a-celou-vladou-macinka-jednal-s-babise/r~2f2a9bf8a83611f0bf960cc47ab5f122/" data-ec data-ec-pid="2f2a9bf8a83611f0bf960cc47ab5f122" data-ec-pos="1">
+			<div class="aktualnehp-video-box__image">
+				<span class="intrinsic intrinsic-16x9"><img src="//cdn.xsd.cz/resize/6465efa1378d3e879ebaec66c6015144_extract=0,0,1280,720_resize=620,349_.jpg?hash=3f885ba5086401cea2fce4c2ef17d5c9" srcset="//cdn.xsd.cz/resize/6465efa1378d3e879ebaec66c6015144_extract=0,0,1280,720_resize=620,349_.jpg?hash=3f885ba5086401cea2fce4c2ef17d5c9 1x, //cdn.xsd.cz/resize/6465efa1378d3e879ebaec66c6015144_extract=0,0,1280,720_resize=930,523_.jpg?hash=fe97c434b1a2b37b37b8422944400810 1.5x, //cdn.xsd.cz/resize/6465efa1378d3e879ebaec66c6015144_extract=0,0,1280,720_resize=1240,698_.jpg?hash=9b97169147db8dc5cd0956d98bfdffe0 2x" sizes="620px" width="620" height="349" alt="Co bude s Turkem a celou vládou? Macinka i hlavní aktér jednali s Babišem" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+	</div>
+
+
+
+
+
+
+
+			</div>
+			<h3 class="aktualnehp-video-box__title">
+				Co bude s Turkem a celou vládou? Macinka i hlavní aktér jednali s Babišem
+			</h3>
+			<div class="aktualnehp-video-box__section">
+				Z domova
+			</div>
+		</a>
+	</div>
+					<div class="clearfix">
+
+
+	<div
+	 data-ga4-id="00beb260a5cd11f0a1910cc47ab5f122" data-ga4-type="article" data-ga4-section="spotlight" data-ga4-crumbs="video,spotlight" data-ga4-title="Přijde tvrdý náraz. Ekonom vykreslil krizové scénáře Babišova rozhazování" data-ga4-author="Petra Jaroměřská" data-ga4-published="2025-10-13" data-ga4-position="2" data-ga4-block="Video" data-ga4-event="impression,click" class="aktualnehp-video-box aktualnehp-video-box--third clearfix">
+
+		<a href="https://video.aktualne.cz/spotlight/prijde-tvrdy-naraz-ekonom-vykreslil-krizove-scenare-babisova/r~00beb260a5cd11f0a1910cc47ab5f122/" data-ec data-ec-pid="00beb260a5cd11f0a1910cc47ab5f122" data-ec-pos="2">
+			<div class="aktualnehp-video-box__image">
+				<span class="intrinsic intrinsic-16x9"><img src="//cdn.xsd.cz/resize/f0c9531380133c86800db8740b23fc48_extract=0,0,1919,1080_resize=480,270_.jpg?hash=d07e20d4d93084e7c19addda588b8967" srcset="//cdn.xsd.cz/resize/f0c9531380133c86800db8740b23fc48_extract=0,0,1919,1080_resize=480,270_.jpg?hash=d07e20d4d93084e7c19addda588b8967 1x, //cdn.xsd.cz/resize/f0c9531380133c86800db8740b23fc48_extract=0,0,1919,1080_resize=720,405_.jpg?hash=bf7988a8f70e285a4699efd172979821 1.5x, //cdn.xsd.cz/resize/f0c9531380133c86800db8740b23fc48_extract=0,0,1919,1080_resize=960,540_.jpg?hash=2cd50f698c4ff5a839f692d0e9aeb800 2x" sizes="480px" width="480" height="270" alt="Přijde tvrdý náraz. Ekonom vykreslil krizové scénáře Babišova rozhazování" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+			26:03
+	</div>
+
+
+
+
+
+
+
+			</div>
+			<h3 class="aktualnehp-video-box__title">
+				Přijde tvrdý náraz. Ekonom vykreslil krizové scénáře Babišova rozhazování
+			</h3>
+			<div class="aktualnehp-video-box__section">
+				Spotlight
+			</div>
+		</a>
+	</div>
+
+
+
+	<div
+	 data-ga4-id="03390328a45711f0b2180cc47ab5f122" data-ga4-type="article" data-ga4-section="aktualne-pro-byznys" data-ga4-crumbs="video,aktualne-pro-byznys" data-ga4-title="Debata HN: Nižší likvidita, větší výnosy. Jak investovat do private equity fondů?" data-ga4-author="Jakub Zuzánek, Blahoslav Baťa" data-ga4-published="2025-10-10" data-ga4-position="3" data-ga4-block="Video" data-ga4-event="impression,click" class="aktualnehp-video-box aktualnehp-video-box--third clearfix">
+
+		<a href="https://video.aktualne.cz/aktualne-pro-byznys/debata-hn-nizsi-likvidita-vetsi-vynosy-jak-investovat-do-pri/r~03390328a45711f0b2180cc47ab5f122/" data-ec data-ec-pid="03390328a45711f0b2180cc47ab5f122" data-ec-pos="3">
+			<div class="aktualnehp-video-box__image">
+				<span class="intrinsic intrinsic-16x9"><img src="//cdn.xsd.cz/resize/4fe99ea2479936f0b3e58cdbbafe3a65_resize=480,270_.jpg?hash=68cf29a27f04c9b5525758314c13edf1" srcset="//cdn.xsd.cz/resize/4fe99ea2479936f0b3e58cdbbafe3a65_resize=480,270_.jpg?hash=68cf29a27f04c9b5525758314c13edf1 1x, //cdn.xsd.cz/resize/4fe99ea2479936f0b3e58cdbbafe3a65_resize=720,405_.jpg?hash=db03999167b434cbfe1670c8c119c0ca 1.5x, //cdn.xsd.cz/resize/4fe99ea2479936f0b3e58cdbbafe3a65_resize=960,540_.jpg?hash=acb8243a9dc829c83676906c0a9afa15 2x" sizes="480px" width="480" height="270" alt="Debata HN: Nižší likvidita, větší výnosy. Jak investovat do private equity fondů?" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+			53:27
+	</div>
+
+
+
+
+
+
+
+			</div>
+			<h3 class="aktualnehp-video-box__title">
+				Debata HN: Nižší likvidita, větší výnosy. Jak investovat do private equity fondů?
+			</h3>
+			<div class="aktualnehp-video-box__section">
+				Aktuálně Pro Byznys
+			</div>
+		</a>
+	</div>
+
+
+
+	<div
+	 data-ga4-id="c726c6aea41a11f0a26cac1f6b220ee8" data-ga4-type="article" data-ga4-section="spotlight" data-ga4-crumbs="video,spotlight" data-ga4-title="Putinův režim ji chtěl ve vězení zničit. „Jenže udělali chybu,“ popisuje Skočilenková" data-ga4-author="Tým Spotlight" data-ga4-published="2025-10-09" data-ga4-position="4" data-ga4-block="Video" data-ga4-event="impression,click" class="aktualnehp-video-box aktualnehp-video-box--third clearfix">
+
+		<a href="https://video.aktualne.cz/spotlight/putinuv-rezim-ji-chtel-ve-vezeni-znicit-jenze-udelali-chybu/r~c726c6aea41a11f0a26cac1f6b220ee8/" data-ec data-ec-pid="c726c6aea41a11f0a26cac1f6b220ee8" data-ec-pos="4">
+			<div class="aktualnehp-video-box__image">
+				<span class="intrinsic intrinsic-16x9"><img src="//cdn.xsd.cz/resize/3b21fdc06ed134ac8c9aef6014dc05f6_resize=480,270_.jpg?hash=96d9cb10538c0597d986c8c3a9addb9a" srcset="//cdn.xsd.cz/resize/3b21fdc06ed134ac8c9aef6014dc05f6_resize=480,270_.jpg?hash=96d9cb10538c0597d986c8c3a9addb9a 1x, //cdn.xsd.cz/resize/3b21fdc06ed134ac8c9aef6014dc05f6_resize=720,405_.jpg?hash=42425ec42e03a895d7117efcd58e8a95 1.5x, //cdn.xsd.cz/resize/3b21fdc06ed134ac8c9aef6014dc05f6_resize=960,540_.jpg?hash=b13fa40568f3a1a5a177bfe75751e257 2x" sizes="480px" width="480" height="270" alt="Putinův režim ji chtěl ve vězení zničit. „Jenže udělali chybu,“ popisuje Skočilenková" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+			34:25
+	</div>
+
+
+
+
+
+
+
+			</div>
+			<h3 class="aktualnehp-video-box__title">
+				Putinův režim ji chtěl ve vězení zničit. „Jenže udělali chybu,“ popisuje Skočilenková
+			</h3>
+			<div class="aktualnehp-video-box__section">
+				Spotlight
+			</div>
+		</a>
+	</div>
+
+					</div>
+	</div>
+
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-3">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-3">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-3', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 3,
+					callbackData: 'mediumrectangle-3'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://zpravy.aktualne.cz/domaci/">Domácí</a>
+	</div>
+	<div data-ga4-title="Domácí" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-domaci">
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="c4ba6a86a84011f0a26cac1f6b220ee8" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Znásilnil pacientku po celkové anestezii, soud potvrdil sanitáři trest vězení" data-ga4-author="ČTK" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Domácí" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/domaci/nejvyssi-soud-potvrdil-byvalemu-sanitari-sestilety-trest-za/r~c4ba6a86a84011f0a26cac1f6b220ee8/" data-ec data-ec-pid="c4ba6a86a84011f0a26cac1f6b220ee8" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/db6c826a36363b05ae60012adc7e2a0a_resize=240,160_.jpg?hash=b63f7eab74383520eff0711d451af694" srcset="//cdn.xsd.cz/resize/db6c826a36363b05ae60012adc7e2a0a_resize=240,160_.jpg?hash=b63f7eab74383520eff0711d451af694 1x, //cdn.xsd.cz/resize/db6c826a36363b05ae60012adc7e2a0a_resize=360,240_.jpg?hash=b4a52d281db8c014add49e900ab419b8 1.5x, //cdn.xsd.cz/resize/db6c826a36363b05ae60012adc7e2a0a_resize=480,320_.jpg?hash=5b4b88ce9025f836e257f3c252cc5d7f 2x" sizes="240px" width="240" height="160" alt="Znásilnil pacientku po celkové anestezii, soud potvrdil sanitáři trest vězení" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/domaci/nejvyssi-soud-potvrdil-byvalemu-sanitari-sestilety-trest-za/r~c4ba6a86a84011f0a26cac1f6b220ee8/" data-ec data-ec-pid="c4ba6a86a84011f0a26cac1f6b220ee8" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Znásilnil pacientku po celkové anestezii, soud potvrdil sanitáři trest vězení
+			</h3>
+				<div class="small-box__desc">
+		Sanitář se odvolal k nejvyššímu soudu. Ten ovšem rozsudek soudu nižší instance potvrdil.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/domaci/navrat-do-vlasti-uprchly-poslanec-se-vraci-do-ceska/r~f6adaa3ca81111f080bfac1f6b220ee8/" data-ec data-ec-pid="f6adaa3ca81111f080bfac1f6b220ee8" data-ec-pos="2">
+
+
+							Uprchlý exposlanec Wolf odsouzený za dotační podvod je zpět v Česku
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/domaci/podnikatel-dovhomilja-potvrdil-soudu-korupci-v-dopravnim-pod/r~6b73a246a82011f0b553ac1f6b220ee8/" data-ec data-ec-pid="6b73a246a82011f0b553ac1f6b220ee8" data-ec-pos="3">
+
+
+							Sám měl dostat miliony. Spolupracující obžalovaný popsal korupci v kauze Dozimetr
+						</a>
+					</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-4">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-4">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-4', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 4,
+					callbackData: 'mediumrectangle-4'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://zpravy.aktualne.cz/zahranici/">Zahraničí</a>
+	</div>
+	<div data-ga4-title="Zahraničí" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-zahranici">
+
+
+
+<div>
+
+	<div class="small-box small-box--online small-box--listing clearfix" data-ga4-id="441055587f3211f0b589ac1f6b220ee8" data-ga4-type="online" data-ga4-section="zahranici" data-ga4-crumbs="zpravy,zahranici" data-ga4-title='"Když vy tomahawky Kyjevu, tak my atomovky." Medveděv (zase) hrozí Trumpovi' data-ga4-author="ČTK, Reuters, Zahraničí" data-ga4-published="2025-09-17" data-ga4-position="1" data-ga4-block="Zahraničí" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/zahranici/valka-na-ukrajine-online-prenos/r~441055587f3211f0b589ac1f6b220ee8/" data-ec data-ec-pid="441055587f3211f0b589ac1f6b220ee8" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/9121e3060be13fb999c5660bf0e8fa6e_resize=240,160_.jpg?hash=86ea779332cca982e25eaa5c51153313" srcset="//cdn.xsd.cz/resize/9121e3060be13fb999c5660bf0e8fa6e_resize=240,160_.jpg?hash=86ea779332cca982e25eaa5c51153313 1x, //cdn.xsd.cz/resize/9121e3060be13fb999c5660bf0e8fa6e_resize=360,240_.jpg?hash=a1d73eff6f392de4605ee3892fcfd14c 1.5x, //cdn.xsd.cz/resize/9121e3060be13fb999c5660bf0e8fa6e_resize=480,320_.jpg?hash=2a637b883a065b46bddcbbbe7f6ed6e2 2x" sizes="240px" width="240" height="160" alt="&quot;Když vy tomahawky Kyjevu, tak my atomovky.&quot; Medveděv (zase) hrozí Trumpovi" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/zahranici/valka-na-ukrajine-online-prenos/r~441055587f3211f0b589ac1f6b220ee8/" data-ec data-ec-pid="441055587f3211f0b589ac1f6b220ee8" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+		<div
+		 class="box-label box-label--inline box-label--red box-label--live">
+				ŽIVĚ
+		</div>
+
+		"Když vy tomahawky Kyjevu, tak my atomovky." Medveděv (zase) hrozí Trumpovi
+			</h3>
+				<div class="small-box__desc">
+		Dění kolem války na Ukrajině sledujeme v online přenosu.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/zahranici/hamas-predal-do-rukou-cerveneho-krize-prvnich-sedm-z-20-zivy/r~53855e5ca7fa11f0b2180cc47ab5f122/" data-ec data-ec-pid="53855e5ca7fa11f0b2180cc47ab5f122" data-ec-pos="2">
+
+		<div
+		 class="box-label box-label--inline box-label--red box-label--live">
+				ŽIVĚ
+		</div>
+
+							Hamás a Izrael vyměnily rukojmí za vězně, Trump zahájil mírový summit v Egyptě
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/zahranici/na-vychodnim-slovensku-se-srazily-dva-rychliky-media-pisi-o/r~d16585d4a81511f080bfac1f6b220ee8/" data-ec data-ec-pid="d16585d4a81511f080bfac1f6b220ee8" data-ec-pos="3">
+
+
+							Na Slovensku se srazily rychlíky, na místě jsou zranění. Nejspíš selhal strojvůdce
+						</a>
+					</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-5">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-5">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-5', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 5,
+					callbackData: 'mediumrectangle-5'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://sport.aktualne.cz/">Sport</a>
+	</div>
+	<div data-ga4-title="Sport" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-sport">
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="016c4faca78911f0ae9c0cc47ab5f122" data-ga4-type="article_minigallery" data-ga4-section="tenis" data-ga4-crumbs="sport,tenis" data-ga4-title="Zvíře, říkají o Siniakové. Dojala další partnerku a vyvolala rozruch rozhodnutím" data-ga4-author="Aleš Vávra" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Sport" data-ga4-event="impression,click">
+		<a href="https://sport.aktualne.cz/tenis/zvire-rikaji-o-siniakove-dojala-dalsi-partnerku-a-vzbudila-r/r~016c4faca78911f0ae9c0cc47ab5f122/" data-ec data-ec-pid="016c4faca78911f0ae9c0cc47ab5f122" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/954e8b7caa11311ab75c24d1bd642e32_resize=240,160_.jpg?hash=1eb6ffbf27989cf57be33615b1d29815" srcset="//cdn.xsd.cz/resize/954e8b7caa11311ab75c24d1bd642e32_resize=240,160_.jpg?hash=1eb6ffbf27989cf57be33615b1d29815 1x, //cdn.xsd.cz/resize/954e8b7caa11311ab75c24d1bd642e32_resize=360,240_.jpg?hash=a36d029abd47ba3da34401d048ad7765 1.5x, //cdn.xsd.cz/resize/954e8b7caa11311ab75c24d1bd642e32_resize=480,320_.jpg?hash=a0874098ffd2f0caf33283911a15721f 2x" sizes="240px" width="240" height="160" alt="Zvíře, říkají o Siniakové. Dojala další partnerku a vyvolala rozruch rozhodnutím" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://sport.aktualne.cz/tenis/zvire-rikaji-o-siniakove-dojala-dalsi-partnerku-a-vzbudila-r/r~016c4faca78911f0ae9c0cc47ab5f122/" data-ec data-ec-pid="016c4faca78911f0ae9c0cc47ab5f122" data-ec-pos="1" data-ec-skip>
+			<div class="category-label">
+				Tenis
+			</div>
+			<h3 class="small-box__title">
+
+
+		Zvíře, říkají o Siniakové. Dojala další partnerku a vyvolala rozruch rozhodnutím
+			</h3>
+				<div class="small-box__desc">
+		Je jedno, s kým česká tenistka hraje. Na konci pravidelně zvedá pohár a poslouchá pocty a slova díků od spoluhráčky.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="https://sport.aktualne.cz/fotbal/slovaci-se-hodinu-trapili-s-lucemburskem-ale-ms-maji-zase-bl/r~ca5a8662a87a11f0801c0cc47ab5f122/" data-ec data-ec-pid="ca5a8662a87a11f0801c0cc47ab5f122" data-ec-pos="2">
+
+
+							Slováci se hodinu trápili s Lucemburskem, ale MS mají zase blíž. Trefil se i Schranz
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://sport.aktualne.cz/fotbal/to-je-novy-pele-patnactilety-zazrak-z-manchesteru-ohromil-fa/r~868e6288a5f911f095ee0cc47ab5f122/" data-ec data-ec-pid="868e6288a5f911f095ee0cc47ab5f122" data-ec-pos="3">
+
+
+							"To je nový Pelé." Patnáctiletý zázrak z Manchesteru ohromil fanoušky
+						</a>
+					</div>
+	</div>
+
+
+				
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-6">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-6">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-6', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 6,
+					callbackData: 'mediumrectangle-6'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+	<div class="floor-title">
+		<a href="https://nazory.aktualne.cz/">Názory</a>
+	</div>
+	<div data-ec-list="floor-aktualnehp-nazory">
+	<div class="small-box small-box--author-opener small-box--listing clearfix"
+	 data-ga4-id="a6b212b2a80111f095ee0cc47ab5f122" data-ga4-type="article" data-ga4-section="komentare" data-ga4-crumbs="nazory,komentare" data-ga4-title="Česká muniční iniciativa. Zahodí Andrej Babiš deset miliard?" data-ga4-author="Matyáš Zrno" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Názory" data-ga4-event="impression,click">
+		<a href="https://nazory.aktualne.cz/komentare/ceska-municni-iniciativa-zahodi-andrej-babis-deset-miliard/r~a6b212b2a80111f095ee0cc47ab5f122/" data-ec data-ec-pid="a6b212b2a80111f095ee0cc47ab5f122" data-ec-pos="1">
+			<div class="timeline__label timeline__label--listing">
+
+		<div class="timeline__label__photo">
+			<span class="intrinsic intrinsic-1x1"><img src="//cdn.xsd.cz/resize/994e7eb507753876ac215336e9d858b0_extract=73,383,670,670_resize=64,64_.jpg?hash=4199ca0810b5334574e36207f1024656" srcset="//cdn.xsd.cz/resize/994e7eb507753876ac215336e9d858b0_extract=73,383,670,670_resize=64,64_.jpg?hash=4199ca0810b5334574e36207f1024656 1x, //cdn.xsd.cz/resize/994e7eb507753876ac215336e9d858b0_extract=73,383,670,670_resize=96,96_.jpg?hash=79d5f52745c0ef7f3fb7fb87c66e3458 1.5x, //cdn.xsd.cz/resize/994e7eb507753876ac215336e9d858b0_extract=73,383,670,670_resize=128,128_.jpg?hash=329d76143262194c2e4c70f3660e1e14 2x" sizes="64px" width="64" height="64" alt="Matyáš Zrno" restricted="off"></span>
+		</div>
+		<span class="timeline__label__author">
+			Matyáš Zrno
+		</span>
+
+
+
+			</div>
+			<h3 class="small-box__title">
+
+
+	<span class="quotation-mark">
+		<svg width="24px" height="23px" viewBox="0 0 24 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<g fill="#1B69BF" transform="translate(-404.000000, -931.000000)" fill-rule="nonzero">
+				<g transform="translate(163.000000, 927.000000)">
+					<path d="M246.392593,4 C248.328405,4 249.780242,4.61069348 250.748148,5.83209877 C251.716054,7.05350405 252.2,8.65513412 252.2,10.637037 C252.2,12.9876661 251.600829,15.5110976 250.402469,18.2074074 C249.204109,20.9037172 247.429641,23.6345541 245.079012,26.4 L242.520988,24.4641975 C243.488894,23.2658376 244.468308,21.5950724 245.459259,19.4518519 C246.450211,17.3086313 246.968724,15.3382806 247.014815,13.5407407 C246.553907,13.679013 246.069961,13.7481481 245.562963,13.7481481 C244.272422,13.7481481 243.189305,13.3909501 242.31358,12.6765432 C241.437856,11.9621363 241,10.8905421 241,9.4617284 C241,7.94073314 241.518513,6.65021106 242.555556,5.59012346 C243.592598,4.53003585 244.871597,4 246.392593,4 Z M259.192593,4 C261.128405,4 262.580242,4.61069348 263.548148,5.83209877 C264.516054,7.05350405 265,8.65513412 265,10.637037 C265,12.9876661 264.400829,15.5110976 263.202469,18.2074074 C262.004109,20.9037172 260.229641,23.6345541 257.879012,26.4 L255.320988,24.4641975 C256.288894,23.2658376 257.268308,21.5950724 258.259259,19.4518519 C259.250211,17.3086313 259.768724,15.3382806 259.814815,13.5407407 C259.353907,13.679013 258.869961,13.7481481 258.362963,13.7481481 C257.072422,13.7481481 255.989305,13.3909501 255.11358,12.6765432 C254.237856,11.9621363 253.8,10.8905421 253.8,9.4617284 C253.8,7.94073314 254.318513,6.65021106 255.355556,5.59012346 C256.392598,4.53003585 257.671597,4 259.192593,4 Z" id="„-copy-2" transform="translate(253.000000, 15.200000) scale(-1, -1) translate(-253.000000, -15.200000) "></path>
+				</g>
+			</g>
+		</svg>
+	</span>
+	Komentář:
+				Česká muniční iniciativa. Zahodí Andrej Babiš deset miliard?
+			</h3>
+			<div class="small-box__desc">Andrej Babiš avizoval revizi české muniční iniciativy a její přesun pod křídla Severoatlantické aliance.</div>
+		</a>
+	</div>
+	</div>
+
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-7">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-7">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-7', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 7,
+					callbackData: 'mediumrectangle-7'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://zpravy.aktualne.cz/ekonomika/">Ekonomika</a>
+	</div>
+	<div data-ga4-title="Ekonomika" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-ekonomika">
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="23132604a83211f0b553ac1f6b220ee8" data-ga4-type="article" data-ga4-section="ekonomika" data-ga4-crumbs="zpravy,ekonomika" data-ga4-title="Nizozemská vláda přebírá kontrolu nad výrobcem čipů vlastněným čínskou firmou" data-ga4-author="ČTK" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Ekonomika" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/ekonomika/nizozemska-vlada-prebira-kontrolu-nad-vyrobcem-cipu-vlastnen/r~23132604a83211f0b553ac1f6b220ee8/" data-ec data-ec-pid="23132604a83211f0b553ac1f6b220ee8" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/64b26c324071397686f8b7db216d82ed_extract=41,0,1929,1286_resize=240,160_.jpg?hash=4dee0901ff34a23d4189498c8f36c1d3" srcset="//cdn.xsd.cz/resize/64b26c324071397686f8b7db216d82ed_extract=41,0,1929,1286_resize=240,160_.jpg?hash=4dee0901ff34a23d4189498c8f36c1d3 1x, //cdn.xsd.cz/resize/64b26c324071397686f8b7db216d82ed_extract=41,0,1929,1286_resize=360,240_.jpg?hash=328a315329bba652f2774609453ce34a 1.5x, //cdn.xsd.cz/resize/64b26c324071397686f8b7db216d82ed_extract=41,0,1929,1286_resize=480,320_.jpg?hash=f0aef10a671796b0b41a35ec12e78436 2x" sizes="240px" width="240" height="160" alt="Nizozemská vláda přebírá kontrolu nad výrobcem čipů vlastněným čínskou firmou" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/ekonomika/nizozemska-vlada-prebira-kontrolu-nad-vyrobcem-cipu-vlastnen/r~23132604a83211f0b553ac1f6b220ee8/" data-ec data-ec-pid="23132604a83211f0b553ac1f6b220ee8" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Nizozemská vláda přebírá kontrolu nad výrobcem čipů vlastněným čínskou firmou
+			</h3>
+				<div class="small-box__desc">
+		Nizozemské ministerstvo hospodářství se k ovládnutí firmy rozhodlo kvůli obavám, že podnik předá klíčové technologie mateřské firmě Wingtech z Číny.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/ekonomika/cez-zlevnil-energie-zakaznikum-s-dvou-a-triletym-zavazkem-da/r~2e52073ca80611f0bb77ac1f6b220ee8/" data-ec data-ec-pid="2e52073ca80611f0bb77ac1f6b220ee8" data-ec-pos="2">
+
+
+							ČEZ zlevnil energie zákazníkům s dvou- a tříletým závazkem, další zlevnění chystá
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/ekonomika/vracime-se-k-deficitum-pul-bilionu-rocne-ekonom-vykreslil-kr/r~01397664a5bc11f0a065ac1f6b220ee8/" data-ec data-ec-pid="01397664a5bc11f0a065ac1f6b220ee8" data-ec-pos="3">
+
+
+							Přijde tvrdý náraz. Ekonom vykreslil krizové scénáře Babišova rozhazování
+						</a>
+					</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-8">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-8">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-8', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 8,
+					callbackData: 'mediumrectangle-8'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				<div id="import-ekonom"></div>
+				<script>BBX.loader.loadApp('React', "//asset.stdout.cz/fe/react-apps/js/bbx-import-ekonom.bcc7da12.js", 'ImportEkonom');</script>
+
+				
+
+	<div class="floor-title">
+		<a href="https://magazin.aktualne.cz/">Magazín</a>
+	</div>
+	<div data-ga4-title="Magazín" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-magazin">
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="b85bc3b8a7ad11f0beca0cc47ab5f122" data-ga4-type="gallery" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title="Wellness bez hostů, paneláky bez lidí. Návrat do zapomenutého Ferienparku B." data-ga4-author="Lost in Time" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Magazín" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/wellness-bez-hostu-panelaky-bez-lidi-navrat-do-zapomenuteho/r~b85bc3b8a7ad11f0beca0cc47ab5f122/" data-ec data-ec-pid="b85bc3b8a7ad11f0beca0cc47ab5f122" data-ec-pos="1" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/wellness-bez-hostu-panelaky-bez-lidi-navrat-do-zapomenuteho/r~b85bc3b8a7ad11f0beca0cc47ab5f122/" data-ec data-ec-pid="b85bc3b8a7ad11f0beca0cc47ab5f122" data-ec-pos="1">
+			<h3 class="gallery-box__title">
+
+
+		Wellness bez hostů, paneláky bez lidí. Návrat do zapomenutého Ferienparku B.
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/305f64253f863096a51825146a3c9b44_resize=291,194_.jpg?hash=4a32907d2f2d89eec65d3f6a0ceb96b8" srcset="//cdn.xsd.cz/resize/305f64253f863096a51825146a3c9b44_resize=291,194_.jpg?hash=4a32907d2f2d89eec65d3f6a0ceb96b8 1x, //cdn.xsd.cz/resize/305f64253f863096a51825146a3c9b44_resize=436,291_.jpg?hash=247be598b173788f494fb9df675be957 1.5x, //cdn.xsd.cz/resize/305f64253f863096a51825146a3c9b44_resize=582,388_.jpg?hash=49e4c1a93bad26bb887afed65545e0bc 2x" sizes="291px" width="291" height="194" alt="Wellness bez hostů, paneláky bez lidí. Návrat do zapomenutého Ferienparku B." loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 21 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/5aec004105f53338bb65a8110c5c791f_resize=140,93_.jpg?hash=821503a232f12b2b2c30a016ab6e1e05" srcset="//cdn.xsd.cz/resize/5aec004105f53338bb65a8110c5c791f_resize=140,93_.jpg?hash=821503a232f12b2b2c30a016ab6e1e05 1x, //cdn.xsd.cz/resize/5aec004105f53338bb65a8110c5c791f_resize=210,140_.jpg?hash=cc00e0115919373be9fb25111e89a529 1.5x, //cdn.xsd.cz/resize/5aec004105f53338bb65a8110c5c791f_resize=280,187_.jpg?hash=833a8ea9c44e3239d4db3c5ed4fe8428 2x" sizes="140px" width="140" height="93" alt="" loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/0c6800e2963d30a29e0f5958ce8b421f_resize=140,93_.jpg?hash=f7f02c13dd7774749e8344392edd21dc" srcset="//cdn.xsd.cz/resize/0c6800e2963d30a29e0f5958ce8b421f_resize=140,93_.jpg?hash=f7f02c13dd7774749e8344392edd21dc 1x, //cdn.xsd.cz/resize/0c6800e2963d30a29e0f5958ce8b421f_resize=210,140_.jpg?hash=22b75fece4ed7d69a6f158df82f59f80 1.5x, //cdn.xsd.cz/resize/0c6800e2963d30a29e0f5958ce8b421f_resize=280,187_.jpg?hash=de805b016037292934a001d240b30ed9 2x" sizes="140px" width="140" height="93" alt="" loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="bd86c308a81411f0bf960cc47ab5f122" data-ga4-type="article" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title="Neuvěřitelná operace křídla. Záchrana motýla zaujala odborníky a stala se virální" data-ga4-author="Dagmar Tichá" data-ga4-published="2025-10-13" data-ga4-position="2" data-ga4-block="Magazín" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/neuveritelna-zachrana-motyla-video-operace-se-stalo-hitem-in/r~bd86c308a81411f0bf960cc47ab5f122/" data-ec data-ec-pid="bd86c308a81411f0bf960cc47ab5f122" data-ec-pos="2">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/f0c28ee683ae38f88b5eeab03fc8bffd_extract=0,5,1955,1303_resize=240,160_.jpg?hash=754ad8e3581711cf8781fee8440b5f4d" srcset="//cdn.xsd.cz/resize/f0c28ee683ae38f88b5eeab03fc8bffd_extract=0,5,1955,1303_resize=240,160_.jpg?hash=754ad8e3581711cf8781fee8440b5f4d 1x, //cdn.xsd.cz/resize/f0c28ee683ae38f88b5eeab03fc8bffd_extract=0,5,1955,1303_resize=360,240_.jpg?hash=bf91ba006696f81773fa5f870ac767d9 1.5x, //cdn.xsd.cz/resize/f0c28ee683ae38f88b5eeab03fc8bffd_extract=0,5,1955,1303_resize=480,320_.jpg?hash=dba7de4068bfff43f932832ec8b04a38 2x" sizes="240px" width="240" height="160" alt="Neuvěřitelná operace křídla. Záchrana motýla zaujala odborníky a stala se virální" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/neuveritelna-zachrana-motyla-video-operace-se-stalo-hitem-in/r~bd86c308a81411f0bf960cc47ab5f122/" data-ec data-ec-pid="bd86c308a81411f0bf960cc47ab5f122" data-ec-pos="2" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Neuvěřitelná operace křídla. Záchrana motýla zaujala odborníky a stala se virální
+			</h3>
+				<div class="small-box__desc">
+		Podívejte se na neuvěřitelnou operaci transplantace motýlího křídla. Záchrana života ohroženého druhu zaujala odborníky i laiky po celém světě.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+<div class="advert advert--prannotation sa-hide" id="reklama-prannotation-3">
+	<div class="advert__inner">
+		<div class="advert__native" id="sas-prannotation-3"></div>
+		<div class="advert__content" id="sas-prannotation-render-3"></div>
+		<script>
+			window._ecohec.renderPrAnnotation = SiteAdvert.advertRenderer.prAnnotation;
+			SiteAdvert.advertRenderer.positions[3] = "Default";
+			SiteAdvert.Queue.push(['position', 'sas-prannotation-3', {
+				size: ['prannotation'],
+				pos: 3,
+				callbackData: 'prannotation-3'
+			}]);
+		</script>
+	</div>
+</div>
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="198bb3faa51011f0a26cac1f6b220ee8" data-ga4-type="article" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title='"Dobrý den, pane Sterziku." Vidlák si řekl o peníze na uhlí a klavír, to neměl dělat' data-ga4-author="Martin Krepindl, Michaela Lišková" data-ga4-published="2025-10-12" data-ga4-position="3" data-ga4-block="Magazín" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/vtipalci-vzali-vidlaka-sterzika-za-slovo-predseda-stacilo-ne/r~198bb3faa51011f0a26cac1f6b220ee8/" data-ec data-ec-pid="198bb3faa51011f0a26cac1f6b220ee8" data-ec-pos="3">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/10bd0be4669e3f8683816c8510721f0f_resize=240,160_.jpg?hash=61d935bdef06f8a5eb16657ef4a21edb" srcset="//cdn.xsd.cz/resize/10bd0be4669e3f8683816c8510721f0f_resize=240,160_.jpg?hash=61d935bdef06f8a5eb16657ef4a21edb 1x, //cdn.xsd.cz/resize/10bd0be4669e3f8683816c8510721f0f_resize=360,240_.jpg?hash=aac47fec3e308cb664359954a630a487 1.5x, //cdn.xsd.cz/resize/10bd0be4669e3f8683816c8510721f0f_resize=480,320_.jpg?hash=43995ffa749d5a81219802d7020b9a1d 2x" sizes="240px" width="240" height="160" alt="&quot;Dobrý den, pane Sterziku.&quot; Vidlák si řekl o peníze na uhlí a klavír, to neměl dělat" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--big box-label--play">
+		<span class="box-label__icon">
+			<i class="fas fa-play"></i>
+		</span>
+			1:40
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/vtipalci-vzali-vidlaka-sterzika-za-slovo-predseda-stacilo-ne/r~198bb3faa51011f0a26cac1f6b220ee8/" data-ec data-ec-pid="198bb3faa51011f0a26cac1f6b220ee8" data-ec-pos="3" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		"Dobrý den, pane Sterziku." Vidlák si řekl o peníze na uhlí a klavír, to neměl dělat
+			</h3>
+				<div class="small-box__desc">
+		Vtipálci začali Sterzikovi požadovanou pomoc nosit doslova až domů. "Pane Sterzik, přivezli jsme vám uhlí," stál u jeho dveří muž.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-9">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-9">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-9', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 9,
+					callbackData: 'mediumrectangle-9'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://magazin.aktualne.cz/kultura/">Kultura</a>
+	</div>
+	<div data-ga4-title="Kultura" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-kultura">
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="a519a07aa78711f0ae9c0cc47ab5f122" data-ga4-type="article" data-ga4-section="hudba" data-ga4-crumbs="magazin,kultura,hudba" data-ga4-title="Zavrť tím zadkem. Návrat do devadesátek se nekonal, Groove Armada diktovala nadčasově" data-ga4-author="Ondřej Stratilík" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Kultura" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/kultura/hudba/groove-armada-roxy/r~a519a07aa78711f0ae9c0cc47ab5f122/" data-ec data-ec-pid="a519a07aa78711f0ae9c0cc47ab5f122" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/f871b29f662d36b7a031161fe28ac149_extract=0,87,1728,1152_resize=240,160_.jpg?hash=dcefc42ab1468c0dbb56eee6c57f8550" srcset="//cdn.xsd.cz/resize/f871b29f662d36b7a031161fe28ac149_extract=0,87,1728,1152_resize=240,160_.jpg?hash=dcefc42ab1468c0dbb56eee6c57f8550 1x, //cdn.xsd.cz/resize/f871b29f662d36b7a031161fe28ac149_extract=0,87,1728,1152_resize=360,240_.jpg?hash=92662cffcf367fb2368039b0579f16f6 1.5x, //cdn.xsd.cz/resize/f871b29f662d36b7a031161fe28ac149_extract=0,87,1728,1152_resize=480,320_.jpg?hash=f87dcb9f5b78fe3b7956cc460a606992 2x" sizes="240px" width="240" height="160" alt="Zavrť tím zadkem. Návrat do devadesátek se nekonal, Groove Armada diktovala nadčasově" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/kultura/hudba/groove-armada-roxy/r~a519a07aa78711f0ae9c0cc47ab5f122/" data-ec data-ec-pid="a519a07aa78711f0ae9c0cc47ab5f122" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Zavrť tím zadkem. Návrat do devadesátek se nekonal, Groove Armada diktovala nadčasově
+			</h3>
+				<div class="small-box__desc">
+		Reportáž z pražského klubu Roxy, kde legendární elektronické duo Groove Armada oslavilo třicet roků na scéně.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="https://magazin.aktualne.cz/kultura/hudba/festival-metronome-prague-2026-sting/r~c5c33a8aa81211f0a065ac1f6b220ee8/" data-ec data-ec-pid="c5c33a8aa81211f0a065ac1f6b220ee8" data-ec-pos="2">
+
+
+							Dvojitá dávka hvězd. Po Nicku Caveovi na Metronomu Prague 2026 zazpívá i Sting
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://magazin.aktualne.cz/kultura/literatura/plukovncie-lidskych-dusi-kniha-martin-moravec/r~2da5b6aea80f11f0beca0cc47ab5f122/" data-ec data-ec-pid="2da5b6aea80f11f0beca0cc47ab5f122" data-ec-pos="3">
+
+
+							Zažila smrt, vojenský humor i šikanu. Vyjde knižní rozhovor Plukovnice lidských duší
+						</a>
+					</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-10">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-10">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-10', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 10,
+					callbackData: 'mediumrectangle-10'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://magazin.aktualne.cz/cestovani/">Cestování</a>
+	</div>
+	<div data-ga4-title="Cestování" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-cestovani">
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="8876f6889eb911f0801c0cc47ab5f122" data-ga4-type="article" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title="V osmdesáti kolem světa. Dvě „cestovatelské babičky“ dobývají kontinenty" data-ga4-author="Šárka Nádeníčková" data-ga4-published="2025-10-01" data-ga4-position="1" data-ga4-block="Cestování" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/v-osmdesati-kolem-sveta-dve-cestovatelske-babicky-dobyvaji-k/r~8876f6889eb911f0801c0cc47ab5f122/" data-ec data-ec-pid="8876f6889eb911f0801c0cc47ab5f122" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/4d5d6c476a9437e69be1ead2b9f3064f_resize=240,160_.jpg?hash=35cf7263e3fe8b5721a998b1e4073c86" srcset="//cdn.xsd.cz/resize/4d5d6c476a9437e69be1ead2b9f3064f_resize=240,160_.jpg?hash=35cf7263e3fe8b5721a998b1e4073c86 1x, //cdn.xsd.cz/resize/4d5d6c476a9437e69be1ead2b9f3064f_resize=360,240_.jpg?hash=a72628da7b59075af8f76f715aca1995 1.5x, //cdn.xsd.cz/resize/4d5d6c476a9437e69be1ead2b9f3064f_resize=480,320_.jpg?hash=2b4d9f80582f980edb679b6a90f7f0b1 2x" sizes="240px" width="240" height="160" alt="V osmdesáti kolem světa. Dvě „cestovatelské babičky“ dobývají kontinenty" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/v-osmdesati-kolem-sveta-dve-cestovatelske-babicky-dobyvaji-k/r~8876f6889eb911f0801c0cc47ab5f122/" data-ec data-ec-pid="8876f6889eb911f0801c0cc47ab5f122" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		V osmdesáti kolem světa. Dvě „cestovatelské babičky“ dobývají kontinenty
+			</h3>
+				<div class="small-box__desc">
+		V 81 letech se vydaly na 80denní cestu kolem světa. Dvě cestovatelské babičky dokazují, že dobrodružství nezná věkové omezení.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="20d6dfb4a36611f0b553ac1f6b220ee8" data-ga4-type="gallery" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title="Vyrazili ho z práce, pak český Tomík na cestách projel půl světa v rozhrkaném tuktuku" data-ga4-author="Šárka Nádeníčková" data-ga4-published="2025-10-08" data-ga4-position="2" data-ga4-block="Cestování" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/predsudky-nas-nechavaji-sedet-na-gauci-nejlepsi-cas-vyrazit/r~20d6dfb4a36611f0b553ac1f6b220ee8/" data-ec data-ec-pid="20d6dfb4a36611f0b553ac1f6b220ee8" data-ec-pos="2" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/predsudky-nas-nechavaji-sedet-na-gauci-nejlepsi-cas-vyrazit/r~20d6dfb4a36611f0b553ac1f6b220ee8/" data-ec data-ec-pid="20d6dfb4a36611f0b553ac1f6b220ee8" data-ec-pos="2">
+			<h3 class="gallery-box__title">
+
+
+		Vyrazili ho z práce, pak český Tomík na cestách projel půl světa v rozhrkaném tuktuku
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/a8e36d26eb4730c18755f1e8581872cf_resize=291,194_.jpg?hash=bf844cc44d09e9d5b563b9da588cb0a2" srcset="//cdn.xsd.cz/resize/a8e36d26eb4730c18755f1e8581872cf_resize=291,194_.jpg?hash=bf844cc44d09e9d5b563b9da588cb0a2 1x, //cdn.xsd.cz/resize/a8e36d26eb4730c18755f1e8581872cf_resize=436,291_.jpg?hash=41eabd027bc2f2ca17b6203a4fad7aa0 1.5x, //cdn.xsd.cz/resize/a8e36d26eb4730c18755f1e8581872cf_resize=582,388_.jpg?hash=a82c3d1f7b8406adc3f9b98e569ce7c5 2x" sizes="291px" width="291" height="194" alt="Vyrazili ho z práce, pak český Tomík na cestách projel půl světa v rozhrkaném tuktuku" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 15 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/502f48bc9d92325f97ac62486aad7f51_resize=140,93_.jpg?hash=5e125ff1dada2197cb311d750e2e8dcc" srcset="//cdn.xsd.cz/resize/502f48bc9d92325f97ac62486aad7f51_resize=140,93_.jpg?hash=5e125ff1dada2197cb311d750e2e8dcc 1x, //cdn.xsd.cz/resize/502f48bc9d92325f97ac62486aad7f51_resize=210,140_.jpg?hash=8509fc94be7db88a083f1b542216aca9 1.5x, //cdn.xsd.cz/resize/502f48bc9d92325f97ac62486aad7f51_resize=280,187_.jpg?hash=daf883c09c618e630fc878c800ffa547 2x" sizes="140px" width="140" height="93" alt="Největším dobrodružstvím se pro Tomáše stala 111 dní dlouhá cesta po jihovýchodní Africe, na kterou se vydal tuktukem. Ujel 9000 km přes Jihoafrickou republikou, Botswanu, Zambii, Malawi, Tanzanii až do Ugandy." loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/08596164bb68343884beaecf21ca2e25_resize=140,93_.jpg?hash=ce6f4dc1952ca901fa9454e45d6e51ee" srcset="//cdn.xsd.cz/resize/08596164bb68343884beaecf21ca2e25_resize=140,93_.jpg?hash=ce6f4dc1952ca901fa9454e45d6e51ee 1x, //cdn.xsd.cz/resize/08596164bb68343884beaecf21ca2e25_resize=210,140_.jpg?hash=e1df11369c87be339476ca6f0f0b7814 1.5x, //cdn.xsd.cz/resize/08596164bb68343884beaecf21ca2e25_resize=280,187_.jpg?hash=4eded0fcb6437d3b23196fc333387926 2x" sizes="140px" width="140" height="93" alt="Na dobrodružné cestě odlehlými kontinenty se setkal s divokými zvířaty, jako jsou sloni, lvi a nosorožci." loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+<div class="advert advert--prannotation sa-hide" id="reklama-prannotation-3">
+	<div class="advert__inner">
+		<div class="advert__native" id="sas-prannotation-3"></div>
+		<div class="advert__content" id="sas-prannotation-render-3"></div>
+		<script>
+			window._ecohec.renderPrAnnotation = SiteAdvert.advertRenderer.prAnnotation;
+			SiteAdvert.advertRenderer.positions[3] = "Default";
+			SiteAdvert.Queue.push(['position', 'sas-prannotation-3', {
+				size: ['prannotation'],
+				pos: 3,
+				callbackData: 'prannotation-3'
+			}]);
+		</script>
+	</div>
+</div>
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="b6ee42149e2811f0b2180cc47ab5f122" data-ga4-type="article" data-ga4-section="magazin" data-ga4-crumbs="magazin" data-ga4-title="Nizozemci omezují turisty. Do známé vesnice jen za vstupné, místním došla trpělivost" data-ga4-author="Dagmar Tichá" data-ga4-published="2025-10-01" data-ga4-position="3" data-ga4-block="Cestování" data-ga4-event="impression,click">
+		<a href="https://magazin.aktualne.cz/nizozemci-omezuji-turisty-do-zname-vesnice-jen-za-vstupne-mi/r~b6ee42149e2811f0b2180cc47ab5f122/" data-ec data-ec-pid="b6ee42149e2811f0b2180cc47ab5f122" data-ec-pos="3">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/ae722d104f5434bea578db7591d00099_extract=0,127,1364,909_resize=240,160_.jpg?hash=d0973e133a6ba2796962ce33a534e168" srcset="//cdn.xsd.cz/resize/ae722d104f5434bea578db7591d00099_extract=0,127,1364,909_resize=240,160_.jpg?hash=d0973e133a6ba2796962ce33a534e168 1x, //cdn.xsd.cz/resize/ae722d104f5434bea578db7591d00099_extract=0,127,1364,909_resize=360,240_.jpg?hash=724286491899d165537bdc3e76301d8a 1.5x, //cdn.xsd.cz/resize/ae722d104f5434bea578db7591d00099_extract=0,127,1364,909_resize=480,320_.jpg?hash=91e573b0c2ca7066188c683ea65baf83 2x" sizes="240px" width="240" height="160" alt="Nizozemci omezují turisty. Do známé vesnice jen za vstupné, místním došla trpělivost" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://magazin.aktualne.cz/nizozemci-omezuji-turisty-do-zname-vesnice-jen-za-vstupne-mi/r~b6ee42149e2811f0b2180cc47ab5f122/" data-ec data-ec-pid="b6ee42149e2811f0b2180cc47ab5f122" data-ec-pos="3" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Nizozemci omezují turisty. Do známé vesnice jen za vstupné, místním došla trpělivost
+			</h3>
+				<div class="small-box__desc">
+		Zaanse Schans čelí náporu turistů. Radnice proto zavádí vstupné a doufá, že vesnici pomůže vrátit klid i důstojnost.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-11">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-11">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-11', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 11,
+					callbackData: 'mediumrectangle-11'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://zena.aktualne.cz/">Žena</a>
+	</div>
+	<div data-ga4-title="Žena" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-zena">
+
+
+
+<div>
+
+	<div class="small-box small-box--graphics small-box--listing clearfix" data-ga4-id="e0c0b928d75211ec8980ac1f6b220ee8" data-ga4-type="graphics" data-ga4-section="volny-cas" data-ga4-crumbs="zena,volny-cas" data-ga4-title="Vypadají směšně, podivně a některá z nich jsou líná. Poznáte zvířata na obrázku?" data-ga4-author="Žena.cz" data-ga4-published="2022-05-24" data-ga4-position="1" data-ga4-block="Žena" data-ga4-event="impression,click">
+		<a href="https://zena.aktualne.cz/volny-cas/kviz-poznate-podivna-zvirata/r~e0c0b928d75211ec8980ac1f6b220ee8/" data-ec data-ec-pid="e0c0b928d75211ec8980ac1f6b220ee8" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/529b3bda637936ed8383fa81bdca0787_resize=480,320_.jpg?hash=e28d745cbbb9272ee96e2f32ee262061" srcset="//cdn.xsd.cz/resize/529b3bda637936ed8383fa81bdca0787_resize=480,320_.jpg?hash=e28d745cbbb9272ee96e2f32ee262061 1x, //cdn.xsd.cz/resize/529b3bda637936ed8383fa81bdca0787_resize=720,480_.jpg?hash=d93beb4541aeb52135d1222c61ec3109 1.5x, //cdn.xsd.cz/resize/529b3bda637936ed8383fa81bdca0787_resize=960,640_.jpg?hash=79a365e07237327afa56b820997a3a2b 2x" sizes="480px" width="480" height="320" alt="Vypadají směšně, podivně a některá z nich jsou líná. Poznáte zvířata na obrázku?" loading="lazy" restricted="off"></span>
+
+
+
+
+	<div class="box-label box-label--graphics">
+		Infografika
+	</div>
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zena.aktualne.cz/volny-cas/kviz-poznate-podivna-zvirata/r~e0c0b928d75211ec8980ac1f6b220ee8/" data-ec data-ec-pid="e0c0b928d75211ec8980ac1f6b220ee8" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Vypadají směšně, podivně a některá z nich jsou líná. Poznáte zvířata na obrázku?
+			</h3>
+				<div class="small-box__desc">
+		Poznáte z obrázku, jak se jmenuje vzácná samotářská poloopice žijící na Madagaskaru? Udělejte si náš kvíz.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="http://aktln.cz/Gc96rh" data-ec data-ec-pid="b35018946ac011f0b553ac1f6b220ee8" data-ec-pos="2">
+
+
+							Zemřel herec Jiří Krampol. Bylo mu 87 let
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://1url.cz/KJETt" data-ec data-ec-pid="7d45bd6e59b611f0b553ac1f6b220ee8" data-ec-pos="3">
+
+
+							Zveřejněné e-maily mají usvědčovat europoslance Turka z násilí na expartnerce
+						</a>
+					</div>
+	</div>
+
+
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-12">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-12">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-12', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 12,
+					callbackData: 'mediumrectangle-12'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://zpravy.aktualne.cz/ekonomika/auto/">Auto</a>
+	</div>
+	<div data-ga4-title="Auto" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-auto">
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="22eb5298a83011f0b689ac1f6b220ee8" data-ga4-type="gallery" data-ga4-section="auto" data-ga4-crumbs="zpravy,ekonomika,auto" data-ga4-title="Nejdražší Dacia v historii má přelomovou techniku. Jezdí na elektřinu i plyn" data-ga4-author="Jan Matoušek" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Auto" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/ekonomika/auto/dacia-duster-a-bigster-hybrid-g-4x4/r~22eb5298a83011f0b689ac1f6b220ee8/" data-ec data-ec-pid="22eb5298a83011f0b689ac1f6b220ee8" data-ec-pos="1" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/ekonomika/auto/dacia-duster-a-bigster-hybrid-g-4x4/r~22eb5298a83011f0b689ac1f6b220ee8/" data-ec data-ec-pid="22eb5298a83011f0b689ac1f6b220ee8" data-ec-pos="1">
+			<h3 class="gallery-box__title">
+
+
+		Nejdražší Dacia v historii má přelomovou techniku. Jezdí na elektřinu i plyn
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/8be27ed637fe3b3582c46f45b192ad63_resize=291,194_.jpg?hash=1514709216a775de1b0e12ecf28a23b7" srcset="//cdn.xsd.cz/resize/8be27ed637fe3b3582c46f45b192ad63_resize=291,194_.jpg?hash=1514709216a775de1b0e12ecf28a23b7 1x, //cdn.xsd.cz/resize/8be27ed637fe3b3582c46f45b192ad63_resize=436,291_.jpg?hash=22084a915fd67153c0c916e05b0e69a1 1.5x, //cdn.xsd.cz/resize/8be27ed637fe3b3582c46f45b192ad63_resize=582,388_.jpg?hash=fe7ab33be8c3452530ebf37ac1ed0137 2x" sizes="291px" width="291" height="194" alt="Nejdražší Dacia v historii má přelomovou techniku. Jezdí na elektřinu i plyn" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 14 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/c6fc9553a1a132898cff2be8e9f0b723_resize=140,93_.jpg?hash=f93eaa7a5a9cc6299e11093a879a85df" srcset="//cdn.xsd.cz/resize/c6fc9553a1a132898cff2be8e9f0b723_resize=140,93_.jpg?hash=f93eaa7a5a9cc6299e11093a879a85df 1x, //cdn.xsd.cz/resize/c6fc9553a1a132898cff2be8e9f0b723_resize=210,140_.jpg?hash=7a7080c9369d6053208a2eb80840f41a 1.5x, //cdn.xsd.cz/resize/c6fc9553a1a132898cff2be8e9f0b723_resize=280,187_.jpg?hash=ce2685d4dcb13690323ad5c0c2dc56cb 2x" sizes="140px" width="140" height="93" alt="" loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/532d422d529739dab2b867980b711826_resize=140,93_.jpg?hash=0eb5458c9259c88fe40d9b0b5ee841d8" srcset="//cdn.xsd.cz/resize/532d422d529739dab2b867980b711826_resize=140,93_.jpg?hash=0eb5458c9259c88fe40d9b0b5ee841d8 1x, //cdn.xsd.cz/resize/532d422d529739dab2b867980b711826_resize=210,140_.jpg?hash=8acc69d6abc9543bd3832eea02aed838 1.5x, //cdn.xsd.cz/resize/532d422d529739dab2b867980b711826_resize=280,187_.jpg?hash=dedbeeaa1e9ba73786985ea63840b4b5 2x" sizes="140px" width="140" height="93" alt="" loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/ekonomika/auto/autonomni-auto-pokuta/r~e6ec2ca2a81811f0beca0cc47ab5f122/" data-ec data-ec-pid="e6ec2ca2a81811f0beca0cc47ab5f122" data-ec-pos="2">
+
+
+							Není řidič, není pokuta. Autonomní auta dělají policii při přestupcích těžkou hlavu
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/ekonomika/auto/radarova-dezinformace-jak-je-to-doopravdy-s-navigaci-waze-na/r~fc0eb8aca38b11f095ee0cc47ab5f122/" data-ec data-ec-pid="fc0eb8aca38b11f095ee0cc47ab5f122" data-ec-pos="3">
+
+
+							Nevěřte radarové dezinformaci: Jak je to doopravdy s navigací Waze na cestách
+						</a>
+					</div>
+	</div>
+
+				
+
+<div class="advert sa-hide" id="reklama-mediumrectangle-13">
+	<div class="advert__inner">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-mediumrectangle-13">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-mediumrectangle-13', {
+					size: function (device) {
+						return {
+							size: device === 'm' ? ['mediumrectangle', 'square300'] : null
+						}
+					},
+					pos: 13,
+					callbackData: 'mediumrectangle-13'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+
+				
+
+	<div class="floor-title">
+		<a href="https://zpravy.aktualne.cz/domaci/zdravotnictvi/">Zdravotnictví</a>
+	</div>
+	<div data-ga4-title="Zdravotnictví" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-zdravotnictvi">
+
+
+
+<div>
+
+	<div class="small-box small-box--article small-box--listing clearfix" data-ga4-id="ee60ea049fda11f095ee0cc47ab5f122" data-ga4-type="article" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Selhávají játra, hrozí smrt. Otravou krve končí 5,5 tisíce operací ročně. Víme kde" data-ga4-author="Veronika Rodriguez" data-ga4-published="2025-10-13" data-ga4-position="1" data-ga4-block="Zdravotnictví" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/domaci/alarmujici-data-otravou-krve-skonci-5-5-tisice-operaci-rocne/r~ee60ea049fda11f095ee0cc47ab5f122/" data-ec data-ec-pid="ee60ea049fda11f095ee0cc47ab5f122" data-ec-pos="1">
+			<div class="small-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/fdd5965229ca32dea6ff099975e6f044_extract=146,128,1735,1157_resize=240,160_.jpg?hash=ecf5fd845f58cbb2a513d4f2acf5129d" srcset="//cdn.xsd.cz/resize/fdd5965229ca32dea6ff099975e6f044_extract=146,128,1735,1157_resize=240,160_.jpg?hash=ecf5fd845f58cbb2a513d4f2acf5129d 1x, //cdn.xsd.cz/resize/fdd5965229ca32dea6ff099975e6f044_extract=146,128,1735,1157_resize=360,240_.jpg?hash=ffb1ed24be8f7a4f645cfc50f366c4f7 1.5x, //cdn.xsd.cz/resize/fdd5965229ca32dea6ff099975e6f044_extract=146,128,1735,1157_resize=480,320_.jpg?hash=04db952c784ba73707dd288f7d283c5e 2x" sizes="240px" width="240" height="160" alt="Selhávají játra, hrozí smrt. Otravou krve končí 5,5 tisíce operací ročně. Víme kde" loading="lazy" restricted="off"></span>
+
+
+
+
+
+
+
+
+
+
+
+			</div>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/domaci/alarmujici-data-otravou-krve-skonci-5-5-tisice-operaci-rocne/r~ee60ea049fda11f095ee0cc47ab5f122/" data-ec data-ec-pid="ee60ea049fda11f095ee0cc47ab5f122" data-ec-pos="1" data-ec-skip>
+			<h3 class="small-box__title">
+
+
+		Selhávají játra, hrozí smrt. Otravou krve končí 5,5 tisíce operací ročně. Víme kde
+			</h3>
+				<div class="small-box__desc">
+		Mezi jednotlivými špitály jsou obrovské rozdíly - jeden vykázal až sedmkrát víc sepsí, než je průměr. Odborníci proto chtějí data začít zveřejňovat.
+				</div>
+		</a>
+	</div><!-- /.small-box -->
+
+
+
+
+
+</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/domaci/vakcina-je-ucinnejsi-kdyz-se-vpichne-rano-nacasovani-rozhodu/r~d7791ada9ce411f0801c0cc47ab5f122/" data-ec data-ec-pid="d7791ada9ce411f0801c0cc47ab5f122" data-ec-pos="2">
+
+
+							Vakcína je účinnější, když se vpíchne ráno. Načasování rozhoduje i u léků na rakovinu
+						</a>
+					</div>
+
+					<div class="short-box">
+						<a href="https://zpravy.aktualne.cz/domaci/jen-co-minul-jeden-prusvih-s-vakcinami-na-zloutenku-zraje-da/r~e1abf50aa0d011f09af20cc47ab5f122/" data-ec data-ec-pid="e1abf50aa0d011f09af20cc47ab5f122" data-ec-pos="3">
+
+
+							Zraje další malér s vakcínami. Stát ale mlží, žloutenka se v Česku šíří čím dál víc
+						</a>
+					</div>
+	</div>
+
+
+				
+
+	<div class="floor-title">
+		<a href="https://www.aktualne.cz/obrazem/l~i:keyword:293/">Obrazem</a>
+	</div>
+	<div data-ga4-title="Obrazem" data-ga4-type="block" data-ga4-event="impression" data-ec-list="floor-aktualnehp-obrazem">
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="872be714a5d211f095ee0cc47ab5f122" data-ga4-type="gallery" data-ga4-section="galerie-a-videa" data-ga4-crumbs="zpravy,galerie-a-videa" data-ga4-title="Škoda tyhle fotky minout: hic sunt leones, prezident rockerem nebo stop svastice" data-ga4-author="Jan Bezucha" data-ga4-published="2025-10-12" data-ga4-position="1" data-ga4-block="Obrazem" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/skoda-tyhle-fotky-minout-hic-sunt-leones-prezident-rockerem/r~872be714a5d211f095ee0cc47ab5f122/" data-ec data-ec-pid="872be714a5d211f095ee0cc47ab5f122" data-ec-pos="1" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/skoda-tyhle-fotky-minout-hic-sunt-leones-prezident-rockerem/r~872be714a5d211f095ee0cc47ab5f122/" data-ec data-ec-pid="872be714a5d211f095ee0cc47ab5f122" data-ec-pos="1">
+			<h3 class="gallery-box__title">
+
+
+		Škoda tyhle fotky minout: hic sunt leones, prezident rockerem nebo stop svastice
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/992eb4fbf1f336038bf2630e4444b9be_extract=241,0,1775,1183_resize=291,194_.jpg?hash=47afb1f3e2f3dc7a7904b7276b7a7455" srcset="//cdn.xsd.cz/resize/992eb4fbf1f336038bf2630e4444b9be_extract=241,0,1775,1183_resize=291,194_.jpg?hash=47afb1f3e2f3dc7a7904b7276b7a7455 1x, //cdn.xsd.cz/resize/992eb4fbf1f336038bf2630e4444b9be_extract=241,0,1775,1183_resize=436,291_.jpg?hash=bf41a01e4fefca687821437f556c2b83 1.5x, //cdn.xsd.cz/resize/992eb4fbf1f336038bf2630e4444b9be_extract=241,0,1775,1183_resize=582,388_.jpg?hash=ea60fd1ddc8530c13f925dc33073e8f6 2x" sizes="291px" width="291" height="194" alt="Škoda tyhle fotky minout: hic sunt leones, prezident rockerem nebo stop svastice" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 14 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/497db0cd24a63082b20f2e43c3a6ac57_resize=140,93_.jpg?hash=23f4f90623afaa8c06f8b7e4e5c5022a" srcset="//cdn.xsd.cz/resize/497db0cd24a63082b20f2e43c3a6ac57_resize=140,93_.jpg?hash=23f4f90623afaa8c06f8b7e4e5c5022a 1x, //cdn.xsd.cz/resize/497db0cd24a63082b20f2e43c3a6ac57_resize=210,140_.jpg?hash=9326708eb3be0b8db78f5b5c676f5909 1.5x, //cdn.xsd.cz/resize/497db0cd24a63082b20f2e43c3a6ac57_resize=280,187_.jpg?hash=092da6968d6447483195d3a535bd864c 2x" sizes="140px" width="140" height="93" alt="Káthmándú, Nepál: Kbelík ponechaný demonstranty na fontáně před komplexem Singha Durbar, sídlem úřadu premiéra a dalších ministerstev. Komplex byl v září vyrabován a zapálen při protestu proti korupci, který svrhl vládu." loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/c2a4dc94fb0539dab1b79b497e1c3755_resize=140,93_.jpg?hash=d4fefb07bf2e302203596ab3505c4a84" srcset="//cdn.xsd.cz/resize/c2a4dc94fb0539dab1b79b497e1c3755_resize=140,93_.jpg?hash=d4fefb07bf2e302203596ab3505c4a84 1x, //cdn.xsd.cz/resize/c2a4dc94fb0539dab1b79b497e1c3755_resize=210,140_.jpg?hash=1a0bcd22dbea39369c0acd3db971e3c6 1.5x, //cdn.xsd.cz/resize/c2a4dc94fb0539dab1b79b497e1c3755_resize=280,187_.jpg?hash=770973000eefd3fcfcc0acde5a714011 2x" sizes="140px" width="140" height="93" alt="Paříž, Francie: Modelky předvádějí tvorbu návrháře Matthieua Blazyho v rámci přehlídky dámské kolekce jaro/léto 2026 módního domu Chanel na Pařížském týdnu módy." loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="5ac4296aa4ed11f0b2180cc47ab5f122" data-ga4-type="gallery" data-ga4-section="galerie-a-videa" data-ga4-crumbs="zpravy,galerie-a-videa" data-ga4-title="Tel Aviv tančí radostí: dohoda o příměří otevírá cestu k návratu rukojmích" data-ga4-author="Jan Bezucha" data-ga4-published="2025-10-09" data-ga4-position="2" data-ga4-block="Obrazem" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/izrael-hamas-dohoda/r~5ac4296aa4ed11f0b2180cc47ab5f122/" data-ec data-ec-pid="5ac4296aa4ed11f0b2180cc47ab5f122" data-ec-pos="2" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/izrael-hamas-dohoda/r~5ac4296aa4ed11f0b2180cc47ab5f122/" data-ec data-ec-pid="5ac4296aa4ed11f0b2180cc47ab5f122" data-ec-pos="2">
+			<h3 class="gallery-box__title">
+
+
+		Tel Aviv tančí radostí: dohoda o příměří otevírá cestu k návratu rukojmích
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/b01ffa517be9340a8854ab90dd34fc17_resize=291,194_.jpg?hash=967398f94a91d668a70b3d4cdcce311f" srcset="//cdn.xsd.cz/resize/b01ffa517be9340a8854ab90dd34fc17_resize=291,194_.jpg?hash=967398f94a91d668a70b3d4cdcce311f 1x, //cdn.xsd.cz/resize/b01ffa517be9340a8854ab90dd34fc17_resize=436,291_.jpg?hash=74f111a8d1b99fcb24cf0d8482c2fd86 1.5x, //cdn.xsd.cz/resize/b01ffa517be9340a8854ab90dd34fc17_resize=582,388_.jpg?hash=f54ab64a48a5b41c57da47510173b63a 2x" sizes="291px" width="291" height="194" alt="Tel Aviv tančí radostí: dohoda o příměří otevírá cestu k návratu rukojmích" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 10 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/762f604a998d3d2eb1149dd672e5a231_resize=140,93_.jpg?hash=910ad53ae24fae6577ad544f32fca407" srcset="//cdn.xsd.cz/resize/762f604a998d3d2eb1149dd672e5a231_resize=140,93_.jpg?hash=910ad53ae24fae6577ad544f32fca407 1x, //cdn.xsd.cz/resize/762f604a998d3d2eb1149dd672e5a231_resize=210,140_.jpg?hash=1c9b04bd693a49843f59110b6c06b862 1.5x, //cdn.xsd.cz/resize/762f604a998d3d2eb1149dd672e5a231_resize=280,187_.jpg?hash=e518581b018bb8ce384dc6967b06ed8b 2x" sizes="140px" width="140" height="93" alt="Zprávy o dohodě o příměří mezi Izraelem a Hamásem byly provázeny oslavami a radostnými scénami jak v Gaze, tak v Izraeli, ačkoli obyvatelé na obou stranách ničivé války vyjádřili obavy, že dohoda by stále mohla propadnout." loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/f99202a927db3affa4ece50d604e6afc_resize=140,93_.jpg?hash=63d2f3660c238b14363a67aec46211ea" srcset="//cdn.xsd.cz/resize/f99202a927db3affa4ece50d604e6afc_resize=140,93_.jpg?hash=63d2f3660c238b14363a67aec46211ea 1x, //cdn.xsd.cz/resize/f99202a927db3affa4ece50d604e6afc_resize=210,140_.jpg?hash=f3298727bc76860b0ca3613851928fc1 1.5x, //cdn.xsd.cz/resize/f99202a927db3affa4ece50d604e6afc_resize=280,187_.jpg?hash=45e17d544366e32b66b60b1aaed331db 2x" sizes="140px" width="140" height="93" alt="Dohoda přišla den po dvouletém výročí útoků vedených Hamásem, při nichž 7. října 2023 zahynulo nejméně 1200 Izraelců a 251 lidí bylo zajato. Hamás a jeho spojenci stále drží v Gaze 48 rukojmích. Izraelská vláda se domnívá, že nejméně 20 z nich je naživu." loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="ce4bb7daa2aa11f0a26cac1f6b220ee8" data-ga4-type="gallery" data-ga4-section="galerie-a-videa" data-ga4-crumbs="zpravy,galerie-a-videa" data-ga4-title="Protesty, dým a soudní stopka: Amerika se hádá o Trumpův zásah v Portlandu" data-ga4-author="Jan Bezucha" data-ga4-published="2025-10-06" data-ga4-position="3" data-ga4-block="Obrazem" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/portland-mesto-snu/r~ce4bb7daa2aa11f0a26cac1f6b220ee8/" data-ec data-ec-pid="ce4bb7daa2aa11f0a26cac1f6b220ee8" data-ec-pos="3" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/portland-mesto-snu/r~ce4bb7daa2aa11f0a26cac1f6b220ee8/" data-ec data-ec-pid="ce4bb7daa2aa11f0a26cac1f6b220ee8" data-ec-pos="3">
+			<h3 class="gallery-box__title">
+
+
+		Protesty, dým a soudní stopka: Amerika se hádá o Trumpův zásah v Portlandu
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/8b5ce1a0c7983cd7b4c6a0aed662ea79_resize=291,194_.jpg?hash=d29e318f90ef8bdf8284431f8f741cbc" srcset="//cdn.xsd.cz/resize/8b5ce1a0c7983cd7b4c6a0aed662ea79_resize=291,194_.jpg?hash=d29e318f90ef8bdf8284431f8f741cbc 1x, //cdn.xsd.cz/resize/8b5ce1a0c7983cd7b4c6a0aed662ea79_resize=436,291_.jpg?hash=fb3ff792a30144c52793049e236c838b 1.5x, //cdn.xsd.cz/resize/8b5ce1a0c7983cd7b4c6a0aed662ea79_resize=582,388_.jpg?hash=d4ea63d191550c9d28c7d282463f374b 2x" sizes="291px" width="291" height="194" alt="Protesty, dým a soudní stopka: Amerika se hádá o Trumpův zásah v Portlandu" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 10 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/7763e2302fd73f018a825f9f6db310ee_resize=140,93_.jpg?hash=3ebd241fcaba23cd0ebd16a40bd3fc92" srcset="//cdn.xsd.cz/resize/7763e2302fd73f018a825f9f6db310ee_resize=140,93_.jpg?hash=3ebd241fcaba23cd0ebd16a40bd3fc92 1x, //cdn.xsd.cz/resize/7763e2302fd73f018a825f9f6db310ee_resize=210,140_.jpg?hash=98dde9859a9566df56621785982d0e1d 1.5x, //cdn.xsd.cz/resize/7763e2302fd73f018a825f9f6db310ee_resize=280,187_.jpg?hash=3056114f2a29b218aed79e7b60fe91ee 2x" sizes="140px" width="140" height="93" alt="Federální důstojník policie sleduje pohyb protestujících před ústředím imigrační služby, připraven v případě potřeby zasáhnout." loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/d4907946a05e3f69837898ff838350c0_resize=140,93_.jpg?hash=176eb79a5127776f85acae23c833c8ad" srcset="//cdn.xsd.cz/resize/d4907946a05e3f69837898ff838350c0_resize=140,93_.jpg?hash=176eb79a5127776f85acae23c833c8ad 1x, //cdn.xsd.cz/resize/d4907946a05e3f69837898ff838350c0_resize=210,140_.jpg?hash=32b4d32f286e23d8bbde0b808c5d3aa6 1.5x, //cdn.xsd.cz/resize/d4907946a05e3f69837898ff838350c0_resize=280,187_.jpg?hash=9ab4691c6c80388a9223460caf4ad4e5 2x" sizes="140px" width="140" height="93" alt="Nedaleko budovy portlandské ICE zatýkají policisté muže, který zůstal na místě, i když většina davu se už rozprchla. Je slyšet jen vzdálené houkání sirén." loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="37756138a14e11f095ee0cc47ab5f122" data-ga4-type="gallery" data-ga4-section="galerie-a-videa" data-ga4-crumbs="zpravy,galerie-a-videa" data-ga4-title='"Co jste si zvolili, to máte." Emoce na nejlepších fotografiích z volebních štábů' data-ga4-author="Jan Bezucha" data-ga4-published="2025-10-04" data-ga4-position="4" data-ga4-block="Obrazem" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/co-jste-si-zvolili-to-mate-mala-povolebni-zabijacka/r~37756138a14e11f095ee0cc47ab5f122/" data-ec data-ec-pid="37756138a14e11f095ee0cc47ab5f122" data-ec-pos="4" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/galerie-a-videa/co-jste-si-zvolili-to-mate-mala-povolebni-zabijacka/r~37756138a14e11f095ee0cc47ab5f122/" data-ec data-ec-pid="37756138a14e11f095ee0cc47ab5f122" data-ec-pos="4">
+			<h3 class="gallery-box__title">
+
+
+		"Co jste si zvolili, to máte." Emoce na nejlepších fotografiích z volebních štábů
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/da7fc7df012f376d8f9c19cc746f3e94_resize=291,194_.jpg?hash=5343a43a6fe87337fd92f99c7c29439b" srcset="//cdn.xsd.cz/resize/da7fc7df012f376d8f9c19cc746f3e94_resize=291,194_.jpg?hash=5343a43a6fe87337fd92f99c7c29439b 1x, //cdn.xsd.cz/resize/da7fc7df012f376d8f9c19cc746f3e94_resize=436,291_.jpg?hash=7f621d53989d490879e063dc8a35f09a 1.5x, //cdn.xsd.cz/resize/da7fc7df012f376d8f9c19cc746f3e94_resize=582,388_.jpg?hash=9fab83184db107e5be4b6506323ae383 2x" sizes="291px" width="291" height="194" alt="&quot;Co jste si zvolili, to máte.&quot; Emoce na nejlepších fotografiích z volebních štábů" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 16 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/2aa52c42947a31c78826c6c1fcb0c4a3_resize=140,93_.jpg?hash=e636882e1199006621795b84bba1ea10" srcset="//cdn.xsd.cz/resize/2aa52c42947a31c78826c6c1fcb0c4a3_resize=140,93_.jpg?hash=e636882e1199006621795b84bba1ea10 1x, //cdn.xsd.cz/resize/2aa52c42947a31c78826c6c1fcb0c4a3_resize=210,140_.jpg?hash=78c79869452b89975ed2cea2c0732c22 1.5x, //cdn.xsd.cz/resize/2aa52c42947a31c78826c6c1fcb0c4a3_resize=280,187_.jpg?hash=3b4e2e09f76de1b9c32ac29dd6073591 2x" sizes="140px" width="140" height="93" alt="SPD s předsedou Tomiem Okamurou mělo štáb v hotelu Don Giovanni, při sledování výsledků ale příliš nadšeně nevypadal. Při příchodu do štábu se pak bočním vchodem vyhnul reportérovi Aktuálně.cz, kterému předtím hnutí odmítlo udělit akreditaci, 4. října 2025, Praha." loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/a3ff2272098233a1b4f3d08ef5d66ca6_resize=140,93_.jpg?hash=60eefb4e5053117c02d0cb14445ea8ce" srcset="//cdn.xsd.cz/resize/a3ff2272098233a1b4f3d08ef5d66ca6_resize=140,93_.jpg?hash=60eefb4e5053117c02d0cb14445ea8ce 1x, //cdn.xsd.cz/resize/a3ff2272098233a1b4f3d08ef5d66ca6_resize=210,140_.jpg?hash=bff73788e195d13f1ae04c0dc20d0502 1.5x, //cdn.xsd.cz/resize/a3ff2272098233a1b4f3d08ef5d66ca6_resize=280,187_.jpg?hash=e2fefc288b0df307b2c909456168ad3c 2x" sizes="140px" width="140" height="93" alt="Momentka z volebního štábu Pirátů, kteří sledovali volební výsledky do Poslanecké sněmovny, 4. října 2025, Praha." loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+
+
+
+<div>
+
+
+
+
+	<div class="gallery-box clearfix" data-ga4-id="78330bb09e0311f09af20cc47ab5f122" data-ga4-type="gallery" data-ga4-section="domaci" data-ga4-crumbs="zpravy,domaci" data-ga4-title="Ta naše kampaň česká, ta je tak krásná, tak hezká aneb Malá předvolební nakládačka" data-ga4-author="Jan Bezucha" data-ga4-published="2025-10-02" data-ga4-position="5" data-ga4-block="Obrazem" data-ga4-event="impression,click">
+		<a href="https://zpravy.aktualne.cz/domaci/ta-nase-politika-ceska-ta-je-tak-krasna-a-hezka-aneb-predvol/r~78330bb09e0311f09af20cc47ab5f122/" data-ec data-ec-pid="78330bb09e0311f09af20cc47ab5f122" data-ec-pos="5" data-ec-skip>
+		</a>
+
+
+
+
+		<a href="https://zpravy.aktualne.cz/domaci/ta-nase-politika-ceska-ta-je-tak-krasna-a-hezka-aneb-predvol/r~78330bb09e0311f09af20cc47ab5f122/" data-ec data-ec-pid="78330bb09e0311f09af20cc47ab5f122" data-ec-pos="5">
+			<h3 class="gallery-box__title">
+
+
+		Ta naše kampaň česká, ta je tak krásná, tak hezká aneb Malá předvolební nakládačka
+			</h3>
+
+			<div class="gallery-box__image">
+				<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/5de81e7d5cc4365e83d690cdb996de6a_extract=37,71,1838,1226_resize=291,194_.jpg?hash=bc9d4b598a094a158005ae59100e8bfc" srcset="//cdn.xsd.cz/resize/5de81e7d5cc4365e83d690cdb996de6a_extract=37,71,1838,1226_resize=291,194_.jpg?hash=bc9d4b598a094a158005ae59100e8bfc 1x, //cdn.xsd.cz/resize/5de81e7d5cc4365e83d690cdb996de6a_extract=37,71,1838,1226_resize=436,291_.jpg?hash=e73c0e2492d6c1d5799c6282ae164f21 1.5x, //cdn.xsd.cz/resize/5de81e7d5cc4365e83d690cdb996de6a_extract=37,71,1838,1226_resize=582,388_.jpg?hash=fca9373f1e58e49a04fc14fb5b966aa3 2x" sizes="291px" width="291" height="194" alt="Ta naše kampaň česká, ta je tak krásná, tak hezká aneb Malá předvolební nakládačka" loading="lazy" restricted="off"></span>
+
+
+
+
+
+	<div class="box-label box-label--big box-label--gallery">
+		<span class="box-label__icon">
+			<i class="far fa-image"></i>
+		</span>
+		<span class="box-label--removable">Prohlédnout si </span> 30 fotografií
+	</div>
+
+
+
+
+
+
+
+			</div>
+
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/242e5f5db5d1300ab0febe7050319330_resize=140,93_.jpg?hash=c8ae70909264d7c25b12351223ef683a" srcset="//cdn.xsd.cz/resize/242e5f5db5d1300ab0febe7050319330_resize=140,93_.jpg?hash=c8ae70909264d7c25b12351223ef683a 1x, //cdn.xsd.cz/resize/242e5f5db5d1300ab0febe7050319330_resize=210,140_.jpg?hash=90f46bd8b7a212892484799a2ef270e4 1.5x, //cdn.xsd.cz/resize/242e5f5db5d1300ab0febe7050319330_resize=280,187_.jpg?hash=850d0db5d2339aa0aab4caa4beec1e61 2x" sizes="140px" width="140" height="93" alt="Lenin v říjnu, mládí nevybouřené (z mítinku Stačilo!)." loading="lazy" restricted="off"></span>
+				</div>
+
+
+				<div class="gallery-box__image gallery-box__image--small">
+					<span class="intrinsic intrinsic-3x2"><img src="//cdn.xsd.cz/resize/ff49c4cb21693296b441ffd4eb68e8d7_resize=140,93_.jpg?hash=85263bb780dc3e4569097949ec3bf4a5" srcset="//cdn.xsd.cz/resize/ff49c4cb21693296b441ffd4eb68e8d7_resize=140,93_.jpg?hash=85263bb780dc3e4569097949ec3bf4a5 1x, //cdn.xsd.cz/resize/ff49c4cb21693296b441ffd4eb68e8d7_resize=210,140_.jpg?hash=9c347420b92eb9014d2ba6858690efe4 1.5x, //cdn.xsd.cz/resize/ff49c4cb21693296b441ffd4eb68e8d7_resize=280,187_.jpg?hash=3501e3a94133e1c29a3804e63e112e93 2x" sizes="140px" width="140" height="93" alt="Andrej Babiš (ANO), kde jinde než ve stánku s uzeninami?" loading="lazy" restricted="off"></span>
+				</div>
+		</a>
+	</div><!-- /.gallery-box -->
+
+
+
+
+
+</div>
+	</div>
+
+
+			</div><!-- /.left-column -->
+
+	<div class="right-column">
+
+<div id="reklama-multisize-3" class="advert m-sticky sa-hide">
+	<div class="advert__inner m-sticky__content">
+		<div class="advert__name">reklama</div>
+		<div class="advert__content" id="sas-multisize-3">
+			<script>
+				SiteAdvert.Queue.push(['position', 'sas-multisize-3', {
+					size: function (device) {
+						if (device === 'm' && 3 !== 3) {
+							return { size: ['mediumrectangle', 'square300'] };
+						} else if (device === 'm' && 3 === 3) {
+							return { size: null };
+						} else {
+							return {
+								size: ['halfpage', 'mediumrectangle', 'square300', 'widesky'],
+								hbId: "halfpage2"
+							};
+						}
+					},
+					pos: 3,
+					_hbBbx: 'exact_set',
+					callbackData: 'multisize-3'
+				}]);
+			</script>
+		</div>
+	</div>
+</div>
+	</div><!-- /.right-column -->
+
+		</div><!-- /.wrapper -->
+	</div>
+
+
+
+
+</div><!-- /.page -->
+
+
+<div
+	id="snapshot-footer"
+	class="footer"
+	data-evt-active="true"
+	data-evt-category="footer-all"
+	data-evt-action="click"
+	data-evt-filter="a[href]"
+	data-evt-label="@href"
+>
+
+
+
+
+
+
+
+
+<div class="footer__top clearfix" id="footer__top">
+        <div class="footer__box">
+<h5 class="footer__box__title">
+    <a href="https://zpravy.aktualne.cz/">        
+        Zprávy
+    </a>
+</h5>
+
+<ul class="footer__box__links">
+        <li>
+            <a href="https://zpravy.aktualne.cz/domaci/">
+                Domácí
+            </a>
+        </li>
+        <li>
+            <a href="https://zpravy.aktualne.cz/zahranici/">
+                Zahraničí
+            </a>
+        </li>
+        <li>
+            <a href="https://zpravy.aktualne.cz/ekonomika/">
+                Ekonomika
+            </a>
+        </li>
+        <li>
+            <a href="https://zpravy.aktualne.cz/datavize/">
+                Datavize
+            </a>
+        </li>
+        <li>
+            <a href="https://zpravy.aktualne.cz/ekonomika/auto/">
+                Auto
+            </a>
+        </li>
+</ul>
+        </div>
+        <div class="footer__box">
+<h5 class="footer__box__title">
+    <a href="https://nazory.aktualne.cz/">        
+        Názory
+    </a>
+</h5>
+
+<ul class="footer__box__links">
+        <li>
+            <a href="https://nazory.aktualne.cz/komentare/">
+                Komentáře
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/kultura/podcasty/podcasty-aktualne/r~8569ad909d3911ebaedf0cc47ab5f122/">
+                Podcasty
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/na-dotek/l~d49e163a21ac11ea9ec9ac1f6b220ee8/">
+                Na Dotek
+            </a>
+        </li>
+        <li>
+            <a href="https://zpravy.aktualne.cz/domaci/podivne-zlociny/r~657ea9fea23211edba63ac1f6b220ee8/">
+                Podivné zločiny
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/co-z-tebe-bude/r~c5c29d860ac711ee8b4e0cc47ab5f122/">
+                Co z tebe bude?!
+            </a>
+        </li>
+</ul>
+        </div>
+        <div class="footer__box">
+<h5 class="footer__box__title">
+    <a href="https://sport.aktualne.cz/">        
+        Sport
+    </a>
+</h5>
+
+<ul class="footer__box__links">
+        <li>
+            <a href="https://sport.aktualne.cz/fotbal/">
+                Fotbal
+            </a>
+        </li>
+        <li>
+            <a href="https://sport.aktualne.cz/hokej/">
+                Hokej
+            </a>
+        </li>
+        <li>
+            <a href="https://sport.aktualne.cz/tenis/">
+                Tenis
+            </a>
+        </li>
+        <li>
+            <a href="https://sport.aktualne.cz/motorismus/">
+                Motorismus
+            </a>
+        </li>
+        <li>
+            <a href="https://sport.aktualne.cz/biatlon/">
+                Biatlon
+            </a>
+        </li>
+        <li>
+            <a href="https://sport.aktualne.cz/ostatni-sporty/">
+                Ostatní sporty
+            </a>
+        </li>
+</ul>
+        </div>
+        <div class="footer__box">
+<h5 class="footer__box__title">
+    <a href="https://video.aktualne.cz/spotlight/r~6a3c50aa9c8c11ed8980ac1f6b220ee8/">        
+        Spotlight
+    </a>
+</h5>
+
+<ul class="footer__box__links">
+        <li>
+            <a href="https://video.aktualne.cz/">
+                Video
+            </a>
+        </li>
+        <li>
+            <a href="https://video.aktualne.cz/den-v-60-sekundach/">
+                Den v 60 sekundách
+            </a>
+        </li>
+        <li>
+            <a href="https://video.aktualne.cz/historky-z-placu/">
+                Historky z placu
+            </a>
+        </li>
+        <li>
+            <a href="https://video.aktualne.cz/zpatecka/">
+                Zpátečka
+            </a>
+        </li>
+        <li>
+            <a href="https://video.aktualne.cz/politicke-bizary/">
+                Politické bizáry
+            </a>
+        </li>
+        <li>
+            <a href="https://video.aktualne.cz/my-kdysi/">
+                My, kdysi
+            </a>
+        </li>
+</ul>
+        </div>
+        <div class="footer__box">
+<h5 class="footer__box__title">
+    <a href="https://magazin.aktualne.cz/kultura/">        
+        Kultura
+    </a>
+</h5>
+
+<ul class="footer__box__links">
+        <li>
+            <a href="https://magazin.aktualne.cz/kultura/film/">
+                Film a televize
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/kultura/hudba/">
+                Hudba
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/kultura/klasicka-hudba/">
+                Klasická hudba
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/kultura/literatura/">
+                Literatura
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/kultura/divadlo/">
+                Divadlo
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/kultura/umeni/">
+                Umění
+            </a>
+        </li>
+</ul>
+        </div>
+        <div class="footer__box">
+<h5 class="footer__box__title">
+    <a href="https://magazin.aktualne.cz/lifestyle/">        
+        Lifestyle
+    </a>
+</h5>
+
+<ul class="footer__box__links">
+        <li>
+            <a href="https://magazin.aktualne.cz/">
+                Magazín
+            </a>
+        </li>
+        <li>
+            <a href="https://zena.aktualne.cz/">
+                Žena
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/bydleni/">
+                Bydlení
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/cestovani/">
+                Cestování
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/foto/">
+                Foto
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/kvizy-prehled/r~9258d2b8c47711ec8d900cc47ab5f122/">
+                Kvízy
+            </a>
+        </li>
+</ul>
+        </div>
+        <div class="footer__box">
+<h5 class="footer__box__title">
+    <a href="https://zpravy.aktualne.cz/ekonomika/specialy-aktualnecz/r~26c2381a57d611ea8362ac1f6b220ee8/">        
+        Speciály
+    </a>
+</h5>
+
+<ul class="footer__box__links">
+        <li>
+            <a href="https://zpravy.aktualne.cz/domaci/chytre-cesko/r~802f1326a3f511ea8b230cc47ab5f122/">
+                Chytré Česko
+            </a>
+        </li>
+        <li>
+            <a href="https://zpravy.aktualne.cz/dezinformace/r~c8dd8d90f88f11eda873ac1f6b220ee8/">
+                My a deziformace
+            </a>
+        </li>
+        <li>
+            <a href="https://zpravy.aktualne.cz/ekonomika/reality/vize-mesto-kde-se-tvori-budoucnost/r~237b911c592911eea9eeac1f6b220ee8/">
+                Vize město
+            </a>
+        </li>
+        <li>
+            <a href="https://zena.aktualne.cz/kam-kraci-ceske-porodnictvi/r~c960206c561211eea873ac1f6b220ee8/">
+                Porodnictví
+            </a>
+        </li>
+        <li>
+            <a href="https://magazin.aktualne.cz/lifestyle/special-o-zivotnich-zmenach/r~43991fc6907f11ef95ee0cc47ab5f122/">
+                Změna směru
+            </a>
+        </li>
+        <li>
+            <a href="https://www.aktualne.cz/benative/">
+                BeNative
+            </a>
+        </li>
+</ul>
+        </div>
+</div>
+
+
+<div class="footer__middle" id="footer__middle">
+    <span class="footer__middle__links">
+        <a href="https://www.aktualne.cz/autori/">
+            Tiráž
+        </a>
+            &nbsp;|&nbsp;
+            <a href="/cdn-cgi/l/email-protection#2503065d12171e03065d13101e03065d13111e03065d13141e03065d13471e03065d13161e03065d13101e03065d11151e03065d13141e03065d13471e03065d12111e03065d12101e03065d13141e03065d13461e03065d13401e03065d13101e03065d17401e03065d13161e03065d12441e">
+                Napište nám
+            </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.aktualne.cz/export-rss/r~b:article:rss/">
+            RSS
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.aktualne.cz/nejlepsi-zpravy-e-mailem/r~6d05c1f29fe811e5928a002590604f2e/">
+            Hlavní zprávy do e-mailu
+        </a>
+    </span>
+    <span
+        class="footer__middle__social"
+        data-evt-active="true"
+        data-evt-category="footer-info"
+        data-evt-action="click-social"
+        data-evt-filter="a[href]"
+        data-evt-label="@class"
+        data-evt-value="1"
+    >
+        <a
+            class="fb"
+            href="https://www.facebook.com/Aktualne.cz"
+        >
+            <i class="fab fa-facebook-f"></i>
+        </a>
+        <a
+            class="tw"
+            href="https://twitter.com/aktualnecz"
+        >
+            <i class="fab fa-x-twitter"></i>
+        </a>
+        <a
+            class="ig"
+            href="https://www.instagram.com/aktualne.cz/"
+        >
+            <i class="fab fa-instagram"></i>
+        </a>
+    </span>
+</div>
+
+
+<div class="footer__bottom" id="footer__bottom">
+    <p>
+        <a href="https://www.centrum.cz/">
+            Centrum.cz
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://atlas.centrum.cz/">Atlas.cz</a> 1999 &ndash; 2025 &copy; <a href="https://www.economia.cz/">Economia, a.s.</a>
+        &nbsp;|&nbsp;
+        <a href="https://www.economia.cz/o-nas/">
+            O nás
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.centrum.cz/sluzby/">
+            Všechny služby
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://economia.jobs.cz/">
+            Volná místa
+        </a>
+    </p>
+
+    <p>
+        <a href="https://www.economia.cz/ceniky-inzerce/">
+            Inzerce
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://najisto.centrum.cz/">
+            Služby firmám
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.economia.cz/vseobecne-podminky/">
+            Všeobecné podmínky
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.economia.cz/prohlaseni-o-cookies/">
+            Cookies
+        </a>
+        &nbsp;|&nbsp;
+        <a class="eco-cmp-show-settings" href="javascript:void(0);">
+            Nastavení soukromí
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.economia.cz/ochrana-osobnich-udaju/">
+            Ochrana osobních údajů
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.economia.cz/zpracovani-osobnich-udaju/">
+            Zpracování osobních údajů
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://www.aktualne.cz/audiovizualni-medialni-sluzby-na-vyzadani/r~b:article:audiovisual/">
+            AV služby a přístupnost
+        </a>
+        &nbsp;|&nbsp;
+        <a href="https://freemail.help.economia.cz/">
+            Nápověda
+        </a>
+    </p>
+    <p>
+        Jakékoliv užití obsahu, včetně převzetí článků, je bez souhlasu <a href="https://www.economia.cz/">Economia, a.s.</a> zapovězeno.
+        <br>
+        Bez souhlasu <a href="https://www.economia.cz/">Economia, a.s.</a> je zapovězeno též rozmnožování obsahu pro účely automatizované analýzy textů nebo dat podle ustanovení §&nbsp;39c autorského zákona.
+    </p>
+</div>
+</div>
+
+
+
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+	if (BBX.context.useHeaderBidding) {
+		SiteAdvert.Queue.push(['loadAllReady', BBX.context.headerBiddingTimeout || 500]);
+	} else {
+		SiteAdvert.Queue.push(['loadAll']);
+	}
+</script>
+
+</div></div></div> <!-- / .brand[a|b|c] -->
+
+<!-- bbx b459feea7c4ecde564f66020868b79d0 F: 0x382e3134312e30 -->
+
+<!-- aktualnehp:desktop -->
+</body>
+</html>

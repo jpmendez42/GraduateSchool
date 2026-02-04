@@ -1,0 +1,91 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ChatGPT
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: DeepSeekBot
+Disallow: /
+
+User-agent: DeepSeek
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /cucina/stampa-ricetta/
+Disallow: /cucina/ricetta-pdf/
+Disallow: /*/feed/
+Disallow: /*/attachment/*
+Disallow: /*/comment-page*
+#Disallow: /attualita/oroscopo/
+Disallow: /*app_v2=
+Disallow: /*?logincl
+Disallow: /*replytocom=
+Disallow: *wp-login.php
+#Disallow: /*/angiola-armellini/
+Allow: /video/feed/mrss-video/
+
+User-agent: Mediapartners-Google
+Disallow: /*-sexy*
+Disallow: /*-hot-*
+Disallow: /*-hot/
+Disallow: /*-nuda*
+Disallow: /*-porno*
+Disallow: /*-hard*
+Disallow: /*-nude*
+Disallow: /*-topless*
+Disallow: /*-sesso-*
+Disallow: /*-lato-b*
+#Disallow: /gossip/tag/
+
+User-agent: Googlebot
+Disallow: /wp-admin/
+Disallow: /cucina/stampa-ricetta/
+Disallow: /cucina/ricetta-pdf/
+Disallow: /*/feed/
+Disallow: /*/attachment/*
+Disallow: /*/comment-page*
+Disallow: /*app_v2=
+Disallow: /*?logincl
+Disallow: /*replytocom=
+Disallow: *wp-login.php
+Disallow: /*-sexy*
+Disallow: /*-hot-*
+Disallow: /*-hot/
+Disallow: /*-nuda*
+Disallow: /*-porno*
+Disallow: /*-hard*
+Disallow: /*-nude*
+Disallow: /*-topless*
+Disallow: /*-sesso-*
+Disallow: /*-lato-b*
+Allow: /*/2025/*/
+Allow: /video/feed/mrss-video/
+
+
+Sitemap: https://www.oggi.it/gossip/sitemap-news.xml
+Sitemap: https://www.oggi.it/video/sitemap-news.xml
+Sitemap: https://www.oggi.it/people/sitemap-news.xml
+Sitemap: https://www.oggi.it/attualita/sitemap-news.xml
+Sitemap: https://www.oggi.it/moda/sitemap-news.xml
+Sitemap: https://www.oggi.it/bellezza/sitemap-news.xml
+Sitemap: https://www.oggi.it/benessere/sitemap-news.xml
+Sitemap: https://www.oggi.it/cucina/sitemap-news.xml
+Sitemap: https://www.oggi.it/famiglia/sitemap-news.xml
+Sitemap: https://www.oggi.it/posta/sitemap.xml
+Sitemap: https://www.oggi.it/video/sitemap.xml
+Sitemap: https://blog.oggi.it/umberto-veronesi/sitemap.xml
+Sitemap: https://blog.oggi.it/vittorio-sgarbi/sitemap.xml
+Sitemap: https://blog.oggi.it/massimo-lagana/sitemap.xml

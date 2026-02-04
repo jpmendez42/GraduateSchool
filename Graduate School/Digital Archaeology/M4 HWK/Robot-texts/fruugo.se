@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /rest/
+Disallow: /marketplace/
+Allow: /marketplace/css/
+Allow: /marketplace/images/
+Allow: /marketplace/js/
+Disallow: /cart/
+Disallow: /auth/
+Disallow: /search/
+Disallow: /json/
+Sitemap: https://www.fruugo.se/sitemap.xml

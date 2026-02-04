@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /my/
+Disallow: /reader/
+Disallow: /ad/
+
+User-agent: bingbot
+Crawl-delay: 10

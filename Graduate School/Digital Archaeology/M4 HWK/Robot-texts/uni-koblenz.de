@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /controlpanel
+Disallow: /*login$
+Disallow: /de/rss-*
+Disallow: /en/rss-*
+Disallow: /ic
+Disallow: /contact-form
+Disallow: /de/zimt/it-awareness/phishing-kampagne
+Disallow: /resolveuid/*
+Disallow: /unblock
+Disallow: /unblock/*

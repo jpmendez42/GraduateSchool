@@ -1,0 +1,14 @@
+Sitemap: https://www.drevostavitel.cz/sitemap.xml
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /affil/
+Disallow: /advert/moduly/
+Disallow: /blind/
+Disallow: /ad.php
+Disallow: /ad.php*
+Disallow: /plugins/feedback.php
+
+
+User-agent: ia_archiver
+Disallow: /

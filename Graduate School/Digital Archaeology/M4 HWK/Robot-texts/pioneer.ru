@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: *?*
+Disallow: *favorites*
+Disallow: *korpus=*&section=*&floor=*&*
+Disallow: *pdf-generate*
+Allow: *korpus*
+Allow: *.js*
+Allow: *.css*
+Sitemap: https://pioneer.ru/sitemap.xml
+
+User-agent: Yandex
+Disallow: *favorites*
+Disallow: *pdf-generate*
+Disallow: /*search?*
+Clean-param: adrclid&amp&calltouch_tm&cm_id&ct_vk&erid&%20utm_source&erir&esdn&from&utm_partner_id&network&device&mobile&kms&wbraid&is_tablet&onlySelect&pm-test-form&scroll_to&t&utm&yandex-source&aon_uuid&year&id&utm_medium&utm_referrer
+Clean-param: utm_rt&utm_source&utm_ya_campaign&utm_campaign&etext&utm_banner_type&spome&b&f-min&f-max&rc-min&rc-max&sq-min&sq-max&tc-min&tc-max&mindbox-message-key&calltouch_mt&gtm_debug&flat&tr_n
+Clean-param: stat-id&test-tag&banner-sizes&format-type&actual-format&pcodever&banner-test-tags&pcode-active-testids&width&height&order-banners-options&clickX&clickY&hhh&amp%3Butm_medium&amp%3Butm_campaign&constructor-rendered-assets&subDesignId&%2Butm_content&ESDN&pdfrequest&project&%2Butm_content&amp%3Berid&meetingfeedback
+Clean-param: calltouch&disableGlobalInfoCollect&utm_sorce&t5&q&cd&hl&ct&gl&hhtmFrom&type&section&search&subType
+Clean-param: _x_tr_pto&_x_tr_sl&_x_tr_tl&act&back&fbclid&finishing&gbraid&life&mapOpen&mindbox-click-id&no_third_party_tracking&panoOpen&path&premium&projects&projectsType&rc&ref&rnd&slideNum
+Allow: *.js*
+Allow: *.css*
+
+User-agent: Googlebot
+Disallow: *?*
+Disallow: *favorites*
+Disallow: *korpus=*&section=*&floor=*&*
+Disallow: *pdf-generate*
+Allow: *korpus*
+Allow: *.js*
+Allow: *.css*

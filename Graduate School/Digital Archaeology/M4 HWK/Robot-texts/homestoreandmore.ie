@@ -1,0 +1,20 @@
+User-agent: *
+
+# Exclude search from indexing
+Disallow: /*Search-Show*
+Disallow: /*Search-GetSuggestions*
+Disallow: /search*
+Disallow: /*pmin*
+Disallow: /*pmax*
+Disallow: /*prefn1*
+Disallow: /*prefn2*
+Disallow: /*prefn3*
+Disallow: /*prefn4*
+Disallow: /*prefv1*
+Disallow: /*prefv2*
+Disallow: /*prefv3*
+Disallow: /*prefv4*
+Disallow: /*srule*
+Disallow: /app*
+
+SITEMAP: https://www.homestoreandmore.ie/sitemap_index.xml

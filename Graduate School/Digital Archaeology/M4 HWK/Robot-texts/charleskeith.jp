@@ -1,0 +1,45 @@
+User-agent: *
+
+User-agent: ClaudeBot
+Crawl-delay: 10
+
+User-agent: Claude-Web
+Crawl-delay: 10
+
+Disallow: *contentsearch*
+Disallow: /*pmin*
+Disallow: /*pmax*
+Disallow: /*prefn1*
+Disallow: /*prefn2*
+Disallow: /*prefn3*
+Disallow: /*prefn4*
+Disallow: /*prefv1*
+Disallow: /*prefv2*
+Disallow: /*prefv3*
+Disallow: /*prefv4*
+Disallow: /*srule*
+Disallow: *search?q=*
+Disallow: /cart
+Disallow: /*/cart
+Disallow: /*/orderconfirmation
+Disallow: /*/revieworder
+Disallow: /*/thank-you
+Disallow: /*/check-out
+Disallow: /login
+Disallow: *?q=*
+Disallow: /CSRF-Fail
+Disallow: /on/demandware.store/*
+Disallow: */Search-Show
+Disallow: /*/profile
+Disallow: /*/account
+Disallow: /*/orders
+Disallow: /*/order-details*
+Disallow: /*/my-preferences
+Disallow: /*/addressbook
+Disallow: /*/wallet
+Disallow: /*/membership
+Allow: /*/thank-you-mothers-day
+Allow: /jp/wallets 
+Disallow: /*jp-en
+
+Sitemap: https://www.charleskeith.jp/jp/sitemap_index.xml

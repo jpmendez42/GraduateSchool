@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /*?*
+Disallow: /*new*
+Disallow: /*clinician* 
+
+Sitemap: https://www.livi.fr/sitemap.xml

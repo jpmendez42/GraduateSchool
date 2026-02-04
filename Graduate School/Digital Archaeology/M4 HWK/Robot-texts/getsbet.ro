@@ -1,0 +1,14 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://getsbet.ro
+
+# Sitemaps
+Sitemap: https://getsbet.ro/sitemap.xml
+Sitemap: https://getsbet.ro/sitemap-vendors.xml
+Sitemap: https://getsbet.ro/sitemap-promotions.xml
+Sitemap: https://getsbet.ro/sitemap-casino-groups.xml
+Sitemap: https://getsbet.ro/sitemap-casino-jackpots.xml
+Sitemap: https://getsbet.ro/sitemap-casino-games.xml

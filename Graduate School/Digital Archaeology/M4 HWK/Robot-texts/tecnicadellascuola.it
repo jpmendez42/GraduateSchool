@@ -1,0 +1,16 @@
+Sitemap: https://www.tecnicadellascuola.it/sitemap_index.xml
+
+User-agent: *
+Allow: /*.js
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /sites*
+Disallow: /modules*
+Disallow: /node*
+Disallow: /slide-ultime-notizie-scuola
+
+User-agent: msnbot
+Crawl-delay: 5
+
+User-agent: bingbot
+Crawl-delay: 5

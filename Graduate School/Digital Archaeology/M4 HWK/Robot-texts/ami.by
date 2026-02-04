@@ -1,0 +1,18 @@
+User-agent: Yandex
+Disallow: /en
+Disallow: *?
+Disallow: /phpma
+Disallow: /poisk.php
+Allow: *.jpg
+Host: https://ami.by
+
+User-agent: *
+Disallow: /en
+Disallow: *?
+Disallow: /phpma
+Disallow: /poisk.php
+Allow: *.jpg
+Sitemap: https://ami.by/sitemap.xml
+
+User-Agent: archive-by.com
+Disallow: /

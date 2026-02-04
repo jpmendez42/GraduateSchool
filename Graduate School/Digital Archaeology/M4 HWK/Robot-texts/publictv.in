@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+Disallow: /cgi-bin/
+Disallow: /Wp-includes/
+Sitemap: https://publictv.in/sitemap.xml
+Sitemap: https://publictv.in/sitemaps.xml
+Sitemap: https://publictv.in/sitemap-news.xml
+Sitemap: https://publictv.in/sitemap_index.xml

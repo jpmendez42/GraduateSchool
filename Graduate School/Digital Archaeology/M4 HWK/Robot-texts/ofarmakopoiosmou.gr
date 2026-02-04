@@ -1,0 +1,153 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /misc/*.css$
+Allow: /misc/*.css?
+Allow: /misc/*.js$
+Allow: /misc/*.js?
+Allow: /misc/*.gif
+Allow: /misc/*.jpg
+Allow: /misc/*.jpeg
+Allow: /misc/*.png
+Allow: /modules/*.css$
+Allow: /modules/*.css?
+Allow: /modules/*.js$
+Allow: /modules/*.js?
+Allow: /modules/*.gif
+Allow: /modules/*.jpg
+Allow: /modules/*.jpeg
+Allow: /modules/*.png
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /themes/*.css$
+Allow: /themes/*.css?
+Allow: /themes/*.js$
+Allow: /themes/*.js?
+Allow: /themes/*.gif
+Allow: /themes/*.jpg
+Allow: /themes/*.jpeg
+Allow: /themes/*.png
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+User-agent: msnbot
+Crawl-delay: 1
+
+Disallow: /en/admin/
+Disallow: /en/comment/reply/
+Disallow: /en/filter/tips/
+Disallow: /en/node/add/
+Disallow: /en/search/
+Disallow: /en/user/register/
+Disallow: /en/user/password/
+Disallow: /en/user/login/
+Disallow: /en/user/logout/
+
+Disallow: /admin
+Disallow: /comment/reply
+Disallow: /filter/tips
+Disallow: /node/add
+Disallow: /search
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /user/login
+Disallow: /user/logout
+
+Disallow: /en/admin
+Disallow: /en/comment/reply
+Disallow: /en/filter/tips
+Disallow: /en/node/add
+Disallow: /en/search
+Disallow: /en/user/register
+Disallow: /en/user/password
+Disallow: /en/user/login
+Disallow: /en/user/logout
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+
+Disallow: /sites/default/files/advagg_css/
+Disallow: /sites/default/files/advagg_js/
+Disallow: /sites/default/files/webform/
+Disallow: /sites/all/themes/ns/fonts/icons.woff2?8d9vg8
+Disallow: /sites/all/themes/ns/gravatar.svg
+Disallow: /sites/all/themes/ns/images/el.svg
+Disallow: /sites/all/themes/ns/images/en.svg
+Disallow: /sites/all/themes/ns/images/express.svg
+Disallow: /sites/all/themes/ns/images/express.svg
+Disallow: /sites/all/themes/ns/images/icons/offers.svg
+Disallow: /sites/default/files/advagg_css/A.css__1rojE6f2No5Igw0Mr3rwvgrSpWD3wgUX2_Xruxkdi2k__LAMXTW2OmluNnwYHrvSDuXQZKFMmalEGa3wgjNBIUj0__6Se5g_f7oJqkrBfSp5puiKpZfHG5F7X_CuZ2nZeVy8s.css.pagespeed.cf.KZBhVCyDSk.css
+Disallow: /sites/default/files/advagg_css/A.css__1w7I-A-nMal7RmOiAa775IBL83knXZxusy-1THVNCWI__2mKA78sGFiMWC27Ylxe81D7kJRt2pZE1oDX_V_fC_jg__6Se5g_f7oJqkrBfSp5puiKpZfHG5F7X_CuZ2nZeVy8s.css.pagespeed.cf.S9BjJoxxx0.css
+Disallow: /sites/default/files/advagg_css/A.css__5GqxYR-UmtuaQo57FruuHjzlkzQwG9I0mHj-RgVtTj0__-lWUwIrF-Z7hkFXQ92xCrjGDCWVMOC1-cpZtCU3gCt4__XcOd9Gh15Ur87_sk6Hxcr7wExjYjtAYbuSj0OYDGU-Q.css.pagespeed.cf.kC-g9IkWLY.css
+Disallow: /sites/default/files/icon-adynatisma.png.pagespeed.ce.6WY5LZwbhe.png
+Disallow: /sites/default/files/icon-akrateia.png.pagespeed.ce.g7hEOAbbpS.png
+Disallow: /sites/default/files/icon-andras.png.pagespeed.ce.6IsfIM1Ge1.png
+Disallow: /sites/all/modules/contrib/radioactivity/emit.php
+Disallow: /sites/default/files/styles/brands_block_product_page/public/15321.jpg,qitok=NHEHIOqQ.pagespeed.ce.2AAbZPupSI.jpg
+Disallow: /sites/default/files/styles/brands_block_product_page/public/15477.jpeg,qitok=A3Fjqso1.pagespeed.ce.HMAQUndigi.jpeg
+Disallow: /sites/default/files/styles/product_list/public/3xodourlesgarlic.jpg?itok=k3umDyKF
+Disallow: /sites/default/files/styles/product_list/public/3xomega369.jpg?itok=gVNt3t9L
+Disallow: /sites/default/files/styles/product_medium/public/youtube/xTdlc80N7VcQ.jpg,qitok=dzwdpfSb.pagespeed.ic.c8w4PUJOzU.jpg
+Disallow: /sites/default/files/styles/product_medium/public/youtube/xyKnWhjlwPOQ.jpg,qitok=0W8iol8Z.pagespeed.ic.fMBWJN3Zlx.jpg
+Disallow: /sites/default/files/styles/product_thumbnail/public/x06_chewy_multi_new.png,qitok=FsQ682Gj.pagespeed.ic.JahJXS9OoW.jpg
+Disallow: /sites/default/files/styles/product_thumbnail/public/x1_3_0.png,qitok=yL3FyuNB.pagespeed.ic.txN5fk8XUz.jpg
+Disallow: /sites/default/files/styles/skin/public/skin_babylino.jpg?itok=VHuv760a
+Disallow: /sites/default/files/styles/skin/public/skin_thank-you-farmer_0.jpg?itok=a-xLnaKx
+Disallow: /sites/default/files/styles/promotion_flag_teaser/public/xflags_solgar_diagwnismos.png,qitok=bZrKw5ZR.pagespeed.ic.O8AB1iAkEM.png
+Disallow: /sites/default/files/styles/promotion_flag_teaser/public/xkorres-flag.png,qitok=y8lHKQmX.pagespeed.ic.yzJEiHpAUl.png
+Disallow: /get_related_products/
+Disallow: /epipleon-haraktiristika/

@@ -1,0 +1,17 @@
+
+            ## Exclude Files From All Robots:
+
+User-agent: *
+Disallow: /admin/
+Disallow: /partial/
+
+            Disallow: /remote/
+Disallow: /gwplayer/
+Disallow: /shop/
+Disallow: /xml_rpc_srv/
+
+            Disallow: /userhub/
+Disallow: /member/
+Disallow: /membre/
+# End robots.txt file
+        

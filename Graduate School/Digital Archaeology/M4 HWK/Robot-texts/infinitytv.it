@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*?*e=*
+Disallow: /info/email-unsubscribed
+Disallow: /info/email-unsubscribed-mapp
+
+Sitemap: https://mediasetinfinity.mediaset.it/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /irs/
+Disallow: /fileadmin/
+Disallow: /live_fileadmin/
+Disallow: /suchen-buchen/warenkorb/
+Disallow: /buchen/warenkorb/api
+Disallow: /testbereich
+Disallow: /typo3/
+Disallow: */1000$
+Disallow: */1000/$
+User-agent: ICC-Crawler
+Disallow: /

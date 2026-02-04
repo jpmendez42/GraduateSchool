@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /v5/
+Disallow: /api/
+Disallow: /recherche
+
+User-agent: 8LEGS
+User-agent: AspiegelBot
+User-agent: BLEXBot
+User-agent: Barkrowler
+User-agent: DotBot
+User-agent: MauiBot
+User-agent: Nimbostratus-Bot
+User-agent: PetalBot
+User-agent: SeznamBot
+User-agent: Sogou
+User-agent: serpstatbot
+User-agent: trendiction
+User-agent: TextBulkerBot
+Crawl-delay: 180
+
+Sitemap: https://www.gameblog.fr/sitemap/sitemap.xml

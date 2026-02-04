@@ -1,0 +1,17 @@
+User-agent: *
+
+Clean-param: _gl&gcmes&gcmlg&tpclid&from&utm_source&mindbox-message-key&hl&ssp_iabi&__cf_chl_tk /
+
+Allow: /stickers
+Allow: /channels
+
+Disallow: /js
+Disallow: /css
+Disallow: /assets
+
+Disallow: /channels/@bbcrussian/*
+Disallow: /channels/@shortvids18/*
+Disallow: /channels/@PublicNudity18/*
+
+Host: https://tlgrm.eu
+Sitemap: https://tlgrm.eu/sitemap.xml

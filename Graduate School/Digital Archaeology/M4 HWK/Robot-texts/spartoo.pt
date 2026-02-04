@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap:https://www.spartoo.pt/sitemap.gz
+
+Disallow:/operations/*
+Disallow:/save_javascript_error.php

@@ -1,0 +1,33 @@
+User-Agent: Yandex
+Disallow: /
+
+User-Agent: YandexBot
+Disallow: /
+
+User-Agent: bingbot
+Crawl-delay: 5
+
+User-Agent: msnbot
+Crawl-delay: 5
+
+User-Agent: *
+Allow: /
+Disallow: /signup
+Disallow: /login
+Disallow: /about/faq
+Disallow: /about/contact
+Disallow: /about/dmca
+Disallow: /about/terms
+Disallow: /about/privacy
+Disallow: /about/cookiespolicy
+Disallow: /about/refundpolicy
+Disallow: /about/recurringpaymentagreement
+Disallow: /about/contentagreement
+Disallow: /about/complaintspolicy
+Disallow: /about/antitrafficking
+Disallow: /about/antitraffickingstatement
+Disallow: /about/modernslaverypolicy
+Disallow: /about/bitcoin
+Disallow: /about/facts
+Disallow: /about/imprint
+Disallow: /about/phishing

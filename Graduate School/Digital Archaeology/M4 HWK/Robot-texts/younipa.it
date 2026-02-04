@@ -1,0 +1,12 @@
+User-agent: grapeshot
+Disallow:
+
+Sitemap: https://www.younipa.it/sitemap.xml
+Sitemap: https://www.younipa.it/sitemap-news.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /201*/*/*/index.php
+Disallow: /category/*/index.php
+Disallow: /category/*/?p*

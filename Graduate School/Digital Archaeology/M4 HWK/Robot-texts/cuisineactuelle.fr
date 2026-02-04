@@ -1,0 +1,104 @@
+# robots.txt
+
+User-agent: *
+Disallow: */1000
+#####################
+# crawl issue 2020-03
+#####################
+Disallow: *optinConfig*
+Disallow: *brandconfiguration.json*
+Disallow: /*/(page)/*cac*
+Disallow: /*/(offset)/*cac*
+Disallow: /*/(page)/*fac*
+Disallow: /*/(offset)*fac*
+Disallow: /*/(page)/*tel*
+Disallow: /*/(offset)/*tel*
+Disallow: /*/(page)/*bea*
+Disallow: /*/(offset)/*bea*
+Disallow: /*/(page)/*neo*
+Disallow: /*/(offset)/*neo*
+Disallow: /*/(page)/*geo*
+Disallow: /*/(offset)/*geo*
+Disallow: /*/(page)/*cam*
+Disallow: /*/(offset)/*cam*
+Disallow: /*/(page)/*voi*
+Disallow: /*/(offset)/*voi*
+Disallow: /*/(page)/*gal*
+Disallow: /*/(offset)/*gal*
+Disallow: /*/(page)/*ser*
+Disallow: /*/(offset)/*ser*
+Disallow: /*/(offset)/*/(offset)/*
+Disallow: *?offset=bea*
+Disallow: *?offset=cac*
+Disallow: *?offset=fac*
+Disallow: *?offset=tel*
+Disallow: *?offset=gal*
+Disallow: *?offset=voi*
+Disallow: *?offset=cam*
+Disallow: *?offset=neo*
+Disallow: *?offset=*/optinConfig
+Disallow: *?offset=geo*
+##################
+Disallow: /one/
+Disallow: /content/tipafriend/
+Disallow: /layout/set/print/
+Disallow: /layout/set/ajax/content/view
+Disallow: /prismaajaxcomment/
+Disallow: /rss/feed/
+Disallow: /user/register
+Disallow: *?SearchText=*&*
+Disallow: /content/search/(offset)/*?SearchText=*
+Disallow: /content/search/*?SearchText=*
+Disallow: *?Search=*
+Disallow: *(sortby)*
+Disallow: *(session)*
+Disallow: *(filter)*
+Disallow: *(direction)*
+Disallow: *function.filesize*
+Disallow: /sondage/sondage/*
+Disallow: /prismaajaxrate/*
+Disallow: *xtor=*
+Disallow: /content/view/full/
+Disallow: /editos/*
+Disallow: /prismacuiuserinformations/*
+Disallow: /users/guest-accounts/
+Disallow: /valid_user
+Disallow: /bookmarks/*
+Disallow: /bookmark/get/
+Disallow: /profile/private
+Disallow: /assets/scripts/esm.recipe.js
+Disallow: *?amp$
+Disallow: *?amp=$
+Disallow: /(offset)/
+Disallow: /guides
+Disallow: /guides/*
+
+# Gestion des pages de recherches
+Disallow: /content/search*
+Allow: /content/search?search%5Btext%5D=*
+Disallow: /content/search?search%5Btext%5D=*&
+Allow: /content/search?*&search%5Bsort%5D=relevance*
+
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: CCBot
+Disallow: /
+
+# ajout 15/05/2025
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: Trendiction/Talkwalker
+Disallow: /
+
+User-agent: Uber Metrics Technologies Unicepta
+Disallow: /
+
+User-agent: Panalis
+Disallow: /
+
+User-agent: LexisNexis
+Disallow: /

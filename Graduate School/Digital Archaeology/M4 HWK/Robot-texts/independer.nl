@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /captcha/
+Disallow: /scriptservices/
+Disallow: /uitvaartverzekering/leadclickout.aspx
+Disallow: */faq
+Disallow: */resultaat/snel
+Disallow: */afsluiten/productoverzicht
+Disallow: */product-details
+Disallow: */productoverzicht
+Disallow: /v3/
+Disallow: /belgie-reverse-proxy/
+Disallow: /*/landing/
+Disallow: /*/invoer
+Disallow: /*/sea/
+Disallow: /mijnindepender
+Disallow: /gegevens
+Disallow: /thema
+Disallow: /nieuwsbrief
+Disallow: *?refer
+Disallow: *refer=
+
+User-agent: AdsBot-Google
+Disallow: */fysiotherapie/
+Disallow: */fi/
+
+User-agent: 008
+User-agent: Vagabondo
+User-agent: Typhoeus
+Disallow: /

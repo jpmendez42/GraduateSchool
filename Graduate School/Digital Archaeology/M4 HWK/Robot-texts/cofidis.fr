@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /*design=cofidis*
+Disallow: /*?token=*
+Disallow: /*&targetret=*
+Disallow: /*?_productfilter=*
+Disallow: /*jsessionid=*
+Disallow: /*?xtor=*
+Disallow: /*?bppartnerid=*
+Disallow: /*?_tabi=COLG*
+Disallow: /*.do$
+Disallow: /*credit_en_ligne*
+Disallow: /*typeProd*
+Disallow: /*at_medium*
+Disallow: /*.pdf
+Disallow: /client/fr/
+Disallow: /eco/*
+Disallow: /*?idt=*
+Disallow: /?contexte=
+Disallow: /reponse_faq=
+Disallow: /?mnc=
+Disallow: /*aspx* 
+Disallow: /*?_tabi=* 
+Disallow: /*?&xtor=* 
+Disallow: /*?syn=m*  
+Disallow: /*?argu=* 
+Disallow: /*?ancre=* 
+Disallow: /*?&adfcd=* 
+Disallow: /*?codepromocli* 
+Disallow: /*?contexte=FIN* 
+Disallow: /fr/identification/
+
+User-agent: SiteAuditBot
+Disallow: /
+
+Sitemap: https://www.cofidis.fr/fr/sitemap.xml

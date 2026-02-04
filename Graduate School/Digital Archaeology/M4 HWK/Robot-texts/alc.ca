@@ -1,0 +1,42 @@
+# Version 2021-12-03 (AEM 2.4.0)
+# www.alc.ca
+# www.prolinestadium.com --> www.alc.ca/proline-stadium/
+User-agent: *
+Disallow: /*/play-online/instant-win-games/game.html
+Disallow: /*/casino/game.html
+Disallow: /*/cart.html
+Disallow: /*/checkout-pending.html
+Disallow: /*/my-account/
+Disallow: /*/reverify-account.html
+Disallow: /*/account-unverified.html
+Disallow: /*/corporate.html
+Disallow: /*/external/
+Disallow: /*/external-redirects/
+Disallow: /*/play-online.html
+Disallow: /*/our-games/proline.html
+Disallow: /*/proline-stadium/*/games.html
+Disallow: /*/content/dam/alc/images/casino/*.pdf$
+Disallow: /*/search-results.html
+Disallow: /*/_jcr_content/*
+Disallow: /*/error*
+Disallow: /services*
+Disallow: /*.json
+Disallow: /*.feed
+Disallow: /*.rss
+Disallow: /*/referenced/
+Disallow: /*/referenced-content/
+
+Noindex: /content/dam/*
+
+Allow: /content/dam/alc/images/Winners/
+Allow: /content/dam/alc/images/ScratchNWin/
+Allow: /content/dam/alc/images/lotto/
+Allow: /content/dam/alc/images/iBingo/
+Allow: /content/dam/alc/images/casino/
+Allow: /content/dam/alc/images/static/game-tiles/
+Allow: /content/dam/proline/logos/
+Allow: /content/dam/proline/images/
+Allow: /content/dam/alc/en/images/instant/
+Allow: /content/dam/alc/fr/images/instant/
+
+Sitemap: https://www.alc.ca/sitemap.xml

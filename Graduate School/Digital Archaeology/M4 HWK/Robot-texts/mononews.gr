@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /feed/
+Disallow: /feed/$
+Disallow: */feed/
+Disallow: */feed/$
+Disallow: /?feed=
+Disallow: /comments/feed
+Disallow: /comments$
+Disallow: /wp-comments/
+Disallow: /wp-feed
+Disallow: /*?s=*
+Disallow: *&preview=*
+Disallow: /author/
+Disallow: /search/
+Disallow: /?amp
+Disallow: /?noamp=mobile
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: hhttps://www.mononews.gr/sitemap.xml

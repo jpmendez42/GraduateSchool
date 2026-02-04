@@ -1,0 +1,10 @@
+User-agent: grapeshot
+Disallow:
+
+Sitemap: https://www.0-100.it/sitemap.xml
+Sitemap: https://www.0-100.it/sitemap-news.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+

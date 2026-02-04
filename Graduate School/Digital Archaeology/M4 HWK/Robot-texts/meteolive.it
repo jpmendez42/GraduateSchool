@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /meteoforum/ucp.php
+Disallow: /meteoforum/memberlist.php
+Disallow: /meteoforum/mcp.php
+Disallow: /meteoforum/posting.php
+Disallow: /meteoforum/search.php
+Disallow: /meteoforum/faq.php
+Disallow: /meteoforum/viewonline.php
+Disallow: /meteoforum/groupcp.php
+Disallow: /meteoforum/common.php
+Disallow: /meteoforum/download/file.php
+Disallow: /meteoforum/posting.php
+Disallow: /meteoforum/report.php
+Disallow: /meteoforum/topicreview.php
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: *
+Disallow: /?s=
+Disallow: /search/
+
+Sitemap: https://www.meteolive.it/sitemap
+Sitemap: https://www.meteolive.it/sitemap-news.xml
+Sitemap: https://www.meteolive.it/ultime-ore-sitemap.xml

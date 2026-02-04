@@ -1,0 +1,9 @@
+
+    
+    User-agent: *
+    Allow:/
+    Disallow: *search?*searchtext=
+    Disallow: *search-results?*%5Bquery%5D=
+    
+    Sitemap: https://www.konicaminolta.eu/sitemap.xml
+    

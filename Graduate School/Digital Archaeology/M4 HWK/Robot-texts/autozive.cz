@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: *?s=
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.autozive.cz/sitemap_index.xml

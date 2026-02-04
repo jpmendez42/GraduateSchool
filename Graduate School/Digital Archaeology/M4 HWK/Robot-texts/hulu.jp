@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /browse
+Disallow: /
+
+
+User-agent: googlebot
+User-agent: Googlebot-Video
+User-agent: bingbot
+User-agent: Baiduspider
+User-agent: Baiduspider-mobile
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: Linespider
+User-agent: NaverBot
+User-agent: Yeti
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: YandexMobileBot
+User-agent: YandexVideo
+User-agent: YandexWebmaster
+User-agent: YandexSitelinks
+User-agent: SiteArc
+User-agent: Y!J-WSC
+Allow: /
+Disallow: /profiles
+Disallow: /accounts
+Disallow: /api
+
+User-agent: AdsBot-Google
+User-agent: Twitterbot
+User-agent: Adidxbot
+User-agent: externalfacebookhit
+Allow: /
+
+User-agent: Yahoo Pipes 1.0
+User-agent: Facebot
+Disallow: /
+
+Sitemap: https://www.hulu.jp/static/sitemaps/sitemap.xml.gz

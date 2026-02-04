@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /haku?q=*
+Disallow: /sv/sok?q=*
+Disallow: /en/search?q=*
+Sitemap: https://www.mehilainen.fi/sitemap-index.xml
+Host: https://www.mehilainen.fi

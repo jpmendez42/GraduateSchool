@@ -1,0 +1,8 @@
+User-Agent:*
+Sitemap: https://chocozap.jp/sitemap.xml
+Disallow: /line/
+Disallow: /hacomono/
+Disallow: /webview/
+Disallow: /exclusive_diagnosis/
+Disallow: /_common/pdf/
+Disallow: /pdf/

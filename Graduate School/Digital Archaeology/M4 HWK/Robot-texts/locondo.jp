@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /*.pdf
+Disallow: /*.swf
+Disallow: /*displayMode=
+Disallow: /contents/mail/
+Disallow: /shop/*searchBraSize=
+Disallow: /shop/*groupByModel=

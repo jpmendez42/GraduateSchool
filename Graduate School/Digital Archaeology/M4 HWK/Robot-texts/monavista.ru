@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /engine/go.php
+Disallow: /user/
+Disallow: /*/page/
+Disallow: /newposts/
+Disallow: /statistics.html
+Disallow: /*subaction=userinfo
+Disallow: /*subaction=newposts
+Disallow: /*do=lastcomments
+Disallow: /*do=feedback
+Disallow: /*do=register
+Disallow: /*do=lostpassword
+Disallow: /*do=addnews
+Disallow: /*do=stats
+Disallow: /*do=pm
+Disallow: /*do=search
+Disallow: /*do=download
+Disallow: /*do=go
+Disallow: /xgo1.php*
+Disallow: /xgo.php*
+Disallow: /lastnews/*
+Disallow: /stars/*
+Sitemap: https://monavista.ru/uploads/sitemap.xml
+

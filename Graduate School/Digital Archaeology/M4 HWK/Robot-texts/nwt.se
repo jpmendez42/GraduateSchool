@@ -1,0 +1,130 @@
+# AdsBot crawlers must be named explicitly
+User-agent: AdsBot-Google
+User-agent: *
+Disallow: /min-sida/
+Disallow: /sok/
+
+# Sitemaps
+Sitemap: https://www.nwt.se/sitemaps/news/sitemap.xml
+Sitemap: https://www.nwt.se/sitemaps/static/sitemap.xml
+
+# Disallow Rules
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: ArchiveBot
+Disallow: /
+
+User-agent: Arquivo-web-crawler
+Disallow: /
+
+# Awario (https://awario.com/)
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: europarchive.org
+Disallow: /
+
+User-agent: Giant Oak MN
+Disallow: /
+
+User-agent: Go-http-client
+Disallow: /
+
+User-agent: heritrix
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: LinkArchiver
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: meta-externalfetcher
+Disallow: /
+
+User-agent: Nicecrawler
+Disallow: /
+
+User-agent: Primalbot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: web-archive-net.com.bot
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+##########################
+## Disallow AI crawlers ##
+##########################
+# Common crawl
+User-agent: CCBot
+Disallow: /
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+# OpenAI (ChatGPT realtime search)
+User-agent: ChatGPT-User
+Disallow: /
+# OpenAI search bot
+User-agent: OAI-SearchBot
+Disallow: /
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+# Google Bard, Vertex AI, Gemini
+User-agent: Google-Extended
+Disallow: /
+# webz.io robot
+User-agent: Omgilibot
+Disallow: /
+# webz.io robot
+User-agent: Omgili
+Disallow: /
+# FacebookBot crawls public web pages to improve LLMs for Facebook's speech recognition technology.
+User-agent: FacebookBot
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+

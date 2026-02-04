@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Disallow: /category/
+Disallow: /tag/
+Disallow: /author/
+Disallow: /wp/wp-login.php
+Disallow: /wp/xmlrpc.php
+Disallow: /feed/
+Disallow: /cgi-bin/
+Allow: /wp/wp-admin/admin-ajax.php
+Sitemap: https://blacksun.ca/sitemap_index.xml

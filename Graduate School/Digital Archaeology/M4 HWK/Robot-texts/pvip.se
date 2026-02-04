@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: *?replytocom
+Disallow: *?custom-content
+Disallow: /*?p=
+Disallow: /*?q=
+Disallow: /*?u=
+Disallow: /feed
+Disallow: /*/feed/
+Disallow: /*/feed/$
+Disallow: /*/feed/rss/$
+Disallow: /*/trackback/$
+Disallow: /*/*/feed/$
+Disallow: /*/*/feed/rss/$
+Disallow: /*/*/trackback/$
+Disallow: /*/*/*/feed/$
+Disallow: /*/*/*/feed/rss/$
+Disallow: /*/*/*/trackback/$
+Disallow: /comments/feed
+Disallow: /*/comment-page-1/
+
+Sitemap: https://pvip.gratis/sitemap_index.xml

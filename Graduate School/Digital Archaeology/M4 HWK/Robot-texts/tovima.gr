@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /wp-content/uploads/
+Allow: grace/wp-content/uploads/
+Disallow: /cgi-bin/
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: grace/wp-admin
+Disallow: grace/wp-includes
+Sitemap: https://www.tovima.gr/sitemap_index.xml
+Sitemap: https://www.tovima.gr/wp-content/uploads/json/sitemap-news.xml
+Sitemap: https://www.tovima.gr/grace/sitemap_index.xml

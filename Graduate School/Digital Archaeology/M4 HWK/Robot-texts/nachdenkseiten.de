@@ -1,0 +1,9 @@
+User-agent: ia_archiver
+Disallow: /
+
+User-Agent: yacybot
+Crawl-delay: 30
+
+# Alle Roboter spidern die Domain
+User-agent: *
+Disallow:

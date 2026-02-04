@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /newaps
+Disallow: /test
+Disallow: /temp
+Disallow: /tv/progPlayer/
+Disallow: /tv/toLanding
+Disallow: /tv/index_autoplay
+Disallow: /tv/player31
+Disallow: /tv/player32
+Disallow: /tv/catchUp
+Disallow: /tv/catchUpByMonth
+Disallow: /radio/toLanding
+Disallow: /radio/index_autoplay
+Disallow: /radio/get_radio_programme_info
+Disallow: /radio/getPlayer
+Disallow: /radio/channel_global_setting
+Disallow: /radio/getTime
+Disallow: /radio/getTimetable
+Disallow: /radio/catchUp
+Disallow: /radio/catchUpByMonth
+Disallow: /radio/getEpisode
+Disallow: /radio/emailSubscribe
+Disallow: /radio/getPlayerBg
+Disallow: /radio/getPlayerBgs
+Disallow: /radio/getPlayerBg2
+

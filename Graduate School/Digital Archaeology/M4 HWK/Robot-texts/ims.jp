@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /ims/wp-admin/
+Allow: /ims/wp-admin/admin-ajax.php
+
+Sitemap: https://ims.jp/wp-sitemap.xml

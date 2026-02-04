@@ -1,0 +1,146 @@
+Sitemap: https://www.verbraucherzentrale.de/verbraucherzentrale_de/sitemap.xml
+#
+# robots.txt verbraucherzentrale de
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /index.php/user/register/
+Disallow: /index.php/user/login/
+Disallow: /index.php/user/logout/
+Disallow: /suche	
+# Disallow some bots	
+User-agent: MJ12bot	
+Disallow: /	
+User-agent: SemrushBot	
+Disallow: /	
+User-agent: jobs.de-Robot	
+Disallow: /	
+User-agent: spbot	
+Disallow: /	
+User-agent: JobboerseBot	
+Disallow: /	
+User-agent: trendictionbot	
+Disallow: /	
+User-agent: Cliqzbot	
+Disallow: /	
+User-agent: SeznamBot	
+Disallow: /	
+User-agent: Exabot	
+Disallow: /	
+User-agent: Mediatoolkitbot	
+Disallow: /	
+User-agent: Mail.RU_Bot	
+Disallow: /	
+User-agent: Wotbox	
+Disallow: /	
+User-agent: AlphaBot	
+Disallow: /	
+User-agent: Baiduspider	
+Disallow: /	
+User-agent: YandexMobileBot	
+Disallow: /	
+User-agent: SMTBot	
+Disallow: /	
+User-agent: rogerbot	
+Disallow: /	
+User-agent: YandexImages	
+Disallow: /	
+User-agent: Yeti	
+Disallow: /	
+User-agent: linkdexbot	
+Disallow: /	
+User-agent: SEOkicks-Robot	
+Disallow: /	
+User-agent: YaK	
+Disallow: /	
+User-agent: MojeekBot	
+Disallow: /	
+User-agent: wonderbot	
+Disallow: /	
+User-agent: YandexAntivirus	
+Disallow: /	
+User-agent: vebidoobot	
+Disallow: /	
+User-agent: Pinterestbot	
+Disallow: /	
+User-agent: TweetmemeBot	
+Disallow: /	
+User-agent: changedetection	
+Disallow: /	
+User-agent: SafeDNSBot	
+Disallow: /	
+User-agent: yacybot	
+Disallow: /	
+User-agent: Buck	
+Disallow: /	
+User-agent: SemrushBot-SA	
+Disallow: /	
+User-agent: SemrushBot-BA	
+Disallow: /	
+User-agent: SemrushBot-BM	
+Disallow: /	
+User-agent: Grobbot	
+Disallow: /	
+User-agent: Baiduspider-render	
+Disallow: /	
+User-agent: AhrefsBot	
+Disallow: /	
+User-agent: Flamingo_SearchEngine	
+Disallow: /	
+User-agent: MegaIndex.ru	
+Disallow: /	
+User-agent: Mega-Index	
+Disallow: /

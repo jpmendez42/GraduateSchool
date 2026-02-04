@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /*.html?
+Disallow: /*.php
+Disallow: /*.swf?
+Disallow: /*?
+Disallow: /*.zip
+Disallow: /*?utm_source
+Disallow: /*?utm_medium
+Disallow: /*?utm_campaign
+Disallow: /*?utm_term
+Disallow: /*?utm_content
+Disallow: /*?utm_nooverride
+Disallow: /*&utm_source
+Disallow: /*&utm_medium
+Disallow: /*&utm_campaign
+Disallow: /*&utm_term
+Disallow: /*&utm_content
+Disallow: /*&utm_nooverride
+Disallow: /megaexchange-exchanger*
+Host: https://www.bestchange.ru
+
+Sitemap: https://www.bestchange.ru/sitemap/ru.xml

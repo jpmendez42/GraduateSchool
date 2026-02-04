@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /xml/*
+Disallow: /sendcv.asp
+Disallow: /shoppingcart*
+Disallow: /_tools/*
+Disallow: /orderstep*
+Disallow: /instockshopmap*
+Disallow: /instockstatus*
+Disallow: /ajax/*
+Disallow: /login*
+Disallow: /account*
+Disallow: /link/*
+Disallow: /gjensidige-hjulskifte
+Disallow: /alufaelge/valgt.asp
+Disallow: /search*
+
+Sitemap: https://www.thansen.dk/sitemap

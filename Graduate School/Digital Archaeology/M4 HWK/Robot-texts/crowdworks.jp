@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /api/
+Allow: /api/v3/public/
+Disallow: /attachments/
+Disallow: /oauth_clients/
+Disallow: /admin/
+Disallow: /cases/?attachment_id=
+Disallow: /articles/2012/
+Disallow: /articles/2013/
+Disallow: /internal/
+Disallow: /deeplink/
+Disallow: /identification_request_*
+# winnersページは処理が重いのでクロールを制限
+Disallow: /public/proposal_products/winners/
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: baiduspider+
+Disallow: /
+
+User-agent: BaiduMobaider
+Disallow: /
+
+User-agent: BaiduImagespider
+Disallow: /
+
+User-agent: bingbot
+Crawl-delay: 10
+
+Sitemap:https://crowdworks.jp/sitemaps/public_employee_category/employee_caregory.xml.gz
+Sitemap:https://crowdworks.jp/sitemaps/public_employee_occupation/employee_occupation.xml.gz
+Sitemap:https://crowdworks.jp/sitemaps/public_employee_skill/employee_skill.xml.gz
+Sitemap:https://crowdworks.jp/sitemaps/public_job_category/job_category.xml.gz
+Sitemap:https://crowdworks.jp/sitemaps/public_job_skill/job_skill.xml.gz
+Sitemap:https://crowdworks.jp/sitemaps/sitemap_worker_detail/worker_detail.xml.gz
+Sitemap:https://crowdworks.jp/sitemaps/sitemap_client_detail/client_detail.xml.gz

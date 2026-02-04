@@ -1,0 +1,70 @@
+User-agent: AhrefsBot
+Crawl-delay: 600
+
+User-agent: baiduspider
+Crawl-delay: 600
+
+User-agent: bingbot
+Crawl-delay: 600
+
+User-agent: BLEXBot
+Crawl-delay: 600
+
+User-agent: MJ12bot
+Crawl-delay: 600
+
+User-agent: msnbot 
+Crawl-delay: 600
+
+User-agent: Slurp
+Crawl-delay: 600
+
+User-agent: Yandex
+Crawl-delay: 600
+
+User-agent: barkrowler
+Crawl-delay: 600
+
+User-agent: dataforseobot 
+Crawl-delay: 600
+
+User-agent: dotbot 
+Crawl-delay: 600
+
+User-agent: trendictionbot 
+Crawl-delay: 600
+
+User-agent: gptbot
+Crawl-delay: 1
+
+User-agent: amazonbot  
+Crawl-delay: 1
+
+User-agent: applebot  
+Crawl-delay: 1
+
+User-agent: facebook 
+Crawl-delay: 1
+
+User-agent: slackbot
+Crawl-delay: 1
+
+User-agent: pinterest
+Crawl-delay: 1
+
+User-agent: twitter
+Crawl-delay: 1
+
+User-agent: ClaudeBot
+Crawl-delay: 1
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: *
+Disallow: /wordpress/lancer/prefecture/
+Disallow: /profile/search*?*refinement_skill*refinement_skill*
+Disallow: /ec/lancer/prefecture/

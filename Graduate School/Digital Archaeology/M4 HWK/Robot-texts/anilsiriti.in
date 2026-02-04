@@ -1,0 +1,27 @@
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+
+User-agent: AdsBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+Sitemap: https://anilsiriti.in/sitemap.xml
+Sitemap: https://anilsiriti.in/sitemap.rss
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://anilsiriti.in/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

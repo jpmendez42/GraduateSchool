@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: *?
+
+Sitemap : https://www.maya.ph/sitemap.xml
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*

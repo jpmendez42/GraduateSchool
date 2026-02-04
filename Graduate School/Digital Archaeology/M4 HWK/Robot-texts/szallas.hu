@@ -1,0 +1,23 @@
+User-Agent: *
+Disallow: /ajax
+Disallow: /cobrand/
+Disallow: /room_reservation/
+Disallow: /settlement/
+Disallow: /package_reservation/
+Disallow: /spa/
+Disallow: /spa_gallery/
+Disallow: /reservation-register
+Disallow: /affiliate-search-box
+Disallow: /affiliate-banner/
+Disallow: /js/
+Disallow: /plugin/
+Disallow: /hirlevel/
+Sitemap: https://szallas.hu/sitemaps/hu-new-index.xml
+
+
+User-Agent: Bytespider
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+

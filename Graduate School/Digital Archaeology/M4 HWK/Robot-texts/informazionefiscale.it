@@ -1,0 +1,22 @@
+# robots.txt
+# @url: https://www.informazionefiscale.it
+
+# @template: squelettes-dist/robots.txt.html
+
+User-agent: *
+Allow:    /local/cache-css/
+Allow:    /local/cache-js/
+Noindex: /local/
+Noindex: /plugins-dist/
+Noindex: /plugins/
+Noindex: /squelettes-dist/
+Noindex: /squelettes/
+Disallow: /ecrire/
+Disallow: /lib/
+Disallow: /prive/
+Disallow: /spip.php?action=*
+Disallow: /spip.php?page=login*
+Disallow: /*.api/
+Crawl-delay: 1
+
+Sitemap: https://www.informazionefiscale.it/sitemap.xml

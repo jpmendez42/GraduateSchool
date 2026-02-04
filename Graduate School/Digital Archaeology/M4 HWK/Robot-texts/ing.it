@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /static/generated/
+Disallow: /includes/download/
+Disallow: /tooldocumenti/
+Disallow: /giocaconleo/
+Disallow: /webview/
+Disallow: /static/upload/*.pdf$
+Disallow: /area-stampa/news/tag/
+Disallow: /investimenti-arancio/focus-mercati/tag/
+Disallow: /vocearancio/tag/
+
+Sitemap: https://www.ing.it/sitemap.xml
+Sitemap: https://www.ing.it/sitemap-newsroom.xml
+Sitemap: https://www.ing.it/sitemap-focusmercati.xml
+Sitemap: https://www.ing.it/sitemap-vocearancio.xml
+Sitemap: https://www.ing.it/sitemap-business.xml

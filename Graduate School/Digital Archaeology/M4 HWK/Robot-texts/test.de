@@ -1,0 +1,25 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /bezahlen/
+Disallow: /meintest/
+Disallow: /payment/
+Disallow: /statusmeldung/
+Disallow: /suche/
+Disallow: /filestore/
+Allow: /meintest/login/
+
+Sitemap: https://www.test.de/sitemap
+Sitemap: https://www.test.de/sitemap/news
+
+# Legal notice: Stiftung Warentest expressly reserves the right to use its content for commercial text and data mining (para. 44 b UrhG).
+# The use of robots or other automated means to access test.de or collect or mine data without the express permission of Stiftung Warentest is strictly prohibited.
+# Stiftung Warentest may, in its discretion, permit certain automated access to certain test.de pages.
+# The rights from para. 60d UrhG remain unaffected.

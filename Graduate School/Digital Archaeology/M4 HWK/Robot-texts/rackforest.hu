@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: SeekportBot
+Disallow: /
+
+Sitemap: https://rackforest.com/sitemap_index.xml

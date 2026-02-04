@@ -1,0 +1,17 @@
+
+
+# robots.txt zu http://www.gkv-spitzenverband.de/
+
+User-agent: *
+Disallow: /global/global_text.jsp
+Disallow: /global/messages.jsp
+Disallow: /global/teaserpool_previewpage.jsp
+Disallow: /global/fehler/
+Disallow: /inc/
+Disallow: /autosuggest
+Disallow: /agenturmeldungen
+Disallow: /agenturmeldungen_startseite
+Disallow: /filterVendorNames
+Disallow: /media/email_vorlagen/
+Disallow: /media/bilder/entwicklung/
+Disallow: /hmel/search

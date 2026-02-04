@@ -1,0 +1,9 @@
+User-agent: *
+
+# Domains to not crawl
+Disallow: /nyhetsmix
+Disallow: /debug
+Disallow: /sj
+
+# Allow all other paths for general crawlers
+Allow: /

@@ -1,0 +1,8 @@
+User-agent: *
+Allow:*/images/media/
+Disallow:*/content/*
+Disallow:*/layout/set/
+Disallow:*/lightbox/
+Disallow:*.pdf
+
+Sitemap: https://www.lpo.fr/sitemap.xml

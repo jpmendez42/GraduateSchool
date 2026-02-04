@@ -1,0 +1,80 @@
+# robots.txt for https://www.uni-saarland.de
+
+User-agent: sistrix
+Allow: /fileadmin/upload/*.bmp$
+Allow: /fileadmin/upload/*.BMP$
+Allow: /fileadmin/upload/*.doc$
+Allow: /fileadmin/upload/*.docx$
+Allow: /fileadmin/upload/*.gif$
+Allow: /fileadmin/upload/*.GIF$
+Allow: /fileadmin/upload/*.htm$
+Allow: /fileadmin/upload/*.html$
+Allow: /fileadmin/upload/*.jpeg$
+Allow: /fileadmin/upload/*.JPEG$
+Allow: /fileadmin/upload/*.jpg$
+Allow: /fileadmin/upload/*.JPG$
+Allow: /fileadmin/upload/*.png$
+Allow: /fileadmin/upload/*.PNG$
+Allow: /fileadmin/upload/*.pps$
+Allow: /fileadmin/upload/*.ppsx$
+Allow: /fileadmin/upload/*.ppt$
+Allow: /fileadmin/upload/*.pptm$
+Allow: /fileadmin/upload/*.pptx$
+Allow: /fileadmin/upload/*.eps$
+Allow: /fileadmin/upload/*.ps$
+Allow: /fileadmin/upload/*.svg$
+Allow: /fileadmin/upload/*.tif$
+Allow: /fileadmin/upload/*.TIF$
+Allow: /fileadmin/upload/*.tiff$
+Allow: /fileadmin/upload/*.txt$
+Disallow: /fileadmin/upload/
+
+Disallow: /nc/
+Disallow: /*.html?*
+Disallow: /stats/
+Disallow: /index.php
+Disallow: /typo3/
+Disallow: /typo3temp/*.php
+Disallow: /typo3conf/
+Disallow: /fileadmin/dummy/
+Disallow: /fileadmin/FTPuploads
+Disallow: /fileadmin/_migrated/
+Disallow: /fileadmin/Motive/
+Disallow: /fileadmin/news_import/
+Disallow: /fileadmin/_processed_/
+Disallow: /fileadmin/*/_processed_/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/templates/
+Disallow: /fileadmin/user_upload/
+Disallow: /fileadmin/upload/*htm$
+Disallow: /fileadmin/upload/*html$
+Disallow: /uploads/
+
+
+User-agent: *
+Disallow: /nc/
+Disallow: /*.html?*
+Disallow: /stats/
+Disallow: /index.php
+Disallow: /typo3/
+Disallow: /typo3temp/*.php$
+Disallow: /typo3conf/
+Disallow: /fileadmin/dummy/
+Disallow: /fileadmin/FTPuploads
+Disallow: /fileadmin/_migrated/
+Disallow: /fileadmin/Motive/
+Disallow: /fileadmin/news_import/
+Disallow: /fileadmin/_processed_/
+Disallow: /fileadmin/*/_processed_/
+Disallow: /fileadmin/_temp_/
+Disallow: /fileadmin/templates/
+Disallow: /fileadmin/user_upload/
+Disallow: /fileadmin/upload/*htm$
+Disallow: /fileadmin/upload/*html$
+Disallow: /uploads/
+Disallow: /neue-seite/
+
+#Sitemap: https://www.uni-saarland.de/sitemap/sitemap.xml
+Sitemap: https://www.uni-saarland.de/sitemaps/sitemap.xml
+
+

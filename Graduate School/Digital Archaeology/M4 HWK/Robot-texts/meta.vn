@@ -1,0 +1,50 @@
+User-agent: *
+
+Disallow: /bin/
+Disallow: /account
+Disallow: /account/*
+Disallow: /checkout
+Disallow: /checkout/*
+Disallow: /tra-gop-khong-the
+Disallow: /tragop
+Disallow: /.svn
+Disallow: /.svn/*
+Disallow: /test
+Disallow: /test/*
+Disallow: /lapdat
+Disallow: /lapdat/*
+Disallow: /login
+Disallow: /login/*
+Disallow: /amp/*
+
+## Do not crawl sub category pages that are sorted or filtered.
+# Disallow: /*?*
+# Disallow: /*?price=*
+# Disallow: /*&price=*
+# Disallow: /*?sort=*
+# Disallow: /*&sort=*
+# Disallow: /*?view=*
+# Disallow: /*&view=*
+# Disallow: /*?ref*
+# Disallow: /*&ref*
+# Disallow: /*?nsx=*
+# Disallow: /*&nsx=*
+# Disallow: /*?specs*
+# Disallow: /*?catalog*
+Disallow: /*/a-z*
+Disallow: /*/giam-gia*
+Disallow: /*/ban-chay*
+Disallow: /*?op=buy
+Disallow: /*&op=buy
+
+Disallow: /do-gia-dung-c382*
+Disallow: /dien-may-dien-lanh-c1013*
+Disallow: /cong-cu-dung-cu-c680*
+Disallow: /thiet-bi-so-c880*
+
+Disallow: /admin
+Disallow: /admin/*
+
+Disallow: /huong-dan/ads.meta.aspx*
+Disallow: /*.pdf
+Disallow: /*.doc

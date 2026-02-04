@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /login
+Disallow: *utm=
+Disallow: /healthz
+Disallow: /search
+Disallow: /zagadki
+Disallow: /so-stihami
+Disallow: /firebase
+Disallow: /audiocall
+
+User-agent: Yandex
+Allow: /
+Disallow: /login
+Disallow: *utm=
+Disallow: /healthz
+Disallow: /search
+Disallow: /zagadki
+Disallow: /so-stihami
+Disallow: /firebase
+Disallow: /audiocall
+Sitemap: https://otkritkiok.ru/sitemap-new.xml
+Sitemap: https://otkritkiok.ru/sitemap-old.xml
+Sitemap: https://otkritkiok.ru/sitemap-old2.xml
+Sitemap: https://otkritkiok.ru/sitemap-categories.xml

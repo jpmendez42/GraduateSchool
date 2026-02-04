@@ -1,0 +1,8 @@
+User-agent: * 
+Disallow: /l.ashx?u=default/
+Disallow: /l.ashx?u=res/
+Disallow: /utilityservice.svc/
+Disallow: /SportsBookAPI.svc/
+Disallow: /CookieService.svc/
+Disallow: /virtualbet.svc/
+Disallow: /Membership.svc/

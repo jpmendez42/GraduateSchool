@@ -1,0 +1,59 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: *
+Disallow: /xmlrpc.php
+Disallow: /wp-json/?rest_route=*
+Disallow: /wp-login.php
+Disallow: /wp-signup.php
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /search/
+Disallow: /*?replytocom=
+Disallow: /*?fbclid=
+Disallow: /*?utm_*
+Disallow: /*?gclid= 
+Disallow: /*?amp
+
+# Google News sitemap
+Sitemap: https://ominho.pt/news-sitemap.xml
+
+# Sitemap archive
+Sitemap: https://ominho.pt/wp-sitemap.xml

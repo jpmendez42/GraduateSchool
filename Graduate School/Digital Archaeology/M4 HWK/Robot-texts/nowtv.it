@@ -1,0 +1,70 @@
+User-agent: *
+Disallow: /account
+Disallow: /widgets
+Disallow: /gb/
+Disallow: /preview/
+Sitemap: https://www.nowtv.it/sitemap.xml
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: MauiBot (crawler.feedback+wc@gmail.com)
+Disallow: /
+
+
+User-agent: *
+
+Disallow: /registrazione/
+Disallow: /area-personale/
+Disallow: /platforms/
+Disallow: */playstation*
+Disallow: */xbox*
+Disallow: */samsung*
+Disallow: */lg*
+Disallow: */amazon*
+Disallow: */hisense*
+Disallow: */sony*
+Disallow: /motori-per-te.html
+Disallow: /offerta-motori-per-te.html
+Disallow: /blocco-181-torna-in-now.html
+Disallow: /amazonfresh.html
+Disallow: /blocco-181-guarda-il-trailer.html
+Disallow: /apple
+Disallow: /deejay
+Disallow: */home/asset/the-idol/*
+Disallow: /torna-in-now                                                            
+Disallow: /torna-in-now/cinema-entertainment
+Disallow: /torna-in-now/sport
+Disallow: /tifosi-uefa-champions-league
+Disallow: /tifosi-napoli-uefa-champions-league
+Disallow: /cinema-entertainment/offerta-streaming-ce
+Disallow: /sport/offerta-streaming-sport
+Disallow: /voda
+Disallow: /test/caro-sport
+Disallow: /watch/cinema/collezione/sky-original/asset/ce-ancora-domani-2023/R_184034_HD
+Disallow: /watch/cinema/collezione/sky-original/asset/limmortale-2019/R_157520_HD
+Disallow: /house-of-the-dragon/casata-neri-inactive
+Disallow: /house-of-the-dragon/casata-neri
+Disallow: /house-of-the-dragon/casata-verdi-inactive
+Disallow: /house-of-the-dragon/casata-verdi
+Disallow: /vodafone
+Disallow: /winday
+Disallow: /voucherpartner/tifosiseriec
+Disallow: /x-factor/the-party-event
+Disallow: /cinema-entertainment/serie-tv/the-penguin/offerta-ent
+Disallow: /voucherpartner/panini
+Disallow: /cinema-entertainment/serie-tv/hanno-ucciso-l-uomo-ragno/sky-now-90-experience
+Disallow: /voucherpartner/infinity
+Disallow: /voucherpartner/esselunga
+Disallow: /voucherpartner/bapr
+Disallow: /voucherpartner/expert
+Disallow: /voucherpartner/infinityplus
+Disallow: /gamestopnintendo
+Disallow: /test/alessia
+Disallow: /pechino-express/inactive
+Disallow: /where-can-i-stream
+Disallow: /voucherpartner/cartagiovani-intrattenimento
+Disallow: /voucherpartner/cartagiovani-sport
+Disallow: /voucherpartner/douglas
+Disallow: /voucherpartner/douglas-viaggiointhailandia
+Disallow: /voucherpartner/cartagiovani-show-serietv

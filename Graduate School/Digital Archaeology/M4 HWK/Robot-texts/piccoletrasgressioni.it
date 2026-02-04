@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: YahooSeeker
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: SISTRIX
+Allow: /
+
+User-agent: *
+Disallow: /
+
+
+Sitemap: https://www.piccoletrasgressioni.it/sitemap-index.xml

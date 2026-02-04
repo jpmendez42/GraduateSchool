@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: *?q*
+Disallow: *?fk*
+Disallow: *?tn*
+Disallow: *?tn_cid*
+Disallow: *?sort*
+Disallow: /account
+Disallow: /account/
+Disallow: /cart
+Disallow: /cart/
+Disallow: /checkout
+Disallow: /checkout/
+Sitemap: https://www.scapino.nl/sitemap.xml

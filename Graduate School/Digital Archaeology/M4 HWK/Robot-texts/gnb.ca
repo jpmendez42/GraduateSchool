@@ -1,0 +1,19 @@
+#
+# New www.gnb.ca robots exclusion list
+#
+
+User-agent: *
+Disallow: /*/_jcr_content/*
+Disallow: /*/jcr:content/*
+Disallow: /*tagid=gnb-eng*
+Disallow: /*tagid=gnb-fra*
+Disallow: /*pdf?random=*
+Disallow: /backstage/
+Disallow: /bil/
+
+Disallow: /content/dam/GNB3/
+
+#Sitemap index for new GNB site
+
+Sitemap: https://www.gnb.ca/en.sitemap-index.xml 
+Sitemap: https://www.gnb.ca/fr.sitemap-index.xml

@@ -1,0 +1,15 @@
+User-Agent: *
+Sitemap: https://puls.ru/sitemap.xml
+Disallow: /*?
+Disallow: /dev-api.ecom.puls.ru
+Disallow: /ftp.puls.ru
+Disallow: /spb.puls.ru
+Disallow: /ctx.puls.ru
+Disallow: /econnect.puls.ru
+Disallow: /federal.puls.ru
+Disallow: /git.puls.ru
+Disallow: /lk-stage.puls.ru
+Disallow: /rdsgw.puls.ru
+Disallow: /recoding.puls.ru
+Disallow: *?
+Disallow: /upload/puls_change.pdf

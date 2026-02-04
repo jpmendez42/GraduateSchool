@@ -1,0 +1,18 @@
+User-Agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /*?id=*
+Disallow: /cn/module/
+Disallow: /cn/veranstaltungen/
+Disallow: /cn/stellenangebot/
+Disallow: /cn/nachrichten/
+Disallow: /cn/studium/studienangebot/
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /

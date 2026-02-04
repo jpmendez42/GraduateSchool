@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /cart
+Disallow: /checkout-login
+Disallow: /checkout
+Disallow: /account-login
+Disallow: /SiteMap-Show
+Disallow: /search
+Disallow: *search?
+Disallow: *q= 
+Disallow: */search-getsuggestions
+Disallow: /order-confirmation
+Disallow: /blog
+Disallow: */Campaigns
+Disallow: */fr/inspiration
+
+User-agent: Yandexbot
+Disallow: /
+
+User-agent: Sogou web spider/4.0(+http://www.sogou.com/docs/help/webmasters.htm#07)
+Disallow: /
+
+User-agent: Bingbot
+Crawl-delay: 10

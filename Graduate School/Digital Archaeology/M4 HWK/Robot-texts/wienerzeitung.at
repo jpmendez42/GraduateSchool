@@ -1,0 +1,38 @@
+User-agent: *
+Allow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.wienerzeitung.at/sitemap-h-index.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-news.xml
+Sitemap: https://www.wienerzeitung.at/rss.xml
+
+# Auto-generated Sitemaps below
+Sitemap: https://www.wienerzeitung.at/sitemap-a-index.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-c.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-e.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-f.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-k.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-newsletter.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-p-index.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-q.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-si.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-sp.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-t.xml
+Sitemap: https://www.wienerzeitung.at/sitemap-v-index.xml

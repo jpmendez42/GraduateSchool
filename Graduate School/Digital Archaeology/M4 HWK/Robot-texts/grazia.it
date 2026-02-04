@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wordpress/wp-admin/
+Allow: /wordpress/wp-admin/admin-ajax.php
+
+Sitemap: https://www.grazia.it/sitemap-news.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.grazia.it/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

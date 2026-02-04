@@ -1,0 +1,99 @@
+User-agent: *
+Disallow: /beuth/owa/
+Disallow: /*!suggest 
+Disallow: /php/
+
+User-agent: SiteimproveBot-Crawler
+Allow: /
+
+User-agent: Slurp
+
+User-agent: 008
+
+User-agent: AhrefsBot
+
+User-agent: AlphaBot
+
+User-agent: Baiduspider
+
+User-agent: Baiduspider-render
+
+User-agent: Buck
+
+User-agent: changedetection
+
+User-agent: Cliqzbot
+
+User-agent: Exabot
+
+User-agent: Flamingo_SearchEngine
+
+User-agent: Grobbot
+
+User-agent: JobboerseBot
+
+User-agent: jobs.de-Robot
+
+User-agent: linkdexbot
+
+User-agent: Mail.RU_Bot
+
+User-agent: MauiBot
+
+User-agent: Mediatoolkitbot
+
+User-agent: Mega-Index
+
+User-agent: MegaIndex.ru
+
+User-agent: MJ12bot
+
+User-agent: MojeekBot
+
+User-agent: Nutch
+
+User-agent: Pinterestbot
+
+User-agent: Pixray-Seeker
+
+User-agent: rogerbot
+
+User-agent: SafeDNSBot
+
+User-agent: seokicks
+
+User-agent: SEOkicks-Robot
+
+User-agent: SeznamBot
+
+User-agent: SMTBot
+
+User-agent: sogou spider
+
+User-agent: spbot
+
+User-agent: trendictionbot
+
+User-agent: TweetmemeBot
+
+User-agent: vebidoobot
+
+User-agent: wonderbot
+
+User-agent: Wotbox
+
+User-agent: yacybot
+
+User-agent: YaK
+
+User-agent: YandexAntivirus
+
+User-agent: YandexImages
+
+User-agent: YandexMobileBot
+
+User-agent: Yeti
+
+Disallow: /
+
+Sitemap: https://www.din.de/service-sitemap-din-de-sitemap_index.xml

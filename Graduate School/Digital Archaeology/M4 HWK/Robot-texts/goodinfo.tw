@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /tw3/
+Disallow: /*Test/
+Disallow: /*test/
+Disallow: /System/NetworkRepair
+Disallow: /System/SiteRank
+Disallow: /System/SysMsg
+Disallow: /System/WebService
+Disallow: /tw/cht/
+Disallow: /tw/StockAnnounceList/
+Disallow: /tw/stockannouncelist/
+Disallow: /tw/*.data.asp
+Disallow: /tw/Login.asp
+Disallow: /tw/login.asp
+Disallow: /tw/PersonalSetting*.asp
+Disallow: /tw/personalsetting*.asp
+Disallow: /cn/*.data.cn.asp
+Disallow: /cn/Login.cn.asp
+Disallow: /cn/login.cn.asp
+Disallow: /cn/PersonalSetting*.cn.asp
+Disallow: /cn/personalsetting*.cn.asp
+
+Sitemap: https://goodinfo.tw/System/Sitemap/Sitemap.xml

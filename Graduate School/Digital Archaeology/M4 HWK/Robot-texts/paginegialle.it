@@ -1,0 +1,51 @@
+# robots file for SEAT Pagine Gialle
+
+User-agent: *
+Disallow: /ricerca/
+Disallow: /profilo/
+Disallow: /deu/
+Disallow: /pgol/
+Disallow: /pg/cgi/
+Disallow: /pgolfe/
+Disallow: /info/*.html
+Disallow: /mappa/
+Disallow: /vcard*
+Disallow: *rk=*
+Disallow: *mr=*
+Disallow: *f=*
+Disallow: *sort=*
+Disallow: *addr=*
+Disallow: *filtro=*
+Disallow: *abt=*
+Disallow: *sede=*
+Disallow: */elencosedi/*/mappa
+Disallow: /*/preview
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+ 
+User-agent: dotbot/1.0
+Disallow: /
+ 
+User-agent: Baiduspider
+Disallow: /
+ 
+User-agent: Yandexbot
+Disallow: /
+ 
+User-agent: MegaIndex.ru
+Disallow: /
+ 
+User-agent: OAI-SearchBot
+Allow: /ricerca/
+Allow: rk=*
+Allow: mr=*
+Allow: filtro=*
+Allow: sede=*
+Allow: /elencosedi/*/mappa
+
+Sitemap: https://www.paginegialle.it/sitemap.xml
+Sitemap: https://www.paginegialle.it/sitemap_fe.xml

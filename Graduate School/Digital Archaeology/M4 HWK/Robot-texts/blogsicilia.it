@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /*?am_force_theme_layout=*
+Disallow: */?am_force_theme_layout=*
+# XML Sitemap & Google News version 5.3.6 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.blogsicilia.it/sitemap-news.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.blogsicilia.it/sitemap_index.xml
+# Sitemap archive
+Sitemap: https://www.blogsicilia.it/sitemap.xml
+

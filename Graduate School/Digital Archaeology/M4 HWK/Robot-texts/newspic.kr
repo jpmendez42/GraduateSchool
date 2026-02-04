@@ -1,0 +1,11 @@
+#global
+User-agent: *
+Allow:/
+Disallow: /cron/
+Disallow: /newsAdmin/
+Disallow: /genData/
+Disallow: /table/
+Disallow: /adFrame.html
+#teads
+User-agent: grapeshot
+Disallow:

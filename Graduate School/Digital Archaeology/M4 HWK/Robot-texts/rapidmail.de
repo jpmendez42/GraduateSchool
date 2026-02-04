@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /images/main/team/*
+Disallow: /images/main/about_support/*
+Disallow: /downloads/ebooks/*
+
+Sitemap: https://www.rapidmail.de/sitemap.xml

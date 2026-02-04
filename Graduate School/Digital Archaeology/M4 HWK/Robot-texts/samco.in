@@ -1,0 +1,39 @@
+User-agent: *
+Allow: /
+Disallow: /application/
+Disallow: /cgi-bin/
+Disallow: /assets/images/
+Disallow: /samco-stocknote-reviews/
+Disallow: /samco-mobile-app-reviews/
+Disallow: /english/
+Disallow: /samco-api/
+Disallow: /ipo/news/
+Disallow: /ipo/performance-tracker/
+Disallow: /ipo/tools/
+Disallow: /ipo/news
+Disallow: /ipo/performance-tracker
+Disallow: /ipo/tools
+Disallow: /muhurattrading/
+Disallow: /samco-reviews-and-testimonials
+Disallow: /samco-mobile-app-reviews
+Disallow: /samco-trading-platform-reviews
+Disallow: /samco-customer-service-reviews
+Disallow: /samco-software-reviews
+Disallow: /samco-brokerage-reviews
+Disallow: /samco-call-and-trade-reviews
+Disallow: /samco-margins-reviews
+Disallow: /samco-back-office-star-reviews
+Disallow: /samco-stocknote-reviews
+Disallow: *?replytocom=*
+
+Disallow: /help-support/author/
+
+Disallow: /knowledge-center/article-tags/
+Disallow: /knowledge-center/author/
+Disallow: /knowledge-center/tag/
+
+Sitemap: https://partners.samco.in/sitemap.xml
+Sitemap: https://www.samco.in/sitemap.xml
+Sitemap: https://www.samco.in/sitemap-stocks.xml
+Sitemap: https://www.samco.in/knowledge-center/sitemap.xml
+Sitemap: https://www.samco.in/help-support/sitemap.xml

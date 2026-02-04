@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /entry_form/
+Disallow: /products/slug/
+
+Sitemap: https://26p.jp/sitemap1.xml
+Sitemap: https://26p.jp/sitemap2.xml
+Sitemap: https://26p.jp/sitemap3.xml
+Sitemap: https://26p.jp/sitemap4.xml
+Sitemap: https://26p.jp/sitemap5.xml
+Sitemap: https://26p.jp/sitemap6.xml
+Sitemap: https://26p.jp/search.xml

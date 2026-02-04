@@ -1,0 +1,28 @@
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-Agent: *
+Disallow: /buy
+Disallow: /PCのURL
+Disallow: /add_present_list
+Disallow: /review_post
+Disallow: /login
+Disallow: /?sort=0
+Disallow: /?p=0
+Disallow: /?p=1
+Disallow: /review
+Disallow: /episode_post*
+Disallow: /furniture/
+Disallow: /amazon
+Disallow: /birthday-card/
+Disallow: /*/amazon$
+Disallow: /bp/buy/*
+Disallow: /article/buy
+Disallow: /session
+Disallow: /admin/
+Disallow: /theme/
+Sitemap: https://bestpresent.jp/bp/xml/ranking/sitemap.xml
+Sitemap: https://bestpresent.jp/article/sitemap

@@ -1,0 +1,1 @@
+User-agent: *Disallow: /search/*&Disallow: /fav_Host: https://gunsbroker.ruSitemap: https://gunsbroker.ru/sitemap.xml

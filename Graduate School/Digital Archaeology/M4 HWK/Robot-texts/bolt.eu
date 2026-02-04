@@ -1,0 +1,14 @@
+User-Agent: *
+Allow: /
+
+User-Agent: OAI-SearchBot
+Allow: /
+
+Sitemap: https://bolt.eu/sitemap.xml
+Sitemap: https://bolt.eu/assets/sitemap-index.xml
+Sitemap: https://assets.careers-v3.bolt.eu/sitemap.xml
+Sitemap: https://support-portal.bolt.eu/sitemap-index.xml
+Sitemap: https://public-documents.bolt.eu/sitemap-index.xml
+Sitemap: https://cities-and-airports.bolt.eu/sitemap-index.xml
+Sitemap: https://assets.ab-destinations.bolt.eu/sitemap-index.xml
+Sitemap: https://blog.bolt.eu/sitemap.xml

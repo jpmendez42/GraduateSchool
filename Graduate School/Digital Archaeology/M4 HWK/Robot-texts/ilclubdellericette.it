@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /xmlrpc.php
+Disallow: /wp-login.php
+Disallow: /*?pdf=
+Disallow: /*?swpmtx=
+Disallow: /*?user_registration_social_login=
+Disallow: /*?ursc_action=
+Disallow: /cerca/
+Disallow: /cdn-cgi/
+Disallow: /cdr-cdn/
+
+Sitemap: https://www.ilclubdellericette.it/wp-sitemap.xml
+
+User-agent: grapeshot
+Disallow:

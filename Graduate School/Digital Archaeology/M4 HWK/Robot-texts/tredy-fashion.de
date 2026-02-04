@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: */?
+Disallow: */account/
+Disallow: */checkout/
+Disallow: */widgets/
+Disallow: */navigation/
+Disallow: */bundles/
+
+
+Disallow: */impressum$
+Disallow: */datenschutz$
+Disallow: */agb$
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-images
+Allow: /
+
+Sitemap: https://www.tredy-fashion.de/sitemap.xml

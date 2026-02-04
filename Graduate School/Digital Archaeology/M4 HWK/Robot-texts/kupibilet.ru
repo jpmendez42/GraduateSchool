@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /bbp/
+Disallow: /cbooking
+Disallow: /booking
+Disallow: /refund/
+Disallow: /social_auth
+Disallow: /user
+Disallow: /*search
+Disallow: /user/
+Disallow: /payment-info
+Disallow: /postsales/
+Disallow: /ticket/
+Disallow: /mbooking/
+Disallow: /api/
+Disallow: /confirm-segments
+Disallow: /auth
+Disallow: /airlines-list
+Disallow: /mbooking
+Disallow: /?*
+Sitemap: https://www.kupibilet.ru/sitemap.xml.gz
+Clean-param: utm_medium&utm_campaign&utm_term&agent&tag&ad&key_id&key&device&pos_t&region_name&pos&yclid&gclid&ymclid&_openstat&frommarket&utm_source&utm_content&utm_email&utm_nooverride&from&h&element&ref&marker&admitad_uid&pid&kbp&c&country&notification_link_uid&etext&utm_sitelink&mt_click_id&_gl&mindbox-message-key&xid&ychyd&placement&adposition&matchtype&mindbox-click-id&ysclid&devicemobile&devicedesktop&gbraid&campaign&media_source&af_dp&yadclid&yhyd&yycleed&ypppil&ypppel&ylcyd&yprqee
+Clean-param: center&zoom&withBaggage&airplaneOnly&isDirect&adult&cabinClass&child&infant&childrenAges&route&v&trainOnly&kinds&clckid&route&route[0]&route[1] /price_map

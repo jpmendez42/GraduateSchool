@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /pr/archive/*
+Disallow: /trackback
+Disallow: /comments
+Disallow: */trackback
+Disallow: */comments
+
+Sitemap: https://www.lmaga.jp/news-sitemap.xml
+Sitemap: https://www.lmaga.jp/sitemap.xml
+Sitemap: https://www.lmaga.jp/sitemap.rss

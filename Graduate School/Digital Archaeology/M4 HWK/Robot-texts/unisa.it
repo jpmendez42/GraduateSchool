@@ -1,0 +1,29 @@
+User-agent: LinkCheck by SiteImprove.com
+User-agent: SiteCheck-sitecrawl by Siteimprove.com
+User-agent: Siteimprove (Accessibility)
+Disallow: /cms/
+Disallow: /modules/
+Disallow: /prenota/
+Disallow: */section/eventi/
+Disallow: /home2
+Disallow: /home2/
+Disallow: /dipartimenti/
+
+User-agent: *
+Disallow: /cms/
+Disallow: /uploads/
+Disallow: /modules/
+Disallow: /prenota/
+Disallow: */section/eventi/
+Disallow: /home2
+Disallow: /home2/
+Disallow: /dipartimenti/
+Disallow: /consegna-borracce/scanner-qrcode
+Disallow: /servizi-on-line/accesso-campus/punto-di-controllo
+Sitemap: https://web.unisa.it/sitemap.txt
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /

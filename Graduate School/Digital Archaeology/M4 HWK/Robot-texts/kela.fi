@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /web/apteekki/
+Disallow: /web/apotek/
+Disallow: /web/esikko/
+Disallow: /web/lastenvalvojat/
+Disallow: /web/oppilaitokset/
+Disallow: /web/skeemat/
+Disallow: /web/taksa/
+Disallow: /web/sisallontuottajan-opas/
+Disallow: /etti/
+
+Sitemap: https://www.kela.fi/sitemap.xml

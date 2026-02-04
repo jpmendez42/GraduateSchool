@@ -1,0 +1,49 @@
+# BADBOTS BLOCK OR SETTINGS
+User-agent: Amazonbot
+Disallow: /
+
+# Limit time to scan for Facebook
+User-agent: facebookexternalhit/1.1
+Crawl-delay:30
+
+User-agent: amazon-kendra-web-crawler-* 
+Disallow: /
+
+# Limit time to scan for bingbot
+User-agent: bingbot
+Crawl-delay:30
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Sogou inst spider
+Disallow: /
+
+User-agent: barkrowler
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot 
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+# General restrictions
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /?s=*
+
+Sitemap: https://kefaloniamagazine.gr/sitemap-news.xml
+Sitemap: https://kefaloniamagazine.gr/wp-sitemap.xml

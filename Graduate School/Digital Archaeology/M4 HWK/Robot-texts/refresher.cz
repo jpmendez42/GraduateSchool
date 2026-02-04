@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /nahlasit-obsah
+Disallow: /set-lang
+Disallow: /services
+Disallow: /vyhladavanie
+Disallow: /cdn-cgi/
+Disallow: /ajx/
+Disallow: /prihlaseni
+
+Sitemap: https://refresher.cz/sitemap/news.xml
+Sitemap: https://refresher.cz/sitemap/index.xml
+
+User-agent: mediaboardbot
+Disallow: /profil/
+
+User-agent: SeznamBot
+Disallow: /profil/
+
+User-agent: bingbot
+Disallow: /profil/
+
+User-agent: AhrefsBot
+Disallow: /profil/
+
+User-agent: DotBot
+Disallow: /profil/
+
+User-agent: BLEXBot
+Disallow: /profil/
+
+User-agent: SemrushBot
+Disallow: /profil/
+
+User-agent: MJ12bot
+Disallow: /profil/
+
+User-agent: SentiBot
+Disallow: /profil/
+
+User-agent: ClaudeBot
+Disallow: /profil/

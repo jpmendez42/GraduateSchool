@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /Contents/Item/
+Disallow: /Users/
+Disallow: /cms/internet/

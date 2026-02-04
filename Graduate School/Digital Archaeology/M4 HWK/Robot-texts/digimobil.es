@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /public/
+Disallow: /legal/
+Disallow: /*.pdf$
+Disallow: /*?utm_
+Disallow: /*?u=
+Disallow: /*?idCountry=
+Disallow: /*?active
+Disallow: /sorteos/
+Disallow: /sala-de-prensa/notas-de-prensa/*
+Sitemap: https://www.digimobil.es/sitemap.xml

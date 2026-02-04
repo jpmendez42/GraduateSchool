@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: ADmantX
+Disallow: /
+
+Sitemap: https://crictamil.in/sitemap.xml
+Sitemap: https://crictamil.in/sitemap-news.xml

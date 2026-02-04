@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /api
+Disallow: /*.pdf
+Disallow: /soeg*
+Disallow: /en/search*
+
+Host: https://www.tivoli.dk
+Sitemap: https://www.tivoli.dk/sitemap.xml

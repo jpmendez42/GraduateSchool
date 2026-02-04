@@ -1,0 +1,45 @@
+User-agent: AlphaSeoBot
+User-agent: AlphaSeoBot-SA
+User-agent: SEOkicks-Robot
+Disallow: /
+ 
+User-agent: *
+Disallow: /sitecore
+Disallow: /Sitecore
+Disallow: /sitecore_files/
+Disallow: /sitecore modules/
+Disallow: /App_Browsers/
+Disallow: /App_config/
+Disallow: /App_Data/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: /xsl/
+Disallow: /search/
+Disallow: /SLB/btv_new
+Disallow: */search?
+Disallow: */Search?
+Disallow: *?searchBy
+Disallow: *?searchby
+Disallow: */perfil
+Disallow: /edit-profile
+Disallow: /content
+
+Disallow: /loja/bilhetes/jogos/
+Disallow: */checkout/
+Disallow: */carrinho/
+Disallow: /fr-fr/nouveau-magasin
+Disallow: /es-es/nueva-tienda
+Disallow: /es-es/nueva-tienda
+Disallow: /temporariamente-esgotado
+Disallow: /bilhetes/pdb
+Disallow: /venda-indisponivel
+Disallow: /bilhetes-indisponiveis
+Disallow: /venda-terminada
+Disallow: /info-Ajax
+Disallow: /info-Liverpool
+Disallow: /mensagem-de-debito-direto-criado
+
+Disallow: /no/
+
+Disallow: /en/
+Disallow: /pagina-em-manutencao

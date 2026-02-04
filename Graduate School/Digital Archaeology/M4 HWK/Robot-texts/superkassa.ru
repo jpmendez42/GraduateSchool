@@ -1,0 +1,51 @@
+
+    User-agent: *
+    Sitemap: https://superkassa.ru/sitemap.xml
+
+    Clean-param: _tsp&anaerobic&cart&etext&forceEarly&forceGotoMobile&forceMqttDisable&forceLite&ignorePresets&isRedirect&mode&order&orderId&partner&pref&search&stripExcessive&surchargeCode&ts&utm_campaign&utm_content&utm_device&utm_group&utm_medium&utm_placement&utm_source&utm_term&refSearch /
+
+    Disallow: /accelerated-refund
+    Disallow: /accelerated-refund/
+    Disallow: /account/corp-account
+    Disallow: /account/corp-account/
+    Disallow: /account/corp-adm-acm
+    Disallow: /account/corp-adm-acm/
+    Disallow: /account/corp-documents
+    Disallow: /account/corp-documents/
+    Disallow: /account/corp-finances
+    Disallow: /account/corp-finances/
+    Disallow: /account/corp-orders
+    Disallow: /account/corp-orders/
+    Disallow: /account/corp-requests
+    Disallow: /account/corp-requests/
+    Disallow: /account/corp-reports
+    Disallow: /account/corp-reports/
+    Disallow: /account/corp-services
+    Disallow: /account/corp-services/
+    Disallow: /account/corp-super
+    Disallow: /account/corp-super/
+    Disallow: /account/corp-travellers
+    Disallow: /account/corp-travellers/
+    Disallow: /account/messenger
+    Disallow: /account/messenger/
+    Disallow: /account/orders
+    Disallow: /account/orders/
+    Disallow: /account/profile
+    Disallow: /account/profile/
+    Disallow: /account/test-emails
+    Disallow: /account/test-emails/
+    Disallow: /account/travellers
+    Disallow: /account/travellers/
+    Disallow: /refund-conditions
+    Disallow: /refund-conditions/
+    Disallow: /refund-confirmation
+    Disallow: /refund-confirmation/
+    Disallow: /site-survey
+    Disallow: /site-survey/
+    Disallow: /support-reports
+    Disallow: /support-reports/
+    Disallow: /support-survey
+    Disallow: /support-survey/
+    Disallow: /surcharge
+    Disallow: /surcharge/
+    Disallow: /apple-app-site-association

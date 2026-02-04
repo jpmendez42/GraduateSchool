@@ -1,0 +1,41 @@
+User-agent: * 
+
+Disallow: /bp
+Disallow: /covid-19
+Disallow: /landing-pages
+Disallow: /lp
+Disallow: /lp-consumer
+Disallow: /lp-merchant
+Disallow: /lp-portali-merchant
+Disallow: /prova-login-test
+Disallow: /prova-login-testiframe
+Disallow: /short-url-redirect
+Disallow: /testbanner
+Disallow: /test-redir-pdf
+Disallow: /typ
+Disallow: /content/dam/nexi/business
+Disallow: /content/dam/nexi/casanexi-app
+Disallow: /content/dam/nexi/commercial
+Disallow: /content/dam/nexi/damasco
+Disallow: /content/dam/nexi/download/fondi-sgr
+Disallow: /content/dam/nexi/download/nx
+Disallow: /content/dam/nexi/download/pdf
+Disallow: /content/dam/nexi/informativa
+Disallow: /content/dam/nexi/it-gov-security-audit
+Disallow: /content/dam/nexi/key-6
+Disallow: /content/dam/nexi/mpos-portale
+Disallow: /content/dam/nexi/newsletter
+Disallow: /content/dam/nexi/oba
+Disallow: /content/dam/nexi/partner-news
+Disallow: /content/dam/nexi/portale-titolari
+Disallow: /content/dam/nexi/template-mail
+Disallow: /content/dam/nexi/whatsapp-merchant-nursing
+Disallow: /carte-familiari
+Disallow: /carta-credito
+Disallow: /shop/cart
+
+User-agent: Googlebot
+Allow: /shop/lp/
+
+Sitemap: https://www.nexi.it/shop/it.sitemap.xml
+Sitemap: https://www.nexi.it/new/it.sitemap.xml

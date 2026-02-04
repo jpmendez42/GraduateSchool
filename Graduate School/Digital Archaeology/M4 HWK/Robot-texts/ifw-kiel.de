@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /search/
+Disallow: /de/suche/
+Disallow: /*?tx_solr
+Allow: /typo3/sysext/frontend/Resources/Public/*
+Sitemap: https://www.kielinstitut.de/sitemap.xml

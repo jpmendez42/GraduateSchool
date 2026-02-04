@@ -1,0 +1,7 @@
+Sitemap: https://notube.im/sitemap.xml
+User-agent: *
+Allow: /
+Disallow: /p/
+Disallow: /p2/
+Disallow: */account/login-success
+Disallow: */thanks

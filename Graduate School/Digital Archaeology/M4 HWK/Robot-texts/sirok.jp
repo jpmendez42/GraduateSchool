@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /dashboard
+Disallow: /products/Rgk0zahe8rAec5gK
+
+# Block indexing of API.
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://sirok.jp/sitemap.xml

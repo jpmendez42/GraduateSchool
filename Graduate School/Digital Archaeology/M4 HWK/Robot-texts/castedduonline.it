@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: AhrefsBot
+Crawl-Delay: 10
+
+
+Sitemap: https://www.castedduonline.it/sitemap_index.xml
+

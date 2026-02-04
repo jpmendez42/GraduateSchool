@@ -1,0 +1,54 @@
+User-agent: *
+Disallow: /tim-truyen?keyword=*
+Disallow: /Secure/Register.aspx
+Disallow: /Secure/Login.aspx
+Disallow: /?page=*
+Disallow: /tim-truyen?slug=*
+Disallow: /tim-truyen?sort=*
+Disallow: /index.php*
+Disallow: /server.php*
+
+User-agent: DMCAAgent
+Disallow: /
+
+User-agent: CopyrightCrawler
+Disallow: /
+
+User-agent: AntiPiracyBot
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: goo-crawler
+Disallow: /
+
+User-agent: RakutenBot
+Disallow: /
+
+User-agent: Teoma
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Sogou Spider
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: YisouSpider
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: MusoBot
+Disallow: /
+
+User-agent: Link-BusterBot
+Disallow: /

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Allow: /wp/wp-admin/admin-ajax.php
+Disallow: /wp/wp-admin/
+Disallow: /.next/
+Disallow: /_next/data
+Disallow: /preview/
+Disallow: /search/
+Disallow: /rozrywka/search/
+Disallow: /undefined/
+Disallow: /cdn-cgi/
+Sitemap: https://spidersweb.pl/api/post/sitemaps/sitemap.xml
+Sitemap: https://spidersweb.pl/api/post/sitemaps/sitemap-news.xml

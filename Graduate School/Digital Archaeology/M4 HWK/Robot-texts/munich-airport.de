@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /assets/*.$
+Allow: /assets/favicon-92c77eb5b9d0e11440a791dfd6e0ccb1c463aeed6bd0ab8fbee1249d10f68bf6.svg
+Disallow: /assets/
+Disallow: /_b/0000000000000006574469bb5ce795ab/wegweiser-1811.pdf
+Disallow: /apple_maps/index.html
+
+
+Sitemap: https://www.munich-airport.de/sitemap.xml

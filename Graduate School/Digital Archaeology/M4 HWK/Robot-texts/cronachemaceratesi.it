@@ -1,0 +1,307 @@
+User-agent: Twitterbot
+Allow: *
+
+User-agent: *
+
+Disallow: */embed/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /temp/
+Disallow: /.git/
+Disallow: /node_modules/
+Disallow: /6537874/
+Disallow: /application/
+Disallow: /assets/
+Disallow: /archives/
+Disallow: /cache/
+Disallow: /category/
+Disallow: /category/comuni/page/
+Disallow: /category/layout/page/
+Disallow: /certificati/
+Disallow: /cm10/
+Disallow: /datogliere/
+Disallow: /elezioni/
+Disallow: /fb/
+Disallow: /feed/
+Disallow: /mailchimp/
+Disallow: /mobile/
+Disallow: /network/
+Disallow: /page/
+Disallow: /svuota-newsletter/
+Disallow: /tag/
+Disallow: /trackback/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/
+Disallow: /xmlrpc.php
+
+Disallow: /index.php
+Disallow: /*?
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: */feed/
+Disallow: */trackback/
+
+Disallow: /*?refresh_ce
+Disallow: /wp-content/uploads/2016/11/LAURENZI-Loris-cl_1981.jpg
+Disallow: /wp-content/uploads/2019/02/francesca-dalessandro-e1549531160444.jpg
+
+Disallow: /2014/01/07/urbanistica-pambianchi-su-citta-verde-mancano-fotovoltaico-e-agibilita/418144/
+Disallow: /2014/01/07/serena-lucrezi-studia-ecologia-marina-nel-sud-africa-di-nelson-mandela/417722/
+Disallow: /2014/01/26/incidente-in-superstrada-muore-40enne-di-monte-san-giusto/424293/
+Disallow: /2014/01/27/tragico-incidente-in-superstrada-mercoledi-lultimo-saluto-ad-andrea/425135/
+Disallow: /2014/01/16/truffa-un-americano-finisce-nel-mirino-dei-servizi-segreti-usa/421114/
+Disallow: /2014/02/19/tento-di-uccidere-la-ex-condannato-a-sei-anni-e-otto-mesi/432583/
+Disallow: /2014/02/21/pagano-laffitto-ad-un-avvocato-con-assegno-scoperto/433395/
+Disallow: /2014/02/21/alla-guida-ubriaco-il-giudice-gli-revoca-la-patente/433288/
+Disallow: /2014/02/26/docente-non-si-presento-agli-esami-archiviata-lindagine-per-il-rettore-lacche/434962/
+Disallow: /2014/02/26/frode-da-5-milioni-di-euro-denunciato-un-imprenditore/434908/
+Disallow: /2014/02/28/corruzione-indagato-ex-vertice-della-finanza/435918/
+Disallow: /2014/03/04/rapina-del-secolo-udienza-preliminare-per-talpa-e-basista/437345/
+Disallow: /2014/03/16/thomas-mosciatti-ricercatore-a-strasburgo-non-vedo-futuro-in-italia/436238/
+Disallow: /2014/03/17/maxi-inchiesta-sulle-assicurazioni-archiviazioni-di-massa-erano-coinvolti-avvocati-e-medici/441642/
+Disallow: /2014/03/19/violenta-per-ore-una-ragazza-arrestato/442473/
+Disallow: /2014/03/20/consulta-servizi-sociali-ultimatum-al-sindaco-e-ora-di-nominare-lassessore/442937/
+Disallow: /2014/04/02/false-fideiussioni-indagato-dirigente-comunale-lui-e-una-vittima/447811/
+Disallow: /2014/04/04/marina-pallotto-e-fabio-bottiglieri-in-lista-con-grillo-per-le-europee/448821/
+Disallow: /2014/04/09/otteneva-denaro-con-la-catena-di-santantonio-imputato-ex-gestore-del-punto-macrobiotico/450772/
+Disallow: /2014/04/30/prof-assenteista-la-procura-chiude-le-indagini/458074/
+Disallow: /2014/05/02/dependance-di-villa-gigli-in-abbandono-processo-per-le-sorelle-bartoloni/458738/
+Disallow: /2014/05/05/sexy-maestra-contro-tutti-io-al-centro-di-una-campagna-architettata-ad-arte/459664/
+Disallow: /2014/05/17/rapinarono-lauto-ad-un-amico-in-manette/465362/
+Disallow: /2014/05/21/droga-gelataio-condannato-a-un-anno/466994/
+Disallow: /2014/06/04/truffa-allo-sportello-per-prenotare-gli-esami-operatore-finisce-a-processo/536866/
+Disallow: /2014/06/05/un-settempedano-alla-corte-di-belen-rodriguez/537143/
+Disallow: /2014/06/21/bici-elettriche-in-piazza-commercianti-entusiasti/543154/
+Disallow: /2014/06/24/truffa-per-lacquisto-di-una-palazzina-assolto-in-appello-lavvocato-castignani/544413/
+Disallow: /2014/07/02/broker-fecero-sparire-15-milioni-di-euro-sentenza-a-due-anni/547282/
+Disallow: /2014/07/05/svaligiano-centro-commerciale-radiologo-e-guardia-giurata-in-manette/548259/
+Disallow: /2014/07/16/plagia-la-tesi-studente-indagato/551842/
+Disallow: /2014/07/23/la-pioli-e-ramo-chiude-dopo-50-anni-i-lavoratori-presenteremo-istanza-di-fallimento/554319/
+Disallow: /2014/08/05/sequestro-da-220mila-euro-a-fiorella-tombolini-sono-tranquilla-vicenda-legata-al-passato/559213/
+Disallow: /2014/09/03/gira-nudo-per-le-strade-di-recanati/567914/
+Disallow: /2014/09/24/rapina-del-secolo-basista-assolto-2-anni-e-10-mesi-per-la-guardia/574509/
+Disallow: /2014/10/03/gli-ex-vertici-di-banca-marche-contro-le-sanzioni-milionarie-di-via-nazionale/578122/
+Disallow: /2014/10/05/morto-a-24-anni-in-autostrada-e-il-figlio-di-noti-commercianti-corridonia-sotto-choc/578526/
+Disallow: /2014/10/05/una-vittima-in-un-incidente-allalba-in-autostrada/578431/578431/
+Disallow: /2014/10/06/morte-di-simone-de-stasio-i-genitori-cercano-la-verita-sul-cellulare/578931/
+Disallow: /2014/10/07/addio-a-simone-amici-e-parenti-scrivono-pensieri-sulla-bara-bianca/579399/
+Disallow: /2014/10/14/abbonamento-scaduto-lancia-una-pietra-al-cliente-del-centro-estetico/582154/
+Disallow: /2014/10/29/fatture-inesistenti-per-evadere-liva-tre-imprenditori-a-giudizio/587714/
+Disallow: /2014/10/17/mattia-e-matteo-nuovi-diaconi-dopo-le-missioni-in-cina-e-taiwan/582934/
+Disallow: /2014/10/22/dipendenti-inps-assenteisti-a-giudizio-marito-e-moglie/584981/
+Disallow: /2014/11/04/colpo-di-pistola-in-agenzia-il-titolare-aggredito-ignoro-le-cause/589548/
+Disallow: /2014/11/18/riciclaggio-di-800mila-euro-assolto-lavvocato-alessandra-mutani/594462/
+Disallow: /2014/12/08/bice-supertifosa-in-pensione-non-arrivo-a-fine-mese/600463/
+Disallow: /2014/12/09/bice-ha-la-sua-famiglia-alle-spalle-grazie-per-la-solidarieta/601954/
+Disallow: /2014/12/10/la-ndrangheta-bussa-nel-maceratese-infiltrazioni-malavitose-cinque-arresti/602170/
+Disallow: /2014/12/11/giro-milionario-di-fatture-false-38enne-nei-guai-spuntano-altri-nomi/602692/
+Disallow: /2014/12/15/craglia-marmi-in-liquidazione-a-rischio-34-posti-di-lavoro-i-sindacati-trattativa-salva-dipendenti/604009/
+Disallow: /2014/12/18/scontro-da-brividi-auto-finisce-a-ruote-in-aria/605117/
+Disallow: /2014/12/20/aggredito-al-ristorante-il-consigliere-daniele-maria-angelini/605528/
+
+Disallow: /2015/01/15/avvocati-derubati-dai-ladri-spariti-oro-e-un-iphone/613258/
+Disallow: /2015/01/15/accusata-di-truffa-assolto-lavvocato-mutani/613338/
+Disallow: /2015/01/21/sponsorizzazioni-false-per-il-calcio-a-5-18-persone-imputate-al-gup/615001/
+Disallow: /2015/01/26/frasi-pesanti-su-facebook-il-pd-chiede-le-dimissioni-di-ivan-gori/616686/
+Disallow: /2015/01/27/caso-gori-rassegnate-le-dimissioni-dopo-le-frasi-su-facebook/617159/
+Disallow: /2015/01/28/rapina-alla-sala-slot-arrestato-un-recanatese-deve-scontare-un-residuo-di-pena/617515/
+Disallow: /2015/02/11/cure-odontoiatriche-abusive-in-due-a-giudizio/622090/
+Disallow: /2015/02/12/bazar-della-droga-in-casa-degli-studenti-tre-arresti/622466/
+Disallow: /2015/02/20/ruba-ad-una-collega-delliper-condannata-una-35enne/625283/
+Disallow: /2015/02/13/dissesto-banca-marche-indaga-anche-la-procura-di-roma/622707/
+Disallow: /2015/03/05/sentenza-cammertoni-le-parti-civili-deve-risarcire/630264/
+Disallow: /2015/03/04/veterinario-accusato-di-sostituzione-di-persona-il-legale-dopo-la-prescrizione-il-mio-cliente-del-tutto-estraneo/629954/
+Disallow: /2015/03/04/prof-assenteista-disposta-perizia/629794/
+Disallow: /2015/03/03/vicenda-aste-bluff-veterinario-si-finse-maresciallo-reato-prescritto-ma-deve-risarcire/629617/
+Disallow: /2015/03/25/rinviato-a-giudizio-giovanni-faggiolati-accusato-di-evasione-fiscale/637792/
+Disallow: /2015/03/28/infermiere-non-iscritto-allalbo-la-uil-annuncia-battaglia/638886/
+Disallow: /2015/04/13/simone-riccioni-un-film-sulle-marche-con-martina-stella/644168/
+Disallow: /2015/04/01/giro-di-anabolizzanti-tredici-finiscono-a-processo/640211/
+Disallow: /2015/04/09/fallimento-king-sei-arresti-ce-anche-un-ragioniere-di-macerata/642753/
+Disallow: /2015/05/17/marina-pallotto-si-mette-a-nudo-il-mio-manifesto-e-una-provocazione/657802/
+Disallow: /2015/05/25/testata-a-un-consigliere-condannato-presidente-consulenti-del-lavoro/661049/
+Disallow: /2015/05/26/testata-al-consigliere-russo-sono-amareggiato-faro-appello/661430/
+Disallow: /2015/05/28/truffa-la-banca-imputato-un-56enne/662605/
+Disallow: /2015/06/01/marina-pallotto-irrompe-in-comune-dopo-il-flop-elettorale-urla-e-insulti-viene-allontanata/664406/
+Disallow: /2015/06/02/la-replica-di-marina-adele-pallotto-ho-stravinto-nessuna-aggressione/664760/
+Disallow: /2015/07/20/coppia-non-paga-soggiorno-in-hotel-lui-condannato-lei-assolta/683612/
+Disallow: /2015/07/29/maxitruffa-a-banca-marche-prosciolto-ex-direttore/687215/
+Disallow: /2015/08/30/turisti-raggirati-sul-web-la-casa-vacanze-non-ce-denunciato-truffatore/698192/
+Disallow: /2015/09/18/stalking-alla-ex-fidanzata-condannato-dipendente-dellospedale/706082/
+Disallow: /2015/09/22/contesa-per-una-palazzina-il-giudice-da-ragione-allavvocato-castignani/707642/
+Disallow: /2015/09/24/insulti-sul-web-silenzi-denuncia-bigoni-chiesti-20mila-euro/708392/
+Disallow: /2015/09/25/fallita-la-panatta-sport/708610/
+Disallow: /2015/10/07/bancarotta-preferenziale-indagato-il-farmacista-angelini/714077/
+Disallow: /2015/10/08/bancarotta-preferenziale-angelini-sono-rammaricato-per-le-accuse-ho-investito-per-continuare-a-produrre/714590/
+Disallow: /2015/11/02/prodotti-scaduti-alla-farmacia-angelini-il-pm-chiede-la-condanna/725278/
+Disallow: /2015/11/09/farmaci-scaduti-condannato-daniele-angelini/727860/
+Disallow: /2015/11/12/evasione-condannato-lavvocato-castignani-avro-giustizia-in-appello/729651/
+Disallow: /2015/11/13/cocaina-al-nest-in-manette-i-2-gestori/729891/
+Disallow: /2015/11/14/giovane-maceratese-nellinferno-di-parigi-sento-sirene-ovunque-e-un-caos/730333/
+Disallow: /2015/12/02/romanzo-criminale-in-provincia-tra-estorsioni-incendi-e-spaccio-volevano-ricostituire-la-banda-schiavi/739060/
+Disallow: /2015/12/04/droga-al-nest-1-anno-e-8-mesi-per-i-gestori/739891/
+Disallow: /2015/12/14/il-farmacista-angelini-in-aula-non-uso-cocaina-denuncero-schiavi/744662/
+Disallow: /2015/12/30/molte-domande-sul-club-nest-dopo-larresto-dei-gestori-spacciatori/750835/
+Disallow: /2015/12/31/ventitre-milioni-di-volte-grazie-i-numeri-del-2015-buon-2016/751709/
+
+Disallow: /2017/02/04/quando-i-piaceri-della-carne-rischiano-di-essere-spiacevoli/920726/
+Disallow: /2017/04/25/schianto-con-la-moto-muore-22enne/953313/
+Disallow: /2017/10/07/operazione-antidroga-ramon-loco-il-cerchio-si-chiude-su-due-insospettabili-in-unagenda-i-nomi-dei-clienti/1018648/
+Disallow: /2017/11/22/rapinano-6mila-euro-due-30enni-a-giudizio/1035607/
+Disallow: /2017/11/28/rifiuti-maxi-operazione-della-dia-in-manette-rodolfo-briganti/1037834/
+Disallow: /2017/11/29/torna-condom-cafe-60-i-bar-aderenti/1037985/
+
+#Disallow: /category/
+
+User-agent: Googlebot-Image
+Disallow: /wp-includes/
+Disallow: /wp-content/uploads/2018/07/incendio-orim-piediripa-FDM-4.jpg
+Disallow: /wp-content/uploads/2019/03/IMG-20180913-WA0042.jpg
+Disallow: /wp-content/uploads/2014/12/bice-4-650x365.jpg
+Disallow: /wp-content/uploads/2019/02/francesca-dalessandro-e1549531160444.jpg
+Disallow: /wp-content/uploads/2017/08/IMG_4051-376x500.jpg
+Disallow: /wp-content/uploads/2017/08/IMG_4051-376x500-e1502561361538-325x400.jpg
+Disallow: /wp-content/uploads/2014/04/silvia_stopponi.jpg
+Allow: /wp-content/uploads/
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: duggmirror
+Disallow: /
+
+# Motori di ricerca principali
+User-agent: Googlebot
+Crawl-delay: 10
+
+User-agent: Bingbot
+Crawl-delay: 10
+
+User-agent: Slurp
+Crawl-delay: 10
+
+User-agent: DuckDuckBot
+Crawl-delay: 10
+
+User-agent: YandexBot
+Crawl-delay: 10
+
+User-agent: Baiduspider
+Crawl-delay: 10
+
+# Social media crawlers
+User-agent: facebookexternalhit
+Crawl-delay: 10
+
+User-agent: Twitterbot
+Crawl-delay: 10
+
+User-agent: LinkedInBot
+Crawl-delay: 10
+
+User-agent: WhatsApp
+Crawl-delay: 10
+
+User-agent: TelegramBot
+Crawl-delay: 10
+
+# SEO e analisi
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: DotBot
+Crawl-delay: 10
+
+User-agent: SeznamBot
+Crawl-delay: 10
+
+User-agent: MegaIndex
+Crawl-delay: 10
+
+User-agent: BLEXBot
+Crawl-delay: 10
+
+# Advertising e contextual
+User-agent: Verity
+Crawl-delay: 10
+
+User-agent: AdnormCrawler
+Crawl-delay: 10
+
+User-agent: PetalBot
+Crawl-delay: 10
+
+# Archive e backup
+User-agent: ia_archiver
+Crawl-delay: 10
+
+User-agent: archive.org_bot
+Crawl-delay: 10
+
+# E-commerce e prezzi
+User-agent: SlySearch
+Crawl-delay: 10
+
+User-agent: magpie-crawler
+Crawl-delay: 10
+
+# News aggregatori
+User-agent: NewsNow
+Crawl-delay: 10
+
+User-agent: Moreover
+Crawl-delay: 10
+
+# Security e monitoring
+User-agent: SafeDNSBot
+Crawl-delay: 10
+
+User-agent: SecurityTrails
+Crawl-delay: 10
+
+# Bot generici e altri
+User-agent: CCBot
+Crawl-delay: 10
+
+User-agent: GPTBot
+Crawl-delay: 10
+
+User-agent: ChatGPT-User
+Crawl-delay: 10
+
+User-agent: claudebot
+Crawl-delay: 10
+
+User-agent: Applebot
+Crawl-delay: 10
+
+User-agent: MetaInspector
+Crawl-delay: 10
+
+User-agent: DataForSeoBot
+Crawl-delay: 10
+
+User-agent: ZoominfoBot
+Crawl-delay: 10
+
+User-agent: SeekportBot
+Crawl-delay: 10
+
+User-agent: YouBot
+Crawl-delay: 10
+
+# Regole generali per tutti gli altri bot
+User-agent: *
+Crawl-delay: 5

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /coupons/
+Disallow: /userpics/
+Sitemap: https://www.canadianappliance.ca/sitemap.xml
+Sitemap: https://www.canadianappliance.ca/_sitemap_products.php
+Sitemap: https://www.canadianappliance.ca/fr-CA/_sitemap_products.php
+Sitemap: https://www.canadianappliance.ca/videositemap.php
+Sitemap: https://www.canadianappliance.ca/fr-CA/videositemap.php
+Sitemap: https://www.canadianappliance.ca/_sitemap_pdfs.php
+
+User-agent: bingbot
+Disallow: /coupons/
+Disallow: /userpics/
+Sitemap: https://www.canadianappliance.ca/sitemap.xml
+Sitemap: https://www.canadianappliance.ca/_sitemap_products.php
+Sitemap: https://www.canadianappliance.ca/fr-CA/_sitemap_products.php
+Sitemap: https://www.canadianappliance.ca/videositemap.php
+Sitemap: https://www.canadianappliance.ca/fr-CA/videositemap.php
+Sitemap: https://www.canadianappliance.ca/_sitemap_pdfs.php
+Disallow: /amp/search.php

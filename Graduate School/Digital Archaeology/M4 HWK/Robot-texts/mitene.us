@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /first/
+Disallow: /second/
+Disallow: /r?*
+Disallow: /2d/
+Disallow: /dl/
+Disallow: /web/
+
+Sitemap: https://mitene.us/sitemap.xml
+Sitemap: https://family-album.com/sitemap.xml

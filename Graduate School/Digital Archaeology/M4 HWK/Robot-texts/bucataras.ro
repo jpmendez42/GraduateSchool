@@ -1,0 +1,18 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: /cron/gandalf.php?run=newsletter2
+Disallow: /cron/gandalf.php
+Disallow: /cron/
+Disallow: /cautare/
+Disallow: /bloguri/cautare/
+Disallow: /bloguri-culinare/cautare/
+Disallow: /forum/cautare/
+Disallow: /cautare-restaurante/
+Disallow: /feed/
+Disallow: /quiz/
+Disallow: /apps/
+Disallow: /dev/
+
+Sitemap: https://www.bucataras.ro/o_cache/sitemap/sitemap.xml

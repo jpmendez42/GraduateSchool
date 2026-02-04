@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /profiles?
+Disallow: /profiles/*
+Disallow: /search/
+
+User-agent: AdsBot-Google
+User-agent: Googlebot
+User-agent: Googlebot-Image
+
+Sitemap: https://www.ctv.ca/sitemap.xml
+Sitemap: https://www.ctv.ca/video-sitemap/video-sitemap.xml

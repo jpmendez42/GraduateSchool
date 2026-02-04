@@ -1,0 +1,34 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+Sitemap: https://www.sluurpy.it/sitemap.xml
+User-agent: Googlebot
+Allow: /
+Disallow: /foto/
+Disallow: /marcello
+Disallow: /ajax
+User-agent: Googlebot-Mobile
+Allow: /
+Disallow: /foto/
+Disallow: /marcello
+Disallow: /ajax
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /foto/
+Disallow: /marcello
+Disallow: /ajax
+User-agent: *
+Allow: /
+Disallow: /foto/
+Disallow: /marcello
+Disallow: /ajax
+User-agent: Screaming Frog SEO Spider
+Disallow: /hotel/
+Disallow: /punti-vendita/
+Disallow: /catene/
+Disallow: /punti-di-interesse/
+Disallow: /s3/
+Disallow: /s4/
+Disallow: /mappa/
+Disallow: /marcello
+User-agent: grapeshot
+Disallow:

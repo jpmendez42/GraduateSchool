@@ -1,0 +1,874 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>小皮面板(phpstudy) - 让天下没有难配的服务器环境！</title>
+    <meta name="keywords" content="小皮面板,phpStudy,phpStudy2016,phpStudy2018,服务器运维,linux面板,windows面板">
+    <meta name="description" content="小皮面板，好用安全稳定。是一款支持Windows系统与Linux系统的服务器运维管理面板。">
+    <link rel="icon" type="image/x-icon" href="./favicon.ico">
+    <link href="./css/global.css" rel="stylesheet">
+    <link href="./css/header.css" rel="stylesheet">
+    <link href="./css/index.css" rel="stylesheet">
+    <link href="./css/footer.css" rel="stylesheet">
+</head>
+
+<body>
+     <nav>
+        <div class="top-tip">
+            <img class="tip-close" src="./images/close.svg" alt="">
+            <span>严禁将小皮产品用于赌博、诈骗、色情、木马等非法业务,违者责任自负,且本公司有权对其终止授权、停止服务直至封停账号。</span>
+        </div>
+        <div class="nav flex align-center">
+            <div class="nav-content flex align-center space-between">
+                <div class="nav-menu  flex align-center">
+                      <a href="/" class="nav-logo flex align-center">
+                        <img src="./images/logo.svg" alt="小皮面板">
+                        <img class="xp-tit" src="./images/xp-title.svg" alt="小皮面板">
+                    </a>
+                    <ul class="nav-menu-item flex align-center">
+                        <li class="nav-menu-item-li li-active"><a href="/">首页</a></li>
+                        <li class="nav-menu-item-li">
+                            <a href="panel" style="display: flex;align-items: center;">
+                            小皮面板 
+                            <img src="./images/download-linux.svg" alt="" style="width: 16px;margin-left: 8px;">
+                            </a>
+                        </li>
+                         <li class="nav-menu-item-li">
+                            <a href="phpstudy" style="display: flex;align-items: center;">
+                                phpStudy
+                                  <img src="./images/download-win.svg" alt="" style="width: 16px;margin-left: 8px;">
+                            </a>
+                        </li>
+                        <li class="nav-menu-item-li">
+                            <a href="term">小皮终端</a>
+                            <img class="new" src="./images/new.svg" alt="">
+                        </li>
+                        <li class="nav-menu-item-li"><a href="download">产品下载</a></li>
+                        <li class="nav-menu-item-li"><a href="about">关于我们</a></li>
+                    </ul>
+                </div>
+                <div class="nav-no-token">
+                    <a href="https://user.xp.cn/login" target="_blank" class="login-btn" style="margin-right: 8px;">登录/注册</a>
+                    <a href="https://old.xp.cn/" target="_blank" class="old-btn">旧版入口</a>
+                </div>
+                <div class="nav-token">
+                    <a href="https://user.xp.cn/" target="_blank" class="user-btn" style="margin-right: 18px;">
+                        <img src="./images/user.png" alt="" srcset="" style="margin-right: 4px;">
+                        用户中心
+                    </a>
+                    <a href="https://old.xp.cn/" target="_blank" class="old-btn">旧版入口</a>
+                </div>
+                <img class="nav-aside" src="./images/app-menu.svg" alt="">
+            </div>
+        </div>
+        <!-- 遮罩层 -->
+        <div class="overlay"></div>
+        <div class="sidebar">
+            <div class="sidebar-header flex align-center space-between">
+                <img src="./images/sidebar-logo.svg" alt="小皮面板">
+                <div class="close-sidebar">×</div>
+            </div>
+            <ul class="sidebar-menu-item">
+                <li><a class="sidebar-menu-item-li li-active" href="/">首页</a></li>
+                <li><a class="sidebar-menu-item-li" href="panel">小皮面板</a></li>
+                <li><a class="sidebar-menu-item-li" href="phpstudy">phpStudy</a></li>
+                <li><a class="sidebar-menu-item-li" href="term">小皮终端</a></li>
+                <li><a class="sidebar-menu-item-li" href="download">产品下载</a></li>
+                <li><a class="sidebar-menu-item-li" href="about">关于我们</a></li>
+            </ul>
+            <div class="flex align-center" style="margin-top: 24px;justify-content: center;">
+                <a href="https://old.xp.cn/" target="_blank" class="old-btn">旧版入口</a>
+                <a href="https://user.xp.cn/login" class="user-btn h5-login">登录/注册</a>
+                <a href="https://user.xp.cn" class="user-btn h5-user">用户中心</a>
+            </div>
+        </div>
+    </nav>
+
+    <div class="home-cartoon">
+        <div class="xp-cartoon flex align-center">
+            <div class="cartoon-tit">好用安全稳定的服务器面板</div>
+            <div class="btn-free">永久免费</div>
+        </div>
+        <div class="xp-txt">先进技术架构，集安全、高效、功能于一体</div>
+        <div class="xp-txt">告别命令行，只需要动动鼠标，服务器运维化繁为简</div>
+        <div class="flex align-center" style="margin-top: 24px;justify-content: center;">
+            <a href="download" class="download-btn btn">
+                <img src="./images/download.png" style="width: 14px;" alt="" srcset="">
+                小皮Linux面板
+            </a>
+            <a href="https://demo.xp.cn" target="_blank" class="demo-btn btn">Demo演示</a>
+        </div>
+        <div class="xp-img">
+            <img width="100%" src="./images/home.png" alt="" srcset="">
+        </div>
+        <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+    </div>
+    <div class="new-activity">
+        <div class="col-new">
+            <div class="new-left flex">
+                <img src="./images/new-activity.svg" alt="">
+                <div style="margin-left: 16px;">
+                    <div class="new-tit">新用户推广活动上线啦</div>
+                    <div class="new-text">每成功邀请一位新用户，即可获得<span style="color: #FF731B;font-weight: bold;"> 100 </span>积分！更多积分玩法即将上线，即刻就开始体验吧，积分越多越划算！</div>
+                </div>
+            </div>
+            <div>
+                <a href="https://user.xp.cn/promote/square" target="_blank" class="bt">立即体验</a>
+            </div>
+        </div>
+    </div>
+    <div class="home-merit">
+        <ul class="merit-tab">
+            <li class="tab-item">
+                <div class="flex align-center">
+                    <img class="svg-img no-active" src="./images/home-quickness.svg" alt="" srcset="">
+                    <img class="svg-img active-img" src="./images/home-quickness-active.svg" alt="" srcset="">
+                    极速网站部署
+                </div>
+                <div class="tab-item-active-line">
+                    <div class="tab-item-active-line-bar"></div>
+                </div>
+            </li>
+            <li class="tab-item">
+                <div class="flex align-center">
+                    <img class="svg-img no-active" src="./images/home-db.svg" alt="" srcset="">
+                    <img class="svg-img active-img" src="./images/home-db-active.svg" alt="" srcset="">
+                    低门槛数据库自治
+                </div>
+                <div class="tab-item-active-line">
+                    <div class="tab-item-active-line-bar"></div>
+                </div>
+            </li>
+            <li class="tab-item">
+                <div class="flex align-center">
+                    <img class="svg-img no-active" src="./images/home-file.svg" alt="" srcset="">
+                    <img class="svg-img active-img" src="./images/home-file-active.svg" alt="" srcset="">
+                    友好的文件系统管理
+                </div>
+                <div class="tab-item-active-line">
+                    <div class="tab-item-active-line-bar"></div>
+                </div>
+            </li>
+            <li class="tab-item">
+                <div class="flex align-center">
+                    <img class="svg-img no-active" src="./images/home-soft.svg" alt="" srcset="">
+                    <img class="svg-img active-img" src="./images/home-soft-active.svg" alt="" srcset="">
+                    种类丰富的应用商店
+                </div>
+                <div class="tab-item-active-line">
+                    <div class="tab-item-active-line-bar"></div>
+                </div>
+            </li>
+            <li class="tab-item">
+                <div class="flex align-center">
+                    <img class="svg-img no-active" src="./images/home-free.svg" alt="" srcset="">
+                    <img class="svg-img active-img" src="./images/home-free-active.svg" alt="" srcset="">
+                    好用且永久免费
+                </div>
+                <div class="tab-item-active-line">
+                    <div class="tab-item-active-line-bar"></div>
+                </div>
+            </li>
+        </ul>
+        <ul class="content-list">
+            <li class="content-item">
+                <div class="content">
+                    <div class="content-site">
+                        <p class="content-tit">
+                            <img src="./images/home-quickness.svg" alt="" srcset="">
+                            <span class="tit">极速网站部署</span>
+                        </p>
+                        <div class="content-txt">一键搭建PHP、Java、Python、Node等网站环境， 集成众多开源Web应用，SSL证书自动签发部署，建
+                            站更简单、更快捷。
+                        </div>
+                    </div>
+                    <div class="con-img">
+                        <img src="./images/home-content-site.png" alt="" srcset="" class="fade-in">
+                    </div>
+                </div>
+            </li>
+            <li class="content-item">
+                <div class="content">
+                    <div class="content-site">
+                        <p class="content-tit">
+                            <img src="./images/home-db.svg" alt="" srcset="">
+                            <span class="tit">低门槛数据库自治</span>
+                        </p>
+                        <div class="content-txt">内置Mysql、Redis、Mongodb等主流数据库引擎，图形化管理界面，创建、备份、恢复更简单快捷，数据库管理也能轻而易举。</div>
+                    </div>
+                    <div class="con-img">
+                        <img src="./images/home-content-db.png" alt="" srcset="" class="fade-in">
+                    </div>
+                </div>
+            </li>
+            <li class="content-item">
+                <div class="content">
+                    <div class="content-site">
+                        <p class="content-tit">
+                            <img src="./images/home-file.svg" alt="" srcset="">
+                            <span class="tit">友好的文件系统管理</span>
+                        </p>
+                        <div class="content-txt">拖拽、上传、批量操作等简单易用的文件管理器，直观的多级目录结构，动动鼠标即可管理各种文件。</div>
+                    </div>
+                    <div class="con-img">
+                        <img src="./images/home-content-file.png" alt="" srcset="" class="fade-in">
+                    </div>
+                </div>
+            </li>
+            <li class="content-item">
+                <div class="content">
+                    <div class="content-site">
+                        <p class="content-tit">
+                            <img src="./images/home-soft.svg" alt="" srcset="">
+                            <span class="tit">种类丰富的应用商店</span>
+                        </p>
+                        <div class="content-txt">内置应用商店包含各种软件，简单的安装、维护方式，图形化快速部署；官方遴选维护，安全放心，无后顾之忧。</div>
+                    </div>
+                    <div class="con-img">
+                        <img src="./images/home-content-soft.png" alt="" srcset="" class="fade-in">
+                    </div>
+                </div>
+            </li>
+            <li class="content-item">
+                <div class="content">
+                    <div class="content-site">
+                        <p class="content-tit">
+                            <img src="./images/home-free.svg" alt="" srcset="">
+                            <span class="tit">好用且永久免费</span>
+                        </p>
+                        <div class="content-txt">强大易用的小皮面板基础版永久免费，最大限度让利用户，坚持低成本运营是我们一直不变的宗旨和理念。</div>
+                    </div>
+                    <div class="con-img">
+                        <img src="./images/home-content-free.png" alt="" srcset="" class="fade-in">
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <div class="home-function">
+        <div class="function-tit">小皮面板都能做些什么</div>
+        <div class="function-list">
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-web.svg" alt="">
+                    <div class="function-name">网站</div>
+                </div>
+                <div class="function-txt">快速创建网站，集成PHP/Java/Python/Node/Go等网站运行环境</div>
+            </div>
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-db.svg" alt="">
+                    <div class="function-name">数据库</div>
+                </div>
+                <div class="function-txt">Mysql、Redis、Mongodb等各主流数据库，图形化数据库管理工具</div>
+            </div>
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-docker.svg" alt="">
+                    <div class="function-name">Docker</div>
+                </div>
+                <div class="function-txt">简单易用的容器管理，极速部署各种容器应用</div>
+            </div>
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-ftp.svg" alt="">
+                    <div class="function-name">FTP/文件</div>
+                </div>
+                <div class="function-txt">FTP环境一键部署，图形化的文件管理器</div>
+            </div>
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-safe.svg" alt="">
+                    <div class="function-name">安全</div>
+                </div>
+                <div class="function-txt">防火墙、网站WAF、防护功能，保护服务器免受入侵</div>
+            </div>
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-store.svg" alt="">
+                    <div class="function-name">应用商店</div>
+                </div>
+                <div class="function-txt">种类丰富的应用软件一键安装，快捷管理</div>
+            </div>
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-monitor.svg" alt="">
+                    <div class="function-name">监测</div>
+                </div>
+                <div class="function-txt">实时查看服务器运行状态，性能图表展示</div>
+            </div>
+            <div class="function-item">
+                <div class="function-icon flex align-center">
+                    <img src="./images/home-fun-set.svg" alt="">
+                    <div class="function-name">服务器设置</div>
+                </div>
+                <div class="function-txt">图形化管理服务器各种配置，小白也能玩转Linux</div>
+            </div>
+        </div>
+    </div>
+    <div class="home-download">
+        <a href="download" class="download-btn btn">
+            <img src="./images/download.png" style="width: 14px;" alt="" srcset="">
+            小皮Linux面板
+        </a>
+    </div>
+    <div style="padding: 0 12px;">
+        <div class="home-solution">
+            <img class="solution-img" src="./images/home-solution.png" alt="" srcset="">
+        </div>
+        <!-- <div class="home-partner">
+            <div class="partner-tit">合作伙伴</div>
+            <div class="partner-tip">申请IDC定制版合作</div>
+            <div class="partner-box flex align-center">
+                <img class="partner-left" src="./images/prev.svg" alt="">
+                <div class="partner-wrap">
+                    <div class="partner-list flex"></div>
+                </div>
+                <img class="partner-right" src="./images/next.svg" alt="">
+            </div>
+        </div> -->
+    </div>
+
+    <div class="online">
+        <div class="qrcode qr">
+            <img class="qrcode-icon" src="./images/person-qr.svg" alt="">
+            <img class="qrcode-icon1" src="./images/person-qr1.svg" alt="">
+            <div class="code person-code">
+                <div class="text">微信"扫一扫"</div>
+                <div class="img-qr">
+                    <img style="width: 100%;" src="./images/person-qr2.png" alt="">
+                </div>
+                <div class="qr-tit">【在线客服】</div>
+            </div>
+        </div>
+        <div class="qrcode gotop" style="margin-top: 15px;">
+            <img class="qrcode-icon2" src="./images/wx-qr.svg" alt="">
+            <img class="qrcode-icon3" src="./images/wx-qr1.svg" alt="">
+            <div class="code wx-code">
+                <div class="text">微信"扫一扫"</div>
+                <div class="img-qr">
+                    <img style="width: 100%;" src="./images/wx-qr2.png" alt="">
+                </div>
+                <div class="qr-tit">【企业微信】</div>
+            </div>
+        </div>
+    </div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer">
+        <div class="footer-content">
+            <div class="footer-top flex space-between">
+                <div class="flex">
+                    <a href="#">
+                        <div class="footer-logo">
+                            <div>
+                                <img alt="" src="./images/footer-logo.svg">
+                            </div>
+                            <div class="xp-tit">
+                                <img alt="" src="./images/footer-logo-txt.svg">
+                            </div>
+                        </div>
+                    </a>
+                    <div class="footer-info">
+                        <div class="flex">
+                            <div class="footer-info-item">
+                                <a href="https://www.xp.cn" target="_blank">
+                                    <div class="info-item-text">小皮面板</div>
+                                </a>
+                                <a href="https://demo.xp.cn" target="_blank">
+                                    <div class="info-item-text">Demo演示</div>
+                                </a>
+                                <a href="download">
+                                    <div class="info-item-text">产品下载</div>
+                                </a>
+                                <a class="footer-feedback">
+                                    <div class="info-item-text" style="margin-bottom: 0;">问题反馈</div>
+                                </a>
+                            </div>
+                            <div class="footer-info-item">
+                                <a href="https://old.xp.cn/" target="_blank">
+                                    <div class="info-item-text">旧版入口</div>
+                                </a>
+                                <a href="https://old.xp.cn/wenda.html" target="_blank">
+                                    <div class="info-item-text">小皮社区</div>
+                                </a>
+                                <a href="https://old.xp.cn/using.html" target="_blank">
+                                    <div class="info-item-text">使用教程</div>
+                                </a>
+                            </div>
+                            <div class="footer-info-item">
+                                <a href="https://old.xp.cn/gd.html" target="_blank">
+                                    <div class="info-item-text">网站公告</div>
+                                </a>
+                                <a class="service-contract" href="service">
+                                    <div class="info-item-text">服务协议</div>
+                                </a>
+                                <a href="panel">
+                                    <div class="info-item-text">关于小皮</div>
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-contact flex">
+                    <div>
+                        <div class="contact-tit">联系我们</div>
+                        <div class="contact-tit-line"></div>
+                        <div class="contact-info flex align-center">
+                            <img alt="" src="./images/home-email.svg">
+                            <span class="contact-text">service@xp.cn</span>
+                        </div>
+                    </div>
+                    <div>
+                        <div class="contact-tit">企业微信</div>
+                        <div class="contact-tit-line"></div>
+                        <div class="contact-info">
+                            <img class="qrcode" alt="" src="./images/wx-qrcode.png">
+                        </div>
+                    </div>
+                    <div>
+                        <div class="contact-tit" style="margin-left: 32px;">在线客服</div>
+                        <div class="contact-tit-line"></div>
+                        <div class="contact-info" style="margin-left: 32px;">
+                            <img class="qrcode" alt="" src="./images/online-qrcode.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-line" style="margin-top: 10px;"></div>
+            <div class="footer-blogroll">
+                <div class="footer-blogroll-tit">友情链接</div>
+                <div class="footer-blogroll-link">
+                    <a class="footer-blogroll-item" href="http://www.ce8.com" target="_blank">网站测速</a>
+                    <a class="footer-blogroll-item" href="https://www.dns.la" target="_blank">智能DNS</a>
+                    <a class="footer-blogroll-item" href="https://shopxo.net/" target="_blank">ShopXO开源商城</a>
+                    <a class="footer-blogroll-item" href="https://www.henghost.com/" target="_blank">香港服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.fujieace.com/" target="_blank">付杰博客</a>
+                    <a class="footer-blogroll-item" href="https://www.idcspy.com/" target="_blank">美国服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.88sup.com/" target="_blank">棉花云</a>
+                    <a class="footer-blogroll-item" href="https://www.4414.cn/" target="_blank">站长论坛</a>
+                    <a class="footer-blogroll-item" href="https://www.w3cschool.cn" target="_blank">W3Cschool</a>
+                    <a class="footer-blogroll-item" href="https://www.eyoucms.com/" target="_blank">易优CMS</a>
+                    <a class="footer-blogroll-item" href="https://www.lfzidc.com/" target="_blank">高防服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.sudun.com/" target="_blank">速盾高防CDN</a>
+                    <a class="footer-blogroll-item" href="https://www.99dns.com/" target="_blank">99DNS解析</a>
+                    <a class="footer-blogroll-item" href="https://www.tongjiniao.com/" target="_blank">统计鸟</a>
+                    <a class="footer-blogroll-item" href="https://www.juming.com/" target="_blank">聚名网</a>
+                    <a class="footer-blogroll-item" href="https://www.91084.com/" target="_blank">网站模板</a>
+                    <a class="footer-blogroll-item" href="https://www.zzbaike.com/" target="_blank">站长百科</a>
+                    <a class="footer-blogroll-item" href="https://www.cesu.net/" target="_blank">网站测速工具</a>
+                    <a class="footer-blogroll-item" href="https://www.bosscms.net/" target="_blank">BOSSCMS</a>
+                    <a class="footer-blogroll-item" href="https://www.zun.com/" target="_blank">云服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.mfssl.com/" target="_blank">免费SSL证书</a>
+                    <a class="footer-blogroll-item" href="https://www.i266.com/" target="_blank">主机测评</a>
+                    <a class="footer-blogroll-item" href="https://www.ulidc.com/" target="_blank">优乐测评网</a>
+                    <a class="footer-blogroll-item" href="https://www.zovps.com/" target="_blank">慈云数据</a>
+                    <a class="footer-blogroll-item" href="https://www.ai-seo.cc/" target="_blank">AI智能SEO助理</a>
+                    <a class="footer-blogroll-item" href="https://www.douhao.com/" target="_blank">逗号站长站</a>
+                    <a class="footer-blogroll-item" href="https://seo.juziseo.com/" target="_blank">桔子SEO</a>
+                    <a class="footer-blogroll-item" href="https://www.52muban.com/" target="_blank">帝国CMS模板</a>
+                    <a class="footer-blogroll-item" href="https://www.zzidc.com/" target="_blank">景安网络</a>
+                    <a class="footer-blogroll-item" href="https://www.zitian.cn/" target="_blank">紫田网络</a>
+                    <a class="footer-blogroll-item" href="https://www.wuluoyun.com/" target="_blank">五洛云计算</a>
+                    <a class="footer-blogroll-item" href="https://www.tsyvps.com/" target="_blank">高防云服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.wuyouyun.com/" target="_blank">深圳服务器租用</a>
+                </div>
+            </div>
+            <div class="footer-line"></div>
+            <div class="footer-bottom">
+                <div style="margin-bottom: 5px;">
+                    <span style="font-family: Arial, Helvetica, sans-serif;margin-right: 2px;">&copy;</span>Copyright
+                    <span id="current-year"></span> 河南小皮安全技术有限公司(XP.CN) All rights
+                    reserved.
+                </div>
+                <div>
+                    <span>河南小皮安全技术有限公司</span>
+                    <span style="margin-left: 26px;">
+                        <a class="info-item-text" href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2024071170号</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+        <div class="footer-app">
+            <div class="footer-app-entry">
+                <div class="entry-top flex align-center space-between">
+                    <div class="entry-tit">快捷入口</div>
+                    <img class="entry-fold no-active" src="./images/footer-entry.svg" alt="">
+                    <img class="entry-unfold img-active" src="./images/footer-unfold.svg" alt="">
+                </div>
+                <div class="entry-list">
+                    <div class="entry-item"><a href="https://www.xp.cn" target="_blank">小皮面板</a></div>
+                    <div class="entry-item"><a href="https://old.xp.cn/" target="_blank">旧版入口</a></div>
+                    <div class="entry-item"><a href="https://www.xp.cn/gd.html" target="_blank">网站公告</a></div>
+                    <div class="entry-item"><a href="http://demo.xp.cn" target="_blank">Demo演示</a></div>
+                    <div class="entry-item"><a href="https://old.xp.cn/wenda.html" target="_blank">小皮社区</a></div>
+                    <div class="entry-item service-contract"><a href="service">服务协议</a></div>
+                    <div class="entry-item"><a href="download">产品下载</a></div>
+                    <div class="entry-item"><a href="https://www.xp.cn/using.html" target="_blank">使用教程</a></div>
+                    <div class="entry-item"><a href="panel">关于小皮</a></div>
+                    <div class="entry-item"><a class="footer-feedback">问题反馈</a></div>
+                </div>
+            </div>
+            <div class="footer-app-blogroll">
+                <div class="blogroll-top flex align-center space-between">
+                    <div class="blogroll-tit">友情链接</div>
+                    <img class="blogroll-fold blogroll-no-active" src="./images/footer-entry.svg" alt="">
+                    <img class="blogroll-unfold blogroll-img-active" src="./images/footer-unfold.svg" alt="">
+                </div>
+                <div class="blogroll-list" style="display: none;">
+                    <a class="footer-blogroll-item" href="http://www.ce8.com" target="_blank">网站测速</a>
+                    <a class="footer-blogroll-item" href="https://www.dns.la" target="_blank">智能DNS</a>
+                    <a class="footer-blogroll-item" href="https://shopxo.net/" target="_blank">ShopXO开源商城</a>
+                    <a class="footer-blogroll-item" href="https://www.henghost.com/" target="_blank">香港服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.fujieace.com/" target="_blank">付杰博客</a>
+                    <a class="footer-blogroll-item" href="https://www.idcspy.com/" target="_blank">美国服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.88sup.com/" target="_blank">棉花云</a>
+                    <a class="footer-blogroll-item" href="https://www.4414.cn/" target="_blank">站长论坛</a>
+                    <a class="footer-blogroll-item" href="https://www.w3cschool.cn" target="_blank">W3Cschool</a>
+                    <a class="footer-blogroll-item" href="https://www.eyoucms.com/" target="_blank">易优CMS</a>
+                    <a class="footer-blogroll-item" href="https://www.lfzidc.com/" target="_blank">高防服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.sudun.com/" target="_blank">速盾高防CDN</a>
+                    <a class="footer-blogroll-item" href="https://www.99dns.com/" target="_blank">99DNS解析</a>
+                    <a class="footer-blogroll-item" href="https://www.tongjiniao.com/" target="_blank">统计鸟</a>
+                    <a class="footer-blogroll-item" href="https://www.juming.com/" target="_blank">聚名网</a>
+                    <a class="footer-blogroll-item" href="https://www.91084.com/" target="_blank">网站模板</a>
+                    <a class="footer-blogroll-item" href="https://www.zzbaike.com/" target="_blank">站长百科</a>
+                    <a class="footer-blogroll-item" href="https://www.cesu.net/" target="_blank">网站测速工具</a>
+                    <a class="footer-blogroll-item" href="https://www.bosscms.net/" target="_blank">BOSSCMS</a>
+                    <a class="footer-blogroll-item" href="https://www.zun.com/" target="_blank">云服务器</a>
+                    <a class="footer-blogroll-item" href="https://www.mfssl.com/" target="_blank">免费SSL证书</a>
+                    <a class="footer-blogroll-item" href="https://www.i266.com/" target="_blank">主机测评</a>
+                    <a class="footer-blogroll-item" href="https://www.ulidc.com/" target="_blank">优乐测评网</a>
+                    <a class="footer-blogroll-item" href="https://www.zovps.com/" target="_blank">慈云数据</a>
+                    <a class="footer-blogroll-item" href="https://www.ai-seo.cc/" target="_blank">AI智能SEO助理</a>
+                    <a class="footer-blogroll-item" href="https://www.douhao.com/" target="_blank">逗号站长站</a>
+                    <a class="footer-blogroll-item" href="https://seo.juziseo.com/" target="_blank">桔子SEO</a>
+                    <a class="footer-blogroll-item" href="https://www.52muban.com/" target="_blank">帝国CMS模板</a>
+                    <a class="footer-blogroll-item" href="https://www.zzidc.com/" target="_blank">景安网络</a>
+                    <a class="footer-blogroll-item" href="https://www.zitian.cn/" target="_blank">紫田网络</a>
+                    <a class="footer-blogroll-item" href="https://www.wuluoyun.com/" target="_blank">五洛云计算</a>
+                    <a class="footer-blogroll-item" href="https://www.tsyvps.com/" target="_blank">高防云服务器</a>
+                </div>
+            </div>
+            <div class="footer-app-contact">
+                <div class="contact-top">
+                    <div class="contact-tit">联系我们</div>
+                </div>
+                <div class="flex align-center">
+                    <img style="width: 10px;" alt="" src="./images/home-email.svg">
+                    <span class="contact-text">service@xp.cn</span>
+                </div>
+                <div class="contact-code flex align-center">
+                    <div>
+                        <div class="contact-info">
+                            <img class="qrcode" alt="" src="./images/wx-qrcode.png">
+                        </div>
+                        <div class="contact-tit">企业微信</div>
+                    </div>
+                    <div>
+                        <div class="contact-info" style="margin-left: 32px;">
+                            <img class="qrcode" alt="" src="./images/online-qrcode.png">
+                        </div>
+                        <div class="contact-tit" style="margin-left: 32px;">在线客服</div>
+                    </div>
+                </div>
+            </div>
+            <div class="footer-app-logo flex align-center">
+                <div class="footer-line"></div>
+                <div class="flex align-center" style="margin: 22px 8px 16px;">
+                    <img style="width: 30px;" alt="" src="./images/footer-logo.svg">
+                    <img style="width: 63px;margin-left: 4px;" alt="" src="./images/footer-logo-txt.svg">
+                </div>
+                <div class="footer-line"></div>
+            </div>
+            <div class="footer-app-text">
+                <div style="margin-bottom: 5px;">
+                    <span style="font-family: Arial, Helvetica, sans-serif;margin-right: 2px;">&copy;</span>Copyright
+                    <span id="current-year-app"></span> 河南小皮安全技术有限公司(XP.CN) All rights
+                    reserved.
+                </div>
+                <div>
+                    <span>河南小皮安全技术有限公司</span>
+                    <span style="margin-left: 26px;">
+                        <a class="info-item-text" href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2024071170号</a>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+<script src="./js/jquery-3.7.1.min.js"></script>
+<script src="./js/header.js"></script>
+<script>
+    $(function () {
+        $('#footer').load('/footer.html');
+    });
+    $(document).ready(function () {
+        let interval;
+        const switchInterval = 5000; // 倒计时 5 秒
+        let currentIndex = 0; // 当前激活的标签索引
+
+        function activateTab ($tab) {
+            $(".tab-item").removeClass("tab-item-active");
+            $(".content-item").removeClass("active");
+            $(".tab-item .tab-item-active-line").css("width", "0");
+            $(".tab-item .tab-item-active-line .tab-item-active-line-bar").css("animation", "none");
+
+
+            $tab.addClass("tab-item-active");
+            let $line = $tab.find(".tab-item-active-line");
+            let $lineBar = $tab.find(".tab-item-active-line .tab-item-active-line-bar");
+            $line.css({ width: $tab.outerWidth() + "px" });
+            $lineBar.css({ animation: "progress 5s infinite linear" });
+            let index = $tab.index();
+            $(".content-item").eq(index).addClass("active");
+        }
+
+        function autoSwitchTab () {
+            currentIndex = (currentIndex + 1) % $(".tab-item").length;
+            const $nextTab = $(".tab-item").eq(currentIndex);
+            activateTab($nextTab);
+        }
+
+        // 点击事件
+        $(".tab-item").click(function () {
+            clearInterval(interval); // 点击时重置倒计时
+            currentIndex = $(this).index(); // 获取当前点击的索引
+            activateTab($(this));
+            startAutoSwitch(); // 重新开始自动切换
+        });
+
+        // 自动切换
+        function startAutoSwitch () {
+            interval = setInterval(autoSwitchTab, switchInterval);
+        }
+
+        // 启动时激活第一个标签
+        $(".tab-item").first().click();
+    });
+
+    // // 合作伙伴轮播
+    // $(document).ready(function () {
+    //     // 菜单数据
+    //     const menuItems = [
+    //         { id: 1, name: '菜单项1' },
+    //         { id: 2, name: '菜单项2' },
+    //         { id: 3, name: '菜单项3' },
+    //         { id: 4, name: '菜单项4' },
+    //         { id: 5, name: '菜单项5' },
+    //         { id: 6, name: '菜单项6' },
+    //         { id: 7, name: '菜单项7' },
+    //         { id: 8, name: '菜单项8' }
+    //     ];
+    //     const $sliderWrapper = $('.partner-list');
+    //     let visibleItems = 6; // 默认可见项数
+    //     let isAnimating = false;
+    //     let itemWidth = 100 / visibleItems; // 每个菜单项宽度百分比
+    //     let currentIndex = 0;
+    //     let autoSlideInterval;
+    //     const autoSlideDelay = 3000; // 自动轮播间隔(毫秒)
+    //     let resizeTimer;
+
+    //     // 初始化滑块
+    //     function initSlider () {
+    //         // 清空容器
+    //         $sliderWrapper.empty();
+
+    //         // 根据当前可见项数克隆元素
+    //         const cloneCount = Math.min(visibleItems, menuItems.length);
+
+    //         // 克隆元素用于无限循环
+    //         // 在开头添加最后几个元素的克隆
+    //         for (let i = 0;i < cloneCount;i++) {
+    //             const clone = $(createItemHtml(menuItems[(menuItems.length - cloneCount + i) % menuItems.length])).clone();
+    //             $sliderWrapper.append(clone);
+    //         }
+
+    //         // 添加菜单项到wrapper
+    //         menuItems.forEach((item, index) => {
+    //             $sliderWrapper.append(createItemHtml(item));
+    //         });
+
+    //         // 在结尾添加前几个元素的克隆
+    //         for (let i = 0;i < cloneCount;i++) {
+    //             const clone = $(createItemHtml(menuItems[i % menuItems.length])).clone();
+    //             $sliderWrapper.append(clone);
+    //         }
+
+    //         // 设置初始位置（显示第一个真实元素）
+    //         $sliderWrapper.css('transform', `translateX(-${cloneCount * itemWidth}%)`);
+
+    //         // 开始自动轮播
+    //         startAutoSlide();
+    //     }
+
+    //     // 创建菜单项HTML
+    //     function createItemHtml (item) {
+    //         return `<div class="partner-item">
+    //                     <img src="./images/sponsor3.svg" alt="">
+    //                 </div>`;
+    //     }
+
+    //     // 更新可见项数
+    //     function updateVisibleItems () {
+    //         const width = $(window).width();
+    //         if (width >= 1200) {
+    //             visibleItems = 6; // 大屏幕显示4项
+    //         } else if (width >= 768) {
+    //             visibleItems = 3; // 中屏幕显示3项
+    //         } else if (width >= 480) {
+    //             visibleItems = 2; // 小屏幕显示2项
+    //         } else {
+    //             visibleItems = 1; // 手机显示1项
+    //         }
+
+    //         itemWidth = 100 / visibleItems;
+    //         $('.partner-item').css('flex', `0 0 ${itemWidth}%`);
+
+    //         // 重新初始化滑块
+    //         stopAutoSlide();
+    //         initSlider();
+    //     }
+
+    //     // 滑动到指定索引
+    //     function slideTo (index, direction = 'next') {
+    //         if (isAnimating) return;
+    //         isAnimating = true;
+
+    //         // 处理索引越界
+    //         if (index >= menuItems.length) {
+    //             index = 0;
+    //         } else if (index < 0) {
+    //             index = menuItems.length - 1;
+    //         }
+
+    //         const cloneCount = Math.min(visibleItems, menuItems.length);
+    //         const translateX = -(index + cloneCount) * itemWidth;
+    //         $sliderWrapper.css('transition', 'transform 0.5s ease');
+    //         $sliderWrapper.css('transform', `translateX(${translateX}%)`);
+    //         currentIndex = index;
+
+    //         // 动画结束后重置状态
+    //         setTimeout(() => {
+    //             isAnimating = false;
+    //         }, 500);
+    //     }
+
+    //     // 处理无限循环
+    //     function handleInfiniteSlide (direction) {
+    //         // 取消过渡效果
+    //         $sliderWrapper.css('transition', 'none');
+
+    //         const cloneCount = Math.min(visibleItems, menuItems.length);
+
+    //         if (direction === 'next' && currentIndex === 0) {
+    //             // 如果是从克隆项滑回第一个真实项
+    //             const newPosition = -(cloneCount) * itemWidth;
+    //             $sliderWrapper.css('transform', `translateX(${newPosition}%)`);
+    //         } else if (direction === 'prev' && currentIndex === menuItems.length - 1) {
+    //             // 如果是从克隆项滑回最后一个真实项
+    //             const newPosition = -(menuItems.length + cloneCount - 1) * itemWidth;
+    //             $sliderWrapper.css('transform', `translateX(${newPosition}%)`);
+    //         }
+
+    //         // 强制重绘
+    //         setTimeout(() => {
+    //             $sliderWrapper.css('transition', 'transform 0.5s ease');
+    //         }, 0);
+    //     }
+
+    //     // 开始自动轮播
+    //     function startAutoSlide () {
+    //         autoSlideInterval = setInterval(() => {
+    //             slideTo(currentIndex + 1, 'next');
+    //         }, autoSlideDelay);
+    //     }
+
+    //     // 停止自动轮播
+    //     function stopAutoSlide () {
+    //         clearInterval(autoSlideInterval);
+    //     }
+
+    //     // 初始化
+    //     updateVisibleItems();
+
+    //     // 绑定事件
+    //     $('.partner-left').click(function () {
+    //         stopAutoSlide();
+    //         slideTo(currentIndex - 1, 'prev');
+    //         startAutoSlide();
+    //     });
+
+    //     $('.partner-right').click(function () {
+    //         stopAutoSlide();
+    //         slideTo(currentIndex + 1, 'next');
+    //         startAutoSlide();
+    //     });
+
+    //     // 鼠标悬停暂停轮播
+    //     $('.partner-wrap').hover(
+    //         function () {
+    //             stopAutoSlide();
+    //         },
+    //         function () {
+    //             startAutoSlide();
+    //         }
+    //     );
+
+    //     // 监听过渡结束事件，处理无限循环
+    //     $sliderWrapper.on('transitionend', function () {
+    //         if (currentIndex === 0) {
+    //             handleInfiniteSlide('prev');
+    //         } else if (currentIndex === menuItems.length - 1) {
+    //             handleInfiniteSlide('next');
+    //         }
+    //     });
+
+    //     // 响应式调整 - 根据窗口大小调整显示的菜单项数量
+    //     $(window).resize(function () {
+    //         clearTimeout(resizeTimer);
+    //         resizeTimer = setTimeout(function () {
+    //             updateVisibleItems();
+    //         }, 250);
+    //     });
+    // });
+</script>
+
+</html>

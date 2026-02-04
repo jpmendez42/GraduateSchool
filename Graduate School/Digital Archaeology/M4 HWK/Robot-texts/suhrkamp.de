@@ -1,0 +1,35 @@
+# suhrkamp: robots.txt
+#
+# This file is used to allow crawlers to index our site.
+# It is NOT used for any other purpose, such as filtering
+# impressions or clicks.
+
+User-agent: *
+Disallow: /lucee-api/
+Disallow: /api/
+Disallow: /steps/
+Disallow: /login
+Disallow: /account
+Disallow: /login/
+Disallow: /account/
+Disallow: /search
+Disallow: /search/
+Disallow: /rights/search
+Disallow: /rights/search/
+
+User-Agent: bingbot
+Crawl-delay: 4
+
+User-Agent: Slurp
+Crawl-delay: 2
+
+User-Agent: Yandex
+Crawl-delay: 2
+
+User-agent: AhrefsBot
+Crawl-Delay: 5
+
+User-Agent: trendkite-akashic-crawler
+Disallow: /
+
+Sitemap: https://www.suhrkamp.de/sitemap.xml

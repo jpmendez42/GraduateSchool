@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /ServiceSites/Error500Handler.ashx
+Disallow: /*CaptchaImage.axd
+Disallow: /api/
+Disallow: /en/mycampus
+Disallow: https://mycampus.hslu.ch/de-ch/
+Disallow: /en/ics
+Disallow: https://ics-mycampus.hslu.ch/de-ch/
+Disallow: /en/campusisa/isa
+Disallow: https://www.isa-campus.ch/de-ch/
+Sitemap: https://www.hslu.ch/sitemapindex.xml

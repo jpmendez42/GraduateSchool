@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /speedtest
+Allow: /ueber-kabelplus/
+Allow: /privat/
+Allow: /business/
+Disallow: /api/
+
+Sitemap: https://www.kabelplus.at/googlesitemap.xml

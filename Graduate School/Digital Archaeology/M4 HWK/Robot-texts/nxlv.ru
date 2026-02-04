@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /sitemap.xml
+Disallow: /*/$
+Disallow: /*?tracker
+Disallow: /achievements
+Disallow: /registration
+Disallow: /about
+Disallow: /profile
+Disallow: /tournaments
+Disallow: /vip_club
+Disallow: /agreement
+Disallow: /security
+Disallow: /shop
+Disallow: /jackpot
+Disallow: /cashier
+Disallow: /support
+Disallow: /*?source
+Disallow: /responsible
+Disallow: /avoid_blocking
+
+Sitemap: https://nxlv.ru/sitemap.xml

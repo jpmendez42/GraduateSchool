@@ -1,0 +1,28 @@
+User-agent: *
+
+Sitemap: https://one.nz/sitemap.xml
+Disallow: /*dynSessConf
+Disallow: /*CFTOKEN
+Disallow: /cs/Sites?lookuphost=/ws2*
+Disallow: /faq/search*
+Disallow: /search*
+Disallow: /ppchange/
+Disallow: /shop/checkout/cart.jsp
+Disallow: /vf-apps/
+Disallow: /faq/always-connected
+Disallow: /*rewards-general-myvfapp/
+Disallow: /using-myvodafone/app-version*
+Disallow: /enterprise-offers/
+Disallow: /myvodafone/ng/pay*
+
+User-agent: gsa-crawler #CUSTOM
+Disallow: /cs/Satellite*
+Disallow: /edm/
+Disallow: /faq/search*
+Disallow: /ppchange/
+Disallow: /enterprise-offers/
+Disallow: /shop/shared-plans
+Disallow: /shop/hob-plans
+Disallow: /myvodafone/ng/pay*
+Allow: /myvodafone/ng/topup*
+Allow: /myvodafone/ng/topup-or-pay

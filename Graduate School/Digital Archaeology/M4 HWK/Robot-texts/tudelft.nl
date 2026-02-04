@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /t3lib/
+Disallow: /*?id=
+Disallow: /*?*lookup
+Sitemap: https://www.tudelft.nl/sitemap.xml

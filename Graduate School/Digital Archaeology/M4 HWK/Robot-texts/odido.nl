@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /login*redirectURL=*
+Disallow: /login-sms*redirectURL=*
+Disallow: /my/inloggegevens-opvragen*redirectURL=*
+Disallow: /my/registreren*redirectURL=*
+Disallow: /sparen/aanmelden*redirectURL=*
+Disallow: /Code/WebPortals/Platform/PublicWeb/Framework/UI/SsoKeepAlive.aspx
+Disallow: /*.pdf
+Disallow: /online-payment*
+# Sitemap
+Sitemap: https://www.odido.nl/sitemap.xml

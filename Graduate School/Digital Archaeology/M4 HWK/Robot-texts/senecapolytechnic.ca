@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /cmsadmin/
+Disallow: /marketing/
+Disallow: /workarea/
+Disallow: /ce/workarea/
+Disallow: /content/seneca/
+Disallow: /quarterly/
+Disallow: /registrar/admissions/sessions.html
+Disallow: /content/dam/projects/seneca/registrar/sessions/
+Disallow: */renditions/*
+Disallow: /*.html.html$
+
+Sitemap: https://www.senecapolytechnic.ca/sitemap.xml
+Sitemap: https://www.senecapolytechnic.ca/aem.sitemap.xml
+Sitemap: https://www.senecapolytechnic.ca/ce/sitemap.xml

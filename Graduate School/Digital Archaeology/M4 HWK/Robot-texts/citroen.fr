@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /navigation-partials/
+Disallow: /video-modal
+Disallow: /modal-video
+Disallow: /masterhead-video
+Disallow: /api/
+Disallow: /*?id
+Disallow: /*utm_content
+Disallow: /*utm_campaign
+Disallow: /*utm_medium
+Disallow: /*?lcdv
+Disallow: /*?gclsrc
+Disallow: /*?&gclid
+Disallow: /*utm_source
+
+Sitemap: https://www.citroen.fr/sitemap.xml
+Sitemap: https://www.citroen.fr/acheter-en-ligne/sitemap/AC/FR/sitemap.xml

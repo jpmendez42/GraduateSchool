@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /pdf
+
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+Disallow: /
+
+Sitemap: https://www.eurojackpot.de/sitemap.xml
+

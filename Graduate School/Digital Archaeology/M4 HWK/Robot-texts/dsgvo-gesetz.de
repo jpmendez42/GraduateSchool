@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*?*
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/plugins/
+Disallow: /subsites/
+Disallow: /gf/
+
+Sitemap: https://dsgvo-gesetz.de/sitemap_index.xml

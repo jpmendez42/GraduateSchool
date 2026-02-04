@@ -1,0 +1,57 @@
+User-agent: Sogou
+User-agent: Baiduspider
+User-agent: YoudaoBot
+Disallow: /
+
+Host: www.czc.cz
+
+User-Agent: *
+Disallow: /login
+Disallow: /*/login
+Disallow: /kosik/
+Disallow: /dokoncit-registraci
+Disallow: /email/*
+Disallow: /change-password
+Disallow: /zmenit-heslo/
+Disallow: /*/nova$
+Disallow: /*/novy$
+Disallow: /*/priloha
+Disallow: /*/upload-image
+Disallow: /*?q-count=
+Disallow: /*&q-count=
+Disallow: /*?q-order=
+Disallow: /*&q-order=
+Disallow: /*?q-direction=
+Disallow: /*&q-direction=
+Disallow: /*?position=
+Disallow: /*&position=
+Disallow: /*?q-c*=
+Disallow: /*&q-c*=
+Disallow: /*?related=
+Disallow: /*&related=
+Disallow: /*.jsm
+Disallow: /letaky
+Disallow: /support
+Disallow: /czc/products.nsf/
+Disallow: /czc/media.nsf/
+Disallow: /art_list.jsp
+Disallow: /captcha.jsp
+Disallow: /MAIN.aspx
+Disallow: /Main.aspx
+Disallow: /DEFAULT.aspx
+Disallow: /vitejte-v-czc-business/clanek
+Disallow: /hledat*
+
+Disallow: /*/kontakty
+Disallow: /*/soukromi
+Disallow: /*/pobocky
+Disallow: /*/pro-firmy
+Disallow: /*/volna-mista
+Disallow: /*/autodiscover.xml
+
+Allow: /geek/*/clanek
+Disallow: /*/*/clanek
+
+Allow: /
+
+Sitemap: https://www.czc.cz/sitemap.xml

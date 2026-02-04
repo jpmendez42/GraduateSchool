@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: /API
+Disallow: /wp-admin
+Disallow: /category/
+Disallow: /tag
+Disallow: /author
+Disallow: /suche
+Disallow: /rezept/
+Disallow: /*/recipe
+Disallow: */feed/
+Disallow: /wprm_print*
+Disallow: /media/recipe-qr-code.php*
+Disallow: /trackback
+Disallow: /*trackback
+Disallow: /*trackback*
+Disallow: /*/trackback
+# Disallow: /*?*
+Allow: /*.js$
+Allow: /*.css$
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow: 
+Allow: /*
+
+# Google AdSense
+User-agent: Mediapartners-Google*
+Disallow: 
+Allow: /*
+
+# SEMRush 
+User-agent: SemrushBot
+Disallow: 
+Allow: /*
+
+User-agent: SemrushBot-SA
+Disallow: 
+Allow: /*
+
+Sitemap: https://www.backenmachtgluecklich.de/sitemap_index.xml
+
+# 

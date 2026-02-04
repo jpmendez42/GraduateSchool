@@ -1,0 +1,724 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>TMB eBanking</title>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1"/>
+		<meta name="description" content="Tamilnad Mercantile Bank - internet banking">
+		<meta name="keywords" content="tmb, tamilnad mercantile bank internet banking, tmb netbanking">
+		<meta name="author" content="Tamilnad Mercantile Bank">
+		<meta http-equiv="ScreenOrientation" content="autoRotate:disabled">
+		<link rel="stylesheet" type="text/css" href="assets/css/tmb-main.css"/>
+		<link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css"/>
+		<link rel="stylesheet" type="text/css" href="assets/css/chat.css"/>
+		<link rel="icon" type="image/x-icon" href="assets/img/tmb-favicon.png">
+	</head>
+	<!-- <body oncontextmenu="return false;" onload="ShowModal()"> -->
+	<body oncontextmenu="return false;">
+		<nav class="navbar navbar-expand-lg navbar-light tmb-menu revealmenu fade-left" id="navbar">
+			<div class="container-fluid">
+				<a class="navbar-brand" href="index.htm"><img src="assets/img/tmb_head.png" id="logo" class="tmb-header-logo" alt="tmb" title="tmb"></a>
+				<div class="collapse navbar-collapse navbar-right tmb-top-left-menu" id="navbarSupportedContent">
+					<div class="netbanking-text"><h3 class="headertext"><img src="assets/img/welcome-tmb-econnect.png" class="img-fluid"/></div>
+				</div>
+				<div class="menu-register-btn">
+					<a class="btn btn-outline-primary login-btn" href="message.htm">Net Banking Login</a>
+				</div>
+			</div>
+		</nav>
+		<!-- MENU BAR ENDS HERE -->
+		<!-- SLIDER STARTS HERE -->
+		<div class="row slider-container">
+			<div class="col-lg-9 col-xl-9 col-md-12 col-sm-12">
+				<div id="carouselExampleDark" class="carousel carousel-dark slide" data-bs-ride="carousel">
+					<div class="carousel-indicators">
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="1" aria-label="Slide 2"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="2" aria-label="Slide 3"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="3" aria-label="Slide 4"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="4" aria-label="Slide 5"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="5" aria-label="Slide 6"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="6" aria-label="Slide 7"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="7" aria-label="Slide 8"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="8" aria-label="Slide 9"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="9" aria-label="Slide 10"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="10" aria-label="Slide 11"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="11" aria-label="Slide 12"></button>
+						<button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="12" aria-label="Slide 13"></button>
+						 <button type="button" data-bs-target="#carouselExampleDark" data-bs-slide-to="13" aria-label="Slide 14"></button> 
+					</div>
+					<div class="carousel-inner">
+						<!-- <div class="carousel-item active" data-bs-interval="10000">
+						<img src="assets/img/slider1.png" class="d-block w-100 sli-img" alt="Information">
+						<div class="carousel-caption d-none d-md-block">
+						</div>
+						</div>-->
+					<div class="carousel-item active" data-bs-interval="5000">
+							<img src="assets/img/BBPS_new.jpg" class="d-block w-100 sli-img" alt="300 Days">
+							<div class="carousel-caption d-none d-md-block">
+							</div> 
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+							<img src="assets/img/CC_MB_Display_4.png" class="d-block w-100 sli-img" alt="400">
+							<div class="carousel-caption d-none d-md-block">
+							</div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+							<img src="assets/img/BBPS_new.jpg" class="d-block w-100 sli-img" alt="RBI">
+							<div class="carousel-caption d-none d-md-block">
+							</div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/Flw3.jpg" class="d-block w-100 sli-img" alt="RBI">
+						<div class="carousel-caption d-none d-md-block">
+						</div>
+						</div>				
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/Flw2.jpg" class="d-block w-100 sli-img" alt="RBI1">
+						<div class="carousel-caption d-none d-md-block">
+						</div>
+						</div>						
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/Flw1.jpg" class="d-block w-100 sli-img" alt="RBI3">
+						<div class="carousel-caption d-none d-md-block">
+						</div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/NAP ebank.jpg" class="d-block w-100 sli-img" alt="RBI2">
+						<div class="carousel-caption d-none d-md-block">
+						</div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/slider1.png" class="d-block w-100 sli-img" alt="Information">
+						<div class="carousel-caption d-none d-md-block">
+						</div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/slider2.png" class="d-block w-100 sli-img" alt="TMB security tips">
+						<div class="carousel-caption d-none d-md-block">
+						</div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/slider3.png" class="d-block w-100 sli-img" alt="TMB WhatsApp Banking">
+						<div class="carousel-caption d-none d-md-block"></div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/slider4.png" class="d-block w-100 sli-img" alt="TMB DigiLobby">
+						<div class="carousel-caption d-none d-md-block"></div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/slider6.png" class="d-block w-100 sli-img" alt="Information">
+						<div class="carousel-caption d-none d-md-block"></div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<img src="assets/img/slider7.png" class="d-block w-100 sli-img" alt="Information">
+						<div class="carousel-caption d-none d-md-block"></div>
+						</div>
+						<div class="carousel-item" data-bs-interval="5000">
+						<a title="DICGC" href="https://www.dicgc.org.in/" target="_blank"><img src="assets/img/slider8.png" class="d-block w-100 sli-img" alt="Information"></a>
+						<div class="carousel-caption d-none d-md-block"></div>
+						</div>
+					</div>
+					<button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="prev">
+						<span class="carousel-control-prev-icon" aria-hidden="true"></span>
+						<span class="visually-hidden">Previous</span>
+					</button>
+					<button class="carousel-control-next" type="button" data-bs-target="#carouselExampleDark" data-bs-slide="next">
+						<span class="carousel-control-next-icon" aria-hidden="true"></span>
+						<span class="visually-hidden">Next</span>
+					</button>
+				</div>
+			</div>
+			<div class="col-lg-3 col-xl-3 col-md-12 col-sm-12 tmb-home-list">
+				<div class="card-item" tabindex="0">
+					<ul class="list">
+						<div class="row side-menu-row">
+							<div class="col-lg-6 col-xl-6 col-md-2 col-sm-2 pdl-0 pdr-0">
+								<li>
+									<!--<a title="Fixed Deposits" href="https://www.tmbnet.in/OnlDepOpnCls/" target="_blank">-->
+									<a title="Fixed Deposits" href="https://www.tmbho.in/OnlDepOpnCls/" target="_blank">
+									<div class="flip-box">
+										<div class="flip-box-inner icon-bk">
+										  <div class="flip-box-front icon-fr">
+											<img src="assets/img/bank-deposit.png" alt="Paris" style="width:30px;height:30px" >
+										  </div>
+										  <div class="flip-box-back">
+											<img src="assets/img/bank-deposit.png" alt="Paris" style="width:30px;height:30px" >
+										  </div>
+										  
+										</div>
+									  </div>
+									  <p class="f-15">Fixed Deposit</p>
+									  </a>
+								</li>
+							</div>
+							<div class="col-lg-6 col-xl-6 col-md-2 col-sm-2 pdl-0 pdr-0">
+								<li>
+									<a title="E-Tax Payments" href="onlinetax.htm" target="_blank">
+										<div class="flip-box">
+											<div class="flip-box-inner icon-bk">
+											  <div class="flip-box-front icon-fr">
+												<img src="assets/img/tax.png" alt="E-Tax Payments" style="width:30px;height:25px" >
+											  </div>
+											  <div class="flip-box-back">
+												<img src="assets/img/tax.png" alt="E-Tax Payments" style="width:30px;height:25px" >
+											  </div>
+											  
+											</div>
+										  </div>
+										  <p class="f-15">E-Tax Payments</p>
+									</a>
+								</li>
+							</div>
+						<!-- </div>	 -->
+						<!-- <div class="row side-menu-row"> -->
+							<div class="col-lg-6 col-xl-6 col-md-2 col-sm-2 pdl-0 pdr-0">
+								<li>
+									<!--<a title="Credit Card Portal" href="https://prepaid.tmbnet.in/tmbcreditcustomer/html/LoginFrame.jsp" target="_blank">-->
+									<a title="Credit Card Portal" href="https://www.tmb.in/credit-card-portal" target="_blank">
+										<div class="flip-box">
+											<div class="flip-box-inner icon-bk">
+											  <div class="flip-box-front icon-fr">
+												<img src="assets/img/credit-card-payment.png" alt="Credit Card Portal" style="width:35px;height:25px;">
+											  </div>
+											  <div class="flip-box-back">
+												<img src="assets/img/credit-card-payment.png" alt="Credit Card Portal" style="width:35px;height:25px;" >
+											  </div>
+											  
+											</div>
+										  </div>
+										  <p class="f-15">Credit Card Portal</p>
+									</a>
+								</li>
+							</div>
+							<div class="col-lg-6 col-xl-6 col-md-2 col-sm-2 pdl-0 pdr-0">
+								<li>
+									<a title="Prepaid Card Portal" href="https://prepaid.tmbnet.in/noneportal/tmb/html" target="_blank">
+										<div class="flip-box">
+											<div class="flip-box-inner icon-bk">
+											  <div class="flip-box-front icon-fr">
+												<img src="assets/img/gift-card.png" alt="Prepaid Card Portal" style="width:35px;height:25px;">
+											  </div>
+											  <div class="flip-box-back">
+												<img src="assets/img/gift-card.png" alt="Prepaid Card Portal" style="width:35px;height:25px;" >
+											  </div>
+											  
+											</div>
+										  </div>
+										  <p class="f-15">Prepaid Card Portal</p>
+									</a>
+								</li>
+							</div>
+						<!-- </div>	 -->
+						<!-- <div class="row side-menu-row"> -->
+							<div class="col-lg-6 col-xl-6 col-md-2 col-sm-2 pdl-0 pdr-0">
+								<li>
+									<a title="Online Savings Account" href="https://vkyc.tmbho.in/" target="_blank">
+										<div class="flip-box">
+											<div class="flip-box-inner icon-bk">
+											  <div class="flip-box-front icon-fr">
+												<img src="assets/img/global-bank-transfer.png" alt="Online Savings Account" style="width:35px;height:30px;">
+											  </div>
+											  <div class="flip-box-back">
+												<img src="assets/img/global-bank-transfer.png" alt="Online Savings Account" style="width:35px;height:30px;" >
+											  </div>
+											  
+											</div>
+										  </div>
+										  <p class="f-15">Online Savings Account</p>
+									</a>
+								</li>
+							</div>
+							<div class="col-lg-6 col-xl-6 col-md-2 col-sm-2 pdl-0 pdr-0">
+								<li>
+									<!-- <a title="Bharath Bill Payment" href="https://payments.billdesk.com/ubp/bbps/instapay/TMBInstapay.jsp" target="_blank"> -->
+                                               <!--	<a title="Bharath Bill Payment" href="https://hexagon.billdesk.com/hgapp-instapay/InstaPayController?BankID=TMB02" target="_blank">-->
+									<a title="Bharath Bill Payment" href="bharatBillPay.htm" target="_blank">
+										<div class="flip-box">
+											<div class="flip-box-inner icon-bk">
+											  <div class="flip-box-front icon-fr">
+												<img src="assets/img/bill.png" alt="Bharath Bill Payment" style="width:25px;height:30px;">
+											  </div>
+											  <div class="flip-box-back">
+												<img src="assets/img/bill.png" alt="Bharath Bill Payment" style="width:25px;height:30px;" >
+											  </div>
+											  
+											</div>
+										  </div>
+										  <p class="f-15">Bharath Bill Payment</p>
+									</a>
+								</li>
+							</div>
+						<!-- </div>	 -->
+					</ul>
+					</div>
+				</div>
+			<!-- <div class="col-md-2 col-sm-12 list-group tmb-home-list">
+				<a href="https://www.tmbnet.in/OnlDepOpnCls/" target="_blank"><img src="assets/img/bank-deposit.png" class="side-menu-img icon"><li>Fixed Deposits</li></a>
+				<a href="onlinetax.htm"><li>E-Tax Payments</li></a>	
+				<a href="https://prepaid.tmbnet.in/tmbcreditcustomer/html/LoginFrame.jsp" target="_blank"><li>Credit Card Portal</li></a>
+				<a href="https://prepaid.tmbnet.in/noneportal/index.jsp" target="_blank"><li>Prepaid Card Portal</li></a>
+				<a href="https://www.tmbho.in/positivepay/" target="_blank"><li>Positive Pay System</li></a>
+				<a href="https://payments.billdesk.com/ubp/bbps/instapay/TMBInstapay.jsp" target="_blank"><li>InstaPay Bill Payment</li></a>
+				<a href="https://vkyc.tmbho.in/" target="_blank"><li>Online Savings Account</li></a>
+				<a href="https://www.tmbnet.in/tmbfeepay/" target="_blank"><li>Educational Fee Payments</li></a>
+				<a href="beware.htm"><li>Safe Banking Tips</li></a>
+				<a href="mbank.htm"><li>Mobile Banking</li></a>
+				<a href="cust_corner.htm"><li>Help</li></a>
+			</div> -->
+		</div>
+		<!-- NEW SECTION STARTS HERE -->
+		<div class="col-md-12">
+			<h2 class="tmb-color tmb-title"><b>Other Useful Links</b></h2>
+		</div>
+		<div class="container" onscroll="showStickyImg()">
+			<div class="row reveal fade-left useful-links">
+				<div class="col-md-105">
+					<div class="tmb-key-products-card">
+						<a href="https://www.tmbho.in/positivepay/" target='_blank'>
+							<img src="assets/img/tmbpps.png" alt="TMB Positive Pay System" class="img-thumbnail" style="width:100%;">
+							<!-- <div class="container"> -->
+								<div class="contentoverlay">
+									<div class="text">Positive <br> Pay System</div>
+								</div>
+							<!-- </div> -->
+						</a>
+					</div>
+				</div>
+				<div class="col-md-105">
+					<div class="tmb-key-products-card">
+						<!--<a href="https://www.tmbnet.in/tmbfeepay/" target="_blank">-->
+						<a href="https://www.tmbho.in/tmbfeepay/" target="_blank">
+							<img src="assets/img/tmb-college-fee.jpg" alt="TMB Educational Fee Payments" class="img-thumbnail" style="width:100%">
+							<!-- <div class="container"> -->
+								<div class="contentoverlay">
+									<div class="text">Educational <br> Fee Payments</div>
+								</div>
+							<!-- </div> -->
+						</a>
+					</div>
+				</div>
+				<div class="col-md-105">
+					<div class="tmb-key-products-card">
+						<a href="mbank.htm">
+							<img src="assets/img/mobile-banking.jpg" alt="TMB Mobile Banking" class="img-thumbnail" style="width:100%">
+							<!-- <div class="container"> -->
+								<div class="contentoverlay">
+									<div class="text">Mobile Banking</div>
+								</div>
+							<!-- </div> -->
+						</a>
+					</div>
+				</div>
+				<div class="col-md-105">
+					<div class="tmb-key-products-card">
+						<a href="beware.htm" target="_blank">
+							<img src="assets/img/tips.png" alt="TMB Safe Banking Tips" class="img-thumbnail" style="width:100%">
+							<!-- <div class="container"> -->
+								<div class="contentoverlay">
+									<div class="text">Safe <br> Banking Tips</div>
+								</div>
+							<!-- </div> -->
+						</a>
+					</div>
+				</div>
+				<div class="col-md-105">
+					<div class="tmb-key-products-card">
+						<a href="https://www.tmbho.in/tmbodr/" target="_blank">
+							<img src="assets/img/complaints.png" alt="Our Billers" class="img-thumbnail" style="width:100%">
+							<!-- <div class="container"> -->
+								<div class="contentoverlay">
+									<div class="text">Dispute <br>Resolution System</div>
+								</div>
+							<!-- </div> -->
+						</a>
+					</div>
+				</div>
+				<div class="col-md-105">
+					<div class="tmb-key-products-card">
+						<a href="cust_corner.htm" target="_blank">
+							<img src="assets/img/customercare.jpg" alt="Help" class="img-thumbnail" style="width:100%">
+							<!-- <div class="container"> -->
+								<div class="contentoverlay">
+									<div class="text">Help</div>
+								</div>
+							<!-- </div> -->
+						</a>
+					</div>
+				</div>
+				<div class="col-md-105">
+					<div class="tmb-key-products-card">
+						<a href="https://www.dicgc.org.in/" target="_blank">
+							<img src="assets/img/dicgc1.png" alt="DICGC" class="img-thumbnail" style="width:100%">
+							<!-- <div class="container"> -->
+								<div class="contentoverlay">
+									<div class="text">DICGC</div>
+								</div>
+							<!-- </div> -->
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- NEW SECTION ENDS HERE -->
+		
+		<!-- DIGILOBBY SECTION STARTS HERE -->
+		<div class="container-fluid p-2 text-white tmb-section-bg reveal fade-right">
+			<!-- <h3>TMB DigiLobby</h3> -->
+			<div class="tmbcard tmb-section-bg section-card">
+				<div class="col-md-12 tmb-inner-box-container shadow-lg rounded">
+					<div class="col-md-2 ">
+						<div class="card-inner-box animation-from-bottom">
+							<p class="calltext">Give a missed call</p>
+							<h4 class="callno"><a href="tel:08467974343" class="dialno">08467974343</a></h4>
+							<p class="calltext">To Block ATM/Debit Card</p>
+						</div>
+					</div>
+					<div class="col-md-2">
+						<div class="card-inner-box animation-from-bottom">
+							<p class="calltext">Toll Free Customer Care</p>
+							<h4 class="callno"><a href="tel:1800-419-9950" class="dialno">1800-419-9950</a></h4>
+							<p class="calltext">To Block Credit Card</p>
+						</div>
+					</div>
+					<div class="col-md-2">
+						<div class="card-inner-box animation-from-bottom">
+							<p class="calltext">Give a missed call</p>
+							<h4 class="callno"><a href="tel:09211937373" class="dialno">09211937373</a></h4>
+							<p class="calltext">Get Your Balances</p>
+						</div>
+					</div>
+					<div class="col-md-2">
+						<div class="card-inner-box animation-from-bottom">
+							<p class="calltext">Give a missed call</p>
+							<h4 class="callno"><a href="tel:09211947474" class="dialno">09211947474</a></h4>
+							<p class="calltext">Get Your Last 5 Transactions</p>
+						</div>
+					</div>
+					<div class="col-md-2">
+						<div class="card-inner-box animation-from-bottom">
+							<p class="calltext">Send "Hi" from WhatsApp to</p>
+							<h4 class="callno"><a href="https://api.whatsapp.com/send?phone=919282112225&text=hi&source=&data=" target="_blank" class="dialno">9282112225</a></h4>
+							<p class="calltext">Get Your Bank Transactions</p>
+						</div>
+					</div>
+					<div class="col-md-2">
+						<div class="card-inner-box animation-from-bottom">
+							<p class="calltext">Send SMS 'DISABLE &lt;user id&gt;' to </p>
+							<h4 class="callno"><a href="tel:9282112225" class="dialno">9282112225</a></h4>
+							<p class="calltext">Disable Netbanking</p>
+						</div>
+					</div>
+					<!-- <div class="col-md-2">
+						<div class="card-inner-box animation-from-bottom">
+						<p class="calltext">TMB DigiLobby</p>
+						<h4 class="callno"><a href="https://play.google.com/store/apps/details?id=com.mobile.tmbepassbook" target="_blank"><img src="assets/img/android.png" class="roundedborder" alt="android"></a>
+						<a href="https://itunes.apple.com/us/app/tmb-epassbook/id901809079?ls=1&amp;mt=8" target="_blank"><img src="assets/img/apple.png" class="roundedborder"  alt="Iphone"></a></h4>
+						<p class="calltext">Download Now</p>
+						</div>
+					</div> -->
+				</div>
+			</div>
+		</div>
+		<br/>
+		<!-- DIGILOBBY SECTION ENDS HERE -->
+		
+		<!-- SECTION STARTS HERE -->
+		
+		<!-- SECTION ENDS HERE -->
+		<!-- FOOTER STARTS HERE -->
+		
+		<footer class="footer-section reveal reveal-footer fade-bottom">
+			<div class="container-fluid">
+				<div class="footer-content pt-5">
+					<div class="row">
+						<div class="col-xl-4 col-lg-4 mb-50">
+						    
+							<div class="footer-widget">
+								<div class="footer-logo">
+									<a href="index.htm"><img src="assets/img/tmb-logo-100-new.jpg" class="img-fluid" alt="logo"></a>
+								</div>
+								<h5><a href="tel:1800-4250-426" class="dialno">All India Toll Free No : 1800-425-0426</a></h5>
+								<div class="footer-widget-heading">
+									<h3>Latest News</h3>
+								</div>
+								<div class="footer-text mb-25">
+									<marquee bgcolor = "#c7098d" direction = "left" ><li class="latest-news-item"><a href="https://www.tmb.in/csr.aspx" class="tmb-news" target="_blank">Kind attention to students: Students from various art colleges can apply  Scholarship for their higher studies/down load application from Disclosure-> CSR->Application for Scholarship.</a></li></marquee> 
+									
+									<!--<marquee bgcolor = "#c7098d" direction = "left" ><font color ="white" target="_blank">Dear Customer, Due to CBS Software Upgradation activity, all digital services will not be available on 12-08-2022 for a shorter duration from 20:45 Hrs to 21:30 Hrs. NEFT / RTGS service alone will not be available on 13-08-2022, alternatively IMPS service can be used. Further, all digital services will not be available on 14-08-2022 during early morning for 4 hours. We regret for the inconvenience.</marquee> -->
+								</div>
+							</div>
+							
+						</div>
+						<div class="col-xl-2 col-lg-2 col-md-6 mb-30">
+							<div class="footer-widget-tmb">
+								<div class="footer-widget-heading">
+									<h3>Useful Links</h3>
+								</div>
+								<ul>
+									<li><a href="impinfo.htm">Our Billers</a></li>
+									<li><a href="legal.htm">Legal Disclaimer</a></li>
+									<li><a href="faq.html">Frequently Asked Questions</a></li>
+									<li><a href="termss.htm">Terms & Conditions</a></li>
+									<li><a href="privacyy.htm">Privacy Policy</a></li>
+									<li><a href="contact.htm">Contact us</a></li>
+
+								</ul>
+							</div>
+						</div>
+						<div class="col-xl-6 col-lg-6 col-md-6 mb-50">
+							<div class="footer-widget">
+								<div class="footer-widget-heading">
+									<h3>Disclaimer</h3>
+								</div>
+								<div class="footer-text mb-25">
+									<p>Our Bank does not ask for the details of your account / PIN / Passwords. Therefore any one pretending to be asking you for information from the bank/technical team may be fraudulent entities, so please beware. You should know how to operate net transactions and if you are not familiar you may refrain from doing so. You may seek bank's guidance in this regard. Bank is NOT responsible for online transactions going wrong. We shall also not be responsible for wrong transactions and wanton disclosure of details by you. Viewing option and transaction option on the net are different. You may exercise your option diligently.</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="copyright-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-xl-12 col-lg-12 text-center text-lg-left">
+							<div class="copyright-text">
+								<p>Copyright &copy; 2022, All Right Reserved <a href="javascript:void(0);">Tamilnad Mercantile Bank Limited</a></p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		
+		<!-- FOOTER ENDS HERE -->
+		<div class="container-fluid chat-bot-container">
+			<div class="chatbot chatbot--closed">
+				<div class="chatbot__header">
+					<p><strong>Got a question?</strong> <span class="u-text-highlight">Ask TMBot</span></p>
+					<svg class="chatbot__close-button icon-chat" viewBox="0 0 32 32">
+					  <use xlink:href="#icon-chat" />
+					</svg>
+					<svg class="chatbot__close-button icon-close" viewBox="0 0 32 32">
+					  <use xlink:href="#icon-close" />
+					</svg>
+				</div>
+				<div class="chatbot__message-window">
+					<ul class="chatbot__messages">
+						<li class="is-ai animation">
+							<div class="is-ai__profile-picture">
+							  <span id="avatar">
+								<img src="assets/img/bot21.png" style="width: 45px;height:45px;" alt="Avatar" title="TMBot">
+							  </span>
+							</div>
+							<span class="chatbot__arrow chatbot__arrow--left"></span>
+							<p class='chatbot__message'><strong class='intro'>Hello, I’m TMBot, your virtual assistant. I'm here to help with your general queries.</p>
+						</li>
+						<li class="is-ai animation">
+							<div class="is-ai__profile-picture">
+							  <span id="avatar">
+								<img src="assets/img/bot21.png" style="width: 45px;height:45px;" alt="Avatar" title="TMBot">
+							  </span>
+							</div>
+							<span class="chatbot__arrow chatbot__arrow--left"></span>
+							<p class='chatbot__message'><span class="list-group">
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-intro">
+								  FREQUENTLY ASKED QUESTIONS
+								</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">Which is the site to access TMB eConnect?</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">Get your Balance Details.</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">Get your Last 5 transactions.</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">How to register for TMB econnect?</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">How to get TMB username and password?</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">How to Enable/Unlock TMB eConnect User ID?</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">How to reset the TMB eConnect password if forgot?</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">How to change the password?</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">Will I be charged for registration of TMB eConnect facility?</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">While resetting the Sign on Password, OTP SMS is not received.</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">Customer wants to change/modify the User ID on their own</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">System displays an error "Application ended for Unknown reason" while using our TMB Econnect Portal </a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">While trying to login, system displays an error "You cannot Login at this time".</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-qns" onclick="GetAnswer(this);">Contact Customer Care/ Support</a>
+								<a href="javascript:void(0);" class="list-group-item list-group-item-action faq-intro">Get TMB DigiLobby app - ePassbook</a>
+								<a href="https://apps.apple.com/in/app/tmb-digilobby/id901809079"
+								  class="list-group-item list-group-item-action digi_align" target="_blank"><img class="tmb_app_install"
+									alt="App Store" src="assets/img/app_store.png"> <img class="tmb_app_scan" alt="Digilobby App Store"
+									src="assets/img/digilobby_ios.png"></a>
+								<a href="https://play.google.com/store/apps/details?id=com.mobile.tmbepassbook"
+								  class="list-group-item list-group-item-action digi_align" target="_blank"><img class="tmb_app_install"
+									alt="Google play" src="assets/img/google_play.png"><img class="tmb_app_scan" alt="Digilobby Google Play"
+									src="assets/img/DigiLobby_android.png"></a>
+								<a href="#" class="list-group-item list-group-item-action faq-intro">Get TMB MBank app - Mobile Banking</a>
+								<a href="https://apps.apple.com/in/app/tmb-mbank/id1585648913"
+								  class="list-group-item list-group-item-action" target="_blank"><img class="tmb_app_install"
+									alt="App Store" src="assets/img/app_store.png"><img class="tmb_app_scan" alt="Mbank App Store"
+									src="assets/img/mbank_ios.png"></a>
+								<a href="https://play.google.com/store/apps/details?id=com.tmb.mbank"
+								  class="list-group-item list-group-item-action" target="_blank"><img class="tmb_app_install"
+									alt="Google play" src="assets/img/google_play.png"><img class="tmb_app_scan" alt="Mbank Google Play"
+									src="assets/img/mbank_android.png"></a>
+								<a href="https://api.whatsapp.com/send?phone=919282112225&test=hi" target="_blank" class="list-group-item list-group-item-action"><img
+								  style="border-radius:20px;" alt="whatsapp Banking Store" src="assets/img/Whatsapp-Chat-Icon.png"></a>
+							  </span>
+							</p>
+						</li>
+						<button type="button" class="btn" id="btn-back-to-top" onclick="scrollup();">
+							<img src="assets/img/back_to_top.png" alt="Avatar" id="btn-top">
+						</button>
+					</ul>
+				</div>
+				<div class="chatbot__entry chatbot--closed">
+					<div class="autocomplete" style="width:300px;">
+						<input type="text" id="chatbot__input" class="chatbot__input" placeholder="May I help you.." />
+					</div>
+					<svg id="chatbot__submit" class="chatbot__submit" viewBox="0 0 32 32">
+					  <use xlink:href="#icon-send" />
+					</svg>
+				</div>
+			</div>
+			<svg>
+			  <symbol id="icon-close" viewBox="0 0 32 32">
+				<title>Close</title>
+				<path d="M2.624 8.297l2.963-2.963 23.704 23.704-2.963 2.963-23.704-23.704z" />
+				<path d="M2.624 29.037l23.704-23.704 2.963 2.963-23.704 23.704-2.963-2.963z" />
+			  </symbol>
+			  <symbol id="icon-chat" viewBox="0 0 32 32">
+				<title>TMBot</title>
+				<path style="fill: #ffffff; fill-rule: evenodd;"
+				  d="M21.795 5.333h-11.413c-0.038 0-0.077 0-0.114 0l-0.134 0.011v2.796c0.143-0.006 0.273-0.009 0.385-0.009h11.277c0.070 0 7.074 0.213 7.074 7.695 0 5.179-2.956 7.695-9.036 7.695h-3.792c-0.691 0-1.12 0.526-1.38 1.159l-1.387 3.093-1.625 3.77 0.245 0.453h2.56l2.538-5.678h2.837c7.633 0 11.84-3.727 11.84-10.494 0.001-8.564-7.313-10.492-9.875-10.492z" />
+				<path style="fill: #ffffff; fill-rule: evenodd;"
+				  d="M10.912 24.259c-0.242-0.442-0.703-0.737-1.234-0.737-0 0-0 0-0 0h-0.56c-0.599-0.011-1.171-0.108-1.71-0.28l0.042 0.012c-1.82-0.559-4.427-2.26-4.427-7.424 0-6.683 5.024-7.597 7.109-7.686v-2.8c-2.042 0.095-9.91 1.067-9.91 10.483 0 4.832 1.961 7.367 3.606 8.64 1.38 1.067 3.109 1.744 4.991 1.843l0.033 0.019 2.805 5.211 1.41-3.273z" />
+			  </symbol>
+			  <symbol id="icon-send" viewBox="0 0 23.97 21.9">
+				<title>Send</title>
+				<path d="M0.31,9.43a0.5,0.5,0,0,0,0,.93l8.3,3.23L23.15,0Z" />
+				<path d="M9,14.6H9V21.4a0.5,0.5,0,0,0,.93.25L13.22,16l6,3.32A0.5,0.5,0,0,0,20,19l4-18.4Z" />
+			  </symbol>
+			</svg>
+		</div>
+		<div class="fixed-chat socialnetworkicons">
+			<div id="chat-circle" class="btn-raised animated-icon bounce-icon">
+				<svg class="icon-chat" viewBox="0 0 48 48">
+				  <use xlink:href="#icon-chat" />
+				</svg>
+			</div>
+		</div>
+		<div class="fixed socialnetworkicons">
+				<!-- <div id="chat-circle" class="btn-raised animated-icon bounce-icon">
+					<svg class="icon-chat" viewBox="0 0 48 48">
+					  <use xlink:href="#icon-chat" />
+					</svg>
+				</div> -->
+				<a href="https://api.whatsapp.com/send?phone=919282112225&text=hi&source=&data=" target="_blank"><img src="assets/img/whatsappicon.png" class="bottom-logo" alt="TMB WhatsApp" title="TMB WhatsApp Banking"/></a>
+				<div class="socialnetworkicons hide" id="socialnetworkicons">
+				<a href="https://www.facebook.com/tmbltd" target="_blank"><img src="assets/img/facebook.png" class="bottom-logo socialicon" alt="TMB FaceBook" title="TMB FaceBook"/></a>
+				<br/>
+				<a href="https://www.instagram.com/tmbankltd/" target="_blank"><img src="assets/img/insta.png" class="bottom-logo socialicon" alt="TMB Instagram" title="TMB Instagram"/></a>
+				<br/>
+				<a href="https://twitter.com/tmbstepahead" target="_blank"><img src="assets/img/twitter.png" class="bottom-logo socialicon" alt="TMB Twitter" title="TMB Twitter"/></a>
+				<br/>
+				<a href="https://www.youtube.com/user/TMBltd/videos" target="_blank"><img src="assets/img/youtube.png" class="bottom-logo socialicon" alt="TMB YouTube" title="TMB YouTube"/></a>
+				</div>
+			<a href="javascript:void(0);" id="showbutton" onclick="ShowSocialMediaIcon()" title="Follow Us" class="rmdec"><img src="assets/img/plus.png" class="bottom-logo" alt="Open TMB Social Media Icon" title="Open TMB Social Media Options"/></a>
+			<a href="javascript:void(0);" id="closebutton" onclick="HideSocialMediaIcon()" class="rmdec hide"><img src="assets/img/cross.png" class="bottom-logo" alt="Close Social Media" title="Close Social Media Options"/></a>
+		</div>
+		<!-- <div id="myModal" class="modal">
+		<span class="close" onclick="ClosePopUp();">×</span>
+			<div class="modal-content">
+				<div class="modal-body">
+					<img src="assets/img/tmb-whatsapp-banking.jpg" class="d-block w-100 sli-img" alt="TMB WhatsApp Banking" style="height:100%;">
+				</div>
+		  </div>
+		</div> -->
+		<script src="assets/js/bootstrap.bundle.min.js"></script>
+		<script src="assets/js/disable.js"></script>
+		<script src="assets/js/chat.js"></script>
+		<script>
+		 /*if(/MSIE \d|Trident.*rv:/.test(navigator.userAgent)) {
+			window.location = 'microsoft-edge:' + window.location;
+			setTimeout(function() {
+			  window.location = 'D:/Prabaharan7571/tmbweb/index.htm';
+			}, 1);
+		  }*/
+			/*var modal = document.getElementById("myModal");
+			var span = document.getElementsByClassName("close")[0];
+			span.onclick = function() {
+			  modal.style.display = "none";
+			}
+			window.onclick = function(event) {
+			  if (event.target == modal) {
+				modal.style.display = "none";
+			  }
+			}
+			function ShowModal() {
+				 modal.style.display = "block";
+			}*/
+
+			function reveal() {
+				var reveals = document.querySelectorAll(".reveal");
+				for (var i = 0; i < reveals.length; i++) {
+					var windowHeight = window.innerHeight;
+					var elementTop = reveals[i].getBoundingClientRect().top;
+					var elementVisible = 50;
+					if (elementTop < windowHeight - elementVisible) {
+					  reveals[i].classList.add("active");
+					} else {
+					  reveals[i].classList.remove("active");
+					}
+				}
+			/*var revealsFooter = document.querySelectorAll(".reveal-footer");
+				var fixed = document.querySelectorAll(".fixed");
+				
+				for (var i = 0; i < revealsFooter.length; i++) {
+					var windowHeight = window.innerHeight;
+					var elementTop = revealsFooter[i].getBoundingClientRect().top;
+					var elementVisible = 50;
+					if (elementTop < windowHeight - elementVisible) {
+					  modal.style.display = "none";
+					  fixed[i].classList.remove("hide");
+					  fixed[i].classList.add("flip-img");
+					} else {
+					  fixed[i].classList.add("hide");
+					}
+				} */
+			}
+			
+			function revealload() {
+				var reveals = document.querySelectorAll(".revealmenu");
+				for (var i = 0; i < reveals.length; i++) {
+					var windowHeight = window.innerHeight;
+					var elementTop = reveals[i].getBoundingClientRect().top;
+					var elementVisible = 150;
+					if (elementTop < windowHeight - elementVisible) {
+					  reveals[i].classList.add("active");
+					} else {
+					  reveals[i].classList.remove("active");
+					}
+				}
+			}
+			function ShowSocialMediaIcon() {
+				var element = document.getElementById("socialnetworkicons");
+				element.classList.remove("hide");
+				//element.classList.add("move-img-top");
+				var shwbtn = document.getElementById("showbutton");
+				shwbtn.classList.add("hide");
+				var closebtn = document.getElementById("closebutton");
+				closebtn.classList.remove("hide");
+			}
+			function HideSocialMediaIcon() {
+				var element = document.getElementById("socialnetworkicons");
+				element.classList.add("hide");
+				var shwbtn = document.getElementById("closebutton");
+				shwbtn.classList.add("hide");
+				var closebtn = document.getElementById("showbutton");
+				closebtn.classList.remove("hide");
+			}
+			var txt = document.getElementById("chatbot__submit").disabled;
+			window.addEventListener("scroll", reveal);
+			window.addEventListener("load", reveal);
+			window.addEventListener("load", revealload);
+		</script>
+	</body>
+</html>

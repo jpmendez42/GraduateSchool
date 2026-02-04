@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /search/
+Disallow: /*?*s=*
+Disallow: /?s=*
+
+# Sitemaps
+Sitemap: https://eleftherostypos.gr/sitemap_index.xml
+Sitemap: https://eleftherostypos.gr/sitemap_news.xml

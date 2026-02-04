@@ -1,0 +1,35 @@
+User-agent: *
+Disallow:/consolidate/system_support/
+Disallow:/consolidate/consulting_tool/
+Disallow:/consolidate/user_support/
+Disallow:/consolidate/ondemand/
+Disallow:/system_info/
+Disallow:/system/
+Disallow:/info/
+Disallow:/jishin/
+Disallow:/entry/
+Disallow:/media_library/consolidate/materials/
+Disallow:/media_library/consolidate/system_support/
+Disallow:/media_library/consolidate/consulting_tool/
+Disallow:/media_library/consolidate/user_support/
+Disallow:/media_library/consolidate/docs/
+Disallow:/media_library/20161221bank/
+Disallow:/media_library/system_info/
+Disallow:/media_library/system/
+Disallow:/media_library/fx4/ondemand/
+Disallow:/media_library/info/
+Disallow:/media_library/entry/
+Disallow:/media_library/tokyo-toshin/docs/05_2016147.pdf
+Disallow:/media_library/tokyo-chuo/docs/dl/
+Disallow:/media_library/jishin/
+Disallow:/media_library/recruit_new/docs/
+Disallow:/media_library/ao/docs/
+Disallow:/media_library/lg/docs/
+Disallow:/media_library/lp/ebooks-invoice/docs/
+Disallow:/media_library/fx/shokai/docs/
+Disallow:/media_library/kiyaku/docs/
+Allow:/system/spec/
+Disallow:/qssearch.jsp
+
+User-agent: *
+Crawl-delay:30

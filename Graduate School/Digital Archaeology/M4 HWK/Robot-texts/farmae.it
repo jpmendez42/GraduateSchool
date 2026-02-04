@@ -1,0 +1,116 @@
+User-agent: *
+
+# Filtri
+Disallow: /*product_list_order=*
+Disallow: /*price=*
+Disallow: *product_list_dir=* #ordinamento dei listati asc/dis
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /*?mode*
+Disallow: /*--*
+
+# Ricerca interna
+Disallow: /catalogsearch/result/
+Allow: /catalogsearch/result/?q=cardio*
+Allow: /catalogsearch/result/?q=collirio*
+Allow: /catalogsearch/result/?q=Cortison*
+Allow: /catalogsearch/result/?q=Crack*
+Allow: /catalogsearch/result/?q=crema*
+Allow: /catalogsearch/result/?q=daflon*
+Allow: /catalogsearch/result/?q=Fermenti*
+Allow: /catalogsearch/result/?q=gentalyn*
+Allow: /catalogsearch/result/?q=gentamicina*
+Allow: /catalogsearch/result/?q=latte*
+Allow: /catalogsearch/result/?q=nasonex*
+Allow: /catalogsearch/result/?q=Nicetile*
+Allow: /catalogsearch/result/?q=Pantoprazolo*
+Allow: /catalogsearch/result/?q=Peridon*
+Allow: /catalogsearch/result/?q=permixon*
+Allow: /catalogsearch/result/?q=prisma*
+Allow: /catalogsearch/result/?q=sciroppo*
+Allow: /catalogsearch/result/?q=tachipirina*
+Allow: /catalogsearch/result/?q=vitamina*
+Allow: /catalogsearch/result/index/?q=cardotek*
+Allow: /catalogsearch/result/?q=acido*
+Allow: /catalogsearch/result/?q=antiparassitario*
+Allow: /catalogsearch/result/?q=bustine*
+Allow: /catalogsearch/result/?q=caduta*
+Allow: /catalogsearch/result/?q=fluimucil*
+
+# Paths (no clean URLs)
+Disallow: /*?SID
+Disallow: *\\*
+Disallow: /index.php/
+Disallow: /LICENSE.txt
+Disallow: /LICENSE.html
+
+# Directories
+Disallow: */customer/*
+Disallow: */checkout/*
+Disallow: */onestepcheckout/*
+Disallow: */wishlist/*
+Disallow: */sendfriend/*
+Disallow: */nds/*
+Disallow: /admin/
+Disallow: /review/product/
+Disallow: /skin/
+Disallow: /directory/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+
+#Blocking CMS directories.
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+
+#Blocco SEO Mar 2022
+Disallow: /*/prodotti?ditta=*
+Disallow: /*/shopby?brand=*
+Disallow: /*/shopby?ditta=*
+Disallow: */prodotti?ditta=*
+Disallow: */shopby?brand=*
+Disallow: */shopby?ditta=*
+
+# Indicazione del path delle sitemap XML
+Sitemap: https://www.farmae.it/media/sitemap_product.xml
+Sitemap: https://www.farmae.it/media/sitemap_category.xml
+Sitemap: https://www.farmae.it/media/sitemap_additional_link.xml
+Sitemap: https://www.farmae.it/media/sitemap_other.xml
+Sitemap: https://www.farmae.it/media/sitemap_cms.xml
+
+# Blocco bot meno importanti
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+# Delay bot necessari
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-Delay: 10
+
+User-agent: Pingdom
+Crawl-delay: 10
+
+User-agent: Didomi
+Crawl-delay: 10
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: DataForSeoBot
+Crawl-delay: 10

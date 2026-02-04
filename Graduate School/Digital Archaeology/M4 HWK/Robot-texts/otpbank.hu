@@ -1,0 +1,40 @@
+
+User-agent: *
+Disallow: /orsi/
+Disallow: /fiak/
+Disallow: /mobiltarca/
+Disallow: /otp_kartya/
+Disallow: /otp_paba_admin/
+Disallow: /otp_szamla_admin/
+Disallow: /otp_partner_admin/
+Disallow: /smartbroker/
+Disallow: /xmascard/
+Disallow: /smartbank/
+Disallow: /smartbankkampany/
+Disallow: /otpalapkezelo/do/
+Disallow: /email/
+Disallow: /callback/
+Disallow: /OTP_JZB/
+Disallow: /partner/
+Disallow: /notification/
+Disallow: /eventreg/
+Disallow: /activescript/
+Disallow: /takarekossagivilagnap/
+Disallow: /tvn/
+Disallow: /eszigno/
+Disallow: /kozgyules/
+Disallow: /chat2/
+Disallow: /gtm/
+Disallow: /portal/hu/*.html$
+Disallow: /portal/en/*.html$
+
+
+Sitemap: https://www.otpbank.hu/portal_sitemap.xml
+Sitemap: https://www.otpbank.hu/adomanyozas/adomanyozas_sitemap.xml
+Sitemap: https://www.otpbank.hu/karrier/karrier_sitemap.xml
+Sitemap: https://www.otpbank.hu/kiemeltprivatbank/kiemeltprivatbank_sitemap.xml
+Sitemap: https://www.otpbank.hu/lakastakarek/lakastakarek_sitemap.xml
+Sitemap: https://www.otpbank.hu/privatbank/privatbank_sitemap.xml
+Sitemap: https://www.otpbank.hu/otpjelzalogbank/otpjelzalogbank_sitemap.xml
+Sitemap: https://www.otpbank.hu/globalmarkets/sitemap.xml
+Sitemap: https://www.otpbank.hu/bankoljtudatosan/sitemap.xml

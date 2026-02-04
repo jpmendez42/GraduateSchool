@@ -1,0 +1,110 @@
+#
+User-agent: *
+Crawl-delay: 10
+#
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /hallinta
+Disallow: /*SID=
+Disallow: /*queryID=
+Disallow: /static/
+#
+## Do not crawl sub category pages that are sorted or filtered
+Disallow: /?dir
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /?mode
+#
+Disallow: /*?*product_list_mode=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+#
+## Do not crawl catalog search pages
+Disallow: /catalogsearch/
+#
+User-agent: Googlebot
+Crawl-delay: 10
+#
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /hallinta
+Disallow: /*SID=
+#
+## Do not crawl sub category pages that are sorted or filtered
+Disallow: /?dir
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /?mode
+#
+Disallow: /*?*product_list_mode=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+#
+## Do not crawl catalog search pages
+Disallow: /catalogsearch/
+#
+User-agent: Googlebot-image
+Crawl-delay: 10
+#
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /hallinta
+Disallow: /*SID=
+#
+## Do not crawl sub category pages that are sorted or filtered
+Disallow: /?dir
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /?mode
+#
+Disallow: /*?*product_list_mode=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+#
+## Do not crawl catalog search pages
+Disallow: /catalogsearch/
+#
+User-agent: Prerender
+#
+## Hide cookie banner
+Disallow: /policy.app.cookieinformation.com/uc.js
+
+
+Sitemap: https://www.puuilo.fi/media/sitemap/fi_sitemap.xml
+

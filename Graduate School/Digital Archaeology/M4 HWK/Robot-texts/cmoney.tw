@@ -1,0 +1,29 @@
+User-agent: *
+Allow:/ 
+Disallow: /cashflow/
+Disallow: /notes/onlynotecontent.aspx
+Disallow: /vt/account-profile-info.aspx
+Disallow: /identity/
+Disallow: /member/
+Allow: /member/privacy.aspx
+Allow: /member/tos.aspx
+Allow: /identity/account
+
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/notelist_aid_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/notelist_blog_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/notelist_ca_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/notelist_tag_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/notenewsarticle_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/Notes_1.txt
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/notesinglearticle_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/app_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/finance_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/Pushing/learnNewSingleArticle_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/Pushing/learnCourseList_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/vtnewaccountprofile_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/vtnewgameinfo_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/vtstockrank_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/Pushing/usfinance_1.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/Pushing/usfinance_2.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/Pushing/usfinance_3.xml
+Sitemap:https://fsv.cmoney.tw/cmstatic/pushing/createarticle_rss.xml

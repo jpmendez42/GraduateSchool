@@ -1,0 +1,214 @@
+# Crawlers Setup
+
+# All crawlers
+
+User-agent: *
+
+# Allow parameters
+Allow: /*?*p=
+Allow: /*?*page=
+
+# Internal search and filtered parameters
+Disallow: /elasticsuite_cms/
+Disallow: /searchanise/
+Disallow: /catalogsearch/
+Disallow: /catalogsearch/result/
+Disallow: /*?*rb_price=
+Disallow: /*?*rb_categories=
+Disallow: /*?*rb_size=
+Disallow: /*?*rb_color=
+Disallow: /*?*price=
+Disallow: /*?*categories=
+Disallow: /*?*size=
+Disallow: /*?*color=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_mode=
+Disallow: /*?*dir=
+Disallow: /*?*order=
+Disallow: /*?*limit=
+Disallow: /*?*mode=
+Disallow: /*?*in-stock=
+Disallow: /*?*klikk-hent=
+Disallow: /*?*cat=
+Disallow: /*?*id=
+
+# Directories
+Disallow: /404/
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /magento/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /scripts/
+Disallow: /shell/
+Disallow: /skin/
+Disallow: /stats/
+Disallow: /var/
+
+# Paths (clean URLs)
+# Disallow: /checkout/
+# Disallow: /cart/
+Disallow: /customer/
+Disallow: /customerlogin/
+Disallow: /customerregistration/
+Disallow: /wishlist/
+Disallow: /mer/
+Disallow: /login/
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product/gallery/
+Disallow: /control/
+Disallow: /contacts/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+
+# Paths (no clean URLs)
+#Disallow: /*.js$
+#Disallow: /*.css$
+Disallow: /*.php$
+Disallow: /*?SID=
+
+# Files
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+
+sitemap: https://www.europris.no/media/sitemap/sitemap.xml
+sitemap: https://www.europris.no/pub/media/sitemap/sitemap.xml
+
+
+# Specific crawlers
+
+User-agent: Googlebot
+User-agent: Googlebot Smartphone
+User-agent: Googlebot Desktop
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+User-agent: StoreBot
+User-agent: Storebot-Google
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+User-agent: Google-Read-Aloud
+User-agent: GoogleOther
+User-agent: Applebot
+User-agent: Bingbot
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-Web
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Bytespider
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+
+# Allow parameters
+Allow: /*?*p=
+Allow: /*?*page=
+
+# Internal search and filtered parameters
+Disallow: /elasticsuite_cms/
+Disallow: /searchanise/
+Disallow: /catalogsearch/
+Disallow: /catalogsearch/result/
+Disallow: /*?*rb_price=
+Disallow: /*?*rb_categories=
+Disallow: /*?*rb_size=
+Disallow: /*?*rb_color=
+Disallow: /*?*price=
+Disallow: /*?*categories=
+Disallow: /*?*size=
+Disallow: /*?*color=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_mode=
+Disallow: /*?*dir=
+Disallow: /*?*order=
+Disallow: /*?*limit=
+Disallow: /*?*mode=
+Disallow: /*?*in-stock=
+Disallow: /*?*klikk-hent=
+Disallow: /*?*cat=
+Disallow: /*?*id=
+
+# Directories
+Disallow: /404/
+Disallow: /app/
+Disallow: /cgi-bin/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /magento/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /scripts/
+Disallow: /shell/
+Disallow: /skin/
+Disallow: /stats/
+Disallow: /var/
+
+# Paths (clean URLs)
+# Disallow: /checkout/
+# Disallow: /cart/
+Disallow: /customer/
+Disallow: /customerlogin/
+Disallow: /customerregistration/
+Disallow: /wishlist/
+Disallow: /mer/
+Disallow: /login/
+Disallow: /index.php/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product/gallery/
+Disallow: /control/
+Disallow: /contacts/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+
+# Paths (no clean URLs)
+#Disallow: /*.js$
+#Disallow: /*.css$
+Disallow: /*.php$
+Disallow: /*?SID=
+
+# Files
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /STATUS.txt
+
+sitemap: https://www.europris.no/media/sitemap/sitemap.xml
+sitemap: https://www.europris.no/pub/media/sitemap/sitemap.xml
+Sitemap: https://www.europris.no/pub/media/sitemap/sitemap.xml

@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/obflink//script/obflink.js
+Disallow: /*?s=
+Disallow: /search/
+Disallow: /page/*/?s=
+Allow: /wp-admin/admin-ajax.php
+Disallow: /cdn-cgi/
+
+User-agent: ia_archiver
+Disallow: /

@@ -1,0 +1,5 @@
+     User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /DE/Services-GSB/
+Disallow: /EN/Service/
+Crawl-delay: 10 

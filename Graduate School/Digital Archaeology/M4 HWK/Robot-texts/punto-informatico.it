@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /wp-json/
+Disallow: /wp-admin/
+
+Sitemap: https://www.punto-informatico.it/sitemap.xml
+Sitemap: https://www.punto-informatico.it/news-sitemap.xml
+
+User-agent: *
+Allow: /
+
+User-agent: grapeshot
+Disallow:

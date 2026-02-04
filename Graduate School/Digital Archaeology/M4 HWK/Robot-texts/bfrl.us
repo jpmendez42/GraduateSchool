@@ -1,0 +1,6 @@
+﻿User-agent: *
+Disallow: /
+
+# need to be explicit, may be capitalization
+user-agent: AhrefsBot
+disallow: /

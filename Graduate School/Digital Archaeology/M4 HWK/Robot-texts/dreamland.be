@@ -1,0 +1,71 @@
+User-agent: UbiCrawler
+User-agent: PetalBot
+User-agent: SentiBot
+User-agent: magpie-crawler
+User-agent: Bytespider
+User-agent: k2spider
+User-agent: grub-client
+User-Agent: DeepCrawl
+User-Agent: SearchmetricsBot
+User-agent: Baiduspider
+User-agent: Baiduspider-image
+User-agent: Baiduspider-video
+User-agent: Yandex
+User-agent: YandexBot
+User-agent: rogerbot
+User-agent: dotbot
+User-agent: omgili
+User-agent: Slurp
+User-agent: Spinn3r
+User-agent: DOC
+User-agent: Zao
+User-agent: WebCopier
+User-agent: WebStripper
+User-agent: SiteSnagger
+User-agent: MSIECrawler
+User-agent: Zealbot
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: WebZIP
+User-agent: linko
+User-agent: HTTrack
+User-agent: Xenu
+User-agent: larbin
+User-agent: libwww
+User-agent: ZyBORG
+User-agent: Download Ninja
+User-agent: NPBot
+User-agent: WebReaper
+Disallow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dreamland.be/sitemap/DREV/sitemap_index.xml
+Sitemap: https://www.dreamland.be/sitemap/DREW/sitemap_index.xml
+
+Disallow: /zoeken/producten*
+Disallow: /recherche/produits*
+Disallow: /nl/zoeken/producten*
+Disallow: /fr/recherche/produits*
+Disallow: /zoeken/paginas*
+Disallow: /recherche/pages*
+Disallow: /nl/zoeken/paginas*
+Disallow: /fr/recherche/pages*
+
+Disallow: /producten?*
+Disallow: /nl/producten?*
+Disallow: /fr/produits?*
+Allow: /producten?page=*
+Allow: /nl/producten?page=*
+Allow: /fr/produits?page=*
+Disallow: /producten?page=*&*
+Disallow: /nl/producten?page=*&*
+Disallow: /fr/produits?page=*&*
+
+Disallow: /mijn-account/*
+Disallow: /nl/mijn-account/*
+Disallow: /fr/mon-compte/*
+Disallow: /mijn-account$
+Disallow: /nl/mijn-account$
+Disallow: /fr/mon-compte$

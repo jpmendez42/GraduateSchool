@@ -1,0 +1,13 @@
+# EXCEPTION: Allow Facebook crawler
+User-agent: facebookexternalhit
+Allow: /
+
+# Allow Twitter card bot if needed
+User-agent: Twitterbot
+Allow: /
+
+# Allow sitemap to be read
+User-agent: *
+Allow: /sitemap.xml
+
+Sitemap: https://duth.gr/sitemap.xml

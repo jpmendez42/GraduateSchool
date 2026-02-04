@@ -1,0 +1,42 @@
+User-agent: Mediapartners-Google 
+Disallow:
+
+User-agent: DiamondBot
+User-agent: MJ12bot
+User-agent: naver
+User-Agent: NPBot
+User-Agent: abot
+User-Agent: OmniWeb
+User-agent: psbot
+User-Agent: vspider
+Disallow: /
+
+User-agent: Mozilla
+Disallow: /
+
+User-agent: mozilla
+Disallow: /
+
+User-agent: mozilla/3
+Disallow: /
+
+User-agent: mozilla/4
+Disallow: /
+
+User-agent: mozilla/5
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows NT)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 95)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 98)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows XP)
+Disallow: /
+
+User-agent: Mozilla/4.0 (compatible; MSIE 4.0; Windows 2000)
+Disallow: /

@@ -1,0 +1,45 @@
+# robots.txt
+# Diese Verzeichnisse sollen nicht durchsucht werden
+
+User-agent:*
+Disallow: /META-INF/
+Disallow: /WEB-INF/
+Disallow: /cps/
+Disallow: /de/addToCart
+Disallow: /classic/
+Disallow: /de/detailseiten/
+Disallow: /specials/
+Disallow: /fm/
+Disallow: /de/karriere/Job
+Disallow: /viamedici/foren/
+Disallow: /wp-login.php
+Disallow: /medizinjobs/
+Disallow: /de/ebooklibrary/
+Disallow: /medias/sys_master/
+Disallow: /webslides/
+Disallow: /cmscockpit/
+Disallow: /de/SID-
+Disallow: /en/SID-
+Disallow: /sonderseiten/
+Disallow: /de/test/
+Disallow: /en/test/
+
+
+User-agent: SearchmetricsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Bleriot
+User-agent: Qwantify
+Disallow: /
+
+User-agent: Jobkicks
+Disallow: /
+
+User-agent: trendkite-akashic-crawler
+Disallow: /
+
+ 
+ 

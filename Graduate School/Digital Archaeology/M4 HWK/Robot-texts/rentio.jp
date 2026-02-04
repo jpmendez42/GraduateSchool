@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /cart
+Disallow: /recently_viewed_products
+Disallow: /users/amazon_sign_in
+Disallow: /matome/page-data/
+Disallow: /variants/
+Disallow: /products
+Allow: /products/
+
+User-agent: ClaudeBot
+Crawl-delay: 1
+Disallow: /t/
+
+User-agent: MJ12bot
+User-agent: Megalodon
+User-agent: ia_archiver
+User-agent: BLEXBot
+User-agent: Datanyze
+User-agent: MegaIndex
+User-agent: trendictionbot
+Disallow: /
+
+Sitemap: https://www.rentio.jp/sitemaps/sitemap.xml.gz
+Sitemap: https://www.rentio.jp/matome/sitemap_index.xml

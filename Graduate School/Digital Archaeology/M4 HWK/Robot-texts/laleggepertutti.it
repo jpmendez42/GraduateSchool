@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /tool/
+Disallow: /display/
+Disallow: /xhprof_html/
+Sitemap: http://www.laleggepertutti.it/sitemap.xml
+
+User-agent: msnbot
+Crawl-delay: 1
+
+User-agent: bingbot
+Crawl-delay: 1
+
+User-agent: slurp
+Crawl-delay: 1
+
+User-agent: grapeshot
+Disallow:
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+

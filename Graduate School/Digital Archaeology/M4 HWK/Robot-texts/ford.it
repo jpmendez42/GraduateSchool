@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+Disallow:*/content/overlays/*
+Disallow:*/content/error-pages/*
+Disallow:*/content/forms/*
+Disallow:*/content/guxeu/it/it_it/site-wide-content/*
+Disallow:*/assistenza/la-mia-auto/prenota-tagliando/*
+Disallow:*/guida-allacquisto/scegli-la-tua-ford/usato-certificato/veicoli-commerciali/risultati/vehicle-detail
+Disallow:*/guida-allacquisto/scegli-la-tua-ford/usato-certificato/risultati-della-ricerca/dettagli-de-veicolo
+Disallow:*/finanziamenti/il-mio-account-ford-credit/terms-and-conditions/*
+Disallow:*/offer-*
+Disallow:*/forms*
+Disallow:*/search*
+Disallow:*/dashboard/*
+
+Sitemap:https://www.ford.it/sitemap.xml

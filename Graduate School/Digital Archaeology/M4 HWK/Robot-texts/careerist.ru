@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /scr/
+Disallow: /admin*
+Disallow: /?cvId=*
+Disallow: /*sort_mode*
+Disallow: /*resumeID=*
+Disallow: /*returnUrl=*
+
+User-agent: Yandex
+Crawl-delay: 0.5
+Disallow: /scr/
+Disallow: /admin*
+Disallow: /?cvId=*
+Disallow: /*sort_mode*
+Disallow: /*resumeID=*
+Disallow: /*returnUrl=*
+Disallow: /amp/*
+
+Clean-param: utm_source&utm_medium&utm_content&utm_campaign&utm_term
+
+Host: https://careerist.ru
+Sitemap: https://careerist.ru/sitemap.xml

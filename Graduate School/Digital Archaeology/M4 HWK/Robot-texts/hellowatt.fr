@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /souscription/compte/
+Disallow: /motdepasse/
+Disallow: /account/
+Disallow: *multistage-invalidate-cache
+Disallow: *from_amp
+Disallow: *price=
+Disallow: *?amp-content=amp

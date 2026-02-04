@@ -1,0 +1,9 @@
+# robots.txt zu https://www.mynet.at/ 
+
+User-agent: *
+Disallow: /service/impressum
+Disallow: /service/datenschutz
+Disallow: /company/team
+Disallow: /intern
+Disallow: /dsgvo
+

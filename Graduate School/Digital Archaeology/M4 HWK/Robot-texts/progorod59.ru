@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /advert/clickBanner.php
+Disallow: /profile/
+Disallow: /gallery/
+Disallow: /ads/
+Disallow: /cc/
+Clean-param: amp_lite
+Clean-param: PageSpeed
+Host: https://progorod59.ru
+Sitemap: https://progorod59.ru/sitemap.xml
+Sitemap: https://progorod59.ru/sitemap-index.xml
+Clean-param: amp_lite

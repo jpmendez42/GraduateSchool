@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ecentral.my/sitemap_index.xml
+
+User-agent: grapeshot
+Disallow:

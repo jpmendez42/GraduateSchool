@@ -1,0 +1,23 @@
+Sitemap: https://www.lotterien.at/sitemap.xml
+
+User-agent: *
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*
+Disallow: /*cHash
+Disallow: /*tx_form_formframework
+
+# temporary allows
+Allow: /pressemitteilung*cHash
+Allow: /en/press-release*cHash
+Allow: /annahmestellen*cHash
+
+# explicit allow for sitemap urls
+Allow: /?sitemap=pages&type=1533906435&cHash=76353e6f04a73038f16a17e2482e4fe2
+Allow: /?sitemap=news&type=1533906435&cHash=6dc19f1f50d1fe94af274515e9a2d0d3

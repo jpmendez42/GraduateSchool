@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cron/
+Disallow: /newsletter/
+Disallow: /ajax/
+Disallow: /photo/article/
+Disallow: /photo/theque/
+
+Sitemap: https://www.autonews.fr/sitemap.xml

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /media/cache
+Disallow: /leave*
+Disallow: /create/
+Disallow: /redir*
+Disallow: /login*
+Disallow: /report/
+Disallow: /cdn-cgi/rum
+
+# Allow the Grapeshot crawler full access
+User-agent: grapeshot
+Disallow:

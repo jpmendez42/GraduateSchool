@@ -1,0 +1,151 @@
+
+
+User-agent: ClaudeBot
+Crawl-delay: 1
+
+User-agent: Pinterestbot
+Crawl-delay: 1
+
+User-agent: *
+
+# Allowed resources
+
+Allow: /INTERSHOP/static/WFS/*/*/*/*/css/
+Allow: /INTERSHOP/static/WFS/*/*/*/*/js/adobe/
+Allow: /INTERSHOP/static/WFS/*/*/*/*/js/vendor/
+Allow: /INTERSHOP/static/WFS/*/*/*/*/minifiedJs/
+
+# Block crawl on directories
+
+Disallow: /api/
+Disallow: /apm/
+Disallow: /b/
+Disallow: /brand/-/
+Disallow: /campaign/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /co/
+Disallow: /deals/
+Disallow: /DetailPages/
+Disallow: /dist/
+Disallow: /INTERSHOP/
+Disallow: /ListPage/
+Disallow: /LoginAndRegistration/
+Disallow: /search/
+
+# Block crawl on bad URLS
+
+Disallow: /1*.htm
+Disallow: /2*.htm
+Disallow: /3*.htm
+Disallow: /4*.htm
+Disallow: /5*.htm
+Disallow: /6*.htm
+Disallow: /7*.htm
+Disallow: /8*.htm
+Disallow: /9*.htm
+Disallow: /login*
+Disallow: /search*
+Disallow: */https://*
+
+# Block crawl on closed facets URLS
+
+Disallow: *_0
+
+# Block crawl on review URLS
+
+Disallow: /*write-review
+
+# Block crawl on specific URLS
+
+Disallow: /complete-product-listing
+
+# Filtering parameters handling
+# Block Google crawl on filtering parameters
+# Prevent Google crawl (and indexation) on PLPs
+
+Disallow: *brand=*
+Disallow: *brands=*
+Disallow: *bedType=*
+Disallow: *bedTypes=*
+Disallow: *carpetType=*
+Disallow: *carpetTypes=*
+Disallow: *category=*
+Disallow: *color=*
+Disallow: *colors=*
+Disallow: *depth=*
+Disallow: *depths=*
+Disallow: *depthMax=*
+Disallow: *depthsMax=*
+Disallow: *filter=*
+Disallow: *filters=*
+Disallow: *function=*
+Disallow: *functions=*
+Disallow: *height=*
+Disallow: *heights=*
+Disallow: *heightMax=*
+Disallow: *heightsMax=*
+Disallow: *length=*
+Disallow: *lengths=*
+Disallow: *lengthMax=*
+Disallow: *lengthsMax=*
+Disallow: *material=*
+Disallow: *materials=*
+Disallow: *shape=*
+Disallow: *shapes=*
+Disallow: *size=*
+Disallow: *sizes=*
+Disallow: *spannedPrice=*
+Disallow: *spannedPrices=*
+Disallow: *spannedPriceMax=*
+Disallow: *spannedPricesMax=*
+Disallow: *width=*
+Disallow: *widths=*
+Disallow: *widthMax=*
+Disallow: *widthsMax=*
+
+# Sorting parameters handling
+# Block Google crawl on sorting parameters
+
+Disallow: *sort=*
+
+# Searching parameters handling
+# Block Google crawl on searching parameters
+
+Disallow: *term=*
+Disallow: *SearchTerm=*
+
+# Tracking parameters handling
+# Block Google crawl on tracking parameters
+
+Disallow: *basketoffer=*
+Disallow: *CATF*
+Disallow: *dclid=*
+Disallow: *Ellos_ApplyPromotion=*
+Disallow: *Ellos_TrackingPageId=*
+Disallow: *extcmp=*
+Disallow: *fbclid=*
+Disallow: *gclid=*
+Disallow: *gclsrc=*
+Disallow: *intsrc=*
+Disallow: *LGWCODE=*
+
+# Other parameters handling
+# Block Google crawl on other parameters
+
+Disallow: *energy=*
+Disallow: *?n=*
+Disallow: *N=*
+Disallow: *ns=*
+Disallow: *Ns=*
+Disallow: *NS=*
+Disallow: *nao=*
+Disallow: *Nao=*
+Disallow: *selart=*
+Disallow: *selArt=*
+
+
+
+
+# Link to the sitemaps files
+Sitemap: https://www.ellos.se/sitemap/sitemap.xml

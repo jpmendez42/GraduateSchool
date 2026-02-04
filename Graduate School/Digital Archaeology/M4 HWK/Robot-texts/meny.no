@@ -1,0 +1,17 @@
+Sitemap: https://meny.no/sitemap.xml
+
+User-agent: *
+Disallow: /Api/
+Disallow: /api/
+Disallow: /WsMaintenanceMessage
+Disallow: /nettbutikk-sok
+Disallow: /sok
+Disallow: /*?utm_source=*
+Disallow: /*?gclid*
+Disallow: /*?allergens=*
+Disallow: /*?offersonly=*
+Disallow: /*?pagenr=*
+Disallow: /*agrecid=*
+Disallow: /*?sort=*
+Disallow: /*?sort=*
+Disallow: /varer//*

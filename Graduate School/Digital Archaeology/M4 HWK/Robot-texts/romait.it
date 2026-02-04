@@ -1,0 +1,16 @@
+User-Agent: *
+Allow:/
+Disallow: /wp-admin/
+Disallow:*/print
+Disallow: /404-redirection/*.php
+Disallow: /advblocks/
+Disallow: /wp-json/wordpress-popular-posts/v1/popular-posts 
+
+User-Agent: Googlebot
+Disallow: *?amp
+Disallow: *?sticky=
+Disallow: *?filter_by=
+Disallow: *?fbclid=
+Disallow: *?site_version=
+
+Sitemap: https://www.romait.it/sitemap_index.xml

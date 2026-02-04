@@ -1,0 +1,41 @@
+User-Agent: *
+Disallow: /faktura/*
+Disallow: /svenskalag-se/*
+Disallow: /dokument/*
+Disallow: /invoice/*
+Disallow: /rss/*
+Disallow: /spk/
+Disallow: /teamdata/files/*
+Disallow: /*/znvy/*
+Disallow: /*/dokument/*
+Disallow: /svenskalag/*
+Disallow: /bloggen/*
+Disallow: /*/version/desktop
+
+# http://www.majestic12.co.uk/projects/dsearch/mj12bot.php
+User-agent: MJ12bot
+Disallow: /
+
+# https://megaindex.com/crawler
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaindex.com
+Disallow: /
+
+# Backlink Analysis
+user-agent: AhrefsBot
+disallow: /
+
+# https://www.semrush.com/bot/
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+# http://www.opensiteexplorer.org/dotbot
+User-agent: DotBot
+Disallow: /
+User-agent: dotbot
+Disallow: /

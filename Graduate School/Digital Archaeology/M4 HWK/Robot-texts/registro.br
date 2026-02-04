@@ -1,0 +1,43 @@
+User-agent: *
+Allow: /cgi-bin/whois/$
+Allow: /2/whois$
+Disallow: /2/
+Disallow: /cgi-bin/
+Disallow: /fcgi-bin/
+Disallow: /b/
+Disallow: /B/
+Disallow: /rnw/
+Disallow: /RNW/
+Disallow: /id/
+Disallow: /idup/
+Disallow: /ext/
+Disallow: /extl/
+Disallow: /nfe/
+Disallow: /pw/
+Disallow: /r/
+Disallow: /R/
+Disallow: /fat/
+Disallow: /FAT/
+Disallow: /trig/
+Disallow: /TRIG/
+Disallow: /painel/
+Allow:/noticias/$
+Disallow:/noticias/
+Allow:/ajuda/registro-de-novos-dominios/$
+Disallow:/ajuda/registro-de-novos-dominios/
+Allow:/ajuda/pagamento-de-dominio/$
+Disallow:/ajuda/pagamento-de-dominio/
+Allow:/ajuda/gerenciamento-de-conta/$
+Disallow:/ajuda/gerenciamento-de-conta/
+Allow:/ajuda/problemas-para-acessar-a-conta/$
+Disallow:/ajuda/problemas-para-acessar-a-conta/
+Allow:/ajuda/tutoriais-administrativos/$
+Disallow:/ajuda/tutoriais-administrativos/
+Allow:/tecnologia/numeracao/faq/$
+Disallow:/tecnologia/numeracao/faq/
+Allow: /tecnologia/provedores-de-hospedagem/epp/$
+Disallow: /tecnologia/provedores-de-hospedagem/epp/
+Allow: /tecnologia/provedores-de-hospedagem/dnsshim/$
+Disallow: /tecnologia/provedores-de-hospedagem/dnsshim/
+Allow: /tecnologia/provedores-de-hospedagem/disponibilidade-de-dominios/$
+Disallow: /tecnologia/provedores-de-hospedagem/disponibilidade-de-dominios/

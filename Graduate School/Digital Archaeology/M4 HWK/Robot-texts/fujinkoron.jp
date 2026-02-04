@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://fujinkoron.jp/sitemap.xml
+Allow: /
+Disallow: /auth/
+Disallow: /list/sitepolicy?_ptid

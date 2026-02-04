@@ -1,0 +1,8 @@
+
+User-agent: *
+Disallow: /konto/
+Disallow: /spel/
+Disallow: /kod/*
+Disallow: /ratta/*
+Disallow: /preview/
+Sitemap: https://www.atg.se/sitemap.xml

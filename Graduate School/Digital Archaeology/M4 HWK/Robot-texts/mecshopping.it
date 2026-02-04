@@ -1,0 +1,45 @@
+User-agent: *
+Disallow: /catalog_
+Disallow: /*search=
+Disallow: /wishlist
+Disallow: /*t=inc
+Disallow: /customeradd
+Disallow: /customerlogin
+Disallow: /cartview
+Disallow: *t_id=*
+Disallow: *b_id=*
+Disallow: *f_id=*
+Disallow: *l_id=*
+Disallow: *z_id=*
+Disallow: *ab_id=*
+Disallow: *ac_id=*
+Disallow: *ad_id=*
+Disallow: *ae_id=*
+Disallow: *aj_id=*
+Disallow: *an_id=*
+Disallow: *ao_id=*
+Disallow: *aq_id=*
+Disallow: *at_id=*
+Disallow: *abc_id=*
+Disallow: *abd_id=*
+Disallow: *abe_id=*
+Disallow: *abh_id=*
+Disallow: *sort=*
+
+User-agent: sistrix
+Disallow: /
+
+User-agent: SISTRIX Crawler
+Disallow: /
+
+User-agent: SISTRIX
+Disallow: /
+
+# Delay bot necessari
+User-agent: AhrefsBot
+Crawl-Delay: 10
+
+User-agent: SemrushBot
+Crawl-Delay: 10
+
+Sitemap: https://www.mecshopping.it/sitemap.xml

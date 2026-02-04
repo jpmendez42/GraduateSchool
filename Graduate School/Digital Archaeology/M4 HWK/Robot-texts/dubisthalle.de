@@ -1,0 +1,11 @@
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://dubisthalle.de/wp-sitemap.xml
+
+# Certain social media sites are whitelisted to allow crawlers to access page markup when links to /images are shared. 
+User-agent: Twitterbot
+Allow: /images
+
+User-agent: facebookexternalhit
+Allow: /

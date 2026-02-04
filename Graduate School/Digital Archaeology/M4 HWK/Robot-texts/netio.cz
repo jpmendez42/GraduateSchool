@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /cs/admin/
+Disallow: /cs/domain/order
+Disallow: /cs/domeny/order
+Allow: /
+Sitemap: https://www.netio.cz/sitemap.xml

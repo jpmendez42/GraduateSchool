@@ -1,0 +1,20 @@
+User-Agent: *
+Host: https://parts-soft.ru
+Disallow: /pages/*
+Disallow: /news/*
+Disallow: /*city
+Disallow: /*country
+Disallow: /*specialisation
+Disallow: /redirect*
+Disallow: /clients.html?city=*
+Allow: /*.html
+Disallow: /categories/docs.html
+Disallow: /categories/vozmozhnosti-sistemy/search.html
+Disallow: /categories/vozmozhnosti-sistemy/search.html*
+Disallow: *?amp&
+Disallow: *?ref=
+Disallow: *?region_id=
+Disallow: /*? 
+Clean-param: dmid&etext&bx_sender_conversion_id
+
+Sitemap: https://parts-soft.ru/system/sitemap.xml.gz

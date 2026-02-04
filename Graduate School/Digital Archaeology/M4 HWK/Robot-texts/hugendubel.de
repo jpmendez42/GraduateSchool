@@ -1,0 +1,19 @@
+User-agent: ia_archiver 
+Disallow: /
+
+User-agent: *
+Disallow: /de/shop/review
+Disallow: /de/account
+Disallow: /de/shoppingcart
+Disallow: /de/checkout
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
+
+Sitemap: https://www.hugendubel.de/product-sitemap.gz
+Sitemap: https://www.hugendubel.de/branch-sitemap.gz
+Sitemap: https://www.hugendubel.de/magazin-sitemap.gz

@@ -1,0 +1,11 @@
+User-agent: *
+Crawl-delay: 5
+Disallow: /ajax/
+Disallow: /ajax_pages/
+Disallow: /login.php
+Disallow: /email.php
+Disallow: /language.php
+Disallow: /privacy.php
+Disallow: /ajax.php
+Disallow: /impressum.php
+Disallow: /editImage.php

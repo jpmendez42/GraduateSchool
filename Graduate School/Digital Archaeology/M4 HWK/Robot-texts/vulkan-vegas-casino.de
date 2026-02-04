@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /wp-admin 
+Disallow: /wp-login.php 
+Disallow: /wp-register.php 
+Disallow: /xmlrpc.php 
+Disallow: /search 
+Disallow: */trackback/ 
+Disallow: */feed/ 
+Disallow: */feed 
+Disallow: */comments/ 
+Disallow: /?feed= 
+Disallow: /?wp-subscription-manager* 
+Disallow: */comment 
+Disallow: */attachment/* 
+Disallow: /wp-includes/
+Disallow: */page/*
+Disallow: /tag/*

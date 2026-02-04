@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: grapeshot
+Disallow:
+
+sitemap: https://www.biopianeta.it/sitemap.xml
+Sitemap: https://www.biopianeta.it/sitemap-news.xml
+
+User-agent: Mediapartners-Google
+Allow: /ads.txt

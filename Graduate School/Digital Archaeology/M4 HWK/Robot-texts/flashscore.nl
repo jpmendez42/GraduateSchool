@@ -1,0 +1,64 @@
+Sitemap: https://www.flashscore.nl/sitemap.xml
+
+User-agent: *
+Disallow: /stand/
+Disallow: /speelschema/
+Disallow: /newsfeed/
+Disallow: */x/js/browsercompatibility*.js
+
+User-agent: SmartViper
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /stand/
+Disallow: /speelschema/
+Disallow: /x/
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: DuckAssistBot
+Disallow: /
+
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: Kangaroo Bot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+

@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: /ajax/
+Disallow: /bitrix/
+Disallow: test5.php
+Disallow: yahoo-list1.txt
+Sitemap: https://russiancouncil.ru/sitemap_000.xml
+Host: https://russiancouncil.ru
+Sitemap: https://russiancouncil.ru/sitemap.xml
+Sitemap: https://russiancouncil.ru/en/sitemap.xml

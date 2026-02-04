@@ -1,0 +1,25 @@
+User-agent: *
+Clean-param: etext
+Clean-param: country
+Clean-param: mapType
+Clean-param: ReturnUrl
+Clean-param: q
+Disallow: /*?ReturnUrl=
+Disallow: /*?q=
+Disallow: /*?etext=
+Disallow: /*?country=
+Disallow: /*?mapType=
+Disallow: /*.pdf
+Disallow: /*.doc
+Disallow: /*xls/
+Disallow: /go/
+Disallow: /testo/
+Disallow: /im/
+Disallow: /*/book/
+Disallow: /guide/ukraine/
+Disallow: /kie/*
+Disallow: /ods/*
+Host: https://www.pac.ru
+
+User-agent: MJ12bot
+Disallow: /

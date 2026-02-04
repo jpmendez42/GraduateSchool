@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /nl/e-services/
+Disallow: /fr/e-services/
+Disallow: /en/e-services/
+Disallow: /nl/orange/
+Disallow: /fr/orange/
+Disallow: /en/orange/
+Disallow: /impersonate
+Disallow: /wp-admin

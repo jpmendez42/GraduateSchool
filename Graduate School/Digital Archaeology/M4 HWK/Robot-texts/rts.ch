@@ -1,0 +1,31 @@
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /a/
+Disallow: /article/
+Disallow: /embed/
+Disallow: /flux/
+Disallow: /g/
+Disallow: /hbv7/
+Disallow: /imports/
+Disallow: /medias/*/
+Disallow: /medias/*.html
+Disallow: /profile/
+Disallow: /rts-online/
+Disallow: /v/
+Disallow: /recherche/
+Disallow: /*/recherche/
+Disallow: /*/quel-titre/?d=*
+Disallow: /*/quel-titre/?date=*
+Disallow: /*/page/
+Disallow: /*?token=*
+Disallow: /*?*dm=
+Disallow: /*?*dh=
+Disallow: /*?*q=
+Disallow: /*?*page=
+Disallow: /*?*date=
+Disallow: /*?*lastDate=
+Disallow: /*?*rts_source=
+
+Sitemap: https://www.rts.ch/sitemaps/pages.xml

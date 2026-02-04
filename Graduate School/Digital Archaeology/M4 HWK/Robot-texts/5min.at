@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /wp-admin/
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.5min.at/news-sitemap.xml
+Sitemap: https://www.5min.at/wp-sitemap.xml
+
+Sitemap: https://www.5min.at/feed/rss_oesterreich/
+Sitemap: https://www.5min.at/feed/rss_villach/
+Sitemap: https://www.5min.at/feed/rss_klagenfurt/
+Sitemap: https://www.5min.at/feed/rss_kaernten/
+Sitemap: https://www.5min.at/feed/rss_graz/
+Sitemap: https://www.5min.at/feed/rss_steiermark/
+Sitemap: https://www.5min.at/feed/rss_wien/

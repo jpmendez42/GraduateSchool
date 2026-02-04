@@ -1,0 +1,45 @@
+Host: aukro.cz
+
+# Sitemaps
+Sitemap: https://cdn.aukro.cz/sitemaps/cs-cz/sitemap.xml
+Sitemap: https://cdn.aukro.cz/sitemaps/cs-cz/sitemapimages.xml
+
+
+# Other bots
+User-Agent: *
+
+Disallow: /registrace*
+Disallow: /overeni-uctu
+Disallow: /zapomenute-heslo*
+Disallow: /reset-hesla
+Disallow: /kosik
+Disallow: /kosik/*
+Disallow: /moje-aukro*
+Disallow: /rozhodnuti-vraceni-provize
+Disallow: /zacit-konverzaci*
+Disallow: /blaznive-ceny-interni
+Disallow: /mali-novi-prodejci
+Disallow: /nabidky-s-apv
+Disallow: /zhave-aukce*
+Disallow: /nove-nabidky*
+Disallow: /premiove-nabidky*
+Disallow: /specialni-od-1kc*
+Disallow: /zaplatit*
+Disallow: /nahlasit-poruseni-pravidel*
+
+
+# SeznamBot
+User-agent: SeznamBot
+
+Request-rate: <rate> <time>
+Request-rate: 1/1s 2000-2100
+
+
+# Anthropic's bot
+User-agent: ClaudeBot
+Disallow: /
+
+
+# AdSense bot - https://searchengineland.com/a-deeper-look-at-robotstxt-17573
+User-agent: Mediapartners-Google
+Disallow:

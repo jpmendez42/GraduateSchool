@@ -1,0 +1,34 @@
+User-Agent: Yandex
+Disallow: /amp/
+Disallow: *?search=*
+Disallow: *?amp
+Disallow: /preview/*
+Disallow: /?
+Disallow: /*&
+Disallow: /sentry/*
+Disallow: */comments
+Disallow: /for_story_topic/*
+Disallow: /profile*
+Clean-param: ruua&rucom&cpage&pb_traffic_source&es&utm_referrer&from&_ga&_sm_byp&k&_sm_au_&hash&nw
+Clean-param: utm_campaign&utm_medium&utm_source&utm_term&utm_content&preview_token
+Clean-param: _openstat
+Host: https://secretmag.ru
+
+User-Agent: GoogleBot
+Disallow: /search
+Disallow: /sentry/*
+Disallow: */comments
+Disallow: /preview/*
+Disallow: /for_story_topic/*
+Disallow: /profile*
+Clean-param: preview_token
+
+User-Agent: *
+Disallow: /search
+Disallow: /preview/*
+Disallow: /sentry/*
+Disallow: */comments
+Disallow: /for_story_topic/*
+Disallow: /profile*
+Clean-param: preview_token
+Sitemap: https://secretmag.ru/sitemap.xml.gz

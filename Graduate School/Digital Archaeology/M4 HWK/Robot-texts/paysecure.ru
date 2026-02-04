@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /bitrix/admin
+Disallow: /tmp
+Disallow: /upload
+Disallow: /news
+Disallow: /?ref=urirank
+Disallow: /index.html)
+Disallow: /?hhtmFrom=employer
+Disallow: /ob-assist/stati/?PAGEN_1=1
+Disallow: /ob-assist/stati/?SHOWALL_1=1
+Disallow: /?billnumber=516009026450930&ordernumber=2025.05.07-227&payerdenial=0
+Disallow: /?back_url_admin=%2Fbitrix%2Fadmin%2F
+Disallow: /?
+Disallow: /shop_register.htm;
+Sitemap: https://www.assist.ru/sitemap.xml
+Host: https://www.assist.ru

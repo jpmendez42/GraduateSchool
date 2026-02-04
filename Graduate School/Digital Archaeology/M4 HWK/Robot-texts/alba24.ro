@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: *?s=*
+Disallow: *?ref=*
+Disallow: *?x=*
+Disallow: *?p=*
+Disallow: *?print=pdf
+Disallow: *?post_type
+Disallow: *?orderby
+Disallow: */1000
+Disallow: /search/*
+
+Sitemap: https://alba24.ro/sitemap_index.xml

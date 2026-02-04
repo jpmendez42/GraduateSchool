@@ -1,0 +1,11 @@
+﻿﻿User-agent: *
+Disallow: /assets/
+Disallow: /static/
+Disallow: /themes/
+Disallow: /common/
+Disallow: /member/
+Disallow: /message/
+Disallow: /site/
+Disallow: /task/
+Disallow: /thread/
+Disallow: /topic/

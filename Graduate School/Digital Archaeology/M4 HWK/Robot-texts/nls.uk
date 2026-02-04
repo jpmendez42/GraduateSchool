@@ -1,0 +1,5 @@
+sitemap: https://www.nls.uk/sitemap.xml
+
+user-agent: *
+disallow: /static/
+disallow: /umbraco/

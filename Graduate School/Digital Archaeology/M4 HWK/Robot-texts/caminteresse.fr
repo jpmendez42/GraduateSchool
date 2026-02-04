@@ -1,0 +1,31 @@
+# from orphanPage robots
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: */1000
+Disallow: /concours/
+Disallow: /concours$
+Disallow: /recherche
+Disallow: *?authId=*
+Disallow: *?amp=*
+
+User-agent: CCBot
+Disallow: /
+
+# ajout 15/05/2025
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: Trendiction/Talkwalker
+Disallow: /
+
+User-agent: Uber Metrics Technologies Unicepta
+Disallow: /
+
+User-agent: Panalis
+Disallow: /
+
+User-agent: LexisNexis
+Disallow: /

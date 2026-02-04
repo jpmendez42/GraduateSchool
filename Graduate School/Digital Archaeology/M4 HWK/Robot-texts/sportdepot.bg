@@ -1,0 +1,11 @@
+User-agent: *
+Allow: *
+
+
+Disallow: /products/index/ajax-add-rate/*
+Disallow: /contacts-corp-511
+Disallow: /*2pau
+Disallow: /*2ptt
+Disallow: /*2ptu
+Disallow: /*2prp
+Disallow: /*2pdlst

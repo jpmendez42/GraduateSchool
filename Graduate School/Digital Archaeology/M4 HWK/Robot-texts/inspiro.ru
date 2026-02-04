@@ -1,0 +1,30 @@
+User-Agent: *
+Disallow: /manual/*
+Disallow: /manual8/*
+Disallow: /support/*
+Disallow: /*_19*.html
+Disallow: /*_old*.html
+Disallow: /*_OLD*.html
+Disallow: /news/index.html
+Disallow: /news/index.html?p=*
+Disallow: /news/*_v8.*
+Disallow: /attach/*
+Disallow: /about/vacancy.html
+Disallow: /floristam.html
+Disallow: /pitomnikam.html
+Disallow: /cabinet/*
+Disallow: /cpc/inspiro-na-e-commerce.html
+Disallow: /cgi-bin/Runs/*
+Disallow: /?_ym_debug=1
+Disallow: /index_2168.html
+Disallow: /11.html
+
+Clean-param: rrcid
+Clean-param: type=typein
+Clean-param: amp&amp&ysclid
+Clean-param: etext
+Clean-param: erid
+Clean-param: yprqee
+
+Host: https://www.inspiro.ru
+Sitemap: https://www.inspiro.ru/sitemap.xml

@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Block URLs ending with /feed
+Disallow: /feed$
+
+# Block URLs ending with .html
+Disallow: /*.html$
+Disallow: /search/*
+Disallow: /preview/*
+Disallow: /embed/*
+Disallow: /tag/*
+Disallow: /page/*
+Disallow: /page/*
+Disallow: /*?attachment_id=
+Disallow: /amp/
+
+# Sitemaps
+Sitemap: https://lagatar.in/news-sitemap.xml
+Sitemap: https://lagatar.in/sitemap_index.xml
+Sitemap: https://lagatar.in/sitemap.xml

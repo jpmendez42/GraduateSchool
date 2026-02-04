@@ -1,0 +1,30 @@
+#Concerne tous les robots
+User-agent: *
+#interdiction de crawl
+#Disallow: /nos-points-de-rdv/*
+Disallow: /plateforme
+Disallow: /elearning*
+Disallow: /change-mdp*
+Disallow: /messagerie-lire*
+Disallow: /connexion*
+Disallow: /account*
+Disallow: /inscription*
+Disallow: /*adPosition=
+Disallow: /*?cpack
+Disallow: /*creative=*
+Disallow:/*t=*
+Disallow: /*sitelinkvar=*
+Disallow: /*forfait=*
+Disallow: /*code=*
+Disallow: /*awc=*
+Disallow: /*idReservation=*
+Disallow: /*latlng=*
+Disallow: /*result=*
+Disallow: /*?sa=*
+Disallow: /*tpc=*
+Disallow: /?longurlwascutoff_0
+Disallow: /wss*
+Disallow: /js/vmap/*
+Sitemap: https://www.stych.fr/sitemap.xml
+#User-agent: GPTBot
+#Disallow: /

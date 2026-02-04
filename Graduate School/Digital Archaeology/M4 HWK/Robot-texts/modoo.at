@@ -1,0 +1,342 @@
+<html lang="ko">
+<head>
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+    <title>네이버 modoo!</title>
+    <style>
+        body, p, h1 {
+            margin: 0;
+            padding: 0
+        }
+
+        body, h1 {
+            font-size: 14px;
+            line-height: 20px;
+            font-family: Helvetica, AppleSDGothicNeo-Regular, sans-serif
+        }
+
+        header {
+            display: block
+        }
+
+        html {
+            height: 100%
+        }
+
+        body {
+            position: relative;
+            height: 100%;
+            background-color: #fff;
+            color: #000;
+            -webkit-text-size-adjust: none;
+            overflow-x: hidden;
+            min-width: 320px
+        }
+
+        img {
+            border: 0
+        }
+
+        img {
+            vertical-align: middle
+        }
+
+        a {
+            color: #000;
+            text-decoration: none;
+            cursor: pointer
+        }
+
+        #header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 2010;
+            width: 100%;
+            min-width: 320px;
+            background-color: #00c73c
+        }
+
+        #header .gnb {
+            position: relative;
+            height: 44px;
+            z-index: 2002
+        }
+
+        #header .gnb .naver_logo {
+            position: absolute;
+            display: block;
+            top: 0;
+            left: 10px;
+            padding: 11px 5px
+        }
+
+        #header .gnb .naver_logo:before {
+            content: '\00a0';
+            font-size: 0;
+            line-height: 0
+        }
+
+        #header .gnb .naver_logo .ico_naver_logo {
+            vertical-align: top;
+            line-height: 0;
+            font-size: 0;
+            color: transparent;
+            width: 22px;
+            height: 22px;
+            background-image: url(https://ssl.pstatic.net/static.post/image/im/logo_svg/naver_logo_main.svg);
+            background-repeat: no-repeat;
+            display: inline-block
+        }
+
+        #header .gnb .logo1 {
+            position: absolute;
+            display: block;
+            top: 0;
+            left: 42px;
+            padding: 15px 0;
+            line-height: 16px;
+            color: white;
+            font-size: 16px
+        }
+
+        #header .gnb .logo1:before {
+            content: '\00a0';
+            font-size: 0;
+            line-height: 0
+        }
+
+        #wrap {
+            min-width: 320px
+        }
+
+        .og {
+            position: relative;
+            display: block;
+            min-height: 80px;
+            background: #fbfbfb;
+            text-align: left;
+            line-height: 0;
+            vertical-align: middle;
+            border: 1px solid #eee
+        }
+
+        .og .link {
+            display: block;
+            overflow: hidden;
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            background: url(https://ssl.pstatic.net/static.post/image/im/blank.gif);
+            cursor: pointer;
+            color: transparent;
+            overflow: hidden;
+            text-indent: -9999px;
+            color: rgba(0, 0, 0, 0) !important
+        }
+
+        @font-face {
+            font-family: 'Pretendard';
+            font-weight: 400;
+            font-style: normal;
+            src: local("Pretendard"), url("https://ssl.pstatic.net/static/blog/font/Pretendard-Regular.otf") format("opentype"), url("https://ssl.pstatic.net/static/blog/font/Pretendard-Regular.ttf") format("truetype")
+        }
+
+        @font-face {
+            font-family: 'Pretendard';
+            font-weight: 700;
+            font-style: normal;
+            src: local("Pretendard"), url("https://ssl.pstatic.net/static/blog/font/Pretendard-Bold.otf") format("opentype"), url("https://ssl.pstatic.net/static/blog/font/Pretendard-Bold.ttf") format("truetype")
+        }
+
+        @font-face {
+            font-family: 'Pretendard';
+            font-weight: 800;
+            font-style: normal;
+            src: local("Pretendard"), url("https://ssl.pstatic.net/static/blog/font/Pretendard-ExtraBold.otf") format("opentype"), url("https://ssl.pstatic.net/static/blog/font/Pretendard-ExtraBold.ttf") format("truetype")
+        }
+
+        .end_modoo_notice {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            height: 100%
+        }
+
+        .end_modoo_notice #header {
+            position: static
+        }
+
+        .end_modoo_notice .content_header {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: auto 20px 0
+        }
+
+        .end_modoo_notice .content_header .modoo_icon {
+            width: 70px;
+            height: 70px;
+            background: url(https://s.pstatic.net/static/www/mobile/edit/20230515_0/upload_1684144341809Tp7jK.png) 0 0/70px 70px no-repeat
+        }
+
+        .end_modoo_notice .content_header .title {
+            margin-top: 30px;
+            font-family: Pretendard, sans-serif;
+            color: #222;
+            font-size: 30px;
+            font-weight: 800;
+            text-align: center;
+            line-height: 40px;
+            letter-spacing: -1.8px
+        }
+
+        @media (min-width: 768px) {
+            .end_modoo_notice .content_header {
+                flex-direction: row;
+                justify-content: space-between;
+                align-items: start;
+                width: 677px;
+                margin: auto auto 0
+            }
+
+            .end_modoo_notice .content_header .br {
+                display: none
+            }
+
+            .end_modoo_notice .content_header .modoo_icon {
+                order: 1;
+                width: 78px;
+                height: 78px;
+                background: url(https://s.pstatic.net/static/www/mobile/edit/20230515_0/upload_1684144341809Tp7jK.png) -10px -10px / 120% 120% no-repeat;
+                margin: 10px 1px 0 0
+            }
+
+            .end_modoo_notice .content_header .title {
+                margin: 0;
+                color: #222;
+                font-size: 42px;
+                line-height: 54px;
+                text-align: left;
+                letter-spacing: -0.8px
+            }
+        }
+
+        .end_modoo_notice .content_main {
+            margin: 30px 20px auto;
+            font-family: Pretendard, sans-serif
+        }
+
+        .end_modoo_notice .content_main .text {
+            color: #333;
+            font-size: 17px;
+            font-weight: 400;
+            line-height: 28px;
+            letter-spacing: -0.3px
+        }
+
+        .end_modoo_notice .content_main .text .strong {
+            font-weight: 700
+        }
+
+        .end_modoo_notice .content_main .text + .text {
+            margin-top: 20px
+        }
+
+        .end_modoo_notice .content_main .link {
+            color: #03c75a;
+            text-decoration: underline
+        }
+
+        @media (min-width: 768px) {
+            .end_modoo_notice .content_main {
+                width: 677px;
+                margin: 30px auto auto
+            }
+
+            .end_modoo_notice .content_main:has(+.apply_link) {
+                margin: 60px auto 70px
+            }
+        }
+
+        @media (max-height: 650px) {
+            .end_modoo_notice {
+                height: 650px;
+                overflow-y: auto
+            }
+        }
+    </style>
+    <style>
+        @font-face {
+            font-family: 'web-NanumMyeongjo';
+            font-style: normal;
+            font-weight: normal;
+            src: url("https://ssl.pstatic.net/static.post/font/NanumMyeongjo-Regular.eot");
+            src: url("https://ssl.pstatic.net/static.post/font/NanumMyeongjo-Regular.eot?#iefix") format("embedded-opentype"), url("https://ssl.pstatic.net/static.post/font/NanumMyeongjo-Regular.woff") format("woff"), url("https://ssl.pstatic.net/static.post/font/NanumMyeongjo-Regular.ttf") format("truetype")
+        }
+
+        @font-face {
+            font-family: NanumSquareB;
+            font-weight: normal;
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareB.eot);
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareB.eot?#iefix) format("embedded-opentype"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareB.woff2) format("woff2"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareB.woff) format("woff"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareB.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: NanumSquareR;
+            font-weight: 400;
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareR.eot);
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareR.eot?#iefix) format("embedded-opentype"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareR.woff) format("woff"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareR.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: NanumSquareEB;
+            font-weight: 800;
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareEB.eot);
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareEB.eot?#iefix) format("embedded-opentype"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareEB.woff) format("woff"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareEB.ttf) format("truetype")
+        }
+
+        @font-face {
+            font-family: NanumSquareL;
+            font-weight: 300;
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareL.eot);
+            src: url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareL.eot?#iefix) format("embedded-opentype"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareL.woff) format("woff"), url(https://ssl.pstatic.net/static.post/image/fonts/NanumSquareL.ttf) format("truetype")
+        }
+    </style>
+</head>
+<body>
+<div id="wrap" class="end_modoo_notice">
+    <div id="header" class="main">
+        <div class="gnb" role="banner">
+            <a href="http://www.naver.com" target="_blank" class="naver_logo"><i class="ico_naver_logo"
+                                                                                 role="img">네이버</i></a>
+            <h1><a href="/" class="logo1">modoo!</a></h1>
+        </div>
+    </div>
+    <!--// 디폴트 헤더 -->
+    <div class="content_header">
+        <span class="modoo_icon"></span>
+        <h1 class="title">
+            네이버 modoo!가<br>
+            2025년 6월 26일 종료<br class="br">되었습니다.
+        </h1>
+    </div>
+    <div class="content_main">
+        <p class="text">
+			그동안 modoo! 서비스를 이용해주셔서 진심으로 감사드립니다.
+        </p>
+        <p class="text">
+            네이버 내부 서비스 운영 정책에 따라 modoo!는 <strong class="strong">2025년 6월 26일부로 서비스를 종료</strong>하였습니다.<br>
+            이에 따라 해당 서비스를 통해 제공되던 홈페이지는 더 이상 네이버에서 운영되지 않습니다.
+        </p>
+        <p class="text">
+            이용해주신 모든 분들께 다시 한 번 깊이 감사드리며,<br>
+            앞으로 더 나은 서비스로 보답할 수 있도록 노력하겠습니다.
+        </p>
+    </div>
+</div>
+</body>
+</html>

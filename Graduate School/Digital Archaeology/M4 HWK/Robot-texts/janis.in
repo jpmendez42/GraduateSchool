@@ -1,0 +1,60 @@
+<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,shrink-to-fit=no"><meta name="theme-color" content="#000000">
+		<!-- Primary Meta Tags -->
+		<title>Janis Commerce: Powerful operations, smarter business</title>
+		<meta name="title" content="Janis Commerce: Powerful operations, smarter business">
+		<meta name="description" content="Transform your omnichannel operation with 100% digital, flexible and scalable tools, obtaining complete traceability of your operation in real time.">
+
+		
+
+		
+	<!-- Open Graph / Facebook -->
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="https://app.janis.in/">
+	<meta property="og:title" content="Janis Commerce: Powerful operations, smarter business">
+	<meta property="og:description" content="Transform your omnichannel operation with 100% digital, flexible and scalable tools, obtaining complete traceability of your operation in real time.">
+
+	<!-- Versions of images -->
+<meta property="og:image" content="https://app.janis.in/static/images/janis-meta-tags.png" />
+<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+
+	<meta property="og:image" content="https://app.janis.in/static/images/janis-meta-tags-square.png" />
+	<meta property="og:image:type" content="image/png" />
+	<meta property="og:image:width" content="628" />
+	<meta property="og:image:height" content="628" />
+
+	<!-- Twitter -->
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="https://app.janis.in/">
+	<meta property="twitter:title" content="Janis Commerce: Powerful operations, smarter business">
+	<meta property="twitter:description" content="Transform your omnichannel operation with 100% digital, flexible and scalable tools, obtaining complete traceability of your operation in real time.">
+	<meta property="twitter:image" content="https://app.janis.in/static/images/janis-meta-tags.png">
+
+
+		<link rel="manifest" href="/manifest.json">
+		<link rel="shortcut icon" href="/janis_prod_v2.ico">
+
+	 
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-F8MMX1GKPP"></script>
+	<script async src="/static/js/autotrack.js"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag(){dataLayer.push(arguments);}
+		gtag('js', new Date());
+
+		gtag('config', 'G-F8MMX1GKPP');
+	</script>
+	<script>
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+		ga('create', 'G-F8MMX1GKPP', 'auto');
+
+		// Replace the following lines with the plugins you want to use.
+		ga('require', 'eventTracker');
+		ga('require', 'outboundLinkTracker');
+		ga('require', 'urlChangeTracker');
+
+		ga('send', 'pageview');
+	</script>
+</head><body><noscript>You need to enable JavaScript to run this app.</noscript><div id="root" data-hj-ignore-attributes></div><script src="/static/js/runtime~main.bcb382b6.js"></script><script src="/static/js/713.39d468a5.chunk.js"></script><script src="/static/js/main.4b82a0e6.chunk.js"></script></body></html>

@@ -1,0 +1,7 @@
+User-agent: SemrushBot
+Disallow: /
+
+User-Agent: *
+Disallow: /exportoffres/
+Disallow: /arretes/normal/*.pdf
+Disallow: /arretes/annul/*.pdf

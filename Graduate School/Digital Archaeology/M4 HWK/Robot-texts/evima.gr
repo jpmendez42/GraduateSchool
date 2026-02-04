@@ -1,0 +1,8 @@
+User-agent: *
+User-agent: facebookexternalhit
+
+Allow: /wp-content/uploads/
+
+
+Sitemap: https://www.evima.gr/sitemap_index.xml
+Sitemap: https://www.evima.gr/wp-content/uploads/json/sitemap-news.xml

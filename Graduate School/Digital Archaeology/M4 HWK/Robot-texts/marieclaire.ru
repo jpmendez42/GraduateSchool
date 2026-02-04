@@ -1,0 +1,71 @@
+User-agent: Mail.ru
+Allow: */yanews/
+Allow: /rss-feeds/
+Allow: /rss-feeds/yanews.xml
+
+User-agent: vkShare
+User-agent: VKRobot/1.0
+User-agent: facebookexternalhit
+User-agent: meta-externalagent
+Allow: /s/
+Allow: /rss-feeds/
+Allow: /rss-feeds/novapress-facebook.xml
+
+User-agent: Zen_Bot/2.0
+Allow: *?utm_source=
+Allow: *?from=
+Allow: /rss-feeds/yanews.xml
+Allow: /rss-feeds/yanews-webmaster.xml
+
+User-agent: YandexNews
+Allow: */yanews/
+Allow: /rss/yandex/
+Allow: *?from=yanews
+Allow: *?utm_source=
+Allow: /rss-feeds/yanews.xml
+Allow: /rss-feeds/yanews-webmaster.xml
+
+User-Agent: *
+Allow: /rss-feeds/yanews-webmaster.xml
+Disallow: /cache/*
+Disallow: /search/*
+Disallow: /index/*
+Disallow: /users/*
+Disallow: /articles/*
+Disallow: /theme/1*
+Disallow: /peb/*
+Disallow: /admin
+Disallow: /test_razdel
+Disallow: /test_subrazdel
+Disallow: /test_article
+Disallow: /test_index
+Disallow: /stil-zjizny/prazdnik-kotoryiy-vsegda-s-toboy
+Disallow: /*?page=*
+Disallow: /*&page=*
+Disallow: /*?day*
+Disallow: /authors
+Disallow: /*utm_source=
+Disallow: /mobile-app
+Disallow: *?previewToken=*
+Disallow: *scroogePreview_creativeId=
+Disallow: /gm-api/*
+Disallow: */result/*
+Disallow: /mcatwork
+Disallow: /privacypolicy/
+Disallow: *?
+Disallow: */&
+Disallow: /insta/
+Disallow: /useragreement/
+Disallow: /unsubscribe/
+Disallow: */yanews/
+Disallow: /pages/
+Disallow: /moda/russkii-stil-tradicii-kultura-i-lyudi-kotorye-sozdali-unikalnuyu-modu-v-rossii/
+Disallow: /gm-api/
+Disallow: /81006599/
+Disallow: /22729373807/
+
+Clean-param: gmpage&from&page&stat-id&amp&google_preview&gcmes&dbr&showFullscreen&hl&retpath&noredir&clid&tpclid&nw&email&toQuiz&text&hcb&openGallery&_page&_sm_au_&sa&force_isolation&continueFlag&RelatedContentIds&back&_ym_debug&_x_tr_sl&a&fireglass_rsn
+Clean-Param: utm_source&utm_medium&utm_campaign&utm_content&utm_referrer
+Clean-Param: scroogePreview_creativeId
+
+Sitemap: https://www.marieclaire.ru/sitemaps/index.xml.gz

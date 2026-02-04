@@ -1,0 +1,8 @@
+﻿User-agent: *
+Disallow: /Handlers/
+Disallow: /Common/
+Disallow: /*/Common/
+User-agent: dotbot
+Disallow: /
+User-agent: MJ12bot
+Disallow: /

@@ -1,0 +1,137 @@
+Sitemap: https://www.ndr.de/news-102~news.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--info--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--niedersachsen--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--schleswig--holstein--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--mecklenburg--vorpommern--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--hamburg--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--ratgeber--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--sport--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--kultur--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--geschichte--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--fernsehen--100.xml
+Sitemap: https://www.ndr.de/index~sitemap_f-sitemap--ndr--weitere--100.xml
+
+User-agent: *
+Disallow: /n-joy/appmedien
+Disallow: /*ut*.xml
+Disallow: /*podcast5654.xml
+Disallow: /*.json
+Disallow: /ratgeber/*?filter=
+Disallow: /*~player.html
+Disallow: /*~ardplayer.html
+
+############
+
+# Amazon
+User-agent: Amazonbot
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-User
+Disallow: /
+
+User-agent: Claude-SearchBot
+Disallow: /
+
+User-agent: claude-web
+Disallow: /
+
+# Apple
+User-agent: Applebot-Extended
+Disallow: /
+
+# ByteDance
+User-agent: Bytespider
+Disallow: /
+
+User-agent: TikTokSpider
+Disallow: /
+
+# Cohere
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# Diffbot
+User-agent: DiffBot
+Disallow: /
+
+# DuckDuckGo
+User-agent: DuckAssistBot
+Disallow: /
+
+# Google
+User-agent: Google-Extended
+Disallow: /
+
+# Huawei
+User-agent: PetalBot
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+# Meta
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+# Mistral
+User-agent: MistralAI-User
+Disallow: /
+
+# OpenAI
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ChatGPT-User/2.0
+Disallow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-User
+Disallow: /
+
+# Webz.io
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+# You.com
+User-agent: YouBot
+Disallow: /
+
+# Zyte
+User-agent: Scrapy
+Disallow: /
+

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /ajax
+Disallow: /bilder/
+Disallow: /forum/
+Disallow: /formel-1-datenbank/
+Disallow: /liveticker/ticker_all.php*
+Disallow: /liveticker/wmstand.php*
+Disallow: /forum-ext
+Disallow: /formel-1-testfahrten/*zsd=*
+Disallow: /liveticker/ticker_ajax.php*
+
+User-agent: AmazonAdBot
+Allow: */news/*

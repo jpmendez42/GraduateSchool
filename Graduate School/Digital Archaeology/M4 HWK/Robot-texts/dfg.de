@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /download/pdf/service/vergabeverfahren/information_auftragsvergabe.pdf
+Disallow: /dfg_profil/gremien/fachkollegien/fk_testwahl2011/
+Disallow: /foerderung/grundlagen_rahmenbedingungen/elan/formulare/*
+Disallow: /download/pdf/foerderung/grundlagen_dfg_foerderung/elan/
+Disallow: /download/programme/*
+
+Sitemap: https://www.dfg.de/service-sitemap-dfg.de-sitemap_index.xml
+Sitemap: https://www.dfg.de/service-sitemap-dfg.jp-sitemap_index.xml
+Sitemap: https://www.dfg.de/service-sitemap-dfg.ru-sitemap_index.xml
+Sitemap: https://www.dfg.de/service-sitemap-dfg.en-sitemap_index.xml
+Sitemap: https://www.dfg.de/service-sitemap-dfg.pt-sitemap_index.xml
+Sitemap: https://www.dfg.de/service-sitemap-dfg.es-sitemap_index.xml

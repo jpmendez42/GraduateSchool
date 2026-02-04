@@ -1,0 +1,29 @@
+User-agent: Googlebot
+Allow: /static/verdi.zentral.browser/img/images
+Disallow: /subsite
+Disallow: /suche
+Disallow: /search
+Disallow: /api
+Disallow: /*?*
+Disallow: /fragen-antworten?*
+Disallow: /nachrichten?*
+Disallow: /++edit++
+
+User-agent: bingbot
+Allow: /static/verdi.zentral.browser/img/images
+Disallow: /subsite
+Disallow: /suche
+Disallow: /search
+Disallow: /api
+Disallow: /*?*
+Disallow: /fragen-antworten?*
+Disallow: /nachrichten?*
+Disallow: /++edit++
+
+User-agent: Scrapy
+User-agent: magpie-crawler
+User-agent: CCBot
+User-Agent: omgili
+User-Agent: omgilibot
+User-agent: Node/simplecrawler
+Disallow: /

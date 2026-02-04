@@ -1,0 +1,64 @@
+User-Agent: Yandex
+Disallow: /cart
+Disallow: /admin
+Disallow: /auth/
+Disallow: /forgot
+Disallow: /bower_components/
+Disallow: /fonts/
+Disallow: /icons/
+Disallow: /js/
+Disallow: /styles/
+Disallow: *_ga=
+Disallow: *.ppt
+Disallow: *.swf
+Disallow: *.pdf
+Disallow: /rss/
+Disallow: /rss/*/
+Disallow: /services/cancelsubscription?
+Clean-param: domain /domain/whois
+Clean-param: query&group /domain/search
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_type
+Clean-param: _openstat&gclid&yclid&ymclid&from&cid&frommarket
+Clean-param: domain&amount&user&dname&q&domain-search&hl&text&action&promo&ref&referer&uid&url&r1&r2&domain_search
+
+User-Agent: Googlebot
+Allow: /*.js
+Allow: /*.css
+Allow: /*.png$
+Allow: /*.jpg$
+Disallow: /cart
+Disallow: /admin
+Disallow: /auth/
+Disallow: /forgot
+Disallow: /bower_components/
+Disallow: /fonts/
+Disallow: /icons/
+Disallow: /js/
+Disallow: /styles/
+Disallow: *_ga=
+Disallow: *.ppt
+Disallow: *.swf
+Disallow: *.pdf
+Disallow: /rss/
+Disallow: /rss/*/
+Disallow: /domain/search?
+Disallow: /domain/whois?
+Disallow: /services/cancelsubscription?
+
+User-Agent: *
+Disallow: /cart
+Disallow: /admin
+Disallow: /auth/
+Disallow: /forgot
+Disallow: /bower_components/
+Disallow: /fonts/
+Disallow: /icons/
+Disallow: /js/
+Disallow: /styles/
+Disallow: /rss/
+Disallow: /rss/*/
+Disallow: /domain/search?
+Disallow: /domain/whois?
+Disallow: /services/cancelsubscription?
+
+Sitemap: https://www.domenus.ru/sitemap.xml

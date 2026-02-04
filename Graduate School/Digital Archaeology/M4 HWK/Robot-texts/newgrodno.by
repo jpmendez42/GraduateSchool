@@ -1,0 +1,107 @@
+User-agent: *               
+                           
+Disallow: /cgi-bin   
+Allow: /?yandex_feed=news 
+	                   
+Disallow: /wp-              
+
+Disallow: *?s=              
+Disallow: *&s=              
+Disallow: /search/          
+Disallow: /author/         
+Disallow: /users/           
+Disallow: */trackback      
+                           
+Disallow: */feed
+Allow: */feed/turbo/
+Allow: */feed/mihdan-mailru-pulse-feed/
+Disallow: */rss             
+Disallow: */embed           
+
+Disallow: /xmlrpc.php       
+Disallow: *utm=            
+Disallow: *openstat=        
+Allow: */uploads    
+        
+Disallow: /calendar/action~posterboard/
+Disallow: /calendar/action~agenda/
+Disallow: /calendar/action~oneday/
+Disallow: /calendar/action~month/
+Disallow: /calendar/action~week/
+Disallow: /calendar/action~stream/
+Disallow: /calendar/action~undefined/
+Disallow: /calendar/action~http:/
+Disallow: /calendar/action~default/
+Disallow: /calendar/action~poster/
+Disallow: /calendar/action~*/
+Disallow: /*controller=ai1ec_exporter_controller*
+Disallow: /*/action~*/
+
+User-agent: GoogleBot       
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: /wp/
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: */feed
+Allow: */feed/turbo/
+Disallow: */rss
+Disallow: */embed
+Disallow: */wlwmanifest.xml
+Disallow: /xmlrpc.php
+Disallow: *utm=
+Disallow: *openstat=
+Allow: */uploads
+Allow: /*/*.js              
+Allow: /*/*.css             
+Allow: /wp-*.png           
+Allow: /wp-*.jpg            
+Allow: /wp-*.jpeg           
+Allow: /wp-*.gif            
+Allow: /wp-admin/admin-ajax.php 
+
+User-agent: Yandex          
+Disallow: /cgi-bin
+Disallow: /?
+Disallow: /wp-
+Disallow: /wp/
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: */feed
+Allow: */feed/turbo/
+Disallow: */rss
+Disallow: */embed
+Disallow: */wlwmanifest.xml
+Disallow: /xmlrpc.php
+Allow: */uploads
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+Allow: /wp-admin/admin-ajax.php
+Allow: /?yandex_feed=news
+Allow: /yandex/turbo/
+
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: ia_archiver-web.archive.org 
+Disallow: /
+
+Sitemap: https://newgrodno.by/sitemap.xml
+Host: https://newgrodno.by/

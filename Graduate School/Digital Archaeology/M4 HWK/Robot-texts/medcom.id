@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Disallow: /*/utm?
+Disallow: /stat/
+Disallow: /feed/uc_json/
+# Disallow: /search
+# Disallow: /kategori/
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OpenAI
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.medcom.id/sitemap.xml
+Sitemap: https://www.medcom.id/sitemap_latest.xml

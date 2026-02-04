@@ -1,0 +1,9 @@
+Sitemap: https://www.foreca.es/sitemap-es-2023-05-12-1.xml
+User-agent: DataForSeoBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: *
+Allow: /

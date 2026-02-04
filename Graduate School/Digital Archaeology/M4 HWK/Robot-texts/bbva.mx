@@ -1,0 +1,22 @@
+User-agent:*
+
+Disallow:*.content.html
+Disallow:/content/dam/public-web/global/images/icons/*
+Disallow:/content/dam/public-web/global/images/micro-illustrations/*
+Disallow:/content/dam/public-web/mexico/images/micros/*
+Disallow:/faq/
+Disallow:*.app.html
+Disallow:*.ht.html
+Disallow:*.htm.html
+Disallow:*.mx.html
+Disallow:*.htmlios.html
+Disallow:*.htmlah.html
+Disallow:*.htmlaqu.html
+Disallow:*.htmlandroid.html
+Disallow:*.html.html
+Disallow:*.htmlx.html
+Disallow:*.jsp.html
+ 
+
+Sitemap: https://www.bbva.mx/sitemap.xml
+Sitemap: https://www.bbva.mx/sitemap-web-auto.xml

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /movie/asx/
+Disallow: /movie/smi/
+Disallow: /all/movie/image_contents/
+Disallow: /head_a_disp.cgi
+Disallow: /outside/
+
+Noindex: /list/index.cgi?*date=20*
+
+
+Disallow: /event_list/*
+Disallow: /event/*
+Disallow: /spot_list/*
+Disallow: /spot/*
+
+Noindex: /mypage/
+Disallow: /nc_cgi/
+
+Disallow: /search/free_search.cgi
+Disallow: /search/theater_search.cgi
+
+Sitemap: https://moviewalker.jp/sitemap/news-sitemap.xml
+Sitemap: https://moviewalker.jp/sitemap/sitemap_index.xml
+
+# GPTBot
+User-agent: GPTBot
+Disallow: /*

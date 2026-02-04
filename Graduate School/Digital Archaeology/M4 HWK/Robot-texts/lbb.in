@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /delhi/wp-admin/
+Disallow: /bangalore/wp-admin/
+Disallow: /*wp-admin/
+Disallow: /*wp-content/
+Disallow: /*deleted/
+Disallow: /*undefined/
+Disallow: /*tag/
+Disallow: /*/1000/
+Disallow: /*/shop/
+
+User-agent: Googlebot-Image
+Disallow: /*facebook*
+Disallow: /*google*
+Disallow: /users*
+
+Sitemap: https://lbb.in/sitemap/

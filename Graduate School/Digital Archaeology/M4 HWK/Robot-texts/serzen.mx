@@ -1,0 +1,50 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://serzen.mx/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
+
+# Reglas generales para todos los bots
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/cache/
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /?author=
+Disallow: /readme.html
+Disallow: /license.txt
+
+Allow: /wp-content/uploads/
+Allow: /wp-content/plugins/*.css
+Allow: /wp-content/plugins/*.js
+Allow: /wp-content/themes/*.css
+Allow: /wp-content/themes/*.js
+Allow: /wp-includes/*.css
+Allow: /wp-includes/*.js
+Allow: /wp-content/uploads/*.jpg
+Allow: /wp-content/uploads/*.jpeg
+Allow: /wp-content/uploads/*.png
+Allow: /wp-content/uploads/*.gif
+Allow: /wp-content/uploads/*.svg
+Allow: /wp-content/uploads/*.woff
+Allow: /wp-content/uploads/*.woff2
+
+# Bloqueo de bots específicos
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /cdn-cgi/
+Disallow: /*&order=
+Disallow: /*&orderby=
+Disallow: /*?order=
+Disallow: /*?orderby=
+Disallow: /note-legal/
+Disallow: /wp-login.php
+Disallow: /wp-content/plugins/tr-reproductor/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.mrpornogratis.it/sitemap_index.xml

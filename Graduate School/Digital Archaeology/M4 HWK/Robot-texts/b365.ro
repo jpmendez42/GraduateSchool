@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /?s=
+Disallow: /search/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://b365.ro/sitemap_index.xml
+Sitemap: https://b365.ro/news-sitemap.xml

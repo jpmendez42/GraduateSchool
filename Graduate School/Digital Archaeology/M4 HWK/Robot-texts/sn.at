@@ -1,0 +1,54 @@
+User-agent: *
+Allow: /
+Disallow: /ajax/
+Disallow: /_ajax/
+Disallow: /anzeige/
+Disallow: /archivsn
+Disallow: /files/
+Disallow: /json/
+Disallow: /services/
+Disallow: /service/wir-ueber-uns/opt-in-anmeldung-newsletter-66377284
+Disallow: /service/wir-ueber-uns/erfolg-sn-newsletter-anmeldung-17630065
+Disallow: /service/wir-ueber-uns/newsletter-anmeldung-fehlgeschlagen-17629852
+Disallow: /suche
+Disallow: /test/
+Disallow: /umfrage/
+Disallow: /wiki/index.php?diff=
+Disallow: /wiki/index.php?oldid=
+Disallow: /wiki/index.php?title=
+Disallow: /wiki/skins/
+Disallow: /wiki/Spezial:
+Sitemap: https://www.sn.at/sitemap/2/0001.xml
+Sitemap: https://www.sn.at/sitemapindex.xml
+Sitemap: https://www.sn.at/sitemapimage.xml
+Sitemap: https://www.sn.at/sitemap/4/0001.xml
+Sitemap: https://www.sn.at/sitemaphtml
+Sitemap: https://www.sn.at/wiki/sitemap/sitemap-sbgwiki-mw_-NS_0-0.xml.gz
+
+# strg BeHave
+User-agent: BeHave/crawler 1.0.0
+Disallow: /leserforum/
+
+#OpenAI / ChatGPT
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+#Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# SEMrushBot
+User-agent: SemrushBot
+Disallow: /
+
+# Googles generative AI crawlers (Bard)
+User-agent: Google-Extended
+Disallow: /
+
+# Another AI Bot
+User-Agent: PerplexityBot
+Disallow: /
+

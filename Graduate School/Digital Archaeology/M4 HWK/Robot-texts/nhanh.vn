@@ -1,0 +1,28 @@
+User-agent:* 
+Disallow:/cgi-bin/ 
+Disallow:/signin/oauth 
+Disallow:/user/ 
+Disallow:/signup/ 
+Disallow:/admin/ 
+Disallow:/system/
+Disallow:/signout 
+Disallow:/profile/ 
+Disallow:/product/ 
+Disallow:/inventory/ 
+Disallow:/pos/ 
+Disallow:/order/ 
+Disallow:/customer/ 
+Disallow:/accounting/ 
+Disallow:/report/ 
+Disallow:/website/ 
+Disallow:/social/ 
+Disallow:/warranty/ 
+Disallow:/promotion/ 
+Disallow:/store/ 
+Disallow:/setting/ 
+Disallow:/ecommerce/ 
+Disallow: /load-data-blog/
+Disallow: /min/
+Disallow: /news/ 
+Disallow: /review/ 
+Disallow: /catalog/

@@ -1,0 +1,36 @@
+User-agent: Googlebot
+Disallow: /Account
+Disallow: /Cabinet
+Disallow: /Company
+Disallow: /Rubricator
+Disallow: /%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D1%8B/
+Disallow: /%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0/
+Disallow: *search.html*
+Disallow: /*?
+Allow: /*?AllRubrics
+Allow: /Home/GetPageBlocks/?blocks=newReply&blocks=register&blocks=loginPopup&blocks=forgotPassword&blocks=userCompany&companyId=0
+Allow: /Home/GetPageBlocks/?blocks=register&blocks=loginPopup&blocks=forgotPassword&blocks=userCompany&companyId=0
+Allow: /*css?
+Allow: /*js?
+Allow: /*ff?
+Allow: /*tf?
+
+User-agent: *
+Disallow: /Account
+Disallow: /Cabinet
+Disallow: /Home
+Disallow: /Company
+Disallow: /Scripts/seohide.js
+Disallow: /Scripts/preprocessing.js
+Disallow: /Rubricator
+Disallow: /%D0%BE%D1%82%D0%B7%D1%8B%D0%B2%D1%8B/
+Disallow: /%D1%81%D1%85%D0%B5%D0%BC%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%B7%D0%B4%D0%B0/
+Disallow: *search.html*
+Disallow: /*?
+Allow: /*?AllRubrics
+Allow: /*css?
+Allow: /*js?
+Allow: /*ff?
+Allow: /*tf?
+
+Sitemap: https://www.orgpage.ru/sitemapindex.xml

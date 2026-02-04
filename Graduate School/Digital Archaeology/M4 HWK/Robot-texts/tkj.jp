@@ -1,0 +1,9 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow:
+
+# 2018-02-01
+User-agent: bingbot
+Crawl-delay: 30

@@ -1,0 +1,20 @@
+User-agent: * 
+Disallow: /wp-login.php
+Disallow: /*trackback
+Disallow: /*/comments
+Disallow: /cgi-bin
+Disallow: /*.inc$
+Disallow: /*.gz
+Disallow: /*.cgi
+Disallow: /forum/Downloads/*
+Disallow: /wp-admin
+Disallow: /forum/ext/*
+Disallow: /forum/styles/*
+Disallow: /?gdbc-client=*
+Disallow: /forum/postlove/*
+
+Disallow: /forum/membre/*
+Disallow: /cdn-cgi/*
+Noindex: /questionnaire-droit-aide-financiere/results.php*
+Sitemap: https://www.aide-sociale.fr/sitemap_index.xml 
+Sitemap: https://forum.aide-sociale.fr/sitemap.xml

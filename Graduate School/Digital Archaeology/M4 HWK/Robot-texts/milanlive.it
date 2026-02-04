@@ -1,0 +1,10 @@
+User-agent: grapeshot
+Disallow:
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.milanlive.it/sitemap.xml
+Sitemap: https://www.milanlive.it/sitemap_index.xml
+Sitemap: https://www.milanlive.it/sitemap-news.xml

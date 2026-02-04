@@ -1,0 +1,29 @@
+User-agent: Clewwa-Bot
+Disallow: */SiteGlobals
+Disallow: */SharedDocs/Adressen
+Disallow: */SharedDocs/AdWords
+Disallow: */SharedDocs/Bilder
+Disallow: */SharedDocs/Diagramme
+Disallow: */SharedDocs/ExterneLinks
+Disallow: */SharedDocs/Klickstrecken
+Disallow: */SharedDocs/VerwandteInhalte
+Disallow: /*-suchergebnis
+Disallow: /*?*
+Allow: */static/releases/
+Crawl-delay: 15
+
+User-agent: *
+Disallow: */SiteGlobals
+Disallow: */SharedDocs/Adressen
+Disallow: */SharedDocs/AdWords
+Disallow: */SharedDocs/Bilder
+Disallow: */SharedDocs/Diagramme
+Disallow: */SharedDocs/ExterneLinks
+Disallow: */SharedDocs/Klickstrecken
+Disallow: */SharedDocs/VerwandteInhalte
+Disallow: /*-suchergebnis
+Disallow: /*?*
+Allow: */static/releases/
+Crawl-delay: 180
+
+Sitemap: https://www.bmas.de/sitemap.xml

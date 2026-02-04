@@ -1,0 +1,16 @@
+Sitemap: https://www.loberon.de/sitemap.xml
+
+User-agent: *
+Disallow: /admin/
+
+Disallow: /*.carousel
+
+User-agent: Pinterestbot
+crawl-delay: 0.7
+
+User-agent: Bingbot
+crawl-delay: 1
+
+User-agent: Amazonbot
+Disallow: *
+crawl-delay: 0.7

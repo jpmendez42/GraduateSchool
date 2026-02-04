@@ -1,0 +1,145 @@
+User-agent: *
+Sitemap: https://tekniikanmaailma.fi/asmagsitemapindex.xml
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: ChatGPT-user
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-Agent: ImagesiftBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+# ChatGPT crawler
+User-agent: GPTBot
+Disallow: /
+
+# ChatGPT plugins
+User-agent: ChatGPT-User
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# FacebookBot crawls to improve language models
+User-Agent: FacebookBot
+Disallow: /
+
+# Bard and Vertex AI generative APIs
+User-agent: Google-Extended
+Disallow: /
+
+# Omgilibot/webz.io sells data for training LLMs
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: Quora-Bot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: meta-externalfetcher
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: Qwam content intelligence
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: Kangaroo Bot
+Disallow: /
+
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
+User-agent: Sidetrade indexer bot
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+User-agent: ISSCyberRiskCrawler
+Disallow: /
+
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://tekniikanmaailma.fi/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

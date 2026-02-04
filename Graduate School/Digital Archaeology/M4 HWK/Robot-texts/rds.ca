@@ -1,0 +1,66 @@
+User-agent: *
+
+Disallow: /resultats-de-recherche
+Disallow: /en-tete
+
+Disallow: /experts*lastNameInitial
+
+# url parameters
+Disallow: /*?sh
+Disallow: /*?cache
+Disallow: /*&cache
+Disallow: /*&amp;cache
+
+Disallow: /hockey/lnh/*letter
+Disallow: /hockey/lnh/*selectedDate
+
+Disallow: /grand-club
+Disallow: /*landingpage/Subject/
+Disallow: /*?rds-amp
+Disallow: /widgets-configs/
+Disallow: /wires/cp/
+Disallow: /wires/
+
+# For some reason the ad tags are getting indexed, disallowing
+Disallow: /5479/
+
+# Tracking
+Disallow: /logger/p.gif
+
+# Bing
+User-Agent: bingbot
+Disallow: /sitemap.xml
+User-Agent: msnbot
+Disallow: /sitemap.xml
+
+Sitemap: https://www.rds.ca/arc/outboundfeeds/sitemap-index/
+Sitemap: https://www.rds.ca/arc/outboundfeeds/sitemap-news-index/
+Sitemap: https://www.rds.ca/arc/outboundfeeds/sitemap-video-index/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Anthropic-ai
+Disallow: /
+
+User-Agent: DeepSeek
+Disallow: /
+
+User-agent: DeepSeekBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+

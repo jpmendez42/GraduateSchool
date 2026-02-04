@@ -1,0 +1,34 @@
+User-Agent: *
+Disallow:/selection-wizards-contribution
+Disallow:/*?*
+Disallow:/*&
+Disallow:/*search?*
+Disallow:/*p_p_auth=
+Disallow:/*p_p_id=
+Disallow:/*p_p_lifecycle=
+Disallow:/*p_p_state=
+Disallow:/*p_p_mode=
+Disallow:/*p_r_p_resetCur=
+Disallow:/*assetEntryid=
+Disallow:/*delta=
+Disallow:/*cur=
+Disallow:/*lead-form*
+Disallow:/*thanks*
+Disallow:/*login*
+Disallow: /documents
+Disallow: /group
+Disallow: /combo
+Disallow: /ru/*
+Disallow: /en/*
+Disallow: /daily-banking-2
+Disallow: /offers/daily-banking
+Allow:/*-/assets_publisher
+Allow: /*.axd
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.js*
+Allow: /*.css
+Allow: /*.svg
+Allow: /*jsp*
+Host: https://www.priorbank.by
+Sitemap: https://www.priorbank.by/sitemap.xml

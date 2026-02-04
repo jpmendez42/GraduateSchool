@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*.pdf
+Disallow: /*.swf
+Disallow: /*displayMode=
+Disallow: /*commercialType=2&
+Disallow: /contents/mail/

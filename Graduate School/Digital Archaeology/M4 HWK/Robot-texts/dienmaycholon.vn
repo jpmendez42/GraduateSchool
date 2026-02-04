@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /public/js/*
+Disallow: /product/*
+Disallow: /search/*
+Disallow: /store/*
+Disallow: /api/cart/*
+Disallow: /api/general/*
+Disallow: /api/landingpage/*
+Disallow: /api/member/*
+Disallow: /api/product/*
+Disallow: /default/danhsachservice/*
+
+User-agent: *
+Allow: /
+
+Sitemap: https://dienmaycholon.com/sitemap.xml
+Sitemap: https://dienmaycholon.com/sitemap/filter-sitemap.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_manu.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_category.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_tivi.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_may_giat.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_tu_lanh.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_may_lanh.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_lo_vi_song.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_KNMS_tu_van_dien_thoai_di_dong.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_KNMS_game.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_KNMS_kien_thuc_doi_song.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_KNMS_app.xml
+Sitemap: https://dienmaycholon.com/sitemap/sitemap_KNMS_tu_van_laptop.xml

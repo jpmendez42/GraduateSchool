@@ -1,0 +1,5 @@
+# Robots.txt file for www.fuehrerschein-bestehen.de
+# Sitemap: https://www.fuehrerschein-bestehen.de/sitemap.xml
+
+User-agent: *
+disallow: /Resourcen/PDF/

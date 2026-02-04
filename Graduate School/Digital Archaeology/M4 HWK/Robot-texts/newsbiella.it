@@ -1,0 +1,19 @@
+  User-agent: *
+  Disallow: /typo3/
+  Disallow: /index.php
+  Sitemap: https://www.newsbiella.it/sitemap.xml
+  
+  Disallow: /typo3temp/pics/a_4aec34b55c.jpg
+  Disallow: /2015/12/10/mobile/leggi-notizia/argomenti/eventi-5/articolo/aperibau-aspa-raccoglie-fondi-per-i-quattro-zampe-sfortunati.html
+  Disallow: /2015/12/10/amp/argomenti/eventi-5/articolo/aperibau-aspa-raccoglie-fondi-per-i-quattro-zampe-sfortunati.html
+  Disallow: /2015/12/10/leggi-notizia/argomenti/eventi-5/articolo/aperibau-aspa-raccoglie-fondi-per-i-quattro-zampe-sfortunati.html
+  Disallow: /mobile/leggi-notizia/argomenti/eventi-5/articolo/aperibau-aspa-raccoglie-fondi-per-i-quattro-zampe-sfortunati.html
+  Disallow: /2016/11/14/leggi-notizia/argomenti/cronaca-5/articolo/incidente-mortale-alla-sasil-associazioni-e-politici-chiedono-indagini-approfondite.html
+  Disallow: /2016/11/14/mobile/leggi-notizia/argomenti/cronaca-5/articolo/incidente-mortale-alla-sasil-associazioni-e-politici-chiedono-indagini-approfondite.html
+  Disallow: /2016/11/14/amp/argomenti/cronaca-5/articolo/incidente-mortale-alla-sasil-associazioni-e-politici-chiedono-indagini-approfondite.html
+  Disallow: /2018/12/05/leggi-notizia/argomenti/cronaca-5/articolo/mai-piu-morti-sul-lavoro-sit-in-davanti-al-tribunale-per-rosetta-udienza-rinviata.html
+  Disallow: /2018/12/05/mobile/leggi-notizia/argomenti/cronaca-5/articolo/mai-piu-morti-sul-lavoro-sit-in-davanti-al-tribunale-per-rosetta-udienza-rinviata.html
+  Disallow: /2018/12/05/amp/argomenti/cronaca-5/articolo/mai-piu-morti-sul-lavoro-sit-in-davanti-al-tribunale-per-rosetta-udienza-rinviata.html
+  Disallow: /2023/11/15/leggi-notizia/argomenti/cronaca-5/articolo/furbetti-del-vaccino-tutti-assolti-i-24-inquisiti.html
+  Disallow: /2023/11/15/mobile/leggi-notizia/argomenti/cronaca-5/articolo/furbetti-del-vaccino-tutti-assolti-i-24-inquisiti.html
+  Disallow: /2023/11/15/amp/argomenti/cronaca-5/articolo/furbetti-del-vaccino-tutti-assolti-i-24-inquisiti.html

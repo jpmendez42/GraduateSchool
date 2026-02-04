@@ -1,0 +1,23 @@
+# Crawlers Setup
+User-agent: *
+User-agent: Googlebot
+User-agent: Googlebot-image
+
+# Directories
+Disallow: /*?search=
+Disallow: /*?iframeView=1$
+
+# General Paths
+Disallow: /*.php$
+Disallow: /*?SID=
+
+# 2performant
+Disallow: /*2pau
+Disallow: /*2ptt
+Disallow: /*2ptu
+Disallow: /*2prp
+Disallow: /*2pdlst
+Disallow: /*crawl=no
+Disallow: /*back_url=
+
+Sitemap: https://www.sportvision.ro/files/sitemap/RON_ro/sitemap.xml

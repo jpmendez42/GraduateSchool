@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /password
+Disallow: /login
+Disallow: /account
+Disallow: /*edit
+Disallow: /*date=
+Disallow: /logout
+Disallow: /favourites
+Sitemap: https://kogda.by/sitemap.xml

@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /-/
+Disallow: /*/contents/*
+Disallow: /*/*?webview*
+Disallow: /*/tags?tag=*
+Disallow: /*/*?mode=list$
+Disallow: /*/contenus/*
+Disallow: /*/login?loginid=*
+Disallow: /en/results
+Disallow: /fr/resultats
+Disallow: /pt/resultados
+
+Sitemap: https://www.ol.fr/sitemap-index.xml

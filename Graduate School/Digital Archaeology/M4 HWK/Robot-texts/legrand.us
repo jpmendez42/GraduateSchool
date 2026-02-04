@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /search
+Disallow: /favorites
+Disallow: /register
+Disallow: /login
+Disallow: /logout
+Disallow: /cart
+Disallow: /commercial-shading/rep-corner
+Disallow: /promos
+Disallow: /promotion
+Disallow: /promotions
+Disallow: /compare
+Disallow: /checkout
+Disallow: /where-to-buy/shop-local
+Disallow: /solutions/smart-lighting/distributor-contractor
+Disallow: /solutions/smart-lighting/distributor-contractor-granite-city
+Disallow: /solutions/smart-lighting/distributor-contractor-menards
+Disallow: /page-components
+Disallow: /ces-radiant
+Disallow: /markets/data-center/cabinets/request-a-quote/thank-you 
+Disallow: /markets/data-center/cabinets/contact-us/thank-you
+
+
+Sitemap: https://www.legrand.us/sitemap.xml

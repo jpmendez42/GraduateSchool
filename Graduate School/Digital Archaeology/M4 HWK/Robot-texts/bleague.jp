@@ -1,0 +1,23 @@
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 30
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /

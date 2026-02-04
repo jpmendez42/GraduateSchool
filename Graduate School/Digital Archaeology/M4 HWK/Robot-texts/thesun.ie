@@ -1,0 +1,203 @@
+# This is the robots.txt file for thesun.ie
+# The Irish Sun does not permit the unlicensed use of our content for large language models.
+# News Group Newspaper's Terms of Use may be found at
+# https://www.thesun.co.uk/terms-and-conditions/#website-and-services-terms-of-use
+# Contact enquiries@newslicensing.co.uk for assistance.
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: *
+Disallow: /search/
+Disallow: /horoscope/
+Disallow: /*?x=
+Disallow: /*?action=
+Disallow: /*&action=
+Disallow: /*?adid=
+Disallow: /*&adid=
+Disallow: /*?bitrate=
+Disallow: /*&bitrate=
+Disallow: /*?channel=
+Disallow: /*&channel=
+Disallow: /*?clipid=
+Disallow: /*&clipid=
+Disallow: /*?contentCollection=
+Disallow: /*&contentCollection=
+Disallow: /*?contentId=
+Disallow: /*&contentId=
+Disallow: /*?ei=
+Disallow: /*&ei=
+Disallow: /*?format=
+Disallow: /*&format=
+Disallow: /*?height=
+Disallow: /*&height=
+Disallow: /*?iframe=
+Disallow: /*&iframe=
+Disallow: /*?mediaId=
+Disallow: /*&mediaId=
+Disallow: /*?module=
+Disallow: /*&module=
+Disallow: /*?monthnum=
+Disallow: /*&monthnum=
+Disallow: /*?pgtype=
+Disallow: /*&pgtype=
+Disallow: /*?preview=
+Disallow: /*&preview=
+Disallow: /*?priority=
+Disallow: /*&priority=
+Disallow: /*?ref=
+Disallow: /*&ref=
+Disallow: /*?referrer=
+Disallow: /*&referrer=
+Disallow: /*?sa=
+Disallow: /*&sa=
+Disallow: /*?section=
+Disallow: /*&section=
+Disallow: /*?share=
+Disallow: /*&share=
+Disallow: /*?TB_iframe=
+Disallow: /*&TB_iframe=
+Disallow: /*?TBL_Prod100Page=
+Disallow: /*&TBL_Prod100Page=
+Disallow: /*?theme_preview=
+Disallow: /*&theme_preview=
+Disallow: /*?usg=
+Disallow: /*&usg=
+Disallow: /*?ved=
+Disallow: /*&ved=
+Disallow: /*?version=
+Disallow: /*&version=
+Disallow: /*?VID=
+Disallow: /*&VID=
+Disallow: /*?vxBitrate=
+Disallow: /*&vxBitrate=
+Disallow: /*?vxChannel=
+Disallow: /*&vxChannel=
+Disallow: /*?vxClipId=
+Disallow: /*&vxClipId=
+Disallow: /*?vxSiteId=
+Disallow: /*&vxSiteId=
+Disallow: /*?width=
+Disallow: /*&width=
+Disallow: /*?year=
+Disallow: /*&year=
+Disallow: /*.xml?uuid=
+Disallow: /*?post_type=feedback&p=
+Disallow: /*?wptouch_preview_theme=
+Disallow: /*&gt;
+Disallow: /?attachment_id=
+Disallow: /affiliate/
+Disallow: /ai_log/
+Disallow: /*?*pg99.asia*
+Disallow: /*&*pg99.asia*
+Disallow: /*?*gg155.cn*
+Disallow: /*&*gg155.cn*
+Disallow: /*?*To66.Asia*
+Disallow: /*&*To66.Asia*
+
+User-agent: *
+
+# Sitemap archive
+Sitemap: https://www.thesun.ie/sitemap.xml
+
+# Sitemaps
+Sitemap: https://www.thesun.ie/news-sitemap.xml
+
+# Additional sitemaps
+Sitemap: https://www.thesun.ie/sitemap-nypost-authors.xml
+Sitemap: https://www.thesun.ie/sitemap-nypost-post_tag.xml
+Sitemap: https://www.thesun.ie/sitemap-nypost-where.xml
+Sitemap: https://www.thesun.ie/sitemap-nypost-who.xml
+Sitemap: https://www.thesun.ie/sitemap-nypost-feeds.xml
+Sitemap: https://www.thesun.ie/sitemap-nypost-category.xml
+Sitemap: https://www.thesun.ie/sitemap-nypost-football-team-taxo.xml
+
+User-agent: *
+Disallow: /*horseracing/racecards/2019*
+Disallow: /*horseracing/racecards/2020*
+Disallow: /*horseracing/racecards/2021*
+Disallow: /*horseracing/racecards/2022*
+Disallow: /*horseracing/results/2019*
+Disallow: /*horseracing/results/2020*
+Disallow: /*horseracing/results/2021*
+Disallow: /*horseracing/results/2022*
+
+User-agent: *
+Disallow: /search/
+Disallow: /simwidgets/
+Disallow: /player/brightcove/
+Disallow: /*?s=*
+Disallow: *&s=*
+Disallow: /?p=*
+
+User-agent: *
+Disallow: /video/
+
+User-agent: *
+Disallow: /
+
+User-agent: *
+Disallow: /sso/login/
+Disallow: /wp-login.php
+
+User-agent: *
+Disallow: /amp-tealium/
+Disallow: /archives/
+
+User-agent: AHC
+User-agent: AHC/2.1
+User-agent: APIs-Google
+User-agent: AdDefend Site Context Crawler/1.0
+User-agent: AdsBot-Google
+User-agent: AmazonAdBot
+User-agent: Amazonbot
+User-agent: Applebot
+User-agent: Bingbot
+User-agent: Botify
+User-agent: ChatGPT-User
+User-agent: Chrome-Lighthouse
+User-agent: CriteoBot/0.1
+User-agent: DuckDuckBot
+User-agent: EchoboxBot/1.0
+User-agent: GPT-Bot
+User-agent: Google-InspectionTool
+User-agent: GoogleOther
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-News
+User-agent: Googlebot-Video
+User-agent: GrapeshotCrawler
+User-agent: GumGum-Bot
+User-agent: HyScore/1.0
+User-agent: Leikibot
+User-agent: MicrosoftPreview
+User-agent: MojeekBot
+User-agent: PetalBot
+User-agent: Screaming Frog SEO Spider
+User-agent: SemrushBot
+User-agent: SeznamBot
+User-agent: SirdataBot
+User-agent: Slack-ImgProxy
+User-agent: Slackbot
+User-agent: Slackbot-LinkExpanding
+User-agent: Slurp
+User-agent: Snap URL Preview Service
+User-agent: Taboolabot
+User-agent: Twitterbot
+User-agent: Yahoo Ad Monitoring
+User-agent: YandexBot
+User-agent: adbeat_bot
+User-agent: adidxbot
+User-agent: admantx-euaspb/3.1
+User-agent: admantx-usbatch/3.1
+User-agent: bidswitchbot/1.0
+User-agent: facebookexternalhit
+User-agent: ias_crawler
+User-agent: outbrain
+User-agent: parse.ly scraper
+User-agent: peer39_crawler/1.0
+User-agent: proximic
+User-agent: weborama-fetcher
+Allow: /
+Allow: /ads.txt

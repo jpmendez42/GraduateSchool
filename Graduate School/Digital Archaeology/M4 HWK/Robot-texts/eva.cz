@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /s/
+Disallow: /script/
+Disallow: /scripts/
+Disallow: /search/
+Disallow: /kosik/
+Disallow: /vyber-dopravy-platby/
+Disallow: /dodaci-udaje/
+Disallow: /r/
+Disallow: /z/
+
+
+Sitemap: https://www.eva.cz/sitemap-index.php

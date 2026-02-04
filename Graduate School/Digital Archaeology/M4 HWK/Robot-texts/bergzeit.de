@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: */review/*
+Disallow: /*account*/
+Disallow: /*searchSuggest*/
+Disallow: /basket/
+Disallow: /*checkout*/
+Disallow: /*passwordreset*/
+Disallow: *previousId*
+Disallow: /out/*
+Disallow: */neuheiten/*
+Disallow: */marken-sale/*
+Disallow: */wp-json/*
+Disallow: */wp/wp-admin/*
+Disallow: */p/variation-change/*
+Disallow: */ga/*
+Disallow: /*&filters
+Disallow: */ads.txt/*
+Disallow: */web-errorpage/*
+Sitemap: https://www.bergzeit.de/magazin/sitemap_index.xml
+
+Sitemap: https://www.bergzeit.de/sitemap.xml

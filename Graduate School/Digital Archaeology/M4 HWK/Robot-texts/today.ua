@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: */backend/*
+Disallow: */vendor/*
+Disallow: */frontend/*
+Disallow: */common/*
+Disallow: */vagrant/*
+Disallow: */console/*
+Disallow: */composer/*
+Disallow: /*shares?id=*
+Sitemap: https://today.ua/sitemap.xml
+Sitemap: https://today.ua/sitemap/sitemap_news.xml
+Sitemap: https://today.ua/sitemap/sitemap_news_ru.xml

@@ -1,0 +1,94 @@
+User-agent: Amazonbot
+User-agent: BomboraBot
+User-Agent: trendictionbot
+User-agent: Yandex
+User-agent: DotBot
+User-agent: YandexBot
+User-agent: CCBot
+User-agent: PetalBot
+User-agent: Baiduspider
+User-agent: Sogou
+User-agent: BLEXBot
+User-agent: CriteoBot/0.1
+Disallow: /
+
+User-agent: *
+Disallow: /api/
+Disallow: /post/
+Disallow: /edit/
+Disallow: /account/
+Disallow: /chat/
+Disallow: */profile/*
+Disallow: /payments/
+Disallow: /nf/
+Disallow: /items$
+
+#General Filters
+Disallow: */*?*[
+Disallow: */*?*%5B
+Disallow: /delhi_g4058659/cars_c84/q-2-and*
+Disallow: *_and_*
+
+#RE Filters
+Allow: /api/re-projects
+Disallow: */*?*filter=*bathrooms_
+Disallow: */*?*filter=*brokerfree_
+Disallow: */*?*filter=*pets_
+Disallow: */*?*filter=*surface_
+
+#Expired Ads
+Disallow: */*?*expired=*
+
+#OLX Autos Blog
+Disallow: /blog/wp-admin/
+Disallow: /blog/cgi-bin/
+Allow: /blog/wp-admin/admin-ajax.php
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /blog/wp-content/uploads/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot
+Disallow: /post/
+Disallow: /edit/
+Disallow: /account/
+Disallow: /chat/
+Disallow: /profile/
+Disallow: /payments/
+Disallow: /nf/
+Disallow: /items$
+Disallow: /items/
+
+#General Filters
+Disallow: */*?*[
+Disallow: */*?*%5B
+Disallow: /delhi_g4058659/cars_c84/q-2-and*
+Disallow: *_and_*
+
+#RE Filters
+Allow: /api/re-projects
+Disallow: */*?*filter=*bathrooms_
+Disallow: */*?*filter=*brokerfree_
+Disallow: */*?*filter=*pets_
+Disallow: */*?*filter=*surface_
+
+#Expired Ads
+Disallow: */*?*expired=*
+
+#OLX Autos Blog
+Disallow: /blog/wp-admin/
+Disallow: /blog/cgi-bin/
+Allow: /blog/wp-admin/admin-ajax.php
+Allow: /api/
+
+Sitemap: https://www.olx.in/sitemapindex.xml
+Sitemap: https://www.olx.in/blog/sitemap_index.xml
+
+
+
+# Generated on 2025-09-08T05:51:36.920Z

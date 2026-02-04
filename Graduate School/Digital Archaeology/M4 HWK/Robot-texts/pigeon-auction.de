@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /Browse/
+Disallow: /Search/
+Disallow: /aspnet_client/
+Disallow: /bin/
+Disallow: /App_GlobalResources/
+Disallow: /signalr/
+Disallow: /Content/Rechnungen/
+# leave this line blank
+#Sitemap: http://[YourDomainName]/sitemap.xml

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /privacy
+Disallow: /impressum
+Disallow: /matrix/tos
+Disallow: /matrix/privacy

@@ -1,0 +1,42 @@
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /*?*
+Disallow: /privacy
+Disallow: /terms
+Disallow: /cookie-policy
+Disallow: /abuse-policy
+Disallow: /refund-policy
+Disallow: /content-policy
+Disallow: /content-removal
+Disallow: /dmca
+Disallow: /2257
+Disallow: /se/moderation-reports
+Disallow: /moderation-images
+Disallow: /moderation-videos
+Disallow: /se/actions-moderation
+Disallow: /se/story-moderation
+Disallow: /se/blog-moderation
+Disallow: /se/moderation-faq
+Disallow: /en/privacy
+Disallow: /en/terms
+Disallow: /en/cookie-policy
+Disallow: /en/abuse-policy
+Disallow: /en/refund-policy
+Disallow: /en/content-policy
+Disallow: /en/content-removal
+Disallow: /en/dmca
+Disallow: /en/2257
+Disallow: /en/moderation-reports
+Disallow: /en/moderation-images
+Disallow: /en/moderation-videos
+Disallow: /en/actions-moderation
+Disallow: /en/story-moderation
+Disallow: /en/blog-moderation
+Disallow: /en/moderation-faq
+
+Sitemap: https://www.klubb6.se/sitemap.xml

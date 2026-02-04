@@ -1,0 +1,15 @@
+User-Agent: *
+Disallow: /en/search
+Disallow: /fr/search
+Disallow: /en/web/edqm/search
+Disallow: /fr/web/edqm/search
+Disallow: /*?doAsUserId
+Disallow: /*&doAsUserId
+Disallow: /*?p_p_id
+Disallow: /*&p_p_id
+Disallow: /*?p_auth
+Disallow: /*&p_auth
+Disallow: /combo
+Disallow: /newssearch
+Disallow: /c/
+Sitemap: http://www.edqm.eu/sitemap.xml

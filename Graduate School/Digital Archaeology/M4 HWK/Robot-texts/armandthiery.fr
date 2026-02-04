@@ -1,0 +1,18 @@
+User-agent: *
+Sitemap: https://www.armandthiery.fr/sitemap_FR-FR.xml
+Disallow: /fr/paiement_externe.cfm
+Disallow: /fr/ajax/oorace.cfm
+
+Disallow: /content_files/
+Disallow: /content_images/
+Disallow: /content_news_documents/
+Disallow: /content_templates/
+Disallow: /module_files/
+Disallow: /stats/
+Disallow: /ximg/
+Disallow: /gestion_e_commerce/
+Disallow: /fr/css/
+Disallow: /fr/javascript/
+Disallow: /fr/xml/
+
+Allow: /

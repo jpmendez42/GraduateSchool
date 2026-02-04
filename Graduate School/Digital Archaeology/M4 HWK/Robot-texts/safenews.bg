@@ -1,0 +1,41 @@
+# Global rules
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /?s=*
+Disallow: /search/
+Allow: /wp-admin/admin-ajax.php
+
+# Allow Googlebot and Googlebot-News to crawl everything
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+# Allow major search engines
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+# Block aggressive bots
+User-agent: Bytespider
+Disallow: / 
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: SemrushBot
+Allow: /
+
+Disallow: /wp-includes/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+
+
+# Sitemaps
+Sitemap: https://safenews.bg/sitemap.xml
+Sitemap: https://safenews.bg/sitemap-news.xml

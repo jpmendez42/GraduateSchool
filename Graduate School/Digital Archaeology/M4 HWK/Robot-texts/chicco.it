@@ -1,0 +1,44 @@
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+User-agent: *
+
+
+Disallow: */on/demandware.store/*
+Disallow: *babySeatId*
+Disallow: *pramId*
+Disallow: *strollerId*
+Disallow: *fdid*
+Allow: /*|*.html$
+Allow: /*%7C*.html$
+Disallow: /*|*
+Disallow: /*%7C*
+Disallow: *srule=*
+Disallow: *pmin=*
+Disallow: *pmax=*
+Disallow: *prefn1=*
+Disallow: *prefn2=*
+Disallow: *prefv1=*
+Disallow: *?q*
+
+Disallow: /whislist
+Disallow: /my-chicco-wishlist
+Disallow: /registrazione
+Disallow: /Wishlist-AddProduct
+Disallow: /login
+Disallow: /carrello$
+Disallow: /carrello*
+Disallow: *?36r1vd=*
+Disallow: *?radius=*
+Disallow: *pmid=*
+Disallow: */content/*
+Disallow: */bin/*
+Disallow: */ricerca*
+Disallow: */anchor*
+
+Disallow:*/test-*
+
+Sitemap: https://www.chicco.it/sitemap_index.xml

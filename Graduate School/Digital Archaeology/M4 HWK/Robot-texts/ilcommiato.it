@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /accedi/
+Disallow: /esito/
+Disallow: /gestione/
+Disallow: /anagrafica/
+Disallow: /defunti/
+
+User-agent: Googlebot-Image
+Disallow: /upldefunti/

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: *search=*
+Disallow: *debug=*
+Disallow: */wetter/d/*/*
+Disallow: */api/*
+Disallow: */cron/*
+Disallow: */profil/*
+Disallow: */abo/*
+
+Sitemap: https://www.heute.at/sitemap/sitemap.xml

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /foodie/wp-admin
+Disallow: /foodie/wp-includes
+Disallow: /foodie/wp-content/cache
+Disallow: /foodie/trackback
+Disallow: /foodie/comments
+Disallow: */trackback
+Disallow: */comments
+Disallow: /foodie/*.php$
+Disallow: /foodie/*.inc$
+Disallow: /foodie/*.gz$
+Disallow: /foodie/*.wmv$
+Disallow: /foodie/*.cgi$
+Disallow: /foodie/*.xhtml$
+Disallow: /foodie/feed
+Disallow: /foodie/feed/json
+Disallow: */feed/
+Allow: /foodie/wp-content/uploads
+# allow google image bot to search all images
+User-agent: Googlebot-Image
+Allow: /*
+# allow Google adsense bot on entire site
+User-agent: Mediapartners-Google*
+Allow: /*
+# BEGIN XML-SITEMAP-PLUGIN
+Sitemap: http://mi-journey.jp/foodie/sitemap_index.xml
+# END XML-SITEMAP-PLUGIN

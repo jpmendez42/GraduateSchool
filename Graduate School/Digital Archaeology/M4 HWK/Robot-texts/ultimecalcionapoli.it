@@ -1,0 +1,10 @@
+User-agent: grapeshot
+Disallow:
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# XML Sitemap & Google News version 5.3.3 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.ultimecalcionapoli.it/sitemap.xml
+Sitemap: https://www.ultimecalcionapoli.it/sitemap-news.xml

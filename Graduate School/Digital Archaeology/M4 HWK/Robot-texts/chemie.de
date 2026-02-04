@@ -1,0 +1,25 @@
+User-agent: 008
+Disallow: /
+
+User-agent: *
+Disallow: /*?
+Disallow: /theme5/
+Disallow: /js/
+Disallow: /myportal/
+Disallow: /search/
+Disallow: /*/search
+Disallow: /user/
+Disallow: /visitor/
+Disallow: /*/rss/?
+Disallow: /individualJoboffers/
+Disallow: /htmlStore/
+Disallow: /*/pdf/
+Disallow: /*/print/
+Disallow: /*/rss/index.html?
+Disallow: /globaleSuche/
+Disallow: /bigbrother.php3
+Disallow: /nl/
+Disallow: /blaetterkataloge/
+Disallow: /policy/
+
+Sitemap: https://www.chemie.de/siteindex.xml

@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /libri
+Disallow: /profilo
+Allow: /mondo-hub
+Allow: /utente-registrazione
+Allow: /login
+Allow: /download-app
+Allow: /attivazione-prodotto
+Sitemap: https://www.hubscuola.it/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: seekr
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

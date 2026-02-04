@@ -1,0 +1,45 @@
+# www
+User-agent: Mediapartners-Google
+Disallow: /*/massaggi-benessere/
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /*/SBSPONS/*
+Disallow: /be/*
+Disallow: /*/nope/true/*
+Allow: */page/1/nope/true/*
+Disallow: /info/antitruffe/
+Disallow: /*/tutte-le-categorie/*
+Allow: /*/tutte-le-categorie/?keyword=*
+Disallow: /www/cli.php
+Disallow: /www/cls.php
+Disallow: /www/index.php
+Disallow: /*/gestione/*
+Disallow: /*/modifica/*
+Disallow: /riepilogo/alert/*
+Disallow: /desktop/inserimento/domodifica*
+Disallow: /desktop/dett/suggerisci-annuncio/*
+Disallow: /*/sospendi/*
+Disallow: /*/pubblica/annuncio*
+Disallow: /*/annulla-ordine/toplist*
+Disallow: /*/posizioni-link/*
+Disallow: /*/posizione/sponsorizzati
+Disallow: /*/sorting/*
+Disallow: /*/sort/*
+Disallow: /lws/keywords/suggestion?*
+Disallow: /lws/filter/*
+Disallow: /login//
+Disallow: /desktop/preferiti/check/
+Disallow: /desktop/annuncio/get-a-s
+Disallow: /desktop/utente/get-utente-panel/
+
+Sitemap: https://www.bakeca.it/sitemap.xml
+

@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /account/
+Disallow: /box/
+Disallow: /widget/
+Disallow: /cumpara-bilet/
+Disallow: /bilete/
+Disallow: /club/profil/
+Disallow: /club/pagina-mea/
+Disallow: /club/mesaje/
+Disallow: /jinglebells/
+Disallow: /*/il-astept/
+Disallow: /*/l-am-vazut/
+Disallow: /*/inregistreaza-vot/
+Disallow: /*/film-favorit/
+Disallow: /*/il-am/
+
+User-agent: bingbot
+Disallow: /program-tv/filme-la-tv/filme-*
+
+User-agent: PetalBot
+Crawl-delay: 10
+
+User-agent: Yandex
+Disallow: /
+

@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: /admin
+Disallow: /checkout
+Disallow: /register
+Disallow: /account
+Disallow: /widget
+Disallow: /navigation
+Disallow: /detail
+Disallow: /search
+Disallow: /marketing-toolbox/
+Disallow: /it/marketing-toolbox/
+Disallow: /nl/marketing-toolbox/
+Disallow: /es/marketing-toolbox/
+Disallow: /en/marketing-toolbox/
+Disallow: /tr/marketing-toolbox/
+Disallow: /fr/marketing-toolbox/
+Disallow: /sk/marketing-toolbox/
+Disallow: /uk/marketing-toolbox/
+Disallow: /*/marketing-toolbox/
+Disallow: /*.pdf$
+
+Sitemap: https://www.cube.eu/sitemap.xml

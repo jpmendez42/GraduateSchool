@@ -1,0 +1,25 @@
+Host: https://www.tlife.gr
+Host: tlife.gr
+User-agent: *
+Disallow: /search*
+Disallow: /wp-admin/*
+Disallow: /wp-login.php
+Disallow: /wp-content/plugins/
+Disallow: /wp-includes/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/upgrade/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /126962324/*
+Disallow: /126962324/
+Allow: /feed/
+Allow: /wp-includes/js/*
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/tlife
+
+User-Agent: Googlebot
+Allow: *.css
+Allow: *.js
+Allow: /?s=*
+Sitemap: https://www.tlife.gr/sitemap_index.xml
+Sitemap: https://www.tlife.gr/news-sitemap.xml 

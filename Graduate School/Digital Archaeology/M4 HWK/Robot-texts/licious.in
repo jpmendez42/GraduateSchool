@@ -1,0 +1,15 @@
+User-agent: *
+
+Disallow: /api/*
+Disallow: /checkout?view=*
+Disallow: /profile?view=*
+Disallow: /myrewards/*
+Disallow: /orders/*
+Disallow: /review-ratings/*
+Disallow: /order-history
+
+
+Disallow: /tempblog
+
+Sitemap: https://www.licious.in/sitemap_index.xml
+Sitemap: https://www.licious.in/blog/sitemap_index.xml

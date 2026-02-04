@@ -1,0 +1,15 @@
+# XML Sitemap & Google News version 5.2.7 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+#https://www.nicolaporro.it/sitemap-news.xml https://www.nicolaporro.it/sitemap_index.xml
+Sitemap: https://www.nicolaporro.it/sitemap_index.xml
+
+User-agent: grapeshot
+Disallow:
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /privacy/
+Allow: /wp-admin/admin-ajax.php
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/

@@ -1,0 +1,15 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow: /muj/
+Disallow: /asmt/
+Disallow: /api/
+Disallow: /iapi/
+Disallow: /status/
+Disallow: /translations/
+Disallow: /js/
+Disallow: /nabidky-podle-cv/
+Disallow: /session-log/
+Disallow: /prihlasit-se/?ref=
+Disallow: /kontakt/?reportJobAdId=

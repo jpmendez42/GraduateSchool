@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /umbraco#/
+Disallow: /basket
+Disallow: /favoritter
+Disallow: /search
+Disallow: /min-profil
+
+sitemap: https://www.imerco.dk/sitemap.xml

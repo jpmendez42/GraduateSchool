@@ -1,0 +1,784 @@
+<!doctype html>
+<html lang="cs" dir="ltr" class="no-js fonts-loaded"  >
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+                    <title>Nej.cz - Internet, Televize, Volání </title>
+            <meta name="description" content="Rychlé a dostupné připojení k intermetu -  ✅  Internet, televize, mobil | Jsme vám nejblíž">
+                            <meta name="robots" content="index,follow"/>
+                <meta name="author" content="Beneš & Michl, www.benes-michl.cz"/>
+	    <meta name="norton-safeweb-site-verification" content="jg04-thqa0fv1pxmomomjzs888pom9snjgku6jm68ug8bv67e-jr4pq43f8wuirej3qadgdxj0eq2emjlf7hwqd0o6c5fvg7xuxpah4ofds6mc3zq4mjcdr0ytpju2xc" />
+        <link rel="stylesheet" media="all" href="https://www.nej.cz/public/main.css?v1724137401">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+
+
+        <link rel="shortcut icon" type="image/x-icon" href="https://www.nej.cz/favicon.ico">
+        <link rel="apple-touch-icon" sizes="57x57" href="https://www.nej.cz/images/favicons/apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="https://www.nej.cz/images/favicons/apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="https://www.nej.cz/images/favicons/apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="https://www.nej.cz/images/favicons/apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="https://www.nej.cz/images/favicons/apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://www.nej.cz/images/favicons/apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://www.nej.cz/images/favicons/apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://www.nej.cz/images/favicons/apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://www.nej.cz/images/favicons/apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="https://www.nej.cz/images/favicons/android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="https://www.nej.cz/images/favicons/favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="https://www.nej.cz/images/favicons/favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="https://www.nej.cz/images/favicons/favicon-16x16.png">
+        <link rel="manifest" href="https://www.nej.cz/images/favicons/manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="https://www.nej.cz/images/favicons/ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <meta property="og:title" content="Nej.cz - Internet, Televize, Volání">
+        <meta property="og:url" content="www.nej.cz/">
+        <meta property="og:description" content="Rychlé a dostupné připojení k intermetu -  ✅  Internet, televize, mobil | Jsme vám nejblíž">
+        <meta property="og:image" content="https://www.nej.cz/img/logo.png">
+        <link rel="canonical" href="https://www.nej.cz/" />
+        <meta name="facebook-domain-verification" content="rbqawqpkzz3ux8mwmtt2anhparn6z9" />
+        <meta name="facebook-domain-verification" content="gv4p86d3hva4ormoe1q51742r4snl7" />
+
+        <script>
+        var home_url = 'https://www.nej.cz/';
+        var recaptchaSiteKey  = '6LdLlF4UAAAAAKMQutBzIsa6KJhI364pU2AAoYkG';
+        var newsletter_url = 'https://www.nej.cz/';
+        var city = '';
+                    </script>
+                        
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-5288J5B');</script>
+        <!-- End Google Tag Manager -->
+        
+        
+                    <script type="application/ld+json">
+                {
+                    "@context": "https://schema.org",
+                    "@type": "Organization",
+                    "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Praha 4 – Chodov",
+                        "postalCode": "148 00",
+                        "streetAddress": "Kaplanova 2252/8",
+                        "addressCountry": "Česká republika"
+                    },
+                    "telephone": "+420 488 999 488",
+                    "geo": {
+                        "@type": "GeoCoordinates",
+                        "latitude": 50.0342011,
+                        "longitude": 14.4902903
+                    },
+                    "url": "https://www.nej.cz/",
+                    "logo": "https://www.nej.cz/images/logo.png",
+                    "name": "Nej.cz",
+                    "description": "TELEVIZE - Digitální televize, Internet a Telefon",
+                    "contactPoint": [
+                        {
+                            "@type": "ContactPoint",
+                            "telephone": "+420 488 999 488",
+                            "contactType": "Zákaznická podpora",
+                            "email": "mailto:zakaznicke.centrum@nej.cz",
+                            "openingHoursSpecification": [
+                                {
+                                    "@type": "OpeningHoursSpecification",
+                                    "dayOfWeek": [
+                                        "Pondělí",
+                                        "Úterý",
+                                        "Středa",
+                                        "Čtvrtek",
+                                        "Pátek"
+                                    ],
+                                    "opens": "08:00",
+                                    "closes": "20:00"
+                                }
+                            ]
+                        },
+                        {
+                            "@type": "ContactPoint",
+                            "telephone": "+420 488 999 488",
+                            "contactType": "Technická podpora",
+                            "email": "mailto:technicka.podpora@nej.cz"
+                        }
+                    ]
+                }
+            </script>
+        
+        <script type="text/javascript">
+            if(window.addEventListener){
+                window.addEventListener('load',loadRetarget29995);
+            }else if(window.attachEvent){
+                window.attachEvent('onload',loadRetarget29995);
+            }
+            function loadRetarget29995(){
+                var scr = document.createElement("script");
+                scr.setAttribute("async", "true");
+                scr.type = "text/javascript";
+                scr.src = "https://" + "cz.search.etargetnet.com/j/?h=0f4f4b1ed6374ae7";
+                ((document.getElementsByTagName("head") || [null])[0] || document.getElementsByTagName("script")[0].parentNode).appendChild(scr);
+            }
+        </script>
+    </head>
+    <body class="home">
+            <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5288J5B"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+            <div class="head">
+
+
+            <div id="header">
+            <div class="container">
+                <div class="wave"></div>
+                <div class="hidden-xs">
+                    <div class="d-flex">
+                        <div id="logo">
+                            <a href="https://www.nej.cz/" title="Nej.cz - Internet, Televize, Volání">
+                                <img src="https://www.nej.cz/images/logo.svg" alt="Nej.cz - Internet, Televize, Volání" width="235" height="55" usemap="#logomap">
+
+                                <map name="logomap">
+                                    <area shape="rect" coords="0,0,100,100" alt="Nej.cz" href="https://www.nej.cz/">
+                                    <area shape="rect" coords="100,0,200,100" alt="Součást O2" href="https://www.nej.cz/nej-soucasti-o2/">
+                                </map>
+                            </a>
+                        </div>
+
+                        <div class="d-flex align-items-center header__right w-100">
+                        <div class="header__buttons">
+                            <div class="btn-group btn-group-toggle">
+                                <span class="btn active">Osobní</span><a href="https://business.nej.cz/" class="btn">Firemní</a>
+                            </div>
+                        </div>
+                        <div class="header__topright">
+                            <div class="topmenu">
+                                <ul class="">
+                                                                                                                                                                                                                                                                                                    <li class="velkoobchod" >
+                                                    <a href="https://www.nej.cz/velkoobchod/" title="Velkoobchod">
+                                                        Velkoobchod
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                            <li class="o-nas" >
+                                                    <a href="https://www.nej.cz/o-nas/" title="O nás">
+                                                        O nás
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                            <li class="aktualne" >
+                                                    <a href="https://www.nej.cz/aktualne/dulezita-oznameni/" title="Aktuálně">
+                                                        Aktuálně
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                            <li class="dokumenty" >
+                                                    <a href="https://www.nej.cz/dokumenty/oznameni/" title="Dokumenty">
+                                                        Dokumenty
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                            <li class="podpora" >
+                                                    <a href="https://www.nej.cz/podpora/technicka-podpora/" title="Podpora">
+                                                        Podpora
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                            <li class="blog" >
+                                                    <a href="https://www.nej.cz/blog/" title="Blog">
+                                                        Blog
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                            <li class="kontakt" style="border-right: none;">
+                                                    <a href="https://www.nej.cz/kontakt/" title="Kontakty">
+                                                        Kontakty
+                                                    </a>
+                                                </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="visible-xs"><a href="https://www.nej.cz/mojenej/" class="login"><span></span><strong>Moje Nej</strong> / přihlášení</a> </li>
+                                </ul>
+                            </div>
+
+                            <div class="cart">
+                                                                                                <a href="https://www.nej.cz/mojenej/" class="login" title="Moje Nej"><span></span><strong>Moje Nej</strong></a>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+            <div id="menu">
+                <div class="container">
+                    <div class="row">
+                        <nav class="navbar navbar-default">
+                            <div class="container-fluid">
+                                <div class="navbar-header">
+                                    <a href="https://www.nej.cz/" title="Nej.cz - Internet, Televize, Volání" class="logo" >
+                                        <img src="https://www.nej.cz/images/logo.svg" alt="Nej.cz - Internet, Televize, Volání" class="visible-xs" />
+                                    </a>
+
+                                    <div class="header__buttons">
+                                        <div class="btn-group btn-group-toggle">
+                                            <span class="btn active">Osobní</span><a href="https://business.nej.cz/" class="btn">Firemní</a>
+                                        </div>
+                                    </div>
+
+                                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                                        <span class="sr-only">Toggle navigation</span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+                                </div>
+
+                                <div id="navbar" class="navbar-collapse collapse">
+                                    <ul class="nav navbar-nav primary">
+                                        <li class="home active"><a  class="active" href="https://www.nej.cz/" aria-label="Úvod"><span></span></a></li>
+                                                                                                                                                                                        <li class="internet">
+                                                        <a href="https://www.o2.cz/nejcz/internet"  title="Internet">
+                                                            Internet
+                                                        </a>
+
+                                                                                                            </li>
+                                                                                                    <li class="televize">
+                                                        <a href="https://www.nej.cz/televize/"  title="Televize">
+                                                            Televize
+                                                        </a>
+
+                                                                                                            </li>
+                                                                                                    <li class="volani">
+                                                        <a href="https://www.nej.cz/volani/"  title="Volání">
+                                                            Volání
+                                                        </a>
+
+                                                                                                            </li>
+                                                                                                    <li class="nej-soucasti-o2">
+                                                        <a href="https://www.nej.cz/nej-soucasti-o2/"  title="Spojení O2">
+                                                            Spojení O2
+                                                        </a>
+
+                                                                                                            </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </ul>
+                                    <ul class="nav navbar-nav navbar-right secondary">
+                                                                                                                                                                                                                                                                                                                                <li class="velkoobchod">
+                                                        <a href="https://www.nej.cz/velkoobchod/" title="Velkoobchod">
+                                                            Velkoobchod
+                                                        </a>
+                                                    </li>
+                                                                                                                                                                                                            <li class="o-nas">
+                                                        <a href="https://www.nej.cz/o-nas/" title="O nás">
+                                                            O nás
+                                                        </a>
+                                                    </li>
+                                                                                                                                                                                                            <li class="aktualne">
+                                                        <a href="https://www.nej.cz/aktualne/dulezita-oznameni/" title="Aktuálně">
+                                                            Aktuálně
+                                                        </a>
+                                                    </li>
+                                                                                                                                                                                                            <li class="dokumenty">
+                                                        <a href="https://www.nej.cz/dokumenty/oznameni/" title="Dokumenty">
+                                                            Dokumenty
+                                                        </a>
+                                                    </li>
+                                                                                                                                                                                                            <li class="podpora">
+                                                        <a href="https://www.nej.cz/podpora/technicka-podpora/" title="Podpora">
+                                                            Podpora
+                                                        </a>
+                                                    </li>
+                                                                                                                                                                                                            <li class="blog">
+                                                        <a href="https://www.nej.cz/blog/" title="Blog">
+                                                            Blog
+                                                        </a>
+                                                    </li>
+                                                                                                                                                                                                            <li class="kontakt">
+                                                        <a href="https://www.nej.cz/kontakt/" title="Kontakty">
+                                                            Kontakty
+                                                        </a>
+                                                    </li>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li class="visible-xs"><a href="https://www.nej.cz/mojenej/" class="login" title="Moje Nej"><span></span><strong>Moje nej</strong> / přihlášení</a> </li>
+                                    </ul>
+
+                                    <div class="location" style="margin-left: auto">
+                                    </div>
+
+                                                                    </div><!--/.nav-collapse -->
+                            </div><!--/.container-fluid -->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+                    <div id="middle"  style="padding-top: 0;">
+
+                                    
+                    
+                    
+                    
+                    <section class="section section--intro section--intro-hp">
+    <div class="hero hero--tv hero--red">
+        <img src="https://www.nej.cz/images/o2/banner-homepage.jpg?v=2"
+             class="hero__img" alt="Muž, který vychází ze dveří a drží 6 balónků.">
+        <div class="container">
+                        
+            <div class="hero__content">
+                <h1 class="hero-animation-h1">
+                    Sousede, <br>
+                    Nej.cz je součástí rodiny O2. Oslavme to společně
+                </h1>
+                <ul class="list-check hero-animation-perex">
+                    <li>Internet pro 99 % domácností</li>
+                    <li>Výhodné tarifní balíčky</li>
+                    <li>Digitální televize pro celou rodinu</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section section--spacing">
+    <div class="container banner2">
+        <div class="container-banner2 container-banner2-mobile">
+            <div class="photo-item">
+                <div data-aos="fade-right" data-aos-duration="500">
+                    <img src="https://www.nej.cz/images/o2/internet-router2.png?v3" alt="internet icon" loading="lazy">
+                </div>
+            </div>
+
+            <!--x Family photo x-->
+
+            <!-- NejNET div with icons -->
+
+            <div class="center-item">
+                <div data-aos="fade-down" data-aos-duration="500">
+                    <div class="h1"><span class="gotham-light-red-60px"></span><span
+                            class="gotham-bold-red-60px">Internet</span></div>
+                    <div class="h2 gotham-light-black-25px">Optický internet s rychlostí, která vám sedne</div>
+                    <div class="icons">
+                        <div class="mouse-block">
+                            <img class="svg-icon" src="https://www.nej.cz/images/icons/o2/connection.svg" alt="icon" style="height: 42px" loading="lazy">
+                            <p class="text-mouse gotham-light-black-17px">Nejnovější zařízení <br> Servis 24/7</p>
+                        </div>
+                        <div class="modem-block">
+                            <img class="svg-icon " src="https://www.nej.cz/images/icons/o2/wifi.svg" alt="icon" style="height: 42px" loading="lazy">
+                            <p class="text-modem gotham-light-black-17px">Vše zprovozníme<br />v ceně služby</p>
+                        </div>
+                        <div class="repair-block">
+                            <img class="svg-icon " src="https://www.nej.cz/images/icons/o2/wrench.svg" alt="icon" style="height: 42px" loading="lazy">
+                            <p class="text-repair gotham-light-black-17px">Naši technici jsou <br />vám vždy po ruce</p>
+                        </div>
+                    </div>
+                </div>
+                
+                    <a href="https://www.o2.cz/nejcz/internet" class="rectangle-anchor">
+                        <div class="price-item-left">
+                        <div data-aos="fade-left" data-aos-duration="500" data-aos-offset="-50">
+                            <div class="grey-rectangle">
+                                <p class="gotham-light-black-14px">Rychle a spolehlivě na optické síti</p>
+                            </div>
+                        </div>
+                        <div data-aos="fade-left" data-aos-duration="500" data-aos-offset="-100">
+                            <div class="red-rectangle">
+                                <p><span class="jiz-od gotham-book-white-14px">již od</span> <span
+                                        class="kc gotham-bold-white-60px">399 Kč</span> <span
+                                        class="mesic gotham-medium-white-16px">/měsíc</span></p>
+                                <div class="btn button-primary">Seznamte se</div>
+                                                            </div>
+                        </div>
+                        </div>
+                    </a>
+
+            </div>
+
+            <!--x NejNET div with icons x-->
+
+        </div>
+    </div>
+
+</section>
+<section class="section section--bg-gray">
+    <div class="container banner2 banner2-middle">
+        <div class="container2-banner2">
+
+            <!-- Family photo -->
+
+            <div class="photo-item">
+            <div data-aos="fade-left" data-aos-duration="500">
+                <img src="https://www.nej.cz/images/o2/Oneplay.png" alt="tv icon" loading="lazy">
+            </div>
+            </div>
+
+            <!--x Family photo x-->
+
+
+            <!-- NejTV div with icons -->
+
+            <div class="center-item2">
+            <div data-aos="fade-down" data-aos-duration="500">
+                    <div class="h1"><span class="gotham-light-red-60px"></span><span
+                            class="gotham-bold-red-60px">Oneplay</span></div>
+                    <div class="h2 gotham-light-black-25px">To nejlepší z&nbsp;O2 TV a&nbsp;Voyo na jednom místě</div>
+                    <div class="icons-grid icons-grid--spaced">
+                        <div class="icons-grid__item">
+                            <img class="svg-icon" src="https://www.nej.cz/images/icons/o2/screen-squares.svg" alt="icon" loading="lazy">
+                            <p class="text-tv-block gotham-light-black-17px">Užijte si přes 140 kanálů s nejširší sportovní nabídkou</p>
+                        </div>
+                        <div class="icons-grid__item">
+                            <img class="svg-icon" src="https://www.nej.cz/images/icons/o2/play.svg" alt="icon" loading="lazy">
+                            <p class="text-arrows gotham-light-black-17px">Nahrajte si neomezené množství obsahu na 30 dní</p>
+                        </div>
+                        <div class="icons-grid__item">
+                            <img class="svg-icon" src="https://www.nej.cz/images/icons/o2/devices.svg" alt="icon" loading="lazy">
+                            <p class="text-devices gotham-light-black-17px">Sledujte na televizi, mobilu, tabletu nebo počítači</p>
+                        </div>
+                        <div class="icons-grid__item">
+                            <img class="svg-icon" src="https://www.nej.cz/images/icons/o2/rewind.svg" alt="icon" loading="lazy">
+                            <p class="text-globe gotham-light-black-17px">Užijte si pořady až 7&nbsp;dní zpětně</p>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://www.nej.cz/televize/" class="rectangle-anchor">
+                    <div class="price-item-right">
+                    <div data-aos="fade-right" data-aos-duration="500" data-aos-offset="-100">
+                        <div class="grey-rectangle2">
+                            <p class="gotham-light-black-14px">Filmy, seriály a sport dle vašich představ</p>
+                        </div>
+                    </div>
+                    <div data-aos="fade-right" data-aos-duration="500" data-aos-offset="-150">
+                        <div class="red-rectangle2">
+                            <p><span class="jiz-od gotham-book-white-14px">již od</span> <span
+                                    class="kc gotham-bold-white-60px">199 Kč</span> <span
+                                    class="mesic gotham-medium-white-16px">/měsíc</span></p>
+                            <div class="btn button-primary">Seznamte se</div>
+                                                    </div>
+                    </div>
+                    </div>
+                </a>
+            </div>
+
+            <!--x NejTV div with icons x-->
+
+        </div>
+    </div>
+</section>
+<section class="section section--spacing">
+    <div class="container banner2">
+        <div class="container-banner2">
+            <div class="photo-item">
+            <div data-aos="fade-right" data-aos-duration="500">
+                <img src="https://www.nej.cz/images/o2/o2_connect.png" alt="mobil icon" loading="lazy">
+            </div>
+            </div>
+
+            <!--x Family photo x-->
+
+            <!-- NejNET div with icons -->
+
+            <div class="center-item-last">
+            <div data-aos="fade-down" data-aos-duration="500">
+                    <div class="h1"><span class="gotham-light-red-60px"></span><span
+                            class="gotham-bold-red-60px">Výhodné volání díky O2</span></div>
+                    <div class="h2 gotham-light-black-25px">Výhodné tarify pro celou rodinu</div>
+                    <div class="icons">
+                        <div class="mouse-block">
+                            <img class="svg-icon" src="https://www.nej.cz/images/icons/o2/phone-waves.svg" alt="icon" loading="lazy">
+                            <p class="text-mouse gotham-light-black-17px"> Neomezené volání a SMS do všech sítí </p>
+                        </div>
+                        <div class="modem-block">
+                            <img class="svg-icon " src="https://www.nej.cz/images/icons/o2/5g-circle.svg" alt="icon" loading="lazy">
+                            <p class="text-modem gotham-light-black-17px"> O2 Connect ke každému tarifu</p>
+                        </div>
+                        <div class="repair-block">
+                            <img class="svg-icon " src="https://www.nej.cz/images/icons/o2/transfer.svg" alt="icon"  loading="lazy">
+                            <p class="text-repair gotham-light-black-17px"> Nestarejte se o přenos telefonního čísla </p>
+                        </div>
+                    </div>
+                </div>
+                <a href="https://www.nej.cz/volani/" class="rectangle-anchor">
+                    <div class="price-item-left">
+                    <div data-aos="fade-left" data-aos-duration="500" data-aos-offset="-50">
+                        <div class="grey-rectangle">
+                            <p class="gotham-light-black-14px">Ušetřete za volání a data</p>
+                        </div>
+                    </div>
+                    <div data-aos="fade-left" data-aos-duration="500" data-aos-offset="-100">
+                        <div class="red-rectangle">
+                            <p>
+                                <span class="jiz-od gotham-book-white-14px">již od</span>
+                                <span class="kc gotham-bold-white-60px">599 Kč</span>
+                                <span class="mesic gotham-medium-white-16px">/měsíc</span>
+                            </p>
+                            <div class="btn button-primary">Seznamte se</div>
+                                                    </div>
+                    </div>
+                    </div>
+                </a>
+
+            </div>
+
+            <!--x NejNET div with icons x-->
+
+        </div>
+    </div>
+
+</section>
+<section class="section section--bg-gray">
+    <div class="container">
+        <div class="text-content__grid">
+            <div class="text-content">
+                <h2 class="text-content__heading">
+                    <strong>Balíček televize, internet a mobilní volání</strong> teď za <strong>998&nbsp;Kč</strong>/měsíc
+                </h2>
+                <p>Ušetřete s balíčkem služeb <strong>O2 Spolu</strong></p>
+                <ul>
+                    <li><strong>Sestavte si balíček podle sebe</strong></li>
+                    <li>Spojením služeb <strong>výrazně ušetříte</strong></li>
+                    <li>S balíčkem O2 Spolu <strong>ochráníme vaše data</strong></li>
+                    <li><strong>Flexibilně</strong> a <strong>bez závazků</strong></li>
+                    <li>Rozjeďte to s <strong>Daty naplno</strong></li>
+                </ul>
+                <p>
+                    <a href="https://www.o2.cz/osobni/o2spolu?cid=nejweb" target="_blank" class="btn btn-primary">Více o O2 Spolu</a>
+                </p>
+            </div>
+            <div class="text-content">
+                <img src="https://www.nej.cz/images/o2/o2_spolu2.png" alt="">
+            </div>
+        </div>
+    </div>
+</section>
+<section class="section section--spacing section--call mt-0">
+    <div id="order-call">
+        <div class="call-box-tv mt-0" id="kontakt">
+  <div class="container">
+    <div class="call-box-tv__content">
+      <h2>
+        Nechte nám na&nbsp;sebe kontakt
+      </h2>
+    </div>
+
+    <div class="call-box-tv__form-wrap">
+      <div id="cmb-banner"></div>
+      <div class="call-box-tv__person">
+        <img src="https://www.nej.cz//images/o2/call-girl.png" alt="">
+      </div>
+    </div>
+  </div>
+</div>    </div>
+</section>
+<section class="section section--cards-hp section--bg-gray">
+        <div class="container">
+        <h2 class="h1">Mohlo by vás zajímat</h2>
+
+        <div class="row row-gap-sm w-auto mt-2">
+            <div class="col-12 col-lg-4 text-center">
+                <a href="https://www.nej.cz/nej-soucasti-o2/" class="d-block h-100">
+                    <div class="hp-cards h-100">
+                        <h3><strong>Spojení s O2</strong></h3>
+                        <p class="mt-2">Informace pro stávající zákazníky.</p>
+                        <div class="mt-auto"><button class="btn button-primary">Prohlédnout</button></div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-12 col-lg-4 text-center">
+                <a href="https://www.nej.cz/dokumenty/oznameni/" class="d-block h-100">
+                    <div class="hp-cards h-100">
+                        <h3><strong>Dokumenty <br>a podpora</strong></h3>
+                        <p>Přečtěte si všechny důležité<br> a praktické informace<br> o našich službách.</p>
+                        <div class="mt-auto"><button class="btn button-primary">Prohlédnout</button></div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-12 col-lg-4 text-center">
+                <a href="https://www.nej.cz/mojenej/" class="d-block h-100">
+                    <div class="hp-cards h-100">
+                        <h3><strong>Moje Nej</strong></h3>
+                        <p class="mt-2">Přihlaste se do uživatelského<br> rozhraní, kde najdete své<br> smlouvy a dokumenty.</p>
+                        <div class="mt-auto"><button class="btn button-primary">Prohlédnout</button></div>
+                    </div>
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+                                
+
+                            </div>
+        
+            
+<footer id="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3">
+                <a href="https://www.nej.cz/" title="Nej.cz - Internet, Televize, Volání" class="footer__logo">
+                    <img src="https://www.nej.cz/images/logo.svg" alt="Nej.cz - Internet, Televize, Volání" loading="lazy" usemap="#logomapFooter">
+
+                    <map name="logomapFooter">
+                        <area shape="rect" coords="0,0,100,100" alt="Nej.cz" href="https://www.nej.cz/">
+                        <area shape="rect" coords="500,0,170,100" alt="Součást O2" href="https://www.nej.cz/nej-soucasti-o2/">
+                    </map>
+                </a>
+            </div>
+
+            <div class="col-sm-9 text-sm-right">
+                <div class="footer__right">
+                    <div class="footer__contact">
+                        <p><strong><span style="color: #e2001a;">Zákaznická linka&nbsp;</span></strong>(Po-Pá 8:00-19:00):<strong><a href="tel:+420488999488">+420&nbsp;488&nbsp;999&nbsp;488</a></strong></p>                    </div>
+
+                    <div class="footer__social">
+                        <a href="https://www.facebook.com/Nej.CZ/" class="footer__fb" target="_blank"  aria-label="Facebook">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="13" height="24" viewBox="0 0 13 24"><g><g><path d="M12.268 13.053l.572-4.268H8.44V6.06c0-1.233.36-2.076 2.207-2.076H13V.168A32.602 32.602 0 0 0 9.567 0c-3.397 0-5.72 1.99-5.72 5.64v3.146H0v4.267h3.843V24h4.592V13.053z"/></g></g></svg>
+                        </a>
+                        <a href="https://www.instagram.com/nej.cz/" class="footer__instagram" target="_blank" aria-label="Instagram">
+                            <img src="https://www.nej.cz/images/instagram-color.svg" alt="logo instagramu" loading="lazy">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <hr>
+        <div class="footer-row">
+            <div class="footer-col footer-sm-col-50">
+                <h3>Produkty</h3>
+                <ul>
+                    <li><a href="https://www.o2.cz/nejcz/internet">Internet</a></li>
+                    <li><a href="https://www.nej.cz/televize/">Televize</a></li>
+                    <li><a href="https://www.nej.cz/volani/">Mobil</a></li>
+                </ul>
+            </div>
+            <div class="footer-col footer-sm-col-50">
+                <h3>Pro firmy</h3>
+                <ul>
+                    <li><a href="https://business.nej.cz/internet-profi/">Internet Pro</a></li>
+                    <li><a href="https://business.nej.cz/internet-business/">Internet Business</a></li>
+                    <li><a href="https://business.nej.cz/housing/">Housing</a></li>
+                </ul>
+            </div>
+            <div class="clearfix visible-xs-block">&nbsp;</div>
+            <div class="footer-col footer-sm-col-100">
+                <h3>Podpora</h3>
+                <ul>
+                    <li><a href="https://www.nej.cz/podpora/caste-dotazy-ke-sluzbam/">Otázky a odpovědi</a></li>
+                    <li><a href="https://www.nej.cz/dokumenty/vseobecne-podminky/">Dokumenty</a></li>
+                    <li><a href="https://www.nej.cz/aktualne/dulezita-oznameni/">Oznámení provozu</a></li>
+                    <li><a href="https://www.nej.cz/podpora/mereni-rychlosti-internetu/">Měření rychlosti</a></li>
+                    <li><a href="https://www.nej.cz/projekty-podporene-eu/">Projekty podpořené EU</a></li>
+                    <li><a href="https://www.nej.cz/cert-csirt/">CERT/CSIRT<br /></a></li>
+                </ul>
+            </div>
+            <div class="footer-col-2 footer-sm-col-100">
+                <h3>O nás</h3>
+                <div class="footer-row">
+                    <div class="footer-col footer-sm-col-50">
+                        <ul>
+                            <li><a href="https://www.nej.cz/o-nas/">O společnosti</a></li>
+                            <li><a href="https://www.nej.cz/bankovni-spojeni/">Bankovní spojení</a></li>
+                            <li><a href="https://www.nej.cz/kontakt/">Kontakt</a></li>
+                            <li><a href="https://www.nej.cz/blog/">Blog</a></li>
+                            <li><a href="https://www.nej.cz/aktualne/kariera/">Kariéra</a></li>
+                            <li><a href="https://www.nej.cz/kontakt/">Vyjadřování se k sítím</a></li>
+                        </ul>
+                    </div>
+                    <div class="footer-col footer-sm-col-50">
+                        <ul>
+                            <li><a href="https://www.nej.cz/aktualne/legislativa/">Legislativa</a></li>
+                            <li><a href="https://www.nej.cz/aktualne/vnitrni-oznamovaci-system/">Vnitřní oznamovací systém</a></li>
+                            <li><a href="https://www.nej.cz/data/folders/355.pdf">Obchodní podmínky</a></li>
+                            <li><a href="https://www.nej.cz/zasady-zpracovani-osobnich-udaju/">Ochrana osobních údajů</a></li>
+                            <li><a href="https://www.nej.cz/mapa-stranek/">Mapa stránek</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<div id="copy">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-6">
+                &copy; 2025 Nej.cz
+            </div>
+            <div class="col-sm-6">
+                Technické řešení <a href="https://www.benes-michl.cz/" target="_blank">Beneš & Michl</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        <script src="https://www.nej.cz/js/modules/jquery-1.11.2.min.js" data-cookieconsent="ignore"></script>
+            <script src="https://www.nej.cz/public/main-min.js?v1722455144" data-cookieconsent="ignore"></script>
+
+                
+            <!-- Hotjar Tracking Code for https://www.nej.cz - NOVY -->
+            <script>
+                (function(h,o,t,j,a,r){
+                    h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+                    h._hjSettings={hjid:2691720,hjsv:6};
+                    a=o.getElementsByTagName('head')[0];
+                    r=o.createElement('script');r.async=1;
+                    r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+                    a.appendChild(r);
+                })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+            </script>
+        
+        
+        <script src='https://www.google.com/recaptcha/api.js' async defer></script>
+
+        
+    <script>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-22377700-3', 'auto');
+        ga('send', 'pageview');
+    </script>
+
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+
+
+        <script data-cookieconsent="ignore">
+            var language = 'cs';
+
+                        var identificatorCMB = 'a221681';
+            
+            
+            (function(d,e,f,k,g,h,a,c,b){d[g]=b=d[g]||{};b.ls=[];b.configure=function(){this.cfg=h.call(arguments)};
+                b.instantiate=function(){var a=new b.widget;a.init.apply(a,arguments);return a};b.widget=function(){};
+                b.widget.prototype.init=function(){this.cfg=h.call(arguments);b.ls.push(this)};a=e.createElement(f);
+                c=e.getElementsByTagName(f)[0];a.async=1;a.src=k;c.parentNode.insertBefore(a,c)})(window,document,"script",
+                "https://cmb.o2.cz/scripts/init.js","O2remoteCmb",Array.prototype.slice);
+            O2remoteCmb.configure('nej', language, {'debugMode': true, 'styleVersion':1});
+            
+        </script>
+
+    
+        <script data-cookieconsent="ignore">
+            $(document).ready(function(){
+                let cmbTrackingObject = {
+                    track: function (lead) {
+                        window.dataLayer = window.dataLayer || [];
+                        window.dataLayer.push({
+                            event: 'o2_cmb',
+                            user: {
+                                tel: lead.data.msisdn
+                            }
+                        });
+                    }
+                }
+                if($('#cmb-banner-hero')){
+                    O2remoteCmb.instantiate('cmb-banner-hero', identificatorCMB, language, {
+                        aData: cmbTrackingObject
+                    });
+                }
+                if($('#cmb-banner')){
+                    O2remoteCmb.instantiate('cmb-banner', identificatorCMB, language, {
+                        aData: cmbTrackingObject
+                    });
+                }
+            });
+        </script>
+    
+    </body>
+</html>

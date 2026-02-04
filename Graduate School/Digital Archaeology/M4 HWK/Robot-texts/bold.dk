@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /search?q=*
+
+########################################################################################################################
+### AI crawler reference                                                                                             ###
+### The link below provides instructions to what kind of content can be used to train AI models on this website      ###
+### https://bold.dk/ai.txt                                                                                           ###
+########################################################################################################################
+
+# Common crawl
+User-agent: CCBot
+Disallow: /
+
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+
+# OpenAI (ChatGPT realtime search)
+User-agent: ChatGPT-User
+Disallow: /
+
+# Applebot-Extended
+User-agent: Applebot-Extended
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+# Sitemap
+# Sitemap: https://bold.dk/sitemap.xml/all.xml
+#Sitemap: https://bold.dk/feed/rss/articles/google/news.xml

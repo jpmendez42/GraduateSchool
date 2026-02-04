@@ -1,0 +1,55 @@
+﻿User-agent: *
+
+Disallow: /congratulation/
+Disallow: /popup/
+Disallow: /price/
+Disallow: /executive/
+Disallow: /content/landing/
+Disallow: /landing/
+Disallow: /mypage/
+Disallow: /message/
+Disallow: /resume/
+Disallow: /biz/mypage/
+Disallow: /mail/received/list/
+Disallow: /biz/mail/received/list/
+Disallow: /coupon/
+Disallow: /logout/
+Disallow: /linkedin/v2/login/
+Disallow: /dwr/interface/
+
+User-agent: Twitterbot
+Disallow: /recruit/seminar/
+
+User-agent: JoobleBot
+Disallow: /
+
+User-agent: Googlebot
+Disallow: /company/view/6910/
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+Sitemap: https://www.bizreach.jp/sitemap.txt
+Sitemap: https://www.bizreach.jp/sitemap_job.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_JG.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_JG_J.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_IG.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_J00.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_KWA.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_JG_IG.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_JG_J_IG.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_JG_J00.txt
+Sitemap: https://www.bizreach.jp/sitemap_job_JG_J_J00.txt
+Sitemap: https://www.bizreach.jp/sitemap_company.txt
+Sitemap: https://www.bizreach.jp/sitemap_company_view.txt
+Sitemap: https://www.bizreach.jp/sitemap_member_register.txt
+Sitemap: https://www.bizreach.jp/sitemap_bizreachlab.txt
+Sitemap: https://www.bizreach.jp/sitemap_testimonial.txt
+Sitemap: https://www.bizreach.jp/sitemap_pages.txt
+Sitemap: https://www.bizreach.jp/sitemap_hhsummit.txt
+Sitemap: https://www.bizreach.jp/sitemap_detective.txt
+Sitemap: https://www.bizreach.jp/sitemap_content.txt
+Sitemap: https://www.bizreach.jp/sitemap_login.txt

@@ -1,0 +1,72 @@
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_reparti_BIT_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_sottoreparti_BIT_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_foglie_BIT_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_top_of_the_year_BIT_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_most_voted_BIT_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_reparti_AEC_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_sottoreparti_AEC_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_foglie_AEC_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_reparti_SPA_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_sottoreparti_SPA_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_desktop_foglie_SPA_150520.xml
+Sitemap: https://www.libreriauniversitaria.it/sitemapindex_https_school_150520.xml
+User-agent: *
+Allow: *
+Disallow: /product_comment_add/*
+Disallow: /*query_order_by
+Disallow: /*sort_order_by
+Disallow: /*tradedoubler
+Disallow: /promozione_*-p_*
+Disallow: /libri-scontati-*-pag_*
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Sogou web spider
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: MegaIndex.ru/2.0
+Disallow: /
+
+User-agent: ltx71
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: istellabot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: RepoLookoutBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+

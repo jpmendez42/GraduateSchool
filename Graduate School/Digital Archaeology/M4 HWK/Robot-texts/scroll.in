@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /article/print/
+Disallow: /newsrepublic/
+User-agent: proximic
+Disallow:
+Sitemap: https://scroll.in/sitemap/sitemap.xml
+Sitemap: https://scroll.in/sitemap/news-sitemap.xml

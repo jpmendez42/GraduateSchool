@@ -1,0 +1,27 @@
+User-agent: *
+
+ Disallow: /checkout_
+ Disallow: /crt_
+ Disallow: /newsletter_unsubscribe.php
+ Disallow: /shopping_cart.php
+ Disallow: /*/action/buy_now$
+ Disallow: /print_product_info.php
+ Disallow: *action=negative
+ Disallow: *action=positive
+ Disallow: *reviews_id=
+ Disallow: /advanced_search_result.php
+ Disallow: /search.php
+ Disallow: *layout=
+ Disallow: *s_open=
+ Disallow: /redirect.php
+ Disallow: *objectID=
+ Disallow: /erfahrungen*
+ Disallow: /ajax*
+ Disallow: *shopping*
+
+ Disallow: /content_data_transfer.php
+
+User-agent: aranhabot
+ Disallow: /
+
+Sitemap: https://www.apodiscounter.de/sitemapindex.xml

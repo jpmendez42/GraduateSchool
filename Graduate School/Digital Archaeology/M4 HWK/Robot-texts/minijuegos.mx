@@ -1,0 +1,42 @@
+User-agent: proximic
+Disallow: /
+
+User-agent: *
+
+Disallow: /user/
+Disallow: /user/*
+
+Disallow: /usuarios/
+Disallow: /users/
+Disallow: /utenti/
+Disallow: /gebruikers/
+Disallow: /uzytkownicy/
+
+Disallow: /buscar/
+Disallow: /search/
+Disallow: /procurar/
+Disallow: /cercare/
+Disallow: /zoek/
+Disallow: /szukaj/
+
+Disallow: /videos/canal/
+Disallow: /videos/channel/
+Disallow: /video/canale/
+Disallow: /video/canal/
+Disallow: /videos/kanaal/
+Disallow: /filmiki/kanal/
+
+
+Disallow: /games/
+Disallow: /helpers/
+Disallow: /ajax/
+Disallow: /ajax-html/
+
+Disallow: /harming/humans/
+Disallow: /ignoring/human/orders/
+Disallow: /harm/to/self/
+
+Allow: /ajax-html/nav/cpa-game-card/
+Allow: /ajax-html/nav/sidebar/iwgames/
+
+Sitemap: https://www.minijuegos.mx/sitemap.xml

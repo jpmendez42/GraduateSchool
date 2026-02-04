@@ -1,0 +1,121 @@
+# Google AdSense
+User-agent: Mediapartners-Google
+Disallow:
+
+# Google AdS-bot
+User-agent: AdsBot-Google
+Disallow:
+
+# Google Image
+User-agent: Googlebot-Image
+Disallow:
+
+# Google mobile
+User-agent: Googlebot-Mobile
+Disallow:
+
+# Google News
+User-agent: Googlebot-News
+Disallow:
+
+User-agent: facebookexternalhit
+Disallow:
+
+User-agent: DOC
+Disallow: /
+User-agent: Download Ninja
+Disallow: /
+User-agent: EasouSpider
+Disallow: /
+User-agent: Exabot
+Disallow: /
+User-agent: Vagabondo
+Disallow: /
+User-agent: Zao
+Disallow: /
+User-agent: Fetch
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: larbin
+Disallow: /
+User-agent: libwww
+Disallow: /
+User-agent: linko
+Disallow: /
+User-agent: Offline Explorer
+Disallow: /
+User-agent: sitecheck.internetseer.com
+Disallow: /
+User-agent: SiteSnagger
+Disallow: /
+User-agent: Teleport
+Disallow: /
+User-agent: TeleportPro
+Disallow: /
+User-agent: UbiCrawler
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: WebStripper
+Disallow: /
+User-agent: WebZIP
+Disallow: /
+User-agent: Xenu
+Disallow: /
+User-agent: Zealbot
+Disallow: /
+User-agent: ZyBORG
+Disallow: /
+
+
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Allow: /automobili/wp-admin/admin-ajax.php
+Allow: /automobili/wp-content/uploads/
+Allow: /en/wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /wp-admin/
+Disallow: */xmlrpc.php
+Disallow: *?wptheme=
+Disallow: *?author=
+Disallow: *?comments=
+Disallow: *?replytocom
+Disallow: /?s=
+Disallow: */comment-page-
+Disallow: /addineyeV2.html
+Disallow: /eyeblaster/addineyeV2.html
+Disallow: /DARTIframe.html
+Disallow: /doubleclick
+Disallow: /wp-json/
+Disallow: /*?showConsent=
+Disallow: /*?mashsb-refresh
+Disallow: /automobili/wp-login.php
+Disallow: /automobili/wp-admin/
+Disallow: /automobili/xmlrpc.php
+Disallow: /automobili/*?replytocom
+Disallow: /automobili/search$
+Disallow: /automobili/s?
+Disallow: /automobili/?s=
+Disallow: /automobili/page/*/?s=
+Disallow: /automobili/wp-admin/admin-ajax.php?action=post_views_reset
+Disallow: /automobili/wp-json/
+Disallow: /automobili/*?showConsent=
+
+Disallow: /en/wp-login.php
+Disallow: /en/wp-admin/
+Disallow: /en/xmlrpc.php
+Disallow: /en/*?replytocom
+Disallow: /en/search$
+Disallow: /en/?s=
+Disallow: /en/s?
+Disallow: /en/page/*/?s=
+Disallow: /en/wp-json/
+Disallow: /en/*?showConsent=
+
+Sitemap: https://www.clubalfa.it/sitemap_index.xml
+Sitemap: https://www.clubalfa.it/news-sitemap.xml
+Sitemap: https://www.clubalfa.it/en/news-sitemap.xml
+Sitemap: https://www.clubalfa.it/en/sitemap_index.xml
+Sitemap: https://www.clubalfa.it/automobili/news.xml
+Sitemap: https://www.clubalfa.it/automobili/sitemaps.xml

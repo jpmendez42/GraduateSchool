@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /control_panel/
+Disallow: /__/ws/
+Disallow: /api/
+Disallow: /account/ajax_login_form/

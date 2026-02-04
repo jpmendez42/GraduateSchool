@@ -1,0 +1,36 @@
+User-agent: Googlebot
+Disallow: /user/
+Disallow: /suche
+Disallow: /*suche
+Disallow: /api/*
+Disallow: /diashow/flexslider/*
+Disallow: /social/*
+Disallow: /modules/partial/*
+Disallow: /forum/has-subscription/*
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: scrapy
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-Agent: *
+Disallow: /user/
+Disallow: /suche
+Disallow: /*suche
+Disallow: /api/*
+Disallow: /diashow/flexslider/*
+Disallow: /social/*
+Disallow: /modules/partial/*
+Disallow: /forum/has-subscription/*
+
+Sitemap: https://www.gutekueche.at/sitemaps/sitemap.xml.gz

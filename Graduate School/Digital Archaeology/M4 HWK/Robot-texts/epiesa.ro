@@ -1,0 +1,39 @@
+User-agent: 008
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+User-agent: EtaoSpider
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+
+User-agent: *
+
+Disallow: *;*
+Disallow: *,*
+Disallow: */filtre-*
+Disallow: /produse_2023_3/*
+Disallow: /produse_2022_2/*
+Disallow: /produse_2020_4/*
+Disallow: /produse_2020_1/*
+Disallow: /produse_2019_3/*
+Disallow: /produse_2018_4/*
+
+
+

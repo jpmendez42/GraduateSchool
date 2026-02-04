@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /contentlike.php
+Disallow: /getPhotoData.php
+Disallow: /tarsalgo
+Disallow: /setposition.php
+Disallow: /login.php
+Disallow: /broker_ct.php
+Disallow: /saveck.php
+Disallow: /cdn-cgi/
+

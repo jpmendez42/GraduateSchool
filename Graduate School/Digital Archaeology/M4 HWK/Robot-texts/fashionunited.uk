@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+Disallow: /storybook/
+Allow: *.css
+Allow: *.js
+Allow: /graphql/

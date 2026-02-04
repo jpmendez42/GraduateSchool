@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /flinkccpc/ns/cbc1201/searchCnt
+Disallow: /flinkccpc/ns/cbc1103/webEntry
+Disallow: /flinkccpc/ns/cbc1103/sessionEntry
+Disallow: /flinkccpc/ns/cbc1103/loginEntry
+Disallow: /*S2SESSIONID
+
+Sitemap: https://fullcast.jp/sitemap.xml

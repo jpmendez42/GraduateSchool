@@ -1,0 +1,11 @@
+User-agent: ChatGPT-User
+Crawl-delay: 30
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://konkur.in/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

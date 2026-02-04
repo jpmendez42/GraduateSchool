@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+
+User-agent: DeepSeek
+Disallow: /
+
+User-agent: DeepSeekBot
+Disallow: /
+
+User-agent: DeepSeek-WebCrawler
+Disallow: /
+
+User-agent: DeepSeek-AI
+Disallow: /
+
+Sitemap: https://info.bcassessment.ca:443/sitemap.xml

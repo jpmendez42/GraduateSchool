@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*.pdf
+Disallow: */Bancaeuro/
+Disallow: */modali/
+Disallow: /*.aspx
+Sitemap: https://www.credem.it/content/credem/it.sitemap.xml

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.abo.fi/sitemap.xml
+Sitemap: https://www.abo.fi/en/sitemap.xml
+Sitemap: https://www.abo.fi/fi/sitemap.xml
+
+User-agent: *
+Disallow: /*?s=
+
+#  8b           d8   db         BB          BB        BB
+#   8b         d8   dBBb        BB          BB        BB
+#    8b       d8   d8  8b       BB          BB        BB
+#     8b     d8   d8    8b      BB          BB        BB
+#      8b   d8   d8      BB     BB          BB        BB
+#       8b d8   d8        8b    BB          BB        BB
+#        BB8   d8          8b   BB          Y8a.    .a8P
+#        ´8'  d8            8b  BBBBBBBBBB8  `"YBBBBY"'

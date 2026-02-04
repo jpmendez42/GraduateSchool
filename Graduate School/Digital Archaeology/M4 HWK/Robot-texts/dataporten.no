@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="nb" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><script>var _paq = _paq || [];(function(){var u=(("https:" == document.location.protocol) ? "https://matomo.sikt.no/" : "http://matomo.sikt.no/");_paq.push(["setSiteId", "23"]);_paq.push(["setTrackerUrl", u+"matomo.php"]);_paq.push(["setDoNotTrack", 1]);if (!window.matomo_search_results_active) {_paq.push(["trackPageView"]);}_paq.push(["setIgnoreClasses", ["no-tracking","colorbox"]]);_paq.push(["enableLinkTracking"]);var d=document,g=d.createElement("script"),s=d.getElementsByTagName("script")[0];g.type="text/javascript";g.defer=true;g.async=true;g.src=u+"matomo.js";s.parentNode.insertBefore(g,s);})();</script>
+<link rel="canonical" href="http://www.feide.no/" />
+<link rel="shortlink" href="http://www.feide.no/" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/themes/custom/feide_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="nb" href="http://www.feide.no/" />
+
+    <title>Forside | Feide</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_BohjyGgPwycBgB8iPv816OFix-_KvZ7oM1ozbo5UhOM.css?delta=0&amp;language=nb&amp;theme=feide_theme&amp;include=eJx1T9FOxDAM-6HRftKUtV4JZA1qshvl6yl3A-k08WJHTuLE1s2xxYUMUxIy60_1BjMqsClpQ6zaNhL-wrSCM2Z_xYZYRBeSF_MuXMtTy1XF-WOsvyOza5spDafMWuNfFdam1VHzdGBZx4l4cviBiwgZztVDhhOLBddSBJcxeqPPi3j_Kjyy_Wt8Zp6oOi_q8eTHNzfGYfGOYdO8j8tCXXefM1vSG1qPWpFUfvVlZ8lo0Q8d6mxIPkJ_A88ckyA" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_Thwd3VlrDwYDB3MVFT7pXjgoZyuIcKneloIhAInyE1I.css?delta=1&amp;language=nb&amp;theme=feide_theme&amp;include=eJx1T9FOxDAM-6HRftKUtV4JZA1qshvl6yl3A-k08WJHTuLE1s2xxYUMUxIy60_1BjMqsClpQ6zaNhL-wrSCM2Z_xYZYRBeSF_MuXMtTy1XF-WOsvyOza5spDafMWuNfFdam1VHzdGBZx4l4cviBiwgZztVDhhOLBddSBJcxeqPPi3j_Kjyy_Wt8Zp6oOi_q8eTHNzfGYfGOYdO8j8tCXXefM1vSG1qPWpFUfvVlZ8lo0Q8d6mxIPkJ_A88ckyA" />
+<link rel="stylesheet" media="all" href="https://unpkg.com/microtip/microtip.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_4DJHADfAK-sWk5bdQYjKhmt_HeyIdjRLfqlZlLkOXhM.css?delta=3&amp;language=nb&amp;theme=feide_theme&amp;include=eJx1T9FOxDAM-6HRftKUtV4JZA1qshvl6yl3A-k08WJHTuLE1s2xxYUMUxIy60_1BjMqsClpQ6zaNhL-wrSCM2Z_xYZYRBeSF_MuXMtTy1XF-WOsvyOza5spDafMWuNfFdam1VHzdGBZx4l4cviBiwgZztVDhhOLBddSBJcxeqPPi3j_Kjyy_Wt8Zp6oOi_q8eTHNzfGYfGOYdO8j8tCXXefM1vSG1qPWpFUfvVlZ8lo0Q8d6mxIPkJ_A88ckyA" />
+
+    
+  </head>
+  <body class="path-frontpage page-node-type-frontpage">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Hopp til hovedinnhold
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <header class="navbar navbar-default" role="navigation">
+    <div class="container">
+                    <a class="navbar-brand" href="/" title="Hjem" rel="home" id="logo">
+                <img src="/themes/custom/feide_theme/resources/Horisontal_Feide.svg" alt="Klikk her til å gå til forsiden" />
+                <h1>Feide</h1>
+            </a>
+                <div id="menu-kontakt-oss">
+            <a class="button primary-button" href="https://kunde.feide.no/">Logg inn kundeportalen</a>
+            <a class="button primary-button" href="/kontakt-oss">Kontakt oss</a>
+
+            <a class="button primary-button" href="/driftsmeldinger">Driftsmeldinger
+                            </a>
+
+          <div class="views-exposed-form block block-views block-views-exposed-filter-blocksite-search-search-result-page" data-drupal-selector="views-exposed-form-site-search-search-result-page">
+            <div>Resultater</div>
+            <form role="search" action="/search" method="get" accept-charset="UTF-8" data-once="form-updated" data-drupal-form-fields="edit-string">
+              <div class="form--inline clearfix">
+                <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-string form-item-string form-no-label">
+                  <input data-drupal-selector="edit-string" type="text" name="string" value="" size="30" maxlength="128" placeholder="Søk" class="form-text" aria-label="Søk">
+                </div>
+                <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper"><input data-drupal-selector="edit-submit-site-search" type="image" value="Søk" src="/themes/custom/feide_theme/resources/icons/search-blue.svg" class="image-button js-form-submit form-submit" aria-label="Søk">
+                </div>
+              </div>
+            </form>
+          </div>
+        </div>
+        <button type="button" class="togglesearch" aria-label="Åpne/lukke søk">
+          <span class="togglesearch_text">search</span>
+        </button>
+        <button type="button" class="togglemenu" aria-label="Åpne/lukke meny">
+            <span class="togglemenu_icon"></span>
+            <span class="togglemenu_text">Meny</span>
+        </button>
+    </div>
+</header>
+<div id="fullpage-nav">
+    <div class="fullpage-wrapper">
+        <div class="navigation-wrapper">
+            <div class="main-whitespace"></div>
+            <main class="navigation-main">
+                <div id="main-menu">
+                    <?php
+          $menu_links = menu_tree_page_data('menu-feide');
+          $out = menu_tree_output($menu_links);
+          print render($out);
+          ?>
+                                        
+              <ul class="menu">
+                    <li class="menu-item menu-item--expanded">
+        <a href="/tjenester-med-feide-innlogging" data-drupal-link-system-path="tjenester-med-feide-innlogging">Tilgjengelige tjenester</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/tjenester-med-feide-innlogging?audiences=higher_education&amp;=" title="" data-drupal-link-query="{&quot;&quot;:&quot;&quot;,&quot;audiences&quot;:&quot;higher_education&quot;}" data-drupal-link-system-path="tjenester-med-feide-innlogging">For universiteter og høgskoler</a>
+              </li>
+                <li class="menu-item">
+        <a href="/tjenester-med-feide-innlogging?audiences=upper_secondary&amp;=" title="" data-drupal-link-query="{&quot;&quot;:&quot;&quot;,&quot;audiences&quot;:&quot;upper_secondary&quot;}" data-drupal-link-system-path="tjenester-med-feide-innlogging">For videregående skoler</a>
+              </li>
+                <li class="menu-item">
+        <a href="/tjenester-med-feide-innlogging?audiences=primary_and_lower_secondary&amp;=" title="" data-drupal-link-query="{&quot;&quot;:&quot;&quot;,&quot;audiences&quot;:&quot;primary_and_lower_secondary&quot;}" data-drupal-link-system-path="tjenester-med-feide-innlogging">For grunnskoler</a>
+              </li>
+                <li class="menu-item">
+        <a href="/tjenester-med-feide-innlogging" title="" data-drupal-link-system-path="tjenester-med-feide-innlogging">Alle tjenester</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/hjelp" title="" data-drupal-link-system-path="node/564">Hjelp</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/kontakt-oss" data-drupal-link-system-path="node/75">Kontakt oss</a>
+              </li>
+                <li class="menu-item">
+        <a href="/brukerstotte" data-drupal-link-system-path="node/84">Brukerstøtte</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ofte-stilte-sporsmal" data-drupal-link-system-path="node/541">Ofte stilte spørsmål</a>
+              </li>
+                <li class="menu-item">
+        <a href="/hva-skal-du-gjore-ved-et-personvernbrudd" data-drupal-link-system-path="node/704">Hva skal du gjøre ved et personvernbrudd?</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/for-vertsorganisasjoner" title="" data-drupal-link-system-path="node/563">Vertsorganisasjoner</a>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/fordeler-med-feide" data-drupal-link-system-path="node/76">Fordeler med Feide</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/innforing-av-feide" data-drupal-link-system-path="node/69">Innføring av Feide</a>
+              </li>
+                <li class="menu-item">
+        <a href="/priser-vertsorganisasjoner" data-drupal-link-system-path="node/64">Prisar for vertsorganisasjonar</a>
+              </li>
+                <li class="menu-item">
+        <a href="/datadeling" data-drupal-link-system-path="node/547">Datadeling</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/datakvalitet" data-drupal-link-system-path="node/637">Datakvalitet</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/feide-administrator" data-drupal-link-system-path="node/66">Feide-administrator</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/sterk-autentisering" data-drupal-link-system-path="node/92">Sterk autentisering</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <a href="/for-tjenesteleverandorer" title="" data-drupal-link-system-path="node/565">Tjenesteleverandører</a>
+                                <ul class="menu">
+                    <li class="menu-item menu-item--collapsed">
+        <a href="/hvorfor-tilby-feide-innlogging" data-drupal-link-system-path="node/59">Hvorfor tilby Feide-innlogging?</a>
+              </li>
+                <li class="menu-item">
+        <a href="/integrasjon-med-feide" data-drupal-link-system-path="node/74">Integrere tjeneste med Feide</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+                </div>
+            </main>
+            <aside class="navigation-aside">
+                  <div class="region region-nav-right">
+    <nav role="navigation" aria-labelledby="block-omfeide-menu" id="block-omfeide" class="block block-menu navigation menu--menu-om-feide">
+      
+  <h2 id="block-omfeide-menu">Om Feide</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/om-feide" data-drupal-link-system-path="node/71">Om Feide</a>
+              </li>
+                <li class="menu-item">
+        <a href="/arrangement" data-drupal-link-system-path="arrangement">Arrangementer</a>
+              </li>
+                <li class="menu-item">
+        <a href="/aktuelt" title="">Aktuelt</a>
+              </li>
+                <li class="menu-item">
+        <a href="/veikart" data-drupal-link-system-path="node/609">Veikart</a>
+              </li>
+                <li class="menu-item">
+        <a href="/prosjekter" data-drupal-link-system-path="node/670">Prosjekt</a>
+              </li>
+                <li class="menu-item">
+        <a href="/personvern-og-informasjonssikkerhet" data-drupal-link-system-path="node/548">Personvern</a>
+              </li>
+                <li class="menu-item">
+        <a href="/innsyn" data-drupal-link-system-path="node/85">Se informasjonen lagret om deg</a>
+              </li>
+                <li class="mobile-only menu-item">
+        <a href="https://kunde.feide.no/">Logg inn kundeportalen</a>
+              </li>
+                <li class="mobile-only menu-item">
+        <a href="/driftsmeldinger" data-drupal-link-system-path="driftsmeldinger">Driftsmeldinger</a>
+              </li>
+                <li class="mobile-only menu-item">
+        <a href="/kontakt-oss" data-drupal-link-system-path="node/75">Kontakt oss</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ordbok" data-drupal-link-system-path="ordbok">Ordbok</a>
+              </li>
+                <li class="menu-item">
+        <a href="/underlag-tilgjengelighetserklaering" data-drupal-link-system-path="node/671">Underlag for tilgjengelighetserklæring</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+            </aside>
+            <div class="aside-whitespace"></div>
+        </div>
+    </div>
+</div>
+<div id="page-wrapper" class="">
+    <div class="container">
+        <div class="row">
+            <?php print $messages; ?>
+            
+        </div>
+    </div>
+    <div id="main-wrapper" class="container">
+
+    <div class="mobile-search">
+      <div class="views-exposed-form block block-views block-views-exposed-filter-blocksite-search-search-result-page" data-drupal-selector="views-exposed-form-site-search-search-result-page">
+        <div>Resultater</div>
+        <form role="search" action="/search" method="get" accept-charset="UTF-8" data-once="form-updated" data-drupal-form-fields="edit-string--2">
+          <div class="form--inline clearfix">
+            <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-string form-item-string form-no-label">
+              <input aria-label="Søk" data-drupal-selector="edit-string" type="text" name="string" value="" size="30" maxlength="128" placeholder="Søk" class="form-text">
+            </div>
+            <div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper"><input data-drupal-selector="edit-submit-site-search-2" type="image" value="Søk" src="/themes/custom/feide_theme/resources/icons/search-blue.svg" class="image-button js-form-submit form-submit" aria-label="Søk">
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+
+      <div class="row">
+                      </div>
+      <div id="main" class="clearfix row">
+            
+            <div id="content" class="container"> 
+                
+
+                <div> 
+                      <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+                    <a id="main-content"></a>
+                    
+                      <div class="region region-content">
+    <div id="block-feide-theme-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">Forside</span>
+</h1>
+
+
+  </div>
+<div id="block-feide-theme-system-main" class="block block-system block-system-main-block">
+  
+    
+      <article>
+    
+    
+      <div class="layout--empty layout layout--onecol">
+    <div >
+      
+    </div>
+  </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-inline-blockfremhevet-illustrasjon-tekst">
+    
+    
+    <div class="featured-block">
+        <div class="featured-block__text">Sikker innlogging og datadeling i utdanning og forskning</div>
+        <div class="featured-block__image">
+            <div class="field field--name-field-illustrasjon field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2021-03/illustration-forside.png" width="555" height="225" alt="Illustrasjon" />
+
+</div>
+      </div>
+    </div>
+</div>
+    </div>
+  </div>
+  <div class="layout-grid layout-grid--two layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-layout-builder block-inline-blockcall-to-action">
+    
+    
+    <a href="/tjenester-med-feide-innlogging" class="call-to-action">
+        <div class="call-to-action__image">
+            <div class="field field--name-field-illustrasjon field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2021-03/about-01.png" width="268" height="268" alt="About" />
+
+</div>
+      </div>
+        <div class="call-to-action__right">
+            <div class="call-to-action__title">Tjenester med Feide-innlogging </div>
+            <div class="call-to-action__text"><p>Se hvilke digitale tjenester som bruker Feide som innloggingsløsning.</p></div>
+        </div>
+    </a>
+</div>
+
+
+
+<div class="block block-layout-builder block-inline-blockcall-to-action">
+    
+    
+    <a href="/hjelp" class="call-to-action">
+        <div class="call-to-action__image">
+            <div class="field field--name-field-illustrasjon field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2021-03/user-01.png" width="268" height="268" alt="Host" />
+
+</div>
+      </div>
+        <div class="call-to-action__right">
+            <div class="call-to-action__title">Hjelp</div>
+            <div class="call-to-action__text"><p>Har du problemer med innlogging? Trenger du support eller teknisk dokumentasjon? Her finner du det du leter etter.</p></div>
+        </div>
+    </a>
+</div>
+
+
+
+<div class="block block-layout-builder block-inline-blockcall-to-action">
+    
+    
+    <a href="/for-vertsorganisasjoner" class="call-to-action">
+        <div class="call-to-action__image">
+            <div class="field field--name-field-illustrasjon field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2021-03/host-01.png" width="268" height="268" alt="Vertsorganisasjoner" />
+
+</div>
+      </div>
+        <div class="call-to-action__right">
+            <div class="call-to-action__title">For vertsorganisasjoner</div>
+            <div class="call-to-action__text"><p>Vertsorganisasjoner er institusjoner som bruker Feide-innlogging på sine tjenester. Finn ut mer om fordelene ved Feide-innlogging og hvordan man blir en vertsorganisasjon.</p></div>
+        </div>
+    </a>
+</div>
+
+
+
+<div class="block block-layout-builder block-inline-blockcall-to-action">
+    
+    
+    <a href="/for-tjenesteleverandorer" class="call-to-action">
+        <div class="call-to-action__image">
+            <div class="field field--name-field-illustrasjon field--type-image field--label-hidden field__item">  <img loading="lazy" src="/sites/default/files/2021-03/service-01.png" width="268" height="268" alt="Service" />
+
+</div>
+      </div>
+        <div class="call-to-action__right">
+            <div class="call-to-action__title">For tjenesteleverandører</div>
+            <div class="call-to-action__text"><p>Har du en app, tjeneste eller et system som elever, studenter eller ansatte kan ha nytte av? Finn ut mer om fordelene ved Feide og hvordan man setter opp Feide-innlogging på tjenesten.</p></div>
+        </div>
+    </a>
+</div>
+
+
+
+
+    </div>
+  </div>
+  <div class="layout layout--twocol-section layout--twocol-section--50-50 layout--empty">
+
+    
+    
+  </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      <div class="block block-feide-spec block-feide-logins">
+  
+    
+      <div class="panel-pane pane-block pane-feide-spec-logins jumbotron uninett-color-feideBlue uninett-padded gutter">
+  <div class="pane-content">
+    <h2>Innlogginger</h2>
+    <div class="numbers-wrap" style="opacity: 1;">
+      <div class="item-list">
+        <ul>
+          <li class="first">
+            <div class="count-wrap">
+              <div class="count" data-number="77992">77.992</div>
+              <span>i dag</span>
+            </div>
+          </li>
+          <li>
+            <div class="count-wrap">
+              <div class="count" data-number="2690503">2.690.503</div>
+              <span>denne uken</span>
+            </div>
+          </li>
+          <li>
+            <div class="count-wrap">
+              <div class="count" data-number="4521813">4.521.813</div>
+              <span>denne måneden</span>
+            </div>
+          </li>
+          <li class="last">
+            <div class="count-wrap">
+              <div class="count" data-number="153794716">153.794.716</div>
+              <span>Dette året</span>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+    </div>
+  </div>
+
+    <div class="front_news_articles">
+        <div class="container">
+            <div class="views-element-container"><div class="view view-news-articles view-id-news_articles view-display-id-block js-view-dom-id-e3bc8181cec285cf96583360e5efeaf6f15f1ba43f13131ba60fb35eb32da408">
+  
+    
+      
+      <div class="view-content">
+          <div class="views-row"><div class="view-wrapper">
+  <div class="views-row views-row-1 views-row-odd views-row-first">
+    <h2 class="views-field views-field-title">
+      <span class="field-content">
+        <a href="/nyhet/tiltak-etter-fodselsnummer-havnet-pa-avveie"><span class="field field--name-title field--type-string field--label-hidden">Tiltak etter at fødselsnummer havnet på avveie</span>
+</a>
+      </span>
+    </h2>
+    <div class="submitted">
+      <small>27.06.2024 09:45</small>
+    </div>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="view-wrapper">
+  <div class="views-row views-row-1 views-row-odd views-row-first">
+    <h2 class="views-field views-field-title">
+      <span class="field-content">
+        <a href="/nyhet/enkelte-tjenester-har-fatt-utdelt-fodselsnumre-uten-avtale"><span class="field field--name-title field--type-string field--label-hidden">Enkelte tjenester har fått utdelt fødselsnumre uten avtale </span>
+</a>
+      </span>
+    </h2>
+    <div class="submitted">
+      <small>26.01.2024 14:07</small>
+    </div>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="view-wrapper">
+  <div class="views-row views-row-1 views-row-odd views-row-first">
+    <h2 class="views-field views-field-title">
+      <span class="field-content">
+        <a href="/nyhet/vertsorganisasjoner-hva-betyr-det-utvidede-gruppe-api-et-deg"><span class="field field--name-title field--type-string field--label-hidden">Vertsorganisasjoner: Hva betyr det utvidede gruppe-API-et for deg? </span>
+</a>
+      </span>
+    </h2>
+    <div class="submitted">
+      <small>13.12.2023 14:54</small>
+    </div>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="view-wrapper">
+  <div class="views-row views-row-1 views-row-odd views-row-first">
+    <h2 class="views-field views-field-title">
+      <span class="field-content">
+        <a href="/nyhet/hent-gruppeinformasjon-uavbrutt-og-uten-innlogging-med-utvidet-gruppe-api"><span class="field field--name-title field--type-string field--label-hidden">Hent gruppeinformasjon uavbrutt og uten innlogging med utvidet gruppe-API</span>
+</a>
+      </span>
+    </h2>
+    <div class="submitted">
+      <small>13.12.2023 14:46</small>
+    </div>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="view-wrapper">
+  <div class="views-row views-row-1 views-row-odd views-row-first">
+    <h2 class="views-field views-field-title">
+      <span class="field-content">
+        <a href="/nyhet/automatisk-varsling-pa-e-post-nar-tjenester-endrer-hvilken-informasjon-de-henter-inn"><span class="field field--name-title field--type-string field--label-hidden">Automatisk varsling på e-post når tjenester endrer hvilken informasjon de henter inn</span>
+</a>
+      </span>
+    </h2>
+    <div class="submitted">
+      <small>01.11.2023 14:27</small>
+    </div>
+  </div>
+</div>
+</div>
+    <div class="views-row"><div class="view-wrapper">
+  <div class="views-row views-row-1 views-row-odd views-row-first">
+    <h2 class="views-field views-field-title">
+      <span class="field-content">
+        <a href="/nyhet/med-leverandorerklaeringen-vil-vi-kunne-spare-tid-og-ressurser"><span class="field field--name-title field--type-string field--label-hidden">– Med leverandørerklæringen vil vi kunne spare tid og ressurser</span>
+</a>
+      </span>
+    </h2>
+    <div class="submitted">
+      <small>21.08.2023 14:59</small>
+    </div>
+  </div>
+</div>
+</div>
+
+    </div>
+  
+          <div class="more-link"><a href="/nyhet">Se alle aktuelle saker</a></div>
+
+      </div>
+</div>
+
+        </div>
+    </div>
+</article>
+
+  </div>
+
+  </div>
+
+                </div>
+                <div id="content_bottom">
+                                    </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div id="content_bottom_left">
+                                                    </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div id="content_bottom_right">
+                                                    </div>
+                    </div>
+                </div>
+            </div> <!-- /#content -->
+
+      </div>
+    </div> <!-- /#main, /#main-wrapper -->
+
+    <div class="container">
+      <div class="feedback">
+  <h2>Fant du det du lette etter?</h2>
+  <div class="feedback__yesno">
+    <button aria-label="Jeg fant det jeg leter etter" class="button button--positive button--feedback" id="js-feedback-yes">Ja</button>
+    <button aria-label="Jeg fant ikke det jeg leter etter" class="button button--negative button--feedback" id="js-feedback-no">Nei</button>
+  </div>
+  <div id="feedback__form" class="feedback__form" style="display: none;">
+    <span id="webform-submission-feedback-node-595-form-ajax-content"></span><div id="webform-submission-feedback-node-595-form-ajax" class="webform-ajax-form-wrapper" data-effect="fade" data-progress-type="throbber"><form class="webform-submission-form webform-submission-add-form webform-submission-feedback-form webform-submission-feedback-add-form webform-submission-feedback-node-595-form webform-submission-feedback-node-595-add-form js-webform-details-toggle webform-details-toggle antibot" data-drupal-selector="webform-submission-feedback-node-595-add-form" data-action="/" action="/antibot" method="post" id="webform-submission-feedback-node-595-add-form" accept-charset="UTF-8">
+  
+  <noscript>
+  <div class="antibot-no-js antibot-message antibot-message-warning">You must have JavaScript enabled to use this form.</div>
+</noscript>
+<div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-takk-for-tilbakemeldingen-din-kan-du-fortelle-oss-hva-du-lette-e form-item-takk-for-tilbakemeldingen-din-kan-du-fortelle-oss-hva-du-lette-e form-no-label">
+      <label for="edit-takk-for-tilbakemeldingen-din-kan-du-fortelle-oss-hva-du-lette-e" class="visually-hidden">Takk for tilbakemeldingen din! Kan du fortelle oss hva du lette etter? Svaret ditt hjelper oss å lage bedre nettsider</label>
+        <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-takk-for-tilbakemeldingen-din-kan-du-fortelle-oss-hva-du-lette-e" id="edit-takk-for-tilbakemeldingen-din-kan-du-fortelle-oss-hva-du-lette-e" name="takk_for_tilbakemeldingen_din_kan_du_fortelle_oss_hva_du_lette_e" rows="5" cols="60" placeholder="Takk for tilbakemeldingen din! Kan du fortelle oss hva du lette etter? Svaret ditt hjelper oss å lage bedre nettsider." class="form-textarea resize-vertical"></textarea>
+</div>
+
+        </div>
+<div id="edit-informasjon" class="js-form-item form-item js-form-type-webform-markup form-type-webform-markup js-form-item-informasjon form-item-informasjon form-no-label">
+        Ikke skriv personlige opplysninger, vi kan ikke ta imot henvendelser her.<br />
+<a href="/kontakt-oss">Kontakt oss om du trenger hjelp</a>.
+        </div>
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-fant-du-det-du-lette-etter- form-item-fant-du-det-du-lette-etter- form-no-label">
+      <label for="edit-fant-du-det-du-lette-etter-" class="visually-hidden">Fant du det du lette etter?</label>
+        <input data-drupal-selector="edit-fant-du-det-du-lette-etter-" type="checkbox" id="edit-fant-du-det-du-lette-etter-" name="fant_du_det_du_lette_etter_" value="1" class="form-checkbox" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions webform-actions js-form-wrapper form-wrapper" id="edit-actions"><input class="webform-button--submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-actions-submit" data-disable-refocus="true" type="submit" id="edit-actions-submit" name="op" value="Send" />
+
+</div>
+<input data-drupal-selector="form-aq9-gimtivner4-iobso7eyoycd4zpfgoko4k4waf2o" type="hidden" name="form_build_id" value="form-aQ9_giMTivNEr4-IObsO7eyOyCd4zpfGokO4k4waF2o" />
+<input data-drupal-selector="edit-webform-submission-feedback-node-595-add-form" type="hidden" name="form_id" value="webform_submission_feedback_node_595_add_form" />
+<input data-drupal-selector="edit-antibot-key" type="hidden" name="antibot_key" value="" />
+<div class="link-textfield js-form-wrapper form-wrapper" style="display: none !important;"><div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-link form-item-link">
+      <label for="edit-link">Leave this field blank</label>
+        <input autocomplete="off" data-drupal-selector="edit-link" type="text" id="edit-link" name="link" value="" size="20" maxlength="128" class="form-text" />
+
+        </div>
+</div>
+
+
+  
+</form>
+</div>
+  </div>
+</div>
+
+    </div>
+
+    <div id="footer">
+      <div class="container">
+              <div class="region region-footer">
+    <div class="site-footer block block-feide-spec block-feide-footer" id="block-feidefooter-2">
+  
+    
+      <div><img src="/themes/custom/feide_theme/images/horisontal_feide.png" alt="Feide logo" />
+<hr />
+<p>Feide leveres av Sikt – Kunnskapssektorens tjenesteleverandør. Vi samarbeider med Utdanningsdirektoratet om forvaltningen av tjenesten.</p></div>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-footer-menu" id="block-footer" class="block block-menu navigation menu--footer">
+            
+  <h2 class="visually-hidden" id="block-footer-menu">Footer</h2>
+  
+
+        <div class="content menu-block-wrapper">
+      
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/kontakt-oss" data-drupal-link-system-path="node/75">Kontakt oss</a>
+              </li>
+                <li class="menu-item">
+        <a href="/personvernerklaering" data-drupal-link-system-path="node/724">Personvernerklæring</a>
+              </li>
+                <li class="menu-item">
+        <a href="/bruk-av-informasjonskapsler-cookies" data-drupal-link-system-path="node/80">Bruk av informasjonskapslar</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://uustatus.no/nb/erklaringer/publisert/51223e76-e376-4876-9ab7-ce7c07d231ad">Tilgjengelegheitserklæring</a>
+              </li>
+        </ul>
+  
+
+
+    </div>
+  </nav>
+
+  </div>
+
+            <div class="nyhetsbrev__paamelding">
+              <a href="/nyhetsbrev">Meld deg på nyhetsbrevet vårt</a>
+            </div>
+        </div>
+      </div> <!-- /.section, /#footer -->
+
+</div></div> <!-- /#page-wrapper -->
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"","currentPath":"node\/595","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"nb"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJxtUNFyxCAI_CFPPymDSlKvKK1g0vTrz8ZLZ3rpiwssuDsLRZNndTDQzlyz8dxW1KlpInGjuR2NCe8Yk3KdIASuMXFxv5WdKxfFEk0gENmdB8GzzigCC_YfuKJLfa8WIHv_bFj3oXowpVdA6RvNjCnipG-Y0S3EHugmulMqyx9KmUnThxiCnZtOviWKWJ1uHJgmwaDd28nGJIHXLum4YOdNBuXMboCRXRTzML4m3MQdr80cG6HZ0P84dU-0cIevyxCp2ypqIyr0yKzAer18XVJeln8EzrVnehf-yO11eORiR-4PQ8y7YQ","theme":"feide_theme","theme_token":null},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true,"\/forside?ajax_form=1":true},"matomo":{"disableCookies":false,"trackMailto":true},"ckeditorAccordion":{"accordionStyle":{"collapseAll":1,"keepRowsOpen":1,"animateAccordionOpenAndClose":1,"openTabsWithHash":1,"allowHtmlInTitles":0}},"antibot":{"forms":{"webform-submission-feedback-node-595-add-form":{"id":"webform-submission-feedback-node-595-add-form","key":"s1p6MR7h27fQ4ixGStEsxyIk5TpsmhF3Ko1Iiw_c84v"}}},"ajax":{"edit-actions-submit":{"callback":"::submitAjaxForm","event":"click","effect":"fade","speed":500,"progress":{"type":"throbber","message":""},"disable-refocus":true,"url":"\/forside?ajax_form=1","httpMethod":"POST","dialogType":"ajax","submit":{"_triggering_element_name":"op","_triggering_element_value":"Send"}}},"user":{"uid":0,"permissionsHash":"7a7054cc63816ca78729f7817943dc7e59b13e9b130e7cde4009b67083e507fd"}}</script>
+<script src="/sites/default/files/js/js_Ms-IfU-evUDhKuLN_OrhYMbBzvLL6QSXyLeDCZTGW2s.js?scope=footer&amp;delta=0&amp;language=nb&amp;theme=feide_theme&amp;include=eJyFT0EOwyAM-xCFJ1UBXEYHRIO0W38_1la7VNMucZzYSpxJOLPJO6gJ0WOUGzJMSGwpDU22FEtQ7g4fhetIznH1kYv5dnqqXATFK8vLChkXiamZgww7UU_YiWs2J-pPuQyR-uUi2kOom3SjFX9FwiGkq4xmev30ZrRGAYqKRMtiTjy-6qlgYg9UCyU9PxbUbd-8AXt1dV8"></script>
+<script src="/modules/contrib/ckeditor_accordion/js/accordion.frontend.min.js?t3sww3"></script>
+<script src="/sites/default/files/js/js_k6FbPHw0XEP4G3fATdXYA2H9OjcWQG5dKnVoENO2nGI.js?scope=footer&amp;delta=2&amp;language=nb&amp;theme=feide_theme&amp;include=eJyFT0EOwyAM-xCFJ1UBXEYHRIO0W38_1la7VNMucZzYSpxJOLPJO6gJ0WOUGzJMSGwpDU22FEtQ7g4fhetIznH1kYv5dnqqXATFK8vLChkXiamZgww7UU_YiWs2J-pPuQyR-uUi2kOom3SjFX9FwiGkq4xmev30ZrRGAYqKRMtiTjy-6qlgYg9UCyU9PxbUbd-8AXt1dV8"></script>
+
+  </body>
+
+  <script type="text/plain" data-usercentrics="Siteimprove" src="https://siteimproveanalytics.com/js/siteanalyze_6036825.js" async=""></script>
+  <script src="https://web.cmp.usercentrics.eu/modules/autoblocker.js"></script>
+  <script id="usercentrics-cmp" src="https://web.cmp.usercentrics.eu/ui/loader.js" data-settings-id="q_iS3xvIbsO05p" async></script>
+
+</html>

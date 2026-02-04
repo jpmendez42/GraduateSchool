@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin.php
+Disallow: /cdn-cgi/
+Disallow: /cart/
+Disallow: /cart
+Disallow: /account/
+Disallow: /account
+Disallow: /account/
+Disallow: /payment
+Disallow: /payment/

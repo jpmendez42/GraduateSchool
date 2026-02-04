@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: 
+
+Disallow: /muj-kinobox
+Disallow: /muj-kinobox/komentare
+Disallow: /muj-kinobox/oblibene
+Disallow: /muj-kinobox/hodnoceni
+Disallow: /muj-kinobox/watchlist
+Disallow: /facebook/smazani-dat
+Disallow: /diskuse/
+Disallow: /uzivatele/
+
+Sitemap: https://www.kinobox.cz/sitemap.xml

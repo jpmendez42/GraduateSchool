@@ -1,0 +1,42 @@
+User-agent: Teleport
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: NetMechanic
+Disallow: /
+
+User-agent: msnbot
+Crawl-delay: 5
+
+User-agent: bingbot
+Crawl-delay: 5
+
+User-agent: Arianna
+Disallow: /
+
+User-agent: Arianna News
+Disallow: /
+
+User-agent: Arianna Web
+Disallow: /
+
+User-agent: Arianna Robot
+Disallow: /
+
+User-agent: Webnews Arianna
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: *
+Disallow: /gestione.php
+Disallow: /admin/
+Disallow: /blocks/
+Disallow: /language/
+Disallow: /channel.php

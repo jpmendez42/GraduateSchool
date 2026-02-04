@@ -1,0 +1,15 @@
+User-agent: Googlebot
+Disallow: /appdownload
+Disallow: /photos
+Disallow: /spots
+Disallow: /tags
+Disallow: /users
+Disallow: /search
+
+Disallow: /*?
+Allow: /*?page=
+Disallow: /*?page=*&
+Disallow: /*?page=*?
+Disallow: /*?*?page=
+
+Sitemap: https://media-assets.aumo.jp/sitemaps/sitemap.xml.gz

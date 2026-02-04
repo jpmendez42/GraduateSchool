@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh-CN" xmlns:shiro="http://www.ncss.cn/thymeleaf/shiro">
+  <head>
+    <title>国家大学生就业服务平台</title>
+    <meta charset="UTF-8" />
+    
+    <meta name="keywords" content="大学生就业" />
+    <meta name="description" content="国家大学生就业服务平台是由教育部主管、教育部学生服务与素质发展中心运营的服务于高校毕业生及用人单位的公共就业服务平台。" />
+    <meta name="author" content="教育部学生服务与素质发展中心" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="renderer" content="webkit" />
+    <meta name="google-site-verification" content="52dtGUDDxbwIvPWlwp32Khp55akz69_Q51anBeWttDA" />
+    <meta name="alexaVerifyID" content="D1wdmlPJgnlmizWUOGeb2LAv6rA" />
+    <link rel="shortcut icon" href="https://t3.chei.com.cn/ncss/favicon.ico" type="image/x-icon" />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link rel="dns-prefetch" href="//t1.chei.com.cn" />
+    <link rel="dns-prefetch" href="//t2.chei.com.cn" />
+    <link rel="dns-prefetch" href="//t3.chei.com.cn" />
+    <link rel="dns-prefetch" href="//t4.chei.com.cn" />
+    <link rel="dns-prefetch" href="//www.google-analytics.com" />
+    <link rel="stylesheet" href="https://t2.chei.com.cn/ncss/jyxw/css/bootstrap.min2.css" />
+    <!--#include virtual="/common/commoncss.html"-->
+    
+    	<style>
+        body{background: #fff;}
+	    /* common css */
+	    a,a:link,a:visited{color:#333333; text-decoration:none;}
+	    a:hover{color:#326ca6; text-decoration:underline;}
+	    .clearfix:after{content:'\0020'; display:block; clear:both; height:0;}
+	    .clearfix{zoom:1;}
+	    .clearfloat{ clear:both;height:0;line-height:0;font-size:0; overflow:hidden;}
+	    /* layout css */
+	    .container{ width: 1180px; margin: 0 auto; }
+	    .row{ width: 100%; }
+	    .header{  width: 100%;  }
+	    .header ul,.header li{ display: inline-block; float:left; _zoom:1;}
+	    .content{ background-color: #fff; }
+	    .main{ min-height: 400px; padding:130px 0px 100px 650px; background: url("https://t1.chei.com.cn/common/error/images/gaokao-error-icon.png") no-repeat 180px 0px; margin-top: 60px; }
+	    .msg{ color: #333; }
+	    .msg h3{ font-size: 24px; font-weight: normal; height: 34px; line-height: 34px;  }
+	    .msg p{ color: #999;  text-indent: 0; font-size: 12px; margin-top: 5px; }
+	    .suggest{ margin-top: 20px; }
+	    .suggest a{ color: #4080c7; font-size: 14px; }
+	    /* button and links */
+	    a.btn_primary{ margin-right: 20px; color:#FFFFFF; padding:8px 20px; text-align:center; background:#2296ce; border:none; cursor:pointer; text-decoration:none;}
+	    a.btn_primary:visited{color:#FFFFFF; text-decoration:none;}
+	    a.btn_primary:hover{opacity:0.7;color:#FFFFFF; text-decoration:none;}
+	    </style>
+        <script src='https://t1.chei.com.cn/common/jquery/3.6.0/jquery.min.js'></script>
+    
+    <!--#include virtual="/common/ga.jsp"-->
+  </head>
+  <body>
+    
+	<!--#include virtual="/common/header.html"-->
+	<div class="content">
+	    <div class="row">
+	    <div class="container">
+	    <div class="main">
+	    <div class="msg">
+	    <h3>404 Not Found (没有找到访问的页面)</h3>
+	      <div class="suggest">
+	       <a href="/" class="btn_primary">返回首页</a> <a href="javascript:history.go(-1);">返回上一页</a>
+	      </div>
+	    </div>
+	  
+	    </div>
+	    </div>
+	    </div>
+	</div> 
+
+    
+  </body>
+</html>

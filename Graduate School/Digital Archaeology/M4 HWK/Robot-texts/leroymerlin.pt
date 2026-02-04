@@ -1,0 +1,197 @@
+#CCDP VERSION 2022-10-24
+# USER AGENT WHITELIST
+User-Agent: *
+User-agent: Googlebot
+User-agent: Googlebot-News
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Googlebot-Mobile
+Allow: /
+Disallow: /v3/mobile/action-search/search.do
+Disallow: /*&sort=
+Disallow: /*&noIndex=1
+Disallow: /*typeSearch=
+Disallow: /cart/services/*
+Disallow: /*myRedirectUrl
+Disallow: /*getReviews.do
+Disallow: /*campusOrigin
+Disallow: /*product/complementaires/getByProduct.do*
+Disallow: /*product-reviews/getReviews.do*
+Disallow: /*rdv
+Disallow: /*filters=*
+Disallow: /*limit=*
+Disallow: /*sort=*
+Disallow: /*pedagogicalFilters=*
+Disallow: */productpageservicesfunctionality/*
+Disallow: */*/RME
+Disallow: */*/rme
+Disallow: */*/rdv
+Disallow: */customer/services/userInfos
+Disallow: */navigation/api/autocomplete
+Disallow: */test/*
+Disallow: */productpageservicesfunctionality/*
+Disallow: */produits-2/*
+Disallow: */nos-produits/*
+Disallow: */produits/bonnes-affaires/archive*
+Disallow: */espace-perso/*
+Disallow: */shoppinglist/*
+Disallow: */productpageservicesfunctionality/*
+Disallow: *goToReviewModule*
+Disallow: */produits/bonnes-affaires/*?*
+Disallow: */*?*highlightedOfferCode
+Disallow: */*?*storeid
+Disallow: */questions-nouveau-programme-fidelite
+Disallow: */contact-nouveau-programme-fidelite
+Disallow: /login*
+Disallow: /register*
+Disallow: /pt/ecommerce*
+Disallow: /user*
+Disallow: /*filter=*
+Disallow: /page/*
+Disallow: /reset*
+Disallow: /pt/dashboard
+Disallow: /Site*
+Disallow: /pt/*teste*
+Disallow: /pt/teste*
+Disallow: /pt/*testes*
+Disallow: /pt/testes*
+Disallow: /pt/*test*
+Disallow: /pt/test*
+Disallow: /*teste*
+Disallow: /teste*
+Disallow: /*testes*
+Disallow: /testes*
+Disallow: /*test*
+Disallow: /test*
+Disallow: /pt/admin*
+Disallow: /search?q=*
+Disallow: /avis*
+Disallow: /link*
+Disallow: /produtos/*/link
+Disallow: */finalizeorderapp/*
+Disallow: /product-recommendation/*
+Disallow: /headercart/rest/cart-data
+Disallow: /getserviceinfo/*
+Disallow: /getPRStatistics*
+
+# USER AGENT BLACKLIST
+User-Agent: expo9
+Disallow: /
+User-agent: Orthogaffe
+Disallow: /
+User-agent: UbiCrawler
+Disallow: /
+User-agent: DOC
+Disallow: /
+User-agent: Zao
+Disallow: /
+User-agent: sitecheck.internetseer.com
+Disallow: /
+User-agent: Zealbot
+Disallow: /
+User-agent: MSIECrawler
+Disallow: /
+User-agent: SiteSnagger
+Disallow: /
+User-agent: WebStripper
+Disallow: /
+User-agent: Fetch
+Disallow: /
+User-agent: Offline Explorer
+Disallow: /
+User-agent: Teleport
+Disallow: /
+User-agent: TeleportPro
+Disallow: /
+User-agent: WebZIP
+Disallow: /
+User-agent: linko
+Disallow: /
+User-agent: HTTrack
+Disallow: /
+User-agent: Microsoft.URL.Control
+Disallow: /
+User-agent: Xenu
+Disallow: /
+User-agent: larbin
+Disallow: /
+User-agent: libwww
+Disallow: /
+User-agent: ZyBORG
+Disallow: /
+User-agent: Download Ninja
+Disallow: /
+User-agent: wget
+Disallow: /
+User-agent: grub-client
+Disallow: /
+User-agent: MSIECrawler
+Disallow: /
+User-agent: WebCopier
+Disallow: /
+User-agent: Python-urllib
+Disallow: /
+User-agent: URL_Spider_Pro
+Disallow: /
+User-agent: EmailCollector
+Disallow: /
+User-agent: EmailSiphon
+Disallow: /
+User-agent: WebBandit
+Disallow: /
+User-agent: EmailWolf
+Disallow: /
+User-agent: ExtractorPro
+Disallow: /
+User-agent: CopyRightCheck
+Disallow: /
+User-agent: Alexibot
+Disallow: /
+User-agent: Web Image Collector
+Disallow: /
+User-agent: Xenu's Link Sleuth 1.1c
+Disallow: /
+User-agent: Xenu's
+Disallow: /
+User-agent: Zeus
+Disallow: /
+User-agent: Zeus Link Scout
+Disallow: /
+User-agent: EroCrawler
+Disallow: /
+User-agent: LinkScan/8.1a Unix
+Disallow: /
+User-agent: Keyword Density/0.9
+Disallow: /
+User-agent: WebCopier v3.2a
+Disallow: /
+User-agent: WebCapture 2.0
+Disallow: /
+User-agent: WebCopier v.2.2
+Disallow: /
+User-agent: EtaoSpider
+Disallow: /
+User-agent: Black Hole
+Disallow: /
+User-agent: Xenu\\\'s Link Sleuth 1.1c
+Disallow: /
+User-agent: Xenu\\\'s
+Disallow: /
+User-agent: Yahoo! Slurp China
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: YandexTurbo
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: noxtrumbot
+Disallow: /
+User-agent: msnbot
+Disallow: /
+User-agent: Slurp
+Disallow: /
+User-agent: Nutch
+Disallow: /
+
+Sitemap: https://www.leroymerlin.pt/sitemap-index.xml

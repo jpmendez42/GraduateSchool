@@ -1,0 +1,26 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /realty/
+Disallow: /*?*
+Disallow: /search
+Disallow: /preview
+Disallow: /a/
+Disallow: /forum/site_comments/
+Disallow: /shop/
+Disallow: /film/
+Disallow: /more/
+
+User-agent: *
+Allow: /
+Disallow: /*?*
+Disallow: /search
+Disallow: /preview
+Disallow: /a/
+Disallow: /forum/site_comments/
+Disallow: /shop/
+Disallow: /film/
+Disallow: /more/
+Disallow: /realty/search/
+Disallow: /realty/map/
+Host: https://dni.ru
+Sitemap: https://dni.ru/google_sitemap.xml

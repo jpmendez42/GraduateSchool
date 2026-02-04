@@ -1,0 +1,10 @@
+User-agent: baiduspider
+Disallow: /
+User-agent: *
+Disallow: 
+Crawl-delay: 20
+Disallow: /cgi-bin/
+Disallow: /.well-known/
+Disallow: /.git/
+Disallow: /gazduire-web/hidden-gem2022/
+Sitemap: https://portal.chroot.ro/sitemap.xml

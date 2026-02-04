@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /kniga-pamyati
+Sitemap: https://www.tver.ru:443/sitemap.xml
+Sitemap: https://www.tver.ru:443/sitemap0.xml
+Sitemap: https://www.tver.ru:443/sitemap1.xml
+Sitemap: https://www.tver.ru:443/sitemap2.xml
+Sitemap: https://www.tver.ru:443/sitemap3.xml
+Sitemap: https://www.tver.ru:443/sitemap4.xml
+Sitemap: https://www.tver.ru:443/sitemap5.xml
+Sitemap: https://www.tver.ru:443/sitemap6.xml
+Sitemap: https://www.tver.ru:443/sitemap7.xml

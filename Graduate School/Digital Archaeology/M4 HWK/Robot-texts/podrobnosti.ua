@@ -1,0 +1,14 @@
+
+User-agent: Yandex
+Disallow: /search/
+Disallow: /author/
+Disallow: /admin/
+Disallow: /correspondents.html
+
+Host: podrobnosti.ua
+
+User-agent: *
+Disallow: /search/
+Disallow: /author/
+Disallow: /admin/
+Disallow: /correspondents.html

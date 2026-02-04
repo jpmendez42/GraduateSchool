@@ -1,0 +1,55 @@
+User-agent: *
+Allow: /
+Allow: /products
+Allow: /products/
+Allow: /tailored-kitchens/
+Allow: /page/
+Disallow: /admin/
+Allow: /themes/
+Allow: /css/
+Allow: /custom/
+Allow: /images/
+Allow: /js/
+Allow: /vendor/
+Disallow: /cart
+Disallow: /cart/
+Disallow: /checkout
+Disallow: /checkout/
+Disallow: /autocomplete/
+Disallow: /ajax/
+Disallow: /switchlang/
+Disallow: /oauth/
+Disallow: /facebook_export_feed
+Disallow: /*?page
+Disallow: /*?ajax
+Disallow: /*?vtm
+Disallow: /*.pdf$
+
+Disallow: /*/filtri:*.*
+Disallow: /*/filtri:*&*
+
+Disallow: /*remove-attribute=
+Disallow: /*?page=1$
+Disallow: /*ajax-request=true
+
+Disallow: /*?gclid=
+
+User-agent: 008
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+Allow: /uploads/
+Host: videnov.bg
+Sitemap: https://videnov.bg/sitemap
+Sitemap: https://videnov.bg/sitemap-images

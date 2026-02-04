@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /erreur.php
+
+Sitemap: https://www.demotivateur.fr/sitemap-index.xml
+Sitemap: https://www.demotivateur.fr/news-sitemap.php
+Sitemap: https://www.demotivateur.fr/sitemap-recettes.xml

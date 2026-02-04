@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /components/*/click
+Disallow: /conversion
+Disallow: /hpcv
+Disallow: /inview

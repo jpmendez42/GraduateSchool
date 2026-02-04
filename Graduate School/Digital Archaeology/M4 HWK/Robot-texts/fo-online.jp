@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /mypage/
+Disallow: /cart/
+Disallow: /login
+Disallow: /guide/inquiry
+Disallow: /shop
+Sitemap: https://fo-online.jp/sitemap.xml
+Sitemap: https://fo-online.jp/styling.sitemap.xml
+Sitemap: https://fo-online.jp/items.sitemap.xml

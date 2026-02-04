@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow: /products/search*
+Disallow: /searches/articles*
+Disallow: /searches/products*
+Disallow: /*?keyword=
+Disallow: /*&keyword=
+Disallow: /*?sub_option_category_ids=
+Disallow: /*&sub_option_category_ids=
+Disallow: /*?coupons=
+Disallow: /*&coupons=
+Disallow: /*?delivery=
+Disallow: /*&delivery=
+Disallow: /*?include_out_of_stock=
+Disallow: /*&include_out_of_stock=
+Disallow: /carts*
+Disallow: /transactions*
+Disallow: /messages*
+Disallow: /users*
+Disallow: /api*
+
+Sitemap: https://tanp.jp/sitemaps

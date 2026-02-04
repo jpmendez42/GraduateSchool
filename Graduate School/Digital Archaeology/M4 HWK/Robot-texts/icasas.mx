@@ -1,0 +1,235 @@
+User-agent: *
+Disallow: /www/resem/include/listFilters2*
+Disallow: /externalUrl*
+Disallow: /adNotExists.jsp
+Disallow: /conf/
+Disallow: /error.jsp
+Disallow: /feeds/
+Disallow: /img/
+Disallow: /imgtmp/
+
+
+Disallow: /urlError.jsp
+Disallow: /urlImages/
+Disallow: /mapper
+Disallow: /customSearch
+Disallow: /iCasasResetCacheServlet
+Disallow: /alertRedirectToAdListServlet
+Disallow: /createClientForAlertsServlet
+Disallow: /forgottenPasswordServlet
+Disallow: /internalArea/
+Disallow: /privateArea/
+Disallow: /clientLoginServlet
+Disallow: /createClientServlet
+Disallow: /createProfessionalClientServlet
+Disallow: /activationClientServlet
+Disallow: /redirectLoginServlet
+Disallow: /redirectCreateAdServlet
+Disallow: /exitLoginServlet
+Disallow: /customSearchHome
+Disallow: /contactAgency
+Disallow: /quienesSomos
+Disallow: /aboutUs
+Disallow: /webAdvertise
+Disallow: /publicidad
+Disallow: /politicaPrivacidad
+Disallow: /privacyPolicy
+Disallow: /contactanos
+Disallow: /contactUs
+Disallow: /publicaAnuncio
+Disallow: /postAd
+Disallow: /privateLoginServlet
+Disallow: /me
+Disallow: /facebookLogin
+Disallow: /getAdPhoneServlet
+Disallow: /getAdPhone
+Disallow: /generatePhoneContact
+Disallow: /agency
+Disallow: /autoComplete
+Disallow: /likeUnlike
+Disallow: /getAdServlet
+Disallow: /backend/
+Disallow: /privateArea_old/
+Disallow: /mailRedirect
+Disallow: /*/f_*
+Disallow: /*/o_*
+Disallow: /*/t_*
+Disallow: /*/l_*
+Disallow: /*/c_*
+Disallow: /*,*
+Disallow: /*/map$
+Disallow: /adNotExists.jsp$
+Disallow: /error.jsp$
+Disallow: /urlError.jsp$
+Disallow:/*agencyId=*
+Disallow:/www/
+Allow:/www/resem/new_design/*
+Allow:/www/resem/include/map*
+Disallow: /receivesRedirection*
+Disallow: /*/SQUARE_DETAIL*
+Disallow: /*/MEGABANNER_DETAIL*
+Disallow: /*/HORIZONTAL_LEADERBOARD*
+Disallow: /*/SQUARE*_SEARCH*
+Disallow: /*/HOME_MPU*
+Disallow: /landing/*
+Disallow: /*privacyPolicy*
+Disallow: /*contactUs*
+Disallow: /*aboutUs*
+
+Disallow: /zona/*
+Disallow: /location/*
+
+Disallow: /agent_e/*
+Disallow: /agente_e/*
+Disallow: /agency_e/*
+Disallow: /agen_e/*
+Disallow: /emlakci_e/*
+Disallow: /corretor_e/*
+Disallow: /landing-ads-*
+Disallow: /ext_ad/*
+
+Disallow:/www/es/buscador/elMundo/iframeV.jsp*
+Disallow:/www/resem/include/banners/pagElMundo.jsp*
+
+
+Disallow: /publicar/agente
+Disallow: /publicar/agencia
+Disallow: /publicar/imobiliaria
+Disallow: /sign-up/agent
+Disallow: /publicar/promotora
+Disallow: /publicar/desarrolladora
+Disallow: /publicar/corredora
+Disallow: /publicar/inmobiliaria
+Disallow: /publicar/constructora
+Disallow: /publicar/construtora
+Disallow: /sign-up/developer
+
+Disallow: /*promo-detail=*
+
+Disallow: /locationReport*
+
+Disallow: /sendWhatsApp/*
+
+Disallow: /re/*
+
+User-agent: Adidum
+Disallow: /
+
+User-agent: UbiCrawler
+Disallow: /
+
+User-agent: DOC
+Disallow: /
+
+User-agent: Zao
+Disallow: /
+
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+User-agent: grub-client
+Disallow: /
+
+User-agent: k2spider
+Disallow: /
+
+User-agent: NPBot
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: WijuBot
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: *
+Allow:/*/f_remate-bancario$
+Allow:/*/f_1-recamara$
+Allow:/*/f_2-recamaras$
+Allow:/*/f_3-recamaras$
+Allow:/*/f_4-recamaras$
+Allow:/*/f_5-recamaras$
+Allow:/*/f_con-alberca$
+
+

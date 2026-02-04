@@ -1,0 +1,86 @@
+#Three Ireland - Make It Count
+
+# General Crawler Control
+User-agent: *
+Allow: /
+Disallow: *shop/broadband/bill-pay-broadband*
+# Allow the main search page
+Allow: /search/
+# Disallow search result pages with query parameters
+Disallow: /search/?*
+# Disallow URLs with query parameters mobileCartItem
+Disallow: /*?mobileCartItem=
+Disallow: /*&mobileCartItem=
+# Disallow URLs with query parameters selectedCategoryId 
+Disallow: /*?selectedCategoryId=
+Disallow: /*&selectedCategoryId=
+# Disallow URLs with /digital/gotocart/
+Disallow: */digital/gotocart/*
+
+# Googlebot Control
+User-agent: Googlebot
+Allow: /
+Disallow: *shop/broadband/bill-pay-broadband*
+# Allow the main search page
+Allow: /search/
+# Disallow search result pages with query parameters
+Disallow: /search/?*
+# Disallow URLs with query parameters mobileCartItem
+Disallow: /*?mobileCartItem=
+Disallow: /*&mobileCartItem=
+# Disallow URLs with query parameters selectedCategoryId 
+Disallow: /*?selectedCategoryId=
+Disallow: /*&selectedCategoryId=
+# Disallow URLs with /digital/gotocart/
+Disallow: */digital/gotocart/*
+
+# Google Ads Control
+User-agent: AdsBot-Google
+Allow: /
+Disallow: *shop/broadband/bill-pay-broadband*
+# Allow the main search page
+Allow: /search/
+# Disallow search result pages with query parameters
+Disallow: /search/?*
+# Disallow URLs with query parameters mobileCartItem
+Disallow: /*?mobileCartItem=
+Disallow: /*&mobileCartItem=
+# Disallow URLs with query parameters selectedCategoryId 
+Disallow: /*?selectedCategoryId=
+Disallow: /*&selectedCategoryId=
+# Disallow URLs with /digital/gotocart/
+Disallow: */digital/gotocart/*
+
+# Sitemaps
+# Primary AEM Sitemap
+sitemap: https://www.three.ie/sitemap.xml
+
+#Primary Shop Sitemap
+sitemap: https://www.three.ie/shop/sitemap.xml
+
+# Blog Sitemap
+sitemap: https://www.three.ie/blog.sitemap.xml
+
+# Buy Sitemap
+sitemap: https://www.three.ie/deals.sitemap.xml
+
+# Brands Sitemap
+sitemap: https://www.three.ie/brands.sitemap.xml
+
+# Broadband Sitemap
+sitemap: https://www.three.ie/broadband.sitemap.xml
+
+# Why Choose Three Sitemap
+sitemap: https://www.three.ie/why-choose-three.sitemap.xml
+
+# Legal Sitemap
+sitemap: https://www.three.ie/legal.sitemap.xml
+
+# Business Sitemap
+sitemap: https://www.three.ie/business.sitemap.xml
+
+# Device Guides Sitemap
+sitemap: https://www.three.ie/content/dam/3ie-wotf/device_guides_sitemap.xml
+
+# Plus Three Sitemap
+sitemap: https://plus.three.ie/sitemap.xml 

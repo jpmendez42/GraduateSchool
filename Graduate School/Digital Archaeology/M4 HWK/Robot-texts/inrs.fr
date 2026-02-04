@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /recherche-back-office/
+Disallow: /pages-obsoletes/
+Disallow: /htm/
+Disallow: /securite/
+Disallow: /pages-contact/Choixformulaire.html?*
+Disallow: /publications/bdd/mp/recherche.html?
+Sitemap: https://www.inrs.fr/dam/inrs/sitemap/sitemap.xml

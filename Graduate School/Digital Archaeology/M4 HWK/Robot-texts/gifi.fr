@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /nos-petits-prix/?page=
+Disallow: /selection-produit*
+Disallow: /resultat-recherche
+Disallow: /selection-produits*?page=
+Disallow: /collection*?page=
+Disallow: /nos-catalogues*?page=
+Disallow: *wishlist*
+Disallow: /vos-favoris
+Disallow: /mon-compte
+Disallow: /*prefn*
+Disallow: /*prefv*
+Disallow: /*pmin
+Disallow: /*pmax
+Disallow: /*srule*
+Disallow: /*start
+Disallow: /account*
+Disallow: /checkout*
+Disallow: *view=grid*
+Disallow: *view=list*
+Disallow: /search*
+Disallow: /category/ 
+Disallow: /on/demandware.store/
+Disallow: /images/product/
+Disallow: /product-unavailable/id/
+Disallow: /search/product/
+ 
+Sitemap:https://www.gifi.fr/sitemap_index.xml

@@ -1,0 +1,71 @@
+# Sitemaps
+Sitemap: https://www.umledirect.com/sitemap.info.flag.demo.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.flag.best-rated.index.xml
+Sitemap: https://www.umledirect.com/sitemap.list.family_category.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.flag.final-sale.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.flag.other.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.grid.index.xml
+Sitemap: https://www.umledirect.com/sitemap.list.family.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.flag.deals.index.xml
+Sitemap: https://www.umledirect.com/sitemap.list.category.index.xml
+Sitemap: https://www.umledirect.com/sitemap.list.brand_category.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.flag.clearance.index.xml
+Sitemap: https://www.umledirect.com/sitemap.other.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.flag.unavailable.index.xml
+Sitemap: https://www.umledirect.com/sitemap.list.brand.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.flag.on-sale.index.xml
+Sitemap: https://www.umledirect.com/sitemap.product.unorderable.index.xml
+Sitemap: https://www.umledirect.com/sitemap.product.orderable.index.xml
+Sitemap: https://www.umledirect.com/sitemap.info.content.index.xml
+Sitemap: https://www.umledirect.com/sitemap.xml
+
+User-agent: *
+# Cap is html
+Disallow: /staging/
+Disallow: /cgi-bin/
+Disallow: /RT/
+Disallow: /TG/
+Disallow: /QS/
+Disallow: /wgl/
+Disallow: /P/
+Disallow: /ymix/
+Disallow: /OS/
+Disallow: /cs/
+Disallow: /en=
+Disallow: /p/s=
+Disallow: /bt=
+Disallow: /sid=
+Disallow: /io=
+Disallow: /ii=
+Disallow: /api/
+Disallow: /iv-api/
+Disallow: /checkout/
+Disallow: /email/manage
+Disallow: /email/unsubscribe
+Disallow: /email/hold
+Disallow: /email/resubscribe
+Disallow: /fed-experiments-7ae6f108-47ff-4853-ad45-c50e7f1fc5e9/
+Disallow: /utc-time
+Disallow: /nelmio-js-logger
+# Rover is a bad dog <http://www.roverbot.com>
+User-agent: Roverbot
+Disallow: /
+
+# Block Indix.com
+User-agent: spotbot
+Disallow: /
+
+# Block TheFind.com
+User-agent: FatBot
+Disallow: /
+
+# Block CommonCrawl
+User-agent: CCBot
+Disallow: /
+
+# Block Halebot (biggeye.tacitknowledge.com)
+User-agent: Halebot
+Disallow: /
+
+# Googlebot doesn't work well with Facebook Comments
+Disallow: /plugins/feedback.php

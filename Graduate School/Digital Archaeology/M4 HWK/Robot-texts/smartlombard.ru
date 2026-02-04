@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /login/
+Disallow: /ukraine/
+Disallow: /kazahstan/
+Disallow: /new_price/
+Disallow: /o_programme/otzyivyi_polzovateley_kazahstan/
+Sitemap: https://www.smartlombard.ru/sitemap.xml
+Host: https://smartlombard.ru/

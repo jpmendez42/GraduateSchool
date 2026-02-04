@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: */embed/
+Disallow: *?next*
+Disallow: /apis
+Disallow: /search*
+Disallow: /pd/browse*
+Disallow: /pd/*
+Disallow: /documents/*
+Disallow: /ajax/*
+Disallow: /onesignal
+Disallow: /index.php*
+
+Sitemap: https://tirto.id/sitemap/s/sitemap_basic.xml
+Sitemap: https://tirto.id/sitemap/s/sitemap_latest.xml
+Sitemap: https://tirto.id/sitemap/s/sitemap_image.xml
+Sitemap: https://tirto.id/sitemap/r/generate-article
+Sitemap: https://tirto.id/sitemap/s/sitemap_video.xml
+Sitemap: https://tirto.id/sitemap/news.xml

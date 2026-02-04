@@ -1,0 +1,56 @@
+User-agent: *
+Disallow: /_mm/
+Disallow: /_notes/
+Disallow: /_baks/
+Disallow: /MMWIP/
+Disallow: /forms/
+Disallow: /dezabonare/
+Disallow: /platinum/
+Disallow: /asistenta/home/upload_file/
+Disallow: /asistenta/home/upload_video/
+Disallow: /asistenta/ram/ajx_get_que_list/
+Disallow: /reviews/pareri/ajax_load/
+Disallow: /reviews/js/
+Disallow: /asistenta/js/
+Disallow: /asistenta/qdetalii/ajx_get_que_similar/
+Disallow: /asistenta/qdetalii/ajx_get_que_similar/
+Disallow: /program-studenti/
+Disallow: /test-chatbot/
+Disallow: /myaccount-corporate/
+Disallow: /accounts/
+Disallow: /myorange/
+Disallow: /sim/
+Disallow: /factura/
+Disallow: */shopPortal/*
+Disallow: *?WT.mc_id=synergy*
+Disallow: *chat/?parentUrl=*
+Disallow: /old-help/
+Disallow: *p_p_id=phone_comparator*
+Disallow: */adauga/*
+Disallow: */moderare*
+Disallow: */reviewurile-mele*
+Disallow: */preview-magazin-online/*
+Disallow: *order*
+Disallow: */shared/*
+Disallow: *,*,*,*,*
+Disallow: /*2pau
+Disallow: /*2ptt
+Disallow: /*2ptu
+Disallow: /*2prp
+Disallow: /*2pdlst
+Disallow: */cautare*
+Disallow: /magazin-online/comparator/
+Disallow: /dezabonare-newsletter/
+
+Allow: */accounts/login-user$
+Allow: */accounts/start-reset-password$
+Allow: */accounts/create-user/pick$
+
+User-agent: Swiftbot
+Disallow: /framework/ 
+
+User-agent: Googlebot-image
+Disallow:
+
+Sitemap: https://www.orange.ro/help/upload/sitemap.xml
+Sitemap: https://www.orange.ro/sitemap.xml

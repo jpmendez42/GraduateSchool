@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /api/
+Disallow: /service-onboarding/
+Disallow: /service-lineup/
+Disallow: /service-pacman/
+Disallow: /service-account/
+Disallow: /service-bingo/
+Disallow: /apigw/
+Disallow: /digishopa/
+Disallow: /digishopu/
+Disallow: /digishopi/
+Disallow: /digishopp/
+Disallow: /prweb/
+Allow: /files/reglement PSEL.pdf
+Allow: /files/reglement%20PSEL.pdf
+Allow: /generated/media/JEUX/reglement_sportpdv1n2_pdv.pdf
+Allow: /static/contrib/files/2018-08/Joker%2B_Règlement_A-partir-du_15-09-17.pdf
+Allow: /generated/media/JEUX/reglement_euromillions.pdf
+Allow: /static/contrib/files/pdf/reglement-keno.pdf
+Allow: /static/contrib/files/pdf/2018-11-24_Règlement_LOTO_0.pdf
+Allow: /static/contrib/files/pdf/reglement_euromillions.pdf
+Allow: /files/reglement-paris-a-cotes-pdv-parionssport.pdf
+Allow: /generated/media/JEUX/reglement_lotosports.pdf
+Disallow: *.pdf*
+Sitemap: https://www.fdj.fr/sitemap.xml
+Sitemap: https://www.fdj.fr/news/sitemap.xml

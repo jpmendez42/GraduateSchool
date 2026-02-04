@@ -1,0 +1,33 @@
+User-agent: Googlebot
+Disallow: /client/
+
+User-agent: AdsBot-Google
+Disallow: /client/
+
+User-agent: Googlebot-Image
+Disallow: /client/
+
+User-agent: Bingbot
+Disallow: /client/
+
+User-agent: Slurp
+Disallow: /client/
+
+User-Agent: msnbot
+Disallow: /client/
+
+User-agent: Applebot
+Disallow: /client/
+
+User-agent: Facebot
+Disallow: /client/
+
+User-agent: Twitterbot
+Disallow: /client/
+
+User-agent: Cookiebot
+Disallow: /client/
+
+User-agent: Cookiebot/1.0
+Disallow: /client/
+

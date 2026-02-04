@@ -1,0 +1,40 @@
+Sitemap: http://www.infoclimat.fr/sitemap.xml
+
+User-agent: *
+Crawl-delay: 3600
+
+User-agent: Amazonbot
+Crawl-delay: 3600
+
+User-agent: Bingbot
+Crawl-delay: 3600
+
+User-agent: BingPreview
+Crawl-delay: 3600
+
+User-agent: DataForSeoBot
+Crawl-delay: 3600
+
+User-agent: dotbot
+Crawl-delay: 3600
+
+User-agent: Googlebot
+Crawl-delay: 3600
+
+User-agent: PerplexityBot
+Crawl-delay: 3600
+
+User-agent: PetalBot
+Crawl-delay: 3600
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 3600
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 3600
+
+User-Agent: *
+Disallow: /previsions-meteo/atmogrammes/

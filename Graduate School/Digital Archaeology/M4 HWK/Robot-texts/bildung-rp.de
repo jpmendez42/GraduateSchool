@@ -1,0 +1,1438 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="de-DE">
+<head>
+
+<meta charset="utf-8">
+<!-- 
+	This website is powered by TYPO3 - inspiring people to share!
+	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+	TYPO3 is copyright 1998-2025 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at https://typo3.org/
+-->
+
+<base href="https://bildung.rlp.de">
+<link rel="icon" href="/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/favicon.ico" type="image/vnd.microsoft.icon">
+<title>Startseite . Bildungsserver - RLP</title>
+<meta name="generator" content="TYPO3 CMS" />
+<meta name="author" content="Rheinland-Pfalz" />
+<meta name="keywords" content="Rheinland-Pfalz" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="twitter:card" content="summary" />
+<meta name="msapplication-tilecolor" content="#da532c" />
+<meta name="msapplication-config" content="/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/browserconfig.xml" />
+<meta name="theme-color" content="#ffffff" />
+
+
+<link rel="stylesheet" href="/typo3temp/assets/compressed/cc78237e39849837e917663375006b72-29fd90c6f367e8a218456854a0f24348.css.gzip?1751458964" media="all">
+<link rel="stylesheet" href="/typo3temp/assets/compressed/MediaAlbum-2311cfeaddf0feab7dc944fd7f94d430.css.gzip?1751458964" media="all">
+<link rel="stylesheet" href="/typo3conf/ext/rlp_site/Resources/Public/Css/screen.min.css?1751285288" media="all">
+
+
+
+<script src="/typo3conf/ext/rlp_site/Resources/Public/JavaScript/headerBundle.min.js?1751285288"></script>
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/favicon-16x16.png">
+<link rel="manifest" href="/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/site.webmanifest">
+<link rel="mask-icon" href="/typo3conf/ext/rlp_base/Resources/Public/Icons/Favicons/safari-pinned-tab.svg" color="#5bbad5">
+
+      <script>
+        var _paq = window._paq = window._paq || [];
+        /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+        _paq.push(["setDocumentTitle", document.location.host + document.location.pathname + document.location.search]);
+        _paq.push(['setCookieDomain', '*.bildung.rlp.de']);
+        _paq.push(["setDomains", ["*.bildung.rlp.de"]]);
+        _paq.push(['trackPageView']);
+        _paq.push(['disableCookies']);
+        _paq.push(['enableLinkTracking']);
+
+        (function() {
+          var u="https://piwik.bildung-rp.de/";
+          _paq.push(['setTrackerUrl', u+'matomo.php']);
+          _paq.push(['setSiteId', 36404]);
+          _paq.push(['addTracker', "//piwik.bildung-rp.de/matomo.php", 36426]);
+          var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+          g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+        })();
+      </script>
+<link rel="canonical" href="https://bildung.rlp.de/?tx_ttnews%5Btt_news%5D=469&amp;cHash=85bb83bbe87b059a7a81ffc721897dfc"/>
+</head>
+<body id="p1" class="page-1 pagelevel-0 language-0 backendlayout-default layout-default">
+
+<header id="top-header"
+	        class="pb-7"><!-- Calculate available languages--><nav class="navbar navbar--meta navbar-expand navbar-dark bg-primary" id="nav-meta"><div class="container h-100"><a aria-label="Seitennavigation"
+		   aria-controls="offcanvas"
+		   class="px-0 py-2 nav-item me-3 d-lg-none h-100"
+		   data-bs-toggle="offcanvas"
+		   href="#offcanvas"
+		   role="button"><img class="w-100 h-100 align-top" alt="Seitennavigation" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/list_white.svg" width="40" height="27" /></a><div class="dropdown d-none d-lg-block"><button aria-label="Metamenü"
+						aria-expanded="false"
+						aria-haspopup="true"
+						class="btn dropdown-toggle dropdown-toggle--ministries text-uppercase"
+						data-bs-toggle="dropdown"
+						id="nav-meta-ministries"><span>Bildungsserver RLP</span></button><ul aria-labelledby="nav-meta-ministries" class="dropdown-menu"><li class=" d-inline-block w-100"><a title="Bildungsserver Startseite" target="_self" class="dropdown-item text-wrap" role="button">
+				Bildungsserver Startseite
+			</a></li><li class=" d-inline-block w-100"><a href="/unterricht" title="Unterricht" target="_self" class="dropdown-item text-wrap" role="button">
+				Unterricht
+			</a></li><li class=" d-inline-block w-100"><a href="/themen-querschnittsthemen" title="Themen &amp; Querschnittsthemen" target="_self" class="dropdown-item text-wrap" role="button">
+				Themen &amp; Querschnittsthemen
+			</a></li><li class=" d-inline-block w-100"><a href="/schule" title="Schule" target="_self" class="dropdown-item text-wrap" role="button">
+				Schule
+			</a></li><li class=" nav-item-last mb-6 d-inline-block w-100"><a href="/unterstuetzung" title="Unterstützung" target="_self" class="dropdown-item text-wrap" role="button">
+				Unterstützung
+			</a></li></ul></div><button aria-label="Suchen"
+					class="d-md-none py-2 h-100 bg-transparent border-0 pe-0 js__search-item"
+					data-bs-toggle="offcanvas"
+					data-bs-target="#offcanvas"><img class="m-auto h-100 align-top" alt="Suchen" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/search_white.svg" width="25" height="25" /></button><button type="button" aria-label="Suchen"
+					class="search-overlay-trigger d-none d-md-block d-lg-none py-2 h-100 bg-transparent border-0 pe-0"
+					data-bs-toggle="modal"
+					data-bs-target="#searchModal"><img class="m-auto h-100 align-top" alt="Suchen" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/search_white.svg" width="25" height="25" /></button></div></nav><nav class="navbar navbar-expand navbar-light bg-secondary" id="nav-logo"><div class="container"><a href="https://bildung.rlp.de" id="rlp-logo"><img src="/typo3conf/ext/rlp_base/Resources/Public/Images/campaign.svg" width="142" height="43"  class="img-fluid"  alt="Logo Bildungsserver Rheinland Pfalz" ></a><div><a href="https://bildung.rlp.de"><img src="/typo3conf/ext/rlp_base/Resources/Public/Images/Logos/Bildungsserver_Logo.svg" width="166" height="70"  class="img-fluid"  alt="Logo" ></a></div></div></nav><nav class="navbar navbar-expand navbar-light bg-white d-none d-lg-block" id="nav-main"><div class="container"><a aria-label="Seitennavigation" aria-controls="offcanvas" class="nav-link px-0 nav-item me-6" data-bs-toggle="offcanvas" href="#offcanvas" role="button"><img alt="Seitennavigation" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/list.svg" width="40" height="27" /></a><ul class="navbar-nav"><li id="page-id-7690"
+						class="nav-item page first-level"><a href="/unterricht" class="nav-link fw-bold" title="Unterricht" role="button">
+						Unterricht
+					</a></li><li id="page-id-7700"
+						class="nav-item page first-level"><a href="/themen-querschnittsthemen" class="nav-link fw-bold" title="Themen &amp; Querschnittsthemen" role="button">
+						Themen &amp; Querschnittsthemen
+					</a></li><li id="page-id-7705"
+						class="nav-item page first-level"><a href="/schule" class="nav-link fw-bold" title="Schule" role="button">
+						Schule
+					</a></li><li id="page-id-7715"
+						class="nav-item page first-level nav-item-last"><a href="/unterstuetzung" class="nav-link fw-bold" title="Unterstützung" role="button">
+						Unterstützung
+					</a></li></ul><button aria-label="Suchen"
+						type="button"
+				        name="search-modal"
+						class="search-overlay-trigger nav-item nav-item__search d-none d-lg-block bg-transparent border-0 ms-6"
+						data-bs-toggle="modal"
+						data-bs-target="#searchModal"><img class="m-auto nav-item__search__icon align-top" alt="Suchen" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/search_red.svg" width="30" height="30" /></button></div></nav><div class="offcanvas offcanvas-start" id="offcanvas" tabindex="-1"><div class="offcanvas-header pb-5"><button aria-label="Schließen" class="btn-close text-reset p-0 ms-n2" data-bs-dismiss="offcanvas" type="button"></button><div class="offcanvas-header__meta"></div></div><div class="offcanvas-body pt-0"><div class="row"><div class="col-12"><div class="tx_solr"><div class="tx-solr-search-form"><form method="get" class="main-search mb-7" id="tx-solr-search-form-pi-results-offcanvas" action="/suche" data-suggest="/suche?type=7384" data-suggest-header="Top Results" accept-charset="utf-8"><div class="input-group"><input type="text" class="js__offcanvas__solr-suggest tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus form-control" placeholder="Suchbegriff" name="tx_solr[q]" value="" /><div class="input-group-text"><button aria-label="Suchen"
+								class="btn btn-link p-0  tx-solr-submit"
+						        name="search-submit-mobile"
+								type="submit"><img alt="Suchen" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/search.svg" width="20" height="20" /></button></div></div></form></div></div></div></div><nav class="navbar p-0 navbar-light bg-white" id="nav-offcanvas"><ul class="navbar-nav w-100"><li class="nav-item page-id-7690 page position-relative first-level dropdown"><div class="position-relative"><a href="/unterricht"
+											   class="nav-link fw-bold d-inline-block"
+											   title="Unterricht"
+											   role="button"
+											>
+												Unterricht
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+												data-bs-target="#children-of-7690"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-7690"
+											><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7690" class="collapse ps-3 "><li class="nav-item page-id-7693 dropdown"><div class="position-relative"><a href="/unterricht/faecher"
+									   class="nav-link d-inline-block"
+									   title="Unterricht"
+									   target="_self"
+									>
+										Fächer
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7693"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7693"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7693" class="collapse ps-3 "><li class="nav-item page-id-7954 dropdown"><div class="position-relative"><a href="/unterricht/faecher/sprachen"
+									   class="nav-link d-inline-block"
+									   title="Fächer"
+									   target="_self"
+									>
+										Sprachen
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7954"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7954"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7954" class="collapse ps-3 "><li class="nav-item page-id-7957 "><a href="https://bildung.rlp.de/deutsch/"
+						   class="nav-link"
+						   title="Sprachen"
+						   target="_blank"
+						>
+							Deutsch
+						</a></li><li class="nav-item page-id-7958 "><a href="https://bildung.rlp.de/englisch/"
+						   class="nav-link"
+						   title="Sprachen"
+						   target="_blank"
+						>
+							Englisch
+						</a></li><li class="nav-item page-id-7959 "><a href="https://bildung.rlp.de/franzoesisch/"
+						   class="nav-link"
+						   title="Sprachen"
+						   target="_blank"
+						>
+							Französisch
+						</a></li><li class="nav-item page-id-7960 "><a href="https://bildung.rlp.de/latein/"
+						   class="nav-link"
+						   title="Sprachen"
+						   target="_blank"
+						>
+							Latein
+						</a></li><li class="nav-item page-id-8228 "><a href="https://bildung.rlp.de/russisch/"
+						   class="nav-link"
+						   title="Sprachen"
+						   target="_blank"
+						>
+							Russisch
+						</a></li><li class="nav-item page-id-8229 "><a href="https://bildung.rlp.de/italienisch/"
+						   class="nav-link"
+						   title="Sprachen"
+						   target="_blank"
+						>
+							Italienisch
+						</a></li><li class="nav-item page-id-7962 "><a href="https://bildung.rlp.de/spanisch/"
+						   class="nav-link"
+						   title="Sprachen"
+						   target="_blank"
+						>
+							Spanisch
+						</a></li></ul></li><li class="nav-item page-id-7697 dropdown"><div class="position-relative"><a href="https://bildung.rlp.de/mint/"
+									   class="nav-link d-inline-block"
+									   title="Fächer"
+									   target="_blank"
+									>
+										MINT
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7697"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7697"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7697" class="collapse ps-3 "><li class="nav-item page-id-7971 "><a href="https://bildung.rlp.de/mathematik/"
+						   class="nav-link"
+						   title="MINT"
+						   target="_blank"
+						>
+							Mathematik
+						</a></li><li class="nav-item page-id-7899 "><a href="https://bildung.rlp.de/informatik/"
+						   class="nav-link"
+						   title="MINT"
+						   target="_blank"
+						>
+							Informatik
+						</a></li><li class="nav-item page-id-8254 "><a href="/unterricht/faecher/wahlpflichtfaecher-realschule-plus/technik-und-naturwissenschaften"
+						   class="nav-link"
+						   title="MINT"
+						   target="_self"
+						>
+							Technik und Naturwissenschaften
+						</a></li></ul></li><li class="nav-item page-id-7955 dropdown"><div class="position-relative"><a href="/unterricht/faecher/gesellschafts-wissenschaften-religion"
+									   class="nav-link d-inline-block"
+									   title="Fächer"
+									   target="_self"
+									>
+										Gesellschafts- wissenschaften, Religion
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7955"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7955"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7955" class="collapse ps-3 "><li class="nav-item page-id-7797 "><a href="https://bildung.rlp.de/erdkunde/"
+						   class="nav-link"
+						   title="Gesellschafts- wissenschaften, Religion"
+						   target="_blank"
+						>
+							Erdkunde
+						</a></li><li class="nav-item page-id-7969 "><a href="https://bildung.rlp.de/gesellschaftslehre/"
+						   class="nav-link"
+						   title="Gesellschafts- wissenschaften, Religion"
+						   target="_blank"
+						>
+							Gesellschaftslehre
+						</a></li><li class="nav-item page-id-7966 "><a href="https://bildung.rlp.de/sozialkunde/"
+						   class="nav-link"
+						   title="Gesellschafts- wissenschaften, Religion"
+						   target="_blank"
+						>
+							Sozialkunde
+						</a></li><li class="nav-item page-id-7967 "><a href="https://bildung.rlp.de/religion/"
+						   class="nav-link"
+						   title="Gesellschafts- wissenschaften, Religion"
+						   target="_blank"
+						>
+							Religion
+						</a></li><li class="nav-item page-id-7968 "><a href="https://bildung.rlp.de/ethik/"
+						   class="nav-link"
+						   title="Gesellschafts- wissenschaften, Religion"
+						   target="_blank"
+						>
+							Ethik
+						</a></li></ul></li><li class="nav-item page-id-7956 dropdown"><div class="position-relative"><a href="/unterricht/faecher/musische-faecher-sport"
+									   class="nav-link d-inline-block"
+									   title="Fächer"
+									   target="_self"
+									>
+										Musische Fächer, Sport
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7956"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7956"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7956" class="collapse ps-3 "><li class="nav-item page-id-7978 "><a href="https://bildung.rlp.de/bildende-kunst/"
+						   class="nav-link"
+						   title="Musische Fächer, Sport"
+						   target="_blank"
+						>
+							Bildende Kunst
+						</a></li><li class="nav-item page-id-7979 "><a href="/unterricht/faecher/musische-faecher-sport/darstellendes-spiel"
+						   class="nav-link"
+						   title="Musische Fächer, Sport"
+						   target="_self"
+						>
+							Darstellendes Spiel
+						</a></li><li class="nav-item page-id-7980 "><a href="/unterricht/faecher/musische-faecher-sport/musik"
+						   class="nav-link"
+						   title="Musische Fächer, Sport"
+						   target="_self"
+						>
+							Musik
+						</a></li><li class="nav-item page-id-7981 "><a href="/unterricht/faecher/musische-faecher-sport/kultur"
+						   class="nav-link"
+						   title="Musische Fächer, Sport"
+						   target="_self"
+						>
+							Kultur
+						</a></li><li class="nav-item page-id-7982 "><a href="/unterricht/faecher/musische-faecher-sport/sport"
+						   class="nav-link"
+						   title="Musische Fächer, Sport"
+						   target="_self"
+						>
+							Sport
+						</a></li></ul></li><li class="nav-item page-id-7998 dropdown"><div class="position-relative"><a href="/unterricht/faecher/wahlpflichtfaecher-realschule-plus"
+									   class="nav-link d-inline-block"
+									   title="Fächer"
+									   target="_self"
+									>
+										Wahlpflichtfächer Realschule plus
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7998"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7998"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7998" class="collapse ps-3 "><li class="nav-item page-id-7999 "><a href="/unterricht/faecher/wahlpflichtfaecher-realschule-plus/hauswirtschaft-und-sozialwesen"
+						   class="nav-link"
+						   title="Wahlpflichtfächer Realschule plus"
+						   target="_self"
+						>
+							Hauswirtschaft und Sozialwesen
+						</a></li><li class="nav-item page-id-8000 "><a href="/unterricht/faecher/wahlpflichtfaecher-realschule-plus/technik-und-naturwissenschaften"
+						   class="nav-link"
+						   title="Wahlpflichtfächer Realschule plus"
+						   target="_self"
+						>
+							Technik und Naturwissenschaften
+						</a></li><li class="nav-item page-id-8001 "><a href="/unterricht/faecher/wahlpflichtfaecher-realschule-plus/wirtschaft-und-verwaltung"
+						   class="nav-link"
+						   title="Wahlpflichtfächer Realschule plus"
+						   target="_self"
+						>
+							Wirtschaft und Verwaltung
+						</a></li><li class="nav-item page-id-8002 "><a href="/unterricht/faecher/wahlpflichtfaecher-realschule-plus/franzoesisch"
+						   class="nav-link"
+						   title="Wahlpflichtfächer Realschule plus"
+						   target="_self"
+						>
+							Französisch
+						</a></li></ul></li></ul></li><li class="nav-item page-id-7701 dropdown"><div class="position-relative"><a href="/unterricht/diagnose-lernstandserhebung"
+									   class="nav-link d-inline-block"
+									   title="Unterricht"
+									   target="_self"
+									>
+										Diagnose, Lernstandserhebung
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7701"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7701"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7701" class="collapse ps-3 "><li class="nav-item page-id-11427 dropdown"><div class="position-relative"><a href="/unterricht/diagnose-lernstandserhebung/paedagogische-diagnose"
+									   class="nav-link d-inline-block"
+									   title="Diagnose, Lernstandserhebung"
+									   target="_self"
+									>
+										Pädagogische Diagnostik
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-11427"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-11427"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-11427" class="collapse ps-3 "><li class="nav-item page-id-11426 "><a href="/unterricht/diagnose-lernstandserhebung/lesen-macht-stark-biss"
+						   class="nav-link"
+						   title="Pädagogische Diagnostik"
+						   target="_self"
+						>
+							Lesen macht stark - BiSS
+						</a></li><li class="nav-item page-id-11425 "><a href="/unterricht/diagnose-lernstandserhebung/mathe-macht-stark"
+						   class="nav-link"
+						   title="Pädagogische Diagnostik"
+						   target="_self"
+						>
+							Mathe macht stark
+						</a></li><li class="nav-item page-id-11429 "><a href="/unterricht/diagnose-lernstandserhebung/paedagogische-diagnose/mathe-sicher-koennen"
+						   class="nav-link"
+						   title="Pädagogische Diagnostik"
+						   target="_self"
+						>
+							Mathe sicher können
+						</a></li><li class="nav-item page-id-7735 "><a href="/unterricht/diagnose-lernstandserhebung/ilea-plus"
+						   class="nav-link"
+						   title="Pädagogische Diagnostik"
+						   target="_self"
+						>
+							iLeA plus
+						</a></li></ul></li><li class="nav-item page-id-7737 "><a href="/unterricht/diagnose-lernstandserhebung/lernstandserhebung"
+						   class="nav-link"
+						   title="Diagnose, Lernstandserhebung"
+						   target="_self"
+						>
+							Lernstandserhebung
+						</a></li></ul></li><li class="nav-item page-id-11428 "><a href="/unterricht/diagnose-lernstandserhebung-foerderung/individuelle-foerderung"
+						   class="nav-link"
+						   title="Unterricht"
+						   target="_self"
+						>
+							(Individuelle) Förderung
+						</a></li><li class="nav-item page-id-7765 dropdown"><div class="position-relative"><a href="/unterricht/evaluation"
+									   class="nav-link d-inline-block"
+									   title="Unterricht"
+									   target="_self"
+									>
+										Evaluation
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7765"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7765"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7765" class="collapse ps-3 "><li class="nav-item page-id-7780 "><a href="https://bildung.rlp.de/vera/"
+						   class="nav-link"
+						   title="Evaluation"
+						   target="_blank"
+						>
+							VERA
+						</a></li><li class="nav-item page-id-7779 "><a href="https://bildung.rlp.de/ines/"
+						   class="nav-link"
+						   title="Evaluation"
+						   target="_blank"
+						>
+							InES
+						</a></li><li class="nav-item page-id-13951 "><a href="https://bildung.rlp.de/ines/befragungsportale/eva-schule"
+						   class="nav-link"
+						   title="Evaluation"
+						   target="_blank"
+						>
+							EVA Schule
+						</a></li><li class="nav-item page-id-7778 "><a href="https://bildung.rlp.de/ines/befragungsportale/eva-klasse"
+						   class="nav-link"
+						   title="Evaluation"
+						   target="_blank"
+						>
+							EVA Klasse
+						</a></li></ul></li><li class="nav-item page-id-7704 "><a href="https://bildung.rlp.de/schulcampus/"
+						   class="nav-link"
+						   title="Unterricht"
+						   target="_blank"
+						>
+							Schulcampus
+						</a></li></ul></li><li class="nav-item page-id-7700 page position-relative first-level dropdown"><div class="position-relative"><a href="/themen-querschnittsthemen"
+											   class="nav-link fw-bold d-inline-block"
+											   title="Themen &amp; Querschnittsthemen"
+											   role="button"
+											>
+												Themen &amp; Querschnittsthemen
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+												data-bs-target="#children-of-7700"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-7700"
+											><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7700" class="collapse ps-3 "><li class="nav-item page-id-7726 "><a href="https://bildung.rlp.de/berufsorientierung/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Berufliche Orientierung
+						</a></li><li class="nav-item page-id-7702 dropdown"><div class="position-relative"><a href="/themen-querschnittsthemen/bildung-in-der-digitalen-welt"
+									   class="nav-link d-inline-block"
+									   title="Themen &amp; Querschnittsthemen"
+									   target="_self"
+									>
+										Bildung in der digitalen Welt
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7702"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7702"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7702" class="collapse ps-3 "><li class="nav-item page-id-12149 dropdown"><div class="position-relative"><a href="/themen-querschnittsthemen/bildung-in-der-digitalen-welt/paedagogische-praxis"
+									   class="nav-link d-inline-block"
+									   title="Bildung in der digitalen Welt"
+									   target="_self"
+									>
+										Pädagogische Praxis
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-12149"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-12149"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-12149" class="collapse ps-3 "><li class="nav-item page-id-12158 "><a href="https://bildung.rlp.de/medienkompass/"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							MedienkomP@ss
+						</a></li><li class="nav-item page-id-12156 "><a href="https://bildung.rlp.de/imedia/"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							iMedia
+						</a></li><li class="nav-item page-id-7716 "><a href="https://bildung.rlp.de/schulkinowoche/"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							SchuKinoWoche
+						</a></li><li class="nav-item page-id-12161 "><a href="https://bildung.rlp.de/digikomp/digitale-studientage"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							Digitale Studientage
+						</a></li><li class="nav-item page-id-13536 "><a href="https://wmk-rlp.de/"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							Woche der Medienkompetenz
+						</a></li><li class="nav-item page-id-8537 "><a href="/themen-querschnittsthemen/bildung-in-der-digitalen-welt/paedagogische-praxis/medienwerkstatt"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_self"
+						>
+							Medienwerkstatt
+						</a></li><li class="nav-item page-id-12157 "><a href="https://bildung.rlp.de/starkimnetz/"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							Stark im Netz
+						</a></li><li class="nav-item page-id-12160 "><a href="https://bildung.rlp.de/digikomp/robolab"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							Robolab
+						</a></li><li class="nav-item page-id-13585 "><a href="https://bildung.rlp.de/tablets/"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							Tableteinsatz in der Schule
+						</a></li><li class="nav-item page-id-13535 "><a href="https://cloud.schulcampus-rlp.de/edu-sharing/components/search?fromLogin=true&amp;q=Comedison"
+						   class="nav-link"
+						   title="Pädagogische Praxis"
+						   target="_blank"
+						>
+							Comedison
+						</a></li></ul></li><li class="nav-item page-id-16041 "><a href="https://bildung.rlp.de/digikomp/arbeitsbereiche#c56998"
+						   class="nav-link"
+						   title="Bildung in der digitalen Welt"
+						   target="_blank"
+						>
+							Lernen im Bildungsportal
+						</a></li><li class="nav-item page-id-16042 "><a href="https://bildung.rlp.de/digikomp/arbeitsbereiche#c56995"
+						   class="nav-link"
+						   title="Bildung in der digitalen Welt"
+						   target="_blank"
+						>
+							Regionale Vernetzung und Beratung
+						</a></li><li class="nav-item page-id-16043 "><a href="https://bildung.rlp.de/digikomp/arbeitsbereiche#c58702"
+						   class="nav-link"
+						   title="Bildung in der digitalen Welt"
+						   target="_blank"
+						>
+							Zukunftslabor Schule
+						</a></li></ul></li><li class="nav-item page-id-7721 "><a href="https://bildung.rlp.de/demokratie/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Demokratiebildung und Gedenkarbeit
+						</a></li><li class="nav-item page-id-14102 "><a href="https://bildung.rlp.de/eu-int/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Europa und Internationales
+						</a></li><li class="nav-item page-id-16005 "><a href="https://bildung.rlp.de/ganztagsschule/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Ganztagsschule
+						</a></li><li class="nav-item page-id-7728 "><a href="https://bildung.rlp.de/gesundeschule/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Gesunde Schule
+						</a></li><li class="nav-item page-id-7722 "><a href="https://bildung.rlp.de/gewaltpraevention/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Gewaltprävention
+						</a></li><li class="nav-item page-id-7725 "><a href="https://inklusion.bildung-rp.de"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Inklusion
+						</a></li><li class="nav-item page-id-7723 "><a href="https://bildung.rlp.de/migration/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Migration
+						</a></li><li class="nav-item page-id-7724 "><a href="https://bildung.rlp.de/nachhaltigkeit/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Nachhaltigkeit
+						</a></li><li class="nav-item page-id-7729 "><a href="https://bildung.rlp.de/oekonomische/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Ökonomische Bildung
+						</a></li><li class="nav-item page-id-7730 "><a href="https://bildung.rlp.de/verbraucherbildung/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Verbraucherbildung
+						</a></li><li class="nav-item page-id-7731 "><a href="https://bildung.rlp.de/verkehrserziehung/"
+						   class="nav-link"
+						   title="Themen &amp; Querschnittsthemen"
+						   target="_blank"
+						>
+							Verkehrserziehung
+						</a></li></ul></li><li class="nav-item page-id-7705 page position-relative first-level dropdown"><div class="position-relative"><a href="/schule"
+											   class="nav-link fw-bold d-inline-block"
+											   title="Schule"
+											   role="button"
+											>
+												Schule
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+												data-bs-target="#children-of-7705"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-7705"
+											><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7705" class="collapse ps-3 "><li class="nav-item page-id-7714 dropdown"><div class="position-relative"><a href="/schularten"
+									   class="nav-link d-inline-block"
+									   title="Schule"
+									   target="_self"
+									>
+										Schularten
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7714"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7714"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7714" class="collapse ps-3 "><li class="nav-item page-id-7764 "><a href="https://bildung.rlp.de/grundschule/"
+						   class="nav-link"
+						   title="Schularten"
+						   target="_blank"
+						>
+							Grundschule
+						</a></li><li class="nav-item page-id-8256 "><a href="https://realschuleplus.bildung-rp.de/"
+						   class="nav-link"
+						   title="Schularten"
+						   target="_blank"
+						>
+							Realschule plus
+						</a></li><li class="nav-item page-id-7760 "><a href="https://bildung.rlp.de/igs/"
+						   class="nav-link"
+						   title="Schularten"
+						   target="_blank"
+						>
+							IGS
+						</a></li><li class="nav-item page-id-8255 "><a href="https://bildung.rlp.de/gymnasium/"
+						   class="nav-link"
+						   title="Schularten"
+						   target="_blank"
+						>
+							Gymnasium
+						</a></li><li class="nav-item page-id-7761 dropdown"><div class="position-relative"><a href="https://bildung.rlp.de/foerderschule/"
+									   class="nav-link d-inline-block"
+									   title="Schularten"
+									   target="_blank"
+									>
+										Förderschulen
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7761"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7761"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7761" class="collapse ps-3 "><li class="nav-item page-id-7763 "><a href="/schularten/foerderschulen/comedison"
+						   class="nav-link"
+						   title="Förderschulen"
+						   target="_self"
+						>
+							Comedison
+						</a></li><li class="nav-item page-id-7762 "><a href="/schularten/foerderschulen/fb-pc-sonderpaedagogik"
+						   class="nav-link"
+						   title="Förderschulen"
+						   target="_self"
+						>
+							fb-pc-sonderpaedagogik
+						</a></li></ul></li><li class="nav-item page-id-7759 "><a href="https://bildung.rlp.de/berufsbildendeschule/"
+						   class="nav-link"
+						   title="Schularten"
+						   target="_blank"
+						>
+							Berufsbildende Schulen
+						</a></li></ul></li><li class="nav-item page-id-7706 dropdown"><div class="position-relative"><a href="/schule/schulentwicklung"
+									   class="nav-link d-inline-block"
+									   title="Schule"
+									   target="_self"
+									>
+										Schulentwicklung
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7706"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7706"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7706" class="collapse ps-3 "><li class="nav-item page-id-9579 "><a href="/schule/schulentwicklung/se-prozess"
+						   class="nav-link"
+						   title="Schulentwicklung"
+						   target="_self"
+						>
+							SE-Prozess
+						</a></li><li class="nav-item page-id-9580 "><a href="/schule/schulentwicklung/handlungsfelder"
+						   class="nav-link"
+						   title="Schulentwicklung"
+						   target="_self"
+						>
+							Handlungsfelder
+						</a></li><li class="nav-item page-id-9581 "><a href="/schule/schulentwicklung/se-praxis"
+						   class="nav-link"
+						   title="Schulentwicklung"
+						   target="_self"
+						>
+							SE-Praxis
+						</a></li><li class="nav-item page-id-7742 "><a href="/schule/schulentwicklung/fortbildungen"
+						   class="nav-link"
+						   title="Schulentwicklung"
+						   target="_self"
+						>
+							Fortbildungen
+						</a></li><li class="nav-item page-id-7748 "><a href="/schule/schulentwicklung/kontakt"
+						   class="nav-link"
+						   title="Schulentwicklung"
+						   target="_self"
+						>
+							Kontakt
+						</a></li></ul></li><li class="nav-item page-id-7707 "><a href="https://bildung.rlp.de/zfs/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Führungskräfte
+						</a></li><li class="nav-item page-id-7907 dropdown"><div class="position-relative"><a href="/schule/lehrkraefte"
+									   class="nav-link d-inline-block"
+									   title="Schule"
+									   target="_self"
+									>
+										Lehrkräfte
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7907"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7907"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7907" class="collapse ps-3 "><li class="nav-item page-id-8137 "><a href="/schule/lehrkraefte/reisekosten-und-fortbildung"
+						   class="nav-link"
+						   title="Lehrkräfte"
+						   target="_self"
+						>
+							Reisekosten und Fortbildung
+						</a></li><li class="nav-item page-id-8411 dropdown"><div class="position-relative"><a href="/schule/lehrkraefte/weiterbildung"
+									   class="nav-link d-inline-block"
+									   title="Lehrkräfte"
+									   target="_self"
+									>
+										Weiterbildung
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-8411"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-8411"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-8411" class="collapse ps-3 "><li class="nav-item page-id-11531 "><a href="/schule/lehrkraefte/weiterbildung/primarstufe"
+						   class="nav-link"
+						   title="Weiterbildung"
+						   target="_self"
+						>
+							Primarstufe
+						</a></li><li class="nav-item page-id-11532 "><a href="/schule/lehrkraefte/weiterbildung/sekundarstufe-i"
+						   class="nav-link"
+						   title="Weiterbildung"
+						   target="_self"
+						>
+							Sekundarstufe I
+						</a></li><li class="nav-item page-id-11533 "><a href="/schule/lehrkraefte/weiterbildung/sekundarstufe-ii"
+						   class="nav-link"
+						   title="Weiterbildung"
+						   target="_self"
+						>
+							Sekundarstufe II
+						</a></li><li class="nav-item page-id-11534 "><a href="/schule/lehrkraefte/weiterbildung/unterrichtserlaubnis"
+						   class="nav-link"
+						   title="Weiterbildung"
+						   target="_self"
+						>
+							Unterrichtserlaubnis
+						</a></li></ul></li><li class="nav-item page-id-8138 dropdown"><div class="position-relative"><a href="/schule/lehrkraefte/berufseinstieg-fuer-lehrkraefte"
+									   class="nav-link d-inline-block"
+									   title="Lehrkräfte"
+									   target="_self"
+									>
+										Berufseinstieg für Lehrkräfte
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-8138"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-8138"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-8138" class="collapse ps-3 "><li class="nav-item page-id-11576 "><a href="/schule/lehrkraefte/berufseinstieg-fuer-lehrkraefte/masterclass-fuer-lehrkraefte-im-berufseinstieg"
+						   class="nav-link"
+						   title="Berufseinstieg für Lehrkräfte"
+						   target="_self"
+						>
+							MASTERCLASS für Lehrkräfte im Berufseinstieg
+						</a></li><li class="nav-item page-id-11575 "><a href="/schule/lehrkraefte/berufseinstieg-fuer-lehrkraefte/angebote-fuer-lehrkraefte-in-den-ersten-berufsjahren"
+						   class="nav-link"
+						   title="Berufseinstieg für Lehrkräfte"
+						   target="_self"
+						>
+							Angebote für Lehrkräfte in den ersten Berufsjahren
+						</a></li><li class="nav-item page-id-11577 "><a href="/schule/lehrkraefte/berufseinstieg-fuer-lehrkraefte/broschueren-zum-berufseinstieg-fuer-lehrkraefte"
+						   class="nav-link"
+						   title="Berufseinstieg für Lehrkräfte"
+						   target="_self"
+						>
+							Broschüren zum Berufseinstieg für Lehrkräfte
+						</a></li></ul></li><li class="nav-item page-id-7755 "><a href="/schule/lehrkraefte/hauptpersonalraete"
+						   class="nav-link"
+						   title="Lehrkräfte"
+						   target="_self"
+						>
+							Hauptpersonalräte
+						</a></li><li class="nav-item page-id-14448 "><a href="/schule/lehrkraefte/schwerbehindertenvertretung"
+						   class="nav-link"
+						   title="Lehrkräfte"
+						   target="_self"
+						>
+							Schwerbehindertenvertretung
+						</a></li></ul></li><li class="nav-item page-id-10763 "><a href="/schule/schuelerinnen/schueler"
+						   class="nav-link"
+						   title="Schule"
+						   target="_self"
+						>
+							Schülerinnen und Schüler
+						</a></li><li class="nav-item page-id-13594 "><a href="https://bildung.rlp.de/eltern/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Eltern
+						</a></li><li class="nav-item page-id-7708 "><a href="/schule/schulorganisation"
+						   class="nav-link"
+						   title="Schule"
+						   target="_self"
+						>
+							Schulorganisation
+						</a></li><li class="nav-item page-id-7710 "><a href="https://bildung.rlp.de/schulbau/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Schulbau
+						</a></li><li class="nav-item page-id-10762 dropdown"><div class="position-relative"><a href="/schule/schultraeger"
+									   class="nav-link d-inline-block"
+									   title="Schule"
+									   target="_self"
+									>
+										Schulträger
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-10762"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-10762"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-10762" class="collapse ps-3 "><li class="nav-item page-id-13617 "><a href="https://bildung.rlp.de/digikomp/schultraeger"
+						   class="nav-link"
+						   title="Schulträger"
+						   target="_blank"
+						>
+							Digitales Kompetenzzentrum
+						</a></li><li class="nav-item page-id-13619 "><a href="https://bildung.rlp.de/bildungsnetz/"
+						   class="nav-link"
+						   title="Schulträger"
+						   target="_blank"
+						>
+							Bildungsnetz
+						</a></li><li class="nav-item page-id-13614 "><a href="https://bildung.rlp.de/tablets/fortbildungen/abrufangebote"
+						   class="nav-link"
+						   title="Schulträger"
+						   target="_blank"
+						>
+							Tableteinsatz in der Schule
+						</a></li><li class="nav-item page-id-13621 "><a href="https://bildung.rlp.de/paeb/beratungsgruppen/paedagogischer-schulbau"
+						   class="nav-link"
+						   title="Schulträger"
+						   target="_blank"
+						>
+							Beratungsgruppe Schulbau
+						</a></li><li class="nav-item page-id-13620 "><a href="https://bildung.rlp.de/schulbau/"
+						   class="nav-link"
+						   title="Schulträger"
+						   target="_blank"
+						>
+							Schulbau
+						</a></li></ul></li><li class="nav-item page-id-14110 "><a href="https://bildung.rlp.de/studienseminar/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Studienseminare
+						</a></li><li class="nav-item page-id-7711 dropdown"><div class="position-relative"><a href="/schule/schulrecht-gesetze-sponsoring"
+									   class="nav-link d-inline-block"
+									   title="Schule"
+									   target="_self"
+									>
+										Schulrecht, Gesetze, Sponsoring
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7711"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7711"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7711" class="collapse ps-3 "><li class="nav-item page-id-7713 "><a href="https://schulemedienrecht.bildung-rp.de/"
+						   class="nav-link"
+						   title="Schulrecht, Gesetze, Sponsoring"
+						   target="_blank"
+						>
+							Schule.Medien.Recht
+						</a></li></ul></li><li class="nav-item page-id-7712 "><a href="https://bildung.rlp.de/schulen/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Schuldatenbank
+						</a></li><li class="nav-item page-id-7754 "><a href="https://bildung.rlp.de/schulhund/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Schulhund
+						</a></li><li class="nav-item page-id-7756 "><a href="https://bildung.rlp.de/wettbewerbe/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Wettbewerbe
+						</a></li><li class="nav-item page-id-7758 "><a href="https://bildung.rlp.de/eu-int/"
+						   class="nav-link"
+						   title="Schule"
+						   target="_blank"
+						>
+							Europa und Internationales
+						</a></li></ul></li><li class="nav-item page-id-7715 page position-relative first-level dropdown nav-item-last"><div class="position-relative"><a href="/unterstuetzung"
+											   class="nav-link fw-bold d-inline-block"
+											   title="Unterstützung"
+											   role="button"
+											>
+												Unterstützung
+											</a><button
+												class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+												data-bs-target="#children-of-7715"
+												data-bs-toggle="collapse"
+												aria-expanded="false"
+												aria-controls="children-of-7715"
+											><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7715" class="collapse ps-3 "><li class="nav-item page-id-7766 dropdown"><div class="position-relative"><a href="/unterstuetzung/fortbildung"
+									   class="nav-link d-inline-block"
+									   title="Unterstützung"
+									   target="_self"
+									>
+										Fort- und Weiterbildung
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7766"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7766"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7766" class="collapse ps-3 "><li class="nav-item page-id-14517 "><a href="/unterstuetzung/fortbildung/tabernaspeyer"
+						   class="nav-link"
+						   title="Fort- und Weiterbildung"
+						   target="_self"
+						>
+							TabernaSpeyer
+						</a></li></ul></li><li class="nav-item page-id-7771 dropdown"><div class="position-relative"><a href="/unterstuetzung/beratung-und-hospitation"
+									   class="nav-link d-inline-block"
+									   title="Unterstützung"
+									   target="_self"
+									>
+										Beratung und Hospitation
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7771"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7771"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7771" class="collapse ps-3 "><li class="nav-item page-id-8294 "><a href="https://bildung.rlp.de/schulpsychologie/"
+						   class="nav-link"
+						   title="Beratung und Hospitation"
+						   target="_blank"
+						>
+							Schulpsychologische Beratung
+						</a></li><li class="nav-item page-id-8293 "><a href="https://bildung.rlp.de/paeb/"
+						   class="nav-link"
+						   title="Beratung und Hospitation"
+						   target="_blank"
+						>
+							Pädagogisches Beratungssystem
+						</a></li><li class="nav-item page-id-8295 "><a href="https://bildung.rlp.de/hospitation/"
+						   class="nav-link"
+						   title="Beratung und Hospitation"
+						   target="_blank"
+						>
+							Hospitationsschulen
+						</a></li></ul></li><li class="nav-item page-id-7784 dropdown"><div class="position-relative"><a href="/unterstuetzung/it-dienste-und-anwendungen"
+									   class="nav-link d-inline-block"
+									   title="Unterstützung"
+									   target="_self"
+									>
+										IT-Dienste und Anwendungen
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7784"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7784"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7784" class="collapse ps-3 "><li class="nav-item page-id-13588 "><a href="https://bildung.rlp.de/schulcampus/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							Schulcampus im Bildungsportal RLP
+						</a></li><li class="nav-item page-id-13587 "><a href="https://bildung.rlp.de/tablets/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							Tableteinsatz in der Schule
+						</a></li><li class="nav-item page-id-7787 "><a href="https://bildung.rlp.de/bildungsnetz/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							Bildungsnetz
+						</a></li><li class="nav-item page-id-13593 "><a href="https://bildung.rlp.de/bildungsportal/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							Bildungsportal RLP
+						</a></li><li class="nav-item page-id-7785 "><a href="https://bildung.rlp.de/mnsplus/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							mnsplus
+						</a></li><li class="nav-item page-id-13589 "><a href="https://eschule24.bildung-rp.de/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							eSchule24-Portale
+						</a></li><li class="nav-item page-id-15538 "><a href="https://bildung.rlp.de/iservrlp/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							IServ
+						</a></li><li class="nav-item page-id-7786 "><a href="https://bildung.rlp.de/epos/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							EPoS
+						</a></li><li class="nav-item page-id-13592 "><a href="/themen-querschnittsthemen/bildung-in-der-digitalen-welt"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_self"
+						>
+							Bildung in der digitalen Welt
+						</a></li><li class="nav-item page-id-13590 "><a href="https://bildung.rlp.de/digikomp/"
+						   class="nav-link"
+						   title="IT-Dienste und Anwendungen"
+						   target="_blank"
+						>
+							Digitales Kompetenzzentrum
+						</a></li></ul></li><li class="nav-item page-id-7788 "><a href="/unterstuetzung/medien-und-materialien"
+						   class="nav-link"
+						   title="Unterstützung"
+						   target="_self"
+						>
+							Medien und Materialien
+						</a></li><li class="nav-item page-id-7790 dropdown"><div class="position-relative"><a href="https://bildung.rlp.de/pl/"
+									   class="nav-link d-inline-block"
+									   title="Unterstützung"
+									   target="_blank"
+									>
+										PL
+									</a><button
+										class="nav-link__toggle bg-transparent border-0 nav-link float-end px-3 me-n3 collapsed"
+										data-bs-target="#children-of-7790"
+										data-bs-toggle="collapse"
+										aria-expanded="false"
+										aria-controls="children-of-7790"
+									><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_red.svg" width="17" height="12" /></button></div><ul id="children-of-7790" class="collapse ps-3 "><li class="nav-item page-id-7791 "><a href="/unterstuetzung/pl/newsletter"
+						   class="nav-link"
+						   title="PL"
+						   target="_self"
+						>
+							Newsletter
+						</a></li></ul></li><li class="nav-item page-id-12127 "><a href="https://bildung.rlp.de/digikomp/"
+						   class="nav-link"
+						   title="Unterstützung"
+						   target="_blank"
+						>
+							Digitales Kompetenzzentrum
+						</a></li></ul></li></ul></nav><nav id="nav-offcanvas-footer" class="py-6"><ul class="nav navbar-nav flex-column"><li class="nav-item dropdown"><div class="position-relative"><a aria-controls="nav-offcanvas-footer-1"
+									   aria-expanded="false" class="nav-link d-inline-block text-black"
+									   data-bs-target="#nav-offcanvas-footer-1"
+									   data-bs-toggle="collapse"
+									   href="#"
+									   id="nav-offcanvas-footer-toggle-1"
+									   role="button"
+									   title="ÜBER bildung.rlp.de">
+										ÜBER bildung.rlp.de
+									</a><button aria-controls="nav-offcanvas-footer-1"
+										aria-expanded="false"
+										class="bg-transparent border-0 nav-link nav-link__toggle float-end  px-3 me-n3 collapsed"
+										data-bs-target="#nav-offcanvas-footer-1"
+										data-bs-toggle="collapse"><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul aria-labelledby="nav-offcanvas-footer-toggle-1"
+								class="nav-offcanvas-list collapse "
+								id="nav-offcanvas-footer-1"><li class="nav-item page "><a class="nav-link" href="/ueber-bildungrlpde-startportal/kontakt"  title="Kontakt">
+										Kontakt
+										</a></li><li class="nav-item page "><a class="nav-link" href="/ueber-bildungrlpde/impressum"  title="Impressum">
+										Impressum
+										</a></li><li class="nav-item page "><a class="nav-link" href="/ueber-bildungrlpde/datenschutz"  title="Datenschutz">
+										Datenschutz
+										</a></li><li class="nav-item page "><a class="nav-link" href="/ueber-bildungrlpde-startportal/sitemap-bildungsserver"  title="Sitemap Bildungsserver">
+										Sitemap Bildungsserver
+										</a></li><li class="nav-item page "><a class="nav-link" href="/leichte-sprache"  title="Leichte Sprache">
+										Leichte Sprache
+										</a></li><li class="nav-item page  nav-item-last"><a class="nav-link" href="/ueber-bildungrlpde/erklaerung-zur-barrierefreiheit-1"  title="Erklärung zur Barrierefreiheit">
+										Erklärung zur Barrierefreiheit
+										</a></li></ul></li><li class="nav-item dropdown"><div class="position-relative"><a aria-controls="nav-offcanvas-footer-2"
+									   aria-expanded="false" class="nav-link d-inline-block text-black"
+									   data-bs-target="#nav-offcanvas-footer-2"
+									   data-bs-toggle="collapse"
+									   href="#"
+									   id="nav-offcanvas-footer-toggle-2"
+									   role="button"
+									   title="Fortbildungsinstitute">
+										Fortbildungsinstitute
+									</a><button aria-controls="nav-offcanvas-footer-2"
+										aria-expanded="false"
+										class="bg-transparent border-0 nav-link nav-link__toggle float-end  px-3 me-n3 collapsed"
+										data-bs-target="#nav-offcanvas-footer-2"
+										data-bs-toggle="collapse"><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul aria-labelledby="nav-offcanvas-footer-toggle-2"
+								class="nav-offcanvas-list collapse "
+								id="nav-offcanvas-footer-2"><li class="nav-item page "><a class="nav-link" href="https://bildung.rlp.de/pl/" target=_blank title="Pädagogisches Landesinstitut">
+										Pädagogisches Landesinstitut
+										</a></li><li class="nav-item page "><a class="nav-link" href="https://www.efwi.de/startseite" target=_blank title="EFWI">
+										EFWI
+										</a></li><li class="nav-item page  nav-item-last"><a class="nav-link" href="https://www.ilf-mainz.de/" target=_blank title="ILF">
+										ILF
+										</a></li></ul></li><li class="nav-item dropdown"><div class="position-relative"><a aria-controls="nav-offcanvas-footer-3"
+									   aria-expanded="false" class="nav-link d-inline-block text-black"
+									   data-bs-target="#nav-offcanvas-footer-3"
+									   data-bs-toggle="collapse"
+									   href="#"
+									   id="nav-offcanvas-footer-toggle-3"
+									   role="button"
+									   title="Nützliche Links">
+										Nützliche Links
+									</a><button aria-controls="nav-offcanvas-footer-3"
+										aria-expanded="false"
+										class="bg-transparent border-0 nav-link nav-link__toggle float-end  px-3 me-n3 collapsed"
+										data-bs-target="#nav-offcanvas-footer-3"
+										data-bs-toggle="collapse"><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul aria-labelledby="nav-offcanvas-footer-toggle-3"
+								class="nav-offcanvas-list collapse "
+								id="nav-offcanvas-footer-3"><li class="nav-item page "><a class="nav-link" href="https://bildung.rlp.de/schulpsychologie/" target=_blank title="Schulpsychologie">
+										Schulpsychologie
+										</a></li><li class="nav-item page  nav-item-last"><a class="nav-link" href="https://bildung.rlp.de/digikomp/" target=_blank title="Digitales Kompetenzzentrum">
+										Digitales Kompetenzzentrum
+										</a></li></ul></li></ul></nav><nav><ul class="nav navbar-nav flex-column"><li class="nav-item"><div class="position-relative" id="nav-offcanvas-ministries-toggle"><a href="#"
+						 class="nav-link collapsed text-black fw-bold" title="" role="button"
+						 data-bs-target="#nav-offcanvas-ministries" data-bs-toggle="collapse" aria-expanded="false"
+						 aria-controls="nav-offcanvas-ministries"><span>Bildungsserver RLP</span></a><button
+						class="nav-link__toggle bg-transparent border-0 nav-link float-end collapsed"
+						data-bs-target="#nav-offcanvas-ministries"
+						data-bs-toggle="collapse"
+						aria-expanded="false"
+						aria-controls="nav-offcanvas-ministries"
+					><img class="icon" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down.svg" width="17" height="12" /></button></div><ul id="nav-offcanvas-ministries"
+					class="nav-offcanvas-list collapse"
+					aria-labelledby="nav-offcanvas-ministries-toggle"><li class="nav-item page "><a title="Bildungsserver Startseite" target="_self" class="nav-link" role="button">
+								Bildungsserver Startseite
+							</a></li><li class="nav-item page "><a href="/unterricht" title="Unterricht" target="_self" class="nav-link" role="button">
+								Unterricht
+							</a></li><li class="nav-item page "><a href="/themen-querschnittsthemen" title="Themen &amp; Querschnittsthemen" target="_self" class="nav-link" role="button">
+								Themen &amp; Querschnittsthemen
+							</a></li><li class="nav-item page "><a href="/schule" title="Schule" target="_self" class="nav-link" role="button">
+								Schule
+							</a></li><li class="nav-item page  nav-item-last"><a href="/unterstuetzung" title="Unterstützung" target="_self" class="nav-link" role="button">
+								Unterstützung
+							</a></li></ul></li></ul></nav></div></div><div class="modal fade" id="searchModal" tabindex="-1" aria-labelledby="searchModalLabel" aria-hidden="true"><div class="modal-dialog modal-dialog-centered modal-xl"><div class="modal-content border-0 rounded-0"><div class="modal-header border-0"><h5 class="modal-title invisible" id="searchModalLabel">Suche</h5><button type="button" class="btn-close p-0 m-0 align-top" data-bs-dismiss="modal" aria-label="Close"></button></div><div class="modal-body"><div class="row"><div class="col-12"><div class="tx_solr"><div class="tx-solr-search-form"><div class="row justify-content-center"><div class="col-8"><form method="get" class="main-search m-0" id="tx-solr-search-form-pi-results-modal" action="/suche" data-suggest="/suche?type=7384" data-suggest-header="Top Results" accept-charset="utf-8"><div class="input-group"><input type="text" class="js__modal__solr-suggest tx-solr-q js-solr-q tx-solr-suggest tx-solr-suggest-focus form-control"
+							   placeholder="Suchbegriff"
+							   name="tx_solr[q]"
+							   value=""
+						/><button aria-label="Suchen"
+								class="btn btn-outline-secondary tx-solr-submit"
+						        name="modal-search-submit"
+								type="submit"><img class="m-auto nav-item__search__icon align-middle" alt="Suchen" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/search.svg" width="30" height="30" /></button></div></form></div></div></div></div></div></div></div></div></div></div></header><div itemscope="itemscope"><main role="main" itemprop="mainContentOfPage"><!--TYPO3SEARCH_begin--><section class="container-wrap pt-7 mb-7 my-0 frame container-bg-gray-bright"><div id="c54375" class="container my-0 py-0 frame frame-default frame-type-container_100_column frame-layout-0"><div class="row"><div class="col-12"><div id="c31285" class="container-inner py-0 my-0 frame frame-default frame-type-list frame-listtype-news_pi1 frame-layout-0"><header><h2>Aktuelle Nachrichten</h2></header><div class="news news-wrap"><!--TYPO3SEARCH_end--><div class="news-grid-view mb-7 mb-md-0" id="news-container-31285"><div class="news-grid-list-link"><a href="/zusatzmenue/startseite" class="btn-link text-black fw-bold text-uppercase">
+							Alle Nachrichten
+						</a></div><div class="row"><div class="col-12 col-lg-12 col-xl-6 mb-7 news-grid-item-1 news-uid-13267 news-grid-item"><div class="card border-0 h-100 articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article"><a class="card-read-more h-100 d-block" title="23. SchulKinoWoche Rheinland-Pfalz startet landesweit am 20. November - Jetzt noch Plätze sichern" href="/zusatzmenue/startseite/nachrichten-bildungrlpde-detailansicht/23-schulkinowoche-rheinland-pfalz-startet-landesweit-am-20-november-jetzt-noch-plaetze-sichern"><div class="card-body px-6 pt-5 pb-8"><sub class="card-subtitle p-0 m-0 fw-bold d-block"><time class="card-date p-0 m-0 text-black" datetime="2025-10-10" itemprop="datePublished">
+							10.10.2025
+						</time>
+
+						
+								
+									
+									
+									
+										
+										
+											
+												
+												
+											
+										
+									
+									&#124;&nbsp;<span class="card-category p-0 m-0 d-inline text-black text-uppercase">bildung.rlp.de</span></sub><h3 class="card-title fw-bold" itemprop="headline">23. SchulKinoWoche Rheinland-Pfalz startet landesweit am 20. November - Jetzt noch Plätze sichern</h3><p class="card-text pt-4 text-gray-dark" itemprop="headline">
+								Filme sehen und verstehen – dazu lädt die SchulKinoWoche Rheinland-Pfalz ab dem 20. November wieder ein. Vom 20. bis 28. November öffnen landesweit 40 Kinos ihre Tore für Schülerinnen und Schüler von Klasse 1 bis 13. Unter dem Motto&hellip;
+							</p></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">Mehr</span></div></a></div></div><div class="col-12 col-lg-12 col-xl-6 mb-7 news-grid-item-2 news-uid-13259 news-grid-item"><div class="card border-0 h-100 articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article"><a class="card-read-more h-100 d-block" title="Auftaktveranstaltung zu QuaMath Primar in Speyer" href="/zusatzmenue/startseite/nachrichten-bildungrlpde-detailansicht/auftaktveranstaltung-zu-quamath-primar-heute-in-speyer"><div class="card-body px-6 pt-5 pb-8"><sub class="card-subtitle p-0 m-0 fw-bold d-block"><time class="card-date p-0 m-0 text-black" datetime="2025-10-08" itemprop="datePublished">
+							08.10.2025
+						</time>
+
+						
+								
+									
+									
+									
+										
+										
+											
+												
+												
+											
+										
+									
+									&#124;&nbsp;<span class="card-category p-0 m-0 d-inline text-black text-uppercase">bildung.rlp.de</span></sub><h3 class="card-title fw-bold" itemprop="headline">Auftaktveranstaltung zu QuaMath Primar in Speyer</h3><p class="card-text pt-4 text-gray-dark" itemprop="headline">
+								Am 8. und 9. Oktober 2025 fand im Pädagogischen Landesinstitut in Speyer die Auftaktveranstaltung QuaMath Primar für die zweite Kohorte Lehrkräfte der Primarstufe statt, die in der Umsetzung des bundesweiten und auf zehn Jahre angelegten Programms&hellip;
+							</p></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">Mehr</span></div></a></div></div><div class="col-12 col-lg-12 col-xl-6 mb-7 news-grid-item-3 news-uid-13257 news-grid-item"><div class="card border-0 h-100 articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article"><a class="card-read-more h-100 d-block" title="Rheinland-Pfalz zu Gast in Celje – Internationale Kooperation in Robotik und Spracherwerb" href="/zusatzmenue/startseite/nachrichten-bildungrlpde-detailansicht/rheinland-pfalz-zu-gast-in-celje-internationale-kooperation-in-robotik-und-spracherwerb-1"><div class="card-body px-6 pt-5 pb-8"><sub class="card-subtitle p-0 m-0 fw-bold d-block"><time class="card-date p-0 m-0 text-black" datetime="2025-10-07" itemprop="datePublished">
+							07.10.2025
+						</time>
+
+						
+								
+									
+									
+									
+										
+										
+											
+												
+												
+											
+										
+									
+									&#124;&nbsp;<span class="card-category p-0 m-0 d-inline text-black text-uppercase">bildung.rlp.de</span></sub><h3 class="card-title fw-bold" itemprop="headline">Rheinland-Pfalz zu Gast in Celje – Internationale Kooperation in Robotik und Spracherwerb</h3><p class="card-text pt-4 text-gray-dark" itemprop="headline">
+								Vom 22. bis 26. September 2025 reiste eine RoboLab-Delegation aus Rheinland-Pfalz nach Celje (Slowenien), um die erfolgreiche Bildungskooperation im Kontext von CLIL-Robotik fortzusetzen. Die Fahrt wurde im Rahmen von Erasmus+ gefördert und vom&hellip;
+							</p></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">Mehr</span></div></a></div></div><div class="col-12 col-lg-12 col-xl-6 mb-7 news-grid-item-4 news-uid-13254 news-grid-item"><div class="card border-0 h-100 articletype-0" itemscope="itemscope" itemtype="http://schema.org/Article"><a class="card-read-more h-100 d-block" title="AI4Teachers qualifiziert Lehrkräfte für KI im Klassenzimmer " href="/zusatzmenue/startseite/nachrichten-bildungrlpde-detailansicht/ai4teachers-qualifiziert-lehrkraefte-fuer-ki-im-klassenzimmer"><div class="card-body px-6 pt-5 pb-8"><sub class="card-subtitle p-0 m-0 fw-bold d-block"><time class="card-date p-0 m-0 text-black" datetime="2025-10-06" itemprop="datePublished">
+							06.10.2025
+						</time>
+
+						
+								
+									
+									
+									
+										
+										
+											
+												
+												
+											
+										
+									
+									&#124;&nbsp;<span class="card-category p-0 m-0 d-inline text-black text-uppercase">bildung.rlp.de</span></sub><h3 class="card-title fw-bold" itemprop="headline">AI4Teachers qualifiziert Lehrkräfte für KI im Klassenzimmer </h3><p class="card-text pt-4 text-gray-dark" itemprop="headline">
+								„Rheinland-Pfalz ist und bleibt ein Vorreiter beim Einsatz von Künstlicher Intelligenz in der Schule“, sagt Bildungsminister Sven Teuber. „Wir bringen die KI so ins Klassenzimmer, dass Kinder und Jugendliche davon profitieren: chancengerecht,&hellip;
+							</p></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">Mehr</span></div></a></div></div></div></div><!--TYPO3SEARCH_begin--></div></div></div></div></div></section><section class="container-wrap py-0 my-0 frame container-bg-none"><div id="c39945" class="container my-0 py-0 frame frame-default frame-type-container_75_25_column frame-layout-0"><div class="row"><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-9 col-xxl-9 col-nr-1 col-first"><section class="container-wrap py-0 my-0 frame container-bg-none"><div id="c38953" class="my-0 py-0 frame frame-default frame-type-container_accordion frame-layout-0"><div class="row"><div class="col-12"><header><h2>Zielgruppen</h2></header></div><div class="col-12"><div class="accordion" id="accordion-c38953"><div class="accordion-item shadow-none rounded-0 border border-0 border-bottom-10 border-top-10 accordion-item__first"><h2 class="accordion-header" id="heading38956"><button class="accordion-button bg-transparent shadow-none rounded-0 border-0 p-0 py-6 m-0 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse38956" aria-expanded="false" aria-controls="collapse38956"><span class="accordion-header__text h3 m-0 p-0 pe-2">
+										
+												Schulische Führungskräfte
+											
+									</span><span class="accordion-header__icon p-0"><img class="accordion-header__icon__down" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_bold_red.svg" width="14" height="10" /><img class="accordion-header__icon__up" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_up_bold_red.svg" width="14" height="10" /></span></button></h2><div id="collapse38956" class="accordion-collapse collapse" aria-labelledby="heading38956" data-bs-parent="#accordion-c38953"><div class="accordion-body p-0 m-0"><div id="c38956" class="container-inner py-0 my-0 frame frame-default frame-type-textmedia frame-layout-0"><div class="ce-textpic"><div class="ce-bodytext"><p>Angebote mit Fokus auf die Zielgruppe <a href="https://bildung.rlp.de/zfs/" title="ZfS" target="_blank">Führungskräfte und Schulleitungsmitglieder</a>, das Thema <a href="/schule/schulentwicklung" title="Schulentwicklung">Schulentwicklung</a>&nbsp;sowie&nbsp;hilfreiche Links für die <a href="/schule/schulorganisation" title="Schulorganisation">Schulorganisation</a></p></div></div></div></div></div></div><div class="accordion-item shadow-none rounded-0 border border-0 border-bottom-10"><h2 class="accordion-header" id="heading38957"><button class="accordion-button bg-transparent shadow-none rounded-0 border-0 p-0 py-6 m-0 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse38957" aria-expanded="false" aria-controls="collapse38957"><span class="accordion-header__text h3 m-0 p-0 pe-2">
+										
+												Lehrkräfte und angehende Lehrkräfte
+											
+									</span><span class="accordion-header__icon p-0"><img class="accordion-header__icon__down" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_bold_red.svg" width="14" height="10" /><img class="accordion-header__icon__up" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_up_bold_red.svg" width="14" height="10" /></span></button></h2><div id="collapse38957" class="accordion-collapse collapse" aria-labelledby="heading38957" data-bs-parent="#accordion-c38953"><div class="accordion-body p-0 m-0"><div id="c38957" class="container-inner py-0 my-0 frame frame-default frame-type-textmedia frame-layout-0"><div class="ce-textpic"><div class="ce-bodytext"><p>Grundsätzlich richtet sich der Bildungsserver insgesamt an Lehrkräfte. Einige spezifische Angebote haben wir <a href="/schule/lehrkraefte" title="Lehrkräfte">hier für Sie zusammengestellt</a>, darunter auch Informationen rund um die <a href="/schule/lehrkraefte/berufseinstieg-fuer-lehrkraefte" title="Berufseinstieg ">Berufseingangsphase</a>. Die Studienseminare sind <a href="https://bildung.rlp.de/studienseminar/" title="Studienseminare" target="_blank">hier</a> erreichbar.</p></div></div></div></div></div></div><div class="accordion-item shadow-none rounded-0 border border-0 border-bottom-10"><h2 class="accordion-header" id="heading38958"><button class="accordion-button bg-transparent shadow-none rounded-0 border-0 p-0 py-6 m-0 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse38958" aria-expanded="false" aria-controls="collapse38958"><span class="accordion-header__text h3 m-0 p-0 pe-2">
+										
+												Eltern
+											
+									</span><span class="accordion-header__icon p-0"><img class="accordion-header__icon__down" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_bold_red.svg" width="14" height="10" /><img class="accordion-header__icon__up" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_up_bold_red.svg" width="14" height="10" /></span></button></h2><div id="collapse38958" class="accordion-collapse collapse" aria-labelledby="heading38958" data-bs-parent="#accordion-c38953"><div class="accordion-body p-0 m-0"><div id="c38958" class="container-inner py-0 my-0 frame frame-default frame-type-textmedia frame-layout-0"><div class="ce-textpic"><div class="ce-bodytext"><p><a href="https://bildung.rlp.de/eltern/" title="Eltern" target="_blank">Informationen für Eltern</a></p></div></div></div></div></div></div><div class="accordion-item shadow-none rounded-0 border border-0 border-bottom-10"><h2 class="accordion-header" id="heading38965"><button class="accordion-button bg-transparent shadow-none rounded-0 border-0 p-0 py-6 m-0 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse38965" aria-expanded="false" aria-controls="collapse38965"><span class="accordion-header__text h3 m-0 p-0 pe-2">
+										
+												Schülerinnen und Schüler
+											
+									</span><span class="accordion-header__icon p-0"><img class="accordion-header__icon__down" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_bold_red.svg" width="14" height="10" /><img class="accordion-header__icon__up" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_up_bold_red.svg" width="14" height="10" /></span></button></h2><div id="collapse38965" class="accordion-collapse collapse" aria-labelledby="heading38965" data-bs-parent="#accordion-c38953"><div class="accordion-body p-0 m-0"><div id="c38965" class="container-inner py-0 my-0 frame frame-default frame-type-textmedia frame-layout-0"><div class="ce-textpic"><div class="ce-bodytext"><p>Informationen und Angebote für <a href="/schule/schuelerinnen/schueler" title="Schülerportal">Schülerinnen und Schüler</a></p></div></div></div></div></div></div><div class="accordion-item shadow-none rounded-0 border border-0 border-bottom-10"><h2 class="accordion-header" id="heading38960"><button class="accordion-button bg-transparent shadow-none rounded-0 border-0 p-0 py-6 m-0 collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapse38960" aria-expanded="false" aria-controls="collapse38960"><span class="accordion-header__text h3 m-0 p-0 pe-2">
+										
+												Schulträger
+											
+									</span><span class="accordion-header__icon p-0"><img class="accordion-header__icon__down" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_down_bold_red.svg" width="14" height="10" /><img class="accordion-header__icon__up" alt="Pfeil" src="/typo3conf/ext/rlp_base/Resources/Public/Icons/arrow_up_bold_red.svg" width="14" height="10" /></span></button></h2><div id="collapse38960" class="accordion-collapse collapse" aria-labelledby="heading38960" data-bs-parent="#accordion-c38953"><div class="accordion-body p-0 m-0"><div id="c38960" class="container-inner py-0 my-0 frame frame-default frame-type-textmedia frame-layout-0"><div class="ce-textpic"><div class="ce-bodytext"><p><a href="/schule/schultraeger" title="Schulträger">Informationen und Angebote für Schulträger</a></p></div></div></div></div></div></div></div></div></div></div></section></div><div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-3 col-xxl-3 col-nr-2 col-last"><section class="container-wrap py-0 my-0 frame container-bg-none"><div id="c62283" class="my-0 py-0 frame frame-default frame-type-container_100_column frame-layout-0"><div class="row"><div class="col-12"><header><h2>Nützliche Links</h2></header></div><div class="col-12"><div id="c39939" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><header><h3><a href="https://bildung.rlp.de/pl/" target="_blank">Pädagogisches Landesinstitut</a></h3></header><div class="ce-textpic"></div></div><div id="c38981" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><header><h3><a href="https://evewa.bildung-rp.de/" target="_blank" rel="noreferrer">Veranstaltungsportal Fortbildung-Online</a></h3></header><div class="ce-textpic"></div></div><div id="c38987" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><header><h3><a href="https://bildungsportal.rlp.de/" target="_blank" rel="noreferrer">Schulcampus im Bildungsportal RLP</a></h3></header><div class="ce-textpic"></div></div><div id="c50525" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><header><h3><a href="https://bildung.rlp.de/newsletter/registrierung/newsletter-anmeldung" target="_blank">Newsletter des PL</a></h3></header><div class="ce-textpic"></div></div></div></div></div></section></div></div></div></section><section class="container-wrap py-0 my-0 frame container-bg-none"><div id="c39947" class="container my-0 py-0 frame frame-default frame-type-container_25_25_25_25_column frame-layout-0"><div class="row"><div class="col-12"><header><h2>Aktuelle und zentrale Themen</h2></header></div><div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-nr-1 col-first"><div id="c54148" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><div class="ce-textpic"><figure class="image position-relative"><a href="https://bildung.rlp.de/startchancen/" title="Startchancen-Programm" target="_blank"><div class="position-relative"><picture class="w-100"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_9162fa57d9.png 1x" media="(min-width: 1200px) and (max-width: 1920px)"><source srcset="/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_b2fa39a0f0.png 1x" media="(min-width: 992px) and (max-width: 1200px)"><source srcset="/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_6e056cf1ee.png 1x,/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_4189a8f3e7.png 2x" media="(min-width: 768px) and (max-width: 992px)"><source srcset="/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_324631df78.png 1x,/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_15df5f288f.png 2x,/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_2a61b3db3d.png 3x" media="(min-width: 480px) and (max-width: 768px)"><source srcset="/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_235e826620.png 1x,/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_0c5d8ae053.png 2x,/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_e3454d7e2e.png 3x" media="(max-width: 480px)"><!--[if IE 9]></video><![endif]--><img class="img-full image-embed-item" alt="Logo: Startchancen Program" src="/fileadmin/_processed_/a/b/csm_BMBF_SCP_Logo_RGB_9162fa57d9.png" loading="lazy" /></picture></div></a></figure><div class="ce-bodytext"><h3><a href="https://bildung.rlp.de/startchancen/" title="Startchancen-Programm" target="_blank">Startchancen</a></h3><p>Programm für Bildungsgerechtigkeit und Potenzialförderung für Kinder und Jugendliche</p></div></div></div></div><div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-nr-2 col-middle"><div id="c38995" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><div class="ce-textpic"><figure class="image position-relative"><a href="https://bildung.rlp.de/lmf/" title="Schulbuchausleihe" target="_blank"><div class="position-relative"><p class="image-copyright">
+				&copy; kristian sekulic (Fotolia)
+			</p><picture class="w-100"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/fileadmin/user_upload/lmf-online.rlp.de/Fotolia_10039923_S.jpg 1x" media="(min-width: 768px) and (max-width: 992px)"><source srcset="/fileadmin/_processed_/1/e/csm_Fotolia_10039923_S_9723e0509f.jpg 1x" media="(min-width: 480px) and (max-width: 768px)"><source srcset="/fileadmin/_processed_/1/e/csm_Fotolia_10039923_S_b45f13162c.jpg 1x" media="(max-width: 480px)"><!--[if IE 9]></video><![endif]--><img class="img-full image-embed-item" title="Schulbuchausleihe" alt="Symbolbild: Schulkinder mit Büchern" src="/fileadmin/user_upload/lmf-online.rlp.de/Fotolia_10039923_S.jpg" loading="lazy" /></picture></div></a></figure><div class="ce-bodytext"><h3><a href="https://bildung.rlp.de/lmf/" title="Schulbuchausleihe" target="_blank">Schulbuchausleihe</a></h3></div></div></div></div><div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-nr-3 col-middle"><div id="c53210" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><div class="ce-textpic"><figure class="image position-relative"><a href="https://bildung.rlp.de/pl/wuerde-unantastbar" title="Würde unantastbar" target="_blank"><div class="position-relative"><p class="image-copyright">
+				&copy; PL
+			</p><picture class="w-100"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/fileadmin/user_upload/pl.rlp.de/Themen_und_Aktuelles/Social_Wuerde_1.jpg 1x" media="(min-width: 992px) and (max-width: 1200px)"><source srcset="/fileadmin/_processed_/3/f/csm_Social_Wuerde_1_6c0c613e6e.jpg 1x" media="(min-width: 768px) and (max-width: 992px)"><source srcset="/fileadmin/_processed_/3/f/csm_Social_Wuerde_1_b276e61dd1.jpg 1x" media="(min-width: 480px) and (max-width: 768px)"><source srcset="/fileadmin/_processed_/3/f/csm_Social_Wuerde_1_69e3fe604f.jpg 1x,/fileadmin/_processed_/3/f/csm_Social_Wuerde_1_7a76f5699d.jpg 2x" media="(max-width: 480px)"><!--[if IE 9]></video><![endif]--><img class="img-full image-embed-item" src="/fileadmin/user_upload/pl.rlp.de/Themen_und_Aktuelles/Social_Wuerde_1.jpg" loading="lazy" alt="" /></picture></div></a></figure><div class="ce-bodytext"><h3><a href="https://bildung.rlp.de/pl/wuerde-unantastbar" title="Würde unantastbar" target="_blank">Würde unantastbar</a></h3></div></div></div></div><div class="col-xs-12 col-sm-12 col-md-6 col-lg-6 col-xl-3 col-xxl-3 col-nr-4 col-last"><div id="c38975" class="container-inner py-0 my-0 frame frame-gray-bright frame-type-textmedia frame-layout-0"><header><h3><a href="https://bildung.rlp.de/krisen/" title="Krisen" target="_blank">Krieg und globale Herausforderungen in Schule</a></h3></header><div class="ce-textpic"><figure class="image position-relative"><a href="https://bildung.rlp.de/krisen/" title="Krisen" target="_blank"><div class="position-relative"><p class="image-copyright">
+				&copy; ag visuell (Adobe Stock)
+			</p><picture class="w-100"><!--[if IE 9]><video style="display: none;"><![endif]--><source srcset="/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_b2f6ac1c43.jpg 1x" media="(min-width: 1200px) and (max-width: 1920px)"><source srcset="/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_e8dc8927d8.jpg 1x" media="(min-width: 992px) and (max-width: 1200px)"><source srcset="/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_57ecb1dcc1.jpg 1x,/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_e6a95697e9.jpg 2x" media="(min-width: 768px) and (max-width: 992px)"><source srcset="/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_fd943263c0.jpg 1x,/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_1813826f62.jpg 2x,/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_985e07eb11.jpg 3x" media="(min-width: 480px) and (max-width: 768px)"><source srcset="/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_079ae7afca.jpg 1x,/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_29663f3ff9.jpg 2x,/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_78b0c6cb86.jpg 3x" media="(max-width: 480px)"><!--[if IE 9]></video><![endif]--><img class="img-full image-embed-item" alt="Symbolbild: Blaue Weltkugel mit angedeuteten Kreisen" src="/fileadmin/_processed_/2/3/csm_ErdballAdobeStock_ag_visuell_b2f6ac1c43.jpg" loading="lazy" /></picture></div></a></figure><div class="ce-bodytext"><p>Auswirkungen auf und Thematisierung von (inter)nationalen Krisenereignissen und aktuellen globalen gesellschaftlichen Herausforderungen wie Kriege oder Naturkatastrophen in Schule&nbsp;</p></div></div></div></div></div></div></section><div id="c31856" class="container pb-3 my-0 frame frame-default frame-type-content_element_overview_navigation frame-layout-0"><div class="overview-content-navigation"><div class="row"><div class="col-12 col-md-6 col-lg-6 col-xl-3 mb-7 overview-content-navigation__item overview-content-navigation__item-1 overview-content-navigation__uid-7690 overview-content-navigation__nosubtitle"><div class="card h-100 border-0"><a href="/unterricht" title="Unterricht" class="card-read-more h-100 d-block"><div class="ce-textpic mb-0 position-relative"><img src="/fileadmin/_processed_/9/6/csm_AdobeStock_Gorodenkoff_361380005_a49cbf75a7.jpeg"
+																 srcset="/fileadmin/_processed_/9/6/csm_AdobeStock_Gorodenkoff_361380005_a49cbf75a7.jpeg 1400w,
+																		 /fileadmin/_processed_/9/6/csm_AdobeStock_Gorodenkoff_361380005_a49cbf75a7.jpeg 1199w,
+																		 /fileadmin/_processed_/9/6/csm_AdobeStock_Gorodenkoff_361380005_a49cbf75a7.jpeg 767w,
+																		 /fileadmin/_processed_/9/6/csm_AdobeStock_Gorodenkoff_361380005_336f7b1049.jpeg 479w,
+																		 /fileadmin/_processed_/9/6/csm_AdobeStock_Gorodenkoff_361380005_1bd14c4401.jpeg 320w"
+																 sizes="100vw"
+																 alt="Symbolbild: Gruppenarbeit Kinder an Tablets"
+																 title="Unterricht"
+																 class="img-fluid card-img-top border-0"
+																 loading="lazy"
+														/><p class="image-copyright">
+																&copy; Gorodenkoff (Adobe Stock) 
+															</p></div><div class="card-body px-6 pt-5 pb-8"><h3 class="card-title fw-bold" itemprop="headline">Unterricht</h3></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">
+												Mehr
+											</span></div></a></div></div><div class="col-12 col-md-6 col-lg-6 col-xl-3 mb-7 overview-content-navigation__item overview-content-navigation__item-2 overview-content-navigation__uid-7700 overview-content-navigation__nosubtitle"><div class="card h-100 border-0"><a href="/themen-querschnittsthemen" title="Themen &amp; Querschnittsthemen" class="card-read-more h-100 d-block"><div class="ce-textpic mb-0 position-relative"><img src="/fileadmin/_processed_/8/4/csm_Projekte_AdobeStock_405105670_Robert_Kneschke_Q_b179e61459.jpg"
+																 srcset="/fileadmin/_processed_/8/4/csm_Projekte_AdobeStock_405105670_Robert_Kneschke_Q_b179e61459.jpg 1400w,
+																		 /fileadmin/_processed_/8/4/csm_Projekte_AdobeStock_405105670_Robert_Kneschke_Q_b179e61459.jpg 1199w,
+																		 /fileadmin/_processed_/8/4/csm_Projekte_AdobeStock_405105670_Robert_Kneschke_Q_b179e61459.jpg 767w,
+																		 /fileadmin/_processed_/8/4/csm_Projekte_AdobeStock_405105670_Robert_Kneschke_Q_1f8ec8c844.jpg 479w,
+																		 /fileadmin/_processed_/8/4/csm_Projekte_AdobeStock_405105670_Robert_Kneschke_Q_5aa70d719b.jpg 320w"
+																 sizes="100vw"
+																 alt="Symbolbild: Gruppe Kinder beim Lernen, Tafel Projekte und Themen "
+																 title="Themen &amp; Querschnittsthemen"
+																 class="img-fluid card-img-top border-0"
+																 loading="lazy"
+														/><p class="image-copyright">
+																&copy; Robert Kneschke (Adobe Stock)
+															</p></div><div class="card-body px-6 pt-5 pb-8"><h3 class="card-title fw-bold" itemprop="headline">Themen &amp; Querschnittsthemen</h3></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">
+												Mehr
+											</span></div></a></div></div><div class="col-12 col-md-6 col-lg-6 col-xl-3 mb-7 overview-content-navigation__item overview-content-navigation__item-3 overview-content-navigation__uid-7705 overview-content-navigation__nosubtitle"><div class="card h-100 border-0"><a href="/schule" title="Schule" class="card-read-more h-100 d-block"><div class="ce-textpic mb-0 position-relative"><img src="/fileadmin/_processed_/9/7/csm_AdobeStock_74123769_Rawpixel.com_50b980c734.jpg"
+																 srcset="/fileadmin/_processed_/9/7/csm_AdobeStock_74123769_Rawpixel.com_50b980c734.jpg 1400w,
+																		 /fileadmin/_processed_/9/7/csm_AdobeStock_74123769_Rawpixel.com_50b980c734.jpg 1199w,
+																		 /fileadmin/_processed_/9/7/csm_AdobeStock_74123769_Rawpixel.com_50b980c734.jpg 767w,
+																		 /fileadmin/_processed_/9/7/csm_AdobeStock_74123769_Rawpixel.com_e114a51657.jpg 479w,
+																		 /fileadmin/_processed_/9/7/csm_AdobeStock_74123769_Rawpixel.com_2391f359e9.jpg 320w"
+																 sizes="100vw"
+																 alt="Symbolbild: Schule, Collage aus Kindern und Kreidezeichnungen"
+																 title="Schule"
+																 class="img-fluid card-img-top border-0"
+																 loading="lazy"
+														/><p class="image-copyright">
+																&copy; Rawpixel (Adobe Stock)
+															</p></div><div class="card-body px-6 pt-5 pb-8"><h3 class="card-title fw-bold" itemprop="headline">Schule</h3></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">
+												Mehr
+											</span></div></a></div></div><div class="col-12 col-md-6 col-lg-6 col-xl-3 mb-7 overview-content-navigation__item overview-content-navigation__item-4 overview-content-navigation__uid-7715 overview-content-navigation__nosubtitle"><div class="card h-100 border-0"><a href="/unterstuetzung" title="Unterstützung" class="card-read-more h-100 d-block"><div class="ce-textpic mb-0 position-relative"><img src="/fileadmin/_processed_/4/3/csm_Illu_frei_d229624edb.jpg"
+																 srcset="/fileadmin/_processed_/4/3/csm_Illu_frei_d229624edb.jpg 1400w,
+																		 /fileadmin/_processed_/4/3/csm_Illu_frei_d229624edb.jpg 1199w,
+																		 /fileadmin/_processed_/4/3/csm_Illu_frei_d229624edb.jpg 767w,
+																		 /fileadmin/_processed_/4/3/csm_Illu_frei_1a5c90635c.jpg 479w,
+																		 /fileadmin/_processed_/4/3/csm_Illu_frei_f27c6d1168.jpg 320w"
+																 sizes="100vw"
+																 alt="Illustration der vier Leistungen des PL: Beratung, Fortbildung, Materialien und IT-Dienste; jede Leistung dargestellt auf einem von vier Puzzlefeldern"
+																 title="Unterstützung"
+																 class="img-fluid card-img-top border-0"
+																 loading="lazy"
+														/><p class="image-copyright">
+																&copy; PL
+															</p></div><div class="card-body px-6 pt-5 pb-8"><h3 class="card-title fw-bold" itemprop="headline">Unterstützung</h3></div><div class="card-footer px-6 pb-3 m-0 border-0 w-100 bg-transparent"><span class="card-footer__btn btn btn-link p-0 m-0 text-uppercase text-black fw-bold">
+												Mehr
+											</span></div></a></div></div></div></div></div><!--TYPO3SEARCH_end--></main></div><footer><div id="nav-footer" class="bg-black text-lg-start pt-8 pt-lg-7 pb-8"><div class="container"><div class="row"><div class="col-12 col-md-6 col-lg-3 mb-4 mb-lg-0 text-white"><div class="accordion" id="footerAccordion-10954"><div class="accordion-item bg-transparent"><div role="heading" aria-level="3" class="accordion-header" id="heading10954"><button class="accordion-button bg-transparent text-white footer-headline collapsed h3 p-0" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-10954" aria-expanded="false" aria-controls="accordion-10954">
+							ÜBER bildung.rlp.de
+						</button></div><div id="accordion-10954" class="accordion-collapse collapse d-md-block pt-md-1" aria-labelledby="heading10954" data-bs-parent="#footerAccordion-10954"><div class="accordion-body p-0"><ul><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/ueber-bildungrlpde-startportal/kontakt" title="Kontakt">
+													Kontakt
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/ueber-bildungrlpde/impressum" title="Impressum">
+													Impressum
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/ueber-bildungrlpde/datenschutz" title="Datenschutz">
+													Datenschutz
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/ueber-bildungrlpde-startportal/sitemap-bildungsserver" title="Sitemap Bildungsserver">
+													Sitemap Bildungsserver
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/leichte-sprache" title="Leichte Sprache">
+													Leichte Sprache
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="/ueber-bildungrlpde/erklaerung-zur-barrierefreiheit-1" title="Erklärung zur Barrierefreiheit">
+													Erklärung zur Barrierefreiheit
+												</a></li></ul></div></div></div></div></div><div class="col-12 col-md-6 col-lg-3 mb-4 mb-lg-0 text-white"><div class="accordion" id="footerAccordion-10959"><div class="accordion-item bg-transparent"><div role="heading" aria-level="3" class="accordion-header" id="heading10959"><button class="accordion-button bg-transparent text-white footer-headline collapsed h3 p-0" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-10959" aria-expanded="false" aria-controls="accordion-10959">
+							Fortbildungsinstitute
+						</button></div><div id="accordion-10959" class="accordion-collapse collapse d-md-block pt-md-1" aria-labelledby="heading10959" data-bs-parent="#footerAccordion-10959"><div class="accordion-body p-0"><ul><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="https://bildung.rlp.de/pl/" target="_blank" title="Pädagogisches Landesinstitut">
+													Pädagogisches Landesinstitut
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="https://www.efwi.de/startseite" target="_blank" title="EFWI">
+													EFWI
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="https://www.ilf-mainz.de/" target="_blank" title="ILF">
+													ILF
+												</a></li></ul></div></div></div></div></div><div class="col-12 col-md-6 col-lg-3 mb-4 mb-lg-0 text-white"><div class="accordion" id="footerAccordion-10960"><div class="accordion-item bg-transparent"><div role="heading" aria-level="3" class="accordion-header" id="heading10960"><button class="accordion-button bg-transparent text-white footer-headline collapsed h3 p-0" type="button" data-bs-toggle="collapse" data-bs-target="#accordion-10960" aria-expanded="false" aria-controls="accordion-10960">
+							Nützliche Links
+						</button></div><div id="accordion-10960" class="accordion-collapse collapse d-md-block pt-md-1" aria-labelledby="heading10960" data-bs-parent="#footerAccordion-10960"><div class="accordion-body p-0"><ul><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="https://bildung.rlp.de/schulpsychologie/" target="_blank" title="Schulpsychologie">
+													Schulpsychologie
+												</a></li><li class="nav-item"><a class="nav-link nav-link--footer text-decoration-underline" href="https://bildung.rlp.de/digikomp/" target="_blank" title="Digitales Kompetenzzentrum">
+													Digitales Kompetenzzentrum
+												</a></li></ul></div></div></div></div></div></div><div class="row"><span class="text-white" font-size="10px">
+				Den Bereich "
+				
+						Bildungsserver RLP - Startportal
+					
+				" betreut das Team Bildungsserver
+				<a class="--right-link" href="#" data-mailto-token="ocknvq,dknfwpiuugtxgtBrn0tnr0fg" data-mailto-vector="2"><img src="/typo3conf/ext/rlp_site/Resources/Public/Icons/mail_icon.svg" alt="E-Mail an" width="20px" height="20px" title="Email an BetreuerIn senden"/></a>
+				. Letzte Änderungen der aktuellen Seite am
+				
+				
+				
+						15.04.2025
+					
+			</span></div></div></div></footer>
+
+<script src="/typo3conf/ext/rlp_site/Resources/Public/JavaScript/vendorBundle.min.js?1751285288"></script>
+<script src="/typo3conf/ext/rlp_site/Resources/Public/JavaScript/libs.min.js?1751285288"></script>
+<script src="/typo3conf/ext/rlp_site/Resources/Public/JavaScript/footerBundle.min.js?1751285288"></script>
+<script async="async" src="/typo3temp/assets/js/cfd16b174d7f7b046e20adbc2e0a1094.js?1704873946"></script>
+
+<!-- Matomo Image Tracker-->
+    <noscript><p>
+      <img referrerpolicy="no-referrer-when-downgrade" src="https://piwik.bildung-rp.de/matomo.php?idsite=36404&rec=1" style="border:0" alt="" />
+  </p></noscript>
+  <!-- End Matomo -->
+</body>
+</html>

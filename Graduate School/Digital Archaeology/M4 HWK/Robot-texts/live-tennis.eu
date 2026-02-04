@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /test/
+Disallow: /preprod/
+Disallow: /sng/
+Disallow: /tmp/
+
+Sitemap: https://live-tennis.eu/sitemap.xml

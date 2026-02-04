@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /ja/wp-admin/
+Allow: /ja/wp-admin/admin-ajax.php
+Allow: /ja/
+Allow: /users/sign_in

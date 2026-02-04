@@ -1,0 +1,11 @@
+    User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /wp-json/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /?s=
+Disallow: /*?orderby=
+Disallow: /*?filter=
+Allow: /wp-content/uploads/
+Sitemap: https://acrobits.net/sitemap_index.xml

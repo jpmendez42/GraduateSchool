@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /wordpress/wp-admin/
+Allow: /wordpress/wp-admin/admin-ajax.php
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: seekr
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.thewom.it/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

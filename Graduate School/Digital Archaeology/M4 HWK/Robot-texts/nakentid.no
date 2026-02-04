@@ -1,0 +1,17 @@
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: *
+Disallow: /*?*
+Disallow: /no/moderation-reports
+Disallow: /moderation-images
+Disallow: /moderation-videos
+Disallow: /no/actions-moderation
+Disallow: /no/story-moderation
+Disallow: /no/blog-moderation
+Disallow: /no/moderation-faq
+
+Sitemap: https://nakentid.no/sitemap.xml

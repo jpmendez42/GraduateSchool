@@ -1,0 +1,108 @@
+################ Newegg Robots.txt File ################
+
+
+
+################ DESKTOP - START ################
+
+User-agent: *
+
+# Original version disallows
+Disallow: /Common/BML/
+Disallow: /Common/ThirdParty/
+Disallow: /App/
+Disallow: /Application/
+Disallow: /Configuration/
+Disallow: /NewMyAccount/
+Disallow: /MyNewegg/
+
+# Allows updated 12/20/21 .ca
+Allow: /info/newsroomdetail.aspx
+Allow: /.well-known/assetlinks.json
+
+# blog disallows updated 6/11/18
+Disallow: /insider/blog/wp-admin/
+
+# disallows API call 8/2/2022
+Disallow: /api/UpdateStorage
+Disallow: /api/TrendingNow
+Disallow: /mycountry
+Disallow: /api/MiniCart
+Disallow: /api/GetStorage
+Disallow: /areyouahuman
+# disallows API call 11/13/2023
+Disallow: /api/Common/GBuy
+# disallows parameters call 8/20/2025
+Disallow: /p/pl?*SortType=*
+Disallow: /p/pl?*Order=*
+Disallow: /p/pl?*isdeptsrh=*
+Disallow: */p/*?*cm_sp=*
+
+User-agent: ChangeDetection
+Disallow: /
+
+User-agent: 008
+Disallow: /  
+
+User-agent: Nutch
+Disallow: /
+
+
+################ DESKTOP - END ################
+
+
+
+################ MOBILE - START ################
+
+
+User-agent: *
+Disallow: /m/ajax/getMiniCartApi
+Disallow: /m/ajax/addItemApi
+Disallow: /m/product/Overview/Landingpage
+# disallows API call 8/2/2022
+Disallow: /m/ajax/updateStorageApi
+Disallow: /m/home/ajax/updateStorageApi
+Disallow: /m/search/ajax/updateStorageApi
+Disallow: /m/product/ajax/updateStorageApi
+Disallow: /m/mktplace/ajax/updateStorageApi
+Disallow: /m/diy/ajax/updateStorageApi
+Disallow: /m/account/ajax/updateStorageApi
+Disallow: /m/shoppingflow/ajax/updateStorageApi
+Disallow: /m/wishlist/ajax/updateStorageApi
+Disallow: /m/order/ajax/updateStorageApi
+Disallow: /m/notification/ajax/updateStorageApi
+Disallow: /m/ajax/getStorageApi
+Disallow: /m/home/ajax/getStorageApi
+Disallow: /m/search/ajax/getStorageApi
+Disallow: /m/product/ajax/getStorageApi
+Disallow: /m/mktplace/ajax/getStorageApi
+Disallow: /m/store/ajax/getStorageApi
+Disallow: /m/account/ajax/getStorageApi
+Disallow: /m/shoppingflow/ajax/getStorageApi
+Disallow: /m/wishlist/ajax/getStorageApi
+Disallow: /m/notification/ajax/getStorageApi
+Disallow: /m/ajax/deleteStorageApi
+Disallow: /m/home/ajax/deleteStorageApi
+Disallow: /m/search/ajax/deleteStorageApi
+Disallow: /m/product/ajax/deleteStorageApi
+Disallow: /m/shoppingflow/ajax/deleteStorageApi
+Disallow: /m/wishlist/ajax/deleteStorageApi
+Disallow: /m/ajax/getUnreadList
+Disallow: /m/home/ajax/getUnreadList
+Disallow: /m/mktplace/ajax/getUnreadList
+Disallow: /m/product/ajax/getUnreadList
+Disallow: /m/promotion/ajax/getUnreadList
+Disallow: /m/search/ajax/getUnreadList
+Disallow: /m/store/ajax/getUnreadList
+Disallow: /m/diy/ajax/getUnreadList
+Disallow: /m/ajax/getTradeIn
+
+################ MOBILE - END ################
+
+# disallows cloudflare all updated 7/19/23
+
+Disallow: /cdn-cgi/
+
+Sitemap: https://www.newegg.ca/xmlsitemap/2019_Updated_Confidential_siteindex_CAN.xml
+Sitemap: https://www.newegg.ca/xmlsitemap/2019_Updated_Confidential_siteindex_CAN_Seller.xml
+Sitemap: https://www.newegg.ca/Shopping-Tools-CA.xml
+Sitemap: https://www.newegg.ca/xmlsitemap/sitemaps_promos_CAN.xml

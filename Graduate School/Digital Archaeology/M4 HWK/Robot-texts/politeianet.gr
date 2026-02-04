@@ -1,0 +1,23 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: *
+Disallow: /profile/account
+Disallow: /profile/addresses/
+Disallow: /profile/orders/
+Disallow: /profile/wishlists/
+Disallow: /profile/comments
+Disallow: /profile/loyalty
+Disallow: /profile/ebooks
+Disallow: /checkout-information
+Disallow: /checkout-success/
+Disallow: /checkout-failure
+Disallow: /payment/
+Disallow: /impersonate/
+Disallow: /el/search-results
+Disallow: /en/search-results
+
+Sitemap: https://www.politeianet.gr/sitemap/el/sitemap_index.xml

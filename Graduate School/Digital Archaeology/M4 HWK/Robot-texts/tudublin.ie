@@ -1,0 +1,11 @@
+# robots.txt for https://www.tudublin.ie/
+User-agent: terminalfour-nutch-spider
+Disallow: /study/modules/
+Allow: /
+Allow: /intranet/
+
+User-agent: *
+Disallow: /study/modules/
+Disallow: /intranet/
+
+Sitemap: https://www.tudublin.ie/sitemap-en.xml

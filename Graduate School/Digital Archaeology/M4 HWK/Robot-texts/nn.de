@@ -1,0 +1,62 @@
+User-agent: *
+Disallow: /editorsystemlink*
+Disallow: /*abo?pywll*
+Disallow: /*_ptid*
+Disallow: /*art=
+Disallow: /*logout_success=
+Disallow: /*ot=
+Allow: /*ot=de.nordbayern.ot.www.ArticleBody*
+Allow: /*ot=de.nordbayern.ot.www.GalleryBody*
+
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Amazonbot
+User-agent: Andibot
+User-agent: anthropic-ai
+User-agent: Applebot-Extended
+User-agent: bigsur.ai 
+User-agent: BluechipBacklinks
+User-agent: Brightbot 1.0
+User-agent: Bytespider
+User-agent: CCBot
+User-Agent: ChatGPT-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Cotoyogi
+User-agent: DataForSeoBot
+User-agent: DeepSeek
+User-agent: Diffbot
+User-agent: dotbot
+User-agent: DuckAssistBot
+User-agent: Factset_spyderbot
+User-agent: FirecrawlAgent
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: GPTBot
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: LCC
+User-agent: magpie-crawler
+User-agent: Meta-ExternalAgent
+User-agent: MJ12bot
+User-agent: NovaAct
+User-agent: omgili
+User-agent: PanguBot
+User-agent: Perplexity-User
+User-agent: PerplexityBot
+User-agent: PhindBot
+User-agent: SBIntuitionsBot
+User-agent: Scrapy
+User-agent: SemrushBot
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
+User-agent: xovi
+User-agent: YouBot
+Disallow: /
+
+# Legal notice: We expressly reserve the right to use our content for commercial text and data mining (Section 44b UrhG).
+# The use of robots or other automated means to access this site or to collect or mine data without the express permission is strictly prohibited.
+# At our discretion, we may permit certain automated access to certain pages.

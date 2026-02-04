@@ -1,0 +1,86 @@
+User-agent: *
+
+Disallow: /_upload
+Disallow: /search
+Disallow: /login
+Disallow: /shop
+Disallow: /multisearch-history
+Disallow: /feedbacks
+Disallow: /admin
+Disallow: /*utm_
+Disallow: /*yclid
+Disallow: /*clid
+Disallow: /*order
+Disallow: /*order_t
+Disallow: /*_openstat
+Disallow: /*from
+Disallow: /*roistat_visit
+Disallow: /*fbclid
+
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+Allow: /_upload/detail_pics
+Allow: /_upload/dc3c
+Allow: /_upload/css
+
+User-agent: Yandex
+Disallow: /_upload
+Disallow: /search
+Disallow: /login
+Disallow: /shop
+Disallow: /multisearch-history
+Disallow: /feedbacks
+Disallow: /admin
+Disallow: /*utm_
+Disallow: /*yclid
+Disallow: /*clid
+Disallow: /*order
+Disallow: /*order_t
+Disallow: /*_openstat
+Disallow: /*from
+Disallow: /*roistat_visit
+Disallow: /*fbclid
+
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+Allow: /_upload/detail_pics
+Allow: /_upload/dc3c
+Allow: /_upload/css
+
+Clean-Param: order&order_t&prid&utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&gclid&_openstat&clid&from&roistat_visit&fbclid
+
+User-agent: Googlebot
+Disallow: /_upload
+Disallow: /search
+Disallow: /login
+Disallow: /shop
+Disallow: /multisearch-history
+Disallow: /feedbacks
+Disallow: /admin
+Disallow: /*utm_
+Disallow: /*yclid
+Disallow: /*clid
+Disallow: /*order
+Disallow: /*order_t
+Disallow: /*_openstat
+Disallow: /*from
+Disallow: /*roistat_visit
+Disallow: /*fbclid
+
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+Allow: /_upload/detail_pics
+Allow: /_upload/dc3c
+Allow: /_upload/css

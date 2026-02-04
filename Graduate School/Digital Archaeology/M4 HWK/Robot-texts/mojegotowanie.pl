@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /maintenance
+Disallow: /maintenance/*
+Disallow: /artykul/register-view/
+Disallow: /przepis/register-view/
+Disallow: /forum/register-view/
+Disallow: /connect/service/facebook
+Disallow: /register/confirmed
+Disallow: /user/loginbox
+Disallow: /rates/rate/*
+Disallow: /register-view/
+Disallow: /search/

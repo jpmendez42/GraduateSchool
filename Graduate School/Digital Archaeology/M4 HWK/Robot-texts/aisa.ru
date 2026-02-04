@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin
+Disallow: /admin/app.html
+Disallow: /static/login.html
+Disallow: /search
+Disallow: /index.html
+Disallow: *.pdf
+Disallow: *.PDF
+Disallow: /ajax-news-slides
+Disallow: /ajax-news
+Host: www.aisa.ru

@@ -1,0 +1,36 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+
+Disallow: /uploads/
+Disallow: /fileadmin/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+
+
+### TU KL
+Disallow: /fileadmin/wd2011/    # Exclude only folders with no link from frontend, like templates, css, js.
+Disallow: /fileadmin/wd2013/    # Exclude only folders with no link from frontend, like templates, css, js.
+Disallow: /fileadmin/wd*/   # Exclude only folders with no link from frontend, like templates, css, js.
+
+Disallow: /fileadmin/_migrated/   # Nothing to see here
+Disallow: /fileadmin/_processed_/ # Nothing to see here
+Disallow: /fileadmin/_temp_/    # Nothing to see here
+Disallow: /fileadmin/user_upload/ # Nothing to see here
+Disallow: /fileadmin/upload_ohne_referenz/  # Nothing to see here
+
+Disallow: /t3lib/     # Nothing to see here
+Disallow: /typo3/     # Nothing to see here
+Disallow: /typo3conf/     # Nothing to see here
+Disallow: /typo3temp/     # Nothing to see here
+Disallow: /uploads/     # Nothing to see here
+
+Disallow: /*/tustudent/     # Nothing to see here
+Disallow: /*/tumember/      # Nothing to see here
+Disallow: /*/tuemployee/    # Nothing to see here
+
+Disallow: /*?id=*     # Disable non-realurl
+### TU KL
+
+Sitemap: /sitemap.xml

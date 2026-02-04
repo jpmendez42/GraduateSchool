@@ -1,0 +1,58 @@
+User-agent: Googlebot
+Disallow: /wps/contenthandler/
+Disallow: /wps/wcm/connect/
+Disallow: /!ut/
+Disallow: /*/!ut/
+Disallow: */!ut/*
+
+User-agent: Bingbot
+Disallow: /wps/contenthandler/
+Disallow: /wps/wcm/connect/
+Disallow: /!ut/
+Disallow: /*/!ut/
+Disallow: */!ut/*
+Crawl-delay: 10
+
+User-agent: MSNBot
+Disallow: /wps/contenthandler/
+Disallow: /wps/wcm/connect/
+Disallow: /!ut/
+Disallow: /*/!ut/
+Disallow: */!ut/*
+Crawl-delay: 10
+
+User-agent: Slurp
+Disallow: /wps/contenthandler/
+Disallow: /wps/wcm/connect/
+Disallow: /!ut/
+Disallow: /*/!ut/
+Disallow: */!ut/*
+Crawl-delay: 10
+
+User-agent: Gigabot
+Disallow: /
+
+User-agent: Robozilla
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: naverbot
+Disallow: /
+
+User-agent: yeti
+Disallow: /
+
+User-agent: *
+Disallow: /wps/contenthandler/
+Disallow: /wps/wcm/connect/
+Disallow: /!ut/
+Disallow: /*/!ut/
+Disallow: */!ut/*
+Crawl-delay: 10
+
+Sitemap: https://www.rta.ae/Sitemap.xml

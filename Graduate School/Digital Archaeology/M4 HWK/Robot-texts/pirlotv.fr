@@ -1,0 +1,161 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PIRLO TV | Rojadirecta | Futbol En Vivo</title>
+<meta name="description" content="Pirlo TV, Rojadirecta, Futbol En Vivo, UEFA Champions League, LaLiga, Premier League, Serie A, Bundesliga, Liga MX, NBA, F1, UFC y más..."/>
+<meta name="keywords" content="pirlo tv, rojadirecta, pirlotv, roja directa, futbol en vivo, deportes hoy, partidos gratis">
+<meta name="distribution" content="global"/>
+<meta content="PIRLO TV" name="author"/>
+<meta name="robots" content="all"/>
+<meta http-equiv="Content-Language" content="es"/>
+<link rel="canonical" href="https://www.pirlotv2.pl">
+<link href="/layout0.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href='/favicon.ico'>
+<script type="text/javascript" src="/tiempo.js"></script> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MR6NKCJ3C1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-MR6NKCJ3C1');
+</script>
+<script>(function(s){s.dataset.zone='10003200',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+</head>
+<body onload="guardaHorario();dT();">
+<header><a href="/"><img src="/logo.png" height="35" width="350"/></a><a href="/programacion.php"><span class="title2">PROGRAMACION</span></a><a href="/legal.php"><span class="title3">AVISO LEGAL</span></a></header>
+<div class="container">
+<div class="main">
+<div class="title">» Programacion de Hoy en PIRLO TV</div>
+<div id="wraper">
+<ul class="menu">
+<li class="FIFA"><a href="#">Eliminatorias Africanas: Camerun vs Angola<span class="t">11:00</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/canal-11.php">Canal 11</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-12.php">Canal 12</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias Africanas: Cabo Verde vs Eswatini<span class="t">11:00</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/canal-13.php">Canal 13</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-14.php">Canal 14</a></li></ul></li>
+<li class="PE"><a href="#">Liga de Peru: UTC Cajamarca vs Cienciano del Cusco<span class="t">13:00</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/liga-1-max-peru.php">Liga 1 Max Peru</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-15.php">Canal 15</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-16.php">Canal 16 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-17.php">Canal 17 (HD)</a></li></ul></li>
+<li class="ES"><a href="#">LaLiga 2: Cordoba vs Cultural Leonesa<span class="t">13:30</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/deportes-plus.php">Deportes Plus</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-18.php">Canal 18</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-19.php">Canal 19 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-20.php">Canal 20 (HD)</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Islandia vs Francia<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.rojadirectaenvivo.pl/2025/islandia-vs-francia-j8-en-vivo.php">Canal 1</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/2025/islandia-vs-francia-j8-en-vivo.php">Canal 2</a></li>
+<li class="subitem1"><a href="https://www.pelotalibrevivo.net/2025/islandia-vs-francia-j8-en-vivo.php">Canal 3 (HD)</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/2025/islandia-vs-francia-j8-en-vivo.php">Canal 4 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/2025/islandia-vs-francia-j8-en-vivo.php">Canal 5 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-1.php">Canal 6 (HD)</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Irlanda del Norte vs Alemania<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.rojadirectaenvivo.pl/2025/irlanda-del-norte-vs-alemania-j8-en-vivo.php">Canal 1</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/2025/irlanda-del-norte-vs-alemania-j8-en-vivo.php">Canal 2</a></li>
+<li class="subitem1"><a href="https://www.pelotalibrevivo.net/2025/irlanda-del-norte-vs-alemania-j8-en-vivo.php">Canal 3 (HD)</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/2025/irlanda-del-norte-vs-alemania-j8-en-vivo.php">Canal 4 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/2025/irlanda-del-norte-vs-alemania-j8-en-vivo.php">Canal 5 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-2.php">Canal 6 (HD)</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Gales vs Belgica<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/capo-deportes-3.php">Capo Deportes 3</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-21.php">Canal 21</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-22.php">Canal 22 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-23.php">Canal 23 (HD)</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Eslovenia vs Suiza<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/capo-deportes-4.php">Capo Deportes 4</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-24.php">Canal 24</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-25.php">Canal 25 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-26.php">Canal 26 (HD)</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Macedonia del Norte vs Kazajistan<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/canal-27.php">Canal 27</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-28.php">Canal 28</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Ucrania vs Azerbaiyan<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/canal-29.php">Canal 29</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-30.php">Canal 30</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Suecia vs Kosovo<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/canal-31.php">Canal 31</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-32.php">Canal 32</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias UEFA: Eslovaquia vs Luxembugo<span class="t">13:45</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/canal-33.php">Canal 33</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-34.php">Canal 34</a></li></ul></li>
+<li class="CH"><a href="#">Liga de Chile: Universidad de Chile vs Palestino<span class="t">14:00</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/tnt-sports-chile.php">TNT Sports Chile</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-35.php">Canal 35</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-36.php">Canal 36 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-37.php">Canal 37 (HD)</a></li></ul></li>
+<li class="PE"><a href="#">Liga de Peru: Juan Pablo II vs Deportivo Garcilaso<span class="t">15:15</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/liga-1-max-peru.php">Liga 1 Max Peru</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-38.php">Canal 38</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-39.php">Canal 39 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-40.php">Canal 40 (HD)</a></li></ul></li>
+<li class="AR"><a href="#">Liga de Argentina: Platense vs Deportivo Riestra<span class="t">16:30</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/tnt-sports-argentina.php">TNT Sports Argentina</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-41.php">Canal 41</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-42.php">Canal 42 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-43.php">Canal 43 (HD)</a></li></ul></li>
+<li class="COL"><a href="#">Liga de Colombia: Once Caldas vs Independiente Medellin<span class="t">17:15</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/win-sports-plus.php">Win Sports +</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-44.php">Canal 44</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-45.php">Canal 45 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-46.php">Canal 46 (HD)</a></li></ul></li>
+<li class="ECUA"><a href="#">Copa Ecuador: Independiente del Valle vs Universidad Catolica<span class="t">18:00</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/gol-tv.php">Gol TV</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-47.php">Canal 47</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-48.php">Canal 48 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-49.php">Canal 49 (HD)</a></li></ul></li>
+<li class="NFL"><a href="#">NFL: Atlanta Falcons vs Buffalo Bills<span class="t">18:15</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/liga-de-campeones-2.php">Liga de Campeones 2</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-50.php">Canal 50</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-11.php">Canal 11 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-12.php">Canal 12 (HD)</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias CONCACAF: Honduras vs Haiti<span class="t">19:00</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/capo-deportes.php">Capo Deportes</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-13.php">Canal 13</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-14.php">Canal 14 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-15.php">Canal 15 (HD)</a></li></ul></li>
+<li class="NFL"><a href="#">NFL: Washington Commanders vs Chicago Bears<span class="t">19:15</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/liga-de-campeones-3.php">Liga de Campeones 3</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-16.php">Canal 16</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-17.php">Canal 17 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-18.php">Canal 18 (HD)</a></li></ul></li>
+<li class="COL"><a href="#">Liga de Colombia: Fortaleza vs Boyaca Chico<span class="t">19:30</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/win-sports-plus.php">Win Sports +</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-19.php">Canal 19</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-20.php">Canal 20 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-21.php">Canal 21 (HD)</a></li></ul></li>
+<li class="FIFA"><a href="#">Eliminatorias CONCACAF: Costa Rica vs Nicaragua<span class="t">21:00</span></a>
+<ul><li class="subitem1"><a href="https://www.pelotalibrevivo.net/en-vivo/capo-deportes.php">Capo Deportes</a></li>
+<li class="subitem1"><a href="https://www.pirlotv.pl/canal-22.php">Canal 22</a></li>
+<li class="subitem1"><a href="https://www.tarjetarojaenvivo.club/canal-23.php">Canal 23 (HD)</a></li>
+<li class="subitem1"><a href="https://www.pirlotvenvivo.club/canal-24.php">Canal 24 (HD)</a></li></ul></li>
+</ul>
+</div>
+<script type="text/javascript">
+$(function() {
+    var menu_ul = $(".menu > li > ul"),
+    menu_a = $(".menu > li > a");
+    menu_ul.hide();
+    menu_a.click(function(e) {
+        e.preventDefault();
+        if(!$(this).hasClass("active")) {
+            menu_a.removeClass("active");
+            menu_ul.filter(":visible").slideUp("fast");
+            $(this).addClass("active").next().stop(true,true).slideDown("fast");
+        } else {
+            $(this).removeClass("active");
+            $(this).next().stop(true,true).slideUp("fast");
+        }
+    });
+});
+</script>
+</div>
+<footer><a href="/">PIRLO TV | Rojadirecta | Futbol En Vivo<span class="icon-dot"></span></a> | © 2025 Diseño por pirlotv2.pl</footer>
+</div>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"4bb01977a3cf4b6b8c73bc7ccfba835c","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+#User-agent: *
+#Disallow: /wp-content/
+#Disallow: /wp-admin/
+
+User-agent: *
+Disallow: /wp-content/
+Disallow: /wp-admin/
+#Allow: /wp-content/uploads/.*
+Allow: /wp-content/uploads/*.webp$
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.hosttech.at/sitemap_index.html

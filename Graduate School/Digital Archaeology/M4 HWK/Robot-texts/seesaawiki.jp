@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /t/external-link/
+Disallow: /word/
+Disallow: /wiki/
+Disallow: /page/
+Disallow: /tag/
+Disallow: /*search?
+Disallow: /e/edit?
+Disallow: /matomeru_kun/

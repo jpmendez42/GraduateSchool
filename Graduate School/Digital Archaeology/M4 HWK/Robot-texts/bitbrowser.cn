@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /templets
+Disallow: /_nuxt 
+Disallow: /new-v2s
+Disallow: /blog-v2s
+Disallow: /partner-v2s
+Disallow: /updatelog-v2s
+
+Sitemap: https://www.bitbrowser.cn/sitemap.xml

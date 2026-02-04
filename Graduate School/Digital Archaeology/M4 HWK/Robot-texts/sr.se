@@ -1,0 +1,44 @@
+user-agent: *
+Disallow: /topsy/
+Disallow: /ajax/
+Disallow: /diverse/
+Disallow: /img/
+Disallow: /test/
+Disallow: /webcam/
+Disallow: /webdrift/
+Disallow: /xmltv/
+
+Disallow: /avsnitt/2418464$
+Disallow: /avsnitt/2418464/
+Disallow: /avsnitt/2418464?
+
+Disallow: /avsnitt/pqod4al7$
+Disallow: /avsnitt/pqod4al7/
+Disallow: /avsnitt/pqod4al7?
+
+Disallow: /avsnitt/2419187$
+Disallow: /avsnitt/2419187/
+Disallow: /avsnitt/2419187?
+
+Disallow: /avsnitt/qtig8ae3$
+Disallow: /avsnitt/qtig8ae3/
+Disallow: /avsnitt/qtig8ae3?
+Disallow: /*/textarkiv
+
+Sitemap: https://www.sverigesradio.se/sitemap
+Sitemap: https://www.sverigesradio.se/newssitemap
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /

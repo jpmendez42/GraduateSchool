@@ -1,0 +1,100 @@
+# Robots file for www.liligo.fr
+
+# Apply rules to all user agents
+User-agent: *
+
+# air restrictions
+Disallow: /flight/results
+Disallow: /train/results
+Disallow: /air/SearchFlights.jsp
+Disallow: /air/HeaderFlightsJSON.jsp
+Disallow: /air/LabelsJSON.jsp
+Disallow: /air/RedirectFlight.jsp
+Disallow: /air/RedirectFlightOneWay.jsp
+Disallow: /air/relaunchSearch.jsp
+Disallow: /air/ResultsFlights.jsp
+Disallow: /air/searchFriend.jsp
+Disallow: /air/sendSearch.jsp
+Disallow: /air/buzzResults.jsp
+Disallow: /air/landingAlert.jsp
+
+# hotel restrictions
+Disallow: /hotel/HeaderHotelsJSON.jsp
+Disallow: /hotel/LabelsJSON.jsp
+Disallow: /hotel/recommend_liligo.jsp
+Disallow: /hotel/RedirectHotel.jsp
+Disallow: /hotel/RedirectReviewHotel.jsp
+Disallow: /hotel/relaunchSearch.jsp
+Disallow: /hotel/ResultsHotels.jsp
+Disallow: /hotel/HeaderHotelsJSON.jsp
+Disallow: /hotel/review.jsp
+Disallow: /hotel/searchFriend.jsp
+Disallow: /hotel/searchHotels.jsp
+Disallow: /hotel_v3/
+Disallow: /hotellanding.jsp
+Disallow: /reservation-hotel/hotel-le-hurghada_eg/
+
+# car restrictions
+Disallow: /cars/sc.jsp
+Disallow: /cars/redirect.jsp
+Disallow: /cars/rrc.jsp
+Disallow: /cars/searchCarsByFlight.jsp
+
+# homepages restrictions
+Disallow: /homepage/siteunder.jsp
+Disallow: /homepage/hotel-byname.jsp
+Disallow: /v5/homepage
+Disallow: /buzz/index.jsp
+
+# packages restrictions
+Disallow: /sejours/
+Disallow: /week-end/dis/
+Disallow: /location-vacances/dis/
+Disallow: /sejour-circuit/dis/
+Disallow: /package/
+Disallow: /package_v2/
+Disallow: /VacationCatalog.jsp
+
+# gateway restrictions
+Disallow: /gateway/
+Disallow: /wpartner/
+
+# blog restrictions
+Disallow: /magazine-voyage/wp-admin/
+Allow: /magazine-voyage/wp-admin/admin-ajax.php
+
+# other restrictions
+Disallow: /mobileweb_v4/api/
+Disallow: /api/
+Allow: /a/api/comparesite/src/
+Disallow: /a/
+Disallow: /v3/
+Disallow: /alert/
+Disallow: /billet-avion/
+Disallow: /landing.jsp
+Disallow: /landing_a.jsp
+Disallow: /landing_b.jsp
+Disallow: /carlanding.jsp
+Disallow: /publicidee/
+Disallow: /myliligo.jsp
+Disallow: /signin/
+Disallow: /demo/
+Disallow: /android/
+Disallow: /static/rss/press-release/2012-07-02_CP_tendances_ete.pdf
+Disallow: /static/rss/press-release/CP_iPhone_Hotels_180612V5_BtoB_final.pdf
+Disallow: /myliligo/
+Allow: /my-liligo/alerte-vol-creer
+Disallow: /my-liligo/alerte-vol
+Disallow: /gateway/blogs/
+
+# Error pages
+Disallow: /erreur/404
+Disallow: /erreur/429
+
+# Images
+Allow: /*/img/
+Allow: /img/
+Disallow: /img/hotel/
+
+# Sitemap
+Sitemap: https://www.liligo.fr/sitemap.xml

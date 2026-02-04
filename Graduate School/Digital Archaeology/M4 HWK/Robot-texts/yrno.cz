@@ -1,0 +1,385 @@
+License: https://yrno.cz/rsl.xml
+
+User-agent: Googlebot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: GoogleOther
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Feedfetcher-Google
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Mediapartners-Google
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: AdsBot-Google
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: AdsBot-Google-Mobile
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Google-Apps-Script
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: APIs-Google
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: AppEngine-Google
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Google-InspectionTool
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Google-Safety
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: GoogleProducer
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Storebot-Google
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Google-CloudVertexBot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Google-Site-Verification
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: SeznamBot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Seznam screenshot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: bingbot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Yahoo! Slurp
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Applebot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Seznam Fulltext
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: SeznamHomepage
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: msnbot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: facebookscraper
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: meta-externalagent
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: FlipboardProxy
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Friendica
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: LinkedInBot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Mastodon
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: MicroMessenger
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Pinterest
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Pleroma
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Slackbot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: TwitterFeed
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: Twingly
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: WhatsApp
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: XenForo
+Allow: /
+Disallow: /*?misto=*
+Disallow: /tmavy/
+Disallow: /svetly/
+Disallow: /auto/
+Disallow: /*/predpoved-hodinu-po-hodine/
+Disallow: /*/dlouhodob%C3%A1-p%C5%99edpov%C4%9B%C4%8F/
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://yrno.cz/sitemap_index.xml
+Sitemap: https://yrno.cz/sitemap_news.xml

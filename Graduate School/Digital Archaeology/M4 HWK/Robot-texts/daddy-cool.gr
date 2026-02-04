@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /cache/
+Disallow: /wp-static/
+Disallow: /wp-json/
+Disallow: /wp-content/plugins/netway_views_counter/
+Disallow: /search
+Disallow: /*?preview_id=
+Disallow: /*?p=
+Disallow: /*?page_id=
+Disallow: /*?attachment_id=
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /ads.txt
+
+User-agent: Googlebot-news
+Allow: /
+
+Sitemap: https://www.daddy-cool.gr/sitemap.xml
+Sitemap: https://www.daddy-cool.gr/googlenews.xml

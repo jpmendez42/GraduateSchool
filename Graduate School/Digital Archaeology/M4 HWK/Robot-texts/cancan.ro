@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.cancan.ro/sitemaps/index.xml  
+Sitemap: https://www.cancan.ro/sitemaps/news-sitemap.xml 

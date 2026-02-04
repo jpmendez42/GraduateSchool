@@ -1,0 +1,64 @@
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /etc.clientlibs/etisalat/clientlibs/*.js
+Disallow: /etc.clientlibs/etisalat/clientlibs/*.css
+
+User-agent: googlebot     
+Disallow: /uat/
+Disallow: /content/experience-fragments/
+Disallow: /smb-test/
+Disallow: /demo/
+Disallow: /broadcast/
+Disallow: /old-path/
+Disallow: /error/
+Disallow: /jafza-old/
+Disallow: /push/
+Disallow: /standalone/
+Disallow: /cms/
+Disallow: /smb/*.jsp
+Disallow: /enterprise-and-government/*.jsp
+# FIXED: Removed invalid full URL
+# Disallow: https://support.etisalat.ae/
+# need a separate robots.txt on that subdomain
+Allow: /b2bportal/login.html
+Allow: /b2bportal/login.html?locale=ar
+Disallow: /b2bportal/login.html?
+
+#B2C Paths
+Disallow: /ecare/d/
+Allow: /ecare/d/auth
+Disallow: /eshop/addons/addon-subscribe
+Disallow: /eshop/home-move
+Allow: /eshop/elife/configuration
+Allow: /b2c/eshop/device-configuration
+Allow: /b2c/eshop/bundleConfiguration
+Allow: /b2c/eshop/smartHomeConfiguration
+Allow: /b2c/eshop/elifePlanConfiguration
+Allow: /b2c/heshop/plans/prepaid-emirati-configuration
+Allow: /b2c/heshop/control-line-configuration
+Allow: /b2c/heshop/plans/visitor-line-configuration
+Allow: /b2c/heshop/plans/prepaid-wasel-configuration
+Allow: /b2c/heshop/plans/prepaid-line-emirati-configuration
+Allow: /b2c/heshop/plans/number-configuration
+Allow: /b2c/eshop/postpaidLine
+Allow: /b2c/heshop/plans/postpaid-plan
+Disallow: /b2c/eshop/homeMoveLanding
+Disallow: /b2c/eshop/homeMove
+Disallow: /b2c/eshop/leadForm
+Disallow: /b2c/heshop/plans/plan-migration
+ 
+
+
+# Sitemap file
+Sitemap: https://www.etisalat.ae/sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.ar-enterprise-and-government-sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.en-enterprise-and-government-sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.ar-smb-sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.en-smb-sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.ar-sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.en-sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.en-consumer-sitemap.xml
+Sitemap: https://www.etisalat.ae/content/etisalat/ae.sitemap.ar-consumer-sitemap.xml

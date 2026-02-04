@@ -1,0 +1,31 @@
+User-Agent: *
+
+Sitemap: https://www.matprat.no/sitemap.xml
+Sitemap: https://www.matprat.no/articlessitemap.xml
+Sitemap: https://www.matprat.no/siteimages.xml
+Sitemap: https://www.matprat.no/sitevideos.xml
+
+Disallow: /Services/
+noindex: /Services/
+Disallow: /Util/
+noindex: /Util/
+Disallow: /utils/
+noindex: /utils/
+Disallow: /globalassets/
+noindex: /globalassets/
+Disallow: /Content/
+noindex: /Content/
+Disallow: /secureUI/
+noindex: /secureUI/
+Disallow: /min-matprat/
+noindex: /min-matprat/
+Disallow: /*.pdf$
+noindex: /*.pdf$
+Disallow: /arsrapport/arsrapport-2015/
+noindex: /arsrapport/arsrapport-2015/
+Disallow: /arsrapport/arsrapport-2016/
+noindex: /arsrapport/arsrapport-2016/
+Disallow: /arsrapport/arsrapport-2017/
+noindex: /arsrapport/arsrapport-2017/
+Disallow: /ingredienser/
+noindex: /ingredienser/

@@ -1,0 +1,31 @@
+
+# XML Sitemap & Google News Feeds - http://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.modesettravaux.fr/sitemap-news.xml
+
+User-agent: *
+Disallow: /?p=
+Disallow: /*/amp
+Disallow: /*/*/feed
+Disallow: /*?email
+Disallow: /*?amp=1
+Disallow: /*?mrfhud=true
+Disallow: /*?fr=operanews
+Disallow: /serviceworker.js
+Disallow: /archives/tag/
+Disallow: /152303110/
+Disallow: /39216077/
+Disallow: /46980923/
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+Disallow: /wp-json/
+Disallow: /?rest_route=
+
+Sitemap: https://www.modesettravaux.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

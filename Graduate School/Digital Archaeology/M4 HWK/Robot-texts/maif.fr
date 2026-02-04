@@ -1,0 +1,146 @@
+# Sitemap principal
+Sitemap: https://www.maif.fr/sitemap-lang.xml
+
+User-agent: Google-InspectionTool
+Allow: /
+
+
+# ---- 1) Blocage des mauvais bots ----
+User-agent: swebot
+User-agent: aihitbot
+User-agent: Exabot
+User-agent: sitebot
+User-agent: YandexBot
+User-agent: Yandex
+User-agent: TwengaBot-Discover
+User-agent: Ezooms
+User-agent: Bender
+User-agent: discobot
+User-agent: panscient.com
+User-agent: searchwebengine.net
+User-agent: MLBot
+User-agent: NextGenSearchBot
+User-agent: Speedy
+User-agent: dotbot
+User-agent: NerdByNature.Bot
+User-agent: WBSearchBot
+User-agent: sistrix
+User-agent: SindiceBot
+User-agent: plukkie
+User-agent: findfiles.net
+User-agent: SeznamBot
+User-agent: Goodzer
+User-agent: BacklinkCrawler
+User-agent: lemurwebcrawler
+User-agent: gigabot
+User-agent: FAST Enterprise Crawler 6
+User-agent: Sensis.com.au Web Crawler
+User-agent: worio bot heritrix
+User-agent: trovitBot
+Disallow: /
+
+# ---- 2) Regles pour tous les bots restants ----
+User-agent: *
+
+# Bloquer tous les fichiers PDF
+Disallow: /*.pdf$
+
+# Bloquer les URLs parametrees indesirables
+Disallow: */1000
+Disallow: *JSON-RPC
+Disallow: *?genesysCritere=*
+Disallow: *?_=*
+Disallow: /recherche/*
+Disallow: /*jsessionid*
+Disallow: *?type=js&session*
+Disallow: *?xtor=*
+Disallow: *?xtatc=*
+Disallow: *?xtmc=*
+Disallow: *?xts=*
+Disallow: *?p=*
+Disallow: *?itemDesc*
+Disallow: *?action=*
+Disallow: *?genesysCodeBouton*
+Disallow: *?utm_source*
+Disallow: *?utm_medium*
+Disallow: *?utm_campaign*
+Disallow: *?utm_term*
+Disallow: *?utm_content*
+Disallow: *?paf*
+Disallow: *?reset=*
+Disallow: *?themeid=*
+Disallow: *?ver=*
+Disallow: *?idPartenaire=*
+Disallow: *?urlPage=*
+Disallow: *?codeTypeProduit=*
+Disallow: *?fbclid*
+Disallow: *?msclkid=*
+Disallow: *?gclsrc=*
+Disallow: *?_wrapper*
+Disallow: *?ds_rl=*
+Disallow: *?_sm_byp=*
+Disallow: *?hstc=*
+Disallow: */ProduitBlancServlet?adresse=*
+Disallow: *?swp_debug=*
+Disallow: */webcallgenesys/*
+Disallow: /erreurs/*
+Disallow: /key/*
+Disallow: /alfresco/*
+Disallow: *?inscription=*
+Disallow: *?nomInfo=*
+Disallow: *?adresse=*
+Disallow: *?adrUrl*
+Disallow: *?ciamReturnUrl*
+Disallow: /?*
+Disallow: */ProduitBlancServlet?*
+Disallow: *?thematic*
+Disallow: */accueil.html?*
+Disallow: *?_cldee*
+Disallow: *?vm=*
+Disallow: *?conclusion=*
+Disallow: *?infographic=*
+Disallow: */gateway/*
+Disallow: *?red*
+Disallow: *?view&xtatc=*
+Disallow: *?view=PM*
+Disallow: *xtor=*
+Disallow: /*?xtor=
+Disallow: /*xtor*
+Disallow: /*?*xtor=*
+Disallow: *?maif_medium=Sponsored%20links*
+
+# Exemptions (Always Allow) - place avant les Disallow conflictuels
+Allow: /services-en-ligne/assurance-habitation/devis/
+Allow: /services-en-ligne/devis/vam/dv_pour_bien_demarrer.action?view
+Allow: /services-en-ligne/devis/vam/dv_pour_bien_demarrer.action
+Allow: /services-en-ligne/nous-ecrire/
+Allow:*reactjs*
+
+# Blocage specifique de dossiers et fichiers
+Disallow: /services-en-ligne/*
+Disallow: /files/live/sites/maif-fr/files/txt/tags.html
+Disallow: /annexes/tarifs
+Disallow: /accueil.html
+Disallow: /erreurCookies.html
+Disallow: /annexes/mentions-legales/gestion-cookies
+Disallow: /annexes/mentions-legales
+Disallow: /annexes/mentions-legales/mentions-protection-juridique
+Disallow: /particuliers/services-au-quotidien/protection-juridique/fiches/identification.action
+Disallow: /portal/*
+Disallow: /recrutement/*
+Disallow: /site2/*
+Disallow: /site1/*
+Disallow: /app-ads.txt
+Disallow: /ads.txt
+Disallow: /security.txt
+Disallow: /accueil.action
+Disallow: /Assurance/Habitation
+Disallow: /salondeleducation
+Disallow: /assistantvisites
+Disallow: /service/identification/dmdrestitutioncodeconfidentiel.action
+Disallow: /auto-responsable.html
+Disallow: */browserconfig.xml
+Disallow: /particuliers/habitation/assurance-emprunteur/ajouterEmprunteur.html?view
+Disallow: /particuliers/sante-prevoyance/assurance-obseque/confirmCalculCotisationSollicitude.action?view=input
+Disallow: /particuliers/sante-prevoyance/assurance-obseque/devisCotisationSollicitude.action?view
+Disallow: /modules/CsrfServlet

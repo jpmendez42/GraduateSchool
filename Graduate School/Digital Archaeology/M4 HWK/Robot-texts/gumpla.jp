@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /twitter/login
+Disallow: /line-auth/login
+Disallow: /dashboard2/
+# Disallow: /*?*type=test
+# Disallow: /?s=
+# Disallow: /login
+
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://gumpla.jp/sitemap.xml

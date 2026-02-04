@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /docs
+Disallow: /mobile
+Disallow: /webview
+Disallow: /check-app
+Disallow: new-design-552f8e29-221e-45b0-8cb1-a16384d51ef9
+Allow: *.jpg
+Allow: *.gif
+Allow: *.svg
+Allow: *.css
+Allow: *.png
+Allow: *.js
+Sitemap: https://planetakino.ua/sitemap.xml
+Sitemap: https://cdn.planetakino.ua/public/sitemap/movies-sitemap.xml
+Sitemap: https://cdn.planetakino.ua/public/sitemap/online-movies-sitemap-image.xml
+Sitemap: https://cdn.planetakino.ua/public/sitemap/offline-movies-sitemap-image.xml

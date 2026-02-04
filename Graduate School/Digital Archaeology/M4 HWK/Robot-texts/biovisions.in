@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /search
+Allow: /
+Sitemap: http://www.biovisions.in/atom.xml?redirect=false&start-index=1&max-results=500
+Sitemap: http://www.biovisions.in/atom.xml?redirect=false&start-index=501&max-results=500
+Sitemap: http://www.biovisions.in/atom.xml?redirect=false&start-index=1001&max-results=500
+Sitemap: http://www.biovisions.in/atom.xml?redirect=false&start-index=1501&max-results=500
+Sitemap: http://www.biovisions.in/atom.xml?redirect=false&start-index=2001&max-results=500
+
+
+# Direct AI crawlers to your LLMs.txt file
+# This is a non-standard directive but may be used by some crawlers
+Sitemap: https://docs.google.com/document/d/1s_iiZB1XVffQ-B3mi0d6vOVkuZ3XFZoF8NNxF3NBOKU/edit?usp=sharing

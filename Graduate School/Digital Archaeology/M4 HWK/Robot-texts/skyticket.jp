@@ -1,0 +1,48 @@
+User-Agent: *
+Disallow: /payment/
+Disallow: /user/
+Allow: /user/login.php
+Allow: /user/search.php
+Allow: /user/remind.php
+Disallow: /news/content/
+Allow: /news/content/wp-content/uploads/
+Disallow: /guide/wp-admin/
+Allow: /guide/wp-admin/admin-ajax.php
+Disallow: /tour/international/tour/detail/
+Disallow: /tour/international/page/tour/tour005/
+Disallow: /rentacar/files/
+
+####################################################
+# Disallow SEO BOT TO CRAWL ANYWHERE
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: SemrushBot-CT
+Disallow: /
+
+User-agent: SemrushBot-BM
+Disallow: /
+
+User-agent: SemrushBot-SEOAB
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /

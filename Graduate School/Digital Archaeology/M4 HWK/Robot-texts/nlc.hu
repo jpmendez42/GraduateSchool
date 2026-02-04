@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /profil/
+Disallow: /forum_elete/
+Disallow: /forum/forum_elete/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /*?*page/*
+Disallow: /feed$
+Disallow: /ujhozzaszolas/?topicid*
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://nlc.hu/uploads/sitemap/nlc.hu_sitemap.xml

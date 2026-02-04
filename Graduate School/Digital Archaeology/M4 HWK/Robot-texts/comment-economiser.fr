@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /redirection.php
+Disallow: /hasard
+
+Disallow: /*/infeed/*/*
+
+Sitemap: https://www.comment-economiser.fr/sitemap.xml

@@ -1,0 +1,12 @@
+Sitemap: https://opentextbc.ca/?feed=sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /static_errors/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: Amazonbot
+Disallow: /
+
+Sitemap: https://opentextbc.ca/wp-sitemap.xml

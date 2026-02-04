@@ -1,0 +1,22 @@
+Sitemap: https://www.ofertero.es/sitemap_index.xml
+
+User-agent: *
+Disallow: /api/
+Disallow: /site/
+Disallow: /exit/
+Disallow: /brochure/brochure-page/
+Disallow: */?login-token=
+Disallow: */user-admin/*
+Disallow: */nove-heslo/
+Disallow: */offers/*
+Disallow: */detail/*
+Disallow: */detalle/*
+Disallow: /27957108/*
+Disallow: */?page=
+Disallow: /js/joined/bub.min.js
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow: 

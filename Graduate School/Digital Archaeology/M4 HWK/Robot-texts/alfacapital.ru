@@ -1,0 +1,47 @@
+User-agent: *
+Disallow: /*?
+Disallow: /*index
+Disallow: /*?ID=
+Disallow: /*?gbraid=
+Disallow: /*?year=
+Disallow: /*?from=
+Disallow: /*?orderId=
+Disallow: /*?interval=
+Disallow: /*?transaction_id=
+Disallow: /*?amount=
+Disallow: /*?shortlink=
+Disallow: /*?utm_
+Disallow: /*?utm_target=
+Disallow: /*?wbraid=
+Disallow: /*?isScrollToPurchase=
+Disallow: /disclosure/corporate_info/
+Disallow: /*.xlsx
+Disallow: /*.pdf
+Disallow: /*.rtf
+Disallow: /*.xls
+
+Disallow: /disclosure/clients_info/dinamika-srednemesyachnoj-dohodnosti-po-standartnym-investicionnym-strategiyam-ooo-uk-alfa-kapital-6
+Disallow: /disclosure/clients_info/dinamika-srednemesyachnoj-dohodnosti-po-standartnym-investicionnym-strategiyam-ooo-uk-alfa-kapital-7
+Disallow: /disclosure/clients_info/dinamika-srednemesyachnoj-dohodnosti-po-standartnym-investicionnym-strategiyam-ooo-uk-alfa-kapital-9
+Disallow: /disclosure/clients_info/ta-samaya-para-old
+Disallow: /disclosure/clients_info/uvedomlenie-ob-obyazatelnoj-informacii-upravlyayushchej-kompanii-po-sostoyaniyu-na-01042022-g
+Disallow: /disclosure/clients_info/www.alfacapital.ru
+Disallow: /disclosure/file/
+Disallow: /disclosure/indicators/aksfsp
+Disallow: /disclosure/rules/pifs/opifa_akt
+Disallow: /individual/am/alfa-bpif-sap500
+Disallow: /news/news/24122019.html
+Disallow: /partner/iphone
+Disallow: /promo/april
+Disallow: /promo/free-professional-management
+Disallow: /product-manager/
+
+Allow: /*.js
+Allow: /*.css
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+
+Sitemap: https://www.alfacapital.ru/sitemap.xml

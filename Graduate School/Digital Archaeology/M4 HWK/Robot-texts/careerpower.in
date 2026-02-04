@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+Disallow: /*/tag/*
+Disallow: /*/feed
+Disallow: /*/category/*
+Disallow: /*/search/*
+Disallow: /*/page/*
+Disallow: /*+*
+Disallow: /bank-coaching-dehradun.html
+Disallow: /ssc-coaching-dehradun.html
+Allow: /blog/wp-admin/admin-ajax.php
+
+Sitemap: https://www.careerpower.in/sitemap.xml
+Sitemap: https://www.careerpower.in/blog/sitemap.xml
+Sitemap: https://www.careerpower.in/school/sitemap.xml

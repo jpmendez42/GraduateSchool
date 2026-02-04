@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /payu/
+Disallow: /scripts/
+Disallow: /*?norobot
+Disallow: /redirectToServer.aspx*
+Disallow: /mimo-provoz*
+Sitemap: https://www.seznamka.cz/sitemap.xml

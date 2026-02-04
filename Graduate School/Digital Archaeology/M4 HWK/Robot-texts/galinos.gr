@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /portal/drugs/
+Disallow: /service/drugs/queryReasoner
+Disallow: /service/drugs/rateReasoner
+Disallow: /service/safira/clickThrough
+Disallow: /service/safira/renderCreative
+Disallow: /service/servo/unlockAccess
+Sitemap: https://www.galinos.gr/web/drugs/sitemap-main
+Sitemap: https://www.galinos.gr/web/drugs/sitemap-indications
+Sitemap: https://www.galinos.gr/web/drugs/sitemap-packages
+Sitemap: https://www.galinos.gr/web/drugs/sitemap-packages/2
+Sitemap: https://www.galinos.gr/web/drugs/sitemap-packages/3
+Sitemap: https://www.galinos.gr/web/drugs/sitemap-codes
+License: https://www.galinos.gr/content/drugs/license.xml

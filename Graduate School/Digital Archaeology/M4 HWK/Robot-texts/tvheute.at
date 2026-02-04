@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /tv-programm/Alle/heute
+Disallow: /*?*
+
+Sitemap: http://tvheute.at/sitemap.xml

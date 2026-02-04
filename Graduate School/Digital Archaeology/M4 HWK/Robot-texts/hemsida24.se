@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+Sitemap: https://www.hemsida24.se/sitemap.xml
+Sitemap: https://www.hemsida24.se/blogg/sitemap.xml

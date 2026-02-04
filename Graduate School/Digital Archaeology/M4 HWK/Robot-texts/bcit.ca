@@ -1,0 +1,27 @@
+User-agent: *
+#
+# Disallow permanently
+Disallow: /events/
+Disallow: /it-services/website-feedback/
+Disallow: /outlines/
+Disallow: /safety-security/emergency-management/program-directive/bc-post-secondary-emergency-planners/
+Disallow: /style-guide/
+Disallow: /unsupported-browser/
+#
+# Legacy URLs
+Disallow: /skwiz/
+#
+# Legacy static assets
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /h2vx/
+Disallow: /js/
+Disallow: /scripts/
+Disallow: /ssi/
+
+#
+# Disallow these bots
+User-Agent: aiHitBot
+User-Agent: Shopwiki
+Disallow: /
+#

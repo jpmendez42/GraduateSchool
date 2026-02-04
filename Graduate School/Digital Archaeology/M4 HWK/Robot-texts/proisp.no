@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /panel/
+Disallow: /cart/
+Disallow: /domene/domenesok/domainsearch
+Disallow: /domene/domenesok/cart
+Disallow: /?s=*
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://proisp.no/sitemap_index.xml

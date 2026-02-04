@@ -1,0 +1,1669 @@
+
+	
+		
+			
+						
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>爱思助手官网_苹果助手_苹果刷机助手_苹果越狱助手</title>
+  <meta name="description" content="爱思助手官网-爱思助手是一款专业的苹果刷机助手、苹果越狱助手，专为苹果用户提供百万iPhone、iPad软件、游戏、铃声、壁纸资源安全快速免费下载。" />
+  <meta name="keywords" content="爱思,爱思助手,苹果助手,苹果刷机,苹果刷机助手,苹果越狱,苹果越狱助手" />
+  <link rel="shortcut icon" href="https://d-image.i4.cn/i4web/static2025/images/logo.png?v=131" />
+  <link rel="stylesheet" href="https://d-image.i4.cn/i4web/static2025/css/normalize.css">
+  <link rel="stylesheet" href="https://d-image.i4.cn/i4web/static2025/css/common.css?v=2.0">
+  <link rel="stylesheet" href="https://d-image.i4.cn/i4web/static2025/css/swiper-bundle.min.css">
+  <link rel="stylesheet" href="https://d-image.i4.cn/i4web/static2025/css/index.css">
+  <link rel="stylesheet" href="https://d-image.i4.cn/i4web/static2025/css/header.css">
+  <link rel="stylesheet" href="https://d-image.i4.cn/i4web/static2025/css/footer.css">
+  <script src="https://d-image.i4.cn/i4web/static2025/js/jquery-1.11.3.min.js"></script>
+  <script src="https://d-image.i4.cn/i4web/static2025/js/swiper-bundle.min.js"></script>
+</head>
+<body data-page="index" id="index">
+  <div class="main-container">
+    <!-- START navigation & Banner -->
+    <div class="menu-banner-container">
+   	 
+   	 <!-- header -->
+   	  
+
+
+
+   <!-- Header -->
+      <div class="header-wrapper">
+        <div class="common-wrapper head-content 
+        ">
+          <div class="head-lf">
+            <a href="index.html" class="logo" title="回首页">
+              <img src="https://d-image.i4.cn/i4web/static2025/images/logo.svg" width="36" alt="logo" />
+            </a>
+            <ul class="head-nav">
+              <li>
+                <a href="index.html" id="active_index">首页</a>
+              </li>
+              <li>
+              <li>
+                <a href="pro_pc.html" id="active_pro_pc">爱思助手</a>
+              </li>
+              <li>
+                <a href="pro_airplayer.html" id="active_pro_airplayer">爱思投屏</a>
+              </li>
+              <li><span class="divider"></span></li>
+              <li>
+                <a href="firmware.html" id="active_pro_firmware">固件</a>
+              </li>
+              <li>
+                <a href="news_3.html"  id="active_pro_tutorial">教程</a>
+              </li>
+              <li>
+                <a href="news_1.html" id="active_pro_news">新闻</a>
+              </li>
+              <li><span class="divider"></span></li>
+              <li>
+                <a href="https://www.i5.cn/index.html" target="_blank">商城</a>
+              </li>
+              <li>
+                <a href="https://developer.i4.cn/" target="_blank">开发者平台</a>
+              </li>
+            </ul>
+          </div>
+  
+          <!-- Search -->
+          <div class="head-search-wrapper">
+            <div class="search-placeholder" id="searchPlaceholder"></div>
+  
+            <div class="search-content">
+              <span class="search-del">
+                <img src="https://d-image.i4.cn/i4web/static2025/images/icon-del.svg" />
+              </span>
+  
+              <p class="search-tabs" id="search-tabs" attr_value="3">
+                <span data-value="3" class='active'>教程</span>
+                <span data-value="4"  >资讯</span>
+              </p>
+  
+              <div class="search-ipt-wrap">
+                <div class="search-ipt-box">
+                  <input type="text" placeholder="" id="headSearchInput" maxlength="50" />
+                  <img src="https://d-image.i4.cn/i4web/static2025/images/search-icon-dark.png" />
+                </div>
+                <a class="search-btn" id="headSearchBtn">搜索</a>
+              </div>
+  
+              <div class="search-quick">
+                <p class="search-quick-title">常用搜索</p>
+                <p class="search-quick-list">
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+<!-- 选中 -->
+<script type="text/javascript">
+
+	var id = $('body').attr('id');
+	$('#active_'+id).attr('class','active');
+	$('.search-tabs span').on('click', function () {
+		$('.search-tabs span').removeClass("active");
+		$(this).addClass('active');
+		$('#search-tabs').attr("attr_value", $(this).attr('data-value'));
+	});
+
+  // 非主页时导航直切
+  
+</script>
+  
+    
+      <!-- Banner -->
+      <div class="swiper-banner">
+        <div class="swiper-wrapper">
+          <div class="swiper-slide" style="background-image: url(https://d-image.i4.cn/i4web/static2025/images/banner1.jpg);"></div>
+          <div class="swiper-slide" style="background-image: url(https://d-image.i4.cn/i4web/static2025/images/banner2.jpg);"></div>
+        </div>
+
+        <!-- 对应 Swiper-slide 内容 -->
+        <div class="swiper-banner-content">
+          <div class="common-wrapper banner-content-wrap">
+            <!-- banner1 content -->
+            <div class="banner-down-wrap" data-index="0" style="margin: 468px 0 0 6px;">
+              <span class="down-btn">下载</span>
+              <div class="swiper-down-popover">
+                <dl class="item win x64">
+                  <dd>
+                    <p class="item-title">
+                      <span> V9.03</span>
+                      <span class="tag">
+                        64位<i></i>
+                      </span>
+                    </p>
+                    <p class="item-desc">
+                         2025-09-21  245MB
+                    </p>
+                  </dd>
+                  <dt>
+                    <a href="https://url.i4.cn/bUjmeyaa" class="down-link" data-agl-cvt="6">立即下载</a>
+                  </dt>
+                </dl>
+                <dl class="item win x86">
+                  <dd>
+                    <p class="item-title">
+                      <span>V9.03</span>
+                      <span class="tag">32位<i></i></span>
+                    </p>
+                    <p class="item-desc">
+                     	2025-09-21  238MB
+                    </p>
+                  </dd>
+                  <dt>
+                    <a href="https://url.i4.cn/myquyqaa" class="down-link" data-agl-cvt="6">立即下载</a>
+                  </dt>
+                </dl>
+              </div>
+            </div>
+  
+            <!-- banner2 content -->
+            <div class="banner-down-wrap" data-index="1" style="margin: 476px 0 0 666px;">
+              <span class="down-btn down-btn-blue" onclick="openDownloadModal('#downloadByProjectionModal')">下载</span>
+              
+            </div>
+          </div>
+        </div>
+
+        <!-- 如果需要分页器 -->
+        <div class="swiper-pagination"></div>
+      </div>
+    </div>
+    <!-- END navigation & Banner -->
+  
+    <!-- START 产品下载 -->
+    <div class="download-container">
+      <div class="common-wrapper">
+        <p class="common-title">
+          <span>产品下载</span>
+        </p>
+  
+        <div class="pro-list-wrapper">
+          <dl>
+            <dd>
+              <dt>
+                <img src="https://d-image.i4.cn/i4web/static2025/images/pro-01.svg" width="84" />
+              </dt>
+              <dd>
+                <span class="name">爱思助手</span>
+                <span class="intro">验机/刷机、备份、优化，应用下载一站式解决所有 iPhone 需求</span>
+                <span class="dowmload-btn" onclick="openDownloadModal('#downloadByAideModal')">下载</span>
+                <a href="pro_pc.html" class="more-btn">查看详情</a>
+              </dd>
+            </dd>
+          </dl>
+          
+          <dl>
+            <dd>
+              <dt>
+                <img src="https://d-image.i4.cn/i4web/static2025/images/pro-02.svg" />
+              </dt>
+              <dd>
+                <span class="name">爱思投屏</span>
+                <span class="intro">超清画质、流畅稳定的投屏神器</span>
+                <span class="dowmload-btn" onclick="openDownloadModal('#downloadByProjectionModal')">下载</span>
+                <a href="pro_airplayer.html" class="more-btn">查看详情</a>
+              </dd>
+            </dd>
+          </dl>
+  
+          <dl>
+            <dd>
+              <dt>
+                <img src="https://d-image.i4.cn/i4web/static2025/images/pro-03.svg" />
+              </dt>
+              <dd>
+                <span class="name">爱思远控</span>
+                <span class="intro">随时随地，远程控制</span>
+                <span class="dowmload-btn" onclick="openDownloadModal('#downloadByRemoteModal')">下载</span>
+                <a href="pro_remote.html" class="more-btn">查看详情</a>
+              </dd>
+            </dd>
+          </dl>
+        </div>
+      </div>
+    </div>
+    <!-- END 产品下载 -->
+  
+    <!-- START 新闻咨询 -->
+    <div class="news-container">
+      <div class="common-wrapper">
+        <p class="common-title">
+          <span>新闻资讯</span>
+          <a href="news_1.html" class="more">更多资讯</a>
+        </p>
+  
+        <ul class="news-list">
+          
+	          <li>
+              <a href="news_detail_55654.html" target="_blank">
+                <div title="苹果 2025 款 M5 iPad Pro 官网即将开启预购" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-10-13/1760324129123.jpg" alt="苹果 2025 款 M5 iPad Pro 官网即将开启预购" />
+                </div>
+                <div class="news-content">
+                  <p title="苹果 2025 款 M5 iPad Pro 官网即将开启预购" class="title">苹果 2025 款 M5 iPad Pro 官网即将开启预购</p>
+                  <p class="intro">苹果 2025 款 M5 iPad Pro 官网即将开启预购。</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-10-13
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      533
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+	          <li>
+              <a href="news_detail_55653.html" target="_blank">
+                <div title="苹果升级安全漏洞赏金计划，最高奖金翻倍至 200 万美元" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-10-11/1760149921178.png" alt="苹果升级安全漏洞赏金计划，最高奖金翻倍至 200 万美元" />
+                </div>
+                <div class="news-content">
+                  <p title="苹果升级安全漏洞赏金计划，最高奖金翻倍至 200 万美元" class="title">苹果升级安全漏洞赏金计划，最高奖金翻倍至 200 万美元</p>
+                  <p class="intro">苹果升级安全漏洞赏金计划。</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-10-11
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      1391
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+	          <li>
+              <a href="news_detail_55651.html" target="_blank">
+                <div title="苹果 iPhone 17 Pro Max 用户反馈扬声器问题：音量偏低_充电有噪音" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-10-10/1760058149580.jpg" alt="苹果 iPhone 17 Pro Max 用户反馈扬声器问题：音量偏低_充电有噪音" />
+                </div>
+                <div class="news-content">
+                  <p title="苹果 iPhone 17 Pro Max 用户反馈扬声器问题：音量偏低_充电有噪音" class="title">苹果 iPhone 17 Pro Max 用户反馈扬声器问题：音量偏低_充电有噪音</p>
+                  <p class="intro">苹果 iPhone 17 Pro Max 用户反馈扬声器问题：音量偏低_充电有噪音。</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-10-10
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      1843
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+	          <li>
+              <a href="news_detail_55649.html" target="_blank">
+                <div title="iOS 26.0.1_iOS 18.7.1发布，供不同用户选择" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-09-30/1759196533645.jpg" alt="iOS 26.0.1_iOS 18.7.1发布，供不同用户选择" />
+                </div>
+                <div class="news-content">
+                  <p title="iOS 26.0.1_iOS 18.7.1发布，供不同用户选择" class="title">iOS 26.0.1_iOS 18.7.1发布，供不同用户选择</p>
+                  <p class="intro">iOS 26.0.1_iOS 18.7.1发布。</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-09-30
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      13064
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+	          <li>
+              <a href="news_detail_55646.html" target="_blank">
+                <div title="苹果零售店正解决 iPhone 17 系列展示机刮痕问题" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-09-29/1759108263284.png" alt="苹果零售店正解决 iPhone 17 系列展示机刮痕问题" />
+                </div>
+                <div class="news-content">
+                  <p title="苹果零售店正解决 iPhone 17 系列展示机刮痕问题" class="title">苹果零售店正解决 iPhone 17 系列展示机刮痕问题</p>
+                  <p class="intro">苹果零售店正解决 iPhone 17 展示机刮痕问题。</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-09-29
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      5961
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+	          <li>
+              <a href="news_detail_55645.html" target="_blank">
+                <div title="苹果回应 iPhone 17 Pro 划痕问题：系 MagSafe 展示架材料转移导致" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-09-28/1759050643406.png" alt="苹果回应 iPhone 17 Pro 划痕问题：系 MagSafe 展示架材料转移导致" />
+                </div>
+                <div class="news-content">
+                  <p title="苹果回应 iPhone 17 Pro 划痕问题：系 MagSafe 展示架材料转移导致" class="title">苹果回应 iPhone 17 Pro 划痕问题：系 MagSafe 展示架材料转移导致</p>
+                  <p class="intro">苹果回应 iPhone 17 Pro / Max 划痕争议，实为老旧 MagSafe 支架材料转移</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-09-28
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      5301
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+	          <li>
+              <a href="news_detail_55644.html" target="_blank">
+                <div title="苹果 iPhone Air 抗弯追平 iPhone 17 Pro" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-09-28/1759039182374.jpg" alt="苹果 iPhone Air 抗弯追平 iPhone 17 Pro" />
+                </div>
+                <div class="news-content">
+                  <p title="苹果 iPhone Air 抗弯追平 iPhone 17 Pro" class="title">苹果 iPhone Air 抗弯追平 iPhone 17 Pro</p>
+                  <p class="intro">苹果 iPhone Air 抗弯追平 iPhone 17 Pro。</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-09-28
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      4767
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+	          <li>
+              <a href="news_detail_55643.html" target="_blank">
+                <div title="iPhone 或将优化联动安卓手表，封闭生态时代终结！跨设备联动启幕？" class="news-img">
+                  <img src="https://d-image.i4.cn/i4web/image/news/2025-09-26/1758854640585.png" alt="iPhone 或将优化联动安卓手表，封闭生态时代终结！跨设备联动启幕？" />
+                </div>
+                <div class="news-content">
+                  <p title="iPhone 或将优化联动安卓手表，封闭生态时代终结！跨设备联动启幕？" class="title">iPhone 或将优化联动安卓手表，封闭生态时代终结！跨设备联动启幕？</p>
+                  <p class="intro">苹果 iPhone 将优化联动安卓手表，增强通知、简化配对</p>
+                  <div class="info">
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-date.svg" />
+                      2025-09-26
+                    </p>
+                    <p class="info-item">
+                      <img src="https://d-image.i4.cn/i4web/static2025/images/icon-eye.svg" />
+                      5827
+                    </p>
+                  </div>
+                </div>
+              </a>
+	          </li>
+			
+        </ul>
+      </div>
+    </div>
+    <!-- END 新闻资讯 -->
+  </div>
+  
+  <!-- footer start -->
+	
+
+
+
+
+<!-- START Footer -->
+<div class="footer-container">
+  <div class="common-wrapper footer-wrapper">
+    <div class="footer-lf">
+      <p class="footer-lf-nav">
+        <a href="about.html" title="关于我们" target="_blank">关于我们</a>
+        <span class="divider"></span><!-- 分割线 -->
+        <a href="about.html#aboutContact" title="联系我们" target="_blank">联系我们</a>
+        <span class="divider"></span>
+        <a href="about.html#aboutFeedback" title="问题反馈" target="_blank">问题反馈</a>
+        <span class="divider"></span>
+        <a href="pc_questions.html" title="爱思PC端常见问题" target="_blank">爱思PC端常见问题</a>
+        <span class="divider"></span>
+        <a href="javascript:;" title="下载iTunes" id="footLinkDown">下载iTunes</a>
+        <span class="divider"></span>
+        <a href="copyright.html" title="用户协议" target="_blank">用户协议</a>
+      </p>
+
+      
+      <div class="footer-lf-copyright">
+        <img src="https://d-image.i4.cn/i4web/static2025/images/logo.svg" alt="" width="44" />
+        <div class="copyright-text">
+          <p>
+            <span>©2010-2025 深圳市为爱普信息技术有限公司</span>
+            <span class="pl-20">广东省深圳市南山区科技园中区科兴科学园A栋4单元709室 (前台电话：0755-82797402)</span>
+          </p>
+          <p>
+            <a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44030502000033" title="粤公网安备 44030502000033号" target="_blank">粤公网安备 44030502000033号</a>
+            <a href="https://beian.miit.gov.cn/" title="粤 ICP 备 09173600 号 -8" class="pl-20" target="_blank">粤 ICP 备 09173600 号 -8</a>
+            <span title="ICP证 粤B2-20181276" class="pl-20">ICP证 粤B2-20181276</span>
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-rt">
+      <img src="https://d-image.i4.cn/i4web/static2025/images/official-account-code.svg" />
+    </div>
+  </div>
+
+  <!-- START 下载 iTunes Popover -->
+  <div class="download-itunes-container">
+    <div class="common-wrapper">
+      <ul class="download-itunes-list">
+        <li>
+          <div class="item-lf">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/iTunes-m1.svg" width="56" />
+            <p class="item-lf-text">
+              <span>最新版本</span>
+              <span>12.11.3.17</span>
+            </p>
+          </div>
+          <div class="item-rt">
+            <a href="javascript:;" class="item-rt-btn">下载</a>
+            <div class="common-down-popover item-popover">
+              <dl class="item win10 x64">
+                <dd>
+                  <p class="item-title">
+                    <span>12.11.3.17</span>
+                    <span class="tag">
+                      64位<i></i>
+                    </span>
+                  </p>
+                  <p class="item-desc">
+                   2021/04/22  262.84MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://url.i4.cn/UjuIbiaa" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+              <dl class="item win10 x86">
+                <dd>
+                  <p class="item-title">
+                    <span>12.11.3.17</span>
+                    <span class="tag">32位<i></i></span>
+                  </p>
+                  <p class="item-desc">
+                    2021/04/22  201.34MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://url.i4.cn/VJvMJzaa" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-lf">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/iTunes-m1.svg" width="56" />
+            <p class="item-lf-text">
+              <span>最后一个支持 Win 7 的版本</span>
+              <span>12.10.11.2</span>
+            </p>
+          </div>
+          <div class="item-rt">
+            <a href="javascript:;" class="item-rt-btn">下载</a>
+            <div class="common-down-popover item-popover">
+              <dl class="item win_7_8 x64">
+                <dd>
+                  <p class="item-title">
+                    <span>12.10.11.2</span>
+                    <span class="tag">
+                      64位<i></i>
+                    </span>
+                  </p>
+                  <p class="item-desc">
+                    2021/4/23  192MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+              
+               <dl class="item win_7_8 x86">
+                <dd>
+                  <p class="item-title">
+                    <span>12.10.11.2</span>
+                    <span class="tag">
+                      32位<i></i>
+                    </span>
+                  </p>
+                  <p class="item-desc">
+                    2021/4/23  169MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://secure-appldnld.apple.com/itunes12/001-80042-20210422-E8A351F2-A3B2-11EB-9A8F-CF1B67FC6302/iTunesSetup.exe" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+              
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-lf">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/iTunes-m1.svg" width="56" />
+            <p class="item-lf-text">
+              <span>最后一个有应用商店的版本</span>
+              <span>12.6.5.3</span>
+            </p>
+          </div>
+          <div class="item-rt">
+            <a href="javascript:;" class="item-rt-btn">下载</a>
+            <div class="common-down-popover item-popover">
+              <dl class="item win10 win_7_8 last x64">
+                <dd>
+                  <p class="item-title">
+                    <span>12.6.5.3</span>
+                    <span class="tag">
+                      64位<i></i>
+                    </span>
+                  </p>
+                  <p class="item-desc">
+                    2018/09/12  264.88MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://secure-appldnld.apple.com/itunes12/091-87819-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A6/iTunes64Setup.exe" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+               <dl class="item win10 win_7_8 last x86">
+                <dd>
+                  <p class="item-title">
+                    <span>12.6.5.3</span>
+                    <span class="tag">
+                      32位<i></i>
+                    </span>
+                  </p>
+                  <p class="item-desc">
+                    2018/09/12  203.24MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://secure-appldnld.apple.com/itunes12/091-87819-20180912-69177170-B085-11E8-B6AB-C1D03409AD2A6/iTunes64Setup.exe" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+            </div>
+          </div>
+        </li>
+
+        <li>
+          <div class="item-lf">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/iTunes-m2.svg" width="56" />
+            <p class="item-lf-text">
+              <span>最后一个支持 Win XP 的版本</span>
+              <span>12.1.3.6</span>
+            </p>
+          </div>
+          <div class="item-rt">
+            <a href="javascript:;" class="item-rt-btn">下载</a>
+            <div class="common-down-popover item-popover">
+              <dl class="item win_xp x64">
+                <dd>
+                  <p class="item-title">
+                    <span>12.1.3.6</span>
+                    <span class="tag">
+                      64位<i></i>
+                    </span>
+                  </p>
+                  <p class="item-desc">
+                    2016/09/17  145.38MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://secure-appldnld.apple.com/itunes12/001-80053-20210422-E8A3B28C-A3B2-11EB-BE07-CE1B67FC6302/iTunes64Setup.exe" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+              
+              <dl class="item win_xp x86">
+                <dd>
+                  <p class="item-title">
+                    <span>12.1.3.6</span>
+                    <span class="tag">
+                      32位<i></i>
+                    </span>
+                  </p>
+                  <p class="item-desc">
+                    2016/09/17  103.73MB
+                  </p>
+                </dd>
+                <dt>
+                  <a href="https://secure-appldnld.apple.com/itunes12/031-34002-20150916-98D32A92-5C11-11E5-80AC-C25A6DA99CB1/iTunesSetup.exe" class="down-link">立即下载</a>
+                </dt>
+              </dl>
+              
+            </div>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <!-- END 下载 iTunes Popover -->
+</div>
+<!-- END Footer -->
+
+<script>
+  $(document).ready(function () {
+    const $downloadContainer = $('.download-itunes-container');
+    $('#footLinkDown').click((e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      $downloadContainer.toggleClass('show');
+    });
+
+    $(document).on('click.module2', (e) => {
+      // Foot 处理下载容器外部点击关闭
+      if (!$(e.target).closest('.download-itunes-container').length) {
+        $downloadContainer.removeClass('show');
+      }
+    })
+
+    // itunes适用状态
+    var ua = window.navigator.userAgent.toLowerCase();
+    // 系统位数
+    var x86_x64 = ua.match(/x86_64|win64|wow64/) || navigator.cpuClass === 'x64' ? 'x64' : 'x86';
+    // 系统版本
+    var win_xp = (ua.indexOf("windows nt 5.1") > -1 || ua.indexOf("windows xp") > -1) ? 'win_xp' : '';
+    var win_7_8 = ua.match(/windows\snt\s6\.\d/) ? 'win_7_8' : '';
+    var win_10 = ua.match(/windows\snt\s10/) ? 'win10' : '';
+    var sysVer = win_xp || win_7_8 || win_10 || 'other';
+     $downloadContainer.find('.item.'+sysVer+'.'+x86_x64 + ' .item-title .tag').addClass('tag-local').find('i').html('(适用于本机)')
+     $downloadContainer.find('.item.'+sysVer+'.'+x86_x64 + '.last .item-title .tag').addClass('tag-local').find('i').html('(适用于本机)')
+  });
+</script>
+
+  <!-- footer end -->
+  
+  <!-- 助手/下载-->
+ 	
+
+	
+
+
+
+  <style>
+	.download-pro-item:hover .popover-other,  
+	.download-pro-item:hover .item-popover {
+	  display: block;
+	}
+	.download-pro-item:hover .item-card,
+	.download-pro-item .common-down-popover:hover ~ .item-card {
+	  background: rgba(0, 0, 0, 0.05) !important;
+	  box-shadow: none;
+	}
+	
+	.download-pro-item .item-popover {
+	  top: 130px;
+	  left: 0;
+	}
+	.download-pro-item:last-child .item-popover {
+	  left: auto;
+	  right: 0;
+	}
+	.popover-other::before,
+	.download-pro-item .item-popover::before {
+	  content: '';
+	  position: absolute;
+	  top: -10px;
+	  left: 0;
+	  width: 120px;
+	  height: 10px;
+	  background: url('https://d-image.i4.cn/i4web/static2025/images/shadow-arrow.svg') no-repeat center;
+	}
+	.download-pro-item:last-child .item-popover::before {
+	  left: auto;
+	  right: 0;
+	}
+	.download-pro-item .item-popover .item:hover {
+	  background: rgba(0, 0, 0, 0.05);
+	}
+	
+	.popover-other {
+	  box-sizing: border-box;
+	  position: absolute;
+	  top: 130px;
+	  left: -50%;
+	  background: #FFFFFF;
+	  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1);
+	  border-radius: 10px;
+	  display: none;
+	}
+	.popover-other::before {
+	  left: 25%;
+	}
+	.popover-android {
+	  width: 240px;
+	  height: 260px;
+	  text-align: center;
+	}
+	.popover-android .title {
+	  font-size: 14px;
+	  line-height: 20px;
+	  color: #333333;
+	  padding: 20px 0 10px;
+	}
+	.popover-ios {
+	  box-sizing: border-box;
+	  left: 0;
+	  width: 440px;
+	  padding: 30px;
+	}
+	.popover-ios::before {
+	  left: 0;
+	}
+	.popover-ios .title {
+	  width: 100%;
+	  height: 52px;
+	  font-size: 14px;
+	  color: #333333;
+	  line-height: 52px;
+	  font-weight: bold;
+	  text-align: center;
+	  background: rgba(0, 122, 255, 0.05);
+	  border-radius: 8px;
+	}
+	.popover-ios .desc {
+	  counter-reset: item;
+	  font-size: 12px;
+	  color: #333333;
+	  line-height: 18px;
+	  padding: 15px 10px 0;
+	}
+	.popover-ios .desc li {
+	  counter-increment: item;
+	  padding: 5px 0;
+	  display: flex;
+	}
+	.popover-ios .desc li::before {
+	  content: counter(item) "、";
+	  display: block;
+	}
+	.popover-ios .tip {
+	  padding-top: 25px;
+	}
+	.popover-ios .tip span {
+	  font-size: 12px;
+	  color: #333333;
+	  padding: 8px 18px;
+	  border-radius: 8px;
+	  background: rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+	}
+  .popover-ios .tip span:hover {
+    background: rgba(0, 122, 255, 0.15);
+    color: #236ee7;
+  }
+</style>
+<div id="downloadByAideModal" class="download-modal iapp-download-modal iapp-download-modal-i4">
+    <div class="download-modal-mask"></div>
+
+    <div class="download-modal-content">
+      <span class="download-modal-close">
+        <img src="https://d-image.i4.cn/i4web/static2025/images/icon-del.svg" width="24" />
+      </span>
+
+      <p class="modal-title">
+        <span>下载 爱思助手 客户端</span>
+        <span>支持 Windows、Mac OS、iOS、Android、Linux 系统</span>
+      </p>
+
+      <ul class="download-pro-list">
+        <li class="download-pro-item active">
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-win.svg" width="32" />
+            <span class="name">Windows</span>
+          </div>
+        </li>
+        <li class="download-pro-item">
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-mac.svg" width="32" />
+            <span class="name">Mac OS</span>
+          </div>
+        </li>
+        <li class="download-pro-item">
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-ios.svg" width="32" />
+            <span class="name">iOS</span>
+          </div>
+        </li>
+        <li class="download-pro-item">
+          <div class="item-card">
+            <img
+              src="https://d-image.i4.cn/i4web/static2025/images/down-icon-android.svg"
+              width="32"
+            />
+            <span class="name">Android</span>
+          </div>
+        </li>
+        <li class="download-pro-item">
+          <div class="item-card">
+            <img
+              src="https://d-image.i4.cn/i4web/static2025/images/down-icon-linux.svg"
+              width="32"
+            />
+            <span class="name">Linux</span>
+          </div>
+        </li>
+      </ul>
+
+      <div class="iapp-download-desic iapp-download-desic-i4">
+        <img class="sj" src="https://d-image.i4.cn/i4web/static2025/images/down-icon-tips-zx.svg" />
+        <div class="iapp-desic-box">
+          <!-- windows -->
+          <div class="iapp-desic-item active">
+            <div class="iapp-item-btn-box">
+              <div class="iapp-item-btn">
+                <div class="iapp-top-title">
+                  <div class="txt version">V9.03</div>
+                  <div class="txt">2025-09-21</div>
+                </div>
+                <a class="link-btn" data-agl-cvt="6" href="https://url.i4.cn/bUjmeyaa">
+                  <span class="num">64位</span>
+                  <span class="line"></span>
+                  <span>245MB</span>
+                  <span class="tips tips64">适用于本机</span>
+                </a>
+                <a class="link-btn" data-agl-cvt="6" href="https://url.i4.cn/myquyqaa">
+                  <span class="num">32位</span>
+                  <span class="line"></span>
+                  <span>238MB</span>
+                  <span class="tips tips32">适用于本机</span>
+                </a>
+              </div>
+              <div class="iapp-item-btn">
+                <div class="iapp-top-title">
+                  <div class="txt version">V8.52</div>
+                  <div class="txt">2025-09-21</div>
+                </div>
+                <a class="link-btn" data-agl-cvt="6" href="https://url.i4.cn/2MvQruaa">
+                  <span class="num">64位</span>
+                  <span class="line"></span>
+                  <span>238.00MB</span>
+                  <span class="tips tips64">适用于本机</span>
+                </a>
+                <a class="link-btn" data-agl-cvt="6" href="https://url.i4.cn/R7BzEfaa">
+                  <span class="num">32位</span>
+                  <span class="line"></span>
+                  <span>219.00MB</span>
+                  <span class="tips tips32">适用于本机</span>
+                </a>
+              </div>
+            </div>
+          </div>
+          <!-- macos -->
+          <div class="iapp-desic-item">
+            <div class="iapp-item-btn">
+              <div class="iapp-top-title">
+                <div class="txt">2025-09-18</div>
+              </div>
+              <a class="link-btn" data-agl-cvt="6" href="https://url.i4.cn/fqIBBbaa">
+                <span class="num ios-num">V3.22</span>
+                <span class="line"></span>
+                <span>181.00MB</span>
+                <span class="tips tipsios">适用于本机</span>
+              </a>
+              <div class="small-desic small-desic2">请使用鼠标右键点击“安装包 > 打开”进行安装</div>
+            </div>
+          </div>
+          <!-- ios -->
+          <div class="iapp-desic-item">
+            <div class="iapp-item-details iapp-item-details2">
+              <h3 class="title">请通过“爱思助手电脑端”来安装“iOS 端”</h3>
+              <ul>
+                <li class="txt">
+                  <span>1、</span><span>安装"爱思助手的 Win/Mac/Linux 中任意一个电脑端"</span>
+                </li>
+                <li class="txt"><span>2、</span><span>打开电脑端，用数据线连接设备到电脑</span></li>
+                <li class="txt">
+                  <span>3、</span
+                  ><span
+                    >连接成功后，等待电脑端自动为设备安装移动端，或在电脑端找到“安装移动端”手动点击安装</span
+                  >
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- 安卓 -->
+          <div class="iapp-desic-item">
+            <div class="iapp-qrcode">
+              <img src="https://d-image.i4.cn/i4web/static2025/images/aisi-download-code.png" />
+              <p class="title">扫码下载 Android 客户端</p>
+            </div>
+          </div>
+          <!-- linux -->
+          <div class="iapp-desic-item">
+            <div class="iapp-item-btn">
+              <div class="iapp-top-title iapp-top-title2">
+                <div class="txt version">V3.08.002</div>
+                <div class="txt">2025-08-04</div>
+              </div>
+              <div class="link-btns-box">
+                <a
+                  class="link-btn link-btn2"
+                  data-agl-cvt="6"
+                  href="https://url.i4.cn/6nMne2aa"
+                >
+                  <span class="num">deb</span>
+                  <span class="line"></span>
+                  <span>159MB</span>
+                </a>
+                <a class="link-btn link-btn2" data-agl-cvt="6" href="https://url.i4.cn/2EjiIvaa">
+                  <span class="num">rpm</span>
+                  <span class="line"></span>
+                  <span>159MB</span>
+                </a>
+              </div>
+              <div class="small-desic small-desic3">
+                <div>
+                  deb 文件若双击安装无效，请使用命令行安装 sudo dpkg -i yourpath/i4tools.deb
+                </div>
+                <div class="small-desic-pt">
+                  rpm 文件若双击安装，请使用命令行安装 rpm -ivh --nodeps yourpath/i4tools.rpm
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="download-pro-foot">
+        <p>Mac 系版安装包，请使用鼠标右键点击“安装包 > 打开”进行安装</p>
+        <p>Linux 系统 deb 文件若双击安装无效，请使用命令行安装 sudo dpkg -i yourpath/i4tools.deb</p>
+        <p>
+          Linux 系统 rpm 文件若双击安装，请使用命令行安装 rpm -ivh --nodeps yourpath/i4tools.rpm
+        </p>
+      </div>
+    </div>
+  </div>
+<script>
+	$('.download-modal-close').on('click', function(e) {
+		e.preventDefault();
+		$('.download-modal').removeClass('show');
+		$('body').css('overflow', 'auto');
+	});
+
+	$('#btnOpenPC').on('click', function() {
+		if (navigator.userAgent.toLocaleLowerCase().indexOf('mac') > -1) {
+			var oFrm = document.createElement('iframe');
+			oFrm.style.height = '0px';
+			oFrm.src = 'PCi4Tools://1';
+			document.body.appendChild(oFrm);
+			setTimeout(function() {
+				oFrm.remove();
+			}, 5000);
+			return;
+		} else {
+			//pc
+			window.location = 'PCi4Tools://';
+		}
+	})
+
+	$(document).ready(function() {
+		$('.iapp-download-modal-i4 .download-pro-item').on('mouseenter', function() {
+			var index = $(this).index();
+			$(this).addClass('active').siblings().removeClass('active');
+			$('.iapp-download-desic-i4 .iapp-desic-item').eq(index).addClass('active').siblings()
+				.removeClass('active');
+			$('.iapp-download-desic-i4 .sj').css({
+				'left': (((120 + 24) * index) + 60) + 'px'
+			});
+		});
+	});
+
+	// 适用状态
+	var ua = window.navigator.userAgent.toLowerCase();
+	// 系统位数
+	var x86_x64 = ua.match(/x86_64|win64|wow64/) || navigator.cpuClass === 'x64' ? 'x64' : 'x86';
+	// 系统
+	var winMac = /Macintosh|Mac OS X/.test(navigator.userAgent) ? 'mac' : 'win';
+
+	if (winMac == 'win') {
+		if (x86_x64 === 'x32') {
+			$('.iapp-download-desic-i4 .iapp-item-btn .link-btn .tips32').show()
+		} else {
+			$('.iapp-download-desic-i4 .iapp-item-btn .link-btn .tips64').show()
+		}
+	} else {
+		$('.iapp-download-desic-i4 .tipsios').show()
+	}
+</script>
+
+  <!-- 投屏/下载-->
+	
+
+
+
+
+
+
+
+
+ <style>
+.download-pro-item:hover .popover-other,  
+.download-pro-item:hover .item-popover {
+  display: block;
+}
+.download-pro-item:hover .item-card,
+.download-pro-item .common-down-popover:hover ~ .item-card {
+  background: rgba(0, 0, 0, 0.05) !important;
+  box-shadow: none;
+}
+
+.download-pro-item .item-popover {
+  top: 130px;
+  left: 0;
+}
+.download-pro-item:last-child .item-popover {
+  left: auto;
+  right: 0;
+}
+.popover-other::before,
+.download-pro-item .item-popover::before {
+  content: '';
+  position: absolute;
+  top: -10px;
+  left: 0;
+  width: 120px;
+  height: 10px;
+  background: url('https://d-image.i4.cn/i4web/static2025/images/shadow-arrow.svg') no-repeat center;
+}
+.download-pro-item:last-child .item-popover::before {
+  left: auto;
+  right: 0;
+}
+.download-pro-item .item-popover .item:hover {
+  background: rgba(0, 0, 0, 0.05);
+}
+
+.popover-other {
+  box-sizing: border-box;
+  position: absolute;
+  top: 130px;
+  left: -50%;
+  background: #FFFFFF;
+  box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  display: none;
+}
+.popover-other::before {
+  left: 25%;
+}
+.popover-android {
+  width: 240px;
+  height: 260px;
+  text-align: center;
+}
+.popover-android .title {
+  font-size: 14px;
+  line-height: 20px;
+  color: #333333;
+  padding: 20px 0 10px;
+}
+.popover-ios {
+  box-sizing: border-box;
+  left: 0;
+  width: 440px;
+  padding: 30px;
+}
+.popover-ios::before {
+  left: 0;
+}
+.popover-ios .title {
+  width: 100%;
+  height: 52px;
+  font-size: 14px;
+  color: #333333;
+  line-height: 52px;
+  font-weight: bold;
+  text-align: center;
+  background: rgba(0, 122, 255, 0.05);
+  border-radius: 8px;
+}
+.popover-ios .desc {
+  counter-reset: item;
+  font-size: 12px;
+  color: #333333;
+  line-height: 18px;
+  padding: 15px 10px 0;
+}
+.popover-ios .desc li {
+  counter-increment: item;
+  padding: 5px 0;
+  display: flex;
+}
+.popover-ios .desc li::before {
+  content: counter(item) "、";
+  display: block;
+}
+.popover-ios .tip {
+  padding-top: 25px;
+}
+.popover-ios .tip span {
+  font-size: 12px;
+  color: #333333;
+  padding: 8px 18px;
+  border-radius: 8px;
+  background: rgba(0, 0, 0, 0.05);
+}
+</style>
+
+ <div id="downloadByProjectionModal" class="download-modal iapp-download-modal iapp-download-modal-tp">
+    <div class="download-modal-mask"></div>
+    <div class="download-modal-content">
+      <span class="download-modal-close">
+        <img src="https://d-image.i4.cn/i4web/static2025/images/icon-del.svg" width="24" />
+      </span>
+      <p class="modal-title">
+        <span>下载 爱思投屏 客户端</span>
+        <span>支持 Windows、iOS、Android 系统</span>
+      </p>
+      <ul class="download-pro-list">
+        <li class="download-pro-item active" >
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-win.svg" width="32" />
+            <span class="name">Windows</span>
+          </div>
+        </li>
+       <li class="download-pro-item" >
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-ios.svg" width="32" />
+            <span class="name">iOS</span>
+          </div>
+        </li>
+        <li class="download-pro-item" >
+          <div class="item-card">
+            <img
+              src="https://d-image.i4.cn/i4web/static2025/images/down-icon-android.svg"
+              width="32"
+            />
+            <span class="name">Android</span>
+          </div>
+        </li>
+        <li class="download-pro-item" >
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-tv.svg" width="32" />
+            <span class="name">TV</span>
+          </div>
+        </li>
+      </ul>
+	  <!-- style="left:132px;" -->
+      <div class="iapp-download-desic">
+        <img class="sj"  src="https://d-image.i4.cn/i4web/static2025/images/down-icon-tips-zx.svg" />
+        <div class="iapp-desic-box">
+          <div class="iapp-desic-item active" >
+            <div class="iapp-item-btn">
+              <div class="iapp-top-title">
+                <div class="txt version">V6.0.17</div>
+                <div class="txt">2025-09-29</div>
+              </div>
+              <a class="link-btn" href="https://url.i4.cn/32IFNzaa">
+                <span class="num">64位</span>
+                <span class="line"></span>
+                <span>148MB</span>
+                <span class="tips tips64">适用于本机</span>
+              </a>
+              <a class="link-btn" href="https://url.i4.cn/NnmAnuaa">
+                <span class="num">32位</span>
+                <span class="line"></span>
+                <span>156MB</span>
+                <span class="tips tips32">适用于本机</span>
+              </a>
+            </div>
+          </div>
+         <div class="iapp-desic-item" >
+            <div class="iapp-item-details" >
+              <h3 class="title">iOS 设备无需安装应用，具体投屏步骤如下</h3>
+             <div class="iapp-tp-ul" style="width: 100%;box-sizing: border-box;">
+				 <ul style="padding-left: 16px;">
+				   <li class="txt">
+				     <span>1、</span><span>在Windows电脑上安装“爱思投屏”</span>
+				   </li>
+				   <li class="txt"><span>2、</span><span>在iOS设备的“控制中心”中找到“屏幕镜像”</span></li>
+				   <li class="txt">
+				     <span>3、</span
+				     ><span
+				       >点开屏幕镜像后，在列表中选择主机发起投屏</span
+				     >
+				   </li>
+				   <li class="txt">
+				     <span>4、</span
+				     ><span
+				       >或使用USB数据线将手机与电脑连接后发起投屏</span
+				     >
+				   </li>
+				 </ul>
+			 </div>
+            </div>
+          </div>
+          <div class="iapp-desic-item" >
+            <div class="iapp-qrcode">
+              <img
+                src="https://d-image.i4.cn/i4web/static2025/images/tp-download-code.png"
+              />
+              <p class="title">扫码下载 Android 客户端</p>
+            </div>
+          </div>
+          <div class="iapp-desic-item" >
+            <div class="iapp-item-btn">
+              <div class="iapp-top-title">
+                <div class="txt">2025-10-13</div>
+              </div>
+              <a class="link-btn" href="https://url.i4.cn/VJfErmaa">
+                <span class="num ios-num">V1.0.17</span>
+                <span class="line"></span>
+                <span>52MB</span>
+              </a>
+              <div class="small-desic">
+                下载电视版安装包，拷贝到U盘再把U盘插入电视或机顶盒USB接口，从主页文件夹中选择安装包安装
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+<script>
+  $('.download-modal-close').on('click', (e) => {
+    e.preventDefault();
+    $('.download-modal').removeClass('show');
+    // $('body').css('overflow', 'auto');
+  });
+  
+  $(document).ready(function() {
+	$('.iapp-download-modal-tp .download-pro-item').on('mouseenter', function() {
+	  var index = $(this).index();
+	  $(this).addClass('active').siblings().removeClass('active');
+	  $('.iapp-download-modal-tp .iapp-desic-box .iapp-desic-item').eq(index).addClass('active').siblings().removeClass('active');
+	  $('.iapp-download-modal-tp .iapp-download-desic .sj').css({
+	    'left': (((120+24 ) * index) + 60 )  + 'px'
+	  });   
+	});
+  });
+    // 适用状态
+    var ua = window.navigator.userAgent.toLowerCase();
+    // 系统位数
+    var x86_x64 = ua.match(/x86_64|win64|wow64/) || navigator.cpuClass === 'x64' ? 'x64' : 'x86';
+    // 系统
+    var winMac = /Macintosh|Mac OS X/.test(navigator.userAgent) ? 'mac' : 'win';
+
+    if(winMac == 'win') {
+		if(x86_x64==='x32'){
+			$('.iapp-download-modal-tp .iapp-item-btn .link-btn .tips32').show()
+		}else{
+			$('.iapp-download-modal-tp .iapp-item-btn .link-btn .tips64').show()
+		}
+    } else {
+      // $('#downloadByProjectionModal .download-pro-list').find('.item.'+winMac+' .item-title .tag').addClass('tag-local').find('i').html('(适用于本机)')
+    }
+</script>
+	
+   <!-- 远控/下载-->
+	
+
+
+
+
+ <style>
+  .download-pro-item:hover .popover-other,  
+  .download-pro-item:hover .item-popover {
+    display: block;
+  }
+  .download-pro-item:hover .item-card,
+  .download-pro-item .common-down-popover:hover ~ .item-card {
+    background: rgba(0, 0, 0, 0.05) !important;
+    box-shadow: none;
+  }
+  
+  .download-pro-item .item-popover {
+    top: 130px;
+    left: 0;
+  }
+  .download-pro-item:last-child .item-popover {
+    left: auto;
+    right: 0;
+  }
+  .popover-other::before,
+  .download-pro-item .item-popover::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 0;
+    width: 120px;
+    height: 10px;
+    background: url('https://d-image.i4.cn/i4web/static2025/images/shadow-arrow.svg') no-repeat center;
+  }
+  .download-pro-item:last-child .item-popover::before {
+    left: auto;
+    right: 0;
+  }
+  .download-pro-item .item-popover .item:hover {
+    background: rgba(0, 0, 0, 0.05);
+  }
+  
+  .popover-other {
+    box-sizing: border-box;
+    position: absolute;
+    top: 130px;
+    left: -50%;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    display: none;
+  }
+  .popover-other::before {
+    left: 25%;
+  }
+  .popover-android {
+    width: 240px;
+    height: 260px;
+    text-align: center;
+  }
+  .popover-android .title {
+    font-size: 14px;
+    line-height: 20px;
+    color: #333333;
+    padding: 20px 0 10px;
+  }
+  .popover-ios {
+    box-sizing: border-box;
+    left: 0;
+    width: 440px;
+    padding: 30px;
+  }
+  .popover-ios::before {
+    left: 0;
+  }
+  .popover-ios .title {
+    width: 100%;
+    height: 52px;
+    font-size: 14px;
+    color: #333333;
+    line-height: 52px;
+    font-weight: bold;
+    text-align: center;
+    background: rgba(0, 122, 255, 0.05);
+    border-radius: 8px;
+  }
+  .popover-ios .desc {
+    counter-reset: item;
+    font-size: 12px;
+    color: #333333;
+    line-height: 18px;
+    padding: 15px 10px 0;
+  }
+  .popover-ios .desc li {
+    counter-increment: item;
+    padding: 5px 0;
+    display: flex;
+  }
+  .popover-ios .desc li::before {
+    content: counter(item) "、";
+    display: block;
+  }
+  .popover-ios .tip {
+    padding-top: 25px;
+  }
+  .popover-ios .tip span {
+    font-size: 12px;
+    color: #333333;
+    padding: 8px 18px;
+    border-radius: 8px;
+    background: rgba(0, 0, 0, 0.05);
+  }
+  </style>
+  
+ <div
+    id="downloadByRemoteModal"
+    class="download-modal iapp-download-modal iapp-download-modal-yk"
+  >
+    <div class="download-modal-mask"></div>
+    <div class="download-modal-content">
+      <span class="download-modal-close">
+        <img src="https://d-image.i4.cn/i4web/static2025/images/icon-del.svg" width="24" />
+      </span>
+      <p class="modal-title">
+        <span>下载 爱思远控 客户端</span>
+        <span>支持 Windows、Mac OS、iOS、Android 系统</span>
+      </p>
+      <ul class="download-pro-list">
+        <li class="download-pro-item active">
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-win.svg" width="32" />
+            <span class="name">Windows</span>
+          </div>
+        </li>
+        <li class="download-pro-item">
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-mac.svg" width="32" />
+            <span class="name">Mac OS</span>
+          </div>
+        </li>
+        <li class="download-pro-item">
+          <div class="item-card">
+            <img src="https://d-image.i4.cn/i4web/static2025/images/down-icon-ios.svg" width="32" />
+            <span class="name">iOS</span>
+          </div>
+        </li>
+        <li class="download-pro-item">
+          <div class="item-card">
+            <img
+              src="https://d-image.i4.cn/i4web/static2025/images/down-icon-android.svg"
+              width="32"
+            />
+            <span class="name">Android</span>
+          </div>
+        </li>
+      </ul>
+
+      <div class="iapp-download-desic iapp-download-desic-yk">
+        <img class="sj" src="https://d-image.i4.cn/i4web/static2025/images/down-icon-tips-zx.svg" />
+        <div class="iapp-desic-box">
+          <div class="iapp-desic-item active">
+            <div class="iapp-item-btn iapp-item-btn-yk">
+              <div class="iapp-top-title">
+                <div class="txt version">V1.2.19</div>
+                <div class="txt">2025-07-29</div>
+              </div>
+              <a class="link-btn" href="https://url.i4.cn/bYrIvyaa">
+                <span class="num">64位</span>
+                <span class="line"></span>
+                <span>117MB</span>
+                <span class="tips tips64">适用于本机</span>
+              </a>
+              <a class="link-btn" href="https://url.i4.cn/ZVfUreaa">
+                <span class="num">32位</span>
+                <span class="line"></span>
+                <span>95.9MB</span>
+                <span class="tips tips32">适用于本机</span>
+              </a>
+            </div>
+          </div>
+          <div class="iapp-desic-item">
+            <div class="iapp-item-btn">
+              <div class="iapp-top-title">
+                <!-- <div class="txt version">V1.0.1</div> -->
+                <div class="txt">2023-12-29</div>
+              </div>
+              <a class="link-btn" href="https://url.i4.cn/Yb6nUjaa">
+                <span class="num ios-num">V1.0.1</span>
+                <span class="line"></span>
+                <span>103MB</span>
+				<span class="tips tips-remote-label">适用于本机</span>
+              </a>
+              <div class="small-desic2">请使用鼠标右键点击“安装包 > 打开”进行安装</div>
+            </div>
+          </div>
+          <div class="iapp-desic-item">
+            <div class="iapp-qrcode">
+              <img src="https://d-image.i4.cn/i4web/static2025/images/yk-download-code.png" />
+              <p class="title">扫码下载 iOS 客户端</p>
+            </div>
+          </div>
+          <div class="iapp-desic-item">
+            <div class="iapp-qrcode">
+              <img src="https://d-image.i4.cn/i4web/static2025/images/yk-download-code.png" />
+              <p class="title">扫码下载 Android 客户端</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <script>
+    $('.download-modal-close').on('click', (e) => {
+      e.preventDefault();
+      $('.download-modal').removeClass('show');
+      $('body').css('overflow', 'auto');
+    });
+	$(document).ready(function() {
+		$('.iapp-download-modal-yk .download-pro-item').on('mouseenter', function() {
+		  var index = $(this).index();
+		  console.log(index)
+		  $(this).addClass('active').siblings().removeClass('active');
+		  $('.iapp-download-desic-yk .iapp-desic-item').eq(index).addClass('active').siblings().removeClass('active');
+		  $('.iapp-download-desic-yk .sj').css({
+		    'left': (((120+24) * index) + 60 )  + 'px'
+		  });
+		});
+	});
+
+    // 适用状态
+    var ua = window.navigator.userAgent.toLowerCase();
+    // 系统位数
+    var x86_x64 = ua.match(/x86_64|win64|wow64/) || navigator.cpuClass === 'x64' ? 'x64' : 'x86';
+    // 系统
+    var winMac = /Macintosh|Mac OS X/.test(navigator.userAgent) ? 'mac' : 'win';
+
+    if(winMac == 'win') {
+		if(x86_x64==='x32'){
+			$('.iapp-item-btn-yk .link-btn .tips32').show()
+		}else{
+			$('.iapp-item-btn-yk .link-btn .tips64').show()
+		}
+    } else {
+			$('.iapp-download-desic-yk .tips-remote-label').show()
+    }
+  </script>
+
+  
+  <script>
+    $(document).ready(() => {
+      // ********** Swiper Banner **********
+      function updateActiveOverlay(swiper) {
+        const currentIndex = swiper.realIndex;
+        document.querySelectorAll('.swiper-banner .banner-down-wrap').forEach(overlay => {
+          overlay.classList.remove('active');
+          if (parseInt(overlay.dataset.index) === currentIndex) {
+            overlay.classList.add('active');
+          }
+        });
+      }
+      const mySwiper = new Swiper('.swiper-banner', {
+        loop: true, // 循环模式选项
+        effect: 'fade',
+        speed: 1000,
+        autoplay: {
+          delay: 3000,
+          pauseOnMouseEnter: true
+        },
+        
+        // 分页器
+        pagination: {
+          el: '.swiper-pagination',
+          clickable: true
+        },
+        on: {
+          // 初始化和滑动时更新覆盖元素显示状态
+          init: function() {
+            updateActiveOverlay(this);
+          },
+          slideChange: function() {
+            updateActiveOverlay(this);
+          },
+          slideChangeTransitionStart: function() {
+            if (this.realIndex === 1) {
+              $('.head-content').addClass('head-light');
+            } else {
+              $('.head-content').removeClass('head-light');
+            }
+          }
+        }
+      });
+
+      // banner 下载适用状态
+      var ua = window.navigator.userAgent.toLowerCase();
+      // 系统位数
+      var x86_x64 = ua.match(/x86_64|win64|wow64/) || navigator.cpuClass === 'x64' ? 'x64' : 'x86';
+      // 系统
+      var winMac = /Macintosh|Mac OS X/.test(navigator.userAgent) ? 'mac' : 'win';
+
+      if(winMac == 'win') {
+        $('.swiper-banner-content .banner-down-wrap .item.'+winMac+'.'+x86_x64 + ' .item-title .tag').addClass('tag-local').find('i').html('(适用于本机)')
+      } else {
+        // $('#downloadByAideModal .download-pro-list').find('.item.'+winMac+' .item-title .tag').addClass('tag-local').find('i').html('(适用于本机)')
+      }
+    });
+  </script>
+  <script src="https://d-image.i4.cn/i4web/static2025/js/common.js"></script>
+  
+  <script>
+  // 首页统计
+  var _hmt = _hmt || [];
+  (function() {
+    var hm = document.createElement("script");
+    hm.src = "https://hm.baidu.com/hm.js?9508070faf0f992ad8e826a5d7b9a31c";
+    var s = document.getElementsByTagName("script")[0]; 
+    s.parentNode.insertBefore(hm, s);
+  })();
+  </script>
+
+  <script type="text/javascript">
+  // 转化统计
+  window._agl = window._agl || [];
+  (function () {
+  _agl.push(
+  ['production', '_f7L2XwGXjyszb4d1e2oxPybgD']
+  );
+  (function () {
+  var agl = document.createElement('script');
+  agl.type = 'text/javascript';
+  agl.async = true;
+  agl.src = 'https://fxgate.baidu.com/angelia/fcagl.js?production=_f7L2XwGXjyszb4d1e2oxPybgD';
+  var s = document.getElementsByTagName('script')[0];
+  s.parentNode.insertBefore(agl, s);
+  })();
+  })();
+  </script>
+</body>
+</html>

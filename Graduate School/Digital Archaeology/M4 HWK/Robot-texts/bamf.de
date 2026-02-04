@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /SiteGlobals/
+Disallow: /DE/Service/
+Disallow: /EN/Service/
+Disallow: /SharedDocs/Newsletter-BSK/
+Allow: /SiteGlobals/Modules/
+Allow: /SiteGlobals/StyleBundles/
+Allow: /SiteGlobals/Frontend/
+Allow: /DE/Service/Datenschutz/
+Allow: /DE/Service/Gebaerdensprache/
+Allow: /DE/Service/LeichteSprache/
+Allow: /DE/Service/Barrierefreiheit/
+Allow: /DE/Service/Impressum/
+Allow: /DE/Service/Benutzerhinweise/
+Allow: /DE/Service/Datenschutz-SoMe/
+Crawl-delay: 30
+Sitemap: https://www.BAMF.de/XMLSitemaps/Sitemap_Index.xml

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /feed/
+Disallow: /search/
+Disallow: /blockchain$
+Disallow: /blockchain?
+Disallow: *?p
+Disallow: *?post_type
+Disallow: *?fbclid
+Disallow: *?attachment_id
+Allow: /wp-content/uploads/
+sitemap: https://www.lifegate.it/sitemap_index.xml
+sitemap: https://www.lifegate.it/google_news-sitemap.xml

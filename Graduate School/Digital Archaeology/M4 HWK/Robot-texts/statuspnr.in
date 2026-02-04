@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Sitemap: https://statuspnr.in/sitemap.xml
+Sitemap: https://statuspnr.in/sitemap_reviews.xml
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Host: https://statuspnr.in

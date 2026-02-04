@@ -1,0 +1,17 @@
+#Block only Googlebot Index With Link
+User-agent: Googlebot
+Disallow: *
+Allow: /$
+Allow: /sitemap.xml
+Allow: /bai-tap/*
+Allow: /de-thi/*
+Allow: /auth/*
+Allow: /*/bai-tap/*
+Allow: /*/de-thi/*
+Allow: /*/auth/*
+Allow: /privacy/index.html
+Allow: /ads.txt
+Allow: /app-ads.txt
+Allow: /ngan-hang-cau-hoi
+Allow: /tron-de-trac-nghiem
+Allow: /cham-phieu-trac-nghiem

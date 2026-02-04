@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /*q=*
+Disallow: /*p/inftrees*
+Disallow: /*p/inffast*
+Disallow: /*p/zlib*
+Disallow: /*p/crc32*
+Disallow: /*p/inftrees*
+Disallow: /*p/trees*
+Disallow: /*p/utils*
+Disallow: /*p/lib*
+Disallow: /*p/messages*
+Disallow: /*p/pwn*
+Disallow: /*p/adler32*
+Disallow: /*common*
+Crawl-delay: 5
+User-agent: EtaoSpider
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: Applebot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: Sogou web spider
+Disallow: /
+User-agent: Sogou inst spider
+Disallow: /
+User-agent: Yisouspider
+Disallow: /
+User-agent: 360Spider
+Disallow: /
+Sitemap: https://zenplus.jp/sitemap

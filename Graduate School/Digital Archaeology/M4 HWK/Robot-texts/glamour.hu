@@ -1,0 +1,25 @@
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: *
+Disallow: /*zglos-naruszenie.html
+Disallow: /*odpowiedz.html
+Disallow: /*komentuj.html
+Disallow: /*?fb_*
+Disallow: /*dodaj-watek.html
+Disallow: /*watek-odpowiedz.html
+Disallow: /*odpowiedz-cytuj.html
+Disallow: /*td-naruszenie-zasad.html
+Disallow: /plusz/coupon-data
+
+Allow: /
+
+Sitemap: https://www.glamour.hu/sitemap-stories-by-month-index.xml.gz
+Sitemap: https://www.glamour.hu/sitemap-taxonomy.xml.gz
+Sitemap: https://www.glamour.hu/sitemap-stories-latest-latest.xml.gz
+Sitemap: https://www.glamour.hu/sitemap-service-nodes.xml.gz
+Sitemap: https://www.glamour.hu/sitemap-stories-news-news.xml.gz
+Sitemap: https://www.glamour.hu/sitemap-authors.xml.gz

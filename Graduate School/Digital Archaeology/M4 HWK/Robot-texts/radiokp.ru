@@ -1,0 +1,61 @@
+User-agent: YandexNews
+Allow: /
+
+User-agent: Yandex
+Disallow: /web.config
+Disallow: /admin
+Disallow: /filter/tips
+Disallow: /search
+Disallow: /user/
+Disallow: /index.php
+
+Clean-Param: date&feature&from&fullscreen&next&prev
+Clean-Param: cid&id&uid&vid&id&_ga&from&openstat&_gl_ga&_wrapper_format&search_api_fulltext
+Clean-Param: utm_source&utm_medium&utm_campaign&utm_referrer&utm_term&matchtype&network&device&creative&keyword&placement&adposition
+Clean-Param: amp&page&ldc&_gl&mediaId
+
+User-agent: GoogleBot
+Disallow: /web.config
+Disallow: /admin
+Disallow: /filter/tips
+Disallow: /search
+Disallow: /user/
+Disallow: /index.php
+
+User-agent: *
+Disallow: /web.config
+Disallow: /admin
+Disallow: /filter/tips
+Disallow: /search
+Disallow: /user/
+Disallow: /index.php
+Disallow: /*_gl=
+Disallow: /*_ga
+Disallow: /*_wrapper_format=
+Disallow: /?amp$
+Disallow: /*search_api_fulltext=
+Disallow: /*from=
+Disallow: /*fullscreen=
+Disallow: /*next=
+Disallow: /*page=
+Disallow: /*vid=
+Disallow: /*cid=
+Disallow: /*id=
+Disallow: /*uid=
+Disallow: *from=
+Disallow: *openstat=
+Disallow: *utm*=
+Disallow: *matchtype=
+Disallow: *network=
+Disallow: *device=
+Disallow: *creative=
+Disallow: *keyword=
+Disallow: *placement=
+Disallow: *adposition=
+
+Sitemap: https://radiokp.ru/sitemap.xml
+Sitemap: https://radiokp.ru/amp_google/sitemap.xml
+Sitemap: https://radiokp.ru/rss/google.xml
+Sitemap: https://radiokp.ru/category/sitemap.xml
+Sitemap: https://radiokp.ru/sitemap-fast.xml
+Sitemap: https://radiokp.ru/persons_sitemap.xml

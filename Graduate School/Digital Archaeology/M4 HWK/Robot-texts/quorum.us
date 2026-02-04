@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /api/post
+Allow: /api/sheet
+Disallow: /recover
+Disallow: /accounts
+Disallow: /static/downloads/First-Look.docx
+
+Host: https://www.quorum.us
+Sitemap: https://www.quorum.us/sitemap_index.xml

@@ -1,0 +1,4 @@
+User-agent: *
+Sitemap: https://www.helsenorge.no/sitemap.xml
+Disallow: /EPiServer/CMS/
+Disallow: /Util/

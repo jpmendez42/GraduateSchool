@@ -1,0 +1,9 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Allow: /en/
+Disallow: /*params=*
+Disallow: /en/*params=*
+
+Sitemap: https://www.businessfrance.fr/sitemap_index.xml
+# END nuxt-robots

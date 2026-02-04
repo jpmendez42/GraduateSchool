@@ -1,0 +1,40 @@
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# Disallow: /
+User-agent: *
+Disallow: /socialauth
+Disallow: /registration
+Disallow: /password-recovery
+Disallow: /rt/mailing
+Disallow: /last_messages.php
+Disallow: /220volt
+Disallow: /-sibyt
+Disallow: /price_internet.html
+Disallow: /print.php
+Disallow: /promo/codfest
+Disallow: /reclame/?auction
+Disallow: /socialauth/vk
+Disallow: /stream
+Disallow: /valenki
+Disallow: /video
+Disallow: /~contplus
+Disallow: /~dms
+Disallow: /~elvit
+Disallow: /~goose
+Disallow: /~grandtour
+Disallow: /~ladaavto
+Disallow: /~nera
+Disallow: /~niva
+Disallow: /~petra
+Disallow: /~rus_krg
+Disallow: /~school
+Disallow: /~semico
+Disallow: /~sibinfo
+Disallow: /~sibyt
+Disallow: /~zerno
+Disallow: /~zonov
+User-agent: Yandex
+Clean-param: next /profile/login
+Sitemap: https://www.sibnet.ru/sitemap.xml
+Host: https://www.sibnet.ru

@@ -1,0 +1,10 @@
+Sitemap: https://www.el.gr/sitemap.xml
+Sitemap: https://www.el.gr/news-sitemap.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.el.gr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

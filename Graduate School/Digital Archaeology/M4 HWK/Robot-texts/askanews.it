@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /tag/
+Disallow: /top10/
+Disallow: /page/
+Disallow: /indice_sitemap/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: AmazonAdBot
+Disallow:

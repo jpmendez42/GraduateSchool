@@ -1,0 +1,13 @@
+﻿User-agent: *
+Disallow: /static/*
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+Sitemap: https://sambad.in/webcontent-sitemap.xml
+Sitemap: https://sambad.in/category-sitemap.xml
+Sitemap: https://sambad.in/news-sitemap.xml
+Sitemap: https://sambad.in/webstory-sitemap.xml

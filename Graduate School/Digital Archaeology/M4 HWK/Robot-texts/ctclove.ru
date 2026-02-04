@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /search
+Disallow: ?
+Allow: /?page
+Disallow: index.php
+Disallow: /index.php
+Disallow: /admin/
+Disallow: *?utm
+Disallow: *ysclid
+Disallow: *yadclid
+Disallow: *yadclid
+Host: https://ctclove.ru
+Sitemap: https://ctclove.ru/sitemap.xml

@@ -1,0 +1,23 @@
+User-agent: *
+
+Allow: /
+
+Disallow: /admin.php
+Disallow: /account/
+Disallow: /mitglied/
+Disallow: /conversations/
+Disallow: /login/
+Disallow: /register/
+Disallow: /lost-password/
+Disallow: /logout/
+Disallow: /search/*
+Disallow: /proxy.php
+
+Disallow: /whats-new/posts/*
+Disallow: /whats-new/latest-activity?before_id=*
+
+Disallow: /forum/informationen-fuer-neue-user-und-vorstellungen.4/*
+Disallow: /forum/anregungen-zum.2/*
+Disallow: /forum/alte-erledigte-anregungen.3458/*
+
+Sitemap: https://www.android-hilfe.de/sitemap.php

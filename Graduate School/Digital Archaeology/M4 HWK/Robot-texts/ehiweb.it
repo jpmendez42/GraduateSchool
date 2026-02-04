@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Allow: /ac/web/domini/
+Disallow: /ac/
+ 
+Sitemap: https://www.ehiweb.it/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

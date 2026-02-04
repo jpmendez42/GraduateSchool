@@ -1,0 +1,81 @@
+User-agent: AhrefsBot
+Crawl-delay: 30
+
+User-agent: DotBot
+Crawl-delay: 30
+
+User-agent: YandexBot
+Crawl-delay: 30
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: *
+Disallow: /*_*/search
+Disallow: /*_*/wishlist
+Disallow: /*_*/cart
+Disallow: /*_*/checkoutlogin
+Disallow: /*_*/checkout*
+Disallow: /*_*/Resources-Load
+Disallow: /*_*/giftcertpurchase
+Disallow: /*_*/Cart-AddProduct
+Disallow: /*_*/Cart-MiniAddProduct
+Disallow: /*_*/wallet
+Disallow: /*_*/Wishlist-SetShippingAddress
+Disallow: /*_*/Product-GetBonusProducts
+Disallow: /*_*/Address-Delete
+Disallow: /*_*/Cart-AddBonusProduct
+Disallow: /*_*/Search-GetSuggestions
+Disallow: /*_*/COBilling-UpdateSummary
+Disallow: /*_*/COBilling-SelectCreditCard
+Disallow: /*_*/COShipping-UpdateAddressDetails
+Disallow: /*_*/COBilling-UpdateAddressDetails
+Disallow: /*_*/COShipping-GetApplicableShippingMethodsJSON
+Disallow: /*_*/COShipping-UpdateShippingMethodList
+Disallow: /*_*/COShipping-SelectShippingMethod
+Disallow: /*_*/COBilling-ResetPaymentForms
+Disallow: /*_*/compare
+Disallow: /*_*/Compare-AddProduct
+Disallow: /*_*/Compare-RemoveProduct
+Disallow: /*_*/COBilling-GetGiftCertificateBalance
+Disallow: /*_*/Cart-AddCoupon
+Disallow: /*_*/Stores-StockCheck
+Disallow: /*_*/COShipping-HomeReview
+Disallow: /*_*/COShipping-HomeNewAddress
+Disallow: /*_*/COShippingPickup-Review
+Disallow: /*_*/COShippingPickup-PostNLPickupConfirmation
+Disallow: /*_*/COShippingPickup-PostNLPickupSelect
+Disallow: /*_*/COShippingStoreCollect-Review
+Disallow: /*_*/COShippingStoreCollect-Search
+Disallow: /*_*/Adyen-ShowConfirmation
+Disallow: /*_*/Product-Variation
+Disallow: /*_*/Product-DetailsSlideout
+Disallow: /*_*/Cart-UpdateMiniCart
+Disallow: /*_*/MyLovedProducts-LocalList
+Disallow: /*_*/Product-GetAvailabilityMessage
+Disallow: /*_*/Product-Productnav
+Disallow: /*_*/Product-HitTile
+Disallow: /*_*/Page-Include
+Disallow: /*_*/MyLovedProducts-Add
+Disallow: /*_*/MyLovedProducts-UnLove
+Disallow: /*_*/Stores-PdpStores
+Disallow: *Adyen-ShowConfirmation*
+Disallow: /*_*/test
+
+Disallow: /*prefn1
+Disallow: /*prefn2
+Disallow: /*prefn3
+Disallow: /*prefv1
+Disallow: /*prefv2
+Disallow: /*prefv3
+Disallow: /*srule
+Disallow: /*pmin
+Disallow: /*quantity=undefined*
+
+# Sitemap files
+Sitemap: https://wefashion.com/nl_NL/sitemap_index.xml
+Sitemap: https://wefashion.com/nl_BE/sitemap_index.xml
+Sitemap: https://wefashion.com/fr_FR/sitemap_index.xml
+Sitemap: https://wefashion.com/de_DE/sitemap_index.xml
+Sitemap: https://wefashion.com/de_AT/sitemap_index.xml
+Sitemap: https://wefashion.com/de_CH/sitemap_index.xml

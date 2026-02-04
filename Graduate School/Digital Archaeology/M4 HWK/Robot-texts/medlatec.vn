@@ -1,0 +1,41 @@
+User-agent: *
+Sitemap: https://medlatec.vn/sitemap.xml
+Disallow: /bin/
+Disallow: /exchange/
+Disallow: /customer/
+Disallow: /order/
+Disallow: /install$
+Disallow: /install/
+Disallow: /cookiemanager
+Disallow: /login$
+Disallow: /login/$
+Disallow: /logout$
+Disallow: /logout/$
+Disallow: /register$
+Disallow: /register/$
+Disallow: /profile$
+Disallow: /profile/$
+Disallow: /identity/changepassword
+Disallow: /passwordrecovery
+Disallow: /identity/externallogin
+Disallow: /newsletter/subscriptionactivation
+Disallow: /blog/tag/
+Disallow: /blog/month/
+Disallow: /producttags/
+Disallow: /admin
+Disallow: /*pagenumber
+Disallow: /news/tag/
+Disallow: /*zlib/deflate$
+Disallow: /*utils/common$
+Disallow: /*utils/strings$
+Disallow: /*zlib/messages$
+Disallow: /*zlib/zstream$
+Disallow: /*zlib/inflate$
+Disallow: /*zlib/constants$
+Disallow: /*zlib/gzheader$
+Allow: User-agent: ChatGPT-User
+Allow: Allow: /
+Allow: User-agent: Google-Extended
+Allow: user-agent: chatgpt-user
+Allow: allow: /
+Allow: user-agent: google-extended

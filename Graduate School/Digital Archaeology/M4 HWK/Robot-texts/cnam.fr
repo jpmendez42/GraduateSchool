@@ -1,0 +1,10 @@
+User-agent: *
+Disallow:/kosmos/
+Disallow:/ksup/
+Disallow:/META_INF/
+Disallow:/WEB_INF/
+Disallow:/servlet/
+Disallow:/*.pdf$
+
+
+Sitemap: https://www.cnam.fr/sitemap.xml

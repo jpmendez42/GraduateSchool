@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /html/product/downloadlogipacs
+Disallow: /html/product/downloadremoteye
+Disallow: /html/product/downloaddicomjet
+Disallow: /html/product/downloaddicommod
+Disallow: /html/product/manualslogipacs
+Disallow: /html/product/manualsremoteye
+Disallow: /html/product/manualsdicomjet
+Disallow: /html/product/manualsdicommod
+Disallow: /html/evaluation/

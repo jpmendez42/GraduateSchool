@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: *?
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.svg
+Disallow: /partners
+Disallow: /search
+Disallow: /test1
+Disallow: /*.pdf
+Sitemap: https://t1-cloud.ru/media-files/T1Cloud/sitemap.xml
+
+User-Agent: Yandex
+Allow: *.jpg
+Allow: *.jpeg
+Allow: *.png
+Allow: *.svg
+Disallow: /partners
+Disallow: /search
+Disallow: /test1
+Disallow: /*.pdf
+Clean-param: _ga&_ym_debug&baobab_event_id&block&calltouch_tm&clckid&configUrl&device&erid&etext&fbclid&finder&icookie&match&page&wprid&yadiscount&yprqee
+Clean-param: pos&region&region_name&retargeting&roistat_visit&rrcid&searchedText&spec-param&src_pof&text&url&username&utm&utm_expid&utm_referrer&utm_source_service
+Sitemap: https://t1-cloud.ru/media-files/T1Cloud/sitemap.xml

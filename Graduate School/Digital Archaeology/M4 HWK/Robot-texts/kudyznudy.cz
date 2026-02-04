@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /admin
+Disallow: /CMSAdminControls
+Disallow: /CMSPages
+Disallow: /CMSMessages
+Disallow: /CMSModules
+Disallow: /getmedia
+Disallow: /KZN/media
+Disallow: /vyhledavani?text
+Disallow: /_t_
+Disallow: /services
+Disallow: /newslettery
+Disallow: /make.aspx
+Disallow: /registrace/reset-hesla
+Allow: /services/webpmedia.ashx
+Allow: /CMSPages/GetResource.ashx
+Sitemap: https://www.kudyznudy.cz/sitemap.xml

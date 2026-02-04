@@ -1,0 +1,11 @@
+#escludo tutti gli user agent dall'intera directory admin
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /public/
+Disallow: /app/
+Disallow: /fototessere/
+Disallow: /uso-interno-web/
+Disallow: /volantini/
+Disallow: /luminarie-2019-xmashcs/
+

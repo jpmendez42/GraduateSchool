@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: mail.tribune.bg
+Allow: /
+
+Host: tribune.bg
+
+Sitemap: https://tribune.bg/sitemap/categories_sitemap/
+Sitemap: https://tribune.bg/sitemap/posts_sitemap/
+Sitemap: https://tribune.bg/sitemap/tags_sitemap/
+Sitemap: https://tribune.bg/sitemap/authors_sitemap/
+Sitemap: https://tribune.bg/googlenews_sitemap/
+Sitemap: https://tribune.bg/sitemap/polls/

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /news/2021-09-17/aleksandr-beglov*
+Disallow: /news/2021-09-17/smolnyy-uvelichit*
+Disallow: /news/2021-12-25/novye-shkoly*
+Disallow: /news/2022-03-14/aleksandr-beglov*
+Disallow: /news/2022-03-14/glavnoe-za-den-v-peterburge*
+Disallow: /news/2022-04-28/v-peterburge-k-2024*
+Disallow: /news/2022-12-11/ekspert-prokommentiroval*
+Disallow: /news/2023-04-26/v-peterburge-v-2024*
+Disallow: /news/2023-08-22/v-byudzhete-peterburga*
+Disallow: /news/2023-07-03/v-2024-godu-v-peterburge*
+Disallow: /news/2023-04-27/gubernator-peterburga*
+Disallow: /news/2022-03-14/glavnoe-za-den-v-peterburge-14-marta*
+Disallow: /customer/*
+Disallow: /news/peterburgskij-dnevnik-na-transporte

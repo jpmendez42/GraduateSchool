@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /css/
+Disallow: /*.js$
+Disallow: /images/favicon.png
+Disallow: /informacion-cookies/
+Disallow: /informacion-cookies/?pop=up
+Disallow: /passwordForgot
+Disallow: /terminos-condiciones/
+Disallow: /politica-privacidad
+Disallow: /tandc-bono*
+Disallow: /passwordForgot
+Sitemap: https://www.yobingo.es/sitemap.xml

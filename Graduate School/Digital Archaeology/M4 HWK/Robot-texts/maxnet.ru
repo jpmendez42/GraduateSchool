@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /adm/
+Disallow: /admim
+Disallow: /cgi-bin
+Disallow: /js/
+Disallow: /old/
+Disallow: /old_copy/
+Disallow: /adress/
+Disallow: /calculator/
+Disallow: /func/
+Disallow: /scr/
+Disallow: /mdl/

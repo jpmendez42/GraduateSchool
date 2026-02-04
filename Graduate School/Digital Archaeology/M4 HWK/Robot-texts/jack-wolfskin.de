@@ -1,0 +1,28 @@
+User-Agent: *
+Disallow: *?dwcont=*
+Disallow: *?dwvar=*
+Disallow: *prefn1=*
+Disallow: */on/demandware.store/*
+Disallow: */COShipping-UpdateShippingMethodTotals*
+Disallow: */Page-Include*
+Disallow: */Page-Show*
+Disallow: */Portaldata/1/Resources/*
+Disallow: */Product-Detail*
+Disallow: */Product-GetSetItem*
+Disallow: */Product-HitTile*
+Disallow: */RedirectURL-Start*
+Disallow: /availability?pid=*
+Disallow: /Checkout*
+Disallow: /Customer-AddressBookList/
+Disallow: /Customer-EditProfile/
+Disallow: /Login-Show/
+Disallow: /m/*
+Disallow: /pagenotfound
+Disallow: /s/*
+Disallow: /Search-*?
+Disallow: /Customer-showWishlist/
+Disallow: /storefinder?*
+
+Disallow: */Library-Sites-JackWolfskin_SharedContentLib/*/Datenschutz/*
+
+Sitemap: http://www.jack-wolfskin.de/sitemap_index.xml

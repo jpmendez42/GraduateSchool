@@ -1,0 +1,56 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /search
+
+# Disallow search results
+Disallow: *s=
+
+# Disallow default feeds but keep /feed/
+Disallow: /*/feed/$
+
+Sitemap: https://www.varesenews.it/sitemap.xml
+
+Disallow: /2006/12/mafia-e-appalti-arresti-a-busto-e-gallarate/244627/
+Disallow: /2007/08/stroncato-traffico-internazionale-di-cocaina-quattro-arresti/231764/
+Disallow: /2007/10/carlo-ariosto-rimane-in-carcere/227626/
+Disallow: /2007/11/carlo-ariosto-esce-dal-carcere/227346/
+Disallow: /2008/04/ad-agrivarese-un-angolo-da-gustare-24-ore-su-24/218655/
+Disallow: /2008/05/mafia-e-finanza-arrestato-banchiere-di-lugano/216849/
+Disallow: /2008/06/42-chili-di-hascisc-dall-olanda-a-varese-tre-in-manette/213882/
+Disallow: /2011/05/rinviati-a-giudizio-i-furbetti-del-contatore/116730/
+Disallow: /2011/12/mafia-arrestato-imprenditore-a-gallarate/101052/
+Disallow: /2012/10/corruzione-e-turbativa-d-asta-arrestato-funzionario-comunale/78017/
+Disallow: /2013/10/sequestrati-anche-a-varese-i-beni-di-matteo-messina-denaro/50486/
+Disallow: /2014/11/da-varese-all-europa-e-ritorno/345591/
+Disallow: /2015/09/addio-bici-alla-schiranna/402692/
+Disallow: /2016/04/la-pizzeria-rubava-la-corrente-denunciato-il-titolare/506314/
+Disallow: /2016/10/fonsai-condanna-per-ligresti-una-speranza-per-i-risparmiatori/559122/
+Disallow: /2018/01/irene-stata-ritrovata-milano-sta-bene-ed-gia-suoi-genitori/684747/
+Disallow: /2018/01/irene-scomparsa-venerdi-suoi-genitori-chiedono-aiuto/683863/
+Disallow: /2018/01/proseguono-le-ricerche-irene-scomparsa-venerdi/684339/
+Disallow: /2011/06/smaltimento-di-rifiuti-pericolosi-arrestato-il-patron-del-riso-scotti/115645/
+Disallow: /2009/02/terremoto-ai-mastini-esonerato-malfatti/201197/
+Disallow: /2002/03/paolo-paoli-da-professore-di-liceo-a-presunto-falsario/289189/
+Disallow: /2004/05/sotto-inchiesta-gli-appalti-nella-sicurezza-otto-arresti/294604/
+
+#MICROSOFT BOTS
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+#YAHOO BOTS
+User-agent: Slurp
+Crawl-delay: 30
+
+User-agent: Yahoo! Slurp
+Crawl-delay: 30
+
+User-agent: AhrefsBot 
+Crawl-Delay: 10
+
+User-agent: *
+Crawl-delay: 30

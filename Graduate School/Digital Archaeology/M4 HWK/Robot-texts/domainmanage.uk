@@ -1,0 +1,453 @@
+<!doctype html>
+<html class="no-js" lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Language" content="en">
+    <meta name="description" content="Domain Manage">
+    <meta name="keywords" content="">
+    <meta name="author" content="Domain Manage">
+    <title>Domain Manage – A Leading Domain Brokerage & Marketplace</title>
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <meta name="description" content="Domain Manage is the place to buy, sell & find valuable premium domain names. We make buying, selling and transferring domain names simple, fast and secure.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/9736c76e3e.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href='/assets/css/main.css'>
+    <link rel="stylesheet" href=' assets/css/search.css'>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+</head>
+<style>
+    .hero{
+    padding-bottom: 0px;
+}
+.hero__content{
+    padding-bottom: 0px;
+}
+h1 {
+    font-size: 3.250rem;
+}
+.home-box {
+        display: inline-block;
+        width: 50%;
+    }
+@media  only screen and (max-width: 1023px) {
+    .home-box {
+        text-align: center; 
+        display: block;
+        width: auto;
+    }
+}
+</style>
+
+<body>
+
+    <!--[if IE]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+<![endif]-->
+
+    <a href="#maincontent" class="skip-link">Skip to main content</a>
+    <header class="header">
+        <div class="wrapper">
+            <div class="header__flex">
+                <a href="/">
+                    <h2 class="header__logo" title="Domain Manage" role="img" aria-label="Domain Manage Logo">
+                        <span class="hidden">Domain Manage</span>
+                    </h2>
+                </a>
+                <nav role="navigation" aria-label="Main Menu">
+                    <button class="open-button" aria-expanded="false" aria-haspopup="menu" aria-controls="main-menu" aria-label="Open Main Navigation">
+                        <div class="hidden">Open Menu</div>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </button>
+                    <ul class="menu" id="main-menu">
+                        <li><a href="https://domainmanage.com/buy-a-domain" rel="noopener">Buy Domains</a></li>
+                        <li><a href="https://domainmanage.com/contact"  rel="noopener">Contact</a> </li>
+                        <li><a class="button button--outline" href="https://domainmanage.com/login" rel="noopener">Login</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <div class="main-image">
+        <img src='/assets/img/intro-img.png' alt="" />
+    </div>
+    <main id="maincontent" class="padding-header">
+        <div class="wrapper">
+            <div class="hero">
+                <div class="hero__content" style="width: 100%;text-align: center;">
+                    <h1>Craft Your Idea, Embrace
+                     <div class="home-box">Your Vision, Define Your</div>
+                     <div class="home-box">Identity.</div></h1>
+                    
+                    
+                </div>
+            </div>
+            <div class="col-12 col-lg-6" style="margin:0 auto 200px auto;">
+                        <form class="search-bar" action="https://domainmanage.com/search-a-domain" id="domain-search-form">
+                             <input type="hidden" name="_token" value="MOejNRH8J3nVEgR8BCNZ5T3oVoTMIjlCD9gju8z6">
+                          <input type="text" placeholder="Let’s Begin......" name="search" id="searchInput" required>
+                          <button type="submit"><i class="bi bi-arrow-right mob-search"></i><span class="pc-search">Search</span></button>
+                        </form>
+                    </div>
+
+            <div class="information">
+                <div class="information__left">
+                    <img src='/assets/img/img-candy.png' class="candy" alt="Domain Manage">
+
+                    <h2 class="title-line">Rare Domains</h2>
+                    <p class="large">Discover brilliance in uniqueness. Rare domains are your business's exclusive identity.</p>
+
+                    <ul class="list-group list-group-flush list-group--light">
+
+                       
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/vips.com" rel="noopener">vips.com</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/vips.com" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/dogs.org" rel="noopener">dogs.org</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/dogs.org" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/monologue.com" rel="noopener">monologue.com</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/monologue.com" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/l7.com" rel="noopener">l7.com</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/l7.com" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/gi.com" rel="noopener">gi.com</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/gi.com" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/stargate.org" rel="noopener">stargate.org</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/stargate.org" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/louis.com" rel="noopener">louis.com</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/louis.com" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/martialarts.com" rel="noopener">martialarts.com</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/martialarts.com" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                        
+                                <li>
+                            <strong>
+                                <a href="https://www.domainmanage.com/buy-a-domain/ia.com" rel="noopener">ia.com</a>                         
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/ia.com" rel="noopener">Make offer</a>
+
+                                                            </span>
+                        </li>
+                                                
+                    </ul>
+                    <a href="https://domainmanage.com/buy-a-domain" class="link-line">View full listings</a>
+
+                </div>
+
+                <div class="information__right">
+                    <h2 class="title-line">Featured Domains</h2>
+                    <p class="large">Find the perfect premium domain that will help your business shine brilliantly and authentically online.</p>
+                    <ul class="list-group list-group-flush list-group--dark">
+
+                        
+                         
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/de.al" rel="noopener" style="color:#FFFFFF;font-weight:500">de.al</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/de.al" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/agent2agent.com" rel="noopener" style="color:#FFFFFF;font-weight:500">agent2agent.com</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/agent2agent.com" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/int.org" rel="noopener" style="color:#FFFFFF;font-weight:500">int.org</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/int.org" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/vjm.com" rel="noopener" style="color:#FFFFFF;font-weight:500">vjm.com</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/vjm.com" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/pizzadelivery.com" rel="noopener" style="color:#FFFFFF;font-weight:500">pizzadelivery.com</a>
+
+                            </strong><span>
+                                                                                                 <a href="https://www.domainmanage.com/buy-a-domain/pizzadelivery.com" rel="noopener" style="color:#FFFFFF;font-weight:500">$125,000</a>
+                                                                                            </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/kzdd.com" rel="noopener" style="color:#FFFFFF;font-weight:500">kzdd.com</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/kzdd.com" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/adtraffic.com" rel="noopener" style="color:#FFFFFF;font-weight:500">adtraffic.com</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/adtraffic.com" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/ymo.com" rel="noopener" style="color:#FFFFFF;font-weight:500">ymo.com</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/ymo.com" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/pzu.com" rel="noopener" style="color:#FFFFFF;font-weight:500">pzu.com</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/pzu.com" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                        
+                                                          <li style="color:#FFF000">
+                            <strong>
+ 
+                                <a href="https://www.domainmanage.com/buy-a-domain/ira.org" rel="noopener" style="color:#FFFFFF;font-weight:500">ira.org</a>
+
+                            </strong><span>
+                                
+                                <a href="https://www.domainmanage.com/buy-a-domain/ira.org" rel="noopener" style="color:#FFFFFF;font-weight:500">Make offer</a>
+
+                                                             </span>
+                        </li>
+                                                
+                    </ul>
+                    <a href="https://domainmanage.com/buy-a-domain" class="link-line">View full listings</a>
+                </div>
+            </div>
+            <div class="information">
+                <div class="information__left">
+                    <h2 class="title-line">Raise Finance</h2>
+                    <p class="large large--padding-right">If you have a website, domain name or digital portfolio and are looking to raise some money — we can help.</p>
+                    <a href="https://domainmanage.com/domain-loans" rel="noopener" class="button">Apply Now</a><br />
+                    <a href="https://domainmanage.com/domain-valuation" class="link-line link-line--margin-bottom">Value your assets</a>
+                    <p>For more information and to find out how raising finance can help you to raise the
+                        capital you need to boost your business, contact us to speak with one of our advisors.</p>
+                </div>
+                <div class="information__image">
+                    <div class="special-image">
+                        <img src='/assets/img/img-phone.png' alt="">
+                    </div>
+                    <div class="special-footer">
+                        <img src='/assets/img/img-tri.svg' alt="">
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+         <div class="secondary-background">
+            <div class="wrapper">
+                <div class="carousel">
+                    <div class="carousel__item">
+                        <div class="wrapper">
+                            <div class="carousel__flex">
+                                <div class="carousel__content">
+                                    <h3 class="title-line">Why people trust Domain Manage</h3>
+                                    <h2>24/7 Customer Support</h2>
+                                    <p class="large">We are on hand to help at every stage of the process.</p>
+                                </div>
+                                <div class="carousel__image">
+                                    <img src='/assets/img/support-desk.png' alt="" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="carousel__item">
+                        <div class="wrapper">
+                            <div class="carousel__flex">
+                                <div class="carousel__content">
+                                    <h3 class="title-line">Why people trust Domain Manage</h3>
+                                    <h2>A family business</h2>
+                                    <p>Part of a multi-generational family office which is driven to empower people from around the world to become more financially astute.</p>
+                                </div>
+                                <div class="carousel__image">
+                                    <img src='/assets/img/office-illustration.png' alt="" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </main>
+
+        <footer class="footer">
+        <div class="wrapper">
+            <div class="footer__flex">
+                <div class="footer__col">
+                    <img class="footer__logo" src='/assets/img/domain-manage-logo.svg' alt="" />
+                    <p><b>Copyright &copy; Domain Manage. All rights reserved.</b></p>
+
+                    <p>Domain Manage Dot Com LTD <br>
+                        Registered office: 21 Bonny Street, London, NW1 9PE<br>
+                        Part of <a class="ew3n" href="https://www.ew3n.com/">EW3N LTD</a></p>
+                </div>
+                <div class="footer__col">
+                    <h3 class="title-line">Contact</h3>
+                    <p>Domain Manage<br>
+                        21 Bonny Street<br>
+                        London<br>
+                        NW1 9PE</p>
+                    <p><a href="tel:+442071831437">+44 207 183 1437</a></p>
+                </div>
+
+                <div class="footer__col">
+                    <h3 class="title-line">Services</h3>
+                    <ul>
+                        <li><a href="https://domainmanage.com/buy-a-domain" rel="noopener">Buy Domains</a></li>
+                        <li><a href="https://domainmanage.com/sell-a-domain" rel="noopener">Sell Domains</a></li>
+                        <li><a href="https://domainmanage.com/domain-loans" rel="noopener">Domain Loans</a></li>
+                        
+                        <li><a href="https://domainmanage.com/liquidity-hour" rel="noopener">Liquidity Hour</a></li>
+                        <li><a href="https://domainmanage.com/domain-parking" rel="noopener">Domain Parking</a></li>
+                        <li><a href="https://domainmanage.com/daily-diamonds" rel="noopener">Daily Diamonds</a></li>
+                         <li><a href="https://domainmanage.com/pattern-search" rel="noopener">Pattern Search</a></li>
+                         
+                    </ul>
+                </div>
+
+                <div class="footer__col">
+                    <h3 class="title-line">Legal</h3>
+                    <ul>
+                         <li><a href="https://domainmanage.com/about" rel="noopener">About</a></li>
+                         <li><a href="https://domainmanage.com/investors" rel="noopener">Investors</a></li>
+                        <li><a href="" rel="noopener">Privacy Policy </a></li>
+                        <li><a href="" rel="noopener">Terms & Conditions</a></li>
+                        <li><a href="https://domainmanage.com/contact" rel="noopener">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <script src='/assets/js/main-min.js'></script>
+
+</body>
+
+</html>

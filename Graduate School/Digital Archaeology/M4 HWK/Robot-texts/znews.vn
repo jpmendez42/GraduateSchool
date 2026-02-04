@@ -1,0 +1,14 @@
+User-agent: * 
+Disallow: /*_escaped_fragment_
+Disallow: /*fb_comment_id
+Disallow: /*ArticleID 
+Disallow: /*tagid 
+Disallow: /preview/
+Allow: /
+Sitemap: https://znews.vn/sitemap/sitemap.xml
+Sitemap: https://znews.vn/sitemap/sitemap-news.xml
+Sitemap: https://znews.vn/sitemap/cate/thoi-su.xml
+Sitemap: https://znews.vn/sitemap/cate/phap-luat.xml
+Sitemap: https://znews.vn/sitemap/cate/the-gioi.xml
+Sitemap: https://znews.vn/sitemap/cate/giai-tri.xml
+Sitemap: https://znews.vn/sitemap/cate/the-thao.xml

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cms/Config/
+Disallow: /cms/Controller/
+Disallow: /cms/Model/
+Disallow: /content/uploads/users/
+Disallow: /engine/
+Disallow: /vendor/
+Disallow: /js/
+Disallow: /search/
+Disallow: *?
+Clean-param: utm&alt&id&whoLength
+Clean-param: pmch

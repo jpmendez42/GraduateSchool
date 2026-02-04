@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /wcf/members-list/*
+Disallow: /user-post-list/*
+Disallow: /wcf/user/*
+Disallow: /thread/*
+Disallow: /unread-thread-list/*
+Disallow: /wcf/recent-activity-list/*
+Disallow: /wcf/users-online-list/*
+Disallow: /wcf/dashboard/*
+
+
+Sitemap: https://www.esbgforum.de/wcf/sitemaps/sitemap.xml

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /uploads/
+Disallow: /gift-cards/certificate/
+Disallow: /*?srsltid=
+Disallow: /ajax/block/same-series/*
+Disallow: /ajax/block/related/*
+Disallow: /ajax/block/personal/*
+Disallow: /ajax/block/viewed/*
+Disallow: /ajax/block/sales/*
+Host: https://makeup.pl
+Sitemap: https://makeup.pl/sitemap/sitemap.xml
+
+User-agent: Pinterestbot
+Disallow: /

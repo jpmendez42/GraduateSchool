@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /php_error.php
+Disallow: /till/
+Disallow: /scripts/
+Sitemap: https://www.elbruk.se/sitemap.xml
+Disallow: /blogg/comments/get_comments.php

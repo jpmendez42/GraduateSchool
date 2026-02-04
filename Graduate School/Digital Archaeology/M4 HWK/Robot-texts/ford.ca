@@ -1,0 +1,6 @@
+#robots.txt for www.Ford.ca - Ryan - 202002006
+User-agent: *
+Disallow: /search/
+Disallow: /akamai/
+Disallow: /profile/
+Disallow: *chipsoverlayclose*

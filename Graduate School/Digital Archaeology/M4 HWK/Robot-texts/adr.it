@@ -1,0 +1,7 @@
+User-agent: serpstatbot
+Disallow: /prm-service-airlines-feedback
+
+User-agent: *
+Allow: /
+
+Sitemap: http://www.adr.it/sitemap.xml

@@ -1,0 +1,7 @@
+Sitemap: https://www.unibet.se/sitemap.xml
+
+User-agent: *
+Disallow: /betting/*/matches$
+
+User-agent: ia_archiver
+Disallow: /

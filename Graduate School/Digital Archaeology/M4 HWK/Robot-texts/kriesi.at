@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+
+Sitemap: https://kriesi.at/sitemap.rss
+
+
+Sitemap: https://kriesi.at/sitemap.xml

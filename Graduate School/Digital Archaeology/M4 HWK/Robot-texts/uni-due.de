@@ -1,0 +1,16 @@
+# robots.txt file
+# Bans all robots from listed directories
+
+#User-agent: *
+#Disallow: /~ht0209/lab2014/
+#Disallow: /~bi0058/
+#Disallow: /cms/zs-2001/htdocs/
+#Disallow: /imp/zs-2001/htdocs/
+
+User-agent: bingbot
+#Disallow: /~ht0209/lab2014/
+#Disallow: /~bi0058/
+Crawl-delay: 10
+
+User-agent: GPTBot
+Disallow: /

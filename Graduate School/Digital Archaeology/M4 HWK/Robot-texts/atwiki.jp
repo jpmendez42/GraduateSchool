@@ -1,0 +1,12 @@
+user-agent: Claudebot
+user-agent: OAI-SearchBot
+user-agent: ChatGPT-User
+user-agent: GPTBot
+user-agent: Bingbot
+user-agent: Bytespider
+
+Disallow: /wiki/
+Allow: /wiki/new
+
+User-agent: *
+Allow: /

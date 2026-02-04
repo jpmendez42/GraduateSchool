@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /preview
+Disallow: /api/preview
+
+Sitemap: https://taxfix.de/sitemap_index.xml

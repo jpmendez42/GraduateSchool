@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /(S(3scmeb55zzojhf45angwqa45))/
+Disallow: /(S(wuqgya45qc0wzw55vv3hk2i5))/
+Disallow: /(S(4tcbsz55hwklsnynzvi3z155))/
+Disallow: /(S(dynmljb32rv5222ipyswyt45))/
+Disallow: /(S(k3jwtg55je2jum4541hfly45))/
+Disallow: /(S(yzj4mc45hnxefnyquajltr55))/
+Disallow: /(S(zjxx2qz3j1qqjy55tk5vww3h)A(7tVci1qxzAEkAAAAZWZkZTMyZmItODcyYi00OTcyLTg0Y2ItOWI1NGJiMDQ2YWYzTG-y6EcdzbdOd_zpGSOkBzw1Knw1))/ 
+Disallow: /(S(iobtq545nw3chufmsqfpld55)A(3YK3YWexzAEkAAAAZTk1ODY4YjktYzA0YS00Y2Q3LTlmNjEtZmEyOTFiY2ZlOTlhO-etOuxryPMhtXLpvQLp-UG-lZY1))/
+Disallow: /18f5227b-e27b-445a-a53f-f845fbe69b40/stormcaster.js
+Disallow: /c99a4269-161c-4242-a3f0-28d44fa6ce24
+Disallow: /WS/
+Disallow: /ndcr/_next/static/*/_buildManifest.js
+Disallow: /ndcr/_next/static/*/_ssgManifest.js

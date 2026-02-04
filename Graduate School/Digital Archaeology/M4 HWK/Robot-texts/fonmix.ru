@@ -1,0 +1,19 @@
+User-Agent: *
+Disallow: /cgi-bin
+Disallow: /*/admin/
+Disallow: /*?
+Disallow: /findme/
+Disallow: /*/daft_punk
+Disallow: /*/blog/conf_bd
+Disallow: /*/payment-complete
+Disallow: /*/promo
+Disallow: /*/old_logo
+Allow: /*.css
+Allow: /*.js
+Allow: /*.jpg
+Allow: /*.png
+Allow: /*.svg
+Allow: /*.pdf
+Allow: /*.min.js
+
+Sitemap: https://fonmix.ru/sitemap.xml

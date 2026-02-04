@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /grafisk-manual
+Disallow: /manual-for-aem
+Disallow: /webbhandbok
+Disallow: /errorpages
+
+Sitemap: https://www.pensionsmyndigheten.se/sitemap.xml

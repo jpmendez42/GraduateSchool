@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /static/error/
+
+
+User-agent: msnbot
+Crawl-delay: 2
+
+User-agent: bingbot
+Crawl-delay: 2
+
+User-agent: Amazonbot
+Crawl-delay: 2
+
+User-agent: AmazonAdBot
+Crawl-delay: 2
+
+Sitemap: https://thetv.jp/static/sitemap/sitemap.xml

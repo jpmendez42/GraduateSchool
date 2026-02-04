@@ -1,0 +1,113 @@
+User-agent: *
+
+Disallow: */1000
+Disallow: /action/
+Disallow: /*/(page)/
+Disallow: /bons-plans/*/(offset)/
+Disallow: /bons-plans/shopping
+Disallow: /communaute/les-membres-voici/(offset)/*/(Letter)/*
+Disallow: /communaute/les-membres-voici/(SearchText)/*
+Disallow: /communaute/les-membres-voici/(offset)/*
+Disallow: /check_state/check
+Disallow: *connect.php?*
+Disallow: /content/search/offset/
+Disallow: /content/tipafriend/
+Disallow: /content/view/archives/*/(offset)/*
+Disallow: /content/view/archive/2/offset/0
+Disallow: /content/view/full
+Disallow: /content/view/lastarchive/*
+Disallow: /content/view/lastarchive/2
+Disallow: /content/view/plusarticles/*/(offset)/*
+Disallow: /content/view/archive/*
+Disallow: /content/view/archive/*/(offset)/*
+Disallow: /content/view/archive/*/offset/*
+Disallow: /contenu_editorial/*
+Disallow: /gains
+Disallow: /habillages
+Disallow: /inscription/nouveau
+Disallow: /layout/set/ajax/
+Disallow: /layout/set/iframe/content/view/
+Disallow: /layout/set/print/
+Disallow: /les-jeux/starbank-bourse-people
+Disallow: /media
+Disallow: /mode-people/dim-beauty-lift
+Disallow: /mode-people/dim/*
+Disallow: /monavis
+Disallow: /mon-avis
+Disallow: *news_comment.php?*
+Disallow: /participation/
+Disallow: /potins-people/nos-scoops-en-kiosque/
+Disallow: /potins-people/on-lache-rien/*
+Disallow: /prismaajaxcomment/
+Disallow: /prismasso
+Disallow: /profile2/
+Disallow: /push-abonnement
+Disallow: /push-libre
+Disallow: /rangs
+Disallow: *ranking.php?*
+Disallow: *?SearchText=*
+Disallow: /sondages/home_check
+Disallow: /starsearch/search/(SearchText)/*
+Disallow: /starsearch/search/offset/180
+Disallow: /starsearch/search/*/(Letter)/*
+Disallow: *?tit=4?*
+Disallow: /user
+Disallow: /users/guest-accounts/
+Disallow: /users/star-trek2/*
+Disallow: *?xtor%*
+Disallow: *?xtor=SEC-3?*
+Disallow: *?xts=*
+Disallow: /_ux/
+Disallow: /index.php/
+Disallow: /espace-debat/
+
+Disallow: /news-people/actu-people/laurent-delahousse-sa-nouvelle-histoire-d-amour-avec-une-actrice-francaise-514245
+Disallow: /news-people/actu-people/axelle-laffont-attaquee-sur-sa-maigreur-apres-sa-sequence-nue-dans-le-grand-journal-elle-se-defend-570725
+Disallow: /news-people/actu-people/axelle-laffont-en-larmes-se-confie-sur-une-rupture-recente-570672
+Disallow: /news-people/actu-people/nicolas-sarkozy-son-fils-sort-avec-une-star-de-la-telerealite-563631
+Disallow: /news-people/actu-people/kamel-de-loft-story-2-cite-dans-une-affaire-de-prostitution-483587
+Disallow: /news-people/actu-people/mademoiselle-agnes-est-devenue-maman-573844
+Disallow: /news-people/actu-people/julien-courbet-au-coeur-d-une-procedure-judiciaire-pour-une-reconnaissance-de-paternite-569619
+Disallow: /news-people/actu-people/priscilla-betti-en-deuil-un-ami-danseur-est-mort-dans-les-attentats-575544
+Disallow: /news-people/actu-people/stromae-a-emmenage-avec-sa-femme-578384
+Disallow: /news-people/voici-le-mag/cette-semaine-dans-voici-une-actrice-au-bout-du-rouleau-579896
+Disallow: /news-people/actu-people/thomas-langmann-une-escort-girl-l-aurait-fait-chanter-244851
+
+Disallow: /custom_archive/google/*
+Disallow: /google_search/
+Disallow: /recherche
+Disallow: /extension/voi/
+Disallow: *?test=test
+Disallow: *[[img-url]]*
+Disallow: *[[path]]*
+Disallow: /ajax/
+Disallow: *?*_gl
+Disallow: *%3F*_gl
+Disallow: *%3F*utm_
+
+User-agent: Mediapartners-Google
+User-agent: Adsbot-Google
+Disallow: /news-people/actu-people/video-gwyneth-paltrow-ultra-sexy-dans-son-dernier-film-495621
+
+User-agent: CCBot
+Disallow: /
+
+# ajout 15/05/2025
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: Trendiction/Talkwalker
+Disallow: /
+
+User-agent: Uber Metrics Technologies Unicepta
+Disallow: /
+
+User-agent: Panalis
+Disallow: /
+
+User-agent: LexisNexis
+Disallow: /
+
+Sitemap: https://www.voici.fr/sitemap/articles.xml
+Sitemap: https://www.voici.fr/sitemap/news.xml

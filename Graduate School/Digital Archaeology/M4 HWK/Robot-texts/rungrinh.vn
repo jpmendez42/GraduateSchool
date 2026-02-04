@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /profile
+Disallow: /profile/settings
+Disallow: /profile/trips
+Disallow: /profile/payment
+Disallow: /profile/history
+Sitemap: https://rungrinh.vn/sitemap.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow:
+Disallow: */tai-khoan/*
+Disallow: */tags/*
+Disallow: */log-viewer/*
+Disallow: */tim-kiem-bai-viet*
+Disallow: */danh-sach-cau-hoi*

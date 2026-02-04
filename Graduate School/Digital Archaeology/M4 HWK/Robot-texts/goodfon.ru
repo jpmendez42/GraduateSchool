@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /erotic/
+Disallow: /top/
+Disallow: /crop/
+Disallow: /notice/
+Disallow: /search/
+Disallow: /color/
+Disallow: /api/
+Disallow: /auth/
+Disallow: /moderator/
+Disallow: /inbox/
+Disallow: /ff/
+Disallow: /fm/
+Disallow: /sandbox/
+Disallow: *wallpaper-download-crop*
+Disallow: */crop/
+Disallow: */downloads/*
+Disallow: */votings/*
+Disallow: */comments/*
+Disallow: */random/*
+Disallow: /user/
+Allow: /download/
+Allow: /original/
+Host: https://www.goodfon.ru/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: AhrefsBot
+Disallow: /

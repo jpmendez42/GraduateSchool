@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /app/
+Disallow: /hypermb/
+Disallow: /payment/
+Disallow: /travel-column/wp-admin/
+Disallow: /travel-column2/
+Disallow: /error/
+Disallow: /column2/
+Disallow: /ticket/complete/
+Disallow: /cal/
+Disallow:/*/airtrip.jp
+Disallow:/ticket/search?source=
+Disallow:/ticket/search?ek_type=
+Disallow:/ticket/search?source&ek_type=
+Disallow:/ticket/search?F1Month=
+Disallow:/?tour_id=
+Sitemap: https://www.airtrip.jp/sitemap_airline.xml
+Sitemap: https://www.airtrip.jp/sitemap_airport.xml
+Sitemap: https://www.airtrip.jp/sitemap_area.xml
+Sitemap: https://www.airtrip.jp/travel-column/sitemap.xml
+Sitemap: https://www.airtrip.jp/sitemap_campaign.xml
+Sitemap: https://www.airtrip.jp/sitemap_guide.xml
+Sitemap: https://www.airtrip.jp/sitemap_other.xml
+Sitemap: https://www.airtrip.jp/sitemap_search.xml
+Sitemap: https://www.airtrip.jp/sitemap_selection.xml

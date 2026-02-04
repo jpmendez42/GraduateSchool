@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /includes
+Disallow: /tiny
+Disallow: /redimgs
+Disallow: /decouverte/
+Disallow: /imprime/
+Disallow: /recherche
+
+Sitemap: https://www.cotemaison.fr/sitemap/articles.xml
+Sitemap: https://www.cotemaison.fr/sitemap/google-news.xml

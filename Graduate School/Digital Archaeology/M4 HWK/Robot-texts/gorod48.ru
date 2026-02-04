@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /bitrix/
+Disallow: /search/
+Disallow: /*/print/
+Disallow: /*ELEMENT_CODE=
+Disallow: /*auth_service_id=
+Disallow: /*PAGEN_
+Disallow: /*print=Y
+Disallow: /news/54622/
+Disallow: /news/108590/
+Disallow: /news/319599/
+Disallow: /news/1560300/
+Disallow: /news/1894459/
+Disallow: /*/comments/
+Host: https://gorod48.ru
+Sitemap: https://gorod48.ru/sitemap.xml

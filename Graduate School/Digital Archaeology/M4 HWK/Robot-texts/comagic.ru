@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /support/marketing_tools/$
+Disallow: /authorization/$
+Disallow: /privacy_policy/$
+Disallow: /restore/$
+Disallow: /main/$
+Disallow: /prices-old/$
+Disallow: /form/$
+Disallow: /demo/$
+Disallow: /en/$
+Disallow: /promo/megafon/$
+Disallow: /promo/

@@ -1,0 +1,62 @@
+#
+# robots.txt v. 1.09
+#
+User-agent: *
+Disallow: /notizie/archivio.php*?
+Disallow: /notizie/archivio_notizie.php*?
+Disallow: /notizie/avviso.php*?
+Disallow: /notizie/header_notizia.php*?
+Disallow: /notizie/visualizza_notizia.php*?
+Disallow: /notizie/visualizza.php*?
+Disallow: /notizie-giuridiche
+Disallow: /notizie-consumatori
+Disallow: /notizie-attualita
+Disallow: /public/images/user
+Disallow: /index.php/*
+Disallow: /servizi/utility.php?ut=*
+Disallow: /user
+Disallow: /utility
+
+# AhrefsBot
+User-agent: AhrefsBot
+Crawl-Delay: 259200
+Disallow: /public
+Disallow: /images
+Disallow: /documenti
+
+# Other
+User-agent: Yandex
+Disallow: /
+User-agent: YandexBot/3.0
+Disallow: /
+User-agent: Seekport Crawler
+Disallow: /
+User-agent: SEOkicks
+Disallow:/
+User-agent: SputnikBot
+Disallow: /
+User-agent: Sputnik
+Disallow: /
+User-agent: SputnikBot/2.3
+Disallow: /
+User-agent: site.ru
+Disallow: /
+user-agent: MJ12bot
+disallow: /
+User-agent: Yeti-Mobile
+Disallow: /
+User-agent: Pi-Monster
+Disallow: /
+User-agent: DomainCrawler
+Disallow: /
+User-agent: Steeler
+disallow: /
+User-agent: Steeler/3.5
+disallow: /
+User-agent: Pandalytics/1.0
+disallow: /
+user-agent: IonCrawl
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow:

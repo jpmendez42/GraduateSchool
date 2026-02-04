@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /backoffice/
+Disallow: /ws.php
+Sitemap: https://www.brocardi.it/sitemap_index.xml.gz
+Sitemap: https://www.brocardi.it/sitemap-news.xml
+
+User-agent: Mediapartners-Google
+Disallow:

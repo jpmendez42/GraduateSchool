@@ -1,0 +1,80 @@
+User-agent: *
+Disallow: /search
+Disallow: /scheduler.php
+Disallow: /index.php
+Disallow: /home
+Disallow: /signup
+Disallow: /authent
+Disallow: /mailbox
+Disallow: /201*
+Disallow: /dailymatches
+Disallow: /messenger
+Disallow: /myaccount
+Disallow: /ajax
+Disallow: /fullsignup
+Disallow: *?Profile=*
+Disallow: *?display_ccform=*
+Disallow: *?query=*
+Disallow: *?id_itw=*
+Disallow: *?pg=*
+Disallow: *?ref=*
+Disallow: *?dtd_id=*
+Disallow: *?v=*
+Disallow: /d/
+Disallow: /m/
+Disallow: /p/geo.
+Disallow: /p/landing.
+Disallow: /p/advice.
+Disallow: /p/testi.
+Disallow: /p/vodcoaching.
+Disallow: /.typhstaging/
+Disallow: /kapstaging/
+Disallow: /p/p/
+Disallow: /apida/
+Disallow: /apimm/
+Disallow: */misc/
+Disallow: */wp-content/
+
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /
+Allow: /p/nw/
+
+User-agent: AdIdxBot
+Disallow: /
+
+User-agent: Yandex
+Disallow:/
+
+User-agent: Baiduspider
+Disallow:/
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: ScoutJet
+Disallow: /
+
+User-agent: Facebot
+Disallow:/
+
+User-agent: SearchmetricsBot
+Disallow:/
+
+User-Agent: Wget
+Disallow:/
+
+User-Agent: TurnitinBot
+Disallow:/
+
+User-Agent: HTTrack
+Disallow:/
+
+User-agent: GPTBot
+Disallow:/
+
+User-agent: CCBot
+Disallow:/
+

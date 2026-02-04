@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /de/konzerte/*-*-*/*/
+Disallow: /de/programm/*-*-*/*/
+Disallow: /en/concerts/*-*-*/*/
+Disallow: /en/whats-on/*-*-*/*/
+
+Disallow: /de/calendar/*/*-*/*/
+Disallow: /en/calendar/*/*-*/*/
+
+Allow: /de/api/*
+Allow: /en/api/*
+
+Disallow: /*?*

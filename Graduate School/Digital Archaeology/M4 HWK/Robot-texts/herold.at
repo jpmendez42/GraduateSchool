@@ -1,0 +1,44 @@
+User-agent: _
+Disallow: /servlet/
+Disallow: /data/
+Disallow: /FS/orgimg/
+Disallow: /FS/profile/
+Disallow: /FS/blog/
+Disallow: /extern/
+Disallow: /en/
+Disallow: /meinherold/
+Disallow: /newsletter/
+Disallow: /fileadmin/
+Disallow: /cms/apps/
+Disallow: /bewertungen/melden/
+Disallow: /bewertungen/admin/
+Disallow: /routenplaner/_/
+Disallow: *?*advno=_
+Disallow: *?*geo=_
+Disallow: *?*feature=_
+Disallow: *?*sort=_
+Disallow: *?*sid=_
+Disallow: /\*json$
+Disallow: /online-buchung/beauty/suche/
+
+User-agent: SentiBot
+Disallow: /
+
+User-agent: WI Job Roboter Spider Version 3
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Gigabot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+Sitemap: https://www.herold.at/sitemap.xml
+Sitemap: https://www.herold.at/blog/sitemap_index.xml
+Sitemap: https://www.herold.at/marketing/sitemap_index.xml

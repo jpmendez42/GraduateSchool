@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: https://orbi.kr/sitemap.xml
+Disallow: /write
+Disallow: /play
+Disallow: /user
+Disallow: /feed
+Disallow: /my
+Disallow: /api
+Allow: /

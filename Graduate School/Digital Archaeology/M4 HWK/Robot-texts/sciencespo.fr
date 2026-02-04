@@ -1,0 +1,105 @@
+﻿#robots.txt
+#This file is to prevent the crawling and indexing of certain partsof your site by web crawlers and spiders run by sites like Yahoo! and Google. By telling these "robots" where not to go on your site, you save bandwidth and server resources.
+User-agent: *
+Crawl-delay: 10
+
+
+#Fresque
+Disallow: /stories/admin/
+
+
+#Econofides
+Disallow: /department-economics/econofides/
+
+
+#Directories
+Disallow: /com/
+
+
+#CIVICRM
+Disallow: /agenda/
+Disallow: /agenda/civicrm/
+Disallow: /agenda/admin/
+
+
+#Sitemaps
+
+
+Sitemap: https://www.sciencespo.fr/en/sitemap-0.xml
+Sitemap: https://www.sciencespo.fr/fr/sitemap-0.xml
+
+
+#ExeEd
+Disallow: /executive-education/user/login
+Disallow: /executive-education/search/
+Disallow: /executive-education/node/
+Disallow: /executive-education/en/node/
+Disallow: /executive-education/evenements/inscription/
+Disallow: /executive-education/formez-vos-talents/
+Disallow: /formation-continue/                                           
+Disallow: /executive-education/file/                                                            
+Disallow: /executive-education/formez-vos-talents/
+Sitemap: https://www.sciencespo.fr/executive-education/en/sitemap-0.xml
+Sitemap: https://www.sciencespo.fr/executive-education/fr/sitemap-0.xml
+
+
+#K2S
+Disallow: /bibliotheque/node/
+Disallow: /bibliotheque/printmail/
+Disallow: /ceri/search/
+Disallow: /ceri/fr/search/
+Disallow: /ceri/en/search/
+Disallow: /cevipof/search/
+Disallow: /cevipof/fr/search/
+Disallow: /cevipof/en/search/
+Disallow: /chaire-madp/search/
+Disallow: /chaire-madp/fr/search/
+Disallow: /chaire-madp/en/search/
+Disallow: /chaire-sante/search/
+Disallow: /chaire-sante/fr/search/
+Disallow: /chaire-sante/en/search/
+Disallow: /cso/search/
+Disallow: /cso/fr/search/
+Disallow: /cso/en/search/
+Disallow: /cso-50ans/search/
+Disallow: /cso-50ans/fr/search/
+Disallow: /cso-50ans/en/search/
+Disallow: /departement-histoire/search/
+Disallow: /departement-histoire/fr/search/
+Disallow: /departement-histoire/en/search/
+Disallow: /departement-science-politique/search/
+Disallow: /departement-science-politique/fr/search/
+Disallow: /departement-science-politique/en/search/
+Disallow: /departement-sociologie/search/
+Disallow: /departement-sociologie/fr/search/
+Disallow: /departement-sociologie/en/search/
+Disallow: /dime-shs/search/
+Disallow: /dime-shs/fr/search/
+Disallow: /dime-shs/en/search/
+Disallow: /folie/search/
+Disallow: /folie/fr/search/
+Disallow: /folie/en/search/
+Disallow: /futurepol/search/
+Disallow: /futurepol/fr/search/
+Disallow: /futurepol/en/search/
+Disallow: /hetmat/search/
+Disallow: /hetmat/fr/search/
+Disallow: /hetmat/en/search/
+Disallow: /inclusive/search/
+Disallow: /inclusive/fr/search/
+Disallow: /inclusive/en/search/
+Disallow: /infinhet/search/
+Disallow: /infinhet/fr/search/
+Disallow: /infinhet/en/search/
+Disallow: /international/sites/sciencespo.fr.international/files/rapports_de_sejour
+Disallow: /mass-violence-war-massacre-resistance/search/
+Disallow: /mass-violence-war-massacre-resistance/fr/search/
+Disallow: /mass-violence-war-massacre-resistance/en/search/
+Disallow: /opalc/search/
+Disallow: /opalc/fr/search/
+Disallow: /opalc/en/search/
+Disallow: /osc/search/
+Disallow: /osc/fr/search/
+Disallow: /silicosis/search/
+Disallow: /silicosis/fr/search/
+Disallow: /silicosis/en/search/

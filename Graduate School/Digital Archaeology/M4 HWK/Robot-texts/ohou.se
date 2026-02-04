@@ -1,0 +1,55 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+User-agent: Googlebot-image
+User-agent: Bingbot
+User-agent: Yeti
+User-agent: NaverBot
+User-agent: Daum
+User-agent: Daumoa
+User-agent: kakaotalk-scrap
+Crawl-delay: 1
+Allow: /$
+Allow: /favicon.ico
+Allow: /expert_users*
+Allow: /experts/
+Allow: /experts/bangsan/
+Allow: /experts/calculator/
+Allow: /experts/v2/pre_consultations/new?*
+Allow: /experts/v2/pre_consultations/expert_meta_info?*
+Allow: /brand_pages/*
+Allow: /brands/home?*
+Allow: /brands/used_card?*
+Allow: /commerces/ranks/
+Allow: /commerces/today_deals/
+Allow: /contact_us/
+Allow: /exhibitions/
+Allow: /productions/*/selling?*
+Allow: /productions/*/used_card*
+Allow: /productions/feed/
+Allow: /productions/premium/
+Allow: /store/
+Allow: /store/category?*
+Allow: /store/feeds/delivery_free/
+Allow: /productions/*/groupable_productions?*
+Allow: /advices/
+Allow: /advices/guides/checklist_by_color_and_space/
+Allow: /advices/guides/remodeling/
+Allow: /advices/guides/secrets_of_married_people/
+Allow: /advices/guides/self_interior/
+Allow: /advices/guides/wedding/
+Allow: /cards/*
+Allow: /cards/feed/
+Allow: /collection_books/*/
+Allow: /competitions/
+Allow: /competitions/*/entries/
+Allow: /competitions/feed/
+Allow: /contents/card_collections/
+Allow: /projects$
+Allow: /projects/*/detail$
+Allow: /projects/*/use_products$
+Allow: /questions/
+
+#다음웹마스터
+#DaumWebMasterTool:152fdf00055219a2f532e6f972d67a86a50e1772e5a9fa307c9b9980a028c094:3r9t4kfB8LmEz6BqklQB4w==

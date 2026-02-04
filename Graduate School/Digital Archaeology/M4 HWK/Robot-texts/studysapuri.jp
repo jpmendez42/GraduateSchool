@@ -1,0 +1,7 @@
+User-agent: ClaudeBot
+Disallow: /
+
+User-Agent: *
+Allow:
+
+Sitemap: https://studysapuri.jp/sitemap.xml

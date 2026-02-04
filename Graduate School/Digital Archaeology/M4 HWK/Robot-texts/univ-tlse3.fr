@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search?*
+Disallow: /search/*
+Disallow: /servlet/* 
+
+
+Sitemap: https://www.univ-tlse3.fr/sitemap.xml

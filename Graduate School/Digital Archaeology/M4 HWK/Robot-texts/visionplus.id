@@ -1,0 +1,51 @@
+<!DOCTYPE html><html prefix="og: http://ogp.me/ns#" ng-app="iris"><head><title>VISION Plus</title><script>window.prerenderReady = false;</script><script>
+    // Script for dynamic set of the base href header. In order to work without Hash
+    (function() {
+        var loc = window.location;
+        var pathParts = loc.pathname.split('/').filter(Boolean);
+        var basePath = '/';
+
+        var index = pathParts.indexOf('webclient');
+
+        if (index !== -1) {
+            if (loc.hostname === 'dev-webclient.dth.cloud' || loc.hostname === 'dev-webclient.dth-cloud.net' || loc.hostname === 'd3i427ijezn4sw.cloudfront.net' ) {
+                basePath = '/' + pathParts.slice(0, index + 3).join('/') + '/';
+            } else {
+                basePath = '/' + pathParts.slice(0, index + 1).join('/') + '/';
+            }
+        }
+
+        var base = document.createElement('base');
+        base.href = loc.origin + basePath;
+        document.head.appendChild(base);
+    })();
+  </script><meta name="description" id="metaDescription"><meta name="keywords" id="metaKeywords" content="beIN sports, beIN, soccer live match, vision plus, vision plus sport, champions league, F1, FA cup, europa league, sport live, GT masters, ATP Tour, live sport, watch live sports online in Indonesia, sport entertainment"><meta charset="utf-8"><meta http-equiv="x-ua-compatible" content="ie=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0"><meta name="apple-itunes-app" content="app-id=999, affiliate-data=myAffiliateData, app-argument=https://www.visionplus.id"><meta name="referrer" content="origin-when-cross-origin"><link rel="stylesheet" href="libs_535687b151f365fcf5a4902b9623d735.css" crossorigin="anonymous" integrity="sha512-AjRmqR9HdZXjNxjnNjHb2uxLu2F5jsdc4HfIiFmtumo9g3pfXphDzqHs0RjtMWoqEt5E+sjcN6ZcM6WwnDFubw=="><link rel="stylesheet" href="app_bcef3ecf78870efa489adfdd20bbb2af.css" crossorigin="anonymous" integrity="sha512-gFnnovSztRl4/DkxUPa8Pd8awy1U91njuyRi+P05Qp+xuC06SChmfKtGa+j9rfWv2HZWNzDzh9Frl0yJ+8Ge9g=="><link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon.png"><link rel="icon" type="image/png" href="img/favicon/favicon-32x32.png" sizes="32x32"><link rel="icon" type="image/png" href="img/favicon/favicon-16x16.png" sizes="16x16"><link rel="manifest" href="manifest.json"><meta name="apple-mobile-web-app-title" content="VISION+"><meta name="application-name" content="VISION+"><meta name="msapplication-config" content="img/favicon/browserconfig.xml"><meta name="theme-color" content="#55526a"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="#55526a"><meta name="google-site-verification" content="jsFmvL5nQBS0z-xpQ1L0jJ4WtQNICWfFdD1Fo90Y_-0"><meta name="googlebot" content="index,follow"><meta id="ogUrl" property="og:url"><meta id="ogType" property="og:type"><meta id="ogTitle" property="og:title"><meta id="ogDescription" property="og:description"><meta id="ogImage" property="og:image"><meta id="ogName" property="og:site_name"><meta id="ogLocale" property="og:locale"><script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NPXGGTK');
+  </script><script>
+    (function (w, d, s, l, i) {
+    w[l] = w[l] || []; w[l].push({
+    'gtm.start':
+    new Date().getTime(), event: 'gtm.js'
+    }); var f = d.getElementsByTagName(s)[0],
+    j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+    'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-T245SMF');
+  </script><script async src="https://www.googletagmanager.com/gtag/js?id=G-LE1XTXKTX3"></script><script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-LE1XTXKTX3');
+  </script><script src="//cdnt.netcoresmartech.com/smartechclient.js"></script></head><body ng-class="{'disable-scroll': disableScroll}" aria-label="VISION Plus"><script>
+    var _comscore = _comscore || [];
+    _comscore.push({c1:"2",c2:"9013027"}), function () {
+      const c = document.createElement("script");
+      const e = document.getElementsByTagName("script")[0];
+      c.async=!0,c.src=("https:"==document.location.protocol?"https://sb":"http://b")+".scorecardresearch.com/beacon.js",e.parentNode.insertBefore(c,e)}();
+  </script><noscript><img alt=Share src="https://b.scorecardresearch.com/p?c1=2&c2=9013027&cv=2.0&cj=1"></noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NPXGGTK" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T245SMF" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><div id="holder"><appheader ng-if="!('login' | includedByState) && autoLoginEnd && !('profileInit' | includedByState) && !('profileSelection' | includedByState) && !('profileCreated' | includedByState) && !('activate' | includedByState) && !('webviewLogin' | includedByState) && !('webviewPurchase' | includedByState)" role="navigation"></appheader><div id="body" ui-view role="main"><img class="loading-image" src="./img/logo_default.svg" alt="loading image"></div><appfooter ng-if="!('login' | includedByState) && autoLoginEnd && !('profileInit' | includedByState) && !('profileSelection' | includedByState) && !('profileCreated' | includedByState) && !('activate' | includedByState) && !('webviewLogin' | includedByState) && !('webviewPurchase' | includedByState)" role="contentinfo"></appfooter></div><script src="init_d41d8cd98f00b204e9800998ecf8427e.js" type="text/javascript" crossorigin="anonymous" charset="utf-8" async integrity="sha512-z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg=="></script><script src="libs_6d001f78fe75562781b903fc6338fd71.js" type="text/javascript" crossorigin="anonymous" charset="utf-8" defer integrity="sha512-7XxlY+mktyQd/ttLGYLph+E7Lz5QiwLO8MSXT2dPWNv/1cZZiOpxtycpPchgPc/z9Pc4lT5aJMehjSU7cj7q4g=="></script><script src="app_24f5233940bfd960e695f72114c4eeaf.js" type="text/javascript" crossorigin="anonymous" charset="utf-8" defer integrity="sha512-haonSZTSgKcaLFz+6DYI35/3bpxcA5rCSgpTj7qx146Ny/FRMWgn9B8KbxEK9uC9WccBqq5wzyI/jk6ejU7npA=="></script><script async src="https://www.googletagmanager.com/gtag/js"></script><script src="https://imasdk.googleapis.com/js/sdkloader/ima3.js" type="text/javascript" async></script><script src="https://www.gstatic.com/cv/js/sender/v1/cast_sender.js?loadCastFramework=1" type="text/javascript" async></script><noscript class="no-javascript">Your browser does not support JavaScript!</noscript></body></html>

@@ -1,0 +1,46 @@
+User-Agent: *
+Disallow: /adingo/
+Disallow: /antenna/
+Disallow: /au/
+Disallow: /commentator/
+Disallow: /culation/
+Disallow: /excite/
+Disallow: /gree/
+Disallow: /gj/
+Disallow: /lightbox/
+Disallow: /livedoor2/
+Disallow: /mailform/
+Disallow: /media_guide/
+Disallow: /mixi/
+Disallow: /msn/
+Disallow: /my_first_blog/
+Disallow: /newzia_connect/
+Disallow: /parts/
+Disallow: /test/
+Disallow: /business-blog/
+Disallow: /i/
+
+
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/sitemap/sitemap.xml
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/urllist_tag.php?page=1&type=xml
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/urllist_tag.php?page=2&type=xml
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/urllist_tag.php?page=3&type=xml
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/urllist_tag.php?page=4&type=xml
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/urllist_tag.php?page=5&type=xml
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/urllist_tag.php?page=6&type=xml
+Sitemap: https://biz-journal.jp/wp-content/themes/biz-journal/dev/urllist/urllist_tag.php?page=7&type=xml
+Sitemap: https://biz-journal.jp/google_news.xml
+Sitemap: https://biz-journal.jp/google_play_newsstand/index.xml
+
+Sitemap: https://biz-journal.jp/llms.txt
+
+Sitemap: https://biz-journal.jp/carboncredits/wp-sitemap-users-1.xml
+
+Sitemap: https://biz-journal.jp/ai/wp-content/themes/ai-journal/dev/urllist/urllist_tag.php?orderby=count&fields=all
+Sitemap: https://biz-journal.jp/ai/wp-content/themes/ai-journal/dev/urllist/urllist_tag.php?page=1&type=xml
+Sitemap: https://biz-journal.jp/ai/wp-content/themes/ai-journal/dev/urllist/sitemap/sitemap.xml
+
+
+Sitemap: https://biz-journal.jp/unicorn/wp-content/themes/unicorn-journal/dev/urllist/sitemap/sitemap.xml
+Sitemap: https://biz-journal.jp/unicorn/wp-content/themes/unicorn-journal/dev/urllist/urllist_tag.php?page=1&type=xml
+Sitemap: https://biz-journal.jp/unicorn/feed/index.php?type=/google_news.xml

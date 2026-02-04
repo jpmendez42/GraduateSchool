@@ -1,0 +1,20 @@
+Sitemap: https://locari.jp/sitemap.xml
+
+User-Agent: *
+Disallow: /posts/redirect/
+Disallow: /posts/app/
+Disallow: /amp_iframe/
+Disallow: /cdn-cgi/ # Block because it is used internally by Cloudflare
+
+User-Agent: Googlebot-Image
+Disallow: /posts/
+
+# Block megaindex
+User-Agent: Mozilla/5.0 (compatible; MegaIndex.ru/2.0;+http://megaindex.com/crawler)
+Disallow: /
+
+User-Agent: MegaIndex.ru
+Disallow: /
+
+User-Agent: megaindex.com
+Disallow: /

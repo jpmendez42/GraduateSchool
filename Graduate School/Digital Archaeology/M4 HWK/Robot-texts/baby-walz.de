@@ -1,0 +1,23 @@
+User-agent: *
+
+Sitemap: https://www.baby-walz.de/sitemap/index.xml
+
+#prudsys
+Disallow: */prudsys*
+
+#Crawling Optimierung 14.12.2018
+Disallow: */&ffUrl=&navigation=*
+
+#Crawling Optimierung 16.08.2022
+Disallow: */?ffFacetUrl=*
+
+#Crawling Optimierung 11.01.2024
+Disallow: */&ffUrl=%26navigation%*
+
+#Crawling Optimierung: 29.04.2024
+
+Disallow: */html/*
+Disallow: */media/*
+Disallow: */mb3_media/*
+Disallow: */admin/*
+Disallow: */global/*

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /presses
+Disallow: /jump
+Disallow: /api
+Disallow: /redirect
+Disallow: /hotellist/result
+Allow: /presses/
+
+User-agent: Mappy
+User-agent: GPTBot
+Disallow: /

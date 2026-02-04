@@ -1,0 +1,5 @@
+User-agent:*
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /casestudy/c-energy/
+Sitemap: https://ak4.jp/sitemap.xml

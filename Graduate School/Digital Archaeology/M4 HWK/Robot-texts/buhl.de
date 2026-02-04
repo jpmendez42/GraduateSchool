@@ -1,0 +1,74 @@
+User-agent: bingbot
+User-agent: PerplexityBot
+User-agent: GPTBot
+User-agent: CCBot
+User-agent: OAI-Search-Bot
+Crawl-delay: 10
+Disallow: /wiso-software/wcf/
+Disallow: /wiso-software/forum/index.php/LikeOverview/
+Disallow: /wiso-software/forum/index.php/User/
+Disallow: /wiso-software/forum/index.php/board-list/
+Disallow: /wiso-software/forum/index.php?user-post-list/
+Disallow: /wiso-software/*/&sortField
+Disallow: /wiso-software/index.php?thread/*/&postID=
+Disallow: /*.axd
+Disallow: /*.axd$
+Disallow: /shop/warenkorb.html
+Disallow: /shop/bewertungen_aendern.html
+Disallow: /wisoshop/warenkorb.html
+Disallow: /shop/Handler/
+Disallow: /shop/upload/
+Disallow: /shop/wisoshop/
+Disallow: /dse/
+Disallow: /*.axd
+Disallow: /tax-software/core/
+Disallow: /tax-software/index.php?user-thread-list/
+Disallow: /tax-software/index.php?user-post-list/
+Disallow: /tax-software/index.php?thread/*/&postID=
+Disallow: /tax-software/?postID=
+Disallow: /tax-software/*/&sortField
+Disallow: /shop/Checkout/AddToCart/
+Disallow: /shop/bewertungen-aendern
+Disallow: /shop/warenkorb
+Disallow: /go/*
+Disallow: /brutto-netto-rechner/
+Disallow: /wp-includes/
+
+
+
+User-agent: *
+Crawl-delay: 10
+Disallow: /wiso-software/wcf/
+Disallow: /wiso-software/forum/index.php/LikeOverview/
+Disallow: /wiso-software/forum/index.php/User/                          
+Disallow: /wiso-software/forum/index.php/board-list/
+Disallow: /wiso-software/forum/index.php?user-post-list/
+Disallow: /wiso-software/*/&sortField
+Disallow: /wiso-software/index.php?thread/*/&postID=
+Disallow: /*.axd
+Disallow: /*.axd$
+Disallow: /shop/warenkorb.html
+Disallow: /shop/bewertungen_aendern.html
+Disallow: /wisoshop/warenkorb.html
+Disallow: /shop/Handler/
+Disallow: /shop/upload/
+Disallow: /shop/wisoshop/
+Disallow: /dse/
+Disallow: /*.axd
+Disallow: /tax-software/core/
+Disallow: /tax-software/index.php?user-thread-list/
+Disallow: /tax-software/index.php?user-post-list/
+Disallow: /tax-software/index.php?thread/*/&postID=
+Disallow: /tax-software/?postID=
+Disallow: /tax-software/*/&sortField
+Disallow: /shop/Checkout/AddToCart/
+Disallow: /shop/bewertungen-aendern
+Disallow: /shop/warenkorb
+Disallow: /go/*
+Disallow: /brutto-netto-rechner/
+Disallow: /wp-includes/
+
+#sitemaps
+#bitte nachpflegen, wenn es neue Seiten/Sitemaps gibt
+#sitemap von buhl.de selbst wird von yoast SEO generiert
+Sitemap: https://www.buhl.de/sitemap_index.xml 

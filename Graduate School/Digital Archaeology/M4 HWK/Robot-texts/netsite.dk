@@ -1,0 +1,7 @@
+User-Agent: *
+Sitemap: https://www.netsite.dk/sitemap.xml
+Allow: /
+Disallow: /bestil
+Disallow: /bestilling
+Disallow: /domaene/soeg
+Disallow: /domaene/overvaagning/handling

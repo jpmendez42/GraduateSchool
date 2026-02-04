@@ -1,0 +1,21 @@
+<!DOCTYPE html><html lang="de"><head><meta charset="utf-8" /><meta content="width=device-width" name="viewport" /><title>makerist</title><link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" /><link href="/favicon.jpg" rel="shortcut icon" type="image/jpeg" /><link href="/apple-touch-icon-180x180.jpg" rel="apple-touch-icon" type="image/jpeg" /><link rel="stylesheet" media="screen" href="https://storage.makerist.de/packs/css/goodbye-91ce3737.css" /><script src="https://storage.makerist.de/packs/js/goodbye-0f22cf641e8ba9336093.js"></script><script type="text/javascript">
+  if(typeof ga === 'undefined') {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-42072878-1', {"cookieDomain":"www.makerist.de"});
+  }
+    ga('require', 'linkid', 'linkid.js');
+    ga('require', 'displayfeatures');
+    ga('require', 'ecommerce', 'ecommerce.js');
+    ga('require', 'GTM-5JD8QDT');
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview', window.location.pathname + window.location.search);
+</script>
+</head><body><header><a href="/"><div class="header__logo"><img alt="Makerist logo" src="https://storage.makerist.de/packs/media/images/application_2021/makerist-main-logo-small-6c498e437bf2d8f1f95fd2018c35153a.svg" /></div></a></header><main class="page-content-wrapper"><div class="mb-2"><a href="https://www.stoffe.de"><img class="hide-on-mobile" src="/slider-goodbye-desktop-de.svg" /><img class="hide-on-desktop" src="/slider-goodbye-mobile-de.svg" /></a></div><div class="box__column-2"><div class="box"><b>Über stoffe.de kannst du weiterhin auf deine gekauften E-Books und Video-Kurse zugreifen!</b><br>
+Melde dich einfach mit deinen gewohnten makerist-Login-Daten an.
+</div><div class="box">Schreibe uns bei Fragen gerne an<br>
+<b>hallo@makerist.de</b>
+</div></div></main><footer class="footer"><a href="/imprint">Impressum</a></footer></body></html>

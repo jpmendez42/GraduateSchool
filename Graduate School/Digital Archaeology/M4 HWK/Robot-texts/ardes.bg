@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /j/
+
+Disallow: /news/wp-admin/
+Disallow: /news/?s=
+Disallow: /news/search/
+Allow: /news/wp-admin/admin-ajax.php
+
+Disallow: /news/xmlrpc.php
+Disallow: /news/trackback/
+Disallow: /news/feed/
+Allow: /news/wp-content/uploads/
+Host: ardes.bg
+Sitemap: https://ardes.bg/uploads/sitemap.xml
+Sitemap: https://ardes.bg/uploads/sitemap-images.xml.gz
+SItemap: https://ardes.bg/uploads/sitemap-videos.xml.gz

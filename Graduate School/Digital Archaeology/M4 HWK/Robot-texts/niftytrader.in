@@ -1,0 +1,29 @@
+# Blocking specific pages for all user agents
+User-agent: *
+Disallow: /404
+Disallow: /test
+Disallow: /testing
+Disallow: /payment-status
+Disallow: /broker-compare
+Disallow: /options-chart-comparison
+Disallow: /usd-inr-change-open-interest-live
+
+# Specific rule for Googlebot-News
+User-agent: Googlebot-News
+Allow: /content
+
+# Sitemaps
+Sitemap: https://www.niftytrader.in/sitemap.xml
+Sitemap: https://www.niftytrader.in/stocks-price-sitemap.xml
+Sitemap: https://www.niftytrader.in/stock-futures-sitemap.xml
+Sitemap: https://www.niftytrader.in/nse-option-chain-sitemap.xml
+Sitemap: https://www.niftytrader.in/stock-options-chart-sitemap.xml
+Sitemap: https://www.niftytrader.in/options-max-pain-chart-live-sitemap.xml
+Sitemap: https://www.niftytrader.in/bse-option-chain-sitemap.xml
+Sitemap: https://www.niftytrader.in/commodities-option-chain-nse-sitemap.xml
+Sitemap: https://www.niftytrader.in/ltp-calculator-sitemap.xml
+Sitemap: https://www.niftytrader.in/niftytrader-ipo-sitemap.xml
+Sitemap: https://www.niftytrader.in/brokerage-sitemap.xml
+Sitemap: https://www.niftytrader.in/options-trading-backtesting-sitemap.xml
+Sitemap: https://www.niftytrader.in/share-price-chart-sitemap.xml
+Sitemap: https://www.niftytrader.in/content/news-sitemap.xml

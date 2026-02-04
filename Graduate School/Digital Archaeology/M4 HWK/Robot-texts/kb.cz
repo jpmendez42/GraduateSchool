@@ -1,0 +1,12 @@
+#
+# robots.txt
+#
+
+User-agent: *
+Disallow: /srv/
+Disallow: /*?*wt_mc=*
+Disallow: /cs/track/mojebanka/*
+Disallow: /en/track/mojebanka/*
+
+Sitemap: https://www.kb.cz/cs/sitemap.xml
+Sitemap: https://www.kb.cz/en/sitemap.xml

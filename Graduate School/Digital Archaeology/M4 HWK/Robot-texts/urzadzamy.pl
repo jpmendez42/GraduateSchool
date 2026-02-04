@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /cdn-cgi/*
+Disallow: */portal.html
+Disallow: */purposes.json
+Disallow: /api/recommendations/*
+Disallow: /api/collections/*
+Disallow: /lives/*
+Disallow: /psi/*
+Disallow: /quizzes/proxy/proxy/*
+Disallow: /quizzes/proxy/crossword/*
+Sitemap: https://www.urzadzamy.pl/sitemap-index/

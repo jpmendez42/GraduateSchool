@@ -1,0 +1,72 @@
+#RULE AKAMAI	PRD
+User-agent: *
+Disallow: /wp-admin/admin-ajax.php
+Disallow: /-
+Disallow: *?target=_lightbox*
+Disallow: /CollectionSearchDisplay
+Disallow: /SearchDisplay
+Disallow: /LogonForm
+Disallow: /WishListDisplayView
+Disallow: /Tunnel*
+Disallow: /ProductListingView
+Disallow: /CrossContentListingView
+Disallow: /*?PageSpeed=noscript
+Disallow: *?contentBeginIndex:*
+Disallow: /?menuId=
+Disallow: */?subUnivers=
+Disallow: */AjaxAvisUtilePourUtilisateur
+Disallow: /AddressBookForm
+Disallow: /AdvancedSearchDisplay
+Disallow: /AjaxCrossContentArticlesView
+Disallow: /AjaxCrossContentView
+Disallow: *?fromPage=compare
+Disallow: /mobile/SearchDisplay
+Disallow: /MyAccountView?
+Disallow: /NearestShopsDisplayView
+Disallow: /OrderSummaryViewAjax
+Disallow: /OrderTrackingListView
+Disallow: /OrderTrackingSearchView
+Disallow: *bvstate=*
+Disallow: /ReviewsListView?
+Disallow: /CategoryDisplay
+Disallow: /SearchComponentAutoSuggestView?
+Disallow: /searchterm
+Disallow: /TopCategoriesDisplay?*
+Disallow: /AddReachFive?*
+Disallow: /SharedWishListView?
+Disallow: /ShopCartDisplayView?
+Disallow: /ShopCartPageView?
+Disallow: /ShopperActionView
+Disallow: /SoldesSearchDisplay?
+Disallow: /wcsstore
+Disallow: /QuickInfoDetailsView
+Disallow: /ResetPasswordDisplay
+Disallow: /ResetPasswordForm
+Disallow: /ResetPasswordErrorView
+Disallow: /PromotionSearchDisplay?
+Disallow: /QuotationTrackingDetailsView
+Disallow: /AjaxLogonForm
+Disallow: /QuotationTrackingSearchView
+Disallow: /OrderTrackingListView
+Disallow: /OrderCalculate
+Disallow: /SendFormCmd?storeId=10301
+Disallow: *target=_lightbox*
+Disallow: *?xSellPackId=*
+Disallow: *?fromProductId=*
+
+User-agent: Googlebot-image
+Disallow :
+
+Sitemap: https://www.lapeyre.fr/googlefeeds/sitemap_10301_1.xml.gz
+
+# Les autres URL ne sont pas crawlables car soumises a authentification :
+# - tunnel (panier jusqu'a confirmation)
+# - synchro
+# - mes adresse (liste et detail)
+# - recherche/liste commande (logge et non logge)
+# - newsletter
+# - mes magasins preferes
+# - détail commande (logge et non logge)
+# - recherche devis (logge et non logge)
+# - détail devis (logge et non logge)
+# - wishlist (liste et detail)

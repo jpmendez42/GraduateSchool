@@ -1,0 +1,59 @@
+User-agent: *
+Disallow: /*?*                # Blocks all URLs with query strings
+Disallow: /*.php              # Blocks all .php files (covers /contact-us.php)
+Disallow: /*.html             # Blocks all .html files
+Disallow: /*index             # Blocks /index and any path ending with 'index'
+Disallow: /*%20*              # Blocks URLs with spaces
+Disallow: /*_*                # Blocks URLs containing underscores
+Disallow: /wp-content/        # Common WordPress directory
+Disallow: /doctors/doctor*    # Blocks all doctor-related paths
+Disallow: /blog/              # Assuming /blog/ is the correct path
+Disallow: /blogs/	      # Assuming /blogs/ is the correct path
+Disallow: /lp/                # Ads Landing pages
+Disallow: */apis/*            # Blocks API endpoints
+Disallow: /prettyphoto/       # Case-normalized
+Disallow: /prettyPhoto/       # Case-normalized
+Disallow: /city-ajax          # Dynamic AJAX path
+
+
+# Restricted directories (admin, testing, etc.)
+Disallow: /custom-old/
+Disallow: /doctors-staging/
+Disallow: /payment/
+Disallow: /crm/
+Disallow: /cronjobfile/
+Disallow: /patient/
+Disallow: /thirdparty/
+Disallow: /staging/
+Disallow: /testing/
+
+
+
+Allow: /articles/glycemic-index
+
+
+Sitemap: https://www.medicoverhospitals.in/sitemap.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.articles.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.coronavirus.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.doctor-speciality.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.doctors-location-wise.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.doctors.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.hospitals.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.medicine.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.news-room.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.preventive-health-checkups.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.procedures.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.symptoms.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.specialties.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.surgery-cost.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.diseases.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.success-stories.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.diagnostics-pathology-tests.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.articles.images.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.diseases.images.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.procedures.images.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.hospitals.images.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.woman-and-child.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.diseases-location-wise.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.diseases-location-wise-2.xml
+Sitemap: https://www.medicoverhospitals.in/sitemap.web-stories.xml

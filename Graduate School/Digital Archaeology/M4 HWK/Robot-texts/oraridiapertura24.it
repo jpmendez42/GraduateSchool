@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /*?
+
+User-agent: *
+Disallow: /filialVersion/*
+
+User-agent: *
+Disallow: /ampAnalytics.php*
+
+User-agent: *
+Disallow: /filialeHrs/*
+
+User-agent: *
+Disallow: /filialeBadge/*
+
+User-agent: *
+Disallow: /filiale-rating/*
+
+User-agent: *
+Disallow: /richiesta/*
+
+User-agent: *
+Disallow: /richiesta-orari/*
+
+User-agent: *
+Disallow: /pdf/*
+
+User-agent: *
+Disallow: /profilo/*
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: Slurp
+Crawl-delay: 3
+
+User-agent: bingbot
+Crawl-delay: 3
+
+User-agent: AhrefsBot
+Crawl-Delay: 7

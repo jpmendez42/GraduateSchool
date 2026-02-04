@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /offerta_promo25
+
+# Host
+Host: https://octopusenergy.it
+
+# Sitemaps
+Sitemap: https://octopusenergy.it/sitemap.xml

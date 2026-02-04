@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /*account*
+Disallow: /*cart*
+Disallow: /*checkout*
+Disallow: /*order-history*
+Disallow: /*search*
+Disallow: /*wishlist*
+Disallow: /*?prefv1=*
+Disallow: /*?prefn1=*
+Disallow: /*?srule=*
+Disallow: /*?pmax=*
+Disallow: /*?src=*
+Disallow: /*?prefv2=*
+Disallow: /*?prefn2=*
+Disallow: /*?awc=*
+Disallow: /on/demandware.store/Sites-*
+
+# Blocca la pagina cisalfa-x-sivola
+Disallow: /it-it/cisalfa-x-sivola.html
+
+# Blocca il PDF sullo staging
+Disallow: /on/demandware.static/-/Sites-Cisalfa-Library/default/dw31705961/pdf/Buono-digitale_sivola_05-25.pdf
+
+User-agent: AdsBot-Google
+Allow: /
+User-agent: AdsBot-Google-Mobile
+Allow: /
+
+Sitemap: https://www.cisalfasport.it/sitemap_index.xml

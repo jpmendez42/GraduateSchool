@@ -1,0 +1,11 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+HTTP/1.1 200 OK  
+Content-Type: video/mp4  
+X-Robots-Tag: noindex
+
+Sitemap: https://pik.bg/sitemap/sitemap.xml

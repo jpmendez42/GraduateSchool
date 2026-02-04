@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://eat.de/sitemap_index.xml
+Sitemap: https://eat.de/post-sitemap.xml
+Sitemap: https://eat.de/page-sitemap.xml
+Sitemap: https://eat.de/recipe-sitemap.xml
+Sitemap: https://eat.de/recipe-idea-sitemap.xml

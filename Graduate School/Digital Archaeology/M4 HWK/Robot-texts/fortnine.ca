@@ -1,0 +1,73 @@
+# FortNine
+
+User-agent: *
+Crawl-delay: 10
+
+## M2
+Disallow: /index.php/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /*.php$
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /customer/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: /*SID=
+
+## Do not crawl common Magento technical folders
+Disallow: /cgi-bin/
+Disallow: /app/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /pkginfo/
+Disallow: /shell/
+Disallow: /var/
+
+## Do not crawl common Magento files
+Disallow: /api.php
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /get.php
+Disallow: /install.php
+Disallow: /index.php/install/
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /README.txt
+Disallow: /RELEASE_NOTES.txt
+
+## Do not crawl checkout and user account pages
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+
+## Do not crawl seach pages and not-SEO optimized catalog links
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+
+## Do not crawl localized search pages.
+Disallow: /en/catalogsearch/
+Disallow: /fr/catalogsearch/
+
+## Do not crawl OEM section for now
+Disallow: /oem-parts#/*
+
+## Do not crawl easy returns confirmation page
+Disallow: /easy-return-success
+
+## Sitemap
+Sitemap: https://fortnine.ca/sitemaps/sitemap_fortnine.xml
+

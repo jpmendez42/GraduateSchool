@@ -1,0 +1,17 @@
+# Allow all user agents.
+User-agent: *
+Allow: /
+
+# Disallow all non-public URLs
+Disallow: /t/
+Disallow: /st/
+Disallow: /rtx/
+Disallow: /cnd/
+Disallow: /end/
+Disallow: /p/
+Disallow: /k/
+Disallow: /v/
+# Disallow blog feed url, they are rss xml file and should not be indexed
+Disallow: /blog/tag/*/feed
+
+Sitemap: https://bjak.my/sitemap.xml

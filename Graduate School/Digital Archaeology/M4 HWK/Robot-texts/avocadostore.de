@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /account/
+Disallow: /profiles/
+Disallow: /user_session/
+Disallow: /my_shop/
+Disallow: /admin/
+Disallow: /mtm/
+Allow: /
+
+User-agent: Pinterestbot
+Crawl-delay: 1

@@ -1,0 +1,31 @@
+User-agent: *
+Allow: /
+Disallow: /saas3/
+Disallow: /saas3_all/
+Disallow: /saas3_lh/
+Disallow: /saas3_meds/
+Disallow: /saas3_op/
+Disallow: /saas3_ns/
+Disallow: /saas3_nr/
+Disallow: /saas_txt/
+# DFP adUnitPath
+Disallow: /4108249/
+
+User-agent: heritrix
+Disallow: /
+
+Sitemap : https://www.qlife.jp/sitemap_item1.xml.gz
+Sitemap : https://www.qlife.jp/sitemap_hospital1.xml.gz
+Sitemap : https://www.qlife.jp/sitemap_hospital2.xml.gz
+Sitemap : https://www.qlife.jp/sitemap_hospital3.xml.gz
+Sitemap : https://www.qlife.jp/sitemap_hospital4.xml.gz
+Sitemap : https://www.qlife.jp/sitemap_gadget.xml.gz
+Sitemap : https://www.qlife.jp/add_sitemap/sitemap_index.xml
+Sitemap : https://www.qlife.jp/meds/meds.xml
+Sitemap : https://www.qlife.jp/meds/diseases.xml
+Sitemap : https://www.qlife.jp/dictionary/sitemap.xml
+Sitemap : https://www.qlife.jp/square/sitemap.xml.gz
+Sitemap : https://www.qlife.jp/cancer/sitemap.xml.gz
+Sitemap : https://www.qlife.jp/pet/sitemap_hospital_pet.xml.gz
+Sitemap : https://www.qlife.jp/pet/sitemap_item_pet.xml.gz
+Sitemap : https://www.qlife.jp/add_sitemap/search_hospital_5sen.xml

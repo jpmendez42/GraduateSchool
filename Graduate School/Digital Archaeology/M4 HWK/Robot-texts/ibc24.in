@@ -1,0 +1,22 @@
+User-agent: *
+Allow: /
+Allow: *post-sitemap-2024*
+
+Disallow: /wp-admin/admin-ajax.php
+Disallow: */wp-admin/*
+Disallow: */attachment/*
+Disallow: */veegamcms.ibc24.in/*
+Disallow: */origin-api2.ibc24.in/*
+Disallow: /search/*
+Disallow: *post-sitemap-*
+Disallow: */page/*
+Disallow: /*poll.php
+  
+Sitemap: https://www.ibc24.in/news-sitemap.xml
+Sitemap: https://www.ibc24.in/sitemap_index.xml
+Sitemap: https://www.ibc24.in/web-story-sitemap.xml
+Sitemap: https://www.ibc24.in/category-sitemap.xml
+Sitemap: https://www.ibc24.in/video-sitemap.xml
+Sitemap: https://www.ibc24.in/weather-sitemap.xml
+
+

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /net/
+
+User-agent: archive.org_bot
+Disallow: /

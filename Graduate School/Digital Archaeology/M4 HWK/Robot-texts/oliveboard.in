@@ -1,0 +1,8 @@
+User-agent: *
+
+Sitemap: https://www.oliveboard.in/sitemap.xml
+sitemap: https://www.oliveboard.in/blog/sitemap_index.xml
+
+Disallow: /feed/
+Disallow: */feed/
+Disallow: */feed/$

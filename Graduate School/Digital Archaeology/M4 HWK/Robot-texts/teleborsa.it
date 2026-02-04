@@ -1,0 +1,30 @@
+﻿User-agent: *
+Disallow: /Test/
+Disallow: /controls/
+Disallow: /19564988/
+Disallow: /FrameResources/
+Disallow: /Search?q=*
+Disallow: /Quotazioni/Fondi?d=*
+Disallow: /Quotazioni/Obbligazioni?d=*
+Disallow: /Quotazioni/Sedex?d=*
+Disallow: /Charts/QuickChart_Image.aspx?d=*
+Disallow: /Charts/AutoNews_TechChart.aspx?d=*
+Disallow: /Prodotti/
+Disallow: /AccaddeOggi/
+Disallow: /Accadde-Oggi/
+Disallow: /Tools/
+Disallow: /Tips/
+Disallow: /News*q=*
+
+Disallow: /News/2013/10/24/fondiaria-sai-indagato-anche-l-attuario-fulvio-gismondi-687.html
+Disallow: /News/2016/10/24/fiera-milano-sospensione-cautelare-per-oggioni-105.html
+Disallow: /News/2013/01/11/regione-lazio-libero-l-ex-capogruppo-idv-maruccio-668.html
+Disallow: /News/2014/02/03/la-resa-di-mastrapasqua-treu-fra-i-possibili-successori-601.html
+Disallow: /News/2014/01/27/vacilla-la-poltrona-di-mastrapasqua-all-inps-704.html
+Disallow: /News/2014/01/29/caso-mastrapasqua-inps-smentisce-avvio-audit-interno-668.html
+Disallow: /News/2014/01/31/letta-mette-a-tacere-la-polemica-sull-inps-e-il-caso-mastrapasqua-716.html
+Disallow: /News/2014/02/11/inps-vittorio-conti-candidato-come-commissario-straordinario-722.html
+Disallow: /News/2013/05/08/la-camorra-nel-comune-di-battipaglia-arrestato-il-sindaco-647.html
+Disallow: /AMP/News/2013/05/08/la-camorra-nel-comune-di-battipaglia-arrestato-il-sindaco-647.html
+
+Sitemap: https://www.teleborsa.it/sitemap.xml

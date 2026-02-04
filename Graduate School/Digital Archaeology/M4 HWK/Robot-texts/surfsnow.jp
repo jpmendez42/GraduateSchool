@@ -1,0 +1,180 @@
+# 全てのクローラ
+User-Agent : *
+# 旧管理画面/旧予約管理画面のアクセスを拒否
+Disallow: /admin/
+Disallow: /rsv-admin/
+# マイページ画面のアクセスを拒否
+Disallow: /sp/my/index/
+Disallow: /sp/my/ticket/
+Disallow: /sp/my/smalif/
+Disallow: /sp/my/favorite/
+Disallow: /review/my/smalif/
+Disallow: /review/my/ticket/
+Disallow: /review/my/favorite/
+# 投稿警告画面のアクセスを拒否
+Disallow: /review/alert/
+# 旧メルマガのアクセスを拒否
+Disallow: /mailmaga/
+# 旧snologのアクセスを拒否
+Disallow: /snolog/
+
+
+# 不正クローラ、全拒否
+# bing と yandex の indexが共有化されたので保留
+# User-Agent: yandex
+# Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: Linguee
+Disallow: /
+
+User-Agent: proximic
+Disallow: /
+
+User-Agent: BLEXBot
+Disallow: /
+
+User-Agent: GrapeshotCrawler
+Disallow: /
+
+User-Agent: Mappy
+Disallow: /
+
+User-Agent: MJ12bot
+Disallow: /
+
+User-Agent: MegaIndex
+Disallow: /
+
+User-Agent: bidswitchbot
+Disallow: /
+
+User-Agent: SMTBot
+Disallow: /
+
+User-Agent: ltx71
+Disallow: /
+
+User-Agent: integralads
+Disallow: /
+
+User-Agent: jet-bot
+Disallow: /
+
+User-Agent: trendictionbot
+Disallow: /
+
+User-Agent: newspaper
+Disallow: /
+
+User-Agent: DotBot
+Disallow: /
+
+User-Agent: sqlmap
+Disallow: /
+
+User-Agent: CriteoBot
+Disallow: /
+
+User-Agent: DataForSeoBot
+Disallow: /
+
+User-Agent: WebDataStats
+Disallow: /
+
+User-Agent: PetalBot
+Disallow: /
+
+User-Agent: YisouSpider
+Disallow: /
+
+User-Agent: www.logicad.com
+Disallow: /
+
+User-Agent: Cincraw
+Disallow: /
+
+User-Agent: GuzzleHttp
+Disallow: /
+
+User-Agent: LoiLoNote
+Disallow: /
+
+User-Agent: Discordbot
+Disallow: /
+
+User-Agent: dcrawl
+Disallow: /
+
+User-Agent: ia_archiver
+Disallow: /
+
+User-Agent: coccocbot-web
+Disallow: /
+
+User-Agent: Embedly
+Disallow: /
+
+User-Agent: Neevabot
+Disallow: /
+
+User-Agent: SOLOFIELD
+Disallow: /
+
+User-Agent: TrendsmapResolver
+Disallow: /
+
+User-Agent: linkfluence.com
+Disallow: /
+
+User-Agent: MWFeedParser
+Disallow: /
+
+User-Agent: ShortLinkTranslate
+Disallow: /
+
+User-Agent: make-fetch-happen
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: Seekport Crawler
+Disallow: /
+
+User-Agent: minipass-fetch
+Disallow: /
+
+User-Agent: admantx.com
+Disallow: /
+
+User-Agent: scrapy.org
+Disallow: /
+
+User-Agent: barkrowler
+Disallow: /
+
+User-Agent: oBot
+Disallow: /
+
+User-Agent: TelegramBot
+Disallow: /
+
+User-Agent: clark-crawler
+Disallow: /
+
+User-Agent: Nutch
+Disallow: /
+
+User-Agent: node-fetch
+Disallow: /
+
+User-Agent: Nuclei
+Disallow: /
+
+Sitemap: https://surfsnow.jp/sitemap.xml

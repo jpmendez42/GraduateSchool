@@ -1,0 +1,51 @@
+User-agent: *
+Crawl-delay: 5
+Disallow: /wp-admin/
+Disallow: /search
+Disallow: /?s=*
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://newspao.gr/sitemap_index.xml
+Sitemap: https://newspao.gr/sitemap/news.xml
+
+# Block bad bots
+User-agent: ahrefsbot
+Disallow: /
+User-agent: aihitbot
+Disallow: /
+User-agent: baidu
+Disallow: /
+User-agent: blexbot
+Disallow: /
+User-agent: dotbot
+Disallow: /
+User-agent: exabot
+Disallow: /
+User-agent: jooblebot
+Disallow: /
+User-agent: ltx71
+Disallow: /
+User-agent: mj12bot
+Disallow: /
+User-agent: orangebot
+Disallow: /
+User-agent: seznam
+Disallow: /
+User-agent: sogou
+Disallow: /
+User-agent: spbot
+Disallow: /
+User-agent: vebidoobot
+Disallow: /
+User-agent: vegi bot
+Disallow: /
+User-agent: yandex
+Disallow: /
+User-agent: yodao
+Disallow: /
+User-agent: youdao
+Disallow: /
+User-agent: zoominfobot
+Disallow: /
+User-agent: SeznamBot
+Disallow: /

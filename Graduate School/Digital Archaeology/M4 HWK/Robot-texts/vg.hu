@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /hirdetesek
+Disallow: /cikk-elonezet
+Disallow: /publicapi
+Allow: /publicapi/hu/content-page/articles-by-column/
+Allow: /publicapi/hu/rss/
+Sitemap: https://www.vg.hu/sitemapindex.xml

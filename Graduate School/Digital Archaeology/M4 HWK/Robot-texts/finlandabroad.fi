@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */haku
+Disallow: */sok
+Disallow: */search
+Crawl-delay: 20

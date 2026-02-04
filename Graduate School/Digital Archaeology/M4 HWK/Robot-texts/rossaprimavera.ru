@@ -1,0 +1,25 @@
+Host: rossaprimavera.ru
+User-Agent: *
+Allow: /
+Disallow: /adm
+Disallow: /previous
+Disallow: /main_block
+Disallow: /rvs
+Disallow: /axio
+Disallow: /users
+Disallow: /colon
+Disallow: /?*
+Allow: /$
+Clean-param: web
+Clean-param: utm
+Clean-param: ref
+Clean-param: uli
+Clean-param: tlg
+Clean-param: etext
+Clean-param: ts
+Clean-param: itok
+Clean-param: rel
+Clean-param: searchid
+Clean-param: hub /feed*
+User-agent: Yandex
+Disallow: /amp

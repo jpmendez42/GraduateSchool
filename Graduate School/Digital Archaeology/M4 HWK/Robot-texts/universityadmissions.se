@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /*/search?*
+Disallow: /*/search/public*
+Disallow: /*/addtobasket*
+Disallow: /Shibboleth.sso/
+
+Sitemap: https://www.universityadmissions.se/sitemap.xml

@@ -1,0 +1,8 @@
+User-agent: facebookexternalhit
+Allow: /cz/*/vseobecne-obchodni-podminky
+Allow: /cz/*/podminky-zpracovani-osobnich-udaju 
+
+User-agent: *
+Disallow:
+
+Sitemap: https://www.cinestar.cz/sitemap_index.xml

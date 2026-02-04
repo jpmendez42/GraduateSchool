@@ -1,0 +1,12 @@
+User-agent: *
+
+Disallow: /*?id=*
+Disallow: /*&id=*
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /*/Private/*
+Disallow: /*/Configuration/*
+
+Allow: /
+
+Sitemap: https://www.abaton.at/sitemap.xml

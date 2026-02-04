@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /widgety/
+Disallow: /development/
+Disallow: /notifikace/
+Disallow: /system/
+Disallow: /moje-sazky/
+Disallow: /test/
+Disallow: /ok
+Disallow: /*searchtext*
+Disallow: /hry/napoveda$
+Disallow: /hry/napoveda/$
+Disallow: /api/
+Allow: /hry/napoveda/*
+Sitemap: https://www.sazka.cz/sitemap-index.xml

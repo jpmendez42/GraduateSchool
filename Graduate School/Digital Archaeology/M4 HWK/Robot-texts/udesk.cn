@@ -1,0 +1,68 @@
+User-agent:*
+Disallow: /im_client
+Disallow: /terms_service.html
+Disallow: /service_agreement.html
+Disallow: /css/
+Disallow: /cmps/
+Disallow: /js/
+Disallow: /login_notification
+Disallow: /arund/
+Disallow: /config/
+Disallow: /font/
+Disallow: /udesk/
+Disallow: /udesk_webapp_notice_doc
+Disallow: /ucm/*?p*
+Disallow: /*?utm*
+Disallow: /support_page.html
+Disallow: /instructions.html
+Disallow: /feed
+Disallow: /?*
+Disallow:/feature_udesk.html?*
+Disallow:/feature_video.html?*
+Disallow:/feature_call/?*
+Disallow:/feature_ccpaas.html?*
+Disallow:/feature_channels.html?*
+Disallow:/feature_worksheet.html?*
+Disallow:/feature_bi.html?*
+Disallow:/feature_wfo.html?*
+Disallow:/feature_schedule.html?*
+Disallow:/feature_taes.html?*
+Disallow:/feature_achievements.html?*
+Disallow:/feature_intelligent.html?*
+Disallow:/feature_urobot.html?*
+Disallow:/feature_robot.html?*
+Disallow:/gaussmind/search.html?*
+Disallow:/gaussmind/knowledge_map.html?*
+Disallow:/gaussmind/kcs.html?*
+Disallow:/gaussmind/feature_presale_robot.html?*
+Disallow:/gaussmind/outbound.html?*
+Disallow:/gaussmind/inbound.html?*
+Disallow:/feature_check.html?*
+Disallow:/gaussmind/intelligent_session_analysis.html?*
+Disallow:/gaussmind/qw_intelligent_session_analysis.html?*
+Disallow:/feature_call_seat.html?*
+Disallow:/gaussmind/paas.html?*
+Disallow:/gaussmind/asr.html?*
+Disallow:/gaussmind/number_one.html?*
+Disallow:/gaussmind/smart_market.html?*
+Disallow:/feature_servicego.html?*
+Disallow:/feature_servicego_service.html?*
+Disallow:/spare_parts_manage.html?*
+Disallow:/feature_servicego_device_manage.html?*
+Disallow:/automatically_send_single.html?*
+Disallow:/feature_crm.html?*
+Disallow:/feature_service_outlet.html?*
+Disallow:/feature_weifeng.html?*
+Disallow:/flyudesk.com/
+Disallow:/beacon/
+Disallow:/assets-cli/
+Disallow:/kf-cs.ziroom.com/
+Disallow:/1www/
+Disallow:/moban/
+Disallow:/eusr/
+Disallow:/alborz/
+Disallow:/wfsd.aichinaw.com/
+Disallow:/alborz/
+Disallow:/dt/
+Disallow:/kjj/
+Disallow:/dv/

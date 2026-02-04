@@ -1,0 +1,6 @@
+# Global
+User-agent: *
+Disallow: /blog/upload/
+Disallow: /blog/wp-json/
+
+Sitemap: https://www.basicthinking.de/blog/sitemap_index.xml

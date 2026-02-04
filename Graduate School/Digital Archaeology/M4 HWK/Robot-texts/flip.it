@@ -1,0 +1,7 @@
+# Disallow indexing flemail.flipboard.com urls which might contain user data
+# This is mainly for links coming from email (flemail.flipboard.com)
+User-agent: *
+Disallow: /redirect/
+Disallow: /confirm_email
+Disallow: /reset_password
+Disallow: /account/emailSettings

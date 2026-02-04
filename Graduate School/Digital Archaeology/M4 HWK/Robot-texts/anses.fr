@@ -1,0 +1,2545 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+<link rel="canonical" href="http://www.anses.fr/fr" />
+<meta name="robots" content="index, follow" />
+<link rel="shortlink" href="http://www.anses.fr/fr" />
+<meta name="Generator" content="Drupal 10 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" href="/sites/default/files/favicon.png" type="image/png" />
+<link rel="alternate" hreflang="fr" href="http://www.anses.fr/fr" />
+<link rel="alternate" hreflang="en" href="http://www.anses.fr/en" />
+
+    <title>Accueil | Anses - Agence nationale de sécurité sanitaire de l’alimentation, de l’environnement et du travail</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/misc/components/progress.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/misc/components/ajax-progress.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/misc/components/autocomplete-loading.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/align.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/fieldgroup.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/container-inline.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/clearfix.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/details.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/hidden.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/item-list.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/js.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/nowrap.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/position-container.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/reset-appearance.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/resize.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-counter.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-counters.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/system-status-report-general-info.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/modules/system/css/components/tablesort.module.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/modules/contrib/colorbox/styles/default/colorbox_style.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/modules/custom/lumi_tools/modules/lumi_field_formatters/css/splide-core.min.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/modules/contrib/tacjs/assets/vendor/tarteaucitron.js/css/tarteaucitron.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/themes/custom/lumi/css/base/variables.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/themes/custom/anses/assets/style/tailwind-compressed.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/themes/custom/anses/assets/css/style.css?t3s71s" />
+<link rel="stylesheet" media="all" href="/themes/custom/anses/assets/slick/slick.css?t3s71s" />
+
+    
+
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/AmauriC/tarteaucitron.js@V1.2/tarteaucitron.min.js"></script>
+  </head>
+  <body class="path-frontpage accuiel">
+        <a href="#main-content" class="visually-hidden focusable">
+      Aller au contenu principal
+    </a>
+    
+      <div class="progress"></div>
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+      <section class="header-top">
+        <div class="region region-top-menu">
+    <nav role="navigation" aria-labelledby="block-anses-arborescencesuperieur-menu" id="block-anses-arborescencesuperieur">
+            
+  <h2 class="visually-hidden" id="block-anses-arborescencesuperieur-menu">Arborescence superieur</h2>
+  
+
+        
+              <ul class="menu-arborescence-superieur">
+              <li>
+        <a href="/fr/content/europe-international" data-drupal-link-system-path="node/153128">Europe &amp; International</a>
+              </li>
+          <li>
+        <a href="/fr/content/collectifs-dexperts" data-drupal-link-system-path="node/152951">Collectifs d’experts</a>
+              </li>
+          <li>
+        <a href="/fr/content/le-programme-national-de-recherche-environnement-sante-travail" data-drupal-link-system-path="node/50280">Programme de recherche</a>
+              </li>
+          <li>
+        <a href="/fr/content/espace-presse" data-drupal-link-system-path="node/153783">Espace Presse</a>
+              </li>
+          <li>
+        <a href="/fr/content/rejoignez-nous" data-drupal-link-system-path="node/153723">Rejoignez-nous !</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div class="language-switcher-language-url" id="block-anses-languageswitcher" role="navigation">
+  
+    
+      	
+						<div class="selected">
+				fr
+				<svg width="14" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M1 .5l6 7 6-7" fill="none"/></svg>
+			</div>
+						
+	<ul class="links">
+		
+			<li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">
+
+									<a href="/fr" class="language-link is-active" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">Français</a>
+
+							</li>
+		
+			<li hreflang="en" data-drupal-link-system-path="&lt;front&gt;">
+
+									<a href="/en" class="language-link" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">English</a>
+
+							</li>
+			</ul>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-anses-reseauxsociaux-menu" id="block-anses-reseauxsociaux">
+            
+  <h2 class="visually-hidden" id="block-anses-reseauxsociaux-menu">Réseaux sociaux</h2>
+  
+
+        
+              <ul class="menu-reseaux-sociaux">
+              <li>
+        <a href="https://x.com/Anses_fr" class="twitter" target="_blank">X</a>
+              </li>
+          <li>
+        <a href="https://www.facebook.com/AgenceAnses" class="facebook" target="_blank">Facebook</a>
+              </li>
+          <li>
+        <a href="https://www.linkedin.com/company/2044612/" class="linkedin" target="_blank">LinkedIn</a>
+              </li>
+          <li>
+        <a href="https://www.youtube.com/channel/UCb83vpQhwHx-9WL1ri-_vgg" class="youtube" target="_blank">Youtube</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+    </section>
+  
+  <header role="banner">
+      <div class="region region-header">
+    <div id="block-anses-site-branding">
+  
+    
+  			<a href="/fr" rel="home" class="secondary-logo logo-big">
+			<img src="/themes/custom/anses/assets/img/marianne.svg" alt="Accueil"/>
+		</a>
+		<a href="/fr" rel="home" class="secondary-logo logo-small">
+			<img src="/themes/custom/anses/assets/img/marianne-small.svg" alt="Accueil"/>
+		</a>
+		<a href="/fr" rel="home" class="main-logo logo-big">
+			<img src="/themes/custom/anses/logo.svg" alt="Accueil"/>
+		</a>
+		<a href="/fr" rel="home" class="main-logo logo-small">
+			<img src="/themes/custom/anses/assets/img/anses-small.svg" alt="Accueil"/>
+		</a>
+			
+</div>
+<nav role="navigation" aria-labelledby="block-anses-main-menu-menu" id="block-anses-main-menu">
+            
+  <h2 class="visually-hidden" id="block-anses-main-menu-menu">Main navigation</h2>
+  
+
+        
+
+<div class="menu-main-container">
+								<ul class="menu-main">
+																														<li class="expanded menu-item">
+						<a href="/fr/content/actualites" class="menu-item__link" data-drupal-link-system-path="node/152799">Actualités</a>
+													<div class="submenu-wrapper submenu-1">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Actualités</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/actualites" class="menu-item__link" data-drupal-link-system-path="node/152799">Toutes les actualités</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/actualites?field_thematique_target_id=All&amp;field_type_actualite_target_id=1819" class="menu-item__link" data-drupal-link-query="{&quot;field_thematique_target_id&quot;:&quot;All&quot;,&quot;field_type_actualite_target_id&quot;:&quot;1819&quot;}" data-drupal-link-system-path="node/152799">Nos événements</a>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/actualites" class="menu-item__link" data-drupal-link-system-path="node/152799">Les bibliothèques de nos événements</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Les bibliothèques de nos événements</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/bibliotheque-des-presentations-des-rencontres-scientifiques" class="menu-item__link" data-drupal-link-system-path="node/95905">Bibliothèque des présentations des &quot;Rencontres scientifiques de l&#039;Anses&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/journee-antibioresistance-en-sante-animale" class="menu-item__link" data-drupal-link-system-path="node/103312">Bibliothèque des présentations des journées &quot;Antibiorésistance en santé animale&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/rencontres-scientifiques-de-lanses-journees-abeilles" class="menu-item__link" data-drupal-link-system-path="node/99917">Bibliothèque des présentations des journées &quot;Santé des abeilles&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/bibliotheque-des-presentations-de-la-journee-vecteurs" class="menu-item__link" data-drupal-link-system-path="node/163077">Bibliothèque des présentations de la journée &quot;Vecteurs&quot;</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr" class="menu-item__link is-active" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">Explorer nos sujets</a>
+													<div class="submenu-wrapper submenu-1">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Explorer nos sujets</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/glossaire" id="indexaz" class="menu-item__link" data-drupal-link-system-path="glossaire">Nos sujets de A à Z</a>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/le-moustique-tigre" class="menu-item__link" data-drupal-link-system-path="node/145361">Focus sur</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Focus sur</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/les-neonicotinoides" class="menu-item__link" data-drupal-link-system-path="node/146167">Les néonicotinoïdes</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/dermatose-nodulaire-contagieuse-maladie-virale-bovine-a-surveiller" class="menu-item__link" data-drupal-link-system-path="node/167397">Dermatose nodulaire contagieuse : une maladie virale bovine à surveiller de près</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/le-moustique-tigre" class="menu-item__link" data-drupal-link-system-path="node/145361">Le moustique tigre</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr" class="menu-item__link is-active" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">Nous connaître</a>
+													<div class="submenu-wrapper submenu-1">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Nous connaître</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="expanded menu-item">
+						<a href="/fr/content/notre-identite" class="menu-item__link" data-drupal-link-system-path="node/152963">L&#039;essentiel</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">L&#039;essentiel</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/notre-identite" class="menu-item__link" data-drupal-link-system-path="node/152963">Carte d&#039;identité</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/notre-organisation" class="menu-item__link" data-drupal-link-system-path="node/152960">Notre organisation</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/notre-gouvernance" class="menu-item__link" data-drupal-link-system-path="node/152952">Gouvernance</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/evaluer-les-risques-sanitaires" class="menu-item__link" data-drupal-link-system-path="node/167646">Au coeur de nos missions</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Au coeur de nos missions</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/produire-des-connaissances-scientifiques" class="menu-item__link" data-drupal-link-system-path="node/152965">Produire des connaissances</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/surveiller-et-alerter" class="menu-item__link" data-drupal-link-system-path="node/152966">Surveiller et alerter</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/examiner-des-demandes-dautorisation-de-mise-sur-le-marche" class="menu-item__link" data-drupal-link-system-path="node/152969">Examiner des demandes d’autorisation de mise sur le marché</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/evaluer-les-risques-sanitaires" class="menu-item__link" data-drupal-link-system-path="node/167646">Évaluer les risques sanitaires</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/thematique/sante-et-environnement" class="menu-item__link" data-drupal-link-system-path="taxonomy/term/229">Nos thématiques</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Nos thématiques</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/thematique/sante-et-environnement" class="menu-item__link" data-drupal-link-system-path="taxonomy/term/229">Santé et environnement</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/thematique/sante-et-bien-etre-des-animaux" class="menu-item__link" data-drupal-link-system-path="taxonomy/term/222">Santé et bien-être des animaux</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/thematique/sante-et-travail" class="menu-item__link" data-drupal-link-system-path="taxonomy/term/2375">Santé et travail </a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/thematique/alimentation-et-nutrition-humaine" class="menu-item__link" data-drupal-link-system-path="taxonomy/term/2142">Alimentation et nutrition humaine</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/thematique/sante-des-vegetaux" class="menu-item__link" data-drupal-link-system-path="taxonomy/term/231">Santé des végétaux</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/thematique/produits-phytopharmaceutiques-biocides-fertilisants-et-macro-organismes" class="menu-item__link" data-drupal-link-system-path="taxonomy/term/232">Produits phytopharmaceutiques, biocides, fertilisants et macro-organismes</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/comprendre-lexpertise-collective" class="menu-item__link" data-drupal-link-system-path="node/153166">Aller plus loin</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Aller plus loin</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/comprendre-lexpertise-collective" class="menu-item__link" data-drupal-link-system-path="node/153166">Comprendre l&#039;expertise collective</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/cadre-deontologique" class="menu-item__link" data-drupal-link-system-path="node/152987">Cadre déontologique</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/les-declarations-publiques-dinterets-dpi" class="menu-item__link" data-drupal-link-system-path="node/153009">Déclarations publiques d&#039;intérets</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/le-comite-de-deontologie-et-de-prevention-des-conflits-dinterets" class="menu-item__link" data-drupal-link-system-path="node/152995">Comité de déontologie</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/le-conseil-scientifique" class="menu-item__link" data-drupal-link-system-path="node/157062">Conseil scientifique</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/dialogue-et-ouverture-la-societe" class="menu-item__link" data-drupal-link-system-path="node/152988">Dialogue et ouverture à la société</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/lapport-des-sciences-sociales" class="menu-item__link" data-drupal-link-system-path="node/40634">Sciences sociales</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/celles-et-ceux-qui-font-lanses" class="menu-item__link" data-drupal-link-system-path="node/147755">Celles et ceux qui font l&#039;Anses</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr" class="menu-item__link is-active" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">Nos publications</a>
+													<div class="submenu-wrapper submenu-1">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Nos publications</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="expanded menu-item">
+						<a href="/fr/content/avis-et-rapports-de-lanses-sur-saisine" class="menu-item__link" data-drupal-link-system-path="node/50213">Avis et rapports</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Avis et rapports</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-de-lanses-sur-saisine" class="menu-item__link" data-drupal-link-system-path="node/50213">Tous les avis et rapports</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/derniers-documents-mis-en-ligne" class="menu-item__link" data-drupal-link-system-path="derniers-documents-mis-en-ligne">Derniers avis et rapports</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-dexpertise-alimentation-et-nutrition-humaine" class="menu-item__link" data-drupal-link-system-path="node/122677">Avis et rapports en &quot;Alimentation et nutrition&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-dexpertise-sante-travail" class="menu-item__link" data-drupal-link-system-path="node/122678">Avis et rapports en &quot;Santé travail&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-dexpertise-sante-environnement" class="menu-item__link" data-drupal-link-system-path="node/122680">Avis et rapports en &quot;Santé environnement&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-dexpertise-alimentation-et-sante-animale" class="menu-item__link" data-drupal-link-system-path="node/122679">Avis et rapports en &quot;Alimentation et santé animale&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-dexpertise-medicament-veterinaire-anmv" class="menu-item__link" data-drupal-link-system-path="node/122681">Avis et rapports sur les &quot;Médicaments vétérinaires&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-dexpertise-sante-et-protection-du-vegetal" class="menu-item__link" data-drupal-link-system-path="node/122682">Avis et rapports en &quot;Santé et protection du végétal&quot;</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-et-rapports-dexpertise-produits-phytopharmaceutiques-et-macro-organismes-produits" class="menu-item__link" data-drupal-link-system-path="node/122683">Avis et rapports d’expertise : Produits phytopharmaceutiques et macro-organismes ; Produits Biocides ; Matières fertilisantes et supports de culture</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/registre-des-amm-des-produits-phytopharmaceutiques-et-des-matieres-fertilisantes-et" class="menu-item__link" data-drupal-link-system-path="node/106148">Décisions réglementaires</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Décisions réglementaires</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/registre-des-amm-des-produits-phytopharmaceutiques-et-des-matieres-fertilisantes-et" class="menu-item__link" data-drupal-link-system-path="node/106148">Registre des AMM des produits phytopharmaceutiques et des matières fertilisantes et supports de culture</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/registre-des-amm-de-produits-biocides" class="menu-item__link" data-drupal-link-system-path="node/122877">Registre des AMM des produits biocides</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/registre-des-avis-macroorganismes" class="menu-item__link" data-drupal-link-system-path="node/128804">Registre des avis macroorganismes</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/registres-des-medicaments-veterinaires" class="menu-item__link" data-drupal-link-system-path="node/141399">Registres des médicaments vétérinaires</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux" class="menu-item__link" data-drupal-link-system-path="node/147663">Demande d&#039;agrément des laboratoires</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/produits-et-procedes-de-traitement-des-eaux-de-piscines-et-baignades-artificielles" class="menu-item__link" data-drupal-link-system-path="node/148139">Produits et procédés de traitement des eaux de piscines et baignades artificielles</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/fluides-de-thanatopraxie" class="menu-item__link" data-drupal-link-system-path="node/148140">Fluides de thanatopraxie</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/autorisation-dutilisation-dadditifs-pour-lalimentation-animale-non-autorises-dans-lunion" class="menu-item__link" data-drupal-link-system-path="node/157560">Autorisation d&#039;utilisation d&#039;additifs pour l&#039;alimentation animale, non autorisés dans l&#039;Union européenne, à des fins de recherche</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/registre-des-actes-de-lagence" class="menu-item__link" data-drupal-link-system-path="node/154674">Registre des actes de l&#039;Agence</a>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/fiches-outils-aide-la-construction-de-guides-de-bonnes-pratiques-professionnelles" class="menu-item__link" data-drupal-link-system-path="node/103936">Fiches scientifiques</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Fiches scientifiques</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/fiches-outils-aide-la-construction-de-guides-de-bonnes-pratiques-professionnelles" class="menu-item__link" data-drupal-link-system-path="node/103936">Fiches outils - Guides de bonnes pratiques professionnelles</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/fiches-de-dangers-biologiques-transmissibles-par-les-aliments" class="menu-item__link" data-drupal-link-system-path="node/93795">Fiches de dangers biologiques</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/fiches-de-maladies-animales" class="menu-item__link" data-drupal-link-system-path="node/98736">Fiches de maladies animales</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/fiches-maladies-vegetales" class="menu-item__link" data-drupal-link-system-path="node/105598">Fiches sur les maladies végétales</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/les-fiches-de-phytopharmacovigilance-pour-plus-dinformations-sur-les-substances" class="menu-item__link" data-drupal-link-system-path="node/132479">Fiches de phytopharmacovigilance</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/fiches-de-reconnaissance-des-insectes" class="menu-item__link" data-drupal-link-system-path="node/159512">Fiches de reconnaissance des insectes</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/fiches-de-reconnaissance-des-plantes" class="menu-item__link" data-drupal-link-system-path="node/159469">Fiches de reconnaissance des plantes</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/les-cahiers-de-la-recherche" class="menu-item__link" data-drupal-link-system-path="node/80113">Périodiques et magazines scientifiques</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Périodiques et magazines scientifiques</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="https://be.anses.fr/" target="_blank" class="menu-item__link">Bulletin épidémiologique </a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/les-cahiers-de-la-recherche" class="menu-item__link" data-drupal-link-system-path="node/80113">Cahiers de la recherche</a>
+											</li>
+																														<li class="menu-item">
+						<a href="https://vigilanses.anses.fr/fr" target="_blank" class="menu-item__link">Vigil&#039;Anses</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/rapport-dactivite-2024" class="menu-item__link" data-drupal-link-system-path="node/167101">Rapport d&#039;activité 2024</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+																														<li class="expanded menu-item">
+						<a href="/fr/content/toutes-les-consultations-publiques" class="menu-item__link" data-drupal-link-system-path="node/153169">Appels et consultations</a>
+													<div class="submenu-wrapper submenu-2">
+								<div class="submenu">
+									<div class="submenu__parent-link">
+										<button type="button">Appels et consultations</button>
+									</div>
+																<ul class="submenu__menu">
+																														<li class="menu-item">
+						<a href="/fr/content/toutes-les-consultations-publiques" class="menu-item__link" data-drupal-link-system-path="node/153169">Consultations publiques</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/liste-appel-candidature-d-experts" class="menu-item__link" data-drupal-link-system-path="liste-appel-candidature-d-experts">Appels à candidatures</a>
+											</li>
+																														<li class="menu-item">
+						<a href="/fr/content/avis-dappel-manifestation-dinteret-ami" class="menu-item__link" data-drupal-link-system-path="node/136161">Appels à manifestations d&#039;intérêt</a>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+											</ul>
+			
+								</div>
+							</div>
+											</li>
+													<li class="access-rapide">
+						Acces rapide
+					</li>
+							</ul>
+			
+
+	
+	<div class="panel-footer">
+		
+              <ul class="menu-arborescence-superieur">
+              <li>
+        <a href="/fr/content/europe-international" data-drupal-link-system-path="node/153128">Europe &amp; International</a>
+              </li>
+          <li>
+        <a href="/fr/content/collectifs-dexperts" data-drupal-link-system-path="node/152951">Collectifs d’experts</a>
+              </li>
+          <li>
+        <a href="/fr/content/le-programme-national-de-recherche-environnement-sante-travail" data-drupal-link-system-path="node/50280">Programme de recherche</a>
+              </li>
+          <li>
+        <a href="/fr/content/espace-presse" data-drupal-link-system-path="node/153783">Espace Presse</a>
+              </li>
+          <li>
+        <a href="/fr/content/rejoignez-nous" data-drupal-link-system-path="node/153723">Rejoignez-nous !</a>
+              </li>
+        </ul>
+  
+
+
+		<div class="panel-footer-bottom">
+			<div class="language-switcher-language-url" role="navigation">
+  
+    
+      	
+						<div class="selected">
+				fr
+				<svg width="14" height="8" xmlns="http://www.w3.org/2000/svg"><path d="M1 .5l6 7 6-7" fill="none"/></svg>
+			</div>
+						
+	<ul class="links">
+		
+			<li hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">
+
+									<a href="/fr" class="language-link is-active" hreflang="fr" data-drupal-link-system-path="&lt;front&gt;" aria-current="page">Français</a>
+
+							</li>
+		
+			<li hreflang="en" data-drupal-link-system-path="&lt;front&gt;">
+
+									<a href="/en" class="language-link" hreflang="en" data-drupal-link-system-path="&lt;front&gt;">English</a>
+
+							</li>
+			</ul>
+
+  </div>
+
+			
+              <ul class="menu-reseaux-sociaux">
+              <li>
+        <a href="https://x.com/Anses_fr" class="twitter" target="_blank">X</a>
+              </li>
+          <li>
+        <a href="https://www.facebook.com/AgenceAnses" class="facebook" target="_blank">Facebook</a>
+              </li>
+          <li>
+        <a href="https://www.linkedin.com/company/2044612/" class="linkedin" target="_blank">LinkedIn</a>
+              </li>
+          <li>
+        <a href="https://www.youtube.com/channel/UCb83vpQhwHx-9WL1ri-_vgg" class="youtube" target="_blank">Youtube</a>
+              </li>
+        </ul>
+  
+
+
+		</div>
+	</div>
+</div>
+
+<!-- Search -->
+<button id="a_search" type="button" class="search__trigger" role="button" aria-expanded="false"></button>
+
+<!-- Burger -->
+<button type="button" id="burger" class="burger" role="button" aria-expanded="false"></button>
+
+  </nav>
+<div id="block-anses-simplesearchform-2" class="search-block-form">
+  
+    
+      <form class="simple-search-form" data-drupal-selector="simple-search-form-2" action="/fr/search" method="get" id="simple-search-form--2" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-text js-form-item-text form-no-label">
+      <label for="edit-text--2" class="visually-hidden">Recherche</label>
+        <input placeholder="Rechercher sur le site" class="form-autocomplete form-text" data-drupal-selector="edit-text" data-search-api-autocomplete-search="search_page" data-autocomplete-path="/fr/search_api_autocomplete/search_page?filter=search_api_fulltext&amp;display=page_1" type="text" id="edit-text--2" name="text" value="" size="60" maxlength="128" />
+
+        </div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions--2"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit--2" value="Recherche" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+    <div class="close-btn close-main-menu"><span class="visually-hidden">Close</span></div>
+</div>
+
+  </div>
+
+  </header>
+
+  
+  
+
+  
+
+  
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    
+<div class="fast-access-wrap" id="fast-access-wrap">
+  <div class="fast-access__switch-wrap">
+    <button type="button" class="fast-access__switch"><span>Accès rapides</span></button>
+  </div>
+
+  <div class="fast-access">
+
+    
+    
+
+    <h2 class="fast-access__title">Accès rapides</h2>
+
+    <div class="fast-access__content">
+                    
+              <ul class="menu-menu-fast-access">
+              <li>
+        <a href="/fr/content/avis-et-rapports-de-lanses-sur-saisine" data-drupal-link-system-path="node/50213">Tous les avis et rapports</a>
+              </li>
+          <li>
+        <a href="/fr/derniers-documents-mis-en-ligne" data-drupal-link-system-path="derniers-documents-mis-en-ligne">Les derniers avis et rapports</a>
+              </li>
+          <li>
+        <a href="/fr/content/espace-presse" data-drupal-link-system-path="node/153783">Espace Presse</a>
+              </li>
+          <li>
+        <a href="/fr/content/rejoignez-nous" data-drupal-link-system-path="node/153723">Rejoignez-nous</a>
+              </li>
+          <li>
+        <a href="/fr/portails/medicaments-veterinaires" data-drupal-link-system-path="taxonomy/term/1808">Médicaments vétérinaires</a>
+              </li>
+          <li>
+        <a href="https://www.anses.fr/fr/portails/nos-laboratoires">Nos laboratoires</a>
+              </li>
+        </ul>
+  
+
+
+          </div>
+
+  </div>
+</div>
+
+<div id="block-anses-newsletterpopup">
+  
+    
+      <div class="newsletter-popup">
+          <div class="newsletter-popup-content">
+            <div class="button">X</div>
+            <div class="newsletter-popup-text">
+              <p class="newsletter-second-p"><strong>Restez informé,<br> découvrez nos newsletters.</strong></p>
+              <a href="/fr/content/notre-offre-de-newsletters">S'abonner</a>
+            </div>
+          </div>
+        </div>
+  </div>
+<div id="block-anses-system-main">
+  
+    
+      	
+
+<article class="accuiel accuiel-full without-image node-full">
+
+	
+	
+		
+
+	<div class="node-content">
+
+		<!-- TOC Sidebar -->
+		
+		
+		<!-- Infobar -->
+		
+		<!-- Node Title -->
+		
+
+		<!-- Share -->
+		
+		
+		
+		<!-- Node Subtitle -->
+		
+										    
+		<!-- Node Content -->
+		<div class="node-body">
+			
+
+
+
+
+
+
+
+
+          <div  class="accuiel__ct_paragraphs field--entity-reference-revisions">
+      <div  class="accuiel__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-une-accuiel paragraph--view-mode--default paragraph--type--pt-une-accuiel--text_right">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-une-accuiel__pt_page field--entity-reference"><article class="actualite actualite-une node--une">
+  <a href="/fr/content/marcher-regulierement-5-minutes-pour-preserver-sa-sante" class="full-link"></a>
+
+  
+  
+
+  
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__image field--image">  <img loading="lazy" src="/sites/default/files/styles/banner/public/2025-10-09-sedentarite.jpg?itok=xKxS93H9" width="1920" height="600" alt="Marcher 5 minutes toutes les 30 minutes pour préserver sa santé" />
+
+
+</div>
+    
+  
+
+
+  <div class="node--une__content">
+    <h2 class="title">
+<span>Marcher régulièrement 5 minutes pour préserver sa santé</span>
+</h2>
+    
+
+    <div class="arrow-link__wrap">
+      <a href="/fr/content/marcher-regulierement-5-minutes-pour-preserver-sa-sante" class="arrow-link">Lire l'article</a>
+    </div>
+  </div>
+
+</article>
+</div>
+    
+  
+
+      </div>
+</div><div  class="accuiel__ct_paragraphs-item">
+	<div class="paragraph paragraph--type--pt-actualites-accueil paragraph--view-mode--default">
+		<div class="para__header">
+			<h2 class="section-title">
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil__pt_title field--string">Nos actualités</div>
+    
+  
+</h2>
+							<div class="arrow-link__wrap">
+					<a href="/fr/content/actualites" class="arrow-link">Toutes nos actualités</a>
+				</div>
+					</div>
+					
+
+
+
+
+
+
+
+
+          <div  class="pt-actualites-accueil__ct_paragraphs field--entity-reference-revisions">
+      <div  class="small_image_text pt-actualites-accueil__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-actualites-accueil-item paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil-item__news field--entity-reference"><article class="actualite actualite-teaser node--teaser-has-image node-teaser node--actualite-teaser splide_inner">
+
+  <div class="card">
+    <a href="/fr/content/des-jardins-dhiver-pour-le-bien-etre-des-poulets" class="full-link"></a>
+
+    
+    
+
+
+    <div class="card__media">
+      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__image field--image">  <img loading="lazy" src="/sites/default/files/styles/actualite_teaser/public/2025-10-09-poulets.jpg?itok=MtP5FyWW" width="809" height="572" alt="Des poulets dans un jardin d&#039;hiver" title="poulets" />
+
+
+</div>
+    
+  
+
+    </div>
+    <div class="teaser__content card__content">
+
+      <div class="infobar">
+        <span class="infobar__item infobar__item--date">
+          <svg class="icon icon--calendar" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#calendar"></use></svg>
+                      09/10/2025
+                  </span>
+
+        <div class="infobar__item infobar__item--type">
+                      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/recherche" hreflang="fr">Recherche</a></div>
+    
+  
+
+                    
+        </div>
+
+      </div>
+
+      <h3 class="teaser__title card__title">
+<span>Des jardins d’hiver pour le bien-être des poulets</span>
+</h3>
+
+                    Une étude scientifique documente les effets bénéfiques des jardins d’hiver sur la santé et le bien-être des poulets de chair. 
+
+      
+      <div class="teaser__arrow-wrap">
+        <span class="teaser__arrow">
+          <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg>
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+</article>
+</div>
+    
+  
+
+      </div>
+</div><div  class="small_image_text pt-actualites-accueil__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-actualites-accueil-item paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil-item__news field--entity-reference"><article class="actualite actualite-teaser node--teaser-has-image node-teaser node--actualite-teaser splide_inner">
+
+  <div class="card">
+    <a href="/fr/content/pestiriv-resultats-de-letude-nationale-sur-lexposition-aux-pesticides-des-riverains-de" class="full-link"></a>
+
+    
+    
+
+
+    <div class="card__media">
+      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__image field--image">  <img loading="lazy" src="/sites/default/files/styles/actualite_teaser/public/2025-09-15-pestiriv_0.jpg?itok=ANIQUzU7" width="809" height="572" alt="PestiRiv : résultats de l’étude nationale sur l’exposition aux pesticides des riverains de zones viticoles" />
+
+
+</div>
+    
+  
+
+    </div>
+    <div class="teaser__content card__content">
+
+      <div class="infobar">
+        <span class="infobar__item infobar__item--date">
+          <svg class="icon icon--calendar" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#calendar"></use></svg>
+                      15/09/2025
+                  </span>
+
+        <div class="infobar__item infobar__item--type">
+                      <div class="type-actualite">Actualités</div>
+                    
+        </div>
+
+      </div>
+
+      <h3 class="teaser__title card__title">
+<span>PestiRiv : résultats de l’étude nationale sur l’exposition aux pesticides des riverains de zones viticoles</span>
+</h3>
+
+                    Les personnes vivant près de vignes sont plus exposées aux produits phytopharmaceutiques (1) que celles vivant loin de toute culture. C’est le...
+      
+      <div class="teaser__arrow-wrap">
+        <span class="teaser__arrow">
+          <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg>
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+</article>
+</div>
+    
+  
+
+      </div>
+</div><div  class="small_image_text pt-actualites-accueil__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-actualites-accueil-item paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil-item__news field--entity-reference"><article class="actualite actualite-teaser node--teaser-has-image node-teaser node--actualite-teaser splide_inner">
+
+  <div class="card">
+    <a href="/fr/content/restreindre-utilisation-octocrylene-dans-les-produits-cosmetiques-pour-proteger-environnement" class="full-link"></a>
+
+    
+    
+
+
+    <div class="card__media">
+      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__image field--image">  <img loading="lazy" src="/sites/default/files/styles/actualite_teaser/public/184688914_m.jpg?itok=p9hpMZrd" width="809" height="572" alt="" />
+
+
+</div>
+    
+  
+
+    </div>
+    <div class="teaser__content card__content">
+
+      <div class="infobar">
+        <span class="infobar__item infobar__item--date">
+          <svg class="icon icon--calendar" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#calendar"></use></svg>
+                      01/10/2025
+                  </span>
+
+        <div class="infobar__item infobar__item--type">
+                      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/expertise" hreflang="fr">Expertise</a></div>
+    
+  
+
+                    
+        </div>
+
+      </div>
+
+      <h3 class="teaser__title card__title">
+<span>Restreindre l’utilisation de l’octocrylène dans les produits cosmétiques pour protéger l’environnement </span>
+</h3>
+
+                    L’octocrylène est une substance très utilisée dans les produits cosmétiques pour ses propriétés de filtre solaire, de photo-stabilisant et...
+      
+      <div class="teaser__arrow-wrap">
+        <span class="teaser__arrow">
+          <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg>
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+</article>
+</div>
+    
+  
+
+      </div>
+</div><div  class="small_image_text pt-actualites-accueil__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-actualites-accueil-item paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil-item__news field--entity-reference"><article class="actualite actualite-teaser node--teaser-has-image node-teaser node--actualite-teaser splide_inner">
+
+  <div class="card">
+    <a href="/fr/content/sumeau-quatre-ans-de-surveillance-du-covid-19-dans-les-eaux-usees" class="full-link"></a>
+
+    
+    
+
+
+    <div class="card__media">
+      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__image field--image">  <img loading="lazy" src="/sites/default/files/styles/actualite_teaser/public/2025-09-29-sumeau.jpg?itok=3bEwKDjt" width="809" height="572" alt="SUM’EAU : quatre ans de surveillance du Covid 19 dans les eaux usées" />
+
+
+</div>
+    
+  
+
+    </div>
+    <div class="teaser__content card__content">
+
+      <div class="infobar">
+        <span class="infobar__item infobar__item--date">
+          <svg class="icon icon--calendar" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#calendar"></use></svg>
+                      29/09/2025
+                  </span>
+
+        <div class="infobar__item infobar__item--type">
+                      <div class="type-actualite">Actualités</div>
+                    
+        </div>
+
+      </div>
+
+      <h3 class="teaser__title card__title">
+<span>SUM’EAU : quatre ans de surveillance du Covid 19 dans les eaux usées</span>
+</h3>
+
+                    Depuis septembre 2021, le réseau SUM’EAU, coordonné par Santé publique France et l’Anses, joue un rôle déterminant dans la surveillance...
+      
+      <div class="teaser__arrow-wrap">
+        <span class="teaser__arrow">
+          <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg>
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+</article>
+</div>
+    
+  
+
+      </div>
+</div></div>
+      
+    
+  
+
+			</div>
+</div><div  class="accuiel__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-une-dossiers paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-une-dossiers__titre_moiss field--string">  <h2  class="section-title">Focus sur</h2>
+</div>
+    
+  
+
+
+
+
+
+
+
+
+
+          <div  class="pt-une-dossiers__pt_pages field--entity-reference">
+      <div  class="pt-une-dossiers__pt_pages-item"><article class="article-scientifique article-scientifique-teaser-text node--teaser-text">
+  <a href="/fr/content/dermatose-nodulaire-contagieuse-maladie-virale-bovine-a-surveiller" class="full-link"></a>
+
+  
+  
+
+        <h2 class="title">
+<span>Dermatose nodulaire contagieuse : une maladie virale bovine à surveiller de près</span>
+</h2>
+  
+  
+
+
+
+
+
+
+
+
+          
+      <div  class="article-scientifique__body field--text-with-summary"><p>La dermatose nodulaire contagieuse (DNC) est une maladie virale émergente qui touche exclusivement les bovins. Transmise principalement par des insectes piqueurs, elle était autrefois limitée à l’Afrique subsaharienne, mais elle a récemment fait son apparition en Europe. Cette maladie ne présente aucun risque pour la santé humaine, mais elle peut avoir des conséquences importantes pour les élevages. Symptômes, modes de transmission, moyens de lutte…le point sur cette maladie sous surveillance.</p>
+</div>
+    
+  
+
+
+  <div class="arrow-link__wrap">
+    <a href="/fr/content/dermatose-nodulaire-contagieuse-maladie-virale-bovine-a-surveiller" class="arrow-link">En savoir plus</a>
+  </div>
+</article>
+</div><div  class="pt-une-dossiers__pt_pages-item"><article class="article-scientifique article-scientifique-teaser-text node--teaser-text">
+  <a href="/fr/content/le-moustique-tigre" class="full-link"></a>
+
+  
+  
+
+        <h2 class="title">
+<span>Le moustique tigre</span>
+</h2>
+  
+  
+
+
+
+
+
+
+
+
+          
+      <div  class="article-scientifique__body field--text-with-summary"><p>Originaire des forêts tropicales d’Asie du Sud-Est, le moustique tigre <em>Aedes albopictus </em>s’est adapté à divers environnements, et notamment au milieu urbain en profitant d’une multitude de récipients, dans lesquels il pond ses œufs. Anthropophile opportuniste, le moustique tigre pique les êtres humains et peut être vecteur&nbsp;de virus comme ceux de la dengue, du chikungunya ou du Zika. Présentation d'un moustique qui n'a pas fini de faire parler de lui.&nbsp;</p>
+</div>
+    
+  
+
+
+  <div class="arrow-link__wrap">
+    <a href="/fr/content/le-moustique-tigre" class="arrow-link">En savoir plus</a>
+  </div>
+</article>
+</div><div  class="pt-une-dossiers__pt_pages-item"><article class="article-scientifique article-scientifique-teaser-text node--teaser-text">
+  <a href="/fr/content/l-Anses-et-l-autorisation-des-produits-phytopharmaceutiques-en-20-questions" class="full-link"></a>
+
+  
+  
+
+        <h2 class="title">
+<span>L&#039;Anses et l’autorisation des produits phytopharmaceutiques en 20 questions</span>
+</h2>
+  
+  
+
+
+
+
+
+
+
+
+          
+      <div  class="article-scientifique__body field--text-with-summary"><p>L’Anses est en charge d’examiner les demandes d’autorisation des produits phytopharmaceutiques. En quoi consiste exactement cette mission ? Comment cela s’inscrit-il dans le cadre français et européen ? 20 questions pour tout comprendre.</p>
+</div>
+    
+  
+
+
+  <div class="arrow-link__wrap">
+    <a href="/fr/content/l-Anses-et-l-autorisation-des-produits-phytopharmaceutiques-en-20-questions" class="arrow-link">En savoir plus</a>
+  </div>
+</article>
+</div></div>
+      
+    
+  
+
+      </div>
+</div><div  class="accuiel__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-recherche-site paragraph--view-mode--default">
+        <div id="block-anses-simplesearchform" class="search-block-form">
+  
+    
+      <form class="simple-search-form" data-drupal-selector="simple-search-form" action="/fr/search" method="get" id="simple-search-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-item-text js-form-item-text form-no-label">
+      <label for="edit-text" class="visually-hidden">Recherche</label>
+        <input placeholder="Rechercher sur le site" class="form-autocomplete form-text" data-drupal-selector="edit-text" data-search-api-autocomplete-search="search_page" data-autocomplete-path="/fr/search_api_autocomplete/search_page?filter=search_api_fulltext&amp;display=page_1" type="text" id="edit-text" name="text" value="" size="60" maxlength="128" />
+
+        </div>
+<div class="form-actions js-form-wrapper form-wrapper" data-drupal-selector="edit-actions" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Recherche" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+    <div class="close-btn close-main-menu"><span class="visually-hidden">Close</span></div>
+</div>
+
+          
+
+
+
+
+
+
+
+
+          <div  class="pt-recherche-site__linkall field--link">
+      <div  class="pt-recherche-site__linkall-item"><a href="/fr/content/rejoignez-nous">Recrutement</a></div><div  class="pt-recherche-site__linkall-item"><a href="/fr/glossaire">Nos sujets de A à Z</a></div><div  class="pt-recherche-site__linkall-item"><a href="/fr/content/les-references-nutritionnelles-en-vitamines-et-mineraux">Les références nutritionnelles</a></div><div  class="pt-recherche-site__linkall-item"><a href="/fr/content/notre-identite">Notre identité</a></div><div  class="pt-recherche-site__linkall-item"><a href="/fr/content/pestiriv-une-etude-sur-lexposition-aux-pesticides-des-personnes-vivant-en-zone-viticole">Etude PestiRiv</a></div></div>
+      
+    
+  
+
+      </div>
+</div><div  class="accuiel__ct_paragraphs-item">
+	<div class="paragraph paragraph--type--pt-actualites-accueil paragraph--view-mode--default">
+		<div class="para__header">
+			<h2 class="section-title">
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil__pt_title field--string">Agenda</div>
+    
+  
+</h2>
+							<div class="arrow-link__wrap">
+					<a href="/fr/content/actualites" class="arrow-link">Toutes nos actualités</a>
+				</div>
+					</div>
+					
+
+
+
+
+
+
+
+
+          <div  class="pt-actualites-accueil__ct_paragraphs field--entity-reference-revisions">
+      <div  class="small_image_text pt-actualites-accueil__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-actualites-accueil-item paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil-item__news field--entity-reference"><article class="actualite actualite-teaser node--teaser-has-image node-teaser node--actualite-teaser splide_inner">
+
+  <div class="card">
+    <a href="/fr/content/fete-de-la-science-explorez-les-intelligences" class="full-link"></a>
+
+    
+    
+
+
+    <div class="card__media">
+      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__image field--image">  <img loading="lazy" src="/sites/default/files/styles/actualite_teaser/public/2025-10-03-fete-de-la-science.jpg?itok=u0u1W6Ii" width="809" height="572" alt="Fête de la science : explorez les intelligences" />
+
+
+</div>
+    
+  
+
+    </div>
+    <div class="teaser__content card__content">
+
+      <div class="infobar">
+        <span class="infobar__item infobar__item--date">
+          <svg class="icon icon--calendar" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#calendar"></use></svg>
+                      13/10/2025
+                  </span>
+
+        <div class="infobar__item infobar__item--type">
+                      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/evenement" hreflang="fr">Événement</a></div>
+    
+  
+
+                                
+          
+        </div>
+
+      </div>
+
+      <h3 class="teaser__title card__title">
+<span>Fête de la science : explorez les intelligences</span>
+</h3>
+
+              <div class="event__details">
+          <div class="event__details-item">
+            
+          </div>
+          <div class="event__details-item">
+            
+          </div>
+          <div class="event__details-item">
+            Public :
+            
+          </div>
+          <div class="event__details-item">
+            
+          </div>
+        </div>
+                     Pour cette nouvelle édition de la Fête de la Science, retrouvez les équipes de l’Anses partout en France du 3 au 13 octobre 2025. Cerveau,...
+      
+      <div class="teaser__arrow-wrap">
+        <span class="teaser__arrow">
+          <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg>
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+</article>
+</div>
+    
+  
+
+      </div>
+</div><div  class="small_image_text pt-actualites-accueil__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-actualites-accueil-item paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-actualites-accueil-item__news field--entity-reference"><article class="actualite actualite-teaser node--teaser-has-image node-teaser node--actualite-teaser splide_inner">
+
+  <div class="card">
+    <a href="/fr/content/salon-international-caprin-caprinov" class="full-link"></a>
+
+    
+    
+
+
+    <div class="card__media">
+      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__image field--image">  <img loading="lazy" src="/sites/default/files/styles/actualite_teaser/public/2025-11-23-caprinnov_0.jpg?itok=Q5R4kk1O" width="809" height="572" alt="Salon international caprin Capr’Inov " />
+
+
+</div>
+    
+  
+
+    </div>
+    <div class="teaser__content card__content">
+
+      <div class="infobar">
+        <span class="infobar__item infobar__item--date">
+          <svg class="icon icon--calendar" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#calendar"></use></svg>
+                      13/10/2025
+                  </span>
+
+        <div class="infobar__item infobar__item--type">
+                      
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/evenement" hreflang="fr">Événement</a></div>
+    
+  
+
+                                
+          
+        </div>
+
+      </div>
+
+      <h3 class="teaser__title card__title">
+<span>Salon international caprin Capr’Inov </span>
+</h3>
+
+              <div class="event__details">
+          <div class="event__details-item">
+            
+          </div>
+          <div class="event__details-item">
+            
+          </div>
+          <div class="event__details-item">
+            Public :
+            
+          </div>
+          <div class="event__details-item">
+            
+          </div>
+        </div>
+                    L’Anses présentera ses travaux sur la santé et le bien-être des chèvres au salon Capr’Inov à Niort les 26 et 27 novembre 2025. 
+      
+      <div class="teaser__arrow-wrap">
+        <span class="teaser__arrow">
+          <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg>
+        </span>
+      </div>
+
+    </div>
+  </div>
+
+</article>
+</div>
+    
+  
+
+      </div>
+</div></div>
+      
+    
+  
+
+			</div>
+</div><div  class="accuiel__ct_paragraphs-item">  <div class="paragraph paragraph--type--pt-portails paragraph--view-mode--default">
+          
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-portails__pt_title field--string">  <h2  class="section-title">Portails</h2>
+</div>
+    
+  
+
+
+
+
+
+
+
+
+
+          <div  class="pt-portails__pt_sites_terms field--entity-reference">
+      <div  class="pt-portails__pt_sites_terms-item">
+
+
+
+    
+
+  <div  class="slider splide slider--slide" data-splide="{&quot;type&quot;:&quot;slide&quot;,&quot;arrows&quot;:false,&quot;arrowPath&quot;:&quot;m21.106 20-5.159-5.159 1.4737-1.4737 6.6327 6.6327-6.6327 6.6327-1.4737-1.4737z&quot;,&quot;pagination&quot;:false,&quot;gap&quot;:&quot;30px&quot;,&quot;perPage&quot;:3,&quot;perMove&quot;:1,&quot;padding&quot;:&quot;0&quot;,&quot;autoplay&quot;:false,&quot;pauseOnHover&quot;:false,&quot;pauseOnFocus&quot;:false,&quot;autoWidth&quot;:false,&quot;breakpoints&quot;:{&quot;992&quot;:{&quot;arrows&quot;:false,&quot;perPage&quot;:1,&quot;perMove&quot;:1,&quot;pagination&quot;:false,&quot;autoWidth&quot;:false}}}">
+
+    
+      
+    
+              
+    <div class="splide__track">
+      <div class="splide__list"><div  class="splide__slide">
+            <div class="has-image not-logged-in">
+  
+
+      <h2>
+
+
+
+
+
+
+
+
+          
+      <div  class="vb-portails__name field--string">Nos laboratoires</div>
+    
+  
+</h2>
+  
+  
+  
+
+
+
+
+
+
+
+
+          
+      <div  class="vb-portails__image field--image">  <a href="/fr/portails/nos-laboratoires" hreflang="fr"><img loading="lazy" src="/sites/default/files/styles/taxonomy_teaser/public/2021_femmes_science.jpg?itok=9Y279l7o" width="373" height="244" alt="" />
+
+</a>
+</div>
+    
+  
+
+
+  <a href="/fr/portails/nos-laboratoires" class="full-link"><span class="visually-hidden">
+
+
+
+
+
+
+
+
+          
+      <div  class="vb-portails__name field--string">Nos laboratoires</div>
+    
+  
+</span></a>
+</div>
+
+          </div><div  class="splide__slide">
+            <div class="has-image not-logged-in">
+  
+
+      <h2>
+
+
+
+
+
+
+
+
+          
+      <div  class="vb-portails__name field--string">Médicaments vétérinaires</div>
+    
+  
+</h2>
+  
+  
+  
+
+
+
+
+
+
+
+
+          
+      <div  class="vb-portails__image field--image">  <a href="/fr/portails/medicaments-veterinaires" hreflang="fr"><img loading="lazy" src="/sites/default/files/styles/taxonomy_teaser/public/vaccin-chevre-02.jpg?itok=2aRXfePY" width="373" height="244" alt="" />
+
+</a>
+</div>
+    
+  
+
+
+  <a href="/fr/portails/medicaments-veterinaires" class="full-link"><span class="visually-hidden">
+
+
+
+
+
+
+
+
+          
+      <div  class="vb-portails__name field--string">Médicaments vétérinaires</div>
+    
+  
+</span></a>
+</div>
+
+          </div></div>
+    </div>
+  </div>
+
+</div></div>
+      
+    
+  
+
+      </div>
+</div><div  class="accuiel__ct_paragraphs-item">	<div class="paragraph paragraph--type--pt-vie-de-l-agence paragraph--view-mode--default">
+		<div class="wrap">
+							
+
+
+
+
+
+
+
+
+          
+      <div  class="pt-vie-de-l-agence__pt_title field--string">  <h2  class="section-title">Vie de l&#039;Agence</h2>
+</div>
+    
+  
+
+
+
+
+
+
+
+
+
+          <div  class="pt-vie-de-l-agence__ct_paragraphs field--entity-reference-revisions">
+      <div  class="pt-vie-de-l-agence__ct_paragraphs-item">
+<div class="agency-life-item">
+	<div class="agency-life-item__list">
+															<div class="agency-life-item__list__item active">
+                        <a href="/fr/content/marie-pierre-riviere-nommee-directrice-du-laboratoire-de-sophia-antipolis-de-lanses" class="agency-life__mobile-link"><span class="visually-hidden">Marie-Pierre Rivière nommée directrice du laboratoire de Sophia Antipolis de l’Anses</span></a>
+
+        <svg class="icon icon--list-marker" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#list-marker"></use></svg>
+				<span>Marie-Pierre Rivière nommée directrice du laboratoire de Sophia Antipolis de l’Anses</span>
+			</div>
+															<div class="agency-life-item__list__item ">
+                        <a href="/fr/content/index-de-legalite-professionnelle-femmes-hommes-le-score-de-lanses-pour-2024" class="agency-life__mobile-link"><span class="visually-hidden">Index de l’égalité professionnelle femmes-hommes : le score de l’Anses pour 2024</span></a>
+
+        <svg class="icon icon--list-marker" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#list-marker"></use></svg>
+				<span>Index de l’égalité professionnelle femmes-hommes : le score de l’Anses pour 2024</span>
+			</div>
+															<div class="agency-life-item__list__item ">
+                        <a href="/fr/content/deux-nouveaux-mandats-de-reference-pour-les-laboratoires-de-lanses" class="agency-life__mobile-link"><span class="visually-hidden">Deux nouveaux mandats de référence pour les laboratoires de l’Anses</span></a>
+
+        <svg class="icon icon--list-marker" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#list-marker"></use></svg>
+				<span>Deux nouveaux mandats de référence pour les laboratoires de l’Anses</span>
+			</div>
+															<div class="agency-life-item__list__item ">
+                        <a href="/fr/content/50-ans-du-laboratoire-de-fougeres" class="agency-life__mobile-link"><span class="visually-hidden">50 ans du Laboratoire de Fougères</span></a>
+
+        <svg class="icon icon--list-marker" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#list-marker"></use></svg>
+				<span>50 ans du Laboratoire de Fougères</span>
+			</div>
+															<div class="agency-life-item__list__item ">
+                        <a href="/fr/content/notre-programme-de-travail-pour-2025" class="agency-life__mobile-link"><span class="visually-hidden">Notre programme de travail pour 2025</span></a>
+
+        <svg class="icon icon--list-marker" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#list-marker"></use></svg>
+				<span>Notre programme de travail pour 2025</span>
+			</div>
+			</div>
+
+	
+
+
+
+
+
+
+
+
+          <div  class="pt-vie-de-lagence-item__pt_vie_de_lagence_pages field--entity-reference">
+      <div  class="pt-vie-de-lagence-item__pt_vie_de_lagence_pages-item"><article class="actualite actualite-carte card">
+	<a href="/fr/content/marie-pierre-riviere-nommee-directrice-du-laboratoire-de-sophia-antipolis-de-lanses" class="full-link"></a>
+
+	
+	
+
+	<div class="card__content">
+
+		<div class="infobar">
+			<span class="infobar__item infobar__item--date">
+        <svg class="icon icon--circle-arrow" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#circle-arrow"></use></svg>
+									10/10/2025
+							</span>
+
+							
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/vie-de-lagence" hreflang="fr">Vie de l&#039;agence</a></div>
+    
+  
+
+					</div>
+
+		
+
+
+
+
+
+
+
+
+          <div  class="actualite__thematique field--entity-reference infobar__item infobar__item--thematique">
+      <div  class="actualite__thematique-item"><a href="/fr/thematique/sante-et-bien-etre-des-animaux" hreflang="fr">Santé et bien-être des animaux</a></div></div>
+      
+    
+  
+
+		
+
+		
+
+		<h3 class="card__title">
+<span>Marie-Pierre Rivière nommée directrice du laboratoire de Sophia Antipolis de l’Anses</span>
+</h3>
+
+		<div class="content">
+			
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__body field--text-with-summary">Marie-Pierre Rivière a été nommée directrice du laboratoire de Sophia Antipolis le 1 er août 2025. Docteure en biologie cellulaire et moléculaire, elle a consacré sa carrière à l’étude des interactions hôtes-agents pathogènes puis, depuis son arrivée à l’Anses, à la santé des abeilles, au niveau français, européen et international.</div>
+    
+  
+
+		</div>
+
+		<div class="arrow-link__wrap text-align-right">
+			<a class="arrow-link" href="/fr/content/marie-pierre-riviere-nommee-directrice-du-laboratoire-de-sophia-antipolis-de-lanses">Lire l'article <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg></a>
+		</div>
+
+	</div>
+
+</article>
+</div><div  class="pt-vie-de-lagence-item__pt_vie_de_lagence_pages-item"><article class="actualite actualite-carte card">
+	<a href="/fr/content/index-de-legalite-professionnelle-femmes-hommes-le-score-de-lanses-pour-2024" class="full-link"></a>
+
+	
+	
+
+	<div class="card__content">
+
+		<div class="infobar">
+			<span class="infobar__item infobar__item--date">
+        <svg class="icon icon--circle-arrow" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#circle-arrow"></use></svg>
+									16/09/2025
+							</span>
+
+							
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/vie-de-lagence" hreflang="fr">Vie de l&#039;agence</a></div>
+    
+  
+
+					</div>
+
+		
+
+
+
+
+
+
+
+
+          <div  class="actualite__thematique field--entity-reference infobar__item infobar__item--thematique">
+      <div  class="actualite__thematique-item"><a href="/fr/thematique/sante-et-travail" hreflang="fr">Santé et travail</a></div></div>
+      
+    
+  
+
+		
+
+		
+
+		<h3 class="card__title">
+<span>Index de l’égalité professionnelle femmes-hommes : le score de l’Anses pour 2024</span>
+</h3>
+
+		<div class="content">
+			
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__body field--text-with-summary">Pour la deuxième année consécutive, l’ANSES publie son index de l’égalité professionnelle entre les femmes et les hommes.</div>
+    
+  
+
+		</div>
+
+		<div class="arrow-link__wrap text-align-right">
+			<a class="arrow-link" href="/fr/content/index-de-legalite-professionnelle-femmes-hommes-le-score-de-lanses-pour-2024">Lire l'article <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg></a>
+		</div>
+
+	</div>
+
+</article>
+</div><div  class="pt-vie-de-lagence-item__pt_vie_de_lagence_pages-item"><article class="actualite actualite-carte card">
+	<a href="/fr/content/deux-nouveaux-mandats-de-reference-pour-les-laboratoires-de-lanses" class="full-link"></a>
+
+	
+	
+
+	<div class="card__content">
+
+		<div class="infobar">
+			<span class="infobar__item infobar__item--date">
+        <svg class="icon icon--circle-arrow" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#circle-arrow"></use></svg>
+									12/09/2025
+							</span>
+
+							
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/recherche" hreflang="fr">Recherche</a></div>
+    
+  
+
+					</div>
+
+		
+
+
+
+
+
+
+
+
+          <div  class="actualite__thematique field--entity-reference infobar__item infobar__item--thematique">
+      <div  class="actualite__thematique-item"><a href="/fr/thematique/sante-des-vegetaux" hreflang="fr">Santé des végétaux</a></div><div  class="actualite__thematique-item"><a href="/fr/thematique/sante-et-bien-etre-des-animaux" hreflang="fr">Santé et bien-être des animaux</a></div></div>
+      
+    
+  
+
+		
+
+		
+
+		<h3 class="card__title">
+<span>Deux nouveaux mandats de référence pour les laboratoires de l’Anses</span>
+</h3>
+
+		<div class="content">
+			
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__body field--text-with-summary">Pour appuyer les autorités afin de prévenir et maîtriser les crises sanitaires, l’Anses s’est vu confier deux nouveaux mandats le 15 juillet dernier. Elle a été nommée laboratoire national de référence sur le syndrome dysgénésique et respiratoire porcin, en santé animale, et pour un escargot aquatique du genre Pomacea, en santé végétale. Ces nominations portent à 67 le nombre total de mandats nationaux détenus par l’Agence. Les laboratoires de référence jouent un rôle essentiel dans la surveillance et la maitrise des risques sanitaires, qu’ils concernent les animaux, les végétaux ou l’environnement.</div>
+    
+  
+
+		</div>
+
+		<div class="arrow-link__wrap text-align-right">
+			<a class="arrow-link" href="/fr/content/deux-nouveaux-mandats-de-reference-pour-les-laboratoires-de-lanses">Lire l'article <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg></a>
+		</div>
+
+	</div>
+
+</article>
+</div><div  class="pt-vie-de-lagence-item__pt_vie_de_lagence_pages-item"><article class="actualite actualite-carte card">
+	<a href="/fr/content/50-ans-du-laboratoire-de-fougeres" class="full-link"></a>
+
+	
+	
+
+	<div class="card__content">
+
+		<div class="infobar">
+			<span class="infobar__item infobar__item--date">
+        <svg class="icon icon--circle-arrow" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#circle-arrow"></use></svg>
+									19/06/2025
+							</span>
+
+							
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/recherche" hreflang="fr">Recherche</a></div>
+    
+  
+
+					</div>
+
+		
+
+
+
+
+
+
+
+
+          <div  class="actualite__thematique field--entity-reference infobar__item infobar__item--thematique">
+      <div  class="actualite__thematique-item"><a href="/fr/thematique/alimentation-et-nutrition-humaine" hreflang="fr">Alimentation et nutrition humaine</a></div><div  class="actualite__thematique-item"><a href="/fr/thematique/medicaments-veterinaires" hreflang="fr">Médicaments vétérinaires</a></div><div  class="actualite__thematique-item"><a href="/fr/thematique/sante-et-environnement" hreflang="fr">Santé et environnement</a></div></div>
+      
+    
+  
+
+		
+
+		
+
+		<h3 class="card__title">
+<span>50 ans du Laboratoire de Fougères</span>
+</h3>
+
+		<div class="content">
+			
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__body field--text-with-summary"><p>Implanté dans une région d’élevage au cœur de la Bretagne depuis 1975, les missions du Laboratoire de Fougères ont évolué pour se spécialiser dans les risques liés aux médicaments vétérinaires et aux contaminants chimiques dans les aliments. Présentation du Laboratoire avec Tahar Ait Ali, son directeur.</p>
+</div>
+    
+  
+
+		</div>
+
+		<div class="arrow-link__wrap text-align-right">
+			<a class="arrow-link" href="/fr/content/50-ans-du-laboratoire-de-fougeres">Lire l'article <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg></a>
+		</div>
+
+	</div>
+
+</article>
+</div><div  class="pt-vie-de-lagence-item__pt_vie_de_lagence_pages-item"><article class="actualite actualite-carte card">
+	<a href="/fr/content/notre-programme-de-travail-pour-2025" class="full-link"></a>
+
+	
+	
+
+	<div class="card__content">
+
+		<div class="infobar">
+			<span class="infobar__item infobar__item--date">
+        <svg class="icon icon--circle-arrow" aria-hidden="true"><use xlink:href="/themes/custom/anses/assets/img/icons.svg#circle-arrow"></use></svg>
+									18/04/2025
+							</span>
+
+							
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__type_actualite field--entity-reference"><a href="/fr/types-actualites/vie-de-lagence" hreflang="fr">Vie de l&#039;agence</a></div>
+    
+  
+
+					</div>
+
+		
+		
+
+		
+
+		<h3 class="card__title">
+<span>Notre programme de travail pour 2025</span>
+</h3>
+
+		<div class="content">
+			
+
+
+
+
+
+
+
+
+          
+      <div  class="actualite__body field--text-with-summary"><p>Actualisé chaque année, le programme de travail de l’Anses permet de poursuivre et de faire évoluer ses activités en fonction des risques sanitaires et des nouvelles possibilités de la science. La publication du programme pour 2025 éclaire les actions envisagées cette année, en soutien de l’action publique et de toutes les initiatives en faveur de la sécurité sanitaire humaine, animale, végétale et environnementale.</p>
+</div>
+    
+  
+
+		</div>
+
+		<div class="arrow-link__wrap text-align-right">
+			<a class="arrow-link" href="/fr/content/notre-programme-de-travail-pour-2025">Lire l'article <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg></a>
+		</div>
+
+	</div>
+
+</article>
+</div></div>
+      
+    
+  
+
+
+</div>
+</div></div>
+      
+    
+  
+
+					</div>
+	</div>
+</div><div  class="accuiel__ct_paragraphs-item">	<div class="paragraph paragraph--type--pt-galaxie-des-sites paragraph--view-mode--default">
+		<div class="galaxy">
+			<h2 class="galaxy__title">
+				<button type="button" class="switch-button">
+					<span class="section-title">Galaxie des sites</span>
+				</button>
+			</h2>
+
+			<div class="galaxy__panel hidden">
+									
+
+
+
+
+
+
+
+    
+          
+      <div  class="pt-galaxie-des-sites__pt_text field--text-with-summary contrib anim:scale-in"><p>Tous les sites de l'Anses</p></div>
+    
+  
+
+
+								<nav>
+					
+              <ul class="menu-galaxie-des-sites">
+              <li>
+        <a href="/fr" target="_blank" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Laboratoires de référence de l&#039;union Européenne</a>
+                                <ul>
+              <li>
+        <a href="https://eurl-fungi.anses.fr/" target="_blank">Fungi et oomycetes</a>
+              </li>
+          <li>
+        <a href="https://eurl-fmd.anses.fr/en/minisite/lrue-fievre-aphteuse/welcome-website-european-union-reference-laboratory-foot-and-mouth" target="_blank">Fièvre aphteuse</a>
+              </li>
+          <li>
+        <a href="https://eurl-nematodes.anses.fr/" target="_blank">Nématodes parasites des plantes</a>
+              </li>
+          <li>
+        <a href="https://eurl-insects-mites.anses.fr/" target="_blank">Insectes et acariens</a>
+              </li>
+          <li>
+        <a href="https://eurl-bee.anses.fr/" target="_blank">Santé des abeilles</a>
+              </li>
+          <li>
+        <a href="https://eurl-equinediseases.anses.fr/" target="_blank">Maladies équines</a>
+              </li>
+          <li>
+        <a href="https://eurl-veterinaryresidues.anses.fr/" target="_blank">Résidus d’antimicrobiens et de colorants dans les aliments</a>
+              </li>
+          <li>
+        <a href="https://eurl-rabies.anses.fr/" target="_blank">Rage</a>
+              </li>
+          <li>
+        <a href="https://eurl-staphylococci.anses.fr/" target="_blank">Staphylocoques à coagulase positive</a>
+              </li>
+          <li>
+        <a href="https://eurl-brucellosis.anses.fr/" target="_blank">Brucellose</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/fr" target="_blank" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Nutrition et Alimentation</a>
+                                <ul>
+              <li>
+        <a href="https://www.oqali.fr/" target="_blank">Oqali</a>
+              </li>
+          <li>
+        <a href="https://ciqual.anses.fr/" target="_blank">Ciqual</a>
+              </li>
+          <li>
+        <a href="https://www.nutrivigilance-anses.fr/nutri#!" target="_blank">Nutrivigilance</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/fr" target="_blank" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Bulletins et Alertes</a>
+                                <ul>
+              <li>
+        <a href="https://vigilanses.anses.fr/" target="_blank">Vigil&#039;Anses</a>
+              </li>
+          <li>
+        <a href="https://bvs.anses.fr/" target="_blank">Bulletin Veille Scientifique</a>
+              </li>
+          <li>
+        <a href="https://be.anses.fr/" target="_blank">Bulletin Epidémiologique</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/fr" target="_blank" data-drupal-link-system-path="&lt;front&gt;" class="is-active" aria-current="page">Autres sujets et thématiques</a>
+                                <ul>
+              <li>
+        <a href="https://alimomic.anses.fr/" target="_blank">ALIMOMIC</a>
+              </li>
+          <li>
+        <a href="https://biocid-anses.fr/biocid#!" target="_blank">BioCID - Déclaration</a>
+              </li>
+          <li>
+        <a href="https://ephy.anses.fr/" target="_blank">E-Phy catalogue des produits phytopharmaceutiques et de leurs usages, des matières fertilisantes et des supports de culture autorisés en France</a>
+              </li>
+          <li>
+        <a href="http://www.etavet.anmv.anses.fr/" target="_blank">Etavet© : Répertoire des Établissements Pharmaceutiques Vétérinaires</a>
+              </li>
+          <li>
+        <a href="https://www.eurcaw-poultry-sfa.eu/" target="_blank">Centre de référence de l&#039;Union européenne pour le bien-être animal des volailles et autres petits animaux d&#039;élevage</a>
+              </li>
+          <li>
+        <a href="https://www.helpdesk-biocides.fr/" target="_blank">Helpdesk Biocides</a>
+              </li>
+          <li>
+        <a href="http://www.ircp.anmv.anses.fr/" target="_blank">Médicaments vétérinaires autorisés en France</a>
+              </li>
+          <li>
+        <a href="https://neuropatick.anses.fr/" target="_blank">NeuroPaTick</a>
+              </li>
+          <li>
+        <a href="http://gtin.anmv.anses.fr/" target="_blank">N°AMM/GTIN</a>
+              </li>
+          <li>
+        <a href="https://parisriskgroup.anses.fr/" target="_blank">Paris Risk Group</a>
+              </li>
+          <li>
+        <a href="https://pharmacovigilance-anmv.anses.fr/" target="_blank">Pharmacovigilance vétérinaire</a>
+              </li>
+          <li>
+        <a href="http://www.pollutions.eaufrance.fr/" target="_blank">Pollutions des milieux aquatiques en France</a>
+              </li>
+          <li>
+        <a href="https://resumeq.anses.fr/" target="_blank">RESUMEQ</a>
+              </li>
+          <li>
+        <a href="https://resapath.anses.fr/" target="_blank">Resapath</a>
+              </li>
+          <li>
+        <a href="https://reseau-eaux.anses.fr/" target="_blank">Réseau Eaux et Santé</a>
+              </li>
+          <li>
+        <a href="https://reseau-matrices-residuaires.anses.fr/" target="_blank">Réseau Microbiologie des Matrices résiduaires urbaines et santé</a>
+              </li>
+          <li>
+        <a href="https://reseau-salmonella.anses.fr/" target="_blank">Réseau Salmonella</a>
+              </li>
+          <li>
+        <a href="http://www.rst.developpement-durable.gouv.fr/" target="_blank">Réseau scientifique et technique</a>
+              </li>
+          <li>
+        <a href="https://www.chlordecone-info.fr/" title="Stratégie Chlordécone">Stratégie Chlordécone</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+				</nav>
+			</div>
+		</div>
+	</div>
+</div></div>
+      
+    
+  
+
+		</div>
+	</div>
+
+</article>
+
+  </div>
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+      <div class="prefooter-container">
+        <div class="region region-prefooter">
+    <div id="block-anses-ournewsletters" class="newsletter-sub">
+  
+      <h2 class="newsletter-sub__title">Notre offre de newsletters</h2>
+    
+      <a href="/fr/content/notre-offre-de-newsletters" hreflang="fr">Découvrir</a>
+  </div>
+<nav role="navigation" aria-labelledby="block-anses-reseauxsociaux-2-menu" id="block-anses-reseauxsociaux-2">
+            
+  <h2 class="visually-hidden" id="block-anses-reseauxsociaux-2-menu">Réseaux sociaux</h2>
+  
+
+        
+              <ul class="menu-reseaux-sociaux">
+              <li>
+        <a href="https://x.com/Anses_fr" class="twitter" target="_blank">X</a>
+              </li>
+          <li>
+        <a href="https://www.facebook.com/AgenceAnses" class="facebook" target="_blank">Facebook</a>
+              </li>
+          <li>
+        <a href="https://www.linkedin.com/company/2044612/" class="linkedin" target="_blank">LinkedIn</a>
+              </li>
+          <li>
+        <a href="https://www.youtube.com/channel/UCb83vpQhwHx-9WL1ri-_vgg" class="youtube" target="_blank">Youtube</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+  </div>
+
+    </div>
+  
+      <footer role="contentinfo">
+      <div class="footer-container">
+        	<div class="region region-footer">
+		<div class="block block--logo">
+			<img src="/themes/custom/anses/assets/img/anses-white.svg" alt="Logo Anses"/>
+		</div>
+		<div id="block-anses-address">
+  
+    
+      Anses<br>14 rue Pierre et Marie Curie<br>94701 Maisons-Alfort Cedex<br>01 49 77 13 50<br><br><a href="/fr/content/se-rendre-au-siege-de-lanses">Se rendre au siège de l'Anses</a>
+  </div>
+<nav role="navigation" aria-labelledby="block-anses-footer-menu" id="block-anses-footer">
+            
+  <h2 class="visually-hidden" id="block-anses-footer-menu">Footer</h2>
+  
+
+        
+              <ul class="menu-footer">
+              <li>
+        <a href="/fr/search" data-drupal-link-system-path="search">Connaître l&#039;Anses</a>
+                                <ul>
+              <li>
+        <a href="/fr/content/notre-identite" data-drupal-link-system-path="node/152963">Carte d&#039;identité</a>
+              </li>
+          <li>
+        <a href="/fr/content/notre-organisation" data-drupal-link-system-path="node/152960">Notre Organisation</a>
+              </li>
+          <li>
+        <a href="/fr/content/contacter-lanses" data-drupal-link-system-path="node/153782">Nous Contacter - Foire Aux Questions</a>
+              </li>
+        </ul>
+  
+              </li>
+          <li>
+        <a href="/fr/search" data-drupal-link-system-path="search">Liens utiles</a>
+                                <ul>
+              <li>
+        <a href="/fr/content/mentions-legales-site-ansesfr" data-drupal-link-system-path="node/50307">Mentions Légales</a>
+              </li>
+          <li>
+        <a href="/fr/content/marches-publics-presentation" data-drupal-link-system-path="node/79568">Marchés publics</a>
+              </li>
+          <li>
+        <a href="/fr/content/rejoignez-nous" data-drupal-link-system-path="node/153723">Recrutement</a>
+              </li>
+          <li>
+        <a href="/fr/content/accessibilite-non-conforme" data-drupal-link-system-path="node/154654">Accessibilité : Partiellement Conforme</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+	</div>
+
+      </div>
+    </footer>
+  
+</div>
+<div id="back-to-top" class="back-to-top">
+  <a href="#top" type="button" title="Haut de page">
+    <span class="visually-hidden">Haut de page</span>
+    <svg width="20.001" height="15.999" xmlns="http://www.w3.org/2000/svg"><path d="M13.213.003c-.437-.03-.871.167-1.086.535-.286.491-.072 1.097.479 1.352.123.057 1.443.673 2.726 1.726C16.458 4.541 17.42 5.693 17.68 7H1a1 1 0 00-1 1 1 1 0 001 1h16.516c-.371 1.087-1.147 2.123-2.049 3.02a15.955 15.955 0 01-2.715 2.148c-.515.309-.65.93-.304 1.389.346.459 1.043.582 1.558.273a18.117 18.117 0 003.135-2.474c1.392-1.385 2.903-3.411 2.86-5.752-.04-2.387-1.67-4.248-3.145-5.46a16.065 16.065 0 00-3.213-2.03 1.23 1.23 0 00-.43-.11z"/></svg>
+  </a>
+</div>
+
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","pathPrefix":"fr\/","currentPath":"node\/152755","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"fr","themeUrl":"themes\/custom\/anses"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"eJx1jltuxDAIRTfkBs2KLGKThBliLIOlZvfNo5q0lfqDzj33g4vFyACPG5PqiylWFU5bOB2syOUbbdevmzM1C0lF26ifkGnCLv4WkYtwIfiT714UM_xKQfrKMKLRSREfjw0O-jjochOT5DhpW9F9H3D115pQ5ig8L37s-cGhYsO5YV0McusVZbjN0Evto7AtlIMRtrRErPvz7pp0rUJO8I8PtpnTek12TE-D8765OWFP7E3LMLXhaV-H7I8q","theme":"anses","theme_token":null},"ajaxTrustedUrl":{"\/fr\/search":true},"colorbox":{"opacity":"0.85","current":"{current} sur {total}","previous":"\u00ab Pr\u00e9c.","next":"Suivant \u00bb","close":"Fermer","maxWidth":"98%","maxHeight":"98%","fixed":true,"mobiledetect":true,"mobiledevicewidth":"480px"},"tacjs":{"dialog":{"privacyUrl":"","bodyPosition":"bottom","hashtag":"#tarteaucitron","cookieName":"tarteaucitron","orientation":"bottom","groupServices":false,"serviceDefaultState":"wait","showAlertSmall":false,"cookieslist":true,"showIcon":true,"iconSrc":"","iconPosition":"BottomRight","adblocker":false,"DenyAllCta":true,"AcceptAllCta":true,"highPrivacy":true,"handleBrowserDNTRequest":true,"removeCredit":true,"moreInfoLink":true,"useExternalCss":true,"useExternalJs":true,"cookieDomain":"","readmoreLink":"","mandatory":true,"mandatoryCta":true,"closePopup":false,"customCloserId":""},"services":{"ferank":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"activecampaign":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adform":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsense":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsenseauto":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsensesearch":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsensesearchform":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adsensesearchresult":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"aduptech_ads":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"aduptech_conversion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"aduptech_retargeting":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"affilae":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"amazon":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"antvoice":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"bingads":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"clicmanager":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"criteo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"criteoonetag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"datingaffiliation":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"datingaffiliationpopup":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"doubleclick":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"equativ":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"eskimi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ferankpub":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googleads":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googleadwordsconversion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googleadwordsremarketing":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlepartners":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"klaviyo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"kwanko":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"leadforensics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"linkedininsighttag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"outbrain":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"outbrainamplify":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pinterestpixel":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"prelinker":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pubdirecte":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"shareasale":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twenga":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitteruwt":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"vshop":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xandr":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xandrconversion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xandrsegment":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"actistat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adobeanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"adobeworkspace":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"alexa":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"amplitude":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"analytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"atinternet":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"clarity":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"clicky":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"compteur":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"contentsquare":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"crazyegg":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"etracker":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"eulerian":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"firebase":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"force24":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"freshsalescrm":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gajs":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"getplus":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"getquanty":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gtag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"hotjar":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"hubspot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"kameleoon":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"koban":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"leadinfo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"matomo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"matomocloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mautic":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"metrica":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"microanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"microsoftcampaignanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mixpanel":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"multiplegtag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"openwebanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pardot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pianoanalytics":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"piwikpro":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"plausible":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"plezi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sharpspring":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"shinystat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"simpleanalytics":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"snapchat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"statcounter":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tiktok":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"userpilot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"verizondottag":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"visiblee":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"visualrevenue":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"webmecanik":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"weborama":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"woopra":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"wysistat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"wysistathightrack":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"xiti":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"zohopagesense":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"abtasty":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"arcio":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"genially":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"geoportail":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlefonts":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlemaps":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlemapssearch":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googletagmanager":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"helloasso":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"jsapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"m6meteo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"marketomunchkin":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"matomotm":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"meteofrance":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mtcaptcha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"multiplegoogletagmanager":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"myfeelback":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"onesignal":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"openstreetmap":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pingdom":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"recaptcha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"stonly":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tagcommander":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"timelinejs":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitterwidgetsapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"typekit":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"disqus":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebookcomment":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"activecampaignvgo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"calendly":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"collectchat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"crisp":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"faciliti":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gagenda":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gallica":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gdocs":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gforms":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"googlesignin":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"goptimize":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gsheets":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gslides":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"hcaptcha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"maps_noapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"posthog":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"robofabrica":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sendinblue":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"serviceperso":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tolkai":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"trustpilot":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ubib":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"addthis":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"addtoanyfeed":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"addtoanyshare":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"discord":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ekomi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebook":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"facebookcustomerchat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebooklikebox":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebookpixel":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"facebookpost":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gplus":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"gplusbadge":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"instagram":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"linkedin":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"pinterest":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"shareaholic":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sharethis":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"sharethissticky":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitter":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"twitterembed":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twittertimeline":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"elfsight":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"intercomChat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"purechat":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"smartsupp":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"studizz":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tawkto":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"userlike":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"uservoice":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"zopim":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"acast":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"archive":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"artetv":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"ausha":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"bandcamp":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"calameo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"canalu":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"dailymotion":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"deezer":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"fculture":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"issuu":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"mixcloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"playplay":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"podcloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"prezi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"slideshare":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"soundcloud":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"spotify":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"tiktokvideo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"twitch":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"videas":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"vimeo":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"webtvnu":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false},"youtube":{"status":true,"languages":[],"readMore":"","readmoreLink":"","needConsent":true},"youtubeapi":{"status":false,"languages":[],"readMore":"","readmoreLink":"","needConsent":false}},"user":{"pianoSite":"565296","pianoCollectDomain":"qnxsgkc.pa-cd.com","pianoSendData":"true"},"texts":{"alertBigPrivacy":"\u003Ch2 class=\u0022tac__alert-title\u0022\u003EL\u0027ANSES respecte vos donn\u00e9es\u003C\/h2\u003E\r\n\u003Cp class=\u0022tac__alert-text\u0022\u003ENous utilisons des cookies pour mesurer la fr\u00e9quentation du site afin d\u0027am\u00e9liorer son fonctionnement et d\u0027optimiser votre exp\u00e9rience utilisateur. En cliquant sur \u00ab Tout accepter \u00bb, vous acceptez l\u0027utilisation de cookies. Vous pouvez modifier ce choix \u00e0 tout moment en cliquant sur le bouton \u0022personnaliser\u0022.\u003C\/p\u003E","disclaimer":"\u003Cp class=\u0022tac__panel-text\u0022\u003EPour certaines fonctionnalit\u00e9s (mesure d\u2019audience, lecture directe de vid\u00e9os, lecture audio), ce site utilise les services propos\u00e9s par des fournisseurs tiers qui d\u00e9posent des cookies leur permettant notamment de tracer votre navigation. Ces cookies ne sont d\u00e9pos\u00e9s que si vous donnez votre accord. Vous pouvez vous informer sur leur nature et les accepter ou les refuser soit globalement soit service par service sur notre page d\u00e9di\u00e9e.\u003C\/p\u003E\r\n\r\n\u003Ch2 class=\u0022tac__panel-title\u0022\u003ELES R\u00c9SEAUX SOCIAUX\u003C\/h2\u003E\r\n\u003Cp class=\u0022tac__panel-text\u0022\u003ELes r\u00e9seaux sociaux permettent de visualiser les derni\u00e8res publications, d\u0027am\u00e9liorer l\u0027ergonomie du site et de contribuer \u00e0 sa promotion par des partages. Les sites de partage de vid\u00e9os permettent \u00e0 l\u0027utilisateur de visionner une vid\u00e9o directement sur le site, sans quitter le site.\u003C\/p\u003E"},"expire":null},"pathToTheme":{"pathToTheme":"http:\/\/www.anses.fr\/themes\/custom\/anses"},"search_api_autocomplete":{"search_page":{"auto_submit":true,"min_length":3}},"user":{"uid":0,"permissionsHash":"85e6c71472cfe47848221762aa17b28f8899e5eed87b0240bdfd87516088700d"}}</script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.7.1"></script>
+<script src="/core/assets/vendor/once/once.min.js?v=1.0.1"></script>
+<script src="/sites/default/files/languages/fr_4QrqE3DLI_KPufTBwK30YkezM5CuAhRqE7hynxniUQ0.js?t3s71s"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=10.4.8"></script>
+<script src="/core/misc/drupal.js?v=10.4.8"></script>
+<script src="/core/misc/drupal.init.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-patch-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/tabbable/index.umd.min.js?v=6.2.0"></script>
+<script src="/core/misc/autocomplete.js?v=10.4.8"></script>
+<script src="/themes/custom/anses/assets/js/jquery.cookie.js?t3s71s"></script>
+<script src="/themes/custom/anses/assets/js/toc.js?t3s71s"></script>
+<script src="/themes/custom/anses/assets/js/misc.js?t3s71s"></script>
+<script src="/themes/custom/anses/assets/js/main.js?t3s71s"></script>
+<script src="/themes/custom/anses/assets/slick/slick.min.js?t3s71s"></script>
+<script src="/modules/contrib/colorbox/js/colorbox.js?v=10.4.8"></script>
+<script src="/modules/contrib/colorbox/styles/default/colorbox_style.js?v=10.4.8"></script>
+<script src="/libraries/colorbox/jquery.colorbox-min.js?v=10.4.8"></script>
+<script src="/modules/contrib/colorbox_inline/js/colorbox_inline.js?t3s71s"></script>
+<script src="/core/misc/progress.js?v=10.4.8"></script>
+<script src="/core/assets/vendor/loadjs/loadjs.min.js?v=4.3.0"></script>
+<script src="/core/misc/debounce.js?v=10.4.8"></script>
+<script src="/core/misc/announce.js?v=10.4.8"></script>
+<script src="/core/misc/message.js?v=10.4.8"></script>
+<script src="/core/misc/ajax.js?v=10.4.8"></script>
+<script src="/modules/contrib/colorbox_load/js/colorbox_load.js?t3s71s"></script>
+<script src="/modules/custom/lumi_tools/modules/lumi_a11y/js/lumi-a11y.min.js?t3s71s"></script>
+<script src="/modules/custom/lumi_tools/modules/lumi_field_formatters/js/splide.js?t3s71s"></script>
+<script src="/modules/custom/lumi_tools/modules/lumi_field_formatters/js/lumi-sliders.js?t3s71s"></script>
+<script src="/core/misc/jquery.tabbable.shim.js?v=10.4.8"></script>
+<script src="/core/misc/position.js?v=10.4.8"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?t3s71s"></script>
+<script src="/modules/contrib/tacjs/assets/vendor/tarteaucitron.js/tarteaucitron.js?v=1.20.0"></script>
+<script src="/modules/contrib/tacjs/assets/vendor/tarteaucitron.js/tarteaucitron.services.js?v=1.20.0"></script>
+<script src="/modules/contrib/tacjs/js/main.js?t3s71s"></script>
+<script src="/modules/contrib/tacjs/assets/vendor/tarteaucitron.js/lang/tarteaucitron.fr.js?t3s71s"></script>
+
+  </body>
+</html>

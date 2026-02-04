@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /trackback/
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */comments/
+Disallow: wp-login.php
+Disallow: wp-signup.php
+Disallow: /wp-json/
+Disallow: /search/
+Disallow: ?*s=
+
+Sitemap: https://www.manners.nl/sitemap_index.xml

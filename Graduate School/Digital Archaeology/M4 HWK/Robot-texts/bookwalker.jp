@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /ex/problem/
+Disallow: /entry-list/
+Disallow: /member/
+Disallow: /history/delete/
+Disallow: /history/parts/
+Disallow: /prx/ma/
+Disallow: /de*/?sample=*
+Sitemap: https://bookwalker.jp/sitemap.xml

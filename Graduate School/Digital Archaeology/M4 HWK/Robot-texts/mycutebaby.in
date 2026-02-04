@@ -1,0 +1,19 @@
+Crawl-delay: 10
+
+User-Agent: ia_archiver
+Disallow: /
+
+
+User-agent: *
+allow: /
+
+ 
+User-agent: facebookexternalhit
+allow : *
+
+User-agent: Mediapartners-Google
+allow : *
+
+
+User-agent: Twitterbot
+allow : *

@@ -1,0 +1,22 @@
+User-agent: * 
+Disallow: /en*
+Disallow: /auth*
+Disallow: /configurations*
+Disallow: /lukkeside
+Disallow: /Images*
+Disallow: /eSim*
+Disallow: /da/custom/*
+Disallow: /en/custom/*
+Disallow: /mit-telenor/*
+Disallow: /shop/reserver/*
+Disallow: /shop/tilbehoer/other/plastic-bag
+Disallow: *?*FlowId
+Disallow: *?*adgadrid
+Allow: /mit-telenor/selvbetjening/
+Allow: /mit-telenor/login/
+
+#User-agent: MJ12bot
+#Disallow: /
+
+SITEMAP: https://www.telenor.dk/sitemap/
+SITEMAP: https://www.telenor.dk/sitemap2.xml/

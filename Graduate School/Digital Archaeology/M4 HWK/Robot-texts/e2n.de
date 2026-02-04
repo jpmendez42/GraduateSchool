@@ -1,0 +1,12 @@
+# BEGIN W3TC ROBOTS
+User-agent: *
+Disallow: /wp-content/cache/
+# END W3TC ROBOTS
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /burgerking/
+Disallow: /dean-and-david/
+Disallow: /maloa/
+Disallow: /*?staging$
+Disallow: /*?staging&

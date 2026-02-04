@@ -1,0 +1,25 @@
+User-Agent: *
+Disallow: /gallery/
+Disallow: /thezaurus/
+Disallow: /forum/users
+# Bitrix-specific url
+Disallow: /bitrix/
+Disallow: /search/
+Disallow: /auth/
+Disallow: /auth.php
+Disallow: /*print_version=yes
+Disallow: /*register=yes
+Disallow: /*forgot_password=yes
+Disallow: /*change_password=yes
+Disallow: /*login=yes
+Disallow: /*logout=yes
+Disallow: /*auth=yes
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /include/
+Disallow: /upload/
+Disallow: /login/
+Sitemap: https://catalysis.ru/sitemap.xml

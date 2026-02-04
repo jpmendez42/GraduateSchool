@@ -1,0 +1,30 @@
+User-agent: *
+
+Allow: /frontend/commons/scripts/*
+Allow: /frontend/commons/styles/*
+Allow: /frontend/commons/transition/*
+Allow: /frontend/commons/masters/*
+Allow: /frontend/commons/controls/*
+Allow: /frontend/commons/pricelist/*
+Allow: /frontend/commons/views/*
+Disallow: /frontend
+
+
+Allow: /social/recensioni/ricerca
+Disallow: /*/ricerca
+Disallow: /ricerca
+
+Disallow: /listino/segnala-dati-errati/*
+Disallow: /market/fraud-notification/*
+Disallow: /market/send-message/*
+Disallow: /motoit/richiedi-concessionario/*
+Disallow: /motoit/ricerche-salvate/*
+Disallow: /concessionari/contatta/*
+Disallow: /motoit/scarica-quotazione/*
+
+User-agent: Twitterbot
+Allow: /images
+
+User-agent: facebookexternalhit
+Allow: /images
+Disallow:

@@ -1,0 +1,3316 @@
+
+
+
+
+    <!DOCTYPE html>
+    <html xml:lang="fi" lang="fi">
+    <head>
+        <link rel="shortcut icon" href="/resources/images/favicon.png?v=063b466" type="image/x-icon"/>
+        <!-- dynamically added scripts -->
+        <script>/*empty*/</script>
+        <!-- end dynamically added scripts -->
+    <script id="Cookiebot" src="https://consent.cookiebot.com/uc.js" data-cbid="5c382157-76dd-4457-929b-58330986390d"
+            data-culture="fi" data-blockingmode="auto" type="text/javascript"></script>
+<meta charset="utf-8" />
+<style>
+    @font-face {
+        font-display: swap;
+        font-family: "Cabin";
+        font-style: normal;
+        font-weight: 400;
+        src: local("Cabin-Regular"), url("/resources/images/cabin-regular.woff2?v=063b466") format("woff2");
+    }
+
+    @font-face {
+        font-display: swap;
+        font-family: "Cabin";
+        font-style: normal;
+        font-weight: 600;
+        src: local("Cabin-SemiBold"), url("/resources/images/cabin-semibold.woff2?v=063b466") format("woff2");
+    }
+</style>
+<link rel="stylesheet" type="text/css" href="/resources/css/style.css?v=063b466" media="all" />
+<link rel="stylesheet" type="text/css" href="/.resources/verkkopalvelu-templates/css/style-override.css" media="all" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Henkilöasiakkaat - Työmarkkinatori</title>
+<meta name="description" content="" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="keywords" content="" />
+<meta data-tmt-name="version" data-tmt-content="1.0.0 (N/A)" />
+<meta name="google" content="notranslate" />
+
+
+
+
+        <meta property="og:site_name" content="Työmarkkinatori" />
+        <meta property="og:title" content="Töiden ja tekijöiden kohtaamispaikka" />
+        <meta property="og:description" content="" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="https://tyomarkkinatori.fi/.imaging/mte/verkkopalvelu-theme/og-image/dam/Etusivu-ja-kohderyhmät/henkiloasiakas2022.jpg/jcr:content/henkiloasiakas2022.jpg" />
+        <meta property="og:url" content="https://tyomarkkinatori.fi/henkiloasiakkaat" />
+
+
+
+<script>
+(function() {
+function load(name, isAsync, path) {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = isAsync;
+po.src = (path || '/widgets/') + name + '.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+}
+var needPoly = !('fetch' in window && 'assign' in Object);
+if (needPoly) {
+load('polyfill', false);
+} else {
+window['_tmt_polyfillLoadedEvent'] = true;
+}
+var needRegen = !needPoly && !('regeneratorRuntime' in window);
+if (needRegen) { load('regenerator', false); }
+var needIntl = !('Intl' in window);
+if (needIntl) { load('intl', false); }
+load('useractions', true);
+load('widget-loader', true);
+})();
+</script>
+            <!-- Matomo Tag Manager -->
+<script> var _mtm = window._mtm = window._mtm || []; _mtm.push({'mtm.startTime': (new Date().getTime()), 'event': 'mtm.Start'}); var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0]; g.async = true; g.src = 'https://analytiikka.tyomarkkinatori.fi/js/container_LNZcWVy2.js'; s.parentNode.insertBefore(g, s); </script>            <!-- End Matomo Tag Manager -->
+    </head>
+    <body>
+    <div id="page-wrapper">
+    <header class="header-background header-content d-print-none " id="header-wrapper">
+    <a class="btn btn-primary skip-link" href="#content">
+        <span class="btn-content">
+            <span class="btn-label">Hyppää sisältöön</span>
+        </span>
+    </a>
+    <div class="site-notification  d-print-none ">
+
+    <div class="site-notification-row">
+<svg aria-hidden="true" class="icon icon-lg site-notification-icon" role="presentation" data-icon="alert-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3.5a8.5 8.5 0 1 1 0 17 8.5 8.5 0 0 1 0-17Z"/><path d="M11.995 13c-.58 0-.995-.454-.995-1.09V8.09c0-.636.415-1.09.995-1.09.581 0 .996.454.996 1.09v3.818c.083.637-.415 1.091-.995 1.091Z"/><path d="M11.995 17c-.58 0-.995-.416-.995-1 0-.583.415-1 .995-1 .581 0 .996.417.996 1 .083.5-.415 1-.995 1Z"/></svg>                    <p class="mb-0"><span>Työmarkkinatoria päivitetään tiistaina 14.10. kello 16–18. Päivitys voi aiheuttaa häiriöitä. Pahoittelemme tästä mahdollisesti aiheutuvaa haittaa.</span></p>
+    </div>
+
+    </div>
+
+
+
+
+    <div class="header-toolbar">
+            <button class="btn btn-primary btn-square header-toolbar-button header-toolbar-desktop-tool header-toolbar-search-button"
+            aria-controls="search-bar-container"
+            aria-expanded="false"
+            data-toggle="collapse"
+            id="header-search-button"
+            type="button">
+        <span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon-left" role="presentation" data-icon="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.256 14.756a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11Z"/><path d="M19.856 19.856c-.5.5-1.2.5-1.7.1l-2.8-2.8c-.5-.5-.5-1.2 0-1.7l.1-.1c.5-.5 1.2-.5 1.7 0l2.8 2.8c.4.5.4 1.2-.1 1.7Z" stroke-linecap="round" stroke-linejoin="round"/><path d="m13.125 13.25 2.219 2.156" stroke-linecap="round" stroke-linejoin="round"/></svg>            <span class="btn-label">Haku</span>
+        </span>
+    </button>
+        <div class="header-divider header-toolbar-desktop-tool"></div>
+            <div class="header-toolbar-desktop-tool">
+        <a target="_blank" rel="noopener noreferrer"
+           href="/ohjeet-ja-tuki" class="toolbar-instructions-link">
+Ohjeet ja tuki&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-lg icon-baseline header-toolbar-instructions-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+            </div>
+        <div class="header-divider header-toolbar-desktop-tool"></div>
+        <div class="header-toolbar-desktop-tool mr-md">
+
+
+  <div class="dropdown language-menu-dropdown">
+
+  <button
+    aria-controls="language-menu"
+    aria-expanded="false"
+    aria-haspopup="true"
+    class="btn btn-square btn-primary header-toolbar-button header-toolbar-language-button"
+    data-toggle="dropdown"
+    id="language-menu-button"
+    type="button"
+  >
+    <span class="btn-content">
+      <span class="btn-label" aria-hidden="true">Suomi (FI)</span>
+<svg aria-hidden="true" class="icon icon-lg btn-icon-right" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg>      </span>
+      <span class="visually-hidden">
+        <span lang="fi">Valitse kieli.</span>
+        <span lang="sv">Välj språk.</span>
+        <span lang="en">Choose language.</span>
+      </span>
+  </button>
+
+    <div
+    aria-labelledby="language-menu-button"
+    class="dropdown-menu dropdown-menu-right language-menu-container"
+    id="language-menu"
+    >
+        <p class="lead ml-lg mt-md mb-0" id="language-change-label">Vaihda sivuston kieltä</p>
+
+        <ul aria-labelledby="language-change-label" class="dropdown-actions">
+        <li>
+            <a class="dropdown-actions-item" href="/henkiloasiakkaat" onClick="window['_tmt_useractions'].changeLanguage('fi', 'fi', '', '{&#34;fi&#34;:&#34;/henkiloasiakkaat&#34;,&#34;sv&#34;:&#34;/sv/personkunder&#34;,&#34;en&#34;:&#34;/en/personal-customers&#34;}'); return false;" aria-current="true">
+                <span class="selected-language-icon-placeholder">
+<svg aria-label="Valittu" class="icon icon-lg" role="img" data-icon="check" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11.125 9.765 18 20 6" stroke-linecap="round" stroke-linejoin="round"/></svg>                </span>
+                <span class="dropdown-actions-item-label">
+                    Suomi (FI)
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="dropdown-actions-item" href="/sv/personkunder" onClick="window['_tmt_useractions'].changeLanguage('sv', 'fi', '', '{&#34;fi&#34;:&#34;/henkiloasiakkaat&#34;,&#34;sv&#34;:&#34;/sv/personkunder&#34;,&#34;en&#34;:&#34;/en/personal-customers&#34;}'); return false;" >
+                <span class="selected-language-icon-placeholder">
+                </span>
+                <span class="dropdown-actions-item-label">
+                    Svenska (SV)
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="dropdown-actions-item" href="/en/personal-customers" onClick="window['_tmt_useractions'].changeLanguage('en', 'fi', '', '{&#34;fi&#34;:&#34;/henkiloasiakkaat&#34;,&#34;sv&#34;:&#34;/sv/personkunder&#34;,&#34;en&#34;:&#34;/en/personal-customers&#34;}'); return false;" >
+                <span class="selected-language-icon-placeholder">
+                </span>
+                <span class="dropdown-actions-item-label">
+                    English (EN)
+                </span>
+            </a>
+        </li>
+        </ul>
+
+        <div class="dropdown-divider"></div>
+
+        <p class="lead ml-lg mt-md mb-0" id="language-change-others-label">Tietoa muilla kielillä</p>
+
+        <ul aria-labelledby="language-change-others-label" class="dropdown-actions">
+                <li>
+                    <a class="dropdown-actions-item justify-content-between" href="/selkosuomi">
+                        <span class="dropdown-actions-item-label">Selkosuomi</span>
+<svg aria-hidden="true" class="icon icon-lg" role="presentation" data-icon="arrow-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m13.3 7 6 5-3 2.5-3 2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M19.102 12H4.7" stroke-linecap="round" stroke-linejoin="round"/></svg>                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-actions-item justify-content-between" href="/saame">
+                        <span class="dropdown-actions-item-label">Saame</span>
+<svg aria-hidden="true" class="icon icon-lg" role="presentation" data-icon="arrow-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m13.3 7 6 5-3 2.5-3 2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M19.102 12H4.7" stroke-linecap="round" stroke-linejoin="round"/></svg>                    </a>
+                </li>
+        </ul>
+    </div>
+  </div>
+        </div>
+
+        <button class="btn header-toolbar-login-button tmt-login-link" type="button" > <span class="btn-content"> <svg aria-hidden="true" class="icon icon-lg btn-icon-left" role="presentation" data-icon="user" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.922 11.725c2.531.775 4.428 2.632 4.428 5.684 0 4.421-15 4.421-15 0 0-2.947 2.059-4.947 4.804-5.684" stroke-linecap="round"/><path d="M12.05 12.725a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z"/></svg> <span class="btn-label"> Kirjaudu sisään </span> </span> </button>    <script>
+    (function() {
+        var redirect = false;
+        function _login() {
+            window.location = "https://tyomarkkinatori.fi/kirjaudu" + (redirect? "?redirecturi="+encodeURIComponent(window.location.href) : "");
+        }
+        var links = document.querySelectorAll(".tmt-login-link");
+        for (var link of links) { link.addEventListener('click', _login) }
+    })()
+    </script>
+
+    </div>
+    <div id="search-bar-container" class="search-bar-container collapse">
+        <div class="header-search-container">
+
+    <form id="headerSearch" action="/haku" class="header-search-form" method="get"
+          role="search">
+        <div class="input-group">
+    <input type="text"
+           class="form-control form-control-append"
+           id="header-search-input"
+           placeholder="Hae Työmarkkinatorilta..."
+           
+           aria-label="Hae"
+           name="q"
+           
+           
+           
+           
+    />
+            <div class="input-group-append">
+<button class="btn btn-secondary btn-input-group pl-lg pr-lg" type="submit" id="headerSearchButton" > <span class="btn-content"> <svg aria-hidden="true" class="icon icon-lg btn-icon-left" role="presentation" data-icon="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.256 14.756a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11Z"/><path d="M19.856 19.856c-.5.5-1.2.5-1.7.1l-2.8-2.8c-.5-.5-.5-1.2 0-1.7l.1-.1c.5-.5 1.2-.5 1.7 0l2.8 2.8c.4.5.4 1.2-.1 1.7Z" stroke-linecap="round" stroke-linejoin="round"/><path d="m13.125 13.25 2.219 2.156" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="btn-label">Hae</span> </span> </button>            </div>
+        </div>
+    </form>
+    <button class="btn btn-primary btn-square header-search-hide ml-md pl-md pr-md"
+            aria-controls="search-bar-container" type="button">
+        <span class="btn-content">
+<svg aria-hidden="true" class="icon btn-icon-left" role="presentation" data-icon="x" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m5.8 5.8 12 12" stroke-linecap="round"/><path d="m17.8 5.8-12 12" stroke-linecap="round"/></svg>            <span class="btn-label">Sulje haku</span>
+        </span>
+    </button>
+        </div>
+
+    </div>
+    <div class="header-mobile">
+
+    <div class="header-area-nav-container">
+        <div class="header-logo-container">
+        <a href="/">
+                <img
+                    src="/resources/images/tyomarkkinatori.svg"
+                    class="logo-header"
+                    alt="Työmarkkinatori - etusivulle"
+                />
+        </a>
+        </div>
+    <button aria-controls="mobile-nav" aria-expanded="false"
+            aria-label="Päävalikko"
+            class="btn button-mobile-menu-opener header-toggler mobile-nav-button-js"
+            type="button">
+        <span class="mobile-menu-opener-content">
+            <span class="mobile-menu-opener-icon">
+<svg aria-hidden="true" class="icon icon-lg header-toggler-icon-x icon-baseline" role="presentation" data-icon="x" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m5.8 5.8 12 12" stroke-linecap="round"/><path d="m17.8 5.8-12 12" stroke-linecap="round"/></svg><svg aria-hidden="true" class="icon icon-lg header-toggler-icon-menu icon-baseline" role="presentation" data-icon="menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5.35 7.45h8" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.35 11.9h13" stroke-linecap="round" stroke-linejoin="round"/><path d="M5.35 16.45h10" stroke-linecap="round" stroke-linejoin="round"/></svg>            </span>
+            <span class="mobile-menu-opener-label">
+                <span class="header-toggler-label-x">Sulje valikko</span>
+                <span class="header-toggler-label-menu">Valikko</span>
+            </span>
+        </span>
+    </button>
+    </div>
+    <div class="mobile-nav" id="mobile-nav">
+            <div class="mobile-nav-search">
+
+    <form id="headerSearchmobile" action="/haku" class="header-search-form" method="get"
+          role="search">
+        <div class="input-group">
+    <input type="text"
+           class="form-control form-control-append"
+           id="header-search-inputmobile"
+           placeholder="Hae Työmarkkinatorilta..."
+           
+           aria-label="Hae"
+           name="q"
+           
+           
+           
+           
+    />
+            <div class="input-group-append">
+<button class="btn btn-outline-primary btn-input-group" type="submit" id="headerSearchButtonmobile" > <span class="btn-content"> <svg aria-hidden="true" class="icon icon-lg" role="presentation" data-icon="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.256 14.756a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11Z"/><path d="M19.856 19.856c-.5.5-1.2.5-1.7.1l-2.8-2.8c-.5-.5-.5-1.2 0-1.7l.1-.1c.5-.5 1.2-.5 1.7 0l2.8 2.8c.4.5.4 1.2-.1 1.7Z" stroke-linecap="round" stroke-linejoin="round"/><path d="m13.125 13.25 2.219 2.156" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="visually-hidden">Hae</span> </span> </button>            </div>
+        </div>
+    </form>
+            </div>
+        <div class="mobile-nav-tools">
+                        <a target="_blank" rel="noopener noreferrer"
+           href="/ohjeet-ja-tuki" class="mobile-instructions-link pl-xs">
+Ohjeet ja tuki&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-lg icon-baseline header-toolbar-instructions-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+
+            <div class="mobile-nav-language-select">
+
+
+  <div class="dropdown language-menu-dropdown">
+
+  <button
+    aria-controls="language-menu-mobile"
+    aria-expanded="false"
+    aria-haspopup="true"
+    class="btn btn-square btn-plain-primary"
+    data-toggle="dropdown"
+    id="language-menu-mobile-button"
+    type="button"
+  >
+    <span class="btn-content">
+      <span class="btn-label" aria-hidden="true">Suomi (FI)</span>
+<svg aria-hidden="true" class="icon icon-lg btn-icon-right" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg>      </span>
+      <span class="visually-hidden">
+        <span lang="fi">Valitse kieli.</span>
+        <span lang="sv">Välj språk.</span>
+        <span lang="en">Choose language.</span>
+      </span>
+  </button>
+
+    <div
+    aria-labelledby="language-menu-mobile-button"
+    class="dropdown-menu dropdown-menu-right language-menu-container"
+    id="language-menu-mobile"
+    >
+        <p class="lead ml-lg mt-md mb-0" id="language-change-label">Vaihda sivuston kieltä</p>
+
+        <ul aria-labelledby="language-change-label" class="dropdown-actions">
+        <li>
+            <a class="dropdown-actions-item" href="/henkiloasiakkaat" onClick="window['_tmt_useractions'].changeLanguage('fi', 'fi', '', '{&#34;fi&#34;:&#34;/henkiloasiakkaat&#34;,&#34;sv&#34;:&#34;/sv/personkunder&#34;,&#34;en&#34;:&#34;/en/personal-customers&#34;}'); return false;" aria-current="true">
+                <span class="selected-language-icon-placeholder">
+<svg aria-label="Valittu" class="icon icon-lg" role="img" data-icon="check" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11.125 9.765 18 20 6" stroke-linecap="round" stroke-linejoin="round"/></svg>                </span>
+                <span class="dropdown-actions-item-label">
+                    Suomi (FI)
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="dropdown-actions-item" href="/sv/personkunder" onClick="window['_tmt_useractions'].changeLanguage('sv', 'fi', '', '{&#34;fi&#34;:&#34;/henkiloasiakkaat&#34;,&#34;sv&#34;:&#34;/sv/personkunder&#34;,&#34;en&#34;:&#34;/en/personal-customers&#34;}'); return false;" >
+                <span class="selected-language-icon-placeholder">
+                </span>
+                <span class="dropdown-actions-item-label">
+                    Svenska (SV)
+                </span>
+            </a>
+        </li>
+        <li>
+            <a class="dropdown-actions-item" href="/en/personal-customers" onClick="window['_tmt_useractions'].changeLanguage('en', 'fi', '', '{&#34;fi&#34;:&#34;/henkiloasiakkaat&#34;,&#34;sv&#34;:&#34;/sv/personkunder&#34;,&#34;en&#34;:&#34;/en/personal-customers&#34;}'); return false;" >
+                <span class="selected-language-icon-placeholder">
+                </span>
+                <span class="dropdown-actions-item-label">
+                    English (EN)
+                </span>
+            </a>
+        </li>
+        </ul>
+
+        <div class="dropdown-divider"></div>
+
+        <p class="lead ml-lg mt-md mb-0" id="language-change-others-label">Tietoa muilla kielillä</p>
+
+        <ul aria-labelledby="language-change-others-label" class="dropdown-actions">
+                <li>
+                    <a class="dropdown-actions-item justify-content-between" href="/selkosuomi">
+                        <span class="dropdown-actions-item-label">Selkosuomi</span>
+<svg aria-hidden="true" class="icon icon-lg" role="presentation" data-icon="arrow-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m13.3 7 6 5-3 2.5-3 2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M19.102 12H4.7" stroke-linecap="round" stroke-linejoin="round"/></svg>                    </a>
+                </li>
+                <li>
+                    <a class="dropdown-actions-item justify-content-between" href="/saame">
+                        <span class="dropdown-actions-item-label">Saame</span>
+<svg aria-hidden="true" class="icon icon-lg" role="presentation" data-icon="arrow-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m13.3 7 6 5-3 2.5-3 2.5" stroke-linecap="round" stroke-linejoin="round"/><path d="M19.102 12H4.7" stroke-linecap="round" stroke-linejoin="round"/></svg>                    </a>
+                </li>
+        </ul>
+    </div>
+  </div>
+            </div>
+        </div>
+            <nav>
+  <ul class="mobile-menu-list "  >
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item active">
+<a class="mobile-menu-link mobile-menu-link-with-button active" aria-current="page" data-content="Henkilöasiakkaat" href="/henkiloasiakkaat">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="user" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.922 11.725c2.531.775 4.428 2.632 4.428 5.684 0 4.421-15 4.421-15 0 0-2.947 2.059-4.947 4.804-5.684" stroke-linecap="round"/><path d="M12.05 12.725a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z"/></svg> Henkilöasiakkaat
+</a>
+<button
+aria-controls="mobile-nav-1-1-henkiloasiakkaat"
+aria-expanded="true"
+aria-label="Henkilöasiakkaat: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list "
+id="mobile-nav-1-1-henkiloasiakkaat">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Avoimet työpaikat" href="/henkiloasiakkaat/avoimet-tyopaikat">
+Avoimet työpaikat
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Koulutukset ja palvelut" href="/henkiloasiakkaat/koulutukset-ja-palvelut">
+Koulutukset ja palvelut
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link mobile-menu-link-with-button " data-content="Tietoa työelämästä" href="/henkiloasiakkaat/tietoa-tyoelamasta">
+Tietoa työelämästä
+</a>
+<button
+aria-controls="mobile-nav-2-3-tietoa-tyoelamasta"
+aria-expanded="false"
+aria-label="Tietoa työelämästä: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-2-3-tietoa-tyoelamasta">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnhaku" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku">
+Työnhaku
+</a>
+<button
+aria-controls="mobile-nav-3-1-tyonhaku"
+aria-expanded="false"
+aria-label="Työnhaku: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-1-tyonhaku">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Asiointi ja ilmoittautuminen työnhakijaksi" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/ilmoittautuminen-tyonhakijaksi">
+Asiointi ja ilmoittautuminen työnhakijaksi
+</a>
+<button
+aria-controls="mobile-nav-4-1-ilmoittautuminen-tyonhakijaksi"
+aria-expanded="false"
+aria-label="Asiointi ja ilmoittautuminen työnhakijaksi: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-1-ilmoittautuminen-tyonhakijaksi">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ilmoittautumisohjeet Suomen kansalaiselle" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/ilmoittautuminen-tyonhakijaksi/ilmoittautumisohjeet-suomen-kansalaiselle">
+Ilmoittautumisohjeet Suomen kansalaiselle
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ilmoittautumisohjeet EU- ja ETA-maan ja Sveitsin kansalaiselle" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/ilmoittautuminen-tyonhakijaksi/ilmoittautumisohjeet-eu-ja-eta-maan-ja-sveitsin-kansalaiselle">
+Ilmoittautumisohjeet EU- ja ETA-maan ja Sveitsin kansalaiselle
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Реєстрація шукача роботи та пошук роботи в Фінляндії - Ukrainalaisten työnhakijaksi ilmoittautuminen ja työnhaku Suomessa " href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/ilmoittautuminen-tyonhakijaksi/ukrainalaisten-tyonhakijaksi-ilmoittautuminen-ja-tyonhaku-suomessa">
+Реєстрація шукача роботи та пошук роботи в Фінляндії - Ukrainalaisten työnhakijaksi ilmoittautuminen ja työnhaku Suomessa
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ilmoittautumisohjeet muun maan kansalaiselle" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/ilmoittautuminen-tyonhakijaksi/ilmoittautumisohjeet-muun-maan-kansalaiselle">
+Ilmoittautumisohjeet muun maan kansalaiselle
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Vinkkejä työnhakuun" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/vinkkeja-tyonhakuun">
+Vinkkejä työnhakuun
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Palveluita työnhaun tueksi" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/palveluita-tyonhaun-tueksi">
+Palveluita työnhaun tueksi
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Asiointi työvoimapalveluissa" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/asiointi-tyovoimapalveluissa">
+Asiointi työvoimapalveluissa
+</a>
+<button
+aria-controls="mobile-nav-4-4-asiointi-tyovoimapalveluissa"
+aria-expanded="false"
+aria-label="Asiointi työvoimapalveluissa: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-4-asiointi-tyovoimapalveluissa">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Alkuhaastattelu ja työnhakukeskustelut" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/asiointi-tyovoimapalveluissa/alkuhaastattelu-ja-tyonhakukeskustelut">
+Alkuhaastattelu ja työnhakukeskustelut
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Palvelutarpeen arviointi" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/asiointi-tyovoimapalveluissa/palvelutarpeen-arviointi">
+Palvelutarpeen arviointi
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työllistymissuunnitelma " href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/asiointi-tyovoimapalveluissa/tyollistymissuunnitelma">
+Työllistymissuunnitelma
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Nuorisotakuu" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/nuorisotakuu">
+Nuorisotakuu
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Sesonki- ja kausityö" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyonhaku/sesonki-ja-kausityo">
+Sesonki- ja kausityö
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Koulutus ja opiskelu" href="/henkiloasiakkaat/tietoa-tyoelamasta/koulutus">
+Koulutus ja opiskelu
+</a>
+<button
+aria-controls="mobile-nav-3-2-koulutus"
+aria-expanded="false"
+aria-label="Koulutus ja opiskelu: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-2-koulutus">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Eri tavat opiskella" href="/henkiloasiakkaat/tietoa-tyoelamasta/koulutus/eri-tavat-opiskella">
+Eri tavat opiskella
+</a>
+<button
+aria-controls="mobile-nav-4-1-eri-tavat-opiskella"
+aria-expanded="false"
+aria-label="Eri tavat opiskella: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-1-eri-tavat-opiskella">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työssä oppiminen" href="/henkiloasiakkaat/tietoa-tyoelamasta/koulutus/eri-tavat-opiskella/tyossa-oppiminen">
+Työssä oppiminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Opiskelu työttömänä" href="/henkiloasiakkaat/tietoa-tyoelamasta/koulutus/eri-tavat-opiskella/opiskelu-tyottomana">
+Opiskelu työttömänä
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Osaamisen kehittäminen" href="/henkiloasiakkaat/tietoa-tyoelamasta/koulutus/osaamisen-kehittaminen">
+Osaamisen kehittäminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Toimeentulo opintojen aikana" href="/henkiloasiakkaat/tietoa-tyoelamasta/koulutus/toimeentulo-opintojen-aikana">
+Toimeentulo opintojen aikana
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ura ja työsuhde" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde">
+Ura ja työsuhde
+</a>
+<button
+aria-controls="mobile-nav-3-3-ura-ja-tyosuhde"
+aria-expanded="false"
+aria-label="Ura ja työsuhde: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-3-ura-ja-tyosuhde">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ammatinvalinta ja urasuunnittelu" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/ammatinvalinta-ja-urasuunnittelu">
+Ammatinvalinta ja urasuunnittelu
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työuran alussa" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyouran-alussa">
+Työuran alussa
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työsuhde ja työsopimus" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyosuhde-ja-tyosopimus">
+Työsuhde ja työsopimus
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työntekijän oikeudet ja velvollisuudet" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyontekijan-oikeudet-ja-velvollisuudet">
+Työntekijän oikeudet ja velvollisuudet
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tasa-arvo työelämässä" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tasa-arvo-tyoelamassa">
+Tasa-arvo työelämässä
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työhyvinvointi ja työkyvyn ylläpito" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyohyvinvointi-ja-tyokyvyn-yllapito">
+Työhyvinvointi ja työkyvyn ylläpito
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työturvallisuus" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyoturvallisuus">
+Työturvallisuus
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Vamman tai sairauden vaikutus työkykyyn (osatyökykyisyys)" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/vamman-tai-sairauden-vaikutus-tyokykyyn-osatyokykyisyys">
+Vamman tai sairauden vaikutus työkykyyn (osatyökykyisyys)
+</a>
+<button
+aria-controls="mobile-nav-4-8-vamman-tai-sairauden-vaikutus-tyokykyyn-osatyokykyisyys"
+aria-expanded="false"
+aria-label="Vamman tai sairauden vaikutus työkykyyn (osatyökykyisyys): Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-8-vamman-tai-sairauden-vaikutus-tyokykyyn-osatyokykyisyys">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Keinoja työn mukauttamiseen työntekijälle" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/vamman-tai-sairauden-vaikutus-tyokykyyn-osatyokykyisyys/keinoja-tyon-mukauttamiseen-tyontekijalle">
+Keinoja työn mukauttamiseen työntekijälle
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työkyvyn kartoittaminen" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyokyvyn-kartoittaminen">
+Työkyvyn kartoittaminen
+</a>
+<button
+aria-controls="mobile-nav-4-9-tyokyvyn-kartoittaminen"
+aria-expanded="false"
+aria-label="Työkyvyn kartoittaminen: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-9-tyokyvyn-kartoittaminen">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kykyviisari®" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyokyvyn-kartoittaminen/kykyviisari">
+Kykyviisari®
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työelämään palaaminen" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyoelamaan-palaaminen">
+Työelämään palaaminen
+</a>
+<button
+aria-controls="mobile-nav-4-10-tyoelamaan-palaaminen"
+aria-expanded="false"
+aria-label="Työelämään palaaminen: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-10-tyoelamaan-palaaminen">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kuntouttava työtoiminta" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyoelamaan-palaaminen/kuntouttava-tyotoiminta">
+Kuntouttava työtoiminta
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Irtisanoutuminen" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/irtisanoutuminen">
+Irtisanoutuminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työuran lopulla" href="/henkiloasiakkaat/tietoa-tyoelamasta/ura-ja-tyosuhde/tyouran-lopulla">
+Työuran lopulla
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Itsensä työllistäminen ja yrittäjyys" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen">
+Itsensä työllistäminen ja yrittäjyys
+</a>
+<button
+aria-controls="mobile-nav-3-4-itsensa-tyollistaminen"
+aria-expanded="false"
+aria-label="Itsensä työllistäminen ja yrittäjyys: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-4-itsensa-tyollistaminen">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrittäjyyden eri muotoja" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/yrittajyyden-eri-muotoja">
+Yrittäjyyden eri muotoja
+</a>
+<button
+aria-controls="mobile-nav-4-1-yrittajyyden-eri-muotoja"
+aria-expanded="false"
+aria-label="Yrittäjyyden eri muotoja: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-1-yrittajyyden-eri-muotoja">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrittäjä" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/yrittajyyden-eri-muotoja/yrittaja">
+Yrittäjä
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kevytyrittäjä" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/yrittajyyden-eri-muotoja/kevytyrittaja">
+Kevytyrittäjä
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Franchising-yrittäjä" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/yrittajyyden-eri-muotoja/franchising-yrittaja">
+Franchising-yrittäjä
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Freelancer" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/yrittajyyden-eri-muotoja/freelancer">
+Freelancer
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Eri tapoja työllistyä" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/eri-tapoja-tyollistya">
+Eri tapoja työllistyä
+</a>
+<button
+aria-controls="mobile-nav-4-2-eri-tapoja-tyollistya"
+aria-expanded="false"
+aria-label="Eri tapoja työllistyä: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-2-eri-tapoja-tyollistya">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Apurahansaaja" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/eri-tapoja-tyollistya/apurahansaaja">
+Apurahansaaja
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Sosiaalisen median vaikuttaja" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/eri-tapoja-tyollistya/sosiaalisen-median-vaikuttaja">
+Sosiaalisen median vaikuttaja
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Urheilija" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/eri-tapoja-tyollistya/urheilija">
+Urheilija
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Vuokratyöntekijä" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/eri-tapoja-tyollistya/vuokratyontekija">
+Vuokratyöntekijä
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Omaishoitaja" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/omaishoitaja">
+Omaishoitaja
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Vapaaehtoistyöntekijä" href="/henkiloasiakkaat/tietoa-tyoelamasta/itsensa-tyollistaminen/vapaaehtoistyontekija">
+Vapaaehtoistyöntekijä
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kansainvälisyys" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys">
+Kansainvälisyys
+</a>
+<button
+aria-controls="mobile-nav-3-5-kansainvalisyys"
+aria-expanded="false"
+aria-label="Kansainvälisyys: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-5-kansainvalisyys">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ulkomailta töihin Suomeen" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/ulkomailta-toihin-suomeen">
+Ulkomailta töihin Suomeen
+</a>
+<button
+aria-controls="mobile-nav-4-1-ulkomailta-toihin-suomeen"
+aria-expanded="false"
+aria-label="Ulkomailta töihin Suomeen: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-1-ulkomailta-toihin-suomeen">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Oleskeluluvan hakeminen työntekijänä" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/ulkomailta-toihin-suomeen/oleskeluluvan-hakeminen-tyontekijana">
+Oleskeluluvan hakeminen työntekijänä
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Opiskelu Suomessa" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/opiskelu-suomessa">
+Opiskelu Suomessa
+</a>
+<button
+aria-controls="mobile-nav-4-2-opiskelu-suomessa"
+aria-expanded="false"
+aria-label="Opiskelu Suomessa: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-2-opiskelu-suomessa">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Opiskelu maahanmuuttajana" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/opiskelu-suomessa/opiskelu-maahanmuuttajana">
+Opiskelu maahanmuuttajana
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Maahanmuuttajan palvelut ja kotoutumissuunnitelma" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/maahanmuuttajan-palvelut-ja-kotoutumissuunnitelma">
+Maahanmuuttajan palvelut ja kotoutumissuunnitelma
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Töihin ulkomaille" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/toihin-tai-harjoitteluun-ulkomaille">
+Töihin ulkomaille
+</a>
+<button
+aria-controls="mobile-nav-4-4-toihin-tai-harjoitteluun-ulkomaille"
+aria-expanded="false"
+aria-label="Töihin ulkomaille: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-4-toihin-tai-harjoitteluun-ulkomaille">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Maastamuuttajan muistilista" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/toihin-tai-harjoitteluun-ulkomaille/maastamuuttajan-muistilista">
+Maastamuuttajan muistilista
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Opiskelu, harjoittelu ja vapaaehtoistyö ulkomailla" href="/henkiloasiakkaat/tietoa-tyoelamasta/kansainvalisyys/opiskelemaan-ulkomaille">
+Opiskelu, harjoittelu ja vapaaehtoistyö ulkomailla
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva">
+Työttömyysturva
+</a>
+<button
+aria-controls="mobile-nav-3-6-tyottomyysturva"
+aria-expanded="false"
+aria-label="Työttömyysturva: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-6-tyottomyysturva">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Näin haet työttömyysturvaa" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/nain-haet-tyottomyysturvaa">
+Näin haet työttömyysturvaa
+</a>
+<button
+aria-controls="mobile-nav-4-1-nain-haet-tyottomyysturvaa"
+aria-expanded="false"
+aria-label="Näin haet työttömyysturvaa: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-1-nain-haet-tyottomyysturvaa">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työttömyysturvalausuntoihin liittyvät selvityspyynnöt ja käsittelyajat" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/nain-haet-tyottomyysturvaa/tyottomyysturvalausuntoihin-liittyvat-selvityspyynnot-ja-kasittelyajat">
+Työttömyysturvalausuntoihin liittyvät selvityspyynnöt ja käsittelyajat
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ilmoita muutoksista työttömyystilanteissasi" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/ilmoita-muutoksista-tyottomyystilanteissasi">
+Ilmoita muutoksista työttömyystilanteissasi
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Toimintaohjeet kun työ alkaa tai päättyy" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/toimintaohjeet-kun-tyo-alkaa-tai-paattyy">
+Toimintaohjeet kun työ alkaa tai päättyy
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Palkansaajan työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/palkansaajan-tyottomyysturva">
+Palkansaajan työttömyysturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrittäjän ja itsensä työllistäjän työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/yrittajan-ja-itsensa-tyollistajan-tyottomyysturva">
+Yrittäjän ja itsensä työllistäjän työttömyysturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Alle 25-vuotiaan työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/alle-25-vuotiaan-tyottomyysturva">
+Alle 25-vuotiaan työttömyysturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Opiskelijan työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/opiskelijan-tyottomyysturva">
+Opiskelijan työttömyysturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Lomautetun työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/lomautetun-tyottomyysturva">
+Lomautetun työttömyysturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Maahanmuuttajan työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/maahanmuuttajan-tyottomyysturva">
+Maahanmuuttajan työttömyysturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Vapaaehtoistyötä tai muuta palkatonta työtä tekevän työttömyysturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/vapaaehtoistyota-tai-muuta-palkatonta-tyota-tekevan-tyottomyysturva">
+Vapaaehtoistyötä tai muuta palkatonta työtä tekevän työttömyysturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Palkkaturva" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/palkkaturva">
+Palkkaturva
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Karenssi" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyysturva/karenssi">
+Karenssi
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työttömyys" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyys">
+Työttömyys
+</a>
+<button
+aria-controls="mobile-nav-3-7-tyottomyys"
+aria-expanded="false"
+aria-label="Työttömyys: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-7-tyottomyys">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työttömän työnhakijan oikeudet ja velvollisuudet" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyys/tyottoman-tyonhakijan-oikeudet-ja-velvollisuudet">
+Työttömän työnhakijan oikeudet ja velvollisuudet
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Lomautus" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyys/lomautus">
+Lomautus
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Muutosturva työntekijän näkökulmasta" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyys/muutosturva-tyontekijan-nakokulmasta">
+Muutosturva työntekijän näkökulmasta
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työllistymistä edistävä monialaisen tuen yhteistoimintamalli" href="/henkiloasiakkaat/tietoa-tyoelamasta/tyottomyys/tyollistymista-edistava-monialainen-yhteispalvelu-typ">
+Työllistymistä edistävä monialaisen tuen yhteistoimintamalli
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tietoa tilannelähtöisesti" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet">
+Tietoa tilannelähtöisesti
+</a>
+<button
+aria-controls="mobile-nav-3-8-tilanteet"
+aria-expanded="false"
+aria-label="Tietoa tilannelähtöisesti: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-8-tilanteet">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Olen työtön tai jäämässä työttömäksi" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/olen-tyoton-tai-jaamassa-tyottomaksi">
+Olen työtön tai jäämässä työttömäksi
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työurani on alussa" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/tyourani-on-alussa">
+Työurani on alussa
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Haen työttömyysturvaa" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/haen-tyottomyysturvaa">
+Haen työttömyysturvaa
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Haluan muutosta työelämääni" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/haluan-muutosta-tyoelamaani">
+Haluan muutosta työelämääni
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työttömyyteni on jatkunut pitkään" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/tyottomyyteni-on-jatkunut-pitkaan">
+Työttömyyteni on jatkunut pitkään
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Olen kiinnostunut itseni työllistämisestä" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/olen-kiinnostunut-itseni-tyollistamisesta">
+Olen kiinnostunut itseni työllistämisestä
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrityksen perustaminen kiinnostaa minua" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/yrityksen-perustaminen-kiinnostaa-minua">
+Yrityksen perustaminen kiinnostaa minua
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Haluan opiskella" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/haluan-opiskella">
+Haluan opiskella
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Olen palaamassa työelämään" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/olen-palaamassa-tyoelamaan">
+Olen palaamassa työelämään
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Minut on lomautettu" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/minut-on-lomautettu">
+Minut on lomautettu
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tarvitsen apua työkyvyn tueksi" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/tarvitsen-apua-tyokyvyn-tueksi">
+Tarvitsen apua työkyvyn tueksi
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Haluan töihin, harjoitteluun tai opiskelemaan ulkomaille" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/haluan-toihin-harjoitteluun-tai-opiskelemaan-ulkomaille">
+Haluan töihin, harjoitteluun tai opiskelemaan ulkomaille
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Olen tulossa Suomeen töihin" href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/olen-tulossa-suomeen-toihin">
+Olen tulossa Suomeen töihin
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Olen työurani loppupuolella " href="/henkiloasiakkaat/tietoa-tyoelamasta/tilanteet/olen-tyourani-loppupuolella">
+Olen työurani loppupuolella
+</a>
+</span>
+</li> </ul>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ammattitieto" href="/henkiloasiakkaat/ammattitieto">
+Ammattitieto
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Oma työpolku" href="/henkiloasiakkaat/oma-tyopolku">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="speech-bubble-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g clip-path="url(#a)"><path d="M22 21.089c.4-.3.8-.7.8-1.1 0-.237-.2-.366-.3-.4 0 0-1-.4-1.5-.9-.2-.2-.3-.7-.1-1 1.1-1.7 1.8-3.7 1.8-5.9 0-6-4.8-10.8-10.7-10.8-6 0-10.8 4.7-10.8 10.7 0 4.7 2.7 8.3 6.8 10.1 5.4 2.2 11.1 1.1 14-.7Z"/></g><defs><clipPath id="a"><path d="M0 0h24v24H0z"/></clipPath></defs></svg> Oma työpolku
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Asiointi" href="/henkiloasiakkaat/asiointi">
+<svg aria-hidden="true" class="icon icon-brand page-header-item-icon " role="presentation" data-icon="te-palvelut-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.947 8.095c-.9-.9-2-.8-2.5.6-.6 1.8-1.6 3.9-2.7 5.9-1.2 2-2.5 3.9-3.7 5.3-.9 1.2-.5 2.1.8 2.4 1.3.3 2.5 0 3.9-1.1 1-.8 2.1-2.2 3.3-4.2 1.1-2 1.8-3.7 2-4.9.1-1.8-.2-3-1.1-4Zm-1.8-3c-.4-1.3-1.2-2.1-2.9-2.8-1.2-.4-3-.7-5.3-.7-2.4 0-4.1.3-5.3.7-1.7.7-2.5 1.5-2.9 2.8-.4 1.2.2 2.1 1.7 1.9 1.9-.4 4.2-.6 6.5-.6s4.6.2 6.5.6c1.5.2 2.1-.7 1.7-1.9Zm-10.1 10c2 1.2 3.7.1 3.8 0 1.3-.9 1.8-2.9 1.6-4.1-.2-1.9-1.5-2.2-1.7-2.3-1-.3-2.7-.3-3.7 0-1.6.5-1.6 2.1-1.7 2.3-.2 1.1.4 3.2 1.7 4.1Zm-8.1-7c-.9.9-1.2 2.1-.9 3.9.2 1.2.9 3 2 4.9 1.2 2.1 2.3 3.4 3.3 4.2 1.4 1.1 2.6 1.5 3.9 1.1 1.3-.3 1.7-1.3.8-2.4-1.3-1.3-2.6-3.2-3.8-5.2-1.1-2-2.1-4.1-2.7-5.9-.6-1.4-1.7-1.5-2.6-.6Z"/></svg> Asiointi
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link mobile-menu-link-with-button " data-content="Työnantajat ja yrittäjät" href="/tyonantajat-ja-yrittajat">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="group" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9.051 9.901-1.858 3.22" stroke-miterlimit="10"/><path d="m17.253 13.063-1.78-3.082" stroke-miterlimit="10"/><path d="M10.193 17.5h4.442" stroke-miterlimit="10"/><path d="M12.242 2c-.063 0-.063 0 0 0Zm0 0c-2.489 0-4.5 2.01-4.5 4.5s2.011 4.5 4.5 4.5c2.49 0 4.5-2.01 4.5-4.5-.095-2.49-2.106-4.5-4.5-4.5Z" stroke-miterlimit="10"/><path d="M12.242 4.682c-.948 0-1.659.71-1.659 1.659 0 .948.711 1.66 1.66 1.66.948 0 1.659-.712 1.659-1.66s-.711-1.66-1.66-1.66Z" stroke-miterlimit="10"/><path d="M15.442 9.8c-.7-1.1-1.9-1.8-3.2-1.8-1.4 0-2.6.7-3.2 1.8" stroke-miterlimit="10"/><path d="M18.935 13.012c-.063 0-.063 0 0 0Zm0 0c-2.49 0-4.5 2.01-4.5 4.5s2.01 4.5 4.5 4.5 4.5-2.01 4.5-4.5c-.095-2.49-2.106-4.5-4.5-4.5Z" stroke-miterlimit="10"/><path d="M18.935 15.693c-.948 0-1.659.711-1.659 1.66 0 .948.711 1.659 1.66 1.659.948 0 1.659-.711 1.659-1.66 0-.948-.711-1.659-1.66-1.659Z" stroke-miterlimit="10"/><path d="M22.135 20.812c-.7-1.1-1.9-1.8-3.2-1.8-1.4 0-2.6.7-3.2 1.8" stroke-miterlimit="10"/><path d="M5.5 13.012c-.064 0-.064 0 0 0Zm0 0c-2.49 0-4.5 2.01-4.5 4.5s2.01 4.5 4.5 4.5 4.5-2.01 4.5-4.5c-.096-2.49-2.106-4.5-4.5-4.5Z" stroke-miterlimit="10"/><path d="M5.5 15.693c-.948 0-1.66.711-1.66 1.66 0 .948.712 1.659 1.66 1.659s1.66-.711 1.66-1.66c0-.948-.712-1.659-1.66-1.659Z" stroke-miterlimit="10"/><path d="M8.7 20.812c-.7-1.1-1.9-1.8-3.2-1.8-1.4 0-2.6.7-3.2 1.8" stroke-miterlimit="10"/></svg> Työnantajat ja yrittäjät
+</a>
+<button
+aria-controls="mobile-nav-1-2-tyonantajat-ja-yrittajat"
+aria-expanded="false"
+aria-label="Työnantajat ja yrittäjät: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-1-2-tyonantajat-ja-yrittajat">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link mobile-menu-link-with-button " data-content="Tietoa työnantajuudesta ja yrittäjyydestä" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta">
+Tietoa työnantajuudesta ja yrittäjyydestä
+</a>
+<button
+aria-controls="mobile-nav-2-1-tietoa-tyonantajuudesta-ja-yrittajyydesta"
+aria-expanded="false"
+aria-label="Tietoa työnantajuudesta ja yrittäjyydestä: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-2-1-tietoa-tyonantajuudesta-ja-yrittajyydesta">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnantajuus" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus">
+Työnantajuus
+</a>
+<button
+aria-controls="mobile-nav-3-1-tyonantajuus"
+aria-expanded="false"
+aria-label="Työnantajuus: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-1-tyonantajuus">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnantajaksi ryhtyminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus/tyonantajaksi-ryhtyminen">
+Työnantajaksi ryhtyminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnantajana toimiminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus/tyonantajana-toimiminen">
+Työnantajana toimiminen
+</a>
+<button
+aria-controls="mobile-nav-4-2-tyonantajana-toimiminen"
+aria-expanded="false"
+aria-label="Työnantajana toimiminen: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-2-tyonantajana-toimiminen">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnantajan oikeudet ja velvollisuudet" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus/tyonantajana-toimiminen/tyonantajan-oikeudet-ja-velvollisuudet">
+Työnantajan oikeudet ja velvollisuudet
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työsopimuksen solmiminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus/tyonantajana-toimiminen/tyosopimuksen-solmiminen">
+Työsopimuksen solmiminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Uuden työntekijän perehdyttäminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus/tyonantajana-toimiminen/uuden-tyontekijan-perehdyttaminen">
+Uuden työntekijän perehdyttäminen
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnantajuuden päättyminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus/tyonantajuuden-paattyminen">
+Työnantajuuden päättyminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kotitalous työnantajana" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyonantajuus/kotitalous-tyonantajana">
+Kotitalous työnantajana
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Rekrytointi" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/rekrytointi">
+Rekrytointi
+</a>
+<button
+aria-controls="mobile-nav-3-2-rekrytointi"
+aria-expanded="false"
+aria-label="Rekrytointi: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-2-rekrytointi">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Uuden työntekijän löytäminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/rekrytointi/uuden-tekijan-loytaminen">
+Uuden työntekijän löytäminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työntekijän löytäminen Työmarkkinatorilta" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/rekrytointi/tyontekijan-loytaminen-tyomarkkinatorilta">
+Työntekijän löytäminen Työmarkkinatorilta
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Nuoren työntekijän palkkaaminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/rekrytointi/nuoren-tyontekijan-palkkaaminen">
+Nuoren työntekijän palkkaaminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Erityisosaamisen tarve" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/rekrytointi/erityisosaamisen-tarve">
+Erityisosaamisen tarve
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Erilaiset työllistämisen tavat" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/rekrytointi/erilaiset-tyollistamisen-tavat">
+Erilaiset työllistämisen tavat
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Epäonnistunut rekrytointi" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/rekrytointi/epaonnistunut-rekrytointi">
+Epäonnistunut rekrytointi
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työyhteisö" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyoyhteiso">
+Työyhteisö
+</a>
+<button
+aria-controls="mobile-nav-3-3-tyoyhteiso"
+aria-expanded="false"
+aria-label="Työyhteisö: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-3-tyoyhteiso">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Henkilöstön osaaminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyoyhteiso/henkiloston-osaaminen">
+Henkilöstön osaaminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ennakoiva työkyvyn tukeminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyoyhteiso/ennakoiva-tyokyvyn-tukeminen">
+Ennakoiva työkyvyn tukeminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ristiriitatilanteet työpaikalla" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyoyhteiso/ristiriitatilanteet-tyopaikalla">
+Ristiriitatilanteet työpaikalla
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Henkilöstön muistaminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyoyhteiso/henkiloston-muistaminen">
+Henkilöstön muistaminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Hyvinvoiva työyhteisö" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyoyhteiso/hyvinvoiva-tyoyhteiso">
+Hyvinvoiva työyhteisö
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Monimuotoinen työyhteisö" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyoyhteiso/monimuotoinen-tyoyhteiso">
+Monimuotoinen työyhteisö
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kansainvälinen rekrytointi" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi">
+Kansainvälinen rekrytointi
+</a>
+<button
+aria-controls="mobile-nav-3-4-kansainvalinen-rekrytointi"
+aria-expanded="false"
+aria-label="Kansainvälinen rekrytointi: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-4-kansainvalinen-rekrytointi">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kansainvälisen rekrytoinnin prosessi" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/kansainvalisen-rekrytoinnin-prosessi">
+Kansainvälisen rekrytoinnin prosessi
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tukea kansainväliseen rekrytointiin" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/tukea-kansainvaliseen-rekrytointiin">
+Tukea kansainväliseen rekrytointiin
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Rekrytoi vastuullisesti" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/rekrytoi-vastuullisesti">
+Rekrytoi vastuullisesti
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnantajan velvollisuudet kansainvälisessä rekrytoinnissa" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/tyonantajan-velvollisuudet-kansainvalisessa-rekrytoinnissa">
+Työnantajan velvollisuudet kansainvälisessä rekrytoinnissa
+</a>
+<button
+aria-controls="mobile-nav-4-4-tyonantajan-velvollisuudet-kansainvalisessa-rekrytoinnissa"
+aria-expanded="false"
+aria-label="Työnantajan velvollisuudet kansainvälisessä rekrytoinnissa: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-4-tyonantajan-velvollisuudet-kansainvalisessa-rekrytoinnissa">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työntekijän oleskeluluvan hakeminen " href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/tyonantajan-velvollisuudet-kansainvalisessa-rekrytoinnissa/tyontekijan-oleskeluluvan-hakeminen">
+Työntekijän oleskeluluvan hakeminen
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työpaikkailmoituksen laatiminen kansainväliseen rekrytointiin" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/tyopaikkailmoituksen-laatiminen-kansainvaliseen-rekrytointiin">
+Työpaikkailmoituksen laatiminen kansainväliseen rekrytointiin
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="EURES" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/eures">
+EURES
+</a>
+<button
+aria-controls="mobile-nav-4-6-eures"
+aria-expanded="false"
+aria-label="EURES: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-6-eures">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="EURES-palvelut työnantajille " href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/eures/eures-palvelut-tyonantajille">
+EURES-palvelut työnantajille
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yksityiset palveluntuottajat" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/eures/yksityiset-palveluntuottajat">
+Yksityiset palveluntuottajat
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Luonnontuotteiden keruu" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/luonnontuotteiden-keruu">
+Luonnontuotteiden keruu
+</a>
+<button
+aria-controls="mobile-nav-4-7-luonnontuotteiden-keruu"
+aria-expanded="false"
+aria-label="Luonnontuotteiden keruu: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-7-luonnontuotteiden-keruu">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="KEHA-keskuksen luonnontuotekeruualaan liittyvät tehtävät" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/luonnontuotteiden-keruu/keha-keskuksen-luonnonkeruualaan-liittyvat-tehtavat">
+KEHA-keskuksen luonnontuotekeruualaan liittyvät tehtävät
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Käytäntöjä luonnontuotekeruualan yrityksille" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/kansainvalinen-rekrytointi/luonnontuotteiden-keruu/kaytantoja-luonnontuotekeruualan-yrityksille">
+Käytäntöjä luonnontuotekeruualan yrityksille
+</a>
+</span>
+</li> </ul>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työsuhteen muutostilanteet" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet">
+Työsuhteen muutostilanteet
+</a>
+<button
+aria-controls="mobile-nav-3-5-tyosuhteen-muutostilanteet"
+aria-expanded="false"
+aria-label="Työsuhteen muutostilanteet: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-5-tyosuhteen-muutostilanteet">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työkykyä tukevat muutostoimenpiteet" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet/tyokykya-tukevat-muutostoimenpiteet">
+Työkykyä tukevat muutostoimenpiteet
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Irtisanomisen ja lomauttamisen vaihtoehdot" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet/irtisanomisen-ja-lomauttamisen-vaihtoehdot">
+Irtisanomisen ja lomauttamisen vaihtoehdot
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Muutosneuvottelut" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet/muutosneuvottelut">
+Muutosneuvottelut
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Muutosturva työnantajan näkökulmasta" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet/muutosturva-tyonantajan-nakokulmasta">
+Muutosturva työnantajan näkökulmasta
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Lomauttaminen työnantajan näkökulmasta" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet/lomauttaminen-tyonantajan-nakokulmasta">
+Lomauttaminen työnantajan näkökulmasta
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Irtisanominen ja työsuhteen purkaminen työnantajana" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet/irtisanominen-ja-tyosuhteen-purkaminen-tyonantajana">
+Irtisanominen ja työsuhteen purkaminen työnantajana
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työntekijän eläköityminen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tyosuhteen-muutostilanteet/tyontekijan-elakoityminen">
+Työntekijän eläköityminen
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrittäjyys" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/yrittajyys">
+Yrittäjyys
+</a>
+<button
+aria-controls="mobile-nav-3-6-yrittajyys"
+aria-expanded="false"
+aria-label="Yrittäjyys: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-6-yrittajyys">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Apua yrittäjyyden aloittamiseen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/yrittajyys/apua-yrittajyyden-aloittamiseen">
+Apua yrittäjyyden aloittamiseen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Sivutoiminen yrittäjyys" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/yrittajyys/sivutoiminen-yrittajyys">
+Sivutoiminen yrittäjyys
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrittäjyyskoulutus ja uravalmennus" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/yrittajyys/yrittajyyskoulutus-ja-uravalmennus">
+Yrittäjyyskoulutus ja uravalmennus
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yhteiskunnallinen yrittäjyys" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/yrittajyys/yhteiskunnallinen-yrittajyys">
+Yhteiskunnallinen yrittäjyys
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tietoa tilannelähtöisesti" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet">
+Tietoa tilannelähtöisesti
+</a>
+<button
+aria-controls="mobile-nav-3-7-tilanteet"
+aria-expanded="false"
+aria-label="Tietoa tilannelähtöisesti: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-7-tilanteet">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Haluan palkata työntekijän" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/haluan-palkata-tyontekijan">
+Haluan palkata työntekijän
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Haluan kehittää henkilöstön osaamista ja hyvinvointia" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/haluan-kehittaa-henkiloston-osaamista">
+Haluan kehittää henkilöstön osaamista ja hyvinvointia
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tarvitsen tukea työnantajuuteen" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/tarvitsen-tukea-tyonantajuuteen">
+Tarvitsen tukea työnantajuuteen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Rekrytoin ulkomailta" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/rekrytoin-ulkomailta">
+Rekrytoin ulkomailta
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrityksen perustaminen kiinnostaa minua" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/yrityksen-perustaminen-kiinnostaa-minua">
+Yrityksen perustaminen kiinnostaa minua
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Lomautan tai irtisanon henkilöstöä" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/lomautan-tai-irtisanon-henkilostoa">
+Lomautan tai irtisanon henkilöstöä
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Haluan kehittää omaa yritystäni" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/haluan-kehittaa-omaa-yritystani">
+Haluan kehittää omaa yritystäni
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tarvitsen tietoa työkyvyn tukemisesta" href="/tyonantajat-ja-yrittajat/tietoa-tyonantajuudesta-ja-yrittajyydesta/tilanteet/tarvitsen-tietoa-tyokyvyn-tukemisesta">
+Tarvitsen tietoa työkyvyn tukemisesta
+</a>
+</span>
+</li> </ul>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link mobile-menu-link-with-button " data-content="Yrittäjyyden työkalut" href="/tyonantajat-ja-yrittajat/yrittajyyden-tyokalut">
+Yrittäjyyden työkalut
+</a>
+<button
+aria-controls="mobile-nav-2-2-yrittajyyden-tyokalut"
+aria-expanded="false"
+aria-label="Yrittäjyyden työkalut: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-2-2-yrittajyyden-tyokalut">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Liiketoimintasuunnitelma" href="/tyonantajat-ja-yrittajat/yrittajyyden-tyokalut/liiketoimintasuunnitelma">
+Liiketoimintasuunnitelma
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrittäjyystestit" href="/tyonantajat-ja-yrittajat/yrittajyyden-tyokalut/yrittajyystestit">
+Yrittäjyystestit
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Käyttöehdot, tietosuoja ja saavutettavuus" href="/tyonantajat-ja-yrittajat/yrittajyyden-tyokalut/kayttoehdot-tietosuoja-saavutettavuus">
+Käyttöehdot, tietosuoja ja saavutettavuus
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Yrityksen asiointi" href="/tyonantajat-ja-yrittajat/yrityksen-asiointi">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="speech-bubble-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g clip-path="url(#a)"><path d="M22 21.089c.4-.3.8-.7.8-1.1 0-.237-.2-.366-.3-.4 0 0-1-.4-1.5-.9-.2-.2-.3-.7-.1-1 1.1-1.7 1.8-3.7 1.8-5.9 0-6-4.8-10.8-10.7-10.8-6 0-10.8 4.7-10.8 10.7 0 4.7 2.7 8.3 6.8 10.1 5.4 2.2 11.1 1.1 14-.7Z"/></g><defs><clipPath id="a"><path d="M0 0h24v24H0z"/></clipPath></defs></svg> Yrityksen asiointi
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link mobile-menu-link-with-button " data-content="Työllisyys ja tilastot" href="/tyollisyys-ja-tilastot">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="info-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3.5a8.5 8.5 0 1 1 0 17 8.5 8.5 0 0 1 0-17Z"/><path d="M12 11.2c.7 0 1.2.5 1.2 1.2v4.2c0 .7-.5 1.2-1.2 1.2s-1.2-.5-1.2-1.2v-4.2c0-.7.6-1.2 1.2-1.2Z"/><path d="M12 6.4c.7 0 1.2.5 1.2 1.2s-.5 1.2-1.2 1.2-1.2-.5-1.2-1.2.6-1.2 1.2-1.2Z"/></svg> Työllisyys ja tilastot
+</a>
+<button
+aria-controls="mobile-nav-1-3-tyollisyys-ja-tilastot"
+aria-expanded="false"
+aria-label="Työllisyys ja tilastot: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-1-3-tyollisyys-ja-tilastot">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link mobile-menu-link-with-button " data-content="Arviointi ja tutkimus" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus">
+Arviointi ja tutkimus
+</a>
+<button
+aria-controls="mobile-nav-2-1-arviointi-ja-tutkimus"
+aria-expanded="false"
+aria-label="Arviointi ja tutkimus: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-2-1-arviointi-ja-tutkimus">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työvoimapalvelut" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/tyovoimapalvelut">
+Työvoimapalvelut
+</a>
+<button
+aria-controls="mobile-nav-3-1-tyovoimapalvelut"
+aria-expanded="false"
+aria-label="Työvoimapalvelut: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-1-tyovoimapalvelut">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työllisyysalueiden asiantuntija-arviot" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/tyovoimapalvelut/tyollisyysalueiden-asiantuntija-arviot">
+Työllisyysalueiden asiantuntija-arviot
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työllisyyskuva-sovellus" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/tyovoimapalvelut/tyollisyyskuva-sovellus">
+Työllisyyskuva-sovellus
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työvoimapalveluiden tilastokatsaus" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/tyovoimapalvelut/tyovoimapalveluiden-tilastokatsaus">
+Työvoimapalveluiden tilastokatsaus
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kotoutuminen" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/kotoutuminen">
+Kotoutuminen
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Monialaiset palvelut" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/monialaiset-palvelut">
+Monialaiset palvelut
+</a>
+<button
+aria-controls="mobile-nav-3-3-monialaiset-palvelut"
+aria-expanded="false"
+aria-label="Monialaiset palvelut: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-3-monialaiset-palvelut">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ohjaamo" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/monialaiset-palvelut/ohjaamo">
+Ohjaamo
+</a>
+<button
+aria-controls="mobile-nav-4-1-ohjaamo"
+aria-expanded="false"
+aria-label="Ohjaamo: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-4-1-ohjaamo">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ohjaamojen kävijätilastot 2024" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/monialaiset-palvelut/ohjaamo/ohjaamojen-kavijatilastot-2024">
+Ohjaamojen kävijätilastot 2024
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ohjaamojen kävijätilastot 2023" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/monialaiset-palvelut/ohjaamo/ohjaamojen-kavijatilastot-2023">
+Ohjaamojen kävijätilastot 2023
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ohjaamojen valtakunnallinen nuorten palaute 2024" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/monialaiset-palvelut/ohjaamo/ohjaamojen-valtakunnallinen-nuorten-palaute-2024">
+Ohjaamojen valtakunnallinen nuorten palaute 2024
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="TYM-yhteistoimintamalli" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/monialaiset-palvelut/tym-yhteistoimintamalli">
+TYM-yhteistoimintamalli
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Nuorten ja Ohjaamojen Onni" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/monialaiset-palvelut/nuorten-ja-ohjaamojen-onni">
+Nuorten ja Ohjaamojen Onni
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ennakointi" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/ennakointi">
+Ennakointi
+</a>
+<button
+aria-controls="mobile-nav-3-4-ennakointi"
+aria-expanded="false"
+aria-label="Ennakointi: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-4-ennakointi">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työvoimabarometri" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/ennakointi/tyovoimabarometri">
+Työvoimabarometri
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Alueelliset kehitysnäkymät" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/ennakointi/alueelliset-kehitysnakymat">
+Alueelliset kehitysnäkymät
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kansainvälisen rekrytoinnin ennakointimalli" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/ennakointi/kansainvalisen-rekrytoinnin-ennakointimalli">
+Kansainvälisen rekrytoinnin ennakointimalli
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Tutkijapalvelut ja luvat" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/tutkijapalvelut-ja-luvat">
+Tutkijapalvelut ja luvat
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työllisyyskatsaus" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/tyollisyyskatsaus">
+Työllisyyskatsaus
+</a>
+<button
+aria-controls="mobile-nav-3-6-tyollisyyskatsaus"
+aria-expanded="false"
+aria-label="Työllisyyskatsaus: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-6-tyollisyyskatsaus">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Julkistamispäivät vuonna 2025" href="/tyollisyys-ja-tilastot/arviointi-ja-tutkimus/tyollisyyskatsaus/julkistamispaivat-vuonna-2025">
+Julkistamispäivät vuonna 2025
+</a>
+</span>
+</li> </ul>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link mobile-menu-link-with-button " data-content="Tilastot ja raportit" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit">
+Tilastot ja raportit
+</a>
+<button
+aria-controls="mobile-nav-2-2-tilastot-ja-raportit"
+aria-expanded="false"
+aria-label="Tilastot ja raportit: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-2-2-tilastot-ja-raportit">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnvälitystilasto" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/tyonvalitystilasto">
+Työnvälitystilasto
+</a>
+<button
+aria-controls="mobile-nav-3-1-tyonvalitystilasto"
+aria-expanded="false"
+aria-label="Työnvälitystilasto: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-1-tyonvalitystilasto">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Julkistamispäivät vuonna 2025" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/tyonvalitystilasto/julkistamispaivat-vuonna-2025-">
+Julkistamispäivät vuonna 2025
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kotoutumisen tietokannat" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/kotoutumisen-tietokannat">
+Kotoutumisen tietokannat
+</a>
+<button
+aria-controls="mobile-nav-3-2-kotoutumisen-tietokannat"
+aria-expanded="false"
+aria-label="Kotoutumisen tietokannat: Näytä tai piilota alasivut"
+class="btn btn-plain-primary mobile-menu-toggler mobile-menu-button"
+data-toggle="collapse"
+type="button"
+>
+<span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-expand" role="presentation" data-icon="chevron-down" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m18 9-6 6-6-6" stroke-linecap="round" stroke-linejoin="round"/></svg><svg aria-hidden="true" class="icon icon-lg btn-icon mobile-menu-toggler-icon-collapse" role="presentation" data-icon="chevron-up" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m6 15 6-6 6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span>
+</button>
+</span>
+<ul class="mobile-menu-list collapse"
+id="mobile-nav-3-2-kotoutumisen-tietokannat">
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kotoutumisen indikaattoritietokannat" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/kotoutumisen-tietokannat/kotoutumisen-indikaattoritietokannat">
+Kotoutumisen indikaattoritietokannat
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Kototietokanta" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/kotoutumisen-tietokannat/kototietokanta">
+Kototietokanta
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työvoiman saatavuus ja kohtaanto" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/tyovoiman-saatavuus-ja-kohtaanto">
+Työvoiman saatavuus ja kohtaanto
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työnantajahaastattelut" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/tyonantajahaastattelut">
+Työnantajahaastattelut
+</a>
+</span>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Ulkomaalaisten työttömien työnhakijoiden seuranta" href="/tyollisyys-ja-tilastot/tilastot-ja-raportit/ulkomaalaisten-tyottomien-tyonhakijoiden-seuranta">
+Ulkomaalaisten työttömien työnhakijoiden seuranta
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Työmarkkinatori numeroina" href="/tyollisyys-ja-tilastot/tyomarkkinatori-numeroina">
+Työmarkkinatori numeroina
+</a>
+</span>
+</li> </ul>
+</li>
+<li class="mobile-menu-list-item">
+<span class="mobile-menu-item ">
+<a class="mobile-menu-link " data-content="Aluesivut" href="/aluesivu">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="location" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.31 21.134C7.766 15.964 5.5 12.354 5.5 8.94 5.5 5.33 8.455 2.5 12 2.5c3.644 0 6.5 2.927 6.5 6.44 0 3.316-2.265 7.121-5.81 12.194-.296.488-1.084.488-1.38 0Z" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 12.6a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/></svg> Aluesivut
+</a>
+</span>
+</li>  </ul>
+            </nav>
+    </div>
+    </div>
+    <div class="header-desktop">
+    <div class="header-area-nav-container ">
+        <div class="header-logo-container">
+        <a href="/">
+                <img
+                    src="/resources/images/tyomarkkinatori.svg"
+                    class="logo-header"
+                    alt="Työmarkkinatori - etusivulle"
+                />
+        </a>
+        </div>
+            <nav id="area-nav" class="area-nav" aria-label="Päävalikko">
+  <ul class="area-nav-list "  >
+  <li
+    class="area-nav-item "
+    
+  >
+
+
+    <a id="area-nav_henkiloasiakkaat" class="area-nav-link active" aria-current="page" data-content="Henkilöasiakkaat" href="/henkiloasiakkaat">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="user" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M14.922 11.725c2.531.775 4.428 2.632 4.428 5.684 0 4.421-15 4.421-15 0 0-2.947 2.059-4.947 4.804-5.684" stroke-linecap="round"/><path d="M12.05 12.725a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z"/></svg>        Henkilöasiakkaat
+    </a>
+  </li>
+  <li
+    class="area-nav-item "
+    
+  >
+
+
+    <a id="area-nav_tyonantajat-ja-yrittajat" class="area-nav-link "  data-content="Työnantajat ja yrittäjät" href="/tyonantajat-ja-yrittajat">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="group" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9.051 9.901-1.858 3.22" stroke-miterlimit="10"/><path d="m17.253 13.063-1.78-3.082" stroke-miterlimit="10"/><path d="M10.193 17.5h4.442" stroke-miterlimit="10"/><path d="M12.242 2c-.063 0-.063 0 0 0Zm0 0c-2.489 0-4.5 2.01-4.5 4.5s2.011 4.5 4.5 4.5c2.49 0 4.5-2.01 4.5-4.5-.095-2.49-2.106-4.5-4.5-4.5Z" stroke-miterlimit="10"/><path d="M12.242 4.682c-.948 0-1.659.71-1.659 1.659 0 .948.711 1.66 1.66 1.66.948 0 1.659-.712 1.659-1.66s-.711-1.66-1.66-1.66Z" stroke-miterlimit="10"/><path d="M15.442 9.8c-.7-1.1-1.9-1.8-3.2-1.8-1.4 0-2.6.7-3.2 1.8" stroke-miterlimit="10"/><path d="M18.935 13.012c-.063 0-.063 0 0 0Zm0 0c-2.49 0-4.5 2.01-4.5 4.5s2.01 4.5 4.5 4.5 4.5-2.01 4.5-4.5c-.095-2.49-2.106-4.5-4.5-4.5Z" stroke-miterlimit="10"/><path d="M18.935 15.693c-.948 0-1.659.711-1.659 1.66 0 .948.711 1.659 1.66 1.659.948 0 1.659-.711 1.659-1.66 0-.948-.711-1.659-1.66-1.659Z" stroke-miterlimit="10"/><path d="M22.135 20.812c-.7-1.1-1.9-1.8-3.2-1.8-1.4 0-2.6.7-3.2 1.8" stroke-miterlimit="10"/><path d="M5.5 13.012c-.064 0-.064 0 0 0Zm0 0c-2.49 0-4.5 2.01-4.5 4.5s2.01 4.5 4.5 4.5 4.5-2.01 4.5-4.5c-.096-2.49-2.106-4.5-4.5-4.5Z" stroke-miterlimit="10"/><path d="M5.5 15.693c-.948 0-1.66.711-1.66 1.66 0 .948.712 1.659 1.66 1.659s1.66-.711 1.66-1.66c0-.948-.712-1.659-1.66-1.659Z" stroke-miterlimit="10"/><path d="M8.7 20.812c-.7-1.1-1.9-1.8-3.2-1.8-1.4 0-2.6.7-3.2 1.8" stroke-miterlimit="10"/></svg>        Työnantajat ja yrittäjät
+    </a>
+  </li>
+  <li
+    class="area-nav-item "
+    
+  >
+
+
+    <a id="area-nav_tyollisyys-ja-tilastot" class="area-nav-link "  data-content="Työllisyys ja tilastot" href="/tyollisyys-ja-tilastot">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="info-circle" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 3.5a8.5 8.5 0 1 1 0 17 8.5 8.5 0 0 1 0-17Z"/><path d="M12 11.2c.7 0 1.2.5 1.2 1.2v4.2c0 .7-.5 1.2-1.2 1.2s-1.2-.5-1.2-1.2v-4.2c0-.7.6-1.2 1.2-1.2Z"/><path d="M12 6.4c.7 0 1.2.5 1.2 1.2s-.5 1.2-1.2 1.2-1.2-.5-1.2-1.2.6-1.2 1.2-1.2Z"/></svg>        Työllisyys ja tilastot
+    </a>
+  </li>
+  <li
+    class="area-nav-item "
+    
+  >
+
+
+    <a id="area-nav_aluesivu" class="area-nav-link "  data-content="Aluesivut" href="/aluesivu">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="location" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.31 21.134C7.766 15.964 5.5 12.354 5.5 8.94 5.5 5.33 8.455 2.5 12 2.5c3.644 0 6.5 2.927 6.5 6.44 0 3.316-2.265 7.121-5.81 12.194-.296.488-1.084.488-1.38 0Z" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 12.6a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/></svg>        Aluesivut
+    </a>
+  </li>
+  </ul>
+            </nav>
+    </div>
+        <div class="header-main-nav-container">
+            <nav id="main-nav" class="main-nav" aria-labelledby="area-nav_henkiloasiakkaat">
+  <ul class="main-nav-list "  >
+  <li
+    class="main-nav-item "
+    
+  >
+
+
+    <a id="main-nav_avoimet-tyopaikat" class="main-nav-link "  data-content="Avoimet työpaikat" href="/henkiloasiakkaat/avoimet-tyopaikat">
+        Avoimet työpaikat
+    </a>
+  </li>
+  <li
+    class="main-nav-item "
+    
+  >
+
+
+    <a id="main-nav_koulutukset-ja-palvelut" class="main-nav-link "  data-content="Koulutukset ja palvelut" href="/henkiloasiakkaat/koulutukset-ja-palvelut">
+        Koulutukset ja palvelut
+    </a>
+  </li>
+  <li
+    class="main-nav-item "
+    
+  >
+
+
+    <a id="main-nav_tietoa-tyoelamasta" class="main-nav-link "  data-content="Tietoa työelämästä" href="/henkiloasiakkaat/tietoa-tyoelamasta">
+        Tietoa työelämästä
+    </a>
+  </li>
+  <li
+    class="main-nav-item "
+    
+  >
+
+
+    <a id="main-nav_ammattitieto" class="main-nav-link "  data-content="Ammattitieto" href="/henkiloasiakkaat/ammattitieto">
+        Ammattitieto
+    </a>
+  </li>
+  </ul>
+  <ul class="main-nav-list special"  >
+  <li
+    class="main-nav-item "
+    
+  >
+
+
+    <a id="main-nav_oma-tyopolku" class="main-nav-link "  data-content="Oma työpolku" href="/henkiloasiakkaat/oma-tyopolku">
+<svg aria-hidden="true" class="icon page-header-item-icon " role="presentation" data-icon="speech-bubble-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g clip-path="url(#a)"><path d="M22 21.089c.4-.3.8-.7.8-1.1 0-.237-.2-.366-.3-.4 0 0-1-.4-1.5-.9-.2-.2-.3-.7-.1-1 1.1-1.7 1.8-3.7 1.8-5.9 0-6-4.8-10.8-10.7-10.8-6 0-10.8 4.7-10.8 10.7 0 4.7 2.7 8.3 6.8 10.1 5.4 2.2 11.1 1.1 14-.7Z"/></g><defs><clipPath id="a"><path d="M0 0h24v24H0z"/></clipPath></defs></svg>        Oma työpolku
+    </a>
+  </li>
+  <li
+    class="main-nav-item "
+    
+  >
+
+
+    <a id="main-nav_asiointi" class="main-nav-link "  data-content="Asiointi" href="/henkiloasiakkaat/asiointi">
+<svg aria-hidden="true" class="icon icon-brand page-header-item-icon " role="presentation" data-icon="te-palvelut-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.947 8.095c-.9-.9-2-.8-2.5.6-.6 1.8-1.6 3.9-2.7 5.9-1.2 2-2.5 3.9-3.7 5.3-.9 1.2-.5 2.1.8 2.4 1.3.3 2.5 0 3.9-1.1 1-.8 2.1-2.2 3.3-4.2 1.1-2 1.8-3.7 2-4.9.1-1.8-.2-3-1.1-4Zm-1.8-3c-.4-1.3-1.2-2.1-2.9-2.8-1.2-.4-3-.7-5.3-.7-2.4 0-4.1.3-5.3.7-1.7.7-2.5 1.5-2.9 2.8-.4 1.2.2 2.1 1.7 1.9 1.9-.4 4.2-.6 6.5-.6s4.6.2 6.5.6c1.5.2 2.1-.7 1.7-1.9Zm-10.1 10c2 1.2 3.7.1 3.8 0 1.3-.9 1.8-2.9 1.6-4.1-.2-1.9-1.5-2.2-1.7-2.3-1-.3-2.7-.3-3.7 0-1.6.5-1.6 2.1-1.7 2.3-.2 1.1.4 3.2 1.7 4.1Zm-8.1-7c-.9.9-1.2 2.1-.9 3.9.2 1.2.9 3 2 4.9 1.2 2.1 2.3 3.4 3.3 4.2 1.4 1.1 2.6 1.5 3.9 1.1 1.3-.3 1.7-1.3.8-2.4-1.3-1.3-2.6-3.2-3.8-5.2-1.1-2-2.1-4.1-2.7-5.9-.6-1.4-1.7-1.5-2.6-.6Z"/></svg>        Asiointi
+    </a>
+  </li>
+  </ul>
+            </nav>
+        </div>
+    </div>
+    </header>
+
+
+
+
+
+
+
+
+        <main role="main" id="content">
+
+
+    <section class="hero-section ">
+            <div class="hero-section-background d-none d-md-block" style="background-image:url(/dam/jcr:7ff314eb-4146-4b2e-8fee-861955d008ca/etusivu%20pieni%20ha.jpg)"></div>
+        <div class="hero-section-container hyphens">
+            <div class="hero-section-content">
+
+
+
+        <h1 class="aim-readable heading-headline " > <span class="heading-overline">Henkilöasiakkaat</span> Töiden ja tekijöiden kohtaamispaikka</h1>
+
+<form action="/henkiloasiakkaat/avoimet-tyopaikat" method="get">
+  <div class="label">
+    <div class="label-headings">
+      <label class="label-heading" for="simpleForm-jobSearch">
+        Hae avoimia työpaikkoja esimerkiksi ammatilla tai sijainnilla
+      </label>
+    </div>
+  </div>
+
+  <div class="form-group">
+    <div class="input-group">
+      <input
+        name="q"
+        type="text"
+        id="simpleForm-jobSearch"
+        class="form-control"
+        aria-required="true"
+        placeholder="Hae avoimia työpaikkoja"
+      />
+
+      <div class="input-group-append">
+        <button class="btn btn-secondary btn-input-group" type="submit">
+          <span class="btn-content">
+<svg aria-hidden="true" class="icon icon-lg btn-icon mr-xs" role="presentation" data-icon="search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.256 14.756a5.5 5.5 0 1 0 0-11 5.5 5.5 0 0 0 0 11Z"/><path d="M19.856 19.856c-.5.5-1.2.5-1.7.1l-2.8-2.8c-.5-.5-.5-1.2 0-1.7l.1-.1c.5-.5 1.2-.5 1.7 0l2.8 2.8c.4.5.4 1.2-.1 1.7Z" stroke-linecap="round" stroke-linejoin="round"/><path d="m13.125 13.25 2.219 2.156" stroke-linecap="round" stroke-linejoin="round"/></svg>            Hae
+          </span>
+        </button>
+      </div>
+    </div>
+  </div>
+</form>
+            </div>
+        </div>
+    </section>
+
+
+        <div class="content-background content-background-light-gradient-with-decoration pt-layout-md pb-layout-md">
+        <div class="container-fluid ">
+
+<h2 class="aim-readable text-primary text-center " > Kirjautuneen palvelut </h2>        <p class="d-none d-sm-block text-center aim-readable">Kun kirjaudut Työmarkkinatorille, saat käyttöösi Oma työpolku -osion ja voit asioida työvoimaviranomaisen kanssa Asiointi-osiossa.</p>
+        <div class="row justify-content-center">
+    <div class="flex col col-12 col-sm-6 ">
+        <article class="box border-0 radius-sm shadow-card flex flex-column">
+    <div class="typography aim-readable text-center">
+        <h3 class="h2 text-primary mb-lg">Asiointi</h3>
+        <img src="/resources/images/henkiloasiakas-asiointi-kuvitus.svg" alt="" class="mb-lg" style="width:auto;height:220px;"/>
+        <p>Asiointi on Työmarkkinatorilla oleva kanava, jossa voit asioida työvoimaviranomaisen kanssa. Asiointi-osiossa voit esimerkiksi ilmoittautua työnhakijaksi.</p>
+    </div>
+    <div class="text-center mt-auto">
+<a class="btn btn-primary mb-md" href="/henkiloasiakkaat/asiointi" > <span class="btn-content"> <svg aria-hidden="true" class="icon icon-lg icon-brand btn-icon-left" role="presentation" data-icon="te-palvelut-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21.947 8.095c-.9-.9-2-.8-2.5.6-.6 1.8-1.6 3.9-2.7 5.9-1.2 2-2.5 3.9-3.7 5.3-.9 1.2-.5 2.1.8 2.4 1.3.3 2.5 0 3.9-1.1 1-.8 2.1-2.2 3.3-4.2 1.1-2 1.8-3.7 2-4.9.1-1.8-.2-3-1.1-4Zm-1.8-3c-.4-1.3-1.2-2.1-2.9-2.8-1.2-.4-3-.7-5.3-.7-2.4 0-4.1.3-5.3.7-1.7.7-2.5 1.5-2.9 2.8-.4 1.2.2 2.1 1.7 1.9 1.9-.4 4.2-.6 6.5-.6s4.6.2 6.5.6c1.5.2 2.1-.7 1.7-1.9Zm-10.1 10c2 1.2 3.7.1 3.8 0 1.3-.9 1.8-2.9 1.6-4.1-.2-1.9-1.5-2.2-1.7-2.3-1-.3-2.7-.3-3.7 0-1.6.5-1.6 2.1-1.7 2.3-.2 1.1.4 3.2 1.7 4.1Zm-8.1-7c-.9.9-1.2 2.1-.9 3.9.2 1.2.9 3 2 4.9 1.2 2.1 2.3 3.4 3.3 4.2 1.4 1.1 2.6 1.5 3.9 1.1 1.3-.3 1.7-1.3.8-2.4-1.3-1.3-2.6-3.2-3.8-5.2-1.1-2-2.1-4.1-2.7-5.9-.6-1.4-1.7-1.5-2.6-.6Z"/></svg> <span class="btn-label"> Avaa Asiointi </span> </span> </a>    </div>
+        </article>
+    </div>
+    <div class="flex col col-12 col-sm-6 order-sm-first">
+        <article class="box border-0 radius-sm shadow-card flex flex-column">
+    <div class="typography aim-readable text-center">
+        <h3 class="h2 text-primary mb-lg">Oma työpolku</h3>
+        <img src="/resources/images/henkiloasiakas-tyopolku-kuvitus.svg" alt="" class="mb-lg" style="width:auto;height:220px;"/>
+        <p>Täytä työnhakuprofiili, löydä osaamistasi vastaavia työpaikkoja ja tallenna työpaikkailmoituksia suosikeiksi. Julkaise työnhakuprofiili työnantajien nähtäville.</p>
+    </div>
+    <div class="text-center mt-auto">
+<a class="btn btn-secondary mb-md" href="/henkiloasiakkaat/oma-tyopolku" > <span class="btn-content"> <svg aria-hidden="true" class="icon icon-lg icon-white btn-icon-left" role="presentation" data-icon="speech-bubble-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><g clip-path="url(#a)"><path d="M22 21.089c.4-.3.8-.7.8-1.1 0-.237-.2-.366-.3-.4 0 0-1-.4-1.5-.9-.2-.2-.3-.7-.1-1 1.1-1.7 1.8-3.7 1.8-5.9 0-6-4.8-10.8-10.7-10.8-6 0-10.8 4.7-10.8 10.7 0 4.7 2.7 8.3 6.8 10.1 5.4 2.2 11.1 1.1 14-.7Z"/></g><defs><clipPath id="a"><path d="M0 0h24v24H0z"/></clipPath></defs></svg> <span class="btn-label"> Avaa Oma työpolku </span> </span> </a>    </div>
+        </article>
+    </div>
+        </div>
+        </div>
+        </div>
+
+
+        <div class="container-fluid pt-layout-sm pb-layout-sm">
+
+
+
+        <h2 class="aim-readable h2 text-primary text-center " >Ajankohtaista</h2>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class=" mb-lg">
+  <ul class="link-nav-list " role="tablist" id="recent-tabs">
+  <li
+    class="link-nav-item "
+    role="presentation"
+  >
+                            <a class="link-nav-link" aria-controls="uusimmat" aria-selected="false" data-toggle="tab" href="#uusimmat" id="recent-uusimmat-tab" role="tab">Uusimmat</a>
+  </li>
+  <li
+    class="link-nav-item "
+    role="presentation"
+  >
+                            <a class="link-nav-link" aria-controls="uutiset" aria-selected="false" data-toggle="tab" href="#uutiset" id="recent-uutiset-tab" role="tab">Uutiset</a>
+  </li>
+  <li
+    class="link-nav-item "
+    role="presentation"
+  >
+                            <a class="link-nav-link" aria-controls="blogit" aria-selected="false" data-toggle="tab" href="#blogit" id="recent-blogit-tab" role="tab">Blogit</a>
+  </li>
+  <li
+    class="link-nav-item "
+    role="presentation"
+  >
+                            <a class="link-nav-link" aria-controls="uratarinat" aria-selected="false" data-toggle="tab" href="#uratarinat" id="recent-uratarinat-tab" role="tab">Uratarinat</a>
+  </li>
+  </ul>
+  </div>
+
+<script> (function() { document.addEventListener('readystatechange', function(e) { if (e.target.readyState === 'complete') { document.querySelector('#recent-tabs li:first-child a').click() } }) })() </script>
+
+  <div class=" mb-layout-lg">
+        <div class="tab-content" id="recent-tab-content">
+                    <div id="uusimmat" class="tab-pane" role="tabpanel" aria-labelledby="recent-uusimmat-tab">
+    <ul class="grid-list grid-list-justify-content-center grid-list-md-3 grid-list-sm-2 grid-list-gap-lg">
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/tmt-tietokone-ja-kahvikuppi.JPG/jcr:content/tmt-tietokone-ja-kahvikuppi.JPG)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-10-08">8.10.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/viranomaisposti-toimitetaan-ensisijaisesti-digitaalisesti-vuoden-2026-alusta-alkaen>Viranomaisposti toimitetaan ensisijaisesti digitaalisesti vuoden 2026 alusta alkaen</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/keha-10-vuotta.jpg/jcr:content/keha-10-vuotta.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-10-02">2.10.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/tyomarkkinatoria-toteuttamassa-ollut-keha-keskus-taytti-10-vuotta>Työmarkkinatoria toteuttamassa ollut KEHA-keskus täytti 10 vuotta</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/mita-kuuluu-ykn.jpg/jcr:content/mita-kuuluu-ykn.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-25">25.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/mita-kuuluu-ylivieska-kalajoki-nivala-tyollisyysalueelle>Mitä kuuluu Ylivieska, Kalajoki, Nivala -työllisyysalueelle?</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/Kuvituskuvat/Ammattikuvat/kokki-ja-lautanen.jpg/jcr:content/kokki-ja-lautanen.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-23">23.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/tyollisyyskatsaus-tyottomyys-yha-nousussa-elokuussa>Työttömyys yhä nousussa elokuussa</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/finland-works-2025.jpg/jcr:content/finland-works-2025.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-19">19.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/finland-works-verkkotapahtumassa-osaajat-ja-tyonantajat-kohtaavat>Finland Works -verkkotapahtumassa osaajat ja työnantajat kohtaavat</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/Kuvituskuvat/Grafiikkakuvat/10.png/jcr:content/10.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-16">16.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/jarjestelmahairio-tyomarkkinatorin-asioinnissa-10-9-2025>Järjestelmähäiriö Työmarkkinatorin Asioinnissa 10.9.2025</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    </ul>
+                    </div>
+                    <div id="uutiset" class="tab-pane" role="tabpanel" aria-labelledby="recent-uutiset-tab">
+    <ul class="grid-list grid-list-justify-content-center grid-list-md-3 grid-list-sm-2 grid-list-gap-lg">
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/tmt-tietokone-ja-kahvikuppi.JPG/jcr:content/tmt-tietokone-ja-kahvikuppi.JPG)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-10-08">8.10.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/viranomaisposti-toimitetaan-ensisijaisesti-digitaalisesti-vuoden-2026-alusta-alkaen>Viranomaisposti toimitetaan ensisijaisesti digitaalisesti vuoden 2026 alusta alkaen</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/keha-10-vuotta.jpg/jcr:content/keha-10-vuotta.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-10-02">2.10.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/tyomarkkinatoria-toteuttamassa-ollut-keha-keskus-taytti-10-vuotta>Työmarkkinatoria toteuttamassa ollut KEHA-keskus täytti 10 vuotta</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/mita-kuuluu-ykn.jpg/jcr:content/mita-kuuluu-ykn.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-25">25.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/mita-kuuluu-ylivieska-kalajoki-nivala-tyollisyysalueelle>Mitä kuuluu Ylivieska, Kalajoki, Nivala -työllisyysalueelle?</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/Kuvituskuvat/Ammattikuvat/kokki-ja-lautanen.jpg/jcr:content/kokki-ja-lautanen.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-23">23.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/tyollisyyskatsaus-tyottomyys-yha-nousussa-elokuussa>Työttömyys yhä nousussa elokuussa</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/2025/finland-works-2025.jpg/jcr:content/finland-works-2025.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-19">19.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/finland-works-verkkotapahtumassa-osaajat-ja-tyonantajat-kohtaavat>Finland Works -verkkotapahtumassa osaajat ja työnantajat kohtaavat</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uutiskuvat/Kuvituskuvat/Grafiikkakuvat/10.png/jcr:content/10.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-09-16">16.9.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uutiset/jarjestelmahairio-tyomarkkinatorin-asioinnissa-10-9-2025>Järjestelmähäiriö Työmarkkinatorin Asioinnissa 10.9.2025</a>
+            </p>
+                <p class="small image-card-category mb-0">Uutinen</p>
+        </div>
+    </div>
+    </li>
+    </ul>
+                    </div>
+                    <div id="blogit" class="tab-pane" role="tabpanel" aria-labelledby="recent-blogit-tab">
+    <ul class="grid-list grid-list-justify-content-center grid-list-md-3 grid-list-sm-2 grid-list-gap-lg">
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Blogikuvat/Heikki-Niittylä-vaaka.jpg/jcr:content/Heikki%20Niittyl%C3%A4%20vaaka.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2023-04-24">24.4.2023</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/blogit/vieraskyna-tekoalyn-hyodyntaminen-kielitaitovaatimusten-tunnistamisessa>Vieraskynä: Tekoälyn hyödyntäminen kielitaitovaatimusten tunnistamisessa</a>
+            </p>
+                <p class="small image-card-category mb-0">Blogi</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Blogikuvat/Milma_Arola_Jotpa.jpg/jcr:content/Milma_Arola_Jotpa.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2023-02-24">24.2.2023</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/blogit/vieraskyna-oppiminen-tuo-iloa-ja-hyotya-elamaasi>Vieraskynä: Oppiminen tuo iloa ja hyötyä elämääsi</a>
+            </p>
+                <p class="small image-card-category mb-0">Blogi</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Blogikuvat/osaaminennakyviin.png/jcr:content/osaaminennakyviin.png)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2022-09-08">8.9.2022</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/blogit/vieraskyna-mita-ajattelet-omasta-osaamisestasi>Vieraskynä: Mitä ajattelet omasta osaamisestasi?</a>
+            </p>
+                <p class="small image-card-category mb-0">Blogi</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Blogikuvat/verkkotoimituksen-blogi.png/jcr:content/verkkotoimituksen%20blogi.png)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2022-05-18">18.5.2022</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/blogit/verkkotoimitukselta-saavutettava-ja-selkea-kieli-tyomarkkinatorilla>Verkkotoimitukselta: Saavutettava ja selkeä kieli Työmarkkinatorilla</a>
+            </p>
+                <p class="small image-card-category mb-0">Blogi</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Blogikuvat/merja-niemi-pynttäri.png/jcr:content/merja%20niemi-pyntt%C3%A4ri.png)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2021-11-22">22.11.2021</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/blogit/vieraskyna-ohjaus-toimijuuden-tukena>Vieraskynä: Ohjaus toimijuuden tukena</a>
+            </p>
+                <p class="small image-card-category mb-0">Blogi</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Blogikuvat/Joanna-Silver.jpg/jcr:content/Joanna%20Silver.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2021-09-08">8.9.2021</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/blogit/vieraskyna-sedussa-hyodynnetaan-tyomarkkinatoria>Vieraskynä: Sedussa hyödynnetään Työmarkkinatoria</a>
+            </p>
+                <p class="small image-card-category mb-0">Blogi</p>
+        </div>
+    </div>
+    </li>
+    </ul>
+                    </div>
+                    <div id="uratarinat" class="tab-pane" role="tabpanel" aria-labelledby="recent-uratarinat-tab">
+    <ul class="grid-list grid-list-justify-content-center grid-list-md-3 grid-list-sm-2 grid-list-gap-lg">
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uratarinoiden-kuvat/2025/Niina_Hakala.jpeg/jcr:content/Niina_Hakala.jpeg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-08-12">12.8.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uratarinat/niinan-tarina-urapolku-ulkomailla-opiskelijasta-projektipaallikoksi>Niinan tarina: Urapolku ulkomailla – opiskelijasta projektipäälliköksi</a>
+            </p>
+                <p class="small image-card-category mb-0">Uratarina</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uratarinoiden-kuvat/2025/Inka-Huuskonen.jpg/jcr:content/Inka%20Huuskonen.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-06-17">17.6.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uratarinat/inkan-tarina-haahuilu-kunniaan>Inkan tarina: Haahuilu kunniaan</a>
+            </p>
+                <p class="small image-card-category mb-0">Uratarina</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uratarinoiden-kuvat/2025/anniina_kivimaki.jpeg/jcr:content/anniina_kivimaki.jpeg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-05-26">26.5.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uratarinat/anniinan-tarina-keskinkertaisesta-koululaisesta-maisteriksi-ja-tyoelamaasiantuntijaksi>Anniinan tarina: Keskinkertaisesta koululaisesta maisteriksi ja työelämäasiantuntijaksi</a>
+            </p>
+                <p class="small image-card-category mb-0">Uratarina</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uratarinoiden-kuvat/2025/Saara-Shafigullina.jpg/jcr:content/Saara%20Shafigullina.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-05-13">13.5.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uratarinat/saaran-tarina-kotihoidossa-saan-kohdata-erilaisia-valloittavia-persoonia>Saaran tarina: Kotihoidossa saan kohdata erilaisia valloittavia persoonia</a>
+            </p>
+                <p class="small image-card-category mb-0">Uratarina</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uratarinoiden-kuvat/2025/Anni_Moilanen.jpeg/jcr:content/Anni_Moilanen.jpeg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-02-21">21.2.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uratarinat/annin-tarina-mentorointi-antoi-mallin-tyouralleni-it-alalla>Annin tarina: Mentorointi antoi mallin työuralleni IT-alalla</a>
+            </p>
+                <p class="small image-card-category mb-0">Uratarina</p>
+        </div>
+    </div>
+    </li>
+    <li class="grid-list-item">
+    <div class="image-card ">
+        <div class="image-card-thumbnail"
+             style="background-image:url(/.imaging/mte/verkkopalvelu-theme/thumbnail/dam/Uratarinoiden-kuvat/2025/kirsi-elina-kallio.jpg/jcr:content/kirsi-elina-kallio.jpg)"></div>
+            <p class="small image-card-time mb-0">
+<time datetime="2025-01-27">27.1.2025</time>            </p>
+        <div class="image-card-content">
+            <p class="lead image-card-text mb-0">
+                <a class="image-card-link" href=/uratarinat/kirsi-elinan-tarina-yliopistolta-yrittajaksi>Kirsi Elinan tarina: Yliopistolta yrittäjäksi</a>
+            </p>
+                <p class="small image-card-category mb-0">Uratarina</p>
+        </div>
+    </div>
+    </li>
+    </ul>
+                    </div>
+        </div>
+                <div class="buttons  buttons-center">
+<a class="btn btn-outline-primary " id="topical-see-more-recent-tabs" href="/ajankohtaista" > <span class="btn-content"> <span class="btn-label">Katso kaikki</span> <svg aria-hidden="true" class="icon icon-lg btn-icon-right" role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span> </a>    </div>
+
+  </div>
+
+
+<script> (function(){ var btn = document.getElementById("topical-see-more-recent-tabs"); if (btn) { var query = window.location.search || ''; var mArg = query.match(/[^\w](m=\d+)/); var hasQ = btn.href.indexOf('?') > -1; if (mArg) { btn.href = btn.href + (hasQ ? '&' : '?') + mArg[1].replace('m','a'); } } })() </script>        </div>
+
+
+        <div class="bg-light pt-layout-md pb-layout-md">
+
+    <div class="aim-redable">
+
+<div class="row justify-content-center mr-0 ml-0"><div class="col-auto"><div class="aim-readable heading-icon h2 "><svg aria-hidden="true" class="icon icon-primary" role="presentation" data-icon="customer-service" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M15.06 12.36a5.72 5.72 0 0 1 4.43 5.68c0 4.42-15 4.42-15 0 0-2.94 1.87-4.83 4.61-5.57" stroke-linecap="round"/><path d="M12 13.36a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z"/><path d="M16.71 7a4.71 4.71 0 1 0-9.42 0"/><path d="M7.75 10.74h-.91a1.27 1.27 0 0 1-1.26-1.26V8.3a1.27 1.27 0 0 1 1.26-1.31h1" stroke-linecap="round"/><path d="M16.26 10.74h.9a1.27 1.27 0 0 0 1.26-1.26V8.3a1.27 1.27 0 0 0-1.26-1.31h-1" stroke-linecap="round"/><path d="M13.28 10.8h-1a.23.23 0 0 0-.23.23v.2c0 .127.103.23.23.23h1a.23.23 0 0 0 .23-.23v-.2a.23.23 0 0 0-.23-.23Z" stroke-linecap="round"/><path d="M13.78 11.11h2.8l.41-.34" stroke-linecap="round" stroke-linejoin="round"/></svg><h2 class="aim-readable " > <div class="text-center">Henkilöasiakkaan neuvontapalvelut</div> </h2></div></div></div>        <p class="text-center">Henkilöasiakkaan neuvontapalvelut -osiosta löydät esimerkiksi sähköisen asioinnin neuvonnan ja työttömyysturvaneuvonnan yhteystiedot.</p>
+    <div class="buttons mb-0 buttons-center">
+            <a class="btn btn-outline-primary " href="/ohjeet-ja-tuki/henkiloasiakkaat/henkiloasiakkaan-neuvontapalvelut" target="_blank" > <span class="btn-content"> <span class="btn-label">Tutustu palveluihin</span> <svg aria-hidden="true" class="icon icon-lg btn-icon-right" role="presentation" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg> </span> </a>
+    </div>
+    </div>
+        </div>
+
+
+        <div class="content-background content-background-primary-with-decoration pt-layout-md pb-layout-md">
+        <div class="container-fluid ">
+
+
+
+        <h2 class="aim-readable h2 text-white mb-xl text-center " >Oikopolut</h2>
+
+
+<div class="row justify-content-center">
+
+<div class="flex col col-12 col-md-6 col-lg-4">
+    <article class="box border-0 radius-lg shadow-dark flex flex-column  ml-auto mr-auto" style="max-width:576px;">
+        <header class="text-center text-primary">
+<svg aria-hidden="true" class="icon icon-layout-xl" role="presentation" data-icon="shapes" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.6 11.238a4.5 4.5 0 1 0 0-9 4.5 4.5 0 0 0 0 9Z" stroke-miterlimit="10"/><path d="M21.055 14.338H14.73c-.519 0-.83-.416-.83-.831V7.169c0-.52.415-.831.83-.831h6.325c.518 0 .83.415.83.83v6.339c.103.415-.312.83-.83.83Z" stroke-miterlimit="10"/><path d="m5.103 20.58 4.218-7.414a.756.756 0 0 1 1.337 0l4.218 7.415c.309.537-.103 1.182-.617 1.182H5.72c-.618 0-.926-.645-.618-1.182Z" stroke-miterlimit="10"/></svg>            <h3>Ammattitieto</h3>
+        </header>
+        <div class="mb-lg ">
+
+
+
+<div class="typography aim-readable">
+            <p>Ammattitiedosta löytyy ammattien ja ammattialojen kuvauksia, minkä lisäksi voit lukea eri ammateissa toimivien haastatteluja.</p>
+</div>
+        </div>
+        <div class="mt-auto">
+            <div class="text-center text-primary">
+
+<a class="btn btn-secondary " href="/henkiloasiakkaat/ammattitieto" > <span class="btn-content"> <span class="btn-label">Tutustu Ammattitietoon</span> <svg aria-hidden="true" class="icon icon-lg btn-icon-right" role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span> </a>            </div>
+        </div>
+    </article>
+</div>
+
+<div class="flex col col-12 col-md-6 col-lg-4">
+    <article class="box border-0 radius-lg shadow-dark flex flex-column  ml-auto mr-auto" style="max-width:576px;">
+        <header class="text-center text-primary">
+<svg aria-hidden="true" class="icon icon-layout-xl" role="presentation" data-icon="location" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M11.31 21.134C7.766 15.964 5.5 12.354 5.5 8.94 5.5 5.33 8.455 2.5 12 2.5c3.644 0 6.5 2.927 6.5 6.44 0 3.316-2.265 7.121-5.81 12.194-.296.488-1.084.488-1.38 0Z" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M12 12.6a3.5 3.5 0 1 0 0-7 3.5 3.5 0 0 0 0 7Z" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/></svg>            <h3>Aluesivut</h3>
+        </header>
+        <div class="mb-lg ">
+
+
+
+<div class="typography aim-readable">
+            <p>Aluesivuilta löydät eri alueiden työpaikat ja palvelut sekä tärkeimmät yhteystiedot.</p>
+</div>
+        </div>
+        <div class="mt-auto">
+            <div class="text-center text-primary">
+
+<a class="btn btn-secondary " href="/aluesivu" > <span class="btn-content"> <span class="btn-label">Tutustu Aluesivuihin</span> <svg aria-hidden="true" class="icon icon-lg btn-icon-right" role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span> </a>            </div>
+        </div>
+    </article>
+</div>
+
+<div class="flex col col-12 col-md-6 col-lg-4">
+    <article class="box border-0 radius-lg shadow-dark flex flex-column  ml-auto mr-auto" style="max-width:576px;">
+        <header class="text-center text-primary">
+<svg aria-hidden="true" class="icon icon-layout-xl" role="presentation" data-icon="handshake" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m11.14 8.81-4.98 5.07c-.49.45-.48 1.15-.02 1.66.46.51 1.15.52 1.64.07l3.35-3.49" stroke-linecap="round" stroke-linejoin="round"/><path d="m11.12 12.14-3.96 4.14c-.49.45-.48 1.15-.02 1.66.46.51 1.15.52 1.64.07l4.11-4.13" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.9 13.87-3.52 3.52c-.49.45-.48 1.15-.02 1.66.46.51 1.15.52 1.64.07l3.52-3.52" stroke-linecap="round" stroke-linejoin="round"/><path d="m20.92 12.59-7.45 7.45c-.42.4-1.18.44-1.64-.07-.41-.43-.47-1.21.02-1.66l2.67-2.7" stroke-linecap="round" stroke-linejoin="round"/><path d="M20.91 12.59a5.323 5.323 0 0 0 0-7.53c-2.08-2.08-5.26-2.08-7.35-.17l-.1.11c-.25.25-.59.59-.98.97" stroke-linecap="round" stroke-linejoin="round"/><path d="m5.79 14.32-1.74-1.73" stroke-linecap="round" stroke-linejoin="round"/><path d="M4.06 12.59a5.323 5.323 0 0 1 0-7.53c2.08-2.08 5.26-2.08 7.35-.17l.1.11c1.18 1.17 4.5 4.49 4.5 4.49.6.54.5 1.44-.07 2.04-.57.6-1.48.53-2.08-.01l-2.84-2.83s-1.45.32-2.96-.3" stroke-linecap="round" stroke-linejoin="round"/></svg>            <h3>Palveluntarjoajille</h3>
+        </header>
+        <div class="mb-lg ">
+
+
+
+<div class="typography aim-readable">
+            <p>Lue, miten voit saada palvelusi näkyviin Työmarkkinatorille yksityisenä palveluntarjoajana.</p>
+</div>
+        </div>
+        <div class="mt-auto">
+            <div class="text-center text-primary">
+
+<a class="btn btn-secondary " href="/tietoa-palvelusta/palveluntarjoajille" > <span class="btn-content"> <span class="btn-label">Lue lisää</span> <svg aria-hidden="true" class="icon icon-lg btn-icon-right" role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> </span> </a>            </div>
+        </div>
+    </article>
+</div>
+</div>
+        </div>
+        </div>
+
+
+
+
+
+
+<div class="widget-container mb-layout-none" id="TmtSiirtymaModaali" data-locale="fi" data-basename="/henkiloasiakkaat" data-instance-prefix="" data-locale-api-path="/.rest/localization/v1" data-cms-page-title="Töiden ja tekijöiden kohtaamispaikka" data-feature-flags="{&quot;enableTransitionModalV2&quot;:true,&quot;aluesivutTE24&quot;:true,&quot;enableRenewedWelcomePath&quot;:true,&quot;enablePublicCompanyProfile&quot;:false,&quot;enableTERel40&quot;:true}" style=""></div> <script type="text/javascript" data-cookieconsent="ignore"> (function() { function le(s,ec,dt,da) { var d=document,dm='dispatchEvent',kk='tmtErrorOccurred',ce=window.CustomEvent,lo=window.location.href,i='includes',t='localhost'; if(lo[i](t)||false)d=console,dm='error'; d[dm](new ce(kk,{detail:{sender:s,errorCode:ec,displayText:dt||'',data:da||{}}})) } function load(name) { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = name; po.addEventListener('error', function(e) { le('verkkopalvelu','TMT_ERROR_UNAVAILABLE','',{src:e.target.src}) }); var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s.nextSibling); } var LOADER_READY_EVENT = 'tmtWidgetLoaderReady'; var widgetName = ''; function deferredLoad() { document.removeEventListener(LOADER_READY_EVENT, deferredLoad); load(widgetName); } function initLoad(name) { widgetName = name; if (window['_' + LOADER_READY_EVENT]) { load(name); } else { document.addEventListener(LOADER_READY_EVENT, deferredLoad); } } initLoad('/widgets/TmtSiirtymaModaali/index.js'); })(); </script>        </main>
+
+
+
+
+<footer class="mt-auto d-print-none">
+    <div class="page-footer-sitemap">
+        <nav class="page-footer-sitemap-content">
+            <div class="row">
+            <div class="col-xs-12 col-sm-6 col-lg-3">
+    <h2 class="h6 mb-md">Oikopolut</h2>
+    <ul class="list mb-lg-0">
+
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/henkiloasiakkaat/asiointi" >Asiointi</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/henkiloasiakkaat/oma-tyopolku" >Oma työpolku</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/henkiloasiakkaat/oma-tyopolku/profiili" >Työnhakuprofiili</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/henkiloasiakkaat/avoimet-tyopaikat" >Avoimet työpaikat</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/henkiloasiakkaat/tietoa-muilla-kielilla" >Tietoa muilla kielillä</a> </span> </li>    </ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-lg-3">
+    <h2 class="h6 mb-md">Asiakaspalvelu</h2>
+    <ul class="list mb-lg-0">
+
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/ohjaukset/yhteystiedot-uudelleenohjaus" >Työllisyysalueiden yhteystiedot</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/ohjeet-ja-tuki/kayton-tuki" >Sähköisen asioinnin tuki</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/ohjeet-ja-tuki/henkiloasiakkaat/henkiloasiakkaan-neuvontapalvelut/tyottomyysturvaneuvonta" >Työttömyysturvaneuvonta</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/ohjeet-ja-tuki/tyonantajat-ja-yrittajat/yritys-ja-tyonantaja-asiakkaan-neuvontapalvelut" >Yritys- ja työnantaja-asiakkaan neuvontapalvelut</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/ohjaukset/ohje-uudelleenohjaus" >Asiointi- ja Oma työpolku -osioiden ohjeet</a> </span> </li>
+
+
+<li class="list-item"> <svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg> <span class="list-item-label"> <a href="/palaute" >Tuki ja palaute</a> </span> </li>    </ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-lg-3">
+    <h2 class="h6 mb-md">Muualla verkossa</h2>
+    <ul class="list mb-lg-0">
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://tem.fi/" >
+Työ- ja elinkeinoministeriö&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://www.workinfinland.com/en/" >
+Work in Finland&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://www.keha-keskus.fi/" >
+KEHA-keskus&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://www.suomi.fi/valtuudet" >
+Suomi.fi valtuudet&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://eures.europa.eu/index_fi" >
+EURES&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m9 6 6 6-6 6" stroke-linecap="round" stroke-linejoin="round"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://sahkoinenasiointi.ahtp.fi/fi" >
+Aluehallinnon asiointipalvelu&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+    </ul>
+</div>
+<div class="col-xs-12 col-sm-6 col-lg-3">
+    <h2 class="h6 mb-md">Seuraa meitä</h2>
+    <ul class="list mb-lg-0">
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="instagram-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2.983c2.937 0 3.285.01 4.446.064 2.98.136 4.373 1.55 4.509 4.51.053 1.159.063 1.507.063 4.444 0 2.938-.01 3.285-.063 4.445-.137 2.956-1.525 4.373-4.51 4.509-1.16.053-1.506.064-4.445.064-2.937 0-3.285-.01-4.445-.064-2.988-.136-4.373-1.557-4.509-4.51-.053-1.16-.064-1.507-.064-4.445 0-2.937.012-3.284.064-4.445.137-2.958 1.525-4.373 4.51-4.509 1.16-.052 1.507-.063 4.444-.063ZM12 1c-2.987 0-3.361.013-4.535.066-3.995.183-6.215 2.4-6.398 6.398C1.013 8.64 1 9.013 1 12c0 2.988.013 3.363.066 4.536.183 3.995 2.4 6.215 6.398 6.398C8.64 22.987 9.013 23 12 23c2.987 0 3.362-.013 4.536-.066 3.99-.183 6.216-2.4 6.397-6.398.054-1.174.067-1.549.067-4.536 0-2.987-.013-3.361-.066-4.535-.18-3.99-2.399-6.215-6.397-6.398C15.362 1.013 14.987 1 12 1Zm0 5.352a5.649 5.649 0 1 0 0 11.297 5.649 5.649 0 0 0 0-11.297Zm0 9.315a3.666 3.666 0 1 1 0-7.333 3.666 3.666 0 0 1 0 7.333Zm5.872-10.858a1.32 1.32 0 1 0 0 2.64 1.32 1.32 0 0 0 0-2.64Z"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://www.instagram.com/tyomarkkinatorifi" >
+Instagram&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="linkedin-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M6.55 5c0 1.1-.9 2-2 2-1 0-1.9-.9-1.9-2 0-1 .9-1.9 1.9-1.9 1.1 0 2 .9 2 1.9Zm0 3.5h-3.9v12.4h3.9V8.5Zm6.2 0h-3.9v12.4h3.9v-6.5c0-3.6 4.7-3.9 4.7 0v6.5h3.9v-7.8c0-6.1-6.9-5.9-8.6-2.9V8.5Z"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://www.linkedin.com/showcase/tyomarkkinatori" >
+LinkedIn&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="facebook-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill-rule="evenodd" clip-rule="evenodd" d="M9.5 6.3v2.6H7.6V12h1.9v9.3h3.9V12H16s.2-1.5.4-3.1h-3V6.7c.1-.4.4-.7.8-.8h2.1V2.7h-2.9c-4 0-3.9 3.1-3.9 3.6Z"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://www.facebook.com/tyomarkkinatorifi" >
+Facebook&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="youtube-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22.6 9.2c0-3.3-1.1-4.6-6-4.6H7.4c-5 0-6 1.3-6 4.6V14.8c0 3.3 1.1 4.6 6 4.6h9.2c5 0 6-1.3 6-4.6V9.2ZM9.9 15.4V8.7l5.4 3.3-5.4 3.4Z"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://www.youtube.com/@tyomarkkinatori560" >
+Youtube&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+
+    <li class="list-item">
+<svg aria-hidden="true" class="icon list-item-icon " role="presentation" data-icon="twitter-fill" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21 20-7.263-9.293L19.542 4H17.44l-4.7 5.43L8.495 4H3l6.851 8.766L3.589 20h2.103l5.157-5.957L15.505 20H21ZM7.738 5.425l10.206 13.123h-1.766L5.972 5.425h1.766Z"/></svg>        <span class="list-item-label">        <a target="_blank" rel="noopener noreferrer"
+           href="https://x.com/tyomarkkinatori" >
+Viestipalvelu X&#8288;<svg aria-label="Avautuu uuteen välilehteen" class="icon icon-baseline link-external-icon" role="img" data-icon="external-link" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m15.5 4.9 3.8-.2-.2 3.8" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="m12.4 11.6 6.7-6.7" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M17.7 12.8v5.5c0 .6-.4 1-1 1h-11c-.6 0-1-.4-1-1v-11c0-.6.4-1 1-1h5.5" stroke-miterlimit="10" stroke-linecap="round"/></svg>        </a>
+</span>
+    </li>
+
+    </ul>
+</div>
+
+            </div>
+        </nav>
+    </div>
+
+    <div class="page-footer page-footer-sm">
+        <div class="page-footer-content">
+            <ul class="page-footer-links">
+                        
+
+
+    <li class="page-footer-links-item">        © KEHA-keskus
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/tietoa-palvelusta/tietoa-tyomarkkinatorista" class="link-on-dark link-undecorated">Tietoa palvelusta</a>
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/ohjeet-ja-tuki" class="link-on-dark link-undecorated">Ohjeet</a>
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/tietoa-palvelusta/tietosuoja-ja-kayttoehdot/kayttoehdot" class="link-on-dark link-undecorated">Käyttöehdot</a>
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/tietoa-palvelusta/tietosuoja-ja-kayttoehdot/tietosuojaselosteet" class="link-on-dark link-undecorated">Tietosuojaselosteet</a>
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/tietoa-palvelusta/tietosuoja-ja-kayttoehdot/tyomarkkinatorilla-kaytettavat-evasteet" class="link-on-dark link-undecorated">Evästeseloste</a>
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/tietoa-palvelusta/tietoa-tyomarkkinatorista/saavutettavuusseloste" class="link-on-dark link-undecorated">Saavutettavuus</a>
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/tietoa-palvelusta/palveluntarjoajille" class="link-on-dark link-undecorated">Palveluntarjoajille</a>
+</li>
+
+
+
+    <li class="page-footer-links-item">        <a href="/ohjeet-ja-tuki/yhteistyokumppanit/tyopaikkailmoitusten-rajapinnat" class="link-on-dark link-undecorated">Rajapinnat</a>
+</li>
+
+            </ul>
+        </div>
+
+<span id="TmtVpVirhe" data-locale="fi" data-basename="/henkiloasiakkaat" data-instance-prefix="" data-locale-api-path="/.rest/localization/v1" data-cms-page-title="Töiden ja tekijöiden kohtaamispaikka" data-links="{&quot;log&quot;: &quot;/.rest/errorlog/v1&quot;}" data-feature-flags="{&quot;enableTransitionModalV2&quot;:true,&quot;aluesivutTE24&quot;:true,&quot;enableRenewedWelcomePath&quot;:true,&quot;enablePublicCompanyProfile&quot;:false,&quot;enableTERel40&quot;:true}"  style="display: none"></span>
+
+<script type="text/javascript"> (function() { var loaded = {}; let eventBuffer = []; function load(name) { if (!loaded[name]) { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = name; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s.nextSibling); loaded[name] = true; return true; } return false; } function opened() { document.removeEventListener('_tmtVpVirheInited', opened); document.removeEventListener('tmtErrorOccurred', init2); for (var i = 0; i < eventBuffer.length; ++i) { var detail = eventBuffer[i]; document.dispatchEvent(new CustomEvent('tmtErrorOccurred', {detail: detail})); } eventBuffer = []; } function init2(e) { eventBuffer.push(Object.assign({}, e.detail)); load('/widgets/TmtVpVirhe/index.js'); } function init() { document.addEventListener('_tmtVpVirheInited', opened); document.addEventListener('tmtErrorOccurred', init2); } init(); })(); </script>
+<script type="text/javascript"> </script>        <span id="TmtVpPalaute" data-locale="fi" data-basename="/henkiloasiakkaat" data-instance-prefix="" data-locale-api-path="/.rest/localization/v1" data-cms-page-title="Töiden ja tekijöiden kohtaamispaikka" data-links="{&quot;feedback&quot;:&quot;/.rest/feedback/v2&quot;, &quot;faqFeedback&quot;:&quot;magnolia:/ohjeet-ja-tuki/henkiloasiakkaat/usein-kysytyt-kysymykset&quot;, &quot;privacyPolicy&quot;:&quot;magnolia:/tietoa-palvelusta/tietosuoja-ja-kayttoehdot/tietosuojaseloste&quot;}" data-api-path-codes="noprefix:/api/codes/v1/koodistot" data-feature-flags="{&quot;enableTransitionModalV2&quot;:true,&quot;aluesivutTE24&quot;:true,&quot;enableRenewedWelcomePath&quot;:true,&quot;enablePublicCompanyProfile&quot;:false,&quot;enableTERel40&quot;:true}"  style="display: none"></span>
+
+<script type="text/javascript"> (function() { var loaded = {}; let eventBuffer = []; function signal() { document.dispatchEvent(new CustomEvent('tmt-vp-feedback-request')); } function load(name) { if (!loaded[name]) { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = name; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s.nextSibling); loaded[name] = true; return true; } return false; } function opened() { document.removeEventListener('tmt-vp-feedback-opened', opened); document.removeEventListener('tmt-vp-feedback-request', init2); for (var i = 0; i < eventBuffer.length; ++i) { var detail = eventBuffer[i]; document.dispatchEvent(new CustomEvent('tmt-vp-feedback-request', {detail: detail})); } eventBuffer = []; } function init2(e) { eventBuffer.push(Object.assign({}, e.detail)); load('/widgets/TmtVpPalaute/index.js'); } function init() { document.addEventListener('tmt-vp-feedback-opened', opened); document.addEventListener('tmt-vp-feedback-request', init2); } init(); })(); </script>    </div>
+</footer>
+<script src="/resources/js/vpglobal.js?v=063b466"></script>
+<script> StyleGuide.initialize(); StyleGuide.initializeTerms(); </script>
+            <script src="https://tetyomarkkinatori.boost.ai/chatPanel/chatPanel.js" type="text/javascript"></script><script>    var css = 'body{margin: 0;}.modal_trigger{position: fixed;bottom: 1em;right: 2em;cursor:pointer;}', head = document.head || document.getElementsByTagName('head')[0], style = document.createElement('style');    head.appendChild(style);    style.type = 'text/css'; if (style.styleSheet){  style.styleSheet.cssText = css; } else { style.appendChild(document.createTextNode(css)); }    const chatButtonImageUrl = 'https://www.ely-keskus.fi/documents/d/ely-keskus/tmt-bottinappi';    const boostChatButtonImage = document.createElement('img'); boostChatButtonImage.className = 'modal_trigger'; boostChatButtonImage.onclick = function(){ boost.chatPanel.show(); boostChatButtonImage.style.display = "none"; }; boostChatButtonImage.src = chatButtonImageUrl; boostChatButtonImage.width = 80; boostChatButtonImage.alt = 'Kysy botilta';    document.body.appendChild(boostChatButtonImage);    const chatbot_conversionId = "chatbot-conversationId";    var options = { chatPanel: { header: { title: "Chatbot Tarmo", }, styling: { buttons: { variant: "button", multiline: true }, composer: { hide: false, }, }, settings: { openTextLinksInNewTab: false, enableProactivityForSmallDevices: false, conversationId: sessionStorage.getItem(chatbot_conversionId), }, }, };    var boost = window.boostInit("tetyomarkkinatori", options);    boost.chatPanel.addEventListener("chatPanelClosed", function() { boostChatButtonImage.style.display = ""; });    boost.chatPanel.addEventListener("chatPanelMinimized", function() { boostChatButtonImage.style.display = ""; });    boost.chatPanel.addEventListener("chatPanelOpened", function() { boostChatButtonImage.style.display = "none"; });    boost.chatPanel.addEventListener("conversationIdChanged", function (event) { sessionStorage.setItem(chatbot_conversionId, event.detail.conversationId); });    </script>
+    </div>
+
+        <span id="TmtVpIstunnonVanheneminen" data-locale="fi" data-basename="/henkiloasiakkaat" data-instance-prefix="" data-locale-api-path="/.rest/localization/v1" data-cms-page-title="Töiden ja tekijöiden kohtaamispaikka" data-logout="/logout?redirecturi=https%3A%2F%2Ftyomarkkinatori.fi%2Fkiitos-kaynnista%3Flogout%3Dmanual&amp;locale=fi" data-links="{&quot;sessionRefresh&quot;: &quot;noprefix:/userservice/api/1.0/userinformation&quot;}" data-feature-flags="{&quot;enableTransitionModalV2&quot;:true,&quot;aluesivutTE24&quot;:true,&quot;enableRenewedWelcomePath&quot;:true,&quot;enablePublicCompanyProfile&quot;:false,&quot;enableTERel40&quot;:true}" ></span>
+        <script>
+            (function () {
+              var li = true;
+              function listen() {
+                document.removeEventListener('_tmt_useractions_loaded', listen);
+                window['_tmt_useractions'].isLoggedIn().then(function(r) {
+                  li = r;
+                  if (!li) {
+                    setTimeout(function(){
+                      document.getElementById("TmtVpIstunnonVanheneminen").remove();
+                    });
+                  }
+                });
+              }
+              if (!window['_tmt_useractions']) {
+                document.addEventListener('_tmt_useractions_loaded', listen);
+              } else {
+                listen();
+              }
+
+              setTimeout(function() {
+                if (li) {
+                  document.dispatchEvent(new CustomEvent('loadTmtVpIstunnonVanheneminen'));
+                }
+              }, Number("30000") );
+            })();
+        </script>
+
+<script type="text/javascript"> (function() { var loaded = {}; let eventBuffer = []; function load(name) { if (!loaded[name]) { var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true; po.src = name; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s.nextSibling); loaded[name] = true; return true; } return false; } function opened() { document.removeEventListener('', opened); document.removeEventListener('loadTmtVpIstunnonVanheneminen', init2); for (var i = 0; i < eventBuffer.length; ++i) { var detail = eventBuffer[i]; document.dispatchEvent(new CustomEvent('loadTmtVpIstunnonVanheneminen', {detail: detail})); } eventBuffer = []; } function init2(e) { eventBuffer.push(Object.assign({}, e.detail)); load('/widgets/TmtVpIstunnonVanheneminen/index.js'); } function init() { document.addEventListener('', opened); document.addEventListener('loadTmtVpIstunnonVanheneminen', init2); } init(); })(); </script><script type="text/javascript"> </script>
+    </body>
+<!--
+b: 20250926.2
+v: 063b466514c7bcdae292198bd659392c4d7c91c9
+-->
+    </html>

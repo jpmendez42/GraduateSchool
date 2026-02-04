@@ -1,0 +1,15 @@
+Sitemap: https://www.missbloom.gr/sitemap/allnews
+Sitemap: https://www.missbloom.gr/sitemap/googlenews
+Sitemap: https://www.missbloom.gr/sitemap/categories
+User-agent: *
+Disallow: 
+Disallow: /Api/*
+Disallow: /api/*
+Disallow: /Search*
+Disallow: /search*
+Disallow: /Newsletter*
+Disallow: /newsletter*
+
+User-agent: msnbot
+Crawl-delay: 120
+

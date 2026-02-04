@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+Disallow: /kwk/
+Disallow: /*?kwk=
+Disallow: /index.php?id=2598
+Disallow: /fileadmin/lib/
+Disallow: /typo3/
+Disallow: /t3lib/
+Disallow: */unternehmen/umweltschutz*
+Disallow: */unternehmen/klimaneutrales-hosting*
+Disallow: */support/df-faq/domains/domainendungen/*
+Allow: /typo3/contrib/flashmedia/*
+Disallow: /kundenmenue/
+Disallow: /webmail/
+Disallow: */hackathon*
+Disallow: /fileadmin/downloads/
+Disallow: /fileadmin/protected_downloads/
+
+Sitemap: https://www.df.eu/sitemap.xml

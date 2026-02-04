@@ -1,0 +1,72 @@
+# robots.txt zu http://www.blocklist.de/
+
+User-agent: spbot
+Disallow: /
+
+User-agent: LCC
+Disallow: /
+
+User-agent: 008
+Disallow: /	
+
+User-agent: SemrushBot
+Disallow: / 
+
+User-agent: SemrushBot-SA
+Disallow: / 
+
+User-agent: *
+Allow: /
+Disallow: imprint.html
+
+User-Agent: OmniExplorer_Bot
+Disallow: /
+
+User-Agent: www.adressendeutschland.de
+Disallow: /
+
+User-Agent: West Wind Internet Protocols 4.55
+Disallow: /
+
+User-Agent: *
+Disallow: /en/imprint.html
+Disallow: /de/imprint.html
+Disallow: /fr/imprint.html
+Disallow: /en/logs.html
+Disallow: /de/logs.html
+
+User-Agent: *
+Disallow: server.html
+
+User-Agent: BotOnParade
+Disallow: /
+
+user-agent: AhrefsBot
+disallow: / 
+
+User-agent: WBSearchBot
+Disallow: /
+
+User-agent: Pixray
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+User-agent: PixrayBot
+Disallow: /
+
+User-agent: Pixray-Seeker
+Disallow: /
+
+User-agent: WBSearchBot
+Disallow: /
+
+User-agent: BacklinkCrawler
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /

@@ -1,0 +1,8 @@
+Sitemap: https://www.myvi.in/sitemap.xml
+Sitemap: https://www.myvi.in/consumer-main-sitemap.xml
+
+User-agent: *
+Disallow: /callcenter/
+Disallow: /vicoverage/
+Allow: /
+Allow: /llms.txt

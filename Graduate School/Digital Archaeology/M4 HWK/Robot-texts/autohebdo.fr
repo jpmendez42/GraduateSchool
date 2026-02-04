@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+Allow: /*?ver=
+Disallow: /*?
+Disallow: /*?post_type=
+Disallow: /*?type=
+Disallow: /*?level=
+Disallow: /*?action=
+Disallow: /*?redirect_to=
+Disallow: /*?fbclid=
+Disallow: /*?page=
+Disallow: /*?amp=
+Disallow: /*?speciale=
+Disallow: /*?p=
+Disallow: /*?d=
+Disallow: /*?id=
+Disallow: /*?pg=
+Disallow: /*?ref_src
+Disallow: /*?_wpnonce=
+Disallow: /forum/*
+Disallow: /search/*
+
+
+Sitemap: https://www.autohebdo.fr/sitemap_index.xml

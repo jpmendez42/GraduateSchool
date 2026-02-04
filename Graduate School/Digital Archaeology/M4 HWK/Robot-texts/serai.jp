@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /*?wordfence_lh=
+Disallow: /*?*&wordfence_lh=
+
+Sitemap: https://serai.jp/sitemap.xml

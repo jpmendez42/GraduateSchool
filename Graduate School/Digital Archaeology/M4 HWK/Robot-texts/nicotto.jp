@@ -1,0 +1,9 @@
+# サイトマップの明示
+Sitemap: https://www.nicotto.jp/sitemap.xml
+Sitemap: https://www.nicotto.jp/mobile/sitemap.xml
+
+# 魚拓の禁止
+User-agent: Megalodon
+Disallow: /
+User-Agent: ia_archiver
+Disallow: /

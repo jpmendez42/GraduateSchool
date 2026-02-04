@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: */offer-event/*
+Disallow: */moje-zaklady/*
+Disallow: */profil/*
+Disallow: */lp/*
+Disallow: /*?*
+Disallow: */2026-*
+Disallow: */2025-*
+Disallow: */2024-*
+Disallow: */2023-*
+Disallow: */poniedzialek$
+Disallow: */wtorek$
+Disallow: */sroda$
+Disallow: */czwartek$
+Disallow: */piatek$
+Disallow: */sobota$
+Disallow: */niedziela$
+
+Sitemap: https://superbet.pl/sitemap.xml

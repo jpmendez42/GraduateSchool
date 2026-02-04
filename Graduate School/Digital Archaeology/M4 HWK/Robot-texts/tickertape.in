@@ -1,0 +1,9 @@
+User-agent: *
+
+#sitemaps
+Sitemap: https://www.tickertape.in/sitemap.xml
+Sitemap: https://www.tickertape.in/blog/sitemap_index.xml
+Sitemap: https://www.tickertape.in/knowledge-base/sitemap_index.xml
+
+Disallow: /smallcase/*
+Disallow: /space/*

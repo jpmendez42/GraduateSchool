@@ -1,0 +1,43 @@
+User-agent: *
+
+Disallow: */sessionid/*
+Disallow: */CMSContent/*
+Disallow: */CMSCategory/*
+Disallow: /webapp/wcs/stores/servlet/*
+Disallow: /search/*
+Disallow: /number-seven
+Disallow: /*PrescriptionListingView*
+Disallow: /*ProductListingViewRedesign*
+Disallow: /*?bvstate
+Disallow: /content/
+Disallow: /en/
+Disallow: /*notfound-searchdisplaygooglebot*
+Disallow: /*CategoryDisplay*
+Disallow: /AnalyticsPageView
+Disallow: /AnalyticsPageViews
+Disallow: /*?affwin
+Disallow: *?namespace=s7classic*
+Disallow: *?cm_mm*
+Disallow: *?utm_source*
+Disallow: /*CheckoutLoginView
+Disallow: /*boots-account-details
+Disallow: /*functional-pages/
+Disallow: /*AjaxOrderItemDisplayView
+Disallow: /*checkout/
+Disallow: /AjaxLogonForm*
+Disallow: /BootsLogonForm*
+Disallow: /UserRegistrationForm*
+Disallow: /OrderDetail*
+Disallow: /WishListDisplayView*
+
+User-agent: GoogleBot-Image
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /shop-online
+
+user-agent: Pinterestbot
+Disallow: /sitesearch
+crawl-delay: 1
+
+Sitemap: https://www.boots.ie/sitemapIndex.xml

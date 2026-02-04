@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /api/
+Disallow: /api/comment/user/featureds
+Disallow: /api/comment/user/subscribers
+Disallow: /api/comment/user/muted
+Disallow: /api/comment/user/voted
+Disallow: /bbtcaptcha/
+Disallow: /bbtcomment/create/
+Disallow: /bbtcomment/vote/
+Disallow: /bbtcomment/report/
+Disallow: /bbtcomment/entityComments/
+Disallow: /bbtcontent/poll/vote/
+Disallow: /bbtcontent/poll/getresults/
+Disallow: /props/
+Disallow: /bbtmail/sendEntity/
+Disallow: /bbtshop/
+Disallow: /bbtstats/
+Disallow: /logout.html
+
+Sitemap: https://www.infolibre.es/sitemap_index_382e2.xml
+Sitemap: https://www.infolibre.es/sitemap_google_news_382e2.xml

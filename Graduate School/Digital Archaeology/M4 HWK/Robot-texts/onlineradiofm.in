@@ -1,0 +1,14 @@
+User-agent: *
+Host: https://onlineradiofm.in
+Disallow: /manager/
+Disallow: /core/
+Disallow: /connectors/
+Disallow: /index.php
+Disallow: /test/
+Disallow: /test1/
+Disallow: /ajax/
+Disallow: /nerabochie-potoki/
+Disallow: /gcse/
+Disallow: *?
+Allow: *?page= 
+Sitemap: https://onlineradiofm.in/sitemap.xml

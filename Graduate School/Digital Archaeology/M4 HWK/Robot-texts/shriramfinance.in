@@ -1,0 +1,9 @@
+User-agent: AdsBot-Google
+User-agent: Googlebot
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /sfl-bbps-api/
+Disallow: /bbps-api/
+Disallow: /client-info/
+Sitemap: https://www.shriramfinance.in/sitemap.xml

@@ -1,0 +1,8 @@
+#Robots.txt File For https://www.allahabaduniversityfamily.in
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: *
+Allow: /
+Sitemap: https://www.allahabaduniversityfamily.in/sitemap.xml
+Sitemap: https://www.allahabaduniversityfamily.in/atom.xml
+Sitemap: https://www.allahabaduniversityfamily.in/sitemap-pages.xml

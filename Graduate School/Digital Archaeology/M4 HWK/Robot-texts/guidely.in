@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+User-agent: *
+Disallow: /dashboard/*
+Disallow: /dashboard/
+Disallow: /?pop=login-success
+Disallow: /?pop=*
+Disallow: /form/*
+Sitemap: https://guidely.in/sitemap_index.xml
+
+User-agent: OAI
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /

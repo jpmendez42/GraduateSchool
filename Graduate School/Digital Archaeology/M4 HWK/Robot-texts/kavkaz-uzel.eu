@@ -1,0 +1,24 @@
+# See https://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+# To ban all spiders from the entire site uncomment the next two lines:
+# User-Agent: *
+# Disallow: /
+
+User-agent: Yandex
+Disallow: /search
+Disallow: /adv_search
+Clean-param: utm_source&utm_medium&utm_term&utm_campaign /
+Sitemap: https://www.kavkaz-uzel.eu/sitemap_index.xml.gz
+
+User-agent: Googlebot
+Disallow: /search
+Disallow: /adv_search
+Disallow: /*?*utm_source=
+Disallow: /*?*utm_medium=
+Disallow: /*?*utm_term=
+Disallow: /*?*utm_campaign=
+
+User-Agent: *
+Disallow: /search
+Disallow: /adv_search
+Disallow: /*?*utm_

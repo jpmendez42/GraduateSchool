@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /shared_drafts/
+Disallow: /works/*/episodes/*/read$
+Disallow: /login?
+Disallow: /violation_report?
+Disallow: /site_feedback?

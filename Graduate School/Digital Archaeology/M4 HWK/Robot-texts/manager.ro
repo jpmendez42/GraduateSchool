@@ -1,0 +1,69 @@
+User-agent: msnbot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+User-agent: BLEXBot
+Allow: /
+
+User-agent: nbot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: MJ12bot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: CFNetwork
+Allow: /
+
+User-agent: DotBot
+Allow: /
+
+User-agent: GPTBot
+Allow: / 
+User-agent: Googlebot-News
+Allow: / 
+User-agent: WhatsApp
+Allow: / 
+User-agent: Google-InspectionTool
+Allow: / 
+
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.manager.ro/sitemap.xml
+Sitemap: https://www.manager.ro/sitemap_tags.xml
+Sitemap: https://www.manager.ro/sitemap_top_tags.xml
+Sitemap: https://www.manager.ro/sitemap_img_articole.xml
+Disallow: /admin.php

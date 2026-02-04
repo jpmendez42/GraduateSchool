@@ -1,0 +1,25 @@
+User-agent: SiteAuditBot
+Crawl-delay: 1
+Allow: /
+
+User-agent: Semrushbot-SI
+Allow: /
+
+User-agent: AdsBot-Google
+Allow: /
+
+User-agent: *
+Disallow: /search/
+Disallow: /?
+Disallow: /&
+Disallow: /login
+Disallow: /my-account/*
+Disallow: /cart
+Disallow: /checkout/*
+Disallow: /order-confirmation
+
+User-agent: Screaming Frog SEO Spider
+Allow: /
+
+Sitemap: https://www.canac.ca/sitemap-fr.xml
+Sitemap: https://www.canac.ca/sitemap-en.xml

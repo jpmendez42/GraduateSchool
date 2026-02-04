@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow : /fr/
+Disallow : /1000/
+Disallow: /*?count-views=
+Disallow: /serviceworker.js
+Sitemap : https://www.ctendance.fr/sitemap_index.xml
+Sitemap : https://www.ctendance.fr/sitemap-news.xml

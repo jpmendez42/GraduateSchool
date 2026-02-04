@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /typo3/
+Disallow: /testing/
+Disallow: /anders-und-sehr/
+Disallow: /terminal/
+Sitemap: https://messe-stuttgart.de/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /_hcms/preview/
+Disallow: /hs/manage-preferences/
+Disallow: /hubfs/*
+Disallow: /releasenotes-archief/*
+Sitemap: https://www.snelstart.nl/sitemap.xml
+Disallow: /hs/preferences-center/
+Disallow: /*?*hs_preview=*
+Disallow: /*?*hsCacheBuster=*

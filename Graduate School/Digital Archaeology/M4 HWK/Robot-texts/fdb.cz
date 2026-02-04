@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+Sitemap: https://fdb.cz/sitemap.xml
+
+Disallow: /vysledky
+Disallow: /muj-ucet

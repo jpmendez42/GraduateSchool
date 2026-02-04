@@ -1,0 +1,31 @@
+User-Agent: *
+Crawl-delay: 5
+Allow: /
+
+# dynamic search is excluded
+Disallow: /angebote/
+Disallow: /en/offers/
+
+# apis
+Disallow: /api/
+Disallow: /t3api/
+Disallow: /net/
+
+# bookings
+Disallow: /buchung/
+Disallow: /en/booking/
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*               # non-realurl URLs
+
+# disallowed files
+Disallow: *.sql
+Disallow: *.sql.gz
+
+Sitemap: https://www.jugendherberge.de/sitemap.xml

@@ -1,0 +1,45 @@
+User-agent: *
+Disallow: /*?cl=
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+User-agent: Pinterestbot
+Crawl-delay: 1
+Disallow: /*/bewertung--
+Disallow: /*/farbe--
+Disallow: /*?cl=
+Disallow: /*?bfc-
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+User-agent: Bingbot
+Crawl-delay: 1
+Disallow: /*/bewertung--
+Disallow: /*/farbe--
+Disallow: /*?cl=
+Disallow: /*?bfc-
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+User-agent: facebookexternalhit
+Crawl-delay: 1
+Disallow: /*?cl=
+Disallow: /*?streamfilter
+Disallow: /*?listorderby
+Disallow: /*?_artperpage
+Disallow: /*?rev
+Disallow: /*?plain=true
+
+Sitemap: https://www.bergfreunde.de/sitemap/sitemap.xml.gz
+Sitemap: https://www.bergfreunde.de/data/om/sitemap/sitemap_videos.xml
+Sitemap: https://www.bergfreunde.de/blog/sitemap_index.xml
+Sitemap: https://www.bergfreunde.de/jobs/sitemap.xml

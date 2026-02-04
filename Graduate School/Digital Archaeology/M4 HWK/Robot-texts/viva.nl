@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /adm/*
+Disallow: /download/*
+Disallow: /cache
+Disallow: /files
+Disallow: /ucp.php
+Disallow: /mcp.php
+Disallow: /memberlist.php
+Disallow: /config.php
+Disallow: /cron.php
+Disallow: /faq.php
+Disallow: /report.php
+Disallow: */profile
+Disallow: *?sid=
+Disallow: *?uid=
+Disallow: /pb/

@@ -1,0 +1,6 @@
+User-agent: *
+Allow:/information
+Allow:/warn
+Allow:/report
+Allow:/notice
+Disallow: /

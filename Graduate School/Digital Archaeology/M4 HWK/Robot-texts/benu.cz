@@ -1,0 +1,64 @@
+User-agent: *
+
+Disallow: /*?*&do=*
+Disallow: /*?do=*
+
+Disallow: /porovnani
+Disallow: /rezervace
+Disallow: /kosik
+Disallow: /informace-o-vas
+Disallow: /zapomenute-heslo
+Disallow: /muj-profil
+Disallow: /osobni-udaje
+Disallow: /vase-objednavky
+Disallow: /me-kupony
+Disallow: /pripsani-bodu-na-lekovou-kartu
+Disallow: /*eventId
+Disallow: /*sort=
+Disallow: /*sessionGUID
+Disallow: /*webSyncID
+Disallow: /*category
+Disallow: /*vyhledavani
+Disallow: /*login-backlink
+Disallow: /*?*fbclid=
+Disallow: /moznost-rezervace-na-lekarnach*
+Disallow: /akce?
+
+Disallow: /poradna*?*tags*&tags*
+
+Disallow: /*/*/*/*
+
+Allow: /*.webp$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*/*webp*
+Allow: /*/*jpg*
+Allow: /*/*png*
+
+Disallow: /*?*search8=*
+Disallow: /*?*search9=*
+
+Disallow: /*?*a=1*
+Disallow: /*?*n=1*
+Disallow: /*sq=1*
+
+Disallow: /*?*&p*&p*
+Disallow: /*?p*&p*
+
+Disallow: *otherCategories*
+
+Disallow: /lekarny?w=*
+
+Disallow: /vitejte-v-benu-plus
+Disallow: /presneni-dotazu
+Disallow: /twistuj-na-benu-cz
+Disallow: /poukazky
+Disallow: /hlidaci-pes
+Disallow: /benu-odmeny
+Disallow: /obchodni-podminky-rezervace-rx
+Disallow: /obchodni-podminky-rezervace
+Disallow: /o2-extra-vyhody
+Disallow: /*?cat*
+Disallow: /*&cat*
+
+Sitemap: https://www.benu.cz/sitemap.xml

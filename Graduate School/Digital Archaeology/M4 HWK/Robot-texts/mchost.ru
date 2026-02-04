@@ -1,0 +1,30 @@
+User-agent: Yandex
+Allow: /files/css/
+Allow: /files/js/
+Disallow: /i/
+Disallow: /cron/
+Disallow: /pages/
+Disallow: /cp/
+Disallow: /login/
+Disallow: /?
+Disallow: /qa/search
+Disallow: */tags/
+Disallow: *?idp
+Disallow: *?*
+
+User-Agent: *
+Allow: /files/css/
+Allow: /files/js/
+Disallow: /i/
+Disallow: /cron/
+Disallow: /pages/
+Disallow: /cp/
+Disallow: /login/
+Disallow: /?
+Disallow: /qa/search
+Disallow: */tags/
+Disallow: *?idp
+Disallow: *?*
+
+Sitemap: https://mchost.ru/sitemap.xml
+Sitemap: https://mchost.ru/qa/sitemap.xml

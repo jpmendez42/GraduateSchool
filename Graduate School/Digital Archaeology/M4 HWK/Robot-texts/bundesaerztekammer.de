@@ -1,0 +1,8 @@
+# robots.txt for www.bundesaerztekammer.de
+# IP: 10.66.80.196
+User-agent: *
+Allow: /
+Disallow: /typo3/
+Disallow: /*?id=*
+Disallow: /*&type=123
+Sitemap: https://www.bundesaerztekammer.de/sitemap.xml

@@ -1,0 +1,16 @@
+User-Agent: *
+Disallow: /login
+Disallow: /logout
+Disallow: /payment
+Disallow: /account
+Disallow: /signup
+Disallow: /library
+Disallow: /help
+Disallow: /error
+Disallow: /challenge/comics
+Disallow: /basket
+Disallow: /adult
+Disallow: /notice
+Disallow: /intro
+
+Sitemap: https://www.lezhin.jp/sitemap.xml

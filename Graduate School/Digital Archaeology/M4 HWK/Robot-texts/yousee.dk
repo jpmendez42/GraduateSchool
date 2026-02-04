@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: */ecare*
+Disallow: */soeg*
+Disallow: /mobil/checkout
+Disallow: /mobil/basket
+Disallow: /hjaelp/driftsinformation*

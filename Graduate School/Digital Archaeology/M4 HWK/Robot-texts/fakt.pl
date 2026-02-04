@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /kodyrabatowe/przejdz-do-kuponow/
+Disallow: /kodyrabatowe/search?query=*
+Disallow: /user-session-proxy/
+Disallow: /a8f4d8cd95e164917035b64b867a45*
+Disallow: /__acc/
+Disallow: /_cdf/
+Disallow: /_variant/
+Disallow: /a8f4d8cd95e164917035b64b867a45dd
+Sitemap: https://www.fakt.pl/sitemap-news.xml

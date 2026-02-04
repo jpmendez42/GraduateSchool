@@ -1,0 +1,77 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Claude*
+Disallow: /
+
+User-agent: Perplexity*
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere*
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: MistralAI*
+Disallow: /
+
+User-agent: bigsur.ai
+Disallow: /
+
+User-agent: Awario
+User-agent: Echobot Bot
+User-agent: EchoboxBot
+User-agent: SemrushBot*
+Disallow: /
+
+User-agent: Bytespider
+User-agent: Diffbot
+User-agent: FirecrawlAgent
+User-agent: aiHitBot
+Disallow: /
+
+
+User-Agent: *
+Disallow: *?*type=98
+Noindex: *?*type=98
+Disallow: /botfalle/
+
+Disallow: /hilfe_remotezugang/
+
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /typo3conf/
+Disallow: /typo3temp/
+
+Disallow: /xmlrpc.php
+Disallow: /wp-admin/
+
+User-agent: Googlebot-Image
+Disallow: /
+
+Allow: /fileadmin/vorlagen/
+Allow: /fileadmin/vorlagen/portal/aerzteblatt/
+Allow: /fileadmin/vorlagen/portal/downloads/
+Allow: /fileadmin/vorlagen/portal/lageplan/
+Allow: /fileadmin/vorlagen/portal/downloads/presse/
+Allow: /fileadmin/vorlagen/portal/downloads/veranstaltungen/
+Allow: /fileadmin/kliniken/portal/inside-um/
+
+
+
+
+
+	 
+	
+

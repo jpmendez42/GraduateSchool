@@ -1,0 +1,15 @@
+#User-agent: *
+#Allow: /
+User-agent: *
+Disallow: /file/manager?*
+Disallow: /file/follow
+Disallow: /file/warning
+Disallow: /file/favorite
+Disallow: /file/direct-link
+Disallow: /file/history
+Disallow: /file/deleted
+Disallow: /site/notify
+Disallow: /account/*
+
+
+Sitemap: https://www.fshare.vn/sitemap.xml

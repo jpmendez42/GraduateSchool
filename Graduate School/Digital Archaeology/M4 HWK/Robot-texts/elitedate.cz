@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /ucet$
+Disallow: /ucet/*
+Disallow: /profil$
+Disallow: /profil/*
+
+Sitemap: https://www.elitedate.cz/sitemap.xml

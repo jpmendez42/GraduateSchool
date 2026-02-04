@@ -1,0 +1,33 @@
+User-agent: Mozilla/5.0 (compatible; MJ12bot/v1.4.8; http://mj12bot.com/)
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: Adsbot
+Disallow: /
+
+User-agent: Mozilla/5.0 (compatible; Adsbot/3.1; +https://seostar.co/robot/)
+Disallow: /
+
+User-agent: Mozilla/5.0 (compatible; SEOkicks; +https://www.seokicks.de/robot.html)
+Disallow: /
+
+User-agent: Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+Disallow: /
+
+User-agent: Mozilla/5.0 (compatible;PetalBot;+https://webmaster.petalsearch.com/site/petalbot)
+Disallow: /
+
+User-agent: Mozilla/5.0 (compatible; InfoTigerBot/1.9; +https://infotiger.com/bot)
+Disallow: /
+
+User-agent: *
+Disallow:
+Sitemap: https://shopping.eu/sitemap-index.xml

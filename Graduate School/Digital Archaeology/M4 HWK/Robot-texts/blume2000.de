@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /warenkorb
+Disallow: /kasse
+Disallow: /danke
+Disallow: /anmelden
+Disallow: /passwort-vergessen
+Disallow: /kundenkonto
+Disallow: /suche
+Disallow: /en-GB
+Disallow: /en-gb
+Disallow: /lp-b2k
+Disallow: /*=
+Allow: /filialen
+
+Sitemap: https://www.blume2000.de/sitemap-categories.xml
+Sitemap: https://www.blume2000.de/sitemap-content.xml
+Sitemap: https://www.blume2000.de/sitemap-products.xml
+
+User-agent: Storebot-Google
+Allow: /

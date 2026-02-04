@@ -1,0 +1,12 @@
+User-agent: grapeshot
+Disallow:
+
+User-agent: *
+Disallow:
+User-Agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# XML Sitemap & Google News version 5.3.3 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.calcionow.it/sitemap.xml
+Sitemap: https://www.calcionow.it/sitemap-news.xml

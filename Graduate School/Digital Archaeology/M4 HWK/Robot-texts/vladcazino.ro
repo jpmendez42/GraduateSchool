@@ -1,0 +1,7 @@
+Sitemap: https://www.vladcazino.ro/sitemap.xml
+
+User-agent: *
+Disallow: /kwp-bundle-store*
+
+User-agent: ia_archiver
+Disallow: /

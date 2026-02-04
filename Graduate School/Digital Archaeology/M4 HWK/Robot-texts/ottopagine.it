@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+Sitemap: https://www.ottopagine.it/sitemap_news.xml

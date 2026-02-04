@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /requestallslides/
+Disallow: https://www1.speakingtree.in
+Disallow: https://www2.speakingtree.in
+Disallow: http://www1.speakingtree.in
+Disallow: http://www2.speakingtree.in
+Disallow: /*satta*
+Disallow: /*matka*
+Disallow: /external/
+

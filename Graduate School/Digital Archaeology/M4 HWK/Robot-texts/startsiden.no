@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /rate.html
+Disallow: /sok/nyheter/
+Disallow: /sok/*?*q=
+Disallow: /pekertips.html?
+Disallow: /tvguide/e
+Disallow: /tvguide/ajax
+Disallow: /tvguide/channel
+Disallow: /tvguide/css
+Disallow: /tvguide/epg
+Disallow: /tvguide/setup
+Disallow: /tvguide/xml
+Disallow: /tvguide/?dag
+Disallow: /tvguide/?channel
+Disallow: /tvguide/sok
+Disallow: /api
+Disallow: /nettguide/search
+Disallow: /nettguide/suggest
+Disallow: /nettguide/catalog
+Disallow: /nettguide/suggestions
+Disallow: /nettguide/entities
+Disallow: /nettguide/autocomplete
+
+Sitemap: https://startsiden.abcnyheter.no/sitemap_index.xml

@@ -1,0 +1,27 @@
+User-Agent: *
+Disallow: /actions/
+Disallow: /porovnavac
+Disallow: /podilove-fondy/porovnavac
+Disallow: /tag
+Disallow: /editor
+Disallow: /komunita
+Disallow: /rss/full-content
+Disallow: /newhp
+Disallow: /*?*ArticleSort
+Disallow: /*?*ArticleSearchDesc
+Disallow: /*?*side
+
+User-agent: Riddler
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Claude-web
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+
+
+Sitemap: https://www.penize.cz/sitemap.xml
+

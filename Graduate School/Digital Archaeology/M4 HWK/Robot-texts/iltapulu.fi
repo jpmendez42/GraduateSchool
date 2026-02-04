@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /data/
+Disallow: /index_widget_sm.php
+Disallow: /index_widget2.php
+Allow: /data/venetsia/images/
+Allow: /data/iltapulu/images/
+Allow: /data/images/
+Sitemap: https://www.iltapulu.fi/sitemapindex.xml
+
+User-agent: ChatGPT-user
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /

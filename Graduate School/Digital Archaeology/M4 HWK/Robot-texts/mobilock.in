@@ -1,0 +1,42 @@
+# (moved from public/robots.txt)
+#
+# See http://www.robotstxt.org/wc/norobots.html for documentation on how to use the robots.txt file
+#
+Sitemap: https://scalefusion.com/sitemap.xml
+
+# disallow folders
+User-agent: *
+Disallow: /admin/
+Disallow: /shop/
+Disallow: /product-category/
+Disallow: /product-tag/
+Disallow: /shop/
+Disallow: /category/
+Disallow: /prosurf-getting-started/
+Disallow: /kiosk-solution/pricing/
+Disallow: /kiosk-solution/customers/
+Disallow: /oneteam/pricing/
+Disallow: /oneteam/customers/
+Disallow: /api-docs/
+Disallow: /new-home-b/
+Disallow: /mdm-mobile-device-management/
+Disallow: /cloud/thank_you
+Disallow: /cloud/o365_thank_you
+Disallow: /why-mobilock
+Disallow: /eva
+Disallow: /thank_you
+Disallow: /lp/mobile-device-management
+Disallow: /lp/home
+Disallow: /lp/2020-year-in-review
+Disallow: /lp/mobile-device-management-overview
+Disallow: /lp/book-a-demo
+Disallow: /lp/year-end-discount-2021
+Disallow: /lp/zebra-partnership
+Disallow: /lp/kyocera-partnership
+Disallow: /lp/mdm-education-whitepaper
+Disallow: /help_section
+Disallow: /resources/Scalefusion_Infinity_Partner_Overview.pdf
+Disallow: /home
+Disallow: /users/unlock/new
+Disallow: /resources/android-one-pager.pdf
+Disallow: /watch-a-demo

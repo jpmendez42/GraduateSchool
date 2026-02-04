@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /wp-login.php
+Disallow: /*/comments
+Disallow: /cgi-bin
+Disallow: /*.inc$
+Disallow: /*.gz
+Disallow: /*.cgi
+Disallow: /wp-admin/
+Disallow: /*?s=
+Disallow: /*?p=
+Disallow: /*?v=
+Allow: /wp-admin/admin-ajax.php
+
+# On indique les sitemap
+Sitemap: https://frequence-turf.fr/sitemap_index.xml
+Sitemap: https://frequence-turf.fr/sitemap-news.xml
+
+

@@ -1,0 +1,82 @@
+User-agent:*
+Sitemap: https://www.altisport.cz/sitemap/
+Disallow: /topall*
+Disallow: /topall/*
+Disallow: /*shopping-cart*
+Disallow: /*password-forgotten*
+Disallow: /*zakaznik*
+Disallow: /*advanced-search*
+Disallow: /*lepsi-cena*
+Disallow: /*dotaz-k-vyrobku*
+Disallow: /*?*cPath=
+Disallow: /*?*pfrom=
+Disallow: /*?*sort*
+Disallow: /*?*param*
+Disallow: /*?*filter_id*
+Disallow: /*?*currency=*
+Disallow: /*?*infinitescroll=*
+Disallow: /*?*ajax*
+Disallow: /*?*page*
+Disallow: /*?*keyword*
+Disallow: /*vyhledavani*
+Disallow: /temp/
+Disallow: /log/
+Disallow: /vendor/
+Disallow: /node_modules/
+Disallow: /*.json$
+Disallow: /*.lock$
+Disallow: /*.config.js$
+
+
+User-agent: SeznamBot
+Disallow: /lepsi-cena
+Disallow: /ajax
+Disallow: /vyhledavani
+Request-rate: 10/1h 0900-1200
+
+User-agent: Googlebot
+Crawl-delay: 30
+Allow: /
+
+User-agent: facebookexternalhit
+Crawl-delay: 30
+Allow: /
+
+User-agent: GPTBot
+Crawl-delay: 30
+Allow: /
+
+User-agent: ClaudeBot
+Crawl-delay: 30
+Disallow: /
+
+User-agent: bingbot
+Crawl-delay: 30
+Disallow: /
+
+User-agent: YandexBot
+Crawl-delay: 30
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 30
+Disallow: /
+
+User-agent: SemrushBot
+Crawl-delay: 30
+Disallow: /
+
+User-agent: MJ12bot
+Crawl-delay: 30
+Disallow: /
+
+User-agent: Amazonbot
+Crawl-delay: 30
+Disallow: /
+
+User-agent: PetalBot
+Crawl-delay: 30
+Disallow: /
+
+# Reference to LLMs.txt for AI models (emerging standard)
+# LLMs-txt: https://www.altisport.cz/llms.txt

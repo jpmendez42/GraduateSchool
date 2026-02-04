@@ -1,0 +1,11 @@
+﻿User-Agent: *
+Disallow: /admin/	# admin
+Disallow: /retelitgroupcms/	# admin
+Disallow: *.pdf		# block pdf files
+Disallow: *.zip		# block zip files
+Disallow: *.rar		# block rar files
+Disallow: *.xip		# block xip files
+Disallow: /preview/
+
+# sitemap
+Sitemap: https://www.retelit.it/public/sitemap.xml

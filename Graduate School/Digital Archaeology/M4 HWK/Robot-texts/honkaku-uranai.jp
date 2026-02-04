@@ -1,0 +1,16 @@
+User-agent: *
+Disallow:	/*/cgi-bin/
+Disallow:	/*.cgi$
+Disallow:	/*.sh$
+Disallow:	/*.txt$
+Disallow:	/index_*.html$
+Disallow:	/input/_*.html$
+Disallow:	/admin/
+Disallow:	/maintenance/
+Disallow:	/corner/lp/
+Disallow:	/corner/12astro/
+Disallow:	/user/
+Disallow:	/charge/
+
+User-agent: BLEXBot
+Disallow: /

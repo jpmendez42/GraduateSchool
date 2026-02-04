@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /async/
+Disallow: /*?noheader*
+Disallow: /*?*&noheader*
+Disallow: /*?sfdebug*
+Disallow: /*?*&sfdebug*
+Sitemap: https://www.gala.fr/sitemaps/articles.xml
+Sitemap: https://www.gala.fr/sitemaps/sections.xml
+Sitemap: https://www.gala.fr/sitemaps/topics.xml
+Sitemap: https://www.gala.fr/sitemaps/keywords.xml
+Sitemap: https://www.gala.fr/sitemaps/news.xml
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+
+#                       GGGGGGGGGGGGGGGG                      GGGGGGGGGGG
+#                   GGGGGGGG      GGGGGGG                       GGGGGGG
+#                GGGGGGGGG          GGGGG                       GGGGGGG
+#               GGGGGGGG             GGGG                       GGGGGG
+#             GGGGGGGGG              GGG                       GGGGGGG
+#            GGGGGGGGG               GGG         GGG           GGGGGG         GGG
+#           GGGGGGGGG                        GGGGGGGGGGGGGGG  GGGGGGG     GGGGGGGGGGGGGGG
+#           GGGGGGGG                       GGGGGGG  GGGGGGGG  GGGGGG    GGGGGGG  GGGGGGG+
+#          GGGGGGGGG      GGGGGGGGGGGGGGG GGGGGG     GGGGGG  GGGGGGG   GGGGGG    GGGGGGG
+#          GGGGGGGG        GGGGGGGGGGGGGGGGGGGG     GGGGGGG  GGGGGG  GGGGGGG     GGGGGGG
+#          GGGGGGGG             GGGGGGGGGGGGGGG     GGGGGG  GGGGGGG GGGGGGG      GGGGGG
+#          GGGGGGGG             GGGGGGGGGGGGGG     GGGGGGG  GGGGGG  GGGGGGG     GGGGGGG
+#          GGGGGGGG             GGGGGGGGGGGGG      GGGGGG  GGGGGGG GGGGGGG      GGGGGG
+#          GGGGGGGG            GGGGGGGGGGGGGG     GGGGGGG  GGGGGG  GGGGGGG     GGGGGG+
+#           GGGGGGGG          GGGGGGGGGGGGGG     GGGGGGG  GGGGGGG GGGGGGG     GGGGGGG  GG
+#            GGGGGGG          GGGGGGGGGGGGGG    GGGGGGGG  GGGGGG GGGGGGGGG  GGGGGGGG  GG
+#              GGGGGGG       GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG
+#                GGGGGGGGGGGGGGGGG      GGGGGGG   GGGGGGG GGGGGGG   GGGGGGGG   GGGGGGG
+#

@@ -1,0 +1,26 @@
+Sitemap: https://www.okazii.ro/sitemap/sitemap_index_catalog.xml
+Sitemap: https://www.okazii.ro/sitemap/sitemap_index_cautari_site.xml
+Sitemap: https://www.okazii.ro/sitemap/sitemap_index_produse_active.xml
+Sitemap: https://www.okazii.ro/sitemap/sitemap_index_produse_expirate_recent.xml
+Sitemap: https://www.okazii.ro/sitemap/sitemap_index_produse_noi.xml
+
+User-agent:*
+Disallow: /*?*ok=ni
+Disallow: /cautare/*noredirect=1
+Disallow: /black-friday/*/
+Disallow: /captcha/*/code.png?rand=*
+Disallow: /catalog/*/listaoferte
+Disallow: /adauga-review?
+Disallow: /checkout?
+Disallow: /cart?
+Disallow: /catalog/*/adauga-in-cos
+Disallow: /cos-cumparaturi/*
+Disallow: /login
+Disallow: /vinde/
+Disallow: /vinderapid
+Disallow: /*?create_de
+Disallow: /contul-meu
+Disallow: /click/
+Disallow: /cerere-oferta
+Disallow: /recomandate/*/twitter.com/okaziiro
+Disallow: /catalog?

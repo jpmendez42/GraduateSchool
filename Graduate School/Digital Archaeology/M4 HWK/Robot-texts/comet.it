@@ -1,0 +1,27 @@
+#
+# Attenzione: questo file è un link simbolico - non modificare direttamente !
+#
+
+User-Agent: *
+Disallow: /admin/
+Disallow: /wcsstore/
+Disallow: /store-totem/
+Disallow: /flex/Extensions/assets/fe/css
+Disallow: */f/*
+Disallow: /disabled/
+Disallow: /cart/insert/
+Disallow: /younited/
+
+# Disallow: /user/
+
+Sitemap: https://www.comet.it/sitemap.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-computer-e-tablet.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-console-e-games.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-fotografia.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-grandi-elettrodomestici.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-illuminazione.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-piccoli-elettrodomestici.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-smartphone-e-telefonia.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-tv-audio.xml
+Sitemap: https://www.comet.it/sitemaps/categoria-wearables-e-smart-tech.xml
+Sitemap: https://www.comet.it/sitemaps/stores.xml

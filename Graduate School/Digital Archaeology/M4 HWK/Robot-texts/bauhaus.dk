@@ -1,0 +1,62 @@
+User-agent: Googlebot-Image
+Disallow:
+# Setup for all other crawlers
+User-agent: *
+# DIRECTORIES
+Disallow: /tilbud-67d827dace39e/
+Disallow: /admin/
+Disallow: /api/
+Disallow: /app/
+Disallow: /generated/
+Disallow: /modules/
+Disallow: /vendor/
+Disallow: /lib/
+Disallow: /patches/
+Disallow: /media/email/
+Disallow: /media/import/
+Disallow: /media/ptv/
+Disallow: /media/bauhauspayment/
+Disallow: /media/b2b_applications/
+Disallow: /stats/
+Disallow: /var/
+Disallow: /enable-cookies
+# Paths (clean URLs)
+Disallow: /index.php/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+Disallow: /catalog/product/gallery/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /control/
+Disallow: /customer/
+Allow: /customer/account/login/
+Disallow: /customize/
+Disallow: /newsletter/
+Disallow: /poll/
+Disallow: /review/
+Disallow: /sendfriend/
+Disallow: /tag/
+Disallow: /wishlist/
+# FILES
+Disallow: /install.php
+Disallow: /CHANGELOG.md
+Disallow: /COPYING.txt
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /LICENSE_B2B.txt
+Disallow: /LICENSE_EE.txt
+Disallow: /LICENSE_VAIMO.txt
+Disallow: /README.md
+Disallow: /README_EE.md
+# PATHS (no clean URLs)
+#Disallow: /*.js$
+#Disallow: /*.css$
+Disallow: /*.php$
+# PATHS (filter URLs)
+Disallow: /*?*
+Disallow: /*pc_selection*
+Disallow: /bauhaus_inventory/
+# SITEMAP
+Sitemap: https://www.bauhaus.dk/media/sitemap_dk/sitemap.xml
+Allow: /*?brand=*
+Allow: /*?p=*

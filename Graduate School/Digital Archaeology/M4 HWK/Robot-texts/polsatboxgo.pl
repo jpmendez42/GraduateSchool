@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /uzytkownik
+Disallow: /panel/moje-konto
+Disallow: /panel/moje-platnosci
+Disallow: /panel/zgody
+Disallow: /moja-lista
+Disallow: /wyszukiwarka
+Disallow: /zaloguj-sie-aby-kontynuowac
+Disallow: /*&seasonName
+Disallow: /*?seasonName
+Disallow: /*&seasonId
+Disallow: /*?seasonId
+Disallow: /*&next
+Disallow: /*?next
+Disallow: /*?*tab=Zobacz
+Disallow: */szczegoly$

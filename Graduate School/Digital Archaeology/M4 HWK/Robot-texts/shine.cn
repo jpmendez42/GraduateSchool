@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /feedback.shtml
+Disallow: /archive/art/
+Disallow: /archive/nsp/
+Disallow: /bin/
+Disallow: /ucenter/
+Disallow: /UserCenter/
+Disallow: /Style/
+Disallow: /article/sl.aspx*
+Disallow: /list.asp?id=*
+Disallow: /articles.asp?id=*
+Disallow: /search/index.aspx?keywords=*
+Disallow: /article/article_xinhua.aspx?id=*
+Disallow: /archive/article/article_xinhua.aspx?id=*
+Disallow: /archive/article/article_xinhua.asp?id=*
+Disallow: /archive/article/?id=*
+Disallow: /archive_m/*
+Disallow: /archive/sp/article/*
+
+Sitemap: https://www.shine.cn/sitemap.xml
+Sitemap: https://www.shine.cn/sitemap-news.xml
+

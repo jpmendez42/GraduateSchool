@@ -1,0 +1,81 @@
+User-agent: Mail.ru
+Allow: */yanews/
+Allow: /rss-feeds/
+Allow: /rss-feeds/yanews.xml
+
+User-agent: vkShare
+User-agent: VKRobot/1.0
+User-agent: facebookexternalhit
+User-agent: meta-externalagent
+Allow: /s/
+Allow: /rss-feeds/
+Allow: /rss-feeds/novapress-facebook.xml
+
+User-agent: Zen_Bot/2.0
+Allow: *?utm_source=
+Allow: *?from=
+Allow: /rss-feeds/yanews.xml
+Allow: /rss-feeds/yanews-webmaster.xml
+
+User-agent: YandexNews
+Allow: */yanews/
+Allow: /rss/yandex/
+Allow: *?from=yanews
+Allow: *?utm_source=
+Allow: /rss-feeds/yanews.xml
+Allow: /rss-feeds/yanews-webmaster.xml
+
+User-agent:  *
+Allow: /rss-feeds/yanews-webmaster.xml
+Disallow: */search/*
+Disallow: /auth/*
+Disallow: /register
+Disallow: */manage/*
+Disallow: */comments/*
+Disallow: */?q=*
+Disallow: */?query=*
+Disallow: /articles/*/?*
+Disallow: /articles/?*
+Disallow: *?previewToken=*
+Disallow: */?rubric_id=*
+Disallow: /gm-api/*
+Disallow: /info/*/
+Disallow: /clinics/
+Disallow: /sp/*/*/
+Disallow: /events/
+Disallow: /search/
+Disallow: /pharmacies/
+Disallow: /info/
+Disallow: /vacancies/
+Disallow: /reports/
+Disallow: /thanks/
+Disallow: /api/
+Disallow: /documents/
+Disallow: /rubrics/
+Disallow: /longreads/
+Disallow: /?
+Disallow: */?_abp_test=
+Disallow: /users/
+Disallow: */android-app
+Disallow: */yanews/
+Disallow: */?utm_
+Disallow: /doctors/
+Disallow: */?_gl= 
+Disallow: */?utm_
+Disallow: */?amp
+Disallow: */?symptom_id=
+Disallow: */?open
+Disallow: */?toQuiz=
+Disallow: */result/
+Disallow: /gm-api/
+Disallow: /81006599/
+Disallow: /22729373807/
+Disallow: /articles/8868/
+Disallow: /polls/
+Disallow: /slideshows/
+Disallow: *?show_warn=
+
+Clean-param: erid&gmpage&from&page&query&mode&utm_p&utm_partner_id&utm_reqid&utm_site&sort&utm_source&query&q&time&C&id&__proto__&_e_pi_&w&tag&text&url&utm&item&stat-id&gm_on&google_preview&hl&key&cdate_from&clid&nw&ref&firstpage&noredir&cdate_to
+Clean-param: erid&utm_test&_gl&points&utm_test&_abp_test&quizResult&toQuiz&amp&symptom_id&show_warn *
+
+Sitemap: https://doctorpiter.ru/sitemaps/index.xml.gz

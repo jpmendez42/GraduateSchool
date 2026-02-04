@@ -1,0 +1,35 @@
+User-agent: *
+
+Disallow: /cgi-bin
+Disallow: /wp-admin/
+Disallow: /wp-json/
+Disallow: /sxd/
+Disallow: /xmlrpc.php
+Disallow: /?
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /tag
+Disallow: /search
+Disallow: /author/
+Disallow: */embed
+Disallow: /forum/
+Disallow: /top/
+Disallow: /photos/
+Disallow: /text/
+Disallow: /songs/
+Disallow: /publish/
+Disallow: /album/
+Disallow: /getnews*
+Disallow: /index*
+Disallow: /login*
+Disallow: /viewtopic*
+Disallow: */feed/
+Disallow: */comments/
+Disallow: */embed
+Disallow: */page/
+Disallow: */amp*
+Disallow: */xmlrpc.php
+Allow: /
+
+Sitemap: https://pnz.ru/sitemap.xml
+Host: https://pnz.ru

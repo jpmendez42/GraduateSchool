@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /pdfs/parcerias-santander/
+Disallow: /*?utm_source
+Disallow: /*&utm_source
+Disallow: /pesquisa?
+Disallow: /*?tab
+Disallow: /*&tab
+Disallow: /*?ad_campaign
+Disallow: /*&ad_campaign
+Disallow: /*?clnt
+Disallow: /*&clnt
+
+Sitemap: https://www.santander.pt/sitemap.xml

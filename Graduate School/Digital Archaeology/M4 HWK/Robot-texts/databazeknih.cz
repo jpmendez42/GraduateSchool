@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /user/
+Disallow: /admin/
+Disallow: /superadmin/
+
+Sitemap: https://www.databazeknih.cz/sitemaps/index.xml

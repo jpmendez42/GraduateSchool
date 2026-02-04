@@ -1,0 +1,12 @@
+
+User-agent: *
+Disallow: /es/accesibilidad/page/#
+Disallow: /es/conoce-la-uah/organizacion-y-gobierno/organos-de-representacion/actas-de-la-junta-de-personal-de-administracion-y-servicios/
+Disallow: /es/conoce-la-uah/organizacion-y-gobierno/organos-de-representacion/actas-del-comite-de-empresa/
+Disallow: /es/buscador-general/
+Disallow: /es/estudios/profesor/Lidia-Ruiz-Llorente/
+Disallow: /en/estudios/profesor/Lidia-Ruiz-Llorente/
+Disallow: /es/estudios/profesor/Charlote-Barbara-S-Van-Hulse/
+Disallow: /en/estudios/profesor/Charlote-Barbara-S-Van-Hulse/
+
+Crawl-delay: 30 

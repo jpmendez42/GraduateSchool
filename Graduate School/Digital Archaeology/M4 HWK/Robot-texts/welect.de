@@ -1,0 +1,3 @@
+# Disallow all in non-production environments.
+User-agent: *
+Disallow: /

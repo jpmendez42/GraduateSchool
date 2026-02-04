@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /lld/
+Disallow: /admin
+Disallow: /Security/login
+# Algolia-Crawler-Verif: CEDEAB813B74D3E5

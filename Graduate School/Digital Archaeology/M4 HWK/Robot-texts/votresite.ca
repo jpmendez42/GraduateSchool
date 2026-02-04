@@ -1,0 +1,70 @@
+User-agent: MJ12bot
+Disallow: /
+User-agent: *
+Disallow: /scripts/
+Disallow: /site_scripts/
+Disallow: /confirmation-rendez-vous-telephonique*
+Disallow: /owebo-votresite/confirmation-rendez-vous-telephonique*
+Disallow: /confirmation-question*
+Disallow: /owebo-votresite/confirmation-question*
+Disallow: /confirmation-inscription*
+Disallow: /owebo-votresite/confirmation-inscription*
+Sitemap: https://votresite.ca/sitemap.xml
+
+
+User-agent: *
+Disallow: /anciennes-modalites-et-conditions
+Disallow: /owebo-votresite/anciennes-modalites-et-conditions
+Disallow: /modalites-et-conditions
+Disallow: /owebo-votresite/modalites-et-conditions
+
+
+
+## copy of owebo-votresite/robots.txt
+
+User-agent: *
+# CSS, JS, Images
+Allow: /owebo-votresite/core/*.css$
+Allow: /owebo-votresite/core/*.css?
+Allow: /owebo-votresite/core/*.js$
+Allow: /owebo-votresite/core/*.js?
+Allow: /owebo-votresite/core/*.gif
+Allow: /owebo-votresite/core/*.jpg
+Allow: /owebo-votresite/core/*.jpeg
+Allow: /owebo-votresite/core/*.png
+Allow: /owebo-votresite/core/*.svg
+Allow: /owebo-votresite/profiles/*.css$
+Allow: /owebo-votresite/profiles/*.css?
+Allow: /owebo-votresite/profiles/*.js$
+Allow: /owebo-votresite/profiles/*.js?
+Allow: /owebo-votresite/profiles/*.gif
+Allow: /owebo-votresite/profiles/*.jpg
+Allow: /owebo-votresite/profiles/*.jpeg
+Allow: /owebo-votresite/profiles/*.png
+Allow: /owebo-votresite/profiles/*.svg
+# Directories
+Disallow: /owebo-votresite/core/
+Disallow: /owebo-votresite/profiles/
+# Files
+Disallow: /owebo-votresite/README.txt
+Disallow: /owebo-votresite/web.config
+# Paths (clean URLs)
+Disallow: /owebo-votresite/admin/
+Disallow: /owebo-votresite/comment/reply/
+Disallow: /owebo-votresite/filter/tips
+Disallow: /owebo-votresite/node/add/
+Disallow: /owebo-votresite/search/
+Disallow: /owebo-votresite/user/register/
+Disallow: /owebo-votresite/user/password/
+Disallow: /owebo-votresite/user/login/
+Disallow: /owebo-votresite/user/logout/
+# Paths (no clean URLs)
+Disallow: /owebo-votresite/index.php/admin/
+Disallow: /owebo-votresite/index.php/comment/reply/
+Disallow: /owebo-votresite/index.php/filter/tips
+Disallow: /owebo-votresite/index.php/node/add/
+Disallow: /owebo-votresite/index.php/search/
+Disallow: /owebo-votresite/index.php/user/password/
+Disallow: /owebo-votresite/index.php/user/register/
+Disallow: /owebo-votresite/index.php/user/login/
+Disallow: /owebo-votresite/index.php/user/logout/

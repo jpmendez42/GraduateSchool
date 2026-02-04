@@ -1,0 +1,73 @@
+# Default rules for all user agents
+User-agent: *
+Disallow: /storage/
+Disallow: /media/
+# User account pages
+# Disallow: /prihlaseni
+# Disallow: /prihlasenie
+Disallow: /odhlaseni
+Disallow: /odhlasenie
+Disallow: /dokonceni-registrace
+Disallow: /dokoncenie-registracie
+Disallow: /muj-prehled
+Disallow: /moj-prehlad
+# Disallow: /registrace
+# Disallow: /registracia
+
+# Shopping cart and checkout
+Disallow: /nakupni-kosik
+Disallow: /nakupny-kosik
+Disallow: /objednavka
+Disallow: /objednavka-doruceni
+Disallow: /objednavka-dorucenie
+Disallow: /objednavka-udaje
+Disallow: /vlozit-do-kosiku
+
+# Search pages
+Disallow: /vyhledavani
+Disallow: /vyhladavanie
+
+# URL parameters to avoid duplicate content
+# Disallow: /*?search_text=
+# Disallow: /*?ref=
+# Disallow: /*?ord=
+# Disallow: /*?actionTagId=
+# Disallow: /*?utm_source=
+# Disallow: /*?homepageTabs=
+# Disallow: /*?backlink=
+# Disallow: /*?returnto=
+# Disallow: /*?id=
+
+# Sitemap location
+Sitemap: https://www.asko-nabytek.cz/sitemap.xml
+
+# Crawl delay for specific bots
+User-agent: DotBot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: BLEXBot
+Crawl-delay: 10
+
+User-agent: Pinterestbot
+Crawl-delay: 10
+
+# Block Yandex completely
+User-agent: Yandex
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+Sitemap: https://www.asko-nabytek.cz/sitemap.xml

@@ -1,0 +1,24 @@
+User-agent: *
+Crawl-delay: 5
+Disallow: */tvhelp/*
+Disallow: /electronics/geschenkideen/weihnachtsgeschenkideen
+
+Disallow: /my-favorites
+Disallow: */electronics/support*/results
+Disallow: */electronics/support/serial-number-checker/*
+Disallow: /tvs-freihaendige-sprachsteuerung
+Disallow: /smart-tvs-netflix-calibrated-mode
+Disallow: /netflix-recommended-tvs
+Disallow: /dolby-vision-atmos-tvs
+
+Disallow: */electronics/bravia-xr-fernseher*
+
+Disallow: */electronics/bildqualitaet*
+Disallow: */electronics/klangqualitaet*
+Disallow: */electronics/trymacs-aktion* 
+
+Disallow: /home-theatre-sound-bars/neckband-speakers
+
+Sitemap: https://www.sony.de/electronics/gwtsitemapindex.xml
+Sitemap: https://www.sony.de/gwxsitemapindex.xml
+Sitemap: https://www.sony.de/alphauniverse/ausitemapindex.xml

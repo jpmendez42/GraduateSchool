@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /search?q=*
+Disallow: *?replytocom
+Disallow: */attachment/*
+Disallow: /images/
+Allow: /wp-admin/admin-ajax.php
+Allow: /*.js$
+Allow: /*.css$
+
+Sitemap: https://nettruyenco.vn/sitemap_index.xml

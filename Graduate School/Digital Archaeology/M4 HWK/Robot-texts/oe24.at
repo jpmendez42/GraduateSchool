@@ -1,0 +1,21 @@
+
+User-agent: MFHttpScan
+Disallow: /
+
+User-agent: NewspointBot
+Disallow: /
+
+User-agent: netsprint
+Disallow: /
+
+User-agent: *
+Disallow: /test/*
+Disallow: /anzeige/*
+Disallow: /search*
+Disallow: /oe24plus/getPremiumContent/* 
+
+
+Sitemap: https://www.oe24.at/sitemapchannel.xml
+Sitemap: https://www.oe24.at/sitemap-article.xml
+Sitemap: https://www.oe24.at/sitemap-video.xml
+Sitemap: https://www.oe24.at/sitemap-news.xml

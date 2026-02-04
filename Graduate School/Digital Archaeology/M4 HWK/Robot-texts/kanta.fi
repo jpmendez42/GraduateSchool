@@ -1,0 +1,21 @@
+User-Agent: *
+
+Disallow: /*search?*
+Disallow: /*?*_targetYear=201*
+Disallow: /*?*_targetYear=2020*
+Disallow: /*?*_targetYear=&*
+Disallow: /*?*_cur=*
+Disallow: /ok
+
+Allow: /*?*_cur=1$
+Allow: /*?*_cur=2$
+Allow: /*?*_cur=3$
+Allow: /*?*_cur=4$
+Allow: /*?*_cur=5$
+Allow: /*?*_cur=6$
+Allow: /*?*_cur=7$
+Allow: /*?*_cur=8$
+Allow: /*?*_cur=9$
+
+
+Sitemap: https://www.kanta.fi/sitemap.xml

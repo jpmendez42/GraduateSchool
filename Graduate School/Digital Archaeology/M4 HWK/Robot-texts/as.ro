@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://as.ro/sitemap_index.xml
+Sitemap: https://as.ro/news-sitemap.xml
+Sitemap: https://as.ro/video-sitemap.xml

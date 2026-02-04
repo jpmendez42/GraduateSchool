@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /g2/bbs/all.php
+Disallow: /g2/bbs/link.php
+Disallow: /g2/bbs/login.php
+Disallow: /g2/module/mobile_mode_check/check.php
+
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: FacebookBot
+Disallow: /
+User-agent: OmgiliBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: CCbot
+Disallow: /

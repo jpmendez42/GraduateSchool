@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: *modals=requestModal*
+Disallow: *?
+Disallow: *.vue
+Disallow: /autotest-*
+Allow: /*.js
+Allow: /*.css
+Sitemap: https://sitesoft.ru/sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /konto/
+Disallow: /platnosc/
+Disallow: /zakupy/
+Disallow: /ebooki/fragment/
+Disallow: /api/
+Disallow: /svc/
+Allow: /.well-known/
+Sitemap: https://www.legimi.pl/sitemap-https.xml

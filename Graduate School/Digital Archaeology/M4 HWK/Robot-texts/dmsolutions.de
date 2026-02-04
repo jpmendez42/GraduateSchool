@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cli/
+
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+
+
+Disallow: /tmp/
+Allow: /plugins/content/highslide/
+Allow: /modules/mod_jux_megamenu/
+
+User-agent: SearchmetricsBot
+Disallow: /testcenter/
+Disallow: /order/
+
+Sitemap: https://www.dmsolutions.de/sitemap.xml
+Sitemap: https://www.dmsolutions.de/blog/sitemap.xml

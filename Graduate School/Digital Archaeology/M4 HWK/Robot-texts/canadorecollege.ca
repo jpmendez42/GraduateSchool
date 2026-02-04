@@ -1,0 +1,22 @@
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+# Allow all others
+User-agent: *
+Disallow:
+
+# Disallow all bots from accessing the following paths
+Disallow: /*?search=
+Disallow: /*?page=
+Disallow: /*?topics=
+Disallow: /*filter[Accreditation][0]=
+Disallow: /*filter[CampusLocationNames.CampusName][0]=
+Disallow: /*filter[Interests.Interest][0]=
+Disallow: /*filter[ProgramType][0]=
+Disallow: /*filter[SchoolOfStudyName][0]=
+Disallow: /*filter[IntakeTitles.Title][0]=
+
+Sitemap: https://www.canadorecollege.ca/sitemap.xml

@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: */sales/
+Disallow: */assets/
+Disallow: */rails/
+Disallow: */products/
+Disallow: */cdn-cgi/
+Disallow: */catalog/
+Disallow: */find
+Disallow: */product/
+Disallow: */t/

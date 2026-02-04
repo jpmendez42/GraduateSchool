@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /content/
+Disallow: /profilo/
+Disallow: *-tavolo$
+Disallow: /sw.js?v=
+
+Allow: /scommesse/*/*/*$
+Disallow: /scommesse/*/*/*/*
+
+Sitemap: https://www.starvegas.it/sitemap.xml
+Sitemap: https://www.starvegas.it/sitemap_sports.xml
+Sitemap: https://www.starvegas.it/sitemap_secondary.xml
+

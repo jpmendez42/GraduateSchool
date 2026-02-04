@@ -1,0 +1,19 @@
+User-agent: *
+Allow: /
+
+Disallow:*/content/overlays/*
+Disallow:*/content/error-pages/*
+Disallow:*/content/forms/*
+Disallow:*/content/disclosure-library/*
+Disallow:*/content/guxeu/fr/fr_fr/site-wide-content
+Disallow:*/services/mon-vehicule/rendez-vous-service/*
+Disallow:*/services/mon-vehicule/compte-fordpass/*
+Disallow:*/offer-*
+Disallow:*/financement/mon-compte-ford-credit/*
+Disallow:*/dashboard/*
+Disallow:*/search*
+Disallow:*/forms*
+Disallow:*/s/*
+Disallow:*/root/*
+
+Sitemap:https://www.ford.fr/sitemap.xml

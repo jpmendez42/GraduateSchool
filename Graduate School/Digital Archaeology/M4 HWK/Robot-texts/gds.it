@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /errorpages/
+Disallow: /articoli/ajax/
+Disallow: /articoli/includes/
+Disallow: /includes/
+Disallow: */typo3temp/
+Disallow: /*?refresh_ce
+Disallow: /*?p= 
+
+Sitemap:  https://gds.it/sitemap.xml
+Sitemap:  https://palermo.gds.it/sitemap.xml
+Sitemap:  https://trapani.gds.it/sitemap.xml
+Sitemap:  https://agrigento.gds.it/sitemap.xml
+Sitemap:  https://enna.gds.it/sitemap.xml
+Sitemap:  https://caltanissetta.gds.it/sitemap.xml
+Sitemap:  https://messina.gds.it/sitemap.xml
+Sitemap:  https://catania.gds.it/sitemap.xml
+Sitemap:  https://siracusa.gds.it/sitemap.xml
+Sitemap:  https://ragusa.gds.it/sitemap.xml

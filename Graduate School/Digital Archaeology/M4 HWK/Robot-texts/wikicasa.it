@@ -1,0 +1,54 @@
+User-agent: *
+Disallow: /pub/
+Disallow: /portale/
+Disallow: /area-riservata/
+Disallow: /*jsessionid*
+Disallow: /*.wiki$
+Disallow: /preferiti
+Disallow: /condizioni-generali
+Disallow: /marketing
+Disallow: /partner
+Disallow: /privacy
+Disallow: /rest/realEstate/
+Disallow: /rest/statistics/updateView
+Disallow: /rest/isPublicUserLogged
+Disallow: /ws/
+Disallow: /api-nuxt/
+Disallow: /_nuxt/
+Disallow: /nuxt/
+
+Allow: /nuxt/img/favicon/
+
+
+Disallow: /*?
+Allow: /*?p=
+Allow: /rest/statistics/*?*
+
+Disallow: */en/*
+Disallow: */de/*
+
+Allow: /en/$
+Allow: /en/sale-houses*/$
+Allow: /en/rent-houses*/$
+Allow: /en/sale-commercial-properties*/$
+Allow: /en/rent-commercial-properties*/$
+Allow: /en/sale-lands*/$
+Allow: /en/rent-lands*/$
+Allow: /en/sale-garages-and-car-boxes*/$
+Allow: /en/rent-garages-and-car-boxes*/$
+Allow: /en/sale-new-constructions*/$
+Allow: /en/rent-new-constructions*/$
+Allow: /en/rent-rooms*/$
+
+Allow: /de/$
+Allow: /de/kaufen-haus*/$
+Allow: /de/mieten-haus*/$
+Allow: /de/kaufen-gewerbeimmobilien*/$
+Allow: /de/mieten-gewerbeimmobilien*/$
+Allow: /de/kaufen-grundstucke*/$
+Allow: /de/mieten-grundstucke*/$
+Allow: /de/kaufen-garagen*/$
+Allow: /de/mieten-garagen*/$
+Allow: /de/kaufen-andere-wohnimmobilien*/$
+Allow: /de/mieten-andere-wohnimmobilien*/$
+Allow: /de/mieten-zimmer*/$

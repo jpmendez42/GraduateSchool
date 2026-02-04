@@ -1,0 +1,19 @@
+Sitemap: https://gladd.jp/sitemap.xml
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: BPImageWalker
+Disallow: /
+
+User-agent: BPImageWalker/2.0
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-Agent: Googlebot
+Disallow: /members/sale/sale_readmore/
+Disallow: /sp/members/sale/sale_readmore/
+Disallow: /magazine/api_list/
+Disallow: /sp/magazine/api_list/
+Disallow: /ending_soon/

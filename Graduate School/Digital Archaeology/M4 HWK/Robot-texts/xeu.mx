@@ -1,0 +1,57 @@
+User-Agent: *
+Disallow: /audios/
+Disallow: /contenidos/audios/
+Disallow: /css/
+Disallow: /promociones/
+Disallow: /radix/
+Disallow: /sociedadenimagens/
+Disallow: /lib/
+Disallow: /javascript/
+Disallow: /Scripts/
+Disallow: /widgets/
+Disallow: /balancing/
+Disallow: /cartones/
+Disallow: /images/
+Disallow: /banners/
+Disallow: /imgapoyo/
+Disallow: /imgcontenido/
+
+
+User-agent: Twitterbot
+Allow: /contenidos/imagenes/noticias
+
+User-agent: facebookexternalhit
+Allow: /contenidos/imagenes/noticias
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: grapeshot
+Disallow:
+
+#sitemaps
+Sitemap: https://www.xeu.mx/sitemap.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-6.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-7.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-8.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-9.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-10.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-11.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-12.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-13.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-14.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-15.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-16.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-17.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-18.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-19.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-20.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-21.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-22.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-23.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-24.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-opinion.xml
+Sitemap: https://www.xeu.mx/sitemaps/sitemap-sondeo.xml
+
+
+

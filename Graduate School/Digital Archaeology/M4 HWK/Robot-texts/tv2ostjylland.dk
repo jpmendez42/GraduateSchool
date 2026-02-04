@@ -1,0 +1,74 @@
+# version: 2025-03-07
+
+User-agent: *
+Sitemap: https://www.tv2ostjylland.dk/sitemap.xml
+Disallow: /cp/
+Disallow: /cp
+Disallow: /livewire/update
+Disallow: /api/events
+Allow: /
+
+# Block AI Training Crawlers
+
+# OpenAI
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+# Anthropic
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# Cohere
+User-agent: cohere-ai
+Disallow: /
+
+# Google AI
+User-agent: Google-Extended
+Disallow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Disallow: /
+
+# Apple
+User-agent: Applebot-Extended
+Disallow: /
+
+# Block SEO Crawlers
+
+# Block AhrefsBot
+User-agent: AhrefsBot
+Disallow: /
+
+# Block SemrushBot
+User-agent: SemrushBot
+Disallow: /
+
+# Block DataForSeoBot
+User-agent: DataForSeoBot
+Disallow: /
+
+# Block OpenindexBot
+User-agent: OpenindexBot
+Disallow: /
+
+# Block MJ12bot
+User-agent: MJ12bot
+Disallow: /
+
+# Block SentiBot
+User-agent: SentiBot
+Disallow: /

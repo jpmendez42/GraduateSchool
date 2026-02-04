@@ -1,0 +1,26 @@
+#
+# robots.txt
+#
+User-agent: *
+Sitemap: https://www.banquedesterritoires.fr/index/sitemap.xml
+Disallow: /geographie/
+Disallow: /search-page
+Disallow: /recherche
+Disallow: /taxonomy/
+Disallow: /notification-subscription
+Disallow: /fiche-contact
+Disallow: /contact-person
+Disallow: /contacter-offreur
+Disallow: /social-media-forward
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xlsm$
+Disallow: /*.xlsxpdf$
+Disallow: /*.pptx$
+Disallow: /flux/ 
+Disallow: /node/
+Disallow: /_Incapsula_Resource
+Disallow: /?pk_
+Disallow: /?cid
+Disallow: /?utm
+Disallow: /rb_bf

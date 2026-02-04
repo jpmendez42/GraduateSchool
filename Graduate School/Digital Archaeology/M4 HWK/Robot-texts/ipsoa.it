@@ -1,0 +1,68 @@
+User-Agent: *
+Disallow: /gazzetta-ufficiale-pdf/ 
+Disallow: /Forms/Send
+Disallow: /1045923/WKI_ipsoa_300x250_HP
+Disallow: /1045923/WKI_ipsoa_728x90_HP
+Disallow: /1045923/WKI_ipsoa_skin_HP
+Disallow: /1045923/WKI_ipsoa_300x250
+Disallow: /1045923/WKI_Ipsoa_728x90
+Disallow: /profilo/bookmark/abbonamento/
+Disallow: /api/CreatePDF/
+Disallow: /Contentreserved
+Disallow: /profilo/
+Disallow: /speciale/refreshtab
+Disallow: /rassegnastampa/printdate/*
+Disallow: /*.pdf$
+Disallow: /Search/*?query
+Disallow: /search/*?query
+Sitemap: https://www.ipsoa.it/sitemap_indice_sezioni.xml
+Sitemap: https://www.ipsoa.it/sitemap_indice_news.xml
+
+#OpenAI
+
+User-agent: ChatGPT-User
+Disallow: /
+
+#AIRobots
+
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Amazonbot
+User-agent: anthropic-ai
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: Diffbot
+User-agent: DuckAssistBot
+User-agent: FriendlyCrawler
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+User-agent: GPTBot
+User-agent: iaskspider/2.0
+User-agent: ICC-Crawler
+User-agent: ImagesiftBot
+User-agent: img2dataset
+User-agent: ISSCyberRiskCrawler
+User-agent: Kangaroo Bot
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: OAI-SearchBot
+User-agent: omgili
+User-agent: omgilibot
+User-agent: PerplexityBot
+User-agent: PetalBot
+User-agent: Scrapy
+User-agent: Sidetrade indexer bot
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
+User-agent: YouBot
+Disallow: /
+

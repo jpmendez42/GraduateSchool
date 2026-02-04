@@ -1,0 +1,50 @@
+User-agent: *
+Crawl-delay: 1
+Disallow: /Litium/
+#www.jollyroom.se
+
+Disallow: /*&*&*&*&*
+
+Disallow: /*?filter-brand=*
+Disallow: /*&filter-brand=*
+
+Disallow: /*?filter-sub-brand=*
+Disallow: /*&filter-sub-brand=*
+
+Disallow: /*?filter-color=*
+Disallow: /*&filter-color=*
+
+Disallow: /*?filter-size=*
+Disallow: /*&filter-size=*
+
+Disallow: /*?filter-age=*
+Disallow: /*&filter-age=*
+
+Disallow: /*?filter-features=*
+Disallow: /*&filter-features=*
+
+Disallow: /*?filter-license=*
+Disallow: /*&filter-license=*
+
+Disallow: /*?filter-material=*
+Disallow: /*&filter-material=*
+
+Disallow: /*?from_price=*
+Disallow: /*&from_price=*
+
+Disallow: /*?to_price=*
+Disallow: /*&to_price=*
+
+Disallow: /*?type=*
+Disallow: /*&type=*
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-image
+Disallow:
+
+Sitemap: https://www.jollyroom.se/sitemap.axd

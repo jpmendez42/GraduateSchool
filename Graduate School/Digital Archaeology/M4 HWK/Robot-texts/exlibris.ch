@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /fr/
+Allow: /fr/$
+Disallow: /de/bestellung*
+Disallow: /de/kontakt-hilfe-popup/
+Disallow: /build/
+Disallow: /dwr*
+Disallow: /de/suche/
+Disallow: /de/erweiterte-suche/
+Disallow: */club-aktionen/
+Disallow: /error_path*
+Disallow: */abonnieren/
+Disallow: /de/mein-konto/
+Disallow: /de/merkliste/
+Disallow: */ML/
+Disallow: */neues-konto/
+
+Sitemap: https://www.exlibris.ch/sitemap-index-products-de.xml
+Sitemap: https://www.exlibris.ch/sitemap-index-content-de.xml

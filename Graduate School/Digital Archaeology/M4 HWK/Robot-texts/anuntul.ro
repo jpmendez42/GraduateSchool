@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /img/w75-h75*.jpeg
+Disallow: /opinii
+Disallow: /opinie/*
+
+Sitemap: https://www.anuntul.ro/sitemap-index.xml

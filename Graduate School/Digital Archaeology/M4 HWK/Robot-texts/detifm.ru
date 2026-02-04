@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /?an/
+Disallow: /?an=dbconnect_error
+Disallow: /?an=login
+Disallow: /?an=accessblocked
+Disallow: /?a_dmin
+Host: https://detifm.ru
+Sitemap: https://detifm.ru/vardata/sitemap/sitemap.xml
+Disallow: /api*

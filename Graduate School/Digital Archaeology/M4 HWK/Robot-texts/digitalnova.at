@@ -1,0 +1,12 @@
+# robots.txt create on 12.06.2017 07:48:27
+
+User-agent: *
+Disallow: /system/
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /awstats/
+Disallow: /cp/
+Disallow: /images/
+
+# XML Sitemaps
+Sitemap: /sitemap.xml

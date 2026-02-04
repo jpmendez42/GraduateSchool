@@ -1,0 +1,13 @@
+User-Agent: *
+Disallow: /abonentam
+Disallow: /blogs
+Disallow: /forum
+Disallow: /podklyuchitsya
+Disallow: /telefoniya
+Disallow: /tv/tsifrovoe-televidenie
+Disallow: /wp-content
+Disallow: /wp-includes
+Disallow: /user/login
+Disallow: /administrate
+Host: ots-net.ru
+Sitemap: http://ots-net.ru/sitemap.xml

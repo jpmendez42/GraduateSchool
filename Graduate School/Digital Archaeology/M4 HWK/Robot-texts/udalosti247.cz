@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: *?s=
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-includes/css/
+Allow: /wp-includes/js/
+Allow: /wp-includes/images/
+
+Sitemap: https://udalosti247.cz/sitemap_index.xml

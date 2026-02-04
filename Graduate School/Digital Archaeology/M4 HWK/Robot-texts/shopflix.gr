@@ -1,0 +1,67 @@
+User-agent: *
+ 
+Disallow: /login
+Disallow: /register
+Disallow: /forgot-password
+Disallow: /cart
+Disallow: /checkout
+Disallow: /checkout-login
+Disallow: /search
+Disallow: /my-account/*
+Disallow: /order-success
+Disallow: *%5Brange%
+Disallow: *%5Bquery%
+Disallow: *%5BrefinementList%
+Disallow: *%5BhitsPerPage%
+Disallow: *%5BsortBy%
+Disallow: *[range]
+Disallow: *[query]
+Disallow: *[refinementList]
+Disallow: *[hitsPerPage]
+Disallow: *[sortBy]
+
+Disallow: *?dispatch
+Disallow: *company_id=
+Disallow: *vendor_id=
+Disallow: *k=
+Disallow: *ref=
+Disallow: *return_url=
+Disallow: *features_hash=
+Disallow: *category_id=
+Disallow: *shopflix%
+
+Disallow: */en/
+Disallow: */el/
+ 
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: Yandex
+Allow: /$
+Disallow: /
+User-agent: YandexBot
+Allow: /$
+Disallow: /
+User-agent: YandexMobileBot
+Allow: /$
+Disallow: /
+User-agent: YandexDirect
+Disallow: /
+
+Sitemap: https://shopflix.gr/sitemap.xml
+
+
+################################################################################
+
+  #####  #     # ####### ######  ####### #       ### #     #      #####  ######  
+ #     # #     # #     # #     # #       #        #   #   #      #     # #     # 
+ #       #     # #     # #     # #       #        #    # #       #       #     # 
+  #####  ####### #     # ######  #####   #        #     #        #  #### ######  
+       # #     # #     # #       #       #        #    # #   ### #     # #   #   
+ #     # #     # #     # #       #       #        #   #   #  ### #     # #    #  
+  #####  #     # ####### #       #       ####### ### #     # ###  #####  #     # 
+
+################################################################################

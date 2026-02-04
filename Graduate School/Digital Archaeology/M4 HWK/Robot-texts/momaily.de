@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /profilbilder/
+Disallow: /pic/
+Disallow: /agb.php
+Disallow: /impressum.php
+Disallow: /faq.php
+Disallow: /datenschutz.php
+Disallow: /profil.php
+Disallow: /support.php
+Disallow: /register.php
+Disallow: /login.php
+Disallow: /mm_login.php
+Disallow: /mm_agb.php
+Disallow: /mm_datenschutz.php
+Disallow: /mm_support.php
+Disallow: /mm_faq.php
+Disallow: /mm_register.php
+Disallow: /mm_impressum.php
+
+# Allow Google to access important pages
+Allow: /$
+Allow: /index.php
+
+Sitemap: https://momaily.de/sitemap.xml
+
+

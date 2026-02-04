@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /wishlist*
+Disallow: /delivery-calculation*
+Allow: /
+
+User-agent: OAI-SearchBot
+Disallow: /wishlist*
+Disallow: /delivery-calculation*
+Allow: /
+
+User-agent: ChatGPT-User
+Disallow: /wishlist*
+Disallow: /delivery-calculation*
+Allow: /
+
+User-agent: SeznamBot
+Request-rate: 1/10s
+
+User-agent: Yandex
+ Crawl-delay: 5
+
+User-agent: bingbot
+ Crawl-delay: 1
+
+
+Sitemap: http://euronics.hu/sitemap.xml

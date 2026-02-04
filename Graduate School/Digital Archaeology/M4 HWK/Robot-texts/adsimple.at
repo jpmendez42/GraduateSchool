@@ -1,0 +1,41 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.adsimple.at/sitemap_index.xml
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: bingbot
+Disallow: /firma/*
+Disallow: /firmenverzeichnis/*
+
+User-agent: google
+Disallow: /firma/*
+Disallow: /firmenverzeichnis/*
+
+User-agent: googlebot
+Disallow: /firma/*
+Disallow: /firmenverzeichnis/*
+
+User-agent: googlebot-image
+Disallow: /firma/*
+Disallow: /firmenverzeichnis/*
+
+User-agent: yahoobot
+Disallow: /firma/*
+Disallow: /firmenverzeichnis/*
+
+User-agent: microsoftbot
+Disallow: /firma/*
+Disallow: /firmenverzeichnis/*
+
+#WP Import Export Rule
+User-agent: *
+Disallow: /wp-content/uploads/wp-import-export-lite/

@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /search/*
+Disallow: *?fbclid*
+Disallow: *?m*
+Disallow: *?_gl*
+Disallow: *?p*
+Disallow: *?orderby*
+Disallow: *?amp*
+Disallow: /lorem/
+Disallow: /valicahp
+
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+
+Sitemap: https://www.proiezionidiborsa.it/sitemap_index.xml
+Sitemap: https://www.proiezionidiborsa.it/sitemap-news.xml

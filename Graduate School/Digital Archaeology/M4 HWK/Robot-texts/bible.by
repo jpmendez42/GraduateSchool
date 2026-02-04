@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /parallel
+Clean-param: web /search-syn/
+
+User-agent: meta-externalagent
+Disallow: /
+
+Host: https://bible.by

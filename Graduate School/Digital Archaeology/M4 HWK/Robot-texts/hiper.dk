@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /mit-hiper/login
+Disallow: /mit-hiper/*
+Disallow: /login

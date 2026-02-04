@@ -1,0 +1,7 @@
+user-agent: *
+Crawl-delay: 5
+Disallow: /*action=personalDataProcessing*
+Disallow: /*?do=cookiesConfirmation-*
+Disallow: /*action=confirmSubscription*
+Disallow: /*?*filter=its*its*
+Sitemap: https://www.antee.cz/sitemap.xml

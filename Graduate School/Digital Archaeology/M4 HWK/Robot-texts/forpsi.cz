@@ -1,0 +1,3444 @@
+<!DOCTYPE html>
+<html  lang="cs-CZ">
+<head id="head"><title>
+	Cenově v&#253;hodn&#233; dom&#233;ny, webhosting a servery | FORPSI.COM
+</title><meta name="description" content="Zaregistrujte si doménu a objednejte webhosting nebo server u spolehlivého partnera s vlastním datacentrem. FORPSI je profesionálem na trhu domén, webhostingu, VPS a cloudu. Vytvořte si s námi vlastní web nebo využijte širokých možností VPS. " /> 
+<meta charset="UTF-8" /> 
+<meta name="keywords" content="FORPSI, webhosting, web hosting, hosting, serverhosting, housing, domény, registrace domén, registrace domény" /> 
+<link href='/CMSPages/GetResource.ashx?stylesheetname=MainTheme25&v=421' type='text/css' rel='stylesheet'/>
+<!-- Google Tag Manager  Data Layer-->
+<script  data-cookieconsent="ignore">
+window.dataLayer = window.dataLayer || [{
+"environment": "PROD",
+"language": "cs-CZ"
+}];
+</script>
+<!-- Google Tag Manager -->
+ <script data-cookieconsent="ignore">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start':  new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+ 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NQLQDPZ');</script>
+ <!-- End Google Tag Manager --> 
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv="x-xrds-location" content="https://objednavka.forpsi.com/xrds.php" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="apple-touch-icon" href="/ForpsiCZ/media/Forpsi/Icons/apple-touch-icon-iphone-60x60.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/ForpsiCZ/media/Forpsi/Icons/apple-touch-icon-ipad-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/ForpsiCZ/media/Forpsi/Icons/apple-touch-icon-iphone-retina-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/ForpsiCZ/media/Forpsi/Icons/apple-touch-icon-ipad-retina-152x152.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon.png">
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-precomposed.png">
+<link rel="canonical" href="https://www.forpsi.com/" /> 
+
+
+<!--[if lt IE 9]>
+  <script src="/CMSScripts/Custom/Forpsi/html5.js"></script>
+  <script src="/CMSScripts/Custom/Forpsi/respond.js"></script>
+<![endif]-->
+
+
+
+
+<script src="/CMSScripts/Custom/jquery371.js"></script>
+<script src="/CMSScripts/Custom/Forpsi/select2.min.js"></script> 
+<link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"/>
+<link href="/favicon.ico" type="image/x-icon" rel="icon"/>
+
+<script>document.addEventListener('DOMContentLoaded', function () {
+
+
+  document.querySelectorAll('ul.navbar-nav.navbar-right > li > a').forEach(function (el) {
+    el.addEventListener('click', function () {
+      const label = el.textContent.trim();
+
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'menu_click',
+        menu_level: '1',
+        menu_item: label,
+        menu_location: 'top_nav'
+      });
+    });
+  });
+
+  document.addEventListener('click', function (e) {
+    const level2 = e.target.closest('.submenu .left-side li a');
+    if (level2) {
+      const menuItem = level2.textContent.trim();
+      const $submenu = level2.closest('.submenu');
+      const parentLi = $submenu?.closest('li');
+      const parentLink = parentLi?.children[0];
+      const parentItem = parentLink?.textContent.trim() || 'unknown';
+
+
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'menu_click',
+        menu_level: '2',
+        menu_item: menuItem,
+        parent_item: parentItem
+      });
+    }
+  });
+
+  document.addEventListener('click', function (e) {
+    const level3 = e.target.closest('.submenu .tab-content a[href]');
+    if (level3) {
+      const menuItem = level3.textContent.trim();
+      const linkUrl = level3.href;
+
+      const parentItem = document.querySelector('.submenu .left-side li.active a')?.textContent.trim() || 'unknown';
+      const $submenu = level3.closest('.submenu');
+      const grandparentLi = $submenu?.closest('li');
+      const grandparentLink = grandparentLi?.children[0];
+      const grandparentItem = grandparentLink?.textContent.trim() || 'unknown';
+
+
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'menu_click',
+        menu_level: '3',
+        menu_item: menuItem,
+        parent_item: parentItem,
+        grandparent_item: grandparentItem,
+        link_url: linkUrl
+      });
+    }
+  });
+  document.addEventListener('click', function (e) {
+    const btn = e.target.closest('.menu-image .btn-green-1[href]');
+    if (btn) {
+      const linkUrl = btn.href;
+
+
+      window.dataLayer = window.dataLayer || [];
+      window.dataLayer.push({
+        event: 'menu_banner',
+        link_url: linkUrl
+      });
+    }
+  });
+});
+
+</script><script>
+var ssoBaseUrl = 'https://sso.forpsi.com'; 
+var supportBaseUrl = 'https://support.forpsi.com'; 
+var loginInvalidCredentialsMessage = 'Zadaný login nebo heslo není platné.';
+var loginErrorMessage = 'Došlo k neočekávané chybě.';
+var loginInvalidProviderMessage = 'Přihlášení, prosím, proveďte na <a href="https://www.forpsi.sk">www.forpsi.sk</a>.';
+var loginInvalidAttempsMessage = 'Zadali jste chybné přihlašovací údaje';
+var loginInvalidIPMessage = 'Zadali jste chybné přihlašovací údaje';
+var loginForceMojeIDMessage= 'Přihlášení pomocí hesla je pro tento účet zablokováno. Použijte MojeID.';
+var loginBlockedIPMessage = 'Zadali jste chybné přihlašovací údaje';
+
+var loginText = 'Přihlásit';
+var logoutText = 'Odhlásit';
+var currentLang ='cs-CZ'
+</script><link href="/CMSPages/GetResource.ashx?stylesheetfile=/CMSWebparts/Localization/languageselectiondropdown_files/langselector.css" type="text/css" rel="stylesheet"/>
+<!-- Usabilla Combicode based on ViewportSize for aruba italy-->
+<!-- Begin Usabilla for Websites embed code -->
+<script type="text/javascript">/*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t){f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({});
+  var w = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)
+var h = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)
+if (w <480) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/a99700e3f24b.js"); }
+if (w <989) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/b2f10fbc8a6c.js"); }
+else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/1e894f99ec30.js"); }/*]]>{/literal}*/</script><link href="/CMSPages/GetResource.ashx?_webparts=980" type="text/css" rel="stylesheet"/>
+</head>
+<body class="LTR Unknown CSCZ ContentBody" >
+     <!-- Google Tag Manager (noscript) -->
+ <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQLQDPZ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+ <!-- End Google Tag Manager (noscript) -->
+    <form method="post" action="/" id="form">
+<input type="hidden" name="__CMSCsrfToken" id="__CMSCsrfToken" value="KKvCHxMyKidNAh7VOkBAx6Aa+ZYmlkvPj0XmZd4Ztyj4SY50BscFGnV/WprV0e3iqqM1EQmMPRjQ+pLajiPFr57eF7E=" />
+
+
+<input type="hidden" name="lng" id="lng" value="cs-CZ" />
+<script type="text/javascript">
+	//<![CDATA[
+
+function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); } if(window.CMSContentManager) { CMSContentManager.allowSubmit = true; }; __doPostBack('m$am',param); }
+function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
+//]]>
+</script>
+<script src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvlYJJt7_AOe3qaH9C_ccVWuZMZ1QCDMqEyLMDTmanohtkzek3mVZwm-FhbKLBB7BK3r_ueyhP0oicyoWa-O1OxRmk7mPKZ6kCsjlfaJlK3uRODCHkIxcTwkARiUOdOEx9FjlBic1&amp;t=345ad968" type="text/javascript"></script>
+<script type="text/javascript">
+	//<![CDATA[
+
+var CMS = CMS || {};
+CMS.Application = {
+  "language": "cs",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDebuggingEnabled": false,
+  "applicationUrl": "/",
+  "isDialog": false,
+  "isRTL": "false"
+};
+
+//]]>
+</script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185" />
+<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="" />
+    
+    <div id="ctxM">
+
+</div>
+    <div class="global-wrap">
+  <div class="top-menu-area">
+    
+    <div class="container">
+      <div class="selects fll languageddl">
+<div id="language">
+    <ul class="langselector"><li class="lifirst" style="background-image:url('/CMSWebparts/Localization/languageselectiondropdown_files/dd_arrow.gif'); background-repeat: no-repeat"><a class="first" style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fcs-CZ.png); background-repeat: no-repeat" href="#">Česky</a><ul><li><a style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fcs-cz.png); background-repeat: no-repeat" href="/?lang=cs-cz">Česky</a></li>
+<li><a style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fen-us.png); background-repeat: no-repeat" href="/?lang=en-us">English</a></li>
+</ul></li></ul>
+</div>
+
+</div><div class="selects fll j-currency-selector">
+<div id="currency">
+<ul class="langselector">
+	<li class="lifirst"><a class="first" href="javascript:void(0);"><em class="j-currency-selector-value">CZK</em></a>
+	<ul>
+		<li><a class="j-currency-selector-link" href="javascript:void(0);">CZK</a></li>
+		<li><a class="j-currency-selector-link" href="javascript:void(0);">EUR</a></li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+<ul class="flr top-menu-areas"> <li><a target="_blank" href="tel:38 38 35 35 3"><span class="glyphicon glyphicon-earphone"></span>38 38 35 35 3</a></li>
+    <li><a target="_blank" title="webmail.forpsi.com" href="http://webmail.forpsi.com"><span class="glyphicon glyphicon-envelope"></span>webmail.forpsi.com</a></li>
+    <li><a href="https://admin.forpsi.com/" class="blueforpsibg"><span class="glyphicon glyphicon-user"></span>Administrace</a></li>
+    
+    
+    <li class="normalST"><a href="https://support.forpsi.com/Main/" target="_blank" class="greenbg"><span class="glyphicon glyphicon-question-sign"></span>Tiket</a></li>
+    <li class="normalST"><a href="https://support.forpsi.com/Main/Chat/frmClientChat.aspx" class="greybg" onclick="newWindow = window.open('https://support.forpsi.com/Main/Chat/frmClientChat.aspx','LiveChat2','toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=860,height=820'); if (newWindow) { newWindow.focus(); newWindow.opener=window; } return false;"><span class="glyphicon glyphicon-comment"></span>Chat</a></li>
+    <li style="display:none;" class=""><a href="https://forpsi.systems" target="_blank" class="greenbg"><span class="glyphicon glyphicon-question-sign"></span>Kontakt</a></li>
+    <li style="display:none;" class=""><a href="https://forpsi.systems" class="greybg" target="_blank"><span class="glyphicon glyphicon-comment"></span>Chat</a></li>
+      <li class="status_1"><a target="_blank" href="https://www.forpsi.systems/"><span class="glyphicon glyphicon-ok"></span>Vše v pořádku</a></li>
+   <li class="header-kb_link"><a href="https://support.forpsi.com/KB/browse.aspx" target="_blank" style="color:#fff; background: #222;"><span class="glyphicon glyphicon-question-sign"></span>Znalostní báze</a></li> <li class="blueforpsibg logInButton"><a href="#"><span class="glyphicon glyphicon-log-in j-login-icon"></span>
+        <login>Přihlásit</login>
+    </a></li>
+<div class="logInWindow clearfix" style="display: none;">
+    <div class="leftSide">
+        <div class="newCustomer windowSection">
+            <h2>Nový zákazník</h2>
+            <a class="j-register-link" href="https://objednavka.forpsi.com/register.php?a=a">Registrace »</a>
+        </div>
+        <div class="login-new">
+
+            <span class="login-with-mojeid">
+                <a href="https://admin.forpsi.com/try_auth.php" class="login-with-mojeid custom_set_btn-mid-01"><img src="/ForpsiCZ/media/Forpsi/mojeid_tlacitko_Prihlasit_cz.png" alt="MojeID" title="MojeID"></a>
+                <a href="https://admin.forpsi.com/register.php?back=%2F" class="login-with-mojeid"><img src="/ForpsiCZ/media/Forpsi/mojeid_tlacitko_Zalozit_cz.png" alt="MojeID" title="MojeID"></a>
+            </span>
+            
+            <a class="whymojeid-btn" title="Proč mojeID?" href="https://www.mojeid.cz/cs/proc-mojeid//" target="_blank">Proč mojeID?</a>
+        </div>
+    </div>
+    <div class="customerLogin windowSection">
+        <h2>Přihlášení</h2>
+        <div class="row j-save-redirect-section save-redirect-section" style="display: none;">
+            <div class="col-md-12">
+                <a class="save-redirect" href="https://www.forpsi.com">Pro zabezpečené přihlášení HTTPS klikněte zde »</a>
+            </div>
+        </div>
+        <div class="row j-user-row">
+            <div class="col-md-5">
+                <label class="label">Uživatel</label>
+            </div>
+            <div class="col-md-7">
+                <input type="text" class="text j-login-username">
+            </div>
+        </div>
+        <div class="row j-psw-row">
+            <div class="col-md-5">
+                <label class="label">Heslo</label>
+            </div>
+            <div class="col-md-7">
+                <input type="password" class="text j-login-userpassword" autocomplete="on">
+            </div>
+        </div>
+	<div class="otp_box mt-2" style="display:none">
+		<label for="login_otp_code" style="width:auto;display:block;float:none;">Zadejte šestimístný ověřovací kód:</label>		<input type="text" name="login_otp_code" id="login_otp_code" maxlength="7" size="7" class="inputbox" autocomplete="one-time-code" pattern="[0-9\- ]{6,7}" />
+		<div class="clear"></div>
+		<!-- login as other user -->
+		<p><a href="#" class="link switch_login">Přihlásit se pomocí jiného účtu</a></p>
+
+		
+	</div>
+        
+        <a href="https://objednavka.forpsi.com/getpwd.php">Zapomenutý login nebo heslo? »</a>
+        <br>
+        <br>
+        <a class="btn blue j-login-login" href="javascript: void(0);">Přihlásit</a>
+    </div>
+    <div class="loginErrorMessageContainer j-login-error-message-container" style="display: none;">
+        <span class="j-login-error-message"></span>
+    </div>
+</div></ul>
+    </div>
+  </div>
+  <header id="page-header">
+    <div class="container">
+      <nav class="navbar navbar-default"><img style="display:none;" src="/ForpsiCZ/media/Forpsi/General/czech-bsb-logo-2017.png" alt="Czech Superbrands" class="utilities-superbrands"><div class="navbar-header"><a class="logo hover" href="/">
+   <img alt="Forpsi" src="/Forpsi/media/Forpsi/General/logo.svg"> 
+</a>    <button data-target="#menu" data-toggle="collapse" class="navbar-toggle collapsed navbarMenu" type="button">
+				        <span class="navbarcontent"><span class="sr-only">Menu</span>
+
+<svg width="26" height="19" viewBox="0 0 26 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 17.5C0 16.6716 0.671573 16 1.5 16H24.5C25.3284 16 26 16.6716 26 17.5C26 18.3284 25.3284 19 24.5 19H1.5C0.671572 19 0 18.3284 0 17.5Z" fill="white"/>
+<path d="M0 9.5C0 8.67157 0.671573 8 1.5 8H24.5C25.3284 8 26 8.67157 26 9.5C26 10.3284 25.3284 11 24.5 11H1.5C0.671572 11 0 10.3284 0 9.5Z" fill="white"/>
+<path d="M0 1.5C0 0.671573 0.671573 0 1.5 0H24.5C25.3284 0 26 0.671573 26 1.5C26 2.32843 25.3284 3 24.5 3H1.5C0.671572 3 0 2.32843 0 1.5Z" fill="white"/>
+</svg>
+
+<svg width="22" height="21" viewBox="0 0 22 21" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1.80653 1.30761C2.39231 0.721822 3.34206 0.721822 3.92785 1.30761L20.1913 17.5711C20.7771 18.1568 20.7771 19.1066 20.1913 19.6924C19.6055 20.2782 18.6558 20.2782 18.07 19.6924L1.80653 3.42893C1.22074 2.84314 1.22074 1.89339 1.80653 1.30761Z" fill="white"/>
+<path d="M20.1932 1.30763C20.779 1.89341 20.779 2.84316 20.1932 3.42895L3.92979 19.6924C3.344 20.2782 2.39426 20.2782 1.80847 19.6924C1.22268 19.1066 1.22268 18.1569 1.80847 17.5711L18.0719 1.30763C18.6577 0.721839 19.6075 0.72184 20.1932 1.30763Z" fill="white"/>
+</svg>
+
+</span>	
+				      </button>   
+<button class="navbar-toggle showTopBar" type="button">
+							<span class="sr-only">Login</span>
+
+<svg width="23" height="24" viewBox="0 0 23 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M5.75391 6.50001C5.75391 3.46236 8.21639 1.00001 11.2539 1.00001C14.2914 1.00001 16.7539 3.46236 16.7539 6.50001C16.7539 9.53765 14.2914 12 11.2539 12C8.21639 12 5.75391 9.53765 5.75391 6.50001Z" stroke="#1352A2" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M14.5251 12H7.97961C5.45456 12 3.25387 13.7193 2.64296 16.1694L1.36573 21.2924C1.14944 22.16 1.80573 23 2.69989 23H19.805C20.6992 23 21.3555 22.16 21.1392 21.2924L19.8618 16.1694C19.2509 13.7193 17.0502 12 14.5251 12Z" stroke="#1352A2" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
+</span>							
+
+					</button>
+  </div><!-- BEGIN MENU -->
+       <div class="collapse navbar-collapse" id="menu">
+        	<div class="flex-phone">
+<a class="casual-ite-1" target="_blank" href="tel:38 38 35 35 3"><span class="glyphicon glyphicon-earphone"></span>38 38 35 35 3</a>
+         
+<div class="selects languageddl casual-ite-2">
+    <div id="language">
+    <ul class="langselector"><li class="lifirst"><a class="first" style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fcs-CZ.png); background-repeat: no-repeat" href="#">CZ</a><ul><li><a style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fcs-cz.png); background-repeat: no-repeat" href="/?lang=cs-cz">CZ</a></li>
+<li><a style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fen-us.png); background-repeat: no-repeat" href="/?lang=en-us">EN</a></li>
+<li><a style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fsk-SK.png); background-repeat: no-repeat" href="https://www.forpsi.sk/">SK</a></li><li><a style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fpl-PL.png); background-repeat: no-repeat" href="http://www.forpsi.pl/?Lang=pl-PL">PL</a></li><li><a style="background-image:url(/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2fFlags%2f16x16%2fhu-Hu.png); background-repeat: no-repeat" href="http://www.forpsi.hu/?Lang=hu-HU">HU</a></li></ul></li></ul>
+</div>
+</div>
+<div class="selects fll j-currency-selector casual-ite-3">
+<div id="currency">
+<ul class="langselector">
+	<li class="lifirst"><a class="first" href="javascript:void(0);"><em class="j-currency-selector-value">CZK</em></a>
+	<ul>
+		<li><a class="j-currency-selector-link" href="javascript:void(0);">CZK</a></li>
+		<li><a class="j-currency-selector-link" href="javascript:void(0);">EUR</a></li>
+	</ul>
+	</li>
+</ul>
+</div>
+</div>
+
+</div>
+   <ul class="nav navbar-nav navbar-right test-destro"><li><a href="/domain/" >Domény</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"><li class="active"><a data-toggle="tab" role="tab" href="#Registraceatransfer_afd7ebfa-b907-42b8-9b44-5bd133d66a80" aria-expanded="true">Registrace a transfer</a></li><li class=""><a data-toggle="tab" role="tab" href="#Hromadneoperace_3c8f4d37-b080-4bfa-a871-b13ea2758ce1" aria-expanded="false">Hromadné operace</a></li><li class=""><a data-toggle="tab" role="tab" href="#SpravaCZdomen_88093dde-b335-4fbf-9d48-81c1be515675" aria-expanded="false">Správa .CZ domén</a></li><li class=""><a data-toggle="tab" role="tab" href="#Doplnkovesluzby_c1974356-bfb5-4878-86d5-1442a0593adf" aria-expanded="false">Doplňkové služby</a></li><li class=""><a data-toggle="tab" role="tab" href="#DNSHosting_2f6e6b69-a029-4c79-bdb7-33047dcfa165" aria-expanded="false">DNS Hosting</a></li><li class=""><a data-toggle="tab" role="tab" href="#Akce_a859e552-b398-4245-b234-d9463ab22faa" aria-expanded="false">Akce</a></li></ul></div><div class="rightSide"><div class="tab-content"><div id="Registraceatransfer_afd7ebfa-b907-42b8-9b44-5bd133d66a80" class="tab-pane active" role="tabpanel"><h2 class="menu-content">Registrace a transfer</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="https://objednavka.forpsi.com/domain/cart-order.php?progress=1" target="_blank"><strong>Registrace domény</strong><small class="menu-item-desctiption-text">Zaregistrujte si jedinečný název, který bude reprezentovat váš web.</small></a></p>
+
+<p><a class="linksomewhere" href="https://objednavka.forpsi.com/domain/transfer.php?progress=1&amp;os=domnam&amp;new=1" target="_blank"><strong>Transfer domény</strong><small class="menu-item-desctiption-text">Převeďte si svou doménu pod&nbsp;naši&nbsp;správu.</small></a></p>
+
+<p><a class="linksomewhere" href="/domain/pricelist/"><strong>Ceník&nbsp;domén</strong><small class="menu-item-desctiption-text">Prohlédněte si naši&nbsp;kompletní nabídku domén.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a href="https://objednavka.forpsi.com/domain/cz.php" target="_blank"><strong>.CZ doména</strong></a></li>
+	<li><a href="https://objednavka.forpsi.com/domain/order-domain.php?progress=1&amp;new=1&amp;tld%5B%5D=info" target="_blank"><strong>.INFO doména</strong></a></li>
+	<li><a href="/domain/new-gtld-cloud/"><strong>.CLOUD doména</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-domain">
+<div>
+<p><strong class="fs-20 cl-fff">Doména tvoří značku.<br />
+Vyber si tu svou.</strong><span class="fs-15 fw-400 cl-fff">Velká nabídka koncovek podle lokality i&nbsp;podle zaměření.</span></p>
+<a class="btn-green-1" href="/domain">Ověřit dostupnost domény</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/domeny.svg" /></div>
+</div><div id="Hromadneoperace_3c8f4d37-b080-4bfa-a871-b13ea2758ce1" class="tab-pane " role="tabpanel"><h2 class="menu-content">Hromadné operace</h2><div class="list-lt-1">
+<p><a class="linksomewhere" target="_blank" href="https://objednavka.forpsi.com/domain/cart-order.php?progress=1"><strong>Hromadná registrace domén</strong><small class="menu-item-desctiption-text">Zaregistrujte si v&nbsp;rámci jedné objednávky až 100 domén najednou. </small></a></p>
+
+<p><a class="linksomewhere" target="_blank" href="https://objednavka.forpsi.com/domain/bulk-transfer.php?progress=1&amp;os=domnam"><strong>Hromadný transfer domén (.CZ)</strong><small class="menu-item-desctiption-text">Projděte jednoduchou objednávkou a&nbsp;převeďte si k&nbsp;nám všechny své .CZ domény.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-domain">
+<div>
+<p><strong class="fs-20 cl-fff">Doména tvoří značku.<br />
+Vyber si tu svou.</strong><span class="fs-15 fw-400 cl-fff">Velká nabídka koncovek podle lokality i&nbsp;podle zaměření.</span></p>
+<a class="btn-green-1" href="/domain">Ověřit dostupnost domény</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/domeny.svg" /></div>
+</div><div id="SpravaCZdomen_88093dde-b335-4fbf-9d48-81c1be515675" class="tab-pane " role="tabpanel"><h2 class="menu-content">Správa .CZ domén</h2><div class="list-lt-1">
+<p><a class="linksomewhere" target="_blank" href="https://objednavka.forpsi.com/domain/cz.php"><strong>Správa domén .CZ</strong><small class="menu-item-desctiption-text">Spravujte své .CZ domény na&nbsp;jednom místě.</small></a></p>
+
+<p><a class="linksomewhere" target="_blank" href="https://objednavka.forpsi.com/domain/cz.php#vytvorenie"><strong>Vytvoření nového objektu</strong><small class="menu-item-desctiption-text">Zaregistrujte si pro&nbsp;svou .CZ doménu kontakt, NSSET nebo&nbsp;KEYSET.</small></a></p>
+
+<p><a class="linksomewhere" target="_blank" href="https://objednavka.forpsi.com/domain/cz.php#zmeny"><strong>Změna&nbsp;objektu</strong><small class="menu-item-desctiption-text">Aktualizujte si svůj kontakt, upravte nastavení v&nbsp;NSSETu nebo&nbsp;požádejte o&nbsp;změnu majitele.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-domain">
+<div>
+<p><strong class="fs-20 cl-fff">Doména tvoří značku.<br />
+Vyber si tu svou.</strong><span class="fs-15 fw-400 cl-fff">Velká nabídka koncovek podle lokality i&nbsp;podle zaměření.</span></p>
+<a class="btn-green-1" href="/domain">Ověřit dostupnost domény</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/domeny.svg" /></div>
+</div><div id="Doplnkovesluzby_c1974356-bfb5-4878-86d5-1442a0593adf" class="tab-pane " role="tabpanel"><h2 class="menu-content">Doplňkové služby</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/doplnkove-sluzby"><strong>Nabídka doplňkových služeb</strong><small class="menu-item-desctiption-text">Vyberte si z&nbsp;našeho seznamu doplňkových služeb takový doplněk, který vaši&nbsp;doménu ještě více obohatí.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a href="/doplnkove-sluzby"><strong>WHOIS PRIVACY</strong></a></li>
+	<li><a href="/doplnkove-sluzby"><strong>Certifikát o&nbsp;vlastnictví</strong></a></li>
+	<li><a href="/doplnkove-sluzby"><strong>Upozornění na&nbsp;expiraci</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-domain">
+<div>
+<p><strong class="fs-20 cl-fff">Doména tvoří značku.<br />
+Vyber si tu svou.</strong><span class="fs-15 fw-400 cl-fff">Velká nabídka koncovek podle lokality i&nbsp;podle zaměření.</span></p>
+<a class="btn-green-1" href="/domain">Ověřit dostupnost domény</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/domeny.svg" /></div>
+</div><div id="DNSHosting_2f6e6b69-a029-4c79-bdb7-33047dcfa165" class="tab-pane " role="tabpanel"><h2 class="menu-content">DNS Hosting</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/f-dns/"><strong>DNS jako služba</strong><small class="menu-item-desctiption-text">API přístup pro&nbsp;správu DNS záznamů.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-domain">
+<div>
+<p><strong class="fs-20 cl-fff">Doména tvoří značku.<br />
+Vyber si tu svou.</strong><span class="fs-15 fw-400 cl-fff">Velká nabídka koncovek podle lokality i&nbsp;podle zaměření.</span></p>
+<a class="btn-green-1" href="/domain">Ověřit dostupnost domény</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/domeny.svg" /></div>
+</div><div id="Akce_a859e552-b398-4245-b234-d9463ab22faa" class="tab-pane " role="tabpanel"><h2 class="menu-content">Akce</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/promotions/"><strong>Akce</strong><small class="menu-item-desctiption-text">Prohlédněte si naše aktuální akce a&nbsp;získejte svou vysněnou doménu za&nbsp;ještě lepších podmínek.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-domain">
+<div>
+<p><strong class="fs-20 cl-fff">Doména tvoří značku.<br />
+Vyber si tu svou.</strong><span class="fs-15 fw-400 cl-fff">Velká nabídka koncovek podle lokality i&nbsp;podle zaměření.</span></p>
+<a class="btn-green-1" href="/domain">Ověřit dostupnost domény</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/domeny.svg" /></div>
+</div></div></div></div></div></li><li><a href="/webhosting/" >Webhosting</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"><li class="active"><a data-toggle="tab" role="tab" href="#Hostingsregistracidomeny_efe1bdab-60b8-4d88-88ce-aa0c137669a4" aria-expanded="true">Hosting s registrací domény</a></li><li class=""><a data-toggle="tab" role="tab" href="#Hostingbezregistracedomeny_249289de-4015-4444-abba-dc615276bda2" aria-expanded="false">Hosting bez registrace domény</a></li><li class=""><a data-toggle="tab" role="tab" href="#TvorbaWebu_c01c7d2f-e4df-4139-ab1e-5dfb6d5eda5f" aria-expanded="false">Tvorba Webu</a></li><li class=""><a data-toggle="tab" role="tab" href="#CMShosting_08683ca8-0fdc-4464-a952-3f71a0dcf283" aria-expanded="false">CMS hosting</a></li><li class=""><a data-toggle="tab" role="tab" href="#Reseninamiru_c395739b-0978-498a-8f87-e01049f44fc5" aria-expanded="false">Řešení na míru</a></li><li class=""><a data-toggle="tab" role="tab" href="#Doplnkovesluzby_a0b711e9-1bd3-4f3b-969a-d3f9edf3963f" aria-expanded="false">Doplňkové služby</a></li><li class=""><a data-toggle="tab" role="tab" href="#Akce_18f21c0b-3673-4f82-bcf0-6d18ff704b78" aria-expanded="false">Akce</a></li></ul><div class="serviceName" style="background:url(/Forpsi/media/Forpsi/Icons/Domain/icon-menu-hosting.png) center center no-repeat;"><span>Webhosting</span></div>
+</div><div class="rightSide"><div class="tab-content"><div id="Hostingsregistracidomeny_efe1bdab-60b8-4d88-88ce-aa0c137669a4" class="tab-pane active" role="tabpanel"><h2 class="menu-content">Hosting s registrací domény</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/package"><strong>Balíčky</strong><small class="menu-item-desctiption-text">Vyberte si z&nbsp;několika balíčků našeho webhostingu ten, který nejlépe vyhovuje vašim potřebám</small></a></p>
+
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Web v profesionálním vzhledu jednoduše a pohodlně a bez potřeby technických znalostí. Se strukturou webu i jeho obsahem vám pomůže umělá inteligence. SSL certifikát je samozřejmostí a zcela zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready &amp; e-mail <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Tato varianta zahrnuje 5 e-mailových schránek s kapacitou až 10 GB a SSL certifikát pro zabezpečení domény bez dalších poplatků.</small></a></p>
+
+<p><a class="linksomewhere" href="/f-page"><strong>F-Page WEB <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Intuitivní nástroj pro vytvoření funkčního webu či blogu i pro začátečníky. Navíc zabezpečení domény SSL certifikátem zcela zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/f-page"><strong>F-Page SHOP <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Web, e-shop, rezervační systém a další pokročilé funkce bez potřeby programování. SSL certifikát máte opět samozřejmě zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="https://objednavka.forpsi.com/domain/cart-order.php?preselected%5B0%5D=hostingbasic&amp;progress=1" target="_blank"><strong>Basic</strong><small class="menu-item-desctiption-text">Hosting pro nenáročné webové stránky.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_2 menu-banner-hosting">
+<div>
+<p><strong class="fs-20 cl-fff">Pevný základ pro&nbsp;úspěšný web &ndash; webhosting, co to&nbsp;utáhne.</strong><span class="fs-15 fw-400 cl-fff">Hosting na&nbsp;Linuxu i&nbsp;na&nbsp;Windows</span></p>
+<a class="btn-green-1" href="/webhosting">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/hosting.svg" /></div>
+</div><div id="Hostingbezregistracedomeny_249289de-4015-4444-abba-dc615276bda2" class="tab-pane " role="tabpanel"><h2 class="menu-content">Hosting bez registrace domény</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/webhosting"><strong>Easy</strong><small class="menu-item-desctiption-text">Základní varianta webhostingu, která překvapí svou výbavou.<br />E-maily a databáze máte v ceně.</small></a></p>
+
+<p><a class="linksomewhere" href="/webhosting"><strong>Advanced</strong><small class="menu-item-desctiption-text">Rozšířená varianta o&nbsp;statistiky služeb. Dvě databáze o&nbsp;velikosti 5&nbsp;GB jsou samozřejmostí.</small></a></p>
+
+<p><a class="linksomewhere" href="/webhosting"><strong>Professional</strong><small class="menu-item-desctiption-text">Varianta pro&nbsp;náročné s&nbsp;5&nbsp;databázemi, 15 aliasy a&nbsp;velikostí e-mailové schránky až 30&nbsp;GB.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a href="/rankingCoach"><strong>rankingCoach <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong></a></li>
+	<li><a href="/ssl"><strong>SSL certifikát</strong></a></li>
+	<li><a href="/webhosting/assisted-migration/"><strong>Asistovaná migrace</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_2 menu-banner-hosting">
+<div>
+<p><strong class="fs-20 cl-fff">Pevný základ pro&nbsp;úspěšný web &ndash; webhosting, co to&nbsp;utáhne.</strong><span class="fs-15 fw-400 cl-fff">Hosting na&nbsp;Linuxu i&nbsp;na&nbsp;Windows</span></p>
+<a class="btn-green-1" href="/webhosting">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/hosting.svg" /></div>
+</div><div id="TvorbaWebu_c01c7d2f-e4df-4139-ab1e-5dfb6d5eda5f" class="tab-pane " role="tabpanel"><h2 class="menu-content">Tvorba Webu</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/f-page"><strong>F-Page WEB <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Intuitivní nástroj pro&nbsp;vytvoření funkčního webu či&nbsp;blogu i&nbsp;pro&nbsp;začátečníky. Navíc zabezpečení domény SSL certifikátem zcela zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/f-page"><strong>F-Page SHOP <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Web, e-shop, rezervační systém a další pokročilé funkce bez potřeby programování. SSL certifikát máte opět samozřejmě zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Web v profesionálním vzhledu jednoduše a pohodlně a bez potřeby technických znalostí. Se strukturou webu i jeho obsahem vám pomůže umělá inteligence. SSL certifikát je samozřejmostí a zcela zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready &amp; e-mail <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Tato varianta zahrnuje 5 e-mailových schránek s kapacitou až 10 GB a SSL certifikát pro zabezpečení domény bez dalších poplatků.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_2 menu-banner-hosting">
+<div>
+<p><strong class="fs-20 cl-fff">Pevný základ pro&nbsp;úspěšný web &ndash; webhosting, co to&nbsp;utáhne.</strong><span class="fs-15 fw-400 cl-fff">Hosting na&nbsp;Linuxu i&nbsp;na&nbsp;Windows</span></p>
+<a class="btn-green-1" href="/webhosting">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/hosting.svg" /></div>
+</div><div id="CMShosting_08683ca8-0fdc-4464-a952-3f71a0dcf283" class="tab-pane " role="tabpanel"><h2 class="menu-content">CMS hosting</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/cz/webhosting/cms-redakcni-publikacni-system/wordpress/"><strong>WordPress hosting</strong><small class="menu-item-desctiption-text">Nejoblíbenější redakční systém pro&nbsp;tvorbu webových stránek. K&nbsp;zakoupení s&nbsp;doménou i&nbsp;bez ní.</small></a></p>
+
+<p><a class="linksomewhere" href="/cz/webhosting/cms-redakcni-publikacni-system/joomla/"><strong>Joomla hosting</strong><small class="menu-item-desctiption-text">S&nbsp;Joomlou vytvoříte nejen webovou stránku nebo&nbsp;e-shop, ale&nbsp;také například on-line aplikaci. A&nbsp;to&nbsp;zcela bez znalostí html nebo&nbsp;CSS.</small></a></p>
+
+<p><a class="linksomewhere" href="/cz/webhosting/cms-redakcni-publikacni-system/drupal/"><strong>Drupal hosting</strong><small class="menu-item-desctiption-text">Ideální volba pro&nbsp;široké spektrum webových projektů, od&nbsp;osobních blogů až po&nbsp;stránky s&nbsp;rozsáhlou komunitou.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a href="/webhosting/assisted-migration/"><strong>Asistovaná migrace webu</strong></a></li>
+	<li><a href="/rankingCoach"><strong>rankingCoach <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_2 menu-banner-hosting">
+<div>
+<p><strong class="fs-20 cl-fff">Pevný základ pro&nbsp;úspěšný web – webhosting, co to&nbsp;utáhne.</strong><span class="fs-15 fw-400 cl-fff">Hosting na&nbsp;Linuxu i&nbsp;na&nbsp;Windows</span></p>
+<a class="btn-green-1" href="/webhosting">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/hosting.svg" /></div>
+</div><div id="Reseninamiru_c395739b-0978-498a-8f87-e01049f44fc5" class="tab-pane " role="tabpanel"><h2 class="menu-content">Řešení na míru</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/managedservery/zakladni-informace/"><strong>Managed server</strong><small class="menu-item-desctiption-text">Server na míru dle vašich představ (fyzický nebo virtuální). Nonstop dohled a nonstop zákaznická podpora. Pravidelné zálohování dat. </small></a></p>
+
+<p><a class="linksomewhere" href="/enterprise-reseni-poptavkovy-formular/"><strong>Poptat řešení</strong><small class="menu-item-desctiption-text">Individuální řešení nad rámec naší standardní nabídky, vytvořené přesně na míru vašim potřebám.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_2 menu-banner-hosting">
+<div>
+<p><strong class="fs-20 cl-fff">Pevný základ pro&nbsp;úspěšný web &ndash; webhosting, co to&nbsp;utáhne.</strong><span class="fs-15 fw-400 cl-fff">Hosting na&nbsp;Linuxu i&nbsp;na&nbsp;Windows</span></p>
+<a class="btn-green-1" href="/webhosting">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/hosting.svg" /></div>
+</div><div id="Doplnkovesluzby_a0b711e9-1bd3-4f3b-969a-d3f9edf3963f" class="tab-pane " role="tabpanel"><h2 class="menu-content">Doplňkové služby</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/doplnkove-sluzby"><strong>Nabídka doplňkových služeb</strong><small class="menu-item-desctiption-text">Vyberte si z našeho seznamu doplňkových služeb takový doplněk, který vaši doménu ještě více obohatí.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_2 menu-banner-hosting">
+<div>
+<p><strong class="fs-20 cl-fff">Pevný základ pro&nbsp;úspěšný web – webhosting, co to&nbsp;utáhne.</strong><span class="fs-15 fw-400 cl-fff">Hosting na&nbsp;Linuxu i&nbsp;na&nbsp;Windows</span></p>
+<a class="btn-green-1" href="/webhosting">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/hosting.svg" /></div>
+</div><div id="Akce_18f21c0b-3673-4f82-bcf0-6d18ff704b78" class="tab-pane " role="tabpanel"><h2 class="menu-content">Akce</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/promotions/"><strong>Akce</strong><small class="menu-item-desctiption-text">Prohlédněte si naše aktuální akce a získejte svou vysněnou doménu za ještě lepších podmínek.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_2 menu-banner-hosting">
+<div>
+<p><strong class="fs-20 cl-fff">Pevný základ pro&nbsp;úspěšný web – webhosting, co to&nbsp;utáhne.</strong><span class="fs-15 fw-400 cl-fff">Hosting na&nbsp;Linuxu i&nbsp;na&nbsp;Windows</span></p>
+<a class="btn-green-1" href="/webhosting">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/hosting.svg" /></div>
+</div></div></div></div></div></li><li><a href="" >WORDPRESS</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"><li class="active"><a data-toggle="tab" role="tab" href="#Varianty_ca1a8473-cf6b-4cc0-a83f-afd98805bbef" aria-expanded="true">Varianty</a></li><li class=""><a data-toggle="tab" role="tab" href="#Doplnkovesluzby_a65959eb-3906-407f-b2bd-3568a3d9eed2" aria-expanded="false">Doplňkové služby</a></li><li class=""><a data-toggle="tab" role="tab" href="#Akce_920e1d53-f3b8-43dc-a2bc-5c97b04d03a0" aria-expanded="false">Akce</a></li></ul></div><div class="rightSide"><div class="tab-content"><div id="Varianty_ca1a8473-cf6b-4cc0-a83f-afd98805bbef" class="tab-pane active" role="tabpanel"><h2 class="menu-content">Varianty</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Web v profesionálním vzhledu jednoduše a pohodlně a bez potřeby technických znalostí. Se strukturou webu i jeho obsahem vám pomůže umělá inteligence. SSL certifikát je samozřejmostí a zcela zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready &amp; e-mail <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Tato varianta zahrnuje 5 e-mailových schránek s kapacitou až 10&nbsp;GB a&nbsp;SSL certifikát pro&nbsp;zabezpečení domény bez&nbsp;dalších poplatků.</small></a></p>
+
+<p><a class="linksomewhere" href="/cz/webhosting/cms-redakcni-publikacni-system/wordpress/"><strong>WordPress hosting</strong><small class="menu-item-desctiption-text">Nejoblíbenější redakční systém pro tvorbu webových stránek. K zakoupení s&nbsp;doménou i&nbsp;bez ní.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a href="/rankingCoach"><strong>rankingCoach <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong></a></li>
+	<li><a href="/webhosting/assisted-migration/"><strong>Asistovaná migrace</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-wordpress">
+<div>
+<p><strong class="fs-20 cl-fff">Wordpress bez stresu.<br />
+Tvoř obsah, my zařídíme zbytek.</strong><span class="fs-15 fw-400 cl-fff">Vytváření webu s&nbsp;podporou AI.</span></p>
+<a class="btn-green-1" href="/wpready">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/wordpress.svg" /></div>
+</div><div id="Doplnkovesluzby_a65959eb-3906-407f-b2bd-3568a3d9eed2" class="tab-pane " role="tabpanel"><h2 class="menu-content">Doplňkové služby</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/doplnkove-sluzby"><strong>Nabídka doplňkových služeb</strong><small class="menu-item-desctiption-text">Vyberte si z našeho seznamu doplňkových služeb takový doplněk, který vaši doménu ještě více obohatí.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a href="/e-mail/"><strong>E-mail</strong></a></li>
+	<li><a href="/rankingCoach"><strong>rankingCoach <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-wordpress">
+<div>
+<p><strong class="fs-20 cl-fff">Wordpress bez stresu.<br />
+Tvoř obsah, my zařídíme zbytek.</strong><span class="fs-15 fw-400 cl-fff">Vytváření webu s&nbsp;podporou AI.</span></p>
+<a class="btn-green-1" href="/wpready">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/wordpress.svg" /></div>
+</div><div id="Akce_920e1d53-f3b8-43dc-a2bc-5c97b04d03a0" class="tab-pane " role="tabpanel"><h2 class="menu-content">Akce</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/promotions/"><strong>Akce</strong><small class="menu-item-desctiption-text">Prohlédněte si naše aktuální akce a získejte svou vysněnou doménu za ještě lepších podmínek.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_1 menu-banner-wordpress">
+<div>
+<p><strong class="fs-20 cl-fff">Wordpress bez stresu.<br />
+Tvoř obsah, my zařídíme zbytek.</strong><span class="fs-15 fw-400 cl-fff">Vytváření webu s&nbsp;podporou AI.</span></p>
+<a class="btn-green-1" href="/wpready">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/wordpress.svg" /></div>
+</div></div></div></div></div></li><li><a href="" >Tvorba webu</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"><li class="active"><a data-toggle="tab" role="tab" href="#WebBuilders_26d114ee-fbd4-4628-a4dc-c44599c0ff83" aria-expanded="true">Web Builders</a></li><li class=""><a data-toggle="tab" role="tab" href="#Doplnkovesluzby_a98e0e56-79a6-4cd5-8e9d-4d2790938acc" aria-expanded="false">Doplňkové služby</a></li><li class=""><a data-toggle="tab" role="tab" href="#Akce_dc6efe2a-f9be-4fbf-91b7-0f0720091fb4" aria-expanded="false">Akce</a></li></ul></div><div class="rightSide"><div class="tab-content"><div id="WebBuilders_26d114ee-fbd4-4628-a4dc-c44599c0ff83" class="tab-pane active" role="tabpanel"><h2 class="menu-content">Web Builders</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/f-page"><strong>F-Page WEB <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Intuitivní nástroj pro vytvoření funkčního webu či blogu i pro začátečníky. Navíc zabezpečení domény SSL certifikátem zcela zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/f-page"><strong>F-Page SHOP <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Web, e-shop, rezervační systém a další pokročilé funkce bez potřeby programování. SSL certifikát máte opět samozřejmě zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Web v profesionálním vzhledu jednoduše a pohodlně a bez potřeby technických znalostí. Se strukturou webu i jeho obsahem vám pomůže umělá inteligence. SSL certifikát je samozřejmostí a zcela zdarma.</small></a></p>
+
+<p><a class="linksomewhere" href="/wpready"><strong>WP Ready &amp; e-mail <img src="/ForpsiCZ/media/Forpsi/Landing/ikona_AI-04.svg" /></strong><small class="menu-item-desctiption-text">Tato varianta zahrnuje 5 e-mailových schránek s kapacitou až 10 GB a SSL certifikát pro zabezpečení domény bez dalších poplatků.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_3 menu-banner-fpage">
+<div>
+<p><strong class="fs-20 cl-fff">Postav si web bez vývojáře.</strong><span class="fs-15 fw-400 cl-fff">Klikáš, skládáš, tvoříš texty a&nbsp;AI ti s&nbsp;tím pomůže.</span></p>
+<a class="btn-green-1" href="/f-page">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/tvorba_webu_cz.svg" /></div>
+</div><div id="Doplnkovesluzby_a98e0e56-79a6-4cd5-8e9d-4d2790938acc" class="tab-pane " role="tabpanel"><h2 class="menu-content">Doplňkové služby</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/doplnkove-sluzby"><strong>Nabídka doplňkových služeb</strong><small class="menu-item-desctiption-text">Vyberte si z našeho seznamu doplňkových služeb takový doplněk, který vaši doménu ještě více obohatí.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_3 menu-banner-fpage">
+<div>
+<p><strong class="fs-20 cl-fff">Postav si web bez vývojáře.</strong><span class="fs-15 fw-400 cl-fff">Klikáš, skládáš, tvoříš texty a&nbsp;AI ti s&nbsp;tím pomůže.</span></p>
+<a class="btn-green-1" href="/f-page">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/tvorba_webu_cz.svg" /></div>
+</div><div id="Akce_dc6efe2a-f9be-4fbf-91b7-0f0720091fb4" class="tab-pane " role="tabpanel"><h2 class="menu-content">Akce</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/promotions/"><strong>Akce</strong><small class="menu-item-desctiption-text">Prohlédněte si naše aktuální akce a získejte svou vysněnou doménu za ještě lepších podmínek.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_3 menu-banner-fpage">
+<div>
+<p><strong class="fs-20 cl-fff">Postav si web bez vývojáře.</strong><span class="fs-15 fw-400 cl-fff">Klikáš, skládáš, tvoříš texty a&nbsp;AI ti s&nbsp;tím pomůže.</span></p>
+<a class="btn-green-1" href="/f-page">Vybrat variantu</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/tvorba_webu_cz.svg" /></div>
+</div></div></div></div></div></li><li><a href="/ssl" >SSL</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"></ul></div><div class="rightSide"><div class="tab-content"></div></div></div></div></li><li><a href="" >E-maily</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"><li class="active"><a data-toggle="tab" role="tab" href="#E-maily_23a32207-eeab-4a5b-9556-b63aa66cf9e6" aria-expanded="true">E-maily</a></li><li class=""><a data-toggle="tab" role="tab" href="#Doplnkovesluzby_a236fca3-d86a-4fae-809b-eca7effcb90d" aria-expanded="false">Doplňkové služby</a></li><li class=""><a data-toggle="tab" role="tab" href="#Akce_1b95af19-ec6a-4818-9992-30775d25efb6" aria-expanded="false">Akce</a></li></ul></div><div class="rightSide"><div class="tab-content"><div id="E-maily_23a32207-eeab-4a5b-9556-b63aa66cf9e6" class="tab-pane active" role="tabpanel"><h2 class="menu-content">E-maily</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/e-mail/"><strong>E-maily + nová doména</strong><small class="menu-item-desctiption-text">Zaregistrujte si originální doménu a přidejte k ní až 5 e-mailových schránek.</small></a></p>
+
+<p><a class="linksomewhere" href="/e-mail/"><strong>E-maily + existující doména&nbsp;u&nbsp;FORPSI</strong><small class="menu-item-desctiption-text">Objednejte si e-mailovou službu k&nbsp;již zavedené doméně a&nbsp;pozvedněte své podnikání na&nbsp;vyšší úroveň.</small></a></p>
+
+<p><a class="linksomewhere" target="_blank" href="https://objednavka.forpsi.com/domain/transfer.php?progress=1&amp;os=domnam&amp;new=1"><strong>E-maily + transfer domény</strong><small class="menu-item-desctiption-text">Převeďte si svou doménu k&nbsp;nám a&nbsp;přihoďte v&nbsp;košíku i&nbsp;e-mailové schránky.</small></a></p>
+
+<p><a class="linksomewhere" href="/package/"><strong>E-maily + doména&nbsp;+ webhosting</strong><small class="menu-item-desctiption-text">Chcete vše najednou? Potom zvolte tuto možnost. Během&nbsp;jediné objednávky si zřídíte doménu, webhosting a&nbsp;dokonce i&nbsp;e-mailové schránky.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_4 menu-banner-wordpress">
+<div>
+<p><strong class="fs-20 cl-fff">Pro&nbsp;vlastní značku potřebuješ i&nbsp;vlastní e-mail.</strong><span class="fs-15 fw-400 cl-fff">Přístup přes webové rozhraní je samozřejmostí.</span></p>
+<a class="btn-green-1" href="/e-mail">Přejít do&nbsp;nabídky</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/e-mails_cz.svg" /></div>
+</div><div id="Doplnkovesluzby_a236fca3-d86a-4fae-809b-eca7effcb90d" class="tab-pane " role="tabpanel"><h2 class="menu-content">Doplňkové služby</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/doplnkove-sluzby"><strong>Nabídka doplňkových služeb</strong><small class="menu-item-desctiption-text">Vyberte si z našeho seznamu doplňkových služeb takový doplněk, který vaši doménu ještě více obohatí.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_4 menu-banner-wordpress">
+<div>
+<p><strong class="fs-20 cl-fff">Pro&nbsp;vlastní značku potřebuješ i&nbsp;vlastní e-mail.</strong><span class="fs-15 fw-400 cl-fff">Přístup přes webové rozhraní je samozřejmostí.</span></p>
+<a class="btn-green-1" href="/e-mail">Přejít do&nbsp;nabídky</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/e-mails_cz.svg" /></div>
+</div><div id="Akce_1b95af19-ec6a-4818-9992-30775d25efb6" class="tab-pane " role="tabpanel"><h2 class="menu-content">Akce</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/promotions/"><strong>Akce</strong><small class="menu-item-desctiption-text">Prohlédněte si naše aktuální akce a získejte svou vysněnou doménu za ještě lepších podmínek.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_4 menu-banner-wordpress">
+<div>
+<p><strong class="fs-20 cl-fff">Pro&nbsp;vlastní značku potřebuješ i&nbsp;vlastní e-mail.</strong><span class="fs-15 fw-400 cl-fff">Přístup přes webové rozhraní je samozřejmostí.</span></p>
+<a class="btn-green-1" href="/e-mail">Přejít do&nbsp;nabídky</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/e-mails_cz.svg" /></div>
+</div></div></div></div></div></li><li><a href="" >VPS & Serverová řešení</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"><li class="active"><a data-toggle="tab" role="tab" href="#VirtualniserveryVPS_4dc7a0de-a887-48b4-a7a1-aaa54f031f48" aria-expanded="true">Virtuální servery VPS</a></li><li class=""><a data-toggle="tab" role="tab" href="#Dedikovaneservery_a3de38b8-df4c-414d-a8ba-b9c0b86b1ed8" aria-expanded="false">Dedikované servery</a></li><li class=""><a data-toggle="tab" role="tab" href="#Housing_7c78352e-72f6-40a0-9bcd-b4624f3b4188" aria-expanded="false">Housing</a></li><li class=""><a data-toggle="tab" role="tab" href="#EnterpriseaManagedreseni_8dac6117-e0c3-44ac-875b-d37e4f943843" aria-expanded="false">Enterprise a Managed řešení</a></li><li class=""><a data-toggle="tab" role="tab" href="#BackupaDisasterrecovery_fb05bce3-40d2-4261-b009-4967d3c6c270" aria-expanded="false">Backup a Disaster recovery</a></li><li class=""><a data-toggle="tab" role="tab" href="#Akce_6ee28680-1f5b-4c8e-97e0-5d4ffcbe094f" aria-expanded="false">Akce</a></li></ul></div><div class="rightSide"><div class="tab-content"><div id="VirtualniserveryVPS_4dc7a0de-a887-48b4-a7a1-aaa54f031f48" class="tab-pane active" role="tabpanel"><h2 class="menu-content">Virtuální servery VPS</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/virtual"><strong>Classic VPS</strong><small class="menu-item-desctiption-text">Jednoduchý a efektivní server pro osobní i firemní použití.</small></a></p>
+
+<p><a class="linksomewhere" target="_blank" href="https://www.forpsicloud.cz/vps.aspx"><strong>Cloud VPS</strong><small class="menu-item-desctiption-text">Cenově výhodné a spolehlivé řešení pro vaše projekty.</small></a></p>
+
+<p><a class="linksomewhere" target="_blank" href="https://www.forpsicloud.cz/promo-server-openstack"><strong>Cloud Server OpenStack</strong><small class="menu-item-desctiption-text">Zaručený výkon procesoru pro vaše důležité projekty.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a target="_blank" href="https://www.forpsicloud.cz/cloud-backup.aspx"><strong>Cloud Backup</strong></a></li>
+	<li><a href="/ssl"><strong>SSL certifikát</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_5 menu-banner-vps">
+<div>
+<p><strong class="fs-20 cl-fff">Poskytneme ti železo, výkon i&nbsp;svobodu pro&nbsp;tvůj projekt.</strong><span class="fs-15 fw-400 cl-fff">Rádi přispějeme radou, nebo&nbsp;převezmeme správu hardware za&nbsp;tebe.</span></p>
+<a class="btn-green-1" href="/virtual">Prohlédnout si nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/vps.svg" /></div>
+</div><div id="Dedikovaneservery_a3de38b8-df4c-414d-a8ba-b9c0b86b1ed8" class="tab-pane " role="tabpanel"><h2 class="menu-content">Dedikované servery</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/serverdedicated/"><strong>Nabídka fyzických serverů</strong><small class="menu-item-desctiption-text">Výkonné fyzické servery, vyhrazené pouze pro vás a běžící nonstop v ideálních podmínkách moderního datacentra v ČR.</small></a></p>
+
+<p><a class="linksomewhere" href="/managedservery/zakladni-informace/"><strong>Managed server</strong><small class="menu-item-desctiption-text">Server na míru dle vašich představ (fyzický nebo virtuální). Nonstop dohled a nonstop zákaznická podpora. Pravidelné zálohování dat. </small></a></p>
+
+<p><a class="linksomewhere" href="/enterprise-reseni-poptavkovy-formular/"><strong>Poptat řešení</strong><small class="menu-item-desctiption-text">Individuální řešení nad rámec naší standardní nabídky, vytvořené přesně na míru vašim potřebám.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a target="_blank" href="https://www.forpsicloud.cz/cloud-backup.aspx"><strong>Cloud Backup</strong></a></li>
+	<li><a href="/serverdedicated/adds/backupspace/"><strong>Backup storage</strong></a></li>
+	<li><a href="/serverdedicated/adds/monitoring/"><strong>Server monitoring</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_5 menu-banner-vps">
+<div>
+<p><strong class="fs-20 cl-fff">Poskytneme ti železo, výkon i&nbsp;svobodu pro&nbsp;tvůj projekt.</strong><span class="fs-15 fw-400 cl-fff">Rádi přispějeme radou, nebo&nbsp;převezmeme správu hardware za&nbsp;tebe.</span></p>
+<a class="btn-green-1" href="/virtual">Prohlédnout si nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/vps.svg" /></div>
+</div><div id="Housing_7c78352e-72f6-40a0-9bcd-b4624f3b4188" class="tab-pane " role="tabpanel"><h2 class="menu-content">Housing</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="/housing/"><strong>Server housing</strong><small class="menu-item-desctiption-text">Naše vlastní Datacentrum poskytne vašemu serveru tu nejlepší péči. Dohled v režimu 24/7, redundantní napájení, chlazení free-cooling, hašení FM200 a další vychytané podmínky.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a target="_blank" href="https://www.forpsicloud.cz/cloud-backup.aspx"><strong>Cloud Backup</strong></a></li>
+	<li><a href="/serverdedicated/adds/backupspace/"><strong>Backup storage</strong></a></li>
+	<li><a href="/serverdedicated/adds/monitoring/"><strong>Server monitoring</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_5 menu-banner-vps">
+<div>
+<p><strong class="fs-20 cl-fff">Poskytneme ti železo, výkon i&nbsp;svobodu pro&nbsp;tvůj projekt.</strong><span class="fs-15 fw-400 cl-fff">Rádi přispějeme radou, nebo&nbsp;převezmeme správu hardware za&nbsp;tebe.</span></p>
+<a class="btn-green-1" href="/virtual">Prohlédnout si nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/vps.svg" /></div>
+</div><div id="EnterpriseaManagedreseni_8dac6117-e0c3-44ac-875b-d37e4f943843" class="tab-pane " role="tabpanel"><h2 class="menu-content">Enterprise a Managed řešení</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/managedservery/zakladni-informace/"><strong>Managed server</strong><small class="menu-item-desctiption-text">Server na míru dle vašich představ (fyzický nebo virtuální). Nonstop dohled a nonstop zákaznická podpora. Pravidelné zálohování dat. </small></a></p>
+
+<p><a class="linksomewhere" href="/enterprise-reseni-poptavkovy-formular/"><strong>Poptat řešení</strong><small class="menu-item-desctiption-text">Individuální řešení nad rámec naší standardní nabídky, vytvořené přesně na míru vašim potřebám.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_5 menu-banner-vps">
+<div>
+<p><strong class="fs-20 cl-fff">Poskytneme ti železo, výkon i&nbsp;svobodu pro&nbsp;tvůj projekt.</strong><span class="fs-15 fw-400 cl-fff">Rádi přispějeme radou, nebo&nbsp;převezmeme správu hardware za&nbsp;tebe.</span></p>
+<a class="btn-green-1" href="/virtual">Prohlédnout si nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/vps.svg" /></div>
+</div><div id="BackupaDisasterrecovery_fb05bce3-40d2-4261-b009-4967d3c6c270" class="tab-pane " role="tabpanel"><h2 class="menu-content">Backup a Disaster recovery</h2><div class="list-lt-1">
+<p><a class="linksomewhere" target="_blank" href="https://www.forpsicloud.cz/cloud-backup.aspx"><strong>Cloud Backup</strong><small class="menu-item-desctiption-text">Zajistěte bezpečnost svých dat pomocí automatických online záloh.</small></a></p>
+
+<p><a class="linksomewhere" href="/enterprise-reseni-poptavkovy-formular/"><strong>Poptat řešení</strong><small class="menu-item-desctiption-text">Individuální řešení nad rámec naší standardní nabídky, vytvořené přesně na míru vašim potřebám.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_5 menu-banner-vps">
+<div>
+<p><strong class="fs-20 cl-fff">Poskytneme ti železo, výkon i&nbsp;svobodu pro&nbsp;tvůj projekt.</strong><span class="fs-15 fw-400 cl-fff">Rádi přispějeme radou, nebo&nbsp;převezmeme správu hardware za&nbsp;tebe.</span></p>
+<a class="btn-green-1" href="/virtual">Prohlédnout si nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/vps.svg" /></div>
+</div><div id="Akce_6ee28680-1f5b-4c8e-97e0-5d4ffcbe094f" class="tab-pane " role="tabpanel"><h2 class="menu-content">Akce</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/promotions/"><strong>Akce</strong><small class="menu-item-desctiption-text">Prohlédněte si naše aktuální akce a získejte svou vysněnou doménu za ještě lepších podmínek.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_5 menu-banner-vps">
+<div>
+<p><strong class="fs-20 cl-fff">Poskytneme ti železo, výkon i&nbsp;svobodu pro&nbsp;tvůj projekt.</strong><span class="fs-15 fw-400 cl-fff">Rádi přispějeme radou, nebo&nbsp;převezmeme správu hardware za&nbsp;tebe.</span></p>
+<a class="btn-green-1" href="/virtual">Prohlédnout si nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/vps.svg" /></div>
+</div></div></div></div></div></li><li><a href="" >Cloud</a><div class="submenu"><div role="tabpanel" class="clearfix"><div class="left-side"><ul role="tablist" class="nav-tabs nav"><li class="active"><a data-toggle="tab" role="tab" href="#Forpsicloud_73b1c5f8-90fa-4fc0-85db-1e4dd7421cb0" aria-expanded="true">Forpsicloud</a></li><li class=""><a data-toggle="tab" role="tab" href="#Virtualniservery_dc5b7cd4-ee55-4f39-82c8-c9735a3c3479" aria-expanded="false">Virtuální servery</a></li><li class=""><a data-toggle="tab" role="tab" href="#BackupaDisasterrecovery_4b6f6c1e-540d-4419-ba74-4810999d8944" aria-expanded="false">Backup a Disaster recovery</a></li><li class=""><a data-toggle="tab" role="tab" href="#DatabazeaStorage_75214608-404c-46fd-af90-b991eb907860" aria-expanded="false">Databáze a Storage</a></li><li class=""><a data-toggle="tab" role="tab" href="#Akce_458cbf76-7d03-4a41-bbf9-071a62beddbf" aria-expanded="false">Akce</a></li></ul></div><div class="rightSide"><div class="tab-content"><div id="Forpsicloud_73b1c5f8-90fa-4fc0-85db-1e4dd7421cb0" class="tab-pane active" role="tabpanel"><h2 class="menu-content">Forpsicloud</h2><div class="list-lt-1">
+<p><a class="linksomewhere" target="_blank" href="https://www.forpsicloud.cz/"><strong>Forpsicloud</strong><small class="menu-item-desctiption-text">Podívejte se na kompletní nabídku Forpsicloud.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_6 menu-banner-cloud">
+<div>
+<p><strong class="fs-20 cl-fff">Stabilní základ pro&nbsp;aplikace, které nesmí spadnout.</strong><span class="fs-15 fw-400 cl-fff">Vyber si cloud, co poroste s&nbsp;tvým projektem a&nbsp;škáluj podle potřeby.</span></p>
+<a class="btn-green-1" href="https://www.forpsicloud.cz" target="_blank">Přejít na&nbsp;nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/cloud.svg" /></div>
+</div><div id="Virtualniservery_dc5b7cd4-ee55-4f39-82c8-c9735a3c3479" class="tab-pane " role="tabpanel"><h2 class="menu-content">Virtuální servery</h2><div class="list-lt-1">
+<div class="list-lt-left">
+<p><a class="linksomewhere" href="https://www.forpsicloud.cz/vps.aspx" target="_blank"><strong>Cloud VPS</strong><small class="menu-item-desctiption-text">Cenově výhodné a spolehlivé řešení pro vaše projekty.</small></a></p>
+
+<p><a class="linksomewhere" href="https://www.forpsicloud.cz/virtual-private-cloud.aspx" target="_blank"><strong>Virtual Private Cloud</strong><small class="menu-item-desctiption-text">Privátní cloudové prostředí s plnou kontrolou a vysokým výkonem.</small></a></p>
+
+<p><a class="linksomewhere" href="https://www.forpsicloud.cz/promo-server-openstack" target="_blank"><strong>Cloud Server OpenStack</strong><small class="menu-item-desctiption-text">Zaručený výkon procesoru pro vaše důležité projekty.</small></a></p>
+</div>
+
+<div class="list-lt-right">
+<h3><strong>Doporučené</strong></h3>
+
+<ul>
+	<li><a href="https://www.forpsicloud.cz/cloud-backup.aspx" target="_blank"><strong>Cloud Backup</strong></a></li>
+</ul>
+</div>
+</div>
+<div class="menu-image bg-gradient_6 menu-banner-cloud">
+<div>
+<p><strong class="fs-20 cl-fff">Stabilní základ pro&nbsp;aplikace, které nesmí spadnout.</strong><span class="fs-15 fw-400 cl-fff">Vyber si cloud, co poroste s&nbsp;tvým projektem a&nbsp;škáluj podle potřeby.</span></p>
+<a class="btn-green-1" href="https://www.forpsicloud.cz" target="_blank">Přejít na&nbsp;nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/cloud.svg" /></div>
+</div><div id="BackupaDisasterrecovery_4b6f6c1e-540d-4419-ba74-4810999d8944" class="tab-pane " role="tabpanel"><h2 class="menu-content">Backup a Disaster recovery</h2><div class="list-lt-1">
+<p><a class="linksomewhere" target="_blank" href="https://www.forpsicloud.cz/cloud-backup.aspx"><strong>Cloud Backup</strong><small class="menu-item-desctiption-text">Zajistěte bezpečnost svých dat pomocí automatických online záloh.</small></a></p>
+
+<p><a class="linksomewhere" href="/enterprise-reseni-poptavkovy-formular/"><strong>Poptat řešení</strong><small class="menu-item-desctiption-text">Individuální řešení nad rámec naší standardní nabídky, vytvořené přesně na míru vašim potřebám.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_6 menu-banner-cloud">
+<div>
+<p><strong class="fs-20 cl-fff">Stabilní základ pro&nbsp;aplikace, které nesmí spadnout.</strong><span class="fs-15 fw-400 cl-fff">Vyber si cloud, co poroste s&nbsp;tvým projektem a&nbsp;škáluj podle potřeby.</span></p>
+<a class="btn-green-1" href="https://www.forpsicloud.cz" target="_blank">Přejít na&nbsp;nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/cloud.svg" /></div>
+</div><div id="DatabazeaStorage_75214608-404c-46fd-af90-b991eb907860" class="tab-pane " role="tabpanel"><h2 class="menu-content">Databáze a Storage</h2><div class="list-lt-1">
+<p><a class="linksomewhere" target="_blank" href="https://www.forpsicloud.cz/database-as-a-service"><strong>Databáze jako služba</strong><small class="menu-item-desctiption-text">Cloudové databáze s vysokou dostupností a snadným škálováním.</small></a></p>
+
+<p><a class="linksomewhere" target="_blank" href="https://www.forpsicloud.cz/cloud-object-storage.aspx"><strong>Object Storage</strong><small class="menu-item-desctiption-text">Flexibilní cloudové úložiště pro zálohy, archivy a další.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_6 menu-banner-cloud">
+<div>
+<p><strong class="fs-20 cl-fff">Stabilní základ pro&nbsp;aplikace, které nesmí spadnout.</strong><span class="fs-15 fw-400 cl-fff">Vyber si cloud, co poroste s&nbsp;tvým projektem a&nbsp;škáluj podle potřeby.</span></p>
+<a class="btn-green-1" href="https://www.forpsicloud.cz" target="_blank">Přejít na&nbsp;nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/cloud.svg" /></div>
+</div><div id="Akce_458cbf76-7d03-4a41-bbf9-071a62beddbf" class="tab-pane " role="tabpanel"><h2 class="menu-content">Akce</h2><div class="list-lt-1">
+<p><a class="linksomewhere" href="/promotions/"><strong>Akce</strong><small class="menu-item-desctiption-text">Prohlédněte si naše aktuální akce a získejte svou vysněnou doménu za ještě lepších podmínek.</small></a></p>
+</div>
+<div class="menu-image bg-gradient_6 menu-banner-cloud">
+<div>
+<p><strong class="fs-20 cl-fff">Stabilní základ pro&nbsp;aplikace, které nesmí spadnout.</strong><span class="fs-15 fw-400 cl-fff">Vyber si cloud, co poroste s&nbsp;tvým projektem a&nbsp;škáluj podle potřeby.</span></p>
+<a class="btn-green-1" href="https://www.forpsicloud.cz" target="_blank">Přejít na&nbsp;nabídku</a></div>
+<img src="/ForpsiCZ/media/Forpsi/Banners/cloud.svg" /></div>
+</div></div></div></div></div></li></ul><div class="flex-mobile">
+ 
+    <span class="nav-links_01 nav-link_ticket"><a href="https://support.forpsi.sk/Main/" target="_blank" class="greenbg"><span class="glyphicon glyphicon-question-sign"></span>Tiket</a></span>  
+       <span class="nav-links_01 status_1"><a target="_blank" href="https://www.forpsi.systems/"><span class="glyphicon glyphicon-ok"></span>Vše v pořádku</a></span>
+       <span class="nav-links_01 nav-link_chat"><a href="https://support.forpsi.sk/Chat/frmClientChat.aspx" class="greybg" onclick="newWindow = window.open('https://support.forpsi.sk/Main/Chat/frmClientChat.aspx','LiveChat2','toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=860,height=820');  if (newWindow) { newWindow.focus(); newWindow.opener=window; } return false;"><span class="glyphicon glyphicon-comment"></span>Chat</a></span>  
+  
+   <span class="nav-links_01 nav-link_kb"><a href="https://support.forpsi.com/KB/browse.aspx" target="_blank" style="color:#fff; background: #222;"><span class="glyphicon glyphicon-question-sign"></span>Znalostní báze</a></span></div></div>
+<!-- END MENU --></nav>  
+    </div>  
+  </header>
+  
+
+
+
+<main class="newStyle-lt-24 homepage_lt">
+  <section id="top" class="section-banner section-banner_homepage bg-e0ebf9 pt-0">
+  
+      
+<div class="pb-slider-wrapper-outer">
+<div class="pb-slider-always-visible pb-slider-778">
+<div class="pb-slides-wrapper"><div 
+class="pb-slide-item bg-gradient-2 DomainCZ-slide" 
+data-xl-bg="/ForpsiCZ/media/Forpsi/Banners/domena-cz-podzim-1920.jpg?ext=.jpg" 
+data-xl-lg=""
+>
+<div class="container">
+<div class="flex-test">
+  <div data-currency-css="Kč">
+<p class="h1 text-white pb-promotion-card_title text-left anFdTop">Doména .CZ <span class="b_price-czk">za&nbsp;115&nbsp;Kč</span><span class="b_price-eur">za&nbsp;4,80&nbsp;&euro;</span><span class="slider-cz-with-cloud_badge anFdOpt"><span class="b_price-czk">170&nbsp;Kč</span><span class="b_price-eur">7,96&nbsp;&euro;</span></span></p>
+
+<p class="text-white pb-promotion-card_description text-left h3 mb-3 pb-3 anFdTop">a k tomu doména <strong>.ONLINE</strong> zdarma</p>
+
+<div class="pb-promotion-card_footer w-100 anFdBtm"><a class="btn-new white blue-border mw-240 d-il-block" href="https://objednavka.forpsi.com/domain/order-domain.php?tld%5B%5D=cz&amp;tld%5B%5D=online">Zaregistrovat</a></div>
+
+</div>
+  </div>
+</div>
+</div><div 
+class="pb-slide-item bg-gradient-7 SSL-slide" 
+data-xl-bg="" 
+data-xl-lg=""
+>
+<div class="container">
+<div class="flex-test">
+  <div data-currency-css="Kč">
+<p class="anFdTop m-0 p-0"><span class="gt-0">SNIŽUJEME CENY</span></p>
+
+<p class="h1 text-white pb-promotion-card_title text-left mt-4 anFdTop">Nová nabídka<br />
+SSL certifikátů</p>
+
+<div class="pb-promotion-card_footer w-100 mt-4 anFdBtm"><a class="btn-new green blue-border mw-240 d-il-block" href="/ssl">Zjistit více</a></div>
+
+</div><div data-currency-css="Kč">
+<img alt="Nová nabídka
+SSL certifikátů" class="right-img anFdOp" src="/ForpsiCZ/media/Forpsi/Banners/ssl.svg" />
+</div>
+  </div>
+</div>
+</div><div 
+class="pb-slide-item bg-gradient-5 Cloud-slide" 
+data-xl-bg="" 
+data-xl-lg=""
+>
+<div class="container">
+<div class="flex-test">
+  <div data-currency-css="Kč">
+<p class="h1 text-0e2c53 pb-promotion-card_title text-left anFdTop">Cloud servery na OpenStack</p>
+
+<p class="text-0e2c53 pb-promotion-card_description text-left h3 mb-3 pb-3 anFdTop">Cloud s nejlepším poměrem cena/výkon</p>
+
+<div class="pb-promotion-card_footer w-100 anFdBtm"><a class="btn-new white blue-border mw-240 d-il-block" href="/virtual">Více informací</a></div>
+
+</div><div data-currency-css="Kč">
+<img alt="Cloud servery na OpenStack" class="right-img anFdOp" src="/ForpsiCZ/media/Forpsi/Banners/cloud.svg" />
+</div>
+  </div>
+</div>
+</div><div 
+class="pb-slide-item bg-gradient-3 DomainEU-slide" 
+data-xl-bg="" 
+data-xl-lg=""
+>
+<div class="container">
+<div class="flex-test">
+  <div data-currency-css="Kč">
+<p class="h1 text-white pb-promotion-card_title text-left anFdTop">.EU DOMÉNA PRO&nbsp;PODNIKÁNÍ<br />
+NA EVROPSKÉM TRHU</p>
+
+<p class="text-white pb-promotion-card_description text-left h3 mb-3 pb-3 anFdTop"><img 03-cloud-domain="" alt="moje-domena" forpsi="" forpsisk="" height="73px" media="" sk_mojadomena.png="" slider="" src="/ForpsiCZ/media/Forpsi/Slider/04-domain-eu/eubtn2.png" /></p>
+
+<div class="pb-promotion-card_footer w-100 anFdBtm"><a class="btn-new green blue-border mw-240 d-il-block" href="https://objednavka.forpsi.com/domain/cart-order.php?tld=eu">Zaregistrovat .eu</a></div>
+
+</div><div data-currency-css="Kč">
+<img alt=".EU DOMÉNA PRO PODNIKÁNÍ
+NA EVROPSKÉM TRHU" class="right-img anFdOp" src="/ForpsiCZ/media/Forpsi/Banners/island2.png" />
+</div>
+  </div>
+</div>
+</div><div 
+class="pb-slide-item bg-grd-3 CloudPro-slide" 
+data-xl-bg="" 
+data-xl-lg=""
+>
+<div class="container">
+<div class="flex-test">
+  <div data-currency-css="Kč">
+<p class="h1 text-white pb-promotion-card_title text-left anFdTop">Cloud PRO server</p>
+
+<p class="text-white pb-promotion-card_description text-left h3 mb-3 pb-3 anFdTop">&bull; vysoký výkon &bull; neomezené datové přenosy<br />
+&bull; garantované zdroje &bull; vlastní konfigurace</p>
+
+<p class="text-white pb-promotion-card_description text-left h3 mb-3 pb-3 anFdBtm">od <b><span class="b_price-czk">165&nbsp;Kč&nbsp;+&nbsp;DPH&nbsp;/&nbsp;měsíc</span><span class="b_price-eur">6,60&nbsp;&euro;&nbsp;+&nbsp;DPH&nbsp;/&nbsp;měsíc</span></b></p>
+
+<div class="pb-promotion-card_footer w-100 anFdBtm"><a class="btn-new white blue-border mw-240 d-il-block" href="https://www.forpsicloud.cz/cloud-pro.aspx">Prozkoumat službu</a></div>
+
+</div><div data-currency-css="Kč">
+<img alt="Cloud PRO server" class="right-img anFdOp" src="/ForpsiCZ/media/Forpsi/Banners/cloud.svg" />
+</div>
+  </div>
+</div>
+</div></div>
+<a class="pb-prev-visible">&lt;</a> <a class="pb-next-visible">&gt;</a>
+
+<div class="pb-caption-visible pb-d-none bg-e0ebf9">&nbsp;</div>
+
+<div class="container h-0">
+<div class="pb-dots-visible ps-2">&nbsp;</div>
+</div>
+</div>
+</div>
+<style>
+@media (min-width: 1200px) {
+  .DomainEU-slide {
+    
+background-size: cover;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+  .DomainEU-slide {
+    
+background-size: cover;
+}
+}
+@media (min-width: 1200px) {
+  .CloudPro-slide {
+    
+background-size: cover;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+  .CloudPro-slide {
+    
+background-size: cover;
+}
+}
+@media (min-width: 1200px) {
+  .DomainCZ-slide {
+    background-image: url('/ForpsiCZ/media/Forpsi/Banners/domena-cz-podzim-1920.jpg?ext=.jpg');
+background-size: cover;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+  .DomainCZ-slide {
+    
+background-size: cover;
+}
+}
+@media (min-width: 1200px) {
+  .SSL-slide {
+    
+background-size: cover;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+  .SSL-slide {
+    
+background-size: cover;
+}
+}
+@media (min-width: 1200px) {
+  .Cloud-slide {
+    
+background-size: cover;
+  }
+}
+
+@media (min-width: 991px) and (max-width: 1200px) {
+  .Cloud-slide {
+    
+background-size: cover;
+}
+}
+
+</style><script>const registerSuffixes = ['.cz','.eu','.sk','.online','.cloud','.com','.net','.pl','.store','.site','.tech','.fun','.website','.space','.ac','.academy','.actor','.ag','.agency','.am','.art','.as','.associates','.at','.bar','.bargains','.be','.bid','.bike','.bio','.biz','.black','.blog','.blue','.boutique','.build','.builders','.buzz','.bz','.cab','.camera','.camp','.capital','.cards','.care','.careers','.cash','.catering','.cc','.center','.ch','.cheap','.christmas','.cleaning','.click','.clinic','.clothing','.club','.co.uk','.codes','.coffee','.com.pl','.community','.company','.computer','.condos','.construction','.consulting','.contractors','.cool','.cruises','.cx','.dance','.date','.dating','.de','.democrat','.dental','.design','.dev','.diamonds','.directory','.discount','.domains','.download','.education','.email','.engineering','.enterprises','.equipment','.estate','.events','.exchange','.expert','.exposed','.fail','.family','.farm','.financial','.fish','.fitness','.flights','.florist','.fm','.foundation','.fund','.furniture','.futbol','.gallery','.gift','.glass','.graphics','.gratis','.gripe','.group','.gs','.guide','.guru','.haus','.help','.holdings','.holiday','.house','.immobilien','.industries','.info','.ink','.institute','.international','.investments','.io','.jetzt','.jewelry','.kim','.kitchen','.kiwi','.la','.land','.lease','.li','.life','.lighting','.limited','.limo','.link','.live','.lol','.lt','.lv','.maison','.management','.market','.marketing','.me','.me.uk','.media','.menu','.moda','.ms','.nagoya','.name','.net.pl','.news','.ninja','.nu','.org','.org.uk','.page','.partners','.parts','.party','.photo','.photography','.photos','.pics','.pictures','.pink','.plumbing','.pro','.productions','.properties','.pub','.recipes','.red','.reisen','.rentals','.repair','.report','.rest','.reviews','.rocks','.ru','.sc','.school','.schule','.se','.services','.sh','.shoes','.shop','.singles','.si','.social','.software','.solar','.solutions','.supplies','.supply','.support','.surgery','.systems','.tattoo','.tax','.tc','.team','.technology','.tienda','.tips','.to','.today','.tokyo','.tools','.tours','.town','.toys','.trade','.training','.tv','.uk','.university','.uno','.vacations','.ventures','.vg','.viajes','.villas','.vip','.vision','.voyage','.watch','.webcam','.wien','.wiki','.works','.ws','.wtf','.xyz','.zone','.it','.nz','.app','.legal','.ro','.archi','.love','.world','.one','.vet','.nl','.beer','.fit','.co','.ai','.es','.ge','.fr','.rs','.ae','.global','.pt','.asia','.tw','.how','.je','.digital','.ski','.gr','.hr','.vc','.ph','.al','.id','.vn','.ee','.energy','.dog','.cafe','.ing','.plus','.mba','.army','.com.ua','.science','.md','.com.do','.eco','.deal','.now','.wine', ];</script>
+          
+ 
+  </section>
+<section id="domain-search-form" class="domain-search-form-hp bg-e0ebf9" indicatorzone="50">
+        <div class="container">
+            <div class="searchFormTabs" role="tabpanel">
+             
+      <ul class="nav nav-tabs" role="tablist">
+	<li class="nav-item" role="presentation"><a aria-selected="true" class="nav-link active" data-bs-target=".tab_registration-domain" data-bs-toggle="tab" role="tab"> Registrace<br />
+	domény </a></li>
+	<li class="nav-item" role="presentation"><a aria-selected="false" class="nav-link" data-bs-target=".tab_transfer-domain" data-bs-toggle="tab" role="tab" tabindex="-1"> Převod<br />
+	domény </a></li>
+</ul>
+
+
+
+
+
+                
+              <div class="tab-content">
+                <div class="tab-pane show active tab_registration-domain" role="tabpanel">
+               <div class="gradient-border-1">
+<div class="domainSearchForm domainSearchFormRegister"><label class="d-none" for="domainInput">www.</label> <input aria-label="Název domény s koncovkou" autocomplete="off" class="rcSearchInput" id="domainInput" placeholder="zadejte název domény včetně koncovky" type="text" />
+<div class="suggestions" id="domainInputSuggestions">&nbsp;</div>
+<a class="btn-new green register-domain-btn">Ověřit dostupnost</a></div>
+</div>
+
+
+
+
+
+<div class="d-flex flex-wrap justify-content-between"><div class="tld-price-top5">
+  <div class="extension-left"><strong>.CZ</strong></div>
+  <div class='price-right contains-promo'>
+    <span class='old-price'>115,00&nbsp;Kč*</span> <span class='new-price'>199,00&nbsp;Kč</span>
+  </div>
+</div><div class="tld-price-top5">
+  <div class="extension-left"><strong>.EU</strong></div>
+  <div class='price-right'>
+    <span class='old-price'>&nbsp;Kč*</span> <span class='new-price'>140,00&nbsp;Kč</span>
+  </div>
+</div><div class="tld-price-top5">
+  <div class="extension-left"><strong>.SK</strong></div>
+  <div class='price-right'>
+    <span class='old-price'>265,00&nbsp;Kč*</span> <span class='new-price'>314,00&nbsp;Kč</span>
+  </div>
+</div><div class="tld-price-top5">
+  <div class="extension-left"><strong>.CLOUD</strong></div>
+  <div class='price-right contains-promo'>
+    <span class='old-price'>22,00&nbsp;Kč*</span> <span class='new-price'>580,00&nbsp;Kč</span>
+  </div>
+</div><div class="tld-price-top5">
+  <div class="extension-left"><strong>.ONLINE</strong></div>
+  <div class='price-right contains-promo'>
+    <span class='old-price'>99,00&nbsp;Kč*</span> <span class='new-price'>830,00&nbsp;Kč</span>
+  </div>
+</div> </div><p class="text-center d-none text-000 reg-show"><svg class="me-2" fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C4.486 0 0 4.48606 0 10.0001C0 15.5141 4.486 20 10 20C15.514 20 20 15.5141 20 10.0001C20 4.48606 15.514 0 10 0ZM10 18.1818C5.48848 18.1818 1.81818 14.5115 1.81818 10.0001C1.81818 5.48861 5.48848 1.81818 10 1.81818C14.5115 1.81818 18.1818 5.48861 18.1818 10.0001C18.1818 14.5115 14.5115 18.1818 10 18.1818Z" fill="#000"></path> <path d="M10.0009 4.44434C9.3327 4.44434 8.78906 4.98834 8.78906 5.657C8.78906 6.32506 9.3327 6.86858 10.0009 6.86858C10.6692 6.86858 11.2128 6.32506 11.2128 5.657C11.2128 4.98834 10.6692 4.44434 10.0009 4.44434Z" fill="#000"></path> <path d="M10 8C9.44773 8 9 8.39177 9 8.875V14.125C9 14.6082 9.44773 15 10 15C10.5523 15 11 14.6082 11 14.125V8.875C11 8.39177 10.5523 8 10 8Z" fill="#000"></path> </svg>Ceny jsou uvedeny za první rok registrace a bez DPH.</p>
+
+
+
+
+</div>
+                  <div class="tab-pane tab_transfer-domain" role="tabpanel">
+                <div class="gradient-border-1">
+<div class="domainSearchForm domainSearchFormTransfer"><label class="d-none" for="domainTransferInput">www.</label> <input aria-label="Název domény s koncovkou" autocomplete="off" class="rcSearchInput" id="domainTransferInput" placeholder="zadejte název domény včetně koncovky" type="text" />
+<div class="suggestions" id="domainTransferInputSuggestions">&nbsp;</div>
+<a class="btn-new green transfer-domain-btn">Převést doménu</a></div>
+</div>
+
+
+
+
+</div>
+                </div>
+        </div>
+     <p class="text-center mt-4 reg-show mb-5 pb-5" style="display: block;"><svg class="me-2" fill="none" height="20" viewbox="0 0 20 20" width="20" xmlns="http://www.w3.org/2000/svg"> <path d="M10 0C4.486 0 0 4.48606 0 10.0001C0 15.5141 4.486 20 10 20C15.514 20 20 15.5141 20 10.0001C20 4.48606 15.514 0 10 0ZM10 18.1818C5.48848 18.1818 1.81818 14.5115 1.81818 10.0001C1.81818 5.48861 5.48848 1.81818 10 1.81818C14.5115 1.81818 18.1818 5.48861 18.1818 10.0001C18.1818 14.5115 14.5115 18.1818 10 18.1818Z" fill="#333"></path> <path d="M10.0009 4.44434C9.3327 4.44434 8.78906 4.98834 8.78906 5.657C8.78906 6.32506 9.3327 6.86858 10.0009 6.86858C10.6692 6.86858 11.2128 6.32506 11.2128 5.657C11.2128 4.98834 10.6692 4.44434 10.0009 4.44434Z" fill="#333"></path> <path d="M10 8C9.44773 8 9 8.39177 9 8.875V14.125C9 14.6082 9.44773 15 10 15C10.5523 15 11 14.6082 11 14.125V8.875C11 8.39177 10.5523 8 10 8Z" fill="#333"></path> </svg>Ceny jsou uvedeny za první rok registrace a bez DPH.</p>
+
+
+
+
+
+     </div>
+  </section> <section id="hp-bestsellers" class="bestsellers-hp bg-e0ebf9 p-75-0" indicatorzone="50"><div class="container">
+ <h2 class="fpz-heading">Nejprodávánější</h2>
+
+
+
+
+<div class="fpz-slider-container">
+<div class="fpz-slider" data-slides-default="1" data-slides-lg="3" data-slides-md="2" data-slides-xl="4">
+<div class="fpz-slides">
+
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-40-1.svg?ext=.svg' alt='WP Ready' title='WP Ready' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=d89418da-be95-4003-877d-537a3f68cf82' alt='WP Ready' title='WP Ready' /></noscript>
+<h3 class="fpz-card-title">WP Ready</h3>
+
+<p class="fpz-card-desc">Vytvořte si web na WordPressu s pomocí AI</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>60,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/wpready'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-83-1.svg?ext=.svg' alt='Webhosting' title='Webhosting' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=8fb6ce14-cce0-46b2-853b-4c8bb7619bc1' alt='Webhosting' title='Webhosting' /></noscript>
+<h3 class="fpz-card-title">Webhosting</h3>
+
+<p class="fpz-card-desc">Spolehlivý webhosting pro jakýkoliv projekt</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>27,50 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/webhosting/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-84-1.svg?ext=.svg' alt='Classic VPS' title='Classic VPS' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=9f5f35ac-2705-45b6-af05-4598df395998' alt='Classic VPS' title='Classic VPS' /></noscript>
+<h3 class="fpz-card-title">Classic VPS</h3>
+
+<p class="fpz-card-desc">Virtuální server s SSD úložištěm a měsíčním účtováním</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>70,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/virtual/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-84-1.svg?ext=.svg' alt='Dedikované servery' title='Dedikované servery' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=0b11b508-6ba1-4f99-9244-bf941f7aeb38' alt='Dedikované servery' title='Dedikované servery' /></noscript>
+<h3 class="fpz-card-title">Dedikované servery</h3>
+
+<p class="fpz-card-desc">Výkonný dedikovaný server s plnou kontrolou a stabilním provozem</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>1750,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/serverdedicated/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-02-1.svg?ext=.svg' alt='F-PAGE' title='F-PAGE' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='F-PAGE' title='F-PAGE' /></noscript>
+<h3 class="fpz-card-title">F-PAGE</h3>
+
+<p class="fpz-card-desc">Vytvořte si stránky na pár kliknutí a bez programování</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>90,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/f-page/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-134-1.svg?ext=.svg' alt='Domény' title='Domény' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=9744accd-0bf8-4426-9cf6-a90a2ca7c32b' alt='Domény' title='Domény' /></noscript>
+<h3 class="fpz-card-title">Domény</h3>
+
+<p class="fpz-card-desc">Zaregistrujte si ideální doménu pro svou online identitu</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>22,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za rok</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/domain/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-47-1.svg?ext=.svg' alt='E-maily' title='E-maily' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=bdb93ffe-6cf9-41f1-bf66-6aeac71012f7' alt='E-maily' title='E-maily' /></noscript>
+<h3 class="fpz-card-title">E-maily</h3>
+
+<p class="fpz-card-desc">Profesionální e-mail na vlastní doméně</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>10,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/e-mail/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-11-1.svg?ext=.svg' alt='Cloud VPS' title='Cloud VPS' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=ac949395-5ea8-49b0-872a-0cda2415906d' alt='Cloud VPS' title='Cloud VPS' /></noscript>
+<h3 class="fpz-card-title">Cloud VPS</h3>
+
+<p class="fpz-card-desc">Cloud VPS s garantovanými prostředky pro náročné projekty</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>50,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='https://www.forpsicloud.cz/vps.aspx'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-59-1.svg?ext=.svg' alt='Cloud Backup' title='Cloud Backup' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='Cloud Backup' title='Cloud Backup' /></noscript>
+<h3 class="fpz-card-title">Cloud Backup</h3>
+
+<p class="fpz-card-desc">Automatizované zálohování s možností výběru z 6 datacenter</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>37,50 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='https://www.forpsicloud.cz/cloud-backup.aspx'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-117-1.svg?ext=.svg' alt='SSL' title='SSL' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=dae748f2-102f-4465-a2c2-23a80be8dce0' alt='SSL' title='SSL' /></noscript>
+<h3 class="fpz-card-title">SSL</h3>
+
+<p class="fpz-card-desc">Chraňte návštěvníky webu bezpečným HTTPS připojením</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>250,00 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/ssl/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img src='/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-83-1.svg?ext=.svg' alt='Balíčky' title='Balíčky' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=0fbe0907-a03a-47d2-b253-4950cd9ab3e4' alt='Balíčky' title='Balíčky' /></noscript>
+<h3 class="fpz-card-title">Balíčky</h3>
+
+<p class="fpz-card-desc">Vše v jednom: webhosting + doména</p>
+
+<div class="fpz-card-price">
+<p><span class="fs-14">od</span> <strong>35,75 Kč</strong><span class="info-icon"><span class="info-icon-text">Všechny uvedené ceny jsou bez DPH.</span></span><br />
+<span class="cl-8b8b8b fs-14">za měsíc</span></p>
+</div>
+
+<div class="fpz-card-footer"><a class="btn-new blue" href='/package/'>
+                        Více info
+                    </a></div>
+</div>
+</div>
+</div>
+</div>
+<a class="fpz-prev">&lt;</a> <a class="fpz-next">&gt;</a>
+
+<div class="fpz-dots">&nbsp;</div>
+</div></div> </section> 
+  
+  
+   <section id="hp-subbanners" class="subbanners-hp bg-f3f8ff p-75-0" indicatorzone="50">
+        <div class="container">
+          <h2 class="text-center pb-0"><meta charset="utf-8" />Najděte to, co hledáte</h2>
+
+<p class="text-center mb-4">Ať už hledáte řešení pro jednu doménu nebo komplexní IT infrastrukturu, máme pro vás ideální službu.</p>
+
+
+
+
+<div class="slider-custom_lt slider8-custom_lt">
+<div class="slides-custom_lt" style="transform: translateX(0px); transition: none;">
+<div class="slide-custom_lt visible">
+<div class="banner-card bg-grd-1"><img src='/ForpsiCZ/media/Forpsi/Banners/e-mails_cz.svg?ext=.svg' alt='Vypadat profesionálně pro své zákazníky' title='Vypadat profesionálně pro své zákazníky' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='Vypadat profesionálně pro své zákazníky' title='Vypadat profesionálně pro své zákazníky' /></noscript>
+<h3 class="text-white">Vypadat profesionálně pro své zákazníky</h3>
+
+<p class="text-white">E-mail na vlastní doméně dává vaší komunikaci punc důvěryhodnosti. Skvělá volba pro firmy i jednotlivce s možností využití webmailu.</p>
+
+<div class="banner-card-flex"><a class="btn-new white" href="/e-mail/">
+                        Více info
+                    </a>
+
+<p class="banner-card-price"><span class="fs-10">od</span><span class="h3">&nbsp;10,00 Kč</span>&nbsp;<span class="fs-10">/měsíc za první rok</span></p>
+</div>
+</div>
+</div>
+<div class="slide-custom_lt visible">
+<div class="banner-card bg-grd-2_rev"><img src='/ForpsiCZ/media/Forpsi/Banners/hosting.svg?ext=.svg' alt='Provozovat rychlý a bezpečný web' title='Provozovat rychlý a bezpečný web' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='Provozovat rychlý a bezpečný web' title='Provozovat rychlý a bezpečný web' /></noscript>
+<h3 class="text-white">Provozovat rychlý a bezpečný web</h3>
+
+<p class="text-white">Rychlé servery, neomezený přístup k FTP, e-maily v ceně a automatické zálohy. Vše pro kvalitní webové stránky.</p>
+
+<div class="banner-card-flex"><a class="btn-new white" href="/webhosting/">
+                        Více info
+                    </a>
+
+<p class="banner-card-price"><span class="fs-10">od</span><span class="h3">&nbsp;27,50 Kč</span>&nbsp;<span class="fs-10">/měsíc za první rok</span></p>
+</div>
+</div>
+</div>
+<div class="slide-custom_lt visible">
+<div class="banner-card bg-grd-3_rev"><img src='/ForpsiCZ/media/Forpsi/Landing/wprBannerIC.svg?ext=.svg' alt='Vytvořit stránku pomocí WordPressu' title='Vytvořit stránku pomocí WordPressu' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='Vytvořit stránku pomocí WordPressu' title='Vytvořit stránku pomocí WordPressu' /></noscript>
+<h3 class="text-white">Vytvořit stránku pomocí WordPressu</h3>
+
+<p class="text-white">Předinstalovaný a zabezpečený WordPress se zabudovaným AI asistentem pro tvorbu struktury, vzhledu i obsahu stránek. </p>
+
+<div class="banner-card-flex"><a class="btn-new white" href="/wpready/">
+                        Více info
+                    </a>
+
+<p class="banner-card-price"><span class="fs-10">od</span><span class="h3">&nbsp;60,00 Kč</span>&nbsp;<span class="fs-10">/měsíc za první rok</span></p>
+</div>
+</div>
+</div>
+<div class="slide-custom_lt visible">
+<div class="banner-card bg-grd-5_rev"><img src='/ForpsiCZ/media/Forpsi/Banners/cloud.svg?ext=.svg' alt='Máte zájem o VPS?<br>&nbsp;' title='Máte zájem o VPS?<br>&nbsp;' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='Máte zájem o VPS?<br>&nbsp;' title='Máte zájem o VPS?<br>&nbsp;' /></noscript>
+<h3 class="text-white">Máte zájem o VPS?<br>&nbsp;</h3>
+
+<p class="text-white">Server je automaticky nakonfigurován a spuštěn v českém datacentru. Spolehlivý výkon pro vaše weby a aplikace.</p>
+
+<div class="banner-card-flex"><a class="btn-new white" href="/virtual/">
+                        Více info
+                    </a>
+
+<p class="banner-card-price"><span class="fs-10">od</span><span class="h3">&nbsp;70,00 Kč</span>&nbsp;<span class="fs-10">/měsíc</span></p>
+</div>
+</div>
+</div>
+<div class="slide-custom_lt visible">
+<div class="banner-card bg-grd-5"><img src='/ForpsiCZ/media/Forpsi/Banners/domeny.svg?ext=.svg' alt='Hledáte svou internetovou identitu?' title='Hledáte svou internetovou identitu?' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='Hledáte svou internetovou identitu?' title='Hledáte svou internetovou identitu?' /></noscript>
+<h3 class="text-white">Hledáte svou internetovou identitu?</h3>
+
+<p class="text-white">Nabízíme registraci nových domén, převody stávajících i správu DNS záznamů. Snadno tak vyberete a zabezpečíte svou doménu.</p>
+
+<div class="banner-card-flex"><a class="btn-new white" href="/domain/">
+                        Více info
+                    </a>
+
+<p class="banner-card-price"><span class="fs-10">od</span><span class="h3">&nbsp;22,00 Kč</span>&nbsp;<span class="fs-10">/rok</span></p>
+</div>
+</div>
+</div>
+<div class="slide-custom_lt visible">
+<div class="banner-card bg-grd-6"><img src='/ForpsiCZ/media/Forpsi/Landing/fpagebanneric.svg?ext=.svg' alt='Stránky bez znalosti programování' title='Stránky bez znalosti programování' />
+                    <noscript><img src='/CMSPages/GetFile.aspx?guid=' alt='Stránky bez znalosti programování' title='Stránky bez znalosti programování' /></noscript>
+<h3 class="text-white">Stránky bez znalosti programování</h3>
+
+<p class="text-white">Intuitivní editor umožňuje sestavit web během pár kliknutí. Přetahujte prvky, upravujte obsah, měňte vzhled a přidávejte obrázky či formuláře.</p>
+
+<div class="banner-card-flex"><a class="btn-new white" href="/f-page/">
+                        Více info
+                    </a>
+
+<p class="banner-card-price"><span class="fs-10">od</span><span class="h3">&nbsp;90,00 Kč</span>&nbsp;<span class="fs-10">/měsíc za první rok</span></p>
+</div>
+</div>
+</div>
+
+</div>
+<a class="prev-custom_lt">❮</a> <a class="next-custom_lt">❯</a>
+
+<div class="dots-custom_lt">&nbsp;</div>
+
+<div class="caption-custom_lt">1 / 4</div>
+</div>
+
+
+
+
+          </div>
+  </section> 
+  
+   <section id="hp-promotions" class="promotions-hp bg-e0ebf9 p-75-0" indicatorzone="50">
+        <div class="container">
+          <h2 class="text-center mb-0 pb-0">Doporučujeme</h2>
+
+
+
+
+<div class="slider-wrapper-outer">
+<div class="slider-always-visible">
+<div class="slides-wrapper">
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .ORG</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            360,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        179,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+181,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href=" https://objednavka.forpsi.com/domain/order-domain.php?new=1&tld[]=org">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Webhosting Easy</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            660,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        330,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové objednávky na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+330,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="http://www.forpsi.com/webhosting/easy/">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Webhosting Advanced</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            1200,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        600,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové objednávky na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+600,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="http://www.forpsi.com/webhosting/advanced/">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Webhosting Professional</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            1800,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        900,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové objednávky na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+900,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="http://www.forpsi.com/webhosting/professional/">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .ONLINE</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            830,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        99,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+731,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?progress=1&new=1&tld%5B%5D=online">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .INFO</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            580,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        79,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+501,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?progress=1&new=1&tld%5B%5D=info">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .CLOUD</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            580,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        22,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+558,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/cart-order.php?tld[]=cloud">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .TECH</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            1650,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        119,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+1531,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/cart-order.php?tld[]=tech">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">WP Ready</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            1440,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        720,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové objednávky na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+720,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://www.forpsi.com/wpready/">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .STORE</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            1250,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        99,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+1151,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/cart-order.php?tld[]=store">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .SITE</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            790,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        79,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+711,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?progress=1&new=1&tld%5B%5D=site">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .FUN</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            940,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        49,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+891,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?progress=1&new=1&tld%5B%5D=fun">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .SPACE</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            720,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        49,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+671,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?progress=1&new=1&tld%5B%5D=space">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .WEBSITE</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            600,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        49,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové registrace domény na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+551,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?progress=1&new=1&tld%5B%5D=website">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Hosting BASIC</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            360,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        180,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Akční cena se vztahuje pouze na nové objednávky na první rok provozu služby.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+180,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="/doplnkove-sluzby/">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">K .EU doméně .CLOUD doména zdarma</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            162,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        140,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Zaregistrujte si v období od 1. 7. 2025 do 31. 12. 2025 doménu .EU a dostanete doménu .CLOUD ve stejném znění zdarma, podrobné informace o Akci naleznete ve <a href="https://support.forpsi.com/kb/a4421/" target="_blank">Znalostní bázi</a>.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+22,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?tld%5B%5D=eu&tld%5B%5D=cloud">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">K doméně .COM doména .CLOUD zdarma</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            317,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        295,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Zaregistrujte si v období od 1. 10. 2025 do 31. 12. 2025 doménu .COM a dostanete doménu .CLOUD ve stejném znění zdarma, podrobné informace o Akci naleznete ve <a href="https://support.forpsi.com/kb/a4422/" target="_blank">Znalostní bázi</a>.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+22,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?tld%5B%5D=com&tld%5B%5D=cloud">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">Doména .ONLINE nebo .STORE<br />k F-Page zdarma</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            1179,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        1080,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Doména .ONLINE nebo .STORE 1. rok zdarma k nové aktivaci služby F-Page, podrobné informace o akci naleznete ve <a href="https://support.forpsi.com/kb/a4424/" target="_blank">Znalostní bázi</a>.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+99,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="/f-page">Objednat se slevou</a></div>
+</div>
+</div>
+
+  <div class="slide-item">
+<div>
+<div class="card-tags"><span class="card-tagAction">PROMO</span></div>
+
+<h3 class="promotion-card_title text-left">.CZ s doménou .ONLINE za akční cenu</h3>
+
+<p class="promotion-card_description text-left"></p>
+
+<div class="promotion-card_price">
+<p class="pc_normal-price">
+                            214,00&nbsp;Kč
+                    
+                        </p>
+
+<p class="pc_promo-price">
+                        115,00&nbsp;Kč
+                    
+                    <span class="info-icon"><span class="info-icon-text">Zaregistrujte si v období od 1. 10. 2025 do 31. 12. 2025 doménu .CZ a doménu .ONLINE ve stejném znění za akční cenu 115 Kč bez DPH na 1. rok, pokud je v okamžiku registrace .CZ domény doména .ONLINE dostupná k registraci. Více informací o Akci naleznete v naší <a href="https://support.forpsi.com/kb/a4414/" target="_blank">Znalostní bázi</a>.</span></span></p>
+
+<p class="pc_promo-price-text">/rok</p>
+</div>
+
+<div class="promotion-card_footer">
+<p>Ušetříte:<br />
+99,00&nbsp;Kč 
+</p>
+<a class="btn-new green" href="https://objednavka.forpsi.com/domain/order-domain.php?tld%5B%5D=cz&tld%5B%5D=online">Objednat se slevou</a></div>
+</div>
+</div>
+
+
+
+</div>
+
+<div class="caption-visible d-none">&nbsp;</div>
+
+<div class="dots-visible">&nbsp;</div>
+</div>
+<a class="prev-visible">&lt;</a><a class="next-visible">&gt;</a></div><p class="text-center mt-4 pt-2"><a class="btn-new btn-nobg blue-border " href="/promotions">Zobrazit další</a></p>
+
+
+
+
+
+
+
+
+
+          </div>
+  </section> 
+  
+  
+    
+   <section id="hp-choose-forpsi" class="d-none choose-forpsi-hp bg-f3f8ff p-75-0" indicatorzone="50">
+        <div class="container">
+          
+          </div>
+  </section> 
+  <section id="hp-customers" class="d-none customers-hp bg-fff p-75-0" indicatorzone="50">
+        <div class="container">
+          
+          </div>
+  </section> 
+    <section id="hp-why-choose" class="why-choose-hp bg-f3f8ff p-75-0" indicatorzone="50">
+        <div class="container">
+          <h2 class="text-center mb-5">Proč si vybrat naše služby?</h2>
+
+<div class="fpz-slider-container mb-5">
+<div class="fpz-slider-3 slider-lg-none slider-xl-none" data-slides-default="1" data-slides-lg="none" data-slides-md="2" data-slides-xl="none">
+<div class="fpz-slides">
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img alt="" src="/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-23-1.svg" />
+<h5>Bezpečnost a dohled</h5>
+
+<p>Naše služby běží ve vlastním českém datacentru s 24/7 dohledem, zálohováním a ochranou dat. Váš web, e-mail, servery a veškerá data jsou vždy v bezpečí.</p>
+</div>
+</div>
+
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img alt="" src="/ForpsiCZ/media/Forpsi/Icons/custom2.svg" />
+<h5>Moderní technologie</h5>
+
+<p>Využíváme nejnovější hardwarová a softwarová řešení. SSD disky, výkonné procesory, HiSpeed Cache pro Linux a kontejnerizace pro rychlý a stabilní provoz.</p>
+</div>
+</div>
+
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img alt="" src="/ForpsiCZ/media/Forpsi/Icons/forpsi_icon-125-1.svg" />
+<h5>Řešení pro každého</h5>
+
+<p>Osobním web, e-shop nebo firemní aplikace? Naše služby jsou připravené tak, aby vám ušetřily čas a zjednodušily provoz.</p>
+</div>
+</div>
+
+<div class="fpz-slide text-center">
+<div class="fpz-card"><img alt="" src="/ForpsiCZ/media/Forpsi/Icons/custom1.svg" />
+<h5>Zkušenosti a podpora</h5>
+
+<p>S více než 20 lety zkušeností nabízíme spolehlivou zákaznickou podporu. Ať potřebujete poradit s nastavením služeb nebo řešit neočekávaný problém, jsme tu pro vás nonstop.</p>
+</div>
+</div>
+</div>
+</div>
+<a class="fpz-prev">&lt;</a> <a class="fpz-next">&gt;</a>
+
+<div class="fpz-dots">&nbsp;</div>
+</div>
+
+<div class="flex"><img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp1.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp2.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp3.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp4.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp5.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp6.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp7.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp8.svg" /> <img alt="" src="/ForpsiCZ/media/Forpsi/Minified/hp9.svg" /></div>
+
+
+
+
+
+          </div>
+  </section> 
+      <section id="hp-subscribe" class="subscribe-hp bg-gradient-5 p-75-0" indicatorzone="50">
+        <div class="container">
+          <div class="subscribe-card">
+<div class="img-left-scard bg-gradient-1 p-0"><img alt="" src="/ForpsiCZ/media/Forpsi/Landing/mailingArtboard.svg" /></div>
+
+<div class="decs-right-scard">
+<h5>&nbsp;</h5>
+
+<h2 class="pb-2">Stále nejste zákazníkem FORPSI?</h2>
+
+<p>Vytvořte si zákaznický účet a začnete využívat výhod služeb FORPSI.</p>
+
+<div class="abcFlex"><a class="btn-new blue" href="https://objednavka.forpsi.com/register.php?back=%2F">Registrovat</a></div>
+</div>
+</div>
+
+
+
+
+<script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function () {
+  class PbSlider {
+    constructor(selector) {
+      this.slider = document.querySelector(selector);
+      if (!this.slider) return;
+
+      this.wrapper = this.slider.querySelector('.pb-slides-wrapper');
+      this.slides = Array.from(this.wrapper.querySelectorAll('.pb-slide-item'));
+      this.prevBtn = this.slider.querySelector('.pb-prev-visible');
+      this.nextBtn = this.slider.querySelector('.pb-next-visible');
+      this.caption = this.slider.querySelector('.pb-caption-visible');
+      this.dotsContainer = this.slider.querySelector('.pb-dots-visible');
+
+      this.slideIndex = 1; // začínáme na prvním reálném slidu
+      this.totalSlidesOriginal = this.slides.length;
+
+      this.cloneSlides();
+      this.totalSlides = this.slides.length;
+
+      // drag proměnné
+      this.isDragging = false;
+      this.isClick = true;
+      this.startX = 0;
+      this.startY = 0;
+      this.currentTranslate = 0;
+      this.prevTranslate = 0;
+      this.movedDistance = 0;
+      this.isTouch = false;
+
+      this.init();
+    }
+
+    cloneSlides() {
+      const firstClone = this.slides[0].cloneNode(true);
+      const lastClone = this.slides[this.slides.length - 1].cloneNode(true);
+      firstClone.classList.add('pb-first-clone');
+      lastClone.classList.add('pb-last-clone');
+
+      this.wrapper.appendChild(firstClone);
+      this.wrapper.insertBefore(lastClone, this.slides[0]);
+
+      this.slides = Array.from(this.wrapper.querySelectorAll('.pb-slide-item'));
+    }
+
+    init() {
+      this.createDots();
+      this.setPositionByIndex(false);
+      this.startAutoPlay();
+      this.attachEvents();
+    }
+
+    createDots() {
+      if (!this.dotsContainer) return;
+      this.dotsContainer.innerHTML = '';
+      for (let i = 0; i < this.totalSlidesOriginal; i++) {
+        const dot = document.createElement('span');
+        dot.addEventListener('click', () => {
+          this.slideIndex = i + 1; // +1 kvůli klonu na začátku
+          this.setPositionByIndex();
+          this.restartAutoPlay();
+        });
+        this.dotsContainer.appendChild(dot);
+      }
+    }
+
+    next() {
+      if (this.slideIndex >= this.slides.length - 1) return;
+      this.slideIndex++;
+      this.setPositionByIndex();
+    }
+
+    prev() {
+      if (this.slideIndex <= 0) return;
+      this.slideIndex--;
+      this.setPositionByIndex();
+    }
+
+    setPositionByIndex(withTransition = true) {
+      const slideWidth = this.slider.offsetWidth;
+      const offset = slideWidth * this.slideIndex;
+      this.currentTranslate = -offset;
+      this.prevTranslate = this.currentTranslate;
+
+      this.wrapper.style.transition = withTransition ? 'transform 0.6s ease-out' : 'none';
+      this.wrapper.style.transform = `translateX(${this.currentTranslate}px)`;
+
+      // caption
+      if (this.caption) {
+        this.caption.textContent = `${((this.slideIndex - 1 + this.totalSlidesOriginal) % this.totalSlidesOriginal) + 1} / ${this.totalSlidesOriginal}`;
+      }
+
+      // dots
+      if (this.dotsContainer) {
+        Array.from(this.dotsContainer.children).forEach((dot, index) => {
+          dot.classList.toggle('active', index === (this.slideIndex - 1 + this.totalSlidesOriginal) % this.totalSlidesOriginal);
+        });
+      }
+
+      // active_slide
+      this.slides.forEach((slide, index) => {
+        slide.classList.toggle('active_slide', index === this.slideIndex);
+      });
+    }
+
+    attachEvents() {
+      // šipky
+      if (this.nextBtn) this.nextBtn.addEventListener('click', () => { this.next(); this.restartAutoPlay(); });
+      if (this.prevBtn) this.prevBtn.addEventListener('click', () => { this.prev(); this.restartAutoPlay(); });
+
+      // resize
+      window.addEventListener('resize', () => this.setPositionByIndex(false));
+
+      // transitionend pro reset při clone
+      this.wrapper.addEventListener('transitionend', () => {
+        if (this.slides[this.slideIndex].classList.contains('pb-first-clone')) {
+          this.wrapper.style.transition = 'none';
+          this.slideIndex = 1;
+          this.setPositionByIndex(false);
+        }
+        if (this.slides[this.slideIndex].classList.contains('pb-last-clone')) {
+          this.wrapper.style.transition = 'none';
+          this.slideIndex = this.slides.length - 2;
+          this.setPositionByIndex(false);
+        }
+      });
+
+      // drag/swipe
+      this.wrapper.addEventListener('mousedown', e => { this.isTouch = false; this.touchStart(e); });
+      this.wrapper.addEventListener('mousemove', e => { if (!this.isTouch) this.touchMove(e); });
+      this.wrapper.addEventListener('mouseup', e => { if (!this.isTouch) this.touchEnd(e); });
+      this.wrapper.addEventListener('mouseleave', e => { if (!this.isTouch) this.touchEnd(e); });
+
+      this.wrapper.addEventListener('touchstart', e => { this.isTouch = true; this.touchStart(e); });
+      this.wrapper.addEventListener('touchmove', e => { if (this.isTouch) this.touchMove(e); });
+      this.wrapper.addEventListener('touchend', e => { if (this.isTouch) this.touchEnd(e); });
+    }
+
+    getPositionX(e) {
+      return e.type.includes('mouse') ? e.pageX : e.touches[0].clientX;
+    }
+
+    touchStart(e) {
+      this.isDragging = true;
+      this.isClick = true;
+      this.startX = this.getPositionX(e);
+      this.startY = e.type.includes('mouse') ? e.pageY : e.touches[0].clientY;
+      this.movedDistance = 0;
+      this.wrapper.style.transition = 'none';
+    }
+
+    touchMove(e) {
+      if (!this.isDragging) return;
+      const currentX = this.getPositionX(e);
+      const currentY = e.type.includes('mouse') ? e.pageY : e.touches[0].clientY;
+      const diffX = currentX - this.startX;
+      const diffY = currentY - this.startY;
+
+      if (Math.abs(diffX) > Math.abs(diffY)) {
+        e.preventDefault();
+        if (Math.abs(diffX) > 5) this.isClick = false;
+        this.currentTranslate = this.prevTranslate + diffX;
+        this.wrapper.style.transform = `translateX(${this.currentTranslate}px)`;
+        this.movedDistance = diffX;
+      }
+    }
+
+    touchEnd() {
+      if (!this.isDragging) return;
+      this.isDragging = false;
+
+      const movedBy = this.currentTranslate - this.prevTranslate;
+      if (movedBy < -50) this.next();
+      else if (movedBy > 50) this.prev();
+      else this.setPositionByIndex(true);
+    }
+
+    startAutoPlay() {
+      this.stopAutoPlay();
+      this.autoPlayInterval = setInterval(() => this.next(), 13000);
+    }
+
+    stopAutoPlay() {
+      if (this.autoPlayInterval) clearInterval(this.autoPlayInterval);
+    }
+
+    restartAutoPlay() {
+      this.startAutoPlay();
+    }
+  }
+
+  new PbSlider('.pb-slider-777');
+  new PbSlider('.pb-slider-778');
+});
+</script><script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function() {
+  // --- tlačítka ---
+  const registerButton = document.querySelector('.register-domain-btn');
+  const transferButton = document.querySelector('.transfer-domain-btn');
+
+  if (registerButton) {
+    registerButton.addEventListener('click', () => {
+      const domainInput = document.querySelector('#domainInput');
+      let domain = domainInput ? domainInput.value : '';
+      if (!domain) return;
+      if (!domain.includes('.')) {
+      domain += '.cz';
+    }
+      const [baseDomain, ...rest] = domain.split('.');
+      const tld = rest.join('.');
+      const url = `https://objednavka.forpsi.com/domain/cart-order.php?dom=${baseDomain}&tld%5B0%5D=${tld}&progress=1&lang=cz`;
+      window.open(url, '_blank');
+    });
+  }
+
+  if (transferButton) {
+    transferButton.addEventListener('click', () => {
+      const domainTransferInput = document.querySelector('#domainTransferInput');
+      let domain = domainTransferInput ? domainTransferInput.value : '';
+      if (!domain) return;
+       if (!domain.includes('.')) {
+      domain += '.cz';
+    }
+      const [baseDomain, ...rest] = domain.split('.');
+      const tld = rest.join('.');
+      const url = `https://objednavka.forpsi.com/domain/transfer.php?new=1&dom=${baseDomain}&tld%5B%5D=${tld}&lang=cz`;
+      window.open(url, '_blank');
+    });
+  }
+
+ 
+  
+  function setupAutocomplete(inputId, suggestionsId, suffixList) {
+    const input = document.getElementById(inputId);
+    const container = document.getElementById(suggestionsId);
+    let activeIndex = -1;
+
+    container.style.display = 'none';
+
+    function renderSuggestions() {
+      const value = input.value.trim();
+      container.innerHTML = '';
+      activeIndex = -1;
+
+      if (!value) {
+        container.style.display = 'none';
+        return;
+      }
+
+      const match = value.match(/^([^.]+)(\.[a-z]*)?$/i);
+      if (!match) return container.style.display = 'none';
+
+      const base = match[1];
+      const partialSuffix = match[2] || '';
+      const filtered = suffixList.filter(s => s.toLowerCase().startsWith(partialSuffix.toLowerCase()));
+      if (!filtered.length) return container.style.display = 'none';
+
+      filtered.forEach(suffix => {
+        const full = base + suffix;
+        const div = document.createElement('div');
+        div.className = 'suggestion-item';
+        div.tabIndex = 0;
+        div.textContent = full;
+
+        div.addEventListener('click', () => {
+          input.value = full;
+          container.innerHTML = '';
+          container.style.display = 'none';
+        });
+
+        div.addEventListener('keydown', (e) => {
+          if (e.key === 'Enter') {
+            e.preventDefault();
+            div.click();
+          }
+        });
+
+        container.appendChild(div);
+      });
+
+      container.style.position = 'absolute';
+      container.style.left = input.offsetLeft + 'px';
+      container.style.top = input.offsetTop + input.offsetHeight + 'px';
+      container.style.width = input.offsetWidth + 'px';
+      container.style.display = 'block';
+    }
+
+    input.addEventListener('input', renderSuggestions);
+input.addEventListener('keydown', (e) => {
+  const items = container.querySelectorAll('.suggestion-item');
+
+  if (e.key === 'ArrowDown') {
+    if (!items.length) return;
+    e.preventDefault();
+    activeIndex = (activeIndex + 1) % items.length;
+    items.forEach((el, i) => el.classList.toggle('active', i === activeIndex));
+    items[activeIndex].scrollIntoView({ block: 'nearest' });
+  }
+
+  if (e.key === 'ArrowUp') {
+    if (!items.length) return;
+    e.preventDefault();
+    activeIndex = (activeIndex - 1 + items.length) % items.length;
+    items.forEach((el, i) => el.classList.toggle('active', i === activeIndex));
+    items[activeIndex].scrollIntoView({ block: 'nearest' });
+  }
+
+if (e.key === 'Enter') {
+  e.preventDefault();
+
+  if (activeIndex >= 0 && items.length) {
+    items[activeIndex].click();
+  } else {
+   
+    if (!input.value.includes('.')) {
+      input.value = input.value.trim() + '.cz';
+    }
+
+    if (inputId === 'domainInput') registerButton?.click();
+    if (inputId === 'domainTransferInput') transferButton?.click();
+  }
+}
+
+});
+
+    document.addEventListener('click', (e) => {
+      if (!container.contains(e.target) && e.target !== input) {
+        container.innerHTML = '';
+        container.style.display = 'none';
+        activeIndex = -1;
+      }
+    });
+  }
+
+  setupAutocomplete('domainInput', 'domainInputSuggestions', registerSuffixes);
+  setupAutocomplete('domainTransferInput', 'domainTransferInputSuggestions', registerSuffixes);
+});
+$(document).ready(function () {
+  $('.searchFormTabs a.nav-link').on('click', function (e) {
+    if ($(this).is($('.searchFormTabs a.nav-link').first())) {
+      $('.reg-show').css('display', 'block');
+    } else {
+      $('.reg-show').css('display', 'none');
+    }
+  });
+});
+</script><!-- <script type="text/javascript">document.addEventListener("DOMContentLoaded", function () {
+  if (window.innerWidth <= 991) return;
+
+  const boxes = document.querySelectorAll(".slider-custom_lt.slider8-custom_lt .slide-custom_lt");
+  const btn = document.querySelector(".btn-show-more-adds");
+  const visibleCount = 6;
+
+  if (!boxes || boxes.length === 0 || !btn) return;
+
+  function setHeightsForTriples() {
+    const boxGroups = [];
+    for (let i = 0; i < boxes.length; i += 3) {
+      const group = [boxes[i], boxes[i + 1], boxes[i + 2]].filter(Boolean);
+      if (group.length > 0) boxGroups.push(group);
+    }
+
+    boxGroups.forEach(group => {
+      let titleHeights = [];
+      let descHeights = [];
+      let priceHeights = [];
+
+      group.forEach(box => {
+        const title = box.querySelector('.mh-title');
+        const desc = box.querySelector('.mh-desc');
+        const price = box.querySelector('.mh-price');
+
+        titleHeights.push(title?.offsetHeight || 0);
+        descHeights.push(desc?.offsetHeight || 0);
+        priceHeights.push(price?.offsetHeight || 0);
+      });
+
+      const maxTitleHeight = Math.max(...titleHeights);
+      const maxDescHeight = Math.max(...descHeights);
+      const maxPriceHeight = Math.max(...priceHeights);
+
+      group.forEach(box => {
+        const title = box.querySelector('.mh-title');
+        const desc = box.querySelector('.mh-desc');
+        const price = box.querySelector('.mh-price');
+
+        if (title) title.style.minHeight = maxTitleHeight + 'px';
+        if (desc) desc.style.minHeight = maxDescHeight + 'px';
+        if (price) price.style.minHeight = maxPriceHeight + 'px';
+      });
+    });
+  }
+
+  function hideExtraBoxes() {
+    boxes.forEach((box, index) => {
+      if (index >= visibleCount) box.classList.remove('visible');
+      else box.classList.add('visible');
+    });
+    setHeightsForTriples();
+  }
+
+  function showAllBoxes() {
+    boxes.forEach(box => box.classList.add('visible'));
+    setHeightsForTriples();
+  }
+
+  function updateButtonText() {
+    const hiddenCount = [...boxes].filter(box => !box.classList.contains('visible')).length;
+    btn.textContent = btn.classList.contains("expanded") ? "Zobrazit méně" : `Zobrazit další (${hiddenCount})`;
+  }
+
+  hideExtraBoxes();
+  updateButtonText();
+
+  btn.addEventListener("click", function (e) {
+    e.preventDefault();
+    btn.classList.toggle("expanded");
+
+    if (btn.classList.contains("expanded")) showAllBoxes();
+    else hideExtraBoxes();
+
+    const target = document.getElementById("hp-subbanners");
+    if (target && !btn.classList.contains("expanded")) {
+      const offset = 100;
+      const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
+      window.scrollTo({ top: targetPosition, behavior: "smooth" });
+    }
+
+    updateButtonText();
+  });
+
+  window.addEventListener("load", function () {
+    boxes.forEach(box => {
+      const title = box.querySelector('.mh-title');
+      const desc = box.querySelector('.mh-desc');
+      const price = box.querySelector('.mh-price');
+
+      if (title) title.style.minHeight = title.offsetHeight + 'px';
+      if (desc) desc.style.minHeight = desc.offsetHeight + 'px';
+      if (price) price.style.minHeight = price.offsetHeight + 'px';
+    });
+  });
+
+  window.addEventListener("resize", function () {
+    if (window.innerWidth <= 991) return;
+    setHeightsForTriples();
+  });
+});
+</script> --><script type="text/javascript">
+  window.addEventListener('load', function () {
+    const boxes = document.querySelectorAll('.slider-custom_lt.slider8-custom_lt .slide-custom_lt');
+
+    if (boxes.length >= 6) {
+      let titleHeights = [];
+      let descHeights = [];
+      let priceHeights = [];
+
+      for (let i = 0; i < 6; i++) {
+        const title = boxes[i].querySelector('.mh-title');
+        const desc = boxes[i].querySelector('.mh-desc');
+        const price = boxes[i].querySelector('.mh-price');
+
+        titleHeights.push(title.offsetHeight);
+        descHeights.push(desc.offsetHeight);
+        priceHeights.push(price.offsetHeight);
+      }
+
+      const maxTitleHeight = Math.max(...titleHeights);
+      const maxDescHeight = Math.max(...descHeights);
+      const maxPriceHeight = Math.max(...priceHeights);
+
+      for (let i = 0; i < 6; i++) {
+        const title = boxes[i].querySelector('.mh-title');
+        const desc = boxes[i].querySelector('.mh-desc');
+        const price = boxes[i].querySelector('.mh-price');
+
+        title.style.minHeight = maxTitleHeight + 'px';
+        desc.style.minHeight = maxDescHeight + 'px';
+        price.style.minHeight = maxPriceHeight + 'px';
+      }
+    }
+  });
+</script><script type="text/javascript">
+document.addEventListener("DOMContentLoaded", function () {
+  if (window.innerWidth <= 991) {
+    // Na malých obrazovkách nedělej nic
+    return;
+  }
+
+  const boxes = document.querySelectorAll(".domain-promotions-box");
+  const btn = document.querySelector(".btn-show-more-boxes");
+  const visibleCount = 4; // Počet viditelných boxů (čtveřice)
+
+  // Funkce pro nastavení výšek pro .promotion-box_title pro každou čtveřici boxů
+  function setHeightsForPromotions() {
+    const boxGroups = []; // Pole pro uchování skupin čtyř boxů
+
+    // Rozdělíme boxy do skupin po 4
+    for (let i = 0; i < boxes.length; i += 4) {
+      const group = [boxes[i], boxes[i + 1], boxes[i + 2], boxes[i + 3]].filter(Boolean); // Filtrujeme prázdné boxy, pokud je jich méně než 4
+      if (group.length > 0) {
+        boxGroups.push(group);
+      }
+    }
+
+    // Pro každou skupinu čtyř boxů
+    boxGroups.forEach(group => {
+      let titleHeights = [];
+      
+      // Získáme výšky pro titulek pro každou čtveřici
+      group.forEach(box => {
+        const title = box.querySelector('.promotion-box_title');
+        titleHeights.push(title.offsetHeight);
+      });
+
+      // Určíme maximální výšku pro titulek v rámci této čtveřice
+      const maxTitleHeight = Math.max(...titleHeights);
+
+      // Nastavíme minimální výšku pro všechny titulky v této čtveřici
+      group.forEach(box => {
+        const title = box.querySelector('.promotion-box_title');
+        title.style.minHeight = maxTitleHeight + 'px';
+      });
+    });
+  }
+
+  // Funkce pro skrytí extra boxů
+  function hideExtraBoxes() {
+    boxes.forEach((box, index) => {
+      if (index >= visibleCount) {
+        box.classList.remove('visible');
+      } else {
+        box.classList.add('visible');
+      }
+    });
+
+    setHeightsForPromotions(); // Po změně viditelnosti boxů znovu nastavíme výšky pro čtveřice
+  }
+
+  // Funkce pro zobrazení všech boxů
+  function showAllBoxes() {
+    boxes.forEach(box => box.classList.add('visible'));
+    setHeightsForPromotions(); // Po zobrazení všech boxů nastavíme výšky pro čtveřice
+  }
+
+  // Funkce pro aktualizaci textu tlačítka
+  // function updateButtonText() {
+  //   const hiddenCount = [...boxes].filter(box => !box.classList.contains('visible')).length;
+  //   if (btn.classList.contains("expanded")) {
+  //     btn.textContent = "Zobrazit méně";
+  //   } else {
+  //     btn.textContent = `Zobrazit další (${hiddenCount})`;
+  //   }
+  // }
+
+  // Inicializace
+  setHeightsForPromotions(); // Ihned při načítání stránky nastavíme výšky pro čtveřice
+  hideExtraBoxes();
+  updateButtonText();
+
+  // Tlačítko pro zobrazení/skrytí boxů
+  btn.addEventListener("click", function (e) {
+    e.preventDefault();
+    btn.classList.toggle("expanded");
+
+    if (btn.classList.contains("expanded")) {
+      showAllBoxes();
+    } else {
+      hideExtraBoxes();
+      const target = document.getElementById("domain-promotions");
+      if (target) {
+        const offset = 100;
+const targetPosition = target.getBoundingClientRect().top + window.pageYOffset - offset;
+window.scrollTo({ top: targetPosition, behavior: "smooth" });
+      }
+    }
+
+    updateButtonText();
+  });
+});
+</script><script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function () {
+  class SliderAlwaysVisible {
+    constructor(selector) {
+      this.slider = document.querySelector(selector);
+      if (!this.slider) return;
+
+      this.wrapper = this.slider.querySelector('.slides-wrapper');
+      this.slides = Array.from(this.slider.querySelectorAll('.slide-item'));
+      this.prevBtn = document.querySelector('.slider-wrapper-outer .prev-visible');
+      this.nextBtn = document.querySelector('.slider-wrapper-outer .next-visible');
+      this.caption = this.slider.querySelector('.caption-visible');
+      this.dotsContainer = this.slider.querySelector('.dots-visible');
+
+      this.slideIndex = 0;
+      this.slidesPerView = 1;
+      this.totalPages = 0;
+
+      // Drag state
+      this.isDragging = false;
+      this.isClick = true;
+      this.startX = 0;
+      this.currentTranslate = 0;
+      this.prevTranslate = 0;
+      this.movedDistance = 0;
+      this.isTouch = false;
+
+      this.init();
+    }
+
+    init() {
+      this.setup();
+      this.createDots();
+      this.update();
+      this.attachEvents();
+    }
+
+    setup() {
+      const width = window.innerWidth;
+      if (width >= 1200) {
+        this.slidesPerView = 3;
+      } else if (width >= 992) {
+        this.slidesPerView = 2;
+      } else {
+        this.slidesPerView = 1;
+      }
+      this.totalPages = Math.ceil(this.slides.length / this.slidesPerView);
+    }
+
+    createDots() {
+      this.dotsContainer.innerHTML = '';
+      for (let i = 0; i < this.totalPages; i++) {
+        const dot = document.createElement('span');
+        dot.addEventListener('click', () => {
+          this.slideIndex = i;
+          this.setPositionByIndex();
+        });
+        this.dotsContainer.appendChild(dot);
+      }
+    }
+
+    update() {
+      this.setPositionByIndex(false);
+    }
+
+    next() {
+      this.slideIndex = (this.slideIndex + 1) % this.totalPages;
+      this.setPositionByIndex();
+    }
+
+    prev() {
+      this.slideIndex = (this.slideIndex - 1 + this.totalPages) % this.totalPages;
+      this.setPositionByIndex();
+    }
+
+    setPositionByIndex(withTransition = true) {
+       this.slides.forEach((slide, index) => {
+    const start = this.slideIndex * this.slidesPerView;
+    const end = start + this.slidesPerView;
+    if (index >= start && index < end) {
+      slide.classList.add('visible-box');
+    } else {
+      slide.classList.remove('visible-box');
+    }
+  });
+      const slideWidth = this.slider.offsetWidth / this.slidesPerView;
+      const offset = slideWidth * this.slidesPerView * this.slideIndex;
+      this.currentTranslate = -offset;
+      this.prevTranslate = this.currentTranslate;
+      this.wrapper.style.transition = withTransition ? 'transform 0.5s ease-out' : 'none';
+      this.wrapper.style.transform = `translateX(${this.currentTranslate}px)`;
+      this.caption.textContent = `${this.slideIndex + 1} / ${this.totalPages}`;
+      Array.from(this.dotsContainer.children).forEach((dot, index) => {
+        dot.classList.toggle('active', index === this.slideIndex);
+      });
+     
+    }
+
+    attachEvents() {
+      this.nextBtn.addEventListener('click', () => this.next());
+      this.prevBtn.addEventListener('click', () => this.prev());
+
+      window.addEventListener('resize', () => {
+        const oldSlidesPerView = this.slidesPerView;
+        this.setup();
+        if (oldSlidesPerView !== this.slidesPerView) {
+          this.slideIndex = 0;
+          this.createDots();
+        }
+        this.setPositionByIndex();
+      });
+
+      // Mouse
+      this.wrapper.addEventListener('mousedown', e => { this.isTouch = false; this.touchStart(e); });
+      this.wrapper.addEventListener('mousemove', e => { if (!this.isTouch) this.touchMove(e); });
+      this.wrapper.addEventListener('mouseup', e => { if (!this.isTouch) this.touchEnd(e); });
+      this.wrapper.addEventListener('mouseleave', e => { if (!this.isTouch) this.touchEnd(e); });
+
+      // Touch
+      this.wrapper.addEventListener('touchstart', e => { this.isTouch = true; this.touchStart(e); });
+      this.wrapper.addEventListener('touchmove', e => { if (this.isTouch) this.touchMove(e); });
+      this.wrapper.addEventListener('touchend', e => { if (this.isTouch) this.touchEnd(e); });
+    }
+
+    getPositionX(e) {
+      return e.type.includes('mouse') ? e.pageX : e.touches[0].clientX;
+    }
+
+    touchStart(e) {
+      this.isDragging = true;
+      this.isClick = true;
+      this.startX = this.getPositionX(e);
+      this.movedDistance = 0;
+      this.wrapper.style.transition = 'none';
+    }
+
+    touchMove(e) {
+      if (!this.isDragging) return;
+      const currentX = this.getPositionX(e);
+      const moved = currentX - this.startX;
+      this.movedDistance = moved;
+
+      if (!this.isTouch) {
+        // Desktop – okamžitý posun
+        if (Math.abs(moved) > 5) this.isClick = false;
+        this.currentTranslate = this.prevTranslate + moved;
+        this.wrapper.style.transform = `translateX(${this.currentTranslate}px)`;
+      }
+      // Mobile – neposouváme fyzicky, jen měříme movedDistance
+    }
+
+    touchEnd(e) {
+      if (!this.isDragging) return;
+      this.isDragging = false;
+
+      if (this.isTouch) {
+        // Mobile – reagujeme až po puštění
+        if (this.movedDistance < -50) {
+          this.slideIndex = (this.slideIndex + 1) % this.totalPages;
+        } else if (this.movedDistance > 50) {
+          this.slideIndex = (this.slideIndex - 1 + this.totalPages) % this.totalPages;
+        }
+      } else {
+        // Desktop – klasická logika
+        if (!this.isClick) {
+          const movedBy = this.currentTranslate - this.prevTranslate;
+          if (movedBy < -50) {
+            this.slideIndex = (this.slideIndex + 1) % this.totalPages;
+          } else if (movedBy > 50) {
+            this.slideIndex = (this.slideIndex - 1 + this.totalPages) % this.totalPages;
+          }
+        }
+      }
+
+      this.setPositionByIndex(true);
+    }
+  }
+
+  // INIT
+  new SliderAlwaysVisible('.slider-always-visible');
+});
+</script><script type="text/javascript">
+function setEqualHeight(selector) {
+  const elements = document.querySelectorAll(selector);
+  if (elements.length === 0) return;
+  let maxHeight = 0;
+  elements.forEach(el => { el.style.height = 'auto'; });
+  elements.forEach(el => {
+    const height = el.offsetHeight;
+    if (height > maxHeight) maxHeight = height;
+  });
+  elements.forEach(el => { el.style.height = maxHeight + 'px'; });
+}
+
+function applyHeights() {
+  setEqualHeight('h3.promotion-card_title');
+  setEqualHeight('p.promotion-card_description');
+}
+
+window.addEventListener('load', applyHeights);
+window.addEventListener('resize', function () {
+  clearTimeout(window._resizeTimeout);
+  window._resizeTimeout = setTimeout(applyHeights, 100);
+});
+</script><script type="text/javascript">
+document.addEventListener('DOMContentLoaded', function () {
+  class FpzSlider {
+    constructor(container) {
+      this.container = container;
+      this.slider = container.querySelector('.fpz-slider, .fpz-slider-1, .fpz-slider-2, .fpz-slider-3');
+      if (!this.slider) return;
+
+      this.wrapper = this.slider.querySelector('.fpz-slides');
+      this.slides = Array.from(this.slider.querySelectorAll('.fpz-slide'));
+      this.dotsContainer = container.querySelector('.fpz-dots');
+
+      this.slideIndex = 0;
+      this.slidesPerView = 1;
+      this.totalPages = 0;
+
+      this.isDragging = false;
+      this.isClick = true;
+      this.startX = 0;
+      this.startY = 0;
+      this.currentTranslate = 0;
+      this.prevTranslate = 0;
+      this.movedDistance = 0;
+      this.isTouch = false;
+
+      this.init();
+
+      // Uložíme instanci slideru pro šipky
+      this.slider.fpzInstance = this;
+    }
+
+    init() {
+      this.setup();
+      this.createDots();
+      this.update();
+      this.attachEvents();
+    }
+
+setup() { const width = window.innerWidth; let slidesPerView = this.slider.dataset.slidesDefault || "1"; if (width >= 1200 && this.slider.dataset.slidesXl) slidesPerView = this.slider.dataset.slidesXl; else if (width >= 992 && this.slider.dataset.slidesLg) slidesPerView = this.slider.dataset.slidesLg; else if (width >= 768 && this.slider.dataset.slidesMd) slidesPerView = this.slider.dataset.slidesMd; if (slidesPerView === "none") { this.slidesPerView = this.slides.length; this.totalPages = 1; this.wrapper.style.transform = "none"; if (this.dotsContainer) this.dotsContainer.innerHTML = ""; return; } this.slidesPerView = parseInt(slidesPerView, 10) || 1; this.totalPages = Math.ceil(this.slides.length / this.slidesPerView); }
+
+
+    createDots() {
+      if (!this.dotsContainer) return;
+      this.dotsContainer.innerHTML = '';
+      for (let i = 0; i < this.totalPages; i++) {
+        const dot = document.createElement('span');
+        dot.addEventListener('click', () => {
+          this.slideIndex = i;
+          this.setPositionByIndex();
+        });
+        this.dotsContainer.appendChild(dot);
+      }
+    }
+
+    update() {
+      this.setPositionByIndex(false);
+    }
+
+    next() {
+      this.slideIndex = (this.slideIndex + 1) % this.totalPages;
+      this.setPositionByIndex();
+    }
+
+    prev() {
+      this.slideIndex = (this.slideIndex - 1 + this.totalPages) % this.totalPages;
+      this.setPositionByIndex();
+    }
+
+    setPositionByIndex(withTransition = true) {
+      const slideWidth = this.slider.offsetWidth / this.slidesPerView;
+      const offset = slideWidth * this.slidesPerView * this.slideIndex;
+      this.currentTranslate = -offset;
+      this.prevTranslate = this.currentTranslate;
+      this.wrapper.style.transition = withTransition ? 'transform 0.5s ease-out' : 'none';
+      this.wrapper.style.transform = `translateX(${this.currentTranslate}px)`;
+
+      if (this.dotsContainer) {
+        Array.from(this.dotsContainer.children).forEach((dot, index) => {
+          dot.classList.toggle('active', index === this.slideIndex);
+        });
+      }
+    }
+
+    attachEvents() {
+      window.addEventListener('resize', () => {
+        const oldSlidesPerView = this.slidesPerView;
+        this.setup();
+        if (oldSlidesPerView !== this.slidesPerView) {
+          this.slideIndex = 0;
+          this.createDots();
+        }
+        this.setPositionByIndex();
+      });
+
+      this.wrapper.addEventListener('mousedown', e => { this.isTouch = false; this.touchStart(e); });
+      this.wrapper.addEventListener('mousemove', e => { if (!this.isTouch) this.touchMove(e); });
+      this.wrapper.addEventListener('mouseup', e => { if (!this.isTouch) this.touchEnd(e); });
+      this.wrapper.addEventListener('mouseleave', e => { if (!this.isTouch) this.touchEnd(e); });
+
+      this.wrapper.addEventListener('touchstart', e => { this.isTouch = true; this.touchStart(e); });
+      this.wrapper.addEventListener('touchmove', e => { if (this.isTouch) this.touchMove(e); });
+      this.wrapper.addEventListener('touchend', e => { if (this.isTouch) this.touchEnd(e); });
+    }
+
+    getPositionX(e) {
+      return e.type.includes('mouse') ? e.pageX : e.touches[0].clientX;
+    }
+
+    touchStart(e) {
+      this.isDragging = true;
+      this.isClick = true;
+      this.startX = this.getPositionX(e);
+      this.startY = e.type.includes('mouse') ? e.pageY : e.touches[0].clientY;
+      this.movedDistance = 0;
+      this.wrapper.style.transition = 'none';
+    }
+
+    touchMove(e) {
+      if (!this.isDragging) return;
+      const currentX = this.getPositionX(e);
+      const currentY = e.type.includes('mouse') ? e.pageY : e.touches[0].clientY;
+      const diffX = currentX - this.startX;
+      const diffY = currentY - this.startY;
+
+      if (Math.abs(diffX) > Math.abs(diffY)) {
+        e.preventDefault();
+        if (Math.abs(diffX) > 5) this.isClick = false;
+        this.currentTranslate = this.prevTranslate + diffX;
+        this.wrapper.style.transform = `translateX(${this.currentTranslate}px)`;
+        this.movedDistance = diffX;
+      }
+    }
+
+    touchEnd(e) {
+      if (!this.isDragging) return;
+      this.isDragging = false;
+
+      const movedBy = this.currentTranslate - this.prevTranslate;
+      if (movedBy < -50) this.next();
+      else if (movedBy > 50) this.prev();
+      else this.setPositionByIndex(true);
+    }
+  }
+
+  // Inicializace všech sliderů
+  document.querySelectorAll('.fpz-slider-container').forEach(container => new FpzSlider(container));
+
+  // Globální šipky uvnitř containeru
+  document.querySelectorAll('.fpz-slider-container').forEach(container => {
+    const prevBtn = container.querySelector('.fpz-prev');
+    const nextBtn = container.querySelector('.fpz-next');
+    const slider = container.querySelector('.fpz-slider, .fpz-slider-1, .fpz-slider-2, .fpz-slider-3');
+
+    if (slider && slider.fpzInstance) {
+      if (prevBtn) prevBtn.addEventListener('click', () => slider.fpzInstance.prev());
+      if (nextBtn) nextBtn.addEventListener('click', () => slider.fpzInstance.next());
+    }
+  });
+});
+</script>
+
+
+
+
+          </div>
+  </section> 
+</main>
+  <footer id="main-footer">
+    <div class="container">
+      <div class="wrapper">
+        <ul class="partners">
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/cisco-min.png" alt="Cisco" width="72" height="39">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/cisco-min.png" alt="Cisco">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/vmware-min.png" alt="vmware" width="115" height="18">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/vmware-min.png" alt="vmware">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/fortinet-min.png" alt="Fortinet" width="124" height="14">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/fortinet-min.png" alt="Fortinet">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/dell-min.png" alt="Dell" width="46" height="46">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/dell-min.png" alt="Dell">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/mysql-min.png" alt="MySQL" width="89" height="45">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/mysql-min.png" alt="MySQL">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/sql-server-min.png" alt="MSSQL Server" width="64" height="52">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/sql-server-min.png" alt="MSSQL Server">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/windows-server-min.png" alt="Windows Server" width="99" height="41">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/windows-server-min.png" alt="Windows Server">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/Minified/linux-min.png" alt="Linux" width="86" height="37">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/Minified/linux-min.png" alt="Linux">
+</noscript>
+          </li>
+          <li>
+            <img class="lazy" data-src="/ForpsiCZ/media/Forpsi/DV_SSL/ssl_badge_S_gray.png" alt="SSL">
+<noscript>
+  <img src="/ForpsiCZ/media/Forpsi/DV_SSL/ssl_badge_S_gray.png" alt="SSL">
+</noscript>
+          </li>
+        </ul>
+        <!-- BEGIN FOOTER MENU -->
+<div class="row row-flex-sm footer-custom-pt-1">
+<a href="#" class="scroll-to-top">nahoru<span class="glyphicon glyphicon-menu-up"></span></a><p class="accordion__footer-button">FORPSI</p>
+
+<div class="col-md-15 accordion__footer">
+    <h3>FORPSI</h3>
+
+    <ul>
+        <li>
+            <a href="/o-nas" target="_blank">O nás</a>
+        </li>
+
+        <li>
+            <a href="/historie-forpsi" target="_blank">Historie FORPSI</a>
+        </li>
+
+        <li>
+            <a href="/promotions" target="_blank">Akční nabídky</a>
+        </li>
+
+        <li>
+            <a href="/volna-mista/?lang=cs-cz" target="_blank">Volná místa</a>
+        </li>
+
+        <li>
+            <a href="/pro-media" target="_blank">Pro média</a>
+        </li>
+
+        <li>
+            <a href="http://dc.forpsi.com/" target="_blank">Datacentrum</a>
+        </li>
+
+        <li>
+            <a href="/documents/">Smluvní dokumenty</a>
+        </li>
+
+        <li>
+            <a href="https://www.forpsi.com/agreements_docs/cookies/zasadycookie.aspx/" target="_blank">Cookies</a>
+        </li>
+
+        <li>
+            <a href="#" onclick="javascript: Cookiebot.renew()">Nastavení cookies</a>
+        </li>
+
+        <li>
+            <a href="/csirt/">CSIRT</a>
+        </li>
+
+        <li>
+            <a href="https://blog.forpsi.com/" target="_blank">Blog</a>
+        </li>
+        <li>
+            <a href="/nis2" target="_blank">NIS2</a>
+        </li>
+        <li>
+            <a href="/ForpsiCZ/media/Forpsi/Documents/tc-files/ICZ_spolecenska-odpovednost.pdf" target="_blank">Společenská odpovědnost</a>
+        </li>
+    </ul>
+</div><p class="accordion__footer-button">Domény</p>
+<div class="col-md-15 accordion__footer">
+<h3>Domény</h3>
+<ul>
+<li>
+    <a href='https://objednavka.forpsi.com/domain/cart-order.php'>Registrace domény</a>
+</li><li>
+    <a href='https://objednavka.forpsi.com/domain/cart-order.php'>Hromadná registrace domén</a>
+</li><li>
+    <a href='https://objednavka.forpsi.com/domain/cz.php'>Správa .CZ domén</a>
+</li><li>
+    <a href='/registrace-transfer-domeny-sk/'>Domény .SK</a>
+</li><li>
+    <a href='/domain/pricelist/'>Ceník domén</a>
+</li><li>
+    <a href='https://objednavka.forpsi.com/domain/transfer.php?new=1'>Změna registrátora</a>
+</li><li>
+    <a href='/doplnkove-sluzby'>Doplňkové služby</a>
+</li><li>
+    <a href='https://support.forpsi.com/kb/c53/domeny.aspx'>Domény: FAQ</a>
+</li><li>
+    <a href='/domain/new-gtld-cloud/'>Nová gTLD .CLOUD</a>
+</li>
+</ul>
+<div class="" >
+   <!-- <ul class="certifikares" style="text-align: center;">
+            <li class="hidden-lg lazy" style="position: absolute; bottom: 10px; left: 100px;">
+                <img alt="Silver partner" data-src="/ForpsiCZ/media/Forpsi/Minified/silver_partner-lg.png" width="300px" height="" />
+                <noscript><img alt="Silver partner" src="/ForpsiCZ/media/Forpsi/Minified/silver_partner-lg.png"></noscript></li>
+        </ul>-->
+</div>
+</div><p class="accordion__footer-button">Webhosting</p>
+<div class="col-md-15 accordion__footer">
+<h3>Webhosting</h3>
+<ul>
+<li>
+    <a href='/webhosting/pricelist/'>Nabídka a ceník webhostingu</a>
+</li><li>
+    <a href='/webhosting/cms-content-management-system/'>CMS hosting</a>
+</li><li>
+    <a href='/webhosting/professional/'>Webhosting Professional</a>
+</li><li>
+    <a href='/webhosting/advanced/'>Webhosting Advanced</a>
+</li><li>
+    <a href='/webhosting/easy/'>Webhosting Easy</a>
+</li><li>
+    <a href='/webhosting/adds/'>Doplňkové služby</a>
+</li><li>
+    <a href='/webhosting/assisted-migration/'>Asistovaná migrace</a>
+</li><li>
+    <a href='/webhosting/webhosting-faq/'>Webhosting: FAQ</a>
+</li>
+</ul>
+</div><p class="accordion__footer-button">Balíčky</p>
+
+<div class="col-md-15 accordion__footer">
+<h3>Balíčky</h3>
+
+<ul>
+	<li><a href="/package/pricelist/">Nabídka a ceník Balíčků</a></li>
+	<li><a href="/package/professional/">Balíček Professional</a></li>
+	<li><a href="/package/advanced/">Balíček Advanced</a></li>
+	<li><a href="/package/easy/">Balíček Easy</a></li>
+	<li><a href="/package/adds/">Doplňkové služby</a></li>
+</ul>
+</div>
+
+
+
+
+<div class="col-md-15"><p class="accordion__footer-button">Cloud</p>
+<div class="accordion__footer">
+    <h3>Cloud</h3>
+    <ul>
+        <li><a target="_blank" href="https://www.forpsicloud.cz/">Cloudové služby</a></li>
+    </ul>
+</div>
+<p class="accordion__footer-button">SSL</p>
+<div class="accordion__footer ssl-custom-1201-margin">
+    <h3>SSL</h3>
+    <ul>
+        <li><a target="_blank" href="/ssl">Certifikáty</a></li>
+    </ul>
+</div>
+<p class="accordion__footer-button">MARKETING</p>
+<div class="accordion__footer ssl-custom-1201-margin">
+    <h3>MARKETING</h3>
+    <ul>
+        <li><a target="_blank" href="/rankingCoach">rankingCoach</a></li>
+    </ul>
+</div></div>
+<p class="accordion__footer-button">Servery</p>
+<div class="col-md-15 accordion__footer">
+    <h3>Servery</h3>
+    <ul>
+        <li><a href="/virtual/">Classic VPS</a></li>
+        <li><a href="/serverdedicated/">Dedikované servery</a></li>        
+        <li><a href="/serverdedicated/adds/MS-licences/">Operační systémy a databáze</a></li>
+        <li><a href="/serverdedicated/adds/control-panel/">Control panel PLESK</a></li>
+        <li><a href="/serverdedicated/adds/drac-card/">Karta pro vzdálený přístup, KVM</a></li>
+        <li><a href="/serverdedicated/adds/backupspace/">Prostor pro zálohy</a></li>
+        <li><a href="/serverdedicated/adds/monitoring/">Monitoring serveru</a></li>
+<li><a href="/serverdedicated/adds/hw-firewall/">Hardwarový firewall</a></li>
+        <li><a href="/serverdedicated/adds/switch/">Switch pro infrastrukturu</a></li>
+        
+        <li><a target="_blank" href="http://dc.forpsi.com/">Datacentrum</a></li>
+    </ul>
+</div><p class="accordion__footer-button">Housing</p>
+<div class="col-md-15 accordion__footer">
+    <h3>Housing</h3>
+    <ul>
+        <li><a href="/housing/private/">Housing Ktiš</a></li>
+        <li><a href="/housing/adds/backupspace/">Prostor pro zálohy</a></li>
+        <li><a href="/housing/adds/oversizeserver/">Rozměr serveru</a></li>
+        <li><a href="/housing/adds/serverpower/">Příkon serveru</a></li>
+        <li><a href="/housing/adds/monitoring/">Doplňkové služby</a></li>
+        
+        <li><a target="_blank" href="http://dc.forpsi.com">Serverovna Ktiš</a></li>
+        <li><a href="/agreements/regulations/">Provozní řády serveroven</a></li>
+    </ul>
+</div><p class="accordion__footer-button">Support</p>
+<div class="col-md-15 accordion__footer">
+    <h3>Support</h3>
+    <ul>
+        <li>
+            <a href="https://support.forpsi.com/KB/browse.aspx" target="_blank">Znalostní báze</a>
+        </li>
+        <li>
+            <a href="https://support.forpsi.com/Main/" target="_blank">Kontaktní formulář</a>
+        </li>
+        <li>
+            <a href="/contacts/" target="_blank">Telefon</a>
+        </li>
+        <li>
+            <a href="/report-abuse/" target="_blank">Nahlásit zneužití</a>
+        </li>
+        <li>
+            <a href="/Bezpecnost/Jak-se-branit-online-podvodum" target="_blank">Chraňte se před podvody</a>
+        </li>
+        <li>
+            <a href="/contacts/" target="_blank">Ostatní kontakty</a>
+        </li>
+    </ul>
+    <div class="subitem">
+        <h3 class="opc-1">Sociální sítě</h3>
+        <ul class="social">
+            <li><a class="facebook" href="https://www.facebook.com/Forpsi">&nbsp;</a></li>
+            <li><a class="twitter" href="https://x.com/forpsi">&nbsp;</a></li>
+            <!--<li><a class="google" href="https://plus.google.com/103001974001138083773/">&nbsp;</a></li>-->
+        </ul>
+    </div>
+</div></div>
+<!-- END FOOTER MENU -->
+      </div>
+    </div>
+    <div class="copyright">
+      <div class="container">
+        <div class="wrapper">           
+          <div class="footer-logos-wrapper">
+    <h3><a href="/certifikaty">Certifikáty a služby</a></h3>
+
+    <div class="footer-logos-container">
+        <div class="footer-logos footer-logos-certificates">
+            <div>
+                <img alt="TUV" data-src="/ForpsiCZ/media/Forpsi/Minified/tuv_1.png" class="lazy" />
+                <noscript><img alt="TUV" src="/ForpsiCZ/media/Forpsi/Minified/tuv_1.png" /></noscript>
+            </div>
+        
+            
+
+        
+            <div>
+                <img alt="Akreditovaný registrátor" data-src="/ForpsiCZ/media/Forpsi/Minified/sknic.png" class="lazy" />
+                <noscript><img alt="Akreditovaný registrátor" src="/ForpsiCZ/media/Forpsi/Minified/sknic.png" /></noscript>
+            </div>
+
+            <div>
+                <img alt="Fenix logo" data-src="/ForpsiCZ/media/Forpsi/Certificates/cz_seal_01.png" class="lazy" />
+                <noscript><img alt="Fenix logo" src="/ForpsiCZ/media/Forpsi/Certificates/cz_seal_01.png" /></noscript>
+            </div>
+        
+            <div>
+                <img alt="Dell logo" data-src="/ForpsiCZ/media/Forpsi/Minified/DT_PlatinumPartner_4C.png" class="lazy" />
+                <noscript><img alt="Dell logo" src="/ForpsiCZ/media/Forpsi/Minified/DT_PlatinumPartner_4C.png" /></noscript>
+            </div>
+        
+            <a href="https://dc.forpsi.com/">
+                <img alt="OTE logo" data-src="/ForpsiCZ/media/Forpsi/Minified/ote_logo_min.png" class="lazy" />
+                <noscript><img alt="OTE logo" src="/ForpsiCZ/media/Forpsi/Minified/ote_logo_min.png" /></noscript>
+            </a>
+        </div>
+    
+        <div class="footer-logos footer-logos-services">
+            <div>
+                <img alt="MojeID logo" data-src="/ForpsiCZ/media/Forpsi/Minified/mojeID_logo_min.png" class="lazy" />
+                <noscript><img alt="MojeID logo" src="/ForpsiCZ/media/Forpsi/Minified/mojeID_logo_min.png" /></noscript>
+            </div>
+    
+            <div>
+                <img alt="PayPal logo" data-src="/ForpsiCZ/media/Forpsi/Minified/PP_logo_h_100x26.png" class="lazy" />
+                <noscript><img alt="PayPal logo" src="/ForpsiCZ/media/Forpsi/Minified/PP_logo_h_100x26.png" /></noscript>
+            </div>
+    
+            <div>
+                <img alt="GoPay logo" data-src="/ForpsiCZ/media/Forpsi/Minified/gopay-min.png" class="lazy" />
+                <noscript><img alt="GoPay logo" src="/ForpsiCZ/media/Forpsi/Minified/gopay-min.png" /></noscript>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style type="text/css">
+    .footer-logos-wrapper {
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .footer-logos-wrapper h3 {
+        min-height: 0 !important;
+        margin: 0 0 15px 0 !important;
+        padding: 0 !important;
+    }
+
+    .footer-logos-wrapper h3 a {
+        color: inherit;
+        text-decoration: none;
+    }
+
+    .footer-logos-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        row-gap: 40px;
+        column-gap: 20px;
+    }
+
+    .footer-logos {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .footer-logos-services {
+        column-gap: 35px;
+        row-gap: 25px;
+    }
+
+    .footer-logos-certificates img {
+        max-height: 53px;
+    }
+
+    .footer-logos-services img {
+        max-height: 26px;
+    }
+</style>
+
+
+
+
+<p class="fll">&copy; 2003 - 2025 FORPSI All rights reserved.</p>
+        </div>
+      </div> 
+    </div>         
+  </footer>
+</div>
+
+
+<script src="https://inres.uspech.sk/js/rsysc.js"></script>
+
+<script src="/CMSScripts/Custom/Forpsi/bootstrap5.js"></script>
+
+<script type="text/javascript" src="/CMSScripts/Custom/Forpsi/script2024.js?v=421&r=652C43B3337F6226333C547A4E42A5B2"></script>
+  <script src="/CMSScripts/Custom/Forpsi/jquery.bxslider.min.js?v=45" type="text/javascript"></script>
+    <script src="/CMSScripts/Custom/Forpsi/dfix.js?v=45"></script>
+  <script src="/CMSScripts/Custom/Forpsi/mfix.js?v=45"></script>
+
+    
+    
+<script src="/CMSScripts/Custom/Forpsi/sliderpage.js?v=421" type="text/javascript"></script>  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="b1w4fjdHooxiW0v8/2pdFwr01jIM1AP6WYltVWrryIfRmwFT5LlJaz5R8Fsfvg4rZDB04myH5UV352cJxgOL4xBkUIQhB2Jqm88cwboZbcrw2zXWMKKnhNV0vMhh3Ew+5y5AdRMIp2nNXZTwJ95R1eRM3oV5sljNtsjzF6sUVsHdFGpxVog06bfy2dQ0SjhEf8P6XWykv/MbjOpcF36z2ZIdw/MWJ+YNVZq7MWy1RF0w+VdWkOwdOCzGmRU4wRZIhC9DieE70ipjPrTpbXpXyrFsnbQgUZQAK1F18AHm3VjjAvszN7Zf3o7DKfrFyLRrLr3O+2DDs1O/JghgfLVpiCj+d/Hq26J8VgsuRCwfBTrKz9NvEnUE6OhADqrOa0oXjNoayNiiz58HglD6LsVq5NhY+i1ZqDIZJo/HpD4qqKDliuQb7NU9odMKs4upy5QsQFz0R9T2V9xDmvASlj0BlonM5zsw2IeUEjVBBJXXeouuivcuQ8AV4pbjeWSGYwqYW1MyR9KkdQ1OG3V8X4bLQHG4Eq/4VVmTPfYZCdBMPtMMlen//XYI4KBTaniy3yIZAyDcvmf1BQlZ8WL3cGi6USZTIp6TInJyS1OnMcWSjoSkEtkizUATJAPhzsX3Vv4HN9iLxcAi5Bybukr31yzR3dvZWmGP2AeHnYT9YGayx8FxaVHzxczMpUL61zn50g90yAn3zcfCO/GlZQKVYeczwyQG7PNsyXZIoSFZAv25MAde2lrQDD0g9SazGcZucOa1MhvG8dDCt7XqJdAAO3oUrpprBrwPvVyZz1CzQLvAT2BZM+ScbgluTPZwZ/XG6osC5yP1aNvD849+u2u5bklVdkEdxoR60LuS9c0d6+k3q4haCsuAHv+vJyVl6UqI9C6CnJ7DC/rov44uI6lLRQEDNBP2r+Xhay4TZxvX3OcbJ2YalxQSGzMhQB30wiQb5/0KvPkARdylg1tb0tBlb2lQkZOIs/IAwXt09dAcquchvfRk9HOGLoo8rYQT+WnfB1wYpczsNzG6m+WyhCOuJe06J1oVGNeGdjkMBoWHrl1gy8BuSPbnoc3CnkChpIjQLbVk04yqFOEHWAGJ7R6GkcNMJYiyJdh9C+0zujSRRGAVYqkzNTMHT2aket3tz43Cv4f+oEIjxesTD1PWi8MZvU77lZx5gahFFRZRzFrixHoMfo1VYCMiPty2etquK7C/OTJ3RI+MaOlHqDVZoFXmfPxfsNBHVqpmmVySwGte+hFbGMapEYbKaxmy5qI9BnQdyqvUoBmYbbaLx3TNcydaW4O3joemtHz9EqJR3mPtunuP2uND0YQCkbla0hiavmXqWx5Gml/AqTHNeCbR1BCr/oTuAQqqOhxwo2IGIKFqWjwjjDVSuAa9y32qR8876+BJCcGpmdhp1XLtZKU4XHtjc9nJd5f+hOi7vLSNsnyjoDO+UBU0raNjxQbx2dDMN9RM6yoNZklwxcMQjkecejsBwvTGkl6/lNG+sudnFG04olPjW8P+buF/FnDlDamvLSLQibvrwpBGUOIbs2MOFlkTDLcpI6cBxfHp4dV8BQyyIPI6VHakhFwrfpQsMDbgtNI4TzDpHwfjF7YqlzezUg6yQQvByrA6FCAC/AtDxdRju4Sj6t8BgcPqEqrIBqk7UXxjU5dq9zpSRX8hc9Q1jSg+4wUxs3alBcw5K38oRZVQFOn3kV7W1XGn" />
+  <script type="text/javascript">
+      //<![CDATA[
+      if (window.WebForm_InitCallback) {
+        __theFormPostData = '';
+        __theFormPostCollection = new Array();
+        window.WebForm_InitCallback();
+      }
+      //]]>
+    </script>
+  </form>
+</body>
+</html>

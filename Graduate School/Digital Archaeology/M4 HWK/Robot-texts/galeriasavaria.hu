@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /uzenetek/
+Disallow: /products-connect/*
+Disallow: /*/related-search/*
+Disallow: /*/related/*
+Disallow: /*/showcase/*
+
+Sitemap: https://galeriasavaria.hu/sitemap/sitemap.xml

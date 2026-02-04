@@ -1,0 +1,25 @@
+User-agent: Googlebot
+Disallow: /embed/
+Disallow: *?_ga
+Disallow: */komentar
+Disallow: /search
+Disallow: */logout
+Disallow: *?utm
+Disallow: /api$
+Disallow: /api/
+Disallow: *?tipe=video
+Disallow: *?tipe=berita
+Disallow: *?tipe=foto
+Disallow: *?co03102
+Disallow: *?zoom_foto
+Disallow: *?tipe=&date
+Disallow: */tag_from
+Disallow: *?fbclid
+Disallow: *?co=
+Disallow: */dashboard
+Disallow: *tag/*/amp
+
+User-agent: *
+Allow: /
+Sitemap: https://beautynesia.id/sitemap.xml
+

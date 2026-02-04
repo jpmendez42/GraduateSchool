@@ -1,0 +1,12 @@
+Sitemap: https://www.ilmilanista.it/wp-sitemap.xml
+
+Sitemap: https://www.ilmilanista.it/sitemap-news.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /*?app_v2
+Disallow: /*?app_v1
+
+# ---------------------------
+# END YOAST BLOCK

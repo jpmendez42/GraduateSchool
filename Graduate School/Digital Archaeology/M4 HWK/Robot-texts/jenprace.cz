@@ -1,0 +1,32 @@
+User-agent: *
+
+Disallow: /ucet/prihlaseni/*
+Disallow: /cdn-cgi/
+Disallow: /uzitecne-informace/vypocet-nemocenske?*brutto=*
+
+Disallow: /nabidky*page_dbox*
+Disallow: /nabidky*do=infinityNextPage*
+Disallow: /*?do=candidatePopUp-*
+
+Disallow: /data/*
+Disallow: /mosaic/*
+
+Sitemap: https://www.jenprace.cz/sitemap.xml
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /

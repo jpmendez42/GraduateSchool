@@ -1,0 +1,39 @@
+User-agent: bingbot
+Crawl-delay: 20
+
+# https://imagesift.com/about
+User-Agent: ImagesiftBot
+Crawl-delay: 20
+
+# https://ahrefs.com/robot/
+User-Agent: AhrefsBot
+Crawl-delay: 20
+
+# https://webmaster.petalsearch.com/site/petalbot
+User-Agent: PetalBot
+Crawl-delay: 20
+
+# https://moz.com/help/moz-procedures/crawlers/dotbot
+User-Agent: dotbot
+Crawl-delay: 20
+
+User-agent: Yandex
+User-agent: Baiduspider
+Disallow: /
+
+# Disallow KI from Indexing
+# https://fotocommunity.atlassian.net/browse/PROD-15708
+User-agent: GPTBot
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /static/
+Disallow: /pc/calendarpaper.php?*
+Disallow: /forum/search.php?*
+Disallow: /fm.php
+
+Disallow: /photo-comments/*
+Disallow: /contacts/*
+
+Sitemap: http://www.fotocommunity.de/sitemaps/sitemap-fc-de.xml

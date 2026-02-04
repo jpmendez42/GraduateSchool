@@ -1,0 +1,42 @@
+# linternaute.fr
+
+User-agent: Mediapartners-Google*
+Disallow:
+
+User-agent: *
+Disallow: /recherche/
+Disallow: /*xhr
+Disallow: /api/
+
+# Open data
+Disallow: /auto/accident/*,
+Disallow: /auto/accident/*/*/*-
+Disallow: /auto/accident/recherche
+Disallow: /voyage/climat/*,
+Disallow: /voyage/climat/recherche
+Disallow: /ville/recherche
+Disallow: /sortir/rue-paris/recherche
+Disallow: /actualite/delinquance/recherche
+Disallow: /actualite/pollution/recherche
+
+Sitemap: http://www.linternaute.fr/sitemap/
+Sitemap: http://www.linternaute.fr/expression/google-sitemaps.xml
+
+User-agent: trendkite-akashic-crawler
+Disallow: /
+
+# Block https://opensiteexplorer.org/dotbot
+User-agent: dotbot
+Disallow: /
+
+# Block http://ahrefs.com/robot/
+User-agent: AhrefsBot
+Disallow: /
+
+# Block https://dataforseo.com/dataforseo-bot
+User-agent: DataForSeoBot
+Disallow: /
+
+# Block https://www.semrush.com/bot/
+User-agent: SemrushBot
+Disallow: /

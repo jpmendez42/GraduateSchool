@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /sfvc/inboundlinks/
+Disallow: /?Visit=*
+Disallow: /tracking/*
+Disallow: /stayfriends//_-S-_-C
+Disallow: /stayfriends//_-S-_-S
+Disallow: /stayfriends//_-P-_-P
+Disallow: /de/faq
+Disallow: /kuendigung/
+Sitemap: https://www.stayfriends.de/sitemaps/1/1/sitemap.xml.gz

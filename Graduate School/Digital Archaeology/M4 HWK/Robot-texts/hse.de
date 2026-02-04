@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /website-dach/
+Disallow: /av/
+Disallow: /cv/
+Disallow: /searchresult/
+
+User-agent: GPTBot
+Disallow: /fragment/
+
+Sitemap: https://www.hse.de/sitemap-2.xml

@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /szukaj*
+Disallow: /?fb_
+Disallow: /user-files*
+Disallow: /paywall/*
+Disallow: /user-session-proxy/*
+Disallow: /partials/*
+Disallow: /subskrypcja?
+Disallow: /*/wszystkie-komentarze?p=/forum/
+Disallow: /*/wszystkie-komentarze.aspx?p=/forum/
+Disallow: /*?utm_aureus=*
+Disallow: /__acc/
+Disallow: /_cdf/
+Disallow: /_variant/
+Disallow: /a8f4d8cd95e164917035b64b867a45dd

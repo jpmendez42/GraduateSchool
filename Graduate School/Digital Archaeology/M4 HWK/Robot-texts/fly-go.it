@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /risultatiRicercaVoli
+Disallow: /zboruri
+Disallow: /vuelos
+Disallow: /flights
+Disallow: /ricerca
+Disallow: /risultatiRicerca
+Disallow: /cauta
+Disallow: /rezultate
+
+Disallow: /priceConfirmation
+Disallow: /confermaPrezzo
+Disallow: /confirmacionDePrecio
+Disallow: /confirmare-pret
+Disallow: /confirmarePret
+
+Disallow: /bookingFlight
+Disallow: /prenotaVolo
+Disallow: /reservaVuelo
+Disallow: /rezerare-zbor
+Disallow: /rezervareZbor
+
+Disallow: /additionalServices
+Disallow: /serviziAggiuntivi
+Disallow: /serviciosAdicionales
+Disallow: /servicii-aditionale
+Disallow: /serviciiAditionale
+
+Disallow: /payment
+Disallow: /pagamento
+Disallow: /pago
+Disallow: /plata
+
+Disallow: /paymentLoading
+Disallow: /pagamentoCaricamento
+Disallow: /pagoCargando
+Disallow: /procesare-plata
+Disallow: /procesarePlata
+
+Disallow: /bookingConfirmation
+Disallow: /riepilogoPrenotazioneVolo
+Disallow: /estadoTransaccion
+Disallow: /comfirmare-plata
+Disallow: /confirmarePret

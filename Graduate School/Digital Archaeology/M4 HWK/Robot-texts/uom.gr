@@ -1,0 +1,16 @@
+User-agent: *
+Crawl-delay: 60
+
+User-agent: *
+Disallow: /*?*
+
+User-agent: *
+Disallow: /admin
+Disallow: /assets/ftp
+Disallow: /assets/site/temp
+Disallow: /assets/ws
+Disallow: /config
+#Disallow: /mon
+Disallow: /system
+Disallow: /ws
+Sitemap: https://www.uom.gr/sitemap-index.xml.gz

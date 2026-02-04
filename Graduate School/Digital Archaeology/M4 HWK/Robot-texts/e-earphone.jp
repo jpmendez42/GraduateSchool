@@ -1,0 +1,245 @@
+# we use Shopify as our ecommerce platform
+
+
+
+
+
+User-agent: *
+Disallow: /a/downloads/-/*
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /70029902065/checkouts
+Disallow: /70029902065/orders
+Disallow: /carts
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /collections/*%2b*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: /*/collections/*%2b*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /blogs/*%2b*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*/blogs/*%2b*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /*/*?*ls%3d*%3fls%3d*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /recommendations/products
+Disallow: /*/recommendations/products
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-%E3%83%91%E3%83%8A%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF-%E3%83%86%E3%82%AF%E3%83%8B%E3%82%AF%E3%82%B9%E9%99%A4%E5%A4%96
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-kingsound
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-qdc
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-sensaphonics
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-noble-audio
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-64-audio
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-dunu-topsound
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-beat-audio
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-lotoo
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-grado
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-victor
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-focal
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-dita
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-faudio
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-flipears
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-teac
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-sonore
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-clariar
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-volumio
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-rme
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-prism-sound
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-love-harmony
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-lavry-engineering
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-esoteric
+    
+      
+      Disallow: /collections/%E6%96%B0%E5%93%81-aurender
+    
+Sitemap: https://www.e-earphone.jp/sitemap.xml
+
+User-agent: adsbot-google
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /carts
+Disallow: /orders
+Disallow: /70029902065/checkouts
+Disallow: /70029902065/orders
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /cdn/wpm/*.js
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+Disallow: /a/downloads/-/*
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /70029902065/checkouts
+Disallow: /70029902065/orders
+Disallow: /carts
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /collections/*%2b*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: /*/collections/*%2b*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /blogs/*%2b*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*/blogs/*%2b*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /*/*?*ls%3d*%3fls%3d*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Sitemap: https://www.e-earphone.jp/sitemap.xml
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
+Disallow: /a/downloads/-/*
+Disallow: /admin
+Disallow: /cart
+Disallow: /orders
+Disallow: /checkouts/
+Disallow: /checkout
+Disallow: /70029902065/checkouts
+Disallow: /70029902065/orders
+Disallow: /carts
+Disallow: /account
+Disallow: /collections/*sort_by*
+Disallow: /*/collections/*sort_by*
+Disallow: /collections/*+*
+Disallow: /collections/*%2B*
+Disallow: /collections/*%2b*
+Disallow: /*/collections/*+*
+Disallow: /*/collections/*%2B*
+Disallow: /*/collections/*%2b*
+Disallow: */collections/*filter*&*filter*
+Disallow: /blogs/*+*
+Disallow: /blogs/*%2B*
+Disallow: /blogs/*%2b*
+Disallow: /*/blogs/*+*
+Disallow: /*/blogs/*%2B*
+Disallow: /*/blogs/*%2b*
+Disallow: /*?*oseid=*
+Disallow: /*preview_theme_id*
+Disallow: /*preview_script_id*
+Disallow: /policies/
+Disallow: /*/policies/
+Disallow: /*/*?*ls=*&ls=*
+Disallow: /*/*?*ls%3D*%3Fls%3D*
+Disallow: /*/*?*ls%3d*%3fls%3d*
+Disallow: /search
+Disallow: /apple-app-site-association
+Disallow: /.well-known/shopify/monorail
+Disallow: /cdn/wpm/*.js
+Disallow: /products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Disallow: /*/collections/*/products/*-[a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9][a-f0-9]-remote
+Sitemap: https://www.e-earphone.jp/sitemap.xml
+
+User-agent: MJ12bot
+Crawl-delay: 10
+
+User-agent: Pinterest
+Crawl-delay: 1
+
+
+

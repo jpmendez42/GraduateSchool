@@ -1,0 +1,10 @@
+# /** $Id: robots.txt 4964 2022-10-12 14:39:52Z sk $ **/
+User-agent: *
+Disallow: /cache
+Disallow: /ajax
+Disallow: /pay
+Disallow: /payment
+Disallow: /admin
+Disallow: /market/file
+Disallow: /market/pg
+Disallow: /api

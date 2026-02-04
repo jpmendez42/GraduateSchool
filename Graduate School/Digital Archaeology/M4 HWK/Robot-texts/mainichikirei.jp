@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:/test/
+Disallow:/preview/
+Disallow:/sample/
+Disallow: */article_list.html?page=2
+Sitemap: https://mainichikirei.jp/sitemap.xml

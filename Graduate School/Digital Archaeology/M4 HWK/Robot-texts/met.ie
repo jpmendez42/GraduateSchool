@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /cms/wp-admin/
+
+
+User-agent: *
+Disallow: /search
+
+Sitemap: https://www.met.ie/sitemap

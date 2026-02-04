@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /temp/*
+Disallow: /!dev*
+Disallow: /_dev*
+Disallow: /!common_design/*
+Disallow: /!common_packages/*
+Disallow: /main_*
+Disallow: /?id=*
+
+Sitemap: https://unas.hu/sitemap.xml

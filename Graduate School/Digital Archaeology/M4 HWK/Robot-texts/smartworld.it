@@ -1,0 +1,55 @@
+# abilita adsense
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent:  *
+# disallow all files in these directories
+Disallow: /*?preview=
+Disallow: /wp-admin/
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: */trackback/
+Disallow: /confronta-schede/
+
+Disallow: /2009/
+Disallow: /2010/
+Disallow: /2011/
+Disallow: /2012/
+
+Sitemap: https://www.smartworld.it/sitemap_index.xml
+Sitemap: https://www.smartworld.it/news-sitemap.xml
+Sitemap: https://www.smartworld.it/sitemap/infocommerce_smartworld_1.xml
+Sitemap: https://www.smartworld.it/video-sitemap.xml
+Sitemap: https://www.smartworld.it/contributors-sitemap.xml
+
+# allow google image bot to search all images
+User-agent: Googlebot-Image
+Allow: /*
+
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: seekr
+Disallow: /
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

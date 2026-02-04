@@ -1,0 +1,26 @@
+User-agent: *
+Disallow: /it/adesione
+Disallow: /it/superuser-login
+Disallow: /products
+Disallow: /sperimentazione-2g
+Disallow: /it/survey-nps
+Disallow: /it/area-clienti
+Disallow: /it/offerte/luce/offerte/open-energy-card
+Disallow: /en/offerte/luce/offerte/openenergy-card
+Disallow: /it/offerte/luce/offerte/enel-one-card
+Disallow: /en/offerte/luce/offerte/enel-one-card
+Disallow: /it/offerte/luce/offerte/scegli-oggi-card
+Disallow: /en/offerte/luce/offerte/scegli-oggi-card
+Disallow: /content/dam/enel-it/generici/*
+Disallow: /content/dam/enel-it/en/*
+Disallow: /it/servizi-online/carica-documenti
+Disallow: /en/servizi-online/carica-documenti
+Disallow: /content/dam/enel-it/documenti-supporto/spazio-enel/trova-negozi-spazio-impresa.pdf
+Disallow: /content/dam/asset/documenti/pricing-mobility/
+Disallow: /it/app/hub-digital-app
+Disallow: /it-it/commodity-funnel
+Disallow: /it-it/fibra-funnel
+Disallow: /error*
+Disallow: /error/*
+
+Sitemap: https://www.enel.it/sitemap_index.xml

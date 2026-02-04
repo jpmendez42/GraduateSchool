@@ -1,0 +1,27 @@
+
+User-agent: *
+# FI
+Disallow: /haku/
+Disallow: /checkout/
+Disallow: /oma-tili/
+# DK
+Disallow: /search/
+Disallow: /min-side/
+Noindex: /search/
+
+# All
+Noindex: /category/
+
+Disallow: /category/
+
+Disallow: /energylabel/
+
+Disallow: /*/*bvstate*
+
+# Order pages
+Disallow: /orderpage/
+Disallow: /order/
+
+# External product feeds
+Disallow: /feeds/
+

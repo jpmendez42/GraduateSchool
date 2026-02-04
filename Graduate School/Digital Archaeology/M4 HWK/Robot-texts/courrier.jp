@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /mypage/invitation/
+Disallow: /corporate-*/
+
+User-agent: BUbiNG
+Disallow: /
+
+Sitemap: https://courrier.jp/sitemap.xml

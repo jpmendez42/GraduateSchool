@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /om-hogskolan/aktuellt/nyhetsarkiv/arkivering-av-nyheter
+Disallow: /api/
+Sitemap: http://www.hb.se/sitemap.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /*.js$
+Allow: /*.css$
+Disallow: /?utm_source=*&utm_campaign=*
+Disallow: */imavideo*
+Disallow: */shaka-player*
+Disallow: */register?referral*
+Disallow: */?elementor*
+Disallow: /faqs/
+Disallow:*/category/quote/*
+
+Sitemap: https://www.hbagency.it/sitemap.xml

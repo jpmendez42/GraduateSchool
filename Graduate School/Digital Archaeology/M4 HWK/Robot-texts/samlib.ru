@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /cgi-bin
+Disallow: /editors/
+Disallow: /comment/
+Host: samlib.ru
+  

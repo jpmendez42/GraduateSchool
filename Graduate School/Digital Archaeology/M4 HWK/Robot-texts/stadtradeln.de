@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+crawl-delay: 1
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /fileadmin/radelkalender/
+Disallow: /fileadmin/user_upload/userpics/
+Disallow: /fileadmin/user_upload/userpics_thumbs/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*               # non speaking URLs
+Disallow: /*cHash               # no cHash
+Disallow: /*tx_powermail_pi1    # no powermail thanks pages
+Disallow: /*tx_form_formframework    # no forms

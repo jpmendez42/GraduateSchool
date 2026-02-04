@@ -1,0 +1,46 @@
+# (A) 以下以外の全てのクローラ(noindexページを省く)
+User-Agent: *
+# あらゆるボットで互換な動作にするには、あるファイルへのアクセスを許す Allow ディレクティブを先に書き、そのファイルを含むディレクトリについての Disallow ディレクティブを後に書く
+# https://ja.wikipedia.org/wiki/Robots_Exclusion_Standard#Allow_%E3%83%87%E3%82%A3%E3%83%AC%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96
+Disallow: /*?nofollow=
+Disallow: /admin
+Disallow: /api
+Disallow: /clinic/*/z
+Disallow: /clinic/z
+Disallow: /familydr.html
+Disallow: /gps
+Disallow: /info/na_
+Disallow: /info/not_acceptable
+Disallow: /job
+Disallow: /maintenance
+Disallow: /map
+Disallow: /member
+Disallow: /nofollow/
+Disallow: /parts/
+Disallow: /projects
+Disallow: /query
+Disallow: /service/bsa
+Disallow: /ta/
+Disallow: /tc/
+Disallow: /td/
+Disallow: /test
+Disallow: /tmp
+Disallow: /tp/
+Disallow: /track/
+Disallow: /{{type_key}}/
+Crawl-delay: 5
+
+# (B) 広告用クローラ(無コンテンツページを省く)
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google
+Disallow: /admin
+Disallow: /api
+Disallow: /member
+
+# (C) 拒否するクローラ(全て省く)
+User-agent: SemrushBot
+User-agent: Riddler
+Disallow: /
+
+# (D) 本番機のみ
+Sitemap: https://byoinnavi.jp/sitemaps/sitemap.xml.gz

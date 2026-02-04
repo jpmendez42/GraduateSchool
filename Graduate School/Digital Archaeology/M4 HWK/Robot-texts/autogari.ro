@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /routes/
+Disallow: /loadWS.php
+Disallow: /support/
+Disallow: /askComp/
+Disallow: /reportError.php
+Disallow: /loadPreturi.php
+Disallow: /loadList.php
+Disallow: /redirect.php
+Disallow: /ajax.php
+Disallow: /maplegaturi.php
+Disallow: /OpiniiCalatori

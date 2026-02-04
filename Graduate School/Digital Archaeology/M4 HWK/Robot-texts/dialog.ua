@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /user/
+Disallow: /ajax/
+Disallow: *?page=*
+Disallow: *_page=*
+Disallow: *captcha?*
+Disallow: /allpolls
+Disallow: /search
+Host: https://www.dialog.ua
+Sitemap: https://www.dialog.ua/sitemap.xml

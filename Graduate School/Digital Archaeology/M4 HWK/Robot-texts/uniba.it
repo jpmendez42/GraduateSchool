@@ -1,0 +1,65 @@
+Sitemap: https://www.uniba.it/it/sitemap.xml.gz
+User-agent: *
+Disallow: /it/ateneo/facolta/lettere
+Disallow: /it/ateneo/facolta/lettere/
+Disallow: /it/ateneo/facolta/lettere/*
+Disallow: /it/ateneo/facolta/lingue
+Disallow: /it/ateneo/facolta/lingue/
+Disallow: /it/ateneo/facolta/lingue/*
+Disallow: /it/ateneo/facolta/lex
+Disallow: /it/ateneo/facolta/lex/
+Disallow: /it/ateneo/facolta/lex/*
+Disallow: */portlet/
+Disallow: /it/pagine-portlet/
+Disallow: *portlet*
+Disallow: /search
+Disallow: */search
+Disallow: */Members
+
+User-Agent: Googlebot
+Disallow: /*folder_factories$
+Disallow: /*folder_summary_view$
+Disallow: /*login_form$
+Disallow: /*mail_password_form$
+Disallow: /*login
+Disallow: /@@search
+Disallow: /*search_rss$
+Disallow: /*sendto_form$
+Disallow: /*summary_view$
+Disallow: /*thumbnail_view$
+Disallow: /*view$
+Disallow: /*rss*
+Disallow: /*RSS*
+
+User-agent: Slurp
+Crawl-delay: 2
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: / 
+
+User-agent: Bingbot
+Disallow: /*folder_factories$
+Disallow: /*folder_summary_view$
+Disallow: /*login_form$
+Disallow: /*mail_password_form$
+Disallow: /*login
+Disallow: /@@search
+Disallow: /*search_rss$
+Disallow: /*sendto_form$
+Disallow: /*summary_view$
+Disallow: /*thumbnail_view$
+Disallow: /*view$
+Disallow: /*rss*
+Disallow: /*RSS*

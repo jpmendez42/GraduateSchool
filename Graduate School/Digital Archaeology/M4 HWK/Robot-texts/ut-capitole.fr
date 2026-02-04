@@ -1,0 +1,15 @@
+User-agent: *
+Disallow:/adminsite/
+
+Disallow:/fcktoolbox/
+Disallow:/extensions/
+Disallow:/META_INF/
+Disallow:/WEB_INF/
+# urls techniques :
+Disallow:/action/*
+Disallow:/eprivacy/orejime/configuration.js
+
+Disallow:/search?
+
+
+Sitemap: https://www.ut-capitole.fr/sitemap.xml

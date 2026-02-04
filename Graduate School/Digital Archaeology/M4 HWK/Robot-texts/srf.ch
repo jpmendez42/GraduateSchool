@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /suche/
+Disallow: /showcase/
+Disallow: /testcase/
+Disallow: /styleguide/
+Disallow: /suche
+Disallow: /srg-login/*
+Disallow: /article/*
+Disallow: /landingpage/*
+Disallow: /play/video/*/socialTracking/counts
+Disallow: /play/audio/*/socialTracking/counts
+Disallow: /play/audio/*/socialTracking/share/*
+Disallow: /play/audio/*/socialTracking/like
+Disallow: /play/radio/audio/mail
+Disallow: /play/tv/video/mail
+Disallow: /play/ping.xml
+
+Sitemap: https://www.srf.ch/play/sitemap/index
+Sitemap: https://www.srf.ch/meteoapi/sitemap/index.xml
+Sitemap: https://www.srf.ch/new-news-sitemap
+Sitemap: https://www.srf.ch/sitemap/index/srf
+Sitemap: https://www.srf.ch/sitemap/radioshows
+Sitemap: https://www.srf.ch/sitemap/radioepisodes
+Sitemap: https://sitemap.lrc.swisstxt.ch/sitemap.xml

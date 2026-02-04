@@ -1,0 +1,49 @@
+user-agent: *
+disallow: /en/auth/*
+disallow: /jp/auth/*
+disallow: /it/auth/*
+disallow: /sc/auth/*
+disallow: /tc/auth/*
+disallow: /de/auth/*
+disallow: /es/auth/*
+disallow: /mx/auth/*
+disallow: /por/auth/*
+disallow: /pt/auth/*
+disallow: /fr/auth/*
+disallow: /auth/*
+allow: /
+
+user-agent: MJ12bot
+disallow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+user-agent: ezooms
+disallow: / 
+
+user-agent: sistrix
+disallow: /
+
+user-agent: Yandex
+disallow: /
+
+user-agent: proximic
+disallow: /
+
+
+user-agent: spbot
+disallow: /
+
+user-agent: Linguee Bot
+disallow: /
+
+user-agent: SemrushBot
+disallow: /
+
+user-agent: BLEXBot
+disallow: /
+
+user-agent: SeekportBot
+user-agent: Spider
+disallow: /

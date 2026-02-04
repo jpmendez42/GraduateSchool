@@ -1,0 +1,19 @@
+# robots.txt generated at http://www.mcanerin.com
+
+User-agent: Yeti
+User-agent: Googlebot
+Disallow: /ca*/
+Disallow: /wys2/
+Disallow: /upload/
+Disallow: /enter/
+Disallow: /sports/
+Allow: /$
+
+User-agent: *
+Disallow: /
+Disallow: /talk/article_list?bbs_id=5
+Allow: /$
+Allow: /ads.txt
+
+Sitemap: https://www.fomos.kr/sitemap/latest_articles
+Sitemap: https://www.fomos.kr/sitemap/daily_articles

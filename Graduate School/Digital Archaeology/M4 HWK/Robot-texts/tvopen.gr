@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /templates/
+Disallow: /hbbtv/
+Disallow: /news
+Disallow: /article/
+Sitemap: https://www.tvopen.gr/sitemap.xml
+Sitemap: https://www.tvopen.gr/videos-sitemap
+Sitemap: https://www.tvopen.gr/videos-categories

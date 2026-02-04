@@ -1,0 +1,56 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+User-Agent: *
+Disallow: /*?q_id=
+Disallow: /*?order_field=
+Disallow: */index.phtml
+Disallow: */golink
+Disallow: */export
+Disallow: */news/bytag/
+Disallow: */user-search/track-search
+Disallow: */auto/delete-by-code
+Disallow: */search/filters
+Disallow: */auto/delete-code
+Disallow: */q/
+Disallow: /admin
+Disallow: /*alllinks
+Disallow: /*?scope
+Disallow: /*views?auto
+Disallow: /*viewType
+Disallow: /*?utm
+Disallow: /search/carousel/*/news
+Disallow: */auto/*/views
+Disallow: /*openstat
+Disallow: */interesting/views?id=
+Disallow: */interesting/related?id=
+Disallow: */avtovukyp?text=
+Disallow: */avtosalony?name=
+Disallow: */overview?
+Disallow: /*?limit
+Disallow: */auto/*/photos
+Disallow: */car/*/photo
+Disallow: *error404?page=
+Disallow: */redirect
+Disallow: /*?bodyType
+Disallow: /*?version
+Disallow: */personal-office
+Disallow: /*sites
+Disallow: */search*
+Disallow: */cabinet/
+Disallow: */auto/fraud*
+Disallow: */_block/auto-widget/
+Disallow: */auto/leasing
+Disallow: */notepad/list
+Disallow: */more-profitable/sidebar
+Disallow: */api/v2
+Disallow: */search-form
+Disallow: *format=amp*
+Disallow: *order=*
+Disallow: */amp/*
+Disallow: *?_gl=*
+
+
+Host: https://automoto.ua
+Sitemap: https://automoto.ua/sitemap.xml
+Sitemap: https://automoto.ua/sitemaps/images.xml

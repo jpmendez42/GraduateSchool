@@ -1,0 +1,11 @@
+Crawl-delay: 60
+
+User-agent: *
+
+Disallow: /area/
+Disallow: /Alias/
+Disallow: /alias/
+Disallow: /Anunciantes/
+Disallow: /handler/
+Disallow: /Includes/
+Disallow: /Ficheiros/

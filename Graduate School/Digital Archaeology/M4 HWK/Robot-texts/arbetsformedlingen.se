@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /imagedescription.action2
+Disallow: /checkoutimages.action2
+Disallow: /mybookmarks/addbookmark.action2
+Disallow: /mybookmarks/removebookmark.action2
+Disallow: /*.html.printable
+Disallow: /*?contactPage=*
+Disallow: /*?contactUserId=*
+Disallow: /*?sv.state=*
+Disallow: /*?profiling=*
+Disallow: /*.pdf?properties=*
+Disallow: /*?addToCart=true
+Disallow: /*;jsessionid=*
+#Disallow: /*91.*
+
+Disallow: /systemsidor*
+Disallow: /labbmapp*
+Disallow: /for-redaktorer*
+
+Disallow: /download/18.47a458fb16df81b91331c68/*
+Disallow: /for-arbetsgivare/anstall-med-stod/ansokan-om-nystartsjobb*
+Disallow: /om-oss/var-verksamhet/utbildningsmaterial/kunskapsmaterialet/*
+Disallow: /for-arbetssokande/extra-stod/stod-a-o/rusta-och-matcha/sok-leverantor-inom-rusta-och-matcha/actor*
+
+User-agent: i3bot
+Disallow: /play
+
+User-agent: i3bot
+Disallow: /platsbanken/annonser
+
+User-agent: i3agent
+Disallow: /play
+
+User-agent: i3agent
+Disallow: /platsbanken/annonser
+
+Sitemap: https://arbetsformedlingen.se/sitemap.xml
+Sitemap: https://arbetsformedlingen.se/webdav/files/system/sitemaps/sitemap-atlas-sidor.xml
+Sitemap: https://arbetsformedlingen.se/webdav/files/system/sitemaps/sitemap-atlas-filer.xml
+Sitemap: https://arbetsformedlingen.se/webdav/files/system/sitemaps/sitemap-atlas-bilder.xml
+Sitemap: https://arbetsformedlingen.se/webdav/files/system/sitemaps/sitemap-hitta_yrken.xml
+Sitemap: https://arbetsformedlingen.se/webdav/files/system/sitemaps/sitemap-www.xml
+Sitemap: https://arbetsformedlingen.se/webdav/files/system/sitemaps/sitemap-platsbanken-soknig_lan.xml
+Sitemap: https://arbetsformedlingen.se/webdav/files/system/sitemaps/sitemap-platsbanken-soknig_kommun.xml

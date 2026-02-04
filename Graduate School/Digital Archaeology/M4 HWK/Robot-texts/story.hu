@@ -1,0 +1,7 @@
+Sitemap: https://story.hu/sitemap.xml
+
+# global
+User-agent: *
+Disallow: /xmlrpc.php
+Disallow: /wp-admin/
+Disallow: /trackback/

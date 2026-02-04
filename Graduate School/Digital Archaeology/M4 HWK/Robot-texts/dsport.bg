@@ -1,0 +1,5 @@
+User-agent: *
+SITEMAP:https://dsport.bg/sitemap.xml
+Disallow: /cms/
+Disallow: /work/
+Disallow: /tag/

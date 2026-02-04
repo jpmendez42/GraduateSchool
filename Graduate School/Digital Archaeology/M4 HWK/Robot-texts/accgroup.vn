@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /tag/
+Disallow: /public/uploads/*.pdf
+Disallow: /public/uploads/*.doc
+Sitemap: https://accgroup.vn/sitemap.xml

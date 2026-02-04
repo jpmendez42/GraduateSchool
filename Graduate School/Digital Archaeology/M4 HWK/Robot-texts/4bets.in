@@ -1,0 +1,123 @@
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<html lang="en"><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <!-- Meta, title, CSS, favicons, etc. -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>4Bet</title>
+      <link rel="icon" type="image/png" sizes="16x16" href="/images/fav_icon.png">
+       <link rel="preconnect" href="https://fonts.gstatic.com?v=0.15">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap?v=0.15" rel="stylesheet">
+      <!-- Bootstrap -->
+       <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css?v=0.15">
+      <!-- Font Awesome -->
+      <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css?v=0.15" rel="stylesheet">
+      <!-- Custom Theme Style -->
+      <link href="/user/css/custom.css?v=0.15" rel="stylesheet">
+      <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>  
+      <script src="https://cdn.jsdelivr.net/npm/@fingerprintjs/fingerprintjs@3/dist/fp.min.js"></script>
+</head>
+   <body class="bg_login">
+  
+      <div id="wrapper">
+         <div class="logo"><img src="/user/images/4bet.png" alt="..."></div>
+         <div ng-app="loginApp" ng-controller="loginController" class="form">
+            <section class="login_content">
+           <form name="loginForm" 
+        ng-submit="validateAndSubmit(loginForm)" 
+        novalidate 
+        autocomplete="off"
+        method="post"
+        action="/home">
+		   <span style="color:red;font-weight:bold" id="error">  </span>
+               <div>
+                  <label> Username</label>
+                  <div class="linput">  <input  type="text" name="userid" placeholder="Username" 
+		             ng-model="userid" 
+		             required 
+		             style="padding-left:10px;font-weight:bold" value=""
+		             class="form-control">
+                  </div>
+               </div>
+               <div>
+                  <label> Password</label>
+                  <div class="linput">  <input  style="padding-left:10px;font-weight:bold"
+                  type="password" 
+             name="password" 
+             placeholder="Password" 
+             ng-model="password" 
+             required 
+             class="form-control">
+             
+              <input type="hidden" ng-model="type" name="type" />
+</div>
+               </div>
+               <div class="checkbox">
+                  <label><input type="checkbox" name="remember" id="remember"> Remember me</label>
+				 <a style="color: #232323;" href="" class="download-apk-btn"> <i class="fa fa-android"></i></a>
+               </div>
+               <div>
+                  
+                  <button type="submit" class="btn btn-default submit">Log in</button>
+                  
+                   <h6 style="color:#000;font-weight:bold" id="loginMessage">-</h6>
+               </div>
+               <div class="clearfix"></div>
+               </form>            </section>
+         </div>
+      </div>
+ 
+   
+
+</body></html>
+
+    
+
+<script>
+		$(document).ready(function(){
+			
+			getLoginMessage();
+			window.name = "dublicateTabs";
+				selfLogoutUser()
+			
+		});
+		
+		function selfLogoutUser(){
+	        $.ajax({
+	       			url:'/api/logout;jsessionid=48F66D6B81C815874B04644163F8647D?id='+"",
+	      			success: function(jsondata, textStatus, xhr) {
+	      				if(xhr.status == 200){
+	      				}
+	        		}
+	        	});
+	        }
+		
+		
+		function getLoginMessage()
+		 {
+		 	$.ajax({
+		 				type:'POST',
+		 	   			url:'/api/getLoginMessage;jsessionid=48F66D6B81C815874B04644163F8647D?userType=1',
+		 	  			success: function(jsondata, textStatus, xhr) {
+		 	  				if(xhr.status == 200){
+							 $("#loginMessage").html(jsondata.message);
+		 	  				}
+		 	    		}
+		 	    	});  
+		         	
+		 }
+	
+</script>
+
+
+<script>
+		  angular.module('loginApp', [])
+		    .controller('loginController', function ($scope, $timeout) {
+		    	function _0x2f19(){const _0x30e2ca=['input[name=\x22type\x22]','validateAndSubmit','15160190dNjCOU','5rOPBaE','Please\x20fix\x20the\x20errors\x20before\x20submitting.','$apply','value','input[name=\x22userid\x22]','2992797hTxbkQ','input[name=\x22password\x22]','11QuoonA','16NXsvBk','3056074gVDPly','&lt;','remember','921966zOWrXj','replace','log','get','then','&gt;','userid','1128981murFbK','loginMessage','685302aohctS','load','visitorId','password','querySelector','type','3740060WakpQN','3NvYrxS'];_0x2f19=function(){return _0x30e2ca;};return _0x2f19();}function _0x4855(_0x29fe74,_0x2fe778){const _0x2f1955=_0x2f19();return _0x4855=function(_0x48556f,_0x4526af){_0x48556f=_0x48556f-0xca;let _0x15a99b=_0x2f1955[_0x48556f];return _0x15a99b;},_0x4855(_0x29fe74,_0x2fe778);}const _0x202453=_0x4855;(function(_0x21af75,_0xabb164){const _0xd92410=_0x4855,_0x567fc9=_0x21af75();while(!![]){try{const _0x548d48=-parseInt(_0xd92410(0xd6))/0x1+-parseInt(_0xd92410(0xd8))/0x2+parseInt(_0xd92410(0xdf))/0x3*(parseInt(_0xd92410(0xde))/0x4)+-parseInt(_0xd92410(0xe3))/0x5*(parseInt(_0xd92410(0xcf))/0x6)+parseInt(_0xd92410(0xcc))/0x7+-parseInt(_0xd92410(0xcb))/0x8*(parseInt(_0xd92410(0xe8))/0x9)+parseInt(_0xd92410(0xe2))/0xa*(parseInt(_0xd92410(0xca))/0xb);if(_0x548d48===_0xabb164)break;else _0x567fc9['push'](_0x567fc9['shift']());}catch(_0x248d7d){_0x567fc9['push'](_0x567fc9['shift']());}}}(_0x2f19,0x91d09),$scope[_0x202453(0xd5)]='',$scope[_0x202453(0xdb)]='',$scope[_0x202453(0xce)]=![],$scope['type']='',$scope[_0x202453(0xd7)]='-');function sanitize(_0x3bbc62){const _0x2c3066=_0x202453;return _0x3bbc62[_0x2c3066(0xd0)](/</g,_0x2c3066(0xcd))['replace'](/>/g,_0x2c3066(0xd4));}FingerprintJS[_0x202453(0xd9)]()[_0x202453(0xd3)](_0x3904de=>{const _0x391b6a=_0x202453;_0x3904de[_0x391b6a(0xd2)]()[_0x391b6a(0xd3)](_0x41488b=>{const _0x46a2f1=_0x391b6a;$scope[_0x46a2f1(0xe5)](()=>{const _0x27f18d=_0x46a2f1;$scope['type']=_0x41488b[_0x27f18d(0xda)];});});}),$scope[_0x202453(0xe1)]=function(_0x2d579c){const _0x41a1ed=_0x202453;if(_0x2d579c['$valid']){const _0x1439d8=sanitize($scope[_0x41a1ed(0xd5)]),_0x442585=sanitize($scope[_0x41a1ed(0xdb)]),_0x5762c6=sanitize($scope[_0x41a1ed(0xdd)]);return document['querySelector'](_0x41a1ed(0xe7))[_0x41a1ed(0xe6)]=_0x1439d8,document[_0x41a1ed(0xdc)](_0x41a1ed(0xe9))[_0x41a1ed(0xe6)]=_0x442585,document['querySelector'](_0x41a1ed(0xe0))['value']=_0x5762c6,console[_0x41a1ed(0xd1)]($scope),![];}else $scope['loginMessage']=_0x41a1ed(0xe4);};
+		    });
+		</script>

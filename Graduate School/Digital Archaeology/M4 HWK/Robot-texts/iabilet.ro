@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow: /auth/
+Disallow: /account/
+Disallow: /cos/
+Disallow: /googleMap/
+Disallow: /l/
+Disallow: /o/
+Disallow: /b/
+

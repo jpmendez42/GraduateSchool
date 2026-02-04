@@ -1,0 +1,19 @@
+# robots.txt for http://www.example.com/
+
+User-agent: *
+Disallow: /download/ 
+Disallow: /cgi-bin/ 
+Disallow: /store/ 
+Disallow: /imanager/ 
+Disallow: /twig/ 
+#Disallow: /v2/order/
+Disallow: /order/
+Disallow: /tmp/
+Disallow: /wp/
+Disallow: /blog/ice.php
+Disallow: /blog/web.php
+
+User-agent: MegaIndex.ru
+Disallow: /nanostream
+
+Sitemap: http://www.nanocosmos.de/sitemap.xml

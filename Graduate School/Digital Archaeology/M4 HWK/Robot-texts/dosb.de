@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /_assets/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*               # non speaking URLs
+Disallow: /*cHash               # no cHash
+Disallow: /*tx_form_formframework    # no forms
+
+# sitemap
+Sitemap: https://www.dosb.de/sitemap.xml

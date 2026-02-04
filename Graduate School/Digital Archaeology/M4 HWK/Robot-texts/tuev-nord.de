@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+
+# Disallow specific forms and login pages
+Disallow: /*/create/Form
+Disallow: /de/kontaktformular/
+Disallow: /de/kontakt-service/kontakt/
+Disallow: /en/contact-service/contact/
+Disallow: /en/contact/
+Disallow: /de/kundenlogin/
+Disallow: /de/newsletter-von-tuev-nord/
+Disallow: /*zertifikatId=*
+
+# Only allow URLs generated with frontend routing
+Disallow: /*?id=*
+Disallow: /*&id=*
+
+# Should always be protected, but you know...
+Disallow: /*/Private/*
+Disallow: /*/Configuration/*
+
+# Disallow all files in /typo3temp/var/
+Disallow: /typo3temp/var/*
+
+# Disallow all kind of sql files
+Disallow: *.sql
+Disallow: *.sql.gz
+
+# Disallow TYPO3 system directories
+Disallow: /typo3/
+Disallow: /typo3_src/
+Allow: /typo3/sysext/frontend/Resources/Public/*
+
+# Allow assets
+Allow: *.css
+Allow: *.js
+
+# Sitemaps per language
+Sitemap: https://www.tuev-nord.de/de/sitemap_index.xml
+Sitemap: https://www.tuev-nord.de/en/sitemap_index.xml

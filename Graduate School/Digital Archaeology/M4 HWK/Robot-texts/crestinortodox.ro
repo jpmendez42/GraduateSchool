@@ -1,0 +1,49 @@
+User-agent: Mediapartners-Google
+Disallow: 
+
+User-agent: *
+Disallow: /servicii/
+Disallow: /nodes/articol/97105/788-sfantul-nicolae
+Disallow: /nodes/articol/96438/788-sfantul-nicolae
+Disallow: /ajax/toparticles/856/ajax.html
+Disallow: /community/active_users_banner
+Disallow: /community/news_banner
+Disallow: /comunitate/uploads_user/
+Disallow: /articol/tag/
+Disallow: /audio/tag/
+Disallow: /biblie/
+Disallow: /biserica/tag/
+Disallow: /credinta-pentru-copii/cauta/
+Disallow: /foto/tag/
+Disallow: /frontend/
+Disallow: /node/view/
+Disallow: /nodes/articol/
+Disallow: /nodes/foto/
+Disallow: /node_statistics/
+Disallow: /reformat/
+Disallow: /similar/
+Disallow: /wiki/
+Disallow: /shop/
+Disallow: /inscriere/
+Disallow: /am-uitat-parola/
+Disallow: /Login.html
+
+
+Allow: /
+Sitemap: https://www.crestinortodox.ro/s/sitemap.xml
+Sitemap: https://www.crestinortodox.ro/servicii-funerare/sitemap-category.xml
+Sitemap: https://www.crestinortodox.ro/servicii-funerare/sitemap_entity_index.xml
+Sitemap: https://www.crestinortodox.ro/locuri-de-veci/sitemap_entity_index.xml
+Sitemap: https://www.crestinortodox.ro/locuri-de-veci/sitemap_cimitire_index.xml
+Sitemap: https://www.crestinortodox.ro/locuri-de-veci/sitemap_orase_index.xml
+
+User-agent: msnbot
+Crawl-delay: 5
+
+# http://sentibot.eu/
+User-agent: SentiBot
+Disallow: /
+
+User-agent: SentiBot www.sentibot.eu (compatible with Googlebot)
+Disallow: /
+###

@@ -1,0 +1,5 @@
+Sitemap: https://extra.ie/sitemap.xml
+Sitemap: https://extra.ie/news-sitemap.xml
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php

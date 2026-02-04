@@ -1,0 +1,1033 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8"><meta name="description" content="EXILE TRIBE FAMILY IDとは、EXILE TRIBE各ファンクラブの登録を1つのメールアドレスとパスワードでご利用いただける共通IDサービス（登録無料）です。" />
+<script>
+  window.dataLayer = window.dataLayer || [];
+  dataLayer.push({
+  'user_id': ''
+});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5THFV4N');</script>
+<!-- End Google Tag Manager -->
+<meta name="viewport" content="width=device-width">
+<meta name="robots" content="ALL"><!-- noindex,nofollow -->
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge"><![endif]-->
+<meta name="format-detection" content="telephone=no,address=no,email=no">
+
+<meta property="og:title" content="EXILE TRIBE FAMILY ID">
+<meta property="og:type" content="website"><!-- website, blog -->
+<meta property="og:url" content="https://id.exfamily.jp/">
+<meta property="og:image" content="https://id.exfamily.jp/files/67/ldh/ogp.png">
+<meta property="og:site_name" content="EXILE TRIBE FAMILY ID">
+<meta property="og:description" content="EXILE TRIBE FAMILY IDとは、EXILE TRIBE各ファンクラブの登録を1つのメールアドレスとパスワードでご利用いただける共通IDサービス（登録無料）です。">
+<meta property="og:locale" content="ja_JP">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="https://id.exfamily.jp/files/67/ldh/ogp.png">
+<meta name="twitter:title" content="EXILE TRIBE FAMILY ID">
+<meta name="twitter:description" content="EXILE TRIBE FAMILY IDとは、EXILE TRIBE各ファンクラブの登録を1つのメールアドレスとパスワードでご利用いただける共通IDサービス（登録無料）です。">
+<meta name="twitter:url" content="https://id.exfamily.jp/">
+<meta name="theme-color" content="#ffffff">
+
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+<meta name="apple-mobile-web-app-capable" content="no">
+<meta name="mobile-web-app-capable" content="no">
+
+<link rel="canonical" href="https://id.exfamily.jp/">
+<link rel="shortcut icon" href="https://id.exfamily.jp/files/67/ldh/favicon.png">
+<link rel="icon" type="image/png" href="https://id.exfamily.jp/files/67/ldh/android-chrome.png">
+<link rel="apple-touch-icon" href="https://id.exfamily.jp/files/67/ldh/apple-touch-icon.png">
+
+  <!-- =============== style =============== -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/yakuhanjp@3.4.1/dist/css/yakuhanjp.min.css">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;700&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/files/67/ldh/assets/css/ldh_family-id.common_2409.css?ima=0553">
+  <link rel="stylesheet" href="/files/67/ldh/assets/css/ldh_family-id.top_2312.css?ima=0553">
+<style type="text/css">
+.system_operation_block {
+font-size:10px;
+top:0;
+left:0;
+line-height:130%;
+width:85%;
+}
+.system_operation_block a {
+font-size:12px;
+}
+</style>
+  <!-- =============== style =============== -->
+
+  <!-- =============== japanese_original =============== -->
+  <link rel="stylesheet" href="/files/67/ldh/assets/css/ldh_family-id.add_2401.css?ima=0553">
+  <!-- =============== japanese_original =============== -->
+
+  <!-- =============== script =============== -->
+  <script src="//code.jquery.com/jquery-3.6.0.min.js"></script>
+<script>window.jQuery || document.write('<script src="/files/67/ldh/assets/js/vender/jquery-3.6.0.min.js"><\/script>')</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+<script>window.jQuery.easing.def || document.write('<script src="/files/67/ldh/assets/js/vender/jquery.easing.1.4.min.js"><\/script>')</script>
+
+<script src="/files/67/ldh/assets/js/vender/js-scroll-effect-module.js"></script>
+<script src="/files/67/ldh/assets/js/vender/swiper-4.5.3.min.js"></script>
+<script src="/files/67/ldh/assets/js/ldh_family-id.common.js?ima=0553"></script>
+  <!-- =============== script =============== --><style>
+/* ====================
+p-top_announce
+ ==================== */
+.p-top_announce {
+  width: 90%;
+  display: block;
+  position: relative;
+  margin: 0 auto;
+  padding-top: 30px;
+  opacity: 0;
+}
+.is-load .p-top_announce {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  opacity: 1;
+  -webkit-transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, -webkit-transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+  transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, -webkit-transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+  transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+  transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, -webkit-transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+}
+
+.p-top_announce + .p-guide__inner {
+  padding-top: 20px;
+}
+.p-top_announce__text {
+  display: block;
+  position: relative;
+  text-align: center;
+  line-height: 1.5;
+  color: #cf0001;
+}
+@media screen and (max-width: 960px) {
+  .p-top_announce {
+    margin-bottom: 20px;
+  }
+  .p-top_announce + .p-guide__inner {
+    padding-top: 15px;
+  }
+  .p-top_announce__text {
+    font-size: 13px;
+  }
+}
+.p-top_announce__text > a {
+  text-decoration: underline;
+  color: #cf0001;
+  padding-bottom: 0.5rem;
+}
+@media (hover: hover) and (pointer: fine) {
+  .p-top_announce__text > a:hover {
+    text-decoration: none;
+  }
+}
+
+.p-guide__btn_250813 {
+    margin-bottom: 20px;
+}
+.p-guide__btn_250813 .p-guide__btn-link {
+    background: linear-gradient(to right, #ff614c, #c12713);
+}
+.p-guide__btn_250813 .p-in-cap {
+    font-size: 24px;
+}
+@media screen and (max-width: 960px) {
+  .p-guide__btn_250813 .p-in-cap {
+    font-size: 14px;
+  line-height: 1.5;
+  }
+}
+
+.p-guide__banner {
+    margin: 20px auto;
+    max-width: 600px;
+    transform: translate(0, 0);
+    transition: transform 0.4s cubic-bezier(0.5, 1, 0.89, 1) 0s;
+    opacity: 0;
+}
+.is-load .p-guide__banner {
+  -webkit-transform: translateY(0);
+  transform: translateY(0);
+  opacity: 1;
+  -webkit-transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, -webkit-transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+  transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, -webkit-transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+  transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+  transition: opacity 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s, -webkit-transform 0.95s cubic-bezier(0.25, 1, 0.5, 1) 0.8s;
+}
+
+@media screen and (max-width: 960px) {
+  .p-guide__banner {
+    width: 90%;
+    max-width: 400px;
+  }
+}
+
+@media screen and (min-width: 768px) {
+    .p-guide__banner:hover {
+        transform: translate(-3px, -3px);
+        transition: transform 0.4s cubic-bezier(0.5, 1, 0.89, 1) 0s;
+    }
+}
+</style>
+
+<title>EXILE TRIBE FAMILY ID</title>
+</head>
+<body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5THFV4N"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--
+会員番号付与：
+-->
+  <div class="l-container">
+    <!-- =============== header =============== -->
+    <header class="l-header">
+  <div class="l-header__bar">
+    <div class="l-header__bar-inner">
+      <div class="l-header__logo">
+        <a href="/s/ldh/?ima=0553" class="l-header__logo-link">
+          <h1 class="l-header__logo-img">
+            <span><img src="/files/67/ldh/assets/img/common/logo.svg" alt="EXILE TRIBE FAMILY ID"></span>
+          </h1>
+        </a>
+      </div>
+      <div class="l-header__id">
+        <div class="c-btn -grade">
+          <a href="/s/ldh/mypage?ima=0553" target="_blank" class="c-btn__link">
+            <div class="c-btn__txt">ID登録情報</div>
+          </a>
+        </div>
+      </div>
+      <div class="l-header__contact">
+        <a href="/s/ldh/inquiry?ima=0553" class="l-header__contact-link">
+          <div class="l-header__contact-txt">よくあるお問い合わせ</div>
+        </a>
+      </div>
+      <nav class="l-nav" id="js-nav-menu">
+        <div class="l-nav__backbg js-nav-close"></div>
+        <div class="l-nav__wrapper">
+          <div class="l-nav__bg">
+          </div>
+          <div class="l-nav__inner">
+            <div class="l-nav__content">
+              <div class="l-nav__main l-sp-inner">
+                <div class="l-nav__block -center">
+                  <div class="l-nav__id">
+                    <div class="c-btn -grade">
+                      <a href="/s/ldh/mypage?ima=0553" class="c-btn__link">
+                        <div class="c-btn__txt">ID登録情報</div>
+                        <div class="c-btn__img"></div>
+                      </a>
+                    </div>
+                  </div>
+                  <div class="l-nav__menu">
+                    <ul class="l-nav__menu-list">
+                      <li class="l-nav__menu-item js-nav-item">
+                        <a href="/s/ldh/?ima=0553" class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            TOP
+                          </div>
+                        </a>
+                      </li>
+                      <li class="l-nav__menu-item js-nav-item">
+                        <a href="/s/ldh/page/guide?ima=0553" class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            ご利用ガイド
+                          </div>
+                        </a>
+                      </li>
+                      <li class="l-nav__menu-item js-nav-item">
+                        <a href="/s/ldh/?ima=0553#serv" class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            対象サービス
+                          </div>
+                        </a>
+                      </li>
+                      <li class="l-nav__menu-item js-nav-item">
+                        <a href="/s/ldh/diary/magazine/list?ima=0553" target="_blank"  class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            EXILE TRIBE MAGAZINE
+                          </div>
+                        </a>
+                      </li>
+                      <li class="l-nav__menu-item js-nav-item">
+                        <a href="/s/ldh/news/list?ima=0553" class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            INFORMATION
+                          </div>
+                        </a>
+                      </li>
+                      <li class="l-nav__menu-item js-nav-item">
+                        <a href="/s/ldh/ticket/list?ima=0553" class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            TICKET
+                          </div>
+                        </a>
+                      </li>
+                      <li class="l-nav__menu-item js-nav-item">
+                        <a href="/s/ldh/page/shop?ima=0553" class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            SHOP
+                          </div>
+                        </a>
+                      </li>
+                      <li class="l-nav__menu-item js-nav-item -gap">
+                        <a href="/s/ldh/inquiry?ima=0553" class="l-nav__menu-link">
+                          <div class="l-nav__menu-txt">
+                            よくあるお問い合わせ
+                          </div>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </div>
+  </div>
+  <div class="l-hamburger js-navmenu js-nav-button" tabindex="0">
+    <div class="l-hamburger__wrap">
+      <div class="l-hamburger__inner">
+        <div class="l-hamburger__block">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+<div class="is-pc" id="js-nav-show-point"></div>
+    <!-- =============== header =============== -->    <!-- =============== main =============== -->
+    <div class="l-main">
+      <div class="p-hero">
+        <div class="p-hero__id">
+          <div class="p-hero__id-inner">
+            <div class="p-hero__ttl">
+              <div class="p-hero__ttl-txt">共通ID</div>
+              <div class="p-hero__ttl-img">
+                <figure><img src="/files/67/ldh/assets/img/common/logo-w.svg" alt="EXILE TRIBE FAMILY ID"></figure>
+              </div>
+            </div>
+            <div class="p-hero__lead">
+              EXILE TRIBE FAMILY IDとは、<br>EXILE TRIBE OFFICIAL FAN CLUBの登録を<br class="is-sp">1つのメールアドレスとパスワードで<br>
+              ご利用いただける<br class="is-sp"><span>共通IDサービス（登録無料）</span>です。<br>
+              住所等の登録情報もEXILE TRIBE FAMILY IDで<br class="is-sp">一括管理します。
+            </div>
+          </div>
+        </div>
+        <div class="p-hero__artist">
+          <div class="c-artist swiper-container">
+            <ul class="c-artist__list swiper-wrapper">
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_exile.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_jsb3_2302.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_gekidan_2403.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_gene.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_rampage.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_fanta.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_bbz.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_psychic.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_lil_2302.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_kp.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_tjbb.png);"></figure>
+                </div>
+              </li>
+              <li class="c-artist__item swiper-slide">
+                <div class="c-artist__item-img">
+                  <figure style="background-image: url(/files/67/ldh/assets/img/common/logo_whh.png);"></figure>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="p-top-wrap">
+        <div class="p-guide">
+
+<style>
+
+
+
+
+
+</style>
+          <div class="p-guide__inner" style="padding-bottom:0;">
+            <div class="p-guide__btn p-guide__btn_250813">
+              <a href="/s/ldh/news/detail/ldh0918?ima=0553" class="p-guide__btn-link">
+                <div class="p-guide__btn-txt">
+                  <div class="p-in-cap">公式アプリリリース<br class="is-sp">および一部サービス改定のご案内</div>
+                </div>
+                <div class="p-guide__btn-arrow">
+                  <div class="p-in-img">
+                    <figure><img src="/files/67/ldh/assets/img/common/arrow_double-b.svg" alt=""></figure>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="p-guide__btn">
+              <a href="/s/ldh/page/guide?ima=0553" class="p-guide__btn-link">
+                <div class="p-guide__btn-txt">
+                  <div class="p-in-cap">ご利用ガイド</div>
+                  <div class="p-in-txt">EXILE TRIBE FAMILY IDとは？</div>
+                </div>
+                <div class="p-guide__btn-arrow">
+                  <div class="p-in-img">
+                    <figure><img src="/files/67/ldh/assets/img/common/arrow_double-b.svg" alt=""></figure>
+                  </div>
+                </div>
+              </a>
+            </div>
+          </div>
+        </div>
+        <div class="p-top-wrap__section">
+          <!-- =============== service =============== -->
+          <div class="l-section p-serv serv" id="serv">
+            <div class="l-section__inner p-serv__inner">
+              <div class="l-section__head js-scroll">
+                <div class="l-section__ttl">
+                  <div class="l-section__ttl-txt">
+                    対象サービス
+                  </div>
+                </div>
+                <div class="l-section__lead">
+                  いずれかのEXILE TRIBE OFFICIAL FAN CLUBの登録には<br class="is-sp">EXILE TRIBE FAMILY IDの登録が必須となります。<br>
+                  別々にEXILE TRIBE FAMILY IDを<br class="is-sp">取得いただく必要はありません。
+                </div>
+              </div>
+              <div class="l-section__cont js-scroll">
+                <div class="p-serv__artist">
+                  <ul class="p-serv__artist-list">
+                    <li class="p-serv__artist-item">
+                      <a href="https://exile.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_exile.png" alt="EXILE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            EXILE OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://jsb3.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_jsb3_2302.png" alt="JSB3 FROM EXILE TRIBE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            三代目 J SOUL BROTHERS <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://gekidan.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_gekidan_2403.png" alt="劇団EXILE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            劇団EXILE <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://gene.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_gene.png" alt="GENERATIONS FROM EXILE TRIBE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            GENERATIONS <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://rmpg.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_rampage.png" alt="THE RAMPAGE FROM EXILE TRIBE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            THE RAMPAGE <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://fnt.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_fanta.png" alt="FANTASTICS FROM EXILE TRIBE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            FANTASTICS <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://bbz.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_bbz.png" alt="BBZ BALLISTIK BOYZ FROM EXILE TRIBE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            BALLISTIK BOYZ <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://pcf.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_psychic.png" alt="PSYCHIC FEVER FROM EXILE TRIBE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            PSYCHIC FEVER <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://lil.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_lil_2302.png" alt="LIL LEAGUE"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            LIL LEAGUE <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://kid.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_kp.png" alt="KID PHENOMENON"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            KID PHENOMENON <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://tjbb.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_tjbb.png" alt="THE JET BOY BANGERZ"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            THE JET BOY BANGERZ <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                    <li class="p-serv__artist-item">
+                      <a href="https://whh.exfamily.jp/" target="_blank" class="p-serv__artist-link">
+                        <div class="p-serv__artist-img">
+                          <figure><img src="/files/67/ldh/assets/img/common/logo_whh.png" alt="WOLF HOWL HARMONY"></figure>
+                        </div>
+                        <div class="p-serv__artist-txt">
+                          <div class="p-in-txt">
+                            WOLF HOWL HARMONY <br class="is-sp">OFFICIAL FAN CLUB
+                          </div>
+                          <div class="p-in-btn">
+                            <div class="c-btn -grade">
+                              <div class="c-btn__link">
+                                <div class="c-btn__txt">入会はこちら</div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- =============== service =============== -->
+          <!-- =============== ticket =============== -->
+          <div class="l-section p-ticket">
+            <div class="l-section__inner p-ticket__inner">
+              <div class="l-section__head js-scroll">
+                <div class="l-section__ttl">
+                  <div class="l-section__ttl-txt -en">
+                    TICKET
+                  </div>
+                </div>
+              </div>
+              <div class="l-section__cont js-scroll">
+<ul class="c-ticket__list"><li class="c-ticket__item">
+                    <a href="/s/ldh/ticket/detail/ticket_25100802?ima=0553" class="c-ticket__link">
+                      <div class="c-ticket__img">
+                        <div class="c-ticket__artist">
+                          <figure><img src="/images/67/22b/9a4c95a4bc44787866279b3285c15.jpg" alt=""></figure>
+                        </div>
+                        <div class="c-ticket__status  -end">
+                          <div class="c-ticket__status-cont">
+                            <div class="c-ticket__status-img">
+                              <figure><img src="/files/67/ldh/assets/img/common/icon_ticket.svg" alt=""></figure>
+                            </div>
+                            <div class="c-ticket__status-txt">受付終了</div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="c-ticket__info">
+                        <div class="c-ticket__group"></div>
+                        <div class="c-ticket__live">
+                          『THE RAMPAGE LIVE TOUR 2026 "(R)MPG"』EXILE TRIBE FC先行抽選予約
+                        </div>
+                        <div class="c-ticket__period">
+                          <div class="c-ticket__period-cap">受付期間</div>
+                          <div class="c-ticket__period-date">受付期間：2025.10.8(水)15:00〜10.13(月・祝)23:00</div>
+                        </div>
+                      </div>
+                    </a>
+                  </li><li class="c-ticket__item">
+                    <a href="/s/ldh/ticket/detail/ticket_251008?ima=0553" class="c-ticket__link">
+                      <div class="c-ticket__img">
+                        <div class="c-ticket__artist">
+                          <figure><img src="/images/67/d8f/8c80b512061ed74ec975d91774a36.jpg" alt=""></figure>
+                        </div>
+                        <div class="c-ticket__status  -end">
+                          <div class="c-ticket__status-cont">
+                            <div class="c-ticket__status-img">
+                              <figure><img src="/files/67/ldh/assets/img/common/icon_ticket.svg" alt=""></figure>
+                            </div>
+                            <div class="c-ticket__status-txt">受付終了</div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="c-ticket__info">
+                        <div class="c-ticket__group"></div>
+                        <div class="c-ticket__live">
+                          『LIL LEAGUE LIVE TOUR 2026 "Wonder Island"』EXILE TRIBE FC先行抽選予約
+                        </div>
+                        <div class="c-ticket__period">
+                          <div class="c-ticket__period-cap">受付期間</div>
+                          <div class="c-ticket__period-date">受付期間：2025.10.8(水)15:00〜10.13(月・祝)23:00</div>
+                        </div>
+                      </div>
+                    </a>
+                  </li><li class="c-ticket__item">
+                    <a href="/s/ldh/ticket/detail/ticket_250924?ima=0553" class="c-ticket__link">
+                      <div class="c-ticket__img">
+                        <div class="c-ticket__artist">
+                          <figure><img src="/images/67/ca5/fd6fa2e125a87b46083877b8e0794.jpg" alt=""></figure>
+                        </div>
+                        <div class="c-ticket__status  -end">
+                          <div class="c-ticket__status-cont">
+                            <div class="c-ticket__status-img">
+                              <figure><img src="/files/67/ldh/assets/img/common/icon_ticket.svg" alt=""></figure>
+                            </div>
+                            <div class="c-ticket__status-txt">受付終了</div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="c-ticket__info">
+                        <div class="c-ticket__group"></div>
+                        <div class="c-ticket__live">
+                          『BALLISTIK BOYZ×PSYCHIC FEVER SPECIAL STAGE 2025 "THE FESTIVAL"～年末大感謝祭～』EXILE TRIBE FC先行抽選予約
+                        </div>
+                        <div class="c-ticket__period">
+                          <div class="c-ticket__period-cap">受付期間</div>
+                          <div class="c-ticket__period-date">受付期間：2025.9.24(水)15:00〜9.28(日)23:00</div>
+                        </div>
+                      </div>
+                    </a>
+                  </li></ul>
+                <div class="p-ticket__more">
+                  <div class="c-more">
+                    <a href="/s/ldh/ticket/list?ima=0553" class="c-more__link">
+                      <div class="c-more__txt">MORE</div>
+                      <div class="c-more__img">
+                        <figure><img src="/files/67/ldh/assets/img/common/icon_more.svg" alt="MORE+"></figure>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- =============== ticket =============== -->
+          <!-- =============== magazine =============== -->
+          <div class="l-section p-magazine">
+            <div class="l-section__inner p-magazine__inner">
+              <div class="l-section__head js-scroll">
+                <div class="l-section__ttl">
+                  <div class="l-section__ttl-txt -en">
+                    EXILE TRIBE MAGAZINE
+                  </div>
+                </div>
+              </div>
+              <div class="l-section__cont js-scroll">
+<ul class="p-magazine__list"><li class="p-magazine__item">
+                    <a href="/s/ldh/diary/detail/23748?ima=0553&cd=magazine" target="_blank" class="p-magazine__item-link">
+                      <div class="p-magazine__item-info">
+                        <div class="p-magazine__item-date">2025.10.13</div>
+                        <div class="p-magazine__item-cap">
+                          GENERATIONS OFFICIAL FAN CLUB EVENT『ヨセFM 公開収録 in OSAKA「たまに集まろう、ここに。」』<br>
+片寄涼太
+                        </div>
+                        <div class="p-magazine__item-tag">
+                          <ul class="p-in-list">
+
+
+<li class="p-in-item">
+                              <div class="p-in-txt">GENERATIONS FC対象</div>
+                            </li>
+
+
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="p-magazine__item-img">
+                        <div class="p-magazine__item-thumb">
+                          <figure style="background-image: url(/images/67/ecd/108367203a00dc1fcb2750bfc96b9.jpg);"></figure>
+                        </div>
+                      </div>
+                    </a>
+                  </li><li class="p-magazine__item">
+                    <a href="/s/ldh/diary/detail/23655?ima=0553&cd=magazine" target="_blank" class="p-magazine__item-link">
+                      <div class="p-magazine__item-info">
+                        <div class="p-magazine__item-date">2025.10.10</div>
+                        <div class="p-magazine__item-cap">
+                          Crisis<br>
+零×YAMASHO
+                        </div>
+                        <div class="p-magazine__item-tag">
+                          <ul class="p-in-list">
+
+
+
+
+
+<li class="p-in-item">
+                              <div class="p-in-txt">THE RAMPAGE FC対象</div>
+                            </li>
+                            <li class="p-in-item">
+                              <div class="p-in-txt">一部フリー</div>
+                            </li>
+
+
+
+
+
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="p-magazine__item-img">
+                        <div class="p-magazine__item-thumb">
+                          <figure style="background-image: url(/images/67/18f/375e00901029f348a2cfda45ec85e.jpg);"></figure>
+                        </div>
+                      </div>
+                    </a>
+                  </li><li class="p-magazine__item">
+                    <a href="/s/ldh/diary/detail/23686?ima=0553&cd=magazine" target="_blank" class="p-magazine__item-link">
+                      <div class="p-magazine__item-info">
+                        <div class="p-magazine__item-date">2025.10.9</div>
+                        <div class="p-magazine__item-cap">
+                          EXILE TAKAHIRO 武道館 LIVE 2025 “HERCULES”<br>
+EXILE TAKAHIRO
+                        </div>
+                        <div class="p-magazine__item-tag">
+                          <ul class="p-in-list">
+
+
+<li class="p-in-item">
+                              <div class="p-in-txt">EXILE FC対象</div>
+                            </li>
+
+
+                          </ul>
+                        </div>
+                      </div>
+                      <div class="p-magazine__item-img">
+                        <div class="p-magazine__item-thumb">
+                          <figure style="background-image: url(/images/67/38c/86c8f74bc237cff1408134fd62fed.jpg);"></figure>
+                        </div>
+                      </div>
+                    </a>
+                  </li></ul>
+                <div class="p-magazine__more">
+                  <div class="c-more">
+                    <a href="/s/ldh/diary/magazine/list?ima=0553" target="_blank" class="c-more__link">
+                      <div class="c-more__txt">MORE</div>
+                      <div class="c-more__img">
+                        <figure><img src="/files/67/ldh/assets/img/common/icon_more.svg" alt="MORE+"></figure>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- =============== magazine =============== -->
+          <!-- =============== information =============== -->
+          <div class="l-section p-info">
+            <div class="l-section__inner p-info__inner">
+              <div class="l-section__head js-scroll">
+                <div class="l-section__ttl">
+                  <div class="l-section__ttl-txt -en">
+                    INFORMATION
+                  </div>
+                </div>
+              </div>
+              <div class="l-section__cont js-scroll">
+                <div class="c-info">
+<ul class="c-info__list"><li class="c-info__item">
+                      <a href="/s/ldh/news/detail/10123?ima=0553" class="c-info__link">
+                        <div class="c-info__head">
+                          <div class="c-info__date">2025.10.02</div>
+                          <div class="c-info__artist">お知らせ</div>
+                        </div>
+                        <div class="c-info__cont">
+                          <div class="c-info__ttl">
+                            長期継続特典発送先住所のご確認及び特典発送時期について
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="c-info__item">
+                      <a href="/s/ldh/news/detail/10122?ima=0553" class="c-info__link">
+                        <div class="c-info__head">
+                          <div class="c-info__date">2025.09.30</div>
+                          <div class="c-info__artist">お知らせ</div>
+                        </div>
+                        <div class="c-info__cont">
+                          <div class="c-info__ttl">
+                            【アンケート】あなたの“好き”をカタチに!! EXILE TRIBE OFFICIAL FAN CLUB会員限定グッズ販売決定！
+                          </div>
+                        </div>
+                      </a>
+                    </li><li class="c-info__item">
+                      <a href="/s/ldh/news/detail/10121?ima=0553" class="c-info__link">
+                        <div class="c-info__head">
+                          <div class="c-info__date">2025.09.27</div>
+                          <div class="c-info__artist">お知らせ</div>
+                        </div>
+                        <div class="c-info__cont">
+                          <div class="c-info__ttl">
+                            【重要】SNS上でのなりすまし・誹謗中傷・プライバシー侵害に対する弊社の取組みについて
+                          </div>
+                        </div>
+                      </a>
+                    </li></ul>
+                </div>
+                <div class="p-info__more">
+                  <div class="c-more">
+                    <a href="/s/ldh/news/list?ima=0553" class="c-more__link">
+                      <div class="c-more__txt">MORE</div>
+                      <div class="c-more__img">
+                        <figure><img src="/files/67/ldh/assets/img/common/icon_more.svg" alt="MORE+"></figure>
+                      </div>
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <!-- =============== ticket =============== -->
+        </div>
+      </div>
+    </div>
+    <!-- =============== main =============== -->    <!-- =============== footer =============== -->
+    <footer class="l-footer">
+  <div class="l-footer__inner">
+    <div class="l-footer__pagetop js-pagetop">
+      <div class="l-footer__pagetop-img">
+        <figure><img src="/files/67/ldh/assets/img/common/pagetop.svg" alt="pagetop"></figure>
+      </div>
+    </div>
+    <div class="l-footer__btn">
+      <ul class="l-footer__btn-list">
+        <li class="l-footer__btn-item">
+          <div class="c-btn -normal">
+            <a href="/s/ldh/inquiry?ima=0553" class="c-btn__link">
+              <div class="c-btn__txt">よくあるお問い合わせ</div>
+            </a>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div class="l-footer__nav">
+      <ul class="l-footer__nav-list">
+        <li class="l-footer__nav-item">
+          <a href="/s/ldh/?ima=0553" class="l-footer__nav-link">
+            <div class="l-footer__nav-txt">TOP</div>
+          </a>
+        </li>
+
+        <li class="l-footer__nav-item">
+          <a href="/s/ldh/inquiry?ima=0553" class="l-footer__nav-link">
+            <div class="l-footer__nav-txt">お問い合わせ</div>
+          </a>
+        </li>
+        <li class="l-footer__nav-item">
+          <a href="/s/ldh/page/guide?ima=0553" class="l-footer__nav-link">
+            <div class="l-footer__nav-txt">ご利用ガイド</div>
+          </a>
+        </li>
+        <li class="l-footer__nav-item">
+          <a href="/s/ldh/rule?ima=0553" class="l-footer__nav-link">
+            <div class="l-footer__nav-txt">利用規約</div>
+          </a>
+        </li>
+        <li class="l-footer__nav-item">
+          <a href="/s/ldh/device_list?ima=0553" class="l-footer__nav-link">
+            <div class="l-footer__nav-txt">推奨環境</div>
+          </a>
+        </li>
+        <li class="l-footer__nav-item">
+          <a href="https://www.ldh.co.jp/company/privacy/" target="_blank" class="l-footer__nav-link">
+            <div class="l-footer__nav-txt">プライバシーポリシー</div>
+          </a>
+        </li>
+      </ul>
+    </div>
+    <div class="l-footer__copy">
+      <p><small>&copy; LDH JAPAN Inc.</small></p>
+    </div>
+  </div>
+</footer>
+    <!-- =============== footer =============== -->
+  </div></body>
+</html>

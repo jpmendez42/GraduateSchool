@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*?
+Disallow: /*admin
+Disallow: /*login
+Disallow: /api/
+Disallow: /backend/
+Disallow: /*.swf
+Allow: /*.js
+Allow: /*.css
+Allow: /*.png
+Allow: /*.jpg
+Sitemap: https://www.loveradio.ru/sitemap.xml

@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /sign-in
+Disallow: /sign-out
+Disallow: /verify-email
+Disallow: /forgot-password
+Disallow: /change-password
+Disallow: /search?term*
+Disallow: /json/
+Disallow: /go/
+Disallow: /*admin/
+Disallow: /*_openstat
+Disallow: /*from=adwords
+Disallow: /*utm_source*
+Disallow: /*gclid=
+Disallow: /*cf_chl_captcha*
+Allow: /rss.xml
+Host: https://sport-express.ua
+
+Sitemap: https://sport-express.ua/sitemap.xml
+Sitemap: https://sport-express.ua/sitemap.news.xml
+Sitemap: https://sport-express.ua/sitemap.latest.xml
+Sitemap: https://sport-express.ua/sitemap.latest.txt
+Sitemap: https://sport-express.ua/rss.latest.xml

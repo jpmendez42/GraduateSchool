@@ -1,0 +1,30 @@
+# RULES
+
+Sitemap: https://www.ilgiornale.it/sitemap/google-news.xml
+Sitemap: https://www.ilgiornale.it/sitemap/indice.xml
+
+User-Agent: *
+Disallow: /redirect/
+Disallow: /akamai/
+
+Disallow: /edicolaredirect.php
+Disallow: /pag_pdf.php
+
+Disallow: /relateds/
+Disallow: /suggested/
+Disallow: /account/status/
+Disallow: /commenti/
+Disallow: /content/*/autori_slim.html
+Disallow: /cerca.html?q=*
+Disallow: /utente/profilo/login.html?ReturnUrl=*
+Disallow: /utente/registrazione/start.html?ReturnUrl=*
+Disallow: /autore/agenziaadnkronos-172829.html
+Disallow: /autore/ansa-europa-173507.html
+Disallow: /autore/agenzia-ansa-173508.html
+Disallow: /autore/ansa-business-wire-174419.html
+Disallow: /sezioni/agenzie-173133.html
+Disallow: /sezioni/adnkronos-173134.html
+Disallow: /sezioni/ansa-173506.html
+Disallow: /news/adnkronos/
+Disallow: /news/ansa/
+Disallow: /video/adnkronos/

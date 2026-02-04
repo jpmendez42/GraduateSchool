@@ -1,0 +1,129 @@
+User-agent: *
+Disallow: /mypage*
+Disallow: /cart*
+Disallow: /lightboxes*
+Disallow: /public-lightboxes*
+Disallow: /lookup-histories*
+Disallow: /search/assistant/tags*
+Disallow: /search/bc_footage_suggest_list*
+Disallow: /search/image*
+Disallow: /tags/@*
+Disallow: /search/similar*
+Disallow: /report/
+Disallow: /editor/
+Disallow: /collections/
+Disallow: /modal/
+Disallow: /*md[
+Disallow: /search/semantic*
+Disallow: /*&title=pixta.jp
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: Linespider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: trendictionbot
+Disallow: /
+
+User-agent: Neevabot
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: barkrowler
+Disallow: /
+
+User-agent: Yisouspider
+Disallow: /
+
+User-agent: Mail.Ru
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: ltx71 - (http://ltx71.com/)
+Disallow: /
+
+User-agent: Sogou web spider
+User-agent: Sogou inst spider
+Disallow: /
+
+User-agent: PaperLiBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Riddler
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: MojeekBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: Bytedance
+Disallow: /
+
+User-agent: BingBot
+Disallow: /mypage*
+Disallow: /cart*
+Disallow: /lightboxes*
+Disallow: /public-lightboxes*
+Disallow: /lookup-histories*
+Disallow: /search/assistant/tags*
+Disallow: /search/bc_footage_suggest_list*
+Disallow: /search/image*
+Disallow: /tags/@*
+Disallow: /search/similar*
+Disallow: /report/
+Disallow: /editor/
+Disallow: /collections/
+Disallow: /modal/
+Disallow: /*md[
+Disallow: /*&title=pixta.jp
+Disallow: /search/semantic*
+Crawl-delay: 10
+
+User-agent: Friendly_Crawler
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /

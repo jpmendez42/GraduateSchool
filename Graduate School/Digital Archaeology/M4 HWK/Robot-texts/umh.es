@@ -1,0 +1,41 @@
+User-agent: IonCrawl
+Disallow: /
+User-agent: UptimeRobot/2.0
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+User-agent: facebot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: barkrowler
+Disallow: /
+User-agent: UptimeRobot/2.0
+Disallow: /
+User-agent: Barkrowler/0.9
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: omgili
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+

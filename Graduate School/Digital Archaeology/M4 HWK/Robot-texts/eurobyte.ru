@@ -1,0 +1,35 @@
+User-agent: Yandex
+Disallow: /cron/
+Disallow: /data/
+Disallow: /qa/tags
+Disallow: /qa/cab
+Disallow: /?
+Disallow: /i/
+Disallow: /api/
+Disallow: /stat
+Disallow: /qa/search*
+Disallow: *?*
+Allow: /?vs=
+Allow: /files/
+Allow: /img/.png
+Allow: /img/*.jpg
+Allow: /static-pages.xml
+
+User-Agent: *
+Disallow: /cron/
+Disallow: /data/
+Disallow: /qa/tags
+Disallow: /qa/cab
+Disallow: /?
+Disallow: /i/
+Disallow: /api/
+Disallow: /stat
+Disallow: /qa/search*
+Disallow: *?*
+Allow: /?vs=
+Allow: /files/
+Allow: /img/.png
+Allow: /img/*.jpg
+Allow: /static-pages.xml
+
+Sitemap: https://eurobyte.ru/sitemap.xml

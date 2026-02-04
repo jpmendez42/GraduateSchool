@@ -1,0 +1,11 @@
+User-agent: Googlebot
+User-agent: Googlebot-image
+User-agent: Bingbot
+Crawl-delay: 1
+
+User-agent: *
+Disallow: /anmeldung
+Disallow: /cart
+Disallow: /checkout
+Disallow: /mein-konto
+Disallow: /*|*

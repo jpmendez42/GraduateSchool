@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /pressi
+Disallow: /api/fragment
+Disallow: /*?*/api/fragment
+Disallow: /*?*previewDate=
+
+
+# Block Uptime robot
+User-agent: UptimeRobot/2.0
+Disallow: /
+
+Sitemap: https://www.mtvuutiset.fi/sitemap.xml
+Sitemap: https://www.mtvuutiset.fi/newssitemap
+

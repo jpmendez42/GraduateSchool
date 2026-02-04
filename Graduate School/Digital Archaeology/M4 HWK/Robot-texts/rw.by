@@ -1,0 +1,100 @@
+User-Agent: *
+# Запрет адресов на стороне ЦНТИ
+deny 2a01:4f9:4b:480f::2 #Германия;
+deny 20.212.53.218; #Канада
+deny 86.110.220.147; #Россия
+deny 135.181.116.200; #Хельсинки
+# Ограничения на стороне разработчика
+Disallow: */index.php
+Disallow: /bitrix/
+Disallow: /passengers_services/railway_stations/
+Disallow: /be/passengers_services/railway_stations/
+Disallow: /en/passengers_services/railway_stations/
+Disallow: /help/
+Disallow: /be/help/
+Disallow: /en/help/
+Disallow: /passengers_services/information_services/points_of_sale/
+Disallow: /*show_include_exec_time=
+Disallow: /*show_page_exec_time=
+Disallow: /*show_sql_stat=
+Disallow: /*bitrix_include_areas=
+Disallow: /*clear_cache=
+Disallow: /*clear_cache_session=
+Disallow: /*ADD_TO_COMPARE_LIST
+Disallow: /*ORDER_BY
+Disallow: /*PAGEN
+Disallow: /*?print=
+Disallow: /*&print=
+Disallow: /*print_course=
+Disallow: /*?action=
+Disallow: /*&action=
+Disallow: /*register=
+Disallow: /*forgot_password=
+Disallow: /*change_password=
+Disallow: /*login=
+Disallow: /*logout=
+Disallow: /*auth=
+Disallow: /*backurl=
+Disallow: /*back_url=
+Disallow: /*BACKURL=
+Disallow: /*BACK_URL=
+Disallow: /*back_url_admin=
+Disallow: /*?utm_source=
+Disallow: /*?bxajaxid=
+Disallow: /*&bxajaxid=
+Disallow: /*?view_result=
+Disallow: /*&view_result=
+# Дополнительные ограничения на стороне ЦНТИ
+# Disallow: */upload/*
+# Disallow: */uploads/*
+Disallow: */business-card/*
+# Запрет агентов на стороне ЦНТИ
+User-agent: AhrefsBot
+Disallow: /
+User-agent: archive.org
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: domrf-lk.ru
+Disallow: /
+User-agent: DotBot
+Disallow: /
+User-agent: exabot
+Disallow: /
+User-agent: halvakabinet.ru
+Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: ik-megafon.ru
+Disallow: /
+User-agent: gigabot
+Disallow: /
+User-agent: larbin
+Disallow: /
+User-agent: linksmanager
+Disallow: /
+User-agent: MegaIndex
+Disallow: /
+User-agent: majestic-12
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: nmo-lk.ru
+Disallow: /
+User-agent: rogerbot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: Tor
+Disallow: /
+User-agent: weborama
+Disallow: /
+# Разрешения на стороне разработчика
+Allow: /bitrix/components/
+Allow: /bitrix/cache/
+Allow: /bitrix/js/
+Allow: /bitrix/templates/
+Allow: /bitrix/panel/
+Host: www.rw.by

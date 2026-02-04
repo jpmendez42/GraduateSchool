@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /HardcoreChat/xhtmltouchdemochat
+Disallow: /HardcoreChat/xhtmlwebdemochat
+Disallow: /HardcoreChat/xhtmlchat
+Disallow: /HardcoreChat/SHORTURLS/
+Disallow: /SexChat/xhtmltouchdemochat
+Disallow: /SexChat/xhtmlwebdemochat
+Disallow: /SexChat/xhtmlchat
+Disallow: /SexChat/SHORTURLS/
+Disallow: /WMChat/
+Sitemap: https://senzula.at/HardcoreChat/xhtmltouchdemositemap
+
+User-agent: Googlebot-Image
+Disallow: /SexChat/pictureScaling2
+Disallow: /SexChat/pictureScaling2/
+Disallow: /HardcoreChat/pictureScaling2
+Disallow: /HardcoreChat/pictureScaling2/
+
+User-agent: ia_archiver
+Disallow: /

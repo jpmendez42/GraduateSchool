@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /*getlike/
+Disallow: /*incrementlike/
+Disallow: /*service/csrf?_
+Disallow: /*!removeUserDocument
+Disallow: /*!addToDossier
+Disallow: /*!search;
+Disallow: /*?contactId=*&documentId=
+Disallow: /*!saveUserDocument
+
+Sitemap: https://www.gtai.de/service-sitemap-323f1c1a30991af8f643c9b9ab4c340f-sitemap_index.xml

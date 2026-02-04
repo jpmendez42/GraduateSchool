@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /static/
+Disallow: /teasers/
+Disallow: /rep/
+Disallow: /back/
+Disallow: /classes/
+Disallow: /*/&order=date*
+
+
+Sitemap:https://infox.sg/sitemap_all.php

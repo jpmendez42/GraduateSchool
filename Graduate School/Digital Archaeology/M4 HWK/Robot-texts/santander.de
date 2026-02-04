@@ -1,0 +1,26 @@
+
+Sitemap: https://www.santander.de/privatkunden/service-kontakt/sitemap/xml-sitemap.xml
+# Disallow Direktiven
+User-agent: *
+#Directive No. 0 -
+Disallow: /html/carcredit/caravan/
+#Directive No. 1 -
+Disallow: /html/carcredit/motorrad/
+#Directive No. 2 -
+Disallow: /html/carcredit/pkw/
+#Directive No. 3 -
+Disallow: /html/kredit/affiliate/
+#Directive No. 4 -
+Disallow: /html/kredit/bestcredit/
+#Directive No. 5 -
+Disallow: /html/kredit/express/
+#Directive No. 6 -
+Disallow: /html/kredit/mailing/
+#Directive No. 7 -
+Disallow: /html/kreditkarten/
+#Directive No. 8 -
+Disallow: /html/landingpages/
+#Directive No. 9 -
+Disallow: /html/php-files/
+#Directive No. 10 -
+Disallow: /static/

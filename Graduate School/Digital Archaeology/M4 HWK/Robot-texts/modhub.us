@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /search/
+Disallow: */download-photo/*
+Disallow: */filter/*
+
+Sitemap: https://www.modhub.us/sitemap_index.xml
+Sitemap: https://www.modhub.us/sitemap-news.xml

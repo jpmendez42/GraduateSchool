@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /homepage-archive/
+Disallow: /facilities/
+Allow: /facilities/index.html
+
+User-Agent: coveobot
+Allow: /facilities/

@@ -1,0 +1,5 @@
+User-Agent: *
+Crawl-delay: 1.2
+Allow: /
+Host: fantlab.ru
+

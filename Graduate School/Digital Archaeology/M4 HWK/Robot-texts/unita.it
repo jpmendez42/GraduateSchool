@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /application/wp-admin/
+Allow: /application/wp-admin/admin-ajax.php
+
+Sitemap: https://www.unita.it/sitemap.xml
+
+Sitemap: https://www.unita.it/sitemap-news.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

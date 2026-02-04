@@ -1,0 +1,63 @@
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Directories
+Disallow: /core/
+Disallow: /profiles/
+Disallow: /employeur/simulateur_doeth/simulation/summary/
+Disallow: /employeur/simulateur_doeth/simulation/synthesis/
+# Files
+Disallow: /README.txt
+Disallow: /web.config
+# Media Files
+Disallow: /sites/default/files/medias/documents_rrh/
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /user/
+Disallow: /thematique/*
+# Paths (no clean URLs)
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/filter/tips/
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password/
+Disallow: /recherche
+Disallow: *?field_geographie_target_id
+Disallow: *?type=
+Disallow: *?field_thematique_target_id=
+Disallow: *?field_publics_cibles_target_id=
+Disallow: *?f%5B0%5D=thematiques%
+Disallow: *?texte=
+Disallow: *?field_type_aide_service_target_id=
+Disallow: *?publics=
+Disallow: *?thematique="
+Disallow: *?texte-recherche=
+#Sitemap
+Sitemap: https://www.agefiph.fr/sitemap.xml
+

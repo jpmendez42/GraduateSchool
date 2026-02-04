@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /etc.clientlibs/
+Allow: /etc.clientlibs/kaufland
+
+Sitemap: https://www.kaufland.ro/.sitemap.xml

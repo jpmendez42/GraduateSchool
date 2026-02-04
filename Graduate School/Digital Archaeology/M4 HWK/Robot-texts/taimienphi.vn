@@ -1,0 +1,28 @@
+User-agent: *
+Disallow: /Ajax/
+Disallow: /search/
+Disallow: /TagSearch.aspx
+Disallow: /rd-file.aspx
+Disallow: /rd-filev1.aspx
+Disallow: /top-taive*
+Disallow: /author/
+
+
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: Sosospider
+Disallow: /
+
+User-agent: sitebot
+disallow: /
+
+User-agent: LinkedInBot
+disallow: /
+
+User-agent: AhrefsBot 
+Disallow: /

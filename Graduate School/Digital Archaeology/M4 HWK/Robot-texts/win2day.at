@@ -1,0 +1,17 @@
+User-agent: msnbot
+Disallow: /*sessionID$
+Disallow: /*fepreg$
+Disallow: */platformService
+Disallow: */perform_login
+
+User-Agent: *
+Disallow: /*topwins
+Disallow: /*sessionID=
+Disallow: /*sessrep=
+Disallow: /*uepSessionToken=
+Disallow: /*fepreg=
+Disallow: /java/
+Disallow: /javamobile/
+Disallow: */perform_login
+Disallow: */platformService
+Sitemap: https://www.win2day.at/sitemap.xml

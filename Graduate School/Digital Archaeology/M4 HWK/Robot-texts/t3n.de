@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /suche*
+Disallow: /news/kommentar-benachrichtigungen/*
+Disallow: /account/
+Disallow: /login*
+Disallow: /magazin/media/
+Disallow: /magazin/wp-admin/
+Disallow: /neos/
+Disallow: /news/wp-admin/
+Allow: /account/_Resources/
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /events/
+Disallow: /podcast/
+Disallow: /suche/
+
+Sitemap: https://t3n.de/sitemap-index.xml

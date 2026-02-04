@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /response
+Disallow: /t-point-documenten
+Disallow: /t-point-documenten-werkgevers
+Disallow: /binaries/content/assets/tempoteamnl/hidden
+Disallow: /binaries/content/assets/tempoteamnl/semihidden
+Disallow: /werknemers/intern/
+Disallow: /werknemers/bedanktpaginas/
+Disallow: /intercedenten
+Disallow: /b2b/
+Disallow: /error/401
+Disallow: /error/403
+Disallow: /error/404
+Disallow: /error/500
+
+Sitemap: https://www.tempo-team.nl/sitemap.xml
+Sitemap: https://www.tempo-team.nl/vestigingen-sitemap.xml
+Sitemap: https://www.tempo-team.nl/job-sitemap.xml
+Sitemap: https://www.tempo-team.nl/jobfunction-sitemap.xml
+Sitemap: https://www.tempo-team.nl/cities-sitemap.xml
+Sitemap: https://www.tempo-team.nl/jobcategory-sitemap.xml
+Sitemap: https://www.tempo-team.nl/binaries/content/assets/tempoteam/jobfunctions-in-cities-sitemap.xml
+Sitemap: https://www.tempo-team.nl/binaries/content/assets/tempoteam/jobcategories-in-cities-sitemap.xml

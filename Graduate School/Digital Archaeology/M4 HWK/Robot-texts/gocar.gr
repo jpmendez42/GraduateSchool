@@ -1,0 +1,19 @@
+User-agent: * 
+Disallow: /cache/
+Disallow: /cache2/
+Disallow: /cache3/
+Disallow: /help/
+Disallow: /images/
+Disallow: /ice_media/
+Disallow: /templates/
+Disallow: /ice_admin/
+Disallow: /ice_bots/
+Disallow: /data/
+Disallow: /get-gas-stations
+Disallow: /area-fuel-top
+Disallow: /directory-search
+
+Disallow: /search/all/
+Disallow: /search/content/
+Disallow: /search/videos/
+Disallow: /search/directory/

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /suche/ergebnisse/*
+Sitemap: https://www.deutschlandfunknova.de/sitemap.xml
+Sitemap: https://www.deutschlandfunknova.de/news.xml
+Crawl-delay: 5

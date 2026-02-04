@@ -1,0 +1,4 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow: /kundenportal/
+Sitemap: https://www.eprimo.de/sitemap.xml

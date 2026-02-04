@@ -1,0 +1,64 @@
+
+Sitemap: https://www.rsvplive.ie/map_news.xml
+Sitemap: https://www.rsvplive.ie/sitemaps/sitemap_index.xml
+User-agent: *
+Disallow: /topics/*
+Disallow: /topics
+Disallow: /*token=*
+Crawl-delay: 10.0
+
+Disallow: /search/
+Disallow: /comm-part-test/
+Disallow: /*service=ajax
+Disallow: /centenary-fund/
+Disallow: /3am/weird-celeb-news/xxx-1341448
+Disallow: /3am/weird-celeb-news/tamara-ecclestone-watched-boyfriends-sex-1341448
+Disallow: /comm-part-test/oh-like-beside-seaside-uk-1722203
+Disallow: /5293/
+Disallow: /*.ece
+Disallow: /news/irish-news/paedophile-jason-clancy-told-boy-7398312
+
+
+#Agent Specific Disallowed Sections
+
+User-agent: daumoa
+Disallow: /
+
+Crawl-delay: 10.0
+
+User-agent: semetrical
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Perplexity-ai
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+

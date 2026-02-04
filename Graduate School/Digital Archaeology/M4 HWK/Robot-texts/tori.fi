@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /map/
+Disallow: /map*
+Disallow: /auth
+Disallow: /messages/
+Disallow: /messages*
+Disallow: /recommerce-seller-b2c-api/
+Disallow: /profile*
+Disallow: /contact/*
+Disallow: /report/*
+Sitemap: https://www.tori.fi/sitemap.xml
+Sitemap: https://www.tori.fi/yrityksille/sitemap.xml

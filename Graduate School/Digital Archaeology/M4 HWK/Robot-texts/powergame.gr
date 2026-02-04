@@ -1,0 +1,24 @@
+Sitemap: https://www.powergame.gr/sitemap-news.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /wp-login
+Disallow: /wp-admin
+Disallow: /wp-admin/admin-ajax.php
+Disallow: /*?*s=
+Disallow: /*&s=
+Disallow: /feed
+Disallow: /author
+Disallow: /market
+Disallow: /search
+Disallow: /en/
+Disallow: /en$
+
+User-agent: facebookexternalhit
+Allow: /en
+
+
+Sitemap: https://www.powergame.gr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /*print
+Disallow: /autobackup.php
+Disallow: /admin.php
+Disallow: /user/
+Disallow: /index.php?do=register
+Disallow: /index.php?do=lastcomments
+Disallow: /index.php?do=stats
+Disallow: /index.php?do=pm
+Disallow: /index.php?do=stats
+Disallow: /index.php?do=search
+Disallow: /index.php?do=addnews
+Disallow: /index.php?do=register
+Disallow: /index.php?do=feedback
+Disallow: /index.php?do=lostpassword
+Disallow: /index.php?subaction=newposts
+Host: audioknigivse.ru
+User-agent: Yandex
+Clean-param: ref /some_dir/get_book.pl

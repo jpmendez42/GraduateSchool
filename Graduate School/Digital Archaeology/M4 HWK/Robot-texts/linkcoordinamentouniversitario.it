@@ -1,0 +1,10 @@
+User-agent: grapeshot
+Disallow:
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php 
+
+# XML Sitemap & Google News version 5.3.6 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://linkcoordinamentouniversitario.it/sitemap.xml
+Sitemap: https://linkcoordinamentouniversitario.it/sitemap-news.xml

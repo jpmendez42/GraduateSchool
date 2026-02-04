@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /whats-new/
+Disallow: /account/
+Disallow: /styles/
+Disallow: /goto/
+Disallow: /posts/
+Disallow: /login/
+Disallow: /admin.php
+Allow: /
+
+Sitemap: https://www.rc-network.de/sitemap.xml

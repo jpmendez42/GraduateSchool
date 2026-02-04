@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /typo3/
+Disallow: /typo3conf/
+
+Sitemap: https://www.arera.it/sitemap.xml

@@ -1,0 +1,44 @@
+User-agent: *
+Allow: /
+
+# Job listing 
+Disallow: /offerte-lavoro/*/km-
+Disallow: /offerte-lavoro/*/postcode-
+Disallow: /offerte-lavoro/*/sh-
+Disallow: /offerte-lavoro/*/sd-
+Disallow: /offerte-lavoro/*/sw-
+Disallow: /offerte-lavoro/*/sm-
+Disallow: /offerte-lavoro/*/sa-
+Disallow: /offerte-lavoro/*/l-
+Disallow: /offerte-lavoro/*/h-
+Disallow: /offerte-lavoro/*/jt-*,*/
+Disallow: /offerte-lavoro/?d=
+Disallow: /offerte-lavoro/*/?d=
+
+# Job detail 
+Disallow: /job-redirect/
+
+# Job apply (apply + confirmation)
+Disallow: /my-randstad/apply-proxy/
+
+# Blog
+Disallow: /*/?c-career-advice
+Disallow: /*/?c-category
+Disallow: /*/?c-wf360-category
+Disallow: /*/?c-tags
+Disallow: /*/?c-press-category
+Disallow: /taxonomy/term/
+
+# CMS
+Disallow: /*/profile-
+Disallow: /node/
+
+# Legacy
+Disallow: /*/?id=*
+Disallow: /*/qt-
+
+#Exclude GTM URLs
+Disallow: /sst/
+
+# XML Index sitemap
+Sitemap: https://www.randstad.it/sitemap.xml

@@ -1,0 +1,18 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /areaclienti/
+Disallow: /assistenza/
+Disallow: /azienda/
+Disallow: /cdn/
+Disallow: /clienti/
+Disallow: /mobile/
+Disallow: /shop/
+Disallow: /prodotti/
+Disallow: /wifi/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+
+Sitemap: https://micso.it/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

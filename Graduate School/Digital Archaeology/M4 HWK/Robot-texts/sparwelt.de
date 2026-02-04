@@ -1,0 +1,133 @@
+User-agent: *
+Disallow: /suche?
+Disallow: /*?code=*
+Disallow: /*&code=*
+Disallow: /*?consent=*
+Crawl-delay: 3
+
+User-agent: sistrix
+Allow: /
+Crawl-delay: 5
+
+User-agent: GPTBot
+Allow: /gutscheine/
+Disallow: /*?code=*
+Disallow: /*&code=*
+Disallow: /*?consent=*
+Disallow: /
+
+User-agent: Google-Extended
+Allow: /gutscheine/
+Disallow: /*?code=*
+Disallow: /*&code=*
+Disallow: /*?consent=*
+Disallow: /
+
+User-agent: FacebookBot
+Allow: /gutscheine/
+Disallow: /*?code=*
+Disallow: /*&code=*
+Disallow: /*?consent=*
+Disallow: /
+
+User-agent: Applebot
+Allow: /gutscheine/
+Disallow: /*?code=*
+Disallow: /*&code=*
+Disallow: /*?consent=*
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /gutscheine/
+Disallow: /*?code=*
+Disallow: /*&code=*
+Disallow: /*?consent=*
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /gutscheine/
+Disallow: /?code=
+Disallow: /&code=
+Disallow: /?consent=
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Yeti
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: sentibot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: SirdataBot
+Disallow: /
+
+User-agent: LCC
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-Agent: ImagesiftBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-Agent: omgili
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Seekbot
+Disallow: /
+
+User-agent: Seekr
+Disallow: /
+
+Sitemap: https://www.sparwelt.de/sitemap.xml
+  

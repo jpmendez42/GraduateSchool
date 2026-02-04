@@ -1,0 +1,89 @@
+User-agent: *
+Disallow: /cgi-bin/
+
+User-agent:SoftBankMobileSearch
+Disallow:/
+
+User-agent:Y!J-SRD
+Disallow:/
+
+User-agent:Y!J-MBS
+Disallow:/
+
+User-agent: CCBot
+Disallow: /news/
+
+User-agent: ChatGPT-User
+Disallow: /news/
+
+User-agent: GPTBot
+Disallow: /news/
+
+User-agent: Google-Extended
+Disallow: /news/
+
+User-agent: ICC-Crawler
+Disallow: /news/
+
+User-agent: anthropic-ai
+Disallow: /news/
+
+User-agent: ClaudeBot
+Disallow: /news/
+
+User-agent: Claude-Web
+Disallow: /news/
+
+User-agent: Applebot-Extended
+Disallow: /news/
+
+User-agent: cohere-ai
+Disallow: /news/
+
+User-agent: omgili
+Disallow: /news/
+
+User-agent: omgilibot
+Disallow: /news/
+
+User-agent: PerplexityBot
+Disallow: /news/
+
+User-agent: Perplexity-User
+Disallow: /news/
+
+User-agent: meta-externalagent
+Disallow: /news/
+
+User-agent: OAI-Searchbot
+Disallow: /news/
+
+User-agent: AmazonBot
+Disallow: /news/
+
+User-agent: Bytespider
+Disallow: /news/
+
+User-agent: Claude-SearchBot
+Disallow: /news/
+
+User-agent: Claude-User
+Disallow: /news/
+
+User-agent: cohere-training-data-crawler
+Disallow: /news/
+
+User-agent: Diffbot
+Disallow: /news/
+
+User-agent: FacebookBot
+Disallow: /news/
+
+User-agent: Timpibot
+Disallow: /news/
+
+User-agent: Webzio-Extended
+Disallow: /news/
+
+User-agent: Scrapy
+Disallow: /news/

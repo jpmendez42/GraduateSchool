@@ -1,0 +1,15 @@
+# robots.txt for https://www.mediasuite.ca by Media Suite Inc.
+User-agent: * 
+Disallow: 
+
+User-agent: Googlebot
+Disallow: 
+
+User-agent: Slurp
+Disallow: 
+
+User-agent: msnbot
+Disallow: 
+
+SITEMAP: https://www.mediasuite.ca/sitemap.xml
+SITEMAP: https://www.mediasuite.ca/urllist.txt

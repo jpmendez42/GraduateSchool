@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: */search/?q=*
+Disallow: */recherche/?q=*
+Sitemap: https://www.france.fr/sitemap.xml

@@ -1,0 +1,7 @@
+user-agent:*
+disallow:/contao/
+disallow:/_contao/
+
+disallow:/onko-internetportal/
+disallow:/system/
+sitemap:https://www.krebsgesellschaft.de/sitemap.xml

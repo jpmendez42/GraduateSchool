@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:/login/
+Disallow:/event/
+Disallow:/info/
+Disallow:/password/
+Disallow:/concierge/
+Disallow:/news/
+Disallow:/api/
+Disallow:/author/confirm/
+Disallow:/member/
+Allow:/*.css?
+Sitemap: https://michill.jp/sitemap_index.xml

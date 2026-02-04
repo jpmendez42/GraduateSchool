@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /design/
+Disallow: /design2/
+Disallow: /system/
+Disallow: /rss/articles/specialcat/
+Disallow: /addineyeV2l
+Disallow: /eyeblaster
+Disallow: /doubleclick
+Disallow: /ads/sponsored
+Disallow: /comment/*
+Disallow: /search?q=*
+Disallow: /corporate/newsletter/signup?*
+Noindex: /search?q=*
+Noindex: /videos/embed/*
+Noindex: /multimedia*?page=*
+Sitemap: https://www.ibtimes.sg/sitemap.xml
+Sitemap: https://www.ibtimes.sg/news.xml

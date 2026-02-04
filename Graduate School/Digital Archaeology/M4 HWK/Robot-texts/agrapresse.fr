@@ -1,0 +1,11 @@
+Sitemap: https://www.agrapresse.fr/sitemap.xml
+
+Sitemap: https://www.agrapresse.fr/sitemap-news.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

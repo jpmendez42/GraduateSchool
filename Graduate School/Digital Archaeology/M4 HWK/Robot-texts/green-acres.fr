@@ -1,0 +1,39 @@
+User-agent: *
+Disallow:*/Search/LoadAdvertsForNavigation
+Disallow:*/AdvertActions/LoadAdvertsForNavigation
+Disallow:*/MailAlert/ViewAlert
+Disallow:*/Home/CallTwilio
+Disallow:*/prog_show_properties*
+Disallow: */Property/TagVisit
+Disallow: */AdvertActions/TagVisit
+Disallow: */aspirationalsearch
+
+Request-rate: 1/1
+Crawl-delay: 1
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Pompos
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /

@@ -1,0 +1,7 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://www.butfootballclub.fr/sitemap.xml 
+Sitemap: https://www.butfootballclub.fr/sitemap-news.xml 

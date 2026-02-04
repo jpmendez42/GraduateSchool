@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /main/flv/*.html$
+Disallow: /prog/streamingplayer/
+
+Sitemap: https://duga.jp/siteindex.xml

@@ -1,0 +1,763 @@
+
+<!DOCTYPE HTML>
+<html lang="ja">
+	<head prefix="og: http://ogp.me/ns#  article: http://ogp.me/ns/website#">
+		<meta charset="utf-8"/>
+        <title>株式会社 QTmedia | COARAの発展形WEBプロダクション</title>
+
+        <!-- Google Tag Manager -->
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-WJFTLLQ');</script>
+        <!-- End Google Tag Manager -->
+
+        <meta name="description" content="QTmedia（キューティーミディア）はQTnetグループのWEBプロダクションです。お客さまの課題をワンストップで承り、デザイン・システム制作からマーケティング、プロモーションなど、ベストな施策をご提案しあざやかな明日を創造します。"/><meta name="keywords" content="web制作,ホームページ作成,ホームページリニューアル,サイト運営,webマーケティング,webコンサルティング,COARA,コアラ,大分,福岡,九州"/><meta property="og:locale" content="ja"/><meta property="og:type" content="website"/><meta property="og:site_name" content="株式会社 QTmedia | COARAの発展形WEBプロダクション"/><meta property="og:title" content="株式会社 QTmedia | COARAの発展形WEBプロダクション"/><meta property="og:description" content="QTmedia（キューティーミディア）はQTnetグループのWEBプロダクションです。お客さまの課題をワンストップで承り、デザイン・システム制作からマーケティング、プロモーションなど、ベストな施策をご提案しあざやかな明日を創造します。"/><meta property="og:image" content="https://qtmedia.co.jp/img/common/ogp.jpg"/><meta property="og:url" content="https://qtmedia.co.jp/"/><meta property="twitter:card" content="summary_large_image"/><meta property="twitter:title" content="株式会社 QTmedia | COARAの発展形WEBプロダクション"/><meta property="twitter:description" content="QTmedia（キューティーミディア）はQTnetグループのWEBプロダクションです。お客さまの課題をワンストップで承り、デザイン・システム制作からマーケティング、プロモーションなど、ベストな施策をご提案しあざやかな明日を創造します。"/><meta property="twitter:image:src" content="https://qtmedia.co.jp/img/common/ogp.jpg"/><meta name="format-detection" content="telephone"/>
+		<meta name="format-detection" content="telephone=no">
+
+		<!-- viewport -->
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+        <!--favicon icon-->
+        <!-- favicon -->
+
+                    <link href="/favicon.ico" rel="shortcut icon" />
+            <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+                <!-- apple-touch-icon-->
+
+
+		<!-- css -->
+        <link rel="stylesheet" href="/css/common.css"/>        <link rel="stylesheet" href="/css/top.css"/><link rel="stylesheet" href="/css/swiper.css"/>
+        <!-- fonts -->
+        <script src="https://kit.fontawesome.com/57850ff175.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css?family=Abel|Noto+Sans+JP:400,700|Prompt:400,700&display=swap" rel="stylesheet">
+
+
+		<!-- fonts -->
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+
+
+                <!-- js -->
+            <script src="/js/jquery-2.2.4.min.js"></script>
+            <script src="/js/jquery.cookie.js"></script>
+            <script src="/js/common.js"></script>
+            <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.20.2/TweenMax.min.js"></script>
+        	</head>
+
+	<body>
+		
+
+
+        <!-- Google Tag Manager (noscript) -->
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJFTLLQ"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <!-- End Google Tag Manager (noscript) -->
+
+        <!-- cursor -->
+<div class="cursor"></div>
+<div class="follower">	<div class="follower-inner">
+		<div class="follower-fx01"></div>
+		<div class="follower-fx02"></div>
+		<div class="follower-fx03"></div>
+		<div class="follower-fx04"></div>
+		<div class="follower-fx05"></div>
+		<div class="follower-fx06"></div>
+		<div class="follower-fx07"></div>
+		<div class="follower-fx08"></div>
+	</div>
+</div>
+<!-- cursor -->
+                            <!-- header -->
+<header id="header">
+    <!-- wrapper -->
+    <div class="wrapper">
+        <h1 class="h-logo"><a href="/"><img src="/img/common/logo.svg" alt="QTミディア"></a></h1>
+        <!-- h-menu -->
+
+        <p class="go-contents"><a href="#contents">本文へ</a></p>
+
+        <!-- sp-nav -->
+        <div id="sp-nav">
+            <h1 class="sp-logo"><a href="/"><img src="/img/common/logo.svg" alt="QTミディア"></a></h1>
+
+            <!-- btn-menu -->
+            <button type="button" class="btn-menu">
+                <span class="drawer-bar drawer-bar1"></span>
+                <span class="drawer-bar drawer-bar2"></span>
+                <span class="drawer-bar drawer-bar3"></span>
+                <span class="drawer-menu_text drawer-text">MENU</span>
+                <span class="drawer-close drawer-text">CLOSE</span>
+            </button>
+            <!-- btn-menu -->
+
+        </div>
+        <!-- spnav -->
+
+        <!-- sp-wrap -->
+        <div class="sp-wrap">
+            <!-- sp-wrap-inner-->
+            <div class="sp-wrap-inner">
+                <!-- gnav -->
+                <nav id="gnav">
+                    <ul>
+                        <li class="down"><a href="javascript:void(0)">ABOUT</a>
+                            <ul>
+                                <li><a href="/company/" title="会社概要">ABOUT</a></li>
+                                <li><a href="/company/csr/">CSR</a></li>
+                            </ul>
+                        </li>
+                        <li class="down"><a href="javascript:void(0)">WORKS</a>
+                            <ul>
+                                <li><a href="/works/" title="制作実績">WORKS</a></li>
+                                <li><a href="/pickups/" title="事例ピックアップ">PICK UP</a></li>
+                            </ul>
+                        </li>
+                        <li class="down"><a href="javascript:void(0)">SERVICE</a>
+                            <ul>
+                                <li><a href="/services/" title="サービス案内">SERVICE</a></li>
+                                <li><a href="/case/" title="モデルケース">CASE</a></li>
+                            </ul>
+                        </li>
+                        <li><a href="/column/" title="コラム">COLUMN</a></li>
+                        <li><a href="/members/" title="社員紹介">MEMBERS</a></li>
+                        <li><a href="/news/" title="お知らせ">NEWS</a></li>
+                        <li><a href="/recruit/" title="採用情報">RECRUIT</a></li>
+                    </ul>
+                </nav>
+                <!-- gnav -->
+            </div>
+            <!-- sp-wrap-inner-->
+        </div>
+        <!-- sp-wrap -->
+    </div>
+    <!-- wrapper -->
+</header>
+<!-- header -->
+                <!--content-area-->
+        <div class="content-area" id="contents" role="main">
+
+			
+            
+<!--mv-->
+<div class="mv">
+
+	<h2 class="ttl-mv"><span>明日を今日より<br>あざやかに</span></h2>
+
+	<div class="mv-anim">
+		<img src="/img/top/img_mv01.jpg" alt="">
+		<img src="/img/top/img_mv02.jpg" alt="">
+		<img src="/img/top/img_mv03.jpg" alt="">
+	</div>
+
+	<!-- scroll -->
+	<p class="scroll"><span>SCROLL</span></p>
+	<!-- scroll -->
+
+</div>
+<!--mv-->
+
+<!--topics-->
+<div class="topics">
+	<div class="wrapper">
+
+
+		<div class="ttl-area">
+			<h2 class="fx-txt-right01"><span>COLUMN</span></h2>
+			<p class="fx-txt-right02"><span>コラム</span></p>
+		</div>
+
+
+		<!-- slider-thumb -->
+		<div class="slider-thumb">
+			<!-- swiper-container -->
+			<div class="swiper-container-topics">
+				<!--list-thumb -->
+				<ul class="list-thumb swiper-wrapper">
+																		<li class="swiper-slide">
+								
+
+
+<a href=/column/detail/9173dfb5-8ec7-4f02-a9ef-65756f7be615>
+	<div class="ph-list"><img src="/files/Topics/9173dfb5-8ec7-4f02-a9ef-65756f7be615/image/3eae3a7ef85a66b7d083ec4375f75eb3.jpg" alt="写真：子どもがタブレットで絵を描いているようす"/></div>
+	<div class="txt-part">
+		<div class="cate-list genre-list">
+												<p class="cate-genre">QTmediaのこと</p>
+									</div>
+		<h4 class="ttl">家族がオフィスにやってきた！</h4>
+		<div class="info-area">
+			<p class="info-name">
+				<span>
+					<img src="/files/Members/09d788d9-076d-4b59-87e7-62ad0586817a/image/99a0b71f9f65f39ca27c58fb9a585068.jpg" alt=""/>				</span>
+									QTM編集部							</p>
+			<p class="info-date">2025.08.20</p>
+		</div>
+	</div>
+</a>							</li>
+													<li class="swiper-slide">
+								
+
+
+<a href=/column/detail/96d73f67-fdf7-42cb-b154-598914eb9c3a>
+	<div class="ph-list"><img src="/files/Topics/96d73f67-fdf7-42cb-b154-598914eb9c3a/image/d8158392ea685db5b48e0d45ff500023.jpg" alt="写真：ビッグサイトホール前に設置された「第5回 デジタル化・DX推進展(ODEX)」の案内板"/></div>
+	<div class="txt-part">
+		<div class="cate-list genre-list">
+												<p class="cate-genre">QTmediaのこと</p>
+									</div>
+		<h4 class="ttl">東京ビッグサイトで開催された「第5回 デジタル化・DX推進展(ODEX)」に出展しました</h4>
+		<div class="info-area">
+			<p class="info-name">
+				<span>
+					<img src="/files/Members/09d788d9-076d-4b59-87e7-62ad0586817a/image/99a0b71f9f65f39ca27c58fb9a585068.jpg" alt=""/>				</span>
+									QTM編集部							</p>
+			<p class="info-date">2025.06.24</p>
+		</div>
+	</div>
+</a>							</li>
+													<li class="swiper-slide">
+								
+
+
+<a href=/column/detail/50328d1b-a2c4-4eb0-9429-32b274f943f6>
+	<div class="ph-list"><img src="/files/Topics/50328d1b-a2c4-4eb0-9429-32b274f943f6/image/e03256fc0d6271cabd293e092b5d8a3c.png" alt=""/></div>
+	<div class="txt-part">
+		<div class="cate-list genre-list">
+												<p class="cate-genre">サークル</p>
+									</div>
+		<h4 class="ttl">QTmediaサークル活動　2024年度最新版</h4>
+		<div class="info-area">
+			<p class="info-name">
+				<span>
+					<img src="/files/Members/09d788d9-076d-4b59-87e7-62ad0586817a/image/99a0b71f9f65f39ca27c58fb9a585068.jpg" alt=""/>				</span>
+									QTM編集部							</p>
+			<p class="info-date">2025.02.17</p>
+		</div>
+	</div>
+</a>							</li>
+													<li class="swiper-slide">
+								
+
+
+<a href=/column/detail/6d2f67a5-fef5-4e14-a7b6-cede4c75e9e6>
+	<div class="ph-list"><img src="/files/Topics/6d2f67a5-fef5-4e14-a7b6-cede4c75e9e6/image/eddff779f4138e632e7072ea82fb2d14.jpg" alt=""/></div>
+	<div class="txt-part">
+		<div class="cate-list genre-list">
+												<p class="cate-genre">QTmediaのこと</p>
+									</div>
+		<h4 class="ttl">伊藤実紗さんがエアリアルフープ世界大会で3位入賞しました!!</h4>
+		<div class="info-area">
+			<p class="info-name">
+				<span>
+					<img src="/files/Members/09d788d9-076d-4b59-87e7-62ad0586817a/image/99a0b71f9f65f39ca27c58fb9a585068.jpg" alt=""/>				</span>
+									QTM編集部							</p>
+			<p class="info-date">2024.10.30</p>
+		</div>
+	</div>
+</a>							</li>
+													<li class="swiper-slide">
+								
+
+
+<a href=/column/detail/4569ec16-ac75-4bdf-abe8-28e1a068a180>
+	<div class="ph-list"><img src="/files/Topics/4569ec16-ac75-4bdf-abe8-28e1a068a180/image/61248ac1b16b40435c6d8977ff741ff7.jpg" alt=""/></div>
+	<div class="txt-part">
+		<div class="cate-list genre-list">
+												<p class="cate-genre">QTmediaのこと</p>
+									</div>
+		<h4 class="ttl">伊藤実紗さん世界大会出場の壮行会を開催しました</h4>
+		<div class="info-area">
+			<p class="info-name">
+				<span>
+					<img src="/files/Members/09d788d9-076d-4b59-87e7-62ad0586817a/image/99a0b71f9f65f39ca27c58fb9a585068.jpg" alt=""/>				</span>
+									QTM編集部							</p>
+			<p class="info-date">2024.10.21</p>
+		</div>
+	</div>
+</a>							</li>
+													<li class="swiper-slide">
+								
+
+
+<a href=/column/detail/3faae71f-3592-4b73-87c9-1fbc3e717229>
+	<div class="ph-list"><img src="/files/Topics/3faae71f-3592-4b73-87c9-1fbc3e717229/image/75d820820abb4d76622591633e74e926.jpg" alt=""/></div>
+	<div class="txt-part">
+		<div class="cate-list genre-list">
+												<p class="cate-genre">QTmediaのこと</p>
+									</div>
+		<h4 class="ttl">挑戦の舞台へ―エアリアルフープ世界大会に挑む</h4>
+		<div class="info-area">
+			<p class="info-name">
+				<span>
+					<img src="/files/Members/09d788d9-076d-4b59-87e7-62ad0586817a/image/99a0b71f9f65f39ca27c58fb9a585068.jpg" alt=""/>				</span>
+									QTM編集部							</p>
+			<p class="info-date">2024.09.18</p>
+		</div>
+	</div>
+</a>							</li>
+															</ul>
+				<!--list-thumb -->
+				<!-- Add Arrows -->
+				<div class="swiper-button-next js-swiper-next swiper-button-next-topics"></div>
+				<div class="swiper-button-prev js-swiper-prev swiper-button-prev-topics"></div>
+			</div>
+			<!-- swiper-container -->
+		</div>
+		<!-- slider-thumb -->
+
+
+		<!-- btn-more -->
+		<p class="btn-more"> <a href="/column/">VIEW MORE</a> </p>
+		<!-- btn-more -->
+
+	</div>
+
+</div>
+<!--topics-->
+
+
+<!--concept-->
+<div class="concept">
+	<div class="wrapper">
+		<div class="ttl-area">
+			<h2 class="txt-anim01 fx-txt-right01"><span>MESSAGE</span></h2>
+			<p class="fx-txt-right02"><span>メッセージ</span></p>
+		</div>
+		<div class="concept-area ">
+			<p class="fx-up">想いにかたちはありません。<br>それでも確かに存在して、人と世界を動かします。<br><br>お客さまの想いをくみ取り、解決策を提案する。<br>多彩なアイディアと技術を駆使して、効果をもたらすまで実行する。<br><br>私たちの取組みで、お客さまの想いをあまねく伝える。<br>伝わる想いで、人と世界を彩り豊かに変えていく。<br><br>「明日を今日よりあざやかに」<br><br>それがQTmediaの想いです。</p>
+		</div>
+	</div>
+	<div class="txt-concept">
+		<p>For a brighter, more radiant tomorrow</p>
+	</div>
+
+</div>
+<!--concept-->
+
+<!--staff-->
+<div class="staff">
+	<div class="staff-inner">
+		<div class="color01 fx-up"></div>
+		<figure class="staff01 fx-up fx-panel-right">
+			<img src="/img/top/staff01.jpg" alt="">
+		</figure>
+		<div class="color02 fx-right"></div>
+		<figure class="staff02 fx-down fx-panel-right">
+			<img src="/img/top/staff02.jpg" alt="">
+		</figure>
+		<figure class="staff03 fx-in fx-panel-right">
+			<img src="/img/top/staff03.jpg" alt="">
+		</figure>
+		<div class="color03 fx-left"></div>
+		<figure class="staff04 fx-down fx-panel-right">
+			<img src="/img/top/staff04.jpg" alt="">
+		</figure>
+	</div>
+</div>
+<!--staff-->
+
+
+<!--service-->
+<div class="service wrapper">
+
+	<div class="service-contents">
+
+		<div class="ttl-area">
+			<h2 class="txt-anim01 fx-txt-right01"><span>SERVICE</span></h2>
+			<p class="fx-txt-right02"><span>わたしたちのサービス</span></p>
+		</div>
+
+		<p class="txt-service">1985年に創業して以来、長年培ってきたノウハウに加え、企画、取材、撮影、制作、システム開発、サーバ保守等、全ての分野のスペシャリストが揃うQTmediaだからこそ、お客さまの様々なご要望にお応えします。</p>
+
+		<p class="btn-more"> <a href="/services/">VIEW MORE</a> </p>
+
+	</div>
+
+	<div class="service-link">
+		<ul>
+			<li class="service-link-contents"><a href="/services/#production">コンテンツ制作<span>ウェブサイト制作・印刷物制作<br>動画制作・配信等</span></a></li>
+			<li class="service-digital-marketing"><a href="/services/#marketing">デジタル<br>マーケティング</a></li>
+			<li class="service-link-security-accessibility"><a href="/services/#security">セキュリティ＆<br>アクセシビリティ</a></li>
+		</ul>
+	</div>
+
+</div>
+<!--service-->
+
+
+<!--case-->
+<div class="case">
+	<div class="wrapper">
+
+
+		<div class="ttl-area">
+			<h2 class="fx-txt-right01"><span>CASE</span></h2>
+			<p class="fx-txt-right02"><span>モデルケース</span></p>
+		</div>
+
+
+		<!--list-thumb -->
+		<ul class="list-thumb col3 sp-col01">
+
+			<li>
+				<a href="/case/#case01">
+					<div class="ph-list">
+						<img src="/img/top/thum_case01.png" alt="">
+					</div>
+					<div class="txt-part">
+						<h4 class="ttl">ホームページを新たに立ち上げたいor リニューアルしたい</h4>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/case/#case02">
+					<div class="ph-list">
+						<img src="/img/top/thum_case02.png" alt="">
+					</div>
+					<div class="txt-part">
+						<h4 class="ttl">PR動画を作りたい</h4>
+					</div>
+				</a>
+			</li>
+			<li>
+				<a href="/case/#case03">
+					<div class="ph-list">
+						<img src="/img/top/thum_case03.png" alt="">
+					</div>
+					<div class="txt-part">
+						<h4 class="ttl">自社サイトのアクセス数を増やしたい or もっと顧客獲得につなげたい</h4>
+					</div>
+				</a>
+			</li>
+
+		</ul>
+		<!--list-thumb -->
+
+		<!-- btn-more -->
+		<p class="btn-more"> <a href="/case/">VIEW MORE</a> </p>
+		<!-- btn-more -->
+
+	</div>
+
+</div>
+<!--case-->
+
+
+<!--pickups-->
+<div class="pickups">
+	<div class="wrapper">
+
+
+		<div class="ttl-area">
+			<h2 class="fx-txt-right01"><span>PICK UP</span></h2>
+			<p class="fx-txt-right02"><span>制作実績ピックアップ</span></p>
+		</div>
+
+
+		<!-- slider-thumb -->
+		<div class="slider-thumb">
+			<!-- swiper-container -->
+			<div class="swiper-container-pickup">
+				<!--list-thumb -->
+				<ul class="list-thumb swiper-wrapper">
+																		<li class="swiper-slide">
+								
+
+<a href="/pickups/detail/638">
+	<div class="ph-list">
+	<img src="/files/Works/e1eb02ba-3e3e-4ecf-938c-c8851650c064/pickup_image/76d4ec1af289dcd38b3b8c60382bdb51.png" alt=""/>	</div>
+	<div class="txt-part">
+		<h4 class="ttl">みんなで持続可能な地域社会の実現を！ 「SDGs未来都市」選定市による“アクションブック”サイトが完成</h4>
+		<div class="pickup-info-area">
+			<p class="info-date">2024.10.08</p>
+			<p class="info-matter">のべおかSDGsポータルサイト</p>
+		</div>
+	</div>
+</a>
+							</li>
+													<li class="swiper-slide">
+								
+
+<a href="/pickups/detail/600">
+	<div class="ph-list">
+	<img src="/files/Works/bbcf6c65-d72c-4023-b53c-0327d33128d5/pickup_image/4b5cce07301220c12f30d22bf381bdc5.png" alt=""/>	</div>
+	<div class="txt-part">
+		<h4 class="ttl">富山県の新しい成長戦略「ウェルビーイング」を啓蒙。 馴染みの浅い言葉や戦略を「花」に見立て可視化し、“自分ごと ” “地域ごと”に</h4>
+		<div class="pickup-info-area">
+			<p class="info-date">2024.11.11</p>
+			<p class="info-matter">富山県 わたしの、みんなのウェルビーイング・アクション！</p>
+		</div>
+	</div>
+</a>
+							</li>
+													<li class="swiper-slide">
+								
+
+<a href="/pickups/detail/548">
+	<div class="ph-list">
+	<img src="/files/Works/f289a4b3-5dc1-46b3-b470-2fd401110bf3/pickup_image/d10e5a6f2863e15d9180f3a45fb7656a.png" alt=""/>	</div>
+	<div class="txt-part">
+		<h4 class="ttl">伝統行事を次世代へつなぐために… サイト制作で業務効率化と発信力アップに貢献</h4>
+		<div class="pickup-info-area">
+			<p class="info-date">2022.12.16</p>
+			<p class="info-matter">博多どんたく港まつり モバイルどんたく（モバどん）</p>
+		</div>
+	</div>
+</a>
+							</li>
+													<li class="swiper-slide">
+								
+
+<a href="/pickups/detail/539">
+	<div class="ph-list">
+	<img src="/files/Works/fa344535-08b0-47e2-a78f-a9726646d28c/pickup_image/0848de5a1cf599d0a88be3fbc3bf9917.jpg" alt=""/>	</div>
+	<div class="txt-part">
+		<h4 class="ttl">中学生たちの可能性を拓く第一歩を応援。 充実した検索・比較機能、豊富な情報をわかりやすいデザインで発信</h4>
+		<div class="pickup-info-area">
+			<p class="info-date">2022.12.16</p>
+			<p class="info-matter">ここから始まる学校選び！熊本県立高校検索ガイド</p>
+		</div>
+	</div>
+</a>
+							</li>
+													<li class="swiper-slide">
+								
+
+<a href="/pickups/detail/526">
+	<div class="ph-list">
+	<img src="/files/Works/99ce308d-c014-45c3-95d8-d657a56e25c9/pickup_image/064cb0614c423c934dc0c9498513ac00.jpg" alt=""/>	</div>
+	<div class="txt-part">
+		<h4 class="ttl">国内有数の空港施設にかかわるリニューアル。 全ての利用者の利便性向上を目指し、全社を挙げて臨んだ案件</h4>
+		<div class="pickup-info-area">
+			<p class="info-date">2022.12.16</p>
+			<p class="info-matter">福岡空港</p>
+		</div>
+	</div>
+</a>
+							</li>
+															</ul>
+				<!--list-thumb -->
+
+			</div>
+			<!-- swiper-container -->
+
+			<!-- Add Arrows -->
+			<div class="swiper-button-next js-swiper-next swiper-button-next-pickup"></div>
+			<div class="swiper-button-prev js-swiper-prev swiper-button-prev-pickup"></div>
+
+		</div>
+		<!-- slider-thumb -->
+
+		<!-- btn-more -->
+		<p class="btn-more"> <a href="/pickups/">VIEW MORE</a> </p>
+		<!-- btn-more -->
+
+
+	</div>
+
+</div>
+<!--pickups-->
+
+<div class="contact wrapper">
+	<div class="inner">
+		<p>お問い合わせはこちらから</p>
+		<a href="/contacts/" class="btn-rect"><span>CONTACT</span>
+			<div class="contact-inner">
+				<div class="contact-fx01"></div>
+				<div class="contact-fx02"></div>
+				<div class="contact-fx03"></div>
+				<div class="contact-fx04"></div>
+				<div class="contact-fx05"></div>
+				<div class="contact-fx06"></div>
+				<div class="contact-fx07"></div>
+				<div class="contact-fx08"></div>
+			</div>
+		</a>
+	</div>
+</div>
+
+<!-- news -->
+<div class="news wrapper">
+
+	<div class="ttl-area">
+		<h2 class="fx-txt-right01"><span>NEWS</span></h2>
+		<p class="fx-txt-right02"><span>お知らせ</span></p>
+	</div>
+
+	<ul class="news-list fx-col-in">
+									
+<li>
+    <dl>
+        <dt>
+            <span aria-label="2025.6.25" class="date">2025.6.25</span>           <span class="cate">お知らせ</span>
+                   </dt>
+        <dd class="post-link"><a href="/news/detail/122" >代表取締役交代および役員人事のお知らせ</a>
+    </dl>
+    <p></p>
+
+</li>
+							
+<li>
+    <dl>
+        <dt>
+            <span aria-label="2025.6.24" class="date">2025.6.24</span>           <span class="cate">お知らせ</span>
+                   </dt>
+        <dd class="post-link"><a href="/news/detail/123" >2024年度業績表彰及び社員表彰式を開催しました</a>
+    </dl>
+    <p></p>
+
+</li>
+							
+<li>
+    <dl>
+        <dt>
+            <span aria-label="2025.6.10" class="date">2025.6.10</span>           <span class="cate">お知らせ</span>
+                   </dt>
+        <dd class="post-link"><a href="/news/detail/121" >ラブアース・クリーンアップ2025のボランティアに参加しました</a>
+    </dl>
+    <p></p>
+
+</li>
+						</ul>
+	<!-- news-area -->
+	<p class="btn-more"> <a href="/news/">VIEW MORE</a> </p>
+</div>
+<!-- news -->
+
+        </div>
+		<!--content-area-->
+
+                    <!-- footer -->
+<footer id="footer">
+	<div class="wrapper">
+		<div class="f-address">
+			<div class="mark-logo"><img src="/img/common/logo.svg" alt="QTミディア"></div>
+            <address>
+				<div class="list-office">
+					<dl>
+						<dt>本社</dt>
+						<dd>福岡市中央区天神1-4-2 エルガーラオフィス棟5階<br>
+								TEL：092-726-2805　FAX：092-714-3806</dd>
+					</dl>
+					<dl>
+						<dt class="tenjin-ttl">大分支店</dt>
+						<dd>大分市金池町2-3-4九州電力大分支店4階<br>
+								TEL：097-534-5696　FAX：097-534-6663</dd>
+					</dl>
+				</div>
+				<div class="list-office">
+                    <dl>
+                        <dt class="tenjin-ttl">東京営業所</dt>
+                        <dd>TEL：050-6619-7483</dd>
+                    </dl>
+					<dl>
+						<dt class="tenjin-ttl">北九州営業所</dt>
+						<dd>TEL：050-6619-7492</dd>
+					</dl>					
+					<dl>
+						<dt class="tenjin-ttl">長崎営業所</dt>
+						<dd>TEL：050-6619-7487</dd>
+					</dl>
+					<dl>
+						<dt class="tenjin-ttl">熊本営業所</dt>
+						<dd>TEL：050-6619-7480</dd>
+					</dl>
+                    <dl>
+                        <dt class="tenjin-ttl">宮崎営業所</dt>
+                        <dd>TEL：050-6619-7488</dd>
+                    </dl>
+					<dl>
+						<dt class="tenjin-ttl">鹿児島営業所</dt>
+						<dd>TEL：050-6619-7481</dd>
+					</dl>
+				</div>
+			</address>
+			<p id="page-top"><a href="#" role="button"><span>ページの先頭へ</span></a></p>
+		</div>
+		<div class="f-menu">
+			<div class="kyuuden">
+				<a href="https://www.kyuden.co.jp/company_outline_groupinfo_index.html" target="_blank"><img src="/img/common/logo_group.svg" alt="九州電力"></a>
+				<a href="https://www.qtnet.co.jp/" target="_blank"><img src="/img/common/logo_qtnet.svg" alt="QTnet"></a>
+			</div>
+			<ul class="site-list">
+				<li><a href="/privacy/">個人情報保護方針</a></li>
+				<li><a href="/sitemap/">サイトマップ</a></li>
+				<li><a href="/contacts/">お問い合わせ</a></li>
+                <li><a href="https://www.facebook.com/qtmedia.2020/" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a></li>
+                <li><a href="https://www.youtube.com/channel/UCe6ewmUmG9vJWpTtbg3iZuA" target="_blank" rel="noopener"><i class="fab fa-youtube"></i></a></li>
+			</ul>
+			<ul class="banner-list">
+				<li><a href="/coara_archive/" target="_blank" rel="noopener"><img src="/img/common/bnr_coara_archive.jpg" alt="COARA アーカイブサイト"></a></li>
+				<li><a href="https://qtmedia.base.shop/" target="_blank"><img src="/img/common/bnr_base.png" alt="九州特化型素材販売サイト「TOTTOYO」" title="九州特化型素材販売サイト「TOTTOYO」"></a></li>
+				<li><a href="/qrew/" target="_blank"><img src="/img/common/bnr_qrew.png" alt="ライブ配信代行サービス「Qrew」" title="ライブ配信代行サービス「Qrew」"></a></li>
+			</ul>
+		</div>
+	</div>
+	<p class="copy">© QT MEDIA Inc.All Rights Reserved.</p>
+</footer>
+<!-- footer -->
+                
+		<script src="/js/swiper.min.js"></script><script>        window.onload = function() {
+
+            $(".mv-anim").addClass('active');
+            $(".mv-anim").css({'visibility':'visible'}).animate({opacity: 1}, 2700);
+            $('.ttl-mv').delay(2400).queue(function(next) {
+                $(this).addClass('show');
+                next();
+            });
+            $('.scroll').delay(1500).queue(function(next) {
+                $(this).addClass('show');
+                next();
+            });
+
+        }
+
+		var swiper = new Swiper('.swiper-container-topics', {
+		loop: true,
+			slidesPerView: 1.5,
+			breakpoints: {
+				// 768px以上の場合
+				768: {
+				slidesPerView: 3,
+				},
+			},
+			spaceBetween: 30,
+			pagination: {
+				el: '.swiper-pagination',
+				clickable: true,
+			},
+			navigation: {
+				nextEl: '.swiper-button-next-topics',
+				prevEl: '.swiper-button-prev-topics',
+			},
+			autoplay: {
+				delay: 3000,
+				disableOnInteraction: false,
+			},
+	});
+
+	var swiper = new Swiper('.swiper-container-pickup', {
+		loop: true,
+			slidesPerView: 1.5,
+			breakpoints: {
+				// 768px以上の場合
+				768: {
+				slidesPerView: 3,
+				},
+			},
+			spaceBetween: 30,
+			pagination: {
+				el: '.swiper-pagination',
+				clickable: true,
+			},
+			navigation: {
+				nextEl: '.swiper-button-next-pickup',
+				prevEl: '.swiper-button-prev-pickup',
+			},
+			autoplay: {
+				delay: 3000,
+				disableOnInteraction: false,
+			},
+	});
+
+</script>	</body>
+</html>

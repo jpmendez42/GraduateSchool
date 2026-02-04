@@ -1,0 +1,12 @@
+User-Agent: *
+Allow: /
+Disallow: /api/
+Disallow: /search/
+Disallow: /tim-kiem/
+Disallow: /search.html
+Disallow: /tim-kiem.html
+Disallow: /tu-khoa.html
+Disallow: /tag.html
+Sitemap: https://plo.vn/sitemaps.xml
+Sitemap: https://plo.vn/sitemaps/newsindex.xml
+Sitemap: https://plo.vn/sitemaps/google-news.xml

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+      <!-- Google Tag Manager -->
+      <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M7L57NJ');</script>
+<!-- End Google Tag Manager -->
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta property="og:title" content="Kosmolot"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:image" content=""/>
+    <link rel="shortcut icon" href="/kosmolot/_img/favicon-16x16.png" sizes="16x16">
+    <title>Космолот - Space Wheel</title>
+    <link rel="stylesheet" href="css/style.min.css">
+    <link rel="stylesheet" href="css/hw.css">
+    <script src="../../_scripts/detectCrazyEgg.js"></script>
+    <!--{{ landing.head() }}-->
+</head>
+<body class="page" data-count="2">
+
+  <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M7L57NJ"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="wrapper">
+    <div class="page__container">
+        <div class="bubbles">
+            <div class="bubbles__item"></div>
+            <div class="bubbles__item bubbles__item_beetle"></div>
+            <div class="bubbles__item bubbles__item_statuette"></div>
+            <div class="bubbles__item bubbles__item_book"></div>
+        </div>
+        <div class="page__wrapper">
+            <div class="spaceman"></div>
+            <div class="logotype"></div>
+            <div class="wheel">
+                <div class="wheel__bulbs"></div>
+                <div class="wheel__bonus"></div>
+                <button class="wheel__button">Крути</button>
+            </div>
+            <div class="message">
+                <span class="message__text message__text_bonus">Крути колесо -</span>
+                <span class="message__text">Забирай бонус!</span>
+            </div>
+            <div class="attempts">
+                <div class="attempts__text attempts__text_bonus">Залишилось</div>
+                <div class="attempts__text">Спроб: <span class="attempts__count">2</span></div>
+            </div>
+        </div>
+        <footer class="footer">
+            <div class="footer__container">
+                <img src="images/adult_2.png" class="footer__adult" alt="21+">
+            </div>
+            <div class="footer__payments"></div>
+            <div class="footer__text">Ліцензія на провадження діяльності з організації та проведення азартних ігор казино у мережі Інтернет від 08.02.2021 року (Рішення Комісії з регулювання азартних ігор та лотерей №34 від 02.02.2021 року)
+                <!-- <br> -->
+                Деталі акції на сайті <a href="https://cosmolot.ua/" style="color:#444499">cosmolot.ua</a></div>
+            <!-- <div class="footer__text">© 2019 cosmolot.com.ua Все права защищены</div> -->
+        </footer>
+    </div>
+    <div class="fewmodal">
+        <div class="fewmodal__body">
+            <div class="modal modal_repeat">
+                <button class="modal__button modal__close">Крутити</button>
+            </div>
+            <div class="modal modal_bonus">
+                <a href="#" class="modal__button" id="setCookie">Отримати бонус</a>
+            </div>
+            <div class="modal modal_freespins">
+                <a href="#" class="modal__button">Отримати бонус</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="wording">
+    <img src="images/legal-desk.svg" alt="Legal" class="word-text-desk" width="670" height="70">
+    <img src="images/legal-mob.svg" alt="Legal" class="word-text-mob" width="460" height="110">
+</div>
+
+<script src="js/main.min.js"></script>
+<script src="js/hw.js"></script>
+
+<script>
+   const params = ["refcode", "subid", "clickid", "csd", "cxd", "webid", "stag", "sub0", "sub1", "sub2", "sub3", "sub4", "sub5", "sub6", "sub7", "sub8", "sub9", "sub10"];
+   let urlParams = '';
+   let refCode = '';
+   let subId = '';
+   const siteId = document.URL.includes('direct') ? 'l2929' : 'l2919';
+
+  params.forEach(el => {
+    let data = findGetParameter(el);
+    const symbol = urlParams ? '&' :'?';
+
+      if (data) {
+          switch (el) {
+              case 'refcode':
+                  data += siteId;
+                  refCode = data;
+                  break;
+              case 'subid':
+                  subId = data;
+                  break;
+              case 'stag':
+                  data += '&land=' + siteId
+          }
+      }
+    urlParams += data ? `${symbol}${el}=${data}` : '';
+  })
+
+  const url = 'https://cosmolot.ua/registration';
+
+
+  document.querySelectorAll('a.modal__button')[0].href = url + urlParams;
+
+
+  function findGetParameter(parameterName) {
+    let result = null,
+      tmp = [];
+    location.search
+      .substr(1)
+      .split("&")
+      .forEach(function (item) {
+        tmp = item.split("=");
+        if (tmp[0] === parameterName) result = decodeURIComponent(tmp[1]);
+      });
+    return result;
+  }
+</script>
+<script src="../../_scripts/script.js?v=0.1"></script>
+<script src="../../_scripts/backOffer.js"></script>
+</body>
+</html>

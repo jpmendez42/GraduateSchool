@@ -1,0 +1,18 @@
+
+
+User-agent: *
+
+allow: /
+
+Disallow: /admin/
+Disallow: /bin/
+Disallow: /error404
+
+Disallow: /tender-details*
+Disallow: /asset-for-sales-search-details*
+Disallow: /mar/*
+Disallow: /hi/*
+Disallow: /properties-for-sale-details*
+
+Sitemap: https://bankofmaharashtra.in/sitemap.xml
+

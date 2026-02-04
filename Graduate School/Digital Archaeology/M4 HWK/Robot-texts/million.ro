@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: */users/*
+Disallow: */account/*
+Disallow: */landers/*
+Disallow: /?refcode=*
+Disallow: */?stag=*
+Sitemap: https://million.ro/sitemap.xml
+Host: million.ro 

@@ -1,0 +1,11 @@
+# this is the robots.txt file for profil.at
+
+User-agent: *
+
+Disallow: /search
+Disallow: /themen/*/*
+Disallow: /preview/*
+Disallow: /reportcomment/
+
+Sitemap: https://www.profil.at/sitemaps_article.xml
+Sitemap: https://www.profil.at/sitemaps_google_news.xml

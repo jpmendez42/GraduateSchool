@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /subscriptions/
+Disallow: /manage/
+Disallow: /crossell
+Disallow: /Users
+Disallow: /flyerGibs
+Disallow: /_/redirect
+Disallow: /flyer_gibs/*
+Disallow: /taglanding/*
+
+User-agent: ChatGPT-User
+Disallow:

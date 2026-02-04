@@ -1,0 +1,16 @@
+User-agent: *
+Disallow: /*?*tag=
+Disallow: /*&tag=
+Disallow: /build_your_pc/ajax/
+Disallow: /build_your_pc_v4/ajax/
+Disallow: /*notifywhenavailable
+Disallow: /*route=account
+Disallow: /*route=checkout
+Disallow: /*route=extension/facebook_business
+Disallow: /build_your_pc/add_item
+Disallow: /build_your_pc_v4/add_item
+Disallow: /*route=extension/isearch/module/isearch.ajax
+Disallow: /*route=extension/module/qa/question
+Disallow: /*route=extension/soconfig/quickview
+
+Sitemap: https://mdcomputers.in/sitemap_feed.xml

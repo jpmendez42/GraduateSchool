@@ -1,0 +1,30 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+
+Sitemap: https://www.ivg.it/sitemap_index.xml
+
+User-agent: Googlebot
+Disallow: /*/feed/$
+Disallow: /ediapi/v1/get_counts*
+
+#MICROSOFT BOTS
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: bingbot
+Crawl-delay: 10
+
+#YAHOO BOTS
+User-agent: Slurp
+Crawl-delay: 30
+
+User-agent: Yahoo! Slurp
+Crawl-delay: 30
+
+User-agent: proximic
+Crawl-Delay: 30
+
+User-agent: AhrefsBot
+Disallow: / 

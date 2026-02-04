@@ -1,0 +1,7 @@
+Sitemap: https://www.regionsyddanmark.dk/sitemap.xml
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /rsd-vejledninger-regionshuset-og-satellitter/
+Disallow: /om-region-syddanmark/for-ansatte/vagtplaner-for-tandlaegevagten/

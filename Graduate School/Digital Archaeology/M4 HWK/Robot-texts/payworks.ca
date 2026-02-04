@@ -1,0 +1,11 @@
+﻿User-agent: *
+Allow: /
+Disallow: /landing-pages/
+Disallow: /error-pages/
+Disallow: /docs/
+Disallow: /welcome
+Disallow: /fr/bienvenue
+Disallow: /landing-pages/webinars/register-now
+Disallow: /fr/landing-pages/webinaires/s-inscrire-maintenant
+
+Sitemap: https://payworks.ca/sitemap/sitemap-index.xml

@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: *-print.html$
+Disallow: /sys_*
+Disallow: /search/
+Disallow: /services/
+Disallow: /cms/
+Disallow: */calendar.html
+Disallow: /_editorial_preview_*
+Disallow: */more.html
+Sitemap: https://sputniknews.ru/sitemap_article_index.xml
+Sitemap: https://sputniknews.ru/sitemap_tag_index.xml
+Sitemap: https://sputniknews.ru/sitemap_rubric.xml
+Sitemap: https://sputniknews.ru/sitemap.xml
+
+User-agent: Yandex
+Allow: /export/yandex/rss2
+Disallow: *-print.html$
+Disallow: /sys_*
+Disallow: /search/
+Disallow: /services/
+Disallow: /cms/
+Disallow: */calendar.html
+Disallow: */more.html
+Sitemap: https://sputniknews.ru/sitemap_article_index.xml
+Sitemap: https://sputniknews.ru/sitemap_tag_index.xml
+Sitemap: https://sputniknews.ru/sitemap_rubric.xml
+Sitemap: https://sputniknews.ru/sitemap.xml

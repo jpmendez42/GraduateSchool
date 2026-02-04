@@ -1,0 +1,41 @@
+#
+# robots.txt
+#
+#
+#
+#
+
+# exclude these directories
+User-agent: *
+Disallow: /edee/content/pub/
+Disallow: /edee/content/pubutf/
+Disallow: /edee/content/sys/
+Disallow: /edee/content/sysutf/
+Disallow: /cs/p.ww3.fg.dev.html
+Disallow: /cs/blesk-calc.html
+Disallow: /cs/elektrina-ceny.html
+Disallow: /cs/elektrina/flexibilni-elektrina.html
+Disallow: /cs/elektrina/etarif-webchat-test.html
+Disallow: /edee/content/pubutf/ww3/cs/blesk-calc.html
+Disallow: /edee/content/pubutf/ww3/cs/p.ww3.fg.dev.html
+Disallow: /edee/content/pubutf/ww3/cs/elektrina/etarif-webchat-test.html
+Disallow: /edee/qf/cs/ramjet/blesk-plyn/
+Disallow: /edee/qf/cs/ramjet/firmy/blesk-plyn/
+Disallow: /edee/qf/cs/bsramjet/cezdistribuce-zadosti-pripojeni/
+Disallow: /edee/content/pubutf/ds4/cs/pro-dodavatele/standardy/standardy-kontakty.html
+Disallow: /edee/content/pubutf/ds4/cs/pro-dodavatele/standardy2g/standardy-kontakty.html
+Disallow: /webpublic/file/edee/2019/07/priloha_im_2018_cj.pdf
+Disallow: /cs/podpora/dotaznik-fotovoltaika-zamestnanci
+Disallow: /edee/content/micrositesutf/odpovednost2013/cs/ekonomika/mise-vize-a-strategie.html
+Disallow: /edee/content/micrositesutf/odpovednost2011/cs/ekonomika/mise-vize-a-strategie.html
+Disallow: /edee/content/micrositesutf/odpovednost2011/index.html
+Disallow: /edee/content/micrositesutf/odpovednost2013/index.html
+Disallow: /webpublic/file/edee/2020/02/pravidla-akce-garanceusporyzp.pdf
+Disallow: /webpublic/file/edee/2020/05/pravidla-akce-garanceusporynaenergiich_2020-05-25.pdf
+
+Sitemap: https://www.cez.cz/sitemap-index.xml
+
+User-agent: SemrushBot
+Disallow: /
+User-agent: SISTRIX
+Disallow: /

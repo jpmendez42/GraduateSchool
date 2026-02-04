@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /wp-includes/
+Disallow: /cgi-bin
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: /gkt-question/*
+Disallow: /wp-admin/
+Disallow: /archives/
+Disallow: /private_content/*
+Disallow: /login/
+Disallow: /author/*
+Disallow: /profile/*
+Disallow: /blog/*
+Disallow: /docs/*
+Disallow: /pvt-*
+Disallow: /category/ca22*
+Disallow: /lesson/*
+Disallow: /product/*
+Disallow: */trackback
+Disallow: /*.inc$
+Disallow: */feed/
+Disallow: /*.php$
+User-Agent: ia_archiver
+Disallow: /
+
+
+User-agent: Mediapartners-Google
+Disallow:
+Allow: /*
+    
+Sitemap: https://www.gktoday.in/wp-sitemap.xml

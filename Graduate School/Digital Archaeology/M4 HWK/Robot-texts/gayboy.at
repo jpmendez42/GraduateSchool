@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /log.dat
+Disallow: /data.img
+Disallow: /templates
+Disallow: /inc
+Disallow: /f/
+Disallow: /u
+Disallow: /index.php?doc=uprofil&load=list
+Disallow: /index.php?doc=dating&delpost=
+Disallow: /news/index.php?doc=newscom&nid=
+Disallow: /index.php?doc=newscom&nid=

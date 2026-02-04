@@ -1,0 +1,76 @@
+# MOTORI DI RICERCA GIAPPONESI
+User-agent: moget
+User-agent: ichiro
+Disallow: /
+
+# MOTORI DI RICERCA COREANI
+User-agent: NaverBot
+User-agent: Yeti
+Disallow: /
+
+# MOTORI DI RICERCA CINESI
+User-agent: Baiduspider
+User-agent: Baiduspider-video
+User-agent: Baiduspider-image
+User-agent: sogou spider
+User-agent: YoudaoBot
+Disallow: /
+
+# MOTORI DI RICERCA RUSSI
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Disallow: /cs/*
+Disallow: /contenthandler/*
+Disallow: /assicurazionemedica/*
+Disallow: /unisalute/doc/*
+Disallow: /unisalute/pega/*
+Disallow: /unisalute/wcs/*
+Disallow: /contatti
+Disallow: /images
+Disallow: /integrative/*
+Disallow: /css
+Disallow: /JSLibrary
+Disallow: /agenti
+Disallow: /welcome_images
+Disallow: /area-accesso-ivass/
+Disallow: /areaivass*/
+Disallow: /login
+Disallow: /recupero-password
+Disallow: /registrazione
+Disallow: /registrazione-assicurati
+Disallow: /funzioni/*
+Disallow: /salute-sempre/*
+Disallow: /cipag/*
+Disallow: /AdesioniBackoffice/*
+Disallow: /cafo/*
+Disallow: /bcc/*
+Disallow: /cnpr/*
+Disallow: /fasda/*
+Disallow: /cariparma/*
+Disallow: /amundi/*
+Disallow: /er/*
+Disallow: /agos/*
+Disallow: /portale-nexi/*
+Disallow: /fasdap/*
+Disallow: /dell-emc/*
+Disallow: /eataly/*
+Disallow: /armadeicarabinieri/*
+Disallow: /sanimoda/*
+Disallow: /autostrade/*
+Disallow: /ebm/*
+Disallow: /unibo/*
+Disallow: /unige/*
+Disallow: /adesioni-iit/*
+Disallow: /unipd/*
+Disallow: /cadgi/*
+Disallow: /cgi-bin/*
+Disallow: /*breadcrumb*
+Disallow: /*Servlet*
+Disallow: /*demo/*
+Disallow: /*private/*
+Disallow: /*p_utilizzatore
+Disallow: /*documenti.html
+Disallow: /*piani.html
+Disallow: /*form.html

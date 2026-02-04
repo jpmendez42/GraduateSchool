@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /*.pdf
+Disallow: /segp/
+Disallow: /segb/
+Disallow: /segm/
+Disallow: /seg-fundamental/
+Disallow: /seg-markets/
+Disallow: /seg-person/
+Disallow: /seg-bedrift/
+Disallow: /portalfront/
+Disallow: /appo/
+Sitemap: https://www.dnb.no/web/sitemap.xml

@@ -1,0 +1,22 @@
+User-agent: *
+
+Disallow: */author/
+Disallow: */p-card/
+Disallow: */card/
+Disallow: /?utm_content=
+Disallow: /*?p=
+Disallow: /?p=
+Disallow: */?s=
+Disallow: *?s=
+Disallow: */?sort=
+Disallow: */?highlight=
+Disallow: */?numberposts=
+Disallow: */?view=
+Disallow: */videos/?tags=
+Disallow: */feed/
+Disallow: *sort=
+Disallow: *type=
+Disallow: */page/*
+Disallow: */?view=grid
+
+Sitemap: https://euvsdisinfo.eu/sitemap_index.xml

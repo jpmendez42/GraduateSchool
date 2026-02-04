@@ -1,0 +1,9 @@
+User-agent: *
+# print pages always have parameters
+Disallow: /*.print?
+Disallow: /*play=1
+sitemap: https://www.deutschlandradio.de/filter-aktuelles-100.sitemap
+sitemap: https://www.deutschlandradio.de/gastbeitrag-uebersicht-100.sitemap
+sitemap: https://www.deutschlandradio.de/pressemitteilungen-filter-100.sitemap
+sitemap: https://www.deutschlandradio.de/radiomenschen-uebersicht-100.sitemap
+Crawl-delay: 5

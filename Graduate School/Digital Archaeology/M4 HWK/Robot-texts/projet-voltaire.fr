@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: *?spelling_rules_categories=*
+Disallow: *?testimonies_profiles=superieur*
+Disallow: *?ressources_formats*
+Disallow: /*?s=
+Disallow: /login/suivi-stats
+Disallow: /sphere
+Disallow: /voltaire/
+Disallow: /offres/partenaires/
+
+Sitemap: https://www.projet-voltaire.fr/sitemap_index.xml

@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /presses
+Disallow: /magazines
+Allow: /magazines$
+Allow: /magazines/$
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /

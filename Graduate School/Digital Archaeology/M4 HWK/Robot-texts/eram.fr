@@ -1,0 +1,43 @@
+User-agent: *
+Sitemap: https://www.eram.fr/media/google_sitemap_2.xml
+
+## Filtres
+Disallow: /*?mat_dessus_regroup*
+Disallow: /*?nom_technique*
+Disallow: /*?price*
+Disallow: /*?saison*
+Disallow: /*?serie*
+Disallow: /*?type_bout_chauss*
+Disallow: /*?type_de_fermeture*
+Disallow: /*?type_ferm_access*
+Disallow: /*?type_largeur_mollet_botte*
+Disallow: /*?coloris_majeur*
+Disallow: /*?marque*
+Disallow: /*?genre*
+Disallow: /*?pays_fabricant*
+Disallow: /*?pointure*
+Disallow: /*?service*
+Disallow: /*?type_ferm_chauss*
+Disallow: /*?type_hauteur_talon*
+Disallow: /*?webmy_promo_rate*
+Disallow: /*productalert*
+Disallow: /*product_list_order*
+Disallow: /*SID=
+Disallow: /*.php$
+
+
+## Repertoires
+Disallow: /customer/
+Disallow: /checkout/
+Disallow: /catalogsearch/
+Disallow: /checkout/
+Disallow: /app/
+Disallow: /lib/
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /catalog/
+Disallow: /sendfriend/
+Disallow: /review/
+Disallow: */mgzlink*
+Disallow: /catalog/product/view/

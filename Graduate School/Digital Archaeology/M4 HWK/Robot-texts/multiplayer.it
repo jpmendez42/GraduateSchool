@@ -1,0 +1,75 @@
+# Bad Bots
+User-agent: Acunetix
+User-agent: ChinaClaw
+User-agent: DotBot
+User-agent: FHscan
+User-agent: MJ12Bot
+User-agent: MauiBot
+User-agent: NPBot*
+User-agent: NPBot-1/2.0
+User-agent: Teleport
+Disallow: /
+#
+# Good Bots
+# 
+User-agent: *
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: Mediapartners-Google
+
+# Area utenti
+Disallow: /bookmarks/
+Disallow: /password/
+Disallow: /login/
+Disallow: /registrazione*
+Disallow: /account/
+Disallow: /logout/
+Disallow: /messaggi-privati/
+Disallow: /comments/
+Disallow: /extra_bookmarks/
+
+# ADV
+Disallow: /adv/
+Disallow: /video-footer*
+Disallow: /gn-overlayer.html
+Disallow: /creativeWeb.html
+
+# Varie
+Disallow: /admin/
+Disallow: /ps-app/
+Disallow: /storage/
+Disallow: /files/
+Disallow: /misc/
+Disallow: /ricerca/
+Disallow: /articoli/detail_report_form/
+Disallow: /immagini/galleria/
+Disallow: /autocomplete-light/
+Disallow: /ajax_filtered_fields/
+Disallow: /giochi/*/voti.html
+Disallow: /sitemaps/
+Disallow: /video/
+
+# Querystring 
+Disallow: /*?id=
+Disallow: /*?view=
+Disallow: /*?%3F%3F:confused:
+Disallow: /?langid=
+Disallow: /*?filter=
+Disallow: /*html?download
+Disallow: /*?*dis=
+Disallow: /*?*pub=
+Disallow: /*?*dev=
+Disallow: /*?*_=
+Disallow: /*?*o=usciti
+Disallow: /*?*q=
+Disallow: /*?*pagina=
+Disallow: /*?*iniziale_gioco=
+Disallow: /*?*piattaforma=
+Disallow: /*?*comment_page=
+Disallow: /*?*article=
+Disallow: /*?embed=1
+Disallow: /*?*jwsource=
+Disallow: /*?*comments=
+
+Sitemap: https://multiplayer.it/sitemap.xml
+Sitemap: https://multiplayer.it/sitemap-news.xml

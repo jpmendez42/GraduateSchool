@@ -1,0 +1,35 @@
+Sitemap: https://www.syse.no/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: /handlekurv/takk
+Disallow: /shop/cart/thanks
+Disallow: /domenesok
+Disallow: /invoice
+Disallow: /server-configurator
+Disallow: /pay
+Disallow: /admin
+Disallow: /parkert
+Disallow: /index_splittest_01.xhtml
+Disallow: /cp
+Disallow: /hosting-engine
+Disallow: /~bj
+Disallow: /cms
+Disallow: /selfservice
+
+Disallow: /handlekurv/takk/
+Disallow: /shop/cart/thanks/
+Disallow: /domenesok/
+Disallow: /invoice/
+Disallow: /server-configurator/
+Disallow: /pay/
+Disallow: /admin/
+Disallow: /parkert/
+Disallow: /cp/
+Disallow: /hosting-engine/
+Disallow: /~bj/
+Disallow: /cms/
+Disallow: /selfservice/
+
+User-agent: Curious George
+Disallow: /

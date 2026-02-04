@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /index.php?dzial=archiwum*
+Disallow: /galeria/
+Disallow: /luba/*
+Disallow: /goto/
+Disallow: /bc-access/*
+Disallow: /*/feed/
+Disallow: /*/*/feed/
+Disallow: /*?keywords=*
+Disallow: /wp-content/uploads/bc-blocks-data/update_cache_config.json
+Disallow: /wp-content/uploads/sports_widgets_data/configJs.json
+
+# Sitemaps
+Sitemap: https://www.goal.pl/sitemap_index.xml
+Sitemap: https://www.goal.pl/news-sitemap.xml
+Sitemap: https://www.goal.pl/author-sitemap.xml
+Sitemap: https://www.goal.pl/klub-sitemap.xml
+Sitemap: https://www.goal.pl/pilkarze-sitemap.xml
+Sitemap: https://www.goal.pl/ligi-sitemap.xml

@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /_layouts/
+Disallow: /_vti_bin/
+Disallow: /_catalogs/
+
+Allow: /_catalogs/masterpage/UHN/img/icons/favicon.ico
+
+
+
+Sitemap: https://www.uhn.ca:443/sitemap.xml

@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /tag/
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /wp-json/
+Disallow: /*?replytocom
+Disallow: /*preview=true
+Disallow: /*embed/
+Disallow: /embed/
+Disallow: /*/embed/
+
+# Interné vyhľadávanie
+Disallow: /?s=
+Disallow: /*?s=
+Disallow: /search/
+Disallow: /*/search/
+Disallow: /page/*?s=
+
+# Filtrované a debug parametre
+Disallow: /*?filter_by=
+Disallow: /*filter_
+Disallow: /*?orderby=
+Disallow: /*?ai-debug-processing-fe=
+Disallow: /*debug=
+Disallow: /*?share=
+Disallow: /*add-to-cart=
+
+# Sitemapy
+Sitemap: https://primainspirace.cz/sitemap.xml
+Sitemap: https://primainspirace.cz/news-sitemap.xml

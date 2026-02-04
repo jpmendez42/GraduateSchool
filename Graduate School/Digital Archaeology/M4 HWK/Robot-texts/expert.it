@@ -1,0 +1,59 @@
+#GENERIC
+User-agent: *
+Crawl-delay: 100
+Allow: /
+Allow: /*/shop/category/monitor*
+Allow: /*/shop/dept/monitor*
+Disallow: /*/shop/search
+Disallow: /*/shop/*?*TAX_*
+Disallow: /*/shop/*?*SORTBY_*
+Disallow: /*/shop/*?*AVA_*
+Disallow: /*/error/
+Disallow: /*/profile*
+Disallow: /*/monitor
+Disallow: /*/order/
+Disallow: /bin/
+Disallow: /Config/
+
+#ALLOWED
+User-agent: Googlebot
+User-agent: msnbot
+User-agent: Bingbot
+User-agent: BingPreview
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+User-agent: YandexBot
+User-agent: facebot
+User-agent: facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+User-agent: facebookexternalhit/1.1
+User-agent: facebookexternalhit
+User-agent: ia_archiver
+User-agent: trendictionbot
+Crawl-delay: 50
+Allow: /
+Allow: /*/shop/category/monitor*
+Allow: /*/shop/dept/monitor*
+Disallow: /*/shop/search
+Disallow: /*/shop/*?*TAX_*
+Disallow: /*/shop/*?*SORTBY_*
+Disallow: /*/shop/*?*AVA_*
+Disallow: /*/error/
+Disallow: /*/profile*
+Disallow: /*/monitor
+Disallow: /*/order/
+Disallow: /bin/
+Disallow: /Config/
+
+#LOCKED
+User-agent: AhrefsBot
+User-agent: YisouSpider
+User-agent: DotBot
+User-agent: MegaIndex.ru/2.0
+User-agent: MegaIndex.ru/
+User-agent: meta-externalagent
+User-agent: Amazonbot
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Disallow: /
+Sitemap: https://www.expert.it/sitemap.xml

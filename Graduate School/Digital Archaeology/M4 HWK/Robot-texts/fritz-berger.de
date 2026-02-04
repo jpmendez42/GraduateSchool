@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /stat.php
+Disallow: /antibot.php
+Disallow: /a.php
+Disallow: /soap.php
+Disallow: /json.php
+Disallow: /index.php
+
+Sitemap: https://www.fritz-berger.de/sitemap.xml

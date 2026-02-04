@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /cart/
+Disallow: /?cmd=cart*
+Disallow: /?cmd=knowledgebase*
+Disallow: /admin/
+Disallow: /signup/
+Disallow: /clientarea/
+Disallow: /root/
+
+# Powered by e-studio.dk

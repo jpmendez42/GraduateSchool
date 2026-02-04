@@ -1,0 +1,13 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://uranaitv.jp/sitemap_index.xml
+Sitemap: https://uranaitv.jp/content/sitemap_index.xml
+Sitemap: https://uranaitv.jp/external-feed/sitemap_index.xml
+Sitemap: https://uranaitv.jp/dictionary/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
+Sitemap: https://uranaitv.jp/sitemap.xml
+Sitemap: https://uranaitv.jp/sitemap.html

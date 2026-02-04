@@ -1,0 +1,85 @@
+User-agent: *
+Allow: /
+Disallow: /search/*
+
+Sitemap: https://www.punjabkesari.in/newssitemap.xml
+Sitemap: https://www.punjabkesari.in/category.xml
+Sitemap: https://www.punjabkesari.in/sitemap-photo.xml
+Sitemap: https://www.punjabkesari.in/sitemap-national.xml
+Sitemap: https://www.punjabkesari.in/sitemap-international.xml
+Sitemap: https://www.punjabkesari.in/sitemap-business.xml
+Sitemap: https://www.punjabkesari.in/sitemap-dharm.xml
+Sitemap: https://himachal.punjabkesari.in/sitemap-Himachal-pradesh.xml
+Sitemap: https://punjab.punjabkesari.in/sitemap-punjab.xml
+Sitemap: https://haryana.punjabkesari.in/sitemap-haryana.xml
+Sitemap: https://bihar.punjabkesari.in/sitemap-bihar.xml
+Sitemap: https://sports.punjabkesari.in/sitemap-sports.xml
+Sitemap: https://mp.punjabkesari.in/sitemap-madhya-pradesh.xml
+Sitemap: https://nari.punjabkesari.in/sitemap-nari.xml
+Sitemap: https://up.punjabkesari.in/sitemap-uttar-pradesh.xml
+
+
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Omgilibot
+Disallow: /
+
+User-agent: Omgili
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: ImagesiftBot 
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+
+
+
+ 
+ 

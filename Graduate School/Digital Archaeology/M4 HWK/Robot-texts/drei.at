@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /fontimages
+Disallow: /de/technical-pages/fehler
+Disallow: /PRODUCTS
+Disallow: /n/not-found
+Disallow: /n/shared/*
+Disallow: /n/testfolder/*
+Disallow: /n/technical-pages/*
+Disallow: /n/offers
+Disallow: /n/warenkorb
+Disallow: /n/checkout/*
+Disallow: /n/api/*
+
+Sitemap: https://www.drei.at/n/sitemap.xml

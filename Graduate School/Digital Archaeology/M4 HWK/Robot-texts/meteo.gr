@@ -1,0 +1,18 @@
+# robots.txt for meteo.gr
+
+# Επιτρέπεται σε όλα τα bots
+User-agent: *
+# Αποκλείουμε μόνο τεχνικά/ευαίσθητα directories
+Disallow: /admin/
+Disallow: /cfide/
+Disallow: /lucee/
+Disallow: /scripts/
+Disallow: /private/
+Disallow: /tmp/
+Disallow: /error/
+
+# Όλα τα δυναμικά URLs (π.χ. cf.cfm?city_id=89) επιτρέπονται κανονικά
+# Δεν βάζουμε κανένα Disallow για ? ή cf.cfm
+
+# Δήλωση sitemap
+Sitemap: https://www.meteo.gr/sitemap.xml

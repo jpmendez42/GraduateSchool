@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /fr/recherche.html?q=*
+Disallow: /fr/files/
+Disallow: /fr/sbip/
+Disallow: /fr/particuliers/operations-bancaires/boites/
+Disallow: /fr/particuliers/cartes-de-credit/cartes-de-credit-mastercard/boites/
+Disallow: /en/
+Disallow: *tagID=*
+Disallow: *page=*
+Disallow: /content/bnc/fr/accueil/*
+Disallow: /xdp/
+Disallow: /formulaires/fragment/
+Disallow: /formulaires/aqstest/
+Disallow: /formulaires/Sandbox/
+Noindex: /content/*
+Disallow: /content/*
+Noindex:  /bin/*
+Disallow: /bin/*
+Allow: /content/dam/*
+
+Sitemap: https://www.bnc.ca/sitemap.xml
+Sitemap: https://www.bnc.ca/sitemap-fr.xml

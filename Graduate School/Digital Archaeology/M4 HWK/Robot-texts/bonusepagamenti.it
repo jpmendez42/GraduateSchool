@@ -1,0 +1,8 @@
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: */feed/
+Disallow: /?*
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://bonusepagamenti.it/sitemap_index.xml

@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /my-account/
+Disallow: /search/
+Disallow: /author/
+Disallow: /users/
+Disallow: */trackback
+Disallow: /tag/
+Disallow: */amp
+Disallow: */feed
+Disallow: */rss
+Disallow: */embed
+Disallow: */wp-json/
+Disallow: */wlwmanifest.xml
+Disallow: /xmlrpc.php
+Disallow: *utm*=
+Disallow: *openstat=
+Disallow: *&s=
+Disallow: *?s=
+Disallow: /wp/
+Disallow: /?
+Allow: */uploads
+Allow: /*/*.js
+Allow: /*/*.css
+
+User-agent: Yandex
+Clean-param: utm_source&utm_medium&utm_campaign&utm_term&utm_type
+Clean-param: _openstat&gclid&yclid&ymclid&from&cid&frommarket
+
+Sitemap: https://instreamvideo.ru/sitemap.xml

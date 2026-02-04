@@ -1,0 +1,372 @@
+User-agent: Googlebot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: SeznamBot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: Bingbot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: Slurp
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: Baiduspider
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: YandexBot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: Applebot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: ia_archiver
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: msnbot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+User-agent: Naverbot
+Allow: /
+Disallow: /car_detail.php
+Disallow: /seznam-prodejcu*search=
+Disallow: /crash-testy*text=
+Disallow: /nahled/
+Disallow: /*pojisteni-direct
+Disallow: /?article=
+Disallow: /cebia-vin
+Disallow: /hlidaci-pes/
+Disallow: /mobileRedir/
+Disallow: /prejit-na-desktop/
+Disallow: /prejit-na-mobil/
+Disallow: /bannerova-reklama
+# multichoice
+Disallow: *,*
+Disallow: *%2C*
+# 4+ params
+Disallow: *&*&*&
+Allow: /api/*&*&*&
+# Homepage categories
+Allow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv
+Disallow: /inzerce/osobni?cena-od=100000&cena-do=750000&typ=kombi%2Cliftback%2Csuv%2Ccuv%2Cmpv&
+Allow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4
+Disallow: /inzerce/osobni?cena-od=150000&typ=suv%2Cterenni%2Cpick-up%2Ccuv&pohon=4x4&
+Allow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina
+Disallow: /inzerce/osobni?cena-od=250000&vyrobeno-od=2017&typ=kombi%2Cliftback%2Csedanlimuzina&
+Allow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet
+Disallow: /inzerce/osobni?cena-od=150000&vyrobeno-od=2010&km-do=200000&vykon-od=200kw&typ=kombi%2Cliftback%2Chatchback%2Ckupe%2Croadster%2Csedanlimuzina%2Ckabriolet&
+Disallow: /click
+
+# Better safe than sorry
+User-agent: Mediapartners-Google
+Disallow:
+Disallow: /click
+
+User-agent: facebot
+Disallow:
+Disallow: /click
+
+User-agent: facebookexternalhit
+Disallow:
+Disallow: /click
+
+User-agent: Twitterbot
+Disallow:
+Disallow: /click
+
+User-agent: BingPreview
+Disallow:
+Disallow: /click
+
+User-agent: vkShare
+Disallow:
+Disallow: /click
+
+User-agent: Mail.RU_Bot
+Disallow:
+Disallow: /click
+
+User-agent: *
+Disallow: /

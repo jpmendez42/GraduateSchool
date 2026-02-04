@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /directory/
+Disallow: /praticien/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.qare.fr/sitemap_index.xml

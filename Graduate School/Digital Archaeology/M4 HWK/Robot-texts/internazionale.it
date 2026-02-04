@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /opinione/mariagrazia-gerina/2017/03/06/inchiesta-consip-renzi
+Disallow: /notizie/2017/03/01/arrestato-per-corruzione-l-imprenditore-alfredo-romeo
+Disallow: /notizie/2015/06/04/buzzi-carminati-mafia-capitale-intercettazioni
+Disallow: /opinione/mariagrazia-gerina/2014/12/09/se-stamo-a-compra-mezza-prefettura
+
+Sitemap: http://www.internazionale.it/sitemaps/sitemap_sections.xml
+Sitemap: http://www.internazionale.it/sitemaps/sitemap_news.xml
+Sitemap: http://www.internazionale.it/sitemaps/sitemap_images.xml
+Sitemap: http://www.internazionale.it/sitemaps/sitemap_videos.xml
+Sitemap: https://www.internazionale.it/sitemaps/google_sitemap_sections.xml
+Sitemap: https://www.internazionale.it/sitemaps/google_sitemap_news.xml
+Sitemap: https://www.internazionale.it/sitemaps/google_sitemap_images.xml
+Sitemap: https://www.internazionale.it/sitemaps/google_sitemap_videos.xml

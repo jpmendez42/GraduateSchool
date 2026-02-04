@@ -1,0 +1,69 @@
+User-agent: *
+Disallow: /images/mapoverlay/
+Disallow: /clicktrack/
+Disallow: /stats/graphdata
+Disallow: /stats/statsdata
+Disallow: /stats/partnerscoredata
+Disallow: /num/*/firmeneintrag$
+Disallow: /login
+Disallow: /c/help-*/
+Disallow: /c/hilfe-*/
+Disallow: /c/static*/
+Disallow: /s/help-*/*?num=*
+Disallow: /s/hilfe-*/*?num=*
+Disallow: /num/*/spam/
+Disallow: /ping.php
+Disallow: /complainid/
+Disallow: /phoneid/
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /*.jpg$
+Disallow: /*.jpeg$
+Disallow: /*.gif$
+Disallow: /*.png$
+Disallow: /*.bmp$
+
+User-agent: proximic
+Disallow: /
+
+User-agent: IntegromeDB
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: WBSearchBot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+user-agent: AhrefsBot
+disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: linguatools
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: XoviBot
+Disallow: /
+
+User-agent: MTRobot
+Disallow: /
+
+User-agent:*
+Allow: /.well-known/amphtml/apikey.pub

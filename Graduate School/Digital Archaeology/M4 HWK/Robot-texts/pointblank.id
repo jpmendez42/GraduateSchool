@@ -1,0 +1,56 @@
+#
+# robots.txt
+#
+# This file is to prevent the crawling and indexing of certain parts
+# of your site by web crawlers and spiders run by sites like Yahoo!
+# and Google. By telling these "robots" where not to go on your site,
+# you save bandwidth and server resources.
+#
+# This file will be ignored unless it is at the root of your host:
+# Used:    http://example.com/robots.txt
+# Ignored: http://example.com/site/robots.txt
+#
+# For more information about the robots.txt standard, see:
+# http://www.robotstxt.org/wc/robots.html
+#
+# For syntax checking, see:
+# http://www.sxw.org.uk/computing/robots/check.html
+
+User-agent: *
+Crawl-delay: 3600
+# Directories
+
+# Design
+Disallow: /design/
+
+# Files
+Disallow: /check
+Disallow: /member/process
+Disallow: /member/IdCheck
+Disallow: /member/receiveAllow
+Disallow: /signup/facebook/process 
+Disallow: /logout
+Disallow: /login
+Disallow: /login/facebook
+Disallow: /mypage/social
+Disallow: /topup/auth
+Disallow: /capp/auth
+Disallow: /game/auth
+
+# Paths (clean URLs)
+Disallow: /teaser/
+Disallow: /common/
+Disallow: /webgame/
+Disallow: /phone/
+Disallow: /login/
+Disallow: /mypage/
+Disallow: /password/
+Disallow: /email/
+Disallow: /pccafe/
+Disallow: /ticket/
+Disallow: /reseller/
+Disallow: /facebook/
+Disallow: /forget/
+Disallow: /la/
+Disallow: /portal/
+

@@ -1,0 +1,3888 @@
+<!DOCTYPE html>
+<!--                         HETZNER ONLINE GMBH                                 -->
+<!-- 	 Glad to see you are interested in our source code.                      -->
+<!-- 	 We are always looking for talented people to work with us.              -->
+<!-- 	 Why don't you visit our Job Portal at career.hetzner.com?               -->
+
+<!--[if !IE]><!-->
+<html lang="en-US">
+<!--<![endif]-->
+<!--[if IE 6 ]><html lang="en-US" class="ie ie6"><![endif]-->
+<!--[if IE 7 ]><html lang="en-US" class="ie ie7"><![endif]-->
+<!--[if IE 8 ]><html lang="en-US" class="ie ie8"><![endif]-->
+<head>
+    <base href="https://www.hetzner.com/"><!--[if lte IE 6]></base><![endif]-->
+<title>Managed nextcloud: cheap cloud storage</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="description" content="Managed nextcloud by Hetzner: safe, cheap cloud storage. ✓ GDPR-compliant ✓ simple and custom ✓ 100 % green electricity" />
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta content='width=device-width, initial-scale=1.0, maximum-scale=5.0, user-scalable=1' name='viewport'/>
+
+	<link rel="shortcut icon" href="/_resources/themes/hetzner/images/favicons/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="57x57" href="/_resources/themes/hetzner/images/favicons/apple-icon-57x57.png">
+	<link rel="apple-touch-icon" sizes="60x60" href="/_resources/themes/hetzner/images/favicons/apple-icon-60x60.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="/_resources/themes/hetzner/images/favicons/apple-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="76x76" href="/_resources/themes/hetzner/images/favicons/apple-icon-76x76.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="/_resources/themes/hetzner/images/favicons/apple-icon-114x114.png">
+	<link rel="apple-touch-icon" sizes="120x120" href="/_resources/themes/hetzner/images/favicons/apple-icon-120x120.png">
+	<link rel="apple-touch-icon" sizes="144x144" href="/_resources/themes/hetzner/images/favicons/apple-icon-144x144.png">
+	<link rel="apple-touch-icon" sizes="152x152" href="/_resources/themes/hetzner/images/favicons/apple-icon-152x152.png">
+	<link rel="apple-touch-icon" sizes="180x180" href="/_resources/themes/hetzner/images/favicons/apple-icon-180x180.png">
+	<link rel="icon" type="image/png" sizes="192x192"  href="/_resources/themes/hetzner/images/favicons/android-icon-192x192.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/_resources/themes/hetzner/images/favicons/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="96x96" href="/_resources/themes/hetzner/images/favicons/favicon-96x96.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/_resources/themes/hetzner/images/favicons/favicon-16x16.png">
+	<meta name="msapplication-TileColor" content="#ffffff">
+	<meta name="msapplication-TileImage" content="/_resources/themes/hetzner/images/favicons/ms-icon-144x144.png">
+	<meta name="theme-color" content="#ffffff">
+
+
+<link
+    rel="stylesheet preload"
+    href="/_resources/themes/general/dist/fonts.css?m=1760361492"
+    as="style"
+    crossorigin="anonymous"
+/>
+
+
+
+<!-- Matomo -->
+
+    <script>
+        var _paq = window._paq = window._paq || []
+        _paq.push(['setDocumentTitle', document.domain + ' / ' + document.title])
+        _paq.push(['setCookieDomain', '*.hetzner.com']);
+        _paq.push(['setDomains', '*.hetzner.com']);
+        _paq.push(['requireCookieConsent'])
+        _paq.push(['setConversionAttributionFirstReferrer', true])
+        _paq.push(['trackPageView'])
+        _paq.push(['enableLinkTracking'])
+        _paq.push(['enableHeartBeatTimer', 15]);
+        (function () {
+            var u = 'https://use.hetzner.com/'
+            _paq.push(['setTrackerUrl', u + 'tack'])
+            _paq.push(['setSiteId', '8'])
+            var d = document, g = d.createElement('script'), s = d.getElementsByTagName('script')[0]
+            g.async = true
+            g.src = u + 'tick.js'
+            s.parentNode.insertBefore(g, s)
+        })()
+    </script>
+
+<!-- End Matomo Code -->
+
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        window.kapa.logo = '/_resources/themes/hetzner/images/chat/icon-small.png?m=1760361459'
+    })
+</script>
+
+
+<link rel="stylesheet" type="text/css" href="/_resources/themes/general/dist/vendors.css?m=1760361492">
+<link rel="stylesheet" type="text/css" href="/_resources/themes/general/dist/fonts.css?m=1760361492">
+<link rel="stylesheet" type="text/css" href="/_resources/themes/hetzner/dist/vendors.css?m=1760361504">
+<link rel="stylesheet" type="text/css" href="/_resources/themes/hetzner/dist/app.css?m=1760361504">
+<link rel="stylesheet" type="text/css" href="/_resources/themes/hetzner/dist/kapa.css?m=1760361504">
+<link rel="stylesheet" type="text/css" href="/_resources/themes/hetzner/dist/storageShare.css?m=1760361504">
+</head>
+<body>
+
+
+<div class="mobile-whiten">&nbsp;</div>
+<nav class="mobile-shift-menu" id="mobile-shift-menu">
+    <div class="closebtn"><h4>Close <i class="fa fa-times"></i></h4></div>
+    <div style="width: auto;">
+        
+    
+        
+            <div class="mobile-nav-section">
+                <a
+                    class="link-color-white nav-menu-item-wrapper link-highlight"
+                    href="/sb/"
+                >
+                    <div class="nav-mobile-item" data-target="serverboerse">
+                        
+                        <div class="nav-mobile-item-text">
+                            <span class="product-name">
+                                
+                                Server Auction
+                            </span>
+                            <div class="highlight-menu-price">
+                                <price-container class="price-nav-mobile">
+                                    
+                                        <span slot="start">from</span>
+                                    
+                                    <span slot="eur">29</span>
+                                    <span slot="usd">33</span>
+                                </price-container>
+                            </div>
+                        </div>
+                    </div>
+                    <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+            <hr class="hr-grey">
+        
+    
+        
+            <div class="mobile-nav-section">
+                <a
+                    class="link-color-white nav-menu-item-wrapper link-highlight"
+                    href="/dedicated-rootserver/"
+                >
+                    <div class="nav-mobile-item" data-target="serverfinder">
+                        
+                        <div class="nav-mobile-item-text">
+                            <span class="product-name">
+                                
+                                Server Finder
+                            </span>
+                            <div class="">
+                                <price-container class="price-nav-mobile">
+                                    
+                                        <span slot="start">from</span>
+                                    
+                                    <span slot="eur">37.3</span>
+                                    <span slot="usd">42</span>
+                                </price-container>
+                            </div>
+                        </div>
+                    </div>
+                    <i class="fa fa-chevron-right"></i>
+                </a>
+            </div>
+            <hr class="hr-grey">
+        
+    
+
+    
+        
+    
+
+    
+
+    
+        
+    
+
+    
+
+    
+
+
+        
+    <hr class="hr-grey">
+<div class="mobile-nav-section">
+    
+        
+            <a
+                class="link-color-white nav-menu-item-wrapper"
+                data-toggle="collapse"
+                data-target="#collapse-7030"
+                aria-expanded="false"
+                aria-controls="collapse-7030"
+            >
+                <h4>
+                    Dedicated <i class="fa fa-angle-down"></i>
+                </h4>
+            </a>
+            <div id="collapse-7030" class="collapse">
+                <ul class="margin-0">
+    
+        <li>
+            <a href="/dedicated-rootserver/matrix-ex/" data-target="ex-line">
+                <span class="mobile-nav-title-name">
+                    
+                    EX-Line
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">39</span>
+                                <span slot="usd">44</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/dedicated-rootserver/matrix-ax/" data-target="ax-line">
+                <span class="mobile-nav-title-name">
+                    
+                    AX-Line
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">37.3</span>
+                                <span slot="usd">42</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/dedicated-rootserver/matrix-rx/" data-target="rx-line">
+                <span class="mobile-nav-title-name">
+                    
+                    RX-Line
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">169</span>
+                                <span slot="usd">188</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/dedicated-rootserver/matrix-sx/" data-target="sx-line">
+                <span class="mobile-nav-title-name">
+                    
+                    SX-Line
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">104</span>
+                                <span slot="usd">116</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/dedicated-rootserver/matrix-gpu/" data-target="gpu-line">
+                <span class="mobile-nav-title-name">
+                    
+                    GPU-Line
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">184</span>
+                                <span slot="usd">205</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/dedicated-rootserver/brands/" data-target="brands">
+                <span class="mobile-nav-title-name">
+                    
+                    BRANDS
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">209</span>
+                                <span slot="usd">233</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+</ul>
+
+            </div>
+        
+    
+        
+            <a
+                href="/cloud/"
+                class="link-color-white nav-menu-item-wrapper"
+            >
+                <h4>
+                    Cloud
+                </h4>
+            </a>
+        
+    
+        
+            <a
+                class="link-color-white nav-menu-item-wrapper"
+                data-toggle="collapse"
+                data-target="#collapse-7078"
+                aria-expanded="false"
+                aria-controls="collapse-7078"
+            >
+                <h4>
+                    Web &amp; Managed <i class="fa fa-angle-down"></i>
+                </h4>
+            </a>
+            <div id="collapse-7078" class="collapse">
+                <ul class="margin-0">
+    
+        <li>
+            <a href="/webhosting/" data-target="web">
+                <span class="mobile-nav-title-name">
+                    
+                    Web Hosting
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">1.6</span>
+                                <span slot="usd">2</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/managed-server/" data-target="managed">
+                <span class="mobile-nav-title-name">
+                    
+                    Managed Server
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">34</span>
+                                <span slot="usd">38</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+</ul>
+
+            </div>
+        
+    
+        
+            <a
+                href="/colocation/"
+                class="link-color-white nav-menu-item-wrapper"
+            >
+                <h4>
+                    Colocation
+                </h4>
+            </a>
+        
+    
+        
+            <a
+                class="link-color-white nav-menu-item-wrapper"
+                data-toggle="collapse"
+                data-target="#collapse-7080"
+                aria-expanded="false"
+                aria-controls="collapse-7080"
+            >
+                <h4>
+                    Storage <i class="fa fa-angle-down"></i>
+                </h4>
+            </a>
+            <div id="collapse-7080" class="collapse">
+                <ul class="margin-0">
+    
+        <li>
+            <a href="/storage/object-storage/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Object Storage
+                </span>
+                
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/storage/storage-box/" data-target="storagebox">
+                <span class="mobile-nav-title-name">
+                    
+                    Storage Box
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">3.2</span>
+                                <span slot="usd">4</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/storage/storage-share/" data-target="storage-share">
+                <span class="mobile-nav-title-name">
+                    
+                    Storage Share
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">4.29</span>
+                                <span slot="usd">5</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+</ul>
+
+            </div>
+        
+    
+        
+            <a
+                class="link-color-white nav-menu-item-wrapper"
+                data-toggle="collapse"
+                data-target="#collapse-7081"
+                aria-expanded="false"
+                aria-controls="collapse-7081"
+            >
+                <h4>
+                    Services <i class="fa fa-angle-down"></i>
+                </h4>
+            </a>
+            <div id="collapse-7081" class="collapse">
+                <ul class="margin-0">
+    
+        <li>
+            <a href="/cloud/load-balancer/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Load Balancer
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">5.39</span>
+                                <span slot="usd">5.99</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/whois/" data-target="domain">
+                <span class="mobile-nav-title-name">
+                    
+                    Domain check
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">4.9</span>
+                                <span slot="usd">6</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/dns-console/" data-target="dns-console">
+                <span class="mobile-nav-title-name">
+                    
+                    DNS Console
+                </span>
+                
+                    
+                        <small class="pull-right">free of charge</small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/registrationrobot/" data-target="robot">
+                <span class="mobile-nav-title-name">
+                    
+                    Registration Robot
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">3.28</span>
+                                <span slot="usd">4</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/sslzertifikate/" data-target="ssl">
+                <span class="mobile-nav-title-name">
+                    
+                    SSL Certificate
+                </span>
+                
+                    
+                        <small class="pull-right nav-mobile-price">
+                            <price-container class="price">
+                                
+                                    <span slot="start">from</span>
+                                
+                                <span slot="eur">32</span>
+                                <span slot="usd">36</span>
+                            </price-container>
+                        </small>
+                    
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/custom-solutions/" data-target="custom-solutions">
+                <span class="mobile-nav-title-name">
+                    
+                    Custom Solutions
+                </span>
+                
+                    
+                        <div class="price"
+                             style="text-transform: initial">on demand</div>
+                    
+                
+            </a>
+        </li>
+    
+</ul>
+
+            </div>
+        
+    
+</div>
+
+
+
+    <hr class="hr-grey">
+<div class="mobile-nav-section">
+    
+        
+            <a
+                href="/unternehmen/arbeiten-bei-hetzner/"
+                class="link-color-white nav-menu-item-wrapper"
+            >
+                <h4>
+                    Jobs
+                </h4>
+            </a>
+        
+    
+        
+            <a
+                href="https://community.hetzner.com/"
+                class="link-color-white nav-menu-item-wrapper"
+            >
+                <h4>
+                    Community
+                </h4>
+            </a>
+        
+    
+        
+            <a
+                class="link-color-white nav-menu-item-wrapper"
+                data-toggle="collapse"
+                data-target="#collapse-171351"
+                aria-expanded="false"
+                aria-controls="collapse-171351"
+            >
+                <h4>
+                    About us <i class="fa fa-angle-down"></i>
+                </h4>
+            </a>
+            <div id="collapse-171351" class="collapse">
+                <ul class="margin-0">
+    
+        <li>
+            <a href="/unternehmen/ueber-uns/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Company
+                </span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/pressroom/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Pressroom
+                </span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/customers/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Our customers
+                </span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/unternehmen/arbeiten-bei-hetzner/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Career
+                </span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="/legal/legal-notice/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Legal
+                </span>
+                
+            </a>
+        </li>
+    
+</ul>
+
+            </div>
+        
+    
+        
+            <a
+                href="/support-center/"
+                class="link-color-white nav-menu-item-wrapper"
+            >
+                <h4>
+                    Support
+                </h4>
+            </a>
+        
+    
+        
+            <a
+                class="link-color-white nav-menu-item-wrapper"
+                data-toggle="collapse"
+                data-target="#collapse-171353"
+                aria-expanded="false"
+                aria-controls="collapse-171353"
+            >
+                <h4>
+                    Login <i class="fa fa-angle-down"></i>
+                </h4>
+            </a>
+            <div id="collapse-171353" class="collapse">
+                <ul class="margin-0">
+    
+        <li>
+            <a href="https://console.hetzner.com/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Console
+                </span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="https://robot.hetzner.com" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    Robot
+                </span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="https://konsoleh.hetzner.com/" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    konsoleH
+                </span>
+                
+            </a>
+        </li>
+    
+        <li>
+            <a href="https://dns.hetzner.com" data-target="">
+                <span class="mobile-nav-title-name">
+                    
+                    DNS
+                </span>
+                
+            </a>
+        </li>
+    
+</ul>
+
+            </div>
+        
+    
+</div>
+
+
+
+    </div>
+</nav>
+
+<header id="header">
+    
+<div class="modal fade h-100 justify-content-center align-items-center d-none" id="InitModal" role="dialog" style="display: flex;">
+    <div class="modal-dialog modal-lg" style="max-width: 768px;">
+        <div class="modal-content text-center">
+            <div class="modal-header" style="padding: 20px;">
+                <h3>THIS WEBSITE USES COOKIES</h3>
+            <div class="modal-body p-0 font-size-normal" style="line-height: 1.6em;">
+                <div style="margin-bottom: 10px;">
+                    <span>We want you to have the best possible user experience on our website. We use cookies to analyze how visitors like you use our website, so we can make improvements. And we use cookies to make sure that the website functions normally. For more info, see our </span>
+                    <a href="/legal/privacy-policy" style="color: #383838; text-decoration: underline; font-weight: 500;">privacy policy</a><span>. You can edit your cookie settings there at any time.</span>
+                </div>
+                <div class="d-flex flex-column flex-md-row" style="gap: 10px;">
+                    <button
+                        class="btn btn-lg btn-block btn-prio-1"
+                        id="AcceptCookies"
+                    >
+                        Allow all cookies
+                    </button>
+                    <button
+                        class="btn btn-lg btn-block btn-prio-3 sliding-background"
+                        id="DeclineCookies"
+                        style="margin-top: 0;"
+                    >
+                        Allow necessary cookies
+                    </button>
+                </div>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+    <div
+    class="modal fade h-100 justify-content-center align-items-center d-none"
+    id="kapaModal"
+    role="dialog"
+    style="display: flex;"
+>
+    <div class="modal-dialog">
+        <div class="modal-content kapa-modal-wrapper mb-3">
+            <div class="d-flex justify-content-between">
+                <div class="kapa-modal-header-content align-items-center d-flex flex-row">
+                    <img
+                        class="img-responsive"
+                        src="/_resources/themes/hetzner/images/chat/icon-small.png?m=1760361459"
+                        alt="hero small"
+                    >
+                    <h3 class="text-transform-none m-0">
+                        Ask AI
+                    </h3>
+                </div>
+                <button
+                    type="button"
+                    class="close"
+                    data-dismiss="modal"
+                    aria-label="close"
+                >&times;
+                </button>
+            </div>
+            <div>
+                <img
+                    class="kapa-modal-content–image img-responsive"
+                    src="/_resources/themes/hetzner/images/chat/modal-hero.png?m=1760361459"
+                    alt="hero image"
+                >
+                <h2 class="kapa-modal-content–headline text-transform-none m-0">
+                    Hi there, you want to use the AI chat?
+                </h2>
+                <div class="kapa-modal-content-text">
+                    By clicking the “I agree, let's chat” button, you agree to the necessary cookies. You can find more information in our 
+                    <a
+                        href="/legal/privacy-policy"
+                        target="_blank">
+                        privacy policy.
+                    </a>
+                </div>
+            </div>
+            <div class="d-flex flex-column flex-sm-row justify-content-sm-center kapa-modal-buttons">
+                <button
+                    id="kapa-modal-accept"
+                    class="btn btn-prio-2 btn-lg"
+                    data-dismiss="modal"
+                >
+                    I agree, let’s chat
+                </button>
+                <button
+                    id="kapa-modal-deny"
+                    class="btn btn-prio-3 sliding-background btn-lg"
+                    data-dismiss="modal"
+                >
+                    No, not interested
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script type="application/javascript" src="/_resources/vendor/silverstripe/admin/client/dist/js/i18n.js?m=1756054428"></script>
+<script type="application/javascript" src="/_resources/themes/languages/javascript/static/lang/en.js?m=1760361460"></script>
+<script type="application/javascript" src="/_resources/themes/languages/javascript/static/lang/de.js?m=1760361460"></script>
+<script type="application/javascript" src="/_resources/themes/hetzner/dist/vendors.js?m=1760361504"></script>
+<script type="application/javascript" src="/_resources/themes/hetzner/dist/app.js?m=1760361504"></script>
+<script type="application/javascript" src="/_resources/themes/static/dist/vendors.js?m=1760361493"></script>
+<script type="application/javascript" src="/_resources/themes/static/dist/bundle.js?m=1760361493"></script>
+<script type="application/javascript" src="/_resources/themes/hetzner/dist/kapaButton.js?m=1760361504"></script>
+<script type="application/javascript" src="/_resources/themes/hetzner/dist/initmodal.js?m=1760361504"></script>
+<script type="application/javascript" src="/_resources/themes/hetzner/dist/sectionFAQs.js?m=1760361504"></script>
+<script type="application/javascript">//<![CDATA[
+window.kapa = {"enabled":true,"logo":"","disclaimer":"Do not enter any personal or sensitive data in the chatbot. You can find information about how we process personal data at https:\/\/www.hetzner.com\/legal\/privacy-policy. The Hetzner Online chatbot is an AI system that we are testing to see if it can improve our support. By using the chatbot, you agree to the following terms: 1. The chatbot provides general information and we cannot guarantee that the information is complete, accurate or up-to-date. 2. Information from the chatbot is not legally binding. Please see Hetzner Docs for legally binding information: https:\/\/docs.hetzner.com. 3. Hetzner Online is not liable for any damages that may result from using the chatbot, especially regarding the accuracy of the information it provides. By using the chatbot, you accept these terms and conditions. If you have any feedback for us, please send an email to feedback@hetzner.com.","id":"18198dde-3712-453f-b05a-2c55b22c23c1"};
+//]]></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const route = ['/', '/de', '/de/'].includes(window.location.pathname) ? 'hetzner.com' : window.location.pathname
+        $('#kapa-modal-accept').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'Support', 'AI chat Accept', route])
+        })
+        $('#kapa-modal-deny').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'Support', 'AI chat Deny', route])
+        })
+        $('.kapa-image-hover').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'Support', 'AI Chat', window.location.pathname])
+        })
+    })
+</script>
+
+    <div
+    class="kapa-open-div d-none kapa-open-chat"
+    id="kapa-button-element"
+>
+    <div class="kapa-speech-bubble-container">
+        <div class="kapa-speech-bubble d-inline-flex">
+            <div class="kapa-speech-bubble-text">
+                <p class="kapa-ask-ai">
+                    Ask AI:
+                </p>
+                <p class="kapa-ask-ai-text m-0">
+                    How can I help you?
+                </p>
+            </div>
+            <div class="kapa-speech-bubble-corner align-self-end"></div>
+        </div>
+    </div>
+
+    <div
+        class="d-flex"
+        style="gap: 1rem;"
+    >
+        <div
+            class="kapa-image-container d-flex flex-column justify-content-center align-items-center"
+        >
+            <img
+                class="kapa-image-default"
+                src="/_resources/themes/hetzner/images/chat/ask-ai-icon-default.png?m=1760361459"
+                alt="icon"
+            >
+            <img
+                class="kapa-image-hover"
+                src="/_resources/themes/hetzner/images/chat/ask-ai-icon-inactive.png?m=1760361459"
+                alt="icon"
+            >
+        </div>
+    </div>
+</div>
+
+
+
+    <div class="modal fade" id="LangSettings" role="dialog">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content lang-model-content">
+            <div class="modal-header p-0">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <h3 class="lvc-modal-title modal-title">Choose your location settings</h3>
+            </div>
+            <div class="modal-body lang-settings-grid">
+                <div class="d-flex flex-column settings-wrapper">
+    <h4 class="lvc-modal-sub-title modal-title">
+        Language
+    </h4>
+    <div
+        id="settings-language"
+        class="settings-items"
+    >
+        
+            <button
+                class="btn btn-langsettings lvc-modal-lang-track"
+                id="language-de"
+                data-url="https://www.hetzner.com/de/storage/storage-share/robots.txt"
+                data-title="Deutsch"
+            >
+                <span>Deutsch</span>
+            </button>
+        
+            <button
+                class="btn btn-langsettings lvc-modal-lang-track"
+                id="language-en"
+                data-url="https://www.hetzner.com/storage/storage-share/robots.txt"
+                data-title="English"
+            >
+                <span>English</span>
+            </button>
+        
+    </div>
+</div>
+
+                <div class="d-flex flex-column settings-wrapper">
+    <h4 class="lvc-modal-sub-title modal-title">
+        Currency
+    </h4>
+    <div
+        id="settings-currency"
+        class="settings-items"
+    >
+        
+            <button
+                class="btn btn-langsettings lvc-modal-currency-track"
+                id="currency-EUR"
+                data-title="EUR"
+            >
+               <span><span class="currency-symbol">€</span> EUR</span>
+            </button>
+        
+            <button
+                class="btn btn-langsettings lvc-modal-currency-track"
+                id="currency-USD"
+                data-title="USD"
+            >
+               <span><span class="currency-symbol">$</span> USD</span>
+            </button>
+        
+    </div>
+</div>
+
+                <div class="d-flex flex-column settings-wrapper">
+    <h4 class="lvc-modal-sub-title modal-title">
+        Country (VAT)
+    </h4>
+    <label class="sr-only" for="settings-vat">Country (VAT)</label>
+    <select
+        class="selectpicker"
+        id="settings-vat"
+    >
+        
+    <option
+    value="ot-0"
+    
+>
+    All others
+</option>
+
+
+
+    <option
+    value="au-10"
+    
+>
+    Australia
+</option>
+
+
+    <option
+    value="at-20"
+    
+>
+    Austria
+</option>
+
+
+    <option
+    value="be-21"
+    
+>
+    Belgium
+</option>
+
+
+    <option
+    value="bg-20"
+    
+>
+    Bulgaria
+</option>
+
+
+    <option
+    value="hr-25"
+    
+>
+    Croatia
+</option>
+
+
+    <option
+    value="cy-19"
+    
+>
+    Cyprus
+</option>
+
+
+    <option
+    value="cz-21"
+    
+>
+    Czech Republic
+</option>
+
+
+    <option
+    value="dk-25"
+    
+>
+    Denmark
+</option>
+
+
+    <option
+    value="ee-24"
+    
+>
+    Estonia
+</option>
+
+
+    <option
+    value="fi-25.5"
+    
+>
+    Finland
+</option>
+
+
+    <option
+    value="fr-20"
+    
+>
+    France
+</option>
+
+
+    <option
+    value="de-19"
+    
+>
+    Germany
+</option>
+
+
+    <option
+    value="gr-24"
+    
+>
+    Greece
+</option>
+
+
+    <option
+    value="hu-27"
+    
+>
+    Hungary
+</option>
+
+
+    <option
+    value="ie-23"
+    
+>
+    Ireland
+</option>
+
+
+    <option
+    value="it-22"
+    
+>
+    Italy
+</option>
+
+
+    <option
+    value="lv-21"
+    
+>
+    Latvia
+</option>
+
+
+    <option
+    value="lt-21"
+    
+>
+    Lithuania
+</option>
+
+
+    <option
+    value="lu-17"
+    
+>
+    Luxembourg
+</option>
+
+
+    <option
+    value="mt-18"
+    
+>
+    Malta
+</option>
+
+
+    <option
+    value="nl-21"
+    
+>
+    Netherlands
+</option>
+
+
+    <option
+    value="no-25"
+    
+>
+    Norway
+</option>
+
+
+    <option
+    value="pl-23"
+    
+>
+    Poland
+</option>
+
+
+    <option
+    value="pt-23"
+    
+>
+    Portugal
+</option>
+
+
+    <option
+    value="ro-21"
+    
+>
+    Romania
+</option>
+
+
+    <option
+    value="sg-9"
+    
+>
+    Singapore
+</option>
+
+
+    <option
+    value="sk-23"
+    
+>
+    Slovakia
+</option>
+
+
+    <option
+    value="si-22"
+    
+>
+    Slovenia
+</option>
+
+
+    <option
+    value="za-15"
+    
+>
+    South Africa
+</option>
+
+
+    <option
+    value="es-21"
+    
+>
+    Spain
+</option>
+
+
+    <option
+    value="se-25"
+    
+>
+    Sweden
+</option>
+
+
+    <option
+    value="ch-8.1"
+    
+>
+    Switzerland
+</option>
+
+
+    <option
+    value="ua-0"
+    
+>
+    Ukraine
+</option>
+
+
+    <option
+    value="gb-20"
+    
+>
+    United Kingdom
+</option>
+
+
+    <option
+    value="us-0"
+    
+>
+    USA
+</option>
+
+
+
+    </select>
+</div>
+
+            </div>
+            <div class="modal-footer p-0 d-flex justify-content-center align-items-center">
+                <button
+                    id="settings-save"
+                    class="btn btn-black lvc-modal-save-track"
+                >
+                    <i class="fa fa-check"></i>
+                    <span>Save settings</span>
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const route = ['/', '/de','/de/'].includes(window.location.pathname) ? 'hetzner.com' : window.location.pathname
+        $('.lvc-modal-save-track').on('pointerdown',function () {
+            _paq.push(['trackEvent', 'LVC', 'Submit', route])
+        })
+        $('.lvc-modal-lang-track').on('pointerdown',function () {
+            const title = $(this).data('title')
+            _paq.push(['trackEvent', 'LVC', title, route])
+        })
+        $('.lvc-modal-currency-track').on('pointerdown',function () {
+            const title = $(this).data('title')
+            _paq.push(['trackEvent', 'LVC', title, route])
+        })
+        // listen emit function from lvcSwitch.js select2 select event
+        $(document).on('vatSettingsSelect', function (event) {
+            const country = event.originalEvent.detail.country
+            _paq.push(['trackEvent', 'Country Selection', country, route]);
+        });
+    })
+
+</script>
+
+    <nav id='nav_main' class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div
+    id="geo-suggestion"
+    class="d-none background-color-white w-100 geo-suggestion"
+>
+    <div class="container geo-header-layout">
+        <div class="geo-header-text">
+            <span class="geo-main-text">
+                We noticed you're browsing from a different part of the world.
+            </span>
+            <span>
+                Switch to settings tailored to your location?
+            </span>
+        </div>
+        <div class="d-flex" style="gap: 1rem;">
+            <button
+                id="geo-accept"
+                class="d-flex align-items-center btn btn-sm btn-prio-3"
+                style="gap: 5px;"
+            >
+                <i class="fa-solid fa-check"></i>
+                yes
+            </button>
+            <button
+                id="geo-decline"
+                class="btn btn-sm btn-text-link btn-pre-header"
+            >
+                <i class="fa-solid fa-xmark"></i>
+            </button>
+        </div>
+    </div>
+</div>
+
+    <div
+    id="header-pre-section"
+    class="pre-header align-items-center"
+>
+    <div class="container">
+        <div class="d-flex justify-content-center justify-content-md-between align-items-center">
+            
+                <div class="d-none d-md-flex pre-header-row-left">
+                    
+                        
+                            <a
+    class="btn-pre-header pre-header-button-track pl-0"
+    href="https://community.hetzner.com/"
+    data-title="Community"
+     target="_blank" rel="noreferrer noopener" 
+>
+    
+    Community
+</a>
+
+                        
+                    
+                        
+                            <a
+    class="btn-pre-header pre-header-button-track "
+    href="/unternehmen/arbeiten-bei-hetzner/"
+    data-title="Jobs"
+    
+>
+    
+    Jobs
+</a>
+
+                        
+                    
+                        
+                            <div class="dropdown">
+    <button
+        class="btn-pre-header dropdown-toggle"
+        style="margin-right:10px;"
+        data-toggle="dropdown"
+    >
+        <span class="d-flex align-items-center" style="gap:5px;">
+            
+            About us
+            <i class="fa fa-angle-down"></i>
+        </span>
+    </button>
+    <ul class="dropdown-menu dropdown-list ">
+        
+        
+            <li>
+                <a href="/unternehmen/ueber-uns/" data-title="Company" class="pre-header-button-track">
+                    
+                    Company
+                </a>
+            </li>
+        
+            <li>
+                <a href="/pressroom/" data-title="Pressroom" class="pre-header-button-track">
+                    
+                    Pressroom
+                </a>
+            </li>
+        
+            <li>
+                <a href="/customers/" data-title="Our customers" class="pre-header-button-track">
+                    
+                    Our customers
+                </a>
+            </li>
+        
+            <li>
+                <a href="/unternehmen/arbeiten-bei-hetzner/" data-title="Career" class="pre-header-button-track">
+                    
+                    Career
+                </a>
+            </li>
+        
+            <li>
+                <a href="/legal/legal-notice/" data-title="Legal" class="pre-header-button-track">
+                    
+                    Legal
+                </a>
+            </li>
+        
+    </ul>
+</div>
+
+                        
+                    
+                </div>
+            
+            
+                <div class="d-flex pre-header-row-right">
+                    <lvc-switch
+                        data-toggle="modal"
+                        theme="light"
+                        data-target="#LangSettings"
+                        class="lvc-btn-track"
+                    >
+                    </lvc-switch>
+                    
+                        
+                            <a
+    class="btn-pre-pill d-none d-sm-block pre-header-button-track "
+    href="/support-center/"
+    data-title="Support"
+    
+>
+    
+        <i class="fa fa-wrench"></i>
+    
+    Support
+</a>
+
+                        
+                    
+                        
+                            <div class="dropdown">
+    <button
+        class="btn-pre-pill dropdown-toggle"
+        style="margin-right:10px;"
+        data-toggle="dropdown"
+    >
+        <span class="d-flex align-items-center" style="gap:5px;">
+            
+                <i class="fa fa-user"></i>
+            
+            Login
+            <i class="fa fa-angle-down"></i>
+        </span>
+    </button>
+    <ul class="dropdown-menu dropdown-list dropdown-list-wide">
+        
+            <div id="submenu-info" class="submenu-info shown">
+                <i id="close-submenu-info" class="fa fa-close"></i>
+                <div class="submenu-info-wrapper">
+                    <i class="submenu-info-icon fa fa-info-circle"></i>
+                    <div class="submenu-info-text">
+                        <h6>Cloud Console is now Hetzner Console</h6>
+                        <p><span>You can now find cloud, object storage and storage box on the new Hetzner Console. What's next? Subscribe to our <a title="Sign up to newsletter" href="/newsletter/">newsletter</a> to stay up to date.</span></p>
+                    </div>
+                </div>
+            </div>
+        
+        
+            <li>
+                <a href="https://console.hetzner.com/" data-title="Console" class="pre-header-button-track">
+                    
+                        <img src="https://cdn.hetzner.com/assets/Uploads/icon-hetzner-cloud.svg" class="login-img" alt="icon hetzner cloud">
+                    
+                    Console
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://robot.hetzner.com" data-title="Robot" class="pre-header-button-track">
+                    
+                        <img src="https://cdn.hetzner.com/assets/Uploads/icon-hetzner-robot.svg" class="login-img" alt="icon hetzner robot">
+                    
+                    Robot
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://konsoleh.hetzner.com/" data-title="konsoleH" class="pre-header-button-track">
+                    
+                        <img src="https://cdn.hetzner.com/assets/Uploads/icon-hetzner-konsoleh.svg" class="login-img" alt="icon hetzner konsoleh">
+                    
+                    konsoleH
+                </a>
+            </li>
+        
+            <li>
+                <a href="https://dns.hetzner.com" data-title="DNS" class="pre-header-button-track">
+                    
+                        <img src="https://cdn.hetzner.com/assets/Uploads/icon-dns-console.svg" class="login-img" alt="icon dns console">
+                    
+                    DNS
+                </a>
+            </li>
+        
+    </ul>
+</div>
+
+                        
+                    
+                </div>
+            
+        </div>
+    </div>
+</div>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const route = ['/', '/de','/de/'].includes(window.location.pathname) ? 'hetzner.com' : window.location.pathname
+        $('.pre-header-button-track').on('pointerdown',function () {
+            const title = $(this).data('title')
+            _paq.push(['trackEvent', 'Meta-Navigation', title, route])
+        })
+        $('.lvc-btn-track').on('pointerdown',function () {
+            _paq.push(['trackEvent', 'Meta-Navigation', 'LVC', route])
+        })
+    })
+</script>
+
+    <div class="container" style="height: 61px;">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </button>
+        <a class="navbar-brand" href="https://www.hetzner.com/">
+            <img
+                src="/_resources/themes/hetzner/images/logo/hetzner-logo.svg?m=1760361459"
+                class="navbar-logo" alt="Logo Hetzner Online"
+                height="21px"
+                width="171.297px"
+            >
+        </a>
+    </div>
+    <div id="defaultmenu" class="navbar-collapse collapse">
+        <ul class="nav navbar-nav pull-right">
+            
+                
+                    <li
+                        data-target="#nav-dedicated"
+                        data-title="Dedicated"
+                        class="has-more  nav-menu-track"
+                    >
+                        Dedicated
+                    </li>
+                
+            
+                
+                    <li data-target="#nav-virtual"
+                        >
+                        <a
+                            data-title="Cloud"
+                            href="/cloud/"
+                            class="nav-menu-track"
+                        >
+                            Cloud
+                        </a>
+                    </li>
+                
+            
+                
+                    <li
+                        data-target="#nav-web"
+                        data-title="Web &amp;amp; Managed"
+                        class="has-more  nav-menu-track"
+                    >
+                        Web &amp; Managed
+                    </li>
+                
+            
+                
+                    <li data-target="#nav-colocation"
+                        >
+                        <a
+                            data-title="Colocation"
+                            href="/colocation/"
+                            class="nav-menu-track"
+                        >
+                            Colocation
+                        </a>
+                    </li>
+                
+            
+                
+                    <li
+                        data-target="#nav-storage"
+                        data-title="Storage"
+                        class="has-more active_section nav-menu-track"
+                    >
+                        Storage
+                    </li>
+                
+            
+                
+                    <li
+                        data-target="#nav-services"
+                        data-title="Services"
+                        class="has-more  nav-menu-track"
+                    >
+                        Services
+                    </li>
+                
+            
+        </ul>
+    </div>
+</div>
+
+    
+    
+        <div id="nav-dedicated" class="sub-nav-container hidden-sm hidden-xs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9 col-md-9">
+                        <ul class="list-unstyled list-inline margin-0 sub-nav-product-list">
+                            
+                                <li>
+    <a href="/sb/" data-title="Server Auction" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-serverboerse.svg" alt="icon circle serverboerse"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="serverboerse"
+            data-title="Server Auction"
+        >
+            
+            Server Auction
+            
+                <br />
+                <div class="highlight-menu-price">
+                    <price-container class="price p-0">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">29</span>
+                        <span slot="usd">33</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dedicated-rootserver/" data-title="Server Finder" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-serverfinder.svg" alt="icon circle serverfinder"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="serverfinder"
+            data-title="Server Finder"
+        >
+            
+            Server Finder
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">37.3</span>
+                        <span slot="usd">42</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dedicated-rootserver/matrix-ex/" data-title="EX-Line" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-ex-line.svg" alt="icon circle ex line"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="ex-line"
+            data-title="EX-Line"
+        >
+            
+            EX-Line
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">39</span>
+                        <span slot="usd">44</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dedicated-rootserver/matrix-ax/" data-title="AX-Line" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-ax-line.svg" alt="icon circle ax line"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="ax-line"
+            data-title="AX-Line"
+        >
+            
+            AX-Line
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">37.3</span>
+                        <span slot="usd">42</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dedicated-rootserver/matrix-rx/" data-title="RX-Line" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-rx-line-v2.svg" alt="icon circle rx line v2"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="rx-line"
+            data-title="RX-Line"
+        >
+            
+            RX-Line
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">169</span>
+                        <span slot="usd">188</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dedicated-rootserver/matrix-sx/" data-title="SX-Line" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-sx-line.svg" alt="icon circle sx line"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="sx-line"
+            data-title="SX-Line"
+        >
+            
+            SX-Line
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">104</span>
+                        <span slot="usd">116</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dedicated-rootserver/matrix-gpu/" data-title="GPU-Line" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-gpu-line.svg" alt="icon circle gpu line"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="gpu-line"
+            data-title="GPU-Line"
+        >
+            
+            GPU-Line
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">184</span>
+                        <span slot="usd">205</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dedicated-rootserver/brands/" data-title="BRANDS" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-brandserver-v2.svg" alt="icon brandserver v2"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="brands"
+            data-title="BRANDS"
+        >
+            
+            BRANDS
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">209</span>
+                        <span slot="usd">233</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="serverboerse"
+    data-title="Server Auction"
+>
+    <h3 class="margin-0 text-transform-none">Server Auction</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">29</span>
+            <span slot="usd">33</span>
+        </price-container>
+    
+    Prices drop &amp; excitement mounts. Place bids in our Server Auction!
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="serverfinder"
+    data-title="Server Finder"
+>
+    <h3 class="margin-0 text-transform-none">Server Finder</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">37.3</span>
+            <span slot="usd">42</span>
+        </price-container>
+    
+    Configure the server of your dreams. In seconds.
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="ex-line"
+    data-title="EX-Line"
+>
+    <h3 class="margin-0 text-transform-none">EX-Line Server</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">39</span>
+            <span slot="usd">44</span>
+        </price-container>
+    
+    Get your own dedicated server at an unbeatable price
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="ax-line"
+    data-title="AX-Line"
+>
+    <h3 class="margin-0 text-transform-none">AX-Line Server</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">37.3</span>
+            <span slot="usd">42</span>
+        </price-container>
+    
+    Brand new AMD processors
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="rx-line"
+    data-title="RX-Line"
+>
+    <h3 class="margin-0 text-transform-none">RX-Line Servers</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">169</span>
+            <span slot="usd">188</span>
+        </price-container>
+    
+    Exceptional performance thanks to Arm64-based architecture
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="sx-line"
+    data-title="SX-Line"
+>
+    <h3 class="margin-0 text-transform-none">SX-Line Server</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">104</span>
+            <span slot="usd">116</span>
+        </price-container>
+    
+    Storage and protection for your sensitive data
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="gpu-line"
+    data-title="GPU-Line"
+>
+    <h3 class="margin-0 text-transform-none">Dedicated GPU Server</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">184</span>
+            <span slot="usd">205</span>
+        </price-container>
+    
+    Powerful and cost-efficient servers for AI workload.
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="brands"
+    data-title="BRANDS"
+>
+    <h3 class="margin-0 text-transform-none">BRAND SERVER</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">209</span>
+            <span slot="usd">233</span>
+        </price-container>
+    
+    Brand name hardware from Dell
+</div>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+    
+
+    
+        <div id="nav-web" class="sub-nav-container hidden-sm hidden-xs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9 col-md-9">
+                        <ul class="list-unstyled list-inline margin-0 sub-nav-product-list">
+                            
+                                <li>
+    <a href="/webhosting/" data-title="Web Hosting" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-webhosting.svg" alt="icon circle webhosting"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="web"
+            data-title="Web Hosting"
+        >
+            
+            Web Hosting
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">1.6</span>
+                        <span slot="usd">2</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/managed-server/" data-title="Managed Server" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-managed-server.svg" alt="icon circle managed server"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="managed"
+            data-title="Managed Server"
+        >
+            
+            Managed Server
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">34</span>
+                        <span slot="usd">38</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="web"
+    data-title="Web Hosting"
+>
+    <h3 class="margin-0 text-transform-none">Web Hosting</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">1.6</span>
+            <span slot="usd">2</span>
+        </price-container>
+    
+    Prices for beginners and businesses
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="managed"
+    data-title="Managed Server"
+>
+    <h3 class="margin-0 text-transform-none">Managed Servers</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">34</span>
+            <span slot="usd">38</span>
+        </price-container>
+    
+    We‘ll take care of the technical stuff.
+</div>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+    
+
+    
+        <div id="nav-storage" class="sub-nav-container hidden-sm hidden-xs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9 col-md-9">
+                        <ul class="list-unstyled list-inline margin-0 sub-nav-product-list">
+                            
+                                <li>
+    <a href="/storage/object-storage/" data-title="Object Storage" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-object-storage.svg" alt="icon circle object storage"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target=""
+            data-title="Object Storage"
+        >
+            
+            Object Storage
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">4.99</span>
+                        <span slot="usd">5.99</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/storage/storage-box/" data-title="Storage Box" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-storage-box2.svg" alt="icon circle storage box2"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="storagebox"
+            data-title="Storage Box"
+        >
+            
+            Storage Box
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">3.2</span>
+                        <span slot="usd">4</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/storage/storage-share/" data-title="Storage Share" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-storage-share-white.svg" alt="icon circle storage share white"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="storage-share"
+            data-title="Storage Share"
+        >
+            
+            Storage Share
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">4.29</span>
+                        <span slot="usd">5</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        
+                            <div
+    class="sub-nav-description"
+    data-target=""
+    data-title="Object Storage"
+>
+    <h3 class="margin-0 text-transform-none">Object Storage</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">4.99</span>
+            <span slot="usd">5.99</span>
+        </price-container>
+    
+    S3-compatible and scalable storage solution.
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="storagebox"
+    data-title="Storage Box"
+>
+    <h3 class="margin-0 text-transform-none">Storage Box</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">3.2</span>
+            <span slot="usd">4</span>
+        </price-container>
+    
+    Self-managed online storage. Available everywhere and at any time.
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="storage-share"
+    data-title="Storage Share"
+>
+    <h3 class="margin-0 text-transform-none">Storage Share</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">4.29</span>
+            <span slot="usd">5</span>
+        </price-container>
+    
+    Easily store and share files.
+</div>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+    
+        <div id="nav-services" class="sub-nav-container hidden-sm hidden-xs">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-9 col-md-9">
+                        <ul class="list-unstyled list-inline margin-0 sub-nav-product-list">
+                            
+                                <li>
+    <a href="/cloud/load-balancer/" data-title="Load Balancer" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-load-balancer.svg" alt="icon load balancer"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target=""
+            data-title="Load Balancer"
+        >
+            
+            Load Balancer
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">5.39</span>
+                        <span slot="usd">5.99</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/whois/" data-title="Domain check" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-whois3.svg" alt="icon circle whois3"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="domain"
+            data-title="Domain check"
+        >
+            
+            Domain check
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">4.9</span>
+                        <span slot="usd">6</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/dns-console/" data-title="DNS Console" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-dns-console5.svg" alt="icon circle dns console5"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="dns-console"
+            data-title="DNS Console"
+        >
+            
+            DNS Console
+            
+                <div class="price">free of charge</div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/registrationrobot/" data-title="Registration Robot" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-domain-registration-robot.svg" alt="icon circle domain registration robot"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="robot"
+            data-title="Registration Robot"
+        >
+            
+            Registration Robot
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">3.28</span>
+                        <span slot="usd">4</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/sslzertifikate/" data-title="SSL Certificate" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-ssl-certificate.svg" alt="icon circle ssl certificate"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="ssl"
+            data-title="SSL Certificate"
+        >
+            
+            SSL Certificate
+            
+                <br />
+                <div class="">
+                    <price-container class="price ">
+                        
+                            <span slot="start">from</span>
+                        
+                        <span slot="eur">32</span>
+                        <span slot="usd">36</span>
+                    </price-container>
+                </div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                                <li>
+    <a href="/custom-solutions/" data-title="Custom Solutions" class="nav-sub-menu-track">
+        <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-custom-solutions2.svg" alt="icon circle custom solutions2"
+             class="sub-nav-product-icon center-block">
+        <div
+            class="product-name"
+            data-target="custom-solutions"
+            data-title="Custom Solutions"
+        >
+            
+            Custom Solutions
+            
+                <div class="price" style="text-transform: initial">on demand</div>
+            
+        </div>
+    </a>
+</li>
+
+                            
+                        </ul>
+                    </div>
+                    <div class="col-lg-3 col-md-3">
+                        
+                            <div
+    class="sub-nav-description"
+    data-target=""
+    data-title="Load Balancer"
+>
+    <h3 class="margin-0 text-transform-none">Load Balancer</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">5.39</span>
+            <span slot="usd">5.99</span>
+        </price-container>
+    
+    Next level application scaling.
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="domain"
+    data-title="Domain check"
+>
+    <h3 class="margin-0 text-transform-none">Domain check</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">4.9</span>
+            <span slot="usd">6</span>
+        </price-container>
+    
+    Your address – unique and memorable
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="dns-console"
+    data-title="DNS Console"
+>
+    <h3 class="margin-0 text-transform-none">DNS console</h3>
+    
+        <div class="price">free of charge</div>
+    
+    Easy to use DNS management platform. List, add, modify or remove zones and records
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="robot"
+    data-title="Registration Robot"
+>
+    <h3 class="margin-0 text-transform-none">Registration Robot</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">3.28</span>
+            <span slot="usd">4</span>
+        </price-container>
+    
+    In a hurry? No problem! Register domains yourself.
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="ssl"
+    data-title="SSL Certificate"
+>
+    <h3 class="margin-0 text-transform-none">SSL Certificate</h3>
+    
+        <price-container class="price sub-nav-price">
+            <span slot="start">from</span>
+            <span slot="eur">32</span>
+            <span slot="usd">36</span>
+        </price-container>
+    
+    Build more trust! Secure data transfers
+</div>
+
+                        
+                            <div
+    class="sub-nav-description"
+    data-target="custom-solutions"
+    data-title="Custom Solutions"
+>
+    <h3 class="margin-0 text-transform-none">Custom Solutions</h3>
+    
+        <div class="price" style="text-transform: initial">on demand</div>
+    
+    Get the tailored setup and hardware you need. 
+</div>
+
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+
+</nav>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const route = ['/', '/de','/de/'].includes(window.location.pathname) ? 'hetzner.com' : window.location.pathname
+        $('.nav-menu-data-track').on('pointerdown', function () {
+            const title = $(this).data('title')
+            _paq.push(['trackEvent', 'Navigation', title, route])
+        })
+        $('.nav-menu-track').on('pointerdown', function () {
+            const title = $(this).data('title')
+            _paq.push(['trackEvent', 'Navigation', title, route])
+        })
+        $('.nav-sub-menu-track').on('pointerdown', function () {
+            const title = $(this).data('title')
+            _paq.push(['trackEvent', 'Navigation', title, route])
+        })
+    })
+</script>
+
+</header>
+
+
+
+    <main class="custom-cloud">
+    <span class="irs-slider state_hover" style="width: 0; height: 0; visibility: hidden"></span>
+<span class="irs-slider state_active" style="width: 0; height: 0; visibility: hidden"></span>
+
+    <section id="header-section">
+    <div class="header-background-image" style="background-image: url('https://cdn.hetzner.com/assets/Uploads/storageshare-big.jpg');">
+        <div class="container">
+            <div class="row row-flex-center-all">
+                <div class="col-lg-10 col-md-10 col-sm-12 col-xs-12">
+                    <div class="color-white text-shadow-default">
+                        <ul class="list-unstyled list-big-headlines">
+                            <li><h1>STORAGE SHARE: managed nextcloud</h1></li>
+                            <li>Safe and cheap</li>
+                            <li> cloud storage</li>
+                        </ul>
+                        <p class="lead text-shadow-default">Collaborate with others and share and secure all your documents, images, and more – all in one place.</p>
+                        <ul class="list-unstyled list-inline list-buttons" style="text-shadow: none;">
+                            
+                            
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-5 col-md-5 col-sm-4 hidden-xs">
+                    
+                        <img class="page-header-icon pull-right" src="https://cdn.hetzner.com/assets/Uploads/icon-circle-storage-share-white.svg" alt="icon circle storage share white">
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        $('#storage-share-cta-1').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'CTA', 'Go to the deals 1', '/storage-share'])
+        })
+        $('#storage-share-cta-2').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'CTA', 'Storage Share Header Second Button', '/storage-share'])
+        })
+    })
+</script>
+
+    
+        <section id="section-secondary-navigation" class="noswipemenu-matrix">
+    <div class="container">
+        <nav class="navigation-secondary swiper-container">
+            <ul class="list-unstyled list-inline list-navigation-tabs swiper-wrapper">
+                
+                    
+                        <li class="active swiper-slide" data-target="#overview">
+                            Overview
+                        </li>
+                    
+                
+                    
+                        <li class="swiper-slide" data-target="#pricing">
+                            Prices
+                        </li>
+                    
+                
+                    
+                        <li class="swiper-slide" data-target="#features">
+                             Features
+                        </li>
+                    
+                
+                    
+                        <li class="swiper-slide" data-target="#faq">
+                            FAQ
+                        </li>
+                    
+                
+                    
+                        <li class="hidden-sm hidden-xs second-nav-button">
+                            <a
+                                class="btn btn-sm btn-red second-navbar-track-link"
+                                data-action="Sign up"
+                                href="https://konsoleh.hetzner.com"
+                                
+                            >
+                                Sign up
+                            </a>
+                        </li>
+                    
+                
+            </ul>
+        </nav>
+    </div>
+</section>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const route = ['/', '/de', '/de/'].includes(window.location.pathname) ? 'hetzner.com' : window.location.pathname
+        $('.second-navbar-track-link').on('pointerdown', function () {
+            const action = $(this).data('action')
+            _paq.push(['trackEvent', 'CTA', action, route])
+        })
+    })
+</script>
+
+    
+    <section id="overview">
+    <div class="inner-content-top-out-bottom-out background-color-grey">
+        <div class="container-fluid">
+            <div class="container-major-features">
+                
+                    
+                        
+    <div class="row row-flex-center-sm">
+        <div class="col-lg-3 col-lg-offset-3 col-md-8 col-sm-6 col-xs-12">
+            <div class="single-feature"><h3>Simple</h3>
+                <p><p>Get started right away, no matter where you are. Set up your Storage Share with just a few clicks and no technical know-how. Save, edit and share your documents, pictures and music easily via any PC, tablet or smartphone. We'll take care of the administration.</p></p>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <img class="img-responsive" src="https://cdn.hetzner.com/assets/storageshare-overview-Simple.png" alt="storageshare overview Simple">
+        </div>
+    </div>
+
+
+    <hr class="hr-cloud-overview">
+
+
+                    
+                        
+    <div class="row row-flex-center-sm">
+        <div class="col-lg-3 col-lg-push-6 col-md-8 col-md-push-4 col-sm-6 col-sm-push-6 col-xs-12">
+            <div class="single-feature">
+                <h3>Safe</h3>
+                <p><p>Maintain control over your data, which we store in our own German and GDPR-compliant data centers. Storage Share includes an SSL certificate for your own domain in the format nx*.your-storageshare.de and for your custom subdomains.</p></p>
+            </div>
+        </div>
+        <div class="col-lg-4 col-lg-pull-1 col-md-4 col-md-pull-8 col-sm-6 col-sm-pull-6 col-xs-12">
+            <img class="img-responsive" src="https://cdn.hetzner.com/assets/storageshare-overview-Safe.png" alt="storageshare overview Safe">
+        </div>
+    </div>
+
+
+    <hr class="hr-cloud-overview">
+
+
+                    
+                        
+    <div class="row row-flex-center-sm">
+        <div class="col-lg-3 col-lg-offset-3 col-md-8 col-sm-6 col-xs-12">
+            <div class="single-feature"><h3>Individual</h3>
+                <p><p>Create user groups, define individual quotas for single users and share files privately or publicly. Use pre-installed apps like Contacts, Calendar and Tasks or add more apps.</p></p>
+            </div>
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <img class="img-responsive" src="https://cdn.hetzner.com/assets/storageshare-overview-Individual.png" alt="storageshare overview Individual">
+        </div>
+    </div>
+
+
+
+                    
+                
+            </div>
+            <div class="button-floating">
+                <a
+                    id="storage-share-cta-3"
+                    class="btn btn-lg btn-prio-1 on-light"
+                    href="https://konsoleh.hetzner.com/"
+                >
+                    Sign up now
+                    <i class="fa-solid fa-arrow-right btn-icon btn-icon-r btn-icon-lg"></i>
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="container" style="height:0">
+    <div class="custom-supplement-section custom-supplement-section-grey">
+        <svg class="supplement-element-left">
+            <polygon points="0,11 11,0 11,22 "/>
+        </svg>
+        <svg class="supplement-element-middle">
+            <rect width="100%" height="100%"/>
+        </svg>
+        <svg class="supplement-element-right">
+            <polygon points="0,0 11,11 0,22"/>
+        </svg>
+    </div>
+</div>
+
+
+</section>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        $('#storage-share-cta-3').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'CTA', 'Sign up', '/storage-share'])
+        })
+    })
+</script>
+
+    <section id="pricing">
+    <div class="inner-content-top-in-bottom-in background-color-red">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1">
+                    <div class="container-pricing-explanation text-center color-white">
+                        <h2 class="mb-2">Storage Share</h2>
+                        <p class="lead mb-4" style="font-weight: 300;">
+                            Powered by Nextcloud. Easily store and share files.<br />
+No minimum contract period. No cancellation period.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid" style="max-width: 1920px">
+            <div class="container-pricing">
+                <div id="default">
+                    <div class="row d-flex flex-column flex-wrap">
+                        <div class="d-flex flex-column flex-sm-row align-items-center justify-content-center custom-products-wrapper">
+
+    
+        <div class="product-wrapper product-1">
+    <a
+        href="https://konsoleh.hetzner.com/"
+        class="product d-flex flex-column product-type-Server text-decoration-none"
+    >
+        <div class="d-flex flex-column">
+    <div class="d-flex flex-column product-name-and-label">
+        <div class="d-flex flex-column product-text-name">
+            NX11
+        </div>
+        
+    </div>
+</div>
+
+        <div class="align-items-center d-flex flex-column ">
+    
+        <div class="product-pre-text mb-2">
+    
+</div>
+<div class="align-items-center d-flex flex-column">
+    <div class="d-inline-flex flex-column">
+        <split-price-container class="d-inline-flex product-price-layout">
+    
+        <span slot="eur-main">4</span>
+    
+    
+        <span slot="usd-main">5</span>
+    
+    
+        <span slot="eur-sub">29</span>
+    
+    
+        <span slot="usd-sub">00</span>
+    
+    <span slot="text">
+        
+            max/mo.
+        
+    </span>
+</split-price-container>
+
+        
+    </div>
+</div>
+
+    <div class="product-pph-text">
+        <price-container class="product-pph-price">
+            <span slot="eur">0.0069</span>
+            <span slot="usd">0.0080</span>
+        </price-container>
+        <span class="product-pph-label"> /hr</span>
+    </div>
+
+
+    
+</div>
+
+        <div class="d-flex flex-column custom-product-content">
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Storage</span>
+        <span class="font-weight-normal">1 TB</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Subdomain</span>
+        <span class="font-weight-normal">3</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Users</span>
+        <span class="font-weight-normal">∞</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Simultaneous Connections</span>
+        <span class="font-weight-normal">50</span>
+    </div>
+</div>
+
+        <div class="custom-flag-items custom-location">
+    <div class="d-flex align-items-start flex-column">
+        
+            
+                <span data-location="DE">
+                    <span class="fi fis fi-de"></span><span class="flag-text">FSN1</span>
+                </span>
+            
+        
+    </div>
+</div>
+
+    </a>
+</div>
+
+    
+        <div class="product-wrapper product-2">
+    <a
+        href="https://konsoleh.hetzner.com/"
+        class="product d-flex flex-column product-type-Server text-decoration-none"
+    >
+        <div class="d-flex flex-column">
+    <div class="d-flex flex-column product-name-and-label">
+        <div class="d-flex flex-column product-text-name">
+            NX21
+        </div>
+        
+    </div>
+</div>
+
+        <div class="align-items-center d-flex flex-column ">
+    
+        <div class="product-pre-text mb-2">
+    
+</div>
+<div class="align-items-center d-flex flex-column">
+    <div class="d-inline-flex flex-column">
+        <split-price-container class="d-inline-flex product-price-layout">
+    
+        <span slot="eur-main">14</span>
+    
+    
+        <span slot="usd-main">16</span>
+    
+    
+        <span slot="eur-sub">19</span>
+    
+    
+        <span slot="usd-sub">00</span>
+    
+    <span slot="text">
+        
+            max/mo.
+        
+    </span>
+</split-price-container>
+
+        
+    </div>
+</div>
+
+    <div class="product-pph-text">
+        <price-container class="product-pph-price">
+            <span slot="eur">0.0227</span>
+            <span slot="usd">0.0256</span>
+        </price-container>
+        <span class="product-pph-label"> /hr</span>
+    </div>
+
+
+    
+</div>
+
+        <div class="d-flex flex-column custom-product-content">
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Storage</span>
+        <span class="font-weight-normal">5 TB</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Subdomain</span>
+        <span class="font-weight-normal">7</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Users</span>
+        <span class="font-weight-normal">∞</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Simultaneous Connections</span>
+        <span class="font-weight-normal">100</span>
+    </div>
+</div>
+
+        <div class="custom-flag-items custom-location">
+    <div class="d-flex align-items-start flex-column">
+        
+            
+                <span data-location="DE">
+                    <span class="fi fis fi-de"></span><span class="flag-text">FSN1</span>
+                </span>
+            
+        
+    </div>
+</div>
+
+    </a>
+</div>
+
+    
+        <div class="product-wrapper product-3">
+    <a
+        href="https://konsoleh.hetzner.com/"
+        class="product d-flex flex-column product-type-Server text-decoration-none"
+    >
+        <div class="d-flex flex-column">
+    <div class="d-flex flex-column product-name-and-label">
+        <div class="d-flex flex-column product-text-name">
+            NX31
+        </div>
+        
+    </div>
+</div>
+
+        <div class="align-items-center d-flex flex-column ">
+    
+        <div class="product-pre-text mb-2">
+    
+</div>
+<div class="align-items-center d-flex flex-column">
+    <div class="d-inline-flex flex-column">
+        <split-price-container class="d-inline-flex product-price-layout">
+    
+        <span slot="eur-main">27</span>
+    
+    
+        <span slot="usd-main">31</span>
+    
+    
+        <span slot="eur-sub">39</span>
+    
+    
+        <span slot="usd-sub">00</span>
+    
+    <span slot="text">
+        
+            max/mo.
+        
+    </span>
+</split-price-container>
+
+        
+    </div>
+</div>
+
+    <div class="product-pph-text">
+        <price-container class="product-pph-price">
+            <span slot="eur">0.0439</span>
+            <span slot="usd">0.0497</span>
+        </price-container>
+        <span class="product-pph-label"> /hr</span>
+    </div>
+
+
+    
+</div>
+
+        <div class="d-flex flex-column custom-product-content">
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Storage</span>
+        <span class="font-weight-normal">10 TB</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Subdomain</span>
+        <span class="font-weight-normal">10</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Users</span>
+        <span class="font-weight-normal">∞</span>
+    </div>
+    <div class="d-flex align-items-center justify-content-between">
+        <span>Simultaneous Connections</span>
+        <span class="font-weight-normal">200</span>
+    </div>
+</div>
+
+        <div class="custom-flag-items custom-location">
+    <div class="d-flex align-items-start flex-column">
+        
+            
+                <span data-location="DE">
+                    <span class="fi fis fi-de"></span><span class="flag-text">FSN1</span>
+                </span>
+            
+        
+    </div>
+</div>
+
+    </a>
+</div>
+
+    
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="button-floating mt-4">
+            <a
+                id="storage-share-cta-4"
+                class="btn btn-lg btn-prio-1 on-brand mb-4"
+                href="https://konsoleh.hetzner.com/"
+            >
+                Get started
+                <i class="fa-solid fa-arrow-right btn-icon btn-icon-r btn-icon-lg"></i>
+            </a>
+            <p class="m-0 matrix-vat-text">
+                <vat-holder></vat-holder>
+            </p>
+        </div>
+    </div>
+    <div class="container" style="height:0">
+    <div class="custom-supplement-section custom-supplement-section-grey">
+        <svg class="supplement-element-left">
+            <polygon points="0,11 11,0 11,22 "/>
+        </svg>
+        <svg class="supplement-element-middle">
+            <rect width="100%" height="100%"/>
+        </svg>
+        <svg class="supplement-element-right">
+            <polygon points="0,0 11,11 0,22"/>
+        </svg>
+    </div>
+</div>
+
+
+</section>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        $('#storage-share-cta-4').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'CTA', 'Get Started', '/storage-share'])
+        })
+    })
+</script>
+
+    <section id="features">
+    <div class="inner-content-top-out-bottom-out background-color-grey">
+        <div class="container">
+            <div class="container-features">
+                <h2>Features</h2>
+                <div class="row">
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-traffic2.svg" alt="icon circle traffic2">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Traffic</h3>
+                                        
+                                    </div>
+                                    <p>Storage Shares have unlimited internal and external traffic, so you&#039;ll have no problem uploading and downloading all your data to and from your Storage Share.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-backup2.svg" alt="icon circle backup2">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Backups</h3>
+                                        
+                                    </div>
+                                    <p>You can rest assured that your data is safe. Hetzner&#039;s RAID-based storage backend and our cluster network of databases make the probability of failure very low. In addition, Hetzner&#039;s system automatically makes backups of the database and storage backend several times every day.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-collaborative.svg" alt="icon circle collaborative">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Sharing</h3>
+                                        
+                                    </div>
+                                    <p>Use Storage Share with an unlimited number of users and summarise them in user groups. Easily share documents within the team or with other Storage Share or Nextcloud instances.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-flexible-access.svg" alt="icon circle flexible access">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Flexible access</h3>
+                                        
+                                    </div>
+                                    <p>Our Storage Shares include a user-friendly web interface.  Users always connect to it via HTTPS. Or you can use the Nextcloud apps for iOS and Android, or the desktop apps for Windows, Mac, and Linux to access your Storage Share. And WebDAV lets you automate your access to it. </p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-customize.svg" alt="icon circle customize">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Customizable</h3>
+                                        
+                                    </div>
+                                    <p>It&#039;s easy to customize your Storage Shares with apps available in the Nextcloud Appstore to meet your specific needs. For example, you can integrate your own authentication systems. Additional apps must be carried out independently, we cannot offer support for this.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-scalability.svg" alt="icon circle scalability">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Scalability</h3>
+                                        
+                                    </div>
+                                    <p>Stay flexible with your Storage Share. Regardless of how your requirements change over time, you can upgrade or downgrade your Storage Share in a few quick steps and without worrying about data loss. Simply switch between the Storage Share package size you need by going to your account on the konsoleH, and then to &quot;Account type&quot;.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-quick-configuration.svg" alt="icon circle quick configuration">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Quick configuration</h3>
+                                        
+                                    </div>
+                                    <p>The setup for Storage Shares is a snap using either the app or the web front end. And the synchronization client will enable you to automatically synchronize your files from local devices with your Storage Share. </p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-updates.svg" alt="icon circle updates">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>High availability</h3>
+                                        
+                                    </div>
+                                    <p>Our team of technicians takes care of the administration of your Storage Shares for you. Our highly optimized and automated systems monitor them around the clock and install the latest updates.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="feature-box">
+                                <div class="feature-box-icon-container">
+                                    
+                                        <div class="feature-box-icon">
+                                            
+                                                <img src="https://cdn.hetzner.com/assets/Uploads/icon-circle-data-protection.svg" alt="icon circle data protection">
+                                            
+                                        </div>
+                                    
+                                </div>
+                                <div class="feature-box-content"
+                                     style="">
+                                    <div class="feature-box-headline">
+                                        <h3>Data protection</h3>
+                                        
+                                    </div>
+                                    <p>Your Storage Share will be hosted in our own data center in Falkenstein, Germany. We guarantee that its operation complies with EU&#039;s data protection regulations (GDPR). You can also generate a data processing agreement (DPA) that complies with article 28 of the GDPR on konsoleH.</p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    
+                </div>
+            </div>
+        </div>
+        <div class="button-floating">
+            <a
+                id="storage-share-cta-5"
+                class="btn btn-lg btn-prio-3 on-light sliding-background"
+                href="/storage/storage-share#pricing"
+            >
+                Go to the deals
+                <i class="fa-solid fa-arrow-right btn-icon btn-icon-r btn-icon-lg"></i>
+            </a>
+        </div>
+    </div>
+    <div class="container" style="height:0">
+    <div class="custom-supplement-section custom-supplement-section-grey">
+        <svg class="supplement-element-left">
+            <polygon points="0,11 11,0 11,22 "/>
+        </svg>
+        <svg class="supplement-element-middle">
+            <rect width="100%" height="100%"/>
+        </svg>
+        <svg class="supplement-element-right">
+            <polygon points="0,0 11,11 0,22"/>
+        </svg>
+    </div>
+</div>
+
+
+</section>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        $('#storage-share-cta-5').on('pointerdown', function () {
+            _paq.push(['trackEvent', 'CTA', 'Go to the deals 2', '/storage-share'])
+        })
+    })
+</script>
+
+    
+    <div class="container" style="height:0">
+    <div class="custom-supplement-section custom-supplement-section-grey">
+        <svg class="supplement-element-left">
+            <polygon points="0,11 11,0 11,22 "/>
+        </svg>
+        <svg class="supplement-element-middle">
+            <rect width="100%" height="100%"/>
+        </svg>
+        <svg class="supplement-element-right">
+            <polygon points="0,0 11,11 0,22"/>
+        </svg>
+    </div>
+</div>
+
+
+    
+        
+    <section id="faq">
+        
+        <div class="inner-content-top-out-bottom-out custom-cloud
+        
+            background-color-grey
+        ">
+            <div class="container-faqs">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <h2 class="text-center">Frequently asked questions</h2>
+                            <div class="container-list-faqs">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <ul class="list-unstyled list-faqs">
+                                            
+                                                <li>
+                                                    <strong
+                                                        id="11594"
+                                                        class="faq-question faq-track"
+                                                        aria-expanded="false"
+                                                        role="button"
+                                                    >
+                                                        <i class="fa fa-chevron-right"></i> How do we keep your data secure with Storage Share?
+                                                    </strong>
+                                                    <div id="faq-11594"
+                                                         class="collapse textdiv ">
+                                                        <div class="faq-answer"><p>The Storage Share file system can tolerate several simultaneous drive failures. As soon as we detect any irregularies with our drives, we will exchange them immediately, thereby further decreasing the chance of failure to a very low level. <br><br>In addition, our Storage Share file system checks the integrity of the data using checksums and automatically corrects errors. We've created high-availability cluster for the instance databases, making the chances of a complete failure very minimal. A backup is also performed automatically several times a day. Finally, if you choose to synchronize your Storage Share data with your own computer or device using client software, you will have an additional copy of your data.</p></div>
+                                                    </div>
+                                                </li>
+                                            
+                                                <li>
+                                                    <strong
+                                                        id="11595"
+                                                        class="faq-question faq-track"
+                                                        aria-expanded="false"
+                                                        role="button"
+                                                    >
+                                                        <i class="fa fa-chevron-right"></i> What does the "unlimited" storage quota setting mean?
+                                                    </strong>
+                                                    <div id="faq-11595"
+                                                         class="collapse textdiv ">
+                                                        <div class="faq-answer"><p>An administrator can create users and limit their storage size. So you as an administrator, can set up storage space for your users that are, for example 5, 10, 50, or 100 GB. Or you can set up an "unlimited" sized space. However, this "unlimited" space will actually be limited by the overall storage quota size of the Storage Share instance that you (the admin) have bought.</p></div>
+                                                    </div>
+                                                </li>
+                                            
+                                                <li>
+                                                    <strong
+                                                        id="11596"
+                                                        class="faq-question faq-track"
+                                                        aria-expanded="false"
+                                                        role="button"
+                                                    >
+                                                        <i class="fa fa-chevron-right"></i> Can I use Storage Share with my smartphone?
+                                                    </strong>
+                                                    <div id="faq-11596"
+                                                         class="collapse textdiv ">
+                                                        <div class="faq-answer"><p>Yes, there is a Nextcloud app for iOS and Android that is also compatible for Storage Share.&nbsp;You can download the apps at the following links.<br>Android: <a rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.nextcloud.client" target="_blank">https://play.google.com/store/apps/details?id=com.nextcloud.client</a><br>iOS: <a rel="noopener noreferrer" href="https://itunes.apple.com/app/nextcloud/id1125420102?mt=8" target="_blank">https://itunes.apple.com/app/nextcloud/id1125420102?mt=8</a><br><br>After starting the app of your choice, enter the server address. Then log in with your Storage Share user details.</p></div>
+                                                    </div>
+                                                </li>
+                                            
+                                                <li>
+                                                    <strong
+                                                        id="11598"
+                                                        class="faq-question faq-track"
+                                                        aria-expanded="false"
+                                                        role="button"
+                                                    >
+                                                        <i class="fa fa-chevron-right"></i> Can I share my data with another user on a different server?
+                                                    </strong>
+                                                    <div id="faq-11598"
+                                                         class="collapse textdiv ">
+                                                        <div class="faq-answer"><p>Yes, you can share data between different servers using your Federated Cloud ID. You can find this Federated Cloud ID by clicking on your profile picture, going to "Settings" and then clicking on "Sharing". You will then see your Federated Cloud ID on the right-hand side. After this, you can open the share menu of the file you want to share, and on the line "Name, Federated Cloud ID or email address...". You can then enter the entire Federated Cloud ID. An example address will have a format that looks like this: "Admin@nx****.your-storageshare.de".</p></div>
+                                                    </div>
+                                                </li>
+                                            
+                                                <li>
+                                                    <strong
+                                                        id="11599"
+                                                        class="faq-question faq-track"
+                                                        aria-expanded="false"
+                                                        role="button"
+                                                    >
+                                                        <i class="fa fa-chevron-right"></i> Can Hetzner add the feature "x"?
+                                                    </strong>
+                                                    <div id="faq-11599"
+                                                         class="collapse textdiv ">
+                                                        <div class="faq-answer"><p>Unfortunately, we at Hetzner Online cannot add any features to Storage Share since we have not developed this software ourselves.&nbsp;Storage Share is based on the open source software from Nextcloud. However, you can make a feature request by going to the official Github repository:&nbsp;<a rel="noopener noreferrer" href="https://github.com/nextcloud/server/" target="_blank">https://github.com/nextcloud/server/</a></p></div>
+                                                    </div>
+                                                </li>
+                                            
+                                                <li>
+                                                    <strong
+                                                        id="15352"
+                                                        class="faq-question faq-track"
+                                                        aria-expanded="false"
+                                                        role="button"
+                                                    >
+                                                        <i class="fa fa-chevron-right"></i> Can I use domains besides "nx*.your-storageshare.de"?
+                                                    </strong>
+                                                    <div id="faq-15352"
+                                                         class="collapse textdiv ">
+                                                        <div class="faq-answer"><p>Yes, you can activate a subdomain on your konsoleH account. Before you do that, though, you will need your own domain and you will need to set CNAME records for it in the DNS. After that, choose the correct Storage Share instance, then click on the menu tabs "Settings; Configuration; Subdomains" on the left. You can now enter your subdomain. Find detailed instructions in <a href="https://docs.hetzner.com/storage/storage-share/configuration/subdomain">Hetzner Docs</a>.</p></div>
+                                                    </div>
+                                                </li>
+                                            
+                                                <li>
+                                                    <strong
+                                                        id="166890"
+                                                        class="faq-question faq-track"
+                                                        aria-expanded="false"
+                                                        role="button"
+                                                    >
+                                                        <i class="fa fa-chevron-right"></i> How can I create backups?
+                                                    </strong>
+                                                    <div id="faq-166890"
+                                                         class="collapse textdiv ">
+                                                        <div class="faq-answer"><p>A backup is performed automatically several times a day. The backup is always made to another host machine on which the instance is not running.&nbsp; If completed it is possible to restore a backup via konsoleH.</p></div>
+                                                    </div>
+                                                </li>
+                                            
+                                        </ul>
+                                        
+                                            <div class="faq-more-questions">
+                                                <a
+                                                    href="https://docs.hetzner.com/storage/storage-share/"
+                                                    class="btn btn-lg btn-prio-3 on-light sliding-background"
+                                                    target="_blank"
+                                                >
+                                                    More FAQs
+                                                    <i class="fa-solid fa-up-right-from-square btn-icon btn-icon-r btn-icon-lg"></i>
+                                                </a>
+                                            </div>
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+        
+            
+        
+    </section>
+
+
+
+    
+</main>
+
+
+
+
+    <footer id="footer">
+    <div class="container container-footer">
+        <div class="footer-wrapper footer-wrapper-full">
+            <div class="footer-full-main">
+                <div class="footer-brand-section">
+<a class="footer-brand" href="https://www.hetzner.com/">
+    <img
+        src="/_resources/themes/hetzner/images/logo/hetzner-logo.svg?m=1760361459"
+        class="footer-logo" alt="Logo Hetzner Online"
+        height="21px"
+        width="171.297px"
+    >
+</a>
+
+<div class="footer-newsletter-section">
+    <span>Subscribe to our Newsletter</span>
+    <form action="/newsletter/" method="get">
+    <div class="input-group input-group-footer">
+        <input
+            class="form-control email text"
+            type="email"
+            name="email"
+            value=""
+            required="required"
+            aria-required="true"
+            placeholder="mail address"
+        >
+        <span class="input-group-btn">
+                    <button
+                        class="btn btn-prio-1"
+                        type="submit"
+                    >
+                        <i class="fa fa-angle-right"></i>
+                    </button>
+                </span>
+    </div>
+</form>
+</div>
+</div>
+
+                <div class="footer-menu">
+    
+        <div class="footer-menu-sub">
+            <span class="footer-menu-headline">
+                Hetzner
+                <i class="fa fa-angle-down"></i>
+            </span>
+            <div class="footer-menu-links">
+                
+                    <a class="footer-menu-link" href="/unternehmen/ueber-uns/">
+                        
+                        <span class="link-name">
+                            Company
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/customers/">
+                        
+                        <span class="link-name">
+                            Our Customers
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/unternehmen/nachhaltigkeit/">
+                        
+                        <span class="link-name">
+                            Sustainability
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/unternehmen/arbeiten-bei-hetzner/">
+                        
+                        <span class="link-name">
+                            Career
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/pressroom/">
+                        
+                        <span class="link-name">
+                            Pressroom
+                        </span>
+                    </a>
+                
+            </div>
+        </div>
+    
+        <div class="footer-menu-sub">
+            <span class="footer-menu-headline">
+                Support
+                <i class="fa fa-angle-down"></i>
+            </span>
+            <div class="footer-menu-links">
+                
+                    <a class="footer-menu-link" href="/support-center/">
+                        
+                        <span class="link-name">
+                            Support Center
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/support-form/">
+                        
+                        <span class="link-name">
+                            Contact
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/unternehmen/downloads/">
+                        
+                        <span class="link-name">
+                            Downloads
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="https://docs.hetzner.com/">
+                        
+                        <span class="link-name">
+                            Hetzner Docs
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="https://status.hetzner.com/de">
+                        
+                        <span class="link-name">
+                            Status
+                        </span>
+                    </a>
+                
+            </div>
+        </div>
+    
+        <div class="footer-menu-sub">
+            <span class="footer-menu-headline">
+                Legal
+                <i class="fa fa-angle-down"></i>
+            </span>
+            <div class="footer-menu-links">
+                
+                    <a class="footer-menu-link" href="/legal/legal-notice/">
+                        
+                        <span class="link-name">
+                            Legal notice
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/legal/privacy-policy/">
+                        
+                        <span class="link-name">
+                            Data privacy
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/legal/system-policies/">
+                        
+                        <span class="link-name">
+                            System policies
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/legal/terms-and-conditions/">
+                        
+                        <span class="link-name">
+                            Terms and conditions
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="/legal/digital-services-act/">
+                        
+                        <span class="link-name">
+                            Digital Services Act
+                        </span>
+                    </a>
+                
+                    <a class="footer-menu-link" href="https://abuse.hetzner.com/">
+                        
+                        <span class="link-name">
+                            Abuse-Form
+                        </span>
+                    </a>
+                
+            </div>
+        </div>
+    
+</div>
+
+            </div>
+            <div class="footer-grey-section">
+    <div class="footer-grey-section-left">
+        <lvc-switch
+            theme="light"
+            data-toggle="modal"
+            data-target="#LangSettings"
+            class="lvc-btn-track"
+        >
+        </lvc-switch>
+        <div class="footer-copyright">
+    © 2025
+    Hetzner Online GmbH. All Rights Reserved.
+    
+        Prices 
+        <vat-holder></vat-holder>
+    
+</div>
+
+    </div>
+    <div class="footer-grey-section-right">
+        <a
+    class="footer-social-icon"
+    href="https://www.facebook.com/hetzner.de/"
+    aria-label="Visit us on facebook"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    <img
+        src="/_resources/themes/hetzner/images/icons/social-media/ICO-facebook-hover.svg?m=1760361459"
+        alt="facebook logo"
+    >
+</a>
+<a
+    class="footer-social-icon"
+    href="https://www.instagram.com/hetzner.online/"
+    aria-label="Visit us on instagram"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    <img
+        src="/_resources/themes/hetzner/images/icons/social-media/ICO-instagram-hover.svg?m=1760361459"
+        alt="instagram logo"
+    >
+</a>
+<a
+    class="footer-social-icon"
+    href="https://www.youtube.com/user/HetznerOnline/"
+    aria-label="Visit us on youtube"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    <img
+        src="/_resources/themes/hetzner/images/icons/social-media/ICO-youtube-hover.svg?m=1760361459"
+        alt="youtube logo"
+    >
+</a>
+<a
+    class="footer-social-icon"
+    href="https://mastodon.hetzner.social/@Hetzner"
+    aria-label="Visit us on Mastodon"
+    target="_blank"
+    rel="me"
+>
+    <img
+        src="/_resources/themes/hetzner/images/icons/social-media/ICO-mastodon-hover.svg?m=1760361459"
+        alt="mastodon logo"
+    >
+</a>
+<a
+    class="footer-social-icon"
+    href="https://twitter.com/Hetzner_Online/"
+    aria-label="Visit us on x.com (formerly twitter)"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    <img
+        src="/_resources/themes/hetzner/images/icons/social-media/ICO-x-twitter-hover.svg?m=1760361459"
+        alt="twitter logo"
+    >
+</a>
+<a
+    class="footer-social-icon"
+    href="https://www.linkedin.com/company/hetzner-online/"
+    aria-label="Visit us on linkedin"
+    target="_blank"
+    rel="noopener noreferrer"
+>
+    <img
+        src="/_resources/themes/hetzner/images/icons/social-media/ICO-linkedin-hover.svg?m=1760361459"
+        alt="linkedin logo"
+    >
+</a>
+
+    </div>
+</div>
+
+        </div>
+    </div>
+</footer>
+
+
+<div class="back-top animate animated"><i class="fa fa-arrow-up"></i></div>
+</body>
+</html>
+

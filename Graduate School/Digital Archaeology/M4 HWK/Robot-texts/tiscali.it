@@ -1,0 +1,8 @@
+User-agent: *
+Disallow : /services/
+Disallow : /system/
+Disallow : /export/system/
+Disallow : /.content/
+Disallow : /search/
+
+Sitemap: https://www.tiscali.it/sitemap.xml

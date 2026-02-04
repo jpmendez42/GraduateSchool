@@ -1,0 +1,124 @@
+User-agent: *
+Disallow: /ru/
+Disallow: /*cabinet
+Disallow: /*catalog
+Disallow: /shop/search
+Disallow: /shop/currency
+Disallow: /*/shop/currency
+Disallow: /shop/payment
+Disallow: /shop/order
+Disallow: /shop/import
+Disallow: /order
+Disallow: /*/order
+Disallow: /search
+Disallow: /login
+Disallow: /registration
+Disallow: /remind
+Disallow: /user/fingerprint
+Disallow: /default/error/log
+Disallow: /*default/index/language
+Disallow: /*default/index/index
+Disallow: /*color=
+Disallow: /*fwd=
+Disallow: /*country%5B%5D=
+Disallow: /*sale_from=
+Disallow: /*expr=
+Disallow: /index.php
+
+Clean-param: color
+Clean-param: PHPSESSID
+Clean-param: ipp
+Clean-param: fwd
+Clean-param: mobile
+Clean-param: cl
+Clean-param: _gl
+Clean-param: tpclid
+Clean-param: added_from
+Clean-param: added_to
+Clean-param: etext
+Clean-param: login
+Clean-param: currency
+Clean-param: 1
+
+User-agent: Yandex
+Disallow: /ru/
+Disallow: /action/page
+Disallow: /*cabinet
+Disallow: /*catalog
+Disallow: /*shop/search
+Disallow: /*shop/currency
+Disallow: /*shop/payment
+Disallow: /*shop/cdek/pvz
+Disallow: /*veb/*
+Disallow: /*yookassa/*
+Disallow: /*shop/order
+Disallow: /*shop/import
+Disallow: /*order/*
+Disallow: /*search
+Disallow: /*search/manufacturer/
+Disallow: /*login
+Disallow: /*registration
+Disallow: /*remind
+Disallow: /*user/fingerprint
+Disallow: /*default/error/log
+Disallow: /*default/index/language
+Disallow: /*default/index/index
+Disallow: /*color=
+Disallow: /index.php
+
+Crawl-delay: 10
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&roistat&yclid&gclid&lng&color&PHPSESSID&ipp&fwd&mobile&sale_from&price_to&price_to_kzt&promo_brand&_gl&tpclid&etext&ykilp&yyclyyd&ykilt&yklid&gad_source&gad&yandex_ad_order_id&gbraid&ybaip
+
+User-agent: my-tiny-bot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: AntBot
+Disallow: /
+
+User-agent: SiteAuditBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-BA
+Disallow: /
+
+User-agent: SemrushBot-SI
+Disallow: /
+
+User-agent: SemrushBot-SWA
+Disallow: /
+
+User-agent: SemrushBot-CT
+Disallow: /
+
+User-agent: SplitSignalBot
+Disallow: /
+
+User-agent: SemrushBot-COUB
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: netEstate NE Crawler
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: GeedoBot
+Crawl-delay: 60
+
+User-agent: SeekportBot
+Crawl-delay: 60
+
+User-agent: MJ12bot
+Disallow: /
+
+Host: trikotazh.by
+Sitemap: https://trikotazh.by/sitemapxml

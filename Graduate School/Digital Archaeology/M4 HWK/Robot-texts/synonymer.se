@@ -1,0 +1,43 @@
+User-agent: MJ12bot
+Crawl-Delay: 1
+
+User-agent: Pinterest
+Crawl-delay: 1
+
+User-agent: AhrefsSiteAudit
+Crawl-delay: 10
+
+User-agent: AhrefsBot
+Crawl-delay: 10
+
+User-agent: msnbot
+Crawl-delay: 1
+
+User-agent: bingbot
+Crawl-delay: 1
+
+User-agent: sogou spider
+Crawl-delay: 15
+
+User-agent: Sogou Pic Spider
+Crawl-delay: 5
+
+User-agent: Sogou head spider
+Crawl-delay: 5
+
+User-agent: Sogou web spider
+Crawl-delay: 5
+
+User-agent: Sogou Orion spider
+Crawl-delay: 5
+
+User-agent: Sogou-Test-Spider
+Crawl-delay: 5
+
+User-agent: Yandex
+Crawl-delay: 2
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.synonymer.se/sitemap.xml

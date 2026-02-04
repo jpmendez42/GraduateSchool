@@ -1,0 +1,8 @@
+# Default robots.txt
+# Date 17.09.2025
+
+User-agent: *
+Disallow: /invehicle_apps
+
+# Sitemaps
+Sitemap: https://www.man.eu/sitemap-index.xml

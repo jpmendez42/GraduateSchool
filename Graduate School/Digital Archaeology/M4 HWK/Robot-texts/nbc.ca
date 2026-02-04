@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /en/search.html?q=*
+Disallow: /en/files/
+Disallow: /en/sbip/
+Disallow: /en/personal/banking/boxes/
+Disallow: /en/personal/credit-cards/mastercard-credit-cards/boxes/
+Disallow: /fr/
+Disallow: *tagID=*
+Disallow: *page=*
+Disallow: /content/bnc/en/accueil/*
+Disallow: /xdp/
+Disallow: /forms/fragment/
+Disallow: /forms/aqs-test/
+Disallow: /forms/aqstest/
+Noindex: /content/*
+Disallow: /content/*
+Noindex:  /bin/*
+Disallow: /bin/*
+Allow: /content/dam/*
+
+Sitemap: https://www.nbc.ca/sitemap.xml
+Sitemap: https://www.nbc.ca/sitemap-en.xml

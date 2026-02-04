@@ -1,0 +1,58 @@
+User-Agent: *
+Sitemap: https://autoc-one.jp/sitemap_xml/sitemap_index.xml
+Allow: /
+# used USED-459 Block specific parameters
+Disallow: /used/searchv2/*makerFullCodes*
+Disallow: /used/searchv2/*modelFullCodes*
+Disallow: /used/searchv2/*grades*
+Disallow: /used/searchv2/*prefecture*
+Disallow: /used/searchv2/*cities*
+Disallow: /used/searchv2/*year*
+Disallow: /used/searchv2/*price1*
+Disallow: /used/searchv2/*price2*
+Disallow: /used/searchv2/*distance*
+Disallow: /used/searchv2/*carTypes*
+Disallow: /used/searchv2/*equipments*
+Disallow: /used/searchv2/*safetyPerformances*
+Disallow: /used/searchv2/*environmentWelfares*
+Disallow: /used/searchv2/*bodyType*
+Disallow: /used/searchv2/*interiors*
+Disallow: /used/searchv2/*exteriors*
+Disallow: /used/searchv2/*colors*
+Disallow: /used/searchv2/*etcs*
+Disallow: /used/searchv2/*supercharger*
+Disallow: /used/searchv2/*engine*
+Disallow: /used/searchv2/*drive*
+Disallow: /used/searchv2/*handle*
+Disallow: /used/searchv2/*doorNumber*
+Disallow: /used/searchv2/*slideDoor*
+Disallow: /used/searchv2/*transMission*
+Disallow: /used/searchv2/*capacity*
+Disallow: /used/searchv2/*navi*
+Disallow: /used/searchv2/*audio*
+Disallow: /used/searchv2/*warranty*
+
+# AUCTION-258
+Disallow: /ullo/auction_information/
+# CARPARTS-154
+Disallow: /shop/help/law/
+
+# ULLO2-2709
+Disallow: /ullo/api/yearList/
+Disallow: /ullo/api/gradeList4Bidded/
+Disallow: /ullo/api/usedModel4Modal/
+Disallow: /ullo/api/prefectureList/
+Disallow: /ullo/api/gradeList/
+Disallow: /ullo/api/townList/
+Disallow: /catalog/api/search/
+Disallow: /lease/api/countPageView/countUp/
+Disallow: /used/api/disp-error/
+Disallow: /lease/api/order/progress/
+Disallow: /article/api/getRecentArticleList4Tab/
+Disallow: /api/makers/
+
+# 240815 bingbot 対策
+# 240925 Crawl-Delayを1に変更
+# 240930 Crawl-Delayを2に変更
+User-agent: bingbot
+Crawl-Delay: 2

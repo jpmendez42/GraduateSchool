@@ -1,0 +1,11 @@
+User-agent: Googlebot-Image
+Disallow: /images/
+
+User-agent: *
+Disallow: /BilderPublikationen/
+
+User-agent: Twitterbot
+allow: /TWITTER/
+
+Sitemap: https://www.bmz.de/service-sitemap-ee4d82b2cdae1e61dab443bdab855e78-sitemap_index.xml
+Sitemap: https://www.bmz.de/service-sitemap-bca1a9069dd36d0a40e7783a263b767b-sitemap_index.xml

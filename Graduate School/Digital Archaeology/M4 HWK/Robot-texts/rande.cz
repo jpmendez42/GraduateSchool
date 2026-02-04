@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /payu/
+Disallow: /*?norobot
+Disallow: /mimo-provoz*
+Sitemap: https://www.rande.cz/sitemap.xml

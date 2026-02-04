@@ -1,0 +1,23 @@
+User-agent: *
+Disallow: /de/
+Disallow: /AreaClienti/
+Disallow: /areaclienti/
+Disallow: /AreaPartner/
+Disallow: /areapartner/
+Disallow: /Intranet/
+Disallow: /intranet/
+Disallow: /note-legali/
+Disallow: /areatecnica
+Disallow: /offerta-fisso/servizi/*/?ref=menu
+Disallow: /corporate/partner/
+Disallow: /corporate/contatti/*/
+Disallow: /?s=*
+Disallow: /corporate/en/?s=*
+Disallow: /corporate/en/search/*
+Disallow: /en/search/*
+Disallow: /search/*
+Disallow: /ATR/areatecnica/*
+
+Allow: /
+
+Sitemap: https://www.vianova.it/sitemap.xml

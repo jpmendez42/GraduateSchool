@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# folders
+Disallow: /typo3/
+
+Disallow: /typo3temp/*
+Allow: /typo3temp/*.css
+Allow: /typo3temp/*.css.*.gzip
+Allow: /typo3temp/*.js
+Allow: /typo3temp/*.js.*.gzip
+Allow: /typo3temp/*.jpg
+Allow: /typo3temp/*.gif
+Allow: /typo3temp/*.png
+
+# L=0 is the default language
+Disallow: /*?L=0*
+Disallow: /*&L=0*
+
+# parameters
+Disallow: /*?id=*               # non speaking URLs
+Disallow: /*&id=*
+
+Disallow: /*?type=98*
+Disallow: /*&type=98*
+
+Disallow: /*tx_powermail_pi1    # no powermail thanks pages

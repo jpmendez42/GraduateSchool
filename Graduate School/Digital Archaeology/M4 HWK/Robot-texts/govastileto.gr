@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*?*page=
+Sitemap: https://www.govastileto.gr/sitemap.xml
+Sitemap: https://www.govastileto.gr/news-sitemap.xml
+
+User-Agent: bingbot
+Crawl-delay: 1
+Sitemap: https://www.govastileto.gr/sitemap.xml

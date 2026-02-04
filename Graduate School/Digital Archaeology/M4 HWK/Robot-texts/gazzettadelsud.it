@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /errorpages/
+Disallow: /articoli/ajax/
+Disallow: /articoli/includes/
+Disallow: /speciali/english/
+Disallow: /includes/
+Disallow: /*?refresh_ce
+Disallow: /*?p= 
+
+Sitemap: https://gazzettadelsud.it/sitemap.xml
+Sitemap: https://calabria.gazzettadelsud.it/sitemap.xml
+Sitemap: https://catanzaro.gazzettadelsud.it/sitemap.xml
+Sitemap: https://cosenza.gazzettadelsud.it/sitemap.xml
+Sitemap: https://reggio.gazzettadelsud.it/sitemap.xml
+Sitemap: https://messina.gazzettadelsud.it/sitemap.xml

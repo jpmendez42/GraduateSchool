@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Disallow: /Shibboleth.sso/
+Disallow: /go/
+Disallow: /typo3temp/pics/
+Disallow: /beispielseiten/
+Disallow: /hauptcampus/beispielseiten/
+Disallow: /gestaltung/beispielseiten/
+
+User-agent: MJ12bot
+Disallow: /
+
+Sitemap: https://www.hochschule-trier.de/sitemap.xml
+Sitemap: https://www.hochschule-trier.de/en/sitemap.xml

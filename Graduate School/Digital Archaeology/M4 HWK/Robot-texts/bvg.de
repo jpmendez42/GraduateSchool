@@ -1,0 +1,13 @@
+user-agent: *
+disallow: /*?*input=
+disallow: /*?*S=
+disallow: /*?*Z=
+disallow: /*?*timeSel=
+disallow: /de/bvg-konto
+disallow: /en/bvg-account
+
+sitemap: https://www.bvg.de/.rest/sitemap/indexes/types/bvg-beta/de
+sitemap: https://www.bvg.de/.rest/sitemap/indexes/types/bvg-beta/en
+sitemap: https://www.bvg.de/.rest/sitemap/images/bvg-beta
+sitemap: https://www.bvg.de/.rest/sitemap/jobs
+  

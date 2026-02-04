@@ -1,0 +1,25 @@
+User-Agent: *
+Disallow: /*{*
+Disallow: /api-merlin*
+Disallow: /admin*
+Disallow: /node*
+Disallow: /files*
+Disallow: /*?*
+Disallow: /*.aspx*
+Disallow: /*.php*
+Disallow: /canary-test/*
+Allow: /*?page=*
+Allow: /*?cmp=*
+
+User-Agent: upday
+Allow: /rss_latest_contents?ptt=*
+
+User-agent: GPTBot
+Disallow: / 
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://www.nationalgeographic.fr/sitemap/sitemap.xml
+Sitemap: https://www.nationalgeographic.fr/sitemap-video.xml
+Sitemap: https://www.nationalgeographic.fr/google-news.xml

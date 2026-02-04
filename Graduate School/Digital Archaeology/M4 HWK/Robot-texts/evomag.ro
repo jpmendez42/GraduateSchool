@@ -1,0 +1,47 @@
+# ───────────────────────────────────────────────────────────────
+# SITEMAPS
+Sitemap: https://www.evomag.ro/sitemap_index.xml
+Sitemap: https://www.evomag.ro/blog/sitemap_index.xml
+
+# ───────────────────────────────────────────────────────────────
+# MAIN SITE (all other URLs)
+User-agent: *
+Allow: /
+Disallow: /wishlist/
+Disallow: /backend
+Disallow: /cart/sendOrder
+Disallow: /doofinder/
+Disallow: /comment/
+Disallow: /productFront/*
+Disallow: /frontend/*
+Disallow: /GetStockForCorporate?id=*
+Disallow: /PushUsDataLayer
+Disallow: /ajax/rateTBI?price*
+Disallow: /ajax/RateLibraBank?loan*
+Disallow: /*2pau
+Disallow: /*2ptt
+Disallow: /*2ptu
+Disallow: /*2prp
+Disallow: /*2pdlst
+Allow: */assets/*
+Allow: */css/*
+
+
+# nu permitem indexare pe mai multe filtre, dar va functiona un singur filtru
+Disallow: /*/filtru/*,*
+# permitem pe paginare
+Allow: */filtru/pagina*
+
+Allow: /telefoane-tablete-accesorii-telefoane/filtru/model:+apple+iphone+16
+
+# ───────────────────────────────────────────────────────────────
+# BLOG
+User-agent: *
+Disallow: /blog/wp-admin/
+Allow:    /blog/wp-admin/admin-ajax.php
+Disallow: /blog/wp-login.php
+
+# ───────────────────────────────────────────────────────────────
+# GOOGLEBOT-NEWS (for News indexing)
+User-agent: Googlebot-News
+Allow: /blog/

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /dotAdmin/
+Disallow: /maintenance
+Sitemap: https://www.playalberta.ca/api/vtl/sitemap

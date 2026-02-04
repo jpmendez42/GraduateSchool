@@ -1,0 +1,22 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+# robots.txt for http://www.prace.cz/
+
+User-agent: *
+Disallow: /pd/
+Disallow: /jd/
+Disallow: /nabidka-odpoved/
+Disallow: /search/
+Disallow: /hledat/
+Disallow: /searchzps/
+Disallow: /cv/
+Disallow: /muj/
+Disallow: /hodnoceni/
+Disallow: /napiste-nam/1
+Disallow: /napiste-nam/2
+Disallow: /napiste-nam/UP-
+Sitemap: https://www.prace.cz/sitemap/sitemap.xml
+
+User-agent: CCBot
+Disallow: /

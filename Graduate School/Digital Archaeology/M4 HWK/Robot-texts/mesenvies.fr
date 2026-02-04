@@ -1,0 +1,60 @@
+User-agent: *
+Disallow: /WEB-INF/
+Disallow: /tmp/
+
+User-agent: MyOnID
+Disallow: /
+
+User-agent: 123People
+Disallow: /
+
+User-agent: Pipl
+Disallow: /
+
+User-agent: Yasni
+Disallow: /
+
+User-agent: Vebidoo
+Disallow: /
+
+User-agent: GPTBot
+Allow: /*.html
+Allow: /*?r=82p*
+Allow: /$
+Allow: /robots.txt
+Disallow: /
+
+User-agent: CCBot
+Allow: /*.html
+Allow: /*?r=82p*
+Allow: /$
+Allow: /robots.txt
+Disallow: /
+
+User-agent: PerplexityBot
+Allow: /*.html
+Allow: /*?r=82p*
+Allow: /$
+Allow: /robots.txt
+Disallow: /
+
+User-agent: anthropic-ai
+Allow: /*.html
+Allow: /*?r=82p*
+Allow: /$
+Allow: /robots.txt
+Disallow: /
+
+User-agent: Claude-Web
+Allow: /*.html
+Allow: /*?r=82p*
+Allow: /$
+Allow: /robots.txt
+Disallow: /
+
+User-agent: Google-Extended
+Allow: /*.html
+Allow: /*?r=82p*
+Allow: /$
+Allow: /robots.txt
+Disallow: /

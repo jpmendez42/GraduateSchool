@@ -1,0 +1,65 @@
+# www.novobanco.pt robots.txt
+#          
+# Knock Knock!
+# Who's there?
+# Not a robot!
+# Ok human, I don't know what you're looking for, but we're always open to meeting new people.
+#          
+# If you think you have what it takes to belong to this elite team, visit https://www.novobanco.pt/recrutamento and together we will make the future.
+
+User-agent: *
+
+Disallow: /pdfs/*
+Disallow: /campanhas*
+Disallow: /remarketing*
+Disallow: /app-webviews*
+Disallow: /ecra-tela*
+Disallow: /online-webviews*
+Disallow: /validacoes*
+Disallow: /*.html
+Disallow: /error*
+Disallow: /english/login*
+Disallow: /empresas/login*
+Disallow: /futuro-em-dia/categorias-menu*
+Disallow: /futuro-em-dia/tags*
+Disallow: /particulares/fed-menu*
+
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: megaindex.com
+Disallow: /
+
+User-agent: sogou spider
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Qwantify
+Disallow: /
+
+User-agent: indeks.pt
+Disallow: /
+
+User-agent: observar.pt
+Disallow: /
+
+
+Sitemap: https://www.novobanco.pt/pt.sitemap.xml
+
+
+
+#                                                                 (((/                                                                     
+#                                                                 (((/                                                                     
+#          /(((((((((     .((((((((   ((((    /(((,  ,(((((((/    ((((((((((    (((((((((    (((((((((,     (((((((((  .((((((((                               
+#          ((((   ((((,  ((((   ((((( *(((/   (((( ,((((   ((((/  (((/   ((((/  ,(    ((((/ *(((    ((((  (((((   .(  ((((   (((((                             
+#          ((((    (((/ ((((     ((((  ((((  ((((  ((((     ((((  (((/    ((((  ((((((((((( *(((    ((((  ((((       ((((     ((((                             
+#          ((((    (((/ ,((((   .((((   ((((/(((   /((((   *((((  (((/   ((((/ ((((    (((( *(((    ((((  ((((     . ,((((   .((((                             
+#          ((((    (((/   (((((((((      ((((((      (((((((((    ((((((((((    ((((((((((( *(((    ((((   *(((((((((  (((((((((                               
+#                                                                                                                                              
+#          Juntos fazemos o futuro.

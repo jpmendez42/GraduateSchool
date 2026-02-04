@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en" data-version="1.0.2">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="/favicon.ico" />
+    <title>Bucketeer Console</title>
+    <script type="module" crossorigin src="/assets/index-yJROL5mz.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/lodash-xq1gYDK7.js">
+    <link rel="modulepreload" crossorigin href="/assets/charts-G8gFq-HT.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-DkZaOxLS.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-date-range-C1FIthZ3.js">
+    <link rel="modulepreload" crossorigin href="/assets/monaco-DGaeO5C0.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-chartjs-2-KAixN1Oc.js">
+    <link rel="modulepreload" crossorigin href="/assets/react-datepicker-Bbp_VUwj.js">
+    <link rel="stylesheet" crossorigin href="/assets/react-date-range-Bw916Bj0.css">
+    <link rel="stylesheet" crossorigin href="/assets/react-datepicker-DdjxYr1F.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-wcv2mJhm.css">
+  </head>
+
+  <body>
+    <script src="/static/js/env.js"></script>
+    <div id="root"></div>
+  </body>
+</html>

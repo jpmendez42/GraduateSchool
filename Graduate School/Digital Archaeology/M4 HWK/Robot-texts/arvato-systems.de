@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Allow: /arvato-systems/*
+Disallow: /loginpage/
+Disallow: /bot-traffic.xyz
+
+Sitemap: https://www.arvato-systems.de/blueprint/servlet/sitemap?siteId=7596fa11e6689c5c62cf2d9c603e9986

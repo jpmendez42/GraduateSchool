@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /my/
+Disallow: /ad/
+Disallow: /navigation*
+Disallow: /anrufen/
+Disallow: /lmrpc/
+Disallow: /manufacturers/
+Disallow: /ajax/haendler/
+Disallow: /xhr/
+Disallow: */side-offer
+Disallow: /u/*
+Disallow: /cdn-cgi/

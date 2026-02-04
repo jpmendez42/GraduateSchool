@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-login.php
+Disallow: /wp/wp-admin/
+Disallow: /wp/wp-login.php
+
+# Keeping in mind that there might be a need of admin ajax to be used in some cron jobs or client side, so we need to allow it.
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp/wp-admin/admin-ajax.php
+
+Disallow: /.well-known/
+Disallow: /apple-app-site-association
+
+Sitemap: https://www.spiele-palast.de/sitemap.xml

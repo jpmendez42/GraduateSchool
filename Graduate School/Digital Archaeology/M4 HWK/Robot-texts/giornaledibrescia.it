@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://www.giornaledibrescia.it/sitemap.xml
+Sitemap: https://www.giornaledibrescia.it/sitemap/news/sitemap.xml
+
+Disallow: /filedelivery/
+Disallow: /gdbonline/
+Disallow: /or4/

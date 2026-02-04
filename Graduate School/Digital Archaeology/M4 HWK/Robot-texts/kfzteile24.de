@@ -1,0 +1,44 @@
+User-agent: *
+Disallow: /*node
+Disallow: /*ktypnr
+Disallow: /*dlnr
+Disallow: /*hernr
+Disallow: /*addKfzToGarage
+Disallow: /*forceChooseType
+Disallow: /*warenkorb
+Disallow: /*shoppingcart
+Disallow: /*articlesearch
+Disallow: /*.htm$
+Disallow: /*rs=1
+Disallow: /index.cgi?rm=carSelectionOptionsJson
+Disallow: /index.cgi?rm=slideShowBannersJson
+Disallow: /index.cgi?rm=articleDetailsJson
+Disallow: /index.cgi?rm=articleDetailsTypes
+Disallow: /*showCarSelection
+
+User-agent: Googlebot
+Disallow: /*node
+Disallow: /*ktypnr
+Disallow: /*dlnr
+Disallow: /*hernr
+Disallow: /*addKfzToGarage
+Disallow: /*forceChooseType
+Disallow: /*warenkorb
+Disallow: /*shoppingcart
+Disallow: /*articlesearch
+Disallow: /*.htm$
+Disallow: /*rs=1
+Disallow: /index.cgi?rm=carSelectionOptionsJson
+Disallow: /index.cgi?rm=slideShowBannersJson
+Disallow: /index.cgi?rm=articleDetailsJson
+Disallow: /index.cgi?rm=articleDetailsTypes
+Disallow: /*showCarSelection
+
+User-agent: Googlebot-Image
+User-agent: Adsbot-Google-Mobile
+User-agent: Adsbot-Google
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: GPTBot
+Disallow: /

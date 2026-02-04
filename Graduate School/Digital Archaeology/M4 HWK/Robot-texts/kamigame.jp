@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*.html/comments$
+
+Sitemap: https://kamigame.jp/sitemap.xml
+Sitemap: https://kamigame.jp/wiki/sitemap.xml

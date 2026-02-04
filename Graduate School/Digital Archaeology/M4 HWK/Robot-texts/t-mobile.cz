@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: *?p_p_auth=*
+Disallow: *?p_auth=*
+Disallow: *?pers_position=*
+Disallow: *?p_p_id=*
+Disallow: *?nexturl=*
+Disallow: *?_rcorevccm_* 
+Disallow: /kosik*
+Sitemap: https://www.t-mobile.cz/sitemap.xml

@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /*?*page=
+Disallow: /readme.html
+
+Sitemap: https://www.athensmagazine.gr/sitemap.xml
+Sitemap: https://www.athensmagazine.gr/news-sitemap.xml

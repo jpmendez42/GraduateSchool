@@ -1,0 +1,27 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Disallow: /inventory
+Disallow: /price
+Disallow: /&taxa
+Disallow: /?taxa
+Disallow: /taxon
+Disallow: /searchtext
+Disallow: /nakupni-kosik/*
+Disallow: /muj-ucet/*
+Disallow: /logout
+Disallow: /order/*
+Disallow: /api/
+Disallow: /_nuxt/
+
+User-agent: MJ12bot
+User-agent: Sogou Spider
+User-agent: DomainCrawler/3.0
+User-agent: YandexBot
+User-agent: Yandex
+User-agent: PetalBot
+User-agent: Linguee Bot
+User-agent: AhrefsBot
+Disallow: /
+
+Sitemap: https://www.tetadrogerie.cz/sitemap_index.xml
+# END nuxt-robots

@@ -1,0 +1,141 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: MegaIndex
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Mediatoolkitbot
+Disallow: /
+
+User-agent: Seekport Crawler
+Disallow: /
+
+User-agent: ZoominfoBot
+Disallow: /
+
+User-agent: BarkRowler
+Disallow: /
+
+User-agent: AspiegelBot
+Disallow: /
+
+User-agent: *
+Crawl-delay: 5
+
+Allow: /modules/gifts/css/
+Allow: /modules/gifts/img/
+Allow: /img/favicon.ico
+
+Disallow: /classes/
+Disallow: /cme_scripts/
+Disallow: /config/
+Disallow: /controller/
+Disallow: /cron/
+Disallow: /faktury/
+Disallow: /img/
+Disallow: /mails/
+Disallow: /modules/
+Disallow: /override/
+Disallow: /tools/
+Disallow: /vendor/
+Disallow: /vendor80/
+Disallow: /xml_feeds/
+
+Disallow: /*orderby=
+Disallow: /*orderway=
+Disallow: /*tag=
+Disallow: /*id_currency=
+Disallow: /*search_query=
+Disallow: /*id_lang=
+Disallow: /*back=
+Disallow: /*ajax=
+Disallow: /*n=
+Disallow: /*?add&id_product=
+
+Disallow: /address.php
+Disallow: /addresses.html
+Disallow: /allow-partial-delivery.php
+Disallow: /api.php
+Disallow: /attachment.php
+Disallow: /authentication.php
+Disallow: /captcha.php
+Disallow: /cart.php
+Disallow: /download-ebook.php
+Disallow: /email_qr_code.php
+Disallow: /failed-order.php
+Disallow: /footer.php
+Disallow: /fragrantica.php
+Disallow: /get-file.php
+Disallow: /guest-tracking.php
+Disallow: /header.php
+Disallow: /history.php
+Disallow: /images.inc.php
+Disallow: /init.php
+Disallow: /newsletter-add.php
+Disallow: /order-confirmation.php
+Disallow: /order-detail.php
+Disallow: /order-opc.php
+Disallow: /pagination.php
+Disallow: /password.php
+Disallow: /product-sort.php
+Disallow: /profile.php
+Disallow: /search.php
+Disallow: /search-ssl.php
+Disallow: /second-hand.php
+Disallow: /show-newsletter.php
+Disallow: /statistics.php
+Disallow: /stores.php
+Disallow: /subscription.php
+
+Disallow: /adresa
+Disallow: /adresy
+Disallow: /anketa
+Disallow: /api
+Disallow: /autentifikace
+Disallow: /dodaci-list
+Disallow: /ekniha/stazeni
+Disallow: /faktury
+Disallow: /gpwebpay/platba
+Disallow: /historie-objednavek
+Disallow: /identita
+Disallow: /kamenne-obchody
+Disallow: /kosik
+Disallow: /nedokoncenaObjednavka
+Disallow: /newsletter
+Disallow: /objednavka
+Disallow: /obnoveni-hesla
+Disallow: /potvrzeni-vyherce
+Disallow: /povolit-castecnou-expedici
+Disallow: /predplatne
+Disallow: /prihlaseni-k-newsletteru
+Disallow: /profil
+Disallow: /qr
+Disallow: /rychla-objednavka
+Disallow: /show-newsletter
+Disallow: /slevove-kupony
+Disallow: /slevy
+Disallow: /sledovani-objednavky
+Disallow: /sledovani-pro-navsteniky
+Disallow: /texty
+Disallow: /ucet
+Disallow: /vyhledavani
+Disallow: /vykup-knih
+Disallow: /vykup-knih-formular
+Disallow: /zebricek
+
+Sitemap: https://www.megaknihy.cz/sitemap.xml

@@ -1,0 +1,32 @@
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /tappohp/
+Disallow: /*/feed/$
+Disallow: /author/*/page/*
+Disallow: /sliderhp/
+Disallow: /oroscopo/settimana/
+Disallow: /periodicita/
+Disallow: /search/
+Disallow: */?s=
+Disallow: /page/
+Disallow: /*?view=single*
+Disallow: /*app_v2=
+Disallow: /*/?amp=1
+Disallow: */embed/
+# Disallow: /ngg_tag/
+
+Sitemap: https://www.amica.it/wp-sitemap.xml
+Sitemap: https://www.amica.it/sitemap-news.xml/

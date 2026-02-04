@@ -1,0 +1,81 @@
+<!DOCTYPE html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"><link rel="shortcut icon" type=image/png href=/static/favicon.ico><title>PTisp | hosting, alojamento, VPS, Cloud, Servidores, Domínios, certificados SSL.</title><meta name=viewport content="width=device-width,initial-scale=1"><meta name=description content="Alojamento Web, Registo de Dominios .PT .COM .NET .INFO .EU .ORG, Servidores Dedicados, Servidores Cloud, VPS, Backups, Certificados SSL."><meta name=keywords content="dominios .pt, registar dominio, registo de dominios, alojamento web, alojamento web nacional, alojamento de sites, revenda de alojamento, alojamento, revenda, dominios, alojamento windows, servidores dedicados, nacional, .PT, .COM, .NET, .COM.PT, servers, cloud, alojamento cloud, domains, resale, services, SSL, Email, On Demand, anti-virus, antispam, servicos internet"><meta name=author content=PTisp><meta property=og:url content=https://ptisp.pt><meta property=og:title content="PTisp. Wherever internet can take you..."><meta property=og:image content=https://ptisp.pt/assets/img/preview.jpg><meta property=og:description content="Alojamento Web, Registo de Dominios .PT .COM .NET .INFO .EU .ORG, Servidores Dedicados, Servidores Cloud, VPS, Backups, Certificados SSL."><script>window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('consent', 'default', {
+      'ad_storage': 'denied',
+      'analytics_storage': 'denied',
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'personalization_storage': 'denied',
+      'functionality_storage': 'denied',
+      'wait_for_update': 2000
+    });
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-NDFGDFD');</script><script>!function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '4105378143078062');
+    fbq('track', 'PageView');</script><noscript><img height=1 width=1 style=display:none src="https://www.facebook.com/tr?id=4105378143078062&ev=PageView&noscript=1"></noscript><script async src="https://www.googletagmanager.com/gtag/js?id=AW-1062189725"></script><script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-1062189725');</script><link href=/static/css/vendor.2db5123145ac761ee729.css rel=stylesheet><link href=/static/css/app.6fecd85716e9cfd0a1af.css rel=stylesheet></head><body><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NDFGDFD" height=0 width=0 style=display:none;visibility:hidden></iframe></noscript><script>(function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    ga('create', 'UA-10606926-1', 'auto');
+    ga('send', 'pageview');
+    ga('require', 'ecommerce');</script><script>TRK = {
+      domain:'ptisp.pt',
+      teamblue: 1,
+      spa: 1,
+      callback: function(){
+        track_page();
+      }
+  }</script><script src=https://motu.teamblue.services/js/skeletor.js></script><script type=text/javascript>let CMP = {
+      company: "ptisp.pt",
+      callback: function () {}
+    };</script><script type=text/javascript src=https://srv.cmp-teamblue.services/js/cmp_standalone.min.js></script><script>(function () {
+      var s = document.createElement("script"),
+        e = !document.body ? document.querySelector("head") : document.body;
+      s.src = "https://eu.acsbapp.com/apps/app/dist/js/app.js";
+      s.async = true;
+      s.onload = function () {
+        acsbJS.init({
+          statementLink: "",
+          footerHtml: '<a href="https://www.accessiway.com/" target="_blank">AccessiWay. The Web Accessibility Solution</a>',
+          hideMobile: false,
+          hideTrigger: false,
+          language: localStorage.getItem('ptisp-lang') || 'pt',
+          position: "left",
+          leadColor: "#0069fb",
+          triggerColor: "#004fce",
+          triggerRadius: "50%",
+          triggerPositionX: "left",
+          triggerPositionY: "bottom",
+          triggerIcon: "people",
+          triggerSize: "medium",
+          triggerOffsetX: 20,
+          triggerOffsetY: 20,
+          mobile: {
+            triggerSize: "medium",
+            triggerPositionX: "left",
+            triggerPositionY: "bottom",
+            triggerOffsetX: 10,
+            triggerOffsetY: 10,
+            triggerRadius: "50%",
+          },
+        });
+      };
+      e.appendChild(s);
+    })();</script><div id=app></div><script src=/static/js/manifest.001bc13b7075a7e759d1.js></script><script src=/static/js/vendor.db1c2ea864114bd794da.js></script><script src=/static/js/app.a79ff093adfeb2a81872.js></script></body></html>

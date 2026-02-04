@@ -1,0 +1,19 @@
+User-agent: *
+Disallow:/fileadmin/_temp_/
+Disallow:/t3lib/
+Allow:/typo3conf/ext/de_site_package/Resources/Public/Dist/Icons/*
+Disallow:/*?tx_depresubscription
+Disallow:/*contactez-nous?objet
+Disallow:/*?no_cache=
+Disallow:/*cHash=
+Disallow:/acces_admin
+Disallow:/*?id=*
+Disallow:/*?query=*
+Disallow:/styleguide
+Disallow:/*?tx_decontact_contact*
+Disallow:/*?tx_deformulaire[contact_type]*
+Disallow:/*?msclkid=
+Disallow:/recherche
+Disallow:/rb*
+
+Sitemap: https://www.totalenergies.fr/?type=1533906435

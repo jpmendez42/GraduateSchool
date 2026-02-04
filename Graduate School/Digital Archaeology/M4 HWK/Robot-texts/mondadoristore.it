@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /app/
+Disallow: /image/
+Disallow: /contatti/
+Disallow: /test-vetrine
+Disallow: /convenzioni/
+Disallow: /services/
+Disallow: /search
+
+Sitemap: https://www.mondadoristore.it/sitemap.xml

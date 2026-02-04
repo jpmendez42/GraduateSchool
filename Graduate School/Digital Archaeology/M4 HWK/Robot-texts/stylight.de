@@ -1,0 +1,86 @@
+#You've found us!
+
+# If you can actually read this and understand then we'd love to working with intelligent folks like you, we're sure you're not a robot.
+
+User-agent: AdsBot-Google
+User-agent: APIs-Google
+User-agent: Mediapartners-Google
+User-agent: AdsBot-Google-Mobile
+Disallow: /apiGetSortList.action
+Disallow: /apiMultiselectFilterApply.action
+Allow: /*.action
+
+User-agent: Googlebot-Image
+User-agent: Googlebot
+User-agent: Bingbot
+User-agent: YandexBot
+Disallow: /*.action
+Disallow: /*tag=
+Disallow: /*freeShipping=
+Disallow: /*brand=
+Disallow: /*shop=
+Disallow: /*sortBy=
+Disallow: /*minPrice=
+Disallow: /*maxPrice=
+Disallow: /*searchstring=
+Disallow: */checkout/*
+Disallow: /insights/reports/?cat=
+Disallow: /insights/stylight-now/?cat=
+Disallow: /*excludeShop=
+Allow: /Prodotto/
+Allow: /Producto/
+Allow: /Produto/
+Allow: /Product/
+Allow: /Item/
+Allow: /Produkt/
+Allow: /Artikel/
+Allow: /Article/
+
+
+#block crawlers
+User-agent: AhrefsBot
+User-agent: SemrushBot
+User-agent: Screaming Frog SEO Spider
+User-agent: BLEXBot
+User-agent: dotbot
+User-agent: MJ12bot
+User-agent: Barkrowler
+User-agent: sistrix
+User-agent: Optimizer
+User-agent: GPTBot
+User-agent: EtaoSpider
+User-agent: CCBot
+User-agent: SearchmetricsBot #from conductor
+User-agent: botify
+User-agent: RyteBot
+User-agent: DataForSeoBot
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: *
+Disallow: */checkout/*
+Disallow: /*.action
+Disallow: /redirect.action
+Disallow: /redirectRealLink.action
+Disallow: /soldout.clickout
+Disallow: /track/
+Disallow: /api/
+Disallow: /Prodotto/
+Disallow: /Producto/
+Disallow: /Produto/
+Disallow: /Product/
+Disallow: /Item/
+Disallow: /Produkt/
+Disallow: /Artikel/
+Disallow: /Article/
+Disallow: /*tag=
+Disallow: /*freeShipping=
+Disallow: /*brand=
+Disallow: /*shop=
+Disallow: /*sortBy=
+Disallow: /*minPrice=
+Disallow: /*maxPrice=
+Disallow: /*searchstring=
+Disallow: /insights/reports/?cat=
+Disallow: /insights/stylight-now/?cat=
+Disallow: /*excludeShop=

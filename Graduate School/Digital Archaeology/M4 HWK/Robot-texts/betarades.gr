@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Disallow: /*act=
+Disallow: /wp-content/themes/betarades/assets/sounds/live-betting-sound.mp3
+Disallow: /wp-content/themes/betarades/assets/sounds/goal.mp3
+Disallow: /goto/*
+Disallow: /?wordfence_lh*
+Disallow: /?s=*
+Disallow: /*.mp3
+Disallow: /wp-json/
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: GPTBot
+Crawl-delay: 2
+
+Sitemap: https://www.betarades.gr/sitemap_index.xml

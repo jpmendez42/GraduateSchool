@@ -1,0 +1,22 @@
+User-agent: *
+
+Sitemap: https://www.knihydobrovsky.cz/sitemap/sitemap.xml
+
+Disallow: /admin/
+Disallow: /order/
+Disallow: /before-shopping-cart
+Disallow: /shopping-cart
+Disallow: /*?type=*
+Disallow: /*?sort=*
+Disallow: /*?stars[]=*
+Disallow: /*?stars%5B%5D=*
+Disallow: /*?product_type[]=*
+Disallow: /*?product_type%5B%5D=*
+Disallow: /*?product_tags[]=*
+Disallow: /*?product_tags%5B%5D=*
+Disallow: /*?book_bind_id[]=*
+Disallow: /*?book_bind_id%5B%5D=*
+Disallow: /*?currentPage=*
+Disallow: /*?offsetPage=*
+Disallow: /*?search=*
+

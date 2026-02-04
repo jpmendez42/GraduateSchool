@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cache/
+Disallow: /config/
+Disallow: /crons/
+Disallow: /item/
+Disallow: /php/
+Disallow: /rss.php
+Allow: /
+Sitemap: http://nb1.hu/sitemap.xml

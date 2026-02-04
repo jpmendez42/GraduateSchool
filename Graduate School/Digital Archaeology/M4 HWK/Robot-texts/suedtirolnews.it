@@ -1,0 +1,9 @@
+User-Agent: *
+Allow: /
+Disallow: /readme.html
+Sitemap: https://www.suedtirolnews.it/sitemap.xml
+User-agent: grapeshot
+Disallow:
+
+User-agent: GPTBot
+Disallow: /

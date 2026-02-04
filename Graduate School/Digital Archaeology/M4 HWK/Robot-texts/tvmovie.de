@@ -1,0 +1,61 @@
+
+User-agent: *
+Allow: /
+Disallow: /fonts/whitelabel/
+Disallow: /images/whitelabel/
+Disallow: /status
+Disallow: /suche
+Disallow: *?exclude*=*
+Disallow: /*&exclude*=*
+Disallow: *?print=*
+Disallow: *&print=*
+Disallow: /wer-streamt?query=
+
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: Claude-User
+User-agent: Google-Extended
+User-agent: Bytespider
+User-agent: Timpibot
+User-agent: PetalBot
+User-agent: NeevaAI
+User-agent: BLEXBot
+User-agent: CCBot
+User-agent: YandexBot
+User-agent: Baiduspider
+User-agent: magpie-crawler
+User-agent: DataForSeoBot
+User-agent: Diffbot
+User-agent: Meta-ExternalAgent
+User-agent: Applebot-Extended
+User-agent: CloudVertexBot
+User-agent: DeepseekBot
+User-agent: cohere-training-data-crawler
+User-agent: PanguBot
+User-agent: AI2Bot
+User-agent: Omgili
+User-agent: Webzio-Extended
+User-agent: Scrapy
+User-agent: LLC
+User-agent: ImagesiftBot
+User-agent: MJ12bot
+User-agent: Yeti
+User-agent: Deepseek Agent
+User-agent: GoogleAgent-Mariner
+User-agent: ChatGPT-Operator
+User-agent: Python-urllib
+User-agent: Fuzz Faster U Fool v2.1.0-dev
+User-agent: anthropic-ai
+Disallow: /
+
+# Legal notice: We expressly reserves the right to use its content for commercial text and data mining
+# The use of robots or other automated means to access our site or collect or mine data without the express permission of us is strictly prohibited.
+# We may, in its discretion, permit certain automated access to certain pages,
+# If you would like to apply for permission to crawl us, collect or use data, please email info@bauerxcel.de
+
+Sitemap: https://www.tvmovie.de/sitemap.xml

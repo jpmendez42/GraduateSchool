@@ -1,0 +1,31 @@
+User-Agent: AdsBot-Google
+User-Agent: AdsBot-Google-Mobile
+Allow: *?*
+User-Agent: *
+Disallow: /apply
+Disallow: /structure/confirm
+Disallow: /favorite
+Disallow: /detail_history
+Disallow: /stock_search
+Disallow: /search/option
+Disallow: /search/detail
+Disallow: /search/results
+Disallow: /apply
+Disallow: /topic/賃貸住宅サービス
+Disallow: /topic/アパマンショップ
+Disallow: /topic/ハウスコム
+Disallow: /sem
+Disallow: /api/
+Disallow: *.amp$
+Disallow: *?*
+Sitemap: https://chintai-ex.jp/sitemaps/chintai-ex/station/sitemap_index.xml.gz
+Sitemap: https://chintai-ex.jp/sitemaps/chintai-ex/detail_newly/sitemap_index.xml.gz
+Sitemap: https://chintai-ex.jp/sitemaps/chintai-ex/city/sitemap_index.xml.gz
+Sitemap: https://chintai-ex.jp/sitemaps/chintai-ex/town/sitemap_index.xml.gz
+Sitemap: https://chintai-ex.jp/sitemaps/chintai-ex/building/sitemap_index.xml.gz
+
+User-agent: FatBot
+Disallow: /
+
+User-agent: bingbot
+Crawl-delay: 5

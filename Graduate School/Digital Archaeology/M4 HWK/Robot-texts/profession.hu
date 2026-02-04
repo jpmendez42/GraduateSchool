@@ -1,0 +1,69 @@
+User-agent: *
+
+Disallow: */account/
+Disallow: */allasaim
+Disallow: */approve-adv
+Disallow: */approved-order
+Disallow: */hirlevel/
+Disallow: */jelentkezes/
+Disallow: */munkaado/
+Disallow: */munkavallalo/
+Disallow: */sikeres-feliratkozas
+Disallow: */uem.php
+Disallow: /404
+Disallow: /?_lo=*
+Disallow: /?leiratkozasi_layer=*
+Disallow: /?notification=*
+Disallow: /after-cv-attach/
+Disallow: /appView/
+Disallow: /cookie_szabalyzat
+Disallow: /cvdb_visszacsatolas
+Disallow: /cvgen/
+Disallow: /en/
+Disallow: /general/
+Disallow: /impresszum
+Disallow: /jelentkezett/
+Disallow: /job/send
+Disallow: */allas-ajanlas/
+Disallow: /oneletrajzkeszito/cv/
+Disallow: /testatsd
+Disallow: /mod_pagespeed_beacon*
+
+
+Allow: /hirlevel/regisztracio$
+Allow: */munkavallalo/cv
+Allow: /munka*/*jelszo$
+Allow: /munka*/belepes$
+Allow: /munka***/gyik$
+Allow: /munka*/regisztracio$
+Allow: /munka*/segitseg$
+Allow: /munkaado$
+Allow: /munkavallalo$
+Allow: /munkavallalo/oneletrajz-feltoltese$
+
+Disallow: *-aszf-*.pdf
+Disallow: *-aszf.pdf
+Disallow: */aszf-*.pdf
+Disallow: */aszf.pdf
+Disallow: */aszf_*.pdf
+Disallow: *_aszf.pdf
+Disallow: *_aszf_*.pdf
+Disallow: *adatkezelesi*tajekoztato*.pdf
+Disallow: *Adatkezelesi*Tajekoztato*.pdf
+Disallow: *adatvedelmi*tajekoztato*.pdf
+Disallow: *felhasznalasi*feltetelek*.pdf
+Disallow: *jatek*szabalyzat*.pdf
+
+Disallow: *?rss$
+Allow: /allasok?rss$
+Disallow: /ff/contract/
+Disallow: /aszf/contract/
+
+Sitemap: https://www.profession.hu/sitemap.xml
+Sitemap: https://www.profession.hu/sitemap-listings-index-hu.xml
+Sitemap: https://www.profession.hu/sitemap-categories-index-hu.xml
+Sitemap: https://www.profession.hu/sitemap-search-intent-hu.xml
+Sitemap: https://www.profession.hu/blog/sitemap_index.xml
+
+User-agent: AdsBot-Google
+Disallow: /mod_pagespeed_beacon*

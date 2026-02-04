@@ -1,0 +1,31 @@
+sitemap: https://sinembargo.mx/sitemap-news.xml
+
+sitemap: https://www.sinembargo.mx/wp-sitemap.xml
+
+# All bots
+User-agent: *
+Disallow: /ext/*
+Disallow: /ext
+
+# Google Image
+User-agent: Googlebot-Image
+# Disallow:
+Allow: /*
+
+# Google AdSense
+User-agent: Mediapartners-Google*
+# Disallow:
+
+User-agent: * 
+Allow: /wp-content/uploads/
+Allow: /07-10-2023/4418510
+Disallow: /wp-admin/ 
+Disallow: /wp-includes/
+Disallow: /opinion/13-11-2013/19015
+Disallow: /04-03-2016/1612880
+
+User-agent: Taboolabot
+# Disallow:
+
+User-agent: grapeshot
+# Disallow: 

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /statichtml/file/17579/assessment_financial_accessibility.pdf
+Disallow: /Reception/TopicalMessage/SaveToPdf?messageId=7239
+Disallow: /Content/Document/File/115695/pres_16112020.pdf
+Disallow: /search/
+Clean-param: nw
+Clean-param: ref

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /*?theme=*
+Disallow: /*?search=*
+
+Sitemap: https://www.aldi.hu/sitemap.xml
+Sitemap: https://www.aldi.hu/sitemap_products.xml
+Sitemap: https://www.aldi.hu/sitemap_recipes.xml
+Sitemap: https://www.aldi.hu/sitemap_videos.xml
+Sitemap: https://www.aldi.hu/sitemap_images.xml
+Sitemap: https://uzletek.aldi.hu/sitemap.xml

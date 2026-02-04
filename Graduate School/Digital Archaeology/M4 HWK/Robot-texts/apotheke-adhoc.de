@@ -1,0 +1,42 @@
+# robots.txt von http://www.apotheke-adhoc.de
+
+user-agent: googlebot-news
+disallow: /termine/
+
+user-agent: *
+
+# no cache
+Disallow: /*/nc/*
+
+# virtual folders
+disallow: /login/
+disallow: /pageactions/
+disallow: /suche/
+
+# Typo 3
+disallow: /typo3/
+disallow: /typo3conf/
+disallow: /typo3temp/
+disallow: /uploads/
+disallow: /fileadmin/user_upload_archive/
+disallow: /*/Private/*
+disallow: /fileadmin/templates/html/*
+disallow: /*/Configuration/*
+allow: /typo3conf/ext/dsc_distribution/Resources/Public/
+allow: /typo3temp/*.css
+allow: /typo3temp/*.css.*.gzip
+allow: /typo3temp/*.js
+allow: /typo3temp/*.js.*.gzip
+allow: /typo3temp/*.jpg
+allow: /typo3temp/*.gif
+allow: /typo3temp/*.png
+allow: /typo3temp/tx_staticfilecache/
+
+disallow: *.sql
+disallow: *.sql.gz
+
+disallow: *tx_apogallery_ajaxpopup[action]=ajaxpopup*
+
+Sitemap: https://www.apotheke-adhoc.de/sitemap.general.xml
+Sitemap: https://www.apotheke-adhoc.de/sitemap.news.xml
+Sitemap: https://www.apotheke-adhoc.de/sitemaps_archive.xml

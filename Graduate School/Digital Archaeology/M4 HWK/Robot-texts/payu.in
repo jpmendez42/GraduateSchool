@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /explore*
+Allow: /*.js
+Allow: /*.css
+
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap: https://payu.in/sitemap.xml

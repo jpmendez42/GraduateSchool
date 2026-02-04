@@ -1,0 +1,69 @@
+User-Agent: *
+Crawl-delay: 3
+Disallow: /artikel-versenden/
+Disallow: /kontakt/artikel/
+Disallow: *print.html
+Disallow: /*type=98*
+Disallow: /link/
+Disallow: /suche/
+Disallow: /suchergebnisse/
+Disallow: /tools/pdf
+Disallow: /finanztip-email/
+Disallow: /finanztip-e-mail/
+Disallow: /fileadmin/finanztip-e-mail/
+Disallow: /fileadmin/images/Newsletter/Web/
+Disallow: /*eID=tx_cms_showpic*
+Disallow: /*.pdf$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /_services/us/*
+
+Disallow: /static/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /uploads/
+
+Disallow: /community/post-add/
+Disallow: /community/thread-add/
+Disallow: /community/search/
+Disallow: /community/board-quick-search/
+Disallow: /community/members-list/
+Disallow: /community/trophy-list/
+Disallow: /community/file-download/
+
+Sitemap: https://www.finanztip.de/sitemap.xml
+Sitemap: https://www.finanztip.de/sitemap/newsSitemap.xml
+
+User-Agent:OnpageBot
+Disallow: /community/
+Disallow: /blog/
+Disallow: /finanztip-email/
+Disallow: /finanztip-e-mail/
+Disallow: /fileadmin/finanztip-e-mail/
+Disallow: /fileadmin/images/Newsletter/Web/
+Disallow: /artikel-versenden/
+Disallow: /kontakt/artikel/
+Disallow: *print.html
+Disallow: /link/
+Disallow: /suche/
+Disallow: /suchergebnisse/
+Disallow: /tools/pdf
+Disallow: /finanztip-e-mail/
+
+Disallow: /static/
+Disallow: /t3lib/
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /uploads/
+
+Disallow: /community/post-add/
+Disallow: /community/thread-add/
+Disallow: /community/search/
+Disallow: /community/board-quick-search/
+Disallow: /community/members-list/
+Disallow: /community/trophy-list/
+Disallow: /community/file-download/
+
+User-Agent: BUbiNG
+Disallow: /

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi
+Disallow: /wp-admin
+Disallow: /wp-includes
+Disallow: /wp-login.php
+Disallow: /?s=
+Disallow: /search
+Disallow: /adsforwp
+
+Sitemap: https://parallaximag.gr/sitemap_index.xml

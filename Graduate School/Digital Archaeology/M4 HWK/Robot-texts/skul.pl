@@ -1,0 +1,16 @@
+Sitemap: https://skul.pl/sitemap.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+ 
+User-agent: CCBot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /

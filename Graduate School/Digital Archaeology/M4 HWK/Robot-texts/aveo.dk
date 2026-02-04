@@ -1,0 +1,11 @@
+# Interesseret i at rode rundt i robots.txt? Kunne du tænke dig et arbejde!?
+# Send en uopfordret jobansøgning til kr@aveo.dk
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /items/
+Disallow: /search-
+Disallow: /*.svg$
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://aveo.dk/sitemap_index.xml

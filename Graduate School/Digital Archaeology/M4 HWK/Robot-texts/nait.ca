@@ -1,0 +1,6 @@
+User-agent: netsparker
+Disallow: /
+
+User-agent: *
+Disallow:
+Sitemap: https://www.nait.ca/sitemap-xml

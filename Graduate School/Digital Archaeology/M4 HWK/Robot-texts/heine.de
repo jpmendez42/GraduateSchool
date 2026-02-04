@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /search
+Disallow: /logs
+Disallow: /api/logs
+Sitemap: https://www.heine.de/sitemap_index.xml

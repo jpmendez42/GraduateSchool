@@ -1,0 +1,35 @@
+User-Agent: *
+
+Disallow:/airtellive/*
+Disallow:/growth-cms-pages/*
+Disallow:/app*
+Disallow:/mobile*
+Disallow:/forme*
+Disallow:/aes*
+Disallow:/m/*
+Disallow:/hfz-hellotunes/*
+Disallow:/Y/*
+Disallow:/4g_lte/*
+Disallow:/ga*
+Disallow:/personal/*
+Disallow:/wps/*
+Disallow:/prepaid-recharge/complete
+Disallow:/postpaid-bill-pay/complete
+Disallow:/index-all/product-listing.html
+Allow:/bank/*
+Allow: /digital-store/
+Disallow:/blog/author/*/*/*
+Disallow:*&*
+Disallow:*/digital-store/*/*utm*
+Disallow:/business/b2b/airtel-iq/api-docs/**
+
+User-Agent: Slurp
+Disallow: /
+
+Sitemap: https://www.airtel.in/sitemap.xml
+Sitemap: https://www.airtel.in/infinity-sitemap.xml
+Sitemap: https://www.airtel.in/isp-sitemap.xml
+Sitemap: https://www.airtel.in/broadband-sitemap.xml
+Sitemap: https://www.airtel.in/cms-sitemap.xml
+Sitemap: https://www.airtel.in/dth-sitemap.xml
+Sitemap: https://www.airtel.in/bank/sitemap.xml

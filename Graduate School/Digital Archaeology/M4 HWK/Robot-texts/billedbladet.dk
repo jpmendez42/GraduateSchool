@@ -1,0 +1,77 @@
+#
+# robots.txt
+#
+
+User-agent: *
+
+# CSS, JS, Images
+Allow: /_nuxt/*.css$
+Allow: /_nuxt/*.css?
+Allow: /_nuxt/*.js$
+Allow: /_nuxt/*.js?
+
+# Googlebot
+User-Agent: Googlebot
+Sitemap: https://www.billedbladet.dk/sitemap.xml
+Allow: *.js
+Allow: *.css
+
+# PROTECT FROM CLONER
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: Web Downloader
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Offline Explorer Pro
+Disallow: /
+
+User-agent: HTTrack Website Copier
+Disallow: /
+
+User-agent: Offline Commander
+Disallow: /
+
+User-agent: Leech
+Disallow: /
+
+User-agent: WebSnake
+Disallow: /
+
+User-agent: BlackWidow
+Disallow: /
+
+User-agent: HTTP Weazel
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Disallow: /cdn-cgi/

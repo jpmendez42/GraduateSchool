@@ -1,0 +1,93 @@
+
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@       *      @@@@@@@@@@@@@@@       @@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@       @@@      @@@@@@@@@@@@@       @@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@       @@@@@      @@@@@@@@@@@       @@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@       @@@@@@@      @@@@@@@@@       @@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@       @@@@@@@@@      @@@@@@@       @@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@       @@@@@@@@@@@      @@@@@       @@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@       @@@@@@@@@@@@@      @@@       @@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@       @@@@@@@@@@@@@@@      .       @@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+# @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+#  We democratize savings and investments.
+#  Do you want to redefine the financial industry? Take a look at our available jobs.
+#  https://nordnetab.com/career/available-jobs/
+
+User-agent: *
+Disallow: /oversikt
+Disallow: /transaktioner
+Disallow: /kredit
+Disallow: /kunskapstest
+Disallow: /senaste-avslut
+Disallow: /bevakningslistor
+Disallow: /manadssparande
+Disallow: /foretagshandelser
+Disallow: /overforingar
+Disallow: /portfoljrapport
+Disallow: /forsakringsbesked
+Disallow: /arsbesked
+Disallow: /installningar
+Disallow: /meddelanden
+Disallow: /oppna-konto
+Disallow: /courtageklasser
+Disallow: /kostnadsredovisning
+Disallow: /sok
+Disallow: /fondbyte
+Disallow: /valutor
+Disallow: /radgivning
+Disallow: /sparplan-pension
+Disallow: */order/salj
+Disallow: */order/kop
+Disallow: */order/*
+Disallow: */certifikat?*
+Disallow: */certifikat/*
+Disallow: */certifikat?*
+Disallow: */certifikat/*
+Disallow: */certifikat?*
+Disallow: */certifikat/*
+Disallow: */ovriga-certifikat?*
+Disallow: */ovriga-certifikat/*
+Disallow: */certifikat?*
+Disallow: */certifikat/*
+Disallow: */trackers?*
+Disallow: */trackers/*
+Disallow: */warranter?*
+Disallow: */warranter/*
+Disallow: */mini-futures?*
+Disallow: */mini-futures/*
+Disallow: */warranter?*
+Disallow: */warranter/*
+Disallow: */unlimited-turbos?*
+Disallow: */unlimited-turbos/*
+Disallow: */warranter?*
+Disallow: */warranter/*
+Disallow: */warrant-listor?*
+Disallow: */warrant-listor/*
+Disallow: /avtal-och-abonnemang
+Disallow: */mediaapi/historical/csv/
+Disallow: */order/latest/        
+Disallow: */order/most-commented/ 
+Disallow: */order/most_commented/*
+Disallow: */order/most-read/
+Disallow: */order/most_read/*
+Disallow: /blogg/author/
+Disallow: /blogg/tag/
+Disallow: *?guideGategory=*
+Disallow: *?details
+Disallow: *&selectedTab*
+Disallow: *?ordersidepanel*
+Disallow: *&ordersidepanel*
+Disallow: *&exchangeCountry*
+Disallow: /mux/
+Disallow: */mini-futures/*
+Disallow: */mini-futures?*
+Disallow: *?redirect_to=*
+
+Sitemap: https://www.nordnet.se/sitemap.xml

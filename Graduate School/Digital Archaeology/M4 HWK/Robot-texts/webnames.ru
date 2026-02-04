@@ -1,0 +1,83 @@
+User-agent: *
+Disallow: /*index.pl
+Disallow: /*index.html
+Disallow: *?*
+Disallow: *&sa=*
+Disallow: /en/
+Disallow: /manager/
+
+Disallow: /app/
+Allow: /app/*.js
+Allow: /app/*.css
+
+Allow: *.css?*
+Allow: *.js?*
+
+Disallow: /buch/
+Disallow: /buttons/
+Disallow: /data-files/
+Disallow: /downloads/
+Disallow: /ff/
+Disallow: /files/
+Disallow: /images/
+Disallow: /img2/
+Disallow: /maxman/
+Disallow: /oao/
+Disallow: /osmp_docs/
+Disallow: /pix/
+Disallow: /promo/
+Disallow: /rn_pix/
+Disallow: /test/
+Disallow: /webmoney_pix/
+Disallow: /wnbanners/
+Disallow: /wnpix/
+
+Disallow: /wn/
+Allow: /wn/*.js
+Allow: /wn/*.css
+Allow: /wn/img/
+Allow: /wn/fonts/
+
+Disallow: /*docs*
+Disallow: /*openstat=
+Disallow: /agreements/
+Disallow: /announce/
+Disallow: /auction/closing.pl
+Disallow: /auction/expiring
+Disallow: /auction/my/
+Disallow: /auction/rules.pl
+Disallow: /auction/search
+Disallow: /billing/
+Disallow: /company/press_about_us
+Disallow: /discuss/
+Disallow: /help/feedback
+Disallow: /my/
+Disallow: /regtimesrs*
+Disallow: / s c r i p ts/*
+Disallow: /scripts/*faq*
+Disallow: /scripts/ajax_*
+Disallow: /scripts/assist*
+Disallow: /scripts/confidential_prolong*
+Disallow: /scripts/feedback.pl
+Disallow: /scripts/json_*
+Disallow: /scripts/jsonp_*
+Disallow: /scripts/newdomain_available.pl
+Disallow: /scripts/newdomain_checkmany.pl
+Disallow: /scripts/newdomain_check.pl
+Disallow: /scripts/premoderation_ankets_confirm.pl
+Disallow: /scripts/service_group_order.pl
+Disallow: /scripts/shop_window*
+Disallow: /scripts/reginfo.pl
+Disallow: /scripts/shopcart.pl
+Disallow: /scripts/user*
+Disallow: /scripts/yandex*
+Disallow: /scrp/vhosting*
+Disallow: /test/
+Disallow: /trash/
+Disallow: /parking_skins/
+Disallow: /tletters/
+Disallow: /scripts/rus3lvl.pl
+Disallow: /scripts/ya_rus.pl
+
+Host: https://www.webnames.ru
+Sitemap: https://www.webnames.ru/sitemap.xml

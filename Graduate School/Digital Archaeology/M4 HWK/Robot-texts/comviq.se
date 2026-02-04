@@ -1,0 +1,17 @@
+User-agent: *
+Disallow:/mitt-konto
+Disallow:/mitt-konto-2
+Disallow:/KuseAuth
+Disallow:/Error?aspxerrorpath=/
+Disallow:/registrera-kontantkort
+Disallow:/registrera-kontantkort/*
+Disallow:/overlata-abonnemang
+Disallow:/overlata-abonnemang/*
+Disallow:/kassa
+Disallow:/kassa/*
+Disallow:/leveransstatus
+Disallow:/leveransstatus/*
+Disallow:/googlefeed
+Disallow:/faktura-pdf
+
+Sitemap: https://www.comviq.se/sitemap.xml

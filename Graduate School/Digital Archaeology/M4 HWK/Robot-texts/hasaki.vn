@@ -1,0 +1,45 @@
+User-Agent:Googlebot
+User-Agent:Googlebot-Mobile
+User-Agent:Bingbot
+User-Agent:OAI-SearchBot
+User-Agent:ChatGPT-User
+User-Agent:ChatGPT-User/2.0
+User-Agent:GPTBot
+User-Agent:Google-Extended
+
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /customer/
+Disallow: /sales/
+Disallow: /order/
+Disallow: /checkout/
+Disallow: /catalogsearch/result/?q=*.com
+Disallow: /catalogsearch/result/?q=* Ă‚Â·com
+Disallow: /catalogsearch/result/?q=*.tv
+Disallow: /catalogsearch/result/?q=*.xyz
+Disallow: /catalogsearch/result/?q=*Ă„Æ’Ă¢â€Â¬Ă¢â‚¬Å¡Com
+Disallow: /catalogsearch/result/?q=* Ă‚Â·COM
+Disallow: *?sort=
+Disallow: *?sort=name
+Disallow: *?sort=highlight
+Disallow: *?sort=position
+Disallow: *?sort=price_asc
+Disallow: *?sort=price_desc
+Disallow: *?sort=promotion
+Disallow: *?sort=topsale
+Disallow: *?limit=
+Disallow: /rest/
+Disallow: *?product_list_order=topsale
+Disallow: *?product_list_order=position
+Disallow: *?product_list_order=promotion
+Disallow: *?product_list_order=highlight
+Disallow: *?highlight
+Disallow: *?p=
+Disallow: *?l_info
+
+User-Agent:*
+Disallow: *utm_source
+
+Sitemap: https://hasaki.vn/sitemap.xml
+Sitemap: https://hasaki.vn/sitemap/image/sitemap-image.xml
+Sitemap: https://hasaki.vn/sitemap-mobile.xml

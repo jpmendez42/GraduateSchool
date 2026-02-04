@@ -1,0 +1,41 @@
+User-agent: Googlebot
+User-agent: AdsBot-Google
+User-agent: Google-Adwords
+User-agent: Mediapartners-Google
+User-agent: Storebot-Google
+User-agent: Msnbot
+User-agent: AdIdxBot
+User-agent: YandexBot
+User-agent: Yandex
+User-agent: Slurp
+User-agent: DuckDuckGo
+User-agent: facebookexternalhit
+User-agent: facebookcatalog
+User-agent: UptimeRobot
+User-agent: Cookiebot
+Allow: /
+Disallow: /svc/
+Allow: /svc/sitemap/
+Allow: /svc/shop-api/doc/
+Disallow: /kategoria/
+Disallow: /*?phrase
+Disallow: /Li0cHTRt/init.js
+
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-agent: PerplexityBot
+User-agent: Bingbot
+Allow: /
+Disallow: /svc/
+Disallow: /kategoria/
+Disallow: /*?phrase
+Disallow: /konto/
+
+User-agent: Bingbot
+Allow: /svc/sitemap/
+Allow: /svc/shop-api/doc/
+Disallow: /Li0cHTRt/init.js
+
+User-agent: *
+Disallow: /

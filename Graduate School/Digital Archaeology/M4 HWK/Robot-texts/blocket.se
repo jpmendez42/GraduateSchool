@@ -1,0 +1,38 @@
+# Det är uttryckligen förbjudet att använda sökrobotar eller andra
+# automatiska metoder för att tillgå blocket.se. Endast om blocket.se
+# givit särskilt tillstånd får sådan access ske.
+
+User-agent: *
+Disallow: /ai
+Disallow: /mitt-blocket
+Disallow: /profil/*
+Disallow: /mina-forsaljningar
+Disallow: /mina-kop
+Disallow: /konto
+Disallow: /omdome
+Disallow: /blocketbetalning
+Disallow: /meddelanden
+Disallow: /sparade-annonser
+Disallow: /mina-annonser
+Disallow: /*ajax.html$
+Disallow: /*.json$
+Disallow: /*/search_bff
+Disallow: /adout/404
+Disallow: /adout/500
+Disallow: /adout/notFound
+Disallow: /salja-bil/lagg-in-bilannons/*
+Disallow: /apps/blocketpaketet/betalning.htm
+Disallow: /mitt-miljobidrag
+Disallow: /om-kop-direkt
+Disallow: /om-kop-direkt-saljare
+Disallow: /om-kopskydd
+Disallow: /om-frakt-med-blocket
+Disallow: /mina-annonser/lagg-in-annons/tillval*
+Allow: /salja-bil/lagg-in-bilannons
+Allow: /mina-annonser/lagg-in-annons
+Allow: /ai/form/0?category=1020
+Allow: /ai/form
+Allow: /tjanster/blocketbetalning
+Allow: /.well-known/assetlinks.json
+
+Sitemap: https://public-assets.blocketcdn.se/static/sitemaps/sitemap.xml

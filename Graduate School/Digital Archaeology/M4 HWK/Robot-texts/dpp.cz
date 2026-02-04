@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /vyhledavani
+Disallow: /muj-ucet
+Disallow: /admin
+Disallow: /de
+Disallow: /de/*
+
+Sitemap: https://www.dpp.cz/sitemap.xml

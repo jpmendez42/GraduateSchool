@@ -1,0 +1,9 @@
+User-Agent: *
+Host: stihi.ru
+Disallow: /go
+Disallow: /board
+Disallow: /login
+Disallow: /complain.html
+Disallow: /addrec.html
+Disallow: /addnotes.html
+Disallow: /author.html

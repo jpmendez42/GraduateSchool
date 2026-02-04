@@ -1,0 +1,19 @@
+User-agent: * 
+Disallow: /admin 
+Disallow: /forum.php 
+Sitemap: https://yapolitic.ru/sitemap_index.xml 
+Sitemap: https://yapolitic.ru/sitemap_23.xml 
+Sitemap: https://yapolitic.ru/sitemap_24.xml 
+Sitemap: https://yapolitic.ru/sitemap_25.xml 
+Host: https://yapolitic.ru 
+
+User-agent: Yandex 
+Disallow: /admin 
+Disallow: /forum.php 
+Clean-param: __cf_chl_tk 
+Clean-param: __cf_chl_rt_tk 
+Clean-param: q 
+Sitemap: https://yapolitic.ru/sitemap_index.xml 
+Sitemap: https://yapolitic.ru/sitemap_23.xml 
+Sitemap: https://yapolitic.ru/sitemap_24.xml 
+Sitemap: https://yapolitic.ru/sitemap_25.xml 

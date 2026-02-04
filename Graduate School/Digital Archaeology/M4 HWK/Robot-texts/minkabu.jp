@@ -1,0 +1,37 @@
+User-Agent: *
+Allow: /
+Sitemap: https://assets.minkabu.jp/concerns/sitemap/sitemap.xml.gz
+Sitemap: https://assets.minkabu.jp/concerns/sitemap/news/sitemap.xml.gz
+Sitemap: https://minkabu.jp/hikaku/sitemap.xml
+
+Disallow: /users/quick_mails/alert_close
+Disallow: /users/favorite_stock
+Disallow: /user/follow
+Disallow: /user/unfollow/
+Disallow: /user/add_favorite_user/
+Disallow: /user/add_favorite_stock/
+Disallow: /user/add_respect_user/
+Disallow: /user/switch/
+Disallow: /user/resign/
+Disallow: /blog/edit
+Disallow: /stocks/pick/open_form
+Disallow: /stocks/*/pick/new
+Disallow: /stock/*/community/edit
+Disallow: /simulation/simple/start
+Disallow: /community/join/
+Disallow: /groups/topic/edit
+Disallow: /invite/group/
+Disallow: /home
+Disallow: /top/report/
+Disallow: /94446337/
+Disallow: /hikaku/redirect/
+Disallow: /pick/list
+Disallow: /pick/list_history
+Disallow: /pick/list_stop
+Disallow: /mypage
+Disallow: /blogs
+Disallow: /message
+
+# GPTBot
+User-agent: GPTBot
+Disallow: /

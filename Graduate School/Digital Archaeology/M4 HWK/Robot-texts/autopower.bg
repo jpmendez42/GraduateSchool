@@ -1,0 +1,119 @@
+User-Agent: Googlebot-Image
+Disallow: /*imageulist*
+Disallow: /*imageuf-*
+Disallow: /*imageu-*
+Disallow: /*imagetlist*
+Disallow: /*imagetfull-*
+Disallow: /*imaget-*
+Disallow: /*imagerimslist*
+Disallow: /*imagefull-*
+Disallow: /*imagem-*
+Disallow: /*imagemlist-*
+Disallow: /*-igumi*
+Disallow: /login.html
+Disallow: /basket.html
+Disallow: /menulist.html?*
+Disallow: /*-nissan-nx/
+Disallow: /*-ford-escort-/
+Disallow: /lager-glavina/
+Disallow: /тегличи-thule/
+Disallow: /bg/
+Disallow: /maslen-filtar/
+Disallow: /nakladki/
+Disallow: /amortisiori/
+Disallow: /angrenajen-remuk/
+Disallow: /ролка-алтернатор/
+Disallow: /комутатор-запалване/
+Disallow: /akumulator/
+Disallow: /egr-клапан/
+Disallow: /sharniri/
+Disallow: /uploads/
+
+User-Agent: Googlebot
+Disallow: /login.html
+Disallow: /basket.html
+Disallow: /menulist.html?*
+Disallow: /*c148-ix*
+Disallow: /*c177-ix*
+Disallow: /*-nissan-nx/
+Disallow: /*-ford-escort-/
+Disallow: /lager-glavina/
+Disallow: /тегличи-thule/
+Disallow: /bg/
+Disallow: /maslen-filtar/
+Disallow: /nakladki/
+Disallow: /amortisiori/
+Disallow: /angrenajen-remuk/
+Disallow: /ролка-алтернатор/
+Disallow: /комутатор-запалване/
+Disallow: /akumulator/
+Disallow: /egr-клапан/
+Disallow: /sharniri/
+Disallow: /uploads/
+Disallow: /тампони-kia-cee/
+Disallow: /греди-nissan-nx/
+Disallow: /фланец-nissan-nx/
+Disallow: /фарове-ford-escort-/
+Disallow: /калник-nissan-nx/
+Disallow: /монтажни-части-ford-escort-/
+Disallow: /маншони-ford-escort-/
+Disallow: /броня-ford-escort-/
+Disallow: /фарове-nissan-nx/
+Disallow: /amortisiori-nissan-nx/
+Disallow: /носачи-ford-escort-/
+Disallow: /турбина-nissan-nx/
+Disallow: /бобина-nissan-nx/
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-Agent: Yandex
+Disallow: /
+
+User-Agent: ClaudeBot
+Disallow: /
+
+User-Agent: facebookexternalhit
+Disallow: /
+
+User-Agent: meta-externalagent
+Disallow: /
+
+User-Agent: meta-webindexer
+Disallow: /
+
+User-Agent: OAI-SearchBot
+Disallow: /
+
+User-Agent: Amazonbot
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: AhrefsSiteAudit
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: Barkrowler
+Disallow: /
+
+User-Agent: AwarioBot
+Disallow: /
+
+User-Agent: *
+Allow: /
+Disallow: /login.html
+Disallow: /basket.html
+Disallow: /menulist.html?*

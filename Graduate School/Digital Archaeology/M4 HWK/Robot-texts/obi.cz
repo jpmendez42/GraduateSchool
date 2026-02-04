@@ -1,0 +1,26 @@
+User-agent: *
+### Ajax u.a.
+Disallow: /decom/api-public*
+Disallow: /public/services
+Disallow: /store/popup/
+Disallow: /store/change
+Disallow: /pujcovna/changeStore.php
+Disallow: /*?themeChoiceId
+Disallow: /customer-reviews/
+Disallow: /api/customerreviews/
+Disallow: /shopping-list/add
+Disallow: /add-cart-layer
+Disallow: /search-flyout
+Disallow: /cmssearchresult-filter
+Disallow: /searchresult-filter
+Disallow: /decom/api/
+Disallow: /prudsys/recommit/
+### Auth, Login & Co
+Disallow: /authentication
+Disallow: /customer-account/registration/register
+Disallow: /*?*template=SDP
+Disallow: /author/
+### Druckansicht
+Disallow: /kontakt/*?*
+Sitemap: https://www.obi.cz/sitemaps/obi_cs_cz/sitemap_index.xml
+Sitemap: https://www.obi.cz/assets/discover/cms-sitemaps/cz/index.xml

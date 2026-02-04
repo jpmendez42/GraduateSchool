@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /group/
+Disallow: /cs/group/
+Disallow: /en/group/
+Disallow: /combo/?browserId
+
+Sitemap: https://www.csob.cz/sitemap.xml

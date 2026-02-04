@@ -1,0 +1,18 @@
+# www.robotstxt.org/
+
+User-agent: *
+
+Disallow: /payment/*
+Disallow: /orders
+Disallow: /insurance
+Disallow: /orderDetails/*
+Disallow: /ecard
+Disallow: /claim
+Disallow: /refer-friend
+Disallow: /networkHospitals
+Disallow: /claimForms
+Disallow: /about-fitness
+
+Allow: /
+
+Sitemap: https://www.medibuddy.in/sitemap/sitemap.xml

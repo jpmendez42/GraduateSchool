@@ -1,0 +1,44 @@
+# START nuxt-robots (indexable)
+User-agent: sogou spider
+User-agent: YoudaoBot
+User-agent: Baiduspider
+User-agent: UbiCrawler
+User-agent: DOC
+User-agent: Zao
+User-agent: sitecheck.internetseer.com
+User-agent: Zealbot
+User-agent: MSIECrawler
+User-agent: SiteSnagger
+User-agent: WebStripper
+User-agent: WebCopier
+User-agent: Fetch
+User-agent: Offline Explorer
+User-agent: Teleport
+User-agent: TeleportPro
+User-agent: WebZIP
+User-agent: linko
+User-agent: HTTrack
+User-agent: Microsoft.URL.Control
+User-agent: Xenu
+User-agent: larbin
+User-agent: libwww
+User-agent: ZyBORG
+User-agent: Download Ninja
+User-agent: grub-client
+User-agent: k2spider
+User-agent: NPBot
+User-agent: WebReaper
+Disallow: /
+
+User-agent: *
+Allow: /
+Disallow: /flight_search
+Disallow: /search_results
+Disallow: /flight_details
+Disallow: /flightDetails
+Disallow: /fare_lock
+Disallow: /thankYou
+Disallow: /checkin
+
+Sitemap: https://www.vola.ro/sitemap_index.xml
+# END nuxt-robots

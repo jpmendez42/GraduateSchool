@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /payment/
+Disallow: /backup/
+Disallow: /files/
+Disallow: /plati_admin/
+Disallow: /comanda.php*
+Disallow: /test/
+Allow: /

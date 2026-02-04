@@ -1,0 +1,16 @@
+Host: superresheba.by
+
+User-agent: *
+Disallow: /resh/category/*-class/page
+Disallow: /go/
+Disallow: /wp-admin/
+Disallow: /admin/
+Disallow: /author/
+Disallow: /resh/tag/
+Disallow: /tag/
+Disallow: /date/
+Disallow: /resh/category/no-category/
+Disallow: /order-received
+Disallow: /dogovor_oferty_superresheba_by.pdf
+Disallow: /cdn-cgi/
+Disallow: /market/default/order-info

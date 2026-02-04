@@ -1,0 +1,13 @@
+Sitemap: https://www.buecher.de/sitemapindexbuecher.xml
+User-agent: *
+Disallow: /fr/
+Disallow: /go/favorites_favorites/
+Disallow: /go/favorites/
+Disallow: /go/cart_cart/
+Disallow: /go/order_order/
+Disallow: /go/my_my/
+Disallow: /go/error_error/
+Disallow: /go/ajax_ajax/
+Disallow: /go/ajax/
+Disallow: /go/popup_base/
+Disallow: /img2sz.php*

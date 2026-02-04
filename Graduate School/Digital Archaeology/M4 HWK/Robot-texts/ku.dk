@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /_assets/
+Allow: /typo3temp/
+
+# Don't index the search folder
+Disallow: */search
+Disallow: */soeg
+
+# parameters
+Disallow: /*?id=*
+Disallow: /*cHash

@@ -1,0 +1,49 @@
+########################################################################################################################
+### AI crawler reference                                                                                             ###
+### The link below provides instructions to what kind of content can be used to train AI models on this website      ###
+### https://fyens.dk/ai.txt                                                                                          ###
+########################################################################################################################
+                        
+# Common crawl
+User-agent: CCBot
+Disallow: /
+
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+
+# OpenAI (ChatGPT realtime search)
+User-agent: ChatGPT-User
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+             
+User-agent: FacebookBot
+Disallow: /
+
+# META - Product improvement and AI
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+# Search engines
+User-agent: *
+Disallow: /editors/signature/*
+Disallow: /contimo/layout/native
+Disallow: /*noHeader=*
+Allow: /
+
+# Sitemap
+Sitemap: https://fyens.dk/sitemap
+Sitemap: https://fyens.dk/advertorials/sitemap.xml
+Sitemap: https://fyens.dk/kandidattest/sitemap.xml

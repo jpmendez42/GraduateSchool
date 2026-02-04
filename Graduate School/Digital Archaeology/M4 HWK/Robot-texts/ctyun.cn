@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /bbs*
+Disallow: /product/*
+Disallow: /product2/
+Disallow: /news/*
+Disallow: /news2/*
+Disallow: /help/qslist*
+Disallow: /*?*
+Disallow: /portal/compat.html
+Disallow: /gw/*
+Disallow: /v1/*

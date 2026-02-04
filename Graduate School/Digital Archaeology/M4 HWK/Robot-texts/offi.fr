@@ -1,0 +1,11 @@
+# 
+# 
+
+User-agent: *
+
+#Partie compte
+Disallow: /connexion.html
+
+#tris dans les recherches
+Disallow: /*?sort=
+Disallow: /*?valuesSortGroup=

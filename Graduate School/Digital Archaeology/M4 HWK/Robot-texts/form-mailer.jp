@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow : /ssi/
+Disallow : /img/
+Disallow : /common/
+Disallow : /faq/
+Disallow : /test/
+Sitemap : http://www.form-mailer.jp/sitemap.xml

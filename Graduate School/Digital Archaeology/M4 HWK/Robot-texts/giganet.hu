@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /private/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-content/uploads/
+Sitemap: https://giganet.hu/sitemap.xml

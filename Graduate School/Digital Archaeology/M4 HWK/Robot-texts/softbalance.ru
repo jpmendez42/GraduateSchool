@@ -1,0 +1,74 @@
+User-Agent: *
+
+Disallow: /bitrix/
+Disallow: /search/
+Disallow: /auth/
+Disallow: /auth.php
+Disallow: /personal/
+Disallow: /employee/
+Disallow: /*/search/
+Disallow: /*PAGE_NAME=search
+Disallow: /*PAGE_NAME=user_post
+Disallow: /*PAGE_NAME=detail_slide_show
+Disallow: /*/slide_show/
+Disallow: /*/gallery/*order=*
+Disallow: /*?print=
+Disallow: /*&print=
+Disallow: /*register=yes
+Disallow: /*forgot_password=yes
+Disallow: /*change_password=yes
+Disallow: /*login=yes
+Disallow: /*logout=yes
+Disallow: /*auth=yes
+Disallow: /*action=ADD_TO_COMPARE_LIST
+Disallow: /*action=DELETE_FROM_COMPARE_LIST
+Disallow: /*action=ADD2BASKET
+Disallow: /*action=BUY
+Disallow: /*print_course=Y
+Disallow: /*bitrix_*=
+Disallow: /*backurl=*
+Disallow: /*BACKURL=*
+Disallow: /*back_url=*
+Disallow: /*BACK_URL=*
+Disallow: /*back_url_admin=*
+Disallow: /*index.php$
+Disallow: /test.php
+Disallow: /content/job/our_eyes/
+Disallow: /*?PAGEN_*
+Disallow: /*&PAGEN_*
+Disallow: /*month=*
+Disallow: /*year=*
+Disallow: /*sphrase_id=*
+Disallow: /*WEB_FORM_ID=*
+Disallow: /*ID=*
+Disallow: /*id=*
+Disallow: /*categoryID=*
+Disallow: /*.log
+Disallow: /*action=*
+Disallow: /*clear_cache=*
+Disallow: /*height=*
+Disallow: /*width=*
+Disallow: /*.htm*
+Disallow: /*?v=*
+Disallow: /*?formresult=*
+Disallow: /*?ha=*
+Disallow: /*&ha=*
+Disallow: /*?hhtmFrom=*
+Disallow: /*&hhtmFrom=*
+Disallow: /*?page=*
+Disallow: /*&page=*
+Disallow: /*.php
+Disallow: /appform/*
+Disallow: /?*=*
+Disallow: /news/?*=*
+Disallow: /app/*
+Disallow: /sitemap2019.xml
+
+Allow: /bitrix/templates/
+Allow: /local/templates/
+
+Clean-param: story /job/career-stories/
+Clean-param: ha&hhtmFrom /*
+
+Host: https://softbalance.ru
+Sitemap: https://softbalance.ru/sitemap.xml

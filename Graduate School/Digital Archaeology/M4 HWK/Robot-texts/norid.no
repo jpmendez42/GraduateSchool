@@ -1,0 +1,31 @@
+User-agent: *
+
+Disallow: /no/publisering-pa-nettsteder-som-bruker-wordpress-som-publiseringsplattform/
+Disallow: /no/omnorid/digital-profilhandbok/
+Disallow: /no/domeneoppslag/oppslagstjeneste/
+Disallow: /en/domeneoppslag/oppslagstjeneste/
+Disallow: /no/dine-domenenavn/hva-er-registrert/
+Disallow: /en/dine-domenenavn/hva-er-registrert/
+Disallow: /no/om-domenenavn/spesialiststoff/domeneklagenemnda/klagearkiv
+Disallow: /en/om-domenenavn/spesialiststoff/domeneklagenemnda/klagearkiv
+Disallow: /no/om-domenenavn/spesialiststoff/rettslig-behandling/rettssaker
+Disallow: /en/om-domenenavn/spesialiststoff/rettslig-behandling/rettssaker
+Disallow: /no/domeneoppslag/finn-domenenavn-registrert-pa-et-organisasjonsnummer
+Disallow: /en/domeneoppslag/finn-domenenavn-registrert-pa-et-organisasjonsnummer
+Disallow: /no/domeneoppslag/hvem-har-domenenavnet
+Disallow: /en/domeneoppslag/hvem-har-domenenavnet
+Disallow: /no/domeneoppslag/oppslagstjeneste-for-norid-internt
+Disallow: /en/domeneoppslag/oppslagstjeneste-for-norid-internt
+Disallow: /no/dine-domenenavn/finn-din-forhandler
+Disallow: /en/dine-domenenavn/finn-din-forhandler
+Disallow: /uploads/*/vedtak*.pdf
+Disallow: /calendar/
+Disallow: /no/calendar/
+Disallow: /en/calendar/
+Disallow: /aktivitet/
+Disallow: /no/event/
+Disallow: /en/event/
+Disallow: /event/
+Disallow: /no/om-domenenavn/veiledere/sikrere-norske-domenenavn-med-dnssec/*?*
+Disallow: /en/om-domenenavn/veiledere/sikrere-norske-domenenavn-med-dnssec/*?*
+

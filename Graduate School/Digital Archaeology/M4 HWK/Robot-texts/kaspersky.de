@@ -1,0 +1,44 @@
+Sitemap: https://www.kaspersky.de/sitemap.xml
+
+User-agent: Googlebot
+Allow: /acq/cloud-campaign
+Allow: /acq/dr_lp_de_2018_3up_selector_mitabo
+
+User-agent: Googlebot-Image
+Allow: /acq/cloud-campaign
+Allow: /acq/dr_lp_de_2018_3up_selector_mitabo
+
+User-agent: *
+Allow: /acq/cloud-campaign
+Allow: /acq/dr_lp_de_2018_3up_selector_mitabo
+Allow: /lp/special-offer* 
+Allow: /lp/antivirus-kaspersky*
+Allow: /lp/ksospromo*
+Allow: /renewal-center/home
+Allow: /renewal-center/business
+Disallow: /acq/
+Disallow: /search
+Disallow: /rss-feeds
+Disallow: /components/
+Disallow: /b2c-tools/
+Disallow: /entp/
+Disallow: /safe-kids-install
+Disallow: /feeds/
+Disallow: /lp/
+Disallow: /_svc/
+Disallow: /embed/
+Disallow: /?slow=*
+Disallow: /n/
+Disallow: /wiki-section/
+Disallow: /templates/site-header_main-nav.html
+Disallow: /templates/site-header_mega-menu__b2c.html
+Disallow: /templates/site-header_mega-menu__res.html
+Disallow: /affiliatestore
+Disallow: /affiliatestore_chf
+Disallow: /affiliate_banner
+Disallow: /renewal-center/
+Disallow: /?serial=*
+Disallow: *.json
+Disallow: */thank-you
+Disallow: /Date
+Disallow: /resources/template/

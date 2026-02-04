@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*gen.pl
+Disallow: /wp-admin/
+Crawl-delay: 15

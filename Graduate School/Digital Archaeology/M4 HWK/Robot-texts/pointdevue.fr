@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /user 
+Disallow: /admin/*
+Disallow: /recherche*
+Sitemap: https://www.pointdevue.fr/sitemap.xml
+Sitemap: https://www.pointdevue.fr/sitemap-news.xml

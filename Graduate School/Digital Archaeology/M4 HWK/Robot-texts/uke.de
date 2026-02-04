@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /assets/
+Disallow: /errorpages/
+Disallow: /_manager/
+
+User-agent: Googlebot
+Allow: /assets/
+Disallow: /errorpages/
+Disallow: /_manager/

@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: *?s=*
+Allow: /wp-json/ai/v1/site-meta/
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.mediatime.gr/sitemap_index.xml
+Sitemap: https://www.mediatime.gr/news.xml
+
+User-agent: msnbot
+Sitemap: https://www.mediatime.gr/sitemap_index.xml
+Sitemap: https://www.mediatime.gr/news.xml
+Disallow: /wp-admin/*
+Disallow: /search/
+Disallow: *?s=*
+Allow: /
+
+# AI Metadata API
+Allow: /wp-json/ai/v1/site-meta/

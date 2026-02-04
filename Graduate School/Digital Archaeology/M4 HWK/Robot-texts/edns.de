@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: adminer.php 
+Disallow: /olexport/
+Sitemap: https://www.edns.de/sitemap.xml 
+

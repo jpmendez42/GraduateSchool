@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /*?*page=
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /readme.html
+
+Sitemap: https://www.koutipandoras.gr/sitemap.xml
+Sitemap: https://www.koutipandoras.gr/news-sitemap.xml

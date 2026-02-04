@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /goto/
+Disallow: /wp-json/*
+Disallow: /?rest_route=
+Disallow: /wp-content/uploads/sports_widgets_data/configJs.json
+Disallow: /wp-content/uploads/bc-links-data/config/cache-update-config.json
+Disallow: /wp-content/uploads/bc-sport-blocks-data/
+Disallow: /wp-content/uploads/bc-blocks-data/update_cache_config.json
+Disallow: /wp-content/themes/wp-theme-bc-core-fse/assets/dist/js/rudderstack/*
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://www.tipsbladet.dk/sitemap_index.xml
+Sitemap: https://www.tipsbladet.dk/news-sitemap.xml

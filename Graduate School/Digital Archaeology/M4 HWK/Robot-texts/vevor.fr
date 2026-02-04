@@ -1,0 +1,14 @@
+User-agent: *
+
+Disallow: /deals?categoryIdList=
+Disallow: /*?star
+Disallow: /*?sort_by
+Disallow: /*?sort
+Disallow: /*?type
+Disallow: /*?rate
+Disallow: /products/*
+Disallow: /collections/*
+
+User-agent: facebookcatalog/1.0
+Disallow: /*.mp4$
+Sitemap: https://www.vevor.fr/sitemap/sitemap-index.xml

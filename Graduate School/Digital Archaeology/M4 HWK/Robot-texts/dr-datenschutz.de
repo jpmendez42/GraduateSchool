@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/cache/
+Disallow: /snippet/
+Disallow: /wp-content/themes/
+Disallow: /wp-content/plugins/
+Disallow: /subsites/
+
+Sitemap: https://www.dr-datenschutz.de/sitemap_index.xml

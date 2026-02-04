@@ -1,0 +1,45 @@
+# SEOに重要なクローラーを許可
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+# 広告および分析クローラーをブロック
+User-agent: ias-ie
+Disallow: /
+
+User-agent: ias-va
+Disallow: /
+
+User-agent: CriteoBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+# その他すべてのクローラーに対する基本ルール
+User-agent: *
+Disallow: /articles/detail/*https:/
+Disallow: /articles/detail/*http:/
+Disallow: /articles/detail/*/page_view*
+Disallow: /articles/detail/*/aggregate
+Disallow: /articles/gallery/*/aggregaty
+Disallow: /articles/detail/*/ajax
+Disallow: /articles/gallery/*/ajax
+Disallow: /articles/detail/*.js
+Disallow: /articles/gallery/*.js
+Allow: /
+Sitemap: https://animageplus.jp/sitemap.xml

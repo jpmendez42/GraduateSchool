@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /miway-transit/r/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: AhrefsBot
+Disallow: /
+
+Sitemap: https://www.mississauga.ca/wp-sitemap.xml

@@ -1,0 +1,9 @@
+User-agent: SiteimproveBot-Crawler
+Allow: /
+
+User-agent: *
+Allow: /kundservice/fragor-och-svar/*
+Allow: /en/customer-service/frequently-asked-questions/*
+Disallow: /kvitto/
+Disallow: /bekraftelse/
+Sitemap: https://www.sj.se/sitemap.xml

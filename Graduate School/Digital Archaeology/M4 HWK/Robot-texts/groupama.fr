@@ -1,0 +1,68 @@
+
+User-agent: *
+Disallow: /*xtor*
+Disallow: /*jsessionid*
+Disallow: /web/guest/
+Disallow: /*?*cr=*
+Disallow: /*?*xtor=*
+Disallow: /*?*axis=*
+Disallow: /*?*p_p_id=*
+Disallow: /*?*lm=*
+Disallow: /*?*p_p_lifecycle=*
+Disallow: /*?*gclid=*
+Disallow: /*?*p_p_state=*
+Disallow: /*?*dfaid=*
+Disallow: /*?*gclsrc=*
+Disallow: /*?*p_p_mode=*
+Disallow: /*?*p_p_cacheability=*
+Disallow: /*?*p_p_col_id=*
+Disallow: /*?*_rechercheragenceheader_WAR_sitemarchandappportlet_*
+Disallow: /*?*p_p_col_pos=*
+Disallow: /*?*p_p_col_count=*
+Disallow: /*?*socid
+Disallow: /*?*fbclid
+Disallow: /*?*wpmobileexternal
+Disallow: /web
+Disallow: /*dtMonitor*
+Disallow: /dtMonitor*
+Disallow: /*?codepostal=*
+Disallow: /*?codePostal=*
+Disallow: /lp/*
+Disallow: /*agriculteurs-header-footer-theme/*
+Disallow: /*particulier-header-footer-theme/*
+Disallow: /old-browser/*
+Disallow: /faq/?query=*
+
+
+#blocage des tunnels
+Allow:/devis-mrh/$
+Allow:/devis-sante/$
+Allow:/devis-auto/$
+Disallow: /devis/*
+Disallow: /devis-*
+Disallow: /professionnels-devis/*
+Disallow: /velo-devis/*
+Disallow: /assurance-agricole/demande-devis/*
+Disallow: /souscription-devis/*
+
+Disallow: /nous-contacter
+Disallow: /legacy/*
+Disallow: /newsletter/*
+Disallow: /newsletters/*
+Disallow: /documents/*
+Disallow: /_next/data/*
+Disallow: /*auth*
+
+#email
+Disallow: /email/*
+
+Disallow:/documents/*/Facebook-logo.png*
+Disallow:/documents/*/Twitter-logo.png*
+Disallow:/documents/*/daylimotion-logo.png*
+Disallow:/documents/*/YouTube-logo.png*
+
+User-agent: yopdf
+Disallow: /
+User-agent: spbot
+Disallow: /
+sitemap: https://www.groupama.fr/sitemap.xml

@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /(top)_sp*
+Disallow: /(url)_sp*
+Disallow: /campaign_sp*
+Disallow: /coupon_sp/id/*
+Disallow: /faq_sp*
+Disallow: /media_sp*
+Disallow: /monitors_sp*
+Disallow: /new_sp*
+Disallow: /news_sp*
+Disallow: /sitemap_sp*
+Disallow: /studyqa_sp*
+
+User-agent: MJ12bot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: Yandex
+Disallow: /
+User-agent: baiduspider
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: BingBot
+Crawl-delay: 10
+
+User-agent: Googlebot
+Disallow: /*/page_view_event/aggregate
+Disallow: /*/page_action/aggregate
+Disallow: /*/spa/aggregate
+Disallow: /*/jserrors/aggregate
+Disallow: /*/ajax/aggregate
+Disallow: /*/session_trace/aggregate
+Disallow: /*/page_view_timing/aggregate
+Disallow: /*/metrics/aggregate
+
+Sitemap: https://studying.jp/sitemap.xml

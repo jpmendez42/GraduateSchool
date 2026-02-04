@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-content/plugins/
+Disallow: /wp-includes/
+Disallow: */?s=
+Disallow: */feed/
+Disallow: */search/
+Disallow: /wp-login.php
+Disallow: */tim-kiem?s=
+Allow: /wp-admin/admin-ajax.php
+Sitemap: https://vinahost.vn/sitemap_index.xml

@@ -1,0 +1,13 @@
+User-agent: *
+
+Disallow: /impressum/
+Disallow: /en/imprint/
+Disallow: /cookie-richtlinien/
+Disallow: /en/cookie-policy/
+Disallow: /datenschutz/
+Disallow: /en/privacy-notice/
+Disallow: /unternehmen/standorte/
+Disallow: /en/company/locations/
+
+Sitemap: https://www.hacon.de/sitemap.xml
+Sitemap: https://www.hacon.de/en/sitemap.xml

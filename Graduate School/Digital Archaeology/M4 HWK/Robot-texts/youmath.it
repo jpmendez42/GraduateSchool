@@ -1,0 +1,369 @@
+####################################
+# Last edit: 10/07/2025 18:29 CEST #
+####################################
+
+# https://developers.google.com/search/docs/crawling-indexing/robots/robots_txt?hl=it
+
+# Meglio non usare wildcard nei nomi degli user agent
+
+# Se non specifichi la versione dello user agent, si applica a tutte le versioni dello user agent
+
+##########
+# LIBERI #
+##########
+
+###
+### Crawler
+###
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+
+# Google
+# (bloccati implicitamente: googleother & varianti, google-extended, google-cloudvertexbot, gemini-deep-research, google-read-aloud, googledocs)
+User-agent: FeedFetcher-Google
+User-agent: Google-Safety
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Video
+User-agent: Googlebot-News
+User-agent: GoogleProducer
+User-agent: Storebot-Google
+
+# Microsoft
+User-agent: Bingbot
+User-Agent: BingPreview
+
+# Qwant
+User-agent: Qwantbot
+
+# Tiscali
+User-agent: IstellaBot
+
+# Yahoo
+User-agent: Slurp
+
+###
+### ADV
+###
+
+# 1PlusX
+User-agent: Opebot-v
+
+# AdmantX
+User-agent: ADmantX
+User-agent: admantx-eusyncbatch01
+User-agent: admantx-testex
+
+# Amazon
+User-agent: AMZNKAssocBot
+User-agent: AmazonAdBot
+User-agent: Amazon-Advertising-ad-standards-bot
+User-agent: APS-ad-standards-bot
+
+# Azerion
+User-agent: AzerionEdgeBrowser
+
+# Bidswitch
+User-agent: bidswitchbot
+
+# Clickagy
+User-agent: Clickagy
+
+# Comscore
+User-agent: proximic
+
+# Criteo
+User-agent: CriteoBot
+
+# DataXu
+User-agent: DataXu
+
+# DoubleVerify
+User-agent: DoubleVerify
+User-agent: DoubleVerifyBot
+User-agent: Leikibot
+
+# Exte
+User-agent: ExteContextCrawl
+
+# Google
+User-agent: AdsBot-Google-Mobile
+User-agent: AdsBot-Google
+User-agent: Google-adstxt
+User-agent: Mediapartners-Google
+
+# GumGum
+User-agent: Verity
+
+# IAB
+User-agent: AdsTxtCrawler
+User-agent: IAB-Tech-Lab
+
+# IAS
+User-agent: ias_crawler
+User-agent: ias-ie
+User-agent: ias-va
+User-agent: ias_wombles
+
+# Microsoft
+User-agent: AdIdxBot
+
+# Moat
+User-agent: moatbot
+
+# Oracle
+User-agent: GrapeshotCrawler
+
+# Outbrain
+User-agent: outbrain
+
+# Quantcast
+User-agent: Quantcastbot
+
+# Peer39
+User-agent: peer39_crawler
+
+# Sirdata
+User-agent: SirdataBot
+
+# The Trade Desk
+User-agent: TTD-Content
+
+# Viralize
+User-agent: SemanticHero
+User-agent: ViralizeBot
+
+# Weborama
+User-agent: weborama-fetcher
+
+# ZZZ_Sconosciuti
+User-agent: adaptmx_ads_txt
+User-agent: adbeat_bot
+User-agent: adbeat-check-access-script
+User-agent: AdkernelTopicCrawler
+User-agent: AdmixerBot
+User-agent: AdsTxtCrawler-CyberAgent
+User-agent: AudigentAdBot
+User-agent: Bidtellect
+User-agent: ContextWebCom-Ads.txt
+User-agent: DVBot
+User-agent: FreakOutAdsTxtBot
+User-agent: StackAdapt_AdsTxt
+User-agent: uipbot
+User-agent: Zulu5
+
+# Nome per robots.txt sconosciuto (spazi non supportati, nomi non individuabili):
+# Adstxt Parser, Demandbase Inc.
+# Centro Ads.txt Crawler
+# IAB ATQ team adform robot
+# PubMatic Crawler Bot
+# Richaudience Ads.txt Checker
+# Sellers.Guide Crawler by Primis
+# scan ads.txt
+# StackAdapt AdsTxtCrawler/1.0
+# Trade Desk ads.txt & sellers.json crawler
+# Yahoo Ad Monitoring
+
+###
+### PAGAMENTI
+###
+
+# PayPal
+User-agent: PayPal
+
+# Stripe
+User-agent: Stripe
+
+###
+### SOCIAL
+###
+
+# Meta
+User-agent: facebookexternalhit
+
+# Linkedin
+User-Agent: LinkedInBot
+
+# Pinterest
+User-agent: Pinterestbot
+
+# Telegram
+User-agent: TelegramBot
+
+# Whatsapp
+User-agent: WhatsApp
+
+# X
+User-agent: Twitterbot
+
+###
+### TECNICI
+###
+
+# Cloudflare
+User-agent: CloudFlare-AlwaysOnline
+User-agent: Cloudflare-Healthchecks
+User-agent: Cloudflare-Traffic-Manager
+User-agent: CloudFlare-Prefetch
+User-agent: Cloudflare-SSLDetector
+User-agent: PTST
+User-agent: Cloudflare-diagnostics
+
+# Google
+User-agent: APIs-Google
+User-agent: Chrome-Lighthouse
+User-agent: Google-InspectionTool
+User-agent: Google-Site-Verification
+
+# Microsoft
+User-agent: MicrosoftPreview
+
+# well-known.dev
+User-agent: WellKnownBot
+
+# Wikipedia
+User-agent: IABot
+User-agent: InternetArchiveBot
+
+###
+### REGOLE
+###
+
+# Attenzione alle parti di url equivocabili. Meglio vincolarle con .html e con /.../
+
+Disallow: /administrator/
+Disallow: /cache/
+
+Disallow: /components/
+Allow: /components/com_comprofiler/js/
+Allow: /components/com_comprofiler/plugin/templates/default/images/avatar/tnnophoto_n.png
+Allow: /components/com_comprofiler/plugin/templates/default/images/avatar/nophoto_n.png
+
+Allow: /components/com_kunena/template/default/images/
+Allow: /components/com_kunena/template/default/media/
+Allow: /components/com_kunena/template/Formality_16/images/
+Allow: /components/com_kunena/template/Formality_16/media/iconsets/buttons/default/default.png
+
+Disallow: /includes/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+
+Disallow: /plugins/
+Allow: /plugins/editors/jce/tiny_mce/plugins/emotions/img/
+Allow: /plugins/editors/tinymce/jscripts/tiny_mce/plugins/emotions/img/
+
+Disallow: /tmp/
+Disallow: /xmlrpc/
+
+Disallow: /ricerca.html
+Disallow: /deepmath.html?
+
+Disallow: /component/user
+Disallow: /index.php?option=com_user
+
+Disallow: /login.html
+Disallow: /logout.html
+Disallow: /cb-logout.html
+Disallow: /remind.html
+Disallow: /reset.html
+Disallow: /registrati.html
+Disallow: /cb-profile
+
+Disallow: /component/comprofiler
+Disallow: /index.php?option=com_comprofiler
+Disallow: /il-tuo-profilo
+Disallow: /cerca-un-utente
+Disallow: /messaggi-privati
+Disallow: /moderazione
+
+Disallow: /forum/il-bar-dello-sport/
+Disallow: /forum/fantacalcio
+Disallow: /forum/presentati/101-se-non-sei-timido.html
+Disallow: /*/create
+Disallow: /*/reply
+Disallow: /*/edit
+Disallow: /*/moderate
+Disallow: /*/task-
+Disallow: /forum/user
+
+Disallow: /component/hikashop
+Disallow: /index.php?option=com_hikashop
+Disallow: /ebook-e-libri/address
+Disallow: /ebook-e-libri/checkout
+Disallow: /ebook-e-libri/order
+Disallow: /ebook-e-libri/product
+Disallow: /shop/address
+Disallow: /shop/checkout
+Disallow: /shop/order
+Disallow: /shop/product
+
+Disallow: /component/ariquiz
+Disallow: /index.php?option=com_ariquiz
+Disallow: /*/Results-
+Disallow: /*/Question-
+
+###################
+# BLOCCO PARZIALE #
+###################
+
+# AI rilevanti
+
+User-agent: Alexa
+User-agent: Amazonbot
+User-agent: anthropic-ai
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: ChatGPT-User/2.0
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: cohere-ai
+User-agent: cohere-training-data-crawler
+User-agent: Gemini-Deep-Research
+User-agent: GPTBot
+User-agent: DuckAssistBot
+User-agent: FacebookBot
+User-agent: Google-CloudVertexBot
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+User-agent: meta-externalagent
+User-agent: meta-externalfetcher
+User-agent: MistralAI-User
+User-agent: OAI-SearchBot
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: TikTokSpider
+
+# Regola di blocco
+
+Disallow: /
+Allow: /lezioni.html 
+Allow: /esercizi.html
+Allow: /ym-tools-calcolatore-automatico.html
+Allow: /domande-a-risposte.html
+Allow: /forum.html
+Allow: /scuola-primaria.html
+Allow: /ebook-e-libri-di-youmath.html
+Allow: /gioca-con-la-matematica.html
+Allow: /blog.html
+Allow: /chi-siamo.html
+Allow: /dicono-di-noi.html
+Allow: /staff-e-collaboratori
+
+#################
+# BLOCCO TOTALE #
+#################
+
+# Tutto ciò che non è stato messo esplicitamente in whitelist
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,17 @@
+User-Agent: *
+Allow: /reg/
+Disallow: /reg/0*-*
+Disallow: /reg/1*-*
+Disallow: /reg/2*-*
+Disallow: /reg/3*-*
+Disallow: /reg/4*-*
+Disallow: /reg/5*-*
+Disallow: /reg/6*-*
+Disallow: /reg/7*-*
+Disallow: /reg/8*-*
+Disallow: /reg/9*-*
+Allow: /p/
+Disallow: /
+
+user-agent: AhrefsBot
+disallow: /

@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /user-session-proxy/*
+Disallow: /paywall/*
+Disallow: /partials/*
+Disallow: /subskrypcja?
+Disallow: /*?utm_aureus=*
+Disallow: /__acc/
+Disallow: /_cdf/
+Disallow: /_variant/
+Disallow: /a8f4d8cd95e164917035b64b867a45dd

@@ -1,0 +1,127 @@
+User-agent: Nutch
+Disallow: /
+
+User-agent: *
+
+#SPAM /1000 19/01/2024
+Disallow: */1000
+
+
+#####################
+# crawl issue 2020-03
+#####################
+Disallow: *optinConfig*
+Disallow: *brandconfiguration.json*
+Disallow: /*/(page)/*cac*
+Disallow: /*/(offset)/*cac*
+Disallow: /*/(page)/*fac*
+Disallow: /*/(offset)*fac*
+Disallow: /*/(page)/*tel*
+Disallow: /*/(offset)/*tel*
+Disallow: /*/(page)/*bea*
+Disallow: /*/(offset)/*bea*
+Disallow: /*/(page)/*neo*
+Disallow: /*/(offset)/*neo*
+Disallow: /*/(page)/*geo*
+Disallow: /*/(offset)/*geo*
+Disallow: /*/(page)/*cam*
+Disallow: /*/(offset)/*cam*
+Disallow: /*/(page)/*voi*
+Disallow: /*/(offset)/*voi*
+Disallow: /*/(page)/*gal*
+Disallow: /*/(offset)/*gal*
+Disallow: /*/(page)/*ser*
+Disallow: /*/(offset)/*ser*
+Disallow: /*/(offset)/*/(offset)/*
+##################
+Disallow: /a_nous_la_parole/forums/
+Disallow: /a_nous_la_parole/tests/*/(page)/index/(numPage)/*
+Disallow: /a_nous_la_parole/sondages/(page)/index/(numPage)/*/(ordre)/*
+Disallow: /contacts/
+Disallow: /editos/
+Disallow: /content/view/full/*
+Disallow: /layout/*
+Disallow: /multimedia/jeux/lettriq-pour-le-plaisir-des-mots-01417/(page)/*
+Disallow: /perso/tipafriend/*
+Disallow: /perso/subscribe/redirection/*
+Disallow: /service/*
+Disallow: /smileuserutils/
+Disallow: /xajax/
+Disallow: /content/advancedsearch/
+Disallow: /content/search/
+Disallow: /beaute/formulaires-jeux/
+Disallow: /media/
+Disallow: *(cravate)*
+Disallow: *?gclid=*
+Disallow: *?item_id=*&tree_id=*
+Disallow: *(more)*
+Disallow: *(ordre)*
+Disallow: *(order)*
+Disallow: *(question)*
+Disallow: *(theme)*
+Disallow: *(view_comments)*
+Disallow: /annuaire/fiche/*
+Disallow : /sondage/sondage/*
+Disallow : /content/search?
+Disallow: */(page)/-*
+Disallow: /vbulletin/
+Disallow: /content/collectedinfo/
+Disallow: /mode/formulaires-jeux/$
+Disallow: /beaute/formulaires-jeux/$
+Disallow: /deco/formulaires-jeux/$
+Disallow: /cuisine/formulaires-jeux/$
+Disallow: /minceur/formulaires-jeux/$
+Disallow: /amour/formulaires-jeux/$
+Disallow: /culture/formulaires-jeux/$
+Disallow: /voyage/formulaires-jeux/$
+Disallow: /design/femmeactuelle/images/lecteur.swf
+Disallow: /bookmark/get/
+Disallow: *ved=*
+Disallow: *sa=*
+Disallow: /ads/
+Disallow: /play/*
+#demande 06/2018
+Disallow:/actu/news-actu/ophelie-winter-hospitalisee-pour-raisons-psychiatriques-50455
+Disallow: /actu/news-actu/superbus-le-groupe-de-jennifer-ayache-bouseux-40033
+Disallow: /profile/private/bookmark
+Disallow: /pmc/sso
+Disallow: /recherche
+Disallow: /guides
+Disallow: /guides/*
+
+#######
+# 07/07/2021
+#######
+Disallow: *?*_gl*
+Disallow: *?*utm_*
+
+Disallow: /sante/base-medicaments/recherche
+
+Disallow: *?amp$
+
+User-Agent: Mediapartners-Google
+Disallow : /amour/sexo/kamasutra-positions-en-images-14919
+
+User-agent: CCBot
+Disallow: /
+
+# ajout 15/05/2025
+
+User-agent: Meltwater
+Disallow: /
+
+User-agent: Trendiction/Talkwalker
+Disallow: /
+
+User-agent: Uber Metrics Technologies Unicepta
+Disallow: /
+
+User-agent: Panalis
+Disallow: /
+
+User-agent: LexisNexis
+Disallow: /
+
+Sitemap: https://www.femmeactuelle.fr/sitemap/articles.xml
+Sitemap: https://www.femmeactuelle.fr/sitemap/recipes.xml
+Sitemap: https://www.femmeactuelle.fr/sitemap/videos.xml

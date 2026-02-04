@@ -1,0 +1,8 @@
+User-Agent: *
+Sitemap: https://www.bahnhof.de/sitemap.xml
+Disallow: /api/*
+Disallow: /meldungen
+Disallow: /meldung
+Disallow: /en/alerts
+Disallow: /merkliste
+Disallow: /en/favorites

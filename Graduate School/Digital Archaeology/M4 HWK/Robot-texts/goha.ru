@@ -1,0 +1,69 @@
+User-agent: Yandex
+Disallow: /?*
+Disallow: /api*
+Disallow: /search*
+Disallow: /alt$
+Disallow: /alt?*
+Disallow: /games/search*
+Disallow: /games/announce/*
+Disallow: /games/announce?*
+Disallow: /games/waiting/*
+Disallow: /games/waiting?*
+Disallow: /games/top/*
+Disallow: /games/top?*
+Disallow: /games/genre:*
+Disallow: /games/platform:*
+Disallow: /games/context:*
+Disallow: /games/subscription:*
+Disallow: /games/datestr:*
+Disallow: /games/after:*
+Disallow: /games/before:*
+Disallow: /games/order:*
+Disallow: /games?*
+Disallow: /games/?*
+Disallow: /index.php*
+Disallow: /avatar/*
+Disallow: /preview/*
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Clean-param: text /games/*
+Clean-param: noredir /*
+Clean-param: search /*
+Sitemap: https://www.goha.ru/sitemap/yandex.xml
+
+User-agent: *
+Crawl-delay: 1
+Disallow: /?*
+Disallow: /api*
+Disallow: /search*
+Disallow: /alt$
+Disallow: /alt?*
+Disallow: /games/search*
+Disallow: /games/announce/*
+Disallow: /games/announce?*
+Disallow: /games/waiting/*
+Disallow: /games/waiting?*
+Disallow: /games/top/*
+Disallow: /games/top?*
+Disallow: /games/genre:*
+Disallow: /games/platform:*
+Disallow: /games/context:*
+Disallow: /games/subscription:*
+Disallow: /games/datestr:*
+Disallow: /games/after:*
+Disallow: /games/before:*
+Disallow: /games/order:*
+Disallow: /games?*
+Disallow: /games/?*
+Disallow: /index.php*
+Disallow: /avatar/*
+Disallow: /preview/*
+Allow: *.css
+Allow: *.js
+Allow: *.jpg
+Sitemap: https://www.goha.ru/sitemap.xml
+Sitemap: https://www.goha.ru/sitemap/images.xml
+
+
+Host: https://www.goha.ru

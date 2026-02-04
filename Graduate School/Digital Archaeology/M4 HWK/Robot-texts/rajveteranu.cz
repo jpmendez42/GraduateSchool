@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /index.php?akce=zmenit_tarif*
+Disallow: /index.php?akce=prodlouzeni*
+Disallow: /index.php?akce=neschvalit_auto*
+Disallow: /index.php?akce=smazat_auto*
+Disallow: /index.php?akce=archiv_oznacit_auto*
+Disallow: /index.php?akce=nesportovni_auto*
+Disallow: /r.php*
+Disallow: /gopay*
+Sitemap: https://www.rajveteranu.cz/sitemap.xml

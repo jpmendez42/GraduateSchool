@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /$
+Allow: /*.html$
+Allow: /*.txt$
+Allow: /about/$
+Allow: /agreement/$
+Allow: /create/$
+Allow: /domain/
+Allow: /css/
+Allow: /i/
+Allow: /partner/$
+Allow: /partner/agreement/$
+Allow: /partner/manual/$
+Disallow: /

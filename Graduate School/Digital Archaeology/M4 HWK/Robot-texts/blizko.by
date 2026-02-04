@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+Disallow: /users/
+Disallow: */edit$
+Host: blizko.by
+
+Sitemap: https://blizko.by/sitemap.xml.gz
+
+User-agent: YandexNews
+Allow: /feed.rss
+
+User-agent: Yandex
+Disallow: *.amp
+Clean-param: nw /
+Clean-param: reg /
+
+User-agent: SEBot-WA
+Disallow: /notes/
+Disallow: /sales/
+Disallow: /regions/
+Disallow: /metros/
+Disallow: /companies/
+Disallow: /topics/
+Disallow: /articles$

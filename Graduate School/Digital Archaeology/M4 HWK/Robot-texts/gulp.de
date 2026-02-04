@@ -1,0 +1,91 @@
+# Hi there,
+#
+# If you're sniffing around this file and you're not a robot, hello to you!
+# Noticed any improvement? Feel free to reach out to Deniz Yildirim-Ozturk or Luisa Schumann.
+#
+# Cheers
+User-agent: *
+# CSS, JS, Images
+Allow: /core/*.css$
+Allow: /core/*.css?
+Allow: /core/*.js$
+Allow: /core/*.js?
+Allow: /core/*.gif
+Allow: /core/*.jpg
+Allow: /core/*.jpeg
+Allow: /core/*.png
+Allow: /core/*.svg
+Allow: /profiles/*.css$
+Allow: /profiles/*.css?
+Allow: /profiles/*.js$
+Allow: /profiles/*.js?
+Allow: /profiles/*.gif
+Allow: /profiles/*.jpg
+Allow: /profiles/*.jpeg
+Allow: /profiles/*.png
+Allow: /profiles/*.svg
+# Exclude parameters for SEO
+Disallow: /ekd/
+
+Disallow: /cgi-gulpsearch/
+Disallow: /cgi-gulp/
+Disallow: /CGI-GULP/
+Disallow: /cgi-std/
+Disallow: /cgi-firma/
+Disallow: /printdoc?/
+Disallow: /projekte/waehrisch.html
+Disallow: /projekte/caesgmbh.html
+Disallow: /projekte/cszwei.html
+Disallow: /projekte/quadri.html
+Disallow: /projekte/spirit.html
+Disallow: /projekte/spsconsulting.html
+Disallow: /projekte/spvgmbh.html
+Disallow: /projekte/sticon.html
+Disallow: /projekte/t-systems.html
+Disallow: /projekte/vtsunterlindau.html
+Disallow: /projekte/luckeedv.html
+Disallow: /projekte/norcomag.html
+Disallow: /projekte/saxsys.html
+Disallow: /projekte/tribar.html
+Disallow: /projekte/ususoftware.html
+Disallow: /gulp2/g/*region
+Disallow: /subscriptions/optout?uid=*
+Disallow: /*/bewerbung-ohne-profil
+Disallow: /v/
+Disallow: /ub/
+Disallow: /README.txt
+Disallow: /web.config
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /search/
+Disallow: /user/register
+Disallow: /user/password
+Disallow: /media/oembed
+Disallow: /*/media/oembed
+Disallow: /index.php/admin/
+Disallow: /index.php/comment/reply/
+Disallow: /index.php/node/add/
+Disallow: /index.php/search/
+Disallow: /index.php/user/password
+Disallow: /index.php/user/register
+Disallow: /index.php/media/oembed
+Disallow: /index.php/*/media/oembed
+Disallow: /personalagentur-support-0
+Disallow: /merklisten
+Disallow: /sammelkontaktierung
+Disallow: /team-funktion
+Disallow: /stundensatz-analyse
+Disallow: /gulp-direkt-englisch
+Disallow: /automatisches-matching
+Disallow: /projektausschreibung
+Disallow: /experten-suche
+Disallow: /gulp-direkt-registrierung-fuer-oeffentliche-suche
+Disallow: /erstellen-profil
+Disallow: /passende-job
+Disallow: /teaser-freelancer-projektsuche
+Disallow: /en/
+Disallow: /de-ch
+Disallow: /login?rt=*
+
+# XML Index sitemap
+Sitemap: https://www.gulp.de/sitemap.xml

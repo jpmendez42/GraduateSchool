@@ -1,0 +1,198 @@
+User-agent: *
+Sitemap: https://www.dwds.de/sitemap.xml
+Disallow: /fussball
+Disallow: /freq
+Disallow: /profile
+Disallow: /r
+Disallow: /wp
+
+# text and data mining bots
+User-agent: AI2Bot
+Disallow: /
+
+User-agent: Ai2Bot-Dolma
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Bloodhound
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+# Common Crawl
+User-agent: CCBot
+Disallow: /
+
+# ChatGPT users, see also below ChatGPT
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: cohere-training-data-crawler
+Disallow: /
+
+User-agent: Crawlspace
+Disallow: /
+
+# Cydral Image Search
+User-agent: cydralspider
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: downloadexpress
+Disallow: /
+
+User-agent: DuckAssistBot
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+User-agent: FriendlyCrawler
+Disallow: /
+
+User-agent: gammaSpider
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+User-agent: GoogleOther-Image
+Disallow: /
+
+User-agent: GoogleOther-Video
+Disallow: /
+
+# ChatGPT
+User-agent: GPTBot
+Disallow: /
+
+User-agent: iaskspider/2.0
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: img2dataset
+Disallow: /
+
+User-agent: ISSCyberRiskCrawler
+Disallow: /
+
+User-agent: Kangaroo Bot
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+# MeltwaterNews
+User-agent: Meltwater
+Disallow: /
+
+# Meta
+User-agent: Meta-ExternalAgent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: ObjectsSearch
+Disallow: /
+
+# webz.io
+User-Agent: omgili
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-agent: PanguBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Pimptrain
+Disallow: /
+
+User-agent: Raven
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: sentibot
+Disallow: /
+
+User-agent: Sidetrade indexer bot
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: wapspider
+Disallow: /
+
+User-agent: WebZinger
+Disallow: /
+
+User-agent: Webzio-Extended
+Disallow: /
+
+User-agent: YouBot
+Disallow: /
+
+# Legal Notice: The Digital Dictionary of the German Language (DWDS, dwds.de)
+# explicitly retains the right to utilize its content for commercial text and
+# data mining in accordance with § 44b UrhG. Unauthorized use of robots or other
+# automated mechanisms to access dwds.de or to gather or mine data is strictly
+# forbidden without explicit consent from DWDS. DWDS may, at its discretion,
+# allow specific automated access to designated dwds.de pages. To request
+# permission for crawling dwds.de, data collection, or usage, please contact
+# <mailto:dwds@bbaw.de>.

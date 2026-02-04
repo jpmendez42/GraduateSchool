@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <!-- environment: production -->
+    <meta charset="utf-8">
+    <title>Home – BerlinOnline GmbH</title>
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <link rel="shortcut icon" href="/assets/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="/assets/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="/static/css/main.css">
+
+    <!--[if IE 9]>
+        <link rel="stylesheet" href="/static/css/ie-9.css">
+    <![endif]-->
+
+    <!--[if lte IE 9]>
+        <script type="text/javascript" src="/static/js/html5.js"></script>
+        <link rel="stylesheet" href="/static/css/ie-lte9.css">
+    <![endif]-->
+
+    <!--[if lt IE 9]>
+        <link rel="stylesheet" href="/static/css/ie-lt9.css">
+        <script type="text/javascript" src="/static/js/jquery-1.10.2.min.js"></script>
+        <script type="text/javascript" src="/static/js/ie-lt9-fixes.js"></script>
+        <script type="text/javascript" src="/static/js/respond.min.js"></script>
+    <![endif]-->
+</head>
+
+    <body>
+        <header class="page-header page-margin">
+    <h1 class="title"><a href="/">BerlinOnline GmbH</a></h1>
+</header>
+<nav class="main-nav">
+<label for="main-nav-toggle" class="main-nav__label">Menü</label>
+<input type="checkbox" id="main-nav-toggle" class="main-nav__toggle">
+
+
+    <ul class="nav nav--block ">
+<li><a href="/unternehmen">Unternehmen</a></li>
+<li><a href="/redaktion">Redaktion</a></li>
+<li><a href="/beratung-entwicklung">Beratung &amp; Entwicklung</a></li>
+<li><a href="/kontakt">Kontakt</a></li>
+</ul>
+
+</nav>
+
+
+
+
+
+        <div class="main  home ">
+            <section class="hero__unit">
+    <div class="page-margin">
+    
+    <h1>Wir&nbsp;bringen Berlin&nbsp;online</h1>
+
+<p>BerlinOnline ist Ihr kommunaler Partner für nachhaltige Internetlösungen</p>
+
+    </div>
+</section>
+
+
+<div class="page-margin">
+
+    <section class="home">
+
+            <div class="grid">
+                
+                
+                <div class="home__teaser"><h2>Entwicklung</h2><p>Wir betreiben und entwickeln Internetportale und Webapplikationen individuell mit dem Fokus auf Qualität und Nachhaltigkeit.</p><p><a href="/beratung-entwicklung">Erfahren Sie mehr! »</a></p></div><div class="home__teaser"><h2>Redaktion</h2><p>Die besten Inhalte für das reichweitenstärkste Stadtportal Deutschlands. </p><p><a href="/redaktion">Erfahren Sie mehr! »</a></p></div><div class="home__teaser"><h2>Kontakt</h2><p>Kommen wir ins Gespräch! Wir freuen uns darauf, Sie kennen zu lernen. <br /><br /></p><p><a href="/kontakt/">Kontakt aufnehmen »</a></p></div>
+                
+            </div>
+    </section>
+</div>
+
+<hr />
+
+<div class="page-margin">
+    <div class="home_portfolio grid centered">
+        <div class="grid__item desk-one-whole">
+            <h2>Digitalagentur</h2>
+            <p>Seit 1998 stehen wir für innovative E-Government-Lösungen. Unser erfahrenes Team entwickelt Portale, Apps und Webapplikationen für öffentliche Verwaltungen.</p>
+
+            <p><a class="btn btn__bonet small" href="/beratung-entwicklung/leistungen">Unsere Leistungen</a></p>
+
+            <a href="/beratung-entwicklung/referenzen/berliner-serviceportal/" class="references"><img class="bottom" src="/assets/referenzen/serviceportal.png" alt="Screenshot des Serviceportal Berlin"></a>
+        </div>
+    </div>
+</div>
+
+            
+        </div>
+        
+                <footer class="page-footer"><div class="page-margin"><div class="inner"><div class="grid grid--rev"><div class="grid__item desk-one-quarter lap-one-third palm-one-half"><section class="page-footer__contact"><p><a href="https://www.diqp.eu/testergebnisse/familienfreundlicher-arbeitgeber/berlinonline-gmbh/" title="Link zum Nachweis für das Siegel Familienfreundlicher Arbeitgeber für 2025 und 2026" target="_blank"><img src="/static/images/siegel_famfreu_ag_25_26.jpeg" alt="Siegel Familienfreundlicher Arbeitgeber für 2025 und 2026" width="160" /></a></p></section></div><div class="grid__item desk-one-quarter lap-one-third palm-one-half"><section class="page-footer__contact"><!-- DO NOT REMOVE TRAILING WHITESPACE HERE! --><p><strong>BerlinOnline GmbH</strong><br /><br />
+Stefan-Heym-Platz 1<br />
+10367 Berlin</p><p>Tel.: +49 30 5771180-90<br />
+Fax.: +49 30 5771180-95<br /><a href="mailto:info@berlinonline.de">info@berlinonline.de</a></p><p><a class="socialmedia" href="https://www.instagram.com/berlinonline" title="Instagram @berlinonline" target="_blank"><img src="/static/images/instagram.svg" /></a><a class="socialmedia" href="https://www.linkedin.com/company/berlinonline-gmbh/" title="LinkedIn-Seite der BerlinOnline GmbH" target="_blank"><img src="/static/images/linkedin.svg" /></a><a class="socialmedia" href="https://www.xing.com/pages/berlinonline-gmbh" title="Xing-Profil der BerlinOnline GmbH" target="_blank"><img src="/static/images/xing.svg" /></a></p></section></div><div class="grid__item desk-two-quarters lap-two-thirds palm-one-whole"><nav class="sitemap"><ul><li><a href="/unternehmen"><strong>Unternehmen</strong></a><ul><li><a href="/unternehmen/team">Team</a></li><li><a href="/unternehmen/karriere">Jobs</a></li><li><a href="/unternehmen/impressum">Impressum</a></li><li><a href="/unternehmen/transparenz">Transparenz</a></li><li><a href="/unternehmen/datenschutzerklaerung">Datenschutz</a></li><li><a href="/unternehmen/interne-meldestelle">Interne Meldestelle</a></li><li><a href="/kontakt">Kontakt</a></li></ul></li><li><a href="/redaktion"><strong>Redaktion</strong></a><ul><li><a href="/redaktion/recherche-konzeption-texterstellung">Texterstellung</a></li><li><a href="/redaktion/bildredaktion-veroeffentlichung-pflege">Bildredaktion</a></li><li><a href="/redaktion/seo-social-media">SEO, Social Media</a></li></ul></li><li><strong><a href="/beratung-entwicklung">Beratung und Entwicklung</a></strong><ul><li><a href="/beratung-entwicklung/leistungen">Leistungen</a></li><li><a href="/beratung-entwicklung/referenzen">Referenzen</a></li><li><a href="/beratung-entwicklung/imperia">Imperia</a></li><li><a href="/beratung-entwicklung/open-source">Open Source</a></li></ul></li></ul></nav></div></div></div></div></footer>
+
+            
+        <script src="/static/js/main.js"></script>
+    </body>
+</html>

@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /member/
+Disallow: /shopping/
+Disallow: /srch/
+Disallow: /help/contact/point
+Sitemap: https://www.rebates.jp/site_map.xml
+Sitemap: https://www.rebates.jp/sitemap_shop_202405.txt
+Sitemap: https://www.rebates.jp/sitemap_search_1_202409.txt
+Sitemap: https://www.rebates.jp/sitemap_search_2_202409.txt
+Sitemap: https://www.rebates.jp/sitemap_search_3_202409.txt
+Sitemap: https://www.rebates.jp/sitemap_search_1_202501.txt
+Sitemap: https://www.rebates.jp/sitemap_search_2_202501.txt
+Sitemap: https://www.rebates.jp/item/sitemap_item_202503.txt
+Sitemap: https://www.rebates.jp/item/sitemap_item_202503_apple_2.txt

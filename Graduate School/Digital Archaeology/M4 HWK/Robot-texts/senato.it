@@ -1,0 +1,346 @@
+User-agent: Acunetix Security Scanner
+Disallow: /
+
+User-Agent: *
+Disallow: /ric/
+Disallow: /ric2012/
+Disallow: /App/Pages/
+User-Agent: *
+
+
+# interrogazione "Portogruaro"
+Disallow: /japp/bgt/showdoc/*indisp*141323
+Disallow: /loc/link.asp?tipodoc=SINDISP*141323
+Disallow: /loc/link.asp?tipodoc=sindisp*141323
+
+# interrogazione "Pace"
+Disallow: /japp/bgt/showdoc/*indisp*59199
+Disallow: /loc/link.asp?tipodoc=SINDISP*59199
+Disallow: /loc/link.asp?tipodoc=sindisp*59199
+
+# interrogazioni "EP" (Delib. Cons. Pres. 62/2015)
+Disallow: /japp/bgt/showdoc/*indisp*91867
+Disallow: /loc/link.asp?tipodoc=SINDISP*91867
+Disallow: /loc/link.asp?tipodoc=sindisp*91867
+Disallow: /service/PDF/PDFServer/BGT/99215.pdf
+
+Disallow: /japp/bgt/showdoc/*indisp*149044
+Disallow: /loc/link.asp?tipodoc=SINDISP*149044
+Disallow: /loc/link.asp?tipodoc=sindisp*149044
+Disallow: /service/PDF/PDFServer/BGT/149076.pdf
+
+# interrogazione "Amara" (Delib. Cons. Pres. 62/2015)
+Disallow: /japp/bgt/showdoc/*indisp*623287
+Disallow: /loc/link.asp?tipodoc=SINDISP*623287
+Disallow: /loc/link.asp?tipodoc=sindisp*623287
+Disallow: /service/PDF/PDFServer/BGT/623236.pdf
+
+# doc XXIII n.11 XIII leg. (Delib. Cons. Pres. 62/2015)
+Disallow: /service/PDF/PDFServer/BGT/301489.pdf
+Disallow: /service/PDF/PDFServer/DF/186318.pdf
+
+# interpellanza 2-00237 XVI Leg.
+Disallow: /japp/bgt/showdoc/*indisp*491930
+Disallow: /loc/link.asp?tipodoc=SINDISP*491930
+Disallow: /loc/link.asp?tipodoc=sindisp*491930
+Disallow: /service/PDF/PDFServer/BGT/*491963.pdf
+
+# interrogazione a risposta orale 3-01420 XVI Leg.
+Disallow: /japp/bgt/showdoc/*indisp*492785
+Disallow: /loc/link.asp?tipodoc=SINDISP*492785
+Disallow: /loc/link.asp?tipodoc=sindisp*492785
+Disallow: /service/PDF/PDFServer/BGT/492759.pdf
+Disallow: /service/PDF/PDFServer/BGT/00492759.pdf
+
+# doc IV n.111 XI Leg. (Delib. Cons. Pres. giugno 2016)
+Disallow: /service/PDF/PDFServer/BGT/781158.pdf
+Disallow: /Web/AutorizzazioniAProcedere.nsf/4a70bc953fec8270c12570810041939a/767e3d23a2a704e1c1256e67003b16f3?OpenDocument
+Disallow: /Web/AutorizzazioniAProcedere.nsf/81728e8490affd63c1257be800368fd9/191f1b2ce812a816c1256eac0037b3b7/$FILE/DOC.%20IV,%20N.%20160.pdf
+Disallow: /Web/16LavoriNewV.nsf/AutorizzazioniProcedereWebAltreLeg?ReadForm&Start=1&Count=999&Expand=11.1&Seq=5
+Disallow: /Web/17LavoriNewV.nsf/AutorizzazioniProcedereWebAltreLeg?ReadForm&Start=1&Count=999&Expand=11.1&Seq=5
+
+# interrogazione a risposta scritta 4-05713 XVI Leg. (Delib. Cons. Pres. giugno 2016)
+Disallow: /japp/bgt/showdoc/*indisp*610733
+Disallow: /loc/link.asp?tipodoc=SINDISP*610733
+Disallow: /loc/link.asp?tipodoc=sindisp*610733
+# resoconto seduta n. 588
+Disallow: /service/PDF/PDFServer/BGT/610706.pdf
+
+
+# interrogazione a risposta scritta 4-05743 XVI Leg. (Delib. Cons. Pres. giugno 2016)
+Disallow: /japp/bgt/showdoc/*indisp*611143
+Disallow: /loc/link.asp?tipodoc=SINDISP*611143
+Disallow: /loc/link.asp?tipodoc=sindisp*611143
+# resoconto seduta n. 592
+Disallow: /service/PDF/PDFServer/BGT/611139.pdf
+
+# interrogazione a risposta scritta 4-06272 XIV Leg.
+Disallow: /service/PDF/PDFServer/BGT/00097897.pdf
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=14&id=00097897&part=doc_dc-allegatob_ab-sezionetit_icrdrs-atto_406272&parse=no&stampa=si&toc=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=14&id=00097897&part=doc_dc-allegatob_ab-sezionetit_icrdrs-atto_406272&parse=si&stampa=si&toc=no
+
+# interrogazione a risposta scritta 4-06803 XVI Leg.
+Disallow: /service/PDF/PDFServer/BGT/00627303.pdf
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=16&id=00627303&part=doc_dc-allegatob_ab-sezionetit_icrdrs-atto_406803&parse=no&stampa=si&toc=no
+
+# interrogazione a risposta scritta 4-06838 XVI Leg.
+Disallow: /service/PDF/PDFServer/BGT/00627427.pdf
+
+# interrogazione a risposta scritta 4-01554 XIII Leg.
+Disallow: /service/PDF/PDFServer/BGT/4695.pdf
+
+# interrogazione a risposta scritta 4-07137 XVI Leg.
+Disallow: /service/PDF/PDFServer/BGT/649583.pdf
+
+# interpellanza 2-00420 XVI Leg.
+Disallow: /service/PDF/PDFServer/BGT/627303.pdf
+
+# interpellanza 2-00424 XVI Leg.
+Disallow: /service/PDF/PDFServer/BGT/631508.pdf
+
+# interrogazione a risposta scritta 4-04016 XIV Leg.
+Disallow: /service/PDF/PDFServer/BGT/114234.pdf
+
+# interrogazione a risposta scritta 4-04790 XVI Leg. (Delibera CdP 28 giugno 2016)
+Disallow: /service/PDF/PDFServer/BGT/526775.pdf
+
+# mozione 1-00016 XV Leg. (Delibera CdP 28 giugno 2016)
+Disallow: /service/PDF/PDFServer/BGT/210267.pdf
+
+# interrogazione a risposta scritta 4-03113 XVII Leg.(DPS 12497 del9 novembre 2016)
+Disallow: /service/PDF/PDFServer/BGT/815133.pdf 
+
+# interrogazione a risposta scritta 4-02540 XIV Leg. (DPS 12498 del 9 novembre 2016)
+Disallow: /japp/bgt/showdoc/*indisp*045670
+Disallow: /loc/link.asp?tipodoc=SINDISP*045670
+Disallow: /loc/link.asp?tipodoc=sindisp*045670
+Disallow: /japp/bgt/showdoc/*indisp*=45670
+Disallow: /loc/link.asp?tipodoc=SINDISP*=45670
+Disallow: /loc/link.asp?tipodoc=sindisp*=45670
+Disallow: /loc/link.asp?tipodoc=Sindisp*=45670
+Disallow: /loc/link.asp?tipodoc=Sindisp*=00045670
+Disallow: /service/PDF/PDFServer/BGT/23725.pdf
+
+# interrogazione a risposta scritta 4-10245 XIV Leg. (DPS 12498 del 9 novembre 2016)
+Disallow: /japp/bgt/showdoc/*indisp*179889
+Disallow: /loc/link.asp?tipodoc=SINDISP*179889
+Disallow: /loc/link.asp?tipodoc=sindisp*179889
+Disallow: /loc/link.asp?tipodoc=Sindisp*179889
+Disallow: /service/PDF/PDFServer/BGT/180099.pdf
+Disallow: /service/PDF/PDFServer/BGT/00180099.pdf
+
+# interrogazione a risposta scritta 4-00509 XV Leg. (DPS 12499 del9 novembre 2016)
+Disallow: /japp/bgt/showdoc/*indisp*219604
+Disallow: /loc/link.asp?tipodoc=SINDISP*219604
+Disallow: /loc/link.asp?tipodoc=sindisp*219604
+Disallow: /service/PDF/PDFServer/BGT/219644.pdf
+
+# interrogazione a risposta scritta 4-07929 XVI Leg. 
+Disallow: /service/PDF/PDFServer/BGT/00667367.pdf
+
+# resoconto stenografico n. 85 del 5 novembre 2008 (Richiesta del 27 luglio 2017)
+Disallow: /japp/bgt/showdoc/*esaula*316485
+Disallow: /service/PDF/PDFServer/BGT/*316485.pdf
+
+# documento "terra dei fuochi" (Richiesta del 27 luglio 2017)
+Disallow: /application/xmanager/projects/leg17/attachments/documento_evento_procedura_commissione/files/000/000/508/legambiente.pdf
+
+# resoconto stenografico n. 678 del 28 settembre 1999 (annuncio interrogazioni n. 3-03105 e n. 3-03106) (Richiesta del 27 luglio 2017)
+Disallow: /service/PDF/PDFServer/BGT/5379.pdf
+
+# resoconto stenografico n. 721 del 26 novembre 1999 (trattazione interrogazioni n. 3-03105 e n. 3-03106) (Richiesta del 27 luglio 2017)
+Disallow: /service/PDF/PDFServer/BGT/5421.pdf
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=5421
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs-gentit_sdi&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs-gentit_sdi-intervento_presidente:1&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs-gentit_sdi-intervento_ayala&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs-gentit_sdi-intervento_decarolis&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs:1-gentit_sdi&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs:1-gentit_sdi-intervento_presidente:2&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs:1-gentit_sdi-intervento_ayala&parse=no&aj=no
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=13&id=00005421&part=doc_dc-allegatob_rs:1-gentit_sdi-intervento_decarolis:1&parse=no&aj=no
+
+# sistema elettorale (effettuato il 19 ottobre 2017)
+Disallow: /1013?testo_generico=3&voce_sommario=58
+Disallow: /1032?testo_generico=12&voce_sommario=63
+
+# manovra di bilancio (effettuato il 19 ottobre 2017)
+Disallow: /2886
+
+Disallow: /info/concorsi/30assistenti/
+Disallow: /info/concorsi/7consiglieri/
+Disallow: /rappinternazionali/96064/
+Disallow: /documenti/repository/affariinternazionali/osservatorio/
+Disallow: /ScribaDoc/
+
+# Richiesta del 2019 06 05 
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=15&id=242972
+Disallow: /japp/bgt/showdoc/15/Sindisp/0/242972/index.html
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=15&id=254184
+Disallow: /japp/bgt/showdoc/15/Sindisp/0/254184/index.html
+Disallow: /service/PDF/PDFServer/BGT/243053.pdf
+Disallow: /service/PDF/PDFServer/BGT/254212.pdf
+
+# Richiesta del 2019 07 17
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindisp&leg=17&id=815129
+Disallow: /service/PDF/PDFServer/DF/312118.pdf
+Disallow: /service/PDF/PDFServer/BGT/473717.pdf
+Disallow: /service/PDF/PDFServer/DF/203974.pdf 
+Disallow: /service/PDF/PDFServer/DF/16141.pdf
+Disallow: /service/PDF/PDFServer/BGT/721231.pdf
+
+# richiesta  16/07/2019
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=15&id=254184 
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=15&id=242972
+
+# richiesta  17/07/2019
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindisp&leg=17&id=815129
+Disallow: /service/PDF/PDFServer/DF/312118.pdf
+Disallow: /service/PDF/PDFServer/BGT/473717.pdf
+Disallow: /service/PDF/PDFServer/DF/203974.pdf
+Disallow: /service/PDF/PDFServer/DF/16141.pdf
+Disallow: /parlam/bicam/mafia/steno/ca037.pdf
+Disallow: /service/PDF/PDFServer/BGT/721231.pdf
+
+# Richiesta del 2019 09 26
+Disallow: /service/PDF/PDFServer/DF/186318.pdf
+
+#Richiesta del 2019 10 02 
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=14&id=113228
+Disallow: /japp/bgt/showdoc/14/Sindisp/0/113228/index.html
+Disallow: /service/PDF/PDFServer/BGT/113231.pdf
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=14&id=114629
+Disallow: /japp/bgt/showdoc/14/Sindisp/0/114629/index.html
+Disallow: /service/PDF/PDFServer/BGT/114637.pdf
+
+# Richiesta del 2019 12 06
+
+#Disallow: /service/PDF/PDFServer/BGT/00663699.pdf
+#Disallow: /loc/link.asp?tipodoc=sindisp&leg=16&id=00663683
+#Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=17&id=902860   
+#Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindisp&leg=17&id=00902860&parse=si&toc=no
+#Disallow: /service/PDF/PDFServer/BGT/902872.pdf
+#sen
+#Disallow: /service/PDF/PDFServer/DF/286763.pdf
+#parl
+#Disallow: /service/PDF/PDFServer/DF/0286763.pdf
+ 
+# Richiesta del 2019 12 11
+#Disallow: /loc/link.asp?tipodoc=sindisp*=00663683
+#Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindisp&leg=16&id=663683
+
+# Richiesta del 2019 12 16
+#Disallow: /loc/link.asp?tipodoc=sindisp&id=663683&leg=16
+#Disallow: /service/PDF/PDFServer/BGT/663699.pdf
+
+#Richiesta del 2020 01 10
+#Disallow: /japp/bgt/showdoc/14/Sindisp/0/113228/index.html
+#Disallow: /japp/bgt/showdoc/14/Sindisp/0/114629/index.html
+#parl
+#Disallow: /parlam/bicam/mafia/docs/23-11.pdf
+
+#Richiesta del 2021 03 05
+#Disallow: /service/PDF/PDFServer/DF/92144.pdf
+#parl
+#Disallow: /service/PDF/PDFServer/DF/92144.pdf
+
+#Richiesta del 2021 06 07
+#Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindispr&leg=17&id=1000012
+#Disallow: /japp/bgt/showdoc/17/Sindispr/0/1000012/index.html
+#Disallow: /service/PDF/PDFServer/DF/326907.pdf
+#Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=16&id=667356
+#Disallow: /japp/bgt/showdoc/16/Sindisp/0/667356/index.html
+#Disallow: /service/PDF/PDFServer/DF/16272.pdf
+#Disallow: /W3/Lavori.NSF/vwRisRic/EF0046F798EB48F341256617006ABF7B?openDocument
+#parl
+#Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindispr&leg=17&id=1000012
+#Disallow: /japp/bgt/showdoc/17/Sindispr/0/1000012/index.html
+#Disallow: /service/PDF/PDFServer/DF/326907.pdf
+#Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=16&id=667356
+#Disallow: /japp/bgt/showdoc/16/Sindisp/0/667356/index.html
+#Disallow: /service/PDF/PDFServer/DF/16272.pdf
+
+#Richiesta del 2021 06 07
+#Disallow: /candidature_cda_rai
+#Disallow: /4899
+#Disallow: /5034
+#Disallow: /candidature_garante_privacy
+
+#Richiesta del 2021 07 01
+#Disallow: /japp/bgt/showdoc/14/Sindisp/114629/index.html
+#parl
+#Disallow: /japp/bgt/showdoc/14/Sindisp/114629/index.html
+
+#Richiesta del 2021 07 01
+#Disallow: /japp/bgt/showdoc/15/Sindisp/242972/index.html
+#Disallow: /japp/bgt/showdoc/15/Sindisp/254184/index.html
+#Disallow: /japp/bgt/showdoc/14/Sindisp/113228/index.html
+#Disallow: /japp/bgt/showdoc/17/Sindispr/1000012/index.html
+#Disallow: /japp/bgt/showdoc/16/Sindisp/667356/index.html
+#parl 
+#Disallow: /japp/bgt/showdoc/15/Sindisp/242972/index.html
+#Disallow: /japp/bgt/showdoc/15/Sindisp/254184/index.html
+#Disallow: /japp/bgt/showdoc/14/Sindisp/113228/index.html
+#Disallow: /japp/bgt/showdoc/17/Sindispr/1000012/index.html
+#Disallow: /japp/bgt/showdoc/16/Sindisp/667356/index.html
+
+#Richiesta del 2021 08 03
+Disallow: /service/PDF/PDFServer/BGT/1097780.pdf
+#parl 
+Disallow: /service/PDF/PDFServer/BGT/1097780.pdf
+
+#Richiesta del 2022 09 22
+#Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=17&id=969239 
+#Disallow: /loc/link.asp?tipodoc=sindisp&leg=17&id=969239
+#Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindisp&leg=17&id=969239
+#Disallow: /leg/17/BGT/Schede/docnonleg/24723.htm 
+#Disallow: /loc/link.asp?tipodoc=sdocnl&leg=17&id=24723
+#Disallow: /service/PDF/PDFServer/BGT/969259.pdf
+#parl
+#Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=17&id=969239
+#Disallow: /loc/link.asp?tipodoc=sindisp&leg=17&id=969239
+#Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Sindisp&leg=17&id=969239"
+#Disallow: /leg/17/BGT/Schede/docnonleg/24723.htm
+#Disallow: /loc/link.asp?tipodoc=sdocnl&leg=17&id=24723
+#Disallow: /service/PDF/PDFServer/BGT/969259.pdf
+
+#Richiesta 2024 08 08
+Disallow: /service/PDF/PDFServer/BGT/1411449.pdf
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=19&id=1411449&part=doc_dc
+#parl
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=16&id=432072
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=16&id=432031&part=doc_dc-allegatob_ab-sezionetit_icrdrs-atto_402083
+Disallow: /japp/bgt/showdoc/showText?tipodoc=Sindisp&leg=16&id=432072
+Disallow: /service/PDF/PDFServer/BGT/432031.pdf
+
+#Richiesta  2024 08 08
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=19&id=1411449/*
+Disallow: /japp/bgt/showdoc/19/Resaula/0/1411449/index.html/*
+Disallow: /japp/bgt/showdoc/16/Resaula/0/432031/index.html?part=doc_dc-allegatob_ab-sezionetit_icrdrs-atto_402083/*
+#parl
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=19&id=1411449/*
+Disallow: /japp/bgt/showdoc/19/Resaula/0/1411449/index.html/*
+Disallow: /japp/bgt/showdoc/16/Resaula/0/432031/index.html?part=doc_dc-allegatob_ab-sezionetit_icrdrs-atto_402083/*
+
+#Richiesta  2024 08 09
+Disallow: /service/PDF/PDFServer/BGT/908876.pdf
+Disallow: /application/xmanager/projects/parlamento/file/commissione_antimafia_14leg/stenografici/seduta3.pdf 
+Disallow: /service/PDF/PDFServer/DF/69019.pdf
+
+#Richiesta  2025 08 20
+Disallow: /parlam/bicam/mafia/docs/23-11.pdf
+Disallow: /japp/bgt/showdoc/frame.jsp?tipodoc=Resaula&leg=14&id=149076/*
+
+#Richiesta  2025 09 10
+Disallow: /application/xmanager/projects/leg19/file/Racc_normative_7_I_parte.pdf
+Disallow: /application/xmanager/projects/leg18/file/Racc_normative_7_II_parte.pdf
+
+#Richiesta 2025 09 11
+Disallow: /application/xmanager/projects/leg18/file/Racc_normative_7_I_parte.pdf
+Disallow: /application/xmanager/projects/leg17/file/Racc_normative_7_I_parte.pdf
+Disallow: /application/xmanager/projects/leg17/file/Racc_normative_7_II_parte.pdf
+Disallow: /application/xmanager/projects/leg19/file/Racc_normative_7_II_parte.pdf
+
+

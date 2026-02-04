@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /system/
+Disallow: /bundles/
+Disallow: /contao3/
+Disallow: /contao-manager.phar.php
+
+Sitemap: https://www.united-hoster.de/share/sitemap.xml
+Sitemap: https://www.united-hoster.de/blog/sitemap.xml

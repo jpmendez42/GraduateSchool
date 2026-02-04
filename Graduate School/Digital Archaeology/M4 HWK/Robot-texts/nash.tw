@@ -1,0 +1,25 @@
+User-agent: Mediapartners-Google
+
+Allow: /
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /wp-content/uploads/
+User-agent: Adsbot-Google
+Allow: /
+User-agent:*
+
+Allow:/moveblog/redirect.php
+Allow:/wp-content/plugins/
+Disallow:/*preview=true
+Disallow:/moveblog/
+
+Disallow:/wp-admin/
+Disallow:/wp-content/theme/
+Disallow:/wp-content/upgrade/
+Disallow:/wp-login.php
+Disallow:/xmlrpc.php
+Disallow:/pma/
+
+sitemap:http://nasheat.tw/sitemap.xml

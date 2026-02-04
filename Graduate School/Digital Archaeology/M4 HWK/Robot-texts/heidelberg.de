@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /webadmin/
+Disallow: /common/
+Disallow: /*print.pdf
+Disallow: */tools/*
+Crawl-delay: 30
+User-agent: heritrix
+Crawl-delay: 2
+ 

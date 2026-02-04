@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: */logowanie*
+Disallow: /api*
+Disallow: /facebook-usun-dane
+Disallow: /en/category-load-articles
+Disallow: /category-load-articles
+Disallow: /facebook-zapisz-dane
+Disallow: /dodaj-komentarz
+Disallow: /kategoria-doczytaj-artykuly
+Disallow: /moda/dane-o-galerii
+Disallow: /video-info
+Disallow: /zdjecie-w-galerii-info
+Disallow: /wyszukaj
+Disallow: /en/moda/dane-o-galerii
+Disallow: /en/facebook-zapisz-dane
+Disallow: /index.php/

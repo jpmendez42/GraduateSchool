@@ -1,0 +1,656 @@
+<!DOCTYPE html><html lang="de" dir="ltr"><head>
+<title>nd.Aktuell – Journalismus von links</title>
+<link rel="preconnect" href="https://cdntrf.com" crossorigin>
+<link rel="preconnect" href="https://cdn.opencmp.net" crossorigin>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="generator" content="KONTEXT-CMS (c) WARENFORM [www.warenform.net] 10/2007, 11/2009, 10/2011, 1/2013, 09/2017, 02/2021 | Realisation: Felix Langhammer, Axel Gebauer">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<meta name="facebook-domain-verification" content="7ddoxiv5miw6egphud85cricwihyp3">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:site_name" content="nd-aktuell.de" />
+<meta property="og:type" content="article">
+			<meta name="keywords" content="Tageszeitung, Meinung, Politik, Gesellschaft, Ratgeber, Kultur, Sport, E-Paper">
+				<meta name="description" content="Nachrichten aus Politik, Inland, Ausland, Wirtschaft, Sport, Kultur und Feuilleton aus linker Sicht.">
+			<meta name="author" content="Redaktion nd-aktuell.de">
+			<meta name="robots" content="index, follow, noarchive, all, max-snippet:200, max-image-preview:large">
+				<script type="application/ld+json">
+		{ "@context": "https://schema.org",
+		"@type": "WebPage",
+		"publisher": {
+			"@type": "Organization",
+			"name": "nd - Journalismus von links",
+			"logo": {
+				"@type": "ImageObject",
+				"url": "https://www.nd-aktuell.de/images/nd-letters/red.svg"
+			},
+			"sameAs":["https://bsky.app/profile/ndaktuell.bsky.social"]
+		},
+		"url": "https://www.nd-aktuell.de/"
+		}
+		</script>
+		<link rel="alternate" type="application/rss+xml" title="nd-Tagesausgabe als RSS-Feed" href="/rss/neues-deutschland.xml">
+	<link rel="alternate" type="application/rss+xml" title="nd: Die neuesten Artikel" href="/rss/aktuell.php">
+	<link rel="alternate" type="application/rss+xml" title="nd: ndPodcast (RSS-Feed)" href="/rss/ndpodcast.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: nd-Commune (RSS-Feed)" href="/rss/nd-commune.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Politik (RSS-Feed)" href="/rss/politik.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Wirtschaft und Umwelt (RSS-Feed)" href="/rss/wirtschaft-umwelt.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Kommentare (RSS-Feed)" href="/rss/kommentare.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Berlin (RSS-Feed)" href="/rss/berlin.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Brandenburg (RSS-Feed)" href="/rss/brandenburg.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Kultur (RSS-Feed)" href="/rss/kultur.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Wissen (RSS-Feed)" href="/rss/wissen.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Sport (RSS-Feed)" href="/rss/sport.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Reise (RSS-Feed)" href="/rss/reise.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Gesund leben (RSS-Feed)" href="/rss/gesund_leben.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: Ratgeber (RSS-Feed)" href="/rss/ratgeber.xml">
+<link rel="alternate" type="application/rss+xml" title="nd: In eigener Sache (RSS-Feed)" href="/rss/hausblog.xml">
+<link href="https://cdn.nd-aktuell.de/fonts/fonts.css" rel="stylesheet" crossorigin="anonymous" />
+<link href="https://cdn.nd-aktuell.de/fontawesome-6/css/all.min.css" rel="stylesheet" crossorigin="anonymous" />
+<link rel="stylesheet" href="/css/design.css?4619">
+<script src="/js/jquery/jquery-1.8.3.min.js"></script>
+<script src="/js/js.cookie-2.2.1.min.js" type="text/javascript" charset="utf-8"></script>
+
+	<script type="text/javascript" src="https://cdn.opencmp.net/tcf-v2/cmp-stub-latest.js" id="open-cmp-stub" data-domain="nd-aktuell.de"></script>
+	<link href="https://cdntrf.com/css/nd-aktuell.css" rel="stylesheet">
+	<script id="trfAdSetup" async
+	data-traffectiveConf='{
+		"targeting":
+		[{"key":"zone","values":null,"value":"homepage"},
+		{"key":"pagetype","values":null,"value":"homepage"},
+		{"key":"programmatic_ads","values":null,"value":"true"},
+		{"key":"ads","values":null,"value":"true"}]
+		,"dfpAdUrl" : "/307308315,22451951845/nd-aktuell.de"
+		,"clientAlias" : "ndaktuell"
+	}'
+	src="//cdntrf.com/nd-aktuell.js">
+	</script>
+<link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+<link rel="manifest" href="/favicon/site.webmanifest">
+<link rel="mask-icon" href="/favicon/safari-pinned-tab.svg" color="#e60050">
+<meta name="msapplication-TileColor" content="#e60050">
+<meta name="theme-color" content="#ffffff">
+<link rel="icon" href="/favicon/favicon.ico">
+</head>
+<body id="PUB" class="Not-Loggedin Home  Desktop">
+
+<!-- Facebook Pixel Code -->
+<script type="text/plain" class="cmplazyload" data-cmp-vendor="s7">
+!function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '160713170997593');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" data-cmp-vendor="s7" src="about:blank" class="cmplazyload" data-cmp-src="https://www.facebook.com/tr?id=160713170997593&ev=PageView&noscript=1" /></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+
+<div class="Wrapper">
+	<div id="AdsLocation"></div>
+	<div class="Wrapper-Inner">
+	<header>
+		<div class="Logo" role="banner" id="top">
+						<a href="/" aria-label="Startseite" rel="home">
+				<h1 class="Logo-Image">
+					<img src="/images/nd-website-logo-regular.svg" width="203" height="49" alt="nd - Journalismus von links: Nachrichten, Reportagen, Hintergründe aus Berlin-Brandenburg, Deutschland und der Welt.">
+				</h1>
+			</a>
+							<a href="https://genossenschaft.nd-aktuell.de/spenden" class="Mobile-Only Support-Mobile-Header">Jetzt spenden!</a>
+					</div>
+		<nav id="Nav">
+			<input type="checkbox" id="NaviCheckbox">
+			<label for="NaviCheckbox"></label>
+			<div class="Navi" id="Skip1">
+				<div class="NavContainer">
+					<div class="Navi-Main" id="navigation">
+												<ul class="Product-Subnavi">
+							<li><div class="Product"><a href="/suche/" aria-label="Suche auf der Website"><span>Suche</span></a></div></li>
+															<li class="Mobile-Only "><div class="Product"><a href="https://genossenschaft.nd-aktuell.de/spenden"><span>Jetzt spenden!</span></a></div></li>
+														<li class="Mobile-Only"><div class="Product"><a href="https://genossenschaft.nd-aktuell.de/"><span>Genoss*in werden</span></a></div></li>
+							<li class="Active">
+								<div class="Product Mobile-Only">
+									<a href="/" aria-label="Startseite"><span class="nd-Produkt">Aktuell</span><span class="collapseSubnavi"></span></a>
+								</div>
+																									<ul class="Menu">
+										<li><a href="/rubrik/meinung/">Meinung</a></li>
+										<li><a href="/rubrik/politik-oekonomie/">Politik&nbsp;&amp;&nbsp;Ökonomie</a></li>
+										<li><a href="/rubrik/hauptstadtregion/">Hauptstadtregion</a></li>
+										<li><a href="/rubrik/feuilleton/">Feuilleton</a></li>
+										<li><a href="/rubrik/sport/">Sport</a></li>
+										<li class="Desktop-Only"><a href="/die-woche/">Die Woche</a></li>
+										<li class="Desktop-Only"><a href="/podcasts/">Podcasts</a></li>
+										<li class="Desktop-Only"><a href="/newsletter/">Newsletter</a></li>
+										<li class="Social Mastodon Desktop-Only"><a href="https://troet.cafe/@ndaktuell" aria-label="nd bei Mastodon" target="_blank" rel="me"><i class="fab fa-mastodon"></i></a></li>
+										<li class="Social Bluesky Desktop-Only"><a href="https://bsky.app/profile/ndaktuell.bsky.social" aria-label="nd bei Bluesky" target="_blank"><i class="fab fa-bluesky"></i></a></li>
+										<li class="Social Instagram Desktop-Only"><a href="https://www.instagram.com/nd.aktuell/" aria-label="nd bei Instagram" target="_blank"><i class="fab fa-instagram"></i></a></li>
+										<li class="Social Facebook Desktop-Only"><a href="https://www.facebook.com/nd.aktuell" aria-label="nd bei Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+										<li class="Social Tiktok Desktop-Only"><a href="https://www.tiktok.com/@ndaktuell" aria-label="nd bei Tiktok" target="_blank"><i class="fab fa-tiktok"></i></a></li>
+										<li class="Social Youtube Desktop-Only"><a href="https://youtube.com/ndonline" aria-label="nd bei Youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
+									</ul>
+															</li>
+							<li >
+								<div class="Product">
+									<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+									<a href="/die-woche/"><span class="nd-Produkt">Die Woche</span><span class="collapseSubnavi Mobile-Only"></span></a>
+								</div>
+																	<ul class="Menu">
+																																	<li><a href="/die-woche/rubrik/politik-oekonomie"  >Politik &amp; Ökonomie</a></li>
+																																												<li><a href="/die-woche/rubrik/kunst-kritik"  >Kunst &amp; Kritik</a></li>
+																																												<li><a href="/die-woche/rubrik/mikroskop"  >Mikroskop</a></li>
+																																												<li><a href="/die-woche/rubrik/begegnungen"  >Begegnungen</a></li>
+																																												<li><a href="/die-woche/rubrik/metropole"  >Metropole</a></li>
+																																												<li><a href="/die-woche/rubrik/sport"  >Sport</a></li>
+																																												<li><a href="/die-woche/rubrik/reise"  >Reise</a></li>
+																																																			</ul>
+															</li>
+							<li><div class="Product"><a href="/podcasts/"><span>Podcasts</span></a></div></li>
+							<li >
+								<div class="Product">
+									<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+									<a href="https://newsletter.nd-aktuell.de/"><span>Newsletter</span><span class="collapseSubnavi Mobile-Only"></span></a>
+								</div>
+																	<ul class="Menu">
+										<li><a href="/nd-kompakt/">nd.Kompakt</a></li>
+										<li><a href="/nd-diewoche/">nd.Die Woche</a></li>
+										<li><a href="/muckefuck/">Muckefuck</a></li>
+									</ul>
+															</li>
+														<li >
+								<div class="Product">
+									<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+									<a href="/rubrik/ratgeber/"><span class="nd-Produkt">Ratgeber</span><span class="collapseSubnavi Mobile-Only"></span></a>
+								</div>
+																	<ul class="Menu">
+										<li><a href="/rubrik/gesund_leben/">Gesund leben</a></li>
+										<li><a href="/rubrik/reise/">Reise</a></li>
+									</ul>
+															</li>
+							<li >
+								<div class="Product">
+									<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+									<a href="/rubrik/nd-commune/"><span class="nd-Produkt">Commune</span></a>
+								</div>
+																	<ul class="Menu Desktop-Only">
+										<li><a href="/rubrik/nd-commune/">Alles aus Commune</a></li>
+									</ul>
+															</li>
+							<li >
+								<div class="Product"><a href="/termine/">Termine</a></div>
+							</li>
+							<li >
+								<div class="Product">
+									<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+									<a href="/reisen/"><span class="nd-Produkt">nd.Reisen</span></a>
+								</div>
+																											<ul class="Menu Desktop-Only">
+											<li><a href="/reisen/">Alle Reisen</a></li>
+										</ul>
+																								</li>
+															<li >
+									<div class="Product">
+										<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+										<a href="/abo/"><span>Abo</span><span class="collapseSubnavi Mobile-Only"></span></a>
+									</div>
+																													<ul class="Menu">
+											<!-- <li class="Desktop-Only"><a class="Active" href="/abo/">Überblick</a></li> -->
+											<li><a href="/abo/index.php#nd.Digital">nd.Digital</a></li>
+											<li><a href="/abo/index.php#nd.Digital+nd.DieWoche">nd.Digital + nd.DieWoche</a></li>
+											<li><a href="/abo/index.php#nd.DieWoche">nd.DieWoche</a></li>
+																						<li><a href="/abo-service/">Abo-Service</a></li>
+											<li><a href="/abo/agb.php">AGBs</a></li>
+										</ul>
+
+																											</li>
+																					<li >
+								<div class="Product">
+									<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+									<a href="https://genossenschaft.nd-aktuell.de"><span class="nd-Produkt">Genossenschaft</span><span class="Mobile-Only"></span></a>
+								</div>
+															</li>
+							<li >
+								<div class="Product Mobile-Only">
+									<a href="/" aria-label="Startseite" class="Desktop-Only Home-Icon"><i class="fa fa-home"></i></a>
+									<a href="/profile/"><span>mein nd</span></a>
+								</div>
+																																		<ul class="Menu Desktop-Only">
+										<li><a href="/rubrik/meinung/">Meinung</a></li>
+										<li><a href="/rubrik/politik-oekonomie/">Politik&nbsp;&amp;&nbsp;Ökonomie</a></li>
+										<li><a href="/rubrik/hauptstadtregion/">Hauptstadtregion</a></li>
+										<li><a href="/rubrik/feuilleton/">Feuilleton</a></li>
+										<li><a href="/rubrik/sport/">Sport</a></li>
+										<li class="Desktop-Only"><a href="/die-woche/">Die Woche</a></li>
+										<li class="Desktop-Only"><a href="/podcasts/">Podcasts</a></li>
+										<li class="Desktop-Only"><a href="/newsletter/">Newsletter</a></li>
+										<li class="Social Mastodon Desktop-Only"><a href="https://troet.cafe/@ndaktuell" aria-label="nd bei Mastodon" target="_blank" rel="me"><i class="fab fa-mastodon"></i></a></li>
+										<li class="Social Bluesky Desktop-Only"><a href="https://bsky.app/profile/ndaktuell.bsky.social" aria-label="nd bei Bluesky" target="_blank"><i class="fab fa-bluesky"></i></a></li>
+										<li class="Social Instagram Desktop-Only"><a href="https://www.instagram.com/nd.aktuell/" aria-label="nd bei Instagram" target="_blank"><i class="fab fa-instagram"></i></a></li>
+										<li class="Social Facebook Desktop-Only"><a href="https://www.facebook.com/nd.aktuell" aria-label="nd bei Facebook" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
+										<li class="Social Tiktok Desktop-Only"><a href="https://www.tiktok.com/@ndaktuell" aria-label="tiktok" target="_blank"><i class="fab fa-tiktok"></i></a></li>
+										<li class="Social Youtube Desktop-Only"><a href="https://youtube.com/ndonline" aria-label="nd bei Youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
+									</ul>
+															</li>
+						</ul>
+											</div><!-- .Navi-Main -->
+				</div>
+			</div><!-- .Navi -->
+		</nav>
+
+							<div class="Meta Desktop-Only">
+									<ul class="User-Meta">
+													<li class="Meta-Supporten"><a href="https://genossenschaft.nd-aktuell.de/spenden">Jetzt spenden!</a></li>
+												<li class="Meta-Genossenschafz"><a href="https://genossenschaft.nd-aktuell.de">Genossenschaft</a></li>
+						<li class="Meta-Abo"><a href="/abo/">Abo</a></li>
+						<li class="Meta-Login">
+															<a href="/profile/register.php">mein nd</a>
+													</li>
+						<li class="Quicksearch">
+							<form action="/suche/" method="get" role="search">
+																<p class="Input Text F_and"><label for="search_and">Suchausdruck*</label><input type="text" id="search_and" name="and" value="" placeholder="Suchen"></p>
+								<p class="Input Submit F_search"><input type="submit" name="search" value="Suchen" ></p>
+								<input type="hidden" name="csrf_token" value="6b75461a58d508dd61e1ffba7dcf3c9d086e8e5ddf3cae40350908679d84e6a6" >
+								<input type="hidden" name="modus" value="0" >
+								<input type="hidden" name="display" value="1" >
+								<input type="hidden" name="sort" value="1" >
+							</form>
+						</li><!-- .Quicksearch -->
+					</ul>
+													<nav class="Desktop-Only">
+						<a class="meta-navbar-toggler icon" href="#" aria-label="Navigation"></a>
+						<ul id="Meta">
+							<li ><a href="/suche/"><span>Suche</span></a></li>
+															<li ><a href="https://genossenschaft.nd-aktuell.de/spenden"><span>Jetzt spenden!</span></a></li>
+														<li><a href="https://genossenschaft.nd-aktuell.de/"><span>Genoss*in werden</span></a></li>
+							<li  class="Active"><a href="/" aria-label="Startseite"><span>Aktuell</span><span class="collapseSubnavi"></span></a>
+							<ul>
+								<li><a href="/rubrik/meinung/">Meinung</a></li>
+								<li><a href="/rubrik/politik-oekonomie/">Politik&nbsp;&amp;&nbsp;Ökonomie</a></li>
+								<li><a href="/rubrik/hauptstadtregion/">Hauptstadtregion</a></li>
+								<li><a href="/rubrik/feuilleton/">Feuilleton</a></li>
+								<li><a href="/rubrik/sport/">Sport</a></li>
+							</ul></li>
+							<li ><a href="/die-woche/"><span>Die Woche</span><span class="collapseSubnavi"></span></a>
+							<ul>
+								<li><a href="/die-woche/rubrik/politik-oekonomie" >Politik&nbsp;&amp;&nbsp;Ökonomie</a></li>
+								<li><a href="/die-woche/rubrik/kunst-kritik" >Kunst&nbsp;&amp;&nbsp;Kritik</a></li>
+								<li><a href="/die-woche/rubrik/mikroskop" >Mikroskop</a></li>
+								<li><a href="/die-woche/rubrik/begegnungen" >Begegnungen</a></li>
+								<li><a href="/die-woche/rubrik/metropole" >Metropole</a></li>
+								<li><a href="/die-woche/rubrik/sport" >Sport</a></li>
+								<li><a href="/die-woche/rubrik/reise" >Reise</a></li>
+							</ul></li>
+							<li ><a href="/podcasts/"><span>Podcasts</span></a></li>
+							<li ><a href="/newsletter/" ><span>Newsletter</span></a></li>
+							<li ><a href="/rubrik/ratgeber/" ><span>Ratgeber</span><span class="collapseSubnavi"></span></a>
+							<ul>
+								<li><a href="/rubrik/gesund_leben/" >Gesund leben</a></li>
+								<li><a href="/rubrik/reise/" >Reise</a></li>
+							</ul></li>
+							<li ><a href="/rubrik/nd-commune/"><span>Commune</span></a></li>
+							<li ><a href="/termine/"><span>Termine</span></a></li>
+							</li>
+							<li ><a href="/reisen/"><span>nd.Reisen</span></a></li>
+															<li ><a href="/abo/"><span>Abonnieren</span><span class="collapseSubnavi"></span></a>
+								<ul>
+									<li><a  href="/abo/index.php#nd.Digital"><span>nd.Digital</span></a>
+									<li><a  href="/abo/index.php#nd.Digital+nd.DieWoche"><span>nd.Digital + nd.DieWoche</span></a>
+									<li><a  href="/abo/index.php#nd.DieWoche"><span>nd.DieWoche</span></a>
+																		<li><a  href="/abo-service"><span>Abo-Service</span></a>
+								</ul>
+								</li>
+														<li ><a href="https://genossenschaft.nd-aktuell.de"><span>Genossenschaft</span><span class="collapseSubnavi"></span></a>
+							<ul>
+								<li ><a href="https://genossenschaft.nd-aktuell.de/ueber-uns"><span>Über uns</span></a>
+								<li ><a href="https://genossenschaft.nd-aktuell.de/kontakt"><span>Kontakt</span></a>
+								<li ><a href="https://genossenschaft.nd-aktuell.de/anzeigen"><span>Anzeigen</span></a>
+								<li ><a href="https://genossenschaft.nd-aktuell.de/jobs"><span>Jobangebote</span></a>
+								<li ><a href="/kontakt/1"><span>Impressum</span></a>
+								<li ><a href="/kontakt/4"><span>Datenschutz</span></a>
+							</ul></li>
+							<li ><a href="/profile/"><span>mein nd</span></a></li>
+						</ul>
+						<script>
+						var meta_navbar_toggler = document.querySelector('.meta-navbar-toggler'),
+						// nav_container = document.querySelector('.Meta');
+						nav_container = meta_navbar_toggler.closest('.Meta');
+						meta_navbar_toggler.onclick = function(e) {
+							e.preventDefault();
+							nav_container.classList.toggle('metanav-open');
+							hideOnClickOutside(nav_container);
+						}
+
+						function hideOnClickOutside(nav) {
+							var outsideClickListener = function(event) {
+								if (!nav.querySelector('nav').contains(event.target) && nav.classList.contains('metanav-open')) {
+									nav.classList.toggle('metanav-open');
+									removeClickListener()
+								}
+							}
+
+							var removeClickListener = function() {
+								document.removeEventListener('click', outsideClickListener)
+							}
+
+							document.addEventListener('click', outsideClickListener)
+						}
+						</script>
+					</nav>
+							</div><!-- .Meta -->
+				<script>
+		$('nav .Product-Subnavi li, .Meta nav li').on('click', 'a span.collapseSubnavi', function(event) {
+			event.preventDefault();
+			$(this).closest('li').toggleClass('Active');
+		});
+		</script>
+	</header>
+
+		<div class="Main" id="Skip2">
+		<main>
+			<div class="Listing"><div class="Highlight-Stories"><ul><li><a href="/artikel/1194602.israel-und-palaestina-avraham-burg-diesmal-sind-wir-es.html" aria-label="Avraham Burg: »Diesmal sind wir es«"><div class="Img"><figure style="background-image: url('/img/jpeg/640/312429')"><img src="/img/jpeg/640/312429" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Kicker">Israel und Palästina</div><div class="Title">Avraham Burg: »Diesmal sind wir es«</div></div></a></li><li><a href="/artikel/1194509.israel-und-palaestina-kinder-in-palaestina-nie-hat-mich-ein-thema-so-erschuettert.html" aria-label="Kinder in Palästina: »Nie hat mich ein Thema so erschüttert«"><div class="Img"><figure style="background-image: url('/img/jpeg/640/312260')"><img src="/img/jpeg/640/312260" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Kicker">Israel und Palästina</div><div class="Title">Kinder in Palästina: »Nie hat mich ein Thema so erschüttert«</div></div></a></li><li><a href="/artikel/1193693.klassentreffen-kampf-um-linke-raeume-n-fuer-alle-mit-flora-fuer-alle.html" aria-label="Kampf um linke Räume – für alle. Mit »Flora für alle«"><div class="Img"><figure style="background-image: url('/blobs/2/3/833f.png')"><img src="/blobs/2/3/833f.png" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Kicker">Klassentreffen</div><div class="Title">Kampf um linke Räume – für alle. Mit »Flora für alle«</div></div></a></li></ul></div><div id="traffective-ad-Billboard" style="display: none;" class="Billboard"></div><div class="Teaser-Big Lead-Story Outer-Wrap-Small"><article><div class="Deck"><span class="Kicker">Friedensplan</span><span class="Ressort">Politik</span><span class="Author">Mirco Keilberth</span></div><div class="Title"><a href="/artikel/1194711.friedensplan-gaza-die-eigentliche-arbeit-beginnt-jetzt-erst.html" aria-label="Gaza: Die eigentliche Arbeit beginnt jetzt erst">Gaza: Die eigentliche Arbeit beginnt jetzt erst</a></div><div class="Image"><figure style="background-image: url('/img/jpeg/1600/312593')"><a href="/artikel/1194711.friedensplan-gaza-die-eigentliche-arbeit-beginnt-jetzt-erst.html" aria-label="Gaza: Die eigentliche Arbeit beginnt jetzt erst"><img src="/img/jpeg/1600/312593" alt="" loading="lazy"></a></figure></div><p class="Teaser"><a href="/artikel/1194711.friedensplan-gaza-die-eigentliche-arbeit-beginnt-jetzt-erst.html" aria-label="Gaza: Die eigentliche Arbeit beginnt jetzt erst">In Israel und den Palästinensergebieten ist die Freude über die Rückkehr der Geiseln und Gefangenen groß. Der Friedensprozess ist eingeleitet, aber absolut unvorhersehbar. Es kommt auf die nächsten Wochen an.</a></p><div class="Further-Articles"><div class="Label-with-glyph-Small">Lesen Sie auch:</div><ul><li><a href="/artikel/1194687.gaza-krieg-geiselfreilassung-nur-erster-schritt-auf-langem-weg-zum-frieden.html" aria-label="Geiselfreilassung nur erster Schritt auf langem Weg zum Frieden"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312568')"><img src="/img/jpeg/640/312568" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Gaza-Krieg</div></div><div class="Title">Geiselfreilassung nur erster Schritt auf langem Weg zum Frieden</div></div></a></li><li><a href="/artikel/1194710.geiselfreilassung-gaza-krieg-trumps-schwieriger-friedensplan.html" aria-label="Gaza-Krieg: Trumps schwieriger Friedensplan"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312592')"><img src="/img/jpeg/640/312592" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Geiselfreilassung</div></div><div class="Title">Gaza-Krieg: Trumps schwieriger Friedensplan</div></div></a></li></ul></div></article><div class="Clear"></div></div><!-- Eigenbanner: Spendenkampagne 2025 -->
+<div class="Startseitenbanner flex flex-wrap items-stretch p-4 text-center sm:text-left">
+<div class="w-full h2 font-bold mb-4 sm:hidden">Das »nd« braucht Unterstützung</div>
+<div class="w-full sm:w-1/3 mb-4 sm:mb-0">
+<img
+					src="/blobs/e/e/949.png"
+					srcset="/blobs/5/c/219c.png 480w,
+					/blobs/e/e/949.png 1024w"
+					sizes="(max-width: 480px) 100vw, (min-width: 640px) 33vw, 100vw"
+					alt="" class="block w-full h-auto">
+</div>
+<div class="Outer w-full sm:w-2/3 sm:pl-12 flex items-center">
+<div class="Inner">
+<div class="h2 font-bold mb-4 hidden sm:block">Das »nd« braucht Unterstützung</div>
+<div class="Desc"><p>Mit der Unterstützung unserer Leser*­innen konnten wir im&nbsp;vergangenen Jahr den Fortbestand des »nd« gewährleisten. Auch in diesem Jahr haben wir uns dagegen entschieden, unsere Website hinter eine Paywall zu stellen. Damit alle das »nd« lesen können, setzen wir weiterhin auf freiwillige Zahlungen. Trotz Aufwärtstrend klafft 2025 eine Finanzierungslücke von 150.000 Euro.</p>
+
+<p><b>Bitte unterstützen Sie uns mit einer Spende!</b></p></div><!-- .Desc -->
+<p class="Button mt-4"><a href="https://genossenschaft.nd-aktuell.de/spenden" class="!rounded-full">Spenden</a></p>
+</div><!-- .Inner -->
+</div><!-- .Outer -->
+</div><!-- .Startseitenbanner -->
+
+<!-- Tue, 22 Nov 2022 11:41:50 +0100 -->
+<!-- Fri, 17 May 2019 09:45:39 +0200 -->
+<div class="Ad"><div id="traffective-ad-Billboard_1" style="display: none;" class="Billboard_1"></div></div><div class="Teaser-Medium-Wrap"><div class="Teaser-Medium"><article><div class="Image Image-1194717"><style scoped>.Image-1194717 figure {background-image: url('/img/jpeg/800/312603')}@media only screen and (min-width: 30.5em) {.Image-1194717 figure {background-image: url('/img/jpeg/1600/312603')}}@media only screen and (min-width: 62.5em) {.Image-1194717 figure {background-image: url('/img/jpeg/2040/312603')}}</style><figure><a href="/artikel/1194717.wehrpflicht-bundeswehr-zwangsdienst-per-lostrommel.html" aria-label="Bundeswehr: Zwangsdienst per Lostrommel"><img src="/img/jpeg/640/312603" alt="Zu Land, zu Luft und auf der See verlangt die Bundeswehr mehr Re..." title="Zu Land, zu Luft und auf der See verlangt die Bundeswehr mehr Re..."></a></figure></div><div class="Deck"><span class="Kicker">Wehrpflicht</span></div><div class="Title"><a href="/artikel/1194717.wehrpflicht-bundeswehr-zwangsdienst-per-lostrommel.html" aria-label="Bundeswehr: Zwangsdienst per Lostrommel">Bundeswehr: Zwangsdienst per Lostrommel</a></div><p class="Teaser"><a href="/artikel/1194717.wehrpflicht-bundeswehr-zwangsdienst-per-lostrommel.html" aria-label="Bundeswehr: Zwangsdienst per Lostrommel">Mechanismen, damit Männer künftig zum Wehrdienst verpflichtet werden können, gibt es schon im Entwurf für ein Wehrdienstgesetz. Nun soll auf Personalmangel schneller reagiert werden können, kommentiert Jana Frielinghaus.</a></p><div class="Author">Jana Frielinghaus</div></article><div class="Clear"></div></div><div class="Teaser-Medium"><article><div class="Image Image-1194714"><style scoped>.Image-1194714 figure {background-image: url('/img/jpeg/800/312600')}@media only screen and (min-width: 30.5em) {.Image-1194714 figure {background-image: url('/img/jpeg/1600/312600')}}@media only screen and (min-width: 62.5em) {.Image-1194714 figure {background-image: url('/img/jpeg/2040/312600')}}</style><figure><a href="/artikel/1194714.wehrpflichtdebatte-koalition-einigt-sich-auf-wehrpflicht-light.html" aria-label="Koalition einigt sich auf Wehrpflicht light"><img src="/img/jpeg/640/312600" alt="Erreicht die Bundeswehr die von der Regierung ausgegebenen Perso..." title="Erreicht die Bundeswehr die von der Regierung ausgegebenen Perso..."></a></figure></div><div class="Deck"><span class="Kicker">Wehrpflichtdebatte</span></div><div class="Title"><a href="/artikel/1194714.wehrpflichtdebatte-koalition-einigt-sich-auf-wehrpflicht-light.html" aria-label="Koalition einigt sich auf Wehrpflicht light">Koalition einigt sich auf Wehrpflicht light</a></div><p class="Teaser"><a href="/artikel/1194714.wehrpflichtdebatte-koalition-einigt-sich-auf-wehrpflicht-light.html" aria-label="Koalition einigt sich auf Wehrpflicht light">Die SPD hat der Forderung nachgegeben, dass Gemusterte eingezogen werden können, wenn Personalziele auf freiwilliger Basis nicht erreicht werden.</a></p></article><div class="Clear"></div></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312590')"><a href="/artikel/1194708.libysche-kuestenwache-schuesse-auf-gefluechtete-im-mittelmeer-n-offenbar-ein-toter.html" aria-label="Schüsse auf Geflüchtete im Mittelmeer – offenbar ein Toter"><img src="/img/jpeg/640/312590" alt="Der Angriff erfolgte nach Angaben der Seenotrettungsinitiative 9..." title="Der Angriff erfolgte nach Angaben der Seenotrettungsinitiative 9..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">»Libysche Küstenwache«</span></div><div class="Title"><a href="/artikel/1194708.libysche-kuestenwache-schuesse-auf-gefluechtete-im-mittelmeer-n-offenbar-ein-toter.html" aria-label="Schüsse auf Geflüchtete im Mittelmeer – offenbar ein Toter">Schüsse auf Geflüchtete im Mittelmeer – offenbar ein Toter</a></div><p class="Teaser"><a href="/artikel/1194708.libysche-kuestenwache-schuesse-auf-gefluechtete-im-mittelmeer-n-offenbar-ein-toter.html" aria-label="Schüsse auf Geflüchtete im Mittelmeer – offenbar ein Toter">Milizen aus Libyen nahmen nach Angaben des Alarm Phone ein Boot mit über 100 Geflüchteten im maltesischen Suchgebiet unter Feuer, eine Person starb. Gegen die Unterstützung der Miliz starten Aktionstage in Rom.</a></p><div class="Author">Matthias Monroy</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312585')"><a href="/artikel/1194703.parlamentarisches-kontrollgremium-wer-bewacht-die-bewacher.html" aria-label="Wer bewacht die Bewacher?"><img src="/img/jpeg/640/312585" alt="Martina Rosenberg, Präsidentin des MAD, und Martin Jäger (r.), P..." title="Martina Rosenberg, Präsidentin des MAD, und Martin Jäger (r.), P..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Parlamentarisches Kontrollgremium</span></div><div class="Title"><a href="/artikel/1194703.parlamentarisches-kontrollgremium-wer-bewacht-die-bewacher.html" aria-label="Wer bewacht die Bewacher?">Wer bewacht die Bewacher?</a></div><p class="Teaser"><a href="/artikel/1194703.parlamentarisches-kontrollgremium-wer-bewacht-die-bewacher.html" aria-label="Wer bewacht die Bewacher?">Russische Desinformation und chinesische Spionage – vor dem Parlamentarischen Kontrollgremium zeichneten die Geheimdienste ein düsteres Bild. Ihre Kontrolleure waren währenddessen eigentümlich einfühlsam.</a></p><div class="Author">Patrick Lempges</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312569')"><a href="/artikel/1194689.oldenburg-lorenz-a-ermittlungen-auf-sparflamme.html" aria-label="Lorenz A.: Ermittlungen auf Sparflamme"><img src="/img/jpeg/640/312569" alt="Protest anlässlich des 22. Geburtstages von Lorenz A. in Oldenbu..." title="Protest anlässlich des 22. Geburtstages von Lorenz A. in Oldenbu..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Oldenburg</span></div><div class="Title"><a href="/artikel/1194689.oldenburg-lorenz-a-ermittlungen-auf-sparflamme.html" aria-label="Lorenz A.: Ermittlungen auf Sparflamme">Lorenz A.: Ermittlungen auf Sparflamme</a></div><p class="Teaser"><a href="/artikel/1194689.oldenburg-lorenz-a-ermittlungen-auf-sparflamme.html" aria-label="Lorenz A.: Ermittlungen auf Sparflamme">Die Anklageentscheidung im Fall Lorenz A. soll in den kommenden Wochen erfolgen. Anwält*innen seiner Eltern kritisieren die bisherigen Ermittlungen.</a></p><div class="Author">Aljoscha Hoepfner</div></div></article><div class="Clear"></div></div><div class="Ad"><div id="traffective-ad-Billboard_2" style="display: none;" class="Billboard_2"></div></div><div class="Teaser-Topic"><article><div class="Label-with-glyph-Small">Gaza-Krieg</div><div class="Image"><figure style="background-image: url('/img/jpeg/1600/312539')"><a href="/artikel/1194669.gaza-krieg-united-gaza-fuer-das-voelkerrecht.html" aria-label="»United 4 Gaza«: 16 000 für das Völkerrecht"><img src="/img/jpeg/1600/312539" alt="" loading="lazy"></a></figure></div><div class="Deck"></div><div class="Author">Jule Meier</div><div class="Title"><a href="/artikel/1194669.gaza-krieg-united-gaza-fuer-das-voelkerrecht.html" aria-label="»United 4 Gaza«: 16 000 für das Völkerrecht">»United 4 Gaza«: 16 000 für das Völkerrecht</a></div><p>Trotz des »Friedensplans« demonstrieren in Berlin Zehntausende für die Zivilbevölkerung in Gaza</p></article><div class="Further-Articles"><ul><li><a href="/artikel/1194530.krieg-im-nahen-osten-gaza-gespraeche-kein-fall-fuer-ein-basta.html" aria-label="Gaza-Gespräche: Kein Fall für ein Basta"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312288')"><img src="/img/jpeg/640/312288" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Krieg im Nahen Osten</div></div><div class="Title">Gaza-Gespräche: Kein Fall für ein Basta</div></div></a></li><li><a href="/artikel/1194527.aegypten-gaza-frieden-schwierige-verhandlungen-im-badeort.html" aria-label="Gaza-Frieden: Schwierige Verhandlungen im Badeort"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312285')"><img src="/img/jpeg/640/312285" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Ägypten</div></div><div class="Title">Gaza-Frieden: Schwierige Verhandlungen im Badeort</div></div></a></li><li><a href="/artikel/1194470.gaza-flottille-ziel-war-immer-die-blockade-zu-durchbrechen.html" aria-label="»Ziel war immer, die Blockade zu durchbrechen«"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312192')"><img src="/img/jpeg/640/312192" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Gaza-Flottille</div></div><div class="Title">»Ziel war immer, die Blockade zu durchbrechen«</div></div></a></li></ul></div><div class="Clear"></div></div><!-- Tue, 22 Nov 2022 11:41:50 +0100 -->
+<div class="Ad"><div id="traffective-ad-Billboard_3" style="display: none;" class="Billboard_3"></div></div><div class="Teaser-Medium-Wrap"><div class="Teaser-Medium"><article><div class="Image Image-1194698"><style scoped>.Image-1194698 figure {background-image: url('/img/jpeg/800/312580')}@media only screen and (min-width: 30.5em) {.Image-1194698 figure {background-image: url('/img/jpeg/1600/312580')}}@media only screen and (min-width: 62.5em) {.Image-1194698 figure {background-image: url('/img/jpeg/2040/312580')}}</style><figure><a href="/artikel/1194698.klimaschutz-hamburger-zukunftsentscheid-der-erfolg-der-strasse.html" aria-label="Hamburger Zukunftsentscheid: Der Erfolg der Straße"><img src="/img/jpeg/640/312580" alt="Unterstützerinnen und Unterstützer auf der Wahlparty der Initiat..." title="Unterstützerinnen und Unterstützer auf der Wahlparty der Initiat..."></a></figure></div><div class="Deck"><span class="Kicker">Klimaschutz</span></div><div class="Title"><a href="/artikel/1194698.klimaschutz-hamburger-zukunftsentscheid-der-erfolg-der-strasse.html" aria-label="Hamburger Zukunftsentscheid: Der Erfolg der Straße">Hamburger Zukunftsentscheid: Der Erfolg der Straße</a></div><p class="Teaser"><a href="/artikel/1194698.klimaschutz-hamburger-zukunftsentscheid-der-erfolg-der-strasse.html" aria-label="Hamburger Zukunftsentscheid: Der Erfolg der Straße">Die Volksinitiative »Hamburger Zukunftsentscheid« hat den Volksentscheid zu mehr Klimaschutz gewonnen. Jetzt kommen eine Reihe von Maßnahmen auf die Hansestadt zu.</a></p><div class="Author">Stefan Otto</div></article><div class="Clear"></div></div><div class="Teaser-Medium"><article><div class="Image Image-1194696"><style scoped>.Image-1194696 figure {background-image: url('/img/jpeg/800/312578')}@media only screen and (min-width: 30.5em) {.Image-1194696 figure {background-image: url('/img/jpeg/1600/312578')}}@media only screen and (min-width: 62.5em) {.Image-1194696 figure {background-image: url('/img/jpeg/2040/312578')}}</style><figure><a href="/artikel/1194696.abstimmung-zukunftsentscheid-hamburg-geht-voran.html" aria-label="Zukunftsentscheid: Hamburg geht voran"><img src="/img/jpeg/640/312578" alt="Erfolgreiche Kampagne: Der Hamburger Zukunftsentscheid hat eine ..." title="Erfolgreiche Kampagne: Der Hamburger Zukunftsentscheid hat eine ..."></a></figure></div><div class="Deck"><span class="Kicker">Abstimmung</span></div><div class="Title"><a href="/artikel/1194696.abstimmung-zukunftsentscheid-hamburg-geht-voran.html" aria-label="Zukunftsentscheid: Hamburg geht voran">Zukunftsentscheid: Hamburg geht voran</a></div><p class="Teaser"><a href="/artikel/1194696.abstimmung-zukunftsentscheid-hamburg-geht-voran.html" aria-label="Zukunftsentscheid: Hamburg geht voran">Der erfolgreiche Zukunftsentscheid ist ein Etappensieg. Doch ob Hamburgs Klimawende gelingt, entscheidet sich erst in der Umsetzung, meint Stefan Otto.</a></p><div class="Author">Stefan Otto</div></article><div class="Clear"></div></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312602')"><a href="/artikel/1194716.lea-reisner-und-cem-ince-berlin-polizei-geht-gegen-linke-abgeordnete-vor.html" aria-label="Berlin: Polizei geht gegen Linke-Abgeordnete vor"><img src="/img/jpeg/640/312602" alt="Lea Reisner (Die Linke) spricht im Plenum des Bundestags." title="Lea Reisner (Die Linke) spricht im Plenum des Bundestags."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Lea Reisner und Cem Ince</span></div><div class="Title"><a href="/artikel/1194716.lea-reisner-und-cem-ince-berlin-polizei-geht-gegen-linke-abgeordnete-vor.html" aria-label="Berlin: Polizei geht gegen Linke-Abgeordnete vor">Berlin: Polizei geht gegen Linke-Abgeordnete vor</a></div><p class="Teaser"><a href="/artikel/1194716.lea-reisner-und-cem-ince-berlin-polizei-geht-gegen-linke-abgeordnete-vor.html" aria-label="Berlin: Polizei geht gegen Linke-Abgeordnete vor">Eine Festnahme und ein Schlag ins Gesicht: Bei Demonstrationen in der vergangenen Woche wurden die als parlamentarische Beobachter teilnehmenden Abgeordneten Lea Reisner und Cem Ince von der Polizei angegriffen.</a></p><div class="Author">Marten Brehmer</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312570')"><a href="/artikel/1194690.frankreich-haelt-lecornu-dieses-mal-laenger-durch.html" aria-label="Hält Lecornu dieses Mal länger durch?"><img src="/img/jpeg/640/312570" alt="Krisenmänner: Präsident Emmanuel Macron und Premierminister Séba..." title="Krisenmänner: Präsident Emmanuel Macron und Premierminister Séba..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Frankreich</span></div><div class="Title"><a href="/artikel/1194690.frankreich-haelt-lecornu-dieses-mal-laenger-durch.html" aria-label="Hält Lecornu dieses Mal länger durch?">Hält Lecornu dieses Mal länger durch?</a></div><p class="Teaser"><a href="/artikel/1194690.frankreich-haelt-lecornu-dieses-mal-laenger-durch.html" aria-label="Hält Lecornu dieses Mal länger durch?">Nach dem Debakel um die Regierungsbildung von Premier Sébastien Lecornu wollen Linke und Rechte Präsident Emmanuel Macron stürzen. Der aber klebt weiter an seinem Posten.</a></p><div class="Author">Ralf Klingsieck, Paris</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312545')"><a href="/artikel/1194674.abschiebeknast-widerstand-gegen-abschiebeknast.html" aria-label="Widerstand gegen Abschiebeknast"><img src="/img/jpeg/640/312545" alt="Auf dem ehemaligen Gelände der britischen Streitkräfte in Mönche..." title="Auf dem ehemaligen Gelände der britischen Streitkräfte in Mönche..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Abschiebeknast</span></div><div class="Title"><a href="/artikel/1194674.abschiebeknast-widerstand-gegen-abschiebeknast.html" aria-label="Widerstand gegen Abschiebeknast">Widerstand gegen Abschiebeknast</a></div><p class="Teaser"><a href="/artikel/1194674.abschiebeknast-widerstand-gegen-abschiebeknast.html" aria-label="Widerstand gegen Abschiebeknast">Das schwarz-grüne Kabinett in Düsseldorf will in Mönchengladbach ein neues Abschiebegefängnis bauen. Kostenpunkt: 300 Millionen Euro. Dabei ist schon die bisher einzige Einrichtung dieser Art in NRW nicht ausgelastet.</a></p><div class="Author">Bernhard Clasen</div></div></article><div class="Clear"></div></div><div class="Slider "><div class="Label-with-glyph-Small">Meinung</div><div class="Arrows"></div><div class="Carousel Four-Items"><div class="Wrap"><a href="/artikel/1194695.vermieterin-mietwucher-in-berlin-bussgelder-sind-gut-aber-nicht-genug.html" aria-label="Mietwucher in Berlin: Bußgelder sind gut, aber nicht genug"><figure style="background-image: url('/img/jpeg/640/312577')"><i><img src="/img/jpeg/640/312577" alt="Die Mieten in der Hauptstadt sind hoch – manchmal sogar kriminel..." title="Die Mieten in der Hauptstadt sind hoch – manchmal sogar kriminel..."></i></figure><div class="Title">Mietwucher in Berlin: Bußgelder sind gut, aber nicht genug</div><p>David Rojas Kienzle zum ersten Mietwucher-Bußgeld in Berlin</p></a></div><div class="Wrap"><a href="/artikel/1194676.polizeigewalt-pruegelnde-beamte-wieder-ein-polizeiproblem.html" aria-label="Prügelnde Beamte: Wieder ein Polizeiproblem"><figure style="background-image: url('/img/jpeg/640/312548')"><i><img src="/img/jpeg/640/312548" alt="Berüchtigt wegen Nazi-Chats: das erste Polizeirevier in Frankfur..." title="Berüchtigt wegen Nazi-Chats: das erste Polizeirevier in Frankfur..."></i></figure><div class="Title">Prügelnde Beamte: Wieder ein Polizeiproblem</div><p>Jana Frielinghaus über die Ermittlungen gegen 17 Beamte in Frankfurt am Main</p></a></div><div class="Wrap"><a href="/artikel/1194530.krieg-im-nahen-osten-gaza-gespraeche-kein-fall-fuer-ein-basta.html" aria-label="Gaza-Gespräche: Kein Fall für ein Basta"><figure style="background-image: url('/img/jpeg/640/312288')"><i><img src="/img/jpeg/640/312288" alt="Demonstranten in Tel Aviv fordern u.a. von US-Präsident Trump, f..." title="Demonstranten in Tel Aviv fordern u.a. von US-Präsident Trump, f..."></i></figure><div class="Title">Gaza-Gespräche: Kein Fall für ein Basta</div><p>Wolfgang Hübner über die Verhandlungen zwischen Israel und Palästinensern</p></a></div><div class="Wrap"><a href="/artikel/1194617.augen-auf-und-durch-gen-z-proteste-das-echo-des-vorjahrzehnts.html" aria-label="Gen Z-Proteste: Das Echo des Vorjahrzehnts"><figure style="background-image: url('/img/jpeg/640/312467')"><i><img src="/img/jpeg/640/312467" alt="Von Jugendlichen angeführter Protest gegen Korruption und Missst..." title="Von Jugendlichen angeführter Protest gegen Korruption und Missst..."></i></figure><div class="Title">Gen Z-Proteste: Das Echo des Vorjahrzehnts</div><p>Mit ihren Protesten tragen junge Menschen die globale Revolte weiter, meint Nelli Tügel</p></a></div></div></div><!-- Eigenbanner: Vorschau nd.DieWoche 10.10. -->
+<div class="Startseitenbanner flex flex-wrap items-stretch p-4 text-center sm:text-left">
+<div class="w-full h2 font-bold mb-4 sm:hidden">Schwerpunkt der Woche: Schwarz-Rot im Autowahn</div>
+<div class="w-full sm:w-1/3 mb-4 sm:mb-0">
+<img
+					src="/blobs/3/4/82c8.png"
+					srcset="/blobs/7/5/aff.png 480w,
+					/blobs/3/4/82c8.png 1024w"
+					sizes="(max-width: 480px) 100vw, (min-width: 640px) 33vw, 100vw"
+					alt="" class="block w-full h-auto">
+</div>
+<div class="Outer w-full sm:w-2/3 sm:pl-12 flex items-center">
+<div class="Inner">
+<div class="h2 font-bold mb-4 hidden sm:block">Schwerpunkt der Woche: Schwarz-Rot im Autowahn</div>
+<div class="Desc">Der Kanzler hat beim Autogipfel Vertretern der Autoindustrie wieder einmal Gehör geschenkt. Niemand konnte erwarten, dass sich die Runde auf schmerzhafte Klimareformen verständigt, die gerade Aktionäre treffen würden, aber alternativlos sind, weil wir uns ein Weiter-so schlicht nicht länger leisten können. Aber würde eine Verlängerung des Verbrenner-Verkaufs wenigstens die Einkommen von Beschäftigten sichern? Wir haben zwei kritische Experten gefragt, welche Folgen Kanzlerpläne und Konzernstrategien für Menschen und Umwelt haben: den <a href="https://www.nd-aktuell.de/artikel/1194597.autogipfel-verkehrte-politik-klaus-doerre-ein-politisch-produzierter-backlash.html">Wirtschaftssoziologen Klaus Dörre</a> und den <a href="https://www.nd-aktuell.de/artikel/1194618.autogipfel-die-geisterfahrer.html">linken Autoexperten Stephan Krull</a>.</div><!-- .Desc -->
+<p class="Button mt-4"><a href="https://nd.digital/editions/nd.DieWoche/2025-10-10" class="!rounded-full">Zur digitalen Ausgabe</a></p>
+</div><!-- .Inner -->
+</div><!-- .Outer -->
+</div><!-- .Startseitenbanner -->
+<div class="Ad"><div id="traffective-ad-Billboard_4" style="display: none;" class="Billboard_4"></div></div><div class="Teaser-Medium-Wrap"><div class="Teaser-Medium"><article><div class="Image Image-1194684"><style scoped>.Image-1194684 figure {background-image: url('/img/jpeg/800/312565')}@media only screen and (min-width: 30.5em) {.Image-1194684 figure {background-image: url('/img/jpeg/1600/312565')}}@media only screen and (min-width: 62.5em) {.Image-1194684 figure {background-image: url('/img/jpeg/2040/312565')}}</style><figure><a href="/artikel/1194684.kritik-an-arbeitspflicht-cent-jobs-fuer-gefluechtete-in-peine.html" aria-label="80-Cent-Jobs für Geflüchtete in Peine"><img src="/img/jpeg/640/312565" alt="Geflüchtete in Niedersachsen. In Peine sind derzeit rund 850 von..." title="Geflüchtete in Niedersachsen. In Peine sind derzeit rund 850 von..."></a></figure></div><div class="Deck"><span class="Kicker">Kritik an Arbeitspflicht</span></div><div class="Title"><a href="/artikel/1194684.kritik-an-arbeitspflicht-cent-jobs-fuer-gefluechtete-in-peine.html" aria-label="80-Cent-Jobs für Geflüchtete in Peine">80-Cent-Jobs für Geflüchtete in Peine</a></div><p class="Teaser"><a href="/artikel/1194684.kritik-an-arbeitspflicht-cent-jobs-fuer-gefluechtete-in-peine.html" aria-label="80-Cent-Jobs für Geflüchtete in Peine">Mit Stimmen von CDU, FDP und AfD führte der Kreistag Peine eine Arbeitspflicht für Geflüchtete in ihren Unterkünften ein. Flüchtlingsrat und Grüne sprechen von Zwangsarbeit.</a></p><div class="Author">Yaro Allisat</div></article><div class="Clear"></div></div><div class="Teaser-Medium"><article><div class="Image Image-1194685"><style scoped>.Image-1194685 figure {background-image: url('/img/jpeg/800/312566')}@media only screen and (min-width: 30.5em) {.Image-1194685 figure {background-image: url('/img/jpeg/1600/312566')}}@media only screen and (min-width: 62.5em) {.Image-1194685 figure {background-image: url('/img/jpeg/2040/312566')}}</style><figure><a href="/artikel/1194685.oberbuergermeister-frankfurt-oder-die-blaue-welle-gebrochen.html" aria-label="Frankfurt (Oder): Die blaue Welle gebrochen"><img src="/img/jpeg/640/312566" alt="Küsschen zum Sieg. Axel Strasser feiert mit seiner Verlobten den..." title="Küsschen zum Sieg. Axel Strasser feiert mit seiner Verlobten den..."></a></figure></div><div class="Deck"><span class="Kicker">Oberbürgermeister</span></div><div class="Title"><a href="/artikel/1194685.oberbuergermeister-frankfurt-oder-die-blaue-welle-gebrochen.html" aria-label="Frankfurt (Oder): Die blaue Welle gebrochen">Frankfurt (Oder): Die blaue Welle gebrochen</a></div><p class="Teaser"><a href="/artikel/1194685.oberbuergermeister-frankfurt-oder-die-blaue-welle-gebrochen.html" aria-label="Frankfurt (Oder): Die blaue Welle gebrochen">Die Kandidaten der AfD wurden bei den Bürgermeisterstichwahlen in Frank­furt (Oder) von einem Partei­losen, in Eisenhüttenstadt von einem Sozial­demo­kraten und in Wriezen von einem Christdemokraten übertrumpft.</a></p><div class="Author">Andreas Fritsche</div></article><div class="Clear"></div></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312579')"><a href="/artikel/1194697.sozialwissenschaften-wirtschaftsnobelpreise-gehen-an-oekonomen-in-frankreich-und-usa.html" aria-label="Wirtschaftsnobelpreise gehen an Ökonomen in Frankreich und USA"><img src="/img/jpeg/640/312579" alt="Das Komitee und die Preisträger" title="Das Komitee und die Preisträger"></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Sozialwissenschaften</span></div><div class="Title"><a href="/artikel/1194697.sozialwissenschaften-wirtschaftsnobelpreise-gehen-an-oekonomen-in-frankreich-und-usa.html" aria-label="Wirtschaftsnobelpreise gehen an Ökonomen in Frankreich und USA">Wirtschaftsnobelpreise gehen an Ökonomen in Frankreich und USA</a></div><p class="Teaser"><a href="/artikel/1194697.sozialwissenschaften-wirtschaftsnobelpreise-gehen-an-oekonomen-in-frankreich-und-usa.html" aria-label="Wirtschaftsnobelpreise gehen an Ökonomen in Frankreich und USA">Technologischer Fortschritt kann Wachstum erzeugen. Wie dies gelingt, haben die drei diesjährigen Wirtschaftsnobelpreisträger untersucht.</a></p><div class="Author">Kurt Stenger</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312523')"><a href="/artikel/1194655.queerpolitik-grundgesetz-leerstelle-schutz-sexueller-identitaet.html" aria-label="Grundgesetz: Leerstelle Schutz sexueller Identität"><img src="/img/jpeg/640/312523" alt="»Grundgesetz für alle«: Derzeit hat eine Grundgesetzänderung für..." title="»Grundgesetz für alle«: Derzeit hat eine Grundgesetzänderung für..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Queerpolitik</span></div><div class="Title"><a href="/artikel/1194655.queerpolitik-grundgesetz-leerstelle-schutz-sexueller-identitaet.html" aria-label="Grundgesetz: Leerstelle Schutz sexueller Identität">Grundgesetz: Leerstelle Schutz sexueller Identität</a></div><p class="Teaser"><a href="/artikel/1194655.queerpolitik-grundgesetz-leerstelle-schutz-sexueller-identitaet.html" aria-label="Grundgesetz: Leerstelle Schutz sexueller Identität">Die Union hält seit Jahren an ihren Argumenten fest, um eine Erweiterung des Diskriminierungsschutzes in der Verfassung zu verhindern. Trotzdem haben die Grünen jetzt einen neuen Gesetzentwurf dazu eingebracht.</a></p><div class="Author">Anton Benz</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312529')"><a href="/artikel/1194661.afd-berliner-afd-nominiert-kandidaten-im-exil.html" aria-label="Berliner AfD nominiert Kandidaten im Exil"><img src="/img/jpeg/640/312529" alt="Protest gegen die AfD-Versammlung in Jüterbog" title="Protest gegen die AfD-Versammlung in Jüterbog"></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">AfD</span></div><div class="Title"><a href="/artikel/1194661.afd-berliner-afd-nominiert-kandidaten-im-exil.html" aria-label="Berliner AfD nominiert Kandidaten im Exil">Berliner AfD nominiert Kandidaten im Exil</a></div><p class="Teaser"><a href="/artikel/1194661.afd-berliner-afd-nominiert-kandidaten-im-exil.html" aria-label="Berliner AfD nominiert Kandidaten im Exil">Da sie in Berlin keine Veranstaltungsorte findet, weicht die AfD einmal mehr ins brandenburgische Jüterbog aus.</a></p><div class="Author">Andreas Fritsche</div></div></article><div class="Clear"></div></div><div class="Ad"><div id="traffective-ad-Billboard_5" style="display: none;" class="Billboard_5"></div></div><div class="Teaser-Topic"><article><div class="Label-with-glyph-Small">Frankfurter Buchmesse</div><div class="Image"><figure style="background-image: url('/img/jpeg/1600/312599')"><a href="/artikel/1194713.frankfurter-buchmesse-alle-schreiben-niemand-liest.html" aria-label="»Alle schreiben, niemand liest«"><img src="/img/jpeg/1600/312599" alt="" loading="lazy"></a></figure></div><div class="Deck"></div><div class="Author">Frédéric Valin</div><div class="Title"><a href="/artikel/1194713.frankfurter-buchmesse-alle-schreiben-niemand-liest.html" aria-label="»Alle schreiben, niemand liest«">»Alle schreiben, niemand liest«</a></div><p>Die Frankfurter Buchmesse beginnt: Ist Schreiben mehr als nur ein Hobby?</p></article><div class="Further-Articles"><ul><li><a href="/artikel/1194699.frankfurter-buchmesse-grosser-wurf-ganz-klein-der-neue-pynchon.html" aria-label="Großer Wurf ganz klein: der neue Pynchon"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312581')"><img src="/img/jpeg/640/312581" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Frankfurter Buchmesse</div></div><div class="Title">Großer Wurf ganz klein: der neue Pynchon</div></div></a></li><li><a href="/artikel/1194692.ketty-guttmann-kaempferische-huren.html" aria-label="Kämpferische Huren"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312573')"><img src="/img/jpeg/640/312573" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Ketty Guttmann</div></div><div class="Title">Kämpferische Huren</div></div></a></li><li><a href="/artikel/1194700.deserteure-eine-frage-des-gewissens.html" aria-label="Eine Frage des Gewissens"><div class="Image"><figure style="background-image: url('/img/jpeg/640/312582')"><img src="/img/jpeg/640/312582" alt="" loading="lazy"></figure></div><div class="Wrap"><div class="Deck"><div class="Kicker">Deserteure</div></div><div class="Title">Eine Frage des Gewissens</div></div></a></li></ul></div><div class="Clear"></div></div><div class="Ad"><div id="traffective-ad-Billboard_6" style="display: none;" class="Billboard_6"></div></div><div class="Teaser-Medium-Wrap"><div class="Teaser-Medium"><article><div class="Image Image-1194678"><style scoped>.Image-1194678 figure {background-image: url('/img/jpeg/800/312552')}@media only screen and (min-width: 30.5em) {.Image-1194678 figure {background-image: url('/img/jpeg/1600/312552')}}@media only screen and (min-width: 62.5em) {.Image-1194678 figure {background-image: url('/img/jpeg/2040/312552')}}</style><figure><a href="/artikel/1194678.influencer-youtuber-marcant-mit-voxpop-gegen-den-rechtssextremismus.html" aria-label="Youtuber Marcant: Mit Voxpop gegen den Rechts­extremismus"><img src="/img/jpeg/640/312552" alt="Mit Mut und Neugier gegen Rechts. Wahrscheinlich darf man mit üb..." title="Mit Mut und Neugier gegen Rechts. Wahrscheinlich darf man mit üb..."></a></figure></div><div class="Deck"><span class="Kicker">Influencer</span></div><div class="Title"><a href="/artikel/1194678.influencer-youtuber-marcant-mit-voxpop-gegen-den-rechtssextremismus.html" aria-label="Youtuber Marcant: Mit Voxpop gegen den Rechts­extremismus">Youtuber Marcant: Mit Voxpop gegen den Rechts­extremismus</a></div><p class="Teaser"><a href="/artikel/1194678.influencer-youtuber-marcant-mit-voxpop-gegen-den-rechtssextremismus.html" aria-label="Youtuber Marcant: Mit Voxpop gegen den Rechts­extremismus">Youtuber Marcant geht dahin, wo es weh tut: Auf rechten Demos kommt er mit den Teilnehmern ins Gespräch. Ihren hetzerischen Lügengeschichten stellt er Fakten gegenüber. Bringt das was? Einige kommen ins Nachdenken.</a></p><div class="Author">Antonia Leise</div></article><div class="Clear"></div></div><div class="Teaser-Medium"><article><div class="Image Image-1194686"><style scoped>.Image-1194686 figure {background-image: url('/img/jpeg/800/312567')}@media only screen and (min-width: 30.5em) {.Image-1194686 figure {background-image: url('/img/jpeg/1600/312567')}}@media only screen and (min-width: 62.5em) {.Image-1194686 figure {background-image: url('/img/jpeg/2040/312567')}}</style><figure><a href="/artikel/1194686.berliner-ensemble-maskentheaterkompanie-familie-floez-feiert-geburtstag.html" aria-label="Maskentheaterkompanie Familie Flöz feiert 30. Geburtstag"><img src="/img/jpeg/640/312567" alt="Hier verzieht niemand eine Miene. Oder doch?" title="Hier verzieht niemand eine Miene. Oder doch?"></a></figure></div><div class="Deck"><span class="Kicker">Berliner Ensemble</span></div><div class="Title"><a href="/artikel/1194686.berliner-ensemble-maskentheaterkompanie-familie-floez-feiert-geburtstag.html" aria-label="Maskentheaterkompanie Familie Flöz feiert 30. Geburtstag">Maskentheaterkompanie Familie Flöz feiert 30. Geburtstag</a></div><p class="Teaser"><a href="/artikel/1194686.berliner-ensemble-maskentheaterkompanie-familie-floez-feiert-geburtstag.html" aria-label="Maskentheaterkompanie Familie Flöz feiert 30. Geburtstag">Familie Flöz möchte verstanden werden. Dafür setzt die Theaterkompanie Masken auf und erzählt wortlos Geschichten. Zum 30. Geburtstag ist jetzt »Finale (eine Ouvertüre)« am Berliner Ensemble rausgekommen.</a></p><div class="Author">Erik Zielke</div></article><div class="Clear"></div></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312604')"><a href="/artikel/1194718.wm-auf-hawaii-anne-reischmann-ironwoman-mit-ironbaby.html" aria-label="Anne Reischmann: Ironwoman mit Ironbaby"><img src="/img/jpeg/640/312604" alt="" title=""></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">WM auf Hawaii</span></div><div class="Title"><a href="/artikel/1194718.wm-auf-hawaii-anne-reischmann-ironwoman-mit-ironbaby.html" aria-label="Anne Reischmann: Ironwoman mit Ironbaby">Anne Reischmann: Ironwoman mit Ironbaby</a></div><p class="Teaser"><a href="/artikel/1194718.wm-auf-hawaii-anne-reischmann-ironwoman-mit-ironbaby.html" aria-label="Anne Reischmann: Ironwoman mit Ironbaby">In der 13. Schwangerschaftswoche meistert die Ravensburgerin eines der anspruchsvollsten Ein-Tages-Sportevents der Welt und lässt dabei sogar noch einige Konkurrentinnen hinter sich.</a></p><div class="Author">Lennart Garbes</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312601')"><a href="/artikel/1194715.tod-einer-ikone-diane-keaton-eine-unabhaengige-frau-unter-maennern.html" aria-label="Diane Keaton: Eine unabhängige Frau unter Männern"><img src="/img/jpeg/640/312601" alt="" title=""></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Tod einer Ikone</span></div><div class="Title"><a href="/artikel/1194715.tod-einer-ikone-diane-keaton-eine-unabhaengige-frau-unter-maennern.html" aria-label="Diane Keaton: Eine unabhängige Frau unter Männern">Diane Keaton: Eine unabhängige Frau unter Männern</a></div><p class="Teaser"><a href="/artikel/1194715.tod-einer-ikone-diane-keaton-eine-unabhaengige-frau-unter-maennern.html" aria-label="Diane Keaton: Eine unabhängige Frau unter Männern">In den 70ern wurde Diane Keaton zu einer Stilikone für die feministische Mittelschicht, mit Hosenanzügen und Krawatten. So wollten in der BRD sowohl die »Brigitte«- als auch die »Emma«-Leserinnen ebenfalls aussehen.</a></p><div class="Author">Niko Daniel</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312557')"><a href="/artikel/1194681.genosse-shakespeare-so-muede.html" aria-label="So müde"><img src="/img/jpeg/640/312557" alt="" title=""></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Genosse Shakespeare</span></div><div class="Title"><a href="/artikel/1194681.genosse-shakespeare-so-muede.html" aria-label="So müde">So müde</a></div><p class="Teaser"><a href="/artikel/1194681.genosse-shakespeare-so-muede.html" aria-label="So müde">Lasst hundert Blumen blühen: Die Dramen des Genossen Shakespeare, mehr noch seine Sonette gibt es in unzähligen deutschen Übersetzungen. Die Lektüre lohnt sich. Auch wenn’s manchmal unfreiwillig komisch wird.</a></p><div class="Author">Erik Zielke</div></div></article><div class="Clear"></div></div><div class="Slider "><div class="Label-with-glyph-Small">Hintergrund</div><div class="Arrows"></div><div class="Carousel Four-Items"><div class="Wrap"><a href="/artikel/1194626.gefluechtete-afghanistan-ist-fast-nie-ein-thema.html" aria-label="»Afghanistan ist fast nie ein Thema«"><figure style="background-image: url('/img/jpeg/640/312478')"><i><img src="/img/jpeg/640/312478" alt="" title=""></i></figure><div class="Title">»Afghanistan ist fast nie ein Thema«</div><p>Die Psychologiestudentin Azada Sharifi über die Politik mit der Angst und einen Bedarf an Therapeuten mit Migrationsgeschichte</p></a></div><div class="Wrap"><a href="/artikel/1194602.israel-und-palaestina-avraham-burg-diesmal-sind-wir-es.html" aria-label="Avraham Burg: »Diesmal sind wir es«"><figure style="background-image: url('/img/jpeg/640/312429')"><i><img src="/img/jpeg/640/312429" alt="Gute Laune – israelische Soldaten bei der Eroberung des Gaza-Str..." title="Gute Laune – israelische Soldaten bei der Eroberung des Gaza-Str..."></i></figure><div class="Title">Avraham Burg: »Diesmal sind wir es«</div><p>Deutschland benutzt Israels Opferstatus zur eigenen Rehabilitation. Nach Gaza muss damit Schluss sein, meint der israelische Ex-Politiker Avraham Burg</p></a></div><div class="Wrap"><a href="/artikel/1194608.infektionskrankheiten-impfungen-unter-beschuss.html" aria-label="Impfungen unter Beschuss"><figure style="background-image: url('/img/jpeg/640/312454')"><i><img src="/img/jpeg/640/312454" alt="Polio-Impfung in Malawis Hauptstadt Lilongwe: Anders als hier er..." title="Polio-Impfung in Malawis Hauptstadt Lilongwe: Anders als hier er..."></i></figure><div class="Title">Impfungen unter Beschuss</div><p>Programme leiden weltweit unter Konflikten, Finanznot und Desinformation</p></a></div><div class="Wrap"><a href="/artikel/1194551.arbeitsbedingungen-arbeit-auf-der-baustelle-wenn-der-chef-die-stunden-aufschreibt.html" aria-label="Arbeit auf der Baustelle: Wenn der Chef die Stunden aufschreibt"><figure style="background-image: url('/img/jpeg/640/312330')"><i><img src="/img/jpeg/640/312330" alt="Je einfacher die Arbeiten, desto größer der Anteil der migrantis..." title="Je einfacher die Arbeiten, desto größer der Anteil der migrantis..."></i></figure><div class="Title">Arbeit auf der Baustelle: Wenn der Chef die Stunden aufschreibt</div><p>Auf vielen Berliner Baustellen wird die Arbeitszeit nicht korrekt dokumentiert</p></a></div></div></div><!-- Eigenbanner: Abo -->
+<div class="Startseitenbanner flex flex-wrap items-stretch p-4 text-center sm:text-left">
+<div class="w-full h2 font-bold mb-4 sm:hidden">Jetzt nd.Digital abonnieren!</div>
+<div class="w-full sm:w-1/3 mb-4 sm:mb-0">
+<img
+					src="/blobs/4/6/6a51.png"
+					srcset="/blobs/3/2/e8d.png 480w,
+					/blobs/4/6/6a51.png 1024w"
+					sizes="(max-width: 480px) 100vw, (min-width: 640px) 33vw, 100vw"
+					alt="" class="block w-full h-auto">
+</div>
+<div class="Outer w-full sm:w-2/3 sm:pl-12 flex items-center">
+<div class="Inner">
+<div class="h2 font-bold mb-4 hidden sm:block">Jetzt nd.Digital abonnieren!</div>
+<div class="Desc"><p>Sechsmal wöchentlich Nachrichten, Hintergründe und Analysen in der nd.App oder im Browser bereits <b>ab 15 €/Monat</b> zu Hause oder unterwegs lesen.</p></div><!-- .Desc -->
+<p class="Button mt-4"><a href="https://nd-aktuell.de/abo/digitalabo.php" class="!rounded-full">Zum Angebot</a></p>
+</div><!-- .Inner -->
+</div><!-- .Outer -->
+</div><!-- .Startseitenbanner -->
+<div class="Teaser-Medium-Wrap"><div class="Teaser-Medium"><article><div class="Image Image-1194660"><style scoped>.Image-1194660 figure {background-image: url('/img/jpeg/800/312528')}@media only screen and (min-width: 30.5em) {.Image-1194660 figure {background-image: url('/img/jpeg/1600/312528')}}@media only screen and (min-width: 62.5em) {.Image-1194660 figure {background-image: url('/img/jpeg/2040/312528')}}</style><figure><a href="/artikel/1194660.ukraine-krieg-sorgen-um-das-akw-saporischschja.html" aria-label="Sorgen um das AKW Saporischschja"><img src="/img/jpeg/640/312528" alt="Russland macht kaum einen Hehl daraus, das AKW Saporischschja fü..." title="Russland macht kaum einen Hehl daraus, das AKW Saporischschja fü..."></a></figure></div><div class="Deck"><span class="Kicker">Ukraine-Krieg</span></div><div class="Title"><a href="/artikel/1194660.ukraine-krieg-sorgen-um-das-akw-saporischschja.html" aria-label="Sorgen um das AKW Saporischschja">Sorgen um das AKW Saporischschja</a></div><p class="Teaser"><a href="/artikel/1194660.ukraine-krieg-sorgen-um-das-akw-saporischschja.html" aria-label="Sorgen um das AKW Saporischschja">Nach einem erneuten Zwischenfall am AKW Saporischschja beschuldigt die Ukraine Russland, dieses inszeniert zu haben. Auch gegen IAEA-Chef Rafael Grossi äußert man in Kiew Verdächtigungen.</a></p><div class="Author">Bernhard Clasen</div></article><div class="Clear"></div></div><div class="Teaser-Medium"><article><div class="Image Image-1194592"><style scoped>.Image-1194592 figure {background-image: url('/img/jpeg/800/312406')}@media only screen and (min-width: 30.5em) {.Image-1194592 figure {background-image: url('/img/jpeg/1600/312406')}}@media only screen and (min-width: 62.5em) {.Image-1194592 figure {background-image: url('/img/jpeg/2040/312406')}}</style><figure><a href="/artikel/1194592.prozess-gegen-johann-g-hochbetrieb-am-dresdner-hammerweg.html" aria-label="Hochbetrieb am Dresdner Hammerweg"><img src="/img/jpeg/640/312406" alt="Im Gerichtssaal am Hammerweg, in dem gegen die Gruppe um Lina E...." title="Im Gerichtssaal am Hammerweg, in dem gegen die Gruppe um Lina E...."></a></figure></div><div class="Deck"><span class="Kicker">Prozess gegen Johann G.</span></div><div class="Title"><a href="/artikel/1194592.prozess-gegen-johann-g-hochbetrieb-am-dresdner-hammerweg.html" aria-label="Hochbetrieb am Dresdner Hammerweg">Hochbetrieb am Dresdner Hammerweg</a></div><p class="Teaser"><a href="/artikel/1194592.prozess-gegen-johann-g-hochbetrieb-am-dresdner-hammerweg.html" aria-label="Hochbetrieb am Dresdner Hammerweg">Am OLG Dresden wird ab November in zwei parallelen Verfahren gegen eine Gruppe militanter Antifaschisten und eine NSU-Unterstützerin verhandelt. Im Saal am Hammerweg sind bis Sommer 2026 in Summe 111 Termine angesetzt.</a></p><div class="Author">Hendrik Lasch</div></article><div class="Clear"></div></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312483')"><a href="/artikel/1194628.datenschutz-big-brother-awards-wer-uns-wirklich-beobachtet.html" aria-label="Big Brother Awards 2025: Wer uns wirklich beobachtet"><img src="/img/jpeg/640/312483" alt="Auch dieses Jahr gehen die Big Brother Awards an die größten Dat..." title="Auch dieses Jahr gehen die Big Brother Awards an die größten Dat..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Datenschutz</span></div><div class="Title"><a href="/artikel/1194628.datenschutz-big-brother-awards-wer-uns-wirklich-beobachtet.html" aria-label="Big Brother Awards 2025: Wer uns wirklich beobachtet">Big Brother Awards 2025: Wer uns wirklich beobachtet</a></div><p class="Teaser"><a href="/artikel/1194628.datenschutz-big-brother-awards-wer-uns-wirklich-beobachtet.html" aria-label="Big Brother Awards 2025: Wer uns wirklich beobachtet">Google liest mit, Dobrindt will flächendeckend Gesichter scannen – im Namen von Effizienz, Sicherheit oder Komfort. Der Verein Digitalcourage klärt mit seinen Negativpreisen auf, wer die Macht über unsere Daten hat.</a></p><div class="Author">Patrick Lempges</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312533')"><a href="/artikel/1194663.fussball-wichtiger-rueckenwind-fuer-die-deutsche-nationalmannschaft.html" aria-label="Wichtiger Rückenwind für die deutsche Nationalmannschaft"><img src="/img/jpeg/640/312533" alt="Das hat geklappt: Gegen Luxemburg konnten besonders die Bayern-S..." title="Das hat geklappt: Gegen Luxemburg konnten besonders die Bayern-S..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Fussball</span></div><div class="Title"><a href="/artikel/1194663.fussball-wichtiger-rueckenwind-fuer-die-deutsche-nationalmannschaft.html" aria-label="Wichtiger Rückenwind für die deutsche Nationalmannschaft">Wichtiger Rückenwind für die deutsche Nationalmannschaft</a></div><p class="Teaser"><a href="/artikel/1194663.fussball-wichtiger-rueckenwind-fuer-die-deutsche-nationalmannschaft.html" aria-label="Wichtiger Rückenwind für die deutsche Nationalmannschaft">Auf den Erfolg aus dem Luxemburg-Spiel gilt es in Belfast aufzubauen. Ein Sieg gegen Nordirland wäre für die DFB-Elf ein wichtiger Schritt Richtung Qualifikation zur WM. Dafür setzt Julian Nagelsmann auf die Bayern.</a></p><div class="Author">Frank Hellmann, Sinsheim/Belfast</div></div></article><div class="Clear"></div></div><div class="Teaser-Small"><article><div class="Image"><figure style="background-image: url('/img/jpeg/640/312455')"><a href="/artikel/1194609.nils-kumkar-systemtheoretischer-populismus.html" aria-label="Systemtheoretischer Populismus"><img src="/img/jpeg/640/312455" alt="Polarisierung als Naturgesetz? Was physikalisch gilt, muss nicht..." title="Polarisierung als Naturgesetz? Was physikalisch gilt, muss nicht..."></a></figure></div><div class="Wrap"><div class="Deck"><span class="Kicker">Nils Kumkar</span></div><div class="Title"><a href="/artikel/1194609.nils-kumkar-systemtheoretischer-populismus.html" aria-label="Systemtheoretischer Populismus">Systemtheoretischer Populismus</a></div><p class="Teaser"><a href="/artikel/1194609.nils-kumkar-systemtheoretischer-populismus.html" aria-label="Systemtheoretischer Populismus">Der Soziologe Nils Kumkar analysiert die »Polarisierung« der Gesellschaft. Sein Buch, wenn auch im Detail erhellend, landet jedoch bei populistischer Politik statt Gesellschaftskritik</a></p><div class="Author">Felix Breuning</div></div></article><div class="Clear"></div></div><!-- Tue, 22 Nov 2022 11:41:50 +0100 -->
+<!-- Fri, 17 May 2019 09:45:39 +0200 -->
+<div class="Slider Termine"><div class="Label-with-glyph-Small">Termine</div><div class="Arrows"></div><div class="Carousel Three-Items"></div></div><!-- Fri, 17 May 2019 09:45:39 +0200 -->
+</div>		</main>
+	</div><!-- .Main -->
+		<div class="Clear"></div>
+	
+	
+	<footer>
+		<div class="Footer">							<div class="nd-Formate">
+	<!-- <div class="Lametta">nd ohne Papier? Klar!<br>Was darf's denn sein?</div> -->
+	<div class="Label-with-glyph-Big">Linksrutsch</div>
+	<ul class="Formate">
+		<li>
+			<div class="Image mb-4"><a href="/abo/digitalabo.php"><img src="/images/nd-digital.webp?3" width="300" height="300" alt="nd.Digital" loading="lazy"></a></div>
+			<div class="Wrap">
+				<a href="/abo/digitalabo.php">
+				<div class="Kicker font-bold"><i class="fa fa-clock"></i> Tägliche News</div>
+				<div class="Label">Für Political Animals</div>
+				<div class="Teaser">Mit <em style="font-style:italic">nd.DIGITAL</em> haben Sie genossenschaftlich produzierten Journalismus immer griffbereit. Lesen Sie linke Perspektiven auf das politische Geschehen: zu jeder Zeit, von überall, in Ihrer Hand.</div>
+				</a>
+			</div><!-- .Wrap -->
+		</li>
+		<li>
+			<div class="Image mb-4"><a href="/abo/wochenendabo.php"><img src="/images/nd-diewoche.webp?3" width="300" height="300" alt="nd.Die Woche" loading="lazy"></a></div>
+			<div class="Wrap">
+				<a href="/abo/wochenendabo.php">
+				<div class="Kicker font-bold"><i class="fas fa-solid fa-calendar-week"></i> Wöchentliche News und Hintergründe</div>
+				<div class="Label">Für Genuss-Leser*innen</div>
+				<div class="Teaser">Mit <em style="font-style:italic">nd.DIE WOCHE</em> bekommen Sie linke Analysen, sorgfältig recherchierte Reportagen und aufschlussreiche Interviews direkt nach Hause. Gönnen Sie sich die Ruhe von bedrucktem Papier.</div>
+				</a>
+			</div><!-- .Wrap -->
+		</li>
+		<li>
+			<div class="Image mb-4"><a href="/muckefuck/"><img src="/images/nd-muckefuck.webp?3" width="300" height="300" alt="Muckefuck" loading="lazy"></a></div>
+			<div class="Wrap">
+				<a href="/muckefuck/">
+				<div class="Kicker font-bold"><i class="fas fa-solid fa-mug-hot"></i> Montag bis Freitag um 5 Uhr</div>
+				<div class="Label">Für Frühaufsteher*innen</div>
+				<div class="Teaser">Den <em style="font-style:italic">MUCKEFUCK</em> gibt’s bei uns zum Frühstück: Unser Newsletter bringt Ihnen wochentäglich alles, was Berlin bewegt: Debatten, Schlagzeilen, Straßenaktionen und Kulturtipps – ungefiltert, auch auf Telegram.</div>
+				</a>
+			</div><!-- .Wrap -->
+		</li>
+	</ul>
+</div><!-- .nd-Formate -->
+										<div class="Footer-Navi Desktop-Only">
+					<div class="Footer-Item Footer-Logo">
+						<img src="/images/nd-letters/red.svg" alt="Logo" loading="lazy">
+					</div>
+					<ul class="Footer-Item Meta-Links">
+						<li><a href="/abo/">Abo</a></li>
+						<li><a href="/abo-service/kuendigung.php">Abo kündigen</a></li>
+												<li><a href="/download.php?edition=a">PDF</a>  |
+							<a href="/epub/epub.php?day=aktuell">Epub</a></li>
+						<li><a href="https://dasnd.de/digital">Neue App: nd.Digital</a></li>
+						<li><a href="/newsletter/">Newsletter</a></li>
+						<li><a href="/abo/freiwillig-zahlen.php">Freiwillig zahlen</a></li>
+											</ul>
+					<ul class="Footer-Item Meta-Links">
+						<li><a href="/redaktion/">Die Redaktion</a></li>
+						<li><a href="/gastautoren/">Gastautor*innen</a></li>
+						<li><a href="https://genossenschaft.nd-aktuell.de">Genossenschaft</a></li>
+					</ul>
+					<ul class="Footer-Item Meta-Links">
+						<li><a href="https://genossenschaft.nd-aktuell.de/kontakt">Kontakt</a></li>
+						<li><a href="https://genossenschaft.nd-aktuell.de/jobs">Jobangebote</a></li>
+						<li><a href="https://genossenschaft.nd-aktuell.de/anzeigen">Anzeigen</a></li>
+						<li><a href="https://genossenschaft.nd-aktuell.de/anzeigen/print">Mediadaten</a></li>
+					</ul>
+					<ul class="Footer-Item Meta-Links">
+						<li><a href="/kontakt/1">Impressum</a></li>
+						<li><a href="/kontakt/4">Datenschutz</a></li>
+						<li><a href="https://genossenschaft.nd-aktuell.de/barrierefreiheit">Barrierefreiheit</a></li>
+						<li><a href="/agb.php">AGB</a></li>
+					</ul>
+					<ul class="Footer-Item Meta-Links">
+						<li><a href="/archiv.php">Archiv</a></li>
+						<li><a href="/tag/">Schlagwörter</a></li>
+						<li><a href="/termine/">Termine</a></li>
+						<li><a href="/reisen/">nd.Reisen</a></li>
+					</ul>
+					<ul class="Footer-Item Meta-Links">
+						<li><a href="https://www.die-zukunft.eu/" target="_blank">Die Zukunft</a></li>
+						<li><a href="/rss.php">RSS-Feeds</a></li>
+					</ul>
+				</div><!-- .Footer-Navi -->
+				<div class="Clear"></div>
+					</div><!-- .Footer -->
+	</footer>
+</div><!-- .Wrapper-Inner -->
+<ul class="Social-Media">
+	<li><a href="https://troet.cafe/@ndaktuell" aria-label="nd bei Mastodon" target="_blank" rel="me"><i class="fab fa-mastodon"></i></a></li>
+	<li><a href="https://bsky.app/profile/ndaktuell.bsky.social" aria-label="nd bei Bluesky" target="_blank"><i class="fab fa-bluesky"></i></a></li>
+	<li><a href="https://www.instagram.com/nd.aktuell/" aria-label="nd bei Instagram" target="_blank"><i class="fab fa-instagram"></i></a></li>
+	<li><a href="https://www.facebook.com/nd.aktuell" aria-label="nd bei Facebook" target="_blank"><i class="fab fa-facebook"></i></a></li>
+	<li><a href="https://www.tiktok.com/@ndaktuell" aria-label="nd bei Tiktok" target="_blank"><i class="fab fa-tiktok"></i></a></li>
+	<li><a href="http://youtube.com/ndonline" aria-label="nd bei Youtube" target="_blank"><i class="fab fa-youtube"></i></a></li>
+</ul>
+<div class="Footer-Note">
+			<ul class="Mobile-Only Footer-Meta">
+			<li><a href="/kontakt/1">Impressum</a></li>
+			<li><a href="/kontakt/4">Datenschutz</a></li>
+			<li><a href="/agb.php">AGB</a></li>
+		</ul>
+		<p>Hinweis zum Datenschutz: Wir setzen für unsere Zugriffsstatistiken das Programm Matomo ein.</p><p>Besuche und Aktionen auf dieser Webseite werden statistisch erfasst und ausschließlich anonymisiert gespeichert.</p>
+	<p class="Legal">&copy; Redaktion nd - Journalismus von links. Realisation: <a href="https://www.warenform.net" target="_blank">WARENFORM</a>. Hosting: <a href="https://www.sinma.de" target="_blank">SINMA</a>.</p>
+</div>
+
+<script src="https://cdn.nd-aktuell.de/elements/widget/index.es.js" type="module" async></script>
+<style>
+*:not(:defined) {
+	display: none
+}
+</style>
+
+<!-- served from templates/widget.inc.php -->
+<freiwillig-zahlen
+		></freiwillig-zahlen>
+
+</div><!-- .Wrapper -->
+
+
+<link rel="stylesheet" href="/css/toastr.min.css">
+<link rel="stylesheet" href="/css/slick.min.css">
+<script src="/js/jquery/jquery.imageToggle.js"></script>
+<script src="/js/jquery/jquery.cookie.min.js"></script>
+<script src="/js/embed.min.js"></script>
+<script src="/js/jquery/slick.min.js"></script>
+	<script>
+	$(document).ready(function() {
+		$('.Carousel.Two-Items').each(function() {
+			$(this).slick({
+				arrows: true,
+				appendArrows: $(this).parents('.Slider').find('.Arrows'),
+				dots: false,
+				infinite: true,
+				speed: 300,
+				slidesToShow: 2,
+				responsive: [
+					{
+						breakpoint: 640,
+						settings: {
+							slidesToShow: 1
+						}
+					}
+				]
+			});
+		});
+		$('.Carousel.Three-Items').each(function() {
+			$(this).slick({
+				arrows: true,
+				appendArrows: $(this).parents('.Slider').find('.Arrows'),
+				dots: false,
+				infinite: true,
+				speed: 300,
+				slidesToShow: 3,
+				responsive: [
+					{
+						breakpoint: 760,
+						settings: {
+							slidesToShow: 2
+						}
+					},
+					{
+						breakpoint: 640,
+						settings: {
+							slidesToShow: 1
+						}
+					}
+				]
+			});
+		});
+		$('.Carousel.Four-Items').each(function() {
+			$(this).slick({
+				arrows: true,
+				appendArrows: $(this).parents('.Slider').find('.Arrows'),
+				dots: false,
+				infinite: true,
+				speed: 300,
+				slidesToShow: 4,
+				responsive: [
+					{
+						breakpoint: 960,
+						settings: {
+							slidesToShow: 3
+						}
+					},
+					{
+						breakpoint: 760,
+						settings: {
+							slidesToShow: 2
+						}
+					},
+					{
+						breakpoint: 640,
+						settings: {
+							slidesToShow: 1
+						}
+					}
+				]
+			});
+		});
+	});
+	</script>
+
+<!-- Piwik -->
+<script type="text/plain" data-cmp-custom-vendor="1043" data-cmp-script>
+var _paq = _paq || [];
+_paq.push(['trackPageView']);
+_paq.push(['enableLinkTracking']);
+_paq.push(['trackAllContentImpressions']);
+_paq.push(['setDomains', '*.nd-aktuell.de']);
+(function() {
+  var u="https://stats.warenform.de/nd/";
+  _paq.push(['setTrackerUrl', u+'piwik.php']);
+  _paq.push(['setSiteId', 1]);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.setAttribute('data-cmp-ab', '1');g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+})();
+</script>
+<!-- End Piwik Code -->
+
+
+
+<div class="Ads" id="Ads">
+						<div class="Ad2 Bar">
+				<div id="traffective-ad-Skyscraper" style='display: none;' class="Skyscraper"></div>
+			</div><!-- .Ad2 -->
+				<div class="Clear"></div>
+</div><!-- .Ads -->
+	<script>
+	$(document).ready(function() {
+		$("#Ads").appendTo("#AdsLocation");
+	});
+	</script>
+
+</body>
+</html>

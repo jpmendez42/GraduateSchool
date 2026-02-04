@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /api/*
+Disallow: /compensation
+Disallow: /cookies
+Disallow: /embed
+Disallow: /home
+Disallow: /logout
+Disallow: /optins/*
+Disallow: /profile/*
+Disallow: /referral/*
+Disallow: /refund
+Disallow: /webview/*
+Disallow: /order-confirmation/*
+
+Sitemap: https://jow.fr/sitemap-index.xml

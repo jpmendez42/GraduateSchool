@@ -1,0 +1,9 @@
+# Robots.txt for https://www.deutsche-digitale-bibliothek.de/
+
+User-agent: *
+Disallow: /login
+Disallow: /searchresults
+Disallow: /search
+
+Sitemap: https://www.deutsche-digitale-bibliothek.de/sitemaps/index.xml
+

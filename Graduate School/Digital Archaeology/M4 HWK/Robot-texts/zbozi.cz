@@ -1,0 +1,444 @@
+## 8888888888P 888                       d8b
+##       d88P  888                       Y8P
+##      d88P   888
+##     d88P    88888b.   .d88b. 88888888 888      .d8888b 88888888
+##    d88P     888 "88b d88""88b   d88P  888     d88P"       d88P
+##   d88P      888  888 888  888  d88P   888     888        d88P
+##  d88P       888 d88P Y88..88P d88P    888 d8b Y88b.     d88P
+## d8888888888 88888P"   "Y88P" 88888888 888 Y8P  "Y8888P 88888888
+## ###############################################################
+
+User-agent: *
+## Disallow clicks to shops
+Disallow: /action/
+Disallow: /mobileCheck
+Disallow: /clickthru
+## Disallow result pages - search results
+Disallow: /hledani/
+Disallow: /hledej/
+Disallow: /stats
+## multichoice in left menu
+Disallow: /*,
+## other
+Disallow: /porovnani-produktu/$
+Disallow: /porovnani-produktu$
+Disallow: /mobileRedir
+Disallow: /*sId=
+Disallow: /*pId=
+Disallow: /*catOrder=
+Disallow: /*&r=hint
+Disallow: /*&r=web
+Disallow: /*&r=zbozi
+Disallow: /*%2C
+Disallow: /*forceScreen=
+Disallow: /*origQuery=
+## Disallow pages with 2 and more parameters - seznambot
+Disallow: /*?*&*&*
+## kvuli pravidlu Disallow: /*?*&*&*&*
+Allow: /api/*?*&*&*
+Allow: /api/
+Disallow: /nabidka/
+Disallow: /opes/clickthru
+## Disallow pages with specific parameters
+Disallow: /*razeni=nejdrazsi*
+Disallow: /*&dostupnost=*
+Disallow: /*?dostupnost=*&*
+## Disallow pages that may directly set/postpone rating (intended for e-mail clickthrus)
+Disallow: /obchod/*/hodnotit/
+Disallow: /hodnoceni-produktu/hodnotit/
+Disallow: /obchod/odlozit/
+Disallow: /*cena-od=
+Disallow: /*cena-do=
+# Disallow all searchScreen
+Disallow: /hledani/*
+Disallow: /hledej/*
+Disallow: /*?q=
+Disallow: /hledani/?q=
+Disallow: /hledej/?q=
+## nesmyslne rozsahy
+Disallow: /*1.7976931348623157e+308
+Disallow: /*1.79769313486e+308
+## location + parameters
+Disallow: /*/?kraj=*&okres=*&
+Disallow: /*/?okres=*&kraj=*&
+## bordel v URL
+Disallow: /*/*?*sourceid*
+Disallow: /*/*?*ppcbee*
+Disallow: /*/*?*sidVis*
+Disallow: /*/*?29*
+Disallow: /*/*?0*
+Disallow: /*/*?amp;amp*
+Disallow: /*/*?;*
+Disallow: /*/*%2525*26*
+Disallow: /*/*=b%27*
+Disallow: /*/*=b'*
+Disallow: /*/*=true$
+Disallow: /*/*=true&
+Disallow: /*/*?amp;
+Disallow: /*/*?amp*3B
+Disallow: /vyrobek/*?*=*
+Allow: /vyrobek/*?varianta=*
+
+
+
+User-agent: Googlebot
+## Disallow clicks to shops.
+Disallow: /action/
+Disallow: /mobileCheck
+Disallow: /clickthru
+Disallow: /stats
+## other
+Disallow: /porovnani-produktu/$
+Disallow: /porovnani-produktu$
+Disallow: /mobileRedir
+## old pages in Google index
+Disallow: /*searchscreen
+Disallow: /*searchScreen
+Disallow: /?forceScreen
+Disallow: /itemVariants
+Disallow: //wp-content/
+Disallow: /zbozi.py/
+## Disallow pages with 4 and more parameters
+Disallow: /*?*&*&*&*
+## Disallow pages with specific parameters
+Disallow: /*razeni=nejdrazsi*
+Disallow: /*&dostupnost=*
+Disallow: /*?dostupnost=*&*
+## product fotogaleries
+Disallow: */vyrobek/*/fotogalerie*
+## multichoice in left menu
+Disallow: /*,
+Disallow: /hledani/*typ=
+Disallow: /hledej/*typ=
+## search in categories
+Disallow: /eroticke-zbozi-a-pomucky*q=
+Disallow: /auto-moto*q=
+Disallow: /detske-zbozi*q=
+Disallow: /domaci-spotrebice*q=
+Disallow: /dum-byt-a-zahrada*q=
+Disallow: /elektronika*q=
+Disallow: /foto*q=
+Disallow: /kancelar*q=
+Disallow: /kosmetika-a-drogerie*q=
+Disallow: /kultura-a-zabava*q=
+Disallow: /obleceni-a-moda*q=
+Disallow: /ostatni*q=
+Disallow: /pocitace*q=
+Disallow: /potraviny-a-napoje*q=
+Disallow: /sport*q=
+Disallow: /telefony-navigace*q=
+Disallow: /zdravi*q=
+## do not index sorting in categories (except first page)
+Disallow: /eroticke-zbozi-a-pomucky*?*&razeni=
+Disallow: /eroticke-zbozi-a-pomucky*?razeni=*&
+Disallow: /auto-moto*?*&razeni=
+Disallow: /auto-moto*?razeni=*&
+Disallow: /detske-zbozi*?*&razeni=
+Disallow: /detske-zbozi*?razeni=*&
+Disallow: /domaci-spotrebice*?*&razeni=
+Disallow: /domaci-spotrebice*?razeni=*&
+Disallow: /dum-byt-a-zahrada*?*&razeni=
+Disallow: /dum-byt-a-zahrada*?razeni=*&
+Disallow: /elektronika*?*&razeni=
+Disallow: /elektronika*?razeni=*&
+Disallow: /foto*?*&razeni=
+Disallow: /foto*?razeni=*&
+Disallow: /kancelar*?*&razeni=
+Disallow: /kancelar*?razeni=*&
+Disallow: /kosmetika-a-drogerie*?*&razeni=
+Disallow: /kosmetika-a-drogerie*?razeni=*&
+Disallow: /kultura-a-zabava*?*&razeni=
+Disallow: /kultura-a-zabava*?razeni=*&
+Disallow: /obleceni-a-moda*?*&razeni=
+Disallow: /obleceni-a-moda*?razeni=*&
+Disallow: /ostatni*?*&razeni=
+Disallow: /ostatni*?razeni=*&
+Disallow: /pocitace*?*&razeni=
+Disallow: /pocitace*?razeni=*&
+Disallow: /potraviny-a-napoje*?*&razeni=
+Disallow: /potraviny-a-napoje*?razeni=*&
+Disallow: /sport*?*&razeni=
+Disallow: /sport*?razeni=*&
+Disallow: /telefony-navigace*?*&razeni=
+Disallow: /telefony-navigace*?razeni=*&
+Disallow: /zdravi*?*&razeni=
+Disallow: /zdravi*?razeni=*&
+Disallow: /*sId=
+Disallow: /*pId=
+Disallow: /*catOrder=
+Disallow: /*&r=hint
+Disallow: /*&r=web
+Disallow: /*&r=zbozi
+Disallow: /*%2C
+Disallow: /*forceScreen=
+Disallow: /*origQuery=
+## kvuli pravidlu Disallow: /*?*&*&*&*
+Allow: /api/*?*&*&*&*
+Allow: /api/
+Allow: /img/*,
+Allow: /items?
+Allow: /p1*-
+Allow: /p2*-
+Allow: /p3*-
+Allow: /p4*-
+Allow: /p5*-
+Allow: /p6*-
+Allow: /p7*-
+Allow: /p8*-
+Allow: /p9*-
+Allow: /p0*-
+Disallow: /nabidka/
+## Disallow pages that may directly set/postpone rating (intended for e-mail clickthrus)
+Disallow: /obchod/*/hodnotit/
+Disallow: /hodnoceni-produktu/hodnotit/
+Disallow: /obchod/odlozit/
+Disallow: /*cena-od=
+Disallow: /*cena-do=
+Disallow: /hledani/*
+Disallow: /*/?q=*
+Allow: /hledani/?q=*
+Disallow: /hledani/?q=*&*
+Disallow: /hledej/*
+Disallow: /*/?q=*
+Allow: /hledej/?q=*
+Disallow: /hledej/?q=*&*
+## nesmyslne rozsahy
+Disallow: /*1.7976931348623157e+308
+Disallow: /*1.79769313486e+308
+## location + parmeters
+Disallow: /*/?kraj=*&okres=*&
+Disallow: /*/?okres=*&kraj=*&
+## bordel v URL
+Disallow: /*/*?*sourceid*
+Disallow: /*/*?*ppcbee*
+Disallow: /*/*?*sidVis*
+Disallow: /*/*?29*
+# /?0=%5Bobject%20Object%5D&vyrobce=tommy-hilfiger
+Disallow: /*/*?0*
+# 2019-08-03
+Disallow: /*/*?;*
+Disallow: /*/*%2525*26*
+# /?LOCK%20HLE7203S=true&barva=cerna&vyrobce=desigual
+Disallow: /*/*=true$
+Disallow: /*/*=true&
+# 2020-08-06 - fun with sitemaps
+Disallow: /*/*=b%27*
+Disallow: /*/*=b'*
+# 2020-12-02 - Prolinkovani bug
+Disallow: /*www.seznamzpravy.cz*
+Disallow: /*www.seznam.cz*
+Disallow: /*www.novinky.cz*
+Disallow: /*www.firmy.cz*
+# /?amp;barva=modra&barva=bezova&vyrobce=guess
+Disallow: /*/*?amp;
+# /?amp%3Bstrana=10&barva=zluta&vyrobce=grosso
+Disallow: /*/*?amp*3B
+# invalid parameters in /vyrobek/
+Disallow: /vyrobek/*?*=*
+Allow: /vyrobek/*?varianta=*
+Allow: /vyrobek/*utm_*
+Allow: /*/kotle/?*razeni=nejlevnejsi*
+Allow: /*/bazeny/?*razeni=nejlevnejsi*
+Allow: /*/virivky/?*razeni=nejlevnejsi*
+Allow: /*/sekacky/?*razeni=nejlevnejsi*
+Allow: /*/postele/?*razeni=nejlevnejsi*
+
+User-agent: SeznamBot
+## Disallow clicks to shops.
+Disallow: /action/
+Disallow: /mobileCheck
+Disallow: /clickthru
+Disallow: /stats
+## other
+Disallow: /porovnani-produktu/$
+Disallow: /porovnani-produktu$
+Disallow: /mobileRedir
+## old pages in Google index
+Disallow: /*searchscreen
+Disallow: /*searchScreen
+Disallow: /?forceScreen
+Disallow: /itemVariants
+Disallow: //wp-content/
+Disallow: /zbozi.py/
+## Disallow pages with 4 and more parameters
+Disallow: /*?*&*&*&*
+## Disallow pages with specific parameters
+Disallow: /*razeni=nejdrazsi*
+Disallow: /*&dostupnost=*
+Disallow: /*?dostupnost=*&*
+## product fotogaleries
+Disallow: */vyrobek/*/fotogalerie*
+## multichoice in left menu
+Disallow: /*,
+Disallow: /hledani/*typ=
+Disallow: /hledej/*typ=
+## search in categories
+Disallow: /eroticke-zbozi-a-pomucky*q=
+Disallow: /auto-moto*q=
+Disallow: /detske-zbozi*q=
+Disallow: /domaci-spotrebice*q=
+Disallow: /dum-byt-a-zahrada*q=
+Disallow: /elektronika*q=
+Disallow: /foto*q=
+Disallow: /kancelar*q=
+Disallow: /kosmetika-a-drogerie*q=
+Disallow: /kultura-a-zabava*q=
+Disallow: /obleceni-a-moda*q=
+Disallow: /ostatni*q=
+Disallow: /pocitace*q=
+Disallow: /potraviny-a-napoje*q=
+Disallow: /sport*q=
+Disallow: /telefony-navigace*q=
+Disallow: /zdravi*q=
+## do not index sorting in categories (except first page)
+Disallow: /eroticke-zbozi-a-pomucky*?*&razeni=
+Disallow: /eroticke-zbozi-a-pomucky*?razeni=*&
+Disallow: /auto-moto*?*&razeni=
+Disallow: /auto-moto*?razeni=*&
+Disallow: /detske-zbozi*?*&razeni=
+Disallow: /detske-zbozi*?razeni=*&
+Disallow: /domaci-spotrebice*?*&razeni=
+Disallow: /domaci-spotrebice*?razeni=*&
+Disallow: /dum-byt-a-zahrada*?*&razeni=
+Disallow: /dum-byt-a-zahrada*?razeni=*&
+Disallow: /elektronika*?*&razeni=
+Disallow: /elektronika*?razeni=*&
+Disallow: /foto*?*&razeni=
+Disallow: /foto*?razeni=*&
+Disallow: /kancelar*?*&razeni=
+Disallow: /kancelar*?razeni=*&
+Disallow: /kosmetika-a-drogerie*?*&razeni=
+Disallow: /kosmetika-a-drogerie*?razeni=*&
+Disallow: /kultura-a-zabava*?*&razeni=
+Disallow: /kultura-a-zabava*?razeni=*&
+Disallow: /obleceni-a-moda*?*&razeni=
+Disallow: /obleceni-a-moda*?razeni=*&
+Disallow: /ostatni*?*&razeni=
+Disallow: /ostatni*?razeni=*&
+Disallow: /pocitace*?*&razeni=
+Disallow: /pocitace*?razeni=*&
+Disallow: /potraviny-a-napoje*?*&razeni=
+Disallow: /potraviny-a-napoje*?razeni=*&
+Disallow: /sport*?*&razeni=
+Disallow: /sport*?razeni=*&
+Disallow: /telefony-navigace*?*&razeni=
+Disallow: /telefony-navigace*?razeni=*&
+Disallow: /zdravi*?*&razeni=
+Disallow: /zdravi*?razeni=*&
+Disallow: /*sId=
+Disallow: /*pId=
+Disallow: /*catOrder=
+Disallow: /*&r=hint
+Disallow: /*&r=web
+Disallow: /*&r=zbozi
+Disallow: /*%2C
+Disallow: /*forceScreen=
+Disallow: /*origQuery=
+## kvuli pravidlu Disallow: /*?*&*&*&*
+Allow: /api/*?*&*&*&*
+Allow: /api/
+Allow: /img/*,
+Allow: /items?
+Allow: /p1*-
+Allow: /p2*-
+Allow: /p3*-
+Allow: /p4*-
+Allow: /p5*-
+Allow: /p6*-
+Allow: /p7*-
+Allow: /p8*-
+Allow: /p9*-
+Allow: /p0*-
+Disallow: /nabidka/
+## Disallow pages that may directly set/postpone rating (intended for e-mail clickthrus)
+Disallow: /obchod/*/hodnotit/
+Disallow: /hodnoceni-produktu/hodnotit/
+Disallow: /obchod/odlozit/
+Disallow: /*cena-od=
+Disallow: /*cena-do=
+Disallow: /hledani/*
+Disallow: /*/?q=*
+Allow: /hledani/?q=*
+Disallow: /hledani/?q=*&*
+Disallow: /hledej/*
+Disallow: /*/?q=*
+Allow: /hledej/?q=*
+Disallow: /hledej/?q=*&*
+## nesmyslne rozsahy
+Disallow: /*1.7976931348623157e+308
+Disallow: /*1.79769313486e+308
+## location + parmeters
+Disallow: /*/?kraj=*&okres=*&
+Disallow: /*/?okres=*&kraj=*&
+## bordel v URL
+Disallow: /*/*?*sourceid*
+Disallow: /*/*?*ppcbee*
+Disallow: /*/*?*sidVis*
+Disallow: /*/*?29*
+# /?0=%5Bobject%20Object%5D&vyrobce=tommy-hilfiger
+Disallow: /*/*?0*
+# 2019-08-03
+Disallow: /*/*?;*
+Disallow: /*/*%2525*26*
+# /?LOCK%20HLE7203S=true&barva=cerna&vyrobce=desigual
+Disallow: /*/*=true$
+Disallow: /*/*=true&
+# 2020-08-06 - fun with sitemaps
+Disallow: /*/*=b%27*
+Disallow: /*/*=b'*
+# 2020-12-02 - Prolinkovani bug
+Disallow: /*www.seznamzpravy.cz*
+Disallow: /*www.seznam.cz*
+Disallow: /*www.novinky.cz*
+Disallow: /*www.firmy.cz*
+# /?amp;barva=modra&barva=bezova&vyrobce=guess
+Disallow: /*/*?amp;
+# /?amp%3Bstrana=10&barva=zluta&vyrobce=grosso
+Disallow: /*/*?amp*3B
+# invalid parameters in /vyrobek/
+Disallow: /vyrobek/*?*=*
+Allow: /vyrobek/*?varianta=*
+
+User-agent: Rogerbot
+Disallow: /
+
+User-agent: Exabot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: Gigabot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SEOkicks
+Disallow: /
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: dwarf
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: SentiBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: GoogleOther
+Disallow: /
+
+Sitemap: https://zbozi.cz/sitemap/index.xml

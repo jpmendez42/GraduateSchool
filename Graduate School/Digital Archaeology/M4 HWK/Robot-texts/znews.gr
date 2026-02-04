@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /cdn-cgi/
+Disallow: /feed/
+Disallow: /*s=*
+Disallow: /wp-admin/
+Disallow: /cdn-fpw/
+Disallow: /wp-json/
+Allow: /wp-admin/admin-ajax.php
+
+
+Sitemap: https://znews.gr/sitemap-news.xml
+Sitemap: https://znews.gr/news-sitemap

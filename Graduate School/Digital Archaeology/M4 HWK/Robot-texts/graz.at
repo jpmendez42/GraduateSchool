@@ -1,0 +1,5 @@
+User-agent: Linguee
+Disallow: /
+
+User-agent: *
+Disallow: /grazapi/

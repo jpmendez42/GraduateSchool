@@ -1,0 +1,29 @@
+# robots.txt for http://www.uniecampus.it/
+
+User-agent: *
+Disallow: /login/
+Disallow: /fileadmin/public/Bandi_e_Concorsi/*
+Disallow: /fileadmin/public/2009/
+Disallow: /fileadmin/public/2010/
+Disallow: /fileadmin/public/2011/
+Disallow: /fileadmin/public/2012/
+Disallow: /fileadmin/public/2013/
+Disallow: /fileadmin/public/2014/
+Disallow: /fileadmin/public/2015/
+Disallow: /fileadmin/public/2016/
+Disallow: /fileadmin/public/2017/
+
+
+Disallow: /fileadmin/user_upload/regolamenti/REGOLAMENTO_STUDENTI.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti__2016.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti_03-08-17.old.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti_03-08-17.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti_2014.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti_2016.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti_giugno_2017.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti_giugno_2017.sb
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti-2016.pdf
+Disallow: /fileadmin/user_upload/regolamenti/regolamento_studenti--2016.pdf
+
+
+Disallow: /area-riservata/

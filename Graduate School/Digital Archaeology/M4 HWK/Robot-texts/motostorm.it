@@ -1,0 +1,34 @@
+User-agent: *
+
+Disallow: /admin/
+Disallow: /functions/*
+Disallow: */outlet/*
+Disallow: *wishlist*
+Disallow: *?*sort=*
+Disallow: *?*ord=*
+Disallow: *?*season=*
+Disallow: *?*Tsize=*
+Disallow: *?*minprice=*
+Disallow: *?*maxprice=*
+Disallow: *?*gender=*
+Disallow: *?*availability=*
+Disallow: *?*style=*
+Disallow: *?*spec=*
+Disallow: *?*marca=*
+Disallow: *?*dispo=*
+Disallow: *?*clr=*
+Disallow: *?*marca-moto-mx=*
+Disallow: *?*marca-moto=*
+Disallow: *prezzo-garantito.html?id=*
+Disallow: *subscription.html*
+Disallow: *price-match.html?id=*
+Disallow: /*?q=*
+Disallow: *?*id-moto-mx=*
+Disallow: *?*id-bike-mx=*
+Disallow: *?*id-moto=*
+Disallow: *elements/sizes.php*
+Disallow: *elements/warning_size.php*
+Disallow: *aggiungi_al_carrello.php*
+Disallow: *oney.php*
+
+Sitemap: https://www.motostorm.it/sitemap.xml

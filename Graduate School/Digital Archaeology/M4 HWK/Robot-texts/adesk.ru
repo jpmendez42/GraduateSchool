@@ -1,0 +1,40 @@
+User-agent: Yandex
+Disallow: /*.js
+Disallow: /*.swf
+Disallow: /*.pdf
+Disallow: /*?*
+Disallow: /js/
+Disallow: /css/
+Disallow: /agreement/
+Disallow: /registry/
+Disallow: /api*
+Disallow: /auth*
+Clean-param: utm_source
+
+User-agent: Googlebot
+Disallow: /*.js
+Disallow: /*.swf
+Disallow: /*.pdf
+Disallow: /*?*
+Disallow: /js/
+Disallow: /css/
+Disallow: /*utm_source
+Disallow: /agreement/
+Disallow: /registry/
+Disallow: /api*
+Disallow: /auth*
+
+User-agent: *
+Disallow: /*.js
+Disallow: /*.swf
+Disallow: /*.pdf
+Disallow: /*?*
+Disallow: /js/
+Disallow: /css/
+Disallow: /*utm_source
+Disallow: /agreement/
+Disallow: /registry/
+Disallow: /api*
+Disallow: /auth*
+
+Sitemap: https://adesk.ru/sitemap.xml

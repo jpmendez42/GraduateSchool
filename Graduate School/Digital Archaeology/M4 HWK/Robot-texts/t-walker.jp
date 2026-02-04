@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /cgi/ilslist.cgi
+Disallow: /mugefan/html/status_imgview.cgi
+Disallow: /mugefan/illust/prd_list.cgi
+Disallow: /mugefan/status/collection.cgi
+Disallow: /sr/status/imgview.cgi
+Disallow: /sr/status/classroom.cgi
+Disallow: /sr/status/collection.cgi
+Disallow: /sr/illust/prd_list.cgi
+Disallow: /eb/status/imgview.cgi
+Disallow: /eb/illust/prd_list.cgi
+Disallow: /eb/status/collection.cgi

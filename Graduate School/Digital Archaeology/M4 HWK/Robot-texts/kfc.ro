@@ -1,0 +1,5 @@
+# robotstxt.org/
+
+User-agent: *
+Disallow: /campanii/intern_dev/index.php
+Disallow: /festival/index.php

@@ -1,0 +1,87 @@
+User-agent: *
+Disallow: /wp-
+Allow: /wp-admin/admin-ajax.php
+Disallow: *paged=
+Disallow: /?s=
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search
+Disallow: /author
+Disallow: *?attachment_id=
+Disallow: */feed
+Disallow: */*feed
+Disallow: */rss
+Disallow: */embed
+Allow: /wp-content/uploads/
+Allow: /wp-content/themes/
+Disallow: /wp-content/themes/base/timthumb.php
+Allow: /*/*.js
+Allow: /*/*.css
+Allow: /wp-*.png
+Allow: /wp-*.jpg
+Allow: /wp-*.jpeg
+Allow: /wp-*.gif
+Allow: /wp-*.svg
+Allow: /wp-*.pdf
+
+Sitemap: https://www.autocar.jp/sitemap.xml
+
+User-Agent: CCBot
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-Agent: Perplexity-ai
+Disallow: /
+
+User-Agent: cohere-ai
+Disallow: /
+
+User-Agent: Meta-ExternalAgent
+Disallow: /
+
+User-Agent: wget
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: libwww-perl
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: Nutch
+disallow: /
+
+User-agent: indexpert
+disallow: /
+
+User-agent: Fess
+Disallow: /
+
+User-agent: Mechanize
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: bingbot
+User-agent: YandexBot
+User-agent: Applebot
+User-agent: DuckDuckBot
+User-agent: Baiduspider
+User-agent: GPTBot
+User-agent: ChatGPT-User
+User-agent: OAI-SearchBot
+User-agent: PerplexityBot
+User-agent: Google-Extended
+User-agent: ClaudeBot
+User-Agent: anthropic-ai
+User-Agent: Claude-Web
+Crawl-delay: 10

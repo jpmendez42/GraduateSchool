@@ -1,0 +1,796 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head><title>
+	Misterdomain.eu
+</title><meta charset="utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=10" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="Abstract" content="dominio" /><meta name="Rating" content="General" /><meta name="ROBOTS" content="index, follow" /><meta name="GOOGLEBOT" content="INDEX, FOLLOW" /><meta name="FAST-WebCrawler" content="index, follow" /><meta name="Scooter" content="index, follow" /><meta name="Slurp" content="index, follow" /><meta name="REVISIT-AFTER" content="15 days" /><meta name="distribution" content="global" /><meta name="copyright" content="Copyright misterdomain.eu" /><link rel="icon" type="image/png" href="/flx_assets/img/icons/favicon.png" />
+    <!-- Link añadidos para el bot de GOOGLE -->
+    <link rel="alternate" hreflang="it" href="https://misterdomain.eu" /><link rel="alternate" hreflang="en" href="https://misterdomain.eu/en/" />
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="../Content/bootstrap.min.css" />
+    <!-- Fontawesome CSS -->
+    <link rel="stylesheet" href="../Content/font-awesome.min.css" />
+    <!-- Arimo font family -->
+    <link href="../fonts/Arimo.css" rel="stylesheet" />
+    <!--Tipo de letra Paytone One -->
+    <link href="../fonts/PaytoneOne.css" rel="stylesheet" />
+    <!-- Fancybox v3 CSS -->
+    <link href="../bower_components/fancybox/dist/jquery.fancybox.min.css" rel="stylesheet" />
+
+    <!-- Load Misterdomain Font -->
+    <link href="../css/CustomFontIcons/css/misterdo.css" rel="stylesheet" />
+    <!-- Estilos por defecto de Misterdomain -->
+    <link href="/css/MasterPages/Site.css" rel="stylesheet" />
+    <!-- Estilos de la master -->
+    <link href="/css/MasterPages/MainMaster.css" rel="stylesheet" />
+    <!-- Menú principal -->
+    <link href="../css/Components/NavBar.css" rel="stylesheet" />
+
+    <!-- Estilos por defecto de Misterdomain para IE -->
+    <link href="/css/IE/MasterPages/SiteIE.css" rel="stylesheet" /><link href="../css/IE/MasterPages/MainMasterIE.css" rel="stylesheet" type="text/css" />
+
+    <link href="/css/Pages/Default.css" rel="stylesheet" />
+    <link href="/css/Components/SearchBar.css" rel="stylesheet" />
+
+    <!-- referencias de Css Internet Explorer -->
+    <link href="css/IE/defaultIE.css" rel="stylesheet" />
+    <link href="css/IE/Components/SearchBarIE.css" rel="stylesheet" />
+
+
+
+    <script>
+        function GoToInfoNews() {
+            ga('create', 'UA-83923115-1', 'auto');
+            ga('send', {
+                hitType: 'event',
+                eventCategory: 'InfoNews',
+                eventAction: 'click'
+            });
+        }
+    </script>
+    <script type="text/javascript">
+        if (top.location != this.location) top.location = this.location;
+    </script>
+
+</head>
+<body>
+
+    <form method="post" action="./" id="Form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var __cultureInfo = {"name":"it-IT","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":",","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":".","CurrencySymbol":"€","NaNSymbol":"NaN","CurrencyNegativePattern":8,"NumberNegativePattern":1,"PercentPositivePattern":1,"PercentNegativePattern":1,"NegativeInfinitySymbol":"-∞","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":",","NumberGroupSeparator":".","CurrencyPositivePattern":3,"PositiveInfinitySymbol":"∞","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":",","PercentGroupSeparator":".","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"","Calendar":{"MinSupportedDateTime":"\/Date(-62135596800000)\/","MaxSupportedDateTime":"\/Date(253402297199999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":1,"CalendarWeekRule":2,"FullDateTimePattern":"dddd d MMMM yyyy HH:mm:ss","LongDatePattern":"dddd d MMMM yyyy","LongTimePattern":"HH:mm:ss","MonthDayPattern":"d MMMM","PMDesignator":"","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"dd/MM/yyyy","ShortTimePattern":"HH:mm","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM yyyy","AbbreviatedDayNames":["dom","lun","mar","mer","gio","ven","sab"],"ShortestDayNames":["do","lu","ma","me","gi","ve","sa"],"DayNames":["domenica","lunedì","martedì","mercoledì","giovedì","venerdì","sabato"],"AbbreviatedMonthNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""],"IsReadOnly":true,"NativeCalendarName":"calendario gregoriano","AbbreviatedMonthGenitiveNames":["gen","feb","mar","apr","mag","giu","lug","ago","set","ott","nov","dic",""],"MonthGenitiveNames":["gennaio","febbraio","marzo","aprile","maggio","giugno","luglio","agosto","settembre","ottobre","novembre","dicembre",""]},"eras":[1,"d.C.",null,0]};//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=uHIkleVeDJf4xS50Krz-yKuWn513NVaZJyZoDmUa0npMXE07X6XAGWG5H66NE3I0chOcNLOmgxwNLefQRsVzpIze3ggXauWIx8mSo0QggYwHyTofW2BkwhSeDAxa-up-lL6qR9DaelFKQ41kwv0nGdDmxS0xv2Qdgc-a_9CumNY1&amp;t=2a9d95e3" type="text/javascript"></script>
+<script src="../svc/check_email.asmx/js" type="text/javascript"></script>
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="1A8A0CA9" />
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="peU3i460yCbXvzzOJ7Bo8VnAoyYsuY/LgDM2TbHldEXfX9fWKGqIHQyXBMwBIi2kt/7ps1Fj7WA4TESc5RCWFSSz584dYrbgIeQjxHShsAmzhi6Ab/drrNrkhgZCVDO5s6Pk1Zh93GRZoP+1i1dNQi/vlLNfFtrU0RadHsbttpldKxYUHM39hcVa8X6n4Tg8ImUo4S66lmtBqdsbEw8PfPWbyNkrAQfPo7ufVzZm5Xq8EqQCtbayAGAkgixqSNH8+rbDC6ZivXJfU+W4URgpohqFRD8ivYBVsbOTKXtgNsUot0grUdQ9HQEVXDcj2X0gZcht6QLRh2DVkxINWCrSbL2uWB0QZvPpuLmOZFs7XGGhALYERsNcUYSlycahtiDZnag+hyhD+7Q8VMGRWKw6apPRZi1Dgxmfhl6/2h9cg0TBF7qWQmcDWmmU14Md9PG57KcuMvPewE6voXcQf8/tZ0nEmavKMuL2msaAwuWdAOL5Lz3X80OrvEx0UXv0uYc+GaQbdbUKg/yzngVa8GwdJ7iL4DwEflBY0Ro1I8ryfedisDZ4CvaUsRB9edOjYss+sEzG8rob0HvBJ9yLWGbUXFkm1dk0i5wAiSO+jQDbD7OitP1g2H1TRae9oHJSeamCBXMy+bFmPy60E54o7GQgwlKTOHWNbtj7jPkpmXftnQ8ljF6mRnwzYyEx4eUGsrmXjUxz6v6FSQ1Dmk07QlCE0GtCKbqFf55/Xe0982I1SqZWTPeA0XMWc0aFqlWQs5PDoZXwOmeFSOaDGnJQgOm2CU/o/V4CJD3QTWnmY4NNeKN9VqUChPoJVocHhnaFjSYEt+npRqCV3cC7zCnDXVMZpGKA0JvHWFgietk9Hl8I2B/EiEZcrEc4NOMVfFFx+1pou78/xISyLyQT6Emg3ar+gw==" />
+        
+
+        <header>
+            <div id="md-header-container" class="fixed-top">
+                <nav id="MainTopBar" class="navbar navbar-expand py-0">
+                    <div class="container">
+                        <ul class="navbar-nav mr-auto">
+                            <li class="nav-item md-upper-nav-item">
+                                <a id="ImageButton1" class="nav-link" href="javascript:__doPostBack(&#39;ctl00$ImageButton1&#39;,&#39;&#39;)">IT</a>
+                            </li>
+                            <li class="divider-vertical"></li>
+                            <li class="nav-item md-upper-nav-item">
+                                <a id="ImageButton2" class="nav-link" href="javascript:__doPostBack(&#39;ctl00$ImageButton2&#39;,&#39;&#39;)">EN</a>
+                            </li>
+                        </ul>
+
+                        <ul class="navbar-nav ml-auto md-white-space-nowrap">
+                            <li class="nav-item md-upper-nav-item">
+                                
+                            </li>
+
+                            <li class="nav-item md-upper-nav-item md-white-space-nowrap">
+                                
+                            </li>
+
+                            
+                            
+                            
+                            <li class="nav-item md-upper-nav-item">
+                                <a id="lnk_login" class="nav-link" href="/login.aspx">Access</a>
+                                
+                            </li>
+
+                            <li class="divider-vertical"></li>
+                            <li class="nav-item md-upper-nav-item">
+                                <a id="lnk_reguser" class="nav-link" href="/users_Registration.aspx">Register</a>
+                                
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+
+                <nav id="MainBar" class="navbar navbar-light navbar-expand-xl py-1">
+                    <div class="container">
+                        <a class="navbar-brand py-0" href="/Default.aspx">
+                            <img id="logoheader" src="/img/MasterDefault/logomisterdomain.svg" alt="Misterdomain Logo"></a>
+                        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                            <ul class="nav navbar-nav ml-auto text-center">
+                                <li class="dropdown">
+                                    <a class="nav-link dropdown-toogle" href="#" id="navbarMenuDomains" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Domains</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarMenuDomains">
+                                        <a class="dropdown-item" href="/Regdomain.aspx">Register</a>
+                                        <a class="dropdown-item" href="/Transferdomain.aspx">Transfer</a>
+                                        <a class="dropdown-item" href="/GeoDomainRegistrationIT.aspx">Geographical Domains</a>
+                                    </div>
+                                </li>
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/RegMultiDomain.aspx">Semi-dedicated servers</a>
+                                </li>
+                                
+                                
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/BuilderRegistration.aspx">Site Builder</a>
+                                </li>
+                                <li id="fooItem" class="nav-item ">
+                                    <a class="nav-link" href="https://info-news.misterdomain.eu/" target="_blank">Tutorials &amp; News</a>
+                                </li>
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="/list.aspx">Prices</a>
+                                </li>
+                                
+                                <li class="dropdown">
+                                    <a class="nav-link dropdown-toogle" href="#" id="navbarMenuHelp" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Help</a>
+                                    <div class="dropdown-menu" aria-labelledby="navbarMenuHelp">
+                                        <a class="dropdown-item" href="/support.aspx">Support</a>
+                                        <a class="dropdown-item" href="/statuspage/">Status Page</a>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </nav>
+             
+            </div>
+
+
+        </header>
+
+        <div id="MainContent" class="mainmaster">
+	
+            
+            <!--=== Main Content ===-->
+            
+    <!-- #region modal -->
+    <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true" data-keyboard="false" data-backdrop="static">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content md-modal-content">
+                <div class="modal-header md-modal-header">
+                </div>
+                <div class="modal-body">
+                    <h2 class="modal-body">Questa sezione è attualmente in manutenzione</h2>
+                </div>
+                <div class="modal-footer md-modal-footer">
+                    <button type="button" class="btn md-btn-modals" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="md-Title-container" class="container">
+        <div class="row text-center">
+            <div class="col-12">
+                <h1>
+                    With us you can register all the domains you want!</h1>
+            </div>
+        </div>
+    </div>
+
+    <!--=== Search domain  ===-->
+    <div class="container-fluid md-search-containerFluid">
+        <div class="container">
+            <div class="input-group">
+                <input name="ctl00$phMain$txt_domain_name" type="text" id="txt_domain_name" class="form-control" placeholder="Register or transfer your domain name..." />
+                <input type="hidden" name="ctl00$phMain$txt_domain_ext" id="txt_domain_ext" value="IT" />
+                <div class="input-group-btn">
+                    
+                    <select name="ctl00$phMain$Dom_btn" id="Dom_btn" class="btn btn-outline-secondary dropdown-toggle">
+		<option selected="selected" value="IT">IT</option>
+		<option value="EU">EU</option>
+		<option value="COM">COM</option>
+		<option value="NET">NET</option>
+		<option value="ORG">ORG</option>
+		<option value="INFO">INFO</option>
+		<option value="BIZ">BIZ</option>
+		<option value="IN">IN</option>
+		<option value="MOBI">MOBI</option>
+		<option value="NAME">NAME</option>
+		<option value="TV">TV</option>
+		<option value="CC">CC</option>
+		<option value="CO">CO</option>
+		<option value="ES">ES</option>
+		<option value="CH">CH</option>
+
+	</select>
+                    <button id="searchButtonDomain" class="btn btn-outline-secondary" type="button" onclick="checkDomain()"><i class="fa fa-search"></i></button>
+                </div>
+                <!-- /btn-group -->
+            </div>
+            <!-- /input-group -->
+
+            <div class="container">
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" name="domain_operation" class="custom-control-input" id="opt_domain_registration" value="REG" checked />
+                    <label class="custom-control-label" for="opt_domain_registration">Domain registration</label>
+                </div>
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" name="domain_operation" class="custom-control-input" id="opt_domain_transfer" value="TRA" />
+                    <label class="custom-control-label" for="opt_domain_transfer">Domains transfer</label>
+                </div>
+            </div>
+        </div>
+
+        <!-- Boton Geographical -->
+        <div class="container container-search md-container-geother-extensions">
+            <div class="row">
+                <div class="mx-auto">
+                    <a id="phMain_GeographicRegistrationBtn" class="btn md-btn-geother-extensions-default md-btn-outline-geother-extensions" href="javascript:__doPostBack(&#39;ctl00$phMain$GeographicRegistrationBtn&#39;,&#39;&#39;)">Do you need a .IT Geographic domain?</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="background-event-product-prices">
+        <!--=== End Search domain ===-->
+
+        
+        <div id="md-card-container" class="container">
+            <div class="row">
+                
+                <div class="col-xl-3 col-md-6 text-center">
+                    <div class="card md-card text-center">
+                        <div class="card-header md-card-header">
+                            <h5> Domain Registration</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="md-card-body">
+                                <div class="md-card-body-header md-card-p">.IT</div>
+                                <div class="md-card-body-content md-card-price">
+                                    6,99€
+                               
+                                </div>
+                                <br />
+                                <div class="md-card-body-footer md-card-p">/ Year*</div>
+                            </div>
+                        </div>
+                        <div class="card-footer md-card-footer text-center">
+                            <!-- botones de detales -->
+                            <a href='/Features.aspx?id=83' class="btn md-btn-card iframe">Details</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-xl-3 col-md-6 text-center">
+                    <div class="card md-card text-center">
+                        <div class="card-header md-card-header">
+                            <h5> Domain And E-Mail</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="md-card-body">
+                                <div class="md-card-body-header md-card-p">.IT</div>
+                                <div class="md-card-body-content md-card-price">
+                                    24,99€
+                               
+                                </div>
+                                <br />
+                                <div class="md-card-body-footer md-card-p">/ Year*</div>
+                            </div>
+                        </div>
+                        <div class="card-footer md-card-footer text-center">
+                            <!-- botones de detales -->
+                            <a href='/Features.aspx?id=84' class="btn md-btn-card iframe">Details</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-xl-3 col-md-6 text-center">
+                    <div class="card md-card text-center">
+                        <div class="card-header md-card-header">
+                            <h5>Linux Basic Hosting</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="md-card-body">
+                                <div class="md-card-body-header md-card-p">.IT</div>
+                                <div class="md-card-body-content md-card-price">
+                                    19,99€
+                               
+                                </div>
+                                <br />
+                                <div class="md-card-body-footer md-card-p">/ Year*</div>
+                            </div>
+                        </div>
+                        <div class="card-footer md-card-footer text-center">
+                            <!-- botones de detales -->
+                            <a href='/Features.aspx?id=86' class="btn md-btn-card iframe">Details</a>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="col-xl-3 col-md-6 text-center">
+                    <div class="card md-card text-center">
+                        <div class="card-header md-card-header">
+                            <h5>Linux Plus Hosting</h5>
+                        </div>
+                        <div class="card-body">
+                            <div class="md-card-body">
+                                <div class="md-card-body-header md-card-p">.IT</div>
+                                <div class="md-card-body-content md-card-price">
+                                    54,99€
+                               
+                                </div>
+                                <br />
+                                <div class="md-card-body-footer md-card-p">/ Year*</div>
+                            </div>
+                        </div>
+                        <div class="card-footer md-card-footer text-center">
+                            <!-- botones de detales -->
+                            <a href='/Features.aspx?id=89' class="btn md-btn-card iframe">Details</a>
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="whiteLine container"></div>
+
+    
+    <div id="md-semi-dedicated-container" class="container">
+        <div class="row text-center">
+            <div id="md-semi-dedicated-header" class="container">
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h1>Looking for a <span>Semi-dedicated servers?</span></h1>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <h3>Special needs, special plans.</h3>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row justify-content-md-center justify-content-lg-center justify-content-xl-center">
+            
+                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-2">
+                        <a href="../RegMultiDomain.aspx">
+                            <div class="card hvr-grow TarjectContainerSemidedicated text-center mx-auto" id='small'>
+                                <div class="card-body">
+                                    <p class="card-title">
+                                        SmallPlan
+                                    </p>
+                                    <p class="card-text">
+                                        <span>€
+                                       
+                                            10,99</span><br />
+                                        /month*
+                                   
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-2">
+                        <a href="../RegMultiDomain.aspx">
+                            <div class="card hvr-grow TarjectContainerSemidedicated text-center mx-auto" id='medium'>
+                                <div class="card-body">
+                                    <p class="card-title">
+                                        MediumPlan
+                                    </p>
+                                    <p class="card-text">
+                                        <span>€
+                                       
+                                            21,99</span><br />
+                                        /month*
+                                   
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                
+                    <div class="col-sm-6 col-md-6 col-lg-4 col-xl-3 mb-2">
+                        <a href="../RegMultiDomain.aspx">
+                            <div class="card hvr-grow TarjectContainerSemidedicated text-center mx-auto" id='large'>
+                                <div class="card-body">
+                                    <p class="card-title">
+                                        LargePlan
+                                    </p>
+                                    <p class="card-text">
+                                        <span>€
+                                       
+                                            32,99</span><br />
+                                        /month*
+                                   
+                                    </p>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                
+            
+        </div>
+    </div>
+    
+
+    <div class="whiteLine container"></div>
+
+    
+    <div class="row text-center">
+        <div id="md-Cms-Title" class="container">
+            <div class="row">
+                <div class="col-12 text-center">
+                    <h1>
+                        Install your favorite CMS  <span><span>in seconds!</span></span></h1>
+                </div>
+            </div>
+            <div class="row Description">
+                <div class="col-12 text-center">
+                    <h5>For our hosting plans we use the Plesk control panel, with which you can install your favorite CMS in 1 click. You choose the CMS and we'll take care of everything, your new website will be online in a few moments!</h5>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    
+    <div id="md-container-card-cms" class="container">
+        <div class="row">
+            
+            
+                    <div id="cms-row" class="col-sm-6 col-xl-3 col-12 text-center justify-content-center">
+                        <div class="card md-card text-center justify-content-center cms-card" id='drupalcms'>
+                            <img src="../img/Logos/cms-01.svg" id="phMain_Repeater1_CmsImage_0" class="card-img-top md-card-img-top-cms" alt="Drupal Installation" />
+                            <div class="card-body md-card-body-cms">
+                                <p class="card-text md-card-text-cms">
+                                    It is a dynamic platform that will handle a lots of content, integrating many features in one package.
+                                </p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div id="cms-row" class="col-sm-6 col-xl-3 col-12 text-center justify-content-center">
+                        <div class="card md-card text-center justify-content-center cms-card" id='joomlacms'>
+                            <img src="../img/Logos/cms-04.svg" id="phMain_Repeater1_CmsImage_1" class="card-img-top md-card-img-top-cms" alt="Joomla Installation" />
+                            <div class="card-body md-card-body-cms">
+                                <p class="card-text md-card-text-cms">
+                                    Extremely versatile CMS, used to blog and business sites. It is the second most famous after WordPress. 
+                                </p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div id="cms-row" class="col-sm-6 col-xl-3 col-12 text-center justify-content-center">
+                        <div class="card md-card text-center justify-content-center cms-card" id='pscms'>
+                            <img src="../img/Logos/cms-02.svg" id="phMain_Repeater1_CmsImage_2" class="card-img-top md-card-img-top-cms" alt="Prestashop Installation" />
+                            <div class="card-body md-card-body-cms">
+                                <p class="card-text md-card-text-cms">
+                                    It is a platform for e-commerce that helps small and large companies to create and manage online stores. 
+                                </p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                
+                    <div id="cms-row" class="col-sm-6 col-xl-3 col-12 text-center justify-content-center">
+                        <div class="card md-card text-center justify-content-center cms-card" id='wpcms'>
+                            <img src="../img/Logos/cms-03.svg" id="phMain_Repeater1_CmsImage_3" class="card-img-top md-card-img-top-cms" alt="Wordpress Installation" />
+                            <div class="card-body md-card-body-cms">
+                                <p class="card-text md-card-text-cms">
+                                    It is the most used CMS in the world to create blogs and customized websites, without knowing programming languages.
+                                </p>
+                               
+                            </div>
+                        </div>
+                    </div>
+                
+            
+        </div>
+    </div>
+    
+
+         <div id="md-last-Title-container" class="container">
+        <div class="row text-center">
+            <div class="col-12">
+                <h1>
+                    Start here to find your favourite domain name!</h1>
+            </div>
+        </div>
+    </div>
+
+    <!--=== Search domain  ===-->
+    <div class="container-fluid md-search-containerFluid mb-5">
+        <div class="container">
+            <div class="input-group">
+                <input name="ctl00$phMain$txt_domain_name2" type="text" id="txt_domain_name2" class="form-control" placeholder="Register or transfer your domain name..." />
+                <input type="hidden" name="ctl00$phMain$txt_domain_ext2" id="txt_domain_ext2" value="IT" />
+                <div class="input-group-btn">
+                    
+                    <select name="ctl00$phMain$Dom_btn2" id="Dom_btn2" class="btn btn-outline-secondary dropdown-toggle">
+		<option selected="selected" value="IT">IT</option>
+		<option value="EU">EU</option>
+		<option value="COM">COM</option>
+		<option value="NET">NET</option>
+		<option value="ORG">ORG</option>
+		<option value="INFO">INFO</option>
+		<option value="BIZ">BIZ</option>
+		<option value="IN">IN</option>
+		<option value="MOBI">MOBI</option>
+		<option value="NAME">NAME</option>
+		<option value="TV">TV</option>
+		<option value="CC">CC</option>
+		<option value="CO">CO</option>
+		<option value="ES">ES</option>
+		<option value="CH">CH</option>
+
+	</select>
+                    <button class="btn btn-outline-secondary" type="button" onclick="CheckDomain2()"><i class="fa fa-search"></i></button>
+                </div>
+                <!-- /btn-group -->
+            </div>
+            <!-- /input-group -->
+
+            <div class="container">
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" name="domain_operation2" class="custom-control-input" id="opt_domain_registration1" value="REG" checked />
+                    <label class="custom-control-label" for="opt_domain_registration1">Domain registration</label>
+                </div>
+                <div class="custom-control custom-radio custom-control-inline">
+                    <input type="radio" name="domain_operation2" class="custom-control-input" id="opt_domain_transfer1" value="TRA" />
+                    <label class="custom-control-label" for="opt_domain_transfer1">Domains transfer</label>
+                </div>
+            </div>
+        </div>
+
+        <!-- Boton Geographical -->
+        <div class="container container-search md-container-geother-extensions">
+            <div class="row">
+                <div class="mx-auto">
+                    <a id="phMain_LinkButton1" class="btn md-btn-geother-extensions-default md-btn-outline-geother-extensions" href="javascript:__doPostBack(&#39;ctl00$phMain$LinkButton1&#39;,&#39;&#39;)">Do you need a .IT Geographic domain?</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!--=== End Search domain  ===-->
+
+
+            <!--=== Main Content ===-->
+        
+</div>
+
+        <footer>
+            <div id="md-main-footer-container" class="container">
+                <div class="row">
+                    <div class="col-12 col-md-2 pb-4 text-center">
+                        <img class="md-imglogo-footer" src="/img/MasterDefault/logomisterdomain.svg" />
+                        <div class="BrandiText">a brand of</div>
+                        <img class="tophost-imglogo-footer" src="/img/MasterDefault/TophostLogo.png" />
+                    </div>
+                    <div class="col-md-2">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <ul class="md-ul-left-border md-footer-row-content">
+                                    <li><a href="/Regdomain.aspx">Domains<span>></span></a></li>
+                                    <li><a href="/RegMultiDomain.aspx">Semi-dedicated servers<span>></span></a></li>
+                                    <li><a href="/Promotions.aspx">All active promotions<span>></span></a></li>
+                                    
+                                    <li><a href="/BuilderRegistration.aspx">Site Builder<span>></span></a></li>
+                                    <li><a href="https://info-news.misterdomain.eu/" target="_blank">Tutorials &amp; News<span>></span></a></li>
+                                    <li><a href="/list.aspx">Prices<span>></span></a></li>
+                                    <li><a href="/HostingLinuxFeatures.aspx">Hosting Linux<span>></span></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-2">
+                        <div class="container-fluid">
+                            <div class="row">
+                                <ul class="md-ul-left-border md-footer-row-content">
+                                    
+                                    <li><a href="/statuspage/">Status Page<span>></span></a></li>
+                                    <li><a href="/infoapi.aspx">API<span>></span></a></li>
+                                    <li><a href="/aboutus.aspx">About us<span>></span></a></li>
+                                    <li><a href="/datacenter.aspx">Data center<span>></span></a></li>
+                                    <li><a href="/support.aspx">Support<span>></span></a></li>
+                                    <li><a href="/terms.aspx">Terms and Conditions<span>></span></a></li>
+                                    <li><a href="/privacy.aspx">GDPR<span>></span></a></li>
+                                </ul>
+                            </div>
+                            <div id="logos-face-twitter" class="row justify-content-center justify-content-lg-start m-0 p-0">
+                                <div class="col-1"><a id="footer-logo-facebook" href="https://facebook.com/MisterDomain.eu/" target="_blank"><i class="fa fa-facebook"></i></a></div>
+                                <div class="col-1"><a id="footer-logo-twitter" href="https://twitter.com/misterdomain" target="_blank"><i class="fa fa-twitter"></i></a></div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-6">
+                        <div id="footer-right-column" class="container-fluid">
+
+                            *All our packages have unlimited traffic and the duration of the contract is 1 year, the prices do not include VAT.<br />
+                            <br>
+                            2025 &copy; TOPHOST S.r.l. a socio unico<br />Piazza della Libert&aacute;, 10<br />00192 - Roma<br />P.I. 08163681003
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="md-footer-image-container-fluid" class="container-fluid">
+                <div id="md-footer-image-container" class="container">
+                    <div id="md-footer-image-row" class="row">
+                    </div>
+                </div>
+            </div>
+
+        </footer>
+
+    </form>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="../Scripts/jquery-3.1.1.min.js"></script>
+    <script src="../Scripts/umd/popper.min.js"></script>
+    <script src="../Scripts/bootstrap.min.js"></script>
+
+    <!-- Fancybox v3 JS -->
+    <script src="../bower_components/matchHeight/dist/jquery.matchHeight-min.js"></script>
+    <script src="../bower_components/fancybox/dist/jquery.fancybox.min.js"></script>
+
+    <!-- JS Customization DEFINITIVAMENTE NO BORRAR ESTO -->
+    <script type="text/javascript" src="../Scripts/misterdomain/custom.js"></script>
+
+    <!-- Region Chat -->
+    <link rel='stylesheet' href="../fonts/Lato.css" />
+    <link href="/CSS/chat_inmediatamente.css" rel="stylesheet" />
+    
+    <div id="supportDock" class="support-dock">
+        <ul id="dockButton">
+        </ul>
+    </div>
+    <div class="login" id="loginChatWindows" style="display: none;">
+        <div class="header clearfix">
+            <button type="button" class="close" id="loginCloseBtn">&times;</button>
+            <div>Write your name to start chatting</div>
+        </div>
+        <div class="message">
+            <input type="text" id="loginUserName" placeholder='Your name'>
+            <button id="loginChat" class="chat-button">Start</button>
+        </div>
+    </div>
+    <div id="container"></div>
+    <!--Reference the SignalR library. -->
+    <script src="../Scripts/jquery.signalR-2.2.2.min.js"></script>
+    <!-- Proxy autogenerado -->
+    <script src="/signalr/hubs"></script>
+
+    <script>
+        function Writeyourmessage() {
+            return 'Write your message';
+        }
+        function Send() {
+            return 'Send';
+        }
+        function Language() {
+            return 'en';
+        }
+    </script>
+
+    <!--Se declaran todas las funciones necesarias para enviar y recibir eventos del chat y de la propia página.-->
+    <script src="/js/ChatHubFront.js"></script>
+    <!-- FIN Region Chat -->
+
+    <script src='/js/cookies_law_en.js' type="text/javascript"></script>
+    <script>
+        $(document).ready(function () {
+            $('body').click(function (e) {
+                $('#MainBar .nav-item.show').removeClass('show');
+                //$('.nav-item.clicked').removeClass('clicked');
+                $('#MainBar .dropdown-menu.show').removeClass('show');
+            });
+
+            $(document).click(function (e) {
+                if (!$(e.target).is('#MainBar')) {
+                    $('#MainBar .collapse').collapse('hide');
+                }
+            });
+
+            $('#MainBar .nav-item').click(function (e) {
+                $(this).addClass('clicked');
+            });
+
+            $('#MainBar .nav-item').hover(function (e) {
+                if ($('.nav-item.show').length < 1) {
+                    $('.nav-item.clicked').removeClass('clicked');
+                }
+                if ($('.nav-item.clicked').length < 1) {
+                    $('.nav-item.show').removeClass('show');
+                    $('.dropdown-menu.show').removeClass('show');
+                    $dd = $(this).find('.dropdown-menu');
+                    $dd.parent().addClass('show');
+                    $dd.addClass('show');
+                }
+            });
+        });
+    </script>
+
+    <script src="../js/Matomo.js" type="text/javascript"></script>
+
+    
+    <!-- Script para el correcto funcionamiento de fancybox -->
+    <script>
+
+        //Inhabilitamos las cookies en los modales que trabajan con iframes.
+        $(".iframe").fancybox({
+            type: 'iframe',
+            //Reducimos el tamaño de la linea del modal
+            padding: 7,
+            afterShow: function () {
+                $("iframe").contents().find("#cookieChoiceInfo").css({ "display": "none" });
+            }
+        });
+
+        function CheckDomain2() {
+            var dom_name = $('#txt_domain_name2').val().replace(/ /g, "");
+            var dom_ext = $('#txt_domain_ext2').val().replace(/ /g, "");
+            var op = $('input[name=domain_operation2]:radio:checked').val();
+
+            if (op == "REG") {
+                location.href = "Regdomain.aspx?d=" + dom_name + "&e=" + dom_ext;
+            } else if (op == "TRA") {
+                location.href = "Transferdomain.aspx?d=" + dom_name + "&e=" + dom_ext;
+            }
+        }
+
+        //Los dos metodos siguientes se encargan de hacer funcionar la tecla enter en el search box de buscar dominios
+
+        //Metodo que desactiva la tecla enter para los input (su uso por default)
+        $(document).ready(function () {
+            $(window).keydown(function (event) {
+                if (event.keyCode == 13) {
+                    event.preventDefault();
+                    return false;
+                }
+            });
+        });
+
+        //Capturamos la tecla enter para hacerle un click al boton de busqueda
+        function enterButtonSearchDomain(e) {
+            if (e.keyCode === 13) {
+                var searchButton = document.getElementById('searchButtonDomain');
+                searchButton.click();
+                window.removeEventListener('keydown', enterButtonSearchDomain);
+            }
+        }
+
+        //Agrega el listener para el metodo enterButtonSearchDomain cuando se pulse una tecla
+        window.addEventListener('keydown', enterButtonSearchDomain);
+
+
+
+
+    </script>
+    <script type="text/javascript">
+        $("#a_affiliation").click(function () {
+            $('#myModal').modal('show');
+        });
+    </script>
+
+</body>
+</html>

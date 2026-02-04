@@ -1,0 +1,116 @@
+User-agent: *
+Disallow: /photo/*/clip/add
+Disallow: /api/
+
+Disallow: /photo/*/L
+Disallow: /photos/multiview/
+
+Disallow: /*//
+
+Disallow: /airline/*/new*article
+Disallow: /airline/*/new*start_soon
+Disallow: /airline/*/new*now
+Disallow: /airline/*/new*end_soon
+Disallow: /airline/*/new*fare
+Disallow: /airline/*/new*schedule
+Disallow: /airline/*/new*event
+Disallow: /airline/*/new*campaign
+Disallow: /airline/*/new*service
+Disallow: /airline/*/new*mileage
+Disallow: /airport/*/new*article
+Disallow: /airport/*/new*start_soon
+Disallow: /airport/*/new*now
+Disallow: /airport/*/new*end_soon
+Disallow: /airport/*/new*fare
+Disallow: /airport/*/new*schedule
+Disallow: /airport/*/new*event
+Disallow: /airport/*/new*campaign
+Disallow: /airport/*/new*service
+Disallow: /airport/*/new*mileage
+Disallow: /city_route/*/new*article
+Disallow: /city_route/*/new*start_soon
+Disallow: /city_route/*/new*now
+Disallow: /city_route/*/new*end_soon
+Disallow: /city_route/*/new*fare
+Disallow: /city_route/*/new*schedule
+Disallow: /city_route/*/new*event
+Disallow: /city_route/*/new*campaign
+Disallow: /city_route/*/new*service
+Disallow: /city_route/*/new*mileage
+Disallow: /event/*/new*article
+Disallow: /event/*/new*start_soon
+Disallow: /event/*/new*now
+Disallow: /event/*/new*end_soon
+Disallow: /event/*/new*fare
+Disallow: /event/*/new*schedule
+Disallow: /event/*/new*event
+Disallow: /event/*/new*campaign
+Disallow: /event/*/new*service
+Disallow: /event/*/new*mileage
+Disallow: /airline_route/*/new*article
+Disallow: /airline_route/*/new*start_soon
+Disallow: /airline_route/*/new*now
+Disallow: /airline_route/*/new*end_soon
+Disallow: /airline_route/*/new*fare
+Disallow: /airline_route/*/new*schedule
+Disallow: /airline_route/*/new*event
+Disallow: /airline_route/*/new*campaign
+Disallow: /airline_route/*/new*service
+Disallow: /airline_route/*/new*mileage
+Disallow: /registration/*/new*article
+Disallow: /registration/*/new*start_soon
+Disallow: /registration/*/new*now
+Disallow: /registration/*/new*end_soon
+Disallow: /registration/*/new*fare
+Disallow: /registration/*/new*schedule
+Disallow: /registration/*/new*event
+Disallow: /registration/*/new*campaign
+Disallow: /registration/*/new*service
+Disallow: /registration/*/new*mileage
+Disallow: /aircraft/*/new*article
+Disallow: /aircraft/*/new*start_soon
+Disallow: /aircraft/*/new*now
+Disallow: /aircraft/*/new*end_soon
+Disallow: /aircraft/*/new*fare
+Disallow: /aircraft/*/new*schedule
+Disallow: /aircraft/*/new*event
+Disallow: /aircraft/*/new*campaign
+Disallow: /aircraft/*/new*service
+Disallow: /aircraft/*/new*mileage
+Disallow: /ffp/*/new*article
+Disallow: /ffp/*/new*start_soon
+Disallow: /ffp/*/new*now
+Disallow: /ffp/*/new*end_soon
+Disallow: /ffp/*/new*fare
+Disallow: /ffp/*/new*schedule
+Disallow: /ffp/*/new*event
+Disallow: /ffp/*/new*campaign
+Disallow: /ffp/*/new*service
+Disallow: /ffp/*/new*mileage
+
+Disallow: /alliance/*/new*article
+
+Disallow: /news/date/19*
+Disallow: /news/date/200*
+Disallow: /news/access/19*
+Disallow: /news/access/200*
+
+Disallow: /airport/*/new*?airline_id=
+Disallow: /news/article/*/$
+Disallow: /registration/*/$
+Disallow: /photo/*/$
+
+User-agent: Slurp
+Crawl-delay: 20
+
+User-agent: msnbot 
+Crawl-delay: 1
+
+User-agent: AhrefsBot
+Crawl-Delay: 600
+
+User-agent: Linguee
+Disallow: /
+
+User-agent: Googlebot-news
+Disallow: /photo/*

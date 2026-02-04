@@ -1,0 +1,6 @@
+# Allow all URLs (see http://www.robotstxt.org/robotstxt.html)
+User-agent: *
+Disallow:
+Sitemap: https://www.skyexpress.gr/sitemap.xml
+Sitemap: https://www.skyexpress.gr/el/sitemap_el.xml
+Sitemap: https://www.skyexpress.gr/en/sitemap_en.xml

@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /blog/sitemap.xml
+Disallow: /el/shopping-cart
+Disallow: /el/checkout
+Disallow: /el/thankyou
+Disallow: /el/login
+Disallow: /el/logout
+Disallow: /el/download
+Disallow: /en/shopping-cart
+Disallow: /en/checkout
+Disallow: /en/checkout-domainsdata
+Disallow: /en/thankyou
+Disallow: /en/login
+Disallow: /en/logout
+Disallow: /en/download
+Disallow: /*?*ajax=
+
+Sitemap: http://easy.gr/sitemap-el.xml
+Sitemap: http://easy.gr/sitemap-en.xml

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /tmp/
+Disallow: /linkdego.php
+Disallow: /remainder/

@@ -1,0 +1,12 @@
+# HTTPS  www.albayan.ae
+
+# News Sitemaps
+Sitemap: https://www.albayan.ae/news-sitemap.xml 
+
+# Generic Sitemaps
+Sitemap: https://www.albayan.ae/sitemap.xml
+
+User-agent: *
+#Disallow: /happiness-meter
+Disallow: /heartbeat
+Allow: /

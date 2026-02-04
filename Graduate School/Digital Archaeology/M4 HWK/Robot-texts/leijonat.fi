@@ -1,0 +1,53 @@
+# robots.txt Joomla 5 (optimoitu SEO + some-jakoihin)
+
+# Estetään Joomlan järjestelmäkansiot kaikilta
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /db/
+Disallow: /modules/
+Disallow: /components/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /*/itemlist/*
+
+# Sallitaan kuvat, media, CSS ja JS kaikille
+Allow: /images/
+Allow: /media/
+Allow: /*.css$
+Allow: /*.js$
+
+# Googlebotille kaikki näkyviin
+User-agent: Googlebot
+Allow: /
+
+# Facebookin botit (esikatselut)
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: facebot
+Allow: /
+
+# Twitterin botti (esikatselut)
+User-agent: Twitterbot
+Allow: /
+
+# LinkedInin botti (esikatselut)
+User-agent: LinkedInBot
+Allow: /
+
+# Estetään SemrushBot
+User-agent: SemrushBot
+Disallow: /
+
+# Sitemap
+# Sitemap: https://www.leijonat.fi/sitemap.xml

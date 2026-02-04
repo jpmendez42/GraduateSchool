@@ -1,0 +1,22 @@
+Sitemap: https://www.onf.fr/sitemap.xml
+
+User-agent: *
+Disallow: /--static--/
+Disallow: /api/
+Disallow: /references/
+Disallow: /outils/vues/
+Disallow: /outils/imgmaps/
+Disallow: /outils/expengines/
+Disallow: /outils/forms/
+Disallow: /outils/contacts/
+Disallow: /outils/logos/
+Disallow: /outils/alerts/
+Disallow: /outils/fichiers/
+Disallow: /outils/alerts/
+Disallow: /outils/fichiers/
+Disallow: /outils/forms/
+Disallow: /outils/vues/
+Disallow: /outils/contacts/
+Disallow: /outils/imgmaps/
+Disallow: /outils/logos/
+Disallow: /outils/expengines/

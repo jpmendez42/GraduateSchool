@@ -1,0 +1,5 @@
+Sitemap: https://www.vfb.de/sitemap.xml
+User-agent: *
+Disallow: /fileadmin/
+Disallow: /templates/
+Allow: /fileadmin/redaktion/*.pdf

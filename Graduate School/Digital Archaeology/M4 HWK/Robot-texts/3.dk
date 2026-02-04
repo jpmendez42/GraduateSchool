@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /selvbetjening/login
+Disallow: /epi/CMS/
+Disallow: /util/
+Disallow: /selvbetjening/
+Disallow: /dev/
+Disallow: /hjalp/dev/
+Disallow: /business/xBizzDev/
+Disallow: /en/
+Disallow: /tredk-menu.js
+Disallow: /Recycle-Bin/
+Disallow: /internet/3internet-1/
+Disallow: /Tjek-din-adresse/
+Disallow: /*=$
+
+Sitemap: https://www.3.dk/sitemap_index.xml
+Sitemap: https://cdn.sp-selfservice.com/cs/three-dk/sitemap.xml

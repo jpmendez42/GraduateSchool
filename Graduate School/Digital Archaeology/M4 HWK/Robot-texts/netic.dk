@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: *?checkcache
+
+# Host
+Host: https://netic.dk
+
+# Sitemaps
+#Sitemap: https://netic.dk/sitemap.xml
+Sitemap: https://www.netic.dk/sitemap.xml

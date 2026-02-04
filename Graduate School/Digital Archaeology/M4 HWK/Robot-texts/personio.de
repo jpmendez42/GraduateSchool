@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /search*/
+Disallow: /tag*/
+Disallow: */feed/*
+
+# Sitemaps
+Sitemap: https://www.personio.de/sitemap.xml

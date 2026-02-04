@@ -1,0 +1,12 @@
+# Rule for googlebot
+User-agent: googlebot
+Disallow: /privacy.html
+Disallow: /terms.html
+Disallow: /job.html
+Disallow: /privacy
+Disallow: /terms
+Disallow: /job
+Disallow: /digital-lending-privacy-policy.html
+Disallow: /third-party-partners.html
+
+Sitemap: https://okcredit.com/sitemap.xml

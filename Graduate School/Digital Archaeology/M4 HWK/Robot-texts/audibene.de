@@ -1,0 +1,92 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-includes/
+Disallow: */trackback
+Disallow: */feed
+Disallow: */feeds
+Disallow: */embed
+Disallow: *?s=*
+Disallow: *&s=*
+
+# Block OpenAI bots (ChatGPT, GPT-4, etc.) from landing pages only
+User-agent: GPTBot
+Disallow: /d/
+
+User-agent: ChatGPT-User
+Disallow: /d/
+
+User-agent: OpenAI-SearchBot
+Disallow: /d/
+
+# Block Anthropic bots (Claude) from landing pages only
+User-agent: Claude-Web
+Disallow: /d/
+
+User-agent: ClaudeBot
+Disallow: /d/
+
+# Block Google Bard/Gemini bots from landing pages only
+User-agent: Bard
+Disallow: /d/
+
+User-agent: Gemini
+Disallow: /d/
+
+User-agent: Google-Extended
+Disallow: /d/
+
+# Block Microsoft Copilot/Bing AI from landing pages only
+User-agent: BingBot
+Disallow: /d/
+
+User-agent: Copilot
+Disallow: /d/
+
+# Block Meta AI bots from landing pages only
+User-agent: Meta-ExternalAgent
+Disallow: /d/
+
+User-agent: FacebookBot
+Disallow: /d/
+
+# Block Perplexity AI from landing pages only
+User-agent: PerplexityBot
+Disallow: /d/
+
+User-agent: Perplexity
+Disallow: /d/
+
+# Block Common Crawl (used by many AI training datasets) from landing pages only
+User-agent: CCBot
+Disallow: /d/
+
+# Block other AI research crawlers from landing pages only
+User-agent: ChatGPT
+Disallow: /d/
+
+User-agent: AI2Bot
+Disallow: /d/
+
+User-agent: Omgilibot
+Disallow: /d/
+
+User-agent: Diffbot
+Disallow: /d/
+
+User-agent: SerpstatBot
+Disallow: /d/
+
+# Block generic AI/ML bots from landing pages only
+User-agent: AI-Crawler
+Disallow: /d/
+
+User-agent: ML-Crawler
+Disallow: /d/
+
+User-agent: DataForSeoBot
+Disallow: /d/
+
+# All other bots (search engines, advertising, analytics) have full access by default 
+
+Sitemap: https://www.audibene.de/sitemap_index.xml

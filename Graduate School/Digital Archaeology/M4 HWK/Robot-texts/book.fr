@@ -1,0 +1,126 @@
+User-agent: *
+Disallow: /images/spotlight/
+Disallow: /fbtn.php
+Disallow: /fbtn_www.php
+Disallow: /*zoom=
+Disallow: /*loginred=
+Disallow: /*_20_*
+Disallow: /*_30_*
+Disallow: /*_40_*
+Disallow: /conf_init.php
+Disallow: /sl.png
+
+User-agent: anthropic-ai
+Disallow: /files/
+
+User-agent: Bytespider
+Disallow: /files/
+
+User-agent: CCBot
+Disallow: /files/
+
+User-agent: ChatGPT-User
+Disallow: /files/
+
+User-agent: ClaudeBot
+Disallow: /files/
+
+User-agent: Claude-Web
+Disallow: /files/
+
+User-agent: cohere-ai
+Disallow: /files/
+
+User-agent: Google-Extended
+Disallow: /files/
+
+User-agent: GPTBot
+Disallow: /files/
+
+User-agent: PerplexityBot
+Disallow: /files/
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: HTTrack 3.0
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: bdbrandprotect
+Disallow: /
+
+User-agent: BPImageWalker
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: TurnitinBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: semalt.com
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: botify
+Disallow: /
+
+User-agent: barkrowler
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BacklinkCrawler
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: YandexBot
+Crawl-delay: 10
+
+User-agent: Sogou web spider
+Crawl-delay: 10
+
+User-agent: Sosospider
+Crawl-delay: 10
+
+User-agent: Baiduspider
+Crawl-delay: 10
+

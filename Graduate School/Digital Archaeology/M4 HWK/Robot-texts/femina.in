@@ -1,0 +1,73 @@
+User-Agent: *
+Allow: /
+Disallow: /7176/*
+Disallow: /21806551354/*
+Disallow: /temp/
+Disallow: /2db/
+Disallow: /static_pages/
+Disallow: /tpl/
+Disallow: /gateway/
+Disallow: /common/
+Disallow: /google_plus/
+Disallow: /fb/
+Disallow: /twitter_oauth/
+Disallow: /crons/
+Disallow: /SolrApi/
+Disallow: /config/
+Disallow: /api/
+Disallow: /classes/
+Disallow: /testEsi/
+Disallow: /HTML/
+Disallow: /captcha/
+Disallow: /ssonew/
+Disallow: /sso/
+Disallow: /search/*
+Disallow: /hindi/search/*
+Disallow: /bengali/search/*
+Disallow: /tamil/search/*
+Disallow: /hindi/7176/*
+Disallow: /bengali/7176/*
+Disallow: /tamil/7176/*
+Disallow: /hindi/21806551354/*
+Disallow: /bengali/21806551354/*
+Disallow: /tamil/21806551354/*
+Disallow: /beauty-box/2db/
+Allow: /search/tag_summer-skin-care
+Allow: /search/tag_summer-hair-care
+Allow: /search/tag_monsoon-skin-care
+Allow: /search/tag_monsoon-hair-care
+
+User-Agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-Agent: GPTBot
+Disallow: /
+
+User-Agent: ChatGPT-User
+Disallow: /
+
+User-Agent: Google-Extended
+Disallow: /
+
+User-Agent: CCBot
+Disallow: /
+
+Sitemap: https://www.femina.in/staticsitemap/sitemap-index.xml
+Sitemap: https://www.femina.in/staticsitemap/section-subsection-sitemap.xml
+Sitemap: https://www.femina.in/gImageSiteMap.xml
+Sitemap: https://www.femina.in/gNewsSiteMap.xml
+Sitemap: https://www.femina.in/staticsitemap/beauty-pageants-sitemap.xml
+Sitemap: https://www.femina.in/amp-stories-sitemap.xml
+Sitemap: https://www.femina.in/celebs-sitemap-2.xml
+Sitemap: https://www.femina.in/celebs-sitemap.xml
+Sitemap: https://www.femina.in/relationships-sitemap.xml
+Sitemap: https://www.femina.in/fashion-sitemap.xml
+Sitemap: https://www.femina.in/food-sitemap.xml
+Sitemap: https://www.femina.in/travel-sitemap.xml
+Sitemap: https://www.femina.in/good-living-sitemap.xml
+Sitemap: https://www.femina.in/trending-sitemap.xml
+Sitemap: https://www.femina.in/wellness-sitemap.xml
+Sitemap: https://www.femina.in/beauty-sitemap.xml
+Sitemap: https://www.femina.in/life-sitemap-2.xml
+Sitemap: https://www.femina.in/life-sitemap.xml
+Sitemap: https://www.femina.in/brides-sitemap.xml

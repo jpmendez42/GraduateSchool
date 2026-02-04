@@ -1,0 +1,42 @@
+User-agent: *
+Disallow: /gassets/*
+Disallow: /control/
+Disallow: /control2/
+Disallow: /notfound/
+Disallow: /schedulers/
+Disallow: */load/
+Disallow: /load/*
+Disallow: /*?cid=
+Disallow: /*?go
+Disallow: /profile/
+Disallow: /*?ref=
+Disallow: */exclusive/
+Disallow: */twentyfour/
+Disallow: */fonts/
+Disallow: /*?so
+Disallow: */coupon-codes/
+Disallow: */search/
+Disallow: */c/
+Disallow: */m/
+Allow: /product-deals/
+Disallow: /product-deals/*/
+Disallow: /assets/*
+Disallow: */home/
+Disallow: */allstores/
+Disallow: */error/
+Disallow: */misc/
+Disallow: */login/
+Disallow: */bachatwalidiwalibeta/
+Disallow: */product?id=
+Disallow: /cricketfantasy/*/
+Disallow: */static/ga.js
+Disallow: */?
+Disallow: */redeem
+Disallow: /coupon/
+Disallow: */go/
+User-agent: Google-Extended 
+Allow: /
+
+
+
+sitemap: https://www.grabon.in/sitemap-index.xml.gz

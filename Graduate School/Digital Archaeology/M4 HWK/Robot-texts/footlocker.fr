@@ -1,0 +1,28 @@
+# Updated 31.03.2021
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent:* 
+Disallow: /account/*
+Disallow: /cart
+Disallow: /wishlist/ 
+Disallow: /shoppingcart/ 
+Disallow: /checkout 
+Disallow: /checkout/*
+Disallow: /account/details
+Disallow: /account/orders
+Disallow: /account/preferences
+Disallow: /account/payment/new
+Disallow: /quickview/ 
+Disallow: /paygate/ccn
+Disallow: /en/
+Disallow: /de/
+Disallow: /nl/
+Disallow: /it/
+Disallow: /es/
+Disallow: /mnt/
+Disallow: /content/foot-locker-inc/
+Disallow: /fr/content/foot-locker-inc/*
+Noindex: /*?query
+Sitemap: https://www.footlocker.fr/sitemap.xml

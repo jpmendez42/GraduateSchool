@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /mall/include_html/ss_mail/
+Disallow: *?c=2
+Disallow: *&c=2
+Disallow: /static-p/

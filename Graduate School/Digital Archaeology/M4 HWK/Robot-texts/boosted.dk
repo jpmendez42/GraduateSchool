@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /ads.txt
+
+Sitemap: https://www.boosted.dk/sitemap.xml
+Sitemap: https://www.boosted.dk/news-sitemap.xml
+Sitemap: https://www.boosted.dk/sitemap.rss
+
+User-agent: facebookexternalhit
+Allow: /

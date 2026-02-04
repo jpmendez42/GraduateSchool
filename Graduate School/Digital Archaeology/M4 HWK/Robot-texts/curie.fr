@@ -1,0 +1,9 @@
+User-agent: *
+
+Disallow: /*?profile=
+Disallow: /*?text=
+Disallow: /*?job=
+Dissalow : *?_gl=*
+Dissalow : *&_gl=*
+
+Sitemap: https://curie.fr/sitemap.xml

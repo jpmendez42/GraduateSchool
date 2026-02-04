@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /content/dam/montepio/content-fragments
+Disallow: /content/dam/montepio/monofolhas
+Disallow: /content/dam/montepio/emails
+
+Sitemap: https://www.bancomontepio.pt/sitemap.xml

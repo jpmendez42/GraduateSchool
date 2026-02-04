@@ -1,0 +1,13 @@
+User-agent: * 
+
+Disallow: /en/privacy-policy
+Disallow: /en/privacy-policy/*
+Disallow: /IframeConnectionProxy
+Disallow: /it/copyright-note-legali
+Disallow: /it/privacy-policy
+Disallow: /it/privacy-policy/*
+Disallow: /*/B2CB2B/Footer
+Disallow: /*/B2CB2B/Header
+
+Sitemap: https://www.italotreno.com/sitemap.xml
+Sitemap: https://www.italotreno.com/images_sitemap.xml

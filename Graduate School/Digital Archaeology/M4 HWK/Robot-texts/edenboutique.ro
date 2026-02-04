@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /index.php*
+Disallow: /contul-meu/
+Disallow: /one-page-checkout/
+Disallow: /confirm-account/*
+Disallow: /grem-responsive-zoom/*
+Disallow: /grem-gallery-overlay/*
+Disallow: /grem-abr/*
+Disallow: /grem-abr-unsub/*
+Disallow: /grem-review-unsub/*
+Disallow: /grem-order-review/*
+Disallow: /grem-cust-prod-pic/*
+Disallow: /password-reset/*
+Disallow: /custom-size-chart/*
+Disallow: /wishlist/*
+Disallow: /search/*
+Sitemap: https://www.edenboutique.ro/sitemap.xml

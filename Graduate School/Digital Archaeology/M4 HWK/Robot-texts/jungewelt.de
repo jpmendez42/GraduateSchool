@@ -1,0 +1,37 @@
+# Alle robots
+
+User-agent: *
+Disallow: /artikel/print.php
+Disallow: /comment.php
+Disallow: /leserbrief/
+Disallow: /user/
+Disallow: /video/
+Disallow: /bannercount.php
+Disallow: /bannercountsky.php
+Disallow: /artikel/mail.php
+Disallow: /artikel/492676.holocaust-zwei-von-sechs-millionen.html
+
+# Extrawurst fuer Yahoo
+User-agent: Yahoo-Newscrawler
+Disallow:
+
+
+# Miese Bots raus
+
+User-agent: FAST-WebCrawler
+Disallow: /
+
+User-agent: Freefind
+Disallow: /
+
+User-agent: Excalibur Internet Spider
+Disallow: /
+
+User-agent: wget
+Disallow: /
+
+
+Crawl-delay: 1
+
+
+Sitemap: https://www.jungewelt.de/google-sitemap/index.xml

@@ -1,0 +1,37 @@
+User-agent: *
+Disallow: /my/
+Disallow: /api/
+Disallow: /basket/
+Disallow: /catalog
+Disallow: /checkout
+Disallow: /tracking/
+Disallow: /admin
+Disallow: /internal
+
+User-agent: EtaoSpider
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: 360Spider
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-agent: Sistrix
+Disallow: /
+
+Host: www.coolshop.dk
+Sitemap: https://www.coolshop.dk/sitemap.xml
+

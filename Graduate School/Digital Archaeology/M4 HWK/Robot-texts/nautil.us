@@ -1,0 +1,9 @@
+User-Agent: *
+
+Allow: /ads.txt
+Disallow: *?s=*
+
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php#Google News Sitemap
+Sitemap: https://nautil.us/news-sitemap.xml#Site Sitemap
+Sitemap: https://nautil.us/sitemap_index.xml

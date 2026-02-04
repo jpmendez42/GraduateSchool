@@ -1,0 +1,13 @@
+User-agent: Linespider
+Disallow: /
+
+User-agent: *
+Disallow: /external/
+Disallow: /modal/
+Disallow: /sitelog/
+Disallow: /affiliate/link
+Disallow: /aflink.php
+Disallow: /ajax/posting_ajax
+
+Sitemap: https://www.graphic.jp/sitemap.xml
+Sitemap: https://www.graphic.jp/files_public/sitemap/sitemap__smapri_design.xml

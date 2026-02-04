@@ -1,0 +1,587 @@
+User-agent: *
+Allow: /
+Disallow: /blog/cgi-bin
+Disallow: /blog/wp-admin/
+Disallow: /*?token=
+Allow: /blog/wp-admin/admin-ajax.php
+
+Disallow: /login/*
+Disallow: /login/LivePerson/monitor?chat=Sales
+Disallow: /login/BETNOW
+Disallow: /login/LiveBetting
+Disallow: /login/Lobby
+Disallow: /sportsbook/SportsbookHome?redirect=PendingBets
+Disallow: /sportsbook/SportsbookHome
+Disallow: /cdn-cgi/
+Disallow: /wc/
+Disallow: /thanks/
+Disallow: /casino/*
+
+# Allow AI search and agent use
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User  
+User-agent: PerplexityBot
+User-agent: FirecrawlAgent
+User-agent: AndiBot
+User-agent: ExaBot
+User-agent: PhindBot
+User-agent: YouBot
+Allow: /
+Disallow: /*?
+Disallow: /*?token=
+
+
+# Disallow AI training data collection  
+User-agent: CCBot  
+Disallow: /
+
+# Allow traditional search indexing  
+User-agent: Googlebot  
+User-agent: Bingbot  
+User-agent: Google-Extended
+User-agent: GPTBot
+Allow: /
+Disallow: /*?
+Disallow: /*?token=
+
+# Disallow access to admin areas for all bots  
+User-agent: *  
+Disallow: /admin/  
+Disallow: /internal/  
+
+Sitemap: https://www.betnow.eu/sitemap_index.xml
+Sitemap: https://www.betnow.eu/post-sitemap.xml
+Sitemap: https://www.betnow.eu/post-sitemap2.xml
+Sitemap: https://www.betnow.eu/page-sitemap.xml
+Sitemap: https://www.betnow.eu/category-sitemap.xml
+Sitemap: https://www.betnow.eu/author-sitemap.xml
+Sitemap: https://www.betnow.eu/sitemap-custom.xml
+
+
+# Directories
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /profiles/
+Disallow: /scripts/
+Disallow: /themes/
+
+# Files
+Disallow: /CHANGELOG.txt
+Disallow: /cron.php
+Disallow: /INSTALL.mysql.txt
+Disallow: /INSTALL.pgsql.txt
+Disallow: /INSTALL.sqlite.txt
+Disallow: /install.php
+Disallow: /INSTALL.txt
+Disallow: /LICENSE.txt
+Disallow: /MAINTAINERS.txt
+Disallow: /update.php
+Disallow: /UPGRADE.txt
+Disallow: /xmlrpc.php
+
+# Paths (clean URLs)
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /filter/tips/
+Disallow: /logout/
+Disallow: /node/add/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+Disallow: /user/logout/
+
+# Paths (no clean URLs)
+Disallow: /?q=admin/
+Disallow: /?q=comment/reply/
+Disallow: /?q=filter/tips/
+Disallow: /?q=logout/
+Disallow: /?q=node/add/
+Disallow: /?q=search/
+Disallow: /?q=user/password/
+Disallow: /?q=user/register/
+Disallow: /?q=user/login/
+Disallow: /?q=user/logout/
+
+# Directories giving server errors in GWT
+Disallow: /b1/
+Disallow: /b10/
+Disallow: /b11/
+Disallow: /b12/
+Disallow: /b13/
+Disallow: /b14/
+Disallow: /b15/
+Disallow: /b16/
+Disallow: /b18/
+Disallow: /b2/
+Disallow: /b3/
+Disallow: /b4/
+Disallow: /b5/
+Disallow: /b6/
+Disallow: /b7/
+Disallow: /b8/
+Disallow: /b9/
+Disallow: /welcome/
+
+# Bloqueo basico para todos los bots y crawlers
+# puede dar problemas por bloqueo de recursos en GWT
+User-agent: *
+Disallow: /wp-includes/
+Allow: /wp-content/uploads/*
+Allow: /wp-content/*.js
+Allow: /wp-content/*.css
+Allow: /wp-includes/*.js
+Allow: /wp-includes/*.css
+Allow: /wp-content/plugins/gp-premium/blog/functions/css/*.css
+Allow: /wp-content/themes/bn/*.css
+Allow: /wp-content/themes/bn/*.js
+
+Disallow: /cgi-bin 
+Disallow: /*/attachment/
+Disallow: /tag/*/page/
+Disallow: /tag/*/feed/
+Disallow: /page/
+Disallow: /comments/
+Disallow: /xmlrpc.php
+Disallow: /?attachment_id*
+
+# Bloqueo de las URL dinamicas
+Allow: /*?ver
+Disallow: /*?
+Disallow: /*?token=
+
+#Bloqueo de busquedas
+User-agent: *
+Disallow: /?s= 
+Disallow: /search
+Disallow: /?pg=
+Disallow: /?source=
+
+
+# Bloqueo de trackbacks
+User-agent: *
+Disallow: /trackback
+Disallow: /*trackback
+Disallow: /*trackback*
+Disallow: /*/trackback
+
+
+# Bloqueo de feeds para crawlers
+User-agent: *
+Allow: /feed/$ 
+Disallow: /feed/ 
+Disallow: /comments/feed/
+Disallow: /*/feed/$ 
+Disallow: /*/feed/rss/$ 
+Disallow: /*/trackback/$ 
+Disallow: /*/*/feed/$ 
+Disallow: /*/*/feed/rss/$ 
+Disallow: /*/*/trackback/$ 
+Disallow: /*/*/*/feed/$ 
+Disallow: /*/*/*/feed/rss/$ 
+Disallow: /*/*/*/trackback/$
+
+
+User-agent: OmniExplorer_Bot
+Disallow: /
+
+User-agent: FreeFind
+Disallow: /
+
+User-agent: BecomeBot
+Disallow: /
+
+User-agent: Nutch
+Disallow: /
+
+User-agent: Jetbot/1.0
+Disallow: /
+
+User-agent: Jetbot
+Disallow: /
+
+User-agent: WebVac
+Disallow: /
+
+User-agent: Stanford
+Disallow: /
+
+User-agent: naver
+Disallow: /
+
+User-agent: dumbot
+Disallow: /
+
+User-agent: Hatena Antenna
+Disallow: /
+
+User-agent: grub-client
+Disallow: /
+
+User-agent: grub
+Disallow: /
+
+User-agent: WebZip
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: b2w/0.1
+Disallow: /
+
+User-agent: Copernic
+Disallow: /
+
+User-agent: psbot
+Disallow: /
+
+User-agent: Python-urllib
+Disallow: /
+
+User-agent: NetMechanic
+Disallow: /
+
+User-agent: URL_Spider_Pro
+Disallow: /
+
+User-agent: CherryPicker
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebBandit
+Disallow: /
+
+User-agent: EmailWolf
+Disallow: /
+
+User-agent: ExtractorPro
+Disallow: /
+
+User-agent: CopyRightCheck
+Disallow: /
+
+User-agent: Crescent
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: ProWebWalker
+Disallow: /
+
+User-agent: CheeseBot
+Disallow: /
+
+User-agent: LNSpiderguy
+Disallow: /
+
+User-agent: Alexibot
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: Stanford Comp Sci
+Disallow: /
+
+User-agent: MIIxpc
+Disallow: /
+
+User-agent: Telesoft
+Disallow: /
+
+User-agent: Website Quester
+Disallow: /
+
+User-agent: moget/2.1
+Disallow: /
+
+User-agent: WebZip/4.0
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebSauger
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: NetAnts
+Disallow: /
+
+User-agent: Mister PiX
+Disallow: /
+
+User-agent: WebAuto
+Disallow: /
+
+User-agent: TheNomad
+Disallow: /
+
+User-agent: WWW-Collector-E
+Disallow: /
+
+User-agent: RMA
+Disallow: /
+
+User-agent: libWeb/clsHTTP
+Disallow: /
+
+User-agent: asterias
+Disallow: /
+
+User-agent: httplib
+Disallow: /
+
+User-agent: turingos
+Disallow: /
+
+User-agent: spanner
+Disallow: /
+
+User-agent: InfoNaviRobot
+Disallow: /
+
+User-agent: Harvest/1.5
+Disallow: /
+
+User-agent: Bullseye/1.0
+Disallow: /
+
+User-agent: Crescent Internet ToolPak HTTP OLE Control v.1.0
+Disallow: /
+
+User-agent: CherryPickerSE/1.0
+Disallow: /
+
+User-agent: CherryPickerElite/1.0
+Disallow: /
+
+User-agent: WebBandit/3.50
+Disallow: /
+
+User-agent: NICErsPRO
+Disallow: /
+
+User-agent: Microsoft URL Control - 5.01.4511
+Disallow: /
+
+User-agent: DittoSpyder
+Disallow: /
+
+User-agent: Foobot
+Disallow: /
+
+User-agent: SpankBot
+Disallow: /
+
+User-agent: BotALot
+Disallow: /
+
+User-agent: lwp-trivial/1.34
+Disallow: /
+
+User-agent: lwp-trivial
+Disallow: /
+
+User-agent: BunnySlippers
+Disallow: /
+
+User-agent: Microsoft URL Control - 6.00.8169
+Disallow: /
+
+User-agent: URLy Warning
+Disallow: /
+
+User-agent: Wget/1.6
+Disallow: /
+
+User-agent: Wget/1.5.3
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: LinkWalker
+Disallow: /
+
+User-agent: cosmos
+Disallow: /
+
+User-agent: moget
+Disallow: /
+
+User-agent: hloader
+Disallow: /
+
+User-agent: humanlinks
+Disallow: /
+
+User-agent: LinkextractorPro
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Mata Hari
+Disallow: /
+
+User-agent: LexiBot
+Disallow: /
+
+User-agent: Web Image Collector
+Disallow: /
+
+User-agent: The Intraformant
+Disallow: /
+
+User-agent: True_Robot/1.0
+Disallow: /
+
+User-agent: True_Robot
+Disallow: /
+
+User-agent: BlowFish/1.0
+Disallow: /
+
+User-agent: JennyBot
+Disallow: /
+
+User-agent: MIIxpc/4.2
+Disallow: /
+
+User-agent: BuiltBotTough
+Disallow: /
+
+User-agent: ProPowerBot/2.14
+Disallow: /
+
+User-agent: BackDoorBot/1.0
+Disallow: /
+
+User-agent: toCrawl/UrlDispatcher
+Disallow: /
+
+User-agent: WebEnhancer
+Disallow: /
+
+User-agent: suzuran
+Disallow: /
+
+User-agent: VCI WebViewer VCI WebViewer Win32
+Disallow: /
+
+User-agent: VCI
+Disallow: /
+
+User-agent: Szukacz/1.4 
+Disallow: /
+
+User-agent: QueryN Metasearch
+Disallow: /
+
+User-agent: Openfind data gathere
+Disallow: /
+
+User-agent: Openfind 
+Disallow: /
+
+User-agent: Zeus
+Disallow: /
+
+User-agent: RepoMonkey Bait & Tackle/v1.01
+Disallow: /
+
+User-agent: RepoMonkey
+Disallow: /
+
+User-agent: Microsoft URL Control
+Disallow: /
+
+User-agent: Openbot
+Disallow: /
+
+User-agent: URL Control
+Disallow: /
+
+User-agent: Zeus Link Scout
+Disallow: /
+
+User-agent: Zeus 32297 Webster Pro V2.9 Win32
+Disallow: /
+
+User-agent: Webster Pro
+Disallow: /
+
+User-agent: EroCrawler
+Disallow: /
+
+User-agent: LinkScan/8.1a Unix
+Disallow: /
+
+User-agent: Keyword Density/0.9
+Disallow: /
+
+User-agent: Kenjin Spider
+Disallow: /
+
+User-agent: Iron33/1.0.2
+Disallow: /
+
+User-agent: Bookmark search tool
+Disallow: /
+
+User-agent: GetRight/4.2
+Disallow: /
+
+User-agent: FairAd Client
+Disallow: /
+
+User-agent: Gaisbot
+Disallow: /
+
+User-agent: Aqua_Products
+Disallow: /
+
+User-agent: Radiation Retriever 1.1
+Disallow: /
+
+User-agent: Flaming AttackBot
+Disallow: /
+
+User-agent: Oracle Ultra Search
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: PerMan
+Disallow: /
+
+User-agent: searchpreview
+Disallow: /
+
+User-agent: sootle
+Disallow: /
+
+User-agent: es
+Disallow: /
+
+User-agent: Enterprise_Search/1.0
+Disallow: /
+
+User-agent: Enterprise_Search
+Disallow: /
+

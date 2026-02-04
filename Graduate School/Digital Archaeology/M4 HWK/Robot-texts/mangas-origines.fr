@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/uploads/private/
+Disallow: /cgi-bin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /?s=
+Disallow: /*?*
+
+
+Allow: /wp-content/themes/
+Allow: /wp-content/uploads/
+
+
+Sitemap: https://mangas-origines.fr/sitemap_index.xml

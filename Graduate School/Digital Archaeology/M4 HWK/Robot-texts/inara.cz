@@ -1,0 +1,104 @@
+User-agent: *
+Disallow: /elite/cmdr-modules/
+Disallow: /elite/cmdr-fleet/
+Disallow: /elite/cmdr-equipment-loadouts/
+Disallow: /elite/cmdr-credits/
+Disallow: /elite/cmdr-credits-transactions/
+Disallow: /elite/cmdr-credits-assets/
+Disallow: /elite/cmdr-ranks/
+Disallow: /elite/cmdr-reputation/
+Disallow: /elite/cmdr-reputation-engineers/
+Disallow: /elite/cmdr-logs/
+Disallow: /elite/cmdr-flightlog/
+Disallow: /elite/cmdr-missionlog/
+Disallow: /elite/cmdr-combatlog/
+Disallow: /elite/cmdr-gamestats/
+Disallow: /elite/cmdr-inventory/
+Disallow: /elite/cmdr-craftinglists/
+Disallow: /elite/cmdr-craftinglists-components/
+Disallow: /elite/cmdr-notes/
+Disallow: /elite/cmdr-favorites/
+Disallow: /elite/cmdr-settings/
+Disallow: /elite/user-inbox/
+Disallow: /elite/user-inbox-message/
+Disallow: /elite/user-friends/
+Disallow: /elite/user-settings/
+Disallow: /elite/market-traderoutes-search/
+Disallow: /elite/minorfaction-presence/
+Disallow: /elite/minorfaction-states/
+Disallow: /elite/minorfaction-conflicts/
+Disallow: /elite/minorfaction-assets/
+Disallow: /elite/starsystem-stations/
+Disallow: /elite/starsystem-expansions/
+Disallow: /elite/starsystem-exploited/
+Disallow: /elite/starsystem-powerplay/
+Disallow: /elite/translate/
+Disallow: /elite/translate-list/
+Disallow: /elite/translate-listupdated/
+Disallow: /elite/translate-listdefault/
+Disallow: /elite/translate-help/
+Disallow: /morps/my-feed/
+Disallow: /*/user-inbox/
+Disallow: /*/user-friends/
+Disallow: /*/user-settings/
+Disallow: /*/resetpassword/
+Disallow: *rplayer.php
+Disallow: *ajaxaction.php
+Disallow: *ajaxvote.php
+Disallow: *ajaxtooltip.php
+Disallow: *ajaxsearch.php
+Disallow: *oldajaxaction.php
+Disallow: /*?*setlanguage=*
+Disallow: /*?*formbrief=*
+Disallow: /?token=*
+Disallow: /honpotblock
+Disallow: /?hpotblock
+
+
+User-agent: Mediapartners-Google
+Allow: /
+Disallow: /*?*formbrief=*
+
+User-agent: Google-Display-Ads-Bot
+Allow: /
+Disallow: /*?*formbrief=*
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-Agent: A6-Indexer
+Disallow: /
+
+User-Agent: SemrushBot
+Disallow: /
+
+User-Agent: AhrefsBot
+Disallow: /
+
+User-Agent: DotBot
+Disallow: /
+
+User-Agent: MTRobot
+Disallow: /
+
+User-Agent: Turnitin
+Disallow: /
+
+User-Agent: uipbot
+Disallow: /
+
+User-Agent: MaxPointCrawler
+Disallow: /
+
+User-Agent: ExteContextCrawl
+Disallow: /
+
+
+User-Agent: AwarioRssBot
+User-Agent: AwarioSmartBot
+User-Agent: AwarioBot
+Disallow: /
+

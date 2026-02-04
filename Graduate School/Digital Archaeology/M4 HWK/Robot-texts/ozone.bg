@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Host: https://www.ozone.bg
+Sitemap: https://www.ozone.bg/sitemap_index.xml
+Sitemap: https://www.ozone.bg/media/sitemap-images/sitemap_images_index.xml
+Disallow: /sleasing/
+Disallow: /innologica-utils/
+Disallow: /recalc/
+Disallow: /stenik_leasingdsk/
+Disallow: /stenik_leasingjetcreditoffline/
+Disallow: /stenik_leasingtbi/
+Disallow: /stenik_leasingunicredit/
+
+User-agent: bingbot
+Crawl-delay: 1
+
+User-agent: msnbot
+Crawl-delay: 1

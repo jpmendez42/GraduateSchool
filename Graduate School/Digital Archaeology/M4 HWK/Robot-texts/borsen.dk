@@ -1,0 +1,30 @@
+# Search engines
+User-agent: *
+Allow: /
+
+# Common crawl
+User-agent: CCBot
+Disallow: /
+
+# OpenAI (ChatGPT)
+User-agent: GPTBot
+Disallow: /
+
+# OpenAI (ChatGPT realtime search)
+User-agent: ChatGPT-User
+Disallow: /
+
+# Anthropic
+User-agent: anthropic-ai
+Disallow: /
+
+# Claude
+User-agent: Claude-Web
+Disallow: /
+
+# Gemini
+User-agent: Google-Extended
+Disallow: /
+
+# Sitemap
+Sitemap: https://borsen.dk/sitemap.xml

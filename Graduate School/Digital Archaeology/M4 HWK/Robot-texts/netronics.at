@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/templates/antler/assets/img/apple-touch-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/templates/antler/assets/img/apple-touch-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/templates/antler/assets/img/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/templates/antler/assets/img/apple-touch-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/templates/antler/assets/img/apple-touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/templates/antler/assets/img/apple-touch-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/templates/antler/assets/img/apple-touch-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/templates/antler/assets/img/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/templates/antler/assets/img/apple-touch-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/templates/antler/assets/img/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/templates/antler/assets/img/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/templates/antler/assets/img/favicon-16x16.png">
+    <meta name="theme-color" content="#42A5F5">
+    <link rel="shortcut icon" href="/templates/antler/assets/img/favicon.ico" >
+
+    <!-- Primary Meta Tags -->
+    <meta name="title" content="NETRONICS - Webhosting, Server und Domain">
+    <meta name="description" content="Shared Webhosting für die stressfreie Webverwaltung ohne Administrationsaufwand.">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://kunden.netronics.at/">
+    <meta property="og:title" content="NETRONICS - Webhosting, Server und Domain">
+    <meta property="og:description" content="Shared Webhosting für die stressfreie Webverwaltung ohne Administrationsaufwand.">
+    <meta property="og:image" content="https://kunden.netronics.at/assets/img/meta_img.png">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://kunden.netronics.at/">
+    <meta property="twitter:title" content="NETRONICS - Webhosting, Server und Domain">
+    <meta property="twitter:description" content="Shared Webhosting für die stressfreie Webverwaltung ohne Administrationsaufwand.">
+    <meta property="twitter:image" content="https://kunden.netronics.at/assets/img/meta_img.png">
+
+    <title>Support - Netronics Harald Heinzel GmbH</title>
+    <!-- Styling -->
+<style>
+/* open-sans-300 - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: url('https://kunden.netronics.at/fonts/open-sans-v34-latin-300.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-300.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-300.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-300.woff') format('woff'), /* Modern Browsers */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-300.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+/* open-sans-regular - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://kunden.netronics.at/fonts/open-sans-v34-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-regular.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+/* open-sans-600 - latin */
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 600;
+  src: url('https://kunden.netronics.at/fonts/open-sans-v34-latin-600.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-600.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-600.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-600.woff') format('woff'), /* Modern Browsers */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-600.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://kunden.netronics.at/fonts/open-sans-v34-latin-600.svg#OpenSans') format('svg'); /* Legacy iOS */
+}
+
+/* raleway-regular - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 400;
+  src: url('https://kunden.netronics.at//fonts/raleway-v28-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-regular.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+/* raleway-700 - latin */
+@font-face {
+  font-family: 'Raleway';
+  font-style: normal;
+  font-weight: 700;
+  src: url('https://kunden.netronics.at//fonts/raleway-v28-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('https://kunden.netronics.at//fonts/raleway-v28-latin-700.svg#Raleway') format('svg'); /* Legacy iOS */
+}
+</style>
+<link href="/templates/antler/css/all.min.css?v=3346f2" rel="stylesheet">
+<link href="/templates/antler/css/custom.css" rel="stylesheet">
+
+<!-- Antler styles -->
+<link href="/templates/antler/assets/fonts/cloudicon/cloudicon.css?v=3346f2" rel="stylesheet">
+<link href="/templates/antler/assets/fonts/opensans/opensans.css?v=3346f2" rel="stylesheet">
+<link href="/templates/antler/assets/css/owl.carousel.css?v=3346f2" rel="stylesheet">
+<link href="/assets/css/fontawesome-all.min.css" rel="stylesheet">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<script type="text/javascript">
+    var csrfToken = 'ae420d6b5886982731c590f148f0b64e924d0e71',
+        markdownGuide = 'Markdown-Leitfaden',
+        locale = 'en',
+        saved = 'gespeichert',
+        saving = 'speichern',
+        whmcsBaseUrl = "",
+        requiredText = 'erforderlich',
+            var recaptcha = {"requiredText":"erforderlich","siteKey":"6LdGI64aAAAAAIgNHgQYeUQGDo9rMAt2IaD3gBkw","apiObject":"grecaptcha","libUrl":"https:\/\/www.google.com\/recaptcha\/api.js?onload=recaptchaLoadCallback&render=explicit"}</script>
+
+<script src="/templates/antler/assets/js/custom.js?v=3346f2"></script>
+<script src="/templates/antler/js/scripts.min.js?v=3346f2"></script>
+<script src="/templates/antler/assets/js/main.js?v=3346f2"></script>
+<script src="/templates/antler/assets/js/owl.carousel.min.js?v=3346f2"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/1.1.1/typed.min.js"></script>
+
+
+<!-- Multilingual Condition to RTL & LTR Language -->
+<link href="/templates/antler/assets/css/main.css" rel="stylesheet">
+<link href="/templates/antler/css/custom.css" rel="stylesheet">
+<html>
+
+<!-- Antler custom color styles -->
+<link href="/templates/antler/assets/css/colors/pink.css" rel="stylesheet" title="pink"/>
+<link href="/templates/antler/assets/css/colors/blue.css" rel="stylesheet" title="blue"/ >
+<link href="/templates/antler/assets/css/colors/green.css" rel="stylesheet" title="green"/>
+
+
+
+
+    
+<style type="text/css">
+.cookie_law {
+    display: none;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    background-color: #2196F3;min-height: 50px;
+    padding: 20px 15%;
+    color: #ffffff;
+}
+
+.cookie_law_close {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    cursor: pointer;
+}
+
+.cookie_law a {
+    color: #bbc6ef;
+}
+
+.cookie_law a:hover, a:active, a:visited {
+    color: #bbc6ef;
+}
+</style>
+
+</head>
+<body data-phone-cc-input="1">
+<!-- ***** LOADING PAGE ****** -->
+<div id="spinner-area">
+  <div class="spinner">
+    <div class="double-bounce1"></div>
+    <div class="double-bounce2"></div>
+  </div>
+</div>
+
+
+<!-- 
+*******************
+NAV MENU
+*******************
+-->
+<div id="main-menu" class="menu-wrap">
+  <section id="header">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-12">
+          <ul class="top-nav">
+                            <li>
+                    <a href="#" class="choose-language" data-toggle="popover" id="languageChooser">
+                        <i class="fas fa-globe-americas"></i>
+                        Deutsch
+                        <b class="caret"></b>
+                    </a>
+                    <div id="languageChooserContent" class="hidden">
+                        <ul>
+                                                            <li>
+                                    <a href="/?language=arabic">العربية</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=azerbaijani">Azerbaijani</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=catalan">Català</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=chinese">中文</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=croatian">Hrvatski</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=czech">Čeština</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=danish">Dansk</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=dutch">Nederlands</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=english">English</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=estonian">Estonian</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=farsi">Persian</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=french">Français</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=german">Deutsch</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=hebrew">עברית</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=hungarian">Magyar</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=italian">Italiano</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=macedonian">Macedonian</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=norwegian">Norwegian</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=portuguese-br">Português</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=portuguese-pt">Português</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=romanian">Română</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=russian">Русский</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=spanish">Español</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=swedish">Svenska</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=turkish">Türkçe</a>
+                                </li>
+                                                            <li>
+                                    <a href="/?language=ukranian">Українська</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="/cart.php?a=view">
+                        <i class="fas fa-shopping-cart"></i>
+                        Warenkorb ansehen
+                    </a>
+                </li>
+                        
+                                    <li class="primary-action">
+                        <a href="/register.php"><i class="fas fa-user-edit"></i> Registrieren</a>
+                    </li>
+                                <li>
+                    <a class="btn btn-default-yellow-fill question" href="/clientarea.php"><i class="fas fa-lock pr-1"></i> Einloggen</a>
+                </li>
+                           
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12 col-md-2">
+        <a href="/index.php">
+          <img src="/templates/antler/assets/img/netronics_Logo_weiß.png" class="svg logo-menu" alt="Netronics Harald Heinzel GmbH"/>
+            <!--<h2 style="color:white;margin-top: 0px">NETRONICS</h2>-->
+        </a>
+        <div class="navbar-header">
+          <button id="nav-toggle" type="button" class="navbar-toggle menu-toggle" data-toggle="collapse" data-target="#primary-nav">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+          </button>
+        </div>
+      </div>
+      <div class="col-sm-12 col-md-10">
+        <section id="main-menu">
+          <nav id="nav" class="navbar navbar-default navbar-main" role="navigation">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="primary-nav">
+              <ul class="nav navbar-nav">
+                        <li menuItemName="Home" class="" id="Primary_Navbar-Home">
+        <a href="/index.php">
+                        Kundencenter Home
+                                </a>
+            </li>
+            <li menuItemName="Store" class="dropdown" id="Primary_Navbar-Store">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                        Shop
+                        &nbsp;<b class="caret"></b>        </a>
+                    <ul class="dropdown-menu">
+                            <li menuItemName="Browse Products Services" id="Primary_Navbar-Store-Browse_Products_Services">
+                    <a href="/index.php/store">
+                                                Alle anzeigen
+                                            </a>
+                </li>
+                            <li menuItemName="Shop Divider 1" class="nav-divider" id="Primary_Navbar-Store-Shop_Divider_1">
+                    <a href="">
+                                                -----
+                                            </a>
+                </li>
+                            <li menuItemName="Hosting" id="Primary_Navbar-Store-Hosting">
+                    <a href="/index.php/store/hosting">
+                                                Hosting
+                                            </a>
+                </li>
+                            <li menuItemName="DNS" id="Primary_Navbar-Store-DNS">
+                    <a href="/index.php/store/dns">
+                                                DNS
+                                            </a>
+                </li>
+                            <li menuItemName="SSL Zertifikate" id="Primary_Navbar-Store-SSL_Zertifikate">
+                    <a href="/index.php/store/ssl-zertifikate">
+                                                SSL Zertifikate
+                                            </a>
+                </li>
+                            <li menuItemName="Cloud Server (VPS | Intel)" id="Primary_Navbar-Store-Cloud_Server_(VPS_|_Intel)">
+                    <a href="/index.php/store/cloud-server-vps-intel">
+                                                Cloud Server (VPS | Intel)
+                                            </a>
+                </li>
+                            <li menuItemName="Cloud Server (Dedicated | AMD)" id="Primary_Navbar-Store-Cloud_Server_(Dedicated_|_AMD)">
+                    <a href="/index.php/store/cloud-server-dedicated">
+                                                Cloud Server (Dedicated | AMD)
+                                            </a>
+                </li>
+                            <li menuItemName="Cloud Backup" id="Primary_Navbar-Store-Cloud_Backup">
+                    <a href="/index.php/store/cloud-backup">
+                                                Cloud Backup
+                                            </a>
+                </li>
+                            <li menuItemName="Virtual Server" id="Primary_Navbar-Store-Virtual_Server">
+                    <a href="/index.php/store/virtual-server">
+                                                Virtual Server
+                                            </a>
+                </li>
+                            <li menuItemName="Register a New Domain" id="Primary_Navbar-Store-Register_a_New_Domain">
+                    <a href="/cart.php?a=add&domain=register">
+                                                Domain registrieren
+                                            </a>
+                </li>
+                        </ul>
+            </li>
+        
+        
+        
+            <li menuItemName="Affiliates" class="" id="Primary_Navbar-Affiliates">
+        <a href="/affiliates.php">
+                        Partner
+                                </a>
+            </li>
+            <li menuItemName="Contact Us" class="" id="Primary_Navbar-Contact_Us">
+        <a href="/contact.php">
+                        Kontaktieren Sie uns
+                                </a>
+            </li>
+                    <li class="infos">
+                  <a href="/clientarea.php"><div class="btn btn-default-yellow-fill">Login</div></a>
+                </li>
+              </ul>
+            </div><!-- /.navbar-collapse -->
+          </nav>
+        </section>
+      </div>
+    </div>
+  </div>
+</div>
+<!--
+*******************
+OWL Carousel
+*******************
+-->
+
+<section id="owl-demo" class="owl-carousel owl-theme owl-loaded owl-drag">
+
+    <div class="full h-100 overlay-video">
+      <div class="vc-parent">
+        <div class="vc-child">
+          <div class="top-banner">
+            <div class="container">
+              <div class="covervid-wrapper">
+
+                <video class="covervid-video" autoplay loop muted poster="/templates/antler/assets/img/topbanner06.jpg">
+                  <source src="/templates/antler/assets/videos/planet.mp4" type="video/mp4">
+                </video>
+              </div>
+              <img class="svg custom-element-right" src="/templates/antler/assets/patterns/domains.svg" alt="Domains">
+              <h1 class="heading"></h1>
+              <h3 class="subheading"> <b class="c-pink">10.09 €</b></h3>
+              <div class="row">
+                <form method="post" action="domainchecker.php" id="frmDomainHomepage">
+<input type="hidden" name="token" value="ae420d6b5886982731c590f148f0b64e924d0e71" />
+                  <input type="hidden" name="transfer" />
+                  <div class="col-xs-12 col-sm-6 col-md-6">
+                    <div class="general-input w-50">
+                      <input type="text" class="fill-input" name="domain" placeholder="z.B. example.com" autocapitalize="none" data-toggle="tooltip" data-placement="left" data-trigger="manual" title="erforderlich" />
+                                            <input type="submit" class="btn btn-default-yellow-fill search" value="Suchen" />
+                                          </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-6 col-md-6">
+                    <div class="pull-left">
+                                                <input type="submit" id="btnTransfer" class="btn btn-default-fill transfer" value="Übertragen" />
+                                            </div>
+                  </div>
+                </form>
+              </div>
+              <div class="domain-prices">
+
+                <ul>
+                                            <li class="tld">.com
+                            <div class="price">23.90 €</div>
+                        </li>
+                                            <li class="tld">.com
+                            <div class="price">22.50 €</div>
+                        </li>
+                                            <li class="tld">.com
+                            <div class="price">14.00 €</div>
+                        </li>
+                                            <li class="tld">.com
+                            <div class="price">26.00 €</div>
+                        </li>
+                                            <li class="tld">.de
+                            <div class="price">14.00 €</div>
+                        </li>
+                                            <li class="tld">.de
+                            <div class="price">9.00 €</div>
+                        </li>
+                                            <li class="tld">.de
+                            <div class="price">26.00 €</div>
+                        </li>
+                                            <li class="tld">.eu
+                            <div class="price">24.00 €</div>
+                        </li>
+                                            <li class="tld">.eu
+                            <div class="price">33.50 €</div>
+                        </li>
+                                            <li class="tld">.eu
+                            <div class="price">15.00 €</div>
+                        </li>
+                                            <li class="tld">.net
+                            <div class="price">24.90 €</div>
+                        </li>
+                                            <li class="tld">.net
+                            <div class="price">26.00 €</div>
+                        </li>
+                    
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="full h-100 overlay-video">
+        <div class="vc-parent">
+            <div class="vc-child">
+                <div class="top-banner">
+                    <div class="container">
+                        <div class="covervid-wrapper">
+
+                            <video class="covervid-video" autoplay loop muted poster="/templates/antler/assets/img/topbanner06.jpg">
+                                <source src="/templates/antler/assets/videos/planet.mp4" type="video/mp4">
+                            </video>
+                        </div>
+                        <img class="svg custom-element-right" src="/templates/antler/assets/patterns/rack.svg" alt="Dedicated Server">
+                        <div class="heading">Shared Hosting <div class="animatype"> <span id="typed3"></span></div></div>
+                        <h3 class="subheading">
+                            High-End Web-Hosting
+                            <br>startet ab
+                            <b class="c-pink">€ 4,99/mo</b><br>
+                        </h3>
+                        <a href="index.php/store/hosting" class="btn btn-default-yellow-fill mr-3">Preise anzeigen</a>
+                        <a href="index.php/store/hosting" class="btn btn-default-pink-fill">Mehr erfahren</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!--
+*******************
+PRICING TABLES
+*******************
+-->
+
+
+<section class="pricing special sec-up-slider">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="wrapper first text-left">
+            <div class="top-content">
+              <img class="svg mb-3" src="templates/antler/assets/fonts/svg/cloudfiber.svg" >
+              <div class="title"><script language="javascript" src="feeds/productsinfo.php?pid=7&get=name"></script></div>
+              <div class="price"><script language="javascript" src="feeds/productsinfo.php?pid=7&get=price&billingcycle=monthly"></script> <span class="period">Monatlich</span></div>
+              <a href="cart.php?a=add&pid=7" class="btn btn-default-yellow-fill">jetzt bestellen</a>
+            </div>
+              <ul class="list-info">
+                  <li><i class="icon-lock"></i> <span class="c-black">SSL</span><br> <span>Let's Encrypt</span></li>
+                  <li><i class="icon-drives"></i> <span class="c-black">DISK</span><br> <span>50 GB</span></li>
+                  <li><i class="icon-database"></i> <span class="c-black">DB</span><br> <span>2 MySQL Databases</span></li>
+                  <li><i class="icon-emailopen"></i> <span class="c-black">EMAIL</span><br> <span>1 E-Mail Account*</span></li>
+                  <li><span></span></li>
+              </ul>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="wrapper text-left">
+            <div class="plans badge feat bg-pink">Empfohlen</div>
+            <div class="top-content">
+              <img class="svg mb-3" src="templates/antler/assets/fonts/svg/cloudfiber.svg" alt="">
+              <div class="title"><script language="javascript" src="feeds/productsinfo.php?pid=8&get=name"></script></div>
+              <div class="price"><script language="javascript" src="feeds/productsinfo.php?pid=8&get=price&billingcycle=monthly"></script> <span class="period">Monatlich</span></div>
+              <a href="cart.php?a=add&pid=8" class="btn btn-default-yellow-fill">jetzt bestellen</a>
+            </div>
+            <ul class="list-info bg-purple">
+                <li><i class="icon-lock"></i> <span class="c-black">SSL</span><br> <span>Let's Encrypt</span></li>
+                <li><i class="icon-drives"></i> <span class="c-black">DISK</span><br> <span>100 GB</span></li>
+                <li><i class="icon-database"></i> <span class="c-black">DB</span><br> <span>10 MySQL Databases</span></li>
+                <li><i class="icon-emailopen"></i> <span class="c-black">EMAIL</span><br> <span>1 E-Mail Account*</span></li>
+                <li><span></span></li>
+            </ul>
+          </div>
+        </div>
+        <div class="col-sm-12 col-md-4 col-lg-4">
+          <div class="wrapper third text-left">
+            <div class="top-content">
+              <img class="svg mb-3" src="templates/antler/assets/fonts/svg/cloudfiber.svg" alt="">
+              <div class="title"><script language="javascript" src="feeds/productsinfo.php?pid=9&get=name"></script></div>
+              <div class="price"><script language="javascript" src="feeds/productsinfo.php?pid=9&get=price&billingcycle=monthly"></script> <span class="period">Monatlich</span></div>
+              <a href="cart.php?a=add&pid=9" class="btn btn-default-yellow-fill">jetzt bestellen</a>
+            </div>
+            <ul class="list-info">
+                <li><i class="icon-lock"></i> <span class="c-black">SSL</span><br> <span>Let's Encrypt</span></li>
+                <li><i class="icon-drives"></i> <span class="c-black">DISK</span><br> <span>200 GB</span></li>
+                <li><i class="icon-database"></i> <span class="c-black">DB</span><br> <span>25 MySQL Databases</span></li>
+                <li><i class="icon-emailopen"></i> <span class="c-black">EMAIL</span><br> <span>1 E-Mail Account*</span></li>
+                <li><span></span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+<!--
+*******************
+FEATURES
+*******************
+-->
+
+<!--
+<section class="services sec-normal motpath sec-bg4">
+    <div class="container">
+      <div class="service-wrap">
+        <div class="row">
+          <div class="col-sm-12 text-left">
+            <h2 class="section-heading">Was möchten Sie tun?</h2>
+            <p class="section-subheading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+          </div>
+          <div class="col-sm-12 col-md-4 wow animated fadeInUp fast">
+                        <div class="service-section">
+              <img class="svg" src="templates/antler/assets/fonts/svg/domains.svg" alt="">
+              <div class="title">Domain kaufen</div>
+              <p class="subtitle">
+                Beginnen Sie hier Ihre Suche nach dem perfekten Domainnamen....
+              </p>
+              <a id="btnBuyADomain" href="domainchecker.php" class="btn btn-default-yellow-fill">Domain kaufen</a>
+            </div>
+                      </div>
+          <div class="col-sm-12 col-md-4 wow animated fadeInUp">
+            <div class="service-section">
+              <img class="svg" src="templates/antler/assets/fonts/svg/cloudfiber.svg" alt="">
+              <div class="title">Webhosting bestellen</div>
+              <p class="subtitle">
+                Wählen Sie ein Hosting-Paket aus
+              </p>
+              <a id="btnOrderHosting" href="cart.php?gid=5"  class="btn btn-default-yellow-fill">Webhosting bestellen</a>
+            </div>
+          </div>
+          <div class="col-sm-12 col-md-4 wow animated fadeInUp fast">
+            <div class="service-section">
+              <div class="plans badge feat bg-pink">Premium</div>
+              <img class="svg" src="templates/antler/assets/fonts/svg/helpdesk.svg" alt="">
+              <div class="title">Hilfe erhalten</div>
+              <p class="subtitle">
+                Senden und verfolgen Sie alle Anfragen hier...
+              </p>
+              <a id="btnGetSupport" href="submitticket.php" class="btn btn-default-yellow-fill">Hilfe erhalten</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+</section>
+-->
+<script src="/templates/antler/assets/js/covervid.min.js?v=3346f2"></script>
+<script> $('.covervid-video').coverVid(1920, 1080);</script>
+<!--
+*******************************
+COLORS
+*******************************
+-->
+<!--
+<section>
+    <ul class="color-scheme">            
+      <li class="pink"><a href="#" data-rel="pink" class="styleswitch"></a></li>
+      <li class="blue"><a href="#" data-rel="blue" class="styleswitch"></a></li>
+      <li class="green"><a href="#" data-rel="green" class="styleswitch"></a></li>
+    </ul> 
+</section>-->
+
+<a href="#0" class="cd-top"> <i class="fas fa-angle-up"></i> </a>
+
+
+    <!-- ***** BUTTON GO TOP ***** -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="fullpage-overlay" class="hidden">
+    <div class="outer-wrapper">
+        <div class="inner-wrapper">
+            <img src="/assets/img/overlay-spinner.svg">
+            <br>
+            <span class="msg"></span>
+        </div>
+    </div>
+</div>
+
+<!--
+*******************
+FOOTER
+*******************
+-->
+<footer id="footer" class="footer">
+  <div class="container">
+    <div class="footer-top">
+      <div class="row">
+        <div class="col-xs-12 col-sm-2 col-md-2">
+          <div class="heading">Domain</div>
+          <ul class="footer-menu classic">
+            <li class="menu-item"><a href="/cart.php?a=add&domain=register">Domain registrieren</a></li>
+            <li class="menu-item"><a href="/cart.php?a=add&domain=transfer">Domain transferieren</a></li>
+          </ul>
+        </div>
+          <div class="col-xs-12 col-sm-2 col-md-2">
+              <div class="heading">Hosting</div>
+              <ul class="footer-menu classic">
+                  <li class="menu-item"><a href="/index.php/store/hosting">Webhosting bestellen</a></li>
+                  <li class="menu-item"><a href="/index.php/store/ssl-zertifikate">SSL-Zertifikate</a></li>
+              </ul>
+          </div>
+        <div class="col-xs-12 col-sm-2 col-md-2">
+          <div class="heading">Support</div>
+          <ul class="footer-menu classic">
+            <li class="menu-item"><a href="/clientarea.php">myNetronics</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-md-3">
+          <div class="heading">Unternehmen</div>
+          <ul class="footer-menu classic">
+              <li class="menu-item"><a href="/imprint.php">Impressum</a></li>
+              <li class="menu-item"><a href="/privacy.php">Datenschutz</a></li>
+              <li class="menu-item"><a href="/agb.php">AGB</a></li>
+          </ul>
+        </div>
+        <div class="col-xs-12 col-sm-3 col-md-3">
+            <a href="/index.php">
+                <img style="width: 90%" src="/templates/antler/assets/img/netronics_Logo_weiß.png" class="svg logo-menu" alt="Netronics Harald Heinzel GmbH"/>
+            </a>
+          <div class="copyrigh" style="    margin-left: 5px;padding-top: 0">Urheberrecht: &copy; 2025 Netronics Harald Heinzel GmbH. Alle Rechte vorbehalten.</div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 col-lg-6">
+          <ul class="footer-menu">
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-6">
+          <ul class="payment-list">
+            <li><p>Payments We Accept</p></li>
+            <li><i class="fab fa-cc-paypal"></i></li>
+            <li><i class="fab fa-cc-visa"></i></li>
+            <li><i class="fab fa-cc-mastercard"></i></li>
+            <li><i class="fab fa-cc-stripe"></i></li>
+            <li><i class="fab fa-bitcoin"></i></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<div class="modal system-modal fade" id="modalAjax" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content panel panel-primary">
+            <div class="modal-header panel-heading">
+                <button type="button" class="close" data-dismiss="modal">
+                    <span aria-hidden="true">&times;</span>
+                    <span class="sr-only">Close</span>
+                    <span class="sr-only">Schließen</span>
+                </button>
+                <h4 class="modal-title">Title</h4>
+            </div>
+            <div class="modal-body panel-body">
+                Loading...
+                Lädt...
+            </div>
+            <div class="modal-footer panel-footer">
+                <div class="pull-left loader">
+                    <i class="fas fa-circle-notch fa-spin"></i> Loading...
+                </div>
+                <button type="button" class="btn btn-default" data-dismiss="modal">
+                    Close
+                    Schließen
+                </button>
+                <button type="button" class="btn btn-primary modal-submit">
+                    Submit
+                    übermitteln
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<form action="#" id="frmGeneratePassword" class="form-horizontal">
+    <div class="modal fade" id="modalGeneratePassword">
+        <div class="modal-dialog">
+            <div class="modal-content panel-primary">
+                <div class="modal-header panel-heading">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title">
+                        Passwort generieren
+                    </h4>
+                </div>
+                <div class="modal-body">
+                    <div class="alert alert-danger hidden" id="generatePwLengthError">
+                        Bitte geben Sie eine Zahl zwischen 8 und 64 für die Passwortlänge ein
+                    </div>
+                    <div class="form-group">
+                        <label for="generatePwLength" class="col-sm-4 control-label">Passwortlänge</label>
+                        <div class="col-sm-8">
+                            <input type="number" min="8" max="64" value="12" step="1" class="form-control input-inline input-inline-100" id="inputGeneratePasswordLength">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="generatePwOutput" class="col-sm-4 control-label">Generiertes Passwort</label>
+                        <div class="col-sm-8">
+                            <input type="text" class="form-control" id="inputGeneratePasswordOutput">
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-sm-8 col-sm-offset-4">
+                            <button type="submit" class="btn btn-default btn-sm">
+                                <i class="fas fa-plus fa-fw"></i>
+                                Neues Passwort generieren
+                            </button>
+                            <button type="button" class="btn btn-default btn-sm copy-to-clipboard" data-clipboard-target="#inputGeneratePasswordOutput">
+                                <img src="/assets/img/clippy.svg" alt="Copy to clipboard" width="15">
+                                Kopieren
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">
+                        Schließen
+                    </button>
+                    <button type="button" class="btn btn-primary" id="btnGeneratePasswordInsert" data-clipboard-target="#inputGeneratePasswordOutput">
+                        In die Zwischenablage kopieren und einfügen
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+</form>
+
+<script type='text/javascript'>
+// override error message due to abortsend used in EmailPreSend
+$('#btnResendVerificationEmail').click(() => {
+    $.ajaxSetup({
+        global: false,
+        complete: () =>  {
+            $('#btnResendVerificationEmail').html('Email Sent');
+        }
+    });
+});</script>
+<div class="cookie_law" id="cookie_law">Wir verwenden Cookies, um sicherzustellen, dass wir Ihnen die beste Erfahrung auf unserer Website bieten. Wenn Sie fortfahren, ohne Ihre Einstellungen zu ändern, gehen wir davon aus, dass Sie mit dem Erhalt aller Cookies von dieser Website einverstanden sind. Wenn Sie Ihre Einstellungen ändern möchten, können Sie dies tun, indem Sie den Anweisungen hier folgen <a href="privacy.php">here</a><br/><br/><a href="#" id="accept-cookies">Alles klar, verstanden!</a><div class="cookie_law_close" id="cookie_law_close">
+        <i class="fa fa-times" aria-hidden="true"></i>
+    </div>
+</div>
+<script type="text/javascript">
+// EU Cookie Law compliance
+var cookie = $("#cookie_law");
+// Show the dialog
+cookie.show();
+
+// When the user clicks close we set a cookie for 3000 days and only display the dialog again if the cookie is removed
+$(document).on("click", "#cookie_law_close", function () {
+    var exdate=new Date()
+    exdate.setDate(exdate.getDate()+3000)
+    document.cookie="cookie_law"+ "=1;path=/;expires="+exdate.toUTCString();
+    cookie.hide();
+});
+$(document).on("click", "#accept-cookies", function () {
+    var exdate=new Date()
+    exdate.setDate(exdate.getDate()+3000)
+    document.cookie="cookie_law"+ "=1;path=/;expires="+exdate.toUTCString();
+    cookie.hide();
+});
+</script>
+
+
+
+<!--Start of Tawk.to Script-->
+<script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/58127f62c7829d0cd36c88a9/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script>
+<!--End of Tawk.to Script-->
+
+
+</body>
+</html>

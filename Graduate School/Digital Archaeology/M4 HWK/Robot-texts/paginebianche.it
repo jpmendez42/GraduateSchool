@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: /deu/
+Disallow: /inmemoria/
+Disallow: *qs=*
+Disallow: *dv=*
+Disallow: *sede=*
+Disallow: *pref=*
+Disallow: *cap=*
+Disallow: /index_*.html
+Disallow: /ricerca?
+Disallow: /ricerca-mappa?
+Disallow: /persone?
+Disallow: /mappa-persone?
+Disallow: /aziende?
+Disallow: /mappa-aziende?
+Disallow: /numeri-verdi?
+Disallow: /contents/it
+Disallow: /social/paginebianche/toolbar?
+Disallow: /box-scheda-others?
+
+User-agent: Yandexbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+ 
+User-agent: dotbot/1.0
+Disallow: /
+ 
+User-agent: MegaIndex.ru
+Disallow: /
+ 
+User-agent: OAI-SearchBot
+Allow: /ricerca?
+Allow: /ricerca-mappa?
+Allow: /aziende?
+Allow: /mappa-aziende?
+
+Sitemap: https://www.paginebianche.it/sitemap.xml
+Sitemap: https://www.paginebianche.it/sitemap_fe.xml

@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: https://manager.guokeyun.com/user/login
+Disallow: https://dc.guokeyun.com/login
+Disallow: https://manager.guokeyun.com/subLogin
+Disallow: https://cloud.guokeyun.com/
+Sitemap: https://www.guokeyun.com/sitemap.xml
+Sitemap: https://www.guokeyun.com/sitemap.txt

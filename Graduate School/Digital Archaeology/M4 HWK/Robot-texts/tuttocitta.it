@@ -1,0 +1,36 @@
+# START nuxt-simple-robots (indexable)
+User-agent: *
+Disallow: /*cx=
+Disallow: /*what=
+Disallow: /servizi/
+Disallow: /mappa-search
+Disallow: /percorso-search
+Disallow: /attivita
+
+User-agent: Yandexbot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: dotbot/1.0
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /*cx=
+Allow: /*what=
+Allow: /servizi/
+Allow: /mappa-search
+Allow: /percorso-search
+
+Sitemap: https://www.tuttocitta.it/sitemap.xml
+# END nuxt-simple-robots

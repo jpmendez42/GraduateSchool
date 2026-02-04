@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /*zglos-naruszenie.html
+Disallow: /*odpowiedz.html
+Disallow: /*komentuj.html
+Disallow: /*?fb_*
+Disallow: /*dodaj-watek.html
+Disallow: /*watek-odpowiedz.html
+Disallow: /*odpowiedz-cytuj.html
+Disallow: /*td-naruszenie-zasad.html
+
+Allow: /
+
+Sitemap: https://ocdn.eu/websitesworkflow/qWeeF1563179168620/sitemap-service-nodes-index.xml.gz
+Sitemap: https://ocdn.eu/websitesworkflow/qWeeF1563179168620/sitemap-stories-by-month-index.xml.gz
+Sitemap: https://www.egeszsegkalauz.hu/sitemap-authors
+Sitemap: https://www.egeszsegkalauz.hu/sitemap-google-taxonomy
+Sitemap: https://www.egeszsegkalauz.hu/sitemap-stories-latest
+Sitemap: https://www.egeszsegkalauz.hu/sitemap-google-nodes
+Sitemap: https://www.egeszsegkalauz.hu/sitemap-google-news
+Sitemap: https://www.egeszsegkalauz.hu/sitemap-gyogyszertarak.xml
+Sitemap: https://www.egeszsegkalauz.hu/sitemap
+Sitemap: https://www.egeszsegkalauz.hu/rss

@@ -1,0 +1,20 @@
+
+User-agent: MFHttpScan
+Disallow: /
+
+User-agent: NewspointBot
+Disallow: /
+
+User-agent: netsprint
+Disallow: /
+
+User-agent: *
+Disallow: /test
+Disallow: /search
+
+
+User-agent: *
+Crawl-delay: 10
+
+Sitemap: https://www.wetter.at/sitemap-article.xml
+Sitemap: https://www.wetter.at/sitemap-weatherlocation.xml

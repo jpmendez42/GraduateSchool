@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /m2/
+Disallow: /l2/
+Disallow: /viewqc/
+Disallow: /clickqc/
+Disallow: /iclickqc/
+Disallow: /iframeqc/
+Disallow: /ajax/
+Disallow: /api/
+Disallow: /wg/
+Disallow: /interaction/
+Sitemap: https://www.nhaccuatui.com/sitemap/sitemap_index.xml

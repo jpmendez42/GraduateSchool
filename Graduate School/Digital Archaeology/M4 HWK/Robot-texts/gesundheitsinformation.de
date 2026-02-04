@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /*.atom.xml$
+Disallow: /*.inc.html$
+Disallow: /suche/*
+Disallow: /search/*
+Disallow: /mwf_live/*

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /fileadmin/
+Disallow: /cms/
+Disallow: /rechtstexte/*.pdf
+Disallow: /*.*.*.html
+
+Sitemap: https://www.it-recht-kanzlei.de/sitemap.xml
+Sitemap: https://www.it-recht-kanzlei.de/sitemap_lp_xml.php

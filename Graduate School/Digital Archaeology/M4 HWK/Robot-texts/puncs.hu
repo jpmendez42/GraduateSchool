@@ -1,0 +1,15 @@
+User-agent: *
+Sitemap: http://www.puncs.hu/sitemap.xml
+Allow: /
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /controllers/
+Disallow: /dictionaries/
+Disallow: /helpers/
+Disallow: /models/
+Disallow: /plugins/
+Disallow: /temp/
+Disallow: /templates/
+Disallow: /autoloader.php
+Disallow: /channel.html
+Disallow: /config.php

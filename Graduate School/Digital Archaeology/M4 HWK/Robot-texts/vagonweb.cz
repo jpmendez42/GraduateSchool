@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /fotogalerie/foto/
+Disallow: /popisy/mista/vuz.php
+Disallow: /razeni/vlak_s
+Disallow: /razeni/vlak.php?id=
+Disallow: /*scifi
+Disallow: /*&s=
+Disallow: /*&vuz=
+Disallow: /*&cislo_vozu=
+Disallow: /*&relace=
+Disallow: /*&styl=
+Disallow: /*&najit=
+Disallow: /*admin
+Disallow: /*wiki
+Disallow: /*ajax
+Disallow: /*json
+Crawl-delay: 20

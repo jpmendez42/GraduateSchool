@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="/assets/bootstrap/3.3.5/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" href="/assets/css/u/whocares.css">
+
+<title>WHOCARES? - 無料レンタル掲示板、チャット</title>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+    <script src="/assets/js/html5shiv.min.js"></script>
+    <script src="/assets/js/respond.min.js"></script>
+    <![endif]-->
+
+  </head>
+
+  <body>
+  <header class="navbar navbar-default navbar-static-top" role="banner">
+  <div class="container">
+    <div class="navbar-header">
+      <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Whocares?</a>
+    </div>
+    <nav class="collapse navbar-collapse" role="navigation">
+      <ul class="nav navbar-nav">
+        <li id="navbar-home"><a href="/">HOME</a></li>
+        <li id="navbar-chatx"><a href="/chatx.jsp">チャットx</a></li>
+        <li id="navbar-mbb"><a href="/mbb.jsp">掲示板(M)</a></li>
+        <li id="navbar-misc"><a href="/news.jsp">サポート</a></li>
+      </ul>
+</nav>
+  </div>
+</header>
+
+<div class="container">
+    <div class="row">
+<div class="col-sm-3" id="leftCol">
+        <div>
+  <ul class="nav nav-stacked well" id="sidebar">
+
+<li id="sidebar-home-home"><a href="/">HOME</a></li>
+    <li id="sidebar-home-chatx"><a href="/chatx.jsp">レンタルチャット</a></li>
+    <li id="sidebar-home-mbb"><a href="/mbb.jsp">レンタル掲示板</a></li>
+  </ul>
+</div>
+
+</div>  
+
+      <div class="col-sm-9">
+        <div class="bs-docs-section">
+<h2>ようこそ</h2>
+<p>Whocares?（フーケアーズ）では独自開発の<a href="/mbb.jsp">レンタル掲示板</a>、<a href="/chatx.jsp">レンタルチャット</a>等のサービスを提供しています。CGIに関する知識が無くても簡単に掲示板やチャットを設置できます。</p>
+<p>当サイトで提供されているサービスは全て無料です。</p>
+</div>
+
+<div class="row">
+  <div class="col-sm-12">
+
+<div class="panel panel-default">
+      <div class="panel-heading">お知らせ</div>
+      <div class="panel-body"> 
+<!--googleoff: all-->
+<dl class="news">
+<dt>2025/04/21 メールサーバー障害</dt>
+    <dd><div>
+        
+<p>2025/04/19 - 2025/04/21 メールサーバー障害によりメールに遅延が発生しておりました。誠に申し訳ございません。</p>
+        
+        </div></dd>
+  <dt>2024/04/10 mb2障害</dt>
+    <dd><div>
+        
+<p>2024/04/10 16:06 - 2024/04/10 16:13 障害によりご利用いただけない状況でした。誠に申し訳ございません。</p>
+        
+        </div></dd>
+  </dl>
+<!--googleon: all-->
+<p class="text-right"><a href="https://twitter.com/whocares_jp" target="_blank">@whocares_jp</a>｜<a href="/news.jsp">&raquo; 詳細＆全て</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+  </div><!-- row -->
+  </div><!-- container -->
+
+  <footer class="footer">
+    <p>&copy; 2025&nbsp;<a href="/">whocares.jp</a>
+</p>
+</footer>
+
+  <script src="/assets/js/jquery-1.11.3.min.js"></script>
+    <script src="/assets/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+
+<!--[if IE]>
+    <script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+<![endif]-->
+
+    <script src="/assets/js/jquery.lazyload.min.js"></script>
+    <script src="/assets/js/readmore.min.js"></script>
+    <script src="/assets/js/u/whocares.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $("#navbar-home").addClass("active");
+
+    $("#sidebar-home-home").addClass("active");
+
+  });
+  </script>
+  <script>
+$('dl.news > dd > div').readmore({
+  speed: 75,
+  moreLink: '<a href="#">続きを読む &rsaquo;</a>',
+  lessLink: null
+});
+</script></body>
+</html>
+

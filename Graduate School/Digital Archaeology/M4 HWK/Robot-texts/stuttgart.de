@@ -1,0 +1,10 @@
+Sitemap: https://www.stuttgart.de/index.php?sp%3Aout=sitemap
+
+User-Agent: *
+Allow: /
+Disallow: /medien/noindex/*
+Disallow: /kategorien/branchen/*
+Disallow: /medien/bilder/sp-test-750x750_Coronavirus_Startseite.jpg
+Disallow: /medien/bilder/750x750px_Ukraine_Banner_Startseite.jpg
+Disallow: /buergerinnen-und-buerger/migranten/erdbebenhilfe-fuer-tuerkei-und-syrien/index.php.media/348573/GettyImages-628411278-PeterHermesFurian-bea.jpg.scaled/d9ca51f63d822f1fccf6003d31fe05c7.jpg
+

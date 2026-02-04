@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /suche*
+Disallow: /dam/doc/swm-rathaus-newsletter*
+Disallow: /*utm_source=ziprecruiter*
+Disallow: /*;jsessionid=*
+Disallow: /*searchCriteria*
+Disallow: /lhm.muenchen.swm.de/dam/*
+Disallow: /*timeslot_id/*
+Disallow: /*select_timeslot/*
+Sitemap: https://www.swm.de/sitemap.xml

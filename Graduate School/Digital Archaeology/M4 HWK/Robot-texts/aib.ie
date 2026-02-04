@@ -1,0 +1,47 @@
+Sitemap: https://aib.ie/sitemap.xml
+Sitemap: https://aib.ie/privatebanking/sitemap.xml
+Sitemap: https://aib.ie/investorrelations/sitemap.xml
+Sitemap: https://aib.ie/corporate/sitemap.xml
+Sitemap: https://aib.ie/business/sitemap.xml
+
+User-agent: *
+
+Allow: /
+
+Disallow: /etc/clientlibs/
+
+Disallow: /etc/designs/
+
+Disallow: /content/dam/aib/personal/images/
+
+Disallow: /servlet/
+
+Disallow: /*_jcr_content/
+
+Disallow: /*jcr:content/
+
+Disallow: /etc.clientlibs/
+
+Disallow: /content/dam/frontdoor/business/docs/products/current-accounts/specimen-signature-form.pdf
+
+Disallow: /content/dam/frontdoor/business/docs/products/current-accounts/specimen-signature-form-st.pdf
+
+Disallow: /content/dam/frontdoor/business/docs/products/current-accounts/companyspecimensignature-centralaccountopening.pdf
+
+Disallow: /our-products/loans/t309
+
+Disallow: /content/aib/personal/our-products/loans/t309
+
+Disallow: /help-and-guidance/need-extra-help/accessibility/ukraine
+
+Disallow: /content/dam/aib/group/Docs/Press Releases/2022/aib-response-to-russian-invasion-of-ukraine.pdf
+
+Disallow: /business/sbci
+
+Disallow: /business/sbci/ukraine-credit-guarantee
+
+Disallow: /business/sbci/lending-enquiry-form
+
+Disallow: /business/sbci/ukraine-credit-guarantee/eligibility-criteria
+
+Disallow: /content/dam/aib/personal/docs/help-and-guidance/aib-ukrainian-account-opening-guide.pdf

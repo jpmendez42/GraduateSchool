@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /en/
+Disallow: /cp/
+Disallow: /bedankt/
+Disallow: /wp-admin/
+Disallow: /blog/jet-menu/*
+Disallow: /blog/category/
+Disallow: /blog/tag/
+Disallow: /blog/page/
+Disallow: /blog/2016/
+Disallow: /blog/2017/
+Disallow: /blog/2018/
+Disallow: /blog/2019/
+Disallow: /blog/2020/
+Disallow: /blog/2021/
+Disallow: /blog/2022/
+Disallow: /blog/2023/
+Disallow: /blog/2024/
+Disallow: /blog/2025/
+
+Sitemap: https://www.hoasted.com/sitemap.xml

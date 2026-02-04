@@ -1,0 +1,11 @@
+User-agent: PerplexityBot
+Crawl-delay: 10
+
+User-agent: *
+Disallow: /Entra/Admin
+Disallow: /Entra/Engine/JS
+Disallow: */CalM/
+Disallow: */CalDate/*
+Disallow: */C/*
+Allow: /
+Crawl-delay: 10

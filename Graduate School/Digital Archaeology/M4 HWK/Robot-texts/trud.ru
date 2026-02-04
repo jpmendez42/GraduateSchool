@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /ad/
+Disallow: /admin/
+Disallow: /application/
+Disallow: /backup/
+Disallow: /library/
+Disallow: /tmp/
+Disallow: /calendar.php
+Disallow: /q.php
+Disallow: *comments
+Sitemap: http://www.trud.ru/sitemap.xml
+
+User-Agent: Yandex
+Clean-param: utm_campaign&utm_medium&utm_source&utm_term&search&q
+Disallow: /ad/
+Disallow: /admin/
+Disallow: /application/
+Disallow: /backup/
+Disallow: /library/
+Disallow: /article/15-06-2002/41932*
+Disallow: /tmp/
+Disallow: /calendar.php
+Disallow: /q.php
+Disallow: *comments
+Disallow: *query
+Sitemap: http://www.trud.ru/sitemap.xml
+Host: www.trud.ru

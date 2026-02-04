@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Allow: /
+Disallow: /*.pdf
+Disallow: /*.swf
+Disallow: /*.doc
+Disallow: /wp-json/
+Disallow: /feed/
+Disallow: */feed/
+
+Sitemap: https://www.trans.eu/sitemap.xml

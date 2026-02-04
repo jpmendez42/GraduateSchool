@@ -1,0 +1,75 @@
+Sitemap: https://night.jp/sitemap.xml
+
+# User-agent: GPTBot
+# Disallow: /
+User-agent: Amazonbot
+Disallow: /
+# User-Agent: Googlebot-Image
+# Disallow: /
+User-agent: ia_archiver
+Disallow: /
+User-agent: archive.org_bot
+Disallow: /
+User-agent: Megalodon
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+User-agent: BLEXBot
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: FeedWordPress
+Disallow: /
+User-agent: NerdyBot
+Disallow: /
+User-agent: DomainCrawler
+Disallow: /
+User-agent: GrapeshotCrawler
+Disallow: /
+User-agent: Mappy
+Disallow: /
+User-agent: MauiBot
+Disallow: /
+User-agent: MegaIndex
+Disallow: /
+User-agent: MJ12bot
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: YandexAntivirus
+Disallow: /
+User-agent: YandexBot
+Disallow: /
+User-agent: YandexImages
+Disallow: /
+User-agent: FeedWordPress
+Disallow: /
+
+User-agent: msnbot
+Crawl-delay: 3600
+
+User-agent: bingbot
+Crawl-delay: 3600
+
+User-agent: ClaudeBot
+Crawl-delay: 3600
+
+User-agent: Claude-SearchBot
+Crawl-delay: 3600
+
+User-agent: *
+Disallow: /kanri.cgi
+Disallow: /webmaker.cgi
+Disallow: /iwebmaker.cgi
+Disallow: /today.cgi
+Disallow: /search.cgi
+Disallow: /i/edit/
+Disallow: /adv/
+Disallow: /info/
+Disallow: /mag/
+Disallow: /skin/
+Disallow: /tool/
+Disallow: /tool2/
+Disallow: /track/
+Disallow: /jump.php
+

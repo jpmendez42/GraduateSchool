@@ -1,0 +1,6 @@
+﻿User-agent: *
+Allow: /
+Sitemap: https://phunuvietnam.vn/sitemaps/index.rss
+Sitemap: https://phunuvietnam.vn/sitemaps/googlenews.ashx
+Disallow: /tim-kiem.htm
+Disallow: /print/

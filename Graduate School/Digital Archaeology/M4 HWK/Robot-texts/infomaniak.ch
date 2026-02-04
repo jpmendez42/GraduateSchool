@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 1
+Sitemap: https://www.infomaniak.com/sitemap.xml
+Disallow: /fr/etat-reseau
+Disallow: /en/network-status
+Disallow: /de/netzwerkstatus
+Disallow: /it/stato-rete
+Disallow: /es/estado-red
+Disallow: /ip

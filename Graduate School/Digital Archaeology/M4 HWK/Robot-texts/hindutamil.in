@@ -1,0 +1,17 @@
+User-agent: *
+
+Disallow: /ajax/ 
+Disallow: /user/ 
+Disallow: /auth/ 
+Disallow: /admin/
+Disallow: /cron/
+Disallow: /subscriptions/
+Disallow: /comments/
+Disallow: /api/
+Disallow: /pwa/
+Disallow: /templates/
+Disallow: /AdPreview/
+Disallow: /AdChecker/
+
+Sitemap: https://www.hindutamil.in/feed/sitemap.xml
+Sitemap: https://www.hindutamil.in/sitemap.xml 

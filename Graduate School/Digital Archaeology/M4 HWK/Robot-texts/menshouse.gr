@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-admins*
+Disallow: /search
+Disallow: /?s=*
+
+Sitemap: https://menshouse.gr/sitemap_index.xml
+Sitemap: https://menshouse.gr/googlenews.xml

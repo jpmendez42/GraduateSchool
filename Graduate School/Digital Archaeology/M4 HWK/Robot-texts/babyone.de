@@ -1,0 +1,37 @@
+User-agent: AdsBot-Google
+Allow: /account/register
+Disallow: /account
+Disallow: /checkout
+Disallow: /reservation
+Disallow: /boc/willkommen
+
+User-agent: AdsBot-Google-Mobile
+Allow: /account/register
+Disallow: /account
+Disallow: /checkout
+Disallow: /reservation
+Disallow: /boc/willkommen
+
+User-agent: Storebot-Google
+Allow: /account/register
+Disallow: /account
+Disallow: /checkout
+Disallow: /reservation
+Disallow: /boc/willkommen
+
+User-agent: *
+Allow: /account/register
+Disallow: /account
+Disallow: /reservation
+Disallow: /suggest
+Disallow: /*?search
+Allow: /Fachmarkt?StoreID=
+Disallow: /BabyOne-Card-DOI
+Disallow: /boc/willkommen
+Disallow: /meine-babyonecard
+Disallow: /daily-visit-count/
+
+user-agent: Pinterestbot
+Crawl-delay: 0.5
+
+Sitemap: https://www.babyone.de/sitemap.xml

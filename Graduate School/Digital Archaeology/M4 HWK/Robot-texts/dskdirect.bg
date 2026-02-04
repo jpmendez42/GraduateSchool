@@ -1,0 +1,4 @@
+
+# Disallowing web crawlers except for homepage.
+User-agent: *
+Allow: /$

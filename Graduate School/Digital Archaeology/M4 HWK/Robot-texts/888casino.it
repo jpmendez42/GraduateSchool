@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /blog/user/login
+Disallow: /banners/
+Disallow: /blog/themes/
+Disallow: /my_account/
+Disallow: /configs/
+Disallow: /ads.txt/
+Disallow: /cgpapi/
+
+Sitemap: https://sitemap.888.com/casino/888casino-IT.xml

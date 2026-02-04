@@ -1,0 +1,10 @@
+User-agent: *
+
+Disallow:/admin/
+Disallow:/search?
+
+Sitemap: https://www.bella.tw/sitemap_articles.xml
+Sitemap: https://www.bella.tw/sitemap.xml
+Sitemap: https://www.bella.tw/sitemap2.xml
+Sitemap: https://www.bella.tw/articles/Feed-Google
+Sitemap: https://www.bella.tw/topic-sitemap.xml

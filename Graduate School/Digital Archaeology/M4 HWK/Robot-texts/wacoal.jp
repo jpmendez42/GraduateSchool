@@ -1,0 +1,33 @@
+User-agent:*
+Disallow:/bin/
+#20140117edit
+Disallow:/cgi-bin/news/*?IncludeBlogs=12*
+Disallow:/cgi-bin/news/*?IncludeBlogs=14*
+Disallow:/cgi-bin/news/*?IncludeBlogs=41*
+Disallow:/cgi-bin/news/*?IncludeBlogs=43*
+Disallow:/cgi-bin/news/*?IncludeBlogs=44*
+Disallow:/cgi-bin/news/*?IncludeBlogs=50*
+Disallow:/cgi-bin/news/*?IncludeBlogs=58*
+Disallow:/cgi-bin/news/*?IncludeBlogs=60*
+
+#20201126edit
+Disallow:/top/product/
+
+#20190523edit
+#Disallow:/girlsbody/oyanavi/index.html
+Sitemap:http://www.wacoal.jp/sitemaps.xml
+Sitemap:http://www.wacoal.jp/pw/sitemap.xml
+Sitemap:http://www.wacoal.jp/news/newsrelease/sitemap.xml
+Sitemap:http://www.wacoal.jp/news/topics/sitemap.xml
+Sitemap:http://www.wacoal.jp/news/media/sitemap.xml
+Sitemap:http://www.wacoal.jp/news/movie/sitemap.xml
+Sitemap:http://www.wacoal.jp/brapan/sitemap.xml
+
+#2020/12/23 wacoal_service
+Disallow:/w_service/
+
+#2025/06/02 ClaudeBot Crawl-delay
+User-agent: ClaudeBot
+Crawl-delay: 3
+
+

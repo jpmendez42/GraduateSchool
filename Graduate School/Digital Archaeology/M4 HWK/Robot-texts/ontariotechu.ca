@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /_files/
+Disallow: /_includes/
+Disallow: /ac-calendar/
+Disallow: /apps/
+Disallow: /appfeed/
+Disallow: /evite/
+Disallow: /global/
+Disallow: /forms/BACKUP/
+Disallow: /forms/online/
+Disallow: /mobile/services/
+Disallow: /mobile/services_app/
+Disallow: /payment_gateways/
+Disallow: /sandbox/
+Disallow: /static/
+Disallow: /weekly/
+Disallow: /weeklyreport/
+
+User-agent: SEMrushBot
+Disallow: /

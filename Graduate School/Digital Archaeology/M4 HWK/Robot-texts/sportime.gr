@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: *?s=*
+Allow: /wp-admin/admin-ajax.php
+Allow: /wp-content/uploads/
+
+Sitemap: https://www.sportime.gr/sitemap_index.xml
+Sitemap: https://www.sportime.gr/news-sitemap.xml
+Sitemap: https://www.sportime.gr/news.xml

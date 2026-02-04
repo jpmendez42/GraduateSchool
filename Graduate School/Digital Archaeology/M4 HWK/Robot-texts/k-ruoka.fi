@@ -1,0 +1,19 @@
+User-agent: *
+
+Disallow: /*?*haku=
+Disallow: /*?*suodata=
+Disallow: /*?*q=
+Disallow: /artikkelit/*?*tuote=
+Disallow: /reseptit/*?*tuote=
+Disallow: /*?*play=
+Disallow: /*?*utm_source=
+Disallow: /*?*utm_medium=
+Disallow: /*?*utm_content=
+Disallow: /*?*gclid=
+Disallow: /*?*gclsrc=
+Disallow: /*?*fbclid=
+Disallow: /*?*qt-1=
+Disallow: /*?*qt-2=
+Disallow: /*?*qt-3=
+
+Sitemap: https://www.k-ruoka.fi/sitemap-https.xml

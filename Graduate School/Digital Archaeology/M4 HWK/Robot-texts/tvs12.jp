@@ -1,0 +1,1334 @@
+
+<!DOCTYPE html>
+<html lang="ja"><!-- InstanceBegin template="/Templates/index.dwt" codeOutsideHTMLIsLocked="false" -->
+	<head>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-W98QVXBJ');</script>
+		<!-- End Google Tag Manager -->
+		<meta charset="UTF-8">
+		<title>テレビ佐世保</title>
+	
+        <meta name="description" content="テレビ佐世保（TVS）の公式サイトです。佐々地区、佐世保北部地区、佐世保中部地区、佐世保南部地区で、ケーブルテレビ、インターネット、固定電話のサービスを提供しています。">
+    
+		<!-- ビューポート -->
+		<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+		<!-- 電話番号リンク自動付与を切る -->
+		<meta name="format-detection" content="telephone=no">
+        <!-- アイコン設定 -->
+		<link rel="icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<!-- OGP設定 -->
+		<meta property="og:url" content="https://tvs12.jp/">
+		<meta property="og:type" content="website">
+		<meta property="og:title" content="テレビ佐世保">
+	
+		<meta property="og:description" content="テレビ佐世保（TVS）の公式サイトです。佐々地区、佐世保北部地区、佐世保中部地区、佐世保南部地区で、ケーブルテレビ、インターネット、固定電話のサービスを提供しています。">
+    
+		<meta property="og:site_name" content="テレビ佐世保">
+		<meta property="og:image" content="https://tvs12.jp/images/ogp.png">
+		<!--共通リソース-->
+        <link href="/style.css" rel="stylesheet">
+        <script src="/js/common.js"></script>
+        <script src="/js/easing.js"></script>
+        <script src="/js/smoothScroll.js"></script>
+    
+    	<script src="/js/splide.min.js"></script>
+    	<link rel="stylesheet" href="/css/splide.css" />
+	
+    
+		<!-- InstanceEndEditable -->
+		<!--↑ページ固有リソース：head-->
+	</head>
+	<body class="l-body t-top t-default p-top">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W98QVXBJ"
+		height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
+		<div class="l-body__inner">
+			<!-- ↓ページ固有 リソース・要素等：headerより上-->
+			<!-- InstanceBeginEditable name="header_upper" -->
+
+		
+			<!-- 装飾 -->
+            <img class="p-top-deco-sitename" src="/images/top/top_deco__sitename.svg" alt="装飾画像">
+    	
+
+			<!-- InstanceEndEditable -->
+			<!-- ↑最上部配置：ページ固有 リソース・要素等-->
+
+			<!--↓：ヘッダー-->
+			<header class="l-header js-stickyHeader">
+				<!-- 　ヘッダー：H1／サイトロゴ -->
+				<div class="l-header-siteLogo">
+					<h1 class="l-header-siteLogo__logo">
+						<a href="/" class="c-img-sitelogo">テレビ佐世保</a>
+					</h1>
+            
+					<!-- ※　↓↓↓　トップのみ　↓↓↓ -->
+					<div class="l-header-siteLogo__tottarukun">
+						<span class="c-img-tottarukun--standard">テレビ佐世保</span>
+					</div>
+					<div class="l-header-siteLogo__link">
+                    	<a href="/support/area.html">エリア情報はこちら</a>
+					</div>
+					<!-- 　　↑↑↑　トップのみ　↑↑↑ -->
+            
+				</div>
+			
+				<!-- ※　↓↓↓　トップのみ　↓↓↓ -->
+				<!-- ヘッダー：ピックアップメニュー：PC／トップのみ -->
+				<nav class="l-header-pickupLink">
+					<div class="l-header-pickupLink__item">
+                    	<a class="l-header-pickupLink__link--start" href="/support/beginner.html">
+							はじめての方へ
+						</a>
+					</div>
+					<div class="l-header-pickupLink__item">
+						<a class="l-header-pickupLink__link--login" href="https://sweb.tvs12.jp/qtc-tvs/ja/user" target="_blank">
+							ユーザーログイン
+						</a>
+					</div>
+					<div class="l-header-pickupLink__item">
+						<a class="l-header-pickupLink__link--webmail" href="https://webmail.tvs12.jp/am_bin/amlogin" target="_blank">
+							Webメール
+						</a>
+					</div>
+				</nav>
+				<!-- 　　↑↑↑　トップのみ　↑↑↑ -->
+        	
+				<!-- ヘッダー：ショートカットメニュー：2階層目／固定時／PCのみ -->
+				<nav class="l-fixedMenu">
+					<ul class="l-fixedMenu__list">
+						<li class="l-fixedMenu__item">
+                        	<a class="l-fixedMenu__link--start" href="/support/beginner.html">はじめて</a>
+						</li>
+						<li class="l-fixedMenu__item">
+                        	<a class="l-fixedMenu__link--user" href="/support/user.html">ご利用中</a>
+						</li>
+						<li class="l-fixedMenu__item">
+                        	<a class="l-fixedMenu__link--tv" href="/catv/">テレビ</a>
+						</li>
+						<li class="l-fixedMenu__item">
+                        	<a class="l-fixedMenu__link--internet" href="/internet/">ネット</a>
+						</li>
+						<li class="l-fixedMenu__item">
+                        	<a class="l-fixedMenu__link--tel" href="/telephone/">電話</a>
+						</li>
+                    	<li class="l-fixedMenu__item">
+                        <a class="l-fixedMenu__link--smartPhone" href="/cablesmp/">スマホ</a>
+						</li>
+						<li class="l-fixedMenu__item">
+                        	<a class="l-fixedMenu__link--benri" href="/service/">便利</a>
+						</li>
+					</ul>
+				</nav>
+            
+				<!-- ヘッダー：ショートカットメニュー：2階層目／固定時／PCのみ -->
+				<nav class="l-fixedContact">
+					<div class="l-fixedContact__inner">
+						<a class="l-fixedContact__contactLink" href="/form/entry/" title="いますぐお申込み" style="overflow: hidden;">
+							<span class="l-fixedContact__contactLink__inner">いますぐお申込み</span>
+						</a>
+					</div>
+				</nav>
+            
+            
+				<!-- ヘッダー：UIボタン -->
+				<div class="l-header-ui">
+					<div class="l-header-ui__item">
+						<!--料金シミュレーション-->
+                    	<a class="l-header-ui__btn--calc" href="/simulation/" title="料金シミュレーション"></a>
+					</div>
+					<div class="l-header-ui__item">
+						<span class="l-header-ui__btn--search js-fixedSideMenu-btn" data-label="search" title="サイト内検索">
+							<span class="o-burgerBtn__icon">
+								<span></span>
+								<span></span>
+								<span></span>
+							</span>
+						</span>
+
+					</div>
+					<div class="l-header-ui__item">
+						<span class="l-header-ui__btn--gmenu o-burgerBtn js-fixedSideMenu-btn" data-label="gmenu" title="グローバルメニュー">
+							<span class="o-burgerBtn__icon">
+								<span></span>
+								<span></span>
+								<span></span>
+							</span>
+						</span>
+					</div>
+
+					<!-- グローバルメニュー -->
+					<nav class="l-gmenu js-fixedSideMenu" data-label="gmenu">
+						<span class="o-burgerBtn js-fixedSideMenu-btn" title="グローバルメニュー" data-label="gmenu">
+							<span class="o-burgerBtn__icon">
+								<span></span>
+								<span></span>
+								<span></span>
+							</span>
+						</span>
+						<div class="l-gmenu__inner js-fixedSideMenu__inner">
+							<ul class="l-gmenu-list">
+								<li class="l-gmenu-list__item">
+                                	<a class="c-linkChara" href="/form/entry/" title="いますぐお申込み" style="overflow: hidden;">
+										<span class="c-linkChara__inner" style="overflow: hidden;">いますぐお申込み</span>
+									</a>
+								</li>
+								<li class="l-gmenu-list__item">
+                                	<a class="c-linkBtn-fill--white" href="/simulation/">
+										<span class="c-linkBtn-fill__icon--left"
+											style="background-image:url(/images/icon_blue/icon_simulation.svg);"></span>
+										シミュレーション
+									</a>
+								</li>
+								<li class="l-gmenu-list__item">
+									<a href="/catv/" class="l-gmenu-list__link--tv">テレビ</a>
+								</li>
+								<li class="l-gmenu-list__item">
+									<a href="/internet/" class="l-gmenu-list__link--internet">インターネット</a>
+								</li>
+								<li class="l-gmenu-list__item"> 
+									<a href="/telephone/" class="l-gmenu-list__link--tel">電話</a>
+								</li>
+								<li class="l-gmenu-list__item">
+									<a href="/cablesmp/" class="l-gmenu-list__link--smartPhone">スマホ</a>
+								</li>
+								<li class="l-gmenu-list__item">
+									<a href="/service/" class="l-gmenu-list__link--benri">便利なサービス</a>
+								</li>
+								<li class="l-gmenu-list__item">
+									<a href="/support/" class="l-gmenu-list__link--support">お客さまサポート</a>
+								</li>
+								<li class="l-gmenu-list__item">
+									<a href="/form/contact/" class="l-gmenu-list__link--contact">お問い合わせ</a>
+								</li>
+								<li class="l-gmenu-list__item">
+                                	<a class="c-linkBtn-fill--white" href="/support/beginner.html">
+										<span class="c-linkBtn-fill__icon--left"
+											style="background-image:url(/images/icon_menu/icon_beginner.svg);"></span>
+										はじめての方へ
+									</a>
+								</li>
+								<li class="l-gmenu-list__item">
+                                	<a class="c-linkBtn-fill--white" href="/support/user.html">
+										<span class="c-linkBtn-fill__icon--left"
+                                    		style="background-image:url(/images/icon_menu/icon_user.svg);"></span>
+										ご利用中の方へ
+									</a>
+									<ul class="l-gmenu-childList">
+										<li class="l-gmenu-childList__item">
+											<a  href="https://sweb.tvs12.jp/qtc-tvs/ja/user" class="l-gmenu-childList__link" target="_blank">ユーザーログイン</a>
+										</li>
+										<li class="l-gmenu-childList__item">
+											<a href="https://webmail.tvs12.jp/am_bin/amlogin" class="l-gmenu-childList__link" target="_blank">Webメール</a>
+										</li>
+										<li class="l-gmenu-childList__item">
+											<a href="https://sweb.tvs12.jp/qtc-tvs/ja/mail" class="l-gmenu-childList__link" target="_blank">メールログイン</a>
+										</li>
+									</ul>
+								</li>
+							</ul>
+						</div>
+					</nav>
+					<!-- グローバル：サイト内検索 -->
+					<div class="l-search js-fixedSideMenu" data-label="search">
+						<span class="o-burgerBtn js-fixedSideMenu-btn" title="閉じる" data-label="search">
+							<span class="o-burgerBtn__icon">
+								<span></span>
+								<span></span>
+								<span></span>
+							</span>
+						</span>
+						<div class="l-search__inner js-fixedSideMenu__inner">
+							<form class="l-search-form" method="get" action="/search/#search_results">
+								<div class="l-search-form__midashi">
+									<h2>サイト内検索</h2>
+								</div>
+								<div class="l-search-form__input">
+									<input name="search" type="search" placeholder="キーワード検索">
+								</div>
+								<div class="l-search-form__send">
+									<button class="c-form-searchBtn" type="submit">検索する</button>
+								</div>
+							</form>
+						</div>
+					</div>
+				</div>
+			
+            
+			</header>
+			<!--↑：ヘッダー　//ここまで-->
+
+
+             
+                
+
+
+
+				<!-- ↓↓↓トップページ：キービジュアル -->
+				<div class="p-top-keyVisual">
+					<!-- トップページ：キービジュアル > スライドショー -->
+					<div class="splide js-top-keyVisual">
+						<div class="splide__track">
+							<div class="splide__list">
+						
+                            
+						
+								<div class="splide__slide">
+									<span>
+										<img src="https://tvs12.jp/asset/top__keyvisual_image.png" alt="メインビジュアル">
+									</span>
+								</div>
+                       
+                        
+                            
+						 
+								<div class="splide__slide">
+									<a href="https://lin.ee/KKUhkKh" target="_blank">
+										<img src="https://tvs12.jp/asset/line_tomodachi.png" alt="テレビ佐世保公式LINEはじめました！">
+									</a>
+								</div>
+						
+                        
+                            
+						
+								<div class="splide__slide">
+									<a href="https://tvs12.jp/catv/">
+										<img src="https://tvs12.jp/asset/top__keyvisual_spotin.png" alt="スポットインサセボ">
+									</a>
+								</div>
+						
+                        
+                            
+						
+								<div class="splide__slide">
+									<a href="https://tvs12.jp/telephone/cableline/ouchiwari.html">
+										<img src="https://tvs12.jp/asset/top__keyvisual_ouchiwari.png" alt="おうち割">
+									</a>
+								</div>
+						
+                        
+                            
+						
+								<div class="splide__slide">
+									<a href="https://tvs12.jp/telephone/cableplus/au_smartvalue.html">
+										<img src="https://tvs12.jp/asset/top__keyvisual_au_smartvalue.png" alt="auスマートバリュー">
+									</a>
+								</div>
+						
+                        
+                            
+						 
+								<div class="splide__slide">
+									<a href="https://www.uqwimax.jp/mobile/newplan/setwari/jitaku/" target="_blank">
+										<img src="https://tvs12.jp/asset/top__keyvisual_zitakuSet.png" alt="UQ Mobileの自宅セット割">
+									</a>
+								</div>
+						
+                        
+						</div>
+					</div>
+				</div>
+				<!-- トップページ：キービジュアル > 左右のマスク -->
+				<div class="p-top-keyVisual__mask--right"></div>
+				<div class="p-top-keyVisual__mask--left"></div>
+
+				<!-- トップページ：キービジュアル > メンテナンス・障害 -->
+				<nav class="p-top-keyVisual__newsPickup">
+					<div class="p-top-newsPickup js-top-newsPickup splide">
+						<div class="splide__track">
+							<ul class="splide__list">
+	<li class="p-top-newsPickup__item splide__slide">
+					<a href="/news/000581.php" class="p-top-newsPickup__link is-new">
+						<span class="p-top-newsPickup__category p-top-newsPickup__category--important">重要</span>
+						<span class="p-top-newsPickup__title">固定電話サービス「ケーブルプラス電話」の料金改定について</span>
+					</a>
+				</li>
+				<li class="p-top-newsPickup__item splide__slide">
+					<a href="/news/000575.php" class="p-top-newsPickup__link">
+						<span class="p-top-newsPickup__category p-top-newsPickup__category--info">おしらせ</span>
+						<span class="p-top-newsPickup__title">ケーブルスマホ　オプション料金改定のお知らせ</span>
+					</a>
+				</li>
+				<li class="p-top-newsPickup__item splide__slide">
+					<a href="/news/000530.php" class="p-top-newsPickup__link">
+						<span class="p-top-newsPickup__category p-top-newsPickup__category--important">重要</span>
+						<span class="p-top-newsPickup__title">番組誌デジタル化のお知らせ</span>
+					</a>
+				</li>
+							</ul>
+						</div>
+					</div>
+				</nav>
+				<!-- トップページ：キービジュアル > 申し込みボタン -->
+				<div class="p-top-keyVisual__app">
+                	<a class="c-linkChara" href="/form/entry/" title="いますぐお申込み">
+						<span class="c-linkChara__inner"><span>いますぐお申込み</span></span>
+					</a>
+				</div>
+			</div>
+			<!-- ↑↑↑　トップページ：キービジュアル -->
+            <div class="js-stickyHeader__boundary"><!-- トップページ：スティッキーヘッダー開始位置 --></div>
+        	<main class="l-siteMain">
+				<article>
+				<!--↓：Service　サービス-->
+				<section class="p-top-service">
+					<!--↓：Service サービス：装飾-->
+					<div class="p-top-service__deco"></div>
+					<!--↓：Service サービス：インナーブロック-->
+					<div class="p-top-service__inner">
+						<!--↓：Service サービス：見出し-->
+						<div class="p-top-service__midashi">
+							<h2 class="p-top-midashiH2">
+								<span class="p-top-midashiH2__sub">Service</span>
+								<span class="p-top-midashiH2__main">サービス</span>
+							</h2>
+						</div>
+						<!--↓：Service サービス：ディスクリプション-->
+						<div class="p-top-service__desc">
+							<p>
+								テレビ佐世保は、地上波・CS・BS放送など様々な番組を電柱に設置したケーブル線で一括配信するサービスを提供しています。
+								アンテナ不要でさまざまなテレビ番組を楽しめたり、光回線のないエリアでも、インターネットを快適にご利用できます。<br>
+								サービスの詳細については各ページを参照ください。
+							</p>
+                        	<!--↓：Service サービス：アドレス-->
+						</div>
+						<address class="p-top-service__address">
+							<div>
+								いつでもお気軽にお問い合わせください
+								<a href="tel:0956256388" class="c-tel-strong">
+									0956-25-6388
+								</a>
+							</div>
+						</address>
+						<!--↓：Service サービス：メニュー -->
+						<nav class="p-top-service__menu  js-scrollPassedMarker">
+							<ul class="p-top-service__menu__wrapper">
+								<li class="p-top-service__menu__item">
+									<a class="p-top-service-link" href="/catv/">
+										<span class="p-top-service-link__midashi">
+											<span class="p-top-service-link__midashi--sub">Cable television</span>
+											<span class="p-top-service-link__midashi--main">テレビ</span>
+										</span>
+										<span class="p-top-service-link__thum">
+											<img src="images/top/top_service_link__tv.png" alt="テレビ：イメージイラスト">
+										</span>
+										<span class="p-top-service-link__desc">
+											<span class="c-marker">専用チャンネル充実！</span><br>
+											地域情報見放題！
+										</span>
+									</a>
+								</li>
+								<li class="p-top-service__menu__item">
+									<a class="p-top-service-link" href="/internet/">
+										<span class="p-top-service-link__midashi">
+											<span class="p-top-service-link__midashi--sub">Cable internet</span>
+											<span class="p-top-service-link__midashi--main">インターネット</span>
+										</span>
+										<span class="p-top-service-link__thum">
+											<img src="images/top/top_service_link__internet.png" alt="インターネット：イメージイラスト">
+										</span>
+										<span class="p-top-service-link__desc">
+											定額で高速！<span class="c-marker">Wi-Fi対応！</span><br>
+											選べるプラン
+										</span>
+									</a>
+								</li>
+								<li class="p-top-service__menu__item">
+									<a class="p-top-service-link" href="/telephone/">
+										<span class="p-top-service-link__midashi">
+											<span class="p-top-service-link__midashi--sub">Cable phone</span>
+											<span class="p-top-service-link__midashi--main">電話</span>
+										</span>
+										<span class="p-top-service-link__thum">
+											<img src="images/top/top_service_link__tel.png" alt="電話：イメージイラスト">
+										</span>
+										<span class="p-top-service-link__desc">
+											使い方そのまま！<br>
+											<span class="c-marker">基本・通話料金がお得！</span>
+										</span>
+									</a>
+								</li>
+                            	<li class="p-top-service__menu__item">
+                                	<a class="p-top-service-link" href="/cablesmp/">
+										<span class="p-top-service-link__midashi">
+											<span class="p-top-service-link__midashi--sub">Cable smartphone</span>
+											<span class="p-top-service-link__midashi--main">スマホ</span>
+										</span>
+										<span class="p-top-service-link__thum">
+											<img src="images/top/top_service_link__sp.png" alt="スマホ：イメージイラスト">
+										</span>
+										<span class="p-top-service-link__desc">
+											ドコモ回線で<span class="c-marker">快適通話！</span><br>
+											いつでも<span class="c-marker">安心サポート！</span>
+										</span>
+									</a>
+								</li>
+								<li class="p-top-service__menu__item">
+									<a class="p-top-service-link" href="/service/">
+										<span class="p-top-service-link__midashi">
+											<span class="p-top-service-link__midashi--sub">Convenient service</span>
+											<span class="p-top-service-link__midashi--main">便利なサービス</span>
+										</span>
+										<span class="p-top-service-link__thum">
+											<img src="images/top/top_service_link__benri.png" alt="便利なサービス：イメージイラスト">
+										</span>
+										<span class="p-top-service-link__desc">
+											<span class="c-marker">便利なサービス</span>や<span class="c-marker">お得なパック</span>をご紹介！
+										</span>
+									</a>
+								</li>
+								<li class="p-top-service__menu__item">
+									<a class="p-top-service-link" href="/simulation/">
+										<span class="p-top-service-link__midashi">
+											<span class="p-top-service-link__midashi--sub">Customer support</span>
+											<span class="p-top-service-link__midashi--main">料金シミュレーション</span>
+										</span>
+										<span class="p-top-service-link__thum">
+											<img src="images/top/top_service_link__calc.png" alt="料金シミュレーション：イメージイラスト">
+										</span>
+										<span class="p-top-service-link__desc">
+											どのくらいかかる？が<span class="c-marker">すぐわかる！</span>
+										</span>
+									</a>
+								</li>
+								<li class="p-top-service__menu__item">
+									<a class="p-top-service-link" href="/form/contact/">
+										<span class="p-top-service-link__midashi">
+											<span class="p-top-service-link__midashi--sub">Inquiry</span>
+											<span class="p-top-service-link__midashi--main">お問い合わせ</span>
+										</span>
+										<span class="p-top-service-link__thum">
+											<img src="images/top/top_service_link__contact.png" alt="お問い合わせ：イメージイラスト">
+										</span>
+										<span class="p-top-service-link__desc">
+											<span class="c-marker">お気軽にお問い合わせ</span>ください
+										</span>
+									</a>
+								</li>
+							</ul>
+						</nav>
+					</div>
+				</section>
+				<!--↑：Service　サービス-->
+				<!--↓：Recommend　おすすめ情報-->
+				<section class="p-top-recommend">
+					<h2 class="p-top-midashiH2">
+						<span class="p-top-midashiH2__sub">Recommend</span>
+						<span class="p-top-midashiH2__main">おすすめ情報</span>
+					</h2>
+					<div class="p-top-recommend-pager">
+						<span class="p-top-recommend-pager__prev js-top-recommend-pager__prev"></span>
+                    	<span class="p-top-recommend-pager__next js-top-recommend-pager__next"></span>
+					</div>
+					<div class="splide js-top-recommend js-scrollPassedMarker">
+<div class="splide__track">
+								<div class="splide__list">
+								<div class="splide__slide">
+									<a href="/news/000528.php" class="p-top-recommend-link">
+										<span class="p-top-recommend-link__thum" style="background-image:url(/recommend/asset/recommend_line.png)"></span>
+										<span class="p-top-recommend-link__desc">テレビ佐世保の公式LINEです。友だち追加でタイムリーな情報をお届け！</span>
+									</a>
+								</div>
+								<div class="splide__slide">
+									<a href="/catv/community_ch.html#sasebo" class="p-top-recommend-link">
+										<span class="p-top-recommend-link__thum" style="background-image:url(/recommend/asset/recommend__thum_spotInSasebo.png)"></span>
+										<span class="p-top-recommend-link__desc">地デジ111chで配信中!!毎日夜7時スタートの地域の身近な情報番組。</span>
+									</a>
+								</div>
+								<div class="splide__slide">
+									<a href="/internet/hikari.html" class="p-top-recommend-link">
+										<span class="p-top-recommend-link__thum" style="background-image:url(/recommend/asset/recommend__thum_2gHikari.jpg)"></span>
+										<span class="p-top-recommend-link__desc">光回線による超高速なインターネット接続サービスです。より一層快適なインターネットサービスをご提供いたします。</span>
+									</a>
+								</div>
+								<div class="splide__slide">
+									<a href="/catv/stb.html" class="p-top-recommend-link">
+										<span class="p-top-recommend-link__thum" style="background-image:url(/recommend/asset/recommend__thum_stb.png)"></span>
+										<span class="p-top-recommend-link__desc">新しいホームネットワークSTBのご紹介です。</span>
+									</a>
+								</div>
+								</div>
+							</div>
+ 
+					</div>
+					<div class="p-top-recommend__indexLink">
+						<a href="./recommend/">一覧を見る</a>
+					</div>
+				</section>
+				<!--↑：Recommend　おすすめ情報-->
+				<!--↓：ショートカットリンク-->
+				<nav class="p-top-shortcutLink">
+					<div class="p-top-shortcutLink__inner">
+						<a class="c-linkBtn-fill--orange c-linkBtn-fill--center" href="/support/beginner.html">
+							<span class="c-linkBtn-fill__icon--center"
+								style="background-image:url(images/icon_menu/icon_beginner.svg);"></span>
+							はじめての方へ
+						</a>
+						<a class="c-linkBtn-fill--skyblue c-linkBtn-fill--center" href="/support/user.html">
+							<span class="c-linkBtn-fill__icon--center"
+								style="background-image:url(images/icon_white/icon_user.svg);"></span>
+							ご利用中の方へ
+						</a>
+                    	<a class="c-linkBtn-fill--green c-linkBtn-fill--center" href="houjin.html">
+							<span class="c-linkBtn-fill__icon--center" style="background-image:url(images/icon_white/icon_building.svg);"></span>
+							法人利用のお客さま
+						</a>
+					</div>
+				</nav>
+				<!--↑：ショートカットリンク-->	
+				<!--↓：コミュニティーチャンネル-->
+				<nav class="p-top-communityCh">
+					<div class="p-top-communityCh__deco01">
+						<span class="p-top-communityCh__deco01__item"></span>
+					</div>
+					<div class="p-top-communityCh__deco02">
+						<span class="p-top-communityCh__deco02__item"></span>
+					</div>
+
+					<div class="p-top-communityCh__inner">
+						<h2 class="p-top-midashiH2">
+							<span class="p-top-midashiH2__sub">Community-Ch</span>
+							<span class="p-top-midashiH2__main">コミュニティチャンネル</span>
+						</h2>
+						<div class="p-top-communityCh-list js-scrollPassedMarker">
+							<div class="p-top-communityCh-list__item">
+								<div class="p-top-communityCh-list__thum">
+									<img src="images/top/top__communityCh__spotInSasebo.png" alt="スポットインサセボ">
+								</div>
+								<div class="p-top-communityCh-list__linkList">
+									<a class="c-linkBtn-fill--blue c-linkBtn-fill--center" href="/catv/community_ch.html">
+										番組案内
+									</a>
+									<a class="c-linkBtn-fill--blue c-linkBtn-fill--center" href="/catv/asset/program.pdf" target="_blank">
+										<span class="c-linkBtn-fill__icon--right"
+											style="background-image:url(images/icon_white/icon_pdf.svg);"></span>
+										10月番組表
+									</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</nav>
+				<!--↑：コミュニティーチャンネル-->
+
+	  
+				<!--↓：常設メニュー-->
+				<nav class="p-top-standard js-scrollPassedMarker">
+					<div class="p-top-standard__inner">
+						<h2 class="p-top-midashiH2">
+							<span class="p-top-midashiH2__sub">Standard</span>
+							<span class="p-top-midashiH2__main">常設メニュー</span>
+						</h2>
+						<div class="p-top-standard-pager">
+							<span class="p-top-standard-pager__next js-top-standard-pager__next"></span>
+							<span class="p-top-standard-pager__prev js-top-standard-pager__prev"></span>
+						</div>
+						<div class="splide js-top-standard">
+							<div class="splide__track">
+								<ul class="splide__list p-top-standard-list">
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+                                    	<a href="https://tvs12.jp/catv/asset/program.pdf" class="p-top-standard-list__link" title="番組表">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_program.jpg)"></span>
+											<p>地域の情報をコミュニティチャンネルでチェックしよう！ケーブルテレビの番組表を掲載。</p>
+										</a>
+                                		
+									</li>
+    
+	
+
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+                                    	<a href="https://tvs12.jp/support/showroom.html" class="p-top-standard-list__link" title="ショールーム">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_showroom.png)"></span>
+											<p>BS・CS放送の番組をはじめ､地上デジタル放送のご視聴やインターネット体験が可能です。ご家族お誘いあわせの上､お気軽にご来店ください。</p>
+										</a>
+                                		
+									</li>
+    
+	
+
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+										<a href="https://www.instagram.com/tvs11ch/" target="_blank" class="p-top-standard-list__link" title="公式Instagram">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_instagram.png)"></span>
+											<p>テレビ佐世保の公式Instagramです。</p>
+										</a>
+										
+									</li>
+    
+	
+
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+										<a href="https://lin.ee/KKUhkKh" target="_blank" class="p-top-standard-list__link" title="公式LINE">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_line.png)"></span>
+											<p>テレビ佐世保の公式LINEです。友だち追加でタイムリーな情報をお届け！</p>
+										</a>
+										
+									</li>
+    
+	
+
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+                                    	<a href="https://tvs12.jp/la_hikari.html" class="p-top-standard-list__link" title="地域限定光専用プラン">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_areaHikari.png)"></span>
+											<p>地域限定光専用プランのご紹介です。</p>
+										</a>
+                                		
+									</li>
+    
+	
+
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+                                    	<a href="https://tvs12.jp/internet/hikari.html" class="p-top-standard-list__link" title="光2ギガ">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_2gHikari.jpg)"></span>
+											<p>光回線による超高速なインターネット接続サービスです。より一層快適なインターネットサービスをご提供いたします。</p>
+										</a>
+                                		
+									</li>
+    
+	
+
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+                                    	<a href="https://tvs12.jp/telephone/cableplus/au_smartvalue.html" class="p-top-standard-list__link" title="auスマートバリュー永年割">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_auSmartValue.png)"></span>
+											<p>auスマートバリューなら テレビ佐世保とセットでauスマホのご利用料金が割引に!</p>
+										</a>
+                                		
+									</li>
+    
+	
+
+	
+	        
+    	
+									<li class="splide__slide p-top-standard-list__item">
+                                    	
+                                    	<a href="https://tvs12.jp/telephone/cableline/ouchiwari.html" class="p-top-standard-list__link" title="おうち割">
+											<span class="p-top-standard-list__thum" style="background-image:url(https://tvs12.jp/asset/standard__bnr_ouchiwari.png)"></span>
+											<p>おうち割なら ケーブルステーション福岡とセットで ソフトバンクまたはワイモバイルのご利用料金が割引に!</p>
+										</a>
+                                		
+									</li>
+    
+	                   
+								</ul>
+							</div>
+						</div>
+					</div>
+				</nav>
+	
+
+				<nav class="p-top-news t-blog">
+					<div class="p-top-news__inner">
+						<div class="p-top-news__midashi">
+							<h2 class="p-top-midashiH2">
+								<span class="p-top-midashiH2__sub">News</span>
+								<span class="p-top-midashiH2__main">おしらせ</span>
+							</h2>
+						</div>
+						<div class="p-top-news__index">
+							<div class="p-top-news-category">
+								<span class="p-top-news-category__btn--all js-tab_btn is-current" data-tab="all">
+									すべて
+								</span>
+								<span class="p-top-news-category__btn--important js-tab_btn" data-tab="important">
+									重要
+								</span>
+								<span class="p-top-news-category__btn--info js-tab_btn" data-tab="info">
+									おしらせ
+								</span>
+								<span class="p-top-news-category__btn--maintenance js-tab_btn" data-tab="maintenance">
+									メンテナンス
+								</span>
+								<span class="p-top-news-category__btn--incident js-tab_btn" data-tab="incident">
+									障害
+								</span>
+								<span class="p-top-news-category__btn--recruit js-tab_btn" data-tab="recruit">
+									採用情報
+								</span>
+							</div>
+                        	<ul class="t-blog-linkList js-tab" data-tab="all">
+	<li class="t-blog-linkList__item">
+					<a href="/news/000581.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-10-08">2025.10.08</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--important">重要</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							固定電話サービス「ケーブルプラス電話」の料金改定について
+							<span class="t-blog-linkList__link--iconNew">NEW</span>
+						</span>
+					</a>
+				</li>
+				<li class="t-blog-linkList__item">
+					<a href="/news/000575.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-10-01">2025.10.01</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--info">おしらせ</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							ケーブルスマホ　オプション料金改定のお知らせ
+						</span>
+					</a>
+				</li>
+				<li class="t-blog-linkList__item">
+					<a href="/news/000530.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-06-24">2025.06.24</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--important">重要</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							番組誌デジタル化のお知らせ
+						</span>
+					</a>
+				</li>
+							</ul>
+							<ul class="t-blog-linkList js-tab" data-tab="important">
+	<li class="t-blog-linkList__item">
+					<a href="/news/000581.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-10-08">2025.10.08</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--important">重要</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							固定電話サービス「ケーブルプラス電話」の料金改定について
+							<span class="t-blog-linkList__link--iconNew">NEW</span>
+						</span>
+					</a>
+				</li>
+				<li class="t-blog-linkList__item">
+					<a href="/news/000530.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-06-24">2025.06.24</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--important">重要</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							番組誌デジタル化のお知らせ
+						</span>
+					</a>
+				</li>
+				<li class="t-blog-linkList__item">
+					<a href="/news/000528.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-06-24">2025.06.24</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--important">重要</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							テレビ佐世保公式LINEはじめました！
+						</span>
+					</a>
+				</li>
+                        	</ul>
+                        	<ul class="t-blog-linkList js-tab" data-tab="info">
+	<li class="t-blog-linkList__item">
+					<a href="/news/000575.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-10-01">2025.10.01</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--info">おしらせ</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							ケーブルスマホ　オプション料金改定のお知らせ
+						</span>
+					</a>
+				</li>
+				<li class="t-blog-linkList__item">
+					<a href="/news/000530.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-06-24">2025.06.24</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--info">おしらせ</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							番組誌デジタル化のお知らせ
+						</span>
+					</a>
+				</li>
+				<li class="t-blog-linkList__item">
+					<a href="/news/000528.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-06-24">2025.06.24</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--info">おしらせ</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							テレビ佐世保公式LINEはじめました！
+						</span>
+					</a>
+				</li>
+                        	</ul>
+                            <ul class="t-blog-linkList js-tab" data-tab="maintenance">
+	<li class="t-blog-linkList__item">
+					<a href="/news/000466.php" class="t-blog-linkList__link">
+						<time class="t-blog-linkList__link--time" datetime="2025-02-17">2025.02.17</time>
+						<span class="t-blog-linkList__link--icon">
+						<span class="t-blog-linkList__category--maintenance">メンテナンス</span>
+						</span>
+						<span class="t-blog-linkList__link--title">
+							メンテナンスのお知らせ
+						</span>
+					</a>
+				</li>
+                        	</ul>
+                            <ul class="t-blog-linkList js-tab" data-tab="incident">
+										<li style=" list-style: none;">現在、障害情報はありません。</li>
+                        	</ul>
+                            <ul class="t-blog-linkList js-tab" data-tab="recruit">
+										<li style=" list-style: none;">現在、採用情報はありません。</li>
+                        	</ul>
+						</div>
+						<div class="p-top-news__link">
+							<a class="c-linkBtn-fill--black c-linkBtn-fill--center" href="/news/">
+								おしらせ一覧へ
+							</a>
+						</div>
+					</div>
+				</nav>
+				<!--↑：コミュニティーチャンネル　ここまで-->
+				<!--↓：常設メニュー-->
+
+				<!-- InstanceEndEditable -->
+				<!-- ↑↑↑ CMSの編集領域設定 ↑↑↑-->
+</article>
+
+
+			</main>
+			<!--↑：メインコンテンツ　//ここまで-->
+			<!-- ↓最上部配置：ページ固有 リソース・要素等：footer-->
+			<!-- InstanceBeginEditable name="footer_upper" -->
+
+			<div class="p-top-floatBox l-floatBox js-floatBox">
+				<div class="l-floatBox-close">
+					<!-- 閉じるボタン -->
+					 <span class="l-floatBox-close__icon js-floatBox__btn">
+						<span></span>
+						<span></span>
+					 </span>
+				</div>
+				<nav class="l-floatBox-contents l-floatBox__inner">
+					<h2>
+						<span class="c-img-tottarukun--winkAll"></span>
+						お探しの情報は見つかりましたか？
+					</h2>
+					<form method="get" action="/search/#search_results">
+						<input name="search" type="search" placeholder="キーワード検索">
+						<button type="submit"></button>
+					</form>
+					<div>
+						<a href="/simulation/" class="c-linkBtn-fill--pink">
+                        	<span class="c-linkBtn-fill__icon--left" style="background-image: url(/images/icon_white/icon_simulation.svg);"></span>
+							料金シミュレーション
+						</a>
+					</div>
+					<address>
+						お問い合わせはお気軽に
+						<a href="tel:0956256388" class="c-tel-strong">
+							0956-25-6388
+						</a>
+					</address>
+				</nav>
+			</div>
+
+			<!-- InstanceEndEditable -->
+			<!-- ↑最上部配置：ページ固有 リソース・要素等：footer-->
+			<!--↓：フッター-->
+			<footer class="l-siteFooter">
+				<div class="l-siteFooter-relate">
+					<div class="l-siteFooter-relate__inner">
+						<nav class="l-siteFooter-relate__otherLink l-partitionLink">
+							<div class="l-partitionLink__item">
+								<a class="c-linkText-basic c-linkText-basic--black" href="/about/">会社案内</a>
+							</div>
+							<div class="l-partitionLink__item">
+								<a class="c-linkText-basic" href="/privacy.html">プライバシーポリシー</a>
+							</div>
+							<div class="l-partitionLink__item">
+								<a class="c-linkText-basic" href="/kiyaku.html">各種契約約款・規約</a>
+							</div>
+                        	<div class="l-partitionLink__item">
+								<a class="c-linkText-basic" href="/support/invoice_oshirase.html">適格請求書（インボイス）</a>
+							</div>
+						</nav>
+						<div class="l-siteFooter-relate__recruit">
+                        <a class="c-linkBtn-recruit" href="/recruit/">
+								<span class="c-linkBtn-recruit__icon"></span>
+								採用情報はこちら
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="l-siteFooter__contact">
+					<div class="l-siteFooter__inner">
+						<h2>お問い合わせはお気軽に</h2>
+						<div class="l-addressBox">
+							<address class="l-addressBox__item">
+								いつでもお気軽にお問い合わせください
+								<a href="tel:0956256388" class="c-tel-strong">
+									0956-25-6388
+								</a>
+							</address>
+						</div>
+					</div>
+				</div>
+				<div class="l-siteFooter-end">
+					<div class="l-siteFooter-end__inner">
+
+					
+						<div class="l-siteFooter-end__sns">
+							<a class="l-siteFooter-snsBtn--x" title="x" href="https://x.com/tv_sasebo" target="_blank">
+								<!-- X -->
+							</a>
+							<a class="l-siteFooter-snsBtn--instagram" title="Instagram" href="https://www.instagram.com/tvs11ch/" target="_blank">
+								<!-- Instagram -->
+							</a>
+                            <a class="l-siteFooter-snsBtn--line" title="LINE" href="https://lin.ee/KKUhkKh" target="_blank">
+								<!-- LINE -->
+							</a>
+						</div>
+                	
+						<div class="l-siteFooter-end__copyright">
+							<p>&copy;九州テレ・コミュニケーションズ株式会社</p>
+						</div>
+					</div>
+				</div>
+			</footer>
+			<!--↑：フッター　//ここまで-->
+			<!-- ↓最上部配置：ページ固有 リソース・要素等：footer-->
+			<!-- InstanceBeginEditable name="footer_under" -->
+
+		
+			<div class="l-fixedBottom">
+            	<a class="c-linkChara" href="/form/entry/" title="いますぐお申込み">
+					<span class="c-linkChara__inner"><span>いますぐお申込み</span></span>
+				</a>
+			</div>
+		
+
+			<!-- InstanceEndEditable -->
+			<!-- ↑最上部配置：ページ固有 リソース・要素等：footer-->
+		</div>
+
+		<script>
+			////Splide：スライドショー >  トップページ：ピックアップニュース
+			let splideNewsPicup;
+			const splideNewsPicupStart = function () {
+				let slideClass = ".js-top-newsPickup";
+
+				//対象要素が無い時はエスケープ
+				if (!document.querySelector(".js-top-newsPickup")) { return; }
+
+				let timer;
+				let option = {
+					type: 'loop',
+					direction: 'ttb',//上から下
+					height: document.querySelector(slideClass).clientHeight + "px",//縦スライドは高さ指定がいる
+					perPage: 1,
+					perMove: 1,
+					focus: 'center',
+					autoplay: {
+						interval: 3000
+					},
+					pagination: false,//ページネーション
+					arrows: false,//左右矢印 -- 無効化
+				}
+
+				let start = () => {
+					splideNewsPicup = new Splide(slideClass, option);
+					splideNewsPicup.mount();
+				}
+
+				//resize処理
+				let reset = () => {
+					clearTimeout(timer);
+					// 指定時間後、一度だけ処理を実行
+					timer = setTimeout(function () {
+						if (splideNewsPicup) { splideNewsPicup.destroy() };
+						start();
+					}, 300);
+				}
+
+
+				//処理開始
+				start();
+			}
+			splideNewsPicupStart(); //スライドの処理開始
+
+			/*splide：キービジュアル*/
+			let splideTopKeyVisual;
+			const splideTopKeyVisualStart = function () {
+
+				//対象要素が無い時はエスケープ
+				if (!document.querySelector(".js-top-keyVisual")) { return; }
+
+				let timer;
+				let option = {
+					type: 'loop',
+					padding: `${(window.innerWidth - 1400) / 2 - 8}px`, // スライダーの左右の余白
+					perMove: 1,
+					focus: 'center',
+					autoplay: {
+						interval: 3000
+					},
+					pagination: true,//ページネーション
+					arrows: false,//左右矢印 -- 無効化
+					classes: {
+						pagination: "splide__pagination p-top-keyVisual-pager js-top-keyVisual-pager",
+					},
+					breakpoints: {
+						1400: {
+							padding: 0,
+						},
+					}
+				}
+
+				//resize処理
+				let reset = () => {
+					clearTimeout(timer);
+					// 指定時間後、一度だけ処理を実行
+					timer = setTimeout(function () {
+						if (splideTopKeyVisual) { splideTopKeyVisual.destroy() };
+						option.padding = `${(window.innerWidth - 1400) / 2 - 8}px`, // スライダーの左右の余白
+							splideTopKeyVisual = new Splide('.js-top-keyVisual', option);
+						splideTopKeyVisual.mount();
+					}, 300);
+				}
+
+
+
+				//処理開始
+				let splideTopKeyVisual = new Splide('.js-top-keyVisual', option);
+				splideTopKeyVisual.mount();
+				window.addEventListener('resize', reset);
+
+			};
+			splideTopKeyVisualStart();
+
+
+				/*splide：おすすめ情報*/
+				let splideTopRecommend;
+				const splideTopRecommendStart = function () {
+					let slideClass = ".js-top-recommend";
+
+					//対象要素が無い時はエスケープ
+					if (
+						!document.querySelector(slideClass) ||
+						!document.querySelector(".js-top-recommend-pager__prev") ||
+						!document.querySelector(".js-top-recommend-pager__next")
+					) { return; }
+
+					let itemLength = document.querySelector(`${slideClass} .splide__slide`).clientWidth;
+					let gap = 20;
+					let timer;
+					let option = {
+						type: 'loop',
+						drag: 'free',
+						focus: 'center',
+						arrows: false, //左右矢印 -- 無効化
+						pagination: false, //ページネーション -- 無効化
+						gap: 36,
+						perPage: 1,
+						perMove: 1,
+						flickMaxPages: 1,//フリック入力での移動量設定
+						fixedWidth: `${window.innerWidth}px`,
+						autoplay: {
+							interval: 3000
+						},
+						breakpoints: {
+							812: {
+								gap: 0,
+								fixedWidth: "100%",
+								drag: true,
+							},
+						},
+						arrowPath: "none"
+					}
+
+					//resize処理
+					let reset = () => {
+						clearTimeout(timer);
+						// 指定時間後、一度だけ処理を実行
+						timer = setTimeout(function () {
+							if (splideTopRecommend) { splideTopRecommend.destroy() };
+							splideTopRecommend = new Splide(slideClass, option);
+							splideTopRecommend.mount();
+						}, 300);
+					}
+
+					document.querySelector(".js-top-recommend-pager__prev").addEventListener("click", () => {
+						splideTopRecommend.go('-${1}');
+					})
+
+					document.querySelector(".js-top-recommend-pager__next").addEventListener("click", () => {
+						splideTopRecommend.go('+${1}');
+					})
+
+
+
+					//処理開始
+					let splideTopRecommend = new Splide(slideClass, option);
+					splideTopRecommend.mount();
+					window.addEventListener('resize', reset);
+
+				};
+				splideTopRecommendStart();
+
+
+				/*swiper：イベント情報*/
+				let splideTopEvent;
+				const splideTopEventStart = function () {
+
+					//対象要素が無い時はエスケープ
+					if (!document.querySelector('.js-top-event')) { return; }
+
+					let timer;
+					let option = {
+						type: 'loop',
+						fixedWidth: "100%",
+						focus: 'center',
+						autoplay: {
+							interval: 3000
+						},
+						pagination: true,//ページネーション
+						arrows: false,//左右矢印 -- 無効化
+						classes: {
+							pagination: "splide__pagination p-top-event-pager js-top-event-pager",
+						},
+						breakpoints: {
+							1400: {
+								padding: 0,
+							},
+						}
+					}
+
+					//resize処理
+					let reset = () => {
+						clearTimeout(timer);
+						// 指定時間後、一度だけ処理を実行
+						timer = setTimeout(function () {
+							if (splideTopEvent) { splideTopEvent.destroy() };
+							splideTopEvent = new Splide('.js-top-event', option);
+							splideTopEvent.mount();
+						}, 300);
+					}
+
+
+					//処理開始
+					let splideTopEvent = new Splide('.js-top-event', option);
+					splideTopEvent.mount();
+					window.addEventListener('resize', reset);
+				}
+				splideTopEventStart();
+
+
+				/*swiper：フッタバナー*/
+				let splideTopSandard;
+				const splideTopSandardStart = function () {
+					let slideClass = ".js-top-standard";
+					let gap = 20;
+					let timer;
+
+					//対象要素が無い時はエスケープ
+					if (
+						!document.querySelector(slideClass) ||
+						!document.querySelector(".js-top-standard-pager__prev") ||
+						!document.querySelector(".js-top-standard-pager__next")
+					) { return; }
+
+
+					let option = {
+						type: 'loop',
+						drag: true,
+						focus: 'center',
+						//fixedWidth: "100%",
+						arrows: false,//左右矢印 -- 無効化
+						pagination: false,
+						classes: {
+							arrows: "p-top-standard-pager",
+						},
+						gap: 36,
+						perPage: 1,
+						perMove: 1,
+						autoplay: {
+							interval: 1000
+						},
+						arrowPath: "none"
+					}
+
+					//resize処理
+					let reset = () => {
+						clearTimeout(timer);
+						// 指定時間後、一度だけ処理を実行
+						timer = setTimeout(function () {
+							if (splideTopSandard) {
+								splideTopSandard.destroy('completely')
+								document.querySelector(slideClass).classList.remove("is-initialized")
+							};
+							start();
+						}, 300);
+					}
+
+					let start = () => {
+						if (window.innerWidth <= _breakpointSP) {
+							splideTopSandard = new Splide(".js-top-standard", option);
+							splideTopSandard.mount();
+						}
+
+					}
+
+					document.querySelector(".js-top-standard-pager__next").addEventListener("click", () => {
+						if (!splideTopSandard) { return }
+						splideTopSandard.go('-${1}');
+					})
+
+					document.querySelector(".js-top-standard-pager__prev").addEventListener("click", () => {
+						if (!splideTopSandard) { return }
+						splideTopSandard.go('+${1}');
+					})
+
+
+					//処理開始
+					start();
+					window.addEventListener('resize', reset);
+				}
+				splideTopSandardStart();
+
+			//タブ切り替え機能：お知らせ
+			tabChange("all")
+		</script><!-- InstanceEndEditable -->
+
+
+
+
+		<!-- InstanceEndEditable -->
+		<!--↓ページ固有リソース：foot-->
+	</body>
+<!-- InstanceEnd --></html>

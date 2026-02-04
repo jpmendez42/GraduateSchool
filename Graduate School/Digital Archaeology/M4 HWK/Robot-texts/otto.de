@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /gate/
+Disallow: /onex/
+
+User-agent: bingbot
+Disallow: /suche/
+
+User-agent: GPTBot
+Disallow: /kundenbewertungen/
+
+User-agent: ChatGPT-User
+Disallow: /kundenbewertungen/
+
+User-agent: OAI-Searchbot
+Disallow: /kundenbewertungen/
+
+User-agent: PerplexityBot
+Disallow: /kundenbewertungen/
+
+User-agent: Perplexity-User
+Disallow: /kundenbewertungen/

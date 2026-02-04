@@ -1,0 +1,23 @@
+User-agent: *
+
+Disallow: */*pstc
+Disallow: */*prvnm
+Disallow: */*cty
+Disallow: */*indFacet
+Disallow: */*xy=
+Disallow: */*tab=
+Disallow: */*r=
+Disallow: */*mode=
+Disallow: */*dist=
+Disallow: */*BranchCode
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+Sitemap: https://www.adecco.it/index-sitemap

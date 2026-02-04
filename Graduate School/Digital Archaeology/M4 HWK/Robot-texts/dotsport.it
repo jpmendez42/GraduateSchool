@@ -1,0 +1,12 @@
+# XML Sitemap & Google News version 5.3.3 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.dotsport.it/sitemap.xml
+Sitemap: https://www.dotsport.it/sitemap-news.xml
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

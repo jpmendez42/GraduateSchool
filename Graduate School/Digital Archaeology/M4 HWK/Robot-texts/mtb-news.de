@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /search/
+Disallow: /news/wp-admin/
+Disallow: /forum/t/newsletter.311859/
+Disallow: /forum/tags/
+
+Allow: /news/wp-admin/admin-ajax.php
+
+User-agent: GPTBot
+Disallow: /
+

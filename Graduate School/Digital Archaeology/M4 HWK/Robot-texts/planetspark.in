@@ -1,0 +1,11 @@
+# Notice: Crawling PlanetSpark is prohibited unless you have explicit written permission!
+
+User-agent: *
+Disallow: /admin/*
+Disallow: /api/*
+Disallow: /blogs?page=*
+Disallow: /element?page=*
+Disallow: /cert/download/
+Disallow: /live_class/
+Sitemap:  https://www.planetspark.in/index-sitemap.xml
+

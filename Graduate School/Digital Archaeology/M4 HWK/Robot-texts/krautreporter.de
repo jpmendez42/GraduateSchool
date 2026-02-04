@@ -1,0 +1,13 @@
+Sitemap: https://krautreporter.de/sitemap.xml
+Sitemap: https://krautreporter.de/news.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+# Legal notice: krautreporter.de expressly reserves the right to use its content for commercial text and data mining (§ 44 b UrhG).
+# The use of robots or other automated means to access krautreporter.de or collect or mine data without the express permission of krautreporter.de is strictly prohibited.
+# krautreporter.de may, in its discretion, permit certain automated access to certain pages.
+# If you would like to apply for permission to crawl krautreporter.de, collect or use data, please email kontakt@krautreporter.de.

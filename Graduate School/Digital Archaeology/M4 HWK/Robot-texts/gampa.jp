@@ -1,0 +1,154 @@
+<!DOCTYPE html><html lang="ja"><head><!-- 217_head_ad -->
+<!-- PPIDタグ -->
+<script type="text/javascript" src="https://pdn.adingo.jp/p.js" async></script>
+<script type="text/javascript">
+  var fluctAdScript = fluctAdScript || { cmd: [] };
+  fluctAdScript.cmd.push(function (cmd) {
+    cmd.enablePpidIntegration();
+  });
+</script>
+<!-- PPID -->
+<!-- GAM -->
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+<!-- BID STRAP -->
+<script async src="https://fam.adingo.jp/bid-strap/gampa/pb.js"></script>
+<script>
+  var bsttag = window.bsttag || {cmd: []};
+  bsttag.failSafeTimeout = 3000; //header bidding全体のタイムアウト
+  bsttag.launchAuction = function (slots) {
+    var hbm = {};
+    bsttag.cmd.push(function(cmd) {
+      hbm = cmd.requestBids({adUnits: slots});
+    });
+
+    setTimeout(function () {
+      if (hbm.isRequestSent) {
+        return;
+      }
+      hbm.isRequestSent = true;
+      googletag.cmd.push(function() {
+        googletag.pubads().refresh(slots);
+      });
+    }, bsttag.failSafeTimeout);
+  };
+</script>
+
+<!-- BID STRAP -->
+<script>
+  window.googletag = window.googletag || {cmd: []};
+  googletag.cmd.push(function() {
+    function randomInt(min, max) {
+      return Math.floor( Math.random() * (max + 1 - min) ) + min;
+    }
+    googletag.defineSlot('/62532913,108825458/p_gampa_300x250_300-250-footer-warau-gp-pc_29945', [[300, 250], [336, 280], [200, 200], [250, 250], [320, 180], [320, 100], [320, 50], [336, 180], [300, 280]], 'div-gpt-ad-1698403016998-0').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+    googletag.defineSlot('/62532913,108825458/p_gampa_300x250_300-250-header-warau-gp-pc_29945', [[300, 250], [336, 280], [200, 200], [250, 250], [320, 180], [320, 100], [320, 50], [336, 180], [300, 280]], 'div-gpt-ad-1698403033637-0').setCollapseEmptyDiv(true, true).addService(googletag.pubads());
+    googletag.pubads().setTargeting("fluct_ad_group", String(randomInt(1, 10)));
+    googletag.pubads().enableSingleRequest();
+    googletag.pubads().disableInitialLoad();
+    googletag.enableServices();
+
+    bsttag.launchAuction();
+  });
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MWG49LP');</script>
+<!-- End Google Tag Manager -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta http-equiv="Content-Language" content="ja"><title>GamePark - ポイ活ゲームで遊んで貯める｜ポイ活ならワラウ</title><meta name="description" content="13種類のポイ活ゲームで遊んで貯める！大人から子供まで楽しめるカジュアルなポイ活ゲームで遊んで貯めよう"><meta name="Keywords" content=""><link rel="index" href="https://gampa.jp/"><link rel="start" href="https://gampa.jp/"><link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css" type="text/css">        <link rel="stylesheet" href="https://cf.gamepark.net/static.gamepark.net/css/common.css?202505191" type="text/css"><link rel="stylesheet" href="https://cf.gamepark.net/static.gamepark.net/css/button.css?202505191" type="text/css">        <link rel="stylesheet" href="https://cf.gamepark.net/static.gamepark.net/css/ad190125.css?202505191" type="text/css">        <link rel="stylesheet" href="https://cf.gamepark.net/static.gamepark.net/css/play190125.css?202505191" type="text/css">        <link rel="stylesheet" href="https://cf.gamepark.net/static.gamepark.net/css/dialog190717.css?202505191" type="text/css">        <link rel="stylesheet" href="https://cf.gamepark.net/static.gamepark.net/css/layout200622.css?202505191" type="text/css">        <link rel="stylesheet" href="/css/default.css?20250515" type="text/css">        <link rel="P3Pv1" href="/w3c/p3p.xml"><link rel="preload" as="font" crossorigin href="https://gamepark.akamaized.net/static.gamepark.net/webfonts/rounded-x-mplus-1p-heavy.woff"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script><script type="text/javascript" src="https://cf.gamepark.net/static.gamepark.net/js/jquery.bxslider.min.js"></script><script type="text/javascript" src="/js/gp_jquery.js?20240404"></script><script type="text/javascript" src="https://cf.gamepark.net/static.gamepark.net/js/tab.js"></script>    </head><body><!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWG49LP"
+                  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" /><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js"></script><div class="contents marginTop7">    <div id="headerPagetop">
+        <div class="floatLeft">
+        <h1 class="logo">
+                            <a href="https://www.warau.jp/play/">
+                    <img src="https://gamepark.akamaized.net/warau-plus.gamepark.net/images/common/logo.svg" alt="ワラウ">
+                </a>
+                    </h1>
+    </div>
+
+    
+        <div class="clearBoth" id="scrollTop"></div>
+
+        <div class="clearBoth"></div>
+</div>
+<div class="floatLeft">
+        <div class="clearBoth" id="dialogOfPosition"></div>
+<div class="main topBox floatLeft">        <div class="topTitleBox warau"><div class="top-Ttl_Wrap">                <h2 class="top-Ttl_Img-warau"><img src="https://gamepark.akamaized.net/warau.gamepark.net/images/top/h2_title20200626.svg" alt="GamePark" width="580"><a href="/c/AGKNWQgZdqObkPIFBWhemw"><img class="displayBlock" style="position: absolute; top: 20px; left: 600px; z-index: 2;" src="https://gamepark.akamaized.net/warau.gamepark.net/images/top/san.png" alt=" "></a><div class="ttl4 marginLeft5">毎日遊べる！メダルを貯めてポイントGETしよう</div></h2><!--  -->                                        <p class="displayNone">毎日ゲームで遊んでメダルを貯めよう</p><a href="/play/select/" class="linkBlk">		<div class="topAbout171023">        <div class="bln"><span class="ttl3">ゲーム1回<br />につき2枚</span></div><ul class="clearfix">				<li class="partic">					<span class="top-About3step_topText ttlBlk">1,ゲームで遊んで<br>参加賞メダルGET</span>                					<div class="btmTxtBox ttl5"><div class="btmTxt">全員に参加賞<br /><span class="ttl1">毎日最大</span><span class="scr">260枚</span></div>					</div>				</li>				<li class="rank">					<span class="top-About3step_topText ttlBlk">2,ゲーム得点を競って<br />入賞メダルGET</span>					<img class="top-Step2_Inner" height="100" src="https://gamepark.akamaized.net/static.gamepark.net/images/common/icon_medal.svg" alt="" height="122">					<div class="btmTxtBox ttl5"><div class="btmTxt">ゲーム大会で<br /><span class="ttl1">毎日最大</span><span class="scr">130枚</span></div></div>				</li>				<li class="exchange top-Step3_Wrap">					<span class="top-About3step_topText ttlBlk">3,メダル100枚で抽選<br>ポイントGET</span>					<div class="top-Step3_Inner"><img class="top-Step3_Inner-imgLeft" height="80" src="https://gamepark.akamaized.net/static.gamepark.net/images/top/icon_lottery.svg" alt=""><img class="top-Step3_Inner-imgRight" height="80" src="https://cf.gamepark.net/warau-plus.gamepark.net/images/medal/obj_exc_pt.png" alt=" "></div>					<div class="btmTxtBox ttl5"><div class="btmTxt">1等が当たると<br /><span class="scr">2,000</span><span class="ttl1 scr">ポイント</span></div></div>				</li>			</ul></div></a>	<div class="btBox">        <div class="btBase btFull btGrn"><a href="https://www.warau.jp/"><span>ゲームで遊んでメダルを貯める</span></a></div></div>    </div></div>        <div class="sw-AdNetWorkDouble"><div class="sw-AdNetWork_Banner-336"><!-- 250_Lrectangle_2 -->
+<!-- 広告のJS: async属性をつけてください -->
+<script async src="https://yads.c.yimg.jp/js/yads-async.js"></script>
+
+<div id="yads17354_743567">
+  <!-- 広告展開先の要素: window.YJ_YADS.tasks.push()の実行前に要素がレンダリングされている必要があります -->
+</div>
+
+<!-- サービスのJS: YADSタグを実行してください。 -->
+<script>
+(function (window) {
+  window.YJ_YADS = window.YJ_YADS || { tasks: [] };
+  window.YJ_YADS.tasks.push(
+    {
+      yads_ad_ds: '17354_743567',
+      yads_parent_element: 'yads17354_743567'
+    }
+  );
+})(window);
+</script></div><div class="sw-AdNetWork_Banner-336"><!-- 251_Lrectangle_3 -->
+<!-- 広告のJS: async属性をつけてください -->
+<script async src="https://yads.c.yimg.jp/js/yads-async.js"></script>
+
+<div id="yads53521_743566">
+  <!-- 広告展開先の要素: window.YJ_YADS.tasks.push()の実行前に要素がレンダリングされている必要があります -->
+</div>
+
+<!-- サービスのJS: YADSタグを実行してください。 -->
+<script>
+(function (window) {
+  window.YJ_YADS = window.YJ_YADS || { tasks: [] };
+  window.YJ_YADS.tasks.push(
+    {
+      yads_ad_ds: '53521_743566',
+      yads_parent_element: 'yads53521_743566'
+    }
+  );
+})(window);
+</script></div></div>                <div class="discriptionBox radius sw-MarginTopCommon paddingBtm7"><h2 class="topAboutTitle radiusTopLR ttlWht ttl5"><img src="https://gamepark.akamaized.net/static.gamepark.net/images/common/icon_faq.svg" alt="" class="marginRight5">GameParkの遊び方</h2><h3 class="ttl"><div class="ttl4">                メダルの貯め方は2パターン！毎日貯めて抽選でポイントGET</div></h3>    <div class="partic1_160705"><p class="fontBold L5 about">ゲームで遊ぶだけで、毎日メダル最大<span class="scr">260枚</span>もらえる！たくさん遊んでメダルをGETしよう！</p>        <div class="ttl title"><span class="ttl7">毎日ゲームで遊ぶだけで</span><div class="ylw"><span class="ttl7">メダル最大</span><span class="ttl9">260</span><span class="ttl7">枚もらえる</span></div></div>        <img class="mdls" src="https://gamepark.akamaized.net/static.gamepark.net/images/top/obj_mdls.png" alt=" ">        <div class="participation ttl7 ttlBlk">1ゲーム1回につき<span class="ttlYel"> 2枚</span> GET</div>        <ul><li class="partic"><span class="topTxt ttlBlk ttl4">1 ゲームで遊んで</span></li><li class="rank"><span class="topTxt ttlBlk ttl4">2 参加賞GET</span><img src="https://gamepark.akamaized.net/static.gamepark.net/images/common/icon_medal.svg" alt=""></li><li class="exchange"><span class="topTxt ttlBlk ttl4">3 毎日最大 <span class="ttlYel">260枚</span></span><img src="https://gamepark.akamaized.net/static.gamepark.net/images/top/obj_mdls.png" alt=""></li></ul>    </div>    <div class="marginTop20 rank" id="rank">                <p class="fontBold L5">全ゲーム大会開催中！得点を競おう！<br/>            <span class="scr">TOP300位</span>入賞でメダル最大<span class="scr">130枚</span>GET        </p>        <div class="ttl title">            <span class="ttl7">全ゲームで大会開催中</span><div class="ylw"><span class="ttl7">毎日最大</span><span class="ttl9">130</span><span class="ttl7">枚GET</span></div></div>        <div class="about"><span class="ttl6 ttlBlk">1ゲームにつき<span class="ttl6 ttlYel">TOP300位</span>でメダルGET</span>        </div></div>    <div class="aboutRule radius marginBtm40"><ul class="L2"><li>ゲーム結果は、ゲーム結果画面が表示された時点で確定します。</li><li>当日のゲーム大会の順位は暫定となり、翌日中に確定します。</li><li>入賞メダルは翌日中に付与されます。<a href="/medal/detail/">メダル獲得履歴</a>でご確認ください。</li></ul></div>        <h3 class="exchange ttl"><div class="ttl4">ゲームで貯めたメダル100枚〜、抽選に参加できる</div></h3>    <div class="top-discriptionLot_Wrap"><img class="top-discriptionLot_Bdg" src="https://cf.gamepark.net/static.gamepark.net/images/top/obj_bdgLot.svg" width="118" alt="その3、抽選"><div class="top-discriptionLot_Txt">メダル100枚につき１回、ポイントが当たる抽選に参加することができます。（メダル枚数の指定はできません）</div>        <div class="ttl title ttl7 top-discriptionLot_Exa">例えば</div>            <img class="top-discriptionLot_Obj-mdls" src="https://gamepark.akamaized.net/static.gamepark.net/images/top/obj_mdls.png" alt=""><img class="top-discriptionLot_Obj-lottery" src="https://gamepark.akamaized.net/static.gamepark.net/images/top/icon_lottery.svg" alt=""><div class="ttl5 ttlBlk top-discriptionLot_Emphasis">メダル<span class="scr ttl6">1000枚</span> で→ <span class="scr ttl6">10回分</span>一度に抽選できる！</div>    </div>    <div class="top-discriptionLot_Box">        <img class="top-discriptionLot_Box-img" src="https://cf.gamepark.net/warau-plus.gamepark.net/images/medal/obj_exc_pt.png" alt=" "><div class="alignLeft">            <div class="ttl5">当選ポイント</div><ul class="L5 fontBold marginTop20"><li class="top-discriptionLot_List"><span>1等　：2,000ポイント</span></li><li class="top-discriptionLot_List"><span>2等　：1,000ポイント</span></li><li class="top-discriptionLot_List"><span>3等　：100ポイント</span></li><li class="top-discriptionLot_List"><span>4等　：10ポイント</span></li><li class="top-discriptionLot_List"><span>5等　：1ポイント</span></li><li class="top-discriptionLot_List"><span>6等　：メダル10枚</span></li></ul></div></div>    <div class="aboutRule radius"><ul class="L2"><li>メダルの有効期限は、獲得日から3ヶ月間です。</li>                                    <li>メダルは「抽選に参加する」ボタンを押した時点で、一括で抽選が行われます。<span class="scr fontBold">メダル枚数の指定はできません</span>のでご了承ください。</li>            <li>当選ポイントは、<a href="https://www.warau.jp/mypage/passbook/" target="_blank">ポイント通帳</a>よりご確認ください。※ポイントは15分以内に反映されます</li></ul></div><div class="top-discriptionStart_Wrap-warau"><div class="ttl top-discriptionStart_Inner"><span class="ttl5">今すぐゲームでメダルを貯めて</span><br><span class="ttl7">抽選に参加しよう！</span></div></div><div class="btBox">        <div class="btBase btFull btGrn"><a href="https://www.warau.jp/"><span>ゲームで遊んでメダルを貯める</span></a></div></div></div>
+            </div></div>    <div class="sidebar floatRight"><div class="clearBoth"></div><div class="sw-AdNetWork"><div class="sw_AdNetWork_Banner-largeSkyScraper"><!-- 249_largeskyscraper -->
+<!-- 広告のJS: async属性をつけてください -->
+<script async src="https://yads.c.yimg.jp/js/yads-async.js"></script>
+
+<div id="yads106867_743564">
+  <!-- 広告展開先の要素: window.YJ_YADS.tasks.push()の実行前に要素がレンダリングされている必要があります -->
+</div>
+
+<!-- サービスのJS: YADSタグを実行してください。 -->
+<script>
+(function (window) {
+  window.YJ_YADS = window.YJ_YADS || { tasks: [] };
+  window.YJ_YADS.tasks.push(
+    {
+      yads_ad_ds: '106867_743564',
+      yads_parent_element: 'yads106867_743564'
+    }
+  );
+})(window);
+</script></div>    </div>
+</div><div class="clearBoth"></div></div><img src="/c/9P_Hdn3zfUCupSxSP5HEyw" width="1" height="1" />
+<script type="text/javascript">$(document).ready(function(){		$('#replyDialog').dialog({autoOpen: false,open : function(event, ui) {$(".ui-dialog-titlebar").hide();},position: {of : '#dialogOfPosition',at: 'center+310 bottom+100',my: 'left top'},closeOnEscape: false,modal: true,height: 355,width: 440,draggable: false,resizable: false});		$("#replyBox").click(function() {$(this).hide();$('.btnClose').show();$('.ui-widget-overlay').hide();});		$('.btnClose').click(function() {$("#replyDialog").dialog('close');$(this).hide();});});</script><div id="replyDialog" style="display: none;height:310px; padding: 0;"><div id="replyBox" class="btDialogBox" style="bottom: 100px;"><div class="replyDialogBox"><a href="/faq/help/detail//" class="btBase btDialog btRed marginCenter btRedBorder displayBlock"><span class="L5 btBorder">回答をみる</span></a></div></div></div><div class="btnClose" style="display: none;cursor:pointer;"><img src="https://gamepark.akamaized.net/static.gamepark.net/images/common/btn_close.png" alt="" /></div>		<div class="clearBoth">&nbsp;</div>
+<div class="footer">
+	<div class="footer__image">
+	    <div class="footer__image--inner">
+            <div class="footer__credit">
+                <span class="L2">本サービスは株式会社オープンスマイルが提供するサービスです。Copyright(C) OPEN SMILE Inc. All rights reserved.</span><br>
+                <a href="https://www.opensmile.co.jp/corp/company/management/" class="L3 fontBold footer__txt">運営者情報</a>｜<a href="https://www.opensmile.co.jp/corporate/privacy/" class="L3 fontBold footer__txt">プライバシーポリシー</a>
+            </div>
+		</div>
+	</div>
+	</div>
+</body>
+</html>

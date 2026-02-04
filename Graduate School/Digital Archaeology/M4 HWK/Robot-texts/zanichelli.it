@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /scienza-a-scuola/matematica-e-fisica/relatori-e-conferenze$
+Disallow: /scienza-a-scuola/relatori-e-conferenze$
+Disallow: /scienza-a-scuola/scienze-naturali/relatori-e-conferenze$
+Disallow: /ricerca/?*
+Disallow: /ricerca?*
+
+User-agent: Test Certificate Info
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+Sitemap: https://www.zanichelli.it/sitemap-index.xml

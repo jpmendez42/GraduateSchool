@@ -1,0 +1,10 @@
+# robots.txt for https://www.vdi.de/
+User-agent: *
+Disallow: /typo3conf/ext/vdi_rili_einspruch/
+Disallow: /xml/
+Disallow: /fileadmin/pages/mein_vdi/redakteure/publikationen/Neufassung_Satzung_vom_13.12.2018.pdf
+Disallow: /fileadmin/pages/mein_vdi/redakteure/publikationen/GO_beschlossen_von_der_VV_am_13._Dezember_2018.pdf
+Disallow: /mitgliedschaft/login?
+Disallow: /mitgliedschaft/login/?
+Disallow: /suche?
+Disallow: /suche/?

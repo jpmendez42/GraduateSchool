@@ -1,0 +1,31 @@
+User-agent: *
+Disallow: /api
+Disallow: /dashboard/
+Disallow: */getFile/*
+Disallow: /search
+Disallow: /charts/show
+Disallow: /login
+Disallow: /password
+Disallow: /shop
+Disallow: /cookiegame/share
+
+User-agent: Yandex
+Allow: */feed
+Disallow: */getFile/*
+Disallow: /search
+Disallow: /login
+Disallow: /password
+Disallow: /charts/show
+Disallow: /shop
+Disallow: /cookiegame/share
+Clean-param: date
+Clean-param: letter
+Clean-param: page
+Clean-param: thread
+Clean-param: erid&allcomments&comment_id&link&hl&from&noredir&ref&nid&grs&sa&ved&preview&sort_method&r&nw&no_header&email&utm_test&id&suggest_reqid&utm_p&disableGlobalInfoCollect
+Clean-param: hcb&ltclid&utm_reqid&state&code&gcmlg&gcmes&msclkid&ggep_is_embeddable&fbclid&ocid&amp&utm_referrer&fromzen&s&utm_source&utm_medium&tpclid&back&inapp&fb_aggregation_id
+Clean-param: belhak&utf&registered&gtm_debug&thread&v&target&frm&fb_xd_fragment&o&phone_code
+Clean-param: ad_id
+Clean-param: nomination_id
+
+Sitemap: https://muz-tv.ru/sitemap.xml

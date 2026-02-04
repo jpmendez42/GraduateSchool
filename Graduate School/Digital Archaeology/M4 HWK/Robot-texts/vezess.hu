@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /modules/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /kereses/
+Disallow: /search/
+
+Sitemap: https://www.vezess.hu/sitemap.xml
+

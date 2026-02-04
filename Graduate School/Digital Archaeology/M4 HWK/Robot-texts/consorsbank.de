@@ -1,0 +1,10 @@
+# Consorsbank robots.txt AEM
+User-Agent: *
+Disallow:
+Disallow: /*CmsContentDetail* 
+Disallow: /*jsessionid*
+Disallow: /*evsid*
+Disallow: /testwiese
+Disallow: /content/dam/de-cb/*.pdf$
+# Disallow: /web-financialinfo-service/api/marketdata/securities*ChartHistoryV1*
+Sitemap: https://www.consorsbank.de/content/dam/de-cb/system/sitemap/sitemap.xml

@@ -1,0 +1,18 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /trackback/
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */comments/
+Disallow: */?s=
+Disallow: */?p=
+Disallow: /tag/
+Disallow: /argomento/
+Disallow: /brand/
+
+User-agent: SemrushBot
+Crawl-delay: 60
+
+Sitemap: https://www.linkiesta.it/sitemap_index.xml
+Sitemap: https://www.linkiesta.it/news-sitemap.xml

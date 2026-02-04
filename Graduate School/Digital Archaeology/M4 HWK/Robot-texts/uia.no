@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /vrtx
+Allow: /vrtx/dist/resources/x1/css/
+Allow: /vrtx/dist/resources/x1/images/

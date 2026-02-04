@@ -1,0 +1,84 @@
+# START MULTISITE BLOCK
+# ---------------------------
+User-agent: atlassian-bot
+Disallow:
+# ---------------------------
+# END MULTISITE BLOCK
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://unicamp.br/sitemap_index.xml
+Sitemap: https://multisite.unicamp.br/sitemap_index.xml
+Sitemap: https://prp.unicamp.br/sitemap_index.xml
+Sitemap: https://aeplan.unicamp.br/sitemap_index.xml
+Sitemap: https://deeduc.unicamp.br/sitemap_index.xml
+Sitemap: https://informacoes.unicamp.br/sitemap_index.xml
+Sitemap: https://institutoconfucio.unicamp.br/sitemap_index.xml
+Sitemap: https://gr.unicamp.br/sitemap_index.xml
+Sitemap: https://prpg.unicamp.br/sitemap_index.xml
+Sitemap: https://comissaoverdade.gr.unicamp.br/sitemap_index.xml
+Sitemap: https://gebc.relacoesinternacionais.unicamp.br/sitemap_index.xml
+Sitemap: https://cgu.unicamp.br/sitemap_index.xml
+Sitemap: https://deas.unicamp.br/sitemap_index.xml
+Sitemap: https://dados.unicamp.br/sitemap_index.xml
+Sitemap: https://upa.unicamp.br/sitemap_index.xml
+Sitemap: https://www.dgrh.unicamp.br/sitemap_index.xml
+Sitemap: https://privacidade.unicamp.br/sitemap_index.xml
+Sitemap: https://svc.unicamp.br/sitemap_index.xml
+Sitemap: https://ouvidoria.unicamp.br/sitemap_index.xml
+Sitemap: https://prdu.unicamp.br/sitemap_index.xml
+Sitemap: https://idea.unicamp.br/sitemap_index.xml
+Sitemap: https://educorp.unicamp.br/sitemap_index.xml
+Sitemap: https://cinfotec.unicamp.br/sitemap_index.xml
+Sitemap: https://internationaloffice.unicamp.br/sitemap_index.xml
+Sitemap: https://nepa.unicamp.br/sitemap_index.xml
+Sitemap: https://controladoria.unicamp.br/sitemap_index.xml
+Sitemap: https://bi0s.unicamp.br/sitemap_index.xml
+Sitemap: https://gastrocentro.unicamp.br/sitemap_index.xml
+Sitemap: https://geplanes.unicamp.br/sitemap_index.xml
+Sitemap: https://jornal.unicamp.br/sitemap_index.xml
+Sitemap: https://dengue.cecom.unicamp.br/sitemap_index.xml
+Sitemap: https://prefeituralimeira.unicamp.br/sitemap_index.xml
+Sitemap: https://direitoshumanos.unicamp.br/sitemap_index.xml
+Sitemap: https://bccl.unicamp.br/sitemap_index.xml
+Sitemap: https://detic.unicamp.br/sitemap_index.xml
+Sitemap: https://redecomepcampinas.unicamp.br/sitemap_index.xml
+Sitemap: https://bora.unicamp.br/sitemap_index.xml
+Sitemap: https://dea.unicamp.br/sitemap_index.xml
+Sitemap: https://prg.unicamp.br/sitemap_index.xml
+Sitemap: https://vivamais.cecom.unicamp.br/sitemap_index.xml
+Sitemap: https://www.fop.unicamp.br/sitemap_index.xml
+Sitemap: https://observatoriocaleidoscopio.unicamp.br/sitemap_index.xml
+Sitemap: https://simtec.unicamp.br/sitemap_index.xml
+Sitemap: https://prefeitura.unicamp.br/sitemap_index.xml
+Sitemap: https://nipe.unicamp.br/sitemap_index.xml
+Sitemap: https://linguagemsimples.unicamp.br/sitemap_index.xml
+Sitemap: https://deape.unicamp.br/sitemap_index.xml
+Sitemap: https://cemib.unicamp.br/sitemap_index.xml
+Sitemap: https://hc.unicamp.br/sitemap_index.xml
+Sitemap: https://cel.unicamp.br/sitemap_index.xml
+Sitemap: https://fea.unicamp.br/sitemap_index.xml
+Sitemap: https://hids.unicamp.br/sitemap_index.xml
+Sitemap: https://nepp.unicamp.br/sitemap_index.xml
+Sitemap: https://portal.fcm.unicamp.br/sitemap_index.xml
+Sitemap: https://depi.unicamp.br/sitemap_index.xml
+Sitemap: https://www.fem.unicamp.br/sitemap_index.xml
+Sitemap: https://cepetro.unicamp.br/sitemap_index.xml
+Sitemap: https://pesquisa.ie.unicamp.br/sitemap_index.xml
+Sitemap: https://plasma.unicamp.br/sitemap_index.xml
+Sitemap: https://www.cecom.unicamp.br/sitemap_index.xml
+Sitemap: https://bae.unicamp.br/sitemap_index.xml
+Sitemap: https://www.fe.unicamp.br/sitemap_index.xml
+Sitemap: https://hpglab.cepetro.unicamp.br/sitemap_index.xml
+Sitemap: https://gesec.sbu.unicamp.br/sitemap_index.xml
+Sitemap: https://pecim.unicamp.br/sitemap_index.xml
+Sitemap: https://fef.unicamp.br/sitemap_index.xml
+Sitemap: https://cbmeg.unicamp.br/sitemap_index.xml
+Sitemap: https://ccs.unicamp.br/sitemap_index.xml
+Sitemap: https://dga.unicamp.br/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

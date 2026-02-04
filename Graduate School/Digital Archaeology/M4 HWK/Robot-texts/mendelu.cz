@@ -1,0 +1,16 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /clenove-organu
+Disallow: /zamestnanci
+Disallow: /pracoviste
+Disallow: /lide-na-mendelu
+Disallow: /body-members
+Disallow: /staff
+Disallow: /workplace
+Disallow: /people-at-the-mendelu
+
+
+Sitemap: https://mendelu.cz/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

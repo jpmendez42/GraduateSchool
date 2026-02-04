@@ -1,0 +1,171 @@
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /_derived/
+Disallow: /_private/
+Disallow: /_vti_cnf/
+Disallow: /_vti_log/
+Disallow: /_vti_pvt/
+Disallow: /_vti_script/
+Disallow: /_vti_txt/
+Disallow: /web/business/
+Disallow: /web/business_fr/
+Disallow: /cpo/mc/assets/pdf/business/mmadvisor/
+Disallow: /shopper/item_description
+Disallow: /shopper/redirect_to_store/
+Disallow: /shopper/visit_store/
+Disallow: /shopper/visit_merchant/
+Disallow: /shopper/visit_review/
+Disallow: /shopper/redirect_to_external/
+Disallow: /shopper/merchants/top_deals/
+Disallow: /shopper/item_deal_comment/show/
+Disallow: /shopper/show_item_deals/
+Disallow: /shopper/show_reviews/
+Disallow: /shopper/goto_store/
+Disallow: /shopper/ttm/
+Disallow: /magasineur/item_description
+Disallow: /magasineur/redirect_to_store/
+Disallow: /magasineur/visit_store/
+Disallow: /magasineur/visit_merchant/
+Disallow: /magasineur/visit_review/
+Disallow: /magasineur/redirect_to_external/
+Disallow: /magasineur/merchants/top_deals/
+Disallow: /magasineur/item_deal_comment/show/
+Disallow: /magasineur/show_item_deals/
+Disallow: /magasineur/show_reviews/
+Disallow: /magasineur/goto_store/
+Disallow: /magasineur/ttm/
+Disallow: /maintenance_pages/
+Disallow: /errors/
+Disallow: /cpo/mc/personal/epost/collateral/
+Disallow: /cpotools/mc/app/tpo/orderentry/
+Disallow: /cpotools/mc/app/tpo/pym/
+Disallow: /scripts/
+Disallow: /offline/
+Disallow: /sso/lfe/ui/registration?templateId=cpcapps&stepupId=consumer
+Disallow: /sso/pfe/ui/registration?templateId=cpcapps&manifestId=cpgSecurity&stepupId=smb_mode1,smb_link,commercial_link
+Disallow: /ext/fr/
+Disallow: /ext/en/
+Disallow: /cpo/mc/app/personal/miniforms/northbound
+Disallow: /cpc/en/designsystem/mercury
+Disallow: /cpc/fr/designsystem/mercury
+Disallow: /cpc/en/mercury/
+Disallow: /scp/fr/mercure/
+Disallow: /en/mercury/
+Disallow: /fr/mercure/
+Disallow: /info/mc/business/partner/
+Disallow: /info/cg/entreprise/partenaire/
+Disallow: /web/en/kb/details.page?article=how_to_know_who_sign&cattype=kb&cat=receiving&subcat=tracking
+Disallow: /web/fr/kb/details.page?article=how_to_know_who_sign&cattype=kb&cat=receiving&subcat=tracking
+Disallow: /assets/pdf/blogs/mastering_your_e-commerce_operations.pdf
+Disallow: /assets/pdf/blogs/maitriser_la_vente_en_ligne.pdf
+Disallow: /web/assets/pdf/blogs/16723-returns-whitepaper_en.pdf
+Disallow: /web/assets/pdf/blogs/16723-returns-whitepaper_fr.pdf
+Disallow: /web/assets/pdf/blogs/canada-post-growing-e-commerce-in-canada-2016_en.pdf
+Disallow: /web/assets/pdf/blogs/canada-post-growing-e-commerce-in-canada-2016_fr.pdf
+Disallow: /web/assets/pdf/blogs/CanadaPost_The-Journey-to-Build-Loyalty-Among-Online-Shoppers.pdf
+Disallow: /web/assets/pdf/blogs/PostesCanada_Le-Parcours-de-la-fidelisation-de-lacheteur-en-ligne.pdf
+Disallow: /assets/pdf/parcels-returns-guide_en.pdf
+Disallow: /assets/pdf/parcels-returns-guide_fr.pdf
+Disallow: /assets/pdf/blogs/HolidaySuccessGuide_2018_EN.pdf
+Disallow: /assets/pdf/blogs/HolidaySuccessGuide_2018_FR.pdf
+Disallow: /magazine/
+Disallow: /zztest/
+Disallow: /lfe-cap/
+Disallow: /pfe-pap/
+Disallow: /cpc/en/personal/marketing/campaign/mymoney-account-employee.page
+Disallow: /scp/fr/personnel/marketing/campagne/compte-monargent-employe.page
+Disallow: /cpc/en/personal/marketing/campaign/mymoney-account-offer.page
+Disallow: /scp/fr/personnel/marketing/campagne/offre-compte-monargent.page
+Disallow: /cpc/doc/en/n/
+Disallow: /cpc/doc/fr/n/
+Disallow: /cpc/doc/en/business/developers/
+Disallow: /scp/doc/fr/entreprise/developpeurs/
+
+# Blogs Security Entries 
+Disallow: /blogs/wp-admin/
+Disallow: /blogs/wp-json/
+Allow: /blogs/wp-admin/admin-ajax.php
+
+Disallow: /blogues/wp-admin/
+Disallow: /blogues/wp-json/
+Allow: /blogues/wp-admin/admin-ajax.php
+
+Disallow: /blogs/personal/wp-admin/
+Disallow: /blogs/personal/wp-json/
+Allow: /blogs/personal/admin-ajax.php
+
+Disallow: /blogs/business/wp-admin/
+Disallow: /blogs/business/wp-json/
+Allow: /blogs/business/wp-admin/admin-ajax.php
+
+Disallow: /blogues/entreprise/wp-admin/
+Disallow: /blogues/entreprise/wp-json/
+Allow: /blogues/entreprise/wp-admin/admin-ajax.php
+
+Disallow: /blogues/personnel/wp-admin/
+Disallow: /blogues/personnel/wp-json/
+Allow: /blogues/personnel/wp-admin/admin-ajax.php
+# End Blogs Security Entries
+
+User-agent: Googlebot
+Disallow: /tools/pg/manual/PGcoa
+Disallow: /tools/pg/manual/PGholdmail
+Disallow: /personal/tools/pg/manual/PGcoa
+Disallow: /personal/tools/pg/manual/PGholdmail
+Disallow: /business/tools/pg/manual/PGcoa
+Disallow: /business/tools/pg/manual/PGholdmail
+Disallow: /common/tools/pg/manual/PGcoa
+Disallow: /common/tools/pg/manual/PGholdmail
+Disallow: /cpo/mc/personal/support/helpcentre/epost
+Disallow: /pca/Support/Contact/
+
+User-agent: Yahoo Slurp
+Disallow: /tools/pg/manual/PGcoa
+Disallow: /tools/pg/manual/PGholdmail
+Disallow: /personal/tools/pg/manual/PGcoa
+Disallow: /personal/tools/pg/manual/PGholdmail
+Disallow: /business/tools/pg/manual/PGcoa
+Disallow: /business/tools/pg/manual/PGholdmail
+Disallow: /common/tools/pg/manual/PGcoa
+Disallow: /common/tools/pg/manual/PGholdmail
+Disallow: /cpo/mc/personal/support/helpcentre/epost
+Disallow: /pca/Support/Contact/
+
+User-agent: bingbot
+Disallow: /tools/pg/manual/PGcoa
+Disallow: /tools/pg/manual/PGholdmail
+Disallow: /personal/tools/pg/manual/PGcoa
+Disallow: /personal/tools/pg/manual/PGholdmail
+Disallow: /business/tools/pg/manual/PGcoa
+Disallow: /business/tools/pg/manual/PGholdmail
+Disallow: /common/tools/pg/manual/PGcoa
+Disallow: /common/tools/pg/manual/PGholdmail
+Disallow: /cpo/mc/personal/support/helpcentre/epost
+Disallow: /pca/Support/Contact/
+
+User-agent: Ask Jeeves/Teoma
+Disallow: /tools/pg/manual/PGcoa
+Disallow: /tools/pg/manual/PGholdmail
+Disallow: /personal/tools/pg/manual/PGcoa
+Disallow: /personal/tools/pg/manual/PGholdmail
+Disallow: /business/tools/pg/manual/PGcoa
+Disallow: /business/tools/pg/manual/PGholdmail
+Disallow: /common/tools/pg/manual/PGcoa
+Disallow: /common/tools/pg/manual/PGholdmail
+Disallow: /cpo/mc/personal/support/helpcentre/epost
+Disallow: /pca/Support/Contact/
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+Sitemap: https://www.canadapost-postescanada.ca/cpc/doc/en/sitemap/sitemap.xml
+Sitemap: https://www.canadapost-postescanada.ca/scp/doc/fr/plandusite/plandusite.xml
+Sitemap: https://www.canadapost-postescanada.ca/blogs/business/sitemap_index.xml
+Sitemap: https://www.canadapost-postescanada.ca/blogues/entreprise/sitemap_index.xml
+Sitemap: https://www.canadapost-postescanada.ca/blogs/personal/sitemap_index.xml
+Sitemap: https://www.canadapost-postescanada.ca/blogues/personnel/sitemap_index.xml
+Sitemap: https://www.canadapost-postescanada.ca/sam/sitemap.xml
+Sitemap: https://www.canadapost-postescanada.ca/mpc/sitemap.xml

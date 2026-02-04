@@ -1,0 +1,10 @@
+User-agent: Googlebot
+User-agent: Googlebot-Image
+User-agent: Mediapartners-Google
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: *
+Allow: /
+
+Sitemap: https://uninove.br/sitemap.xml

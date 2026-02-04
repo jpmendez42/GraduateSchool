@@ -1,0 +1,78 @@
+User-Agent: baiduspider
+Disallow: /
+
+User-agent: Ezooms
+Disallow: /
+
+User-Agent: yeti
+Disallow: /
+
+User-Agent: twiceler
+Disallow: /
+
+User-Agent: dotbot
+Disallow: /
+
+User-agent: yandex
+Disallow: /
+
+User-Agent: *
+Disallow: /ageconfirm/
+Disallow: /apk/
+Disallow: /avatar/
+Disallow: /b/
+Disallow: /bbs/
+Disallow: /bbsmovie/
+Disallow: /blog/
+Disallow: /credit/
+Disallow: /data/
+Disallow: /deco/
+Disallow: /des/
+Disallow: /docomoemoji/
+Disallow: /ec/
+Disallow: /emoji/
+Disallow: /emojiall/
+Disallow: /event/
+Disallow: /get/
+Disallow: /hensin/
+Disallow: /hhh/
+Disallow: /hint/
+Disallow: /history/
+Disallow: /i/
+Disallow: /images/
+Disallow: /img/
+Disallow: /mail_backup/
+Disallow: /mgalleryimg/
+Disallow: /mmovsend/
+Disallow: /mshasend/
+Disallow: /oshiete/
+Disallow: /pinfo/
+Disallow: /prof/
+Disallow: /reas_src/
+Disallow: /reastest/
+Disallow: /res/
+Disallow: /search/
+Disallow: /shamail/
+Disallow: /spimg/
+Disallow: /t/
+Disallow: /template/
+Disallow: /top/
+Disallow: /tpimg
+Disallow: /tvphone/
+Disallow: /w/
+Disallow: /wbbsmovie/
+Disallow: /wgalleryimg/
+Disallow: /wjgalleryimg/
+Disallow: /wmovsend/
+Disallow: /wprofmovie/
+Disallow: /wshaimg/
+Disallow: /wshasend/
+Disallow: /wo/
+Disallow: /job/mobile/age.phtml
+
+Allow: /
+Allow: /index.phtml
+Allow: /pc
+Allow: /pub
+Allow: /job
+Allow: /moba8

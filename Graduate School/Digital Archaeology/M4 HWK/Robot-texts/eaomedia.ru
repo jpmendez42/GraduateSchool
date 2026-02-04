@@ -1,0 +1,78 @@
+User-agent: Yandex
+Allow: /export/new/news11.rss
+Allow: /journal/yandex_rss/all/
+
+User-agent: *
+Allow: /export/news.xml
+Allow: /news/apec
+
+Disallow: /aboutus
+Disallow: /p3
+Disallow: /p3_08.04
+Disallow: /p3_20.05
+Disallow: /admin
+Disallow: /travel/old
+Disallow: /user
+Disallow: /forum
+Disallow: /news/send/
+Disallow: /news/save/
+Disallow: /news/translate/
+Disallow: /news.htm
+Disallow: /news.txt
+Disallow: /vladivostoktimes
+Disallow: /afisha
+Disallow: /economics
+Disallow: /sport
+Disallow: /apec
+Disallow: /push
+Disallow: /connect
+Disallow: /connect/cp
+Disallow: /pda
+Disallow: /zakup
+Disallow: /wap
+Disallow: /old
+Disallow: /test
+Disallow: /phpajax
+Disallow: /_oldonline
+Disallow: /_online
+Disallow: /search
+Disallow: /glossary
+Disallow: /glossary/news/9594/
+Disallow: /glossary/news/9593/
+Disallow: /news/eao
+Disallow: /news/birobidjan
+Disallow: /news/khabarovsk
+Disallow: /news/khabkrai
+Disallow: /news/irkutsk
+Disallow: /news/oblast
+Disallow: /news/sakhalin/
+Disallow: /news/island/
+Disallow: /pda
+Disallow: /user/adverts
+Disallow: /archive
+Disallow: /news/hashtag/
+
+Disallow: /auto/badcopslist.php
+Disallow: /*/?nocache
+
+Disallow: /news/longread/
+Disallow: /news/articles/
+
+Disallow: /news/*preview=*
+
+Crawl-delay: 100
+
+Host: https://eaomedia.ru
+
+Sitemap: https://eaomedia.ru/sitemap.xml
+
+Clean-param: utm_source&utm_medium&utm_campaign&from&to&amp_lite&__twitter_impression&f_firm&y&lang
+
+User-agent: Yandex
+Crawl-delay: 30
+User-agent: MSNbot
+Crawl-Delay: 120
+User-agent: Slurp
+Crawl-Delay: 100
+User-agent: googlebot
+crawl-delay: 30

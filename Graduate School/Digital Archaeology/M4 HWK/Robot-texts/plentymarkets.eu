@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /plenty/
+Disallow: *ActionCall=WebActionArticleSearch*
+Disallow: *service=selector*
+Allow: /plenty/api/external.php
+Allow: /plenty/api/page_404.php
+Sitemap: https://www.plentymarkets.eu/sitemap.xml

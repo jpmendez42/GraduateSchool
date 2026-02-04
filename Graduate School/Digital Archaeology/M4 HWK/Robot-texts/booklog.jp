@@ -1,0 +1,53 @@
+Sitemap: https://booklog.jp/sitemaps
+
+User-agent: *
+Disallow: /login?ref=*
+Disallow: /buildhtml
+Disallow: /search?keyword=*
+Disallow: /opds?keyword=*
+Disallow: /users/*?display=*
+Disallow: /users/*/review*
+Disallow: /users/*/chart*
+Disallow: /users/*/goals
+Disallow: /users/*/goal/*
+Disallow: /users/*/following*
+Disallow: /users/*/follower*
+Disallow: /users/*/feed
+Disallow: /item/*/edit
+Disallow: /timeline/*
+Disallow: /questions/search?q=*
+Disallow: /booklog-premium-coupon/
+Disallow: /setting/
+
+User-agent: Slurp
+Crawl-delay: 15
+
+User-agent: Yetibot
+Crawl-delay: 15
+
+User-agent: bingbot
+Crawl-delay: 15
+
+User-agent: Y!J-BRJ/YATS
+Crawl-delay: 15
+
+User-agent: Exabot
+Crawl-delay: 15
+
+User-Agent: AhrefsBot
+Crawl-Delay: 20
+
+User-agent: PetalBot
+Crawl-Delay: 20
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: ICC-Crawler
+Disallow: /
+
+User-agent: meta-externalagent/1.1
+Disallow: /

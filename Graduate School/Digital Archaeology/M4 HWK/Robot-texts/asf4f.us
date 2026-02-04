@@ -1,0 +1,41 @@
+# Disallow Archiving
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /rooms/
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: *
+Disallow: /_special/banners/
+Disallow: /_special/iframe.php
+Disallow: /members/
+Disallow: /secure/
+Disallow: /photos/index.php?a=abuse
+Disallow: /gifts/?a=receipt
+Disallow: /chat/
+Disallow: /search/
+Disallow: /favorite/add/
+Allow: /webservices/blog-syndication.php
+Allow: /webservices/performer-lists.php
+Allow: /webservices/rooms-list.php
+Disallow: /webservices/
+Disallow: /users/
+Disallow: /videos/webservices/
+Disallow: /videos/index.php
+Disallow: /videos/guys/
+Disallow: /videos/girls/
+Disallow: /videos/trans/
+
+Disallow: /*sort_type=*
+Disallow: /*transform=*
+Disallow: /*show_modal=*
+
+Sitemap: https://www.flirt4free.com/sitemap-index.xml
+Sitemap: https://www.flirt4free.com/sitemap.xml.gz
+
+User-agent: Twitterbot
+Disallow: 
+

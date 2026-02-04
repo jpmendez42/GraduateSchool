@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /?s=*
+Disallow: /*?s=*
+Disallow: /?ssp_iabi=
+Disallow: /?fbclid=
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.piuricette.it/news-sitemap.xml
+Sitemap: https://www.piuricette.it/sitemap_index.xml

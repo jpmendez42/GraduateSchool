@@ -1,0 +1,131 @@
+User-agent: *
+
+# Disable checkout & customer account
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /sendfriend/
+Disallow: /productalert/*
+
+# Disable Search pages
+Disallow: /catalog/
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/
+Disallow: /catalog/category/view/
+Disallow: /catalog/product/view/
+
+#Disallow URL Filter Searches
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /?mode
+
+#Restrict Technical Files
+Disallow: /*.php$
+Disallow: /*SID=
+Disallow: /api.php
+Disallow: /cron.php
+Disallow: /cron.sh
+Disallow: /error_log
+Disallow: /get.php
+Disallow: /install.php
+Disallow: /LICENSE.html
+Disallow: /LICENSE.txt
+Disallow: /LICENSE_AFL.txt
+Disallow: /README.txt
+Disallow: /RELEASE_NOTES.txt
+Disallow: /composer.json
+Disallow: /composer.lock
+Disallow: /CONTRIBUTING.md
+Disallow: /CONTRIBUTOR_LICENSE_AGREEMENT.html
+Disallow: /COPYING.txt
+Disallow: /Gruntfile.js
+Disallow: /nginx.conf.sample
+Disallow: /package.json
+Disallow: /php.ini.sample
+
+# Restrict Technical Directories
+Disallow: /pkginfo/
+Disallow: /report/
+Disallow: /var/
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+Disallow: /phpserver/
+Disallow: /pub/
+
+# Disable Tag & Review (Avoid duplicate content)
+Disallow: /tag/
+Disallow: /review/
+
+# Disable facets (Avoid crawl flooding)
+# For all categories and all QS params
+Disallow: */c-*?*activite_type*
+Disallow: */c-*?*activity*
+Disallow: */c-*?*bottom_length_label*
+Disallow: */c-*?*bottom_size_label*
+Disallow: */c-*?*brand_filter*
+Disallow: */c-*?*categorie*
+Disallow: */c-*?*category_gear*
+Disallow: */c-*?*climate*
+Disallow: */c-*?*closing_mode_donning*
+Disallow: */c-*?*collar*
+Disallow: */c-*?*color_filterable*
+Disallow: */c-*?*eco_collection*
+Disallow: */c-*?*erin_recommends*
+Disallow: */c-*?*features_bags*
+Disallow: */c-*?*fit_shape*
+Disallow: */c-*?*fit_underwired*
+Disallow: */c-*?*format*
+Disallow: */c-*?*gender*
+Disallow: */c-*?*innotechno_level*
+Disallow: */c-*?*innovation*
+Disallow: */c-*?*manufacturer*
+Disallow: */c-*?*material*
+Disallow: */c-*?*new*
+Disallow: */c-*?*other_size_label*
+Disallow: */c-*?*pattern*
+Disallow: */c-*?*performance_fabric*
+Disallow: */c-*?*price*
+Disallow: */c-*?*product_typology*
+Disallow: */c-*?*purpose*
+Disallow: */c-*?*sale*
+Disallow: */c-*?*shoe_size_label*
+Disallow: */c-*?*size_bust*
+Disallow: */c-*?*size_cup*
+Disallow: */c-*?*sleeve*
+Disallow: */c-*?*sleeve_type*
+Disallow: */c-*?*strap_bags*
+Disallow: */c-*?*style_bags*
+Disallow: */c-*?*style_bottom*
+Disallow: */c-*?*style_general*
+Disallow: */c-*?*top_size_label*
+Disallow: */c-*?*towel_size_label*
+Disallow: /catalog/category/view/id/*?*
+Disallow: /c-*?*color_basis[*
+
+# Disable sorting (Avoid duplicate content)
+Disallow: /*?*product_list_mode=
+Disallow: /*?*product_list_order=
+Disallow: /*?*product_list_limit=
+Disallow: /*?*product_list_dir=
+
+# Disable version control folders and others dev related files
+Disallow: /*.git
+Disallow: /*.CVS
+Disallow: /*.zip$
+Disallow: /*.svn$
+Disallow: /*.idea$
+Disallow: /*.sql$
+Disallow: /*.tgz$
+
+# pre NEP old URLs
+Disallow: /product?*
+
+Sitemap: http://www.damart.fr/media/nep_fr_fr_cms.xml
+Sitemap: http://www.damart.fr/media/nep_fr_fr_product.xml
+Sitemap: http://www.damart.fr/media/nep_fr_fr_category.xml

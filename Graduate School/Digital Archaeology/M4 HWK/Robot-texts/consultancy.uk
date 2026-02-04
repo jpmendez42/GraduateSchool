@@ -1,0 +1,51 @@
+User-agent: Googlebot*
+Allow: /
+Crawl-delay: 5
+Sitemap: https://www.consultancy.uk/sitemap_index.xml
+
+
+User-agent: sentibot
+Crawl-delay: 20 #wait 20 seconds before requesting the next page
+
+
+User-agent: serpstatbot
+Crawl-delay: 20
+
+
+User-agent: AhrefsBot
+Crawl-Delay: 20
+
+
+User-agent: BingBot
+Crawl-delay: 15
+
+
+User-agent: SeznamBot
+Crawl-Delay: 20
+
+
+User-Agent: MJ12bot
+Crawl-Delay: 20
+
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Barkrowler
+Crawl-delay: 20
+
+
+User-agent: SemrushBot
+Crawl-delay: 20
+
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: *
+Allow: /
+Sitemap: https://www.consultancy.uk/sitemap_index.xml
+Crawl-delay: 15 #wait 15 seconds before requesting the next page
+
+
+Sitemap: https://www.consultancy.uk/sitemap_index.xml

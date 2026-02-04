@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /*zglos-naruszenie.html
+Disallow: /*odpowiedz.html
+Disallow: /*komentuj.html
+Disallow: /*?fb_*
+Disallow: /*dodaj-watek.html
+Disallow: /*watek-odpowiedz.html
+Disallow: /*odpowiedz-cytuj.html
+Disallow: /*td-naruszenie-zasad.html
+
+Allow: /
+
+Sitemap: https://www.kiskegyed.hu/sitemap-taxonomy.xml.gz
+Sitemap: https://www.kiskegyed.hu/sitemap-stories-latest-latest.xml.gz
+Sitemap: https://www.kiskegyed.hu/sitemap-service-nodes.xml.gz
+Sitemap: https://www.kiskegyed.hu/sitemap-stories-news-index.xml.gz
+Sitemap: https://www.kiskegyed.hu/sitemap-stories-by-month-index.xml.gz
+Sitemap: https://www.kiskegyed.hu/sitemap-authors
+Sitemap: https://recepttar.kiskegyed.hu/sitemap-google-nodes
+Sitemap: https://recepttar.kiskegyed.hu/sitemap-stories-by-month-index.xml.gz
+Sitemap: https://recepttar.kiskegyed.hu/sitemap-authors

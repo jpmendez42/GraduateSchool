@@ -1,0 +1,7 @@
+﻿User-agent: *
+Disallow: /episerver/
+Disallow: /util/
+Disallow: /modules/
+Disallow: /error/
+Disallow: /*?productid=*
+Sitemap: https://www.1177.se/sitemap.xml

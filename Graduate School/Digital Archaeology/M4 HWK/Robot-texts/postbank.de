@@ -1,0 +1,22 @@
+User-agent: * 
+Disallow: /cip/
+Disallow: /dienste/mdata/download
+Disallow: /dam/postbank/pdf/allgemein/Postbank-Allgemeine-Geschaeftsbedingungen-676-030-011-*.pdf
+Disallow: /dam/postbank/pdf/allgemein/Postbank-Informationen-Bedingungen-Konto-921-001-199-*.pdf
+Disallow: /dam/postbank/pdf/allgemein/Postbank-Preis-und-Leistungsverzeichnis-923-959-000-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/Postbank-Preisaushang-678-147-007-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Aufloesung-eines-Girokontos-921-115-200-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Giro-Antrag-Postbank-Card-923-160-000-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Giro-direkt-Produktinformationsblatt-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Giro-extra-plus-Entgeltinformation-923-960-081-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Giro-plus-Produktinformationsblatt-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Giro-pur-Entgeltinformation-923-960-085-*5.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Giro-pur-Produktinformationsblatt-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Girokonten-Kontowechselhilfe-921-001-062-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Girokonto-Modelle-678-142-128-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/konten/Postbank-Privat-Girokonten-Umwandlung-Gemeinschaftskonto-921-102-550-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/sparen/Postbank-Tagesgeld-Produktinformationsblatt-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/sparen/Postbank-Zinssparen-Bedingungen-923-933-023-*.pdf
+Disallow: /dam/postbank/pdf/privatkunden/sparen/Postbank-Zinssparen-Produktinformationsblatt-*.pdf
+
+Sitemap: https://www.postbank.de/sitemap.xml 

@@ -1,0 +1,22 @@
+# robots.txt for alternate
+# 22. November 2022
+# access allowed
+User-agent: *
+Disallow: *.pdf
+Disallow: *.json
+Disallow: /rest/
+Disallow: /productShareModal.xhtml
+Disallow: /addQuestion.xhtml
+Disallow: /addAnswer.xhtml
+
+Sitemap: https://fr.alternate.be/sitemap.xml.gz
+Sitemap: https://www.alternate.at/sitemap.xml.gz
+Sitemap: https://www.alternate.be/sitemap.xml.gz
+Sitemap: https://www.alternate.ch/sitemap.xml.gz
+Sitemap: https://www.alternate.de/sitemap.xml.gz
+Sitemap: https://www.alternate.dk/sitemap.xml.gz
+Sitemap: https://www.alternate.es/sitemap.xml.gz
+Sitemap: https://www.alternate.fr/sitemap.xml.gz
+Sitemap: https://www.alternate.it/sitemap.xml.gz
+Sitemap: https://www.alternate.lu/sitemap.xml.gz
+Sitemap: https://www.alternate.nl/sitemap.xml.gz

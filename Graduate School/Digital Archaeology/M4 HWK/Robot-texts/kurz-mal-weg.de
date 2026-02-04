@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /print/offer/
+
+User-agent: GPTBot
+Disallow: /
+
+SITEMAP: https://www.kurz-mal-weg.de/sitemap.xml

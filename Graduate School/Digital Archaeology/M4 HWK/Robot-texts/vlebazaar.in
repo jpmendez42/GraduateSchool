@@ -1,0 +1,39 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /system/
+Disallow: /checkout/
+Disallow: /cart/
+Disallow: /account/
+Disallow: /login/
+Disallow: /register/
+Disallow: /wishlist/
+Disallow: /compare/
+Disallow: /*?sort=
+Disallow: /*?limit=
+Disallow: /*&order=
+Disallow: /Mn-Pn-86
+Disallow: /*tracking=
+Disallow: /*filter=
+
+# Allow major bots
+User-agent: Googlebot
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
+# Block abusive crawlers
+User-agent: GPTBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+# Sitemaps
+Sitemap: https://vlebazaar.in/sitemap/sitemap_products.xml
+Sitemap: https://vlebazaar.in/sitemap/sitemap_category.xml
+Sitemap: https://vlebazaar.in/sitemap/sitemap_brand.xml
+Sitemap: https://vlebazaar.in/sitemap/sitemap_information.xml

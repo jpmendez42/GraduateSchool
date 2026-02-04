@@ -1,0 +1,9 @@
+            User-agent: *
+                            Disallow: /*/validate$
+                    Disallow: /*/index/count-cart-lines/format/json$
+                    Disallow: /*/currency/*
+                    Disallow: /*/newsletter/*
+                        Sitemap: https://www.easyname.at/sitemap.xml
+    
+User-agent: Riddler
+Disallow: /

@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>preis.de</title>
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        header {
+            background-color: #fafafa;
+        }
+
+        @font-face {
+          font-family: 'Dosis';
+          font-style: normal;
+          font-weight: 400;
+          src: url(/assets/fonts/Dosis_400.woff2) format('woff2');
+          unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+        }
+
+        body {
+            font-family: "Dosis", Tahoma, Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            color: #003761;
+        }
+
+        h1 {
+            margin-bottom: 50px;
+        }
+
+        .container {
+            max-width: 1000px;
+        }
+
+        footer {
+            margin-top: 3rem;
+            background-color: #6687a0;
+            padding: 1rem;
+            text-align: center;
+        }
+        
+        footer .nav-link {
+            padding: 0 10px;
+            color: #ffffff;
+        }
+
+        .logo {
+            height: 36px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrapper d-flex flex-column min-vh-100">
+        <header class="mb-3">
+            <nav class="navbar navbar-expand-lg navbar-dark text-white">
+                <div class="container container-fluid">
+                    <a class="navbar-brand" href="/">
+                        <img src="/assets/img/preisde_logo.svg" alt="Logo" class="logo">
+                    </a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false"
+                        aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+            </nav>
+        </header>
+        <main class="flex-grow-1">
+            <div class="container mt-5">
+                <h1> Leider geschlossen!</h1>
+<p> Liebe Nutzerinnen und Nutzer,</p>
+<p> Preis.de stellt nach vielen erfolgreichen Jahren seinen Betrieb in der bisherigen Form ein. Wir arbeiten jedoch
+    bereits an einem Modell, das wir so schnell wie möglich umsetzen werden. </p>
+<p> Bis dahin empfehlen wir euch <a href="https://www.idealo.de/"><u>idealo</u></a>, eine der führenden
+    Preisvergleichsplattformen in
+    Europa. </p>
+<p> Euer Preis.de-Team</p>
+
+
+            </div>
+        </main>
+        <footer class="d-flex justify-content-center mt-3 p-3">
+            
+            <a href="/imprint.html" class="nav-link">
+              Impressum
+            </a>
+            
+            <a href="/privacy.html" class="nav-link">
+              Datenschutzerklärung
+            </a>
+            
+          </footer>
+    </div>
+
+    <script src="/assets/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>

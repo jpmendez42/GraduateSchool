@@ -1,0 +1,49 @@
+User-agent: googlebot
+User-agent: google
+User-agent: bingbot
+User-agent: bing
+User-agent: DuckDuckBot
+User-agent: Slurp
+User-agent: Yandex
+Crawl-delay: 5
+Disallow: /filer
+Disallow: /sok
+Disallow: /eli/*
+Disallow: /error/404
+Disallow: /service/
+Disallow: /pro/iplogin
+Disallow: /pro/ip
+Disallow: /pro/m/*
+Disallow: /pro/MV/v
+Disallow: /pro/NL/v
+Disallow: /pro/TRAKTAT/*
+Disallow: /pro/TRAKTATEN/*
+Disallow: /pro/SF/*
+Disallow: /pro/OV/v
+Disallow: /pro/JB/v
+Disallow: /pro/LTI/*
+Disallow: /pro/LTII/*
+Disallow: /pro/SPH/*
+Disallow: /pro/PV/*
+Disallow: /pro/SJ/*
+Disallow: /pro/auth/*
+Disallow: /pro/varsling/auth/*
+Disallow: /dokument/*/avgjorelse/*
+Disallow: /static/EMDN/*.html
+Disallow: /static/
+Disallow: /tjenester/efogregistration
+Sitemap: https://lovdata.no/sitemap.xml
+
+User-agent: SiteimproveBot
+Disallow: /
+User-agent: SiteimproveBot-Crawler
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: *
+Disallow: /

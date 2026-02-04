@@ -1,0 +1,119 @@
+#Disallow all crawlers access to certain pages. 
+User-agent: * 
+Disallow: /img/
+Disallow: /account/
+Disallow: /login/
+Disallow: /checkout/
+Disallow: /busca/
+Disallow: /quick-view/
+Disallow: /espiar/
+Disallow: /buscapagina/
+
+# ALLOWs QUE DEBEN ESTAR SIEMPRE
+User-agent: *
+Allow: /*.css
+Allow: /*.jpeg
+Allow: /*.js
+Allow: /*.png
+Allow: /*.webp
+Allow: /*.jpg
+
+# URLS NO DEBEN APARECER
+
+User-agent: *
+Disallow: /secure/
+Disallow: /account/
+Disallow: /admin/
+Disallow: /busca/
+Disallow: /login/
+Disallow: /buscapagina
+Disallow: /buscavazia
+Disallow: /buscavazia/*
+Disallow: /checkout/
+Disallow: /checkout/*
+Disallow: /checkout#/*
+Disallow: /checkout/#/cart
+Disallow: /checkout/cart/add
+Disallow: /checkout#/
+Disallow: /coleccion/
+Disallow: /control/
+Disallow: /espiar/
+Disallow: /files/
+Allow: /files/*.js
+Allow: /files/*.css
+Allow: /_v/public/graphql/v1?*
+Allow: /_v/segment/graphql/v1?*
+Allow: /api/catalog_system/pub/products/search?fq=*
+Allow: /*?page=*
+Allow: /*?
+Allow: /api/dataentities/flashsale/search?_fields=*
+Allow: /api/dataentities/productsfs/search?_fields=*
+Allow: /api/sessions?items=*
+Disallow: /img/
+Disallow: /lista-de-deseos
+Disallow: /login
+Disallow: /quick-view/
+Disallow: /Sistema/
+Disallow: /Sistema/404
+Disallow: /Sistema/buscavazia
+Disallow: /wishlist
+Disallow:/te-ayudamos
+
+# URLS Solicitud Marketing
+
+Disallow:/facturacion-electronica
+Disallow:/seller-info
+Disallow:/prueba-faq
+Disallow:/terminos-de-promociones
+Disallow:/aviso-de-privacidad
+Disallow:/consulta-tu-factura
+Disallow:/facturacion-italika-cadenas
+Disallow:/modifica-tu-factura
+Disallow:/terminos-y-condiciones
+
+
+#DISALLOW URL PARAMETROS
+
+User-agent: *
+Disallow: /*?
+Allow: /*?idsku=
+Allow: /*utm_
+Disallow: /*&
+Disallow: /*%
+
+
+# EVITAR 404 ERRORES
+User-agent: *
+Disallow: /*.aspx
+
+# Allow specific	Google robots
+User-agent: Googlebot
+Disallow:
+
+User-agent: Adsbot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+User-agent: Googlebot-Video
+Disallow:
+
+User-agent: Googlebot-Mobile
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: Googlebot-Mobile
+Disallow:
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Disallow: https://checkout.elektra.mx/
+
+#SITEMAPS
+Sitemap: https://www.elektra.mx/sitemap.xml
+Sitemap: https://www.italika.mx/sitemap.xml

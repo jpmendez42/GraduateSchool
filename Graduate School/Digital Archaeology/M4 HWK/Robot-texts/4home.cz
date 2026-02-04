@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ScriptResource.axd
+Disallow: /WebResource.axd
+Disallow:
+
+Sitemap: https://www.4home.cz/sitemap.xml

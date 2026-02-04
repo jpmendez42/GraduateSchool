@@ -1,0 +1,21 @@
+User-agent: NerdyBot
+Disallow: /
+
+User-agent: *
+Disallow: /recherche/
+Disallow: /etag/
+Disallow: /eTagP
+Disallow: /inqChat.html
+Disallow: /terminer-ma-commande/
+Disallow: /forfait-mobile/creerpanier
+Disallow: /tester-ma-ligne/
+Disallow: /mobile/ma-commande/suivre-ma-commande/login
+Disallow: /mon-espace-client/redirect.html
+Disallow: /montres-connectees/cart/
+Disallow: /boutique/configuration/
+Disallow: /mon-espace-client/parrainage.html
+Disallow: /bounce
+Disallow: /*?device=b
+Disallow: /*?paramOffer
+Disallow: /*?token
+Disallow: /info-clients/avis-verifies-red/*?page

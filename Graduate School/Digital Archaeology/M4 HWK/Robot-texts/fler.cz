@@ -1,0 +1,93 @@
+User-agent: *
+
+Disallow: /database/
+Disallow: /includes/
+Disallow: /misc/
+Disallow: /modules/
+Disallow: /sites/
+Disallow: /themes/
+Disallow: /scripts/
+Disallow: /updates/
+Disallow: /profiles/
+Disallow: /aplikace/remote/
+Disallow: /aplikace/
+Disallow: /sys/
+Disallow: /flercore/
+Disallow: /labs/
+Disallow: /intern/
+Disallow: /api/
+Disallow: /component/
+
+
+Disallow: /nakup
+Disallow: /kosik
+Disallow: /objednavka
+Disallow: /objednavky
+Disallow: /mujfler
+Disallow: /posta
+Disallow: /uzivatel/
+Disallow: /nadsenci
+Disallow: /oblibenost-zbozi
+Disallow: /komentare
+Disallow: /udalosti
+Disallow: /notepad
+Disallow: /*?*listcart=
+Disallow: /diskuse?*thread=*
+Disallow: /diskuse?*m=*
+Disallow: /diskuse?*idt=*
+Disallow: /diskuse?*a=*
+
+Disallow: /flerbox-vlozit-vyrobek
+Disallow: /flerbox?sort=*
+Disallow: /flerbox?fid=*&sort=*
+Disallow: /flerbox?fid=*&wm=*
+
+
+
+Disallow: /zbozi/*?f=*_s:*
+
+Disallow: /zbozi/*?f=*_a:1
+Disallow: /zbozi/*?f=*_a:2
+Disallow: /zbozi/*?f=*_a:3
+Disallow: /zbozi/*?f=*_a:4
+Disallow: /zbozi/*?f=*_a:5
+Disallow: /zbozi/*?f=*_a:6
+Disallow: /zbozi/*?f=*_a:7
+Disallow: /zbozi/*?f=*_a:8
+Disallow: /zbozi/*?f=*_a:9
+
+Disallow: /zbozi/*?f=*pr:
+Allow: /zbozi/*?f=pr:_*
+
+Disallow: /zbozi/*?f=*.
+
+Disallow: /zbozi/*?f=*a:*;*;*
+
+Disallow: /zbozi/*?f=*&offset=*
+
+Disallow: /zbozi/*doporuceno
+
+Disallow: /zbozi/*?f=*o:
+
+Disallow: /zbozi/*?f=*search:
+
+Disallow: /zbozi/*prodejci?f=*
+
+Disallow: /shop/*?f=*
+Disallow: /shop/*?offset=*
+
+
+
+
+Disallow: /admin/
+Disallow: /comment/reply/
+Disallow: /logout/
+Disallow: /node/
+Disallow: /search/
+Disallow: /user/register/
+Disallow: /user/password/
+Disallow: /user/login/
+
+Sitemap: https://www.fler.cz/data/sitemap/index.xml
+
+# version=20250226-1

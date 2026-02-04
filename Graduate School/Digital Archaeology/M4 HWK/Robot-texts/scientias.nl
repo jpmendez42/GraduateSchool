@@ -1,0 +1,25 @@
+Sitemap: https://www.scientias.nl/sitemap.xml
+Sitemap: https://www.scientias.nl/news-sitemap.xml
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-content/uploads/2009/*
+Disallow: /wp-content/uploads/2010/*
+Disallow: /wp-content/uploads/2011/*
+Disallow: /wp-content/uploads/2012/*
+Disallow: /wp-content/uploads/2013/*
+Disallow: /wp-content/uploads/2014/*
+Disallow: /wp-content/uploads/2015/*
+Disallow: /wp-content/uploads/2016/*
+Disallow: /wp-content/uploads/2017/01/*
+Disallow: /wp-content/uploads/2017/02/*
+Disallow: /wp-content/uploads/2017/03/*
+Disallow: /wp-content/uploads/2017/04/*
+Disallow: /wp-content/uploads/2017/05/*
+Disallow: /wp-content/uploads/2017/06/*
+Disallow: /wp-content/uploads/2017/07/*
+Disallow: /01/*
+Disallow: /02/*
+Disallow: /03/*
+Disallow: /eleven/*

@@ -1,0 +1,1593 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja" dir="ltr" xmlns:og="http://ogp.me/ns#" xmlns:mixi="http://mixi-platform.com/ns#" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+<meta charset="UTF-8">
+<meta name="copyright" content="Copyright &copy; LivePocket All Rights Reserved." />
+<meta name="description" content="デジタルチケット販売サービスです。リアルも、オンラインも、ライブ、イベント、スポーツ、催事、演劇、セミナーなど、あらゆるジャンルのチケットを販売しています。誰でも簡単に、今すぐ自分たちで電子チケットを販売できるので、数多くのイベント主催者様に選ばれています。イベント開催時のウィズコロナ・アフターコロナ対応に必要な機能が揃っています。電子チケットなら、LivePocket（ライヴポケット）！" />
+<meta name="keywords" content="チケット販売,イベント管理,事前決済,ライブポケット,らいぽけ,チケット委託販売,直販,チケット直販,LivePocket-Ticket-,チケット販売,チケット作成,無料チケット,電子チケット,デジタルチケット,ウィズコロナ,アフターコロナ,ポストコロナ,新しい生活様式,ニューノーマル,入場記録,入場者管理,参加者,参加者管理,入場券,整理券,整理番号,指定席,非接触,非接触チケット,指定席チケット,日時指定,時間指定,QRコードチケット,QRチケット,QR,ウイズコロナ,キャッシュレス決済,同行者,分配,afterコロナ,withコロナ,digital ticket,LivePocket-Ticket-" />
+<meta name="site_name" content="LivePocket-Ticket-" />
+    
+
+    <title>LivePocket-Ticket-|電子チケット予約・購入・イベント検索</title>
+
+        <meta property="og:title" content="LivePocket-Ticket-|電子チケット予約・購入・イベント検索" />
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://t.livepocket.jp/" />
+        <meta property="og:image" content="https://t.livepocket.jp/images/lpt_logo_h.jpg" />
+        <meta property="og:description" content="デジタルチケット販売サービスです。リアルも、オンラインも、ライブ、イベント、スポーツ、催事、演劇、セミナーなど、あらゆるジャンルのチケットを販売しています。誰でも簡単に、今すぐ自分たちで電子チケットを販売できるので、数多くのイベント主催者様に選ばれています。イベント開催時のウィズコロナ・アフターコロナ対応に必要な機能が揃っています。電子チケットなら、LivePocket（ライヴポケット）！" />
+        <meta property="og:site_name" content="LivePocket-Ticket-" />
+        <meta property="fb:app_id" content="382927681730507" />
+
+
+<link type="text/css" href="https://t.livepocket.jp/pc_css/import.css" media="all" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css/add_class.css" media="all" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css/print.css" media="print" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css/jquery-ui.css" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_js/fancybox/jquery.fancybox-1.3.4.css" rel="stylesheet"/>
+<link type="text/css" href="https://t.livepocket.jp/pc_css/alertify.core.css" rel="stylesheet"/>
+<link type="text/css" href="https://t.livepocket.jp/pc_css/alertify.default.css" rel="stylesheet"/>
+<link type="text/css" href="https://t.livepocket.jp/pc_css/footer.css" media="all" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css_v3/pc/global_top.css" media="all" rel="stylesheet" />
+<link rel="stylesheet" type="text/css" href="https://t.livepocket.jp//css/goto_event_base.css" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css_v2/pc/goto_event.css" media="all" rel="stylesheet" />
+<link type="text/css" href="https://t.livepocket.jp/pc_css/_partial/banner.css?20210921" media="all" rel="stylesheet">
+<link type="text/css" href="https://t.livepocket.jp/pc_css/_partial/event_search.css?20210921" media="all" rel="stylesheet">
+<link type="text/css" href="https://t.livepocket.jp/pc_css/_partial/event_list_full_img2.css?20210921" media="all" rel="stylesheet">
+<link rel="stylesheet" href="https://t.livepocket.jp/css/jquery-jcflick.css?20210921" />
+<link rel="stylesheet" href="https://t.livepocket.jp/pc_css/global_top/layout.css?20210921" />
+<link rel="stylesheet" href="https://t.livepocket.jp/css/jquery.glide.css?20210921" />
+<link rel="stylesheet" href="https://t.livepocket.jp/pc_css_v3/pc/global_top.css?20210921" />
+<link rel="stylesheet" type="text/css" href="https://t.livepocket.jp//css/goto_event_base.css?20210921" />
+<link rel="stylesheet" type="text/css" href="https://t.livepocket.jp//css/slick.css?20210921" />
+
+<script src="//j.wovn.io/1" data-wovnio="key=P4kwS" async></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.ui.datepicker-ja.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/fancybox/jquery.fancybox-1.3.4.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.vEllipsis.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.cj-object-scaler.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/alertify.min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.skOuterClick.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/common.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp//pc_js/jquery.imgLiquid-min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/javascripts/cookie-common.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/javascripts/common-count.js"></script>
+<!--[if lt IE 10]>
+<script src="https://t.livepocket.jp/pc_js/ah-placeholder plugin.js"></script>
+<script src="https://t.livepocket.jp/pc_js/ie.js"></script>
+<![endif]-->
+
+<!--[if lt IE 9]>
+<script src="https://t.livepocket.jp/pc_js/html5shiv.js"></script>
+<![endif]-->
+
+<!--[if IE]>
+<script>
+  $.ajaxSetup({cache: false});
+</script>
+<![endif]-->
+<script type="text/javascript">
+    var Lpt = {"isLogin":false,"currentUser":null,"siteUrl":"https:\/\/t.livepocket.jp\/"}
+    Lpt.getUrl = function(route, ssl) {
+        if (typeof ssl === 'undefined' || ssl === null) {
+            ssl = location.procotol === 'https:';
+        }
+
+        var url = Lpt.siteUrl + route;
+
+        if (ssl) {
+            url = url.replace(/https?:\/\//, "https://");
+        } else {
+            url = url.replace(/https?:\/\//, "http://");
+        }
+
+        return url;
+    };
+
+    var base_url = 'https://t.livepocket.jp/';
+    var base_ssl_url = 'https://t.livepocket.jp/';
+    var load_count = 0;
+</script>
+
+<!-- tour, eventTOP画面のみ読み込む -->
+
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.tmpl.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/jquery.blockUI.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/sp-common.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/api.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/exdate.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/util.js?20211112"></script>
+
+<!-- 移行用のため追加 -->
+<script type="text/javascript" src="https://t.livepocket.jp/shared_js/util.js"></script>
+
+<script type="text/javascript">
+function logout() {
+    if (window.confirm('ログアウトします\nよろしいですか？\n\nYou are logging out. Is this alright?')) {
+        showProgress('ログアウトしています...');
+        API.post('sessions/destroy', function(data) {
+            hideProgress();
+            document.location.href = '/';
+        });
+    }
+}
+</script>
+
+<script type="text/javascript" src="https://t.livepocket.jp/javascripts/top.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/javascripts/jquery-jcflick-min.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/pc_js/lp.top.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/javascripts/jquery.glide.js"></script>
+<script type="text/javascript" src="https://t.livepocket.jp/javascripts/slick.min.js"></script>
+
+<script type="text/javascript">
+
+var limit_pu = 12;
+var offset_pu = 0;
+
+var limit_ns = 3;
+var offset_ns = 0;
+
+var pref_category_select_location = '';
+var timespec = '';
+
+Common.init = function() {
+
+    setTimeout(function(){
+        get_news(limit_ns, offset_ns);
+    },200);
+    //get_tags();
+
+    $('#form').submit(function(e){
+        if($('#search').val() == 'アーティスト、公演名から検索'){
+            $('#search').val('');
+        }
+        return true;
+    });
+
+    $('.timespec').bind('click', function() {
+        val = $(this).val();
+        if (val == timespec) {
+            $(this).removeAttr('checked');
+            timespec = '';
+            $('.detail_date_info').removeAttr('disabled');
+        } else {
+            timespec = val;
+            $(this).attr('checked', 'checked');
+            $('.detail_date_info').attr('disabled', 'disabled');
+        }
+        $('#form').submit();
+    });
+
+    $('.pref_category_select_location').bind('click', function() {
+        val = $(this).val();
+        if (val == pref_category_select_location) {
+            $(this).removeAttr('checked');
+            pref_category_select_location = '';
+        } else {
+            pref_category_select_location = val;
+            $(this).attr('checked', 'checked');
+        }
+    });
+
+    $('#events-link').show();
+
+    $('div.detail_date_info').hide();
+    $('div.detail_location_info').hide();
+    $('#search_options').hide();
+
+    remove_empty_slides_link()
+
+    $(window).load(function(){
+    
+        API.show_error('');
+        $('header').addClass('top-header');
+    });
+
+    // バナー小エリアのエンタリングを実行する
+    function centeringSmallBanner() {
+        setTimeout(function() {
+            $('#banner-area-small').css('display', '');
+            if ($('#banner-area-small ul').children() == undefined ||
+                $('#banner-area-small ul').children().length == 0 ||
+                $('#banner-area-small ul').children().length > 3) {
+                return;
+            }
+            var li_count = $('#banner-area-small ul').children().length;
+            var li_width = $($('#banner-area-small ul').children()[0]).width();
+            var box_width = li_width  * li_count + (20 * (li_count - 1));
+            $('#banner-area-small ul').width(box_width);
+        }, 0);
+    }
+    centeringSmallBanner();
+
+    //リサイズされたら、センタリングをする関数を実行する
+    $(window).resize(centeringSmallBanner);
+
+    // 画像用CSSクラスセット(縦長or横長)
+    setImageCssClass('.topics_item dd')
+
+    // 3点リーダー付与
+    addThreePoint('.topics_item dd')
+
+    /**
+    * 画像用CSSクラスセット(縦長or横長)
+    */
+    function setImageCssClass(list_name) {
+        $(list_name).each(function() {
+            var $target = $(this);
+
+            var img = $target.find('img');
+            var clone = img.clone();
+            clone
+                .css({
+                    display: 'none',
+                    position : 'absolute',
+                    overflow : 'visible'
+                })
+                .width('auto')
+                .height('auto');
+
+            $(clone).bind("load",function(){
+                if (this.width === this.height) {
+                    // 正方形
+                    $(img).addClass('square');
+
+                } else if (this.width < this.height) {
+                    // 縦長
+                    $(img).addClass('vertical');
+
+                } else {
+                    // 横長
+                    $(img).addClass('horizontal');
+                }
+                $(this).remove();
+            });
+
+            // DOMを一旦追加
+            $target.after(clone);
+        });
+    }
+
+    /**
+    * 3点リーダー付与
+    */
+    function addThreePoint(list_name) {
+        $(list_name).each(function() {
+            var $target = $(this);
+            var $target = $($target.find('span'));
+
+            // オリジナルの文章を取得する
+            var html = $target.html();
+
+            // 対象の要素を、高さにautoを指定し非表示で複製する
+            var $clone = $target.clone();
+            $clone
+                .css({
+                    display: 'none',
+                    position : 'absolute',
+                    overflow : 'visible'
+                })
+                .width($target.width())
+                .height('auto');
+            $clone.css('max-height', 'none');
+
+            // DOMを一旦追加
+            $target.after($clone);
+
+            // 指定した高さになるまで、1文字ずつ消去していく
+            while((html.length > 0) && ($clone.height() > $target.height())) {
+                html = html.substr(0, html.length - 1);
+                $clone.html(html + '...');
+            }
+
+            // 文章を入れ替えて、複製した要素を削除する
+            $target.html($clone.html());
+            $clone.remove();
+        });
+    }
+}
+
+$(function(){
+    $('a[href^=#]').click(function(){
+        var speed = 500;
+        var href= $(this).attr("href");
+        var target = $(href == "#" || href == "" ? 'html' : href);
+        var position = target.offset().top;
+        $("html, body").animate({scrollTop:position}, speed, "swing");
+        return false;
+    });
+});
+
+// .slidesがついた箇所をカルーセルに
+$(function(){
+       /*$('.keyvisual .inner').glide({
+        autoplay: 4000,
+        arrowsWrapperClass: 'top-slider-arrows',
+        arrowMainClass: 'top-slider-arrow',
+        arrowRightClass: 'arrow-right',
+        arrowLeftClass: 'arrow-left',
+        arrowRightText: ' ',
+        arrowLeftText: ' ',
+        animationTimingFunc: 'cubic-bezier(.42,0,.58,1)',
+        navigationClass: 'glide-nav',
+        navigationItemClass: 'glide-nav-item',
+        navigationCurrentItemClass: 'glide-nav-item-current'
+    });*/
+ });
+
+//リンクを取得して飛ばす
+$(function(){
+    $('.js-link').on('click', function(e){
+        //伝播をストップ
+        e.stopPropagation();
+        e.preventDefault();
+        location.href = $(this).attr('data-url');
+    });
+});
+
+// キービジュアルスライダー
+$(function() {
+    $('.keyvisual-slide').slick({
+        autoplay: true,
+        autoplaySpeed: 5000, // 5秒ごとにスライドする
+        speed: 800,
+        arrows: false,
+        pauseOnFocus: false,
+        pauseOnHover: false,
+        pauseOnDotsHover: false
+    }); 
+});
+
+$(window).scroll(function () {
+    if($(window).scrollTop() > 0) {
+        $('header').addClass('fixed');
+        $('.about').addClass('hidden');
+        $('.search').addClass('hidden');
+        $('.sell').addClass('hidden');
+        $('.buy span').addClass('scroll-position');
+        $('.buy a').addClass('scroll-position');
+    } else {
+        $('header').removeClass('fixed');
+        $('.about').removeClass('hidden');
+        $('.search').removeClass('hidden');
+        $('.sell').removeClass('hidden');
+        $('.buy span').removeClass('scroll-position');
+        $('.buy a').removeClass('scroll-position');
+    }
+});
+</script>
+
+
+<!-- バナー広告 -->
+<script data-ad-client="ca-pub-2166064557737318" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+
+    <!-- 購入者用チャットボット -->
+    <script>
+        (function (c, n, s) {
+            if (c[n] === void 0) {c['ULObject'] = n;
+                c[n] = c[n] || function () {(c[n].q = c[n].q || []).push(arguments)};
+                c[n].l = 1 * new Date();var e = document.createElement('script');
+                e.async = 1;e.src = s + "/chatbot.js";
+                var t = document.getElementsByTagName('script')[0];t.parentNode.insertBefore(e, t);}
+        })(window, 'ul_widget', 'https://support-widget.nakanohito.jp');
+        ul_widget('init', { 'id': 1801, 'lg_id': '' });
+    </script>
+
+    <style type="text/css">
+        #wovn-translate-widget {
+            bottom: 108px !important;
+        }
+    </style>
+
+</head>
+
+<!--[if !IE 8]><!-->
+<body>
+<!--<![endif]-->
+<!--[if IE 8 ]>
+<body class="ie8">
+<![endif]-->
+
+    <!-- 購入情報用のGTM eコマースコード -->
+    
+            <!-- Google Tag Manager -->
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9D7D7"
+        height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P9D7D7');</script>
+        <!-- End Google Tag Manager -->
+    
+<!-- content  -->
+
+<!-- 共通ヘッダ -->
+<header class="gheader">
+    <section class="clearfix">
+        <h1><a href="https://t.livepocket.jp/" >チケット予約・購入ならライヴポケット</a></h1>
+                <nav>
+            <ul class="login">
+                <li class="about">
+                    <a href="https://t.livepocket.jp/regist_navigation/user">ライブポケットとは？</a>
+                </li>
+                <li class="search">
+                    <a href="https://t.livepocket.jp/event/search">ライブ・イベントを探す</a>
+                </li>
+                                <li class="sell">
+                    <span>主催者の方（チケット販売）</span>
+                    <a href="https://t.livepocket.jp/owner/">新規登録</a>
+                    <a href="https://owner.livepocket.jp?acroot=header-new_p_o_l" target="_blank">ログイン</a>
+                </li>
+                                                <li class="buy">
+                    <span>チケットを購入される方</span>
+                    <a href="https://t.livepocket.jp/login?acroot=header-new_p_u_nl">新規登録 / ログイン</a>
+                </li>
+                            </ul>
+        </nav>
+        
+            </section>
+</header>
+<!-- /共通ヘッダ -->
+
+<div id="error_messages" class="hidden"></div>
+
+<!-- information_no_popup -->
+<section class="information_no_popup" id="navigation_no_popup" style="display: none;">
+  <div>
+    <p>LivePocket-Ticket-会員登録が完了しました</p>
+  </div>
+</section>
+<!-- /information_no_popup -->
+
+
+    
+    
+
+<!-- 新トップ -->
+<article id="lp-top">
+    <!-- キービジュアル -->
+    <div class="keyvisual">
+        <div class="keyvisual-slide">
+            <figure class="keyvisual-img" data-slick-index="1"></figure>
+            <figure class="keyvisual-img2" data-slick-index="2"></figure>
+            <figure class="keyvisual-img3" data-slick-index="3"></figure>
+            <figure class="keyvisual-img4" data-slick-index="4"></figure>
+        </div>
+        <div class="keyvisual-inner">
+            <p class="keyvisual-heading">ライブ／演劇／スポーツ／展示会／催事／セミナー／レッスン...etc<br>あらゆるジャンルで利用可能</p>
+            <h1 class="keyvisual-txt">電子チケットなら、<br>LivePocket -Ticket-</h1>
+            <!-- イベント検索 -->
+            <section class="keyvisual-event-search-area">
+                <div class="keyvisual-event-search-subarea">
+                <form id="form" class="form-flat" action="https://t.livepocket.jp/event/search" method="get" class="search">
+                    <!-- search-basic -->
+                    <div class="search-basic clearfix">
+                        <div class="keyvisual-search-area">
+                            <input type="search" name="word" id="search" class="search-keyword-box" value="" placeholder="イベント名、出演者名、会場名、タグ名、カテゴリ名で検索">
+                            <input type="submit" class="btn-search" value="検索" />
+                        </div>
+                        <ul class="search-keywords clearfix">
+                            <li><a href="https://t.livepocket.jp/event/search?word=ライブ">ライブ</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=フェス">フェス</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=ファンイベント">ファンイベント</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=スポーツ">スポーツ</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=舞台・演劇">舞台・演劇</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=イベント">イベント</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=コラボカフェ">コラボカフェ</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=アイドル">アイドル</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=セミナー">セミナー</a></li>
+                            <li><a href="https://t.livepocket.jp/event/search?word=オンラインイベント">オンラインイベント</a></li>
+                        </ul>
+                        <ul class="hot-keywords clearfix">
+                                                            <li><a href="https://t.livepocket.jp/event/search?word=%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3">オンライン</a></li>
+                                                            <li><a href="https://t.livepocket.jp/event/search?word=%E3%81%8A%E7%AC%91%E3%81%84">お笑い</a></li>
+                                                            <li><a href="https://t.livepocket.jp/event/search?word=%E5%A3%B0%E5%84%AA">声優</a></li>
+                                                            <li><a href="https://t.livepocket.jp/event/search?word=%E6%92%AE%E5%BD%B1%E4%BC%9A">撮影会</a></li>
+                                                            <li><a href="https://t.livepocket.jp/event/search?word=%E8%AC%8E%E8%A7%A3%E3%81%8D">謎解き</a></li>
+                                                    </ul>
+                    </div>
+                </form>
+                <div class="search-sub-area">
+                    <span class="category_link" style="display: block"><a href="#search-panel-category">カテゴリ一覧</a></span>
+                </div>
+                </div>
+            </section>
+            <!-- /イベント検索 -->
+
+        </div>
+    </div>
+    <!-- /キービジュアル -->
+
+    <!-- バナーエリア -->
+    <aside class="banner-area-middle no-bottom-mar">
+        <div class="banner-sub-area">
+            <a href="https://t.livepocket.jp/login?acroot=top_banner" class="banner-item">
+                <img src="https://t.livepocket.jp/pc_images_v3/pc/global_top/banner_login.png" alt="ログインバーナー" width="980" height="90">
+            </a>
+        </div>
+        <ul class="clearfix">
+                        <li class="js-banner-item-medium banner-item medium pull-left head-item">
+                <a href="https://sp.livepocket.jp/user-renewal/index.html" target="_blank">
+                    <img src="https://t.livepocket.jp/image/XoExVqBFuDuwwF5NzkvgWHqjwxrTCioqpVYJv6cjAM0pTlBL7mat856TUT35XsB4" alt="" width="475" height="130">
+                </a>
+            </li>
+                                    <li class="js-banner-item-medium banner-item medium pull-left">
+                <a href="https://misokin.jp/" target="_blank">
+                    <img src="https://t.livepocket.jp/image/OpRE4PEU3NSgWiQWX4nsaP7L6oRRJzS3IGxyaZeHcVikBIrDgmLWARZEIpimlUXg" alt="" width="475" height="130">
+                </a>
+            </li>
+                                            </ul>
+    </aside>
+    <!-- /バナーエリア -->
+
+        <!-- バナー広告 -->
+    <div style="margin:20px 0 70px 0; height:90px; text-align:center">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle"
+             style="display:inline-block; height:90px; width:970px"
+             data-ad-client="ca-pub-2166064557737318"
+             data-ad-slot="7329060648"
+             data-ad-format="horizontal"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+    <!-- ピックアップ -->
+    <section class="pickup-area" id="pickup-event-section">
+        <div class="inner">
+            <div id="pickup-content-area">
+                <div class="pickup-title">
+                    <p class="content-title"><span>PICK UP</span></p>
+                    <h2>ピックアップ イベント</h2>
+                </div>
+                <div class="event-list-area">
+                        <ul class="event-list-full-img clearfix">
+                                <li class="item">
+            <a href="https://t.livepocket.jp/e/2k0_x">
+            <figure>
+                            <img class="thumb-vertical" src="https://cdn.livepocket.jp/c!/a=0,u=0,w=233/image/WHIXNBDBe42vww3eigygO774EGYUeKCQV15wi8Rx33sbKIAfeR926G3mbD019sfm" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>11/2</li>                        <li>12:00</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">WASEDA ARENA SUMMIT vol.6</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年11月2日(日) 12:00&#xFF5E;
+                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/tokyo">東京都</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E6%97%A9%E7%A8%B2%E7%94%B0%E3%82%A2%E3%83%AA%E3%83%BC%E3%83%8A%7D">早稲田アリーナ</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BTele%7D">Tele</span>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD">音楽</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%82%A6%E6%A5%BD">邦楽</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/ef2ey">
+            <figure>
+                            <img class="thumb-vertical" src="https://cdn.livepocket.jp/c!/a=0,u=0,w=233/image/udysSeYhvk3IbkPaNA3DpgLoroAXytuHyoKx8CM67DYGjk3FrzYkqlfAM6HsLaop" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>11/1</li>                        <li>10:45</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">大サラダボウル2025</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年11月1日(土) 10:45&#xFF5E;
+                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/aichi">愛知県</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E5%B0%BE%E5%BC%B5%E6%97%AD%E5%B8%82%E6%96%87%E5%8C%96%E4%BC%9A%E9%A4%A8%E3%81%82%E3%81%95%E3%81%B2%E3%81%AE%E3%83%9B%E3%83%BC%E3%83%AB%7D">尾張旭市文化会館あさひのホール</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E6%9D%BE%E5%B1%B1%E5%BF%83%E7%BE%8E%7D">松山心美</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E6%A6%8A%E5%8E%9F%E6%A5%93%7D">榊原楓</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BNEW+RIVER%7D">NEW RIVER</span>                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD">音楽</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A7%E3%82%B9">フェス</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/theoutsider1">
+            <figure>
+                            <img class="thumb-vertical" src="https://cdn.livepocket.jp/c!/a=0,u=0,w=233/image/mxDQ82WfhJRNyBmHjmWiEDthbXcN73x4NRXYdw9aRyYRtXhjzVT2lAcNieZ0NruE" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sold_out">
+                        <li>売切れ</li>                                                <li>10/14</li>                        <li>14:00</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">THE OUTSIDER</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年10月14日(火) 14:00&#xFF5E;
+                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/tokyo">東京都</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E8%B1%8A%E6%B4%B2PIT%7D">豊洲PIT</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BSP+UNIT%7D">SP UNIT</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BPARTY+PARTY%7D">PARTY PARTY</span>                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD">音楽</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%82%A6%E6%A5%BD">邦楽</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/tokyu-kabukicho-tower202510">
+            <figure>
+                            <img class="thumb-vertical" src="https://cdn.livepocket.jp/c!/a=0,u=0,w=233/image/TsuYLa3wm3UUP1pwFlbsAWgTtDX0tvKnQjDmAjRJJ7mth8eTl4EzTK9jgWwUSLw9" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>10/25</li>                        <li>-</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">【入場無料】秋の祭典・ハロウィンフェス</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年10月25日 〜 10月26日                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/tokyo">東京都</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E6%9D%B1%E6%80%A5%E6%AD%8C%E8%88%9E%E4%BC%8E%E7%94%BA%E3%82%BF%E3%83%AF%E3%83%BC5%E9%9A%8E%7D">東急歌舞伎町タワー5階</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer="></span>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">展覧会・イベント</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%A3%9F%E3%83%95%E3%82%A7%E3%82%B9">食フェス</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    </ul>
+        <ul class="event-list-full-img clearfix">
+                        <li class="item">
+            <a href="https://t.livepocket.jp/t/s10pc">
+            <figure>
+                            <img class="thumb-horizontal" src="https://cdn.livepocket.jp/c!/a=0,u=0,h=240/image/cy6ENJLsqAUkGnWJyP5vYg0bpth91MqP2VSMuAMsCr972JbcdU7Cghq0eXR8huuq" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>9/7</li>                        <li>12:30</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">CAPCOM Pro Tour 2025 WORLD WARRIOR JAPAN Official Public Viewing</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年9月7日(日)&#xFF5E;
+                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/tokyo">東京都</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7Besports+Style+UENO+%E4%BB%96%7D">esports Style UENO 他</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer="></span>
+                                                                                            </li>
+                                                                                                    </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/7s7p0">
+            <figure>
+                            <img class="thumb-horizontal" src="https://cdn.livepocket.jp/c!/a=0,u=0,h=240/image/kiRongVpJRrg60PCMWQkg4QmsL1h0OfyXiZjq7vFqai5O8P1cqmxr76r6Ec2l1Tp" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>10/28</li>                        <li>19:30</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">CBCラジオ　第24回　お笑いオーディションLIVE 「笑スタ」</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年10月28日(火) 19:30&#xFF5E;
+                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/aichi">愛知県</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7BCBC1%E3%82%B9%E3%82%BF%E3%83%9B%E3%83%BC%E3%83%AB%7D">CBC1スタホール</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E4%B8%AD%E5%B1%B1%E3%83%9E%E3%82%B5%E3%82%AD%7D">中山マサキ</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E3%81%AA%E3%81%8B%E3%81%97%7D">なかし</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E8%B5%A4%E6%9D%BE%E4%BA%BA%E7%94%9FZ%7D">赤松人生Z</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E3%83%89%E3%83%9F%E3%83%8E%7D">ドミノ</span>                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">演劇・ステージ</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%AC%91%E3%81%84">お笑い</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/music7">
+            <figure>
+                            <img class="thumb-horizontal" src="https://cdn.livepocket.jp/c!/a=0,u=0,h=240/image/JIqcMmMjFUpULk73GwMEUG8NKpRAp3XjG372zYovKJbnym25NTKN99vqXHa5BtT5" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>10/18</li>                        <li>13:30</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">10月18日（土）新宿ReNY 「MUSIC CONNECT Vol.7」</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年10月18日(土) 13:30&#xFF5E;
+                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/tokyo">東京都</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E6%96%B0%E5%AE%BFReNY%7D">新宿ReNY</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BToP+DoG%7D">ToP DoG</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BDarli%27a%7D">Darli'a</span>                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD">音楽</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%82%A6%E6%A5%BD">邦楽</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/highfive2025">
+            <figure>
+                            <img class="thumb-vertical" src="https://cdn.livepocket.jp/c!/a=0,u=0,w=233/image/VR9HzUWB0SreT3MW4UB0ixKITzFV68mRZ25ySmGWCE7vhSBdDwQot5f9Icatg8Nd" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>10/18</li>                        <li>00:00</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">Pororoca pre. HIGH FIVE CIRCUIT FES.2025</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年10月18日(土) 00:00&#xFF5E;
+                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/tokyo">東京都</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E4%B8%8B%E5%8C%97%E6%B2%A2%E8%A4%87%E6%95%B0%E4%BC%9A%E5%A0%B4%7D">下北沢複数会場</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BPororoca%7D">Pororoca</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7BPororoca%7D">Pororoca</span>                                                                                            </li>
+                                                                                                    </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    </ul>
+        <ul class="event-list-full-img clearfix">
+                        <li class="item">
+            <a href="https://t.livepocket.jp/e/eqzz1">
+            <figure>
+                            <img class="thumb-horizontal" src="https://cdn.livepocket.jp/c!/a=0,u=0,h=240/image/NdDexukusRS8QiG9DpACcVv9ukSF8KeD2RL3OCeu0fcguNjlR5pq0fhFlwUPgmfr" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>11/15</li>                        <li>-</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">KPF2025　コスプレイベント</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年11月15日 〜 11月16日                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/fukuoka">福岡県</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E5%8C%97%E4%B9%9D%E5%B7%9E%E3%83%A1%E3%83%83%E3%82%BB%7D">北九州メッセ</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer="></span>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E8%B6%A3%E5%91%B3%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC">趣味・カルチャー・レジャー</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/tag/Cosplay">コスプレ</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/menpaku2025">
+            <figure>
+                            <img class="thumb-horizontal" src="https://cdn.livepocket.jp/c!/a=0,u=0,h=240/image/w1e06tnSxM4uwsYtcltfR8LkOr23MIV8L3RR2oyeNzkW6O05OsqWRHHoGN13p9dv" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>11/7</li>                        <li>-</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">啜って 笑って 宅麺 × よしもと ラーメン博 #メンパク 〜名店ラーメンとお笑いの最強タッグでお届け〜</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年11月7日 〜 11月9日                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/chiba">千葉県</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E3%82%A4%E3%82%AA%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%AB%E5%B9%95%E5%BC%B5%E6%96%B0%E9%83%BD%E5%BF%83+%E8%B1%8A%E7%A0%82%E5%85%AC%E5%9C%92%7D">イオンモール幕張新都心 豊砂公園</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E3%81%A1%E3%82%87%E3%82%93%E3%81%BE%E3%81%92%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%7D">ちょんまげラーメン</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E9%AC%BC%E8%B6%8A%E3%83%88%E3%83%9E%E3%83%9B%E3%83%BC%E3%82%AF%7D">鬼越トマホーク</span>                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">展覧会・イベント</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E9%A3%9F%E3%83%95%E3%82%A7%E3%82%B9">食フェス</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/vu_pe">
+            <figure>
+                            <img class="thumb-vertical" src="https://cdn.livepocket.jp/c!/a=0,u=0,w=233/image/h2arkqI0nB2vi2EMjs6U9UTxtNA1pHrIUgIc1JrnuQ0bq7ebMAWopycvNvWBDlEL" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>10/15</li>                        <li>-</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">STEINS;GATE PHOTO EXHIBITION @書泉ブックタワー</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年10月15日 〜 10月22日                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/tokyo">東京都</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E6%9B%B8%E6%B3%89%E3%83%96%E3%83%83%E3%82%AF%E3%82%BF%E3%83%AF%E3%83%BC%7D">書泉ブックタワー</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer="></span>
+                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">展覧会・イベント</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A">展覧会</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                                    <li class="item">
+            <a href="https://t.livepocket.jp/e/au--q">
+            <figure>
+                            <img class="thumb-horizontal" src="https://cdn.livepocket.jp/c!/a=0,u=0,h=240/image/axfcJ6UXZhFL8U58QfVaejHTbvQC8aW5XiUCz6MB2FdqdArVMu5PyVJSMdlMKUpK" alt="" />
+                            <div class="status-view">
+                                        <ul class="status-sale">
+                        <li>販売中</li>                                                <li>11/21</li>                        <li>-</li>                                            </ul>
+                                    </div>
+                <figcaption class="caption">
+                    <h3 class="title">
+                        <div>
+                                                        <span class="title-inner">篠田千明×ナナン・アナント・ウィチャクソノ×たかくらかずき『まよかげ／Mayokage』</span>
+                        </div>
+                    </h3>
+                    <ul class="info">
+                                                    <li>                            2025年11月21日 〜 11月24日                            </li>
+                                                                                    <li>
+                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/area/kyoto">京都府</span>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?venue=%7B%E4%BA%AC%E9%83%BD%E8%8A%B8%E8%A1%93%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC%E3%80%80%E3%83%95%E3%83%AA%E3%83%BC%E3%82%B9%E3%83%9A%E3%83%BC%E3%82%B9%7D">京都芸術センター　フリースペース</span>
+                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?performer=%7B%E7%AF%A0%E7%94%B0%E5%8D%83%E6%98%8E%7D">篠田千明</span>                                                                                            </li>
+                                                                                    <li>
+                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">演劇・ステージ</span>,                                                                                                                                <span class="tag js-link" data-url="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87">演劇</span>                                                                                            </li>
+                                                                        </ul>
+                </figcaption>
+            </figure>
+            </a>
+        </li>
+                </ul>
+                </div><!-- /.event-list-area -->
+
+                <div class="text-center">
+                    <a href="https://t.livepocket.jp/event/pick_up" class="btn-more-large"><span>もっと見る</span></a>
+                </div>
+            </div>
+        </div><!-- /.inner -->
+    </section>
+    <!-- /ピックアップ -->
+
+    <!-- 新着イベント -->
+    <section class="new_events_area" id="new_events-section">
+        <div class="new_events">
+            <p class="content-title">NEW EVENTS</p>
+            <h2>新着イベント</h2>
+            <ul>
+                                <li>
+                    <a href="https://t.livepocket.jp/e/3d8j6">
+                        <span class="event_name"> 新生残酷映画祭2025 </span>
+                    </a>
+                    <p>
+                        <span class="date">2025/12/27<span>(土)</span> 18:30〜</span>
+                        <span class="prefecture"> 阿佐ヶ谷ロフトA （東京都）</span>
+                    </p> 
+                </li>
+                                <li>
+                    <a href="https://t.livepocket.jp/e/nikki_joei_1102">
+                        <span class="event_name"> Nikki &amp; Joei wedding third party【3次会】 </span>
+                    </a>
+                    <p>
+                        <span class="date">2025/11/2<span>(日)</span> 00:00〜</span>
+                        <span class="prefecture"> 渋谷LUSH （東京都）</span>
+                    </p> 
+                </li>
+                                <li>
+                    <a href="https://t.livepocket.jp/e/20251224">
+                        <span class="event_name"> 松永天馬コンセプト・ライヴ クリスマス・ハラスメント 戀愛博物館 </span>
+                    </a>
+                    <p>
+                        <span class="date">2025/12/24<span>(水)</span> 19:00〜</span>
+                        <span class="prefecture"> LOFT HEAVEN （東京都）</span>
+                    </p> 
+                </li>
+                                <li>
+                    <a href="https://t.livepocket.jp/e/civcm">
+                        <span class="event_name"> Killer Tune SHIBUYA 2025 SP LIVE </span>
+                    </a>
+                    <p>
+                        <span class="date">2025/10/18<span>(土)</span> 17:00〜</span>
+                        <span class="prefecture"> SHIBUYA CYCLONE （東京都）</span>
+                    </p> 
+                </li>
+                                <li>
+                    <a href="https://t.livepocket.jp/e/3qx1-">
+                        <span class="event_name"> SICK!!! IDOL!!! 08 </span>
+                    </a>
+                    <p>
+                        <span class="date">2025/11/18<span>(火)</span> 19:00〜</span>
+                        <span class="prefecture"> SHIBUYA THE GAME （東京都）</span>
+                    </p> 
+                </li>
+                            </ul>
+
+            <div class="text-center">
+                <a href="https://t.livepocket.jp/event/newEvent" class="btn-more-large"><span>もっと見る</span></a>
+            </div>
+        </div>
+    </section>
+    <!-- /新着イベント -->
+    
+    <section class="search-panel-section">
+        <!-- カテゴリからイベントを探す -->
+        <section id="search-panel-category" class="search-panel search-panel-category">
+            <h2>カテゴリからイベントを探す</h2>
+            <div class="search-panel-content">
+                <dl>
+                                                                                <div class="search-panel-card">
+                        <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD">音楽</a></h3></dt>
+                                                <dd class="search-panel-list ">
+                            <ul class="clearfix">
+                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E9%82%A6%E6%A5%BD">邦楽</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Rock">ロック</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Pops">ポップス</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A7%E3%82%B9">フェス</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=hiphop">hiphop</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=JAZZ">JAZZ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=K-POP">K-POP</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF">クラシック</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%B4%E3%82%A3%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%B3%BB">ヴィジュアル系</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Other">その他</a></li>
+                                                                                            </ul>
+                        </dd>
+                    </div>
+                                                            <div class="search-panel-card">
+                        <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">演劇・ステージ</a></h3></dt>
+                                                <dd class="search-panel-list ">
+                            <ul class="clearfix">
+                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E8%88%9E%E5%8F%B0">舞台</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87">演劇</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E8%90%BD%E8%AA%9E">落語</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD">伝統芸能</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%AC%91%E3%81%84">お笑い</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%A2%E3%83%8E%E3%83%9E%E3%83%8D">モノマネ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9">ダンス</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Other">その他</a></li>
+                                                                                            </ul>
+                        </dd>
+                    </div>
+                                                            <div class="search-panel-card">
+                        <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB">ファン・アイドル</a></h3></dt>
+                                                <dd class="search-panel-list ">
+                            <ul class="clearfix">
+                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0">ファンミーティング</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E6%8F%A1%E6%89%8B%E4%BC%9A">握手会</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A">展覧会</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E6%92%AE%E5%BD%B1%E4%BC%9A">撮影会</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Talk">トークショー</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%A4%E3%83%96">ライブ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA">グッズ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Other">その他</a></li>
+                                                                                            </ul>
+                        </dd>
+                    </div>
+                                                            <div class="search-panel-card">
+                        <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9">アニメ・キャラ</a></h3></dt>
+                                                <dd class="search-panel-list ">
+                            <ul class="clearfix">
+                                                                                                <li><a href="https://t.livepocket.jp/tag/CollaboCafe">コラボカフェ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A">展覧会</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA">グッズ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Other">その他</a></li>
+                                                                                            </ul>
+                        </dd>
+                    </div>
+                    </dl><br /><dl>                                        <div class="search-panel-card">
+                        <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84">スポーツ</a></h3></dt>
+                                                <dd class="search-panel-list ">
+                            <ul class="clearfix">
+                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E9%87%8E%E7%90%83">野球</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC">サッカー</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC">ラグビー</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB">バレーボール</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9">プロレス</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0">ボクシング</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E6%A0%BC%E9%97%98%E6%8A%80">格闘技</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=e%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84">eスポーツ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB">ハンドボール</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB">バスケットボール</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Other">その他</a></li>
+                                                                                            </ul>
+                        </dd>
+                    </div>
+                                                            <div class="search-panel-card">
+                        <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/event/search?tag=%E8%B6%A3%E5%91%B3%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC">趣味・カルチャー・レジャー</a></h3></dt>
+                                                <dd class="search-panel-list ">
+                            <ul class="clearfix">
+                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%A8%E3%82%AC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9">ヨガ・フィットネス</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B8%E3%83%A0">ジム</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E5%8B%95%E7%89%A9%E5%9C%92">動物園</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E6%B0%B4%E6%97%8F%E9%A4%A8">水族館</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0">カードゲーム</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B2%E3%83%BC%E3%83%A0">ゲーム</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E9%87%A3%E3%82%8A">釣り</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0">脱出ゲーム</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9">ダンス</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E7%BE%8E%E5%AE%B9">ファッション・美容</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Cosplay">コスプレ</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Other">その他</a></li>
+                                                                                            </ul>
+                        </dd>
+                    </div>
+                                                            <div class="search-panel-card">
+                        <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">展覧会・イベント</a></h3></dt>
+                                                <dd class="search-panel-list last">
+                            <ul class="clearfix">
+                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E7%89%A9%E7%94%A3%E5%B1%95">物産展</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A">展覧会</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%A5%AD%E3%82%8A">お祭り</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A">花火大会</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E8%A1%97%E3%82%B3%E3%83%B3">街コン</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Seminar">セミナー</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E9%A3%9F%E3%83%95%E3%82%A7%E3%82%B9">食フェス</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%BC%E3%83%88">アート</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/event/search?tag=%E5%AD%A6%E5%9C%92%E7%A5%AD">学園祭</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Talk">トークショー</a></li>
+                                                                                                                                <li><a href="https://t.livepocket.jp/tag/Other">その他</a></li>
+                                                                                            </ul>
+                        </dd>
+                    </div>
+                                                        </dl>
+            </div>
+        </section>
+        <section class="search-panel-section">
+        <!-- /カテゴリからイベントを探す -->
+
+    <!-- 地域からイベントを探す -->
+    <section class="search-panel search-panel-area">
+        <h2>地域からイベントを探す</h2>
+        <div class="search-panel-content">
+            <dl>
+                <dt class="search-panel-popular-area">
+                    <div>
+                        <h3 class="left">人気の地域</h3>
+                        <ul class="clearfix">
+                            <li><a href="https://t.livepocket.jp/tag/Shimokita">下北沢</a></li>
+                            <li><a href="https://t.livepocket.jp/tag/Shinjyuku">新宿</a></li>
+                            <li><a href="https://t.livepocket.jp/tag/Shibuya">渋谷</a></li>
+                        </ul>
+                    </div>
+                </dt>
+                <dd class="search-panel-list">
+                    <div class="search-panel-sublist clearfix">
+                        <div class="search-panel-card search-panel-card-mini">
+                            <dl>
+                                <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/area/hokkaido_tohoku">北海道・東北</a></h3></dt>
+                                <dd class="search-panel-list">
+                                    <ul class="clearfix">
+                                        <li><a href="https://t.livepocket.jp/area/hokkaido">北海道</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/aomori">青森</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/akita">秋田</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/yamagata">山形</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/iwate">岩手</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/miyagi">宮城</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/fukushima">福島</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+                        <div class="search-panel-card search-panel-card-mini">
+                            <dl>
+                                <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/area/kansai">関西</a></h3></dt>
+                                <dd class="search-panel-list">
+                                    <ul class="clearfix">
+                                        <li><a href="https://t.livepocket.jp/area/osaka">大阪</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/hyogo">兵庫</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/kyoto">京都</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/shiga">滋賀</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/nara">奈良</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/wakayama">和歌山</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+                        <div class="search-panel-card">
+                            <dl>
+                                <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/area/kanto">関東</a></h3></dt>
+                                <dd class="search-panel-list">
+                                    <ul class="clearfix">
+                                        <li><a href="https://t.livepocket.jp/area/tokyo">東京</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/kanagawa">神奈川</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/saitama">埼玉</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/chiba">千葉</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/tochigi">栃木</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/ibaraki">茨城</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/gumma">群馬</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+                        <div class="search-panel-card">
+                        <dl>
+                            <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/area/tyugoku_shikoku">中国・四国</a></h3></dt>
+                            <dd class="search-panel-list">
+                                <ul class="clearfix">
+                                    <li><a href="https://t.livepocket.jp/area/okayama">岡山</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/hiroshima">広島</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/tottori">鳥取</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/shimane">島根</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/yamaguchi">山口</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/kagawa">香川</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/tokushima">徳島</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/ehime">愛媛</a></li>
+                                    <li><a href="https://t.livepocket.jp/area/kochi">高知</a></li>
+                                </ul>
+                            </dd>
+                        </dl>
+                        </div>
+                        <div class="search-panel-card">
+                            <dl>
+                                <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/area/tyubu">中部・北陸</a></h3></dt>
+                                <dd class="search-panel-list">
+                                    <ul class="clearfix">
+                                        <li><a href="https://t.livepocket.jp/area/aichi">愛知</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/gifu">岐阜</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/shizuoka">静岡</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/mie">三重</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/niigata">新潟</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/yamanashi">山梨</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/nagano">長野</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/ishikawa">石川</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/toyama">富山</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/fukui">福井</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+                        <div class="search-panel-card">
+                            <dl>
+                                <dt class="search-panel-subtitle"><h3><a href="https://t.livepocket.jp/area/kyusyu_tohoku">九州・沖縄</a></h3></dt>
+                                <dd class="search-panel-list">
+                                    <ul class="clearfix">
+                                        <li><a href="https://t.livepocket.jp/area/fukuoka">福岡</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/saga">佐賀</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/nagasaki">長崎</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/kumamoto">熊本</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/oita">大分</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/miyazaki">宮崎</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/kagoshima">鹿児島</a></li>
+                                        <li><a href="https://t.livepocket.jp/area/okinawa">沖縄</a></li>
+                                    </ul>
+                                </dd>
+                            </dl>
+                        </div>
+                    </div>
+                </dd>
+            </dl>
+        </div>
+    </section>
+    <!-- /地域からイベントを探す -->
+
+        <!-- ライブハウス・会場を探す -->
+        <section class="search-panel search-panel-venue">
+            <h2>ライブハウス・会場を探す</h2>
+            <div class="search-panel-content">
+                <ul class="search-panel-list-img clearfix">
+                    <li class="venue-item">
+                        <a href="https://t.livepocket.jp/c/venue/shimokitazawaclubque.html">
+                            <span>下北沢CLUB Que</span>
+                            <img src="https://t.livepocket.jp/pc_images_v3/pc/global_top/livehouse_ClubQue.2015.png">
+                        </a>
+                    </li>
+                    
+                    <li class="venue-item">
+                        <a href="https://t.livepocket.jp/c/venue/club251.html">
+                            <span>CLUB251</span>
+                            <img src="https://t.livepocket.jp/pc_images_v3/pc/global_top/livehouse_club251.png">
+                        </a>
+                    </li>
+                    <li class="venue-item">
+                        <a href="https://t.livepocket.jp/c/venue/shibuyadeseo.html">
+                        <span>SHIBUYA DESEO</span>
+                            <img src="https://t.livepocket.jp/pc_images_v3/pc/global_top/livehouse_deseo.png">
+                        </a>
+                    </li>
+                    <li class="venue-item">
+                        <a href="https://t.livepocket.jp/c/venue/shimokitazawagarage.html">
+                            <span>下北沢GARAGE</span>
+                            <img src="https://t.livepocket.jp/pc_images_v3/pc/global_top/livehouse_shimokitazawa_garage.png">
+                        </a>
+                    </li>
+                    <li class="venue-item">
+                        <a href="https://t.livepocket.jp/c/venue/shinjukuredcloth.html">
+                            <span>新宿レッドクロス</span>
+                            <img src="https://t.livepocket.jp/pc_images_v3/pc/global_top/livehouse_redcross.png">
+                        </a>
+                    </li>
+                </ul>
+                <div class="text-center">
+                    <a href="https://t.livepocket.jp/c/sp/livetokyo/" class="btn-more-large"><span>ライブハウス・会場をもっと見る</span></a>
+                </div>
+            </div>
+        </section>
+        <!-- /ライブハウス・会場を探す -->
+    </section>
+    
+    <!-- バナーエリア -->
+    <aside class="banner-area-middle">
+        <ul class="clearfix">
+                        <li class="js-banner-item-medium banner-item medium pull-left head-item">
+                <a href="https://sp.livepocket.jp/user-renewal/index.html" target="_blank">
+                    <img src="https://t.livepocket.jp/image/itArkVUsL7ebCzVHnmUnXvIvT79ysd6u873l5fl7CzkLTlWReRc75zRj10Hrzakb" alt="" width="475" height="130">
+                </a>
+            </li>
+                                    <li class="js-banner-item-medium banner-item medium pull-left">
+                <a href="https://t.livepocket.jp/owner/" target="_blank">
+                    <img src="https://t.livepocket.jp/image/XpRxMXRPomtmJjE4lCrVe26u4SXofIoUwCtnhRIAO3gzEoiYNKxUKOslPcc0ZApJ" alt="" width="475" height="130">
+                </a>
+            </li>
+                                                                                </ul>
+    </aside>
+    <!-- /バナーエリア -->
+
+    <!-- バナーエリア -->
+    <aside id="banner-area-small" class="banner-area-middle banner-area-gray" style="display: none; margin-bottom:40px;">
+                <ul class="clearfix">
+                    </ul>
+            </aside>
+    <!-- /バナーエリア -->
+
+        <!-- バナー広告 -->
+    <div style="margin:20px 0 120px 0; height:90px; text-align:center">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <ins class="adsbygoogle"
+             style="display:inline-block; height:90px; width:970px"
+             data-ad-client="ca-pub-2166064557737318"
+             data-ad-slot="7329060648"
+             data-ad-format="horizontal"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+    
+    <!-- トピックス -->
+        <section class="topics_area">
+        <div class="topics_content">
+            <div class="topics-title">
+                <p class="content-title">TOPICS</p>
+                <h2>トピックス</h2>
+            </div>
+            <div class="topics_list clearfix">
+                                                                                <dl class="topics_item" >
+                    <dd>
+                        <a href="https://cpn.livepocket.jp/" target="_blank" style="text-decoration: none;">
+                            <figure>
+                                <img src="https://t.livepocket.jp/image/Rlm08iUqH7Svb6g4O8zSj24pvMkjcmIuUlDirPsY9bkAre3wR6y7pW1fzSWKbSVz">
+                            </figure>
+                                                        <h3 style="display: none;"><span class="news-title">LivePocketが取り扱う様々なイベントの中から、Pontaパス会員限定の特典をご用意。Pontaパスに加入してイベントに参加しよう！</span></h3>
+                        </a>
+                    </dd>
+                    <dt class="topics_category">
+                        <span style="background-color: #ffae00">
+                            ニュース                        </span>2025.7.15                    </dt>
+                </dl>
+                                                                <dl class="topics_item" >
+                    <dd>
+                        <a href="https://t.livepocket.jp/lp/cpn/mp/bb_202509.html" target="_blank" style="text-decoration: none;">
+                            <figure>
+                                <img src="https://t.livepocket.jp/image/KZYaYPvnjkRLC3LzY08wDTYfTgVN8NxozX1YB7uYxbjG0XiL69kh23migilRieTZ">
+                            </figure>
+                                                        <h3 style="display: none;"><span class="news-title">Musicpocket from BASEMENTBAR｜30周年を越えて、つくり続ける。店長・クックヨシザワさんが語る “スペシャルな毎日”</span></h3>
+                        </a>
+                    </dd>
+                    <dt class="topics_category">
+                        <span style="background-color: #ffffff;color:#15c7c0;border:2px solid #15c7c0;">
+                            インタビュー                        </span>2025.9.11                    </dt>
+                </dl>
+                                                                <dl class="topics_item" >
+                    <dd>
+                        <a href="https://t.livepocket.jp/lp/cpn/mp/woofer_202507.html" target="_blank" style="text-decoration: none;">
+                            <figure>
+                                <img src="https://t.livepocket.jp/image/NX42hvjVCI9Y0gvpCZrhfHIKus3NKWIPkgZzwO6uPIZkK0ifJbmDDh7bbrjiXcTY">
+                            </figure>
+                                                        <h3 style="display: none;"><span class="news-title">Musicpocket from WOOFER｜代々木発、トークライブの舞台。A Talk Club WOOFER白井さんが語る、トークライブの今</span></h3>
+                        </a>
+                    </dd>
+                    <dt class="topics_category">
+                        <span style="background-color: #ffffff;color:#15c7c0;border:2px solid #15c7c0;">
+                            インタビュー                        </span>2025.7.31                    </dt>
+                </dl>
+                                                                <dl class="topics_item" >
+                    <dd>
+                        <a href="https://t.livepocket.jp/lp/cpn/mp/loft_202507.html" target="_blank" style="text-decoration: none;">
+                            <figure>
+                                <img src="https://t.livepocket.jp/image/QiS7rQS96dHPLPysxhco9D0FvEZ2MZ9KGFBuHiHeqjwwTOB5ey5aBQtzd35ObcVH">
+                            </figure>
+                                                        <h3 style="display: none;"><span class="news-title">Musicpocket from LOFT｜その床に刻まれたもの。新宿LOFT樋口さんが語る、ブッキングと50年の歩み</span></h3>
+                        </a>
+                    </dd>
+                    <dt class="topics_category">
+                        <span style="background-color: #ffffff;color:#15c7c0;border:2px solid #15c7c0;">
+                            インタビュー                        </span>2025.7.31                    </dt>
+                </dl>
+                                            </div>
+            <div class="text-center">
+                <a href="https://t.livepocket.jp/c/Article/" class="btn-more-large"><span>新着記事・特集一覧へ</span></a>
+            </div>
+        </div>
+    </section>
+        <!-- /トピックス -->
+
+
+
+    <!-- お知らせ -->
+    <section class="news_area">
+        <div class="news_content">
+            <div class="topics-title">
+                <p class="content-title">INFORMATION</p>
+                <h2>お知らせ</h2>
+            </div>
+            <ul class="item-list" id="news-list">
+            </ul>
+            <script id="newsListTemplate" type="text/x-jquery-tmpl">
+<li>
+    <a href="${base_ssl_url}news/detail?id=${id}">
+        <span class="date">${formatDateOnly2(starttime)}</span>
+        <span class="news_title">${message_title}</span>
+    </a>
+</li>
+</script>
+            <div class="text-center">
+                <a id="news-read-more" href="https://t.livepocket.jp/news/" class="btn-more-large"><span>お知らせ一覧</span></a>
+            </div>
+        </div>
+    </section>
+    <!-- /お知らせ -->
+
+    <!-- イベント主催者の方 -->
+    <div class="organizer_area">
+        <div class="organizer_bg">
+            <div class="organizer-inner">
+                <h2 class="organizer-txt"><p>誰でも簡単に、今すぐ売れる</p><span>電子チケット<br>販売サービス</span></h2>
+                <p class="organizer-btn"><a href="https://t.livepocket.jp/owner/" class="btn-more-large"><span>イベント主催者の方へ</span></a></p>
+            </div>
+        </div>
+             </div>
+    <!-- /イベント主催者の方 -->
+</article>
+<!-- /新トップ -->
+
+<div id="breadcrumb_footer_wrap">
+    <!-- −−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−
+パンくずリスト
+−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−− -->
+    <!-- 共通フッタ -->
+<footer class="gfooter" id="gfooter">
+    <div class="footer-pc-category-area">
+        <div class="footer-pc-category-list">
+                <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E9%9F%B3%E6%A5%BD">音楽</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E9%82%A6%E6%A5%BD">邦楽</a>
+                                        <a href="https://t.livepocket.jp/tag/Rock">ロック</a>
+                                        <a href="https://t.livepocket.jp/tag/Pops">ポップス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A7%E3%82%B9">フェス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=hiphop">hiphop</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=JAZZ">JAZZ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=K-POP">K-POP</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%AF%E3%83%A9%E3%82%B7%E3%83%83%E3%82%AF">クラシック</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%B4%E3%82%A3%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB%E7%B3%BB">ヴィジュアル系</a>
+                                        <a href="https://t.livepocket.jp/tag/Other">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87%E3%83%BB%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8">演劇・ステージ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E8%88%9E%E5%8F%B0">舞台</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%BC%94%E5%8A%87">演劇</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%90%BD%E8%AA%9E">落語</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E4%BC%9D%E7%B5%B1%E8%8A%B8%E8%83%BD">伝統芸能</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%AC%91%E3%81%84">お笑い</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A2%E3%83%8E%E3%83%9E%E3%83%8D">モノマネ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9">ダンス</a>
+                                        <a href="https://t.livepocket.jp/tag/Other">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB">ファン・アイドル</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%B3%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0">ファンミーティング</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%8F%A1%E6%89%8B%E4%BC%9A">握手会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%92%AE%E5%BD%B1%E4%BC%9A">撮影会</a>
+                                        <a href="https://t.livepocket.jp/tag/Talk">トークショー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%A4%E3%83%96">ライブ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA">グッズ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%A9">アニメ・キャラ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/tag/CollaboCafe">コラボカフェ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B0%E3%83%83%E3%82%BA">グッズ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84">スポーツ</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E9%87%8E%E7%90%83">野球</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B5%E3%83%83%E3%82%AB%E3%83%BC">サッカー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A9%E3%82%B0%E3%83%93%E3%83%BC">ラグビー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB">バレーボール</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%97%E3%83%AD%E3%83%AC%E3%82%B9">プロレス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%9C%E3%82%AF%E3%82%B7%E3%83%B3%E3%82%B0">ボクシング</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%A0%BC%E9%97%98%E6%8A%80">格闘技</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=e%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84">eスポーツ</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%8F%E3%83%B3%E3%83%89%E3%83%9C%E3%83%BC%E3%83%AB">ハンドボール</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%90%E3%82%B9%E3%82%B1%E3%83%83%E3%83%88%E3%83%9C%E3%83%BC%E3%83%AB">バスケットボール</a>
+                                        <a href="https://t.livepocket.jp/tag/Other">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E8%B6%A3%E5%91%B3%E3%83%BB%E3%82%AB%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%BB%E3%83%AC%E3%82%B8%E3%83%A3%E3%83%BC">趣味・カルチャー・レジャー</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E3%83%A8%E3%82%AC%E3%83%BB%E3%83%95%E3%82%A3%E3%83%83%E3%83%88%E3%83%8D%E3%82%B9">ヨガ・フィットネス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B8%E3%83%A0">ジム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%8B%95%E7%89%A9%E5%9C%92">動物園</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E6%B0%B4%E6%97%8F%E9%A4%A8">水族館</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%AB%E3%83%BC%E3%83%89%E3%82%B2%E3%83%BC%E3%83%A0">カードゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%B2%E3%83%BC%E3%83%A0">ゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E9%87%A3%E3%82%8A">釣り</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%84%B1%E5%87%BA%E3%82%B2%E3%83%BC%E3%83%A0">脱出ゲーム</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%80%E3%83%B3%E3%82%B9">ダンス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%83%95%E3%82%A1%E3%83%83%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E7%BE%8E%E5%AE%B9">ファッション・美容</a>
+                                        <a href="https://t.livepocket.jp/tag/Cosplay">コスプレ</a>
+                                        <a href="https://t.livepocket.jp/tag/Other">その他</a>
+                        </div>
+    </li>
+    </ul>
+            <ul class="clearfix">
+        <li class="cat cat_left">
+    <div class="category-view"><a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A%E3%83%BB%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88">展覧会・イベント</a></div>
+    <div class="detail-view">
+                            <a href="https://t.livepocket.jp/event/search?tag=%E7%89%A9%E7%94%A3%E5%B1%95">物産展</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%B1%95%E8%A6%A7%E4%BC%9A">展覧会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%81%8A%E7%A5%AD%E3%82%8A">お祭り</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%8A%B1%E7%81%AB%E5%A4%A7%E4%BC%9A">花火大会</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E8%A1%97%E3%82%B3%E3%83%B3">街コン</a>
+                                        <a href="https://t.livepocket.jp/tag/Seminar">セミナー</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E9%A3%9F%E3%83%95%E3%82%A7%E3%82%B9">食フェス</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E3%82%A2%E3%83%BC%E3%83%88">アート</a>
+                                        <a href="https://t.livepocket.jp/event/search?tag=%E5%AD%A6%E5%9C%92%E7%A5%AD">学園祭</a>
+                                        <a href="https://t.livepocket.jp/tag/Talk">トークショー</a>
+                                        <a href="https://t.livepocket.jp/tag/Other">その他</a>
+                        </div>
+    </li>
+    </ul>
+            </div>
+    </div>
+    <ul class="gfooter_links clearfix">
+        <li><a href="https://t.livepocket.jp/regist_navigation/user">LivePocket-Ticket-とは?</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/about">LivePocket-Ticket-の使い方</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/owner/">LivePocket-Ticket-でチケットを販売する</a></li><br>
+        <li><a href="https://t.livepocket.jp/sell_commission">LivePocketの価格・利用料</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/term" target=_blank>利用規約</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/commercial">特定商取引法に関する記載</a><span>|</span></li>
+        <li><a href="https://t.livepocket.jp/help/faq">FAQ</a></li>
+    </ul>
+    <ul class="gfooter_sns">
+        <li class="twitter"><a onclick="window.open('https://twitter.com/livepocket', 'share', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="twitter"></a></li>
+        <li class="facebook"><a onclick="window.open('https://www.facebook.com/livepocketofficial', 'facebookofficial', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="facebook"></a></a></li>
+        <li class="instagram"><a onclick="window.open('https://www.instagram.com/livepocketticket/', ['resizable=yes', 'toolbar=yes', 'menubar=yes', 'scrollbars=yes', 'status=yes'].join(','));" href="javascript:void(0);" title="instagram"></a></a></li>
+    </ul>
+    <div class="gfooter_terms">
+        <p>掲載されている全てのコンテンツについて管理者の承諾を得ず、無断で複写・複製・転送することは 固く禁じています。</p>
+        <p>「LivePocket」はLivePocket株式会社の登録商標です。（登録第5600161号）</p>
+        <p>Copyright<span class="icon-copyright"> &copy; </span>LivePocket All Rights Reserved.</p>
+    </div>
+</footer>
+<!-- /共通フッタ -->
+</div>
+<!-- mypage  -->
+<script type="text/javascript">
+        </script>
+<!--[if lt IE 9]><script type="text/javascript" src="https://t.livepocket.jp/pc_css_v2/htc/PIE.js"></script><![endif]-->
+<script>
+$(function() {
+  if (window.PIE) {
+    $('.js-pie').each(function() {
+      PIE.attach(this);
+    });
+  }
+    $('.js-img-liquid').imgLiquid();
+});
+</script>
+
+    <script type="text/javascript">
+        (function () {
+            var tagjs = document.createElement("script");
+            var s = document.getElementsByTagName("script")[0];
+            tagjs.async = true;
+            tagjs.src = "//s.yjtag.jp/tag.js#site=3gYMH3k";
+            s.parentNode.insertBefore(tagjs, s);
+        }());
+    </script>
+    <noscript>
+        <iframe src="//b.yjtag.jp/iframe?c=3gYMH3k" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+    </noscript>
+
+</body>
+</html>

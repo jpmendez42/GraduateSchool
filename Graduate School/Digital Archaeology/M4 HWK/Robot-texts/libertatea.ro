@@ -1,0 +1,19 @@
+User-agent: *
+Disallow:
+Disallow:/1011785/Libertatea_v2/
+Disallow:/?option=oauthredirect*
+Disallow: *?s=* 
+
+User-agent:googlebot-news
+Disallow:/autor/ringier-advertising
+Disallow:/publicitate-advertorial/*
+Disallow:/totul-despre/*
+
+Sitemap: https://www.libertatea.ro/sitemap-news.xml
+Sitemap: https://www.libertatea.ro/sitemap-articles-index.xml
+Sitemap: https://www.libertatea.ro/sitemap-marketplace-cat.xml
+Sitemap: https://www.libertatea.ro/sitemap-marketplace-art-index.xml
+Sitemap: https://www.libertatea.ro/sitemap-categories.xml
+Sitemap: https://www.libertatea.ro/sitemap-authors.xml
+Sitemap: https://www.libertatea.ro/sitemap-people.xml
+Sitemap: https://www.libertatea.ro/sitemap-topics.xml

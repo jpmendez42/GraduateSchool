@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /ajax/*
+Disallow: /ajax*
+Disallow: /print*
+Disallow: /getRelatedArticles*
+Disallow: /getMostReadArticles*
+Disallow: /article_count/*
+Disallow: /get-menu-header*
+Disallow: /article.php*
+Disallow: /login-mgt
+Disallow: /*.php
+Disallow: /widget/*
+Disallow: */page/*
+
+

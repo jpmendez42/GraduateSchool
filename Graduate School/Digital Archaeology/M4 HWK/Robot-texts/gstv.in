@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /error/404
+Disallow: /error
+Disallow: /404
+Disallow: /backend2
+Disallow: /backend

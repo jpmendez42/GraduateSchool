@@ -1,0 +1,19 @@
+User-agent: *
+Sitemap: https://www.bertelsmann-stiftung.de/de/sitemap.xml
+Disallow: /typo3/
+Disallow: /typo3src/
+Disallow: /typo3conf/
+Disallow: /de/suchergebnisseite
+Disallow: /fileadmin/files/noindex
+
+Disallow: /fileadmin/files/Projekte/Laendermonitoring_Fruehkindliche_Bildungssysteme/ausschreibung_final.pdf
+Disallow: /fileadmin/files/Projekte/Laendermonitoring_Fruehkindliche_Bildungssysteme/fragebogen_final.pdf
+
+User-agent: *
+Crawl-delay: 1
+
+User-Agent: MJ12bot
+Crawl-Delay: 5
+
+User-Agent: Dorian
+Crawl-Delay: 2

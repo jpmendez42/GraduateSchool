@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-admin/
+Disallow: /readme.html
+Disallow: /refer/
+
+Sitemap: https://www.bluecross.ca/sitemap_index.xml

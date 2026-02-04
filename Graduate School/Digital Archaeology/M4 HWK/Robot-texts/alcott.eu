@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+User-agent: *
+Disallow: /on/demandware.store/
+Disallow: /Cart-Show
+Disallow: /Checkout-*
+Disallow: /Search-Show?q=*
+Disallow: /Wishlist-Show
+Disallow: /Account-*
+Disallow: /account*
+Disallow: /cart*
+Disallow: /checkout*
+Disallow: /order-history*
+Disallow: /search*
+Disallow: /wishlist*
+Disallow: srule=
+Disallow: prefn1=
+Disallow: prefv1=
+
+Sitemap: https://www.alcott.eu/sitemap_index.xml

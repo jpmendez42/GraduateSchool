@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow: /*?*
+Disallow: /personal/
+Disallow: /basket/
+Disallow: /order/
+Disallow: /search/
+Disallow: */filter/
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Disallow: /*.pdf$
+Allow: /*?PAGEN_1=
+Sitemap: http://e-auction.by/sitemap.xml

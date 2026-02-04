@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+# XML Sitemap & Google News version 5.4.9 - https://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.silicon.fr/sitemap-news.xml
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.silicon.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

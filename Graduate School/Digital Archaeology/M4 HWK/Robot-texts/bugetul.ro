@@ -1,0 +1,57 @@
+Sitemap: https://www.bugetul.ro/sitemap-index.xml
+Sitemap: https://www.bugetul.ro/sitemap-news.xml
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: grapeshot
+Disallow:
+
+User-agent: cXensebot
+Disallow:
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-Agent: omgili
+Disallow: /
+
+User-Agent: omgilibot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-Agent: PerplexityBot
+Disallow: /
+
+User-agent: PiplBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+

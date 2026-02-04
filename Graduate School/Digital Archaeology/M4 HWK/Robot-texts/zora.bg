@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /admin
+Disallow: /checkout/*
+Disallow: /cart/*
+Disallow: /account/*
+Disallow: /auth/*
+Disallow: /tags
+Disallow: /tags/*
+Disallow: /contacts/*
+Disallow: /product_preview/create/*
+Disallow: /creditor/*
+
+Host: zora.bg
+Sitemap: https://zora.bg/sitemap.xml
+Disallow: /checkout
+Disallow: /checkout/*
+Disallow: /cart
+Disallow: /cart/*
+Disallow: /wishlist/*
+Disallow: /bbt
+Disallow: /bbt/*
+Crawl-Delay: 3

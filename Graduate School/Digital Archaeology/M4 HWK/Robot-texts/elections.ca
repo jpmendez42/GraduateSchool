@@ -1,0 +1,22 @@
+# Group 1
+User-agent: Googlebot
+Allow: /
+
+# Group 2
+User-agent: AdsBot-Google
+Allow: /
+
+# Group 3
+User-Agent: bingbot
+Allow: /
+
+# Group 4
+User-agent: *
+Disallow: /pol/can/sof/efr/
+
+# Group 5
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Twitterbot
+Allow: /

@@ -1,0 +1,65 @@
+Sitemap: https://www.bikes4sale.in/sitemap-models.php
+Sitemap: https://www.bikes4sale.in/sitemap-models-2.php
+Sitemap: https://www.bikes4sale.in/sitemap-models-3.php
+Sitemap: https://www.bikes4sale.in/new-bike-showrooms/sitemap.php
+Sitemap: https://www.bikes4sale.in/car-showrooms/sitemap.php
+Sitemap: https://www.bikes4sale.in/notes/sitemap.php
+Sitemap: https://www.bikes4sale.in/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: /adm/
+Disallow: /redirect.php
+Disallow: /related-inter.php
+Disallow: /related-inter.html
+Disallow: /m4s-frame.html
+Disallow: /c4s-frame.html
+Disallow: /b4s-frame.html
+
+User-agent: Netsparker
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SEOkicks-Robot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: spbot
+Disallow: /
+
+User-agent: SiteExplorer
+Disallow: /
+
+User-agent: Velen
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: Sitebulb
+Disallow: /
+
+User-agent: SerpstatBot
+Disallow: /

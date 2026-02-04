@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:/?p=*
+Disallow: /content/tuttotrasporti/*
+Disallow: /content/domusweb/*
+Disallow: /content/quattroruote/*
+Disallow: /bin/edidomus/servlet/*
+Disallow: /uei.html
+Disallow: /come-cucinare/author/*
+Disallow: /idee-in-cucina/author/*
+Disallow: /chef/author/*
+Disallow: /eccellenze-italiane/author/*
+Sitemap: https://www.cucchiaio.it/Sitemap.xml

@@ -1,0 +1,13 @@
+User-agent: Googlebot-News
+Disallow: /
+
+User-agent: *
+Disallow: /*?
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+Crawl-delay: 30
+
+Sitemap: /sitemap.xml

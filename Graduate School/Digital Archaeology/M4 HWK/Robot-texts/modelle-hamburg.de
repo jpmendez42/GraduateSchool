@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /-/
+Disallow: /en/-/
+Allow: /
+
+Sitemap: https://www.modelle-hamburg.de/sitemap.xml

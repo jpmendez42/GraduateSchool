@@ -1,0 +1,93 @@
+User-Agent: Mediapartners-Google
+Disallow:
+
+User-Agent: *
+Disallow: /pagebuilding/
+Disallow: /new-articles/
+Disallow: /suche
+Disallow: /*?q=*
+Disallow: /files/
+Disallow: /cre-1.0/tracking/
+Disallow: /*MID=
+Disallow: /*utm_source=
+Disallow: /*source_vicksweb=
+Disallow: /*editor=
+Disallow: /*Editor=
+Disallow: /*itm_content=
+Disallow: /*page=
+Disallow: /*dsplz=
+Disallow: /*itm_medium=
+Disallow: /*r=
+Disallow: /*location_key=
+Disallow: /*fbclid=
+Disallow: /*womort=
+Disallow: /*ref=
+Disallow: /*artId=
+Disallow: /*cuid=
+Disallow: /*itm_campaign=
+Disallow: /*sfnsn=
+Disallow: /*RUBRIKID=
+Disallow: /*article-scroller=
+Disallow: /*user_dimbildergalerie_pi1=
+Disallow: /*utm_medium=
+Disallow: /*s=
+Disallow: /*k=
+Disallow: /*noredirect=
+Disallow: /*utm_content=
+Disallow: /*token=
+Disallow: /*utm_campaign=
+Disallow: /*dslayout=
+Disallow: /*dslayoutpost=
+Disallow: /*cx_testId=
+Disallow: /*cx_testVariant=
+Disallow: /*cx_artPos=
+Disallow: /*cx_experienceId=
+Disallow: /*cx_experienceActionId=
+Disallow: /*previewAll=
+Disallow: /*dicbo=
+Disallow: /*author=
+Disallow: /*q=
+Disallow: /*rel=
+Disallow: /*categoryAlias=
+Disallow: /*set=
+Disallow: /*alternatehome=
+Disallow: /*x-client
+
+Sitemap: https://www.shz.de/sitemap.xml
+Sitemap: https://www.shz.de/sitemap/googleNewsList.xml
+Sitemap: https://www.shz.de/sitemap/artikel/sitemap-current.xml
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+
+# Legal notice: shz.de expressly reserves the right to use its content for commercial text and data mining (§ 44b UrhG).
+# The use of robots or other automated means to access shz.de or collect or mine data without the express permission of shz.de is strictly prohibited.
+# If you would like to apply for permission to crawl shz.de, collect or use data, please contact info+nutzungsrecht@noz-digital.de

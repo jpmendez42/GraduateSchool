@@ -1,0 +1,46 @@
+User-agent: *
+Disallow: /tools/
+Disallow: /extlink/
+Disallow: /tag/
+
+user-agent: AhrefsBot
+Disallow: /
+
+user-agent: trovitbot
+Disallow: /
+
+user-agent: proximic
+Disallow: /
+
+user-agent: MJ12bot
+Disallow: /
+
+user-agent: SEOkicks-Robot
+Disallow: /
+
+user-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Getintent
+Disallow: /
+
+User-agent: Megaindex
+Disallow: /
+
+User-agent: AlphaSeoBot
+Disallow: /
+
+User-agent: AlphaSeoBot-SA
+Disallow: /

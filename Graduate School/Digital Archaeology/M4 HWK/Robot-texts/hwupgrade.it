@@ -1,0 +1,18 @@
+Sitemap: http://www.hwupgrade.it/sitemap1.txt
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: proximic
+Disallow: /forum/
+
+User-agent: *
+Disallow: /adv/
+Disallow: /ads_pages/
+Disallow: /forum/memberlist.php
+Disallow: /forum/search.php
+Disallow: /forum/printthread.php
+Disallow: /js/disclaimer.js
+Disallow: /api/
+
+Allow: /

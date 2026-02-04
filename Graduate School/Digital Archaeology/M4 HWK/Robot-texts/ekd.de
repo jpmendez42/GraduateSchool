@@ -1,0 +1,6 @@
+# robots.txt for https://www.ekd.de/
+
+User-agent: *
+Disallow: /*.xsl$
+Disallow: /*.pdf$
+Disallow: /*.xml$

@@ -1,0 +1,14 @@
+User-agent: Googlebot
+Disallow: /index.plx?a=
+Disallow: /Arzt-Auskunft/Suche_SN/
+
+User-agent: *
+Disallow: /pdf/medienecho/
+Disallow: /b5/
+Disallow: /images/
+Crawl-delay: 5
+
+User-agent: EmailCollector
+Disallow: /
+
+Sitemap: https://www.arzt-auskunft.de/sitemap.xml

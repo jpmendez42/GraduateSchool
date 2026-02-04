@@ -1,0 +1,34 @@
+User-agent: *
+
+Disallow: /*?addToBasket=*
+Disallow: /*do=*
+Disallow: /*fid=*
+Disallow: /*filterCategoryId=*
+Disallow: /*idx=ni*
+Disallow: /*visualPaginator-loadMore=*
+Disallow: /assets/
+Disallow: /kosik/*
+Disallow: /*?productSkuId=*
+Disallow: /secure/
+Disallow: /*prioritizeBannerId=*
+Disallow: /*filteredStars=*
+Disallow: /*razeni=bestseller*
+Disallow: /*razeni=discount*
+Disallow: /*razeni=price-asc*
+Disallow: /*razeni=price-desc*
+Disallow: /*razeni=rating*
+Disallow: /nakupni-kosik/*
+Disallow: /newsletter-prihlaseni/*
+Disallow: /overit-telefonni-cislo/*
+Disallow: /pridat-do-kosiku/*
+Disallow: /produktova-nabidka/*
+Disallow: /produktove-nabidky/
+Disallow: /produktove-nabidky/*
+Disallow: /vyhledavani/*
+
+Allow: /assets/front/images/
+Allow: /prihlasit-se/
+Allow: /registrace/
+Allow: *do=loginFormPopup*
+
+Sitemap: https://www.lekarna.cz/sitemap.xml

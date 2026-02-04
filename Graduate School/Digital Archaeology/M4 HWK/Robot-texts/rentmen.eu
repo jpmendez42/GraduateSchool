@@ -1,0 +1,24 @@
+User-Agent: Yandex
+Disallow: /
+
+User-Agent: YandexBot
+Disallow: /
+
+User-Agent: bingbot
+Crawl-delay: 10
+
+User-Agent: *
+Allow: /
+Disallow: /signup
+Disallow: /login
+Disallow: /about/dmca
+Disallow: /about/terms
+Disallow: /about/contact
+Disallow: /campaign
+Disallow: /about/im
+Disallow: /about/contentagreement
+Disallow: /about/antitrafficking
+Disallow: /about/antitraffickingstatement
+Disallow: /about/complaintspolicy
+Disallow: /about/modernslaverypolicy
+Disallow: /about/recurringpaymentagreement

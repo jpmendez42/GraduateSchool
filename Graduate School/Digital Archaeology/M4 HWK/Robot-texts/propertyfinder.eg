@@ -1,0 +1,117 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /manager/
+Disallow: /to/
+Disallow: /en/search?*
+Disallow: /ar/search?*
+Disallow: /fr/recherche
+Disallow: /ar/recherche
+Disallow: /search?*
+Disallow: /en/search-v2
+Disallow: /ar/search-v2
+Disallow: /en/review
+Disallow: /ar/review
+Disallow: */transactions/*?
+Disallow: */tools/home-value-estimator
+Disallow: /sp_events/*
+Disallow: */undefined$
+Disallow: */preview$
+Disallow: */preview?*
+Disallow: *?*sublocation=*
+Disallow: *?*location=*
+Disallow: *?*price=*
+Disallow: *?*category=*
+Disallow: *?*built_up_area=*
+Disallow: *?*city=*
+Disallow: *?*pmt=*
+Disallow: *?*payment_freq=*
+Disallow: *?*pkw=*
+Disallow: *?*ob=*
+Disallow: *?*company_profile=*
+Disallow: *?*bedrooms=*
+Disallow: *?*furnished=*
+Disallow: *?*bf=*
+Disallow: *?*bt=*
+Disallow: *?*brand_name=*
+
+Disallow: */map-search
+Disallow: */find-agent/?
+Disallow: */find-broker/?
+Disallow: /manager/*
+Allow: /manager/login/
+
+Disallow: /en/new-projects?*
+Disallow: /ar/new-projects?*
+Allow: */new-projects?page=*
+Disallow: */new-projects?page=*l=*
+Disallow: */new-projects?page=*c=*
+Disallow: */new-projects?page=*ob=*
+
+Sitemap: https://www.propertyfinder.eg/sitemaps/index-sitemap.xml
+
+# Block crawling software
+User-agent: sitecheck.internetseer.com
+Disallow: /
+
+User-agent: Zealbot
+Disallow: /
+
+User-agent: MSIECrawler
+Disallow: /
+
+User-agent: SiteSnagger
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Fetch
+Disallow: /
+
+User-agent: Offline Explorer
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: linko
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Microsoft.URL.Control
+Disallow: /
+
+User-agent: Xenu
+Disallow: /
+
+User-agent: larbin
+Disallow: /
+
+User-agent: libwww
+Disallow: /
+
+User-agent: ZyBORG
+Disallow: /
+
+User-agent: Download Ninja
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+User-agent: Screaming Frog SEO Spider
+Disallow: /
+
+User-agent: Mediapartners-Google
+Disallow: /

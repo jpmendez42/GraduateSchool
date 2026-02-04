@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /applications/
+Disallow: /fonts/
+Disallow: /newsletter/
+Disallow: /recherche/?*
+Disallow: /connexion/?*
+Disallow: /abonnement/?*
+
+Sitemap: https://www.lamanchelibre.fr/sitemaps.php

@@ -1,0 +1,831 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+    <head>
+    <meta charset="UTF-8"/>
+
+    
+    
+
+    
+        <title>iHeartRadio Canada</title>
+    
+    
+        <meta property="og:title" content="iHeartRadio Canada"/>
+        <meta name="twitter:card" content="summary_large_image"/>
+        <meta name="twitter:title" content="iHeartRadio Canada"/>
+    
+    
+        <meta name="description" content="iHeartRadio lets you access the world of music and radio in one simple platform. Listen to top radio stations, music, news, podcasts, sports, talk, and comedy shows."/>
+    
+    
+        <meta property="og:description" content="iHeartRadio lets you access the world of music and radio in one simple platform. Listen to top radio stations, music, news, podcasts, sports, talk, and comedy shows."/>
+        <meta name="twitter:description" content="iHeartRadio lets you access the world of music and radio in one simple platform. Listen to top radio stations, music, news, podcasts, sports, talk, and comedy shows."/>
+    
+    
+        <link rel="canonical"/>
+        <meta property="og:url"/>
+    
+
+    <script>
+        const canonical = document.querySelector('link[rel="canonical"]')
+        const ogURL = document.querySelector('meta[property="og:url"]')
+        if (canonical && !canonical.getAttribute('href')) {
+            canonical.setAttribute('href', document.location.href)
+        }
+        if (ogURL && !ogURL.getAttribute('content')) {
+            ogURL.setAttribute('content', document.location.href)
+        }
+    </script>
+
+    
+        <meta property="og:image" content="http://www.iheartradio.ca/content/dam/audio/uploadImg/iHeartRadio-Logo.png"/>
+        <meta name="twitter:image" content="http://www.iheartradio.ca/content/dam/audio/uploadImg/iHeartRadio-Logo.png"/>
+        <meta itemprop="image" content="http://www.iheartradio.ca/content/dam/audio/uploadImg/iHeartRadio-Logo.png"/>
+    
+    
+    <meta name="robots" content="noarchive,noodp"/>
+    <meta name="robots" content="index,follow,noodp"/>
+    <meta name="robots" content="ACAP allow-index"/>
+    <meta property="og:locale" content="en"/>
+
+    
+
+    
+    
+    
+        <script type="application/ld+json">
+            {"dateModified":"2024-01-31T10:42:38-05:00","image":["https://author01.stg.tor.audio.int.bellmedia.ca/content/dam/audio/uploadImg/2024/01/31/bagsca0623.webp/jcr:content/renditions/original"],"headline":"Bags","datePublished":"2024-01-31T10:35:33-05:00","author":{"@type":"Person"},"@context":"https://schema.org/","@type":"NewsArticle"}
+        </script>
+    
+
+    <meta name="viewport" content="initial-scale=1.0,maximum-scale=5.0,width=device-width"/>
+    
+    <meta name="template" content="audio-national-home-page"/>
+
+    
+
+    
+    
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/audio/clientlibs/clientlib-site.min.8ca5ecc3f2f43217e4ceb9f2a0f97e5f.css" type="text/css">
+
+
+
+    <!-- Optimizely -->
+
+    <link rel="preconnect" href="https://cdn.optimizely.com"/>
+    <link rel="dns-prefetch" href="https://cdn.optimizely.com"/>
+    <link rel="preload" href="https://cdn.optimizely.com/js/23528670382.js" as="script"/>
+
+
+<!-- Confiant Id account -->
+
+    <link rel="preconnect" href="https://cdn.confiant-integrations.net"/>
+    <link rel="dns-prefetch" href="https://cdn.confiant-integrations.net"/>
+    <link rel="preload" href="https://cdn.confiant-integrations.net/5rJjPRoNo_MlaGcpOA6YOlm0Fmw/gpt_and_prebid/config.js" as="script"/>
+
+
+<!-- Magnite -->
+
+    <link rel="preconnect" href="https://micro.rubiconproject.com"/>
+    <link rel="dns-prefetch" href="https://micro.rubiconproject.com"/>
+    <link rel="preload" href="https://micro.rubiconproject.com/prebid/dynamic/13126.js" as="script"/>
+
+
+<!-- Permutive -->
+
+    <link rel="preconnect" href="https://api.permutive.com"/>
+    <link rel="dns-prefetch" href="https://api.permutive.com"/>
+    <link rel="preconnect" href="https://cdn.permutive.com"/>
+    <link rel="dns-prefetch" href="https://cdn.permutive.com"/>
+    <link rel="preconnect" href="https://pixel.tapad.com"/>
+    <link rel="dns-prefetch" href="https://pixel.tapad.com"/>
+    <link rel="preload" href="https://cdn.permutive.com/289d106c-df24-4cd9-a9fa-753e928c23ad-web.js" as="script"/>
+
+
+<!-- Amazon -->
+
+    <link rel="preconnect" href="https://c.amazon-adsystem.com"/>
+    <link rel="dns-prefetch" href="https://c.amazon-adsystem.com"/>
+    <link rel="preload" href="https://c.amazon-adsystem.com/aax2/apstag.js" as="script"/>
+
+
+<!-- Google ADS -->
+<link rel="preconnect" href="https://securepubads.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="https://securepubads.g.doubleclick.net"/>
+<link rel="preconnect" href="https://pubads.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="https://pubads.g.doubleclick.net"/>
+<link rel="preconnect" href="https://www.googleadservices.com"/>
+<link rel="dns-prefetch" href="https://www.googleadservices.com"/>
+<link rel="preconnect" href="https://adservice.google.ca"/>
+<link rel="dns-prefetch" href="https://adservice.google.ca"/>
+<link rel="preconnect" href="https://adservice.google.com"/>
+<link rel="dns-prefetch" href="https://adservice.google.com"/>
+<link rel="preconnect" href="https://googleads.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="https://googleads.g.doubleclick.net"/>
+<link rel="preconnect" href="https://imasdk.googleapis.com"/>
+<link rel="dns-prefetch" href="https://imasdk.googleapis.com"/>
+<link rel="preconnect" href="https://tpc.googlesyndication.com"/>
+<link rel="dns-prefetch" href="https://tpc.googlesyndication.com"/>
+<link rel="preconnect" href="https://pagead2.googlesyndication.com"/>
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com"/>
+<link rel="preconnect" href="https://csi.gstatic.com"/>
+<link rel="dns-prefetch" href="https://csi.gstatic.com"/>
+<link rel="preconnect" href="https://cm.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="https://cm.g.doubleclick.net"/>
+<link rel="preconnect" href="https://gcdn.2mdn.net"/>
+<link rel="dns-prefetch" href="https://gcdn.2mdn.net"/>
+
+<link rel="preload" href="https://securepubads.g.doubleclick.net/tag/js/gpt.js" as="script"/>
+
+
+<link rel="preconnect" href="https://console.googletagservices.com"/>
+<link rel="dns-prefetch" href="https://console.googletagservices.com"/>
+<link rel="preconnect" href="https://stats.g.doubleclick.net"/>
+<link rel="dns-prefetch" href="https://stats.g.doubleclick.net"/>
+<link rel="preconnect" href="https://www.google.ca"/>
+<link rel="dns-prefetch" href="https://www.google.ca"/>
+<link rel="preconnect" href="https://www.google.com"/>
+<link rel="dns-prefetch" href="https://www.google.com"/>
+
+
+<link rel="preconnect" href="https://cdnjs.cloudflare.com"/>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com"/>
+<link rel="preconnect" href="https://cdn.jsdelivr.net"/>
+<link rel="dns-prefetch" href="https://cdn.jsdelivr.net"/>
+<link rel="preconnect" href="https://connect.facebook.net"/>
+<link rel="dns-prefetch" href="https://connect.facebook.net"/>
+
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" sizes="16x16 32x32 48x48"/>
+
+<link rel="icon" href="/favicon-16x16.png" type="image/png" sizes="16x16"/>
+
+<link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32"/>
+
+<link rel="icon" href="/favicon-48x48.png" type="image/png" sizes="48x48"/>
+
+<link rel="icon" href="/favicon-512x512.png" type="image/png" sizes="512x512"/>
+
+
+    
+
+
+
+
+
+
+    <script>
+        pageInfo = {
+            isEditMode: Boolean("false"),
+            domain: "Radio",
+            platform: 'web',
+            environment: 'production',
+            publishDate: new Date('Fri Oct 10 11:56:11 EDT 2025'),
+            pageLevel1: 'landingpage',
+            pageLevel2: 'na_ihearten',
+            pathSegment: location.href.split('/').at(-1)?.split('.html')[0] || document.title.toLowerCase().replaceAll(' ', '-'),
+            region: '',
+            crcontent3: '',
+            seed: '',
+            market: '',
+            stationKV: '',
+            network: '',
+            adtarget: '',
+            revshare: 'na',
+            pageType: 'landingpage',
+            author: '' || '',
+            brand: 'iheart',
+            contentTags: '',
+            contentId: '',
+            contentType: 'audio\u002Dnational\u002Dhome\u002Dpage',
+            sections: [],
+            breadcrumbs: []
+        }
+        {
+        try {
+            const breadcrumbs = '[{\x22title\x22:\x22iHeartRadio Canada\x22,\x22url\x22:\x22\/en.html\x22}]'
+            pageInfo.breadcrumbs = breadcrumbs ? JSON.parse(breadcrumbs)?.reverse() : []
+        } catch (err) {
+            console.error(err)
+        }
+            const sectionsArray = location.pathname.split('/').filter(Boolean) || [];
+            sectionsArray.shift();
+
+            if (window.pageInfo.pageType === 'content') {
+                sectionsArray.pop();
+            }
+
+            for(let i = 0; i < sectionsArray.length; i++) {
+                window.pageInfo.sections.push(sectionsArray[i].replace(/\.html/gi, ''));
+            }
+        }
+        Object.freeze(window.pageInfo)
+
+    </script>
+
+
+
+<script>
+	window.mParticle = {
+		config: {
+			isDevelopmentMode: pageInfo.environment === 'development',
+			logLevel: pageInfo.environment === 'development' ? 'warning' : 'none',
+			appName: 'iHeartRadio',
+			appVersion: '1',
+			dataPlan: {
+				planId: '1989_data_plan',
+				planVersion: 1
+			}
+		},
+	};
+
+	(
+		function(e){window.mParticle=window.mParticle||{};window.mParticle.EventType={Unknown:0,Navigation:1,Location:2,Search:3,Transaction:4,UserContent:5,UserPreference:6,Social:7,Other:8};window.mParticle.eCommerce={Cart:{}};window.mParticle.Identity={};window.mParticle.config=window.mParticle.config||{};window.mParticle.config.rq=[];window.mParticle.config.snippetVersion=2.3;window.mParticle.ready=function(e){window.mParticle.config.rq.push(e)};var i=["endSession","logError","logBaseEvent","logEvent","logForm","logLink","logPageView","setSessionAttribute","setAppName","setAppVersion","setOptOut","setPosition","startNewSession","startTrackingLocation","stopTrackingLocation"];var n=["setCurrencyCode","logCheckout"];var t=["identify","login","logout","modify"];i.forEach(function(e){window.mParticle[e]=o(e)});n.forEach(function(e){window.mParticle.eCommerce[e]=o(e,"eCommerce")});t.forEach(function(e){window.mParticle.Identity[e]=o(e,"Identity")});function o(i,n){return function(){if(n){i=n+"."+i}var e=Array.prototype.slice.call(arguments);e.unshift(i);window.mParticle.config.rq.push(e)}}var r,c,a=window.mParticle.config,s=a.isDevelopmentMode?1:0,l="?env="+s,w=window.mParticle.config.dataPlan;if(w){r=w.planId;c=w.planVersion;if(r){if(c&&(c<1||c>1e3)){c=null}l+="&plan_id="+r+(c?"&plan_version="+c:"")}}var d=window.mParticle.config.versions;var m=[];if(d){Object.keys(d).forEach(function(e){m.push(e+"="+d[e])})}var f=document.createElement("script");f.type="text/javascript";f.async=true;f.src=("https:"==document.location.protocol?"https://jssdkcdns":"http://jssdkcdn")+".mparticle.com/js/v2/"+e+"/mparticle.js"+l+"&"+m.join("&");var p=document.getElementsByTagName("script")[0];p.parentNode.insertBefore(f,p)}
+	)('us1-ec5585fc5f6fed4c8268e95e44265257');
+</script>
+
+
+
+
+    
+
+        <script async src="https://www.googletagmanager.com/gtag/js?id=G-EB4DFXLVX4"></script>
+
+        <script>
+            window.dataLayer = window.dataLayer || [];
+
+            function gtag() {
+                dataLayer.push(arguments);
+            }
+
+            gtag('js', new Date());
+            gtag('config', 'G-EB4DFXLVX4');
+        </script>
+    
+
+
+
+
+     <script src="https://xp.audience.io/widget.js"></script>
+
+
+
+
+    
+    
+    
+
+    
+
+    
+    
+    
+
+    
+
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="C2RBZ-FXSYQ-W3AKM-PJMUA-VK5CW",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"C2RBZ-FXSYQ-W3AKM-PJMUA-VK5CW",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="dctnmfixbgllw2hnowrq-f-ec35b34c2-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"39","ak.cp":"470239","ak.ai":parseInt("302482",10),"ak.ol":"0","ak.cr":42,"ak.ipv":4,"ak.proto":"http/1.1","ak.rid":"b6ad2399","ak.r":47501,"ak.a2":e,"ak.m":"e2","ak.n":"essl","ak.bpcip":"24.166.214.0","ak.cport":50827,"ak.gh":"23.48.200.80","ak.quicv":"","ak.tlsv":"tls1.2","ak.0rtt":"","ak.0rtt.ed":"","ak.csrc":"-","ak.acc":"bbr","ak.t":"1760392611","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==g8WwREKhOibzteIq1zkl7hTbQOy3pTCbx0hZ2xEIVBwookcL9zUwHvSREux+peyAbBiqez4xkwzPMapy+fzee88r84H46ZdVKOPjA4DFdUSt0/oZv9y9PLmeA+EZA17exb0C//7v+kpSpewf/8sxScwq4dTFteMadjVkRnwTBQRLLrJW9fEWQFDXzmvyuvWMKrSdAUySCNaXPmp/KaGC4WOD6Zx+Xm4DJ3Yg4yR6SpweCy3BFiyijsxrrfrI2ke8pw7nyKiNL6or8m/o08xKbmic/wiJjMIMR3enjlK9tTIQ4JwzKNNG0M2qc3+xAPVIiyU4aj67b6aZDTozs2zNuqmTGf8t6QLkvg3/c9TAxFbks0bX40BSmNAzpDcI8qNw9IfGWNZmFdTdF5Lnf16B7pi8SUFbWYL+cVzWcJxBP0A=","ak.pv":"91","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.0rtt.ed","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+    <body class="page basicpage" id="page-207425d273">
+        
+        
+        
+            
+
+
+
+
+            
+
+
+
+            
+<div class="root container responsivegrid">
+
+    
+    
+     
+     
+          
+          <div class="container responsivegrid main">
+
+    
+    
+     
+     
+          
+          <div class="experiencefragment header">
+<div id="experiencefragment-1baeefa540" class="cmp-experiencefragment cmp-experiencefragment--header">
+
+
+    
+    
+     
+     
+          
+          <div class="nationalheader">
+
+<site-header :sections="[{&#34;title&#34;:&#34;For You&#34;,&#34;url&#34;:&#34;https://www.iheart.com/for-you/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Your Library&#34;,&#34;url&#34;:&#34;https://www.iheart.com/your-library/saved-stations/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Live Radio&#34;,&#34;url&#34;:&#34;https://www.iheart.com/live&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Podcasts&#34;,&#34;url&#34;:&#34;https://www.iheart.com/podcast/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Artist Radio&#34;,&#34;url&#34;:&#34;https://www.iheart.com/artist/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Playlists&#34;,&#34;url&#34;:&#34;https://www.iheart.com/playlist/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;News&#34;,&#34;url&#34;:&#34;/en/music-news.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Features&#34;,&#34;url&#34;:&#34;/en/features.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Videos&#34;,&#34;url&#34;:&#34;https://www.youtube.com/@iHeartRadioCA&#34;,&#34;linkTarget&#34;:&#34;_blank&#34;}, {&#34;title&#34;:&#34;Events&#34;,&#34;url&#34;:&#34;/en/events.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Contests&#34;,&#34;url&#34;:&#34;/en/contests.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Advertise With Us&#34;,&#34;url&#34;:&#34;/en/advertise-with-us.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Contact Us&#34;,&#34;url&#34;:&#34;/en/contactus.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}]" language-switch-url="/fr.html" homepage="/en.html" :socials="[{&#34;type&#34;:&#34;instagram&#34;,&#34;link&#34;:&#34;https://www.instagram.com/iheartradioca/&#34;}, {&#34;type&#34;:&#34;facebook&#34;,&#34;link&#34;:&#34;https://www.facebook.com/iheartradioca/&#34;}, {&#34;type&#34;:&#34;x&#34;,&#34;link&#34;:&#34;https://twitter.com/iHeartRadioCA&#34;}, {&#34;type&#34;:&#34;tiktok&#34;,&#34;link&#34;:&#34;https://www.tiktok.com/@iheartradioca&#34;}, {&#34;type&#34;:&#34;youtube&#34;,&#34;link&#34;:&#34;https://www.youtube.com/channel/UCJcFuK7qIYI20TTe-wforpw&#34;}]">
+</site-header>
+</div>
+
+          
+     
+
+</div>
+
+    
+</div>
+<div class="experiencefragment national-initiative-banner">
+
+
+    
+</div>
+<div class="experiencefragment local-initiative-banner">
+
+
+    
+</div>
+<div class="pagetitle">
+  <page-title title="iHeartRadio Canada"></page-title>
+
+</div>
+<div class="container responsivegrid l-full-width-column">
+
+    
+    
+     
+     
+          
+          <div class="featuredteaser-automated">
+
+    <featured-teaser-automated :graphql-filters="{
+              radioAssociations: [{&#34;title&#34;:&#34;iHeart Canada&#34;,&#34;value&#34;:&#34;audio:radio/iheart-canada&#34;}]
+          }"></featured-teaser-automated>
+
+
+
+    
+</div>
+<div class="teaserlist">
+  <basic-lineup lineup-type="manual" lineup-content="widget-teasers" title="Top Features" :display-title="false" :title-link-is-new-tab="false" :items-to-display="4" :model-data="[{&#34;title&#34;:&#34;Encore: The Story of fun.&#39;s &#39;We Are Young&#39;&#34;,&#34;href&#34;:&#34;https://www.iheart.com/podcast/962-encore-the-stories-behind-124206648/&#34;,&#34;linkIsNewTab&#34;:false,&#34;image&#34;:{&#34;description&#34;:&#34; &#34;,&#34;title&#34;:&#34;Encore: fun.&#34;,&#34;byline&#34;:&#34;iHeartRadio&#34;,&#34;renditionsList&#34;:{&#34;1920&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.1920.1920.g_bq1.jpeg&#34;,&#34;64&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.64.64.g_bq1.jpeg&#34;,&#34;48&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png&#34;,&#34;480&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.480.480.g_bq1.jpeg&#34;,&#34;1280&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.1280.1280.g_bq1.jpeg&#34;,&#34;720&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.720.720.g_bq1.jpeg&#34;,&#34;144&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.144.144.g_bq1.jpeg&#34;,&#34;1440&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.1440.1440.g_bq1.jpeg&#34;,&#34;360&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.360.360.g_bq1.jpeg&#34;,&#34;1080&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.web.1080.1080.g_bq1.jpeg&#34;,&#34;140&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png&#34;,&#34;319&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png&#34;},&#34;path&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/fun-encore-main.jpg&#34;,&#34;format&#34;:&#34;image/jpeg&#34;,&#34;size&#34;:1864014},&#34;lastPublishedDate&#34;:&#34;2025-10-2T09:46:57&#34;,&#34;contentType&#34;:&#34;teaser&#34;,&#34;url&#34;:&#34;https://www.iheart.com/podcast/962-encore-the-stories-behind-124206648/&#34;}, {&#34;title&#34;:&#34;Made in Canada&#34;,&#34;href&#34;:&#34;https://www.iheart.com/live/made-in-canada-10643/&#34;,&#34;linkIsNewTab&#34;:true,&#34;image&#34;:{&#34;description&#34;:&#34; &#34;,&#34;title&#34;:&#34;Made in Canada&#34;,&#34;byline&#34;:&#34;iHeartRadio&#34;,&#34;renditionsList&#34;:{&#34;1280&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.1280.1280.y1mi_.png&#34;,&#34;480&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.480.480.y1mi_.png&#34;,&#34;1920&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.1920.1920.y1mi_.png&#34;,&#34;48&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.thumbnail.48.48.png&#34;,&#34;720&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.720.720.y1mi_.png&#34;,&#34;64&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.64.64.y1mi_.png&#34;,&#34;1440&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.1440.1440.y1mi_.png&#34;,&#34;144&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.144.144.y1mi_.png&#34;,&#34;360&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.360.360.y1mi_.png&#34;,&#34;1080&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.web.1080.1080.y1mi_.png&#34;,&#34;140&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.thumbnail.140.100.png&#34;,&#34;319&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png&#34;},&#34;path&#34;:&#34;/content/dam/audio/uploadImg/2025/10/02/cq5dam-web-1080-1080-koay0.png&#34;,&#34;format&#34;:&#34;image/png&#34;,&#34;size&#34;:301505},&#34;lastPublishedDate&#34;:&#34;2025-10-2T10:30:20&#34;,&#34;contentType&#34;:&#34;teaser&#34;,&#34;url&#34;:&#34;https://www.iheart.com/live/made-in-canada-10643/&#34;}, {&#34;title&#34;:&#34;Bryan Adams Radio&#34;,&#34;href&#34;:&#34;https://www.iheart.com/live/bryan-adams-radio-10529/&#34;,&#34;linkIsNewTab&#34;:false,&#34;image&#34;:{&#34;description&#34;:&#34; &#34;,&#34;title&#34;:&#34;Bryan Adams Radio&#34;,&#34;byline&#34;:&#34;iHeartRadio Canada&#34;,&#34;renditionsList&#34;:{&#34;48&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.thumbnail.48.48.png&#34;,&#34;64&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.64.64.tjgj0.png&#34;,&#34;1280&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.1280.1280.tjgj0.png&#34;,&#34;720&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.720.720.tjgj0.png&#34;,&#34;480&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.480.480.tjgj0.png&#34;,&#34;1920&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.1920.1920.tjgj0.png&#34;,&#34;1440&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.1440.1440.tjgj0.png&#34;,&#34;144&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.144.144.tjgj0.png&#34;,&#34;360&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.360.360.tjgj0.png&#34;,&#34;1080&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.web.1080.1080.tjgj0.png&#34;,&#34;140&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.thumbnail.140.100.png&#34;,&#34;319&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png&#34;},&#34;path&#34;:&#34;/content/dam/audio/uploadImg/2025/03/18/bryanadamsradio-web-1200x1200.png&#34;,&#34;format&#34;:&#34;image/png&#34;,&#34;size&#34;:178651},&#34;lastPublishedDate&#34;:&#34;2025-03-18T09:23:22&#34;,&#34;contentType&#34;:&#34;teaser&#34;,&#34;url&#34;:&#34;https://www.iheart.com/live/bryan-adams-radio-10529/&#34;}, {&#34;title&#34;:&#34;iHeart New Music - October 10, 2025 - Newly Added&#34;,&#34;href&#34;:&#34;https://www.iheartradio.ca/en/music-news/iheart-new-music-october-10-2025-newly-added.html&#34;,&#34;linkIsNewTab&#34;:false,&#34;image&#34;:{&#34;description&#34;:&#34; &#34;,&#34;title&#34;:&#34;New Music - TWICE&#34;,&#34;byline&#34;:&#34;iHeartRadio&#34;,&#34;renditionsList&#34;:{&#34;720&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.720.720.xikz_.jpeg&#34;,&#34;144&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.144.144.xikz_.jpeg&#34;,&#34;1440&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.1440.1440.xikz_.jpeg&#34;,&#34;48&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.thumbnail.48.48.png&#34;,&#34;1280&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.1280.1280.xikz_.jpeg&#34;,&#34;64&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.64.64.xikz_.jpeg&#34;,&#34;1920&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.1920.1920.xikz_.jpeg&#34;,&#34;480&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.480.480.xikz_.jpeg&#34;,&#34;1080&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.1080.1080.xikz_.jpeg&#34;,&#34;360&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.web.360.360.xikz_.jpeg&#34;,&#34;140&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.thumbnail.140.100.png&#34;,&#34;319&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg/jcr:content/renditions/cq5dam.thumbnail.319.319.png&#34;},&#34;path&#34;:&#34;/content/dam/audio/uploadImg/2025/10/10/twice-1080x1080-ihrt-newmusic-insta.jpg&#34;,&#34;format&#34;:&#34;image/jpeg&#34;,&#34;size&#34;:381926},&#34;lastPublishedDate&#34;:&#34;2025-10-10T11:55:50&#34;,&#34;contentType&#34;:&#34;teaser&#34;,&#34;url&#34;:&#34;https://www.iheartradio.ca/en/music-news/iheart-new-music-october-10-2025-newly-added.html&#34;}]" columns-by-row="4" :selectors="['custom-image-title', 'square-image']">
+  </basic-lineup>
+
+
+
+    
+
+</div>
+<div class="youtube-embed">
+
+
+    
+
+</div>
+<div class="experiencefragment">
+<div id="experiencefragment-2064bbf09e" class="cmp-experiencefragment cmp-experiencefragment--download">
+
+
+    
+    
+     
+     
+          
+          <div class="download">
+  
+  <download-app title="Bring iHeartRadio With You" :image="{&#34;renditionsList&#34;:{&#34;1440&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.1440.1440.ii430.jpeg&#34;,&#34;1280&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.1280.1280.ii430.png&#34;,&#34;48&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.thumbnail.48.48.png&#34;,&#34;720&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.720.720.ii430.jpeg&#34;,&#34;64&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.64.64.ii430.jpeg&#34;,&#34;144&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.144.144.ii430.jpeg&#34;,&#34;480&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.480.480.ii430.jpeg&#34;,&#34;1920&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.1920.1920.ii430.jpeg&#34;,&#34;360&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.360.360.ii430.jpeg&#34;,&#34;1080&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.web.1080.1080.ii430.jpeg&#34;,&#34;140&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.thumbnail.140.100.png&#34;,&#34;319&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png&#34;},&#34;path&#34;:&#34;/content/dam/audio/uploadImg/experience-fragments/downloadTheApp2.png&#34;,&#34;format&#34;:&#34;image/png&#34;,&#34;size&#34;:35398}" sub-title="The free iHeartRadio app is available on Web, iOS, Android, Google Assistant, automobiles and more." cta-title="View all apps" cta-link="https://www.iheartradio.ca/en/download-the-app.html" google-play-link="https://play.google.com/store/apps/details?id=com.clearchannel.iheartradio.controller" app-store-link="https://itunes.apple.com/ca/app/iheartradio/id290638154" background-color="#E6EAEE" font-color="#27292D"></download-app>
+
+
+
+    
+
+</div>
+
+          
+     
+
+</div>
+
+    
+</div>
+
+          
+     
+
+</div>
+<div class="container responsivegrid l-two-columns">
+
+    
+    
+     
+     
+          
+          <div class="container responsivegrid l-left-column">
+
+    
+    
+     
+     
+          
+          <div class="lineuplist">
+  
+  
+  
+
+  <basic-lineup lineup-type="most-recent" lineup-content="music-news-articles" title="iHeartRadio Music News" :display-title="true" :display-description="false" :display-teasers-synopsis="true" :display-teasers-date="false" :starting-element="1" :items-to-display="9" :has-show-more="false" title-link="/en/music-news.html" :selectors="false ? ['', ''] : []" :graphql-filters="{ radioAssociations: [{&#34;title&#34;:&#34;iHeart Canada&#34;,&#34;value&#34;:&#34;audio:radio/iheart-canada&#34;}] }" :specific-props="{
+      currentPagePathSegment:&#39;iheart&#39;,
+      isRunModeAuthor: false,
+      manualFilters: []
+    }">
+    
+  </basic-lineup>
+
+
+
+    
+
+</div>
+
+          
+     
+
+</div>
+<div class="container responsivegrid l-right-column">
+
+    
+    
+     
+     
+          
+          <div class="advert">
+    <advert>
+    </advert>
+
+</div>
+<div class="teaserlist">
+  <basic-lineup lineup-type="manual" lineup-content="widget-teasers" title="iHeartRadio Future Star" :display-title="false" :title-link-is-new-tab="false" :items-to-display="1" :model-data="[{&#34;title&#34;:&#34;iHeartRadio Future Star&#34;,&#34;href&#34;:&#34;https://www.iheartradio.ca/en/iheartradio-future-star/sam-drysdale.html&#34;,&#34;linkIsNewTab&#34;:true,&#34;image&#34;:{&#34;description&#34;:&#34;iHeartRadio Future Star - Sam Drysdale&#34;,&#34;byline&#34;:&#34;iHeartRadio&#34;,&#34;renditionsList&#34;:{&#34;144&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.144.144.uqsl1.png&#34;,&#34;1920&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.1920.1920.uqsl1.png&#34;,&#34;64&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.64.64.uqsl1.png&#34;,&#34;48&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.thumbnail.48.48.png&#34;,&#34;1440&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.1440.1440.uqsl1.png&#34;,&#34;480&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.480.480.uqsl1.png&#34;,&#34;720&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.720.720.uqsl1.png&#34;,&#34;1280&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.1280.1280.uqsl1.png&#34;,&#34;1080&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.1080.1080.uqsl1.png&#34;,&#34;360&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.web.360.360.uqsl1.png&#34;,&#34;140&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.thumbnail.140.100.png&#34;,&#34;319&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png/jcr:content/renditions/cq5dam.thumbnail.319.319.png&#34;},&#34;path&#34;:&#34;/content/dam/audio/uploadImg/2025/10/01/samdrysdale-ihrt-futurestar-showimagelogo-1252x704.png&#34;,&#34;format&#34;:&#34;image/png&#34;,&#34;size&#34;:1506739},&#34;lastPublishedDate&#34;:&#34;2025-10-1T08:50:21&#34;,&#34;contentType&#34;:&#34;teaser&#34;,&#34;url&#34;:&#34;https://www.iheartradio.ca/en/iheartradio-future-star/sam-drysdale.html&#34;}]" columns-by-row="1" :selectors="['custom-image-subtitle-title', 'wide-image']">
+  </basic-lineup>
+
+
+
+    
+
+</div>
+
+          
+     
+
+</div>
+
+          
+     
+
+</div>
+<div class="container responsivegrid l-full-width-column">
+
+    
+    
+     
+     
+          
+          <div class="lineuplist">
+  
+  
+  
+
+  <basic-lineup lineup-type="smart" lineup-content="widget-teasers" title="Videos" :display-title="true" :display-description="false" :display-teasers-synopsis="false" :display-teasers-date="false" :starting-element="1" :items-to-display="4" :has-show-more="false" title-link="https://www.youtube.com/@iHeartRadioCA" title-link-is-new-tab columns-by-row="4" :selectors="true ? ['custom-image-title', 'wide-image'] : []" :graphql-filters="{
+      isExcludeTags: false,
+      tags: [{&#34;title&#34;:&#34;iHeart Canada&#34;,&#34;value&#34;:&#34;audio:videos/iheart-canada&#34;}],
+      isExcludeRadioAssociations: false,
+      radioAssociations: [],
+    }" :specific-props="{
+      currentPagePathSegment:&#39;iheart&#39;,
+      isRunModeAuthor: false
+    }">
+    
+  </basic-lineup>
+
+
+
+    
+
+</div>
+<div class="podcastlist">
+  <basic-lineup lineup-type="manual" lineup-content="podcasts" title="Podcasts" :display-title="true" title-link="https://www.iheart.com/podcast/" :title-link-is-new-tab="false" :items-to-display="4" :model-data="[{&#34;lastUpdated&#34;:1745931517,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/url/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvNDgwOWJjOGEtZTQxYS00MDVjLTkzZGEtYThjZjAxMWRmMmY0LzFjNDlmOGFmLTg1OTMtNGYwYS1hZDM0LWIwN2QwMTAyMGQ4ZS9jNjU3ODU2My0wZDNlLTQ2ZDYtYWZhYi1iMDdkMDEwMjU0ZDUvaW1hZ2UuanBnP3Q9MTcxODAyODIzNiZzaXplPUxhcmdl&#34;,&#34;description&#34;:&#34;Do you remember where you were the first time you heard Outkast tell you to &#39;Shake it like a Polaroid Picture&#39;?\nHow about when Nickelback told you to &#39;Look at this Photograph&#39;?\nOr when Taylor Swift provided the soundtrack to your Love story?\nJoin Ruby Carr as she takes you through the biggest songs in the world - with new interviews and newly unearthed archive footage from the artists themselves.\nSubscribe on iHeartRadio or wherever you get your podcasts!&#34;,&#34;id&#34;:124206648,&#34;title&#34;:&#34;Encore: The Stories Behind The Songs You Love&#34;,&#34;slug&#34;:&#34;962-encore-the-stories-behind&#34;,&#34;url&#34;:&#34;https://www.iheart.com/podcast/962-encore-the-stories-behind-124206648&#34;},{&#34;lastUpdated&#34;:1745899113,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/url/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcHJvZ3JhbXMvNDgwOWJjOGEtZTQxYS00MDVjLTkzZGEtYThjZjAxMWRmMmY0Lzc1ZTMxMzllLTg2N2QtNGMwMy05MWQwLWIwZjkwMTNhMDBjYy9pbWFnZS5qcGc_dD0xNzA1NDMxOTI5JnNpemU9TGFyZ2U&#34;,&#34;description&#34;:&#34;Whether you&#39;re a seasoned gamer, or just curious about Video Games in general - Join Naomi Kyle every week as she breaks down the latest in the world of Video Games, even if you&#39;re a total newbie!\nExpect the hottest gaming news, chats with industry experts and so much more!&#34;,&#34;id&#34;:143623284,&#34;title&#34;:&#34;This Week in Gaming&#34;,&#34;slug&#34;:&#34;962-this-week-in-gaming&#34;,&#34;url&#34;:&#34;https://www.iheart.com/podcast/962-this-week-in-gaming-143623284&#34;},{&#34;lastUpdated&#34;:1756496727,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/url/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcHJvZ3JhbXMvNDgwOWJjOGEtZTQxYS00MDVjLTkzZGEtYThjZjAxMWRmMmY0LzI0ODg0ZmVmLTY3NmUtNDMyNi04NTU2LWIyYjMwMTRiOGZiMC9pbWFnZS5qcGc_dD0xNzQzNjk0MTcwJnNpemU9TGFyZ2U&#34;,&#34;description&#34;:&#34;Catch up on today&#39;s biggest pop culture, celebrity and entertainment news. From exclusive interviews with your favourite stars to the inside scoop on the most buzzed-about new releases, Etalk has you covered.&#34;,&#34;id&#34;:271764470,&#34;title&#34;:&#34;Etalk&#34;,&#34;slug&#34;:&#34;962-etalk&#34;,&#34;url&#34;:&#34;https://www.iheart.com/podcast/962-etalk-271764470&#34;},{&#34;lastUpdated&#34;:1735826815,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/url/aHR0cHM6Ly93d3cub21ueWNvbnRlbnQuY29tL2QvcGxheWxpc3QvNDgwOWJjOGEtZTQxYS00MDVjLTkzZGEtYThjZjAxMWRmMmY0LzkwNzRiNWM5LWU5ZGMtNGUyMC05MDM5LWFhMDEwMTMyNzZmYS9jOTc4MTJlYi01NjYyLTRjZjUtODU0YS1hYjczMDE1Nzk5ODUvaW1hZ2UuanBnP3Q9MTcyMTIzNTAyNiZzaXplPUxhcmdl&#34;,&#34;description&#34;:&#34;Dive deep into the world of your favourite artists with us! Join Shannon Burns, Myles Galloway, Producer Jess, and the rest of the iHeartRadio family in Canada for in-depth interviews and behind-the-scenes looks at what REALLY goes on when artists drop by!&#34;,&#34;id&#34;:59000134,&#34;title&#34;:&#34;The Filter&#34;,&#34;slug&#34;:&#34;962-the-filter&#34;,&#34;url&#34;:&#34;https://www.iheart.com/podcast/962-the-filter-59000134&#34;}]">
+  </basic-lineup>
+
+
+
+    
+
+</div>
+<div class="lineuplist">
+  
+  
+  
+
+  <basic-lineup lineup-type="manual" lineup-content="widget-teasers" title="Digital Stations" :display-title="true" :display-description="false" :display-teasers-synopsis="false" :display-teasers-date="false" :starting-element="1" :items-to-display="4" :has-show-more="false" title-link="https://www.iheart.com/live/country/CA/city/digitalca-nat-767/" title-link-is-new-tab columns-by-row="4" :selectors="true ? ['custom-image-title', 'square-image'] : []" :specific-props="{
+      lineupName:&#39;digital-stations&#39;,
+      currentPagePathSegment:&#39;iheart&#39;,
+      isRunModeAuthor: false
+    }">
+    
+  </basic-lineup>
+
+
+
+    
+
+</div>
+<div class="playlistlist">
+  <basic-lineup lineup-type="manual" lineup-content="playlists" title="Playlists" :display-title="true" title-link="https://www.iheart.com/playlist/" :title-link-is-new-tab="false" :items-to-display="4" :model-data="[{&#34;lastUpdated&#34;:1758911035490,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/re/assets.playlists/68d6d90906071694aff83fde&#34;,&#34;title&#34;:&#34;Sweater Weather&#34;,&#34;url&#34;:&#34;https://www.iheart.com/playlist/sweater-weather-312064750-PgXGEfrxvhNsGPgxHJYyek/&#34;},{&#34;lastUpdated&#34;:1760101152181,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/re/assets.playlists/68e6a65d4ecf6731f3e9c970&#34;,&#34;title&#34;:&#34;Canada Now&#34;,&#34;url&#34;:&#34;https://www.iheart.com/playlist/canada-now-312064750-TzxbcNygwVJQMWNJyZBQQD/&#34;},{&#34;lastUpdated&#34;:1760329435181,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/re/assets.playlists/62850af7c88445fb27c89e19&#34;,&#34;title&#34;:&#34;The New Hit List&#34;,&#34;url&#34;:&#34;https://www.iheart.com/playlist/the-new-hit-list-312064750-RbisVGYJ9GmN5DDwGabFkf/&#34;},{&#34;lastUpdated&#34;:1757511975001,&#34;imageUrl&#34;:&#34;https://i.iheart.com/v3/re/assets.playlists/686449afd58b5687860d7b0f&#34;,&#34;title&#34;:&#34;Coffeehouse&#34;,&#34;url&#34;:&#34;https://www.iheart.com/playlist/coffeehouse-312064750-DCLMeSrtkkxFA2LHRQgA5K/&#34;}]">
+  </basic-lineup>
+
+
+
+    
+
+</div>
+<div class="artistlistfragment">
+  <artist-list title="Artist Radio" description="Find your favourite artists, hit play and listen to their best songs along with similar artists." :list="[{&#34;id&#34;:&#34;31552663&#34;,&#34;url&#34;:&#34;https://www.iheart.com/artist/harry-styles-31552663/&#34;}, {&#34;id&#34;:&#34;31351268&#34;,&#34;url&#34;:&#34;https://www.iheart.com/artist/olivia-rodrigo-31351268/&#34;}, {&#34;id&#34;:&#34;33221&#34;,&#34;url&#34;:&#34;https://www.iheart.com/artist/taylor-swift-33221/&#34;}, {&#34;id&#34;:&#34;30406307&#34;,&#34;url&#34;:&#34;https://www.iheart.com/artist/luke-combs-30406307/&#34;}, {&#34;id&#34;:&#34;72280&#34;,&#34;url&#34;:&#34;https://www.iheart.com/artist/foo-fighters-72280/&#34;}]" :is-from-cf="false" title-link="https://www.iheart.com/artist/" :title-link-is-new-tab></artist-list>
+
+
+
+    
+
+</div>
+
+          
+     
+
+</div>
+<div class="promotionpopupexperiencefragment experiencefragment"></div>
+<div class="experiencefragment">
+<div id="experiencefragment-32a56c7aa9" class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+
+    
+    
+     
+     
+          
+          <div class="footernavigation">
+  <site-footer station="iheartradio" address="299 Queen Street WestToronto ONM5V 2Z5" terms-of-use="Use of this Website assumes acceptance of" bell-media-link="https://www.bellmedia.ca" terms-link="https://www.bellmedia.ca/bell-media-website-terms-conditions/" policy-link="https://www.bell.ca/Security_and_privacy/Commitment_to_privacy" :accessibility='{
+      ctaTitle: "Go Now ",
+      ctaUrl: "https://www.bce.ca/Accessibility_services?brand=iheart",
+      description: "You are now being redirected to BCE.ca website (Bell Canada Enterprises) where you can view our Accessibility plan, progress report, and submit your feedback using our Accessibility web form.",
+      linkTarget: "_blank",
+      cancelLabel: "Cancel"
+  }' :nav-sections="[{&#34;title&#34;:&#34;Live Radio&#34;,&#34;url&#34;:&#34;https://www.iheart.com/live/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Podcasts&#34;,&#34;url&#34;:&#34;https://www.iheart.com/podcast/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Artist Radio&#34;,&#34;url&#34;:&#34;https://www.iheart.com/artist/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Playlists&#34;,&#34;url&#34;:&#34;https://www.iheart.com/playlist/&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Advertise With Us&#34;,&#34;url&#34;:&#34;/en/advertise-with-us.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Contact Us&#34;,&#34;url&#34;:&#34;/en/contactus.html&#34;,&#34;linkTarget&#34;:&#34;_self&#34;}, {&#34;title&#34;:&#34;Political Ad Registry&#34;,&#34;url&#34;:&#34;https://www.bellmedia.ca/advertising-sales/political-ads-registry/&#34;,&#34;linkTarget&#34;:&#34;_blank&#34;}]" :socials="[{&#34;type&#34;:&#34;instagram&#34;,&#34;link&#34;:&#34;https://www.instagram.com/iheartradioca/&#34;}, {&#34;type&#34;:&#34;facebook&#34;,&#34;link&#34;:&#34;https://www.facebook.com/iheartradioca/&#34;}, {&#34;type&#34;:&#34;x&#34;,&#34;link&#34;:&#34;https://twitter.com/iHeartRadioCA&#34;}, {&#34;type&#34;:&#34;tiktok&#34;,&#34;link&#34;:&#34;https://www.tiktok.com/@iheartradioca&#34;}, {&#34;type&#34;:&#34;youtube&#34;,&#34;link&#34;:&#34;https://www.youtube.com/channel/UCJcFuK7qIYI20TTe-wforpw&#34;}]">
+    <template #disclaimer>
+      
+    </template>
+  </site-footer>
+
+</div>
+
+          
+     
+
+</div>
+
+    
+</div>
+
+          
+     
+
+</div>
+
+          
+     
+
+</div>
+
+            
+    
+    
+    
+    
+<script src="/etc.clientlibs/audio/clientlibs/clientlib-site.min.661baefc7f49e54b565f20136cf6c24d.js"></script>
+
+
+
+
+
+
+    <script async>
+        /* eslint-disable */
+        !function(e,t,o,g,n){if(!t){t=t||{},window.permutive=t,t.q=[],t.config=n||{},t.config.projectId=o,t.config.apiKey=g,t.config.environment=t.config.environment||"production";for(var r=["addon","identify","track","trigger","query","segment","segments","ready","on","once","user","consent"],i=0;i<r.length;i++){var a=r[i];t[a]=function(e){return function(){var o=Array.prototype.slice.call(arguments,0);t.q.push({functionName:e,arguments:o})}}(a)}}}(document,window.permutive,"289d106c-df24-4cd9-a9fa-753e928c23ad","b1a4360a-3db9-4b39-b09d-c3e14666840a",{}),window.googletag=window.googletag||{},window.googletag.cmd=window.googletag.cmd||[],window.googletag.cmd.push(function(){if(0===window.googletag.pubads().getTargeting("permutive").length){var e=window.localStorage.getItem("_pdfps");window.googletag.pubads().setTargeting("permutive",e?JSON.parse(e):[])}}),permutive.addon("web",{});
+        /* eslint-enable */
+    </script>
+
+    <script async src="https://cdn.permutive.com/289d106c-df24-4cd9-a9fa-753e928c23ad-web.js"></script>
+
+
+
+
+<script async src="https://cdn.confiant-integrations.net/5rJjPRoNo_MlaGcpOA6YOlm0Fmw/gpt_and_prebid/config.js"></script>
+
+
+<script async src="https://micro.rubiconproject.com/prebid/dynamic/13126.js"></script>
+
+
+<script async src="https://securepubads.g.doubleclick.net/tag/js/gpt.js"></script>
+
+
+
+
+    <script async>
+        function smartid(SIP_CARRIER_ENDPOINT, SIP_PUBLISHER_ID, SIP_OPT_IN, featureFlag, apiKey, secretKey) {
+            let HEADERS = {
+                method: 'GET',
+                mode: 'cors',
+                referrerPolicy: 'no-referrer',
+            };
+            const SMART_ID_COOKIE_NAME = 'sn.smart_id';
+
+            function init() {
+                getNetworkId(apiKey, secretKey);
+            }
+
+            async function getPublicIp(fallbackUrls) {
+                let urls = [
+                    'https://ipv4.icanhazip.com/',
+                    'https://api.ipify.org/',
+                    fallbackUrls
+                ]
+                for (const url of urls) {
+                    try {
+                        const ip = await fetch(url).then(response => response.text());
+                        // eslint-disable-next-line no-await-in-loop
+                        return ip;
+                    } catch (e) {
+                        return;
+                    }
+                }
+            }
+
+            async function getCarrier(SIP_API_KEY, SIP_HASHED_API_SECRET) {
+                try {
+                    const clientIp = await getPublicIp();
+                    const url = SIP_CARRIER_ENDPOINT + 'publisher_id=' + SIP_PUBLISHER_ID + '&public_ip=' + clientIp;
+                    const response = await fetch(url, {
+                        ...HEADERS,
+                        headers: {
+                            'X-API-KEY': SIP_API_KEY,
+                            'X-API-SECRET': SIP_HASHED_API_SECRET,
+                        },
+                    });
+                    if (response.status === 200) {
+                        return response.json();
+                    }
+                } catch (e) {
+                    return
+                }
+            }
+
+            async function getNetworkId(SIP_API_KEY, SIP_HASHED_API_SECRET) {
+                try {
+                    const carrierFinderData = await getCarrier(
+                        SIP_API_KEY,
+                        SIP_HASHED_API_SECRET
+                    )
+                    const {redirectUrl} = carrierFinderData;
+                    const response = await fetch(redirectUrl + '&opt_in=' + SIP_OPT_IN, {
+                        ...HEADERS,
+                        headers: {
+                            'X-API-KEY': SIP_API_KEY,
+                            'X-API-SECRET': SIP_HASHED_API_SECRET,
+                        },
+                    });
+
+                    const data = await response.json();
+                    if (response.status !== 200) {
+                        return
+                    }
+
+                    const value = data.smart_id;
+                    setCookie(SMART_ID_COOKIE_NAME, value);
+
+                } catch (e) {
+                    return
+                }
+            }
+
+            function setCookie(name, value, attributes) {
+                if (typeof document === 'undefined') {
+                    return
+                }
+
+                attributes = assign({}, defaultAttributes, attributes)
+
+                if (typeof attributes.expires === 'number') {
+                    attributes.expires = new Date(Date.now() + attributes.expires * 864e5)
+                }
+                if (attributes.expires) {
+                    attributes.expires = attributes.expires.toUTCString()
+                }
+
+                name = encodeURIComponent(name)
+                    .replace(/%(2[346B]|5E|60|7C)/g, decodeURIComponent)
+                    .replace(/[()]/g, escape)
+
+                var stringifiedAttributes = ''
+                for (var attributeName in attributes) {
+                    if (!attributes[attributeName]) {
+                        continue
+                    }
+
+                    stringifiedAttributes += '; ' + attributeName
+
+                    if (attributes[attributeName] === true) {
+                        continue
+                    }
+
+                    stringifiedAttributes += '=' + attributes[attributeName].split(';')[0]
+                }
+
+                return (document.cookie =
+                    name + '=' + encodeURIComponent(value).replace(/%(2[346BF]|3[AC-F]|40|5[BDE]|60|7[BCD])/g, decodeURIComponent) + stringifiedAttributes)
+            }
+
+            init();
+        }
+
+        smartid(
+            'https:\/\/api.smart\u002Did.ca\/sip\/api\/keyauth\/carrierIdFinderUrl?',
+            'eaabeaf0\u002D3fcb\u002D4dc7\u002Db243\u002Da2fcd27bbe13',
+            'true',
+            'OFF',
+            'a0b6654b\u002Dcd3c\u002D436f\u002D8c3a\u002Da8f298f2e312',
+            '9ec820cf75d4ee1d51fb014e363acc4f4afc627e0cdb6f886efcaa7d32de40f8'
+        )
+    </script>
+
+
+
+
+<script async>
+    !function (a9, a, p, s, t, A, g) { if (a[a9]) return; function q(c, r) { a[a9]._Q.push([c, r]) } a[a9] = { init: function () { q("i", arguments) }, fetchBids: function () { q("f", arguments) }, setDisplayBids: function () { }, targetingKeys: function () { return [] }, _Q: [] }; A = p.createElement(s); A.async = !0; A.src = t; g = p.getElementsByTagName(s)[0]; g.parentNode.insertBefore(A, g) }("apstag", window, document, "script", "//c.amazon-adsystem.com/aax2/apstag.js");
+
+    apstag.init({
+        pubID: '3782',
+        adServer: 'googletag'
+    });
+</script>
+
+
+
+    <script async src="https://cdn.optimizely.com/js/23528670382.js"></script>
+
+
+
+
+<script async>
+    /* eslint-disable */
+  !function(e,t,n,a,c,o,s){e.fbq||(c=e.fbq=function(){c.callMethod?c.callMethod.apply(c,arguments):c.queue.push(arguments)},e._fbq||(e._fbq=c),c.push=c,c.loaded=!0,c.version="2.0",c.queue=[],(o=t.createElement(n)).async=!0,o.src=a,(s=t.getElementsByTagName(n)[0]).parentNode.insertBefore(o,s))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js"),fbq("init","198053572435923"),fbq("track","PageView");
+    /* eslint-enable */
+</script>
+
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=198053572435923&ev=PageView&noscript=1"/></noscript>
+
+
+
+<script async>
+  var _comscore = _comscore || [];
+  _comscore.push({
+    c1: "2",
+    c2: "3005664",
+    options: {
+      enableFirstPartyCookie: true,
+      bypassUserConsentRequirementFor1PCookie: true
+    }
+  });
+  (function() {
+    var s = document.createElement("script"),
+        el = document.getElementsByTagName("script")[0];
+    s.async = true;
+    s.src = "https://sb.scorecardresearch.com/cs/3005664/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="https://sb.scorecardresearch.com/p?c1=2&c2=3005664&cv=4.4.0&cj=1"/>
+</noscript>
+
+
+    
+
+    
+
+    
+    
+    
+
+            
+
+        
+    </body>
+</html>

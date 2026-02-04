@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: /administrator/
+Disallow: /bin/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /tmp/
+Disallow: /593.html
+Disallow: /kontaktimpressum.html
+Disallow: /datenschutz.html
+Disallow: /t-shirt.html
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+Allow: /*.webp*
+
+User-Agent: Googlebot
+Allow: /*.js
+Allow: /*.css
+Allow: /*.webp*
+Allow: /images/icons/
+Allow: /templates/yootheme/
+
+User-Agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.wetterprognose-wettervorhersage.de/index.php?option=com_jmap&view=sitemap&format=xml
+Sitemap: https://www.wetterprognose-wettervorhersage.de/index.php?option=com_jmap&view=sitemap&format=gnews

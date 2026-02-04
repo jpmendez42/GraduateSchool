@@ -1,0 +1,10 @@
+# 모든 봇 허용 (미들웨어에서 네이버 봇만 404로 차단)
+User-agent: *
+Allow: /
+
+# Host
+Host: https://toptoon.jp
+
+# Sitemaps
+Sitemap: https://toptoon.jp/sitemap.xml
+Sitemap: https://toptoon.jp/production/sitemap/ja/sitemap-1.xml

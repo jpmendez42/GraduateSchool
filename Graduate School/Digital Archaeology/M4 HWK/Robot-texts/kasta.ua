@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /*?
+Disallow: /?*
+Disallow: /me/
+Disallow: /user/
+Disallow: /basket/
+Disallow: /uk/me/
+Disallow: /uk/user/
+Disallow: /uk/basket/
+Disallow: /uk/market/*/*/*/
+Disallow: /*=*offset=*
+Disallow: /*offset=*=*
+Disallow: /ru/brand/*/campaigns/*
+Disallow: /uk/brand/*/campaigns/*
+Allow: /*offset=*
+Allow: /*.css
+Allow: /*.js
+
+Sitemap: https://kasta.ua/sitemap.xml

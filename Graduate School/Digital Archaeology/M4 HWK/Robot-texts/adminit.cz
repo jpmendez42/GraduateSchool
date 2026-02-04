@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /component/
+
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://www.adminit.cz/sitemap.xml

@@ -1,0 +1,19 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/*
+Disallow: /nogooglebot/
+Disallow: /*tracking=
+Disallow: /*ref=
+Disallow: /*attachment_id=
+Disallow: /*fbclid=
+Disallow: /checkout
+Disallow: /*?search=
+Disallow: /*?active=mock-test
+
+# Host
+Host: https://zim.vn
+
+# Sitemaps
+Sitemap: https://zim.vn/sitemap-legacy.xml
+Sitemap: https://zim.vn/sitemap.xml

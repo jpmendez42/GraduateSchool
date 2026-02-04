@@ -1,0 +1,26 @@
+User-agent: *
+
+Allow: /Frontend/Commons/Scripts/*
+Allow: /Frontend/Commons/Styles/*
+Allow: /frontend/commons/transition/*
+Allow: /Frontend/Views/*
+Disallow: /Frontend/
+
+Disallow: /*/ricerca
+Disallow: /ricerca
+
+Disallow: /listino/segnala-dati-errati/*
+Disallow: /market/fraud-notification/*
+Disallow: /market/send-message/*
+Disallow: /automotoit/inserisci-annunci*
+Disallow: /automotoit/trackview/*
+Disallow: /automotoit/send-feedback*
+Disallow: /automotoit/richiedi-concessionario/*
+Disallow: /automotoit/ricerche-salvate/*
+Disallow: /concessionari/contatta/*
+
+User-agent: Twitterbot
+Allow: /images
+
+User-agent: facebookexternalhit
+Allow: /images

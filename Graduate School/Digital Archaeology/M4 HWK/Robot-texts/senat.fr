@@ -1,0 +1,16 @@
+User-Agent: *
+Allow: /
+Disallow: /recherche/
+Disallow: /basile/
+
+# folders
+Disallow: /typo3/
+Disallow: /typo3conf/
+Allow: /typo3conf/ext/
+Allow: /typo3temp/
+
+# parameters
+Disallow: /*?id=*               # non-realurl URLs
+Disallow: /*tx_form_formframework    # no forms
+
+Sitemap: https://www.senat.fr/sitemap.xml

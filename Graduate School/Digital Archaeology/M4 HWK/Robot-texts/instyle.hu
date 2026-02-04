@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.instyle.hu/data/sitemaps/InstyleHu/index.xml
+
+User-agent: Googlebot-News
+Sitemap: https://www.instyle.hu/data/sitemaps-news/InstyleHu/index.xml

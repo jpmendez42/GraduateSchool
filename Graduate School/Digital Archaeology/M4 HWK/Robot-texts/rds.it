@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /rds-tv/video-news/video-news-19102015-2
+Disallow: /atrds/*
+
+Sitemap: https://www.rds.it/sitemap.xml
+
+Disallow: *{{*
+Disallow: /search/*
+Disallow: /video/*
+User-agent: grapeshot
+Disallow: /

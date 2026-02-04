@@ -1,0 +1,16 @@
+User-Agent: *
+
+#sitemap
+#Sitemap: https://www.sankeibiz.jp/sitemap.xml
+Sitemap: https://www.sankeibiz.jp/feeds/sitemapindex/?outputType=xml
+Sitemap: https://www.sankeibiz.jp/feeds/sitemapindex-category/?outputType=xml
+Sitemap: https://www.sankeibiz.jp/feeds/google-sitemapindex/?outputType=xml
+
+# not contents
+Disallow: /_test/
+Disallow: /smp/_test/
+Disallow: /pdf/
+Disallow: */print/
+Disallow: /module/
+Disallow: /parts/
+Disallow: /preview/

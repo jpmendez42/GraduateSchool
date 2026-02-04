@@ -1,0 +1,27 @@
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: *
+Disallow: /admin
+Disallow: /agents/*/recommend
+Disallow: /agents/search
+Disallow: /alerts
+Disallow: /bookmarks
+Disallow: /buildings/search
+Disallow: /dashboard
+Disallow: /developments/search
+Disallow: /navigation
+Disallow: /properties/search
+Disallow: /rentals/search
+Disallow: /sidekiq
+Disallow: /static
+Disallow: /track
+Disallow: /users
+
+Sitemap: https://www.rew.ca/sitemaps/sitemap.xml.gz

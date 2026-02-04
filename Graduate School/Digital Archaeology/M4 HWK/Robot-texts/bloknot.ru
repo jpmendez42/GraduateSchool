@@ -1,0 +1,35 @@
+User-agent: *  
+Allow: /
+Disallow: /cgi-bin
+Disallow: /wp-                 
+Disallow: /?
+Disallow: *?s=
+Disallow: *&s=
+Disallow: /search
+Disallow: /author/
+Disallow: */embed$
+Disallow: */xmlrpc.php
+Disallow: *utm*=
+Disallow: *eurl*=
+Disallow: *openstat=
+Allow:    */wp-*/*ajax*.php
+Allow:    */wp-sitemap
+Allow:    */uploads
+Allow:    */wp-*/*.js
+Allow:    */wp-*/*.css
+Allow:    */wp-*/*.png
+Allow:    */wp-*/*.jpg
+Allow:    */wp-*/*.jpeg
+Allow:    */wp-*/*.gif
+Allow:    */wp-*/*.svg
+Allow:    */wp-*/*.webp
+Allow:    */wp-*/*.swf
+Allow:    */wp-*/*.pdf
+
+Host: bloknot.ru
+Sitemap: http://bloknot.ru/sitemap.xml
+Sitemap: http://bloknot.ru/sitemap.xml.gz
+Crawl-delay: 10
+
+User-agent: Twitterbot
+Allow: /wp-content/uploads/

@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /sv
+Disallow: /sv-se
+Disallow: /en-se
+Disallow: /no
+Disallow: /nb-no
+Disallow: /en-no
+Disallow: /fi
+Disallow: /fi-fi
+Disallow: /en-fi
+Disallow: /sv-fi
+
+Sitemap: https://www.biltema.dk/globalassets/sitemaps/sitemapindex-da.xml

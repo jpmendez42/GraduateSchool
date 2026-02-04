@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /blaa-konto/
+Disallow: /roed-konto/
+Disallow: /spil/oddset/maaljagt/resultater.php
+Disallow: /casino/vegas/vegas-lukker
+Disallow: /nyheder/spilnyheder/detail.php
+Disallow: *gameInstanceId=*
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: bingbot
+Disallow: /*.php*
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /kundecenter*

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ajax/
+Disallow: /flv/
+Disallow: /images/avatars/
+Disallow: /pics/
+Disallow: /piwa/
+Disallow: /post/updates/
+Disallow: /search/
+Disallow: /zglos/wpis/
+Disallow: /premium/
+Disallow: /payment/
+Disallow: /support-us

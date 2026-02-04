@@ -1,0 +1,12 @@
+User-agent: GPTBot
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /cdn-cgi/
+
+
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://www.plumeti.fr/sitemap.xml

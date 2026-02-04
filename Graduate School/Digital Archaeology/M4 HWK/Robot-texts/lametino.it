@@ -1,0 +1,160 @@
+#aggiunti  il 21/07/2025
+User-agent: facebookexternalhit
+Disallow: /api/
+Allow: /
+# fine aggiunti  il 21/07/2025
+
+
+User-agent: *
+Allow: /*.js*
+Allow: /*.css*
+Allow: /*.png*
+Allow: /*.jpg*
+Allow: /*.gif*
+
+
+Disallow: /administrator/
+Disallow: /cache/
+
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+
+
+
+
+Disallow: /tmp/
+Disallow: /xmlrpc/
+Disallow: /AndroidNativeData/
+Disallow: /iPhoneNativeData/
+Disallow: /Mobile/
+Disallow: /TCUtils/
+Allow: /*feed_id 
+Disallow: /*?start
+Disallow: /*&start=
+Disallow: /*?Itemid
+Disallow: /*?component
+Disallow: /*Page
+Disallow: /banners/click
+Disallow: /*.jpg&w=
+Disallow: /*.jpg?w=
+Disallow: /*print=
+Disallow: /*iframe=
+Disallow: /*fb_comment_id=
+Disallow: /Annunci
+Disallow: /annunci
+Disallow: /ADSMANAGER_SEF_ADS
+Allow: /*com_obrss&task=feed&id=2:il-lametino-it&format=feed
+Disallow: /*?cmsPreview=
+Disallow: /*format=pdf
+Disallow: /*format=raw
+Disallow: /*view=section
+Disallow: /*view=frontpage
+Disallow: /*html?catid=
+Disallow: /*format=html
+Disallow: /*fb_source=
+Disallow: /*fb_action_
+Disallow: /component/
+Disallow: /*type=rss
+Disallow: /*option=com_xmap
+Disallow: /*amp;w=
+Disallow: /*feedburner
+Disallow: /*html?fb_ref=Default
+Disallow: /*feed.html
+Disallow: /*feed/rss.html
+Disallow: /*?refresh_ce=
+
+
+#aggiunti da  il 11/08/2023
+Disallow:  /*flvplayer.swf
+Disallow:  /*lamezia-non-passano-piu-treni-e-le-stazioni-in-centro-vengono-abbandonate.html
+Disallow:  /*lamezia-avvocati-occupano-tribunale-contro-bozza-governo-che-salverebbe-da-chiusura-solo-paola-e-castrovillari.html
+Disallow:  /*lamezia-sparatoria-a-mezzanotte-in-via-tommaso-fusco.html
+Disallow:  /*lamezia-vittima-di-tentato-omicidio-si-presenta-in-ospedale-dopo-alcune-ore.html
+Disallow:  /*lamezia-dippolito-galati-e-lo-moro-su-tribunale-vigileremo-perche-nessun-torto-sia-fatto.html
+Disallow:  /*Unioncamere%20Calabria:%20webinar%20%E2%80%9CE-commerce%20e%20Food%20delivery%22%20il%2017%20novembre
+Disallow:  /*cucmontecontessa.ga-t.it/
+
+
+#aggiunti  il 08/08/2025
+Disallow: /*arresti_270812.jpg 
+Disallow: /*operazione-pegaso-imputati-CON-NOMI.jpg
+Disallow: /*operazione-pegaso-imputati.jpg
+Disallow: /*arresti_10_01_2013.jpg
+Disallow: /*lamezia-processo-nuove-leve-in-aula-il-collaboratore-piraina-racconta-come-avveniva-lo-spaccio.html
+Disallow: /*processo-perseo-ascoltati-piraina-e-l-ex-fidanzata.html
+Disallow: /*processo-perseo-ascoltati-piraina-e-lex-fidanzata.html
+Disallow: /*processo-perseo-controesame-per-luca-piraina.html
+Disallow: /*processo-pegaso-probabile-sentenza-il-prossimo-14-luglio.html 
+Disallow: /*processo-perseo-controesame-per-luca-piraina.html
+Disallow: /*processo-perseo-piraina-giuseppe-giampa-preferiva-eliminare-tutti-per-non-avere-pensieri.html 
+Disallow: /*processo-perseo-in-aula-la-testimonianza-di-cortese.html
+Disallow: /*processo-perseo-controesame-per-francesco-michienzi.html
+Disallow: /*processo-perseo-michienzi-bombe-carta-ad-attivita-che-pagavano-i-torcasio.html
+Disallow: /*operazione-pegaso-discussione-pm-rinviata-al-9-maggio.html
+Disallow: /*processo-perseo-controesame-per-luca-piraina.html
+Disallow: /*lamezia-operazione-crisalide-in-aula-ascoltati-diversi-collaboratori-di-giustizia.html
+Disallow: /*lamezia-processo-a-collaboratori-di-giustizia-della-cosca-giampa-in-appello-11-condanne-e-un-assoluzione.html
+Disallow: /*lamezia-processo-a-collaboratori-di-giustizia-della-cosca-giampa-8-condanne-e-un-assoluzione.html
+Disallow: /*lamezia-arrestati-4-esponenti-della-cosca-giampa.html
+Disallow: /*lamezia-estorsioni-usura-e-spaccio-dda-chiede-processo-per-14-persone.html
+Disallow: /*lamezia-operazione-doppio-colpo-i-tre-negano-tutto-davanti-al-gip.html
+Disallow: /*lamezia-operazione-doppio-colpo-cambia-la-geografia-delle-cosche-lametine.html
+Disallow: /*operazione-pegaso-pm-chiede-2-ergastoli-e-condanne-da-14-a-30-anni.html
+Disallow: /*lamezia-tre-arresti-per-tentata-estorsione-provvedimenti-notificati-in-carcere.html
+Disallow: /*operazione-perseo-ripreso-processo-al-tribunale-lamezia.html
+Disallow: /*lamezia-processo-a-clan-greco-udienza-preliminare-per-14-persone-costituite-parti-civili.html
+Disallow: /*processo-perseo-omicidi-alessandro-torcasio-non-ho-sparato-a-giuseppe-chirumbolo.html
+Disallow: /*processo-medusa-confermate-condanne-in-cassazione.html
+Disallow: /*operazione-andromeda-anche-nuovi-collaboratori-nella-cosca-iannazzo-e-cannizzaro-daponte.html
+Disallow: /*lamezia-processo-medusa-ecco-le-condanne.html
+Disallow: /*ndrangheta-la-ricostruzione-degli-omicidi-di-vincenzo-e-francesco-torcasio-nelle-parole-del-pentito.html
+Disallow: /*lamezia-le-prime-ammissioni-del-boss-giuseppe-giampa-da-pentito.html
+Disallow: /*operazione-nuove-leve-l-intrusione-in-casa-di-angelo-torcasio-e-la-minaccia-con-le-bottiglie-di-spumante.html
+Disallow: /*lamezia-omicidio-francesco-torcasio-udienza-slitta-al-28-maggio.html
+Disallow: /*processo-perseo-appello-rito-ordinario-le-motivazioni-delle-assoluzioni-di-scaramuzzino-e-chirumbolo.html
+Disallow: /*processo-perseo-controesame-per-francesco-michienzi.html
+Disallow: /*processo-perseo-le-discussioni-degli-avvocati-di-renzo-bitonte-e-canzoniere.html
+Disallow: /*operazione_doppio_colpo.jpg 
+Disallow: /*operazione_medusa3.jpg
+#fine modifica  aggiunta   il 08/08/2025
+
+
+
+ 
+# Questi sono stati Attivati per GOOGLEBOT MOBILE
+Allow: /templates/mobiletemplate_phone/css/*
+Allow: /templates/mobiletemplate_phone/js/*
+Allow: /templates/mobiletemplate_phone/images/Logo-200.svg
+
+
+#Questi sono stati attivati su richiesta di google
+Allow: /components/com_k2/js/k2.js
+Allow: /plugins/system/jcemediabox/js/jcemediabox.js
+Allow: /components/com_jfbconnect/includes/jfbconnect.js
+Allow: /templates/noonews-lametino/css/themes/blue/edRelatedBoxCss.css
+Allow: /templates/noonews-lametino/js/lametfunc.js
+Allow: /modules/mod_novarp/js/cycle.js
+Allow: /media/system/css/system.css
+Allow: /templates/noonews-lametino/css/themes/blue/print_template.css
+Allow: /templates/noonews-lametino/css/themes/blue/screen_template.css
+Allow: /modules/mod_cookiesaccept/img/przez_b.png
+Allow: /modules/mod_raxo_allmode/tools/tb.php
+Allow: /modules/mod_filterednews/thumbs/*.jpg
+Allow: /modules/mod_filterednews/thumbs/*.JPG
+Allow: /modules/mod_filterednews/thumbs/*.png
+Allow: /modules/mod_filterednews/thumbs/*.PNG
+Allow: /modules/mod_filterednews/thumbs/05/*.JPG
+Allow: /modules/mod_filterednews/thumbs/05/*.jpg
+Allow: /modules/mod_filterednews/thumbs/05/*.png
+Allow: /modules/mod_lametinotv/images/play-01.png
+Allow: /templates/noonews-lametino/images/icone-share/*.png
+Allow: /templates/noonews-lametino/images/icone-share/*.jpg
+Allow: /templates/noonews-lametino/images/icone-share/*.gif
+Allow: /plugins/system/jcemediabox/themes/standard/popup.html
+Allow: /plugins/system/jcemediabox/themes/standard/tooltip.html
+Allow: /templates/noonews-lametino/fonts/Oswald-Regular.ttf
+Allow: /modules/mod_lametinotv/images/logo-lametinotv2.png
+Allow: /t3-assets/css/*.css*
+Allow: /t3-assets/js/*.js*

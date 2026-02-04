@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /index.php/
+Disallow: /ajax/
+Disallow: /fl/ajax/
+Disallow: /fl/redirect/
+Disallow: */suchergebnis/*
+Disallow: */karte/*
+Disallow: */ergebnisse/*
+Disallow: */anfrage/*
+Disallow: */buchung/*
+Disallow: *?sort=*
+Disallow: *?bedrooms=*
+Disallow: */expose/*
+Disallow: */api/*
+Disallow: */topicId/*
+Allow: *.js?*=*
+Allow: *.css?*=*
+
+Sitemap: https://www.traum-ferienwohnungen.de/files/sitemap/index.xml
+Sitemap: https://www.traum-ferienwohnungen.de/urlaubsmagazin/sitemap_index.xml
+Sitemap: https://www.traum-ferienwohnungen.de/immobilien/sitemap.xml

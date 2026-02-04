@@ -1,0 +1,57 @@
+User-agent: *
+Disallow: /version
+Disallow: /recherche
+Disallow: /recherche?query=
+Disallow: /recherche?page=
+Disallow: /dossiers-speciaux/ketb
+Disallow: /dossiers-speciaux/shopping
+Disallow: /dossiers-speciaux/prix-relay-des-voyageurs
+Disallow: /dossiers-speciaux/tombola
+Disallow: /includes/
+Disallow: /Media/Photos/
+Disallow: /Media/Videos/
+Disallow: /Media/Sons/
+Disallow: /Media/Sondage/
+Disallow: /social/countsE1?title=
+Disallow: /videos/embed/
+Disallow: /embed/file/
+Disallow: /_comment?redirectUrl=
+Disallow: /cam/europe1/
+Disallow: /animateurs/laurent-ruquier
+Disallow: /var/si-blocks/
+Disallow: /_e1_suggest?q=
+Disallow: /bundles/europe1front/js/player/
+Disallow: /var/includes/embed_e1/
+Disallow: /_media?media_location_id=
+Disallow: /*&sa=U&ved=*
+Disallow: /e1-brand
+Disallow: /diaporama/la.diaporama.externaloptions
+Disallow :/_gallery/
+Disallow :/_media
+Disallow :/ajax/scribble/
+
+# Sitemaps
+Sitemap: https://www.europe1.fr/sitemap.xml
+Sitemap: https://www.europe1.fr/sitemap/news.xml
+
+
+# Regles embed wat
+
+Disallow: /videos/catchup/
+Disallow: /videos/inedit/
+Disallow: /cinema/u/video/
+Disallow: /musique/u/video/
+Disallow: /tv/u/video
+Disallow: /sport/p/eurosport/
+Disallow: /*?EXCEPTION=
+
+# Disable OpenAI bots
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: GPTBot
+Disallow: /
+
+User-agent: Google-Extended 
+Disallow: /

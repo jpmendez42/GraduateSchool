@@ -1,0 +1,12 @@
+User-Agent: *
+Disallow: /wp-admin/
+Disallow: /feed/
+Disallow: /feed/$
+Disallow: /wp-feed
+Disallow: /trackback/
+Disallow: /comments/feed
+Disallow: /wp-comments
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://murai.my/sitemap_index.xml
+Sitemap: https://murai.my/news-sitemap.xml

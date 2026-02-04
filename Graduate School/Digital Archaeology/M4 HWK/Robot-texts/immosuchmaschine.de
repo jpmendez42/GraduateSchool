@@ -1,0 +1,34 @@
+User-agent: *
+Disallow: /merkliste
+
+User-agent: bingbot
+Crawl-delay: 10
+
+User-agent: msnbot
+Crawl-delay: 10
+
+User-agent: Applebot
+Crawl-delay: 10
+
+User-agent: Yandex
+Crawl-delay: 30
+
+User-agent: zoomRank/2.0
+Disallow: /
+
+Sitemap: https://www.immosuchmaschine.de/sitemap_misc.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_province.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_district.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_1.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_3.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_5.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_6.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_7.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_8.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_9.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_10.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_12.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_13.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_14.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_15.xml
+Sitemap: https://www.immosuchmaschine.de/sitemap_muni_16.xml

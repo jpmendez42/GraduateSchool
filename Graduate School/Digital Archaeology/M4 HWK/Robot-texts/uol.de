@@ -1,0 +1,60 @@
+# uol.de
+User-agent: *
+
+Disallow: /typo3/
+
+# zugriffsgeschützt
+Disallow: /*_intranet
+Disallow: /*/intern/
+Disallow: /*/gesperrt/
+Disallow: /securedl
+
+# Suche
+Disallow: /index
+Disallow: /index/qrcode
+Disallow: /suche
+Disallow: /en/search
+
+# reine Umleitungen
+Disallow: /p1
+Disallow: /p2
+Disallow: /p3
+Disallow: /p4
+Disallow: /p5
+Disallow: /p6
+Disallow: /p7
+Disallow: /p8
+Disallow: /p9
+Disallow: /stud/
+Disallow: /nc/
+
+# Übersichtsseiten, die auf Seiten verlinken, die eh schon verlinkt werden (oder in sitemap stehen)
+# news Artikel sind in sitemap
+Disallow: /nachrichten/kategorie-
+Disallow: /nachrichten/seite-
+Disallow: /neuberufene/seite-
+
+# query parameter, campains
+Disallow: *?*campaignid=
+Disallow: *?__hstc=
+Disallow: *?mtm_source=
+Disallow: /en/students/degree-programmes/?__hstc=
+Disallow: /en/students/degree-programmes/?campaignid=
+Disallow: /?id=
+
+# veraltet
+Disallow: /webmail
+Disallow: /uni/safesend/
+# weiter erlauben, da noch indiziert und dort Umleitungen sind, kann irgendwann ganz geblockt werden
+# 2025-07-01
+#Disallow: /fileadmin/user_upload
+
+# 404
+Disallow: /error404
+Disallow: /en/error404
+Disallow: /error403
+Disallow: /en/error403
+
+Sitemap: https://uol.de/sitemap.xml
+Sitemap: https://uol.de/sitemap_en.xml
+Sitemap: https://uol.de/pressemitteilungen/sitemap.xml

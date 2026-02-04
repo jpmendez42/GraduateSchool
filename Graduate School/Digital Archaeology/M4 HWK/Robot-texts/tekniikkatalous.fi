@@ -1,0 +1,245 @@
+# Google bots
+User-agent: Googlebot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: Googlebot-Image
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: Googlebot-Video
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: Googlebot-News
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+# Bing bots
+User-agent: Bingbot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+Crawl-delay: 10
+
+User-agent: msnbot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+Crawl-delay: 10
+
+User-agent: msnbot-media
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+Crawl-delay: 10
+
+# Other major search engines
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: Yandex
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+Crawl-delay: 10
+
+User-agent: Applebot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+Crawl-delay: 10
+
+# Social media and messaging bots
+User-agent: AlexaBot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: FacebookBot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: Twitterbot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: LinkedInBot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: Slackbot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: Discordbot
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+User-agent: WhatsApp
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+
+# Chinese search engines - blocked everywhere
+User-agent: Sogoubot
+Disallow: /
+User-agent: SogouWebSpider
+Disallow: /
+User-agent: Baiduspider
+Disallow: /
+User-agent: Baiduspider-video
+Disallow: /
+User-agent: Baiduspider-image
+Disallow: /
+User-agent: Baiduspider-news
+Disallow: /
+User-agent: Baiduspider-mobile
+Disallow: /
+
+# Other search engines - blocked everywhere
+User-agent: YoudaoBot
+Disallow: /
+User-agent: moget
+Disallow: /
+User-agent: ichiro
+Disallow: /
+User-agent: sentibot
+Disallow: /
+
+# AI user agents - blocked everywhere
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Claude-Web
+Disallow: /
+User-agent: OAI-SearchBot
+Disallow: /
+User-agent: Perplexity-User
+Disallow: /
+
+# Main AI training bots - blocked everywhere
+User-agent: GPTBot
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+
+# Other AI bots - blocked everywhere
+User-agent: AI2Bot
+Disallow: /
+User-agent: Ai2Bot-Dolma
+Disallow: /
+User-agent: aiHitBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-agent: Applebot-Extended
+Disallow: /
+User-agent: Brightbot
+Disallow: /
+User-agent: Bytespider
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: cohere-ai
+Disallow: /
+User-agent: cohere-training-data-crawler
+Disallow: /
+User-agent: Cotoyogi
+Disallow: /
+User-agent: Crawlspace
+Disallow: /
+User-agent: DeepSeek
+Disallow: /
+User-agent: DeepSeekBot
+Disallow: /
+User-agent: Diffbot
+Disallow: /
+User-agent: DuckAssistBot
+Disallow: /
+User-agent: Factset_spyderbot
+Disallow: /
+User-agent: FirecrawlAgent
+Disallow: /
+User-agent: FriendlyCrawler
+Disallow: /
+User-agent: GoogleOther
+Disallow: /
+User-agent: GoogleOther-Image
+Disallow: /
+User-agent: GoogleOther-Video
+Disallow: /
+User-agent: iaskspider
+Disallow: /
+User-agent: ICC-Crawler
+Disallow: /
+User-agent: ImagesiftBot
+Disallow: /
+User-agent: img2dataset
+Disallow: /
+User-agent: imgproxy
+Disallow: /
+User-agent: ISSCyberRiskCrawler
+Disallow: /
+User-agent: KangarooBot
+Disallow: /
+User-agent: Meta-ExternalAgent
+Disallow: /
+User-agent: Meta-ExternalFetcher
+Disallow: /
+User-agent: NovaAct
+Disallow: /
+User-agent: omgili
+Disallow: /
+User-agent: omgilibot
+Disallow: /
+User-agent: Operator
+Disallow: /
+User-agent: PanguBot
+Disallow: /
+User-agent: PetalBot
+Disallow: /
+User-agent: Scrapy
+Disallow: /
+User-agent: SemrushBot-OCOB
+Disallow: /
+User-agent: SemrushBot-SWA
+Disallow: /
+User-agent: SidetradeIndexerBot
+Disallow: /
+User-agent: TikTokSpider
+Disallow: /
+User-agent: Timpibot
+Disallow: /
+User-agent: VelenPublicWebCrawler
+Disallow: /
+User-agent: Webzio-Extended
+Disallow: /
+User-agent: YouBot
+Disallow: /
+
+# All other bots
+User-agent: *
+Allow: /
+Disallow: /haku
+Disallow: /api/pages/v2/listingpage/search
+Crawl-delay: 10
+
+# Sitemaps
+Sitemap: https://www.tekniikkatalous.fi/sitemaps/sitemapindex.xml

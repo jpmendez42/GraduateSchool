@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="google-site-verification" content="MzyXDnlBeWOEYp5E9R7CRJdDc6GAPsubwoND9WcFt6I" />
+    <title>PC Optimum</title>
+
+    <link
+      rel="preload"
+      href="/static/fonts/poppins-400.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/static/fonts/poppins-400-italic.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/static/fonts/poppins-700.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/static/fonts/poppins-700-italic.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/static/fonts/inter-regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <link
+      rel="preload"
+      href="/static/fonts/inter-semibold.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin
+    />
+    <!-- OneTrust Cookies Consent Notice start for pcoptimum.ca -->
+    <script
+      src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js"
+      data-document-language="true"
+      type="text/javascript"
+      charset="UTF-8"
+      data-domain-script="3b998909-f911-4671-bdb3-a95b487c4cbc"
+      data-dLayer-name="analyticsLayer"
+    ></script>
+    <script src="/static/webpack-externals/onetrust.min.js" crossorigin></script>
+
+    <script src="/static/webpack-externals/react.production.min.js" crossorigin></script>
+    <script src="/static/webpack-externals/react-dom.production.min.js" crossorigin></script>
+    <script src="/static/webpack-externals/react-beautiful-dnd.min.js" crossorigin defer></script>
+    <script src="/static/webpack-externals/ReactPlayer.js" crossorigin></script>
+    <script src="/static/webpack-externals/lottie_light.min.js" crossorigin></script>
+    <script src="/static/webpack-externals/contentful.browser.min.js" crossorigin></script>
+
+    <!-- Zuora Payments -->
+    <script
+      type="text/javascript"
+      src="https://static.zuora.com/Resources/libs/hosted/1.3.1/zuora-min.js"
+      defer
+    ></script>
+
+    <!-- Flipp Iframe -->
+    <script
+      src="https://aq.flippenterprise.net/1/iframe.js"
+      id="flipp-storefront-script"
+      defer
+    ></script>
+
+    <!-- Ada chat bot -->
+    <script id="__ada" data-handle="pc-optimum" src="https://static.ada.support/embed2.js"></script>
+
+    <!-- Google Tag Manager -->
+    <script>
+      (function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' });
+        var f = d.getElementsByTagName(s)[0],
+          j = d.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+      })(window, document, 'script', 'analyticsLayer', 'GTM-PX94MMM');
+    </script>
+    <!-- End Google Tag Manager -->
+
+    <!-- Canada Post -->
+    <link
+      rel="stylesheet"
+      type="text/css"
+      href="https://ws1.postescanada-canadapost.ca/css/addresscomplete-2.30.min.css?key=zm92-gz98-ec71-nm79"
+      media="print"
+      onload="this.media='all'"
+    />
+    <script
+      type="text/javascript"
+      src="https://ws1.postescanada-canadapost.ca/js/addresscomplete-2.30.min.js?key=zm92-gz98-ec71-nm79"
+      defer
+    ></script>
+
+    <link rel="icon" type="image/x-icon" href="/static/favicon/favicon.ico" />
+    <link rel="apple-touch-icon" href="/static/favicon/apple-touch-icon.png" />
+    <link
+      rel="apple-touch-icon"
+      href="/static/favicon/apple-touch-icon-180x180.png"
+      sizes="180x180"
+    />
+    <link
+      rel="apple-touch-icon"
+      href="/static/favicon/apple-touch-icon-167x167.png"
+      sizes="167x167"
+    />
+    <link
+      rel="apple-touch-icon"
+      href="/static/favicon/apple-touch-icon-152x152.png"
+      sizes="152x152"
+    />
+    <link
+      rel="apple-touch-icon"
+      href="/static/favicon/apple-touch-icon-120x120.png"
+      sizes="120x120"
+    />
+
+    <!-- App store banner -->
+    <meta
+      name="apple-itunes-app"
+      content="app-id=634040057, app-argument=https://www.pcoptimum.ca/offers"
+    />
+    <meta name="google-play-app" content="app-id=com.sap.mdc.loblaw.nativ" />
+    <!-- App store banner -->
+
+    <style>
+      #root:focus {
+        outline: 0;
+      }
+
+      .loading-bar__container--root {
+        margin: 36vh auto 0;
+        min-height: 0;
+      }
+
+      .loading-bar__logo {
+        display: block;
+        margin: 0 auto 30px;
+        width: 150px;
+        height: 35px;
+      }
+
+      .loading-bar__bar {
+        height: 10px;
+        width: 200px;
+        margin: 0 auto;
+        border-radius: 4px;
+        background-image: linear-gradient(
+          90deg,
+          #f1645e 55%,
+          #f9bbb4 55%,
+          #f9bbb4 60%,
+          #f1645e 60%
+        );
+        background-size: 100px 100px;
+        animation: move 0.6s linear infinite;
+      }
+
+      @keyframes move {
+        0% {
+          background-position: 0 0;
+        }
+
+        100% {
+          background-position: 100px 100px;
+        }
+      }
+
+      @media (min-width: 48em) {
+        .loading-bar__bar {
+          width: 250px;
+        }
+      }
+    </style>
+
+    <script src="/static/outdated/detectBrowser.js"></script>
+  <link href="/static/css/0.5ba82fe89f0e77677f25.bundle.css?903b337c65774d710774" rel="stylesheet"><link href="/static/css/17.bc200ee10b420b42837a.bundle.css?903b337c65774d710774" rel="stylesheet"></head>
+
+  <body class="a11y-fix-firefox-flexbox">
+    <!-- Google Tag Manager (noscript) -->
+    <noscript
+      ><iframe
+        src="https://www.googletagmanager.com/ns.html?id=GTM-PX94MMM"
+        height="0"
+        width="0"
+        style="display: none; visibility: hidden"
+      ></iframe
+    ></noscript>
+    <!-- End Google Tag Manager (noscript) -->
+    <!-- Put this inside a <script> tag so loading bar will not display when JavaScript is disabled -->
+    <div id="root" class="app-root" tabindex="-1"></div>
+    <noscript>
+      <p>
+        JavaScript is not enabled within your browser, a JavaScript enabled browser is required to
+        use pcoptimum.ca.
+      </p>
+      <p>
+        JavaScript n'est pas activé dans votre navigateur. Un navigateur avec JavaScript est requis
+        pour utiliser pcoptimum.ca.
+      </p>
+    </noscript>
+    <!-- Bundle Inserted at Bottom of Body -->
+  <script type="text/javascript" src="/static/js/runtime~main.1699f8159a9b04433ee5.js?903b337c65774d710774"></script><script type="text/javascript" src="/static/js/1.c00165e0a2c00c8611cd.js?903b337c65774d710774"></script><script type="text/javascript" src="/static/js/19.c14e60af9d7a5a88574b.js?903b337c65774d710774"></script><script type="text/javascript" src="/static/js/16.d3a7bdaf9a28cf3b0158.js?903b337c65774d710774"></script><script type="text/javascript" src="/static/js/0.6bec92d874f40d52da0a.js?903b337c65774d710774"></script><script type="text/javascript" src="/static/js/17.ce37b8543f8f0773d3f5.js?903b337c65774d710774"></script></body>
+</html>

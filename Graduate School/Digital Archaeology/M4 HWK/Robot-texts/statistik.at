@@ -1,0 +1,10 @@
+# We do not distinguish between the browsers.
+User-agent: *
+
+# Sitemap files
+Sitemap: https://www.statistik.at/sitemap.xml
+Sitemap: https://www.statistik.at/en/sitemap.xml
+
+# Deny access to search
+Disallow: /suche
+Disallow: /en/search

@@ -1,0 +1,2665 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+	<title>    Úvod / Slezská univerzita v Opavě
+</title>
+	<!-- Meta -->
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="Webové stránky Slezské univerzity v Opavě">
+		<meta name="author" content="Slezská univerzita v Opavě">
+			<!-- Vkladani meta tagu pro snadne sdileni aktuality na facebook-u -->
+
+		<!-- Favicon -->
+		<link rel="icon" type="image/x-icon" href="https://www-static1.slu.cz/img/websu/favicon/favicon.ico">
+
+		<link rel="apple-touch-icon" sizes="57x57" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-57x57.png">
+		<link rel="apple-touch-icon" sizes="60x60" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-60x60.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="76x76" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-76x76.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-114x114.png">
+		<link rel="apple-touch-icon" sizes="120x120" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-120x120.png">
+		<link rel="apple-touch-icon" sizes="144x144" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-144x144.png">
+		<link rel="apple-touch-icon" sizes="152x152" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-152x152.png">
+		<link rel="apple-touch-icon" sizes="180x180" href="https://www-static1.slu.cz/img/websu/favicon/apple-icon-180x180.png">
+		<link rel="icon" type="image/png" sizes="192x192"  href="https://www-static1.slu.cz/img/websu/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="32x32" href="https://www-static1.slu.cz/img/websu/favicon/favicon-32x32.png">
+		<link rel="icon" type="image/png" sizes="96x96" href="https://www-static1.slu.cz/img/websu/favicon/favicon-96x96.png">
+		<link rel="icon" type="image/png" sizes="16x16" href="https://www-static1.slu.cz/img/websu/favicon/favicon-16x16.png">
+		<link rel="manifest" href="https://www-static1.slu.cz/img/websu/favicon/manifest.json">
+		<meta name="msapplication-TileColor" content="#ffffff">
+		<meta name="msapplication-TileImage" content="https://www-static1.slu.cz/img/websu/favicon/ms-icon-144x144.png">
+
+		<meta name="theme-color" content="#ffffff">
+
+		<!-- preconnect start -->
+		<link rel=”preconnect” href=”https://stats.slu.cz" crossorigin>
+		<link rel="dns-prefetch" href=”https://stats.slu.cz">
+		<link rel=”preconnect” href=”https://www.google.cz" crossorigin>
+		<link rel="dns-prefetch" href=”https://www.google.cz">
+		<link rel=”preconnect” href=”https://fonts.gstatic.com" crossorigin>
+		<link rel="dns-prefetch" href=”https://fonts.gstatic.com">
+		<link rel=”preconnect” href=”https://www.googletagmanager.com" crossorigin>
+		<link rel="dns-prefetch" href=”https://www.googletagmanager.com">
+		<link rel=”preconnect” href=”https://www.google-analytics.com" crossorigin>
+		<link rel="dns-prefetch" href=”https://www.google-analytics.com">
+		<link rel=”preconnect” href=”https://www.google.com" crossorigin>
+		<link rel="dns-prefetch" href=”https://www.google.com">
+		<link rel=”preconnect” href=”https://stats.g.doubleclick.net" crossorigin>
+		<!-- preconnect end -->
+
+			<link rel='stylesheet' type='text/css' href='/fonts/font-opensans/css/font-opensans.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/bootstrap/css/bootstrap.min.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/animate.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/line-icons/line-icons.css'>
+			<link rel='stylesheet' type='text/css' href='/fonts/fontawesome/css/fontawesome.min.css'>
+			<link rel='stylesheet' type='text/css' href='/fonts/fontawesome/css/brands.min.css'>
+			<link rel='stylesheet' type='text/css' href='/fonts/fontawesome/css/solid.min.css'>
+			<link rel='stylesheet' type='text/css' href='/fonts/fontawesome/css/regular.min.css'>
+			<link rel='stylesheet' type='text/css' href='/fonts/fontawesome/css/v4-font-face.min.css'>
+			<link rel='stylesheet' type='text/css' href='/fonts/fontawesome/css/v4-shims.min.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/parallax-slider/css/parallax-slider.css'>
+			<link rel='stylesheet' type='text/css' href='/bower_components/owl.carousel/dist/assets/owl.carousel.min.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/scrollbar/css/jquery.mCustomScrollbar.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/sky-forms-pro/skyforms/css/sky-forms.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/sky-forms-pro/skyforms/custom/custom-sky-forms.css'>
+			<link rel='stylesheet' type='text/css' href='/css/custom-sky-forms.css'>
+			<link rel='stylesheet' type='text/css' href='/bower_components/flag-icon-css/css/flag-icon.min.css'>
+
+			<link rel='stylesheet' type='text/css' href='/css/websu/style.css'>
+			<link rel='stylesheet' type='text/css' href='/css/websu/theme-colors/su.css'>
+			<link rel='stylesheet' type='text/css' href='/css/websu/revolution-slider.css'>
+			<link rel='stylesheet' type='text/css' href='/css/websu/headers/header-default.css'>
+			<link rel='stylesheet' type='text/css' href='/css/weby-custom.css'>
+			<link rel='stylesheet' type='text/css' href='/css/czv/footers/footer-v3.css'>
+			<link rel='stylesheet' type='text/css' href='/css/websu/plugins/image-hover/css/img-hover.css'>
+			<link rel='stylesheet' type='text/css' href='/css/websu/pages/page_job.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/toastr/toastr.min.css'>
+			<link rel='stylesheet' type='text/css' href='/css/websu/custom.css'>
+			<link rel='stylesheet' type='text/css' href='/bower_components/lightbox2/src/css/lightbox.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/fancybox/source/jquery.fancybox.css'>
+			<link rel='stylesheet' type='text/css' href='/css/layouter.css'>
+			<link rel='stylesheet' type='text/css' href='/css/websu/page_404_error.css'>
+			<link rel='stylesheet' type='text/css' href='/css/bspace/spinner.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/datagrid/css/datagrid.min.css'>
+			<link rel='stylesheet' type='text/css' href='/plugins/datagrid/css/datagrid-spinners.css'>
+
+		<!-- Matomo -->
+		<script type="text/javascript">
+			var _paq = window._paq || [];
+			/* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+			_paq.push(['trackPageView']);
+			_paq.push(['enableLinkTracking']);
+			(function() {
+				var u="https://stats.slu.cz/";
+				_paq.push(['setTrackerUrl', u+'matomo.php']);
+				_paq.push(['setSiteId', '2']);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+			})();
+		</script>
+		<!-- End Matomo Code -->
+
+		<!-- Sklik -->
+		<script type="text/javascript" src="https://c.seznam.cz/js/rc.js"></script>
+		<script type="text/javascript">
+			var retargetingConf = {rtgId: 59748 };
+			if (window.rc && window.rc.retargetingHit) {
+				window.rc.retargetingHit(retargetingConf);
+			}
+		</script>
+		<!-- End Sklik Code -->
+
+
+
+		<!-- JS Global Compulsory -->
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/jquery/jquery-migrate.min.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/bootstrap/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/masonry/jquery.masonry.min.js"></script>
+
+		<!-- JS Implementing Plugins -->
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/back-to-top.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/smoothScroll.js"></script>
+
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/parallax-slider/js/modernizr.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/plugins/parallax-slider/js/jquery.cslider.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/bower_components/owl.carousel/dist/owl.carousel.min.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/js/websu/plugins/jquery.parallax.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/css/websu/plugins/image-hover/js/touch.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/css/websu/plugins/image-hover/js/modernizr.js"></script>
+		<!-- JS Customization -->
+		<script type="text/javascript" src="https://www-static1.slu.cz/js/websu/custom.js"></script>
+		<!-- JS Page Level -->
+		<script type="text/javascript" src="https://www-static1.slu.cz/js/websu/app.js"></script>
+		<script type="text/javascript" src="https://www-static1.slu.cz/js/websu/plugins/parallax-slider.js"></script>
+
+		<script type="text/javascript" src="https://www-static1.slu.cz/bower_components/lightbox2/src/js/lightbox.js"></script>
+		<script type="text/javascript">
+			jQuery(document).ready(function() {
+				App.init();
+
+				ParallaxSlider.initParallaxSlider();
+			});
+		</script>
+
+		<script src="https://www-static1.slu.cz/bower_components/nette.ajax.js/nette.ajax.js"></script>
+		<script src="https://www-static1.slu.cz/bower_components/nette.ajax.js/extensions/spinner.ajax.js"></script>
+		<script src="https://www-static1.slu.cz/bower_components/nette.ajax.js/extensions/tooltip.js"></script>
+		<script src="https://www-static1.slu.cz/bower_components/nette.ajax.js/extensions/masonry.js"></script>
+		<script src="https://www-static1.slu.cz/bower_components/nette.ajax.js/extensions/owl.js"></script>
+		<!--[if lt IE 9]>
+
+		<script src="https://www-static1.slu.cz/plugins/respond.js"></script>
+		<script src="https://www-static1.slu.cz/plugins/html5shiv.js"></script>
+		<script src="https://www-static1.slu.cz/plugins/placeholder-IE-fixes.js"></script>
+
+		<![endif]-->
+
+		<script src="https://www-static1.slu.cz/js/main.js"></script>
+		<script src="https://www-static1.slu.cz/js/grido.js"></script>
+
+		<script src="https://www-static1.slu.cz/js/netteForms.js"></script>
+		<script src="https://www-static1.slu.cz/js/live-form-validation.js"></script>
+
+		<!-- Toastr -->
+		<script src="https://www-static1.slu.cz/plugins/toastr/toastr.min.js"></script>
+
+		<script type="text/javascript">
+
+			$(document).ready(function() {
+
+
+				$("ul.subnav").parent().append("<span></span>"); //Only shows drop down trigger when js is enabled (Adds empty span tag after ul.subnav*)
+				$("ul.topnav li span").hover(function() { //When trigger is clicked...
+
+					//Following events are applied to the subnav itself (moving subnav up and down)
+					$(this).parent().find("ul.subnav").slideDown('fast').show(); //Drop down the subnav on click
+
+					$(this).addClass("subhover"); //On hover over, add class subhover
+				}, function(){  //On Hover Out
+					$(this).removeClass("subhover"); //On hover out, remove class subhover
+				});
+				$(this).parent().hover(function() {
+				}, function(){
+					$(this).parent().find("ul.subnav").slideUp('slow'); //When the mouse hovers out of the subnav, move it back up
+				});
+
+				//Following events are applied to the trigger (Hover events for the trigger)
+			}).hover(function() {
+			});
+		</script>
+
+	<!--dataLayer-->
+	<script>window.dataLayer = window.dataLayer || [];
+		dataLayer.push({
+			"login_state": "logout",
+			"user_state": "visitor",
+			"user_id": undefined,
+		});</script>
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-PB3V6DJ');</script>
+	<!-- End Google Tag Manager -->
+
+
+    <!-- REVOLUTION SLIDER -->
+    <script type="text/javascript" src="https://www.slu.cz/plugins/revolution-slider/js/jquery.themepunch.tools.min.js"></script>
+    <script type="text/javascript" src="https://www.slu.cz/plugins/revolution-slider/js/jquery.themepunch.revolution.min.js"></script>
+    <script type="text/javascript" src="https://www.slu.cz/js/czv/revolution_slider.js"></script>
+
+
+</head>
+
+<body class="header-fixed">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PB3V6DJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!-- vkladani facebookSDK pro sdileni aktualit -->
+<div class="wrapper">
+	<!--=== Header ===-->
+	<div class="header header-sticky">
+		<div class="container">
+			<!-- Logo -->
+			<div class="col-xs-6 col-sm-6 col-md-6 col-xl-6">
+<div id="snippet-layoutHeader-layout">
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+            <div class="row " style="margin-top:0px; margin-bottom:0px">
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-0 col-lg-0 " style="">
+
+
+
+
+            <div class="htmltext" style="">
+                <a class="logo" href="/slu/cz/">
+<span class="sr-only sr-only-focusable">Odkaz na domovskou stránku</span>
+<img src="https://www.slu.cz/img/websu/logo_web_su.png" alt="Logo portálu" class="logo-su">
+</a>
+            </div>
+
+            </div>
+
+            </div>
+
+
+</div>			</div>
+			<!-- End Logo -->
+
+			<!-- Loginbar with icons -->
+			<div class="topbar">
+				<ul class="loginbar pull-right">
+					<li><a data-toggle="tooltip" data-placement="bottom" title="Domů" href="/slu/cs/">
+							<span class="sr-only sr-only-focusable">Domů</span>
+							<i class="fa fa-home"></i></a></li>
+					<li class="hoverSelector">
+						<span class="sr-only sr-only-focusable">Jazyk</span>
+						<i class="fa fa-globe" title="Jazyk"></i>
+						<ul class="languages hoverSelectorBlock">
+								<li class="active">
+									<a href="/slu/cz/">
+										<span class="sr-only sr-only-focusable">česky</span>
+										česky <i class="fa fa-check"></i></a>
+								</li>
+								<li class="">
+									<a href="/slu/en/">
+										<span class="sr-only sr-only-focusable">english</span>
+										english </a>
+								</li>
+						</ul>
+					</li>
+					<li><a data-toggle="tooltip" data-placement="bottom" title="Hledat" href="/slu/cz/search">
+							<span class="sr-only sr-only-focusable">Hledat</span>
+							<i class="fa fa-search"></i>
+						</a></li>
+				</ul>
+			</div>
+			<!-- End Loginbar -->
+
+			<!-- Toggle get grouped for better mobile display -->
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+				<span class="sr-only">Zobrazit navigaci</span>
+				<span class="fa fa-bars"></span>
+			</button>
+			<!-- End Toggle -->
+		</div><!--/end container-->
+
+		<!-- Collect the nav links, forms, and other content for toggling -->
+		<div class="collapse navbar-collapse mega-menu navbar-responsive-collapse">
+			<div class="container">
+
+<div id="snippet--menu">
+
+
+
+
+
+
+	<ul class="nav navbar-nav">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				<li class="dropdown mega-menu-fullwidth ">
+					<a href="/slu/cz/soucasnost" class="dropdown-toggle" data-toggle="dropdown" target="_self">
+                        <i class="fa "></i> <span class="nav-label">
+									O univerzitě</span>
+							<span class="fa arrow"></span>
+					</a>
+
+
+
+
+
+
+
+	<ul class="dropdown-menu">
+
+			<li>
+				<div class="mega-menu-content disable-icons">
+					<div class="container">
+						<div class="row equal-height">
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Univerzita</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/soucasnost" target="_self">
+							Historie a současnost
+						</a>
+					</li>
+					<li><a href="/slu/cz/vedenifotogalerie" target="_self">
+							Vedení univerzity
+						</a>
+					</li>
+					<li><a href="/slu/cz/organizacnistruktura" target="_self">
+							Organizační struktura
+						</a>
+					</li>
+					<li><a href="/slu/cz/akademickysenat" target="_self">
+							Akademický senát
+						</a>
+					</li>
+					<li><a href="/slu/cz/hraaktuality" target="_self">
+							HR Award
+						</a>
+					</li>
+					<li><a href="/slu/cz/medaileudelovane" target="_self">
+							Ceny a ocenění
+						</a>
+					</li>
+					<li><a href="/slu/cz/vyrovnaniprilezitostistudia" target="_self">
+							Vyrovnání příležitostí studia na VŠ
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Součásti</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="https://www.slu.cz/fpf/cz/" target="_blank">
+							Filozoficko-přírodovědecká fakulta v Opavě
+						</a>
+					</li>
+					<li><a href="https://www.slu.cz/opf/cz/" target="_blank">
+							Obchodně podnikatelská fakulta v Karviné
+						</a>
+					</li>
+					<li><a href="https://www.slu.cz/fvp/cz/" target="_blank">
+							Fakulta veřejných politik v Opavě
+						</a>
+					</li>
+					<li><a href="https://www.slu.cz/math/cz/" target="_blank">
+							Matematický ústav v Opavě
+						</a>
+					</li>
+					<li><a href="https://www.slu.cz/phys/cz/" target="_blank">
+							Fyzikální ústav v Opavě
+						</a>
+					</li>
+					<li><a href="/slu/cz/univerzitniknihovna" target="_self">
+							Univerzitní knihovna
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Spolupráce</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/komunikace" target="_self">
+							Média
+						</a>
+					</li>
+					<li><a href="/slu/cz/kariernicentrum" target="_self">
+							Kariérní centrum
+						</a>
+					</li>
+					<li><a href="/slu/cz/partneri" target="_self">
+							Partneři univerzity
+						</a>
+					</li>
+					<li><a href="/slu/cz/clenstviasociacesdruzeni" target="_self">
+							Členství v asociacích a sdruženích
+						</a>
+					</li>
+					<li><a href="/slu/cz/pronajemprostorfoto" target="_self">
+							Pronájem prostor
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Další odkazy</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/kdojsme" target="_self">
+							Úřední deska a povinně zveřejňované informace
+						</a>
+					</li>
+					<li><a href="/slu/cz/volnamista" target="_self">
+							Pracovní příležitosti
+						</a>
+					</li>
+					<li><a href="/slu/cz/kontakty" target="_self">
+							Kontakty
+						</a>
+					</li>
+					<li><a href="/slu/cz/budovysu" target="_self">
+							Kde nás najdete
+						</a>
+					</li>
+					<li><a href="https://bezpecnost.slu.cz/" target="_blank">
+							Kyberbezpečnost na SU
+						</a>
+					</li>
+					<li><a href="/slu/cz/eshop" target="_blank">
+							E-shopy
+						</a>
+					</li>
+					<li><a href="/slu/cz/medialniohlasy" target="_self">
+							Mediální ohlasy
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+
+						</div>
+					</div>
+				</div>
+			</li>
+
+
+
+
+	</ul>
+
+
+
+
+				</li>
+
+
+
+
+
+
+				<li class="dropdown mega-menu-fullwidth ">
+					<a href="/slu/cz/procunasstudovat" class="dropdown-toggle" data-toggle="dropdown" target="_self">
+                        <i class="fa "></i> <span class="nav-label">
+									Chci studovat</span>
+							<span class="fa arrow"></span>
+					</a>
+
+
+
+
+
+
+
+	<ul class="dropdown-menu">
+
+			<li>
+				<div class="mega-menu-content disable-icons">
+					<div class="container">
+						<div class="row equal-height">
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Proč u nás studovat</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="https://www.slu.cz/slu/cz/obory" target="_self">
+							<b>Studijní programy a specializace</b>
+						</a>
+					</li>
+					<li><a href="/slu/cz/procunasstudovat" target="_self">
+							Proč u nás studovat
+						</a>
+					</li>
+					<li><a href="/slu/cz/supermagazin" target="_self">
+							SUper magazín Slezské univerzity
+						</a>
+					</li>
+					<li><a href="/slu/cz/zivotnasu" target="_self">
+							Život na univerzitě
+						</a>
+					</li>
+					<li><a href="/slu/cz/studiumastazevzahranici2" target="_self">
+							Studujeme i ve světě
+						</a>
+					</li>
+					<li><a href="https://kariera.slu.cz/" target="_self">
+							Spolupracujeme s praxí
+						</a>
+					</li>
+					<li><a href="/slu/cz/talentovanistudenti" target="_self">
+							Pro talentované uchazeče
+						</a>
+					</li>
+					<li><a href="/slu/cz/svp" target="_self">
+							Pro uchazeče se specifickými potřebami
+						</a>
+					</li>
+					<li><a href="https://youtu.be/obylxTRUeME" target="_blank">
+							Oficiální promo video
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Přijímací řízení</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/podminkypririz" target="_self">
+							Podmínky přijímacího řízení
+						</a>
+					</li>
+					<li><a href="https://is.slu.cz/prihlaska/" target="_blank">
+							<b>E-přihláška</b>
+						</a>
+					</li>
+					<li><a href="https://is.slu.cz/prihlaska/?op=e" target="_self">
+							Výsledky přijímacího řízení
+						</a>
+					</li>
+					<li><a href="/slu/cz/denotevrenychdveri" target="_self">
+							Dny otevřených dveří
+						</a>
+					</li>
+					<li><a href="/slu/cz/terminyprijimacek" target="_self">
+							Přehled termínů přijímacího řízení
+						</a>
+					</li>
+					<li><a href="/slu/cz/prijimacky" target="_self">
+							Přehled termínů přijímacích zkoušek
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Studium</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/studijnioddeleniaktuality" target="_self">
+							Aktuality
+						</a>
+					</li>
+					<li><a href="https://www.slu.cz/slu/cz/czv/" target="_self">
+							Celoživotní vzdělávání
+						</a>
+					</li>
+					<li><a href="/slu/cz/u3v" target="_self">
+							Univerzita třetího věku
+						</a>
+					</li>
+					<li><a href="/slu/cz/studijnioddelenionas" target="_self">
+							Oddělení pro studijní a sociální záležitosti
+						</a>
+					</li>
+					<li><a href="/slu/cz/poradenskecentrum" target="_self">
+							Poradenské centrum
+						</a>
+					</li>
+					<li><a href="/slu/cz/harmonogramy" target="_self">
+							Harmonogramy akademického roku
+						</a>
+					</li>
+					<li><a href="https://is.slu.cz/" target="_blank">
+							Informační systém SU
+						</a>
+					</li>
+					<li><a href="/slu/cz/studentskespolky" target="_self">
+							Studentské spolky
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Další odkazy</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/ubytovaniastravovani" target="_self">
+							Ubytování a stravování
+						</a>
+					</li>
+					<li><a href="/slu/cz/studijnioddelnistipendijnirad" target="_self">
+							Stipendia
+						</a>
+					</li>
+					<li><a href="/slu/cz/studijnioddelenipoplatky" target="_self">
+							Poplatky za studium
+						</a>
+					</li>
+					<li><a href="/slu/cz/uznavanistudia" target="_self">
+							Uznávání zahraničního studia
+						</a>
+					</li>
+					<li><a href="/slu/cz/uzitecnedokumenty" target="_self">
+							Užitečné dokumenty
+						</a>
+					</li>
+					<li><a href="https://www.youtube.com/watch?v=k2sEtJyOrkk" target="_blank">
+							Videopředstavení Slezské univerzity
+						</a>
+					</li>
+					<li><a href="https://prvaci.slu.cz/" target="_blank">
+							Průvodce prváka
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+
+						</div>
+					</div>
+				</div>
+			</li>
+
+
+
+
+	</ul>
+
+
+
+
+				</li>
+
+
+
+
+
+
+				<li class="dropdown mega-menu-fullwidth ">
+					<a href="javascript:void(0);" class="dropdown-toggle" data-toggle="dropdown" target="_self">
+                        <i class="fa "></i> <span class="nav-label">
+									Věda, zahraničí a rozvoj</span>
+							<span class="fa arrow"></span>
+					</a>
+
+
+
+
+
+
+
+	<ul class="dropdown-menu">
+
+			<li>
+				<div class="mega-menu-content disable-icons">
+					<div class="container">
+						<div class="row equal-height">
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Věda a výzkum</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/vavaktuality" target="_self">
+							Aktuality
+						</a>
+					</li>
+					<li><a href="/slu/cz/vavaigs" target="_self">
+							Granty a projekty
+						</a>
+					</li>
+					<li><a href="/slu/cz/vavpodpora" target="_self">
+							Vědecká a výzkumná činnost
+						</a>
+					</li>
+					<li><a href="/slu/cz/vedeckarada" target="_self">
+							Vědecká rada
+						</a>
+					</li>
+					<li><a href="/slu/cz/vavhabilitaceuvodem" target="_self">
+							Habilitační řízení a řízení ke jmenování profesorem
+						</a>
+					</li>
+					<li><a href="/slu/cz/doktorskestudiumveda" target="_self">
+							Doktorské studium
+						</a>
+					</li>
+					<li><a href="/slu/cz/cestnedoktoraty" target="_self">
+							Čestné doktoráty
+						</a>
+					</li>
+					<li><a href="/slu/cz/vavkontakty" target="_self">
+							Kontakty
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Zahraniční styky</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/zahraniciaktuality" target="_self">
+							Aktuality
+						</a>
+					</li>
+					<li><a href="/slu/cz/oprogramuerasmusplus" target="_self">
+							Program Erasmus +
+						</a>
+					</li>
+					<li><a href="/slu/cz/studiumastazevzahranici2" target="_self">
+							Studium a stáže v zahraničí
+						</a>
+					</li>
+					<li><a href="/slu/cz/erasmuspluspartnerskeuniverzity" target="_self">
+							Zahraniční partneři
+						</a>
+					</li>
+					<li><a href="/slu/cz/grantyaprojekty" target="_self">
+							Granty a projekty
+						</a>
+					</li>
+					<li><a href="https://www.osu.cz/konsorcium-progres-3/" target="_self">
+							Konsorcium Progres 3
+						</a>
+					</li>
+					<li><a href="http://www.slu.cz/slu/en/" target="_self">
+							International students
+						</a>
+					</li>
+					<li><a href="/slu/cz/zahranicnistykykontakty" target="_self">
+							Kontakty
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Publikační činnost</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/publikacemezinarodni" target="_self">
+							Publikace v mezinárodních časopisech
+						</a>
+					</li>
+					<li><a href="/slu/cz/vydavatelskacinnost" target="_self">
+							Vydavatelská činnost univerzity
+						</a>
+					</li>
+					<li><a href="/slu/cz/publikacekonference" target="_self">
+							Přispěvky na konferencích
+						</a>
+					</li>
+					<li><a href="/slu/cz/kniznipublikace" target="_self">
+							Knižní publikace
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+				<div class="col-md-3 equal-height-in">
+					<ul class="list-unstyled equal-height-list">
+						<li><span style="font-size: 15px;
+									font-weight: 400;
+									padding: 0 10px 0 13px;
+									color: #555;
+									text-transform: uppercase;
+									margin-top: 5px;
+									margin-bottom: 10px;
+									text-shadow: none;
+									text-align: left;
+									line-height: 27px;
+									box-sizing: border-box;
+									font-family: Ladislav, Arial, sans-serif;">Rozvoj</span></li>
+
+				<li>
+
+
+
+
+
+
+
+					<li><a href="/slu/cz/pkaaktuality" target="_self">
+							Aktuality
+						</a>
+					</li>
+					<li><a href="/slu/cz/pkastrategickeprojekty" target="_self">
+							Strategické projekty
+						</a>
+					</li>
+					<li><a href="/slu/cz/pkadalsiprojekty" target="_self">
+							Ostatní projekty
+						</a>
+					</li>
+					<li><a href="/slu/cz/projektymsmt" target="_self">
+							Rozvojové programy MŠMT
+						</a>
+					</li>
+					<li><a href="/slu/cz/pkadokumenty" target="_self">
+							Dokumenty a odkazy
+						</a>
+					</li>
+					<li><a href="/slu/cz/rozvojkontakty2" target="_self">
+							Kontakty
+						</a>
+					</li>
+
+				</li>
+
+
+
+					</ul>
+				</div>
+
+
+
+						</div>
+					</div>
+				</div>
+			</li>
+
+
+
+
+	</ul>
+
+
+
+
+				</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<li>
+			<a class="login login-btn "
+			   href="/slu/cz/sign/in?backlink=c3ld3"
+			   style="padding:9px 10px">
+				<i class="fa fa-user"></i> Přihlásit se
+			</a>
+		</li>
+
+
+	</ul>
+
+
+
+
+</div>
+			</div><!--/end container-->
+		</div><!--/navbar-collapse-->
+
+	</div>
+	<!--=== End Header ===-->
+
+<!-- REVOLUTION SLIDER -->
+<div class="slider fullwidthbanner-container roundedcorners">
+    <div class="fullwidthbanner" data-height="385">
+        <ul class="hide">
+
+                <!-- SLIDE  -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="300" data-saveperformance="off">
+
+                    <img src="https://www.slu.cz/img/czv/1x1.png" data-lazyload="https://www.slu.cz/img/websu/slides/su-team_academy_2025.png" alt=""
+                         data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+
+                        <div class="tp-caption  sft stb "
+                             data-x="100"
+                             data-y="30"
+                             data-speed="300"
+                             data-start="1000"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: semibold; font-size: 6.5em; color: #981E3A;"><span style="color: #353734;">NE</span>KONFERENCE
+                        </div>
+                        <div class="tp-caption  lfl stl "
+                             data-x="100"
+                             data-y="140"
+                             data-speed="300"
+                             data-start="1500"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: normal; font-size: 3.0em; color: #778899;">14. 10. 2025 <span style="color: #981E3A;">&#x2022;</span> 14:00 <span style="color: #981E3A;">&#x2022;</span> FVP
+                        </div>
+                        <div class="tp-caption medium_text_shadow lfr str "
+                             data-x="100"
+                             data-y="260"
+                             data-speed="300"
+                             data-start="2500"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: bold; font-size: 3.0em; "><a href="https://forms.cloud.microsoft/pages/responsepage.aspx?id=qT02pkuUrkqr-DR45SmtL8UsYsnix45GurpaXEDKHAdUNkFQSjAxVlNJQzVQQVpCQlBPOVMwTjdIOC4u&route=shorturl" target="_blank"><div class="btn-u btn-u-xl pull-right" style="font-weight: bold; font-size: 0.6em; padding: 0.5em; color: #FFF; background-color: #981E3A;">registrace zde</div></a>
+                        </div>
+                        <div class="tp-caption  lfl stl "
+                             data-x="100"
+                             data-y="200"
+                             data-speed="300"
+                             data-start="2000"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: normal; font-size: 1.7em; color: #778899;"><em>Dialog místo prezentací. Otevřeno všem.</em>
+                        </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="300" data-saveperformance="off">
+
+                    <img src="https://www.slu.cz/img/czv/1x1.png" data-lazyload="https://www.slu.cz/img/websu/slides/su-intranet_2024.png" alt=""
+                         data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+
+                        <div class="tp-caption  sft stb "
+                             data-x="100"
+                             data-y="60"
+                             data-speed="300"
+                             data-start="1000"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: normal; font-size: 4.5em; color: #000;">Intranet zaměstnance
+                        </div>
+                        <div class="tp-caption  lfl stl "
+                             data-x="100"
+                             data-y="130"
+                             data-speed="300"
+                             data-start="1500"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: normal; font-size: 4.5em; color: #000;">Slezské univerzity
+                        </div>
+                        <div class="tp-caption medium_text_shadow lfr str "
+                             data-x="100"
+                             data-y="280"
+                             data-speed="300"
+                             data-start="2000"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: bold; font-size: 3.0em; "><a href="https://intranet.slu.cz" target="_blank"><div class="btn-u btn-u-xl pull-right" style="font-weight: bold; font-size: 0.6em; padding: 0.5em; color: #FFF; background-color: #981E3A;">vstoupit</div></a>
+                        </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="300" data-saveperformance="off">
+
+                    <img src="https://www.slu.cz/img/czv/1x1.png" data-lazyload="https://www.slu.cz/img/websu/slides/su-matematicka_pohotovost_2025.png" alt=""
+                         data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+
+                        <div class="tp-caption  lfr stl "
+                             data-x="50"
+                             data-y="50"
+                             data-speed="300"
+                             data-start="500"
+                             data-easing="easeOutExpo" style="font-family: Ladislav, Arial; font-size: 4.0em; font-weight: bold; color: #fff;">MATEMATICKÁ POHOTOVOST
+                        </div>
+                        <div class="tp-caption  lfr stl "
+                             data-x="50"
+                             data-y="110"
+                             data-speed="300"
+                             data-start="1000"
+                             data-easing="easeOutExpo" style="font-family: Ladislav, Arial; font-size: 2.0em; font-weight: normal; color: #fff;">KAŽDÉ PONDĚLÍ | 14:15–18:15
+                        </div>
+                        <div class="tp-caption  lfr str "
+                             data-x="50"
+                             data-y="150"
+                             data-speed="300"
+                             data-start="1500"
+                             data-easing="easeOutExpo" style="font-family: Ladislav, Arial; font-size: 4.0em; font-weight: bold; color: #fff;">FYZIKÁLNÍ POHOTOVOST
+                        </div>
+                        <div class="tp-caption  lfr stl "
+                             data-x="50"
+                             data-y="210"
+                             data-speed="300"
+                             data-start="2000"
+                             data-easing="easeOutExpo" style="font-family: Ladislav, Arial; font-size: 2.0em; font-weight: normal; color: #fff;">KAŽDOU STŘEDU | 13:00–17:00
+                        </div>
+                        <div class="tp-caption  lfr stl "
+                             data-x="50"
+                             data-y="260"
+                             data-speed="300"
+                             data-start="2500"
+                             data-easing="easeOutExpo" style="font-family: Ladislav, Arial; font-size: 2.0em; font-weight: normal; color: #fff;">V BRAIN FITNESS, BEETHOVENOVA 2, OPAVA
+                        </div>
+                        <div class="tp-caption  lfr str "
+                             data-x="50"
+                             data-y="310"
+                             data-speed="300"
+                             data-start="3000"
+                             data-easing="easeOutExpo" ><a href="https://www.slu.cz/math/cz/pohotovost" class="btn-u btn-u-xl pull-right" style="font-family: Ladislav, Arial; font-size: 1.5em; font-weight: bold; color: black; background-color: white;" target="_blank">více informací</a>
+                        </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="300" data-saveperformance="off">
+
+                    <img src="https://www.slu.cz/img/czv/1x1.png" data-lazyload="https://www.slu.cz/img/websu/slides/su-super_2024.jpg" alt=""
+                         data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+
+                        <div class="tp-caption  lfl stl "
+                             data-x="20"
+                             data-y="30"
+                             data-speed="300"
+                             data-start="500"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: bold; font-size: 5.0em; color: #fff;">Už jste četli náš
+                        </div>
+                        <div class="tp-caption  sft stb "
+                             data-x="20"
+                             data-y="110"
+                             data-speed="300"
+                             data-start="1000"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: normal; font-size: 4.5em; color: #fff;">SUper magazín
+                        </div>
+                        <div class="tp-caption  lfr str "
+                             data-x="20"
+                             data-y="180"
+                             data-speed="300"
+                             data-start="1500"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: normal; font-size: 4.5em; color: #fff;">Slezské univerzity?
+                        </div>
+                        <div class="tp-caption medium_text_shadow lfr str "
+                             data-x="20"
+                             data-y="290"
+                             data-speed="300"
+                             data-start="1750"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: bold; font-size: 3.3em; color: #FFCC00;"><a href="https://www.slu.cz/slu/cz/supermagazin"  target="_self"><div class="btn-u btn-u-xl pull-right" style="font-weight: normal; font-size: 0.8em; padding: 0.5em; color: #000; background-color: #fff;">přečíst si ho můžete zde</div></a>
+                        </div>
+                </li>
+                <!-- SLIDE  -->
+                <li data-transition="fade" data-slotamount="5" data-masterspeed="300" data-saveperformance="off">
+
+                    <img src="https://www.slu.cz/img/czv/1x1.png" data-lazyload="https://www.slu.cz/img/websu/slides/su-stars_eu_2025.png" alt=""
+                         data-bgfit="cover" data-bgposition="center top" data-bgrepeat="no-repeat">
+
+                        <div class="tp-caption  sft stb "
+                             data-x="40"
+                             data-y="30"
+                             data-speed="300"
+                             data-start="1000"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: bold; font-size: 4.5em; color: #FFF;">JSME SOUČÁSTÍ
+                        </div>
+                        <div class="tp-caption  lfl stl "
+                             data-x="40"
+                             data-y="95"
+                             data-speed="300"
+                             data-start="1500"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: bold; font-size: 4.5em; color: #FFF;">EVROPSKÉ UNIVERZITY!
+                        </div>
+                        <div class="tp-caption medium_text_shadow lfr str "
+                             data-x="40"
+                             data-y="200"
+                             data-speed="300"
+                             data-start="2000"
+                             data-easing="easeOutExpo" style="font-family:Ladislav, Arial; font-weight: bold; font-size: 3.0em; "><a href="https://www.slu.cz/slu/cz/aktuality/1/1890" target="_self"><div class="btn-u btn-u-xl pull-right" style="font-weight: bold; font-size: 0.6em; padding: 0.5em; color: #FFF; background-color: #981E3A;">více informací</div></a>
+                        </div>
+                </li>
+        </ul>
+        <div class="tp-bannertimer tp-bottom"></div>
+    </div>
+</div>
+	<!--=== Content Part ===-->
+<div id="snippet--content">
+        <div class="purchase">
+            <div class="container">
+<div id="snippet-purchase-layout">
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+            <div class="row " style="margin-bottom:20px">
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-0 col-lg-0 " style="">
+
+
+
+
+            <div class="htmltext" style="">
+                <a href="https://is.slu.cz/prihlaska/" target="_blank" class="button-click-registration">
+  <span class="sr-only sr-only-focusable">Odkaz na web s podáním přihlášky ke studiu na SU</span>
+  <img class="img-responsive" src="/file/cul/0c4f7885-f43e-43c9-973b-524393925223" alt="ilustrační obrázek: Podat přihlášku">
+</a>
+            </div>
+
+            </div>
+
+            </div>
+
+
+
+
+
+            <div class="row " style="">
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-8 col-lg-9 " style="margin-bottom:20px">
+
+
+
+
+            <div class="" style="">
+<div id="snippet-purchase-aktuality-292289-aktuality">
+        <link href="https://www.slu.cz/css/websu/pages/blog_masonry_3col.css" rel="stylesheet">
+        <script type="text/javascript" src="https://www.slu.cz/plugins/masonry/jquery.masonry.min.js"></script>
+        <script type="text/javascript" src="https://www.slu.cz/js/websu/pages/blog-masonry.js"></script>
+
+        <div class="blog_masonry_3col">
+            <div class="grid-boxes row-aktualita">
+
+                    <div class="grid-boxes-in">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn" style="background-color: #fbfbfb; box-shadow: 0 0 8px #ddd;-webkit-transition: box-shadow 0.2s ease-in-out;-moz-transition: box-shadow 0.2s ease-in-out;-o-transition: box-shadow 0.2s ease-in-out;transition: box-shadow 0.2s ease-in-out;">
+                <div class="thumbnail-img" style="margin-bottom:50px">
+                    <div class="overflow-hidden">
+                        <a href="/fpf/cz/aktuality/15/2988">
+                            <span class="sr-only sr-only-focusable">Pedagog ITF Roman Vondrouš byl oceněn v mezinárodní fotografické soutěži</span>
+                            <img class="img-responsive" src="/images/storage/webfpf/87/bez-nazvu-1.4.400x400.fit.q85.png" alt="Ilustrační obrázek: Pedagog ITF Roman Vondrouš byl oceněn v mezinárodní fotografické soutěži">
+                        </a>
+
+                        <div style="padding:0 0px; position:absolute; width:100%; background-color: #fbfbfb; color:white; font-weight:bold; bottom:-50px; left:0;">
+                            <div class="clearfix">
+<span class="pull-right" style="color: #555;
+    margin-top: 0px;
+    text-shadow: none;
+    font-weight: normal;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-family: Ladislav, Arial, sans-serif;" id="snippet-purchase-aktuality-292289-lajkyMini-2562-lajky">
+    <a href="/slu/cz/?purchase-aktuality-292289-lajkyMini-2562-aid=2562&amp;do=purchase-aktuality-292289-lajkyMini-2562-lajk" class="ajax">
+        <i class="fa-heart fa"></i>&nbsp;18
+    </a>
+</span>                                <div style="margin: 3px 0 0 0;
+                                     color: #666666;
+                                     font-size: 14px;
+                                     font-weight: 400;
+                                     line-height: 1;
+                                     text-shadow: none;
+                                     box-sizing: border-box;
+                                     border-radius: 0;
+                                     font-family: Ladislav, Arial, sans-serif; ">08. 10.</div>
+                            </div>
+                            <div style="margin:0px 0 0 0;
+                                 color: #1a1a1a;
+                                 font-weight: normal;
+                                 font-size: 16px;
+                                 line-height: 25px;
+                                 text-shadow: none;
+                                 box-sizing: border-box;
+                                 font-family: Ladislav, Arial, sans-serif;">Pedagog ITF Roman Vondrouš byl oceněn v mezinárodní fotografické soutěži</div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+                    </div>
+
+
+                    <div class="grid-boxes-in">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn" style="background-color: #fbfbfb; box-shadow: 0 0 8px #ddd;-webkit-transition: box-shadow 0.2s ease-in-out;-moz-transition: box-shadow 0.2s ease-in-out;-o-transition: box-shadow 0.2s ease-in-out;transition: box-shadow 0.2s ease-in-out;">
+                <div class="thumbnail-img" style="margin-bottom:50px">
+                    <div class="overflow-hidden">
+                        <a href="/fpf/cz/aktuality/15/2984">
+                            <span class="sr-only sr-only-focusable">V Galerii Hauerova 4 se představí renesanční umělkyně Jana Francová</span>
+                            <img class="img-responsive" src="/images/storage/webfpf/b0/navrhova-plocha-1.400x400.fit.q85.png" alt="Ilustrační obrázek: V Galerii Hauerova 4 se představí renesanční umělkyně Jana Francová">
+                        </a>
+
+                        <div style="padding:0 0px; position:absolute; width:100%; background-color: #fbfbfb; color:white; font-weight:bold; bottom:-50px; left:0;">
+                            <div class="clearfix">
+<span class="pull-right" style="color: #555;
+    margin-top: 0px;
+    text-shadow: none;
+    font-weight: normal;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-family: Ladislav, Arial, sans-serif;" id="snippet-purchase-aktuality-292289-lajkyMini-2561-lajky">
+    <a href="/slu/cz/?purchase-aktuality-292289-lajkyMini-2561-aid=2561&amp;do=purchase-aktuality-292289-lajkyMini-2561-lajk" class="ajax">
+        <i class="fa-heart fa"></i>&nbsp;30
+    </a>
+</span>                                <div style="margin: 3px 0 0 0;
+                                     color: #666666;
+                                     font-size: 14px;
+                                     font-weight: 400;
+                                     line-height: 1;
+                                     text-shadow: none;
+                                     box-sizing: border-box;
+                                     border-radius: 0;
+                                     font-family: Ladislav, Arial, sans-serif; ">07. 10.</div>
+                            </div>
+                            <div style="margin:0px 0 0 0;
+                                 color: #1a1a1a;
+                                 font-weight: normal;
+                                 font-size: 16px;
+                                 line-height: 25px;
+                                 text-shadow: none;
+                                 box-sizing: border-box;
+                                 font-family: Ladislav, Arial, sans-serif;">V Galerii Hauerova 4 se představí renesanční umělkyně Jana Francová</div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+                    </div>
+
+
+                    <div class="grid-boxes-in">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn" style="background-color: #fbfbfb; box-shadow: 0 0 8px #ddd;-webkit-transition: box-shadow 0.2s ease-in-out;-moz-transition: box-shadow 0.2s ease-in-out;-o-transition: box-shadow 0.2s ease-in-out;transition: box-shadow 0.2s ease-in-out;">
+                <div class="thumbnail-img" style="margin-bottom:50px">
+                    <div class="overflow-hidden">
+                        <a href="/slu/cz/aktuality/1/2560">
+                            <span class="sr-only sr-only-focusable">Noc vědců 2025 na Slezské univerzitě opět slavila úspěch</span>
+                            <img class="img-responsive" src="/images/storage/websu/4c/nv2025_nahledovka_konec02.400x400.fit.q85.png" alt="Ilustrační obrázek: Noc vědců 2025 na Slezské univerzitě opět slavila úspěch">
+                        </a>
+
+                        <div style="padding:0 0px; position:absolute; width:100%; background-color: #fbfbfb; color:white; font-weight:bold; bottom:-50px; left:0;">
+                            <div class="clearfix">
+<span class="pull-right" style="color: #555;
+    margin-top: 0px;
+    text-shadow: none;
+    font-weight: normal;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-family: Ladislav, Arial, sans-serif;" id="snippet-purchase-aktuality-292289-lajkyMini-2560-lajky">
+    <a href="/slu/cz/?purchase-aktuality-292289-lajkyMini-2560-aid=2560&amp;do=purchase-aktuality-292289-lajkyMini-2560-lajk" class="ajax">
+        <i class="fa-heart fa"></i>&nbsp;36
+    </a>
+</span>                                <div style="margin: 3px 0 0 0;
+                                     color: #666666;
+                                     font-size: 14px;
+                                     font-weight: 400;
+                                     line-height: 1;
+                                     text-shadow: none;
+                                     box-sizing: border-box;
+                                     border-radius: 0;
+                                     font-family: Ladislav, Arial, sans-serif; ">06. 10.</div>
+                            </div>
+                            <div style="margin:0px 0 0 0;
+                                 color: #1a1a1a;
+                                 font-weight: normal;
+                                 font-size: 16px;
+                                 line-height: 25px;
+                                 text-shadow: none;
+                                 box-sizing: border-box;
+                                 font-family: Ladislav, Arial, sans-serif;">Noc vědců 2025 na Slezské univerzitě opět slavila úspěch</div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+                    </div>
+
+
+                    <div class="grid-boxes-in">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn" style="background-color: #fbfbfb; box-shadow: 0 0 8px #ddd;-webkit-transition: box-shadow 0.2s ease-in-out;-moz-transition: box-shadow 0.2s ease-in-out;-o-transition: box-shadow 0.2s ease-in-out;transition: box-shadow 0.2s ease-in-out;">
+                <div class="thumbnail-img" style="margin-bottom:50px">
+                    <div class="overflow-hidden">
+                        <a href="/opf/cz/aktuality/8/1559">
+                            <span class="sr-only sr-only-focusable">Nový postdok na OPF pro oblast Energy Economics and Finance</span>
+                            <img class="img-responsive" src="/images/storage/webopf/da/0i0a3931a.400x400.fit.q85.jpg" alt="Ilustrační obrázek: Nový postdok na OPF pro oblast Energy Economics and Finance">
+                        </a>
+
+                        <div style="padding:0 0px; position:absolute; width:100%; background-color: #fbfbfb; color:white; font-weight:bold; bottom:-50px; left:0;">
+                            <div class="clearfix">
+<span class="pull-right" style="color: #555;
+    margin-top: 0px;
+    text-shadow: none;
+    font-weight: normal;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-family: Ladislav, Arial, sans-serif;" id="snippet-purchase-aktuality-292289-lajkyMini-2559-lajky">
+    <a href="/slu/cz/?purchase-aktuality-292289-lajkyMini-2559-aid=2559&amp;do=purchase-aktuality-292289-lajkyMini-2559-lajk" class="ajax">
+        <i class="fa-heart fa"></i>&nbsp;27
+    </a>
+</span>                                <div style="margin: 3px 0 0 0;
+                                     color: #666666;
+                                     font-size: 14px;
+                                     font-weight: 400;
+                                     line-height: 1;
+                                     text-shadow: none;
+                                     box-sizing: border-box;
+                                     border-radius: 0;
+                                     font-family: Ladislav, Arial, sans-serif; ">05. 10.</div>
+                            </div>
+                            <div style="margin:0px 0 0 0;
+                                 color: #1a1a1a;
+                                 font-weight: normal;
+                                 font-size: 16px;
+                                 line-height: 25px;
+                                 text-shadow: none;
+                                 box-sizing: border-box;
+                                 font-family: Ladislav, Arial, sans-serif;">Nový postdok na OPF pro oblast Energy Economics and Finance</div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+                    </div>
+
+
+                    <div class="grid-boxes-in">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn" style="background-color: #fbfbfb; box-shadow: 0 0 8px #ddd;-webkit-transition: box-shadow 0.2s ease-in-out;-moz-transition: box-shadow 0.2s ease-in-out;-o-transition: box-shadow 0.2s ease-in-out;transition: box-shadow 0.2s ease-in-out;">
+                <div class="thumbnail-img" style="margin-bottom:50px">
+                    <div class="overflow-hidden">
+                        <a href="/fpf/cz/aktuality/15/2981">
+                            <span class="sr-only sr-only-focusable">Studenti a absolventi ITF slaví úspěch na mezinárodní výstavě Voda</span>
+                            <img class="img-responsive" src="/images/storage/webfpf/40/navrhova-plocha-1.400x400.fit.q85.png" alt="Ilustrační obrázek: Studenti a absolventi ITF slaví úspěch na mezinárodní výstavě Voda">
+                        </a>
+
+                        <div style="padding:0 0px; position:absolute; width:100%; background-color: #fbfbfb; color:white; font-weight:bold; bottom:-50px; left:0;">
+                            <div class="clearfix">
+<span class="pull-right" style="color: #555;
+    margin-top: 0px;
+    text-shadow: none;
+    font-weight: normal;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-family: Ladislav, Arial, sans-serif;" id="snippet-purchase-aktuality-292289-lajkyMini-2556-lajky">
+    <a href="/slu/cz/?purchase-aktuality-292289-lajkyMini-2556-aid=2556&amp;do=purchase-aktuality-292289-lajkyMini-2556-lajk" class="ajax">
+        <i class="fa-heart fa"></i>&nbsp;162
+    </a>
+</span>                                <div style="margin: 3px 0 0 0;
+                                     color: #666666;
+                                     font-size: 14px;
+                                     font-weight: 400;
+                                     line-height: 1;
+                                     text-shadow: none;
+                                     box-sizing: border-box;
+                                     border-radius: 0;
+                                     font-family: Ladislav, Arial, sans-serif; ">29. 09.</div>
+                            </div>
+                            <div style="margin:0px 0 0 0;
+                                 color: #1a1a1a;
+                                 font-weight: normal;
+                                 font-size: 16px;
+                                 line-height: 25px;
+                                 text-shadow: none;
+                                 box-sizing: border-box;
+                                 font-family: Ladislav, Arial, sans-serif;">Studenti a absolventi ITF slaví úspěch na mezinárodní výstavě Voda</div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+                    </div>
+
+
+                    <div class="grid-boxes-in">
+            <div class="thumbnails thumbnail-style thumbnail-kenburn" style="background-color: #fbfbfb; box-shadow: 0 0 8px #ddd;-webkit-transition: box-shadow 0.2s ease-in-out;-moz-transition: box-shadow 0.2s ease-in-out;-o-transition: box-shadow 0.2s ease-in-out;transition: box-shadow 0.2s ease-in-out;">
+                <div class="thumbnail-img" style="margin-bottom:50px">
+                    <div class="overflow-hidden">
+                        <a href="/slu/cz/aktuality/1/2555">
+                            <span class="sr-only sr-only-focusable">Rektorské volno u příležitosti Akademického dne 14. října</span>
+                            <img class="img-responsive" src="/images/storage/websu/61/nahledovka_su.3.3.400x400.fit.q85.png" alt="Ilustrační obrázek: Rektorské volno u příležitosti Akademického dne 14. října">
+                        </a>
+
+                        <div style="padding:0 0px; position:absolute; width:100%; background-color: #fbfbfb; color:white; font-weight:bold; bottom:-50px; left:0;">
+                            <div class="clearfix">
+<span class="pull-right" style="color: #555;
+    margin-top: 0px;
+    text-shadow: none;
+    font-weight: normal;
+    line-height: 20px;
+    font-size: 14px;
+    margin-bottom: 0px;
+    font-family: Ladislav, Arial, sans-serif;" id="snippet-purchase-aktuality-292289-lajkyMini-2555-lajky">
+    <a href="/slu/cz/?purchase-aktuality-292289-lajkyMini-2555-aid=2555&amp;do=purchase-aktuality-292289-lajkyMini-2555-lajk" class="ajax">
+        <i class="fa-heart fa"></i>&nbsp;213
+    </a>
+</span>                                <div style="margin: 3px 0 0 0;
+                                     color: #666666;
+                                     font-size: 14px;
+                                     font-weight: 400;
+                                     line-height: 1;
+                                     text-shadow: none;
+                                     box-sizing: border-box;
+                                     border-radius: 0;
+                                     font-family: Ladislav, Arial, sans-serif; ">23. 09.</div>
+                            </div>
+                            <div style="margin:0px 0 0 0;
+                                 color: #1a1a1a;
+                                 font-weight: normal;
+                                 font-size: 16px;
+                                 line-height: 25px;
+                                 text-shadow: none;
+                                 box-sizing: border-box;
+                                 font-family: Ladislav, Arial, sans-serif;">Rektorské volno u příležitosti Akademického dne 14. října</div>
+                        </div>
+                    </div>
+                </div>
+            </div> 
+                    </div>
+
+            </div>
+        </div>
+
+
+        <div style="clear: both"></div>
+
+
+            <a href="/slu/cz/aktuality/all/1" class="btn-u btn-u-sm pull-right" style="margin-right:10px; margin-top: 1px;">Všechny aktuality</a>
+
+        <div style="clear:both"></div>
+
+
+
+
+</div>            </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-3 " style="">
+
+
+
+
+            <div class="row " style="">
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-0 col-lg-0 " style="">
+
+
+
+
+            <div class="row " style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-0 col-lg-0 col-md-offset-0 text-center" style="">
+
+
+
+
+            <div class="htmltext" style="">
+                <a style="" href="https://www.facebook.com/slu.cz/?fref=ts" target="_blank">
+<span class="sr-only sr-only-focusable">Facebook</span>
+<i class="icon-custom icon-md icon-2x rounded-x icon-color-u icon-line fa fa-facebook"></i></a>&nbsp;
+<a style="" href="https://www.instagram.com/slezska_univerzita/" target="_blank">
+<span class="sr-only sr-only-focusable">Instagram</span>
+<i class="icon-custom icon-md icon-2x rounded-x icon-color-u icon-line fa fa-instagram"></i></a>&nbsp;
+<a style="" href="https://www.slu.cz/slu/cz/supermagazin" target="_blank">
+<span class="sr-only sr-only-focusable">SUpermagazin</span>
+<i class="icon-custom icon-md icon-2x rounded-x icon-color-u icon-line fa fa-newspaper-o"></i></a>&nbsp;
+            </div>
+
+            </div>
+
+            </div>
+
+
+
+
+
+            <div class="row " style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-0 col-lg-0 col-md-offset-0 text-center" style="">
+
+
+
+
+            <div class="htmltext" style="">
+                <a style="" href="https://www.youtube.com/user/sluopava" target="_blank">
+<span class="sr-only sr-only-focusable">Youtube</span>
+<i class="icon-custom icon-md icon-2x rounded-x icon-color-u icon-line fa fa-youtube"></i></a>&nbsp;
+<a style="" href="https://www.linkedin.com/edu/school?id=11705&amp;trk=hp-feed-school-name" target="_blank">
+<span class="sr-only sr-only-focusable">LinkedIn</span>
+<i class="icon-custom icon-md icon-2x rounded-x icon-color-u icon-line fa fa-linkedin"></i></a>&nbsp;
+<a style="" href="http://www.uax.cz/cs/slu/shop/" target="_blank">
+<span class="sr-only sr-only-focusable">e-shop SU</span>
+<i class="icon-custom icon-md icon-2x rounded-x icon-color-u icon-line fa fa-shopping-cart"></i></a>&nbsp;
+            </div>
+
+            </div>
+
+            </div>
+
+            </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+            <div class="row " style="margin-top:20px">
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-0 col-lg-0 " style="">
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="" style="">
+<div id="snippet-purchase-kalendar-292305-kalendar">
+
+            <div class="row">
+                <div class="col-xs-12">
+                        
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <span style="color: #666; font-size: 24px; float: left; margin-top:5px; margin-right:10px; background-color: white; border: 1px solid #aaa;  border-left:5px solid #385890;">
+                                    <div style="width:30px; height: 30px; margin:5px; font-size:0.7em; font-weight:bold; line-height:0.9em; text-align: center">
+                                        14
+                                        <div style="font-size:0.8em">Říj</div>
+                                    </div>
+                                </span>
+                                <div style="overflow: hidden;">
+                                    <h5 style="margin-bottom:0">
+                                        <a href="/fpf/cz/udalost/15/1158" style="color:#385890;">35 let Institutu tvůrčí fotografie FPF SU v Opavě</a><br>
+                                        <small style="color:#666">Filozoficko-přírodovědecká fakulta v Opavě</small>
+                                    </h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <span style="color: #666; font-size: 24px; float: left; margin-top:5px; margin-right:10px; background-color: white; border: 1px solid #aaa;  border-left:5px solid #385890;">
+                                    <div style="width:30px; height: 30px; margin:5px; font-size:0.7em; font-weight:bold; line-height:0.9em; text-align: center">
+                                        14
+                                        <div style="font-size:0.8em">Říj</div>
+                                    </div>
+                                </span>
+                                <div style="overflow: hidden;">
+                                    <h5 style="margin-bottom:0">
+                                        <a href="/fpf/cz/udalost/15/1165" style="color:#385890;">Akademický den</a><br>
+                                        <small style="color:#666">Filozoficko-přírodovědecká fakulta v Opavě</small>
+                                    </h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <span style="color: #666; font-size: 24px; float: left; margin-top:5px; margin-right:10px; background-color: white; border: 1px solid #aaa;  border-left:5px solid #385890;">
+                                    <div style="width:30px; height: 30px; margin:5px; font-size:0.7em; font-weight:bold; line-height:0.9em; text-align: center">
+                                        14
+                                        <div style="font-size:0.8em">Říj</div>
+                                    </div>
+                                </span>
+                                <div style="overflow: hidden;">
+                                    <h5 style="margin-bottom:0">
+                                        <a href="/fpf/cz/udalost/15/1176" style="color:#385890;">Jana Francová: Ústní podání</a><br>
+                                        <small style="color:#666">Filozoficko-přírodovědecká fakulta v Opavě</small>
+                                    </h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <span style="color: #666; font-size: 24px; float: left; margin-top:5px; margin-right:10px; background-color: white; border: 1px solid #aaa;  border-left:5px solid #307872;">
+                                    <div style="width:30px; height: 30px; margin:5px; font-size:0.7em; font-weight:bold; line-height:0.9em; text-align: center">
+                                        15
+                                        <div style="font-size:0.8em">Říj</div>
+                                    </div>
+                                </span>
+                                <div style="overflow: hidden;">
+                                    <h5 style="margin-bottom:0">
+                                        <a href="/opf/cz/udalost/15/707" style="color:#307872;">20th International Conference on Finance and Banking</a><br>
+                                        <small style="color:#666">Obchodně podnikatelská fakulta v Karviné</small>
+                                    </h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <span style="color: #666; font-size: 24px; float: left; margin-top:5px; margin-right:10px; background-color: white; border: 1px solid #aaa;  border-left:5px solid #307872;">
+                                    <div style="width:30px; height: 30px; margin:5px; font-size:0.7em; font-weight:bold; line-height:0.9em; text-align: center">
+                                        15
+                                        <div style="font-size:0.8em">Říj</div>
+                                    </div>
+                                </span>
+                                <div style="overflow: hidden;">
+                                    <h5 style="margin-bottom:0">
+                                        <a href="/opf/cz/udalost/15/740" style="color:#307872;">Erasmus Days 2025</a><br>
+                                        <small style="color:#666">Obchodně podnikatelská fakulta v Karviné</small>
+                                    </h5>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="row">
+                            <div class="col-xs-12">
+                                <span style="color: #666; font-size: 24px; float: left; margin-top:5px; margin-right:10px; background-color: white; border: 1px solid #aaa;  border-left:5px solid #DC6423;">
+                                    <div style="width:30px; height: 30px; margin:5px; font-size:0.7em; font-weight:bold; line-height:0.9em; text-align: center">
+                                        15
+                                        <div style="font-size:0.8em">Říj</div>
+                                    </div>
+                                </span>
+                                <div style="overflow: hidden;">
+                                    <h5 style="margin-bottom:0">
+                                        <a href="/phys/cz/udalost/3/654" style="color:#DC6423;">Unisféra — Bohové a hvězdy starých Mayů</a><br>
+                                        <small style="color:#666">Fyzikální ústav v Opavě</small>
+                                    </h5>
+
+                                </div>
+                            </div>
+                        </div>
+                </div>
+                <div class="col-xs-12 margin-top-10">
+                    <a href="/slu/cz/udalost/all/1" class="btn btn-sm btn-default btn-block " style="margin-right:10px; margin-top: 1px;">Všechny události</a>
+                </div>
+            </div>
+
+
+</div>            </div>
+
+            </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            
+            
+            
+
+
+
+            <div class="row " style="margin-top:20px">
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-0 col-lg-0 " style="">
+
+
+
+
+
+            <ul class="list-group sidebar-nav-v1" id="sidebar-nav" style="">
+
+                    <li class="list-group-item  ">
+
+
+                            <a href="https://www.slu.cz/slu/cz/czv/" target="_self">Celoživotní vzdělávání</a>
+                    </li>
+                    <li class="list-group-item  ">
+
+
+                            <a href="https://czv.slu.cz/oblast/4?do=changeKategorie" target="_blank">Univerzita třetího věku</a>
+                    </li>
+                    <li class="list-group-item  ">
+
+
+                            <a href="https://absolventi.slu.cz" target="_blank">Absolventský portál</a>
+                    </li>
+                    <li class="list-group-item  ">
+
+
+                            <a href="https://kariera.slu.cz" target="_self">Kariérní portál</a>
+                    </li>
+                    <li class="list-group-item  ">
+
+
+                            <a href="https://www.lucernatv.cz/" target="_blank">Lucerna TV</a>
+                    </li>
+                    <li class="list-group-item  ">
+
+
+                            <a href="https://www.youtube.com/results?search_query=dobr%C3%A9+v%C4%9Bd%C4%9Bt" target="_blank">Dobré vědět</a>
+                    </li>
+                    <li class="list-group-item  ">
+
+
+                            <a href="https://www.slu.cz/fvp/cz/prepnise" target="_blank">Studentský podcast Přepni se</a>
+                    </li>
+
+
+            </ul>
+
+            </div>
+
+            </div>
+
+            </div>
+
+            </div>
+
+
+</div>            </div>
+        </div>
+
+        <div class="container content-md">
+<div id="snippet-mainPage-layout">
+
+
+
+
+
+
+            <div class="row " style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-6 col-md-6 col-lg-0 text-center" style="">
+
+
+
+
+            <div class="htmltext" style="">
+                <div style="color: #555;
+margin-top: 5px;
+text-shadow: none;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+margin-bottom: 10px;
+text-align: center;
+font-family: Ladislav, Arial, sans-serif;">Fotogalerie</div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="overflow-hidden" style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <a class="fancybox img-hover-v1" style="" href="https://www.slu.cz/slu/cz/layout/719" target="_self">
+
+
+
+
+
+                <img src="/images/storage/websu/b5/2.1640x1640.fit.q85.png" class="img-responsive " style="" alt="Fotogalerie Slezské univerzity">
+
+            
+
+            </a>
+
+            </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-6 col-md-6 col-lg-0 text-center" style="">
+
+
+
+
+            <div class="htmltext" style="">
+                <div style="color: #555;
+margin-top: 5px;
+text-shadow: none;
+font-weight: normal;
+font-size: 16px;
+line-height: 25px;
+margin-bottom: 10px;
+text-align: center;
+font-family: Ladislav, Arial, sans-serif;">Videogalerie</div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="overflow-hidden" style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <a class="fancybox img-hover-v1" style="" href="https://www.slu.cz/slu/cz/layout/2125" target="_self">
+
+
+
+
+
+                <img src="/images/storage/websu/9d/038_cover_do_videogalerie_varianta_a.1640x1640.fit.q85.png" class="img-responsive " style="" alt="Videogalerie Slezské univerzity">
+
+            
+
+            </a>
+
+            </div>
+
+            </div>
+
+            </div>
+
+
+</div>        </div>
+
+</div>
+<div id="snippet--flashMessages">
+
+</div>
+	<!--=== Footer v3 ===-->
+<div id="snippet--footer">	<div id="footer-v3" class="footer-v3">
+		<div class="footer">
+			<div class="container">
+<div id="snippet-layoutFooter-layout">
+
+
+
+
+
+
+            <div class="row " style="">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col col-xs-6 col-sm-6 col-md-4 col-lg-4 map-img" style="">
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="htmltext" style="">
+                <address class="">
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:35px; vertical-align:top">
+                    <i class="fa fa-home"></i>
+                </td>
+                <td>
+                    Slezská univerzita v Opavě<br>
+                    Na Rybníčku 626/1<br>
+                    746 01 Opava
+            	</td>
+        	</tr><tr><td style="vertical-align:top"><br></td><td><br></td></tr>
+<tr><td style="vertical-align:top"><i class="fa fa-globe"></i></td><td><a href="http://www.slu.cz">www.slu.cz</a></td></tr>
+<tr><td style="vertical-align:top"><i class="fa fa-phone"></i></td><td>+420 553 684 111</td></tr>
+<tr><td style="vertical-align:top"><i class="fa fa-envelope"></i></td><td><a href="mailto:rektorat@slu.cz">rektorat@slu.cz</a></td></tr>
+    	</tbody>
+    </table>
+    </address>
+            
+            </div>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="col col-xs-6 col-sm-6 col-md-4 col-lg-4 map-img" style="">
+
+
+
+
+
+
+
+
+
+
+
+
+            <div class="htmltext" style="">
+                <address class="">
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:35px; vertical-align:top">
+                    <i class="fa fa-home"></i>
+                </td>
+                <td>
+                    Ústřední podatelna univerzity<br>
+		    Bezručovo nám. 885/14<br>
+		    746 01 Opava
+            	</td>
+        	</tr><tr><td style="vertical-align:top"><br></td><td><br></td></tr>
+<tr><td style="vertical-align:top"><i class="fa fa-globe"></i></td><td><a href="/slu/cz/podatelnaustredni">Webové stránky podatelny</a></td></tr>
+<tr><td style="vertical-align:top; font-weight: bold;" title="Identifikátor datové schránky">DS</td><td title="Identifikátor datové schránky">qw6j9hq</td></tr>
+<tr><td style="vertical-align:top"><i class="fa fa-envelope"></i></td><td title="E-mailová adresa elektronické podatelny pro podávání elektronických dokumentů"><a href="mailto:e-podatelna@slu.cz">e-podatelna@slu.cz</a></td></tr>
+    	</tbody>
+    </table>
+    </address>
+           
+            </div>
+
+            </div>
+
+
+
+
+
+
+
+            <div class="col col-xs-12 col-sm-12 col-md-4 col-lg-4 " style="">
+
+
+
+
+            <div class="htmltext" style="">
+                <ul class="list-unstyled link-list">
+<li><a onmouseover="this.style.color='#9c1f2e'" onmouseout="this.style.color=''" href="https://www.slu.cz/slu/cz/" target="_blank">Slezská univerzita v Opavě</a></li>
+<li><a onmouseover="this.style.color='#385890'" onmouseout="this.style.color=''" href="https://www.slu.cz/fpf/cz/" target="_blank">Filozoficko-přírodovědecká fakulta v Opavě</a></li>
+<li><a onmouseover="this.style.color='#307872'" onmouseout="this.style.color=''" href="https://www.slu.cz/opf/cz/" target="_blank">Obchodně podnikatelská fakulta v Karviné</a></li>
+<li><a onmouseover="this.style.color='#655480'" onmouseout="this.style.color=''" href="https://www.slu.cz/fvp/cz/" target="_blank">Fakulta veřejných politik v Opavě</a></li>
+<li><a onmouseover="this.style.color='#a99729'" onmouseout="this.style.color=''" href="https://www.slu.cz/math/cz/" target="_blank">Matematický ústav v Opavě</a></li>
+<li><a onmouseover="this.style.color='#dc6423'" onmouseout="this.style.color=''" href="https://www.slu.cz/phys/cz/" target="_blank">Fyzikální ústav v Opavě</a></li>
+</ul>
+
+            </div>
+
+            </div>
+
+            </div>
+
+
+</div>			</div>
+		</div><!--/footer-->
+
+
+		<div class="copyright">
+			<div class="container">
+				<div class="row">
+					<div class="hidden-xs hidden-sm hidden-md col-lg-12 text-center vcenter" style="margin: 20px 0 10px 0;">
+
+		<a href="https://opjak.cz" target="_blank">
+		<img src="/images/logos/eufin_cs.png" height="70px" class="" style="margin: 0 5px;" alt="logo Spolufinancováno Evropskou unií"></a>
+		<a href="https://msmt.gov.cz/?lang=1" target="_blank">
+		<img src="/images/logos/msmt_cs.png" height="60px" class="" style="margin: 0 5px;" alt="logo MŠMT"></a>
+		<a href="https://www.slu.cz/slu/cz/hraaktuality" target="_self">
+		<img src="/images/logos/hrexcelence.png" height="60px" class="" style="margin: 0 5px;" alt="logo HR Excelence in Research"></a>
+		<a href="https://starseu.org/" target="_blank">
+		<img src="/images/logos/starseu.png" height="65px" class="" style="margin: 0 5px;" alt="logo STARS EU"></a>
+		<a href="https://education.ec.europa.eu/cs/education-levels/higher-education/european-universities-initiative" target="_blank">
+		<img src="/images/logos/erasmus.png" height="65px" class="" style="margin: 0 5px;" alt="logo Erasmus"></a>
+		<a href="" target="_blank">
+		<img src="/images/logos/suudrzitelna_cs.png" height="55px" class="" style="margin: 0 5px;" alt="logo SUudrzitelna"></a>
+					</div><div class="hidden-xs hidden-sm hidden-md col-lg-12 text-center vcenter" style="margin: 40px 0 0 0;">
+    <p>
+        2017-2025 © Slezská univerzita v Opavě.
+        <br>
+        <i class="fa fa-envelope"></i>
+        <a href="https://www.slu.cz/slu/cz/pristupnost">Správa a přístupnost webu</a>
+        |
+        <a href="/slu/cz/sitemap">Mapa stránek</a>
+    </p>
+					</div><div class="hidden-xs hidden-sm hidden-md col-lg-12 text-right vcenter" style="margin: 0;">
+    <ul class="footer-socials list-inline"  >
+        <li>
+            <a href="https://www.facebook.com/slu.cz/?fref=ts" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="Facebook" data-original-title="Facebook" style="color: #555;" >
+				<span class="sr-only sr-only-focusable">Facebook</span>
+				<i class="fa fa-facebook"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/user/sluopava" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="YouTube" data-original-title="Youtube" style="color: #555;">
+				<span class="sr-only sr-only-focusable">YouTube</span>
+                <i class="fa fa-youtube"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/slezska_univerzita/" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="Instagram" data-original-title="Instagram" style="color: #555;">
+				<span class="sr-only sr-only-focusable">Instagram</span>
+                <i class="fa fa-instagram"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/edu/school?id=11705&trk=hp-feed-school-name" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="LinkedIn" data-original-title="Linkedin" style="color: #555;">
+				<span class="sr-only sr-only-focusable">LinkedIn</span>
+                <i class="fa fa-linkedin"></i>
+            </a>
+        </li>
+        <li>
+            <a href="http://www.uax.cz/cs/slu/shop/" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="e-shop" data-original-title="Shopping-cart" style="color: #555;">
+				<span class="sr-only sr-only-focusable">e-shop</span>
+                <i class="fa fa-shopping-cart"></i>
+            </a>
+        </li>
+    </ul>
+					</div>
+					<div class="hidden-xs hidden-sm col-md-12 hidden-lg text-center vcenter" style="margin: 20px 0 10px 0;">
+
+		<a href="https://opjak.cz" target="_blank">
+		<img src="/images/logos/eufin_cs.png" height="60px" class="" style="margin: 0 5px;" alt="logo Spolufinancováno Evropskou unií"></a>
+		<a href="https://msmt.gov.cz/?lang=1" target="_blank">
+		<img src="/images/logos/msmt_cs.png" height="50px" class="" style="margin: 0 5px;" alt="logo MŠMT"></a>
+		<a href="https://www.slu.cz/slu/cz/hraaktuality" target="_self">
+		<img src="/images/logos/hrexcelence.png" height="50px" class="" style="margin: 0 5px;" alt="logo HR Excelence in Research"></a>
+		<a href="https://starseu.org/" target="_blank">
+		<img src="/images/logos/starseu.png" height="55px" class="" style="margin: 0 5px;" alt="logo STARS EU"></a>
+		<a href="https://education.ec.europa.eu/cs/education-levels/higher-education/european-universities-initiative" target="_blank">
+		<img src="/images/logos/erasmus.png" height="55px" class="" style="margin: 0 5px;" alt="logo Erasmus"></a>
+		<a href="" target="_blank">
+		<img src="/images/logos/suudrzitelna_cs.png" height="45px" class="" style="margin: 0 5px;" alt="logo SUudrzitelna"></a>
+					</div><div class="hidden-xs hidden-sm col-md-12 hidden-lg text-center vcenter" style="margin: 40px 0 0 0;">
+    <p>
+        2017-2025 © Slezská univerzita v Opavě.
+        <br>
+        <i class="fa fa-envelope"></i>
+        <a href="https://www.slu.cz/slu/cz/pristupnost">Správa a přístupnost webu</a>
+        |
+        <a href="/slu/cz/sitemap">Mapa stránek</a>
+    </p>
+					</div><div class="hidden-xs hidden-sm col-md-12 hidden-lg text-right vcenter" style="margin: 0;">
+    <ul class="footer-socials list-inline"  >
+        <li>
+            <a href="https://www.facebook.com/slu.cz/?fref=ts" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="Facebook" data-original-title="Facebook" style="color: #555;" >
+				<span class="sr-only sr-only-focusable">Facebook</span>
+				<i class="fa fa-facebook"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/user/sluopava" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="YouTube" data-original-title="Youtube" style="color: #555;">
+				<span class="sr-only sr-only-focusable">YouTube</span>
+                <i class="fa fa-youtube"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/slezska_univerzita/" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="Instagram" data-original-title="Instagram" style="color: #555;">
+				<span class="sr-only sr-only-focusable">Instagram</span>
+                <i class="fa fa-instagram"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/edu/school?id=11705&trk=hp-feed-school-name" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="LinkedIn" data-original-title="Linkedin" style="color: #555;">
+				<span class="sr-only sr-only-focusable">LinkedIn</span>
+                <i class="fa fa-linkedin"></i>
+            </a>
+        </li>
+        <li>
+            <a href="http://www.uax.cz/cs/slu/shop/" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="e-shop" data-original-title="Shopping-cart" style="color: #555;">
+				<span class="sr-only sr-only-focusable">e-shop</span>
+                <i class="fa fa-shopping-cart"></i>
+            </a>
+        </li>
+    </ul>
+					</div>
+					<div class="col-xs-12 hidden-md hidden-lg text-center" style="margin: 10px 0 0 0; border-bottom: 1px dotted silver;">
+
+		<a href="https://opjak.cz" target="_blank">
+		<img src="/images/logos/eufin_cs.png" height="80px" class="img-responsive" style="margin: 10px 0;" alt="logo Spolufinancováno Evropskou unií"></a><br>
+		<a href="https://msmt.gov.cz/?lang=1" target="_blank">
+		<img src="/images/logos/msmt_cs.png" height="75px" class="" style="margin: 10px 0;" alt="logo MŠMT"></a><br>
+		<a href="https://www.slu.cz/slu/cz/hraaktuality" target="_self">
+		<img src="/images/logos/hrexcelence.png" height="70px" class="" style="margin: 10px 0;" alt="logo HR Excelence in Research"></a><br>
+		<a href="https://starseu.org/" target="_blank">
+		<img src="/images/logos/starseu.png" height="75px" class="" style="margin: 10px 0;" alt="logo STARS EU"></a><br>
+		<a href="https://education.ec.europa.eu/cs/education-levels/higher-education/european-universities-initiative" target="_blank">
+		<img src="/images/logos/erasmus.png" height="75px" class="" style="margin: 10px 0;" alt="logo Erasmus"></a><br>
+		<a href="" target="_blank">
+		<img src="/images/logos/suudrzitelna_cs.png" height="50px" class="" style="margin: 10px 0;" alt="logo SUudrzitelna"></a><br>
+					</div><div class="col-xs-12 hidden-md hidden-lg text-center" style="margin: 30px 0 0 0;">
+    <p>
+        2017-2025 © Slezská univerzita v Opavě.
+        <br>
+        <i class="fa fa-envelope"></i>
+        <a href="https://www.slu.cz/slu/cz/pristupnost">Správa a přístupnost webu</a>
+        |
+        <a href="/slu/cz/sitemap">Mapa stránek</a>
+    </p>
+					</div><div class="col-xs-12 hidden-md hidden-lg text-right" style="margin: 0;">
+    <ul class="footer-socials list-inline"  >
+        <li>
+            <a href="https://www.facebook.com/slu.cz/?fref=ts" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="Facebook" data-original-title="Facebook" style="color: #555;" >
+				<span class="sr-only sr-only-focusable">Facebook</span>
+				<i class="fa fa-facebook"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.youtube.com/user/sluopava" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="YouTube" data-original-title="Youtube" style="color: #555;">
+				<span class="sr-only sr-only-focusable">YouTube</span>
+                <i class="fa fa-youtube"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.instagram.com/slezska_univerzita/" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="Instagram" data-original-title="Instagram" style="color: #555;">
+				<span class="sr-only sr-only-focusable">Instagram</span>
+                <i class="fa fa-instagram"></i>
+            </a>
+        </li>
+        <li>
+            <a href="https://www.linkedin.com/edu/school?id=11705&trk=hp-feed-school-name" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="LinkedIn" data-original-title="Linkedin" style="color: #555;">
+				<span class="sr-only sr-only-focusable">LinkedIn</span>
+                <i class="fa fa-linkedin"></i>
+            </a>
+        </li>
+        <li>
+            <a href="http://www.uax.cz/cs/slu/shop/" target="_blank" class="tooltips" data-toggle="tooltip" data-placement="top" title="e-shop" data-original-title="Shopping-cart" style="color: #555;">
+				<span class="sr-only sr-only-focusable">e-shop</span>
+                <i class="fa fa-shopping-cart"></i>
+            </a>
+        </li>
+    </ul>
+					</div>
+				</div> <!-- /row -->
+			</div> <!-- /container -->
+		</div><!--/copyright-->
+
+	</div>
+</div>	<!--=== End Footer v3 ===-->
+
+</div><!--/wrapper-->
+
+
+
+
+    <!-- Preklad pro lightbox, pokud je na strance vlozena galerie -->
+    <script>
+        lightbox.option({
+            'albumLabel': "Obrázek %1 z %2"
+        })
+    </script>
+</body>
+</html>

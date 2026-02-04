@@ -1,0 +1,58 @@
+#
+# robots.txt
+#
+
+# exclude these directories
+User-agent: *
+Disallow: /cs/poslat-odkaz-znamemu?frm.url=*
+Disallow: /en/send-link-to-my-friend?frm.url=*
+Disallow: /qf/cs/ramjet/sendLinkKulturaForm?frm.url=*
+Disallow: /qf/en/ramjet/sendLinkKulturaForm?frm.url=*
+Disallow: /qf/cs/ramjet/sendLinkTuristiForm?frm.url=*
+Disallow: /qf/en/ramjet/sendLinkTuristiForm?frm.url=*
+Disallow: /qf/cs/ramjet/bookingForm?frm.sourceId=*
+Disallow: /qf/cs/ramjet/booking/bookingForm?frm.sourceId=*
+Disallow: /qf/cs/ramjet/bookingSchoolForm?frm.sourceId=*
+Disallow: /qf/cs/ramjet/booking/bookingSchoolForm?frm.sourceId=*
+Disallow: /qf/cs/ramjet/occupationForm?frm.eventId=*
+Disallow: /qf/cs/ramjet/booking/occupationForm?frm.eventId=*
+Disallow: /cs/vyhledavani
+Disallow: /qf/cs/ramjet/vyhledavani
+Disallow: /en/search
+Disallow: /qf/en/ramjet/search
+Disallow: /qf/cs/ramjet/kultura-na-hrade/vyhledavani
+Disallow: /qf/en/ramjet/culture-at-the-castle/search
+Disallow: /qf/cs/ramjet/prazsky-hrad-pro-navstevniky/vyhledavani
+Disallow: /qf/en/ramjet/prague-castle-for-visitors/search
+Disallow: /qf/de/ramjet/prager-burg-fur-besucher/suche
+Disallow: /qf/fr/ramjet/bienvenue-au-chateau-de-prague/chercher
+Disallow: /qf/it/ramjet/il-castello-di-praga-per-i-visitatori/cerca
+Disallow: /qf/es/ramjet/castillo-de-praga-para-los-visitantes/buscar
+Disallow: /qf/cn/ramjet/prague-castle-for-visitors/search
+Disallow: /qf/jp/ramjet/prague-castle-for-visitors/search
+Disallow: /qf/kr/ramjet/prague-castle-for-visitors/search
+Disallow: /qf/uk/ramjet/prague-castle-for-visitors/search
+
+#extensive BOT
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+
+Sitemap: https://www.hrad.cz/cs/sitemap.xml
+Sitemap: https://www.hrad.cz/en/sitemap.xml
+Sitemap: https://www.hrad.cz/cs/kultura-na-hrade/sitemap.xml
+Sitemap: https://www.hrad.cz/en/culture-at-the-castle/sitemap.xml
+Sitemap: https://www.hrad.cz/cs/prazsky-hrad-pro-navstevniky/sitemap.xml
+Sitemap: https://www.hrad.cz/en/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/fr/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/it/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/es/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/de/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/ru/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/cn/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/jp/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/kr/prague-castle-for-visitors/sitemap.xml
+Sitemap: https://www.hrad.cz/uk/prague-castle-for-visitors/sitemap.xml

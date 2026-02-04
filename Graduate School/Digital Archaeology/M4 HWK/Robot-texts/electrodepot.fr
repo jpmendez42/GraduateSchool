@@ -1,0 +1,65 @@
+User-agent: *
+Disallow: /catalog/
+Disallow: /wishlist/
+Disallow: /catalogsearch/ 
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /review/product/
+Disallow: /sendfriend/
+Disallow: /enable-cookies/
+Disallow: /LICENSE.txt
+Disallow: /LICENSE.html
+Disallow: /skin/
+Disallow: /js/
+Disallow: /directory/
+Disallow: /checkout/
+Disallow: /onestepcheckout/
+Disallow: /customer/
+Disallow: /customer/account/
+Disallow: /customer/account/login/
+Disallow: /catalogsearch/
+Disallow: /catalog/product_compare/index/
+# interdiction des filtres
+Disallow: /*?dir*
+Disallow: /*?dir=desc
+Disallow: /*?dir=asc
+Disallow: /*?limit=all
+Disallow: /*?mode*
+Disallow: /*?filter
+Disallow: /*?pr
+Disallow: /*?bvstate=
+Disallow: /*?zzmarque
+Disallow: /*&zzmarque
+Disallow: /*?product_list_order
+Disallow: /*&product_list_order
+Disallow: /*?product_list_dir
+Disallow: /*&product_list_dir
+Disallow: /*?price
+Disallow: /*&price
+# interdiction des repertoires CMS
+Disallow: /app/
+Disallow: /bin/
+Disallow: /dev/
+Disallow: /lib/
+# interdiction des pages comparateur
+Disallow: /comparateur
+# interdiction des potentiels duplicate
+Disallow: /tag/
+Disallow: /review/
+# interdiction des urls en provenance des JS Tag Commander
+Disallow: /*/utils/common
+Disallow: /*/adler32
+Disallow: /*/zlib/ztream
+Disallow: /*/utils/strings
+Disallow: /*/trees
+Disallow: /*/zlib/messages
+Disallow: /*/messages
+Disallow: /*/crc32
+Disallow: /*/common
+Disallow: /*?SID=
+Disallow: /*/1000$
+Disallow: /*?srsltid=
+Disallow: /*?gQT=
+Disallow: /*?gStoreCode=
+Sitemap: https://www.electrodepot.fr/sitemap-index.xml

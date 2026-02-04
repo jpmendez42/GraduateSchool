@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: */preview/
+Disallow: */ajax/
+Disallow: /fr-fr/searchbis/
+Disallow: /fr-fr/product/reviewsajax
+Disallow: /fr-fr/search/ajax?type=result
+Disallow: /fr-fr/search-tab-photos_pop
+Disallow: /fr-fr/*?*
+Allow: /*?utm_source=google&utm_medium=Maps*
+ 
+User-agent: bingbot
+Disallow: /booking/
+ 
+
+Sitemap: https://www.centerparcs.fr/sitemap.xml

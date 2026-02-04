@@ -1,0 +1,93 @@
+User-agent: *
+
+# Standard rules and HTML pages
+Disallow: *OneID-Responder*
+Disallow: /search*
+Disallow: /*Product-ShowQuickView*
+Disallow: /*Product-Variation*
+Disallow: /Product-SizeChart*
+Disallow: /Promotion-Details*
+Disallow: /secure*
+Disallow: /*pmin*
+Disallow: /*pmax*
+Disallow: /null$
+Disallow: /my-bag*
+Disallow: /account*
+Disallow: /register*
+Disallow: /wishlist*
+Disallow: /payment*
+Disallow: /billing*
+Disallow: /shipping*
+Disallow: /order*
+Disallow: /product-print*
+Disallow: /contentsearch*
+Disallow: *?*q=*
+Disallow: *prefn* 
+Disallow: *prefv*
+
+# Non-critical resources
+Disallow: /on/demandware.static/*/internal/jscript/dwanalytics
+Disallow: /on/demandware.static/*/internal/jscript/dwac
+Disallow: /on/demandware.store/*/__Analytics-Start
+Disallow: /on/demandware.static/*/js/search.js
+Disallow: /on/demandware.store/*/Wishlist-GetListJson
+
+# PLP pagination
+Allow: *?page=*&prefn1=memberGroups
+Allow: *?page=*&prefn1=allowed_country
+Disallow: /search?page=*&prefn1=memberGroups
+Disallow: /search?page=*&prefn1=allowed_country
+Disallow: /on/demandware.store/*/Search-ShowAjax
+
+# Indexable internal search pages
+Allow: /search?q=star+wars+game$
+Allow: /search?q=star+wars+costumes$
+Allow: /search?q=disney+game$
+Allow: /search?q=marvel+game$
+Allow: /search?q=toy+story+fancy+dress$
+Allow: /search?q=toy+story+costumes$
+Allow: /search?q=encanto+playset$
+Allow: /search?q=buzz+lightyear+fancy+dress$
+Allow: /search?q=aladdin+fancy+dress$
+Allow: /search?q=avatar+figures$
+Allow: /search?q=dolls+house$
+Allow: /search?q=duck+teddy$
+Allow: /search?q=duck+plush$
+Allow: /search?q=princess+dolls$
+Allow: /search?q=lion+teddy$
+Allow: /search?q=toy+playset$
+Allow: /search?q=outdoor+playsets$
+Allow: /search?q=duck+soft+toy$
+Allow: /search?q=lion+soft+toy$
+Allow: /search?q=mouse+teddy$
+
+
+User-agent: AdsBot-Google-Mobile
+Disallow: /secure*
+Disallow: /my-bag*
+Disallow: /search*
+Disallow: /account*
+Disallow: /register*
+Disallow: /wishlist*
+Disallow: /payment*
+Disallow: /billing*
+Disallow: /shipping*
+Disallow: /order*
+Disallow: /product-print*
+
+
+User-agent: AdsBot-Google
+Disallow: /secure*
+Disallow: /my-bag*
+Disallow: /search*
+Disallow: /account*
+Disallow: /register*
+Disallow: /wishlist*
+Disallow: /payment*
+Disallow: /billing*
+Disallow: /shipping*
+Disallow: /order*
+Disallow: /product-print*
+
+
+Sitemap: https://www.disneystore.fr/sitemap_index.xml

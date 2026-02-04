@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /afisha
+Disallow: /pushking-card
+Disallow: /documents
+Disallow: /cultural-organizations
+Disallow: /insoft
+Disallow: /files/*
+Disallow: /?*
+Disallow: /*/?*
+Sitemap: https://intickets.ru/sitemap.xml
+Host: https://intickets.ru

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow:/?p=*
+Disallow: /content/tuttotrasporti/* 
+Disallow: /content/cucchiaio/* 
+Disallow: /content/quattroruote/
+Disallow: /*.more.*
+Disallow: /*.proxy.*
+Disallow: /*_jcr_content*
+Disallow: /*.html.html*
+Disallow: /system*
+Disallow: /System*
+Disallow: /bin/*

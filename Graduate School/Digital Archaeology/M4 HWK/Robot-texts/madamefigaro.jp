@@ -1,0 +1,21 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /25th/
+Disallow: /sweets/
+Disallow: /present/171120-skincare.html
+Disallow: /travel/feature/tel;*
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: baiduspider
+Disallow: /
+
+User-agent: ia_archiver 
+Disallow: /

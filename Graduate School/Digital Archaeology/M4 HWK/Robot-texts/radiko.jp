@@ -1,0 +1,24 @@
+User-agent: *
+Disallow: /tools/
+Disallow: /v2/api/
+Allow: /v2/api/image
+Disallow: /v3/
+Disallow: /mobile/resource/
+Disallow: /mobile/template/
+Disallow: /test/
+
+User-agent: Googlebot
+Disallow: /tools/
+Disallow: /v2/api/
+Allow: /v2/api/image
+Disallow: /v3/
+Disallow: /mobile/resource/
+Disallow: /mobile/template/
+Disallow: /apps
+Disallow: /test/
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: Facebot
+Allow: /

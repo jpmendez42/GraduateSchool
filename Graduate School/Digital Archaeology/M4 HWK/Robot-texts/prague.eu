@@ -1,0 +1,59 @@
+User-agent: *
+Crawl-delay: 600
+Disallow: /wp-admin/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/logs/
+Disallow: /wp-content/mu-plugins/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/uploads/wc-logs/
+Disallow: /wp-content/uploads/woocommerce_uploads/
+Disallow: /wp-content/upgrade/
+Disallow: /wp-content/upgrade-temp-backup/
+Disallow: /wp-content/wp-rocket-config/
+Disallow: /wp-includes/
+Disallow: /wp-json/
+Disallow: /search/
+Disallow: /cgi-bin/
+
+Disallow: /wp-content/debug.log
+Disallow: /license.txt
+Disallow: /readme.html
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+
+Disallow: /?rest_route=
+Disallow: /?rest_route=/
+Disallow: /page/*/?s=
+Disallow: /*/?s=
+Disallow: /?s=
+Disallow: ?s=
+Disallow: /?listing_cpt=
+Disallow: ?listing_cpt=
+Disallow: */*/feed/*/
+Disallow: */feed
+Disallow: /*?*
+
+Allow: /wp-content/uploads/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://prague.eu/sitemap_index.xml
+Sitemap: https://prague.eu/post-sitemap.xml
+Sitemap: https://prague.eu/page-sitemap.xml
+Sitemap: https://prague.eu/product-sitemap.xml
+Sitemap: https://prague.eu/place-sitemap.xml
+Sitemap: https://prague.eu/place-sitemap2.xml
+Sitemap: https://prague.eu/accomodation-sitemap.xml
+Sitemap: https://prague.eu/event-sitemap.xml
+Sitemap: https://prague.eu/product_cat-sitemap.xml
+Sitemap: https://prague.eu/place_categories-sitemap.xml
+Sitemap: https://prague.eu/accomodation_categories-sitemap.xml
+Sitemap: https://prague.eu/event_categories-sitemap.xml

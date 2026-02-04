@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp/wp-admin/
+Allow: /wp/wp-admin/admin-ajax.php
+
+Disallow: /?s=
+Disallow: /search/
+Disallow: /ricetta/*/feed/
+Disallow: /*?replytocom
+
+Sitemap: https://www.tavolartegusto.it/sitemap_index.xml
+Sitemap: https://www.tavolartegusto.it/pro-sitemaps.xml
+Sitemap: https://www.tavolartegusto.it/pro-sitemaps_images.xml
+Sitemap: https://www.tavolartegusto.it/pro-sitemaps_video.xml

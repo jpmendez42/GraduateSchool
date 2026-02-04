@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /css/
+Disallow: */api_answer_exercise
+Disallow: */vote_quiz
+Disallow: */vote_survey

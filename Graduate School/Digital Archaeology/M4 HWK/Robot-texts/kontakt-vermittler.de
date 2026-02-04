@@ -1,0 +1,40 @@
+User-agent: *
+Allow: /
+Disallow: /api
+Disallow: /wp-admin
+Disallow: /wp-content
+Disallow: /wp-includes
+Disallow: /wp-json
+Disallow: /undefined
+
+User-agent: AhrefsBot
+Crawl-delay: 120
+
+User-agent: ia_archiver
+Disallow: /
+User-agent: ahrefsbot
+Disallow: /
+User-agent: amazonbot
+Disallow: /
+User-agent: bitsightbot
+Disallow: /
+User-agent: blexbot
+Disallow: /
+User-agent: bytespider
+Disallow: /
+User-agent: claudebot
+Disallow: /
+User-agent: go-http-client
+Disallow: /
+User-agent: gptbot
+Disallow: /
+User-agent: imagesiftbot
+Disallow: /
+User-agent: mj12bot
+Disallow: /
+User-agent: semrushbot
+Disallow: /
+User-agent: timpibot
+Disallow: /
+
+Sitemap: https://www.kontakt-vermittler.de/sitemap.xml

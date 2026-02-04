@@ -1,0 +1,18 @@
+# For all robots
+User-agent: *
+Allow: /on/demandware.static/
+
+# Block access to specific groups of pages
+Disallow: /on/demandware.store/
+Disallow: */account
+Disallow: */account/*
+Disallow: */checkout
+Disallow: */cart
+Disallow: /search?q=*
+
+Noindex: */cart
+Noindex: */wishlist
+Noindex: */login
+
+# Allow search crawlers to discover the sitemap
+Sitemap: https://www.skechers.in/sitemap_index.xml

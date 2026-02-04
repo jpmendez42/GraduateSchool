@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /*.pdf$
+Disallow: /cdn-cgi/
+
+User-agent: ia_archiver
+Disallow: /
+
+Sitemap: https://www.oekotest.de/sitemap_index.xml
+Sitemap: https://www.oekotest.de/post-sitemap.xml
+Sitemap: https://www.oekotest.de/news-sitemap.xml

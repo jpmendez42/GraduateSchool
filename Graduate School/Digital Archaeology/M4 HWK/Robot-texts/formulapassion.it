@@ -1,0 +1,104 @@
+    User-agent: *
+    Disallow: /wp-admin/
+    Allow: /wp-admin/admin-ajax.php
+    Disallow: /tag/
+    Disallow: /*?s=*
+
+    User-agent: 360Spider
+    Disallow:/
+    User-agent: 404checker
+    Disallow:/
+    User-agent: 404enemy
+    Disallow:/
+    User-agent: 80legs
+    Disallow:/
+    User-agent: Abonti
+    Disallow:/
+    User-agent: Aboundex
+    Disallow:/
+    User-agent: Aboundexbot
+    Disallow:/
+    User-agent: Acunetix
+    Disallow:/
+    User-agent: ADmantX
+    Disallow:/
+    User-agent: AfD-Verbotsverfahren
+    Disallow:/
+    User-agent: AhrefsBot
+    Disallow:/
+    User-agent: AIBOT
+    Disallow:/
+    User-agent: AiHitBot
+    Disallow:/
+    User-agent: Aipbot
+    Disallow:/
+    User-agent: Alexibot
+    Disallow:/
+    User-agent: Alligator
+    Disallow:/
+    User-agent: AllSubmitter
+    Disallow:/
+    User-agent: AlphaBot
+    Disallow:/
+    User-agent: Anarchie
+    Disallow:/
+    User-agent: Apexoo
+    Disallow:/
+    User-agent: archive.org_bot
+    Disallow:/
+    User-agent: ASPSeek
+    Disallow:/
+    User-agent: Asterias
+    Disallow:/
+    User-agent: Attach
+    Disallow:/
+    User-agent: autoemailspider
+    Disallow:/
+    User-agent: BackDoorBot
+    Disallow:/
+    User-agent: Backlink-Ceck
+    Disallow:/
+    User-agent: backlink-check
+    Disallow:/
+    User-agent: BacklinkCrawler
+    Disallow:/
+    User-agent: BackStreet
+    Disallow:/
+    User-agent: BackWeb
+    Disallow:/
+    User-agent: Badass
+    Disallow:/
+    User-agent: Bandit
+    Disallow:/
+    User-agent: Barkrowler
+    Disallow:/
+    User-agent: BatchFTP
+    Disallow:/
+    User-agent: Battleztar Bazinga
+    Disallow:/
+    User-agent: BBBike
+    Disallow:/
+    User-agent: BDCbot
+    Disallow:/
+    User-agent: BDFetch
+    Disallow:/
+    User-agent: BetaBot
+    Disallow:/
+    User-agent: Bigfoot
+    Disallow:/
+    User-agent: Bitacle
+    Disallow:/
+    User-agent: Blackboard
+    Disallow:/
+    User-agent: Black Hole
+    Disallow:/
+    User-agent: BlackWidow
+    Disallow:/
+    User-agent: BLEXBot
+    Disallow:/
+    User-agent: Blow
+    Disallow:/
+    User-agent: BlowFish
+    Disallow:/
+
+    Sitemap: https://www.formulapassion.it/sitemap_index.xml

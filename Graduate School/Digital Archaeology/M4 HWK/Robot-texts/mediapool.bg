@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /users/
+Disallow: /news/print_p/
+Disallow: /forum/
+Disallow: /polls/view/users/
+Disallow: /captcha.php
+
+Sitemap: https://www.mediapool.bg/sitemap.xml

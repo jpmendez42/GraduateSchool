@@ -1,0 +1,9 @@
+User-agent: *
+User-agent: Googlebot-News
+Disallow:
+Disallow: /admin
+Disallow: /cdn-cgi/
+Allow: /tyrsene
+
+Sitemap: https://www.marica.bg/storage/google-news-sitemap.xml
+Sitemap: https://www.marica.bg/storage/sitemap/index-sitemap.xml

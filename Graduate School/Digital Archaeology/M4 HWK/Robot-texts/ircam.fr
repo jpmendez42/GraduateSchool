@@ -1,0 +1,543 @@
+<!doctype html>
+<html lang="fr">
+
+
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <title>Accueil | Ircam</title>
+    
+        
+<meta property="og:url"                content="https://www.ircam.fr/" />
+<meta property="og:title"              content="Ircam" />
+<meta property="og:description"        content="Institut de Recherche et de Coordination Acoustique et Musique" />
+<meta property="og:image"              content="https://www.ircam.fr/static/src/assets/img/ircam_card_facebook.jpg" />
+
+    
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="/static//img/favicons/apple-touch-icon-152x152-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="/static//img/favicons/apple-touch-icon-120x120-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="/static//img/favicons/apple-touch-icon-76x76-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="/static//img/favicons/apple-touch-icon-60x60-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/static//img/favicons/apple-touch-icon-144x144-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static//img/favicons/apple-touch-icon-114x114-precomposed.png">
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static//img/favicons/apple-touch-icon-72x72-precomposed.png">
+	<link rel="apple-touch-icon" sizes="57x57" href="/static//img/favicons/apple-touch-icon.png">
+	<link rel="shortcut icon" href="/static//img/favicons/favicon.ico">
+	<link rel="icon" type="image/png" sizes="96x96" href="/static//img/favicons/favicon-96x96.png">
+
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,700,900,300italic|Oswald:400,300,700' rel='stylesheet' type='text/css'>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDqF2kIHtUASr67QP-1bXRd6FPELDS4FSs&libraries=geometry"></script>
+
+    
+    <link rel="stylesheet" href="/static//vendors/font-awesome/css/font-awesome.css">
+    <link rel="stylesheet" href="/static//vendors/lightslider/dist/css/lightslider.css">
+    <link rel="stylesheet" href="/static//vendors/lightgallery/dist/css/lightgallery.css">
+    <link rel="stylesheet" href="/static//vendors/pushy/css/pushy.css">
+    <link rel="stylesheet" href="/static//vendors/video.js/dist/video-js.css">
+    <link rel="stylesheet" href="/static//css/index.min.css?v=682">
+    
+
+    
+</head>
+
+<body id="body" class="
+    home
+">
+
+    <div class="pushy pushy-left"><div class="sidebar"><ul class="nav-header" role="navigation"><li class="nav-header__item menu-btn"><div><span class="first"></span><span class="second"></span></div></li><li class="main-logo nav-header__item nav-header__item--image"><a href="/" title="Accueil"><img src="/static/img/logo_ircam_noir.svg" title="logo ircam" width="180" /></a></li><li class="nav-header__item"><a class="nav-header__item-link" href="/recherche" title="Recherche">Recherche</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Depuis sa création en 1977, l’Ircam a pour mission fondamentale de susciter une interaction féconde entre recherche scientifique, développement technologique et création musicale contemporaine. Cette articulation constitue le principal axe structurant de l’ensemble de ses activités. L’un des enjeux majeurs est de contribuer, par les apports des sciences et techniques, au renouvellement de l’expression musicale.…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/axes-de-recherche" title="Axes de recherche">Axes de recherche</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/lunite-mixte-de-recherche-stms" title="L&#x27;unité mixte de recherche STMS">L&#x27;unité mixte de recherche STMS</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/equipes-recherche" title="Équipes de recherche">Équipes de recherche</a><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/systemes-et-signaux-sonores-audioacoustique-instruments-s3am" title="Systèmes et signaux sonores : Audio/acoustique, instruments">Systèmes et signaux sonores : Audio/acoustique, instruments</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/eac" title="Espaces acoustiques et cognitifs">Espaces acoustiques et cognitifs</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/pds" title="Perception et design sonores">Perception et design sonores</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/anasyn" title="Analyse et synthèse des sons">Analyse et synthèse des sons</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/ismm" title="Interaction son musique mouvement">Interaction son musique mouvement</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/repmus" title="Représentations musicales">Représentations musicales</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/apm" title="Analyse des pratiques musicales">Analyse des pratiques musicales</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/projets" title="Projets">Projets</a><li class="nav-header__item-sub"><a class="" href="/recherche/projets/latelier-du-son" title="L&#x27;atelier du son">L&#x27;atelier du son</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/le-corps-musicien" title="Le corps musicien">Le corps musicien</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/les-dynamiques-creatives" title="Les dynamiques créatives">Les dynamiques créatives</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/projets-termines" title="Projets terminés">Projets terminés</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/creation" title="Création">Création</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    L'Ircam est un centre de recherche internationalement reconnu dont l'activit&eacute; est consacr&eacute;e &agrave; la cr&eacute;ation de nouvelles technologies pour la musique et le son. L'institut offre un environnement exp&eacute;rimental unique permettant aux artistes d'enrichir leur exp&eacute;rience sonore via les concepts d&eacute;velopp&eacute;s et exprim&eacute;s gr&acirc;ce aux nouvelles technologies.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/compositeurs-et-artistes-en-studio" title="Compositeurs et artistes en studio">Compositeurs et artistes en studio</a><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sivan-eldar-en-studio" title="Sivan Eldar en studio">Sivan Eldar en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/mauro-lanza-en-studio" title="Mauro Lanza en studio">Mauro Lanza en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/chloe-thevenin-en-studio" title="Chloé Thévenin en studio">Chloé Thévenin en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/oren-boneh-en-studio" title="Oren Boneh en studio">Oren Boneh en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/tristan-murail-en-studio" title="Tristan Murail en studio">Tristan Murail en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/martin-matalon-en-studio" title="Martin Matalon en studio">Martin Matalon en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sebastien-gaxie-en-studio" title="Sébastien Gaxie en studio">Sébastien Gaxie en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/murcof-en-studio" title="Murcof en studio">Murcof en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/vimala-pons-en-studio" title="Vimala Pons en studio">Vimala Pons en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/lucie-antunes-en-studio" title="Lucie Antunes en studio">Lucie Antunes en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/deena-abdelwahed-en-studio" title="Deena Abdelwahed en studio">Deena Abdelwahed en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/musiques-fictions" title="Musiques-Fictions">Musiques-Fictions</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/residence-en-recherche-artistique" title="Résidence en recherche artistique">Résidence en recherche artistique</a><li class="nav-header__item-sub"><a class="" href="/creation/residence-en-recherche-artistique/le-blog-des-residences" title="Le blog des résidences artistiques">Le blog des résidences artistiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/rendez-vous-2021" title="Programmation 25.26">Programmation 25.26</a><li class="nav-header__item-sub"><a class="" href="/agenda/" title="2025-2026">2025-2026</a></li><li class="nav-header__item-sub"><a class="" href="https://www.youtube.com/playlist?list=PL6MqWe5aRuODq8DXO08cgY8hB1UCCaYiw" title="Replay de nos concerts">Replay de nos concerts</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/saisons-de-1996-a-aujourdhui" title="Saisons de 1996 à aujourd’hui">Saisons de 1996 à aujourd’hui</a></li><li class="nav-header__item-sub"><a class="" href="https://manifeste.ircam.fr/" title="Site du festival ManiFeste-2025">Site du festival ManiFeste-2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/le-festival-manifeste" title="Le festival ManiFeste de 2012 à 2025">Le festival ManiFeste de 2012 à 2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/letincelle-le-journal-de-la-creation" title="L’Étincelle, le journal de la création">L’Étincelle, le journal de la création</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/transmission" title="Transmission">Transmission</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au service des missions de recherche et de cr&eacute;ation de l&rsquo;Ircam, la transmission cherche &agrave; &eacute;clairer le sens actuel et en devenir des interactions entre arts, sciences et technologie, mais aussi &agrave; partager ses mod&egrave;les de connaissance, ses savoir-faire et ses innovations vers un public le plus large possible.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/formations-professionnelles" title="Formations professionnelles">Formations professionnelles</a><li class="nav-header__item-sub"><a class="" href="/agenda/tag/stages-logiciels" title="Stages logiciels 2025.26">Stages logiciels 2025.26</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/max-max4live" title="Max, Max for Live">Max, Max for Live</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/openmusic" title="Composition assistée par ordinateur">Composition assistée par ordinateur</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/asap-partiels" title="ASAP &amp; Partiels">ASAP &amp; Partiels</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/spatialisation-sonore" title="Spatialisation sonore">Spatialisation sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/interagir-composer-et-improviser-avec-des-agents-generatifs" title="Création d&#x27;environnements interactifs">Création d&#x27;environnements interactifs</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/informations-pratiques" title="Informations pratiques">Informations pratiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/enseignement-superieur" title="Enseignement supérieur">Enseignement supérieur</a><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/cursus" title="Cursus de composition et d&#x27;informatique musicale">Cursus de composition et d&#x27;informatique musicale</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-scientifique-atiam" title="Master scientifique Atiam">Master scientifique Atiam</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-design-sonore" title="DNSEP Design sonore">DNSEP Design sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/parcours-musique-mixte" title="Parcours musique mixte">Parcours musique mixte</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/mastere-aimove" title="Mastère AIMove">Mastère AIMove</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/decouvrir-la-recherche-a-lircam" title="Découvrir la recherche à l’Ircam">Découvrir la recherche à l’Ircam</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/actions-culturelles" title="Actions culturelles">Actions culturelles</a><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles" title="Médiations culturelles au collège">Médiations culturelles au collège</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles-au-lycee" title="Médiations culturelles au lycée">Médiations culturelles au lycée</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/ateliers-numeriques" title="Ateliers numériques">Ateliers numériques</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/tact" title="TACT">TACT</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-pedagogiques/images-dune-oeuvre" title="Les films « Images d&#x27;une œuvre »">Les films « Images d&#x27;une œuvre »</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/visites-groupes" title="Visites et ateliers">Visites et ateliers</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/manifeste/academie" title="L&#x27;académie du festival ManiFeste-2026">L&#x27;académie du festival ManiFeste-2026</a><li class="nav-header__item-sub"><a class="" href="/transmission/manifeste/academie/in-situ-composer-pour-des-films-de-danse" title="In Situ Composer pour des films de danse">In Situ Composer pour des films de danse</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/innovations" title="Innovations">Innovations</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au c&oelig;ur d&rsquo;enjeux soci&eacute;taux et &eacute;conomiques croisant culture et technologies de l&rsquo;information, les recherches accueillies &agrave; l&rsquo;Ircam se pr&eacute;sentent dans le paysage international de la recherche comme p&ocirc;le de r&eacute;f&eacute;rence interdisciplinaire autour des sciences et technologies du son et de la musique et s&rsquo;exposent en permanence aux nouveaux be…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/le-forum" title="Le Forum Ircam">Le Forum Ircam</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/abonnements-et-logiciels" title="Les logiciels">Les logiciels</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/ircam-amplify" title="Ircam Amplify">Ircam Amplify</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/processus-dinnovation-art-science-technologie" title="Processus d’innovation art-science-technologie">Processus d’innovation art-science-technologie</a><li class="nav-header__item-sub"><a class="" href="/innovations/processus-dinnovation-art-science-technologie/forum-vertigo" title="Forum Vertigo">Forum Vertigo</a></li></li></ul></div></div></div></li><li class="nav-header__item nav-header__item--image"><a href="/agenda" title="Programmation"><img width="83" height="65" src="/media/uploads/events/saison 2025-2026/thumbs/logo_saison2526.png/logo_saison2526-166x130.png" /></a></li><li class="nav-header__item nav-header__item--image"><a href="https://manifeste.ircam.fr/" target="_blank" title="ManiFeste"><img width="83" height="65" src="/media/uploads/images/logo/thumbs/festivalmflogo24.png/festivalmflogo24-166x130.png" /></a></li><li class="nav-header__item nav-header__item--special nav-header__item--centered"><a href="#" class="fsxl" data-open-button="search" data-search-button><i class="fa fa-search" aria-hidden="true"></i></a></li></ul><ul class="nav-actions nav-en-text"><li class="nav-actions__item "><a class="nav-actions__item-link" href="/lircam">L&#x27;Ircam</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/talents-carrieres">Carrières &amp; offres d&#x27;emplois</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/candidacies">Appels à candidatures</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/etre-informe">Newsletter</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/venir-a-lircam">Venir à l&#x27;Ircam</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="https://ressources.ircam.fr/">Pôle documentaire</a></li><!--<li class="nav-actions__item"></li>--></ul><ul class="sidebar__menu"><li class="sidebar__menu-item"><a href="/article/list" title="Actualité">Actualité</a><!-- 
+
+
+
+ --></li><!-- <li class="sidebar__menu-item"><a href="/playlists/list/" title="Medias">Medias</a></li> --></ul><div class="sidebar__login_language"><ul class="profil-menu profilSelector "><li class="profil-menu__item active"><a href="/admin/login/?next=/" id='serverLogin'>login</a></li></ul><ul class="lang-switcher" id="langSelectorMobile"><li class="lang-switcher__item active"><a href="#">
+                          Fr
+                        </a></li><li class="lang-switcher__item"><a href="#" data-lang="en">
+                          En
+                        </a></li></ul></div></div></div><div class="site-overlay"></div><div class="header push"><div class="header__pre"><div class="container"><div class="row"><div class="col-sm-10 col-md-9 col-md-push-1 tac"><ul class="nav-actions nav-en-text"><li class="nav-actions__item "><a class="nav-actions__item-link" href="/lircam">L&#x27;Ircam</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/talents-carrieres">Carrières &amp; offres d&#x27;emplois</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/candidacies">Appels à candidatures</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/etre-informe">Newsletter</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="/venir-a-lircam">Venir à l&#x27;Ircam</a></li><li class="nav-actions__item "><a class="nav-actions__item-link" href="https://ressources.ircam.fr/">Pôle documentaire</a></li><!--<li class="nav-actions__item"></li>--></ul></div><div class="col-sm-1 col-md-1 col-md-push-1 tar"><div style="display: none;"><form action="/i18n/" method="post" id="language_selector_form" hidden="true"><input type="hidden" name="csrfmiddlewaretoken" value="5wTXtSSnVDqusFjyEeHV36Iva0oMEeCnSBqnhKqvornG5UgsvWZxGHtQKMIKlpwE"><div class="select"><select name="language" class="form-control" id="language_selector_select"><option value="fr"
+          selected="selected">
+          français
+          </option><option value="en"
+          >
+          English
+          </option></select></div><input type="submit" class="btn btn-default" value="Modifier" /></form></div><p class="lang-switcher" id="langSelector"><span class="lang-switcher__item active"><a  href="#" data-lang="fr">
+                  Fr
+                </a></span><span class="lang-switcher_language_separator">|</span><span class="lang-switcher__item "><a class="link_active" href="#" data-lang="en">
+                  En
+                </a></span></p></div><div class="col-sm-1 col-md-1 col-md-push-1 tar"><ul class="profil-menu profilSelector "><li class="profil-menu__item active"><a href="/admin/login/?next=/" id='serverLogin'>login</a></li></ul></div></div></div></div><div class="container"><div class="row header__nav"><div class="col-md-12 tac"><div id="navHeader"><ul class="nav-header yellow_bar" role="navigation"><li class="nav-header__item menu-btn"><div><span class="first"></span><span class="second"></span></div></li><li class="main-logo nav-header__item nav-header__item--image"><a href="/" title="Accueil"><img src="/static/img/logo_ircam_noir.svg" title="logo ircam" width="180" /></a></li><li class="nav-header__item"><a class="nav-header__item-link" href="/recherche" title="Recherche">Recherche</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Depuis sa création en 1977, l’Ircam a pour mission fondamentale de susciter une interaction féconde entre recherche scientifique, développement technologique et création musicale contemporaine. Cette articulation constitue le principal axe structurant de l’ensemble de ses activités. L’un des enjeux majeurs est de contribuer, par les apports des sciences et techniques, au renouvellement de l’expression musicale.…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/axes-de-recherche" title="Axes de recherche">Axes de recherche</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/lunite-mixte-de-recherche-stms" title="L&#x27;unité mixte de recherche STMS">L&#x27;unité mixte de recherche STMS</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/equipes-recherche" title="Équipes de recherche">Équipes de recherche</a><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/systemes-et-signaux-sonores-audioacoustique-instruments-s3am" title="Systèmes et signaux sonores : Audio/acoustique, instruments">Systèmes et signaux sonores : Audio/acoustique, instruments</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/eac" title="Espaces acoustiques et cognitifs">Espaces acoustiques et cognitifs</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/pds" title="Perception et design sonores">Perception et design sonores</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/anasyn" title="Analyse et synthèse des sons">Analyse et synthèse des sons</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/ismm" title="Interaction son musique mouvement">Interaction son musique mouvement</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/repmus" title="Représentations musicales">Représentations musicales</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/apm" title="Analyse des pratiques musicales">Analyse des pratiques musicales</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/projets" title="Projets">Projets</a><li class="nav-header__item-sub"><a class="" href="/recherche/projets/latelier-du-son" title="L&#x27;atelier du son">L&#x27;atelier du son</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/le-corps-musicien" title="Le corps musicien">Le corps musicien</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/les-dynamiques-creatives" title="Les dynamiques créatives">Les dynamiques créatives</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/projets-termines" title="Projets terminés">Projets terminés</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/creation" title="Création">Création</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    L'Ircam est un centre de recherche internationalement reconnu dont l'activit&eacute; est consacr&eacute;e &agrave; la cr&eacute;ation de nouvelles technologies pour la musique et le son. L'institut offre un environnement exp&eacute;rimental unique permettant aux artistes d'enrichir leur exp&eacute;rience sonore via les concepts d&eacute;velopp&eacute;s et exprim&eacute;s gr&acirc;ce aux nouvelles technologies.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/compositeurs-et-artistes-en-studio" title="Compositeurs et artistes en studio">Compositeurs et artistes en studio</a><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sivan-eldar-en-studio" title="Sivan Eldar en studio">Sivan Eldar en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/mauro-lanza-en-studio" title="Mauro Lanza en studio">Mauro Lanza en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/chloe-thevenin-en-studio" title="Chloé Thévenin en studio">Chloé Thévenin en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/oren-boneh-en-studio" title="Oren Boneh en studio">Oren Boneh en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/tristan-murail-en-studio" title="Tristan Murail en studio">Tristan Murail en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/martin-matalon-en-studio" title="Martin Matalon en studio">Martin Matalon en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sebastien-gaxie-en-studio" title="Sébastien Gaxie en studio">Sébastien Gaxie en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/murcof-en-studio" title="Murcof en studio">Murcof en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/vimala-pons-en-studio" title="Vimala Pons en studio">Vimala Pons en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/lucie-antunes-en-studio" title="Lucie Antunes en studio">Lucie Antunes en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/deena-abdelwahed-en-studio" title="Deena Abdelwahed en studio">Deena Abdelwahed en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/musiques-fictions" title="Musiques-Fictions">Musiques-Fictions</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/residence-en-recherche-artistique" title="Résidence en recherche artistique">Résidence en recherche artistique</a><li class="nav-header__item-sub"><a class="" href="/creation/residence-en-recherche-artistique/le-blog-des-residences" title="Le blog des résidences artistiques">Le blog des résidences artistiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/rendez-vous-2021" title="Programmation 25.26">Programmation 25.26</a><li class="nav-header__item-sub"><a class="" href="/agenda/" title="2025-2026">2025-2026</a></li><li class="nav-header__item-sub"><a class="" href="https://www.youtube.com/playlist?list=PL6MqWe5aRuODq8DXO08cgY8hB1UCCaYiw" title="Replay de nos concerts">Replay de nos concerts</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/saisons-de-1996-a-aujourdhui" title="Saisons de 1996 à aujourd’hui">Saisons de 1996 à aujourd’hui</a></li><li class="nav-header__item-sub"><a class="" href="https://manifeste.ircam.fr/" title="Site du festival ManiFeste-2025">Site du festival ManiFeste-2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/le-festival-manifeste" title="Le festival ManiFeste de 2012 à 2025">Le festival ManiFeste de 2012 à 2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/letincelle-le-journal-de-la-creation" title="L’Étincelle, le journal de la création">L’Étincelle, le journal de la création</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/transmission" title="Transmission">Transmission</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au service des missions de recherche et de cr&eacute;ation de l&rsquo;Ircam, la transmission cherche &agrave; &eacute;clairer le sens actuel et en devenir des interactions entre arts, sciences et technologie, mais aussi &agrave; partager ses mod&egrave;les de connaissance, ses savoir-faire et ses innovations vers un public le plus large possible.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/formations-professionnelles" title="Formations professionnelles">Formations professionnelles</a><li class="nav-header__item-sub"><a class="" href="/agenda/tag/stages-logiciels" title="Stages logiciels 2025.26">Stages logiciels 2025.26</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/max-max4live" title="Max, Max for Live">Max, Max for Live</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/openmusic" title="Composition assistée par ordinateur">Composition assistée par ordinateur</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/asap-partiels" title="ASAP &amp; Partiels">ASAP &amp; Partiels</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/spatialisation-sonore" title="Spatialisation sonore">Spatialisation sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/interagir-composer-et-improviser-avec-des-agents-generatifs" title="Création d&#x27;environnements interactifs">Création d&#x27;environnements interactifs</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/informations-pratiques" title="Informations pratiques">Informations pratiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/enseignement-superieur" title="Enseignement supérieur">Enseignement supérieur</a><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/cursus" title="Cursus de composition et d&#x27;informatique musicale">Cursus de composition et d&#x27;informatique musicale</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-scientifique-atiam" title="Master scientifique Atiam">Master scientifique Atiam</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-design-sonore" title="DNSEP Design sonore">DNSEP Design sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/parcours-musique-mixte" title="Parcours musique mixte">Parcours musique mixte</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/mastere-aimove" title="Mastère AIMove">Mastère AIMove</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/decouvrir-la-recherche-a-lircam" title="Découvrir la recherche à l’Ircam">Découvrir la recherche à l’Ircam</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/actions-culturelles" title="Actions culturelles">Actions culturelles</a><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles" title="Médiations culturelles au collège">Médiations culturelles au collège</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles-au-lycee" title="Médiations culturelles au lycée">Médiations culturelles au lycée</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/ateliers-numeriques" title="Ateliers numériques">Ateliers numériques</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/tact" title="TACT">TACT</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-pedagogiques/images-dune-oeuvre" title="Les films « Images d&#x27;une œuvre »">Les films « Images d&#x27;une œuvre »</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/visites-groupes" title="Visites et ateliers">Visites et ateliers</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/manifeste/academie" title="L&#x27;académie du festival ManiFeste-2026">L&#x27;académie du festival ManiFeste-2026</a><li class="nav-header__item-sub"><a class="" href="/transmission/manifeste/academie/in-situ-composer-pour-des-films-de-danse" title="In Situ Composer pour des films de danse">In Situ Composer pour des films de danse</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/innovations" title="Innovations">Innovations</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au c&oelig;ur d&rsquo;enjeux soci&eacute;taux et &eacute;conomiques croisant culture et technologies de l&rsquo;information, les recherches accueillies &agrave; l&rsquo;Ircam se pr&eacute;sentent dans le paysage international de la recherche comme p&ocirc;le de r&eacute;f&eacute;rence interdisciplinaire autour des sciences et technologies du son et de la musique et s&rsquo;exposent en permanence aux nouveaux be…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/le-forum" title="Le Forum Ircam">Le Forum Ircam</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/abonnements-et-logiciels" title="Les logiciels">Les logiciels</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/ircam-amplify" title="Ircam Amplify">Ircam Amplify</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/processus-dinnovation-art-science-technologie" title="Processus d’innovation art-science-technologie">Processus d’innovation art-science-technologie</a><li class="nav-header__item-sub"><a class="" href="/innovations/processus-dinnovation-art-science-technologie/forum-vertigo" title="Forum Vertigo">Forum Vertigo</a></li></li></ul></div></div></div></li><li class="nav-header__item nav-header__item--image"><a href="/agenda" title="Programmation"><img width="83" height="65" src="/media/uploads/events/saison 2025-2026/thumbs/logo_saison2526.png/logo_saison2526-166x130.png" /></a></li><li class="nav-header__item nav-header__item--image"><a href="https://manifeste.ircam.fr/" target="_blank" title="ManiFeste"><img width="83" height="65" src="/media/uploads/images/logo/thumbs/festivalmflogo24.png/festivalmflogo24-166x130.png" /></a></li><li class="nav-header__item nav-header__item--special nav-header__item--centered"><a href="#" class="fsxl" data-open-button="search" data-search-button><i class="fa fa-search" aria-hidden="true"></i></a></li></ul></div></div></div></div></div><div id="container"><main class="main" role="main"><div class="home-mobile-nav"><ul class="nav-header yellow_bar" role="navigation"><li class="nav-header__item menu-btn"><div><span class="first"></span><span class="second"></span></div></li><li class="main-logo nav-header__item nav-header__item--image"><a href="/" title="Accueil"><img src="/static/img/logo_ircam_noir.svg" title="logo ircam" width="180" /></a></li><li class="nav-header__item"><a class="nav-header__item-link" href="/recherche" title="Recherche">Recherche</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Depuis sa création en 1977, l’Ircam a pour mission fondamentale de susciter une interaction féconde entre recherche scientifique, développement technologique et création musicale contemporaine. Cette articulation constitue le principal axe structurant de l’ensemble de ses activités. L’un des enjeux majeurs est de contribuer, par les apports des sciences et techniques, au renouvellement de l’expression musicale.…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/axes-de-recherche" title="Axes de recherche">Axes de recherche</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/lunite-mixte-de-recherche-stms" title="L&#x27;unité mixte de recherche STMS">L&#x27;unité mixte de recherche STMS</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/equipes-recherche" title="Équipes de recherche">Équipes de recherche</a><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/systemes-et-signaux-sonores-audioacoustique-instruments-s3am" title="Systèmes et signaux sonores : Audio/acoustique, instruments">Systèmes et signaux sonores : Audio/acoustique, instruments</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/eac" title="Espaces acoustiques et cognitifs">Espaces acoustiques et cognitifs</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/pds" title="Perception et design sonores">Perception et design sonores</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/anasyn" title="Analyse et synthèse des sons">Analyse et synthèse des sons</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/ismm" title="Interaction son musique mouvement">Interaction son musique mouvement</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/repmus" title="Représentations musicales">Représentations musicales</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/apm" title="Analyse des pratiques musicales">Analyse des pratiques musicales</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/projets" title="Projets">Projets</a><li class="nav-header__item-sub"><a class="" href="/recherche/projets/latelier-du-son" title="L&#x27;atelier du son">L&#x27;atelier du son</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/le-corps-musicien" title="Le corps musicien">Le corps musicien</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/les-dynamiques-creatives" title="Les dynamiques créatives">Les dynamiques créatives</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/projets-termines" title="Projets terminés">Projets terminés</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/creation" title="Création">Création</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    L'Ircam est un centre de recherche internationalement reconnu dont l'activit&eacute; est consacr&eacute;e &agrave; la cr&eacute;ation de nouvelles technologies pour la musique et le son. L'institut offre un environnement exp&eacute;rimental unique permettant aux artistes d'enrichir leur exp&eacute;rience sonore via les concepts d&eacute;velopp&eacute;s et exprim&eacute;s gr&acirc;ce aux nouvelles technologies.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/compositeurs-et-artistes-en-studio" title="Compositeurs et artistes en studio">Compositeurs et artistes en studio</a><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sivan-eldar-en-studio" title="Sivan Eldar en studio">Sivan Eldar en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/mauro-lanza-en-studio" title="Mauro Lanza en studio">Mauro Lanza en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/chloe-thevenin-en-studio" title="Chloé Thévenin en studio">Chloé Thévenin en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/oren-boneh-en-studio" title="Oren Boneh en studio">Oren Boneh en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/tristan-murail-en-studio" title="Tristan Murail en studio">Tristan Murail en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/martin-matalon-en-studio" title="Martin Matalon en studio">Martin Matalon en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sebastien-gaxie-en-studio" title="Sébastien Gaxie en studio">Sébastien Gaxie en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/murcof-en-studio" title="Murcof en studio">Murcof en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/vimala-pons-en-studio" title="Vimala Pons en studio">Vimala Pons en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/lucie-antunes-en-studio" title="Lucie Antunes en studio">Lucie Antunes en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/deena-abdelwahed-en-studio" title="Deena Abdelwahed en studio">Deena Abdelwahed en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/musiques-fictions" title="Musiques-Fictions">Musiques-Fictions</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/residence-en-recherche-artistique" title="Résidence en recherche artistique">Résidence en recherche artistique</a><li class="nav-header__item-sub"><a class="" href="/creation/residence-en-recherche-artistique/le-blog-des-residences" title="Le blog des résidences artistiques">Le blog des résidences artistiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/rendez-vous-2021" title="Programmation 25.26">Programmation 25.26</a><li class="nav-header__item-sub"><a class="" href="/agenda/" title="2025-2026">2025-2026</a></li><li class="nav-header__item-sub"><a class="" href="https://www.youtube.com/playlist?list=PL6MqWe5aRuODq8DXO08cgY8hB1UCCaYiw" title="Replay de nos concerts">Replay de nos concerts</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/saisons-de-1996-a-aujourdhui" title="Saisons de 1996 à aujourd’hui">Saisons de 1996 à aujourd’hui</a></li><li class="nav-header__item-sub"><a class="" href="https://manifeste.ircam.fr/" title="Site du festival ManiFeste-2025">Site du festival ManiFeste-2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/le-festival-manifeste" title="Le festival ManiFeste de 2012 à 2025">Le festival ManiFeste de 2012 à 2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/letincelle-le-journal-de-la-creation" title="L’Étincelle, le journal de la création">L’Étincelle, le journal de la création</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/transmission" title="Transmission">Transmission</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au service des missions de recherche et de cr&eacute;ation de l&rsquo;Ircam, la transmission cherche &agrave; &eacute;clairer le sens actuel et en devenir des interactions entre arts, sciences et technologie, mais aussi &agrave; partager ses mod&egrave;les de connaissance, ses savoir-faire et ses innovations vers un public le plus large possible.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/formations-professionnelles" title="Formations professionnelles">Formations professionnelles</a><li class="nav-header__item-sub"><a class="" href="/agenda/tag/stages-logiciels" title="Stages logiciels 2025.26">Stages logiciels 2025.26</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/max-max4live" title="Max, Max for Live">Max, Max for Live</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/openmusic" title="Composition assistée par ordinateur">Composition assistée par ordinateur</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/asap-partiels" title="ASAP &amp; Partiels">ASAP &amp; Partiels</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/spatialisation-sonore" title="Spatialisation sonore">Spatialisation sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/interagir-composer-et-improviser-avec-des-agents-generatifs" title="Création d&#x27;environnements interactifs">Création d&#x27;environnements interactifs</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/informations-pratiques" title="Informations pratiques">Informations pratiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/enseignement-superieur" title="Enseignement supérieur">Enseignement supérieur</a><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/cursus" title="Cursus de composition et d&#x27;informatique musicale">Cursus de composition et d&#x27;informatique musicale</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-scientifique-atiam" title="Master scientifique Atiam">Master scientifique Atiam</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-design-sonore" title="DNSEP Design sonore">DNSEP Design sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/parcours-musique-mixte" title="Parcours musique mixte">Parcours musique mixte</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/mastere-aimove" title="Mastère AIMove">Mastère AIMove</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/decouvrir-la-recherche-a-lircam" title="Découvrir la recherche à l’Ircam">Découvrir la recherche à l’Ircam</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/actions-culturelles" title="Actions culturelles">Actions culturelles</a><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles" title="Médiations culturelles au collège">Médiations culturelles au collège</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles-au-lycee" title="Médiations culturelles au lycée">Médiations culturelles au lycée</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/ateliers-numeriques" title="Ateliers numériques">Ateliers numériques</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/tact" title="TACT">TACT</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-pedagogiques/images-dune-oeuvre" title="Les films « Images d&#x27;une œuvre »">Les films « Images d&#x27;une œuvre »</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/visites-groupes" title="Visites et ateliers">Visites et ateliers</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/manifeste/academie" title="L&#x27;académie du festival ManiFeste-2026">L&#x27;académie du festival ManiFeste-2026</a><li class="nav-header__item-sub"><a class="" href="/transmission/manifeste/academie/in-situ-composer-pour-des-films-de-danse" title="In Situ Composer pour des films de danse">In Situ Composer pour des films de danse</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/innovations" title="Innovations">Innovations</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au c&oelig;ur d&rsquo;enjeux soci&eacute;taux et &eacute;conomiques croisant culture et technologies de l&rsquo;information, les recherches accueillies &agrave; l&rsquo;Ircam se pr&eacute;sentent dans le paysage international de la recherche comme p&ocirc;le de r&eacute;f&eacute;rence interdisciplinaire autour des sciences et technologies du son et de la musique et s&rsquo;exposent en permanence aux nouveaux be…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/le-forum" title="Le Forum Ircam">Le Forum Ircam</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/abonnements-et-logiciels" title="Les logiciels">Les logiciels</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/ircam-amplify" title="Ircam Amplify">Ircam Amplify</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/processus-dinnovation-art-science-technologie" title="Processus d’innovation art-science-technologie">Processus d’innovation art-science-technologie</a><li class="nav-header__item-sub"><a class="" href="/innovations/processus-dinnovation-art-science-technologie/forum-vertigo" title="Forum Vertigo">Forum Vertigo</a></li></li></ul></div></div></div></li><li class="nav-header__item nav-header__item--image"><a href="/agenda" title="Programmation"><img width="83" height="65" src="/media/uploads/events/saison 2025-2026/thumbs/logo_saison2526.png/logo_saison2526-166x130.png" /></a></li><li class="nav-header__item nav-header__item--image"><a href="https://manifeste.ircam.fr/" target="_blank" title="ManiFeste"><img width="83" height="65" src="/media/uploads/images/logo/thumbs/festivalmflogo24.png/festivalmflogo24-166x130.png" /></a></li><li class="nav-header__item nav-header__item--special nav-header__item--centered"><a href="#" class="fsxl" data-open-button="search" data-search-button><i class="fa fa-search" aria-hidden="true"></i></a></li></ul></div><div class="slider-home"><ul data-slider-home><li class="slider-home__slide" style="background-image: url('/media/uploads/events/manifeste 2025/CYCLOP/thumbs/card-expo-cyclop.jpg/card-expo-cyclop-1440x760.jpg');"><div class="slider-home__wrapper"><div class="container"><div class="row"><div class="col-xs-12 col-sm-11 col-sm-push-1"><a class="article-box article-box--inline" href="/agenda/le-pari-de-l-oeuvre-jean-tinguely/detail" title="Le pari de l&#x27;œuvre de Jean Tinguely : Le Cyclop"><div class="tag dashed">
+                                                              Création
+                                                            </div><div class="tag tag--category">
+                                                            Rencontre
+                                                        </div><div class="article-box__content tal"><h3 class="article-box__title">Le pari de l&#x27;œuvre de Jean Tinguely : Le Cyclop</h3><div class="article-box__subtitle"><!-- Start date only  --><!-- Start and end date is the same day  -->
+        
+            
+                jeu 9 octobre 2025,<br><!-- Start date with hour  -->
+                
+                    19h00
+                
+            
+        <!-- Start and end date are the same month  --><br />Ircam
+                                                        
+                                                    </div><div class="article-box__desc">
+                                                        avec Camille Morineau et Yann Brécy
+                                                    </div></div></a></div></div></div></div></li><li class="slider-home__slide" style="background-image: url('/media/uploads/events/saison 2025-2026/paxton-illean-saunders/thumbs/slider-paxton-illean-saunders.jpg/slider-paxton-illean-saunders-1440x760.jpg');"><div class="slider-home__wrapper"><div class="container"><div class="row"><div class="col-xs-12 col-sm-11 col-sm-push-1"><a class="article-box article-box--inline" href="/agenda/rebecca-saunders-alex-paxton-lisa-illean/detail" title="Rebecca Saunders, Alex Paxton, Lisa Illean"><div class="tag dashed">
+                                                              Création
+                                                            </div><div class="tag tag--category">
+                                                            Concert
+                                                        </div><div class="article-box__content tal"><h3 class="article-box__title">Rebecca Saunders, Alex Paxton, Lisa Illean</h3><div class="article-box__subtitle"><br /><!-- Start date only  --><!-- Start and end date is the same day  -->
+        
+            
+                jeu 16 octobre 2025,<br><!-- Start date with hour  -->
+                
+                    20h00
+                
+            
+        <!-- Start and end date are the same month  --><br />Ircam
+                                                        
+                                                    </div><div class="article-box__desc">
+                                                        avec l'Ensemble Nikel
+                                                    </div></div></a></div></div></div></div></li><li class="slider-home__slide" style="background-image: url('/media/uploads/events/saison 2025-2026/jamais-nous-ne-serons-sep/thumbs/jamais-nous-ne-serons-sep-2.jpg/jamais-nous-ne-serons-sep-2-1440x760.jpg');"><div class="slider-home__wrapper"><div class="container"><div class="row"><div class="col-xs-12 col-sm-11 col-sm-push-1"><a class="article-box article-box--inline" href="/agenda/et-jamais-nous-ne-serons-separes/detail" title="Et jamais nous ne serons séparés"><div class="tag dashed">
+                                                              Création
+                                                            </div><div class="tag tag--category">
+                                                            Spectacle
+                                                        </div><div class="article-box__content tal"><h3 class="article-box__title">Et jamais nous ne serons séparés</h3><div class="article-box__subtitle"><!-- Start date only  --><!-- Start and end date is the same day  -->
+        
+            ven 19 septembre au lun 13 octobre 2025,<br><!-- Start date with hour  -->
+            
+                20h00
+            
+        
+
+    
+
+
+                                                            
+                                                        
+                                                        
+                                                             <br />T2G - Théâtre de Gennevilliers
+                                                        
+                                                    </div><div class="article-box__desc">
+                                                        Mis en scène par Daniel Jeanneteau et Mammar Benranou
+                                                    </div></div></a></div></div></div></div></li></ul><div class="slider-home__pager"><div class="container"><div class="row"><div class="col-xs-12 col-sm-11 col-sm-push-1"><ul class=""><li class="active"><a href="#"></a></li><li class=""><a href="#"></a></li><li class=""><a href="#"></a></li></ul></div></div></div></div></div><div class="slider-home--mobile"><ul><a  href="/agenda/le-pari-de-l-oeuvre-jean-tinguely/detail"
+  
+        
+    
+    title="
+    Le pari de l&#x27;œuvre de Jean Tinguely : Le Cyclop
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/events/saison 2025-2026/pari-de-loeuvre/thumbs/pari-oeuvre-cyclop.jpeg/pari-oeuvre-cyclop-427x286-1x0.5.jpeg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+                Rencontre
+            </div><div class="tag tag--small dashed dashed--small">
+                  Création
+                </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Le pari de l&#x27;œuvre de Jean Tinguely : Le Cyclop
+            
+
+        </h3><div class="article-box__subtitle"><strong>
+        
+
+
+
+    
+        jeudi 9 octobre 2025
+    
+
+
+    </strong><br />Ircam
+    
+
+        </div><div class="article-box__desc">
+            
+    
+                avec Camille Morineau et Yann Brécy
+            
+
+        </div></div></a><a  href="/agenda/rebecca-saunders-alex-paxton-lisa-illean/detail"
+  
+        
+    
+    title="
+    Rebecca Saunders, Alex Paxton, Lisa Illean
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/events/saison 2025-2026/paxton-illean-saunders/thumbs/card-paxton-illean-saunders.jpg/card-paxton-illean-saunders-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+                Concert
+            </div><div class="tag tag--small dashed dashed--small">
+                  Création
+                </div></div><div class="article-box__btn"><object><a href="https://ircam-billetterie.mapado.com/event/581729-rebecca-saunders-alex-paxton-lisa-illean" class="button button--small mr0" target="_blank">Réserver</a></object></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Rebecca Saunders, Alex Paxton, Lisa Illean
+            
+
+        </h3><div class="article-box__subtitle"><strong>
+        
+
+
+
+    
+        jeudi 16 octobre 2025
+    
+
+
+    </strong><br />Ircam
+    
+
+        </div><div class="article-box__desc">
+            
+    
+                avec l'Ensemble Nikel
+            
+
+        </div></div></a><a  href="/agenda/et-jamais-nous-ne-serons-separes/detail"
+  
+        
+    
+    title="
+    Et jamais nous ne serons séparés
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/events/saison 2025-2026/jamais-nous-ne-serons-sep/thumbs/jamais-nous-ne-serons-sep-1.jpg/jamais-nous-ne-serons-sep-1-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+                Spectacle
+            </div><div class="tag tag--small dashed dashed--small">
+                  Création
+                </div></div><div class="article-box__btn"><object><a href="https://theatredegennevilliers.fr/la-saison/programmation/et-jamais-nous-ne-serons-separes" class="button button--small mr0" target="_blank">Réserver</a></object></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Et jamais nous ne serons séparés
+            
+
+        </h3><div class="article-box__subtitle"><strong>
+        
+
+
+
+    
+        19 septembre au 13 octobre 2025
+    
+
+
+    </strong><br />T2G - Théâtre de Gennevilliers
+    
+
+        </div><div class="article-box__desc">
+            
+    
+                Mis en scène par Daniel Jeanneteau et Mammar Benranou
+            
+
+        </div></div></a></ul><hr class="mt0 mb0" style="margin-bottom:3em"/></div><div class="container home__magazine"><div class="row"><div class="col-xs-8 col-md-9 col-xxs-12"><h2>.Magazine</h2></div><div class="col-xs-4 col-md-3 col-xxs-12 mt1"><a class="button pull-right mr0" href="/article/list">+&nbsp;tous les articles</a></div></div></div><div class="container"><div class="row"><div class="col-xs-4"><a  href="/article/culture-relax-a-lircam"
+  
+    
+        
+    
+
+    title="
+    Culture Relax à l&#x27;Ircam
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/culture-relax/thumbs/article-culturerelax.png/article-culturerelax-427x286-1x0.5.png" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Création
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Culture Relax à l&#x27;Ircam
+            
+
+        </h3><div class="article-box__subtitle"><strong>Article</strong></div><div class="article-box__desc">
+            
+    
+                L’Ircam s’engage pour une culture plus inclusive en déployant, pour la première fois, le dispositif Culture Relax dans ses murs. Découvrez les dates des séances Relax ici !
+            
+
+        </div></div></a></div><div class="col-xs-4"><a  href="/article/documentaire-janus-le-troisieme-monde"
+  
+    
+        
+    
+
+    title="
+    Documentaire Janus : le troisième monde
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/janus/thumbs/documentaire.png/documentaire-427x286-1x0.5.png" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Transmission
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Documentaire Janus : le troisième monde
+            
+
+        </h3><div class="article-box__subtitle"><strong>Média</strong></div><div class="article-box__desc">
+            
+    
+                L’Ircam et le Centre de musique baroque de Versailles se sont associés pour initier un programme original croisant valorisation du patrimoine et vitalité de la création. Quatre jeunes compositrices e…
+            
+
+        </div></div></a></div><div class="col-xs-4"><a  href="/article/130-avec-vincent-martos-doctorant"
+  
+    
+        
+    
+
+    title="
+    1&#x27;30 avec Vincent Martos, doctorant
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/serie-1-30/thumbs/1mn30_martos_cardwww.jpg/1mn30_martos_cardwww-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Recherche
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                1&#x27;30 avec Vincent Martos, doctorant
+            
+
+        </h3><div class="article-box__subtitle"><strong>Média</strong></div><div class="article-box__desc">
+            
+    
+                Vincent Martos, doctorant, nous présente sa thèse de doctorat : « Contrôle actif des cuivres : le cas du trombone » réalisée sein de l'équipe Systèmes et signaux sonores : Audio/acoustique, instrumen…
+            
+
+        </div></div></a></div><div class="col-xs-4"><a  href="/article/parution-discographique-like-flesh-de-sivan-eldar"
+  
+    
+        
+    
+
+    title="
+    Parution discographique : Like Flesh de Sivan Eldar
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/parution-CD/thumbs/card-cd-likeflesh.jpg/card-cd-likeflesh-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Création
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Parution discographique : Like Flesh de Sivan Eldar
+            
+
+        </h3><div class="article-box__subtitle"><strong>Article</strong></div><div class="article-box__desc">
+            
+    
+                Sivan Eldar compose avec Like Flesh, son premier opéra sur un livret de Cordelia Lynn, une fresque poétique inspirée des Métamorphoses d’Ovide. Un opéra capté sur le vif en janvier 2022 à l'Opéra de …
+            
+
+        </div></div></a></div><div class="col-xs-4"><a  href="/article/podcast-victor-hugo-fait-son-manifeste"
+  
+    
+        
+    
+
+    title="
+    Podcast : Victor Hugo fait son manifeste
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/podcast-AC/thumbs/visuel-podcastac.jpg/visuel-podcastac-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Transmission
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Podcast : Victor Hugo fait son manifeste
+            
+
+        </h3><div class="article-box__subtitle"><strong>Média</strong></div><div class="article-box__desc">
+            
+    
+                À la découverte des coulisses du festival ManiFeste ! Micro en main, les élèves du collège Victor Hugo partagent leur rencontre avec l'Ircam, en 5 épisodes.
+            
+
+        </div></div></a></div><div class="col-xs-4"><a target="_blank" href="https://www.ircam.fr/article/list/boulez-2025"
+  
+    
+        
+    
+
+    title="
+    Dossier « Boulez 2025 »
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2024/docs-annee-boulez/thumbs/dossier-boulez.jpg/dossier-boulez-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Création
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Dossier « Boulez 2025 »
+            
+
+        </h3><div class="article-box__subtitle"><strong>Dossier</strong></div><div class="article-box__desc">
+            
+    
+                Retrouvez l'ensemble des articles publiés à l'occasion de l'année du Centenaire Boulez (1925-2016) : articles, témoignages exclusifs, extraits audio, chronologie...
+            
+
+        </div></div></a></div><div class="col-xs-4"><a  href="/article/parution-de-louvrage-lart-au-temps-de-lia-generer-critiquer-creer"
+  
+    
+        
+    
+
+    title="
+    Parution de l&#x27;ouvrage « L’art au temps de l’IA. Générer, critiquer, créer »
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/parution-ouvrage/thumbs/couverture-ouvrage-ia.jpg/couverture-ouvrage-ia-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Recherche
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Parution de l&#x27;ouvrage « L’art au temps de l’IA. Générer, critiquer, créer »
+            
+
+        </h3><div class="article-box__subtitle"><strong>Article</strong></div><div class="article-box__desc">
+            
+    
+                Au-delà de la génération automatique à la demande, quelles potentialités nouvelles offre l’IA dans les pratiques créatives ? Artistes, chercheurs et commissaires d’exposition éclairent les modes les …
+            
+
+        </div></div></a></div><div class="col-xs-4"><a  href="/article/carmine-emanuele-cella-professeur-senior-su-nouveau-directeur-de-la-recherche-musicale-a-lircam"
+  
+    
+        
+    
+
+    title="
+    Carmine Emanuele Cella, nouveau directeur de la Recherche musicale à l&#x27;Ircam
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/nomination-cella/thumbs/carmine.jpg/carmine-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Création
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                Carmine Emanuele Cella, nouveau directeur de la Recherche musicale à l&#x27;Ircam
+            
+
+        </h3><div class="article-box__subtitle"><strong>Article</strong></div><div class="article-box__desc">
+            
+    
+                Depuis janvier, l’Ircam a un nouveau directeur de la Recherche musicale. Reprenant le flambeau à Markus Noisternig, devenu directeur adjoint du laboratoire STMS, Carmine Emanuele Cella semblait être …
+            
+
+        </div></div></a></div><div class="col-xs-4"><a  href="/article/lircam-apporte-sa-collaboration-artistique-au-pavillon-france-de-lexposition-universelle-osaka-2025"
+  
+    
+        
+    
+
+    title="
+    L’Ircam apporte sa collaboration artistique au Pavillon France de l’exposition universelle Osaka 2025
+"><div class="article-box__header article-box__image_container"><figure class="article-box__image"><img src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-original="/media/uploads/magazine/2025/osaka/thumbs/osaka-card.jpg/osaka-card-427x286-1x0.5.jpg" class="lazyload" /></figure><div class="article-box__tags"><div class="tag tag--small tag--category">
+            Actualité
+        </div><div class="tag tag--small dashed dashed--gray dashed--small">
+              Création
+            </div></div></div><div class="article-box__content tal"><h3 class="article-box__title">
+            
+    
+                L’Ircam apporte sa collaboration artistique au Pavillon France de l’exposition universelle Osaka 2025
+            
+
+        </h3><div class="article-box__subtitle"><strong>Article</strong></div><div class="article-box__desc">
+            
+    
+                Dans le cadre de l’exposition universelle Osaka 2025 qui se tient du 13 avril au 13 octobre 2025 au Japon, l'Ircam a orchestré la création d'une œuvre audiovisuelle commandée par le groupe AXA, grand…
+            
+
+        </div></div></a></div></div></div><div class="container home__magazine__bottom"><div class="row"><div class="col-xs-3 col-xxs-12 mt0"><a class="button pull-right mr0" href="/article/list">+&nbsp;tous les articles</a></div></div></div><div class="home-mobile-subnav"><hr class="mb0 mt4" /><ul class="nav-header yellow_bar" role="navigation"><li class="nav-header__item menu-btn"><div><span class="first"></span><span class="second"></span></div></li><li class="main-logo nav-header__item nav-header__item--image"><a href="/" title="Accueil"><img src="/static/img/logo_ircam_noir.svg" title="logo ircam" width="180" /></a></li><li class="nav-header__item"><a class="nav-header__item-link" href="/recherche" title="Recherche">Recherche</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Depuis sa création en 1977, l’Ircam a pour mission fondamentale de susciter une interaction féconde entre recherche scientifique, développement technologique et création musicale contemporaine. Cette articulation constitue le principal axe structurant de l’ensemble de ses activités. L’un des enjeux majeurs est de contribuer, par les apports des sciences et techniques, au renouvellement de l’expression musicale.…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/axes-de-recherche" title="Axes de recherche">Axes de recherche</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/lunite-mixte-de-recherche-stms" title="L&#x27;unité mixte de recherche STMS">L&#x27;unité mixte de recherche STMS</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/equipes-recherche" title="Équipes de recherche">Équipes de recherche</a><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/systemes-et-signaux-sonores-audioacoustique-instruments-s3am" title="Systèmes et signaux sonores : Audio/acoustique, instruments">Systèmes et signaux sonores : Audio/acoustique, instruments</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/eac" title="Espaces acoustiques et cognitifs">Espaces acoustiques et cognitifs</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/pds" title="Perception et design sonores">Perception et design sonores</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/anasyn" title="Analyse et synthèse des sons">Analyse et synthèse des sons</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/ismm" title="Interaction son musique mouvement">Interaction son musique mouvement</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/repmus" title="Représentations musicales">Représentations musicales</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/equipes-recherche/apm" title="Analyse des pratiques musicales">Analyse des pratiques musicales</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/recherche/projets" title="Projets">Projets</a><li class="nav-header__item-sub"><a class="" href="/recherche/projets/latelier-du-son" title="L&#x27;atelier du son">L&#x27;atelier du son</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/le-corps-musicien" title="Le corps musicien">Le corps musicien</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/les-dynamiques-creatives" title="Les dynamiques créatives">Les dynamiques créatives</a></li><li class="nav-header__item-sub"><a class="" href="/recherche/projets/projets-termines" title="Projets terminés">Projets terminés</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/creation" title="Création">Création</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    L'Ircam est un centre de recherche internationalement reconnu dont l'activit&eacute; est consacr&eacute;e &agrave; la cr&eacute;ation de nouvelles technologies pour la musique et le son. L'institut offre un environnement exp&eacute;rimental unique permettant aux artistes d'enrichir leur exp&eacute;rience sonore via les concepts d&eacute;velopp&eacute;s et exprim&eacute;s gr&acirc;ce aux nouvelles technologies.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/compositeurs-et-artistes-en-studio" title="Compositeurs et artistes en studio">Compositeurs et artistes en studio</a><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sivan-eldar-en-studio" title="Sivan Eldar en studio">Sivan Eldar en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/mauro-lanza-en-studio" title="Mauro Lanza en studio">Mauro Lanza en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/chloe-thevenin-en-studio" title="Chloé Thévenin en studio">Chloé Thévenin en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/oren-boneh-en-studio" title="Oren Boneh en studio">Oren Boneh en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/tristan-murail-en-studio" title="Tristan Murail en studio">Tristan Murail en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/martin-matalon-en-studio" title="Martin Matalon en studio">Martin Matalon en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/sebastien-gaxie-en-studio" title="Sébastien Gaxie en studio">Sébastien Gaxie en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/murcof-en-studio" title="Murcof en studio">Murcof en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/vimala-pons-en-studio" title="Vimala Pons en studio">Vimala Pons en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/lucie-antunes-en-studio" title="Lucie Antunes en studio">Lucie Antunes en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/deena-abdelwahed-en-studio" title="Deena Abdelwahed en studio">Deena Abdelwahed en studio</a></li><li class="nav-header__item-sub"><a class="" href="/creation/compositeurs-et-artistes-en-studio/musiques-fictions" title="Musiques-Fictions">Musiques-Fictions</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/residence-en-recherche-artistique" title="Résidence en recherche artistique">Résidence en recherche artistique</a><li class="nav-header__item-sub"><a class="" href="/creation/residence-en-recherche-artistique/le-blog-des-residences" title="Le blog des résidences artistiques">Le blog des résidences artistiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/creation/rendez-vous-2021" title="Programmation 25.26">Programmation 25.26</a><li class="nav-header__item-sub"><a class="" href="/agenda/" title="2025-2026">2025-2026</a></li><li class="nav-header__item-sub"><a class="" href="https://www.youtube.com/playlist?list=PL6MqWe5aRuODq8DXO08cgY8hB1UCCaYiw" title="Replay de nos concerts">Replay de nos concerts</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/saisons-de-1996-a-aujourdhui" title="Saisons de 1996 à aujourd’hui">Saisons de 1996 à aujourd’hui</a></li><li class="nav-header__item-sub"><a class="" href="https://manifeste.ircam.fr/" title="Site du festival ManiFeste-2025">Site du festival ManiFeste-2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/le-festival-manifeste" title="Le festival ManiFeste de 2012 à 2025">Le festival ManiFeste de 2012 à 2025</a></li><li class="nav-header__item-sub"><a class="" href="/creation/rendez-vous-2021/letincelle-le-journal-de-la-creation" title="L’Étincelle, le journal de la création">L’Étincelle, le journal de la création</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/transmission" title="Transmission">Transmission</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au service des missions de recherche et de cr&eacute;ation de l&rsquo;Ircam, la transmission cherche &agrave; &eacute;clairer le sens actuel et en devenir des interactions entre arts, sciences et technologie, mais aussi &agrave; partager ses mod&egrave;les de connaissance, ses savoir-faire et ses innovations vers un public le plus large possible.
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/formations-professionnelles" title="Formations professionnelles">Formations professionnelles</a><li class="nav-header__item-sub"><a class="" href="/agenda/tag/stages-logiciels" title="Stages logiciels 2025.26">Stages logiciels 2025.26</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/max-max4live" title="Max, Max for Live">Max, Max for Live</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/openmusic" title="Composition assistée par ordinateur">Composition assistée par ordinateur</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/asap-partiels" title="ASAP &amp; Partiels">ASAP &amp; Partiels</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/spatialisation-sonore" title="Spatialisation sonore">Spatialisation sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/interagir-composer-et-improviser-avec-des-agents-generatifs" title="Création d&#x27;environnements interactifs">Création d&#x27;environnements interactifs</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-professionnelles/informations-pratiques" title="Informations pratiques">Informations pratiques</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/enseignement-superieur" title="Enseignement supérieur">Enseignement supérieur</a><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/cursus" title="Cursus de composition et d&#x27;informatique musicale">Cursus de composition et d&#x27;informatique musicale</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-scientifique-atiam" title="Master scientifique Atiam">Master scientifique Atiam</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/master-design-sonore" title="DNSEP Design sonore">DNSEP Design sonore</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/parcours-musique-mixte" title="Parcours musique mixte">Parcours musique mixte</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/formations-superieures/mastere-aimove" title="Mastère AIMove">Mastère AIMove</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/enseignement-superieur/decouvrir-la-recherche-a-lircam" title="Découvrir la recherche à l’Ircam">Découvrir la recherche à l’Ircam</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/actions-culturelles" title="Actions culturelles">Actions culturelles</a><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles" title="Médiations culturelles au collège">Médiations culturelles au collège</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/mediations-culturelles-au-lycee" title="Médiations culturelles au lycée">Médiations culturelles au lycée</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/ateliers-numeriques" title="Ateliers numériques">Ateliers numériques</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/tact" title="TACT">TACT</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-pedagogiques/images-dune-oeuvre" title="Les films « Images d&#x27;une œuvre »">Les films « Images d&#x27;une œuvre »</a></li><li class="nav-header__item-sub"><a class="" href="/transmission/actions-culturelles/visites-groupes" title="Visites et ateliers">Visites et ateliers</a></li></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/transmission/manifeste/academie" title="L&#x27;académie du festival ManiFeste-2026">L&#x27;académie du festival ManiFeste-2026</a><li class="nav-header__item-sub"><a class="" href="/transmission/manifeste/academie/in-situ-composer-pour-des-films-de-danse" title="In Situ Composer pour des films de danse">In Situ Composer pour des films de danse</a></li></li></ul></div></div></div></li><li class="nav-header__item"><a class="nav-header__item-link" href="/innovations" title="Innovations">Innovations</a><div class="nav-header__submenu_wrapper"><div class="nav-header__submenu"><div class="row"><div class="col-md-12"><p>
+                    Au c&oelig;ur d&rsquo;enjeux soci&eacute;taux et &eacute;conomiques croisant culture et technologies de l&rsquo;information, les recherches accueillies &agrave; l&rsquo;Ircam se pr&eacute;sentent dans le paysage international de la recherche comme p&ocirc;le de r&eacute;f&eacute;rence interdisciplinaire autour des sciences et technologies du son et de la musique et s&rsquo;exposent en permanence aux nouveaux be…
+                </p></div></div><div class="row"><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/le-forum" title="Le Forum Ircam">Le Forum Ircam</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/abonnements-et-logiciels" title="Les logiciels">Les logiciels</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/ircam-amplify" title="Ircam Amplify">Ircam Amplify</a></li></ul><ul class="unstyled-list col-sm-3 col-md-3"><li class="nav-header__item-sub nav-header__item-sub--first"><a class="" href="/innovations/processus-dinnovation-art-science-technologie" title="Processus d’innovation art-science-technologie">Processus d’innovation art-science-technologie</a><li class="nav-header__item-sub"><a class="" href="/innovations/processus-dinnovation-art-science-technologie/forum-vertigo" title="Forum Vertigo">Forum Vertigo</a></li></li></ul></div></div></div></li><li class="nav-header__item nav-header__item--image"><a href="/agenda" title="Programmation"><img width="83" height="65" src="/media/uploads/events/saison 2025-2026/thumbs/logo_saison2526.png/logo_saison2526-166x130.png" /></a></li><li class="nav-header__item nav-header__item--image"><a href="https://manifeste.ircam.fr/" target="_blank" title="ManiFeste"><img width="83" height="65" src="/media/uploads/images/logo/thumbs/festivalmflogo24.png/festivalmflogo24-166x130.png" /></a></li><li class="nav-header__item nav-header__item--special nav-header__item--centered"><a href="#" class="fsxl" data-open-button="search" data-search-button><i class="fa fa-search" aria-hidden="true"></i></a></li></ul></div><div class="page__block page__block--yellow"><div class="container"><div class="row"><div class="col-xs-12 col-md-12 col-lg-10 col-lg-push-1 ffss fsxl fwl lh2 fsl-until-sm "><strong>L'Ircam, Institut de Recherche et Coordination Acoustique/Musique</strong> est aujourd’hui l’un des plus grands centres de recherche publique au monde se consacrant à la création musicale et à la recherche scientifique. Lieu unique où convergent la prospective artistique et l’innovation scientifique et technologique, l’institut est dirigé par Frank Madlener, et réunit plus de cent soixante collaborateurs. Il héberge l'Unité mixte de recherche Sciences et technologies de la musique et du son (UMR9912 STMS Ircam - CNRS - Sorbonne Université).
+            </div></div></div></div><div class="container mb2"><div class="row"><div class="col-sm-6 col-xs-6"><a class="banner  banner--light" href="https://www.stms-lab.fr/" style="background-image:url(/media/uploads/images/services/card_stms.jpg);"><div class="banner__content"><div class="banner__title fsxxl">
+                Laboratoire STMS
+            </div><div class="banner__desc fss">
+                UMR Sciences et Technologies de la Musique et du Son
+            </div></div></a></div><div class="col-sm-6 col-xs-6"><a class="banner banner--colored banner--orange banner--light" href="http://ressources.ircam.fr/" style="background-image:url(/media/uploads/images/services/resources.jpg);"><div class="banner__content"><div class="banner__title fsxxl">
+                Pôle documentaire
+            </div><div class="banner__desc fss">
+                Le pôle documentaire regroupe le catalogue en ligne de la médiathèque, un accès aux bases documentaires et aux archives audiovisuelles de l’Ircam.
+            </div></div></a></div></div><div class="row"><div class="col-sm-6 col-xs-6"><a class="banner banner--colored banner--blue banner--light" href="https://forum.ircam.fr/" style="background-image:url(/media/uploads/images/services/forumnet.jpg);"><div class="banner__content"><div class="banner__title fsxxl">
+                le Forum de l&#x27;Ircam
+            </div><div class="banner__desc fss">
+                Communauté d'utilisateurs des logiciels Ircam
+            </div></div></a></div><div class="col-sm-3 col-xs-6"><a class="banner  banner--light" href="https://ircamamplify.com/" style="background-image:url(/media/uploads/images/services/card-ircam-amplify.jpg);"><div class="banner__content"><div class="banner__title fsxxl">
+                Ircam Amplify
+            </div><div class="banner__desc fss">
+                La filiale de l'Ircam au service des nouveaux usages
+            </div></div></a></div><div class="col-sm-3 col-xs-6"><a class="banner banner--colored banner--blue banner--light" href="http://project.ulysses-network.eu/" style="background-image:url(/media/uploads/images/services/image_ulysses_3.png);"><div class="banner__content"><div class="banner__title fsxxl">
+                ULYSSES
+            </div><div class="banner__desc fss">
+                Réseau européen pour la promotion et le soutien de la jeune création musicale contemporaine
+            </div></div></a></div></div></div></main><footer class="footer" role="footer"><div class="footer__pre"><div class="container"><div class="row"><div class="col-sm-11 tar-sm tal-xs"><a class="footer__follow-link facebook" href="https://www.facebook.com/iIRCAM/" target="_blank" title="Suivez-nous sur Facebok"><i class="fa fa-facebook-square"></i></a><a class="footer__follow-link twitter" href="https://twitter.com/ircam" target="_blank" title="Suivez-nous sur Twitter"><i class="fa fa-twitter-square"></i></a><a class="footer__follow-link instagram" href="https://www.instagram.com/ircam_paris/" target="_blank" title="Suivez-nous sur instagram"><i class="fa fa-instagram"></i></a><a class="footer__follow-link youtube" href="https://www.youtube.com/user/Ircam75" target="_blank" title="Suivez-nous sur Youtube"><i class="fa fa-youtube-square"></i></a><a class="footer__follow-link linkedin" href="https://www.linkedin.com/company/ircam/" target="_blank" title="Suivez-nous sur LinkedIn"><i class="fa fa-linkedin-square"></i></a></div></div></div></div><div class="footer__content"><div class="container"><div class="row"><div class="col-xs-3 col-sm-4 col-sm-push-1 tal"><a href="/" title="Accueil"><img src="/media/uploads/images/logo/logoircam_blanc.png" title="logo footer" width="250" /></a></div><div class="col-xs-3 col-sm-2 col-sm-push-1 tar-sm tal fsm"><strong>Ircam</strong><br /><br />
+                1, place Igor-Stravinsky<br />
+                75004 Paris<br />
+                T. +33 1 44 78 48 43
+            </div><div class="col-xs-3 col-sm-2 col-sm-push-1 tar-sm tal fsm"><strong>Horaires d'ouverture</strong><br /><br />
+                du lundi au vendredi
+de 9h30 à 19h
+fermé le samedi et le dimanche
+            </div><div class="col-xs-3 col-sm-2 col-sm-push-1 tar-sm tal fsm"><strong>Accès en transports</strong><br /><br />
+                Hôtel de Ville, Rambuteau, Châtelet, Les Halles
+            </div></div><div class="row"><div class="col-sm-10 col-sm-push-1"><div class="footer__separator"></div></div></div><div class="row"><div class="col-xs-4 col-sm-3 col-sm-push-1 tal"><ul class="nav-footer" role="navigation"></li></li></li></li></li></li></li></li></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/job-offer" title="Offres d&#x27;emplois &amp; stages">Offres d&#x27;emplois &amp; stages</a></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/venir-a-lircam" title="Accessibilité">Accessibilité</a></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/redirect/lircam/lequipe-ircam/" title="L&#x27;équipe Ircam">L&#x27;équipe Ircam</a></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/partenaires" title="Partenaires">Partenaires</a></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/soutenez-lircam" title="Soutenir l&#x27;Ircam">Soutenir l&#x27;Ircam</a></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul></div><div class="col-xs-4 col-sm-5 col-sm-push-1 tal"><strong>Institut de Recherche et de Coordination Acoustique/Musique</strong><br/ ><br /><a href="http://www.culturecommunication.gouv.fr/" target="_blank" title="Ministère de la Culture"><img class="footer__partner" src="/media/uploads/logos recherche/ministere_culture.png" title="Logo Footer" width="60" height="72" /></a></div><div class="col-xs-4 col-sm-2 col-sm-push-1 tal">
+                Aller vers :
+                
+                    
+<ul class="unstyled-list"><li><a class="footer__link" href="" target="_blank" title=""></a></li><li><a class="footer__link" href="https://www.centrepompidou.fr/" target="_blank" title="Centre Pompidou">Centre Pompidou </a></li></ul></div></div><div class="row"><div class="col-sm-10 col-sm-push-1"><div class="footer__separator footer__seprator--small"></div></div></div><div class="row"><div class="col-xxs-12 col-xs-8 col-sm-7 col-sm-push-1"><ul class="nav-footer nav-footer--horizontal" role="navigation"></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/cgv" title="Conditions générales de vente">Conditions générales de vente</a></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/mentions-legales" title="Mentions légales">Mentions légales</a></li><li class="nav-footer__item "><a class="nav-footer__item-link" href="/accounts/login" title="Espace Pro">Espace Pro</a></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></li></ul></div><div class="col-xxs-12 col-xs-4 col-sm-3 col-sm-push-1 tar-xs tal-xxs">
+                Copyright &copy; 2025 Ircam. All rights reserved.
+            </div></div></div></div></footer></div><div class="search" id="search" data-open-button-target="search" data-close-button-target="search" data-close-escape><div class="search__close"><a href="#" data-close-button="search" aria-hidden="true"><i class="fa fa-close"></i></a></div><div class="search__container"><div class="search__content"><div class="container"><div class="row"><div class="col-md-10"><form action="/search/" role="search" class="search-form"><input class="form-control" placeholder="Recherche" type="text" name="q" value=""><button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button></form></div></div></div></div></div></div><script type="text/javascript" src="https://cdn.jsdelivr.net/npm/cookie-bar/cookiebar-latest.min.js?theme=white&tracking=1&always=1&hideDetailsBtn=1&showPolicyLink=1&privacyPage=https%3A%2F%2Fwww.ircam.fr%2Fmentions-legales%2F"></script><script src="/static/vendor_forks/jquery/jquery.js"></script><script src="/static/vendor_forks/Overflow.js/js/overflow.js"></script><script src="/static/vendors/sticky-kit/jquery.sticky-kit.js"></script><script src="/static/vendor_forks/jquery-throttle-debounce/jquery.ba-throttle-debounce.js"></script><script src="/static/vendors/lightslider/dist/js/lightslider.js"></script><script src="/static/vendors/lightgallery/dist/js/lightgallery.js"></script><script src="/static/vendors/imagesloaded/imagesloaded.pkgd.js"></script><script src="/static/vendors/pushy/js/pushy.js"></script><script src="/static/vendors/video.js/dist/video.js"></script><script src="/static/vendors/videojs-playlist/dist/videojs-playlist.js"></script><script src="/static/vendor_forks/audiojs/audiojs/audio.js"></script><script src="/static/vendor_forks/jquery_lazyload/jquery.lazyload.js"></script><script src="/static/vendors/waypoints/lib/jquery.waypoints.js"></script><script src="/static/js/index.min.js?v=682"></script><script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-3416995-1', 'auto');
+ga('send', 'pageview');
+</script><!-- Matomo --><script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+  var u="https://stats.ircam.fr/";
+  _paq.push(['setTrackerUrl', u+'matomo.php']);
+  _paq.push(['setSiteId', '3']);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.async=true; g.src=u+'matomo.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script><!-- End Matomo Code --><img class="adnxs" src="https://secure.adnxs.com/seg?add=20921745&t=2" width="1" height="1" /><img class="adnxs" src="https://secure.adnxs.com/seg?add=20921744&t=2" width="1" height="1" /><!-- Global site tag (gtag.js) - Google Ads: 784495553 --><script async src="https://www.googletagmanager.com/gtag/js?id=AW-784495553"></script><script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'AW-784495553');
+    </script><script type="text/javascript">
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+    document.write('<img class="adnxs" src="https://ad.doubleclick.net/ddm/activity/src=9916055;type=invmedia;cat=ircam000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=' + a + '?" width="1" height="1" alt=""/>');
+    </script><noscript><img class="adnxs" src="https://ad.doubleclick.net/ddm/activity/src=9916055;type=invmedia;cat=ircam000;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?" width="1" height="1" alt=""/></noscript>
+</body>
+</html>

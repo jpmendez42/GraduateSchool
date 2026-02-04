@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /load
+Disallow: /konkurranser/
+Disallow: /artikler/*/utskrift
+Disallow: /widgets/
+Disallow: /mobile/
+Sitemap: https://www.tu.no/sitemap.xml

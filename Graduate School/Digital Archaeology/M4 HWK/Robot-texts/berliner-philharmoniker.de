@@ -1,0 +1,19 @@
+#bph-www
+User-agent: *
+Disallow: /cgi-bin/
+Disallow: /t3lib/
+Disallow: /tslib/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /typo3temp/Cache
+Disallow: /typo3temp/core-update
+Disallow: /typo3temp/locks
+Disallow: /typo3temp/pics
+Disallow: /typo3temp/compressor
+Disallow: /typo3temp/InstallToolSessions
+Disallow: /typo3temp/logs
+Disallow: /typo3temp/sprites
+Disallow: *.pdf
+
+Sitemap: https://www.berliner-philharmoniker.de/sitemap.xml
+Sitemap: https://www.berliner-philharmoniker.de/en/sitemap.xml

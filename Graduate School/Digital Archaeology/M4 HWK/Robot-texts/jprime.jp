@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.jprime.jp/sitemap.xml
+Sitemap: https://www.jprime.jp/list/feed/rss4googlenews
+Disallow:/search
+Disallow:/ud/pressrelease/
+Allow:/search?*keyword

@@ -1,0 +1,1 @@
+User-agent: *Sitemap: https://www.synchrone.be/sitemap.xmlDisallow: /fr/cgv

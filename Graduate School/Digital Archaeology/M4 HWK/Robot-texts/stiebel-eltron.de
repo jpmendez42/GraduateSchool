@@ -1,0 +1,64 @@
+# STIEBEL ELTRON
+
+# SISTRIX SEO Tool
+User-agent: SISTRIX Bot
+Disallow: */zubehoer.productgallery.*.html
+Disallow: */_jcr_content.mobile.html
+Disallow: */_jcr_content/
+Disallow: */jcr:content/
+Disallow: */*threesixty.html
+
+User-agent: *
+Disallow: */suchergebnis.html?*
+Disallow: /?*
+Disallow: *?*
+Allow: *?v=
+Allow: *snippet.html?page=*
+Disallow: /de/administration
+Disallow: /de/administration/*
+Disallow: */zubehoer.productgallery.*.html
+Disallow: *.pro.pdf
+
+# Andere Laender/Mandanten
+Disallow: /content/aeg/
+Disallow: /content/ste/at/
+Disallow: /content/ste/be/
+Disallow: /content/ste/ch/
+Disallow: /content/ste/com/
+Disallow: /content/ste/cz/
+Disallow: /content/ste/fi/
+Disallow: /content/ste/fr/
+Disallow: /content/ste/gb/
+Disallow: /content/ste/ie/
+Disallow: /content/ste/hu/
+Disallow: /content/ste/it/
+Disallow: /content/ste/in/
+Disallow: /content/ste/nl/
+Disallow: /content/ste/pl/
+Disallow: /content/ste/sk/
+Disallow: /content/ste/th/
+Disallow: /content/ste/vn/
+Disallow: /content/ste/za/
+Disallow: /content/tec/
+Disallow: /content/wae/
+
+#ETK
+Disallow: /EHT-Etk/
+Disallow: /EHT-Etk_mW/
+Disallow: /EHT-Etk_fr_BE/
+Disallow: /EHT-Etk_nl_BE/
+Disallow: /EHT-Etk_pl_PL/
+Disallow: /STE-Etk/
+Disallow: /STE-Etk_mW/
+Disallow: /STE-Etk_de_AT_mW/
+Disallow: /STE-Etk_en_RU/
+Disallow: /STE-Etk_fr_BE_mW/
+Disallow: /STE-Etk_nl_BE_mW/
+Disallow: /STE-Etk_nl_NL_mW/
+Disallow: /STE-Etk_pl_PL/
+Disallow: /TEC-Etk/
+Disallow: /TEC-Etk_mW/
+
+# Despictable and evil robots to keep out
+
+Sitemap: https://www.stiebel-eltron.de/sitemap.xml

@@ -1,0 +1,6 @@
+User-agent: *
+host: xiaomi.eu
+Disallow: /shop/
+Disallow: /community/account/dismiss-notice
+Disallow: /community/misc/quick-navigation-menu
+sitemap: https://xiaomi.eu/community/sitemap.php

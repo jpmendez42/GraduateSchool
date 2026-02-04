@@ -1,0 +1,38 @@
+# robots.txt for https://www.elevspel.se
+Sitemap: https://www.elevspel.se/sitemap-elevspel.xml
+Sitemap: https://www.elevspel.se/om/sitemap_index.xml
+
+User-agent: *
+Disallow: /go.php
+
+#User-agent: *
+#Disallow: /bilder/spel/
+
+# AI crawler bots
+User-agent: GPTBot
+Disallow: /
+User-agent: ChatGPT-User
+Disallow: /
+User-agent: Google-Extended
+Disallow: /
+User-agent: CCBot
+Disallow: /
+User-agent: PerplexityBot
+Disallow: /
+User-agent: anthropic-ai
+Disallow: /
+‍User-agent: Claude-Web
+Disallow: /
+User-agent: ClaudeBot
+Disallow: /
+User-agent: Amazonbot
+Disallow: /
+User-Agent: FacebookBot
+Disallow: /
+User-Agent: Applebot
+Disallow: /
+User-agent: YouBot
+Disallow: /
+
+User-agent: Tineye
+Disallow: /

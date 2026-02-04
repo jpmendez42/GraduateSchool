@@ -1,0 +1,119 @@
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-News
+Allow: /
+
+User-agent: Googlebot-Video
+Allow: /
+
+User-agent: Google-InspectionTool
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Bingbot
+Crawl-delay: 10
+Disallow: /admin/
+Disallow: /search/
+
+User-agent: YandexBot
+Crawl-delay: 15
+Disallow: /admin/
+Disallow: /search/
+
+User-agent: DuckDuckBot
+Crawl-delay: 10
+Disallow: /admin/
+Disallow: /search/
+
+User-agent: Baiduspider
+Crawl-delay: 20
+Disallow: /admin/
+Disallow: /search/
+
+User-agent: AhrefsBot
+Crawl-delay: 30
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: SemrushBot
+Crawl-delay: 30
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: MJ12bot
+Crawl-delay: 30
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: DotBot
+Crawl-delay: 30
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: facebookexternalhit
+Crawl-delay: 5
+Disallow: /admin/
+
+User-agent: Twitterbot
+Crawl-delay: 5
+Disallow: /admin/
+
+User-agent: LinkedInBot
+Crawl-delay: 5
+Disallow: /admin/
+
+User-agent: ia_archiver
+Crawl-delay: 60
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: Wayback
+Crawl-delay: 60
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: SeznamBot
+Crawl-delay: 60
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: MegaIndex
+Crawl-delay: 60
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: BLEXBot
+Crawl-delay: 60
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+User-agent: *
+Crawl-delay: 30
+Disallow: /admin/
+Disallow: /search/
+Disallow: /frontpages
+
+Sitemap: https://www.flash.gr/sitemap.xml
+
+
+
+
+

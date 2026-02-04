@@ -1,0 +1,44 @@
+User-agent: *
+
+Disallow: /technical-work*
+Disallow: /partner*
+Disallow: /today*
+Disallow: /*?utm_*
+Disallow: /*?keyword*
+Disallow: */print$
+Disallow: /preview*
+Disallow: /news/195402-dva-rukovoditelya-suvar-developmenta-ushli-ot-subsidiarnoy
+
+Sitemap: https://realnoevremya.ru/sitemap.xml
+Sitemap: https://realnoevremya.ru/sitemap-materials.xml
+Sitemap: https://realnoevremya.ru/sitemap-articles.xml
+Sitemap: https://realnoevremya.ru/sitemap-events.xml
+Sitemap: https://realnoevremya.ru/sitemap-galleries.xml
+Sitemap: https://realnoevremya.ru/sitemap-news.xml
+Sitemap: https://realnoevremya.ru/sitemap-stories.xml
+Sitemap: https://realnoevremya.ru/sitemap-articles-today.xml
+Sitemap: https://realnoevremya.ru/sitemap-news-today.xml
+Sitemap: https://realnoevremya.ru/sitemap-catalog.xml
+Sitemap: https://realnoevremya.ru/sitemap-search-words.xml
+Sitemap: https://realnoevremya.ru/sitemap-search-key.xml
+Sitemap: https://realnoevremya.ru/files/sitemap-search-stroy-1.xml
+Sitemap: https://realnoevremya.ru/files/sitemap-search-stroy-2.xml
+
+User-agent: Yandex
+Disallow: /*?keyword*
+Disallow: /*?utm_*
+Disallow: */amp$
+Disallow: /sitemap-articles.xml
+Disallow: /sitemap-events.xml
+Disallow: /sitemap-galleries.xml
+Disallow: /sitemap-news.xml
+Disallow: /sitemap-stories.xml
+Disallow: /sitemap-articles-today.xml
+Disallow: /sitemap-news-today.xml
+Disallow: /sitemap-catalog.xml
+Disallow: /partner*
+Disallow: /preview*
+Disallow: /today*
+Disallow: /news/195402-dva-rukovoditelya-suvar-developmenta-ushli-ot-subsidiarnoy
+Disallow: */print$
+Host: https://realnoevremya.ru

@@ -1,0 +1,16 @@
+# *
+User-agent: *
+Disallow: /_next/*
+Disallow: /data/
+Disallow: /foretak/
+Disallow: /mine-foretak/
+Disallow: /fil/
+Disallow: /filer/
+Disallow: /f/
+Disallow: /api/v1/
+Disallow: /api/v2/
+Disallow: /faktura/
+
+
+# Sitemaps
+Sitemap: https://fiken.no/sitemap.xml

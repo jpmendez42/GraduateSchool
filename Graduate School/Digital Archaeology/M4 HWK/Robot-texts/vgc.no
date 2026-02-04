@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /app-snarvei
+
+user-agent: Googlebot-News
+disallow: /annonsorinnhold/
+disallow: /hyperion/*.js$
+
+user-agent: Googlebot
+disallow: /hyperion/*.js$
+

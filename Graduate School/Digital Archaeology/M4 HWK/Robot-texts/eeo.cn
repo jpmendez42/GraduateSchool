@@ -1,0 +1,12 @@
+User-agent: Googlebot
+Disallow: /
+
+
+
+User-agent: *
+Disallow: /ajax/
+Disallow: /templates/
+Disallow: /js/
+Disallow: /test/
+Disallow: /s/report.html?*
+Disallow: /webcast.php?*

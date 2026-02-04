@@ -1,0 +1,268 @@
+User-agent: *
+Disallow: /account.php
+Disallow: /cart.php
+Disallow: /checkout.php
+Disallow: /checkout
+Disallow: /finishorder.php
+Disallow: /orderstatus.php
+Disallow: /postreview.php
+Disallow: /productimage.php
+Disallow: /productupdates.php
+Disallow: /remote.php
+Disallow: /search.php
+Disallow: /viewfile.php
+Disallow: /wishlist.php
+Disallow: /admin/
+Disallow: /__socialshop/
+Disallow: /about-us-new/
+Disallow: /buy-1-get-1-offer/
+Disallow: /sexual-wellness-2/
+Disallow: /fathers-day/
+Disallow: /vata-dosha-pacifiers/
+Disallow: /special-offer-2/
+Disallow: /special-offer/
+Disallow: /wallet-day/
+Disallow: /new-category/
+Disallow: /super-saver-deals/
+Disallow: /b2g1/
+Disallow: /best-prices-on-staples/
+Disallow: /fathers-day/wild-tulsi-giloy-juice-1-l-partnerships-only/
+Disallow: /copy-of-dia-free-juice-1-month-pack/
+Disallow: /solution/weight-loss/meal-replacement-slim-shake-assortment-pack-with-4-flavours-patnerships-only/
+Disallow: /solution/skin-care/skin-rituals-rose-water-partnerships-only/
+Disallow: /buy-1-get-1-offer/copy-of-kashmiri-mongra-kesar-saffron/
+Disallow: /solution/skin-care/copy-of-skin-foods-glow-mix/
+Disallow: /solution/mens-care/copy-of-himalayan-shilajit-resin-20g/
+Disallow: /aloe-vera-skin-gel-500gms-partnerships-only/
+Disallow: /fathers-day/copy-of-a2-desi-cow-ghee/
+Disallow: /kapiva-exclusive-offer/
+Disallow: /chyawanprash-for-partnerships-only/
+Disallow: /organic-gulkand-partnerships-only/
+Disallow: /copy-of-bp-care-juice-2-month-pack/
+Disallow: /raw-honey-madhu-for-partnerships-only/
+Disallow: /copy-of-wild-amla-juice-1-month-pack/
+Disallow: /copy-of-hair-care-juice-1-month-pack/
+Disallow: /copy-of-organic-cow-ghee-1l-pack/
+Disallow: /copy-of-dia-free-juice-1-month-pack/
+Disallow: /copy-of-a2-desi-cow-ghee/
+Disallow: /fathers-day/wild-tulsi-giloy-juice-1-l-partnerships-only/
+Disallow: /get-slim-juice-partnerships-only/
+Disallow: /virgin-coconut-oil-500-ml-partnerships-only/
+Disallow: /organic-apple-cider-vinegar-partnerships-only/
+Disallow: /digesti-care-juice-partnerships-only/
+Disallow: /himfoods-staminup-partnerships-only/
+Disallow: /him-foods-endurance-partnerships-only/
+Disallow: /himfoods-testosterone-boost-partnerships-only/
+Disallow: /period-care-juice-partnerships-only/
+Disallow: /immune-care-juice-partnerships-only/
+Disallow: /digesti-care-juice-partnerships-only/
+Disallow: /organic-apple-cider-vinegar-partnerships-only/
+Disallow: /madhu-tula-blood-sugar-control-green-tea-partnerships-only/
+Disallow: /tulsi-giloy-green-tea-partnerships-only/
+Disallow: /get-slim-green-tea-partnerships-only/
+Disallow: /pure-tulsi-ark-partnerships-only/
+Disallow: /karela-jamun-juice-partnerships-only/
+Disallow: /Paachaka-digestion-support-green-tea-partnerships-only/
+Disallow: /anandam-de-stress-relax-green-tea-partnerships-only/
+Disallow: /wild-tulsi-giloy-juice-1-l-partnerships-only/
+Disallow: /bhringraj-hair-nourish-oil-partnerships-only/
+Disallow: /tulsi-anti-hairfall-oil-partnerships-only/
+Disallow: /himfoods-testosterone-boost-partnerships-only/
+Disallow: /skin-radiance-fizz-pack-of-2-partnerships-only/
+Disallow: /ashwagandha-fizz-effervescent-powder-partnerships-only/
+Disallow: /radiance-fizz-effervescent-tablets-partnerships-only/
+Disallow: /dia-free-juice-pack-of-2-partnership-only/
+Disallow: /dia-free-juice-pack-of-2-partnerships-only
+Disallow: /aloe-amla-juice-partnership-only/
+Disallow: /ghee-kumkumadi-body-butter-test/
+Disallow: /bhringraj-hair-nourish-oil-100-ml/
+Disallow: /tulsi-anti-hairfall-oil-100-ml/
+Disallow: /special-discount/
+Disallow: /limited-period-offers/
+Disallow:/phonepe-exclusive-offer/
+Disallow:/exclusive-rewards-offer/
+Disallow:/freecharge-exclusive-offer/
+Disallow:/aloe-vera-juice-partnership/
+Disallow:/flipkart-exclusive-offer/
+Disallow:/admitad-special-discount/
+Disallow:/niyo-exclusive-offer/
+Disallow:/axis-exclusive-offer
+Disallow:/diwali-exclusive-offer/
+Disallow: /exclusive-offer-on-combos/
+Disallow: /slice500-exclusive-offer/
+Disallow: /affiliate-offers/
+Disallow:/solution/weight-management/get-slim-mix-sample/
+Disallow:/gpayshilajit/
+Disallow:/bodybutter-gpaybutter/
+Disallow:/him-foods-shilajit-gold-20g/
+Disallow:/paytm-mens-offer/
+Disallow:/paytm-hair-offer/
+Disallow:/paytm-beauty-offer/
+Disallow:/phonepe-mens-offer/
+Disallow:/phonepe-hair-offer/
+Disallow:/phonepe-beauty-offer/
+Disallow:/resolve360-exclusive-offer/
+Disallow:/partnership/ghee-kumkumadi-body-butter-buy-1-get-1-free/
+Disallow:/solution/kapiva-ashwagandha-gold-capsules-30-caps/
+Disallow:/spicejet-exclusive-offer/
+Disallow:/discountable-products/shilajit-gold-resin-20g-pack-of-2/
+Disallow:/discountable-products/slimfit-combo-1.0-pack-of-2/
+Disallow:/discountable-products/get-slim-mix-pack-of-3/
+Disallow:/10-off-page--affiliates/himalayan-shilajit---gym-power-up-combo/
+Disallow:/discountable-products/get-slim-juice-pack-of-3/
+Disallow:/shop-all/shilajit-ashwagandha-gold-caps-combo-/
+Disallow:/discountable-products/glow-mix-rose-water---glow-with-roses---combo/
+Disallow:/discountable-products/himalayan-shilajit-ashwagandha-caps
+Disallow:/discountable-products/get-slim-green-tea/
+Disallow:/discountable-products/ghee-kumkumadi-body-butter-100gram/
+Disallow:/solution/skin-care/ashwagandha-anti-aging-face-oil-test/
+Disallow:/hair/tulsi-anti-hairfall-oil-100-ml-test/
+Disallow:/hair/bhringraj-hair-nourish-oil-100-ml-test/
+Disallow:/discountable-products/get-slim-juice-pack-of-3/
+Disallow:/discountable-products/shilajit-ashwagandha-gold-caps-combo-/
+Disallow:/discountable-products/glow-mix-rose-water---glow-with-roses---combo/
+Disallow:/discountable-products/himalayan-shilajit-ashwagandha-caps
+Disallow:/discountable-products/exclusive-power-up-combo/
+Disallow:/hair/neem-comb-test/
+Disallow:/solution/skin-care/ghee-kumkumadi-body-lotion-test/
+Disallow:/exclusive-coupon-offer/
+Disallow:/exclusive-couponbpc-offer/
+Disallow:/paytm-ghee-offer/
+Disallow:/phonepe-ghee-offer/
+Disallow:/gpay-ghee-offer/
+Disallow:/phonepe-exclusive2-offer/
+Disallow:/partnership/bhringraj-hair-nourish-mask-b1g1/
+Disallow:/timesprime-exclusive-offer/
+Disallow:/partnership/ghee-kumkumadi-body-butter-50grams-pack-of-2/
+Disallow:/phonepe-mens2-offer/
+Disallow:/paytm-beauty2-offer/
+Disallow:/phonepe-beauty2-offer/
+Disallow:/paytm-exclusive2-offer/
+Disallow:/timesprime-exclusive2-offer/
+Disallow:/coupondunia-offer/
+Disallow:/magicpin-offer/
+Disallow:/igknights-exclusive-offer/
+Disallow:/flipkart-rewards-offer/
+Disallow:/milkbasket-rewards-offer/
+Disallow:/flash-rewards-offer/
+Disallow:/hyundai-rewards-offer/
+Disallow:/bajaj-exclusive-offer/
+Disallow:/onecard-exclusive-offer/
+Disallow:/partnership/skin-rituals-rose-water-200ml-b1g1
+Disallow:/himalayan-shilajit-resin-20g-gpay-exclusive/
+Disallow:/grabon-ghee-offer/
+Disallow:/simpl-cashback-offer/
+Disallow:/zillion-exclusive-offer/
+Disallow:/comorbidity/*
+Disallow:/partnership/*
+Disallow:/healthkart-exclusive-offer/
+Disallow:/hair-comorbidity/*
+Disallow:/cred-mystery-rewards/
+Disallow:/easemytrip-rewards-offer/
+Disallow:/croma-exclusive-rewards/
+Disallow:/checkoutDevelopment/
+Disallow:/abhibus-exclusive-offer/
+Disallow:/solution/skin/skin-foods-glow-mix-for-glowing-healthy-skin/
+Disallow:/discountable-products/*
+Disallow:/mi-rewards-offer/
+Disallow:/affiliate-offers/tulsi-hair-growth-serum/
+Disallow:/jio-rewards-offer/
+Disallow:/vedabot/
+Disallow:/cleartrip-rewards-offer/
+Disallow:/bookmyshow-rewards-offer/
+Disallow:/gpay-rewards-offer/
+Disallow:/zomato-rewards-offer/
+Disallow:/bajaj-mens-offer/
+Disallow:/festival-exclusive-offer/
+Disallow:/partnership/himalayan-shilajit-resin-20g-stepsetgo-exclusive/
+Disallow:/cred-Jackpot-offer/
+Disallow:/partnership/shop-now/
+Disallow:/freebies
+Disallow:/staging.kapiva.in
+Disallow:/mens-health/testofuel-protein-shilajit-gold
+Disallow:/partnership/skin-foods-glow-mix-bajaj-exclusive
+Disallow:/sandbox.kapiva.in
+
+Disallow:/mens-health/kapiva-shilajit-honey-ginger-sticks
+Disallow:/mens-health/kapiva-shilajit-honey-cinnamon-sticks
+Disallow:/mens-health/kapiva-himalayan-shilajit-resin-triphala-capsule
+Disallow:/mens-health/kapiva-shilajit-fizz-triphala-capsule
+Disallow:/mens-health/kapiva-shilajit-honey-ginger-sticks-triphala-capsule
+Disallow:/mens-health/kapiva-shilajit-honey-cinnamon-sticks-triphala-capsule
+Disallow:/mens-health/kapiva-himalayan-shilajit-resin-ashwagandha-capsule
+Disallow:/mens-health/kapiva-shilajit-fizz-ashwagandha-capsule
+Disallow:/mens-health/kapiva-shilajit-honey-ginger-sticks-ashwagandha-capsule
+Disallow:/mens-health/kapiva-shilajit-honey-cinnamon-sticks-ashwagandha-capsule
+Disallow:/mens-health/kapiva-himalayan-shilajit-resin-ashwagandha-gold-capsule
+Disallow:/mens-health/kapiva-shilajit-fizz-ashwagandha-gold-capsule
+Disallow:/mens-health/kapiva-shilajit-honey-ginger-sticks-ashwagandha-gold-capsule
+Disallow:/mens-health/kapiva-shilajit-honey-cinnamon-sticks-ashwagandha-gold-capsule
+Disallow:/blood-sugar-chronic-care/dia-free-capsules-helps-manage-sugar-level/
+Disallow:/clc-products/
+Disallow:/clc-products/*
+Disallow:/partnership/*
+Disallow:/crm-store-lc/*
+Disallow:/about-us-old/*
+
+User-agent: Googlebot
+Disallow:
+
+User-agent: AdsBot-Google
+Disallow:
+
+User-agent: Googlebot-Image
+Disallow:
+
+
+User-agent: facebookexternalhit
+Allow: /*/videos/
+Allow: /ajax/bootloader-endpoint/
+Allow: /ajax/pagelet/generic.php/PagePostsSectionPagelet
+Allow: /careers/
+Allow: /safetycheck/
+Allow: /watch/?v=*
+User-agent: *
+Disallow: /*?_bc_fsnf=1*
+Disallow: /*&_bc_fsnf=1*
+
+User-agent: AI2Bot
+User-agent: Ai2Bot-Dolma
+User-agent: Amazonbot
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: Bytespider
+User-agent: CCBot
+User-agent: ChatGPT-User
+User-agent: Claude-Web
+User-agent: ClaudeBot
+User-agent: Diffbot
+User-agent: FacebookBot
+User-agent: FriendlyCrawler
+User-agent: GPTBot
+User-agent: Google-Extended
+User-agent: GoogleOther
+User-agent: GoogleOther-Image
+User-agent: GoogleOther-Video
+User-agent: ICC-Crawler
+User-agent: ISSCyberRiskCrawler
+User-agent: ImagesiftBot
+User-agent: Kangaroo Bot
+User-agent: Meta-ExternalAgent
+User-agent: Meta-ExternalFetcher
+User-agent: OAI-SearchBot
+User-agent: PerplexityBot
+User-agent: PetalBot
+User-agent: Scrapy
+User-agent: Sidetrade indexer bot
+User-agent: Timpibot
+User-agent: VelenPublicWebCrawler
+User-agent: Webzio-Extended
+User-agent: YouBot
+User-agent: anthropic-ai
+User-agent: cohere-ai
+User-agent: facebookexternalhit
+User-agent: iaskspider/2.0
+User-agent: img2dataset
+User-agent: omgili
+User-agent: omgilibot
+Crawl-delay: 10

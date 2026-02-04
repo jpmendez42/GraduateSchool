@@ -1,0 +1,27 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /html/
+Disallow: /clickbate.php
+
+Allow: /wp-admin/admin-ajax.php
+
+
+User-agent: bingbot
+Allow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Slurp
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Yandex
+Allow: /
+
+Sitemap: https://xristika.gr/sitemap_index.xml

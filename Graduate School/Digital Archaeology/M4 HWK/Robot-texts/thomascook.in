@@ -1,0 +1,10 @@
+User-Agent: *
+Allow: /
+Disallow: /campaigns/
+Disallow: /visa/
+Sitemap: https://www.thomascook.in/sitemap.xml
+Disallow: /travel-guidelines-corporate/
+Disallow: /Forex/sell/forex-booking-review?quoteId
+Disallow: /forexRevamp/
+Disallow: /uat*
+Disallow: /thomascookuat.pathfndr.io/

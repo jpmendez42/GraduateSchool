@@ -1,0 +1,17 @@
+Sitemap: https://www.hs-worms.de/sitemap.xml
+User-agent: *
+Disallow: /typo3/
+Disallow: /typo3_src/
+Disallow: /fileadmin/
+Disallow: /email-aliases/
+Disallow: /uploads/
+Disallow: /suchergebnisse/
+Disallow: /ordner-testbereich/
+Disallow: /service/telefon-anreise-erste-hilfe/telefon-und-personenregister*
+Disallow: /en/service/telefon-anreise-erste-hilfe/telefon-und-personenregister*
+Disallow: /service/telefon-anreise-erste-hilfe/telefon-und-personenregister/*
+Disallow: /en/service/telefon-anreise-erste-hilfe/telefon-und-personenregister/*
+Allow: /service/telefon-anreise-erste-hilfe/telefon-und-personenregister$
+Allow: /en/service/telefon-anreise-erste-hilfe/telefon-und-personenregister$
+User-agent: SeekportBot
+Disallow: /

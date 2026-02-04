@@ -1,0 +1,33 @@
+User-Agent: ClaudeBot
+Disallow: /
+
+User-Agent: *
+Disallow: /bitrix/
+Disallow: /ajax/
+Disallow: /feedback/
+Disallow: /inc/
+Disallow: /markup/
+Disallow: /new/
+Disallow: /rates_import/
+Disallow: /sbpay/
+Disallow: /search/
+Disallow: /styles/
+Disallow: /logon
+Disallow: /Account/LogOnRegCert
+Disallow: /LogOn
+Disallow: /LogOnToken
+Disallow: /lk
+Disallow: /mobile2/
+Disallow: /verstka/
+Disallow: /upload/docs/Polozhenie%20Usloviya%20dogovora%20bankovskogo%20scheta%20dlya%20FL%20151020.pdf
+Disallow: /upload/docs/Prilozhenie%20?%201%20Polozhenie%20Usloviya%20DBS%20FL%20.pdf
+Disallow: /upload/docs/Uslovia%20DBS%20FL_100223_.pdf
+Disallow: /upload/docs/Usloviya_dogovora_bankovskogo_scheta_dlya_FL_10.02.23.pdf
+Disallow: /upload/docs/Usloviya_dogovora_bankovskogo_scheta_dlya_FL_do_151024.pdf
+Disallow: /upload/docs/Usloviya_po_kartam_mobilesystempayent.pdf
+Disallow: /upload/docs/Usloviya%20dogovora%20bankovskogo%20scheta%20dlya%20FL_010223.pdf
+Disallow: /upload/iblock/e40/g63jp0rxlapywz8egix1sqrtsjot15w1.pdf
+Disallow: /personal/ebs/
+
+Clean-param: special_version&backurl
+Sitemap: https://in-bank.ru/sitemap.xml

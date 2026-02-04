@@ -1,0 +1,16 @@
+User-agent: *
+Crawl-delay: 10
+Disallow: /metricsmonster/
+Disallow: /banner/
+Disallow: /account/
+Disallow: /wp-admin/
+Disallow: /wp-content/plugin/
+Disallow: /wp-content/plugin/
+Disallow: /wp-includes/
+Disallow: /login/
+Disallow: /thank-you/
+
+User-agent: Mediapartners-Google
+Allow: /
+
+Sitemap: https://www.calcioefinanza.it/sitemap_index.xml

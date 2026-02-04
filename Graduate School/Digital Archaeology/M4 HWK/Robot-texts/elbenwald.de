@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /admin
+Disallow: /dev
+Disallow: /checkout
+Disallow: /register
+Disallow: /account
+Disallow: /widgets
+Disallow: /navigation
+Disallow: /search
+Disallow: *?s=*
+Disallow: *?p=*
+Disallow: *?c=*
+Disallow: *.html$
+
+Sitemap: https://www.elbenwald.de/sitemap.xml
+Sitemap: https://www.elbenwald.nl/sitemap_nl.xml
+Sitemap: https://www.elbenwald.fr/sitemap_fr.xml
+Sitemap: https://www.elbenwald.com/sitemap_en.xml
+Sitemap: https://www.elbenwald.es/sitemap_es.xml
+Sitemap: https://www.elbenwald.it/sitemap_it.xml

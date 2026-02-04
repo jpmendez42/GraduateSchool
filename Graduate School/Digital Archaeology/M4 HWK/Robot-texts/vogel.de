@@ -1,0 +1,9 @@
+User-agent: Yandex
+Crawl-delay: 2
+Disallow: */preview/*
+
+User-agent: *
+Allow: /
+Disallow: */preview/*
+
+Sitemap: https://www.vogel.de/sitemap.xml

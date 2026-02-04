@@ -1,0 +1,56 @@
+
+User-agent: *
+Disallow: /user/*
+Disallow: /cart*
+Disallow: /*/cart*
+Disallow: /login*
+Disallow: /*/login*
+Disallow: /forgot_pass*
+Disallow: /*/forgot_pass*
+Disallow: /register*
+Disallow: /*/register*
+Disallow: /profile*
+Disallow: /*/profile*
+Disallow: /addresses*
+Disallow: /*/addresses*
+Disallow: /orders*
+Disallow: /*/orders*
+Disallow: /wishlist*
+Disallow: /*/wishlist*
+Disallow: /checkout*
+Disallow: /checkout_final*
+Disallow: /compare/*
+Disallow: /thank-you$
+Disallow: /userfiles/editor/*
+Allow: /*/product/*
+Allow: /*/category/*
+Allow: /product/*
+Allow: /category/*
+Allow: /*/userfiles/productlargeimages/*
+Allow: /*/userfiles/productthumbs/*
+Allow: /userfiles/productlargeimages/*
+Allow: /userfiles/productthumbs/*
+Disallow: /cdn-cgi/
+
+
+User-agent: 008
+Disallow: /
+User-agent: voltron
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: Synthesio
+Disallow: /
+
+User-agent: Bingbot
+Crawl-delay: 1
+
+Sitemap: https://www.ivet.bg/sitemap.xml

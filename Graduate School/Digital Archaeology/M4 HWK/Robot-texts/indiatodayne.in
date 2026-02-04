@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /topic/*
+
+Sitemap: https://www.indiatodayne.in/rssfeeds/sitemap.xml
+Sitemap: https://www.indiatodayne.in/rssfeeds/news-sitemap.xml
+Sitemap: https://www.indiatodayne.in/rssfeeds/date-wise-stories-sitemap.xml
+Sitemap: https://www.indiatodayne.in/rssfeeds/date-wise-photo-sitemap.xml
+Sitemap: https://www.indiatodayne.in/rssfeeds/date-wise-video-sitemap.xml

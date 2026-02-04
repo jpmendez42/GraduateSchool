@@ -1,0 +1,44 @@
+User-agent: googlebot
+User-agent: bingbot
+User-agent: adsbot-google
+User-agent: googlebot-mobile
+User-agent: googlebot-image
+User-agent: mediapartners-google
+User-Agent: FacebookExternalHit
+User-Agent: TwitterBot
+User-Agent: LinkedInBot
+User-Agent: MSNBot
+Allow: /
+Crawl-delay: 120
+
+# Disallow these directories, url types & file-types
+Disallow: /trackback/
+Disallow: /wp-admin/
+#Disallow: /wp-content/
+#Disallow: /wp-includes/
+Disallow: /xmlrpc.php
+#Disallow: /wp-
+Disallow: /cgi-bin
+Disallow: /readme.html
+Disallow: /license.txt
+Disallow: /*?*
+Disallow: /*.php$
+Disallow: /*.js$
+Disallow: /*.inc$
+Disallow: /*.css$
+Disallow: /*.gz$
+Disallow: /*.wmv$
+Disallow: /*.cgi$
+Disallow: /*.xhtml$
+#Disallow: /*/wp-*
+Disallow: /*/feed/*
+Disallow: /*/*?s=*
+#Disallow: /*/*.js$
+Disallow: /*/*.inc$
+
+Allow: /wp-content/uploads/
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.ispionline.it/sitemap_index.xml

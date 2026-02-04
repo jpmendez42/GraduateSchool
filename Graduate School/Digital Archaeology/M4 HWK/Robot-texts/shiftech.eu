@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /_nuxt/
+Disallow: /admin/
+Disallow: /es/
+Disallow: /it/
+Disallow: /fr/compte/connexion
+Disallow: /en/account/login
+Disallow: /de/konto/login
+Disallow: /it/conto/connessione
+Disallow: /es/cuenta/acceso
+Disallow: /fr/shop/panier
+Disallow: /en/shop/cart
+Disallow: /de/shop/einkaufskorb
+Disallow: /it/shop/cestino
+Disallow: /es/shop/cart
+Disallow: /fr/jeu-concours-bruleurs-de-gommes-2024-reprog
+Disallow: /fr/jeu-concours-bruleurs-de-gommes-2024-bapteme
+
+Sitemap: https://www.shiftech.eu/sitemap_index.xml

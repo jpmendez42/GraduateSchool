@@ -1,0 +1,14 @@
+User-agent: *
+Disallow: /logga-in
+Disallow: /varukorg.aspx*
+Disallow: /shop/*
+Disallow: /sok/*
+Disallow: /*nosto=
+Disallow: /link/*
+Disallow: /privatpersoner/*
+Disallow: /rekommendationer
+Disallow: /*?refSrc
+Disallow: /member*
+
+Sitemap: https://www.apoteket.se/sitemap.xml
+

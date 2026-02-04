@@ -1,0 +1,5 @@
+﻿User-agent: *
+Disallow: /sok/
+Disallow: /*.xml$
+Disallow: /*.csv$
+Disallow: /_api/*

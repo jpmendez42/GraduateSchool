@@ -1,0 +1,543 @@
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr" lang="fr"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><meta http-equiv="X-UA-Compatible" content="IE=9" /><meta content="Ametys CMS Open source (http://www.ametys.org)" name="generator" /><link sizes="16x16" href="/skins/ustetienne/resources/img/favicon/favicon-16x16.png" type="image/png" rel="icon" /><link href="/skins/ustetienne/resources/img/favicon/favicon.ico" rel="shortcut icon" /><meta content="IE=9" http-equiv="X-UA-Compatible" /><title>Bienvenue sur le site de l&#039;Universit&eacute; Jean Monnet - Saint-Etienne - Universit&eacute; Jean Monnet</title><meta content="Ametys V3" name="author" /><meta content="Ametys V3" name="copyright" /><meta content="fr" name="language" /><meta content="15 days" name="revisit-aftert" /><meta content="width=device-width, initial-scale=1" name="viewport" /><!----><link href="/_plugins/web/ujm/fr/filter/events/rss.xml" title="Flux RSS des actualit&eacute;s du site Ametys, CMS Java Open Source" type="application/rss+xml" rel="alternate" /><link href="/_plugins/web/ujm/fr/filter/org.ametys.web.article.RSS/rss.xml" title="Flux RSS des articles du site Ametys, CMS Java Open Source" type="application/rss+xml" rel="alternate" /><!--PIWIK--><noscript><div><img alt="" style="border:0" src="https://stats-web.univ-st-etienne.fr//piwik.php?idsite=62&amp;rec=1" /></div></noscript><link href="/plugins/cms/dublincore/content.rdf?contentId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" rel="meta" /><link href="/plugins/cms/dublincore/content.rdf?contentId=defaultWebContent://7128d557-1e38-48c3-a536-795930748811" rel="meta" /><link href="/plugins/cms/dublincore/content.rdf?contentId=defaultWebContent://1aa5beb5-e9d4-4001-895f-54c28a045f8e" rel="meta" /><link href="/plugins/cms/dublincore/content.rdf?contentId=defaultWebContent://1c6efcfd-3c8f-492d-bb99-085f92efab01" rel="meta" /><link type="text/css" rel="stylesheet" href="/_plugins/web/resources-minimized/NjU2NzM3NzQ0.css" media="screen" /><link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Titillium+Web:400,200,200italic,300,300italic,400italic,600,600italic,700,700italic,900" /><link type="text/css" rel="stylesheet" href="/_plugins/web/resources-minimized/MTIwNzgyNjY5MQ.css" /><style type="text/css"><!--
+
+        	#carousel-78106159392117.js .carousel-wrap > ul {
+        		width: 1000% !important;
+        	}
+        	#carousel-78106159392117.js .carousel-wrap > ul > li {
+        		width: 10% !important;
+        	}
+
+
+
+        	
+        
+--></style><style type="text/css"><!--
+
+        	#carousel-19922640773590805.js .carousel-wrap > ul {
+        		width: 600% !important;
+        	}
+        	#carousel-19922640773590805.js .carousel-wrap > ul > li {
+        		width: 16.666666666666668% !important;
+        	}
+
+
+
+        	
+        
+--></style><style type="text/css"><!--
+
+        	#carousel-34664581718562637.js .carousel-wrap > ul {
+        		width: 600% !important;
+        	}
+        	#carousel-34664581718562637.js .carousel-wrap > ul > li {
+        		width: 16.666666666666668% !important;
+        	}
+
+
+
+        	
+        
+--></style><script type="text/javascript" src="/_plugins/web/resources-minimized/ODgxNTQ3MzYy.js"></script><script type="text/javascript"><!--
+
+              	$j = jQuery.noConflict();
+		
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/MTc4MjYxNzc0MA.js"></script><script type="text/javascript"><!--
+
+                $j(document).ready(function() {
+                    $j().piroBox_ext({
+                        piro_speed: 600,
+                        bg_alpha: 0.5,
+                        piro_scroll: true,
+                        prev_label: 'Précédent',
+                        next_label: 'Suivant',
+                        close_label: 'Fermer'
+                    });
+                });
+	        
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTE3OTg2NjI2Njk.js"></script><script type="text/javascript"><!--
+
+            ametysUser = null;
+            
+            var _ametysUserCallbacks = [];
+            var _ametysUserRunning = false;
+            
+            var _fillUserInputs = function(id, field, callback)
+            {
+                if (this[field])
+                {
+                    var input = document.getElementById(id);
+                    if (!input.value)
+                    {
+                        input.value = this[field];
+                        if (typeof callback == "function")
+                        {
+                           callback(id, input, this[field]);
+                        }
+                    }
+                }
+            }
+            
+                  
+            
+            function getAmetysUser(callback)
+            {
+                if (ametysUser && typeof(callback) == "function")
+                {
+                    callback(ametysUser);
+                }
+                else
+                {
+                    if (typeof(callback) == "function")
+                    {
+                        _ametysUserCallbacks.push(callback);
+                    }
+                    
+                    if (!_ametysUserRunning)
+                    {
+                        _ametysUserRunning = true;
+                        
+                        $j.ajax({
+                            url: "/_plugins/web/current-user",
+                            dataType: "json",
+                            error: function(result, status, error) {
+    		    				console.log(error);
+                                ametysUser = null;
+                                _ametysUserRunning = false;
+    		    			},
+                            success: function(user) {
+                                ametysUser = user;
+                                
+                                if (ametysUser)
+                                {
+                                    ametysUser.fill = _fillUserInputs;
+                                }
+                                
+                                for (var i=0; i < _ametysUserCallbacks.length; i++)
+                                {
+                                    try 
+                                    {
+                                        _ametysUserCallbacks[i](ametysUser);
+                                    } 
+                                    catch(e) 
+                                    {
+                                        console.error("Failed to invoked callback function " + _ametysUserCallbacks[i].name + ":", e);
+                                    }
+                                }
+                                
+                                _ametysUserRunning = false;
+                            }
+                        });
+                    }
+                }
+            }
+        
+// --></script><script type="text/javascript"><!--
+
+           ametysCookieConsentListener = [];
+            
+           
+                function ametysCallCookieConsentListener(accept)
+                {
+                    for (var i = 0; i < ametysCookieConsentListener.length; i++)
+                    {
+                       ametysCookieConsentListener[i].apply(window, [accept]);
+                    }
+                }
+
+                
+                    var ametysCookieExpireDay = 390;
+                    
+                    function ametysRefuseCookieConsent()  
+                    {
+                        $j.cookie('ametysHasConsent', false, {expires: ametysCookieExpireDay, path: '' || '/'});
+                        
+                        ametysCallCookieConsentListener(false);
+                        ametysHideInformCookieConsent();
+                    }
+            
+                    function ametysAcceptCookieConsent()
+                    {
+                        $j.cookie('ametysHasConsent', true, {expires: ametysCookieExpireDay, path: '' || '/'});
+                        
+                        
+                        ametysHideInformCookieConsent();
+                    }
+            
+                    function ametysHideInformCookieConsent() 
+                    {
+                        $j("#cookie-banner").hide();
+                    }
+                    
+                
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTExNzUxMTAwOTM.js"></script><script type="text/javascript"><!--
+
+   					_artStyleUrlCached = "https://www.univ-st-etienne.fr/skins/ustetienne/resources/";
+   					contextPath = ""; 
+   				
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTY0MTczNzQ2NA.js"></script><script type="text/javascript"><!--
+
+   					var switchMobileDesktopLinkLabel = "Version normale";
+					var switchMobileMobileLinkLabel = "Version mobile";
+   				
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTk0NzE3MzQ3NA.js"></script><script type="text/javascript"><!--
+
+				function waitForWebfonts(fonts, callback) {
+				
+				    var loadedFonts = 0;
+				    for(var i = 0, l = fonts.length; i < l; ++i) {
+				        (function(font) {
+				            var node = document.createElement('span');
+				            // Characters that vary significantly among different fonts
+				            node.innerHTML = 'giItT1WQy@!-/#';
+				            // Visible - so we can measure it - but not on the screen
+				            node.style.position      = 'absolute';
+				            node.style.left          = '-10000px';
+				            node.style.top           = '-10000px';
+				            // Large font size makes even subtle changes obvious
+				            node.style.fontSize      = '300px';
+				            // Reset any font properties
+				            node.style.fontFamily    = 'sans-serif';
+				            node.style.fontVariant   = 'normal';
+				            node.style.fontStyle     = 'normal';
+				            node.style.fontWeight    = 'normal';
+				            node.style.letterSpacing = '0';
+				            document.body.appendChild(node);
+				
+				            // Remember width with no applied web font
+				            var width = node.offsetWidth;
+				
+				            node.style.fontFamily = font;
+				
+				            var interval;
+				            function checkFont() {
+				                // Compare current width with original width
+				                if(node && node.offsetWidth != width) {
+				                    ++loadedFonts;
+				                    node.parentNode.removeChild(node);
+				                    node = null;
+				                }
+				
+				                // If all fonts have been loaded
+				                if(loadedFonts >= fonts.length) {
+				                    if(interval) {
+				                        clearInterval(interval);
+				                    }
+				                    if(loadedFonts == fonts.length) {
+				                        callback();
+				                        return true;
+				                    }
+				                }
+				            };
+				
+				            if(!checkFont()) {
+				                interval = setInterval(checkFont, 50);
+				            }
+				        })(fonts[i]);
+				    }
+				};
+				
+
+				$j(document).ready(function(){
+					waitForWebfonts(["Titillium Web"], function() { window.setTimeout("trunkText()", 1); });
+					
+					trunkText();
+					
+					$j(document).on("click", function(){
+						$j("#nav_mobile").hide();
+					})
+					$j("#header_top .burger").on("click", function(event){
+						event.stopPropagation();
+						$j("#nav_mobile").toggle();
+					})
+					$j("#nav_mobile > ul > li").on("click", function(event){
+						event.stopPropagation();
+						$j("#nav_mobile > ul > li > ul").removeClass("selected");
+						$j(event.target).next("ul").addClass("selected")
+						$j("#nav_mobile > ul > li > ul:not(.selected)").hide();
+						$j(event.target).next("ul").toggle();
+					})
+				});
+				$j(window).resize(function(){
+					trunkText();
+				});
+				function trunkText()
+				{
+					$j(".trunk1").trunk8({lines: 1, fill:"..."});
+					$j(".trunk2").trunk8({lines: 2, fill:"..."});
+					$j(".trunk3").trunk8({lines: 3, fill:"..."});
+					$j(".trunk4").trunk8({lines: 4, fill:"..."});
+					//$j(".trunk5").trunk8({lines: 5, fill:"..."});
+					$j(".trunk6").trunk8({lines: 6, fill:"..."});
+					$j(".trunk8").trunk8({lines: 8, fill:"..."});
+					
+					$j(".sidebar h2 span.content-title").trunk8({lines: 1, fill:"..."});
+					$j(".sidebar h2 span.service-title").trunk8({lines: 1, fill:"..."});
+				}	
+				
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTIxMjAwMzg5OTI.js"></script><script type="text/javascript"><!--
+
+			$j().ready(function() { 
+				$j("#search-field-6295227562360508").placeholder();
+			});
+		
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/NzU1MTI3MzI2.js"></script><script type="text/javascript"><!--
+
+            $j().ready(function()
+            {
+                var hlRegexp = new RegExp('[\?\&]search-keywords=([^\?\&#;]+)', 'i');
+                var result = hlRegexp.exec(location.search);
+                if (result != null && result.length > 1)
+                {
+                    var keywords = result[1].split(',');
+                    for (var x = 0; x < keywords.length; x++)
+                    {
+                        if (keywords[x] != '')
+                        {
+                        
+                            $j('#ametys-cms-zone-carrousel').highlight($j.trim(keywords[x]));
+                        
+                            $j('#ametys-cms-zone-theme-content').highlight($j.trim(keywords[x]));
+                        
+                            $j('#ametys-cms-zone-articles').highlight($j.trim(keywords[x]));
+                         
+                        }
+                    }
+                }
+            });
+        
+// --></script><script type="text/javascript"><!--
+
+			      var _paq = _paq || [];
+			      
+			      ametysCookieConsentListener.push(function(accept) {
+                    if (accept)
+                    {
+                        _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+                        _paq.push(['setConsentGiven']);
+	                  (function() {
+	                    var u=(("https:" == document.location.protocol) ? "https://" : "http://") + "stats-web.univ-st-etienne.fr//";
+	                    _paq.push(["setTrackerUrl", u+"piwik.php"]);
+	                    
+	                    var searchTracking = false;
+	                    
+	                        var searchKeyword = "";
+	                        if (searchKeyword != '')
+	                        {
+	                            // Internal search tracking on a search result page
+	                            _paq.push(["trackSiteSearch", searchKeyword, false, false]);
+	                            searchTracking = true;
+	                        }
+	                    
+	                    
+	                    if (!searchTracking)
+	                    {
+	                        _paq.push(["trackPageView"]);
+	                    }
+	                    _paq.push(["enableLinkTracking"]);
+	                    _paq.push(["setSiteId", "62"]);
+	                    var d=document, g=d.createElement("script"), s=d.getElementsByTagName("script")[0]; g.type="text/javascript";
+	                    g.defer=true; g.async=true; g.src=u+"piwik.js"; s.parentNode.insertBefore(g,s);
+	                  })();
+	                    }
+	                    else
+	                    {
+	                        _paq.push(['forgetConsentGiven']);
+	                    }
+	                });
+			      
+			
+// --></script><script type="text/javascript" src="/_plugins/web/resources-minimized/LTk5MzE5MDYxOA.js"></script></head><body><h1 class="hidden-L">Universit&eacute; Jean Monnet - UJM</h1><div class="art-page-wai-links" id="art-page-wai-links"><a href="#content">Aller au contenu</a><a href="#search">Aller &agrave; la recherche</a><a href="#menu">Aller au menu</a></div><div id="header"><div id="header_top"><div class="container"><div class="burger visible-xs visible-sm">MENU<div id="nav_mobile"><ul><li class="picto-nav hidden-sm"><a href="#">Menu principal</a><ul class="art-hmenu"><li class=""><a href="/fr/universite.html">Universit&eacute;</a></li><li class=""><a href="/fr/formation.html">Formation</a></li><li class=""><a href="/fr/international-1-1.html">International</a></li><li class=""><a href="/fr/recherche.html">Recherche</a></li><li class=""><a href="/fr/entreprises.html">Entreprises</a></li><li class=""><a href="/fr/vie-de-campus.html">Vie de campus</a></li></ul></li><li class="picto-acces-rapide"><a href="#">Acc&egrave;s rapide aux outils</a><ul><li class="first"><a href="/fr/acces-rapide-aux-outils-version-mobile/inscriptions-a-l-ujm.html">Inscriptions &agrave; l&#039;UJM</a></li><li class=""><a href="/fr/acces-rapide-aux-outils-version-mobile/site-des-bibliotheques-universitaires.html">Site des Biblioth&egrave;ques universitaires</a></li><li class=""><a href="/fr/acces-rapide-aux-outils-version-mobile/annuaire.html">Annuaire</a></li><li class=""><a href="/fr/acces-rapide-aux-outils-version-mobile/nos-campus.html">Nos campus</a></li><li class=""><a href="/fr/acces-rapide-aux-outils-version-mobile/myujm-personnels.html">MyUJM personnels</a></li><li class=" last"><a href="/fr/acces-rapide-aux-outils-version-mobile/myujm-etudiants.html">MyUJM &eacute;tudiants</a></li></ul></li><li class="picto-faculte"><a href="#">Facult&eacute;s</a><ul><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/ensase.html">&Eacute;tablissement-composante ENSASE</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/arts-lettres-langues.html">Arts, Lettres, Langues</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/droit.html">Droit</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/medecine.html">M&eacute;decine</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/iut-de-saint-etienne.html">IUT de Saint-Etienne</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/iut-de-roanne.html">IUT de Roanne</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/iae.html">IAE</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/saint-etienne-school-of-economics.html">Saint-Etienne School of Economics</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/sciences-tech-dont-staps.html">T&eacute;l&eacute;com Saint-&Eacute;tienne</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/etudes-politiques.html">Etudes Politiques</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/sciences-et-techniques.html">Sciences et Techniques</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/sciences-humaines-sociales.html">Sciences Humaines Sociales</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/arts.html">ARTS</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/paths.html">PATHS</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/cilec.html">CILEC</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/institut-du-travail.html">Institut du Travail</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/eur-manutech-sleight.html">EUR Manutech Sleight</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2024-2025.html">Ann&eacute;e 2024-2025</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2023-2024.html">Ann&eacute;e 2023-2024</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2022-2023.html">Ann&eacute;e 2022-2023</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2021-2022.html">Ann&eacute;e 2021-2022</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2018-2019.html">Ann&eacute;e 2018-2019</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2017-2018.html">Ann&eacute;e 2017-2018</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2016-2017.html">Ann&eacute;e 2016-2017</a></li></ul></li><li class="picto-faculte"><a href="#">Laboratoires</a><ul><li><a href="/fr/liens-haut-de-page/laboratoires/biio.html">BiiO</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/cercrid.html">CERCRID</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/centre-max-weber.html">Centre Max Weber</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/coactis.html">COACTIS</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/creatis.html">CREATIS</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/eclla.html">ECLLA</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/ecp.html">ECP</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/enes-crnl.html">ENES / CRNL</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/evs-ujm.html">EVS UJM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/gate-lse.html">GATE-LSE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/gimap-ciri.html">GIMAP / CIRI</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/hisoma.html">HISOMA</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/icd-crnl.html">ICD - CRNL</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/icj.html">ICJ</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lire.html">IHRIM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/imp-ujm.html">IMP</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/laboratoire-hubert-curien.html">Laboratoire Hubert Curien</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/laspi.html">LASPI</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lbvpam.html">LBVPAM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lem-cercor.html">LEM-CERCOR</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/libm.html">LIBM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lgl-tpe.html">LGL-TPE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/sainbiose.html">SAINBIOSE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/psyr2-cnrl.html">PSYR2 / CNRL</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/tape.html">TAPE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/triangle.html">TRIANGLE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/allhis.html">ALLHIS</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/mod-mad.html">MOD MAD</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/presage.html">PRESAGE</a></li><li><a href="/fr/synatac/notre-equipe.html">Notre &eacute;quipe</a></li><li><a href="/fr/synatac/publications-scientifiques.html">Publications scientifiques</a></li><li><a href="/fr/synatac/appel-a-projets-et-financements.html">Appel &agrave; projets et financements</a></li><li><a href="/fr/synatac/offres-d-emploi.html">OFFRES D&#039;EMPLOI</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2024-2025.html">Ann&eacute;e 2024-2025</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2023-2024.html">Ann&eacute;e 2023-2024</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2022-2023.html">Ann&eacute;e 2022-2023</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2021-2022.html">Ann&eacute;e 2021-2022</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2018-2019.html">Ann&eacute;e 2018-2019</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2017-2018.html">Ann&eacute;e 2017-2018</a></li><li><a href="/fr/lgl-tpe/a-la-une/annee-2016-2017.html">Ann&eacute;e 2016-2017</a></li></ul></li><li class="picto-faculte"><a href="#">Services</a><ul><li><a href="/fr/liens-haut-de-page/services/information-orientation.html">Information Orientation</a></li><li><a href="/fr/liens-haut-de-page/services/service-universitaire-de-pedagogie.html">Service Universitaire de P&eacute;dagogie</a></li><li><a href="/fr/liens-haut-de-page/services/vie-de-campus.html">Vie de campus</a></li><li><a href="/fr/liens-haut-de-page/services/sports.html">Sports</a></li><li><a href="/fr/liens-haut-de-page/services/service-de-sante-universitaire.html">Service de Sant&eacute; Universitaire</a></li><li><a href="/fr/liens-haut-de-page/services/presses-universitaires-de-saint-etienne.html">Presses universitaires de Saint-Etienne</a></li></ul></li></ul></div></div><div class="selecteur_langues"><a>fr</a><ul id="langues"><li><a title="See this page in english" href="/en/index.html">
+                        en
+                        </a></li></ul></div><div class="search"><div class="searchDes"><a name="search"></a><form method="post" action="/fr/rechercher.html" class="art-hmenu-form"><label class="hidden-L" for="search-field-6295227562360508">Rechercher</label><input title="Saisissez le mots-clefs pour lancer la recherche" id="search-field-6295227562360508" name="textfield" class="input-text" type="text" /><script type="text/javascript"><!--
+
+			    			$j('#search-field-6295227562360508').attr('placeholder', "Rechercher");
+			    		
+// --></script><input name="submit-form" type="hidden" /><input class="picto-loupe" value="Ok" name="" type="submit" /></form></div><div class="searchMobile"><a name="search"></a><form method="post" action="/fr/rechercher.html" class="art-hmenu-form"><div class="popup"><i aria-hidden="true" onclick="myFunction()" class="fa fa-search"></i><div class="test"><span id="myPopup-6295227562360508" class="popuptext"><i aria-hidden="true" onclick="myFunction2()" class="fa fa-times" id="cross"></i><label class="hidden-L" for="search-field-6295227562360508">Rechercher</label><input title="Saisissez le mots-clefs pour lancer la recherche" id="search-field-6295227562360508" name="textfield" placeholder="Votre recherche" class="input-text" type="search" onkeyup="changeColor(this)" /><script type="text/javascript"><!--
+
+					    			$j('#search-field-6295227562360508').attr('placeholder', "Rechercher");
+					    		
+// --></script><input name="submit-form" type="hidden" /><input class="picto-loupe-mobile" value="Ok" name="" type="submit" /></span></div></div></form></div><script><!--
+
+			function myFunction(name) {
+				 $j('#myPopup-6295227562360508').addClass('show');
+				 $j('#myPopup-6295227562360508').removeClass('hide');
+            }
+            
+            function myFunction2() {
+            	$j('.orangeColor').each(function( index ) {
+				  $j(this).removeClass("orangeColor");
+				});
+			    $j('#myPopup-6295227562360508').addClass('hide');
+			    $j('#myPopup-6295227562360508').removeClass('show');
+			}
+					
+			function changeColor(myInput) {
+				 $j(myInput).addClass("orangeColor");
+			 }
+		
+			
+		
+// --></script></div><div class="direct-access visible-md visible-lg"><ul><li><a href="/fr/liens-haut-de-page/inscriptions.html" class="bold">Inscriptions</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts.html" class="bold direct-access-sub">Facult&eacute;s / &Eacute;coles / Instituts</a><div><p><span>Facult&eacute;s / &Eacute;coles / Instituts</span></p><ul><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/ensase.html">&Eacute;tablissement-composante ENSASE</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/arts-lettres-langues.html">Arts, Lettres, Langues</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/droit.html">Droit</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/medecine.html">M&eacute;decine</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/iut-de-saint-etienne.html">IUT de Saint-Etienne</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/iut-de-roanne.html">IUT de Roanne</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/iae.html">IAE</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/saint-etienne-school-of-economics.html">Saint-Etienne School of Economics</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/sciences-tech-dont-staps.html">T&eacute;l&eacute;com Saint-&Eacute;tienne</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/etudes-politiques.html">Etudes Politiques</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/sciences-et-techniques.html">Sciences et Techniques</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/sciences-humaines-sociales.html">Sciences Humaines Sociales</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/arts.html">ARTS</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/paths.html">PATHS</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/cilec.html">CILEC</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/institut-du-travail.html">Institut du Travail</a></li><li><a href="/fr/liens-haut-de-page/facultes-ecoles-instituts/eur-manutech-sleight.html">EUR Manutech Sleight</a></li></ul></div></li><li><a href="/fr/liens-haut-de-page/laboratoires.html" class="bold direct-access-sub">Laboratoires</a><div><p><span>Laboratoires</span></p><ul><li><a href="/fr/liens-haut-de-page/laboratoires/biio.html">BiiO</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/cercrid.html">CERCRID</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/centre-max-weber.html">Centre Max Weber</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/coactis.html">COACTIS</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/creatis.html">CREATIS</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/eclla.html">ECLLA</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/ecp.html">ECP</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/enes-crnl.html">ENES / CRNL</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/evs-ujm.html">EVS UJM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/gate-lse.html">GATE-LSE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/gimap-ciri.html">GIMAP / CIRI</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/hisoma.html">HISOMA</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/icd-crnl.html">ICD - CRNL</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/icj.html">ICJ</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lire.html">IHRIM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/imp-ujm.html">IMP</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/laboratoire-hubert-curien.html">Laboratoire Hubert Curien</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/laspi.html">LASPI</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lbvpam.html">LBVPAM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lem-cercor.html">LEM-CERCOR</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/libm.html">LIBM</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/lgl-tpe.html">LGL-TPE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/sainbiose.html">SAINBIOSE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/psyr2-cnrl.html">PSYR2 / CNRL</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/tape.html">TAPE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/triangle.html">TRIANGLE</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/allhis.html">ALLHIS</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/mod-mad.html">MOD MAD</a></li><li><a href="/fr/liens-haut-de-page/laboratoires/presage.html">PRESAGE</a></li></ul></div></li><li><a href="/fr/liens-haut-de-page/services.html" class="bold direct-access-sub">Services</a><div><p><span>Services</span></p><ul><li><a href="/fr/liens-haut-de-page/services/information-orientation.html">Information Orientation</a></li><li><a href="/fr/liens-haut-de-page/services/service-universitaire-de-pedagogie.html">Service Universitaire de P&eacute;dagogie</a></li><li><a href="/fr/liens-haut-de-page/services/vie-de-campus.html">Vie de campus</a></li><li><a href="/fr/liens-haut-de-page/services/sports.html">Sports</a></li><li><a href="/fr/liens-haut-de-page/services/service-de-sante-universitaire.html">Service de Sant&eacute; Universitaire</a></li><li><a href="/fr/liens-haut-de-page/services/presses-universitaires-de-saint-etienne.html">Presses universitaires de Saint-Etienne</a></li></ul></div></li><li><a href="/fr/liens-haut-de-page/bu.html" class="bold">BU</a></li><li><a href="/fr/liens-haut-de-page/annuaire.html" class="bold">Annuaire</a></li><li><a href="/fr/liens-haut-de-page/campus.html" class="bold">Campus</a></li><li><a href="/fr/liens-haut-de-page/transform4europe.html" class="bold">Transform4Europe</a></li><li><a href="/fr/liens-haut-de-page/myujm.html" class="bold direct-access-sub">MyUJM</a><div><p><span>MyUJM</span></p><ul><li><a href="/fr/liens-haut-de-page/myujm/myujm-personnels.html">MyUJM personnels</a></li><li><a href="/fr/liens-haut-de-page/myujm/myujm-etudiants.html">MyUJM &eacute;tudiants</a></li></ul></div></li></ul></div><div class="direct-access profile visible-md visible-lg"><ul><li class="active"><span>Vous &ecirc;tes</span><ul><li><a href="/fr/liens-haut-de-page/vous-etes/nouveaux-etudiants.html">Nouvel &eacute;tudiant</a></li><li><a href="/fr/liens-haut-de-page/vous-etes/etudiant.html">Etudiant</a></li><li><a href="/fr/liens-haut-de-page/vous-etes/personnels.html">Personnel</a></li></ul></li></ul></div></div></div><div class="header_bottom hidden-xs"><div class="container"><a id="logo2" title="" href="/fr/index.html"><img height="89" width="179" alt="Logo de l&#039;université Jean Monnet &ndash; Saint Etienne" src="/skins/ustetienne/resources//img/logo.png" /></a><ul id="social"><li><a target="_blank" class="picto_facebook" title="Facebook" href="/fr/reseaux-sociaux/facebook.html"></a></li><li><a target="_blank" class="picto_youtube" title="YouTube" href="/fr/reseaux-sociaux/youtube.html"></a></li><li><a target="_blank" class="picto_linkedin" title="Linkedin" href="/fr/reseaux-sociaux/google.html"></a></li><li><a target="_blank" class="picto_instagram" title="Instagram" href="/fr/reseaux-sociaux/instagram.html"></a></li></ul><div class="nav menu-classique" id="ent-nav"><ul class="art-hmenu"><li class=""><a href="/fr/universite.html">Universit&eacute;</a><div class="submenu"><ul class="first-column"><li><a href="/fr/universite/presentation.html">Pr&eacute;sentation</a></li><li><a href="/fr/universite/orientations-strategiques.html">Orientations strat&eacute;giques </a></li><li><a href="/fr/universite/organisation.html">Organisation</a></li><li><a href="/fr/universite/les-campus.html">Les campus</a></li><li><a href="/fr/universite/hrs4r-1.html">HRS4R</a></li></ul><ul><li><a href="/fr/universite/universite-europeenne-2.html">Universit&eacute; europ&eacute;enne</a></li><li><a href="/fr/universite/fondation-2.html">Fondation</a></li><li><a href="/fr/universite/universite-pour-tous.html">Universit&eacute; Pour Tous</a></li><li><a href="/fr/universite/universite-de-lyon.html">Universit&eacute; de Lyon</a></li><li><a href="/fr/universite/travailler-a-l-ujm.html">Travailler &agrave; l&#039;UJM</a></li></ul><span>Universit&eacute;</span></div></li><li class=""><a href="/fr/formation.html">Formation</a><div class="submenu"><ul class="first-column"><li><a href="/fr/formation/choisir-l-ujm-1.html">Choisir l&#039;UJM</a></li><li><a href="/fr/formation/catalogue-des-formations.html">Catalogue des formations</a></li><li><a href="/fr/formation/inscriptions-admissions.html">Inscriptions / admissions</a></li><li><a href="/fr/formation/formation-continue.html">Formation Continue</a></li><li><a href="/fr/formation/formations-en-alternance.html">Formation en alternance</a></li></ul><ul><li><a href="/fr/formation/orientation-insertion.html">Orientation / Insertion professionnelle</a></li><li><a href="/fr/formation/statistiques-et-enquetes.html">Statistiques et Enqu&ecirc;tes</a></li><li><a href="/fr/formation/entrepreneuriat.html">Entrepreneuriat</a></li><li><a href="/fr/formation/modalites-reglementaires.html">Modalit&eacute;s r&eacute;glementaires</a></li><li><a href="/fr/formation/services-aux-etudiants.html">Questions administratives</a></li></ul><span>Formation</span></div></li><li class=""><a href="/fr/international-1-1.html">International</a><div class="submenu"><ul class="first-column"><li><a href="/fr/international-1-1/etudiant-international-incoming-student.html">&Eacute;tudiant international/Incoming student</a></li><li><a href="/fr/international-1-1/partir-a-l-etranger.html">Partir &agrave; l&#039;&eacute;tranger</a></li><li><a href="/fr/international-1-1/trouver-un-logement.html">Trouver un logement</a></li><li><a href="/fr/international-1-1/projets-et-cooperations.html">Projets et coop&eacute;rations</a></li><li><a href="/fr/international-1-1/cilec-apprendre-le-francais.html">CILEC apprendre le francais</a></li></ul><ul><li><a href="/fr/international-1-1/enseignants-chercheurs-et-doctorants.html">Enseignants-chercheurs et doctorants</a></li><li><a href="/fr/international-1-1/charte-erasmus.html">Charte Erasmus +</a></li><li><a href="/fr/international-1-1/strategie-internationale-2021-2025.html">Strat&eacute;gie internationale 2021-2025</a></li><li><a href="/fr/international-1-1/label-bienvenue-en-france.html">Label Bienvenue en France</a></li><li><a href="/fr/international-1-1/transform4europe.html">Transform4Europe</a></li></ul><span>International</span></div></li><li class=""><a href="/fr/recherche.html">Recherche</a><div class="submenu"><ul class="first-column"><li><a href="/fr/recherche/pilotage-de-la-recherche.html">Pilotage de la Recherche</a></li><li><a href="/fr/recherche/les-structures-de-recherche.html">Les structures de Recherche</a></li><li><a href="/fr/recherche/partenariat-et-valorisation.html">Partenariats / Valorisation</a></li><li><a href="/fr/recherche/etudes-doctorales.html">&Eacute;tudes doctorales et HDR</a></li><li><a href="/fr/recherche/presses-universitaires-2.html">Presses Universitaires</a></li></ul><ul><li><a href="/fr/recherche/culture-scientifique.html">Culture Scientifique</a></li><li><a href="/fr/recherche/international.html">Recherche/International</a></li><li><a href="/fr/recherche/actualites.html">Actualit&eacute;s</a></li><li><a href="/fr/recherche/science-ouverte.html">Science Ouverte</a></li><li><a href="/fr/recherche/chaires-professeur-junior.html">Chaires Professeur Junior </a></li></ul><span>Recherche</span></div></li><li class=""><a href="/fr/entreprises.html">Entreprises</a><div class="submenu"><ul class="first-column"><li><a href="/fr/entreprises/espace-entreprises.html">Notre offre de services</a></li><li><a href="/fr/entreprises/formations-en-alternance.html">Formations en alternance</a></li><li><a href="/fr/entreprises/taxe-d-apprentissage.html">Taxe d&#039;apprentissage</a></li><li><a href="/fr/entreprises/devenir-partenaires.html">Fondation UJM</a></li></ul><ul><li><a href="/fr/entreprises/recruter.html">Recruter</a></li><li><a href="/fr/entreprises/vos-interlocuteurs.html">Vos interlocuteurs</a></li><li><a href="/fr/entreprises/marches-publics.html">March&eacute;s publics</a></li></ul><span>Entreprises</span></div></li><li class=""><a href="/fr/vie-de-campus.html">Vie de campus</a><div class="submenu"><ul class="first-column"><li><a href="/fr/vie-de-campus/actualites.html">Actualit&eacute;s</a></li><li><a href="/fr/vie-de-campus/presentation-du-service.html">Pr&eacute;sentation du service</a></li><li><a href="/fr/vie-de-campus/bienvenue-a-l-ujm.html">Bienvenue &agrave; l&#039;UJM</a></li><li><a href="/fr/vie-de-campus/ma-sante-mes-aides.html">Ma sant&eacute;, mes aides</a></li><li><a href="/fr/vie-de-campus/culture.html">Culture</a></li><li><a href="/fr/vie-de-campus/developpement-durable.html">D&eacute;veloppement durable</a></li></ul><ul><li><a href="/fr/vie-de-campus/associations-etudiantes.html">Associations &eacute;tudiantes</a></li><li><a href="/fr/vie-de-campus/soutien-aux-projets-etudiants.html">Soutien aux projets &eacute;tudiants</a></li><li><a href="/fr/vie-de-campus/engagement-etudiant.html">Engagement &eacute;tudiant</a></li><li><a href="/fr/vie-de-campus/etudes-et-handicap.html">&Eacute;tudes et handicap</a></li><li><a href="/fr/vie-de-campus/vie-pratique.html">Vie pratique</a></li><li><a href="/fr/vie-de-campus/etudiants-paramedicaux.html">&Eacute;tudiants param&eacute;dicaux</a></li></ul><span>Vie de campus</span></div></li></ul></div></div></div></div><div id="main-content"><a name="content"></a><div data-ametys-zone="carrousel" id="ametys-cms-zone-carrousel"><div data-ametys-zone-level="1" id="ametys-cms-zone-carrousel-item-N10037" class="first last"><div class="ametys-cms-content header-content wrapper"><div class="carousel-contents"><div class="link"><a href="/fr/tous-les-faits-marquants/annee-2024-2025/zoom-sur-2024-2025.html" class="url">Tous les derniers faits marquants</a></div><div class="carousel-container" id="carousel-78106159392117"><ul><li class="current"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/concours-enseignant-reforme.html">R&eacute;forme de la formation initiale des professeurs</a></span><span class="title"><a class="trunk4" href="/fr/concours-enseignant-reforme.html">Ce qui change en 2025</a></span></h1></div></div><a href="/fr/concours-enseignant-reforme.html"><div class="content-illustration "><img alt="jeune professeur enseignant au coll&egrave;ge" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B1%5D/header-illustration/image/R%C3%A9forme-du-recrutement-et-de-la-formation-initiale-des-professeurs_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/sciences-societe/agenda/actualites-a-venir/fete-de-la-science-2025.html">Sciences et societ&eacute;</a></span><span class="title"><a class="trunk4" href="/fr/sciences-societe/agenda/actualites-a-venir/fete-de-la-science-2025.html">F&ecirc;te de la science 2025 : d&eacute;couvrez le programme</a></span></h1></div></div><a href="/fr/sciences-societe/agenda/actualites-a-venir/fete-de-la-science-2025.html"><div class="content-illustration "><img alt="visuel f&ecirc;te de la science" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B2%5D/header-illustration/image/Plan%20de%20travail%201@2x-100_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/tous-les-faits-marquants/annee-2025-2026/l-universite-jean-monnet-est-presente-aux-entretiens-jacques-cartier.html">Du 6 au 8 octobre 2025</a></span><span class="title"><a class="trunk4" href="/fr/tous-les-faits-marquants/annee-2025-2026/l-universite-jean-monnet-est-presente-aux-entretiens-jacques-cartier.html">L&#039;Universit&eacute; Jean Monnet est pr&eacute;sente aux Entretiens Jacques Cartier</a></span></h1></div></div><a href="/fr/tous-les-faits-marquants/annee-2025-2026/l-universite-jean-monnet-est-presente-aux-entretiens-jacques-cartier.html"><div class="content-illustration "><img alt="" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B3%5D/header-illustration/image/slider-EJC_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/international/zoom-sur/actualites/celebrons-l-echange-international-lors-des-erasmus-days-2025-du-13-au-18-octobre.html">Du 13 au 18 octobre 2025</a></span><span class="title"><a class="trunk4" href="/fr/international/zoom-sur/actualites/celebrons-l-echange-international-lors-des-erasmus-days-2025-du-13-au-18-octobre.html">Erasmus Days : six jours plac&eacute;s sous le signe de l&#039;ouverture au monde &agrave; l&#039;UJM</a></span></h1></div></div><a href="/fr/international/zoom-sur/actualites/celebrons-l-echange-international-lors-des-erasmus-days-2025-du-13-au-18-octobre.html"><div class="content-illustration "><img alt="" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B4%5D/header-illustration/image/Slider-erasmus-daysujm_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/sciences-societe/agenda/actualites-a-venir/la-fatigue-en-mouvement.html">Mardi 14 octobre 2025</a></span><span class="title"><a class="trunk4" href="/fr/sciences-societe/agenda/actualites-a-venir/la-fatigue-en-mouvement.html">Soir&eacute;e de lancement Labo Junior - La Fatigue en Mouvement</a></span></h1></div></div><a href="/fr/sciences-societe/agenda/actualites-a-venir/la-fatigue-en-mouvement.html"><div class="content-illustration "><img alt="image d&#039;une jeune fille qui marque une pause dans sa course &agrave; pied" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B5%5D/header-illustration/image/SLIDER-lancement-la-fatigue-en-mouvement_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/vie-de-campus/actualites/vie-etudiante-et-associative/bienvenue-a-l-ujm.html">Bienvenue &agrave; l&#039;UJM </a></span><span class="title"><a class="trunk4" href="/fr/vie-de-campus/actualites/vie-etudiante-et-associative/bienvenue-a-l-ujm.html">Pour pr&eacute;parer et s&#039;informer sur son ann&eacute;e universitaire</a></span></h1></div></div><a href="/fr/vie-de-campus/actualites/vie-etudiante-et-associative/bienvenue-a-l-ujm.html"><div class="content-illustration "><img alt="" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B6%5D/header-illustration/image/Slider-bienvenue%20UJM%202025_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="https://aides.univ-st-etienne.fr/fr/index.html">Accompagnement </a></span><span class="title"><a class="trunk4" href="https://aides.univ-st-etienne.fr/fr/index.html">&Eacute;tudiants : toutes les aides &agrave; votre disposition &agrave; la rentr&eacute;e 2025-2026</a></span></h1></div></div><a href="https://aides.univ-st-etienne.fr/fr/index.html"><div class="content-illustration "><img alt="image de pr&eacute;sentation pour le site des aides propos&eacute;es aux &eacute;tudiants" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B7%5D/header-illustration/image/slider%20aide%20aux%20%C3%A9tu_crop340x720_crop340x720_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/universite/orientations-strategiques/schema-directeur-de-la-vie-etudiante.html">Vie &eacute;tudiante</a></span><span class="title"><a class="trunk4" href="/fr/universite/orientations-strategiques/schema-directeur-de-la-vie-etudiante.html">La r&eacute;ussite et la sant&eacute; des &eacute;tudiants au c&oelig;ur des priorit&eacute;s de l&#039;Universit&eacute;</a></span></h1></div></div><a href="/fr/universite/orientations-strategiques/schema-directeur-de-la-vie-etudiante.html"><div class="content-illustration "><img alt="image relative au schema directeur de la vie etudiante" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B8%5D/header-illustration/image/Slider-Sch%C3%A9mas-directeurs-vie-etu_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/universite/orientations-strategiques/schema-directeur-dd-rs.html">RSE</a></span><span class="title"><a class="trunk4" href="/fr/universite/orientations-strategiques/schema-directeur-dd-rs.html">L&#039;Universit&eacute; ancre la responsabilit&eacute; sociale et le d&eacute;veloppement durable au c&oelig;ur de ses actions</a></span></h1></div></div><a href="/fr/universite/orientations-strategiques/schema-directeur-dd-rs.html"><div class="content-illustration "><img alt="visuel pr&eacute;sentant le schema directeur du d&eacute;veloppement durable et de la responsabilit&eacute; soci&eacute;tale de l&#039;Universit&eacute;" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B9%5D/header-illustration/image/Slider-Sch%C3%A9mas-directeurs_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li><li class="after"><div class="entry"><div class="carouselDetails"><div><h1><span class="tag"><a href="/fr/entreprises/taxe-d-apprentissage.html">Taxe d&#039;apprentissage</a></span><span class="title"><a class="trunk4" href="/fr/entreprises/taxe-d-apprentissage.html">Soutenez l&#039;Universit&eacute; Jean Monnet en investissant dans ses formations </a></span></h1></div></div><a href="/fr/entreprises/taxe-d-apprentissage.html"><div class="content-illustration "><img alt="" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-entete-de-page/_attribute/header%5B10%5D/header-illustration/image/Visuel%20taxe%20d&#039;apprentissage_crop340x720_crop340x720.jpg?objectId=defaultWebContent://f9e36ab9-4a46-47ec-bfea-2c131f17c5ca" /></div></a><div class="clear-B"><!--empty--></div></div></li></ul></div></div><script type="text/javascript"><!--
+        
+                $j( document ).ready(function() {
+                	$j('#carousel-78106159392117').carousel( {
+	                    // Is pagination available
+	                    pagination: true,
+	                    // The position of the pagination : outsite or inside
+	                    paginationPosition : "outside",
+	                    // The position of next/previous buttons in the html code : pagination, outsite or inside
+	                    btnsPosition : "pagination",
+	                    // Associated texts of next/previous buttons 
+	                     nextBtnText: "Next",
+						prevBtnText: "Previous",
+	                    // Enable the touch transition (mouse drag or finger)
+	                    enableTouch: true,
+	                    // Authorize keys to travel between items. If all your items have links you should disable this to avoid to muck focus
+	                    arrowKey: false,
+	                    
+	                    // Effect between no, slidein or fade.
+	                    effect: "slidein",
+	                    // Direction of the transitions : horizontal or vertical.
+	                    direction: "horizontal",
+	                    // Duration of the transitions in ms
+	                    animSpeed: 400,   
+	                    
+	                                        
+	                    // Automatic startup (autoplay)
+	                    autoSlide: true, 
+	                    // Interval between auto transitions in ms
+	                    autoSlideInterval: 9000,
+	                    // Display a play/pause button (and associated texts)                                 
+	                    stopSlideBtn: true,
+	                    stopSlideTextPause: "Pause",
+	                    stopSlideTextPlay: "Lecture", 
+	                    
+	                    // add an internal attribute on links for ametys purposes 
+	                    setInternalAttribute: false,
+	                    
+	                    launchOnLoad: [function()
+	                    {
+	                    	$j(".carousel-pagination .slide-control").insertAfter(".carousel-pagination .carousel-control.previous");
+	                    	$j(".carousel-pagination a").wrapAll("<div class='pages'></div>");
+	                    	$j(".carousel-pagination .pages").insertAfter(".carousel-pagination .carousel-control.next");
+	                    	$j(".carousel-contents .link").insertAfter(".carousel-contents .carousel-container");
+	                    }], 
+	                    
+	                    pageChangedCallback : function()
+	                    {
+	                    	$j(".carouselDetails .title").trunk8({lines: 4, fill:"..."});
+	                    }
+                	});
+                });
+                
+        
+// --></script><div class="clear-B"><!--empty--></div></div></div></div><div class="container"><div class="remonte_actualites"><div data-ametys-zone="theme-content" id="ametys-cms-zone-theme-content"><div data-ametys-zone-level="2" id="ametys-cms-zone-theme-content-item-N10724" class="first last"><div class="ametys-cms-content header-content wrapper"><ul><li><ul><li class="content-list-item"><a href="/fr/grands-projets.html" class="url"><div class="article" style="background-image:url(&#039;/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil/_attribute/header%5B1%5D/header-illustration/image/grands%20projets_max350x350.jpg?objectId=defaultWebContent://7128d557-1e38-48c3-a536-795930748811&#039;);"><div class="encart"><span class="url noIcon"></span><h2><span class="theme_title">Grands projets</span></h2></div></div></a></li><li class="content-list-item even"><a href="https://aides.univ-st-etienne.fr/fr/index.html" class="url"><div class="article" style="background-image:url(&#039;/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil/_attribute/header%5B2%5D/header-illustration/image/encart-mes-aides_max350x350.jpg?objectId=defaultWebContent://7128d557-1e38-48c3-a536-795930748811&#039;);"><div class="encart"><span class="url noIcon"></span><h2><span class="theme_title">Aides aux &eacute;tudiants</span></h2></div></div></a></li><li class="content-list-item"><a href="/fr/vie-de-campus/culture/les-rendez-vous-culturels.html" class="url"><div class="article" style="background-image:url(&#039;/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil/_attribute/header%5B3%5D/header-illustration/image/IMG_5134_max350x350.JPG?objectId=defaultWebContent://7128d557-1e38-48c3-a536-795930748811&#039;);"><div class="encart"><span class="url noIcon"></span><h2><span class="theme_title">Les rendez-vous culturels grand public</span></h2></div></div></a></li><li class="content-list-item even"><a href="/fr/salle-de-presse.html" class="url"><div class="article" style="background-image:url(&#039;/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil/_attribute/header%5B4%5D/header-illustration/image/UNE-THEMA-presse2_max350x350.jpg?objectId=defaultWebContent://7128d557-1e38-48c3-a536-795930748811&#039;);"><div class="encart"><span class="url noIcon"></span><h2><span class="theme_title">Salle de presse</span></h2></div></div></a></li><li class="content-list-item"><a href="/fr/international-1-1/etudiant-international-incoming-student.html" class="url"><div class="article" style="background-image:url(&#039;/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil/_attribute/header%5B5%5D/header-illustration/image/international_max350x350.jpg?objectId=defaultWebContent://7128d557-1e38-48c3-a536-795930748811&#039;);"><div class="encart"><span class="url noIcon"></span><h2><span class="theme_title">International students : more information </span></h2></div></div></a></li><li class="content-list-item even"><a href="/fr/tout-l-agenda.html" class="url"><div class="article" style="background-image:url(&#039;/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil/_attribute/header%5B6%5D/header-illustration/image/newsletter_max350x350.jpg?objectId=defaultWebContent://7128d557-1e38-48c3-a536-795930748811&#039;);"><div class="encart"><span class="url noIcon"></span><h2><span class="theme_title">Abonnez-vous &agrave; notre newsletter</span></h2></div></div></a></li></ul></li></ul><div class="clear-B"><!--empty--></div></div></div></div></div><div class="remonte_agenda"><div class="agenda"><h2>Agenda</h2><ul><li class="content-list-item"><div class="ametys-cms-content  wrapper"><p class="content-date"><abbr class="dtstart"><span title="2025-10-02T22:00:00.000Z" class="value-title"></span>03 oct. 2025</abbr></p><h3><a class="url trunk4" href="/fr/sciences-societe/agenda/actualites-a-venir/fete-de-la-science-2025.html">F&ecirc;te de la Science 2025</a></h3></div></li><li class="content-list-item"><div class="ametys-cms-content  wrapper"><p class="content-date"><abbr class="dtstart"><span title="2025-10-03T22:00:00.000Z" class="value-title"></span>04 oct. 2025</abbr></p><h3><a class="url trunk4" href="/fr/tout-l-agenda/annee-2025-2026/agenda-2025-2026/salon-studyrama-2025.html">L&#039;UJM au Salon Studyrama</a></h3></div></li><li class="content-list-item"><div class="ametys-cms-content  wrapper"><p class="content-date"><abbr class="dtstart"><span title="2025-10-12T22:00:00.000Z" class="value-title"></span>13 oct. 2025</abbr></p><h3><a class="url trunk4" href="/fr/international/zoom-sur/actualites/celebrons-l-echange-international-lors-des-erasmus-days-2025-du-13-au-18-octobre.html">Erasmus Day</a></h3></div></li><li class="content-list-item"><div class="ametys-cms-content  wrapper"><p class="content-date"><abbr class="dtstart"><span title="2025-10-14T15:45:00.000Z" class="value-title"></span>14 oct. 2025</abbr></p><h3><a class="url trunk4" href="/fr/sciences-societe/agenda/actualites-a-venir/la-fatigue-en-mouvement.html">Soir&eacute;e de lancement : la fatigue dans tous ses &eacute;tats</a></h3></div></li></ul><div class="link"><a href="/fr/tout-l-agenda.html">Tout l&#039;agenda</a></div><div class="clear-L"><!--empty--></div></div></div><div class="remonte_actualite_type2"><div data-ametys-zone="articles" id="ametys-cms-zone-articles"><div data-ametys-zone-level="2" id="ametys-cms-zone-articles-item-N10A34" class="first "><div class="ametys-cms-content header-content wrapper"><ul><li><ul><li class="content-list-item"><div><a href="/fr/formation/choisir-l-ujm-1.html"><h2 class="trunk2"><span class="content-title summary">Facult&eacute;s et Instituts UJM</span></h2><div class="content-illustration small"><img alt="image d&#039;un b&acirc;timent universitaire" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil-2/_attribute/header%5B1%5D/header-illustration/image/Une-compl%C3%A9mentaire-facs_max130x320.jpg?objectId=defaultWebContent://1aa5beb5-e9d4-4001-895f-54c28a045f8e" /></div><p class="content-abstract trunk2">Des vid&eacute;os pour d&eacute;couvrir nos facult&eacute;s et instituts ainsi que les diff&eacute;rents cursus propos&eacute;s.</p></a></div></li><li class="content-list-item even"><div><a href="/fr/direction-des-ressources-humaines/recrutement-et-concours.html"><h2 class="trunk2"><span class="content-title summary">Recrutements et concours</span></h2><div class="content-illustration small"><img alt="enseignants devant ses &eacute;l&egrave;ves, dans un amphith&eacute;atre" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil-2/_attribute/header%5B2%5D/header-illustration/image/Une-compl%C3%A9mentaire-SUP_max130x320.jpg?objectId=defaultWebContent://1aa5beb5-e9d4-4001-895f-54c28a045f8e" /></div><p class="content-abstract trunk2">Rejoignez une universit&eacute; qui s&#039;engage pour la r&eacute;ussite de ses &eacute;tudiants.</p></a></div></li><li class="content-list-item"><div><a href="/fr/direction-du-numerique/les-services-numeriques.html"><h2 class="trunk2"><span class="content-title summary">Les services num&eacute;riques</span></h2><div class="content-illustration small"><img alt="&eacute;tudiant devant son pc" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil-2/_attribute/header%5B3%5D/header-illustration/image/Une-compl%C3%A9mentaire-numerique_max130x320.jpg?objectId=defaultWebContent://1aa5beb5-e9d4-4001-895f-54c28a045f8e" /></div><p class="content-abstract trunk2">&Eacute;tudiants et personnels UJM, retrouvez les outils et services num&eacute;riques &agrave; votre disposition.</p></a></div></li><li class="content-list-item even"><div><a href="https://fondation.univ-st-etienne.fr/fr/index.html"><h2 class="trunk2"><span class="content-title summary">La Fondation</span></h2><div class="content-illustration small"><img alt="logo de la fondation de l&#039;universit&eacute; jean monnet" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil-2/_attribute/header%5B4%5D/header-illustration/image/fondation-site-ujm_max130x320.jpg?objectId=defaultWebContent://1aa5beb5-e9d4-4001-895f-54c28a045f8e" /></div><p class="content-abstract trunk2">Soutenir la Fondation, c&#039;est soutenir l&#039;Universit&eacute; Jean Monnet<br /></p></a></div></li><li class="content-list-item"><div><a href="/fr/vie-de-campus/actualites.html"><h2 class="trunk2"><span class="content-title summary">Vie &eacute;tudiante</span></h2><div class="content-illustration small"><img alt="photo du campus tr&eacute;filerie " src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil-2/_attribute/header%5B5%5D/header-illustration/image/Une-complementaire-Vie-etudiante_max130x320.jpg?objectId=defaultWebContent://1aa5beb5-e9d4-4001-895f-54c28a045f8e" /></div><p class="content-abstract trunk2">Retrouvez les actualit&eacute;s de la vie &eacute;tudiante propos&eacute;es par l&#039;Universit&eacute;.</p></a></div></li><li class="content-list-item even"><div><a href="/fr/suaps.html"><h2 class="trunk2"><span class="content-title summary">Le Sport &agrave; l&#039;UJM</span></h2><div class="content-illustration small"><img alt="jeune fille jouant au badminton" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/accueil-element-accueil-2/_attribute/header%5B6%5D/header-illustration/image/Une-compl%C3%A9mentaire-sport_max130x320.jpg?objectId=defaultWebContent://1aa5beb5-e9d4-4001-895f-54c28a045f8e" /></div><p class="content-abstract trunk2">Toutes les activit&eacute;s sportives propos&eacute;es par le SUAPS (Service universitaire des activit&eacute;s physiques et sportives).</p></a></div></li></ul></li></ul><div class="clear-B"><!--empty--></div></div></div><div data-ametys-zone-level="2" id="ametys-cms-zone-articles-item-N10E41" class="even last"><div class="ametys-cms-content  wrapper"><span class="link-list"></span><span class="entete-liste-liens"></span><div class="content-richtext-end"><!--empty--></div><ul class="links"><li class="first "><a class="label" title="" href="https://www.univ-st-etienne.fr/fr/index.html" onclick="window.open(this.href); return false;"><img class="thumbnail" alt="espace blanc servant de s&eacute;parateur pour les logos" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/nouvelle-liste-de-liens/_attribute/link%5B1%5D/link-illustration/link-image/Sans%20titre%202(1)_max174x174.jpg?objectId=defaultWebContent://1c6efcfd-3c8f-492d-bb99-085f92efab01" /></a><div class="content-richtext-end"><!--
+					empty
+				--></div></li><li class="even "><a class="label" title="" href="https://www.univ-st-etienne.fr/fr/index.html" onclick="window.open(this.href); return false;"><img class="thumbnail" alt="espace blanc servant de s&eacute;parateur pour les logos" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/nouvelle-liste-de-liens/_attribute/link%5B2%5D/link-illustration/link-image/Sans%20titre%202(1)_max174x174.jpg?objectId=defaultWebContent://1c6efcfd-3c8f-492d-bb99-085f92efab01" /></a><div class="content-richtext-end"><!--
+					empty
+				--></div></li><li class=""><a class="label" title="" href="https://transform4europe.eu/" onclick="window.open(this.href); return false;"><img class="thumbnail" alt="logo de transform 4europe" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/nouvelle-liste-de-liens/_attribute/link%5B3%5D/link-illustration/link-image/Transform4europe174x174_max174x174.png?objectId=defaultWebContent://1c6efcfd-3c8f-492d-bb99-085f92efab01" /></a><div class="content-richtext-end"><!--
+					empty
+				--></div></li><li class="even "><a class="label" title="" href="https://www.univ-st-etienne.fr/fr/universite/hrs4r-1.html" onclick="window.open(this.href); return false;"><img class="thumbnail" alt="logo hr excellence research" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/nouvelle-liste-de-liens/_attribute/link%5B4%5D/link-illustration/link-image/HR174x174_max174x174.png?objectId=defaultWebContent://1c6efcfd-3c8f-492d-bb99-085f92efab01" /></a><div class="content-richtext-end"><!--
+					empty
+				--></div></li><li class=""><a class="label" title="" href="https://www.campusfrance.org/fr/le-label-bienvenue-en-france" onclick="window.open(this.href); return false;"><img class="thumbnail" alt="logo bienvenue en france" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/nouvelle-liste-de-liens/_attribute/link%5B5%5D/link-illustration/link-image/bienvenueenfrance174x174_max174x174.png?objectId=defaultWebContent://1c6efcfd-3c8f-492d-bb99-085f92efab01" /></a><div class="content-richtext-end"><!--
+					empty
+				--></div></li><li class="even last"><a class="label" title="" href="https://www.univ-st-etienne.fr/fr/index.html" onclick="window.open(this.href); return false;"><img class="thumbnail" alt="espace blanc servant de s&eacute;parateur pour les logos" src="/_contents/ametys-internal%253Asites/ujm/ametys-internal%253Acontents/nouvelle-liste-de-liens/_attribute/link%5B6%5D/link-illustration/link-image/Sans%20titre%202(1)_max174x174.jpg?objectId=defaultWebContent://1c6efcfd-3c8f-492d-bb99-085f92efab01" /></a><div class="content-richtext-end"><!--
+					empty
+				--></div></li></ul></div></div></div><div class="clear-B"><!--empty--></div></div></div></div><div class="footer container"><div class="bg_orange"><div class="row"><div class="contact col-sm-5 col-md-12"><p><a href="/fr/universite/plans-d-acces.html"><img alt="Situation de l&#039;UJM" src="/skins/ustetienne/resources/img/carte.png" /></a><strong>Universit&eacute; Jean Monnet<br />Maison de l&rsquo;universit&eacute;</strong><p>10, Rue Tr&eacute;filerie &ndash; CS 82301</p><br /><p>42023 Saint-Etienne Cedex 2</p><br /><p>Tel : 04 77 42 17 00</p><br /></p></div><div class="footer-links col-sm-2 col-md-12"><ul><li><a href="/fr/liens-de-bas-de-page/actes-reglementaires.html">Actes r&eacute;glementaires</a></li><li><a href="/fr/liens-de-bas-de-page/marches-publics.html">March&eacute;s publics</a></li><li><a href="/fr/liens-de-bas-de-page/accessibilite.html">Accessibilit&eacute;</a></li><li><a href="/fr/liens-de-bas-de-page/contacts-plans-d-acces.html">Contacts - plans d&#039;acc&egrave;s</a></li><li><a href="/fr/liens-de-bas-de-page/mentions-legales.html">Mentions l&eacute;gales</a></li><li><a href="/fr/liens-de-bas-de-page/cookies-et-donnees-personnelles.html">Cookies et donn&eacute;es personnelles</a></li></ul></div><div class="logo col-sm-2 col-md-12"><a href="https://www.univ-st-etienne.fr/fr/index.html"><img height="97" width="68" alt="" src="/skins/ustetienne/resources/img/logo_footer_ujm.png" /></a></div></div></div><div class="footer-menu visible-md visible-lg footer-menu-img"><a name="menu"></a><ul class="art-hmenu"><li><a href="/fr/universite.html">Universit&eacute;</a><ul><li><a href="/fr/universite/presentation.html">Pr&eacute;sentation</a></li><li><a href="/fr/universite/orientations-strategiques.html">Orientations strat&eacute;giques </a></li><li><a href="/fr/universite/organisation.html">Organisation</a></li><li><a href="/fr/universite/les-campus.html">Les campus</a></li><li><a href="/fr/universite/fondation-2.html">Fondation</a></li><li><a href="/fr/universite/travailler-a-l-ujm.html">Travailler &agrave; l&#039;UJM</a></li></ul></li><li><a href="/fr/formation.html">Formation</a><ul><li><a href="/fr/formation/catalogue-des-formations.html">Catalogue des formations</a></li><li><a href="/fr/formation/inscriptions-admissions.html">Inscriptions / admissions</a></li><li><a href="/fr/formation/formation-continue.html">Formation Continue</a></li><li><a href="/fr/formation/regimes-specifiques.html">R&eacute;gimes sp&eacute;cifiques</a></li><li><a href="/fr/formation/orientation-insertion.html">Orientation / Insertion professionnelle</a></li><li><a href="/fr/formation/entrepreneuriat.html">Entrepreneuriat</a></li></ul></li><li><a href="/fr/international-1-1.html">International</a><ul><li><a href="/fr/international-1-1/etudiant-international-incoming-student.html">&Eacute;tudiant international/Incoming student</a></li><li><a href="/fr/international-1-1/partir-a-l-etranger.html">Partir &agrave; l&#039;&eacute;tranger</a></li><li><a href="/fr/international-1-1/projets-et-cooperations.html">Projets et coop&eacute;rations</a></li><li><a href="/fr/international-1-1/cilec-apprendre-le-francais.html">CILEC apprendre le francais</a></li><li><a href="/fr/international-1-1/enseignants-chercheurs-et-doctorants.html">Enseignants-chercheurs et doctorants</a></li><li><a href="/fr/international-1-1/charte-erasmus.html">Charte Erasmus +</a></li></ul></li><li><a href="/fr/recherche.html">Recherche</a><ul><li><a href="/fr/recherche/les-structures-de-recherche.html">Les structures de Recherche</a></li><li><a href="/fr/recherche/partenariat-et-valorisation.html">Partenariats / Valorisation</a></li><li><a href="/fr/recherche/etudes-doctorales.html">&Eacute;tudes doctorales et HDR</a></li><li><a href="/fr/recherche/culture-scientifique.html">Culture Scientifique</a></li></ul></li><li><a href="/fr/vie-de-campus.html">Vie de campus</a><ul><li><a href="/fr/vie-de-campus/actualites.html">Actualit&eacute;s</a></li><li><a href="/fr/vie-de-campus/bienvenue-a-l-ujm.html">Bienvenue &agrave; l&#039;UJM</a></li><li><a href="/fr/vie-de-campus/culture.html">Culture</a></li><li><a href="/fr/vie-de-campus/developpement-durable.html">D&eacute;veloppement durable</a></li><li><a href="/fr/vie-de-campus/associations-etudiantes.html">Associations &eacute;tudiantes</a></li><li><a href="/fr/vie-de-campus/soutien-aux-projets-etudiants.html">Soutien aux projets &eacute;tudiants</a></li><li><a href="/fr/vie-de-campus/engagement-etudiant.html">Engagement &eacute;tudiant</a></li><li><a href="/fr/vie-de-campus/parlement-etudiant.html">Parlement &Eacute;tudiant</a></li><li><a href="/fr/vie-de-campus/etudes-et-handicap.html">&Eacute;tudes et handicap</a></li><li><a href="/fr/vie-de-campus/vie-pratique.html">Vie pratique</a></li></ul></li><li><a href="/fr/ressources.html">Ressources</a><ul><li><a href="/fr/ressources/emploi-et-recrutement.html">Emploi et recrutement</a></li><li><a href="/fr/ressources/carte-multiservices.html">Carte multiservices</a></li></ul></li><li><a href="/fr/marches-publics.html">March&eacute;s publics</a></li></ul></div></div><script type="text/javascript"><!--
+
+                        (function() { // anonymous function for scope purposes
+                            // Show the information banner to the top of the page
+                            function showBanner()
+                            {
+                                if (ametysCookieConsentListener.length > 0)
+                                {
+                                    
+    
+        var html = '<div class="cookiebanner-wrapper" id="cookie-banner">'
+        + '<div class="cookiebanner">'
+        + '<div class="cookiebanner-info">'
+        + "En poursuivant votre navigation sur ce site, vous acceptez l'utilisation de cookies à des fins de mesure d'audience (statistiques anonymes)."
+        + ' '
+        + '</div>'
+        + '<div class="cookiebanner-buttons">'
+        + '<a href="javascript:ametysAcceptCookieConsent()" class="cookiebanner-accept">'
+        + "Accepter"
+        + '</a>'
+        + ' '
+        + '<a href="javascript:ametysRefuseCookieConsent()" class="cookiebanner-refuse">'
+        + "Refuser"
+        + '</a>'
+            
+            
+        + '</div>'
+        + '</div>'
+        + '</div>';
+    
+                                    $j(document.body).prepend(html).addClass('cookiebanner-visible');
+                                }
+                            }
+                        
+                            // Get the Internet Explorer version, return -1 if not IE
+                            function getInternetExplorerVersion() {
+                                var rv = -1;
+                                if ($j.browser.msie)  
+                                {
+                                    rv = $j.browser.version;
+                                } 
+                                
+                                return rv;
+                            }
+                            
+                            // Check the navigator value DoNotTrack to know if the signal is activated and equal to 1
+                            function notToTrack() {
+                                if ( (navigator.doNotTrack && (navigator.doNotTrack=='yes' || navigator.doNotTrack=='1'))
+                                    || ( navigator.msDoNotTrack && navigator.msDoNotTrack == '1') ) {
+                                    var isIE = (getInternetExplorerVersion()!=-1)
+                                    if (!isIE){    
+                                         return true;
+                                    }
+                                    return false;
+                                }
+                            }
+                        
+                            // If the signal equals 0, consent is true
+                            function isToTrack() {
+                                if ( navigator.doNotTrack && (navigator.doNotTrack=='no' || navigator.doNotTrack==0 )) {
+                                    return true;
+                                }
+                            }
+                            
+                            
+                            var consentCookie =  $j.cookie('ametysHasConsent');
+                            if (consentCookie == null) 
+                            {
+                                // The user has no cookies, we show the banner. 
+                                if (notToTrack()) 
+                                { 
+                                    // Internet explorer DoNotTrack is not activated. Do not ask for consent and just opt him out
+                                    ametysCallCookieConsentListener(false);
+                                } 
+                                else if (isToTrack()) 
+                                { 
+                                    // Internet explorer DoNotTrack is activated. Do not ask for consent and just opt him in
+                                    ametysCallCookieConsentListener(true);
+                                } 
+                                else 
+                                {
+                                       
+                                          ametysCallCookieConsentListener(true);
+                                      
+                                
+                                    // Otherwise ask the user
+                                    $j(window).on("load", showBanner);
+                                }
+                            } 
+                            else 
+                            {
+                                ametysCallCookieConsentListener(consentCookie == 'true');
+                            }
+                        })();
+                   
+// --></script></body></html>

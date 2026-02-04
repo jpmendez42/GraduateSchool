@@ -1,0 +1,33 @@
+﻿User-agent: OpenAI-Crawler
+Disallow: /
+
+User-agent: Googlebot-Bard
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: / 
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: *
+Disallow: /Error/
+Disallow: /Views/
+Disallow: /Content
+Disallow: /embed
+Disallow: /fonts
+Disallow: /scripts
+Disallow: /comentarios
+Disallow: /ssosubscriptions/
+Disallow: /AjaxCalls/
+Disallow: /informacaofinanceira/
+Disallow: /Bundles/
+Disallow: /pesquisa
+
+Sitemap: https://www.jornaldenegocios.pt/sitemap

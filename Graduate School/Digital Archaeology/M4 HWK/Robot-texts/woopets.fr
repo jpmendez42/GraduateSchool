@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /actions/assurance_iframe/
+Disallow: /connexion/
+Disallow: /tracking-ads/*
+Disallow: /ta/*
+Disallow: /poisson/*
+
+Disallow: /285432406/*
+Sitemap: https://www.woopets.fr/sitemap-news.xml
+

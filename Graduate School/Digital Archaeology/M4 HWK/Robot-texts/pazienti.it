@@ -1,0 +1,25 @@
+User-Agent: *
+Disallow: *?_escaped_fragment_*
+Disallow: /api/v1/
+Disallow: /api/v2/
+Disallow: /media-partner
+Disallow: /news-di-salute/tag/
+Disallow: /template/
+Disallow: /integratori-alimentari/
+Disallow: /contenuti/lettera/
+Disallow: *track_redirect?
+Disallow: *%2F
+
+Sitemap: https://www.pazienti.it/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/contents/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/posts/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/alimentazione/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/benessere/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/pets/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/news/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/questions/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/drugs/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/health_facilities/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/treatments_clusters/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/static_pages/sitemap.xml.gz
+Sitemap: https://www.pazienti.it/sitemaps/doctors/sitemap.xml.gz

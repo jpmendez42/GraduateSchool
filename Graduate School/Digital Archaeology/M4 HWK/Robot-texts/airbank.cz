@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin
+Disallow: /anketa/*
+Disallow: /open-api/*
+Disallow: /novinky-z-airbank/2017/open-api/*
+Sitemap: https://www.airbank.cz/sitemap.xml

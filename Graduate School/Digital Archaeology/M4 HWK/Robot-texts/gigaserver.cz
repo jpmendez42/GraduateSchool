@@ -1,0 +1,8 @@
+User-agent: SemrushBot
+Disallow: /domeny/overeni-dostupnosti-domen
+
+User-agent: *
+Disallow: /cart/check-bulk
+Disallow: /ticket
+
+Sitemap: https://www.gigaserver.cz/sitemap.xml

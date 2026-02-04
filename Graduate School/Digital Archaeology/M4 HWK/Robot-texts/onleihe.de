@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /de_tst_01/
+Disallow: /de_tst_05/
+Disallow: /de_tst_02/
+Disallow: /de_tst_03/
+Disallow: /goethe-test/
+Crawl-delay: 10

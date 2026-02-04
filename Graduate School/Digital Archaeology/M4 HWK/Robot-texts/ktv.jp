@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+User-agent: AhrefsBot
+User-agent: DotBot
+User-agent: BLEXBot
+User-agent: MJ12bot
+User-agent: Bytespider
+User-agent: SemrushBot
+Disallow: /
+
+Sitemap: https://www.ktv.jp/sitemap.xml

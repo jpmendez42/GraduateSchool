@@ -1,0 +1,60 @@
+
+# XML Sitemap & Google News Feeds - http://status301.net/wordpress-plugins/xml-sitemap-feed/
+Sitemap: https://www.cnetfrance.fr/sitemap-news.xml
+
+# Allow all
+User-agent: *
+Disallow: /6975/FR/
+Disallow: /shopredirect.htm
+Disallow: /?s=
+Disallow: /?sort=
+Disallow: /search
+Disallow: /newreply
+Disallow: /printthread
+Disallow: /sendmessage
+Disallow: /subscription
+Disallow: /newthread.php
+Disallow: /index.php
+Disallow: /showthread
+Disallow: /archive/
+Disallow: /user/
+Disallow: /api/prices.html
+Disallow: /ajax/api/node/incrementNodeview
+Disallow: /telecharger/ajax/
+Disallow: /telecharger/recherche/
+Disallow: /telecharger/*-telechargement.htm
+Disallow: /telecharger/*-merci.htm
+Disallow: /rechercher/
+Disallow: /amp/
+Disallow: /39
+Disallow: /auteur/*/page/
+Disallow: /telecharger/recherche?
+Disallow: /telecharger/categorie/
+Disallow: /post-sitemap*.xml
+Disallow: /wp-content/themes/cnet/assets/images/icons/svg/icon-buyers-guides--day.svg
+User-agent: Mediapartners-Google
+Allow: /6975/FR/
+
+User-agent: CCBot
+Crawl-delay: 2
+
+Sitemap: https://www.cnetfrance.fr/sitemap_index.xml
+Sitemap: https://www.cnetfrance.fr/sitemap-news.xml
+Sitemap: https://www.cnetfrance.fr/sitemap-contenu-index.xml
+Sitemap: https://www.cnetfrance.fr/sitemap-images.xml
+Sitemap: https://www.cnetfrance.fr/telecharger/telechargements.xml.gz
+Sitemap: https://www.cnetfrance.fr/telecharger/telechargements-inactif.xml.gz
+
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow: /?s=
+Disallow: /page/*/?s=
+Disallow: /search/
+Disallow: /wp-json/
+Disallow: /?rest_route=
+
+Sitemap: https://www.cnetfrance.fr/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

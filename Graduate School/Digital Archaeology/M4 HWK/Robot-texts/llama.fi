@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>DL Pro API</title><link rel="stylesheet" href="/assets/en_US-AV7YDYDW-DFoqFU6g.css"/><link rel="stylesheet" href="/assets/index-D5IVXxmt.css"/></head><body><div data-rk=""><style>[data-rk]{--rk-blurs-modalOverlay:blur(4px);--rk-fonts-body:-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";--rk-radii-actionButton:10px;--rk-radii-connectButton:8px;--rk-radii-menuButton:8px;--rk-radii-modal:16px;--rk-radii-modalMobile:18px;--rk-colors-accentColor:#3898FF;--rk-colors-accentColorForeground:#FFF;--rk-colors-actionButtonBorder:rgba(255, 255, 255, 0.04);--rk-colors-actionButtonBorderMobile:rgba(255, 255, 255, 0.08);--rk-colors-actionButtonSecondaryBackground:rgba(255, 255, 255, 0.08);--rk-colors-closeButton:rgba(224, 232, 255, 0.6);--rk-colors-closeButtonBackground:rgba(255, 255, 255, 0.08);--rk-colors-connectButtonBackground:#1A1B1F;--rk-colors-connectButtonBackgroundError:#FF494A;--rk-colors-connectButtonInnerBackground:linear-gradient(0deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.15));--rk-colors-connectButtonText:#FFF;--rk-colors-connectButtonTextError:#FFF;--rk-colors-connectionIndicator:#30E000;--rk-colors-downloadBottomCardBackground:linear-gradient(126deg, rgba(0, 0, 0, 0) 9.49%, rgba(120, 120, 120, 0.2) 71.04%), #1A1B1F;--rk-colors-downloadTopCardBackground:linear-gradient(126deg, rgba(120, 120, 120, 0.2) 9.49%, rgba(0, 0, 0, 0) 71.04%), #1A1B1F;--rk-colors-error:#FF494A;--rk-colors-generalBorder:rgba(255, 255, 255, 0.08);--rk-colors-generalBorderDim:rgba(255, 255, 255, 0.04);--rk-colors-menuItemBackground:rgba(224, 232, 255, 0.1);--rk-colors-modalBackdrop:rgba(0, 0, 0, 0.5);--rk-colors-modalBackground:#1A1B1F;--rk-colors-modalBorder:rgba(255, 255, 255, 0.08);--rk-colors-modalText:#FFF;--rk-colors-modalTextDim:rgba(224, 232, 255, 0.3);--rk-colors-modalTextSecondary:rgba(255, 255, 255, 0.6);--rk-colors-profileAction:rgba(224, 232, 255, 0.1);--rk-colors-profileActionHover:rgba(224, 232, 255, 0.2);--rk-colors-profileForeground:rgba(224, 232, 255, 0.05);--rk-colors-selectedOptionBorder:rgba(224, 232, 255, 0.1);--rk-colors-standby:#FFD641;--rk-shadows-connectButton:0px 4px 12px rgba(0, 0, 0, 0.1);--rk-shadows-dialog:0px 8px 32px rgba(0, 0, 0, 0.32);--rk-shadows-profileDetailsAction:0px 2px 6px rgba(37, 41, 46, 0.04);--rk-shadows-selectedOption:0px 2px 6px rgba(0, 0, 0, 0.24);--rk-shadows-selectedWallet:0px 2px 6px rgba(0, 0, 0, 0.24);--rk-shadows-walletLogo:0px 2px 16px rgba(0, 0, 0, 0.16);}</style><header class="min-h-[64px] py-3 px-5 flex items-center justify-between gap-4"></header><div class="flex flex-col gap-3 w-full max-w-6xl xl:max-w-7xl 2xl:max-w-[1440px] mx-auto pb-[64px] px-5 relative"><div class="relative h-[118px] w-[118px] aspect-square object-contain mx-auto rounded-full"><div style="filter:blur(64px);background:linear-gradient(90deg, #5C5EFC 0%, #462A92 100%)" class="h-[132px] w-[132px] aspect-square object-contain mx-auto rounded-full absolute -z-10"></div><img src="/pro.png" height="118" width="118" class="aspect-square object-contain mx-auto rounded-full z-10"/></div><h1 class="text-[2rem] font-[800] text-center">DL Pro API</h1><p class="text-[#919296] text-center">Upgrade now for increased api limits and premium api endpoints. DefiLlama contributors will have free 3 month access to premium API.</p><div class="h-[132px] w-[90%] mx-auto rounded-[50%] relative -bottom-[87px] -mb-[45px] -z-10" style="filter:blur(64px);background:linear-gradient(90deg, #5C5EFC 0%, #462A92 100%)"></div><div class="pricing-container bg-[#222429] border border-[#39393E] rounded-2xl flex flex-row relative z-10 overflow-x-auto max-lg:-mx-5"><div class="price-card py-10 px-5 lg:flex-1 flex flex-col max-lg:w-[85vw] flex-shrink-0"><h2 class="whitespace-nowrap text-[2rem] font-[800] text-center">Open API</h2><p class="text-center text-2xl font-medium mt-3">Free</p><p class="text-center font-medium text-[#8a8c90]">Check the<!-- --> <a href="https://defillama.com/docs/api" target="_blank" rel="noreferrer noopener" class="underline">open API doc</a></p><ul class="flex flex-col mx-auto gap-4 mt-11 mb-auto"><li class="flex flex-nowrap gap-[10px]"><svg class="flex-shrink-0 relative top-1" height="16" width="16"><use href="/icons.svg#check"></use></svg><span>Access to TVL, revenue/fees and prices</span></li><li class="text-[#8a8c90] flex flex-nowrap gap-[10px]"><svg class="flex-shrink-0 relative top-1" height="16" width="16"><use href="/icons.svg#x"></use></svg><span>Access to all data (unlocks, active users, token liq...)</span></li><li class="px-[26px] flex flex-col gap-1"><span>10-200 requests/minutes</span><div class="h-1 rounded-full w-full" style="background:linear-gradient(90deg, #5c5cf9 12%, #696a6d 12%)"></div></li><li class="px-[26px] flex flex-col gap-1"><span>0 calls/month</span><div class="h-1 rounded-full w-full" style="background:linear-gradient(90deg, #5c5cf9 0%, #696a6d 0%)"></div></li><li class="px-[26px] flex flex-col gap-1">Support on public Discord</li></ul><a href="https://defillama.com/docs/api" target="_blank" rel="noreferrer noopener" class="flex-shrink-0 relative -top-2 font-medium rounded-lg border border-[#39393E] py-[14px] w-full max-w-[200px] text-center mx-auto mt-16">Open API doc</a></div><div class="price-card py-10 px-5 lg:flex-1 flex flex-col border-l border-[#39393E] max-lg:w-[85vw] flex-shrink-0"><h2 class="whitespace-nowrap text-[2rem] font-[800] text-center text-[#5C5CF9]">Pro API</h2><p class="text-center text-2xl font-medium mt-3">300 USD <span class="text-[#8a8c90]">/month</span></p><p class="text-center font-medium text-[#8a8c90]">Multiple payment options</p><ul class="flex flex-col mx-auto gap-4 mt-11 mb-auto"><li class="flex flex-nowrap gap-[10px]"><svg class="flex-shrink-0 relative top-1" height="16" width="16"><use href="/icons.svg#check"></use></svg><span>Access to TVL, revenue/fees and prices</span></li><li class="flex flex-nowrap gap-[10px]"><svg class="flex-shrink-0 relative top-1" height="16" width="16"><use href="/icons.svg#check"></use></svg><span>Access to all data (unlocks, active users, token liq...)</span></li><li class="px-[26px] flex flex-col gap-1"><span>1000 requests/minute</span><div class="h-1 rounded-full w-full" style="background:linear-gradient(90deg, #5c5cf9 100%, #696a6d 100%)"></div></li><li class="px-[26px] flex flex-col gap-1"><span>1M calls/month</span><div class="h-1 rounded-full w-full" style="background:linear-gradient(90deg, #5c5cf9 100%, #696a6d 100%)"></div></li><li class="px-[26px] flex flex-col gap-1">Priority support</li></ul><a href="https://stripe.com" target="_blank" rel="noreferrer noopener" class="relative -top-2 flex items-center justify-center gap-1 font-medium rounded-lg border border-[#39393E] bg-[#5C5CF9] py-[14px] w-full max-w-[200px] text-center mx-auto shadow-[0px_0px_32px_0px_#5C5CF980]"><span>Pay with Stripe</span><svg class="flex-shrink-0 undefined" height="16" width="16"><use href="/icons.svg#card"></use></svg></a><a href="https://defillama.com/pro-api/docs" target="_blank" rel="noreferrer noopener" class="-mb-8 mt-2 text-center underline text-[#8a8c90]">Click here a full lists of all endpoints available in Pro</a></div><div class="price-card py-10 px-5 lg:flex-1 flex flex-col border-l border-[#39393E] max-lg:w-[85vw] flex-shrink-0"><h2 class="text-[2rem] font-[800] text-center flex flex-nowrap items-center justify-center gap-1"><span>Contributor</span><div class="flex flex-nowrap items-center justify-center gap-1 relative top-1"><span class="sr-only">Availability</span><svg class="flex-shrink-0 undefined" height="16" width="16"><use href="/icons.svg#circle-help"></use></svg></div><span id=":R2htkb5:" style="position:fixed" hidden=""></span></h2><p class="text-center text-2xl font-medium mt-3">Free</p><p class="text-center font-medium text-[#8a8c90]">For all Github contributors</p><ul class="flex flex-col mx-auto gap-4 mt-11 mb-auto"><li class="flex flex-nowrap gap-[10px]"><svg class="flex-shrink-0 relative top-1" height="16" width="16"><use href="/icons.svg#check"></use></svg><span>Access to TVL, revenue/fees and prices</span></li><li class="flex flex-nowrap gap-[10px]"><svg class="flex-shrink-0 relative top-1" height="16" width="16"><use href="/icons.svg#check"></use></svg><span>Access to all data (unlocks, active users, token liq...)</span></li><li class="px-[26px] flex flex-col gap-1"><span>1000 requests/minute</span><div class="h-1 rounded-full w-full" style="background:linear-gradient(90deg, #5c5cf9 100%, #696a6d 100%)"></div></li><li class="px-[26px] flex flex-col gap-1"><span>200k calls/month</span><div class="h-1 rounded-full w-full" style="background:linear-gradient(90deg, #5c5cf9 20%, #696a6d 20%)"></div></li><li class="px-[26px] flex flex-col gap-1">Priority support</li></ul><button class="relative -top-2 flex items-center justify-center flex-nowrap gap-2 font-medium rounded-lg border border-[#39393E] py-[14px] w-full max-w-[200px] text-center mx-auto mt-16 bg-black disabled:cursor-not-allowed"><svg class="flex-shrink-0 undefined" height="16" width="16"><use href="/icons.svg#github"></use></svg><span>Signing in...</span></button></div></div><div class="flex items-center justify-center flex-nowrap gap-2 lg:hidden mb-3"><button class="h-3 w-3 bg-[#39393E] data-[active=true]:bg-[#5c5cf9] rounded-full flex-shrink-0" data-active="true" disabled=""><span class="sr-only">go to pricing type 1</span></button><button class="h-3 w-3 bg-[#39393E] data-[active=true]:bg-[#5c5cf9] rounded-full flex-shrink-0" data-active="false" disabled=""><span class="sr-only">go to pricing type 2</span></button><button class="h-3 w-3 bg-[#39393E] data-[active=true]:bg-[#5c5cf9] rounded-full flex-shrink-0" data-active="false" disabled=""><span class="sr-only">go to pricing type 3</span></button></div></div><footer class="mt-auto py-3 px-5 flex flex-wrap items-center justify-center gap-4 text-[#8a8c90]"><a href="/cdn-cgi/l/email-protection#c2b1b7b2b2adb0b682aeaea3afa3eca4ab" class="underline">Contact Us</a><a class="underline" href="/privacy-policy" data-discover="true">Privacy Policy</a><a class="underline" href="/fulfillment-policies" data-discover="true">Fulfillment policies</a></footer></div><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>((storageKey2, restoreKey) => {
+    if (!window.history.state || !window.history.state.key) {
+      let key = Math.random().toString(32).slice(2);
+      window.history.replaceState({ key }, "");
+    }
+    try {
+      let positions = JSON.parse(sessionStorage.getItem(storageKey2) || "{}");
+      let storedY = positions[restoreKey || window.history.state.key];
+      if (typeof storedY === "number") {
+        window.scrollTo(0, storedY);
+      }
+    } catch (error) {
+      console.error(error);
+      sessionStorage.removeItem(storageKey2);
+    }
+  })("react-router-scroll-positions", null)</script><link rel="modulepreload" href="/assets/entry.client-BwtJzrCR.js"/><link rel="modulepreload" href="/assets/chunk-D52XG6IA-Cuj-vLnt.js"/><link rel="modulepreload" href="/assets/index-y1eGAyYZ.js"/><link rel="modulepreload" href="/assets/with-props-D4tgRP-W.js"/><link rel="modulepreload" href="/assets/en_US-AV7YDYDW-DYaSfm6x.js"/><link rel="modulepreload" href="/assets/root-DlYaEepr.js"/><link rel="modulepreload" href="/assets/home-page-lqqKgMSU.js"/><script>window.__reactRouterContext = {"basename":"/","future":{"unstable_optimizeDeps":false},"isSpaMode":false};window.__reactRouterContext.stream = new ReadableStream({start(controller){window.__reactRouterContext.streamController = controller;}}).pipeThrough(new TextEncoderStream());</script><script type="module" async="">;
+import * as route0 from "/assets/root-DlYaEepr.js";
+import * as route1 from "/assets/home-page-lqqKgMSU.js";
+  window.__reactRouterManifest = {
+  "entry": {
+    "module": "/assets/entry.client-BwtJzrCR.js",
+    "imports": [
+      "/assets/chunk-D52XG6IA-Cuj-vLnt.js",
+      "/assets/index-y1eGAyYZ.js"
+    ],
+    "css": []
+  },
+  "routes": {
+    "root": {
+      "id": "root",
+      "path": "",
+      "hasAction": false,
+      "hasLoader": false,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasErrorBoundary": true,
+      "module": "/assets/root-DlYaEepr.js",
+      "imports": [
+        "/assets/chunk-D52XG6IA-Cuj-vLnt.js",
+        "/assets/index-y1eGAyYZ.js",
+        "/assets/with-props-D4tgRP-W.js",
+        "/assets/en_US-AV7YDYDW-DYaSfm6x.js"
+      ],
+      "css": [
+        "/assets/en_US-AV7YDYDW-DFoqFU6g.css"
+      ]
+    },
+    "home-page": {
+      "id": "home-page",
+      "parentId": "root",
+      "index": true,
+      "hasAction": false,
+      "hasLoader": false,
+      "hasClientAction": false,
+      "hasClientLoader": false,
+      "hasErrorBoundary": false,
+      "module": "/assets/home-page-lqqKgMSU.js",
+      "imports": [
+        "/assets/with-props-D4tgRP-W.js",
+        "/assets/chunk-D52XG6IA-Cuj-vLnt.js",
+        "/assets/en_US-AV7YDYDW-DYaSfm6x.js",
+        "/assets/index-y1eGAyYZ.js"
+      ],
+      "css": [
+        "/assets/en_US-AV7YDYDW-DFoqFU6g.css"
+      ]
+    }
+  },
+  "url": "/assets/manifest-b09d8d48.js",
+  "version": "b09d8d48"
+};
+  window.__reactRouterRouteModules = {"root":route0,"home-page":route1};
+
+import("/assets/entry.client-BwtJzrCR.js");</script></body></html><!--$?--><template id="B:0"></template><!--/$--><div hidden id="S:0"><script>window.__reactRouterContext.streamController.enqueue("[{\"_1\":2,\"_5\":-5,\"_6\":-5},\"loaderData\",{\"_3\":-5,\"_4\":-5},\"root\",\"home-page\",\"actionData\",\"errors\"]\n");</script><!--$?--><template id="B:1"></template><!--/$--></div><script>function $RC(a,b){a=document.getElementById(a);b=document.getElementById(b);b.parentNode.removeChild(b);if(a){a=a.previousSibling;var f=a.parentNode,c=a.nextSibling,e=0;do{if(c&&8===c.nodeType){var d=c.data;if("/$"===d)if(0===e)break;else e--;else"$"!==d&&"$?"!==d&&"$!"!==d||e++}d=c.nextSibling;f.removeChild(c);c=d}while(c);for(;b.firstChild;)f.insertBefore(b.firstChild,c);a.data="$";a._reactRetry&&a._reactRetry()}};$RC("B:0","S:0")</script><div hidden id="S:1"><script>window.__reactRouterContext.streamController.close();</script></div><script>$RC("B:1","S:1")</script>

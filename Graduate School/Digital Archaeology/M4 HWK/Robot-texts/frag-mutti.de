@@ -1,0 +1,33 @@
+User-agent: *
+Disallow: /images/team/
+Disallow: /API/
+Disallow: /APIv2/
+Disallow: /APIv3/
+Disallow: /tippsammlung/
+Disallow: /slider-images/
+Disallow: /bing_api/
+Disallow: /sounds_good/
+Disallow: /merch/
+Disallow: /json/
+Disallow: /includes/
+Disallow: /dlk/
+
+User-agent: sistrix
+Allow: /dlk/
+
+User-agent: MauiBot
+Disallow: /
+
+User-agent: Semrush
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: SentiBot
+Disallow: /
+
+User-agent: Paracrawl
+Disallow: /
+
+Sitemap: https://www.frag-mutti.de/sitemap.xml

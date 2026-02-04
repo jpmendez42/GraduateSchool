@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /fileadmin/_temp_/
+Disallow: /typo3/
+Disallow: /typo3conf/
+Disallow: /uploads/
+
+Allow: /fileadmin/_processed_/
+Allow: /typo3temp/
+
+Sitemap: https://www.dgb.de/sitemap.xml

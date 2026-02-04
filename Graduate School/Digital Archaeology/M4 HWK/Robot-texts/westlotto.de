@@ -1,0 +1,27 @@
+
+User-agent: *
+Disallow: /quicktipp/
+Disallow: /quickplay/
+Disallow: /api/
+Disallow: /secure/mein-westlotto/
+Disallow: /secure/spielschein-dauertipp/
+Disallow: /newsroom/author/
+Disallow: /registrationCustomerData/init
+Disallow: /startseite.html
+Disallow: /wlinfo/
+Disallow: /infoservice/systemauswertung/*.html
+Disallow: /infoservice/systemauswertung/css/
+Disallow: /newsroom/category/
+Disallow: /newsroom/portfolio*/
+Disallow: /registrierung/pop/
+Disallow: /karriere/job/initiativbewerbu*/
+
+User-agent: SemrushBot
+User-agent: SemrushBot-SA
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://www.westlotto.de/sitemap_normalized.xml
+Sitemap: https://www.westlotto.de/newsroom/sitemap_index.xml
+Sitemap: https://www.westlotto.de/karriere/sitemap_index.xml
+

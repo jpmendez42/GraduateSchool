@@ -1,0 +1,10 @@
+User-agent: *
+Sitemap: https://mamari.jp/sitemaps/sitemap_index.xml
+Disallow: /api/
+Disallow: /article/
+Disallow: /terms
+Disallow: /privacy
+Disallow: /search?q=
+
+User-agent: bingbot
+Crawl-delay: 3

@@ -1,0 +1,202 @@
+#
+# robots.txt 
+# www.vertbaudet.fr
+#
+
+User-agent: Googlebot
+Allow: /
+Disallow: /Catalog/Browse
+
+User-agent: *
+Disallow: 
+Disallow: /.well-known/assetlinks.json
+Disallow: /Catalog/Browse
+Disallow: /Catalog/GetSuggestionListContent
+Disallow: /store/searchstore/
+Disallow: /Seller/*
+Disallow: /Views/
+Disallow: /Externe/
+Disallow: /customer/*
+Disallow: /Catalog/QuickLook?ClassModel=*
+Disallow: /404.html?
+Disallow: /web/compte/
+Disallow: /web/panier/popup_privilege.aspx
+Disallow: /page/conditions_vente
+Disallow: /ados
+Disallow: /page/paiement-annule.htm
+Disallow: /page/paiement-refuse-report.htm
+Disallow: /page/paiement-refuse.htm
+Disallow: /mes-ptites-listes/wl/
+Disallow: /*landing*
+Disallow: /liste*
+Disallow: /Liste*
+Disallow: /shop/ambiance-*/*.htm
+Disallow: /shop/Look-*/*.htm
+Disallow: */BirthList/*
+Disallow: /top/Recherche.htm*
+
+#aspx
+Disallow: *livraison.aspx*
+Disallow: *commandes.aspx*
+Disallow: /default.aspx*
+Disallow: /Commandes.aspx*
+Disallow: /modificationcompte.aspx*
+Disallow: /panier.aspx*
+Disallow: /views/*aspx*
+Disallow: /authentification.aspx*
+Disallow: /espaceclient.aspx*
+Disallow: /desinscriptionnewsletter.aspx*
+Disallow: /enregistrement.aspx*
+Disallow: /Enregistrement.aspx*
+Disallow: /consultationcartecadeaux.aspx*
+Disallow: /Consultation.aspx*
+Disallow: /action.aspx*
+
+#Filtres
+Disallow: /*/*=*.htm
+Allow: /*/*=*.htm?*
+
+Allow: /*genre=*.htm$
+Disallow: /*genre=*/*=*.htm
+Disallow: /*genre=*+*.htm
+Disallow: /*=*/genre=*.htm
+
+Allow: /*Genre=*.htm$
+Disallow: /*Genre=*/*=*.htm
+Disallow: /*Genre=*+*.htm
+Disallow: /*=*/Genre=*.htm
+
+Allow: /*taille=*.htm$
+Disallow: /*taille=*/*=*.htm
+Disallow: /*taille=*+*.htm
+Disallow: /*=*/taille=*.htm
+
+Allow: /*couleur=*.htm$
+Disallow: /*couleur=*/*=*.htm
+Disallow: /*couleur=*+*.htm
+Disallow: /*=*/couleur=*.htm
+
+Allow: /*normes_siege_auto=*.htm$
+Disallow: /*normes_siege_auto=*/*=*.htm
+Disallow: /*normes_siege_auto=*+*.htm
+Disallow: /*=*/normes_siege_auto=*.htm
+
+Allow: /*type=*.htm$
+Disallow: /*type=*/*=*.htm
+Disallow: /*type=*+*.htm
+Disallow: /*=*/type=*.htm
+
+Allow: /*longueur_manches=*.htm$
+Disallow: /*longueur_manches=*/*=*.htm
+Disallow: /*longueur_manches=*+*.htm
+Disallow: /*=*/longueur_manches=*.htm
+
+Allow: /*ouverture_body=*.htm$
+Disallow: /*ouverture_body=*/*=*.htm
+Disallow: /*ouverture_body=*+*.htm
+Disallow: /*=*/ouverture_body=*.htm
+
+Allow: /*Partog=*.htm$
+Disallow: /*Partog=*/*=*.htm
+Disallow: /*Partog=*+*.htm
+Disallow: /*=*/Partog=*.htm
+
+Allow: /*Saison=*.htm$
+Disallow: /*Saison=*/*=*.htm
+Disallow: /*Saison=*+*.htm
+Disallow: /*=*/Saison=*.htm
+
+Allow: /*mieux_choisir=*.htm$
+Disallow: /*mieux_choisir=*/*=*.htm
+Disallow: /*mieux_choisir=*+*.htm
+Disallow: /*=*/mieux_choisir=*.htm
+
+Allow: /*coupe_pantalon=*.htm$
+Disallow: /*coupe_pantalon=*/*=*.htm
+Disallow: /*coupe_pantalon=*+*.htm
+Disallow: /*=*/coupe_pantalon=*.htm
+
+Allow: /*gamme=*.htm$
+Disallow: /*gamme=*/*=*.htm
+Disallow: /*gamme=*+*.htm
+Disallow: /*=*/gamme=*.htm
+
+Allow: /*RSE=*.htm$
+Disallow: /*RSE=*/*=*.htm
+Disallow: /*RSE=*+*.htm
+Disallow: /*=*/RSE=*.htm
+
+Allow: /*technologie=*.htm$
+Disallow: /*technologie=*/*=*.htm
+Disallow: /*technologie=*+*.htm
+Disallow: /*=*/technologie=*.htm
+
+Allow: /*matiere=*.htm$
+Disallow: /*matiere=*/*=*.htm
+Disallow: /*matiere=*+*.htm
+Disallow: /*=*/matiere=*.htm
+
+Allow: /*marque=*.htm$
+Disallow: /*marque=*/*=*.htm
+Disallow: /*marque=*+*.htm
+Disallow: /*=*/marque=*.htm
+
+Allow: /*pointure=*.htm$
+Disallow: /*pointure=*/*=*.htm
+Disallow: /*pointure=*+*.htm
+Disallow: /*=*/pointure=*.htm
+
+Allow: /*fermeture-chaussures=*.htm
+Disallow: /*fermeture-chaussures=*/*=*.htm
+Disallow: /*fermeture-chaussures=*+*.htm
+Disallow: /*=*/fermeture-chaussures=*.htm
+
+#Shops
+Disallow: /lnd/*=*.htm
+Allow: /lnd/*page*.htm
+Disallow: /shop/*=*.htm
+Allow: /shop/*page*.htm
+Disallow: /produits-*/*=*.htm
+Allow: /produits-*/*page*.htm
+
+#Parametres
+Disallow: /*=*/page*.htm*
+Disallow: /*?*SilhouetteId=*
+Disallow: /*search=*
+Disallow: /*&OriginalPid=*
+Disallow: /*&t=12$
+Disallow: /*?*nouveautes=*
+Disallow: /*?*SearchTerms=*
+Disallow: /*?*SemId=*
+Disallow: /*?*Avgrate=*
+Disallow: /*?PageSize=*
+Disallow: /*?*nouveautes=*
+Disallow: /*?*meilleures_ventes=*
+Disallow: /*?*prix=*
+Disallow: /*?*sorting=*
+Disallow: /*?*reduction=*
+Disallow: /*?*Sort=*
+Disallow: /*?*StrategyCode=*
+Disallow: /*?*tool=*
+Disallow: /*?*&rid=*
+Disallow: /*?*MECA=*
+Disallow: /*?*bvstate=*
+Disallow: /*?*bvroute=*
+Disallow: /*?*ShowMoreIds=*
+Disallow: /*?*/reviews/product/*
+Disallow: /*SearchTrigger=*
+
+Disallow: /*?ProductId=*&FiltreCouleur=*2021-*
+Disallow: /*?ProductId=*&FiltreCouleur=*2022-*
+Disallow: /*?ProductId=*&FiltreCouleur=*2023-*
+Disallow: /*?ProductId=*&FiltreCouleur=*2024-*
+Disallow: /*?ProductId=*&FiltreCouleur=*2025-*
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: Dartagnan
+Disallow: /
+
+Sitemap: https://www.vertbaudet.fr/sitemap-index300.xml
+Sitemap: https://www.vertbaudet.fr/fstrz/sm/sitemap-index-bis-fr.xml

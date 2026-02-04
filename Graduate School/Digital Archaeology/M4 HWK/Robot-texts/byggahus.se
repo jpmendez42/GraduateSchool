@@ -1,0 +1,36 @@
+User-agent: AhrefsBot
+Crawl-delay: 10
+Disallow: /admin/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /leave/
+Disallow: /partner/
+Disallow: /sok/
+Disallow: /forum/watched/
+Disallow: /forum/watched/threads/all
+Disallow: /forum/participated
+Disallow: /forum/stall-fraga
+Disallow: /forum/search/
+
+User-agent: ClaudeBot
+Crawl-delay: 5
+Disallow: /sok/
+Disallow: /forum/search/
+
+User-agent: *
+Disallow: /api/
+Disallow: /forum/api/
+Disallow: /forum/app-api/
+Disallow: /forum/login/keep-alive
+Disallow: /admin/
+Disallow: /user/login/
+Disallow: /user/logout/
+Disallow: /leave/
+Disallow: /partner/
+Disallow: /forum/watched/
+Disallow: /forum/watched/threads/all
+Disallow: /forum/participated
+Disallow: /forum/stall-fraga
+
+Sitemap: https://www.byggahus.se/sitemap.xml
+Sitemap: https://www.byggahus.se/forum/sitemap.php

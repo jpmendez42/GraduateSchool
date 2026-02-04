@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /checkout/*
+Disallow: /Checkout/*
+Disallow: /acquisto-libri-usati/*
+Disallow: /ebook/acquista/*
+Disallow: /libri-universitari-usati-nuovi?*
+Disallow: /uc/ProductList.aspx*
+Sitemap: https://www.libraccio.it/sitemap/ssl/sitemapindex.xml

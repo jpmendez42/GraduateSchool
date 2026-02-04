@@ -1,0 +1,24 @@
+User-agent: *
+Host: tis-dialog.ru
+Allow: /
+Disallow: /ru/
+Disallow: /forum/
+Disallow: /bitrix/
+Disallow: /mobile/
+Disallow: /m/
+Disallow: /rus/
+Disallow: /prices/
+Disallow: /corp.html
+Disallow: /where.html
+Disallow: /support.html
+Disallow: /dsl.php
+Disallow: /card.html
+Disallow: /howtouse.html
+Disallow: /inet.html
+Disallow: /v92.pdf
+Disallow: /docs/
+
+User-agent: GPTBot
+Disallow: /
+
+Sitemap: https://tis-dialog.ru/sitemaps.php

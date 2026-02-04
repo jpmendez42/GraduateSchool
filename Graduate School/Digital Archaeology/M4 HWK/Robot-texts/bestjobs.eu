@@ -1,0 +1,55 @@
+# www.robotstxt.org/
+# www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449
+
+User-agent: *
+Disallow:
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: Mediatoolkitbot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow:/
+
+User-agent: GarlikCrawler
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: rogerbot
+Disallow: /
+
+User-agent: serpstatbot
+Disallow: /
+
+User-agent: AwarioRssBot
+User-agent: AwarioSmartBot
+Disallow: /
+
+User-agent: Googlebot
+Disallow:  /estimated-salary-info/*
+Disallow:  /ro/locuri-de-munca/beneficii/*
+Disallow:  /en/jobs/benefits/*
+Disallow:  /hu/allasok/juttatasok/*
+
+
+Sitemap: https://www.bestjobs.eu/sitemap/sitemap.xml
+Sitemap: https://www.bestjobs.eu/casual/sitemap_index.xml

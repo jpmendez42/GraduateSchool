@@ -1,0 +1,15 @@
+User-agent: *
+Host: dangcongsan.vnDisallow: /*.pdf$
+Disallow: /*.gif$
+Disallow: /*.doc$
+Disallow: /*.docx$
+Disallow: /*.xls$
+Disallow: /*.xlsx$
+Disallow: /*.PDF$
+Disallow: /*.GIF$
+Disallow: /*.DOC$
+Disallow: /*.DOCX$
+Disallow: /*.XLS$
+Disallow: /*.XLSX$
+Disallow: /*.txt$
+Disallow: /*.TXT$

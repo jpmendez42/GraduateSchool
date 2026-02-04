@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: /admin
+Disallow: /kms
+Disallow: /beta
+Disallow: /grocery_crud
+Disallow: /thirdparty
+Disallow: /scripts
+Sitemap: https://www.visionias.in/sitemap.xml
+Sitemap: https://visionias.in/current-affairs/sitemap.xml
+Sitemap:https://www.visionias.in/blog/sitemap.xml
+

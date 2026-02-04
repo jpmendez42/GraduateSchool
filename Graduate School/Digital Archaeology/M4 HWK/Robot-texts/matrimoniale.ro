@@ -1,0 +1,8 @@
+# robots.txt for https://www.matrimoniale.ro/
+
+User-agent: *
+Disallow: /test/
+Disallow: /related/
+Disallow: /media/uploads/
+
+Sitemap: https://www.matrimoniale.ro/sitemap.xml

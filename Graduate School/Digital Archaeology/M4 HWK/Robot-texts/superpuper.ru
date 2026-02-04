@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: /adm
+Disallow: /org
+Disallow: /ucp
+Disallow: /acp
+Disallow: /mcp
+Disallow: /cache
+Disallow: /memberlist.php
+Disallow: /styles
+Disallow: /index.php/
+Disallow: /uninvoiced_purchases.php
+Disallow: /organizers_debts.php
+Disallow: /migrations
+Disallow: /search_lots.php?
+Disallow: /search/
+Disallow: /cart.php
+Disallow: /notifications.php
+Disallow: /wishlist.php
+Disallow: /search.php
+Disallow: /viewtopic.php?f=293&t=47027&start=
+Disallow: /viewtopic.php?p=3453382
+Disallow: /viewtopic.php?p=2824149
+Disallow: /viewtopic.php?p=5095483
+Disallow: /viewtopic.php?p=5203028
+Disallow: /viewtopic.php?p=4741315
+Disallow: /viewtopic.php?f=293&t=47027
+Disallow: /viewtopic.php?f=139&t=47027
+Disallow: /viewtopic.php?p=4974240
+Disallow: /viewtopic.php?p=5054814
+Disallow: /viewtopic.php?p=4785595
+
+Sitemap: https://superpuper.ru/sitemaps/sitemap_index.xml.gz
+Host: https://superpuper.ru
+Crawl-delay: 0.5
+
+Clean-param: ym_p

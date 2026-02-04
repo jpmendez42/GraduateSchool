@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+User-agent: SemrushBot
+Disallow: /
+User-agent: AhrefsBot
+Disallow: /
+Sitemap: https://odishatv.in/webcontent-sitemap.xml
+Sitemap: https://odishatv.in/category-sitemap.xml
+Sitemap: https://odishatv.in/news-sitemap.xml
+Sitemap: https://odishatv.in/webstory-sitemap.xml

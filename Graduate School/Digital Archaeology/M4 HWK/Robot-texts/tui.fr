@@ -1,0 +1,6 @@
+User-Agent:*  
+Disallow: /voyage-sur-mesure/*/?destination=*
+Disallow: /*?vlight=1
+Disallow: /*Landing
+Disallow: /*Tunnel
+Disallow: /AccountClient/Confirmation/Index/*

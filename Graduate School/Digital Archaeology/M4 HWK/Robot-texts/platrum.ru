@@ -1,0 +1,44 @@
+User-agent: Yandex
+Disallow: /*?*
+Disallow: /*mailto:*
+Disallow: /*tel:*
+Disallow: /privacy.html
+Allow: /*.css
+Allow: /*.js
+Allow: /*.gif
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+Sitemap: https://platrum.ru/sitemap.xml
+
+
+User-agent: Googlebot
+Disallow: /*?rs=*
+Disallow: /*?utm*
+Disallow: /*?p=*
+Disallow: /*mailto:*
+Disallow: /*tel:*
+Disallow: /privacy.html
+Allow: /*.css
+Allow: /*.js
+Allow: /*.gif
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+Sitemap: https://platrum.ru/sitemap.xml
+
+User-agent: *
+Disallow: /*?*
+Disallow: /*mailto:*
+Disallow: /*tel:*
+Disallow: /privacy.html
+Allow: /*.css
+Allow: /*.js
+Allow: /*.gif
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.png
+Allow: /*.svg
+Sitemap: https://platrum.ru/sitemap.xml

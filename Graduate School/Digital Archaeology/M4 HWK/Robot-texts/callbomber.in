@@ -1,0 +1,41 @@
+# Robots.txt for CallBomber.in
+# Generated on 2025-01-20
+
+User-agent: *
+Allow: /
+Allow: /Call.php
+Allow: /Sms-Bomber.php
+Allow: /Call+Sms.php
+Allow: /Bomb.php
+Allow: /privacy.php
+Allow: /Terms.php
+Allow: /Contact-Us.php
+Allow: /number-protector.php
+
+# Disallow sensitive directories and files
+Disallow: /admin/
+Disallow: /config/
+Disallow: /logs/
+Disallow: /*.log$
+Disallow: /*.ini$
+Disallow: /*.conf$
+
+
+# Allow major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+# Sitemap location
+Sitemap: https://callbomber.in/sitemap.xml
+
+# Crawl delay for respectful crawling
+Crawl-delay: 1

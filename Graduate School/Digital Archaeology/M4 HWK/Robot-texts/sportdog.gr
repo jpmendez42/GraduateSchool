@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /search?q=
+Disallow: /admin.sportdog.gr
+Disallow: *admin.sportdog.gr*
+
+Sitemap: https://www.sportdog.gr/sitemap/articles.xml
+Sitemap: https://www.sportdog.gr/sitemap/videos.xml
+Sitemap: https://www.sportdog.gr/sitemap/categories.xml
+Sitemap: https://www.sportdog.gr/sitemap/authors/authors.xml
+Sitemap: https://www.sportdog.gr/sitemap/tags/tags.xml
+Sitemap: https://www.sportdog.gr/sitemap/teams.xml

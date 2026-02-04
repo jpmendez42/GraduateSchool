@@ -1,0 +1,9 @@
+Sitemap: https://www.unibet.ro/sitemap.xml
+
+User-agent: *
+Disallow: /kwp-bundle-store*
+Disallow: /betting/*/matches$
+Disallow: /betting/*/competitions$
+
+User-agent: ia_archiver
+Disallow: /

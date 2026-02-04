@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /pdf/
+Disallow: /*.pdf
+Disallow: /*.pdf$
+Disallow: /media/dl/
+
+Sitemap: https://smaregi.jp/google_sitemap.xml
+llms: https://smaregi.jp/llms.txt

@@ -1,0 +1,23 @@
+User-Agent: *
+Allow: /
+Disallow: /private/
+Disallow: /bundles/*
+Disallow: /*bag$
+Disallow: /bundles/*
+Disallow: /public/*
+Disallow: /search
+Disallow: /pages/account
+Disallow: /pages/addresses
+Disallow: /pages/account-details
+Disallow: /pages/loyalty
+Disallow: /order/*
+Disallow: /pages/orders
+Disallow: /offers/*
+
+Sitemap: https://buywow.in/sitemap.xml
+Sitemap: https://buywow.in/landing/sitemap.xml
+Sitemap: https://buywow.in/products/sitemap.xml
+Sitemap: https://buywow.in/collections/sitemap.xml
+Sitemap: https://buywow.in/blog/sitemap.xml
+Sitemap: https://buywow.in/policies/sitemap.xml
+Sitemap: https://buywow.in/pages/sitemap.xml

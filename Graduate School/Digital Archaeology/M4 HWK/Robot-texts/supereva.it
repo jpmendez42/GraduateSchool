@@ -1,0 +1,25 @@
+# robots.txt for https://www.supereva.it
+
+User-agent: *
+Allow: /search/*
+Disallow: /search/*
+Disallow: /engine/*
+Disallow: /inc/*
+Disallow: /data/*
+Disallow: /fw/*
+Disallow: /3w/*
+Disallow: /cgi-bin/*
+Disallow: /*.shtml$
+Disallow: /adm/*
+Disallow: /calendario2003/*
+Disallow: /calendario2004/*
+Disallow: /calendario2005/*
+Disallow: /gu/*
+Disallow: /srch/*
+Disallow: *doc_type=*
+Disallow: *fb_comment_id=*
+User-agent: OAI-SearchBot
+Allow: /search/
+
+Sitemap: https://www.supereva.it/sitemap.xml
+Sitemap: https://www.supereva.it/sitemap/sitemap_news.xml.gz

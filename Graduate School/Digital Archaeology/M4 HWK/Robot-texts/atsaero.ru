@@ -1,0 +1,39 @@
+User-Agent: *
+Disallow: /page20295080.html
+Disallow: /header
+Disallow: /page21567601.html
+Disallow: /page22403039.html
+Disallow: /footer
+Disallow: /page28951731.html
+Disallow: /rtk_ats
+Disallow: /page29004990.html
+Disallow: /opros
+Disallow: /page31189110.html
+Disallow: /video
+Disallow: /page31714295.html
+Disallow: /anamnez
+Disallow: /page32401777.html
+Disallow: /privacy-policy
+Disallow: /page32402211.html
+Disallow: /virtualnyj-operator
+Disallow: /page34186240.html
+Disallow: /use-terms
+Disallow: /page37238030.html
+Disallow: /anamnez2
+Disallow: /page53332575.html
+Disallow: /industry-news
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow: /*_escaped_fragment_*
+Disallow:
+
+
+Sitemap: https://atsaero.ru/sitemap.xml
+Sitemap: https://atsaero.ru/sitemap-feeds.xml
+Host: https://atsaero.ru

@@ -1,0 +1,43 @@
+User-agent: Yandex 
+Disallow: /edit/
+Disallow: /shop/history/
+Disallow: /shop/order/
+Disallow: /shop/shopping_cart/
+Disallow: /shop/yamoney/
+Disallow: /new-lk/
+Disallow: /*code=
+Disallow: /*fullnumber
+Disallow: /history.html
+Disallow: /add_history.html
+Allow: /shop/catalog/
+Allow: /new-lk/news/
+
+User-agent: Googlebot 
+Disallow: /edit/
+Disallow: /shop/history/
+Disallow: /shop/order/
+Disallow: /shop/shopping_cart/
+Disallow: /shop/yamoney/
+Disallow: /new-lk/
+Disallow: /*code=
+Disallow: /*fullnumber
+Disallow: /history.html
+Disallow: /add_history.html
+Allow: /shop/catalog/
+Allow: /new-lk/news/
+
+User-agent: * 
+Disallow: /edit/
+Disallow: /shop/history/
+Disallow: /shop/order/
+Disallow: /shop/shopping_cart/
+Disallow: /shop/yamoney/
+Disallow: /new-lk/
+Disallow: /*code=
+Disallow: /*fullnumber
+Disallow: /history.html
+Disallow: /add_history.html
+Allow: /shop/catalog/
+Allow: /new-lk/news/
+
+Host: https://www.mnogo.ru/

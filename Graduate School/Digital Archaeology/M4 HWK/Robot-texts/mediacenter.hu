@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /tv/
+Disallow: /doc/
+Disallow: /mcurlap_t.php
+Allow: /

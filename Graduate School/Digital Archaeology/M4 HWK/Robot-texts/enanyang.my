@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /wp-admin/
+
+User-agent: ias_crawler
+Disallow:
+
+User-agent: Verity/1.1
+Allow: /

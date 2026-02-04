@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /_gulp_automation/
+Disallow: /sass/
+Disallow: /vendor/
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.virusfree.cz/sitemap.xml

@@ -1,0 +1,17 @@
+user-agent: *
+disallow: /events/clicks
+disallow: /ape
+disallow: /payments
+disallow: /recommendations/
+disallow: /cart-aggregator/
+disallow: /usertraits/
+disallow: /mediation/
+disallow: *snapshot=*
+disallow: /language-dispatcher
+disallow: *&source=allegro.com&welcome=1&shippingCountry=US*
+disallow: /login/auth
+disallow: /auth/oauth/authorize
+disallow: /recenze-produktu/
+disallow: /sklad-allegro/
+disallow: /kampane/*&*
+disallow: *reco_id=*

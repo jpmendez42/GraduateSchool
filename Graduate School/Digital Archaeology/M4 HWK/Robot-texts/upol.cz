@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /*atom.xml$
+Disallow: /typo3/
+Disallow: /*?

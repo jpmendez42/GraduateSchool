@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /gambar-syair/
+Disallow: /game-slot/
+Disallow: /wp-content/uploads/2022/04/*.webp$
+Disallow: /wp-content/uploads/2022/03/*.webp$
+Disallow: /wp-admin/
+Disallow: /page/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://nyess.co.id/sitemap.xml

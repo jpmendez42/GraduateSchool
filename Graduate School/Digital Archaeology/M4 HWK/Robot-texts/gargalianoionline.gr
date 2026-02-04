@@ -1,0 +1,39 @@
+# robots.txt — gargalianoionline.gr
+# Updated: 2025-09-04
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+# Αποφυγή άπειρων παραλλαγών & άχρηστων σελίδων αναζήτησης
+Disallow: /*?s=
+Disallow: /*&s=
+Disallow: /search/
+Disallow: /*?replytocom=
+Disallow: /*?share=
+Disallow: /*?utm_*
+Disallow: /*&utm_*
+Disallow: /*?fbclid=
+Disallow: /*&fbclid=
+Disallow: /wp-content/cache/
+
+# Sitemaps
+Sitemap: https://www.gargalianoionline.gr/sitemap_index.xml
+# Αν το GN Publisher δίνει Google News sitemap, ξεσχόλιασε και αυτή τη γραμμή:
+# Sitemap: https://www.gargalianoionline.gr/gnpublisher-sitemap.xml
+
+# Ρητή άδεια για social link expanders / preview bots
+User-agent: facebookexternalhit
+Allow: /
+User-agent: Facebot
+Allow: /
+User-agent: Twitterbot
+Allow: /
+User-agent: LinkedInBot
+Allow: /
+User-agent: WhatsApp
+Allow: /
+User-agent: Slackbot-LinkExpanding
+Allow: /
+User-agent: TelegramBot
+Allow: /

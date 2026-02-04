@@ -1,0 +1,65 @@
+Sitemap: https://www.urbia.de/static/user/cms/sitemaps/desktop/sitemap-main.xml
+Sitemap: https://www.urbia.de/static/user/sitemaps/forum_index.xml
+
+User-agent: *
+Disallow: /user/club/photos/
+Disallow: /user/photo/
+Disallow: /login/fb_nick
+Disallow: /login/fb
+Disallow: /forum/*/tree_nodes
+Disallow: /profile/
+Disallow: /services/zykluskalender/fetch_as_image/*
+
+User-agent: grapeshot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: hyscore
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: Timpibot
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /

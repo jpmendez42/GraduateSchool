@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /recherche-dirigeants/
+Disallow: /recherche-documents/
+Disallow: /recherche-publications/
+Disallow: /document/telecharger
+Disallow: /*immatriculation.pdf$
+Disallow: /connexion
+Disallow: /inscription

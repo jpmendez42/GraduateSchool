@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /thi-thu
+Disallow: /tu-luyen
+Disallow: /events
+Disallow: /billing
+Disallow: /hoc-cung-ioe
+Disallow: /myioe
+Disallow: /sso
+Disallow: /thi-ioe-trai-nghiem
+
+Sitemap: https://ioe.vn/sitemap_index.xml

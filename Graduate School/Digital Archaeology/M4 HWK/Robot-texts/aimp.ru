@@ -1,0 +1,9 @@
+User-agent: *
+Crawl-delay: 10 
+Disallow: /aimp/
+Disallow: /data/
+Disallow: /cgi-bin/
+Disallow: /files/
+Disallow: /images/
+Disallow: /update/
+Clean-param: cpage

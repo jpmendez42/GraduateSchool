@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://reqres.in/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /private/
+Disallow: /api/private/
+Disallow: /api/keys/
+Disallow: /api/projects/*/usage
+
+# Allow API documentation
+Allow: /api-docs/
+Allow: /docs/
+Allow: /api/users/
+Allow: /api/users/*/
+Allow: /api/unknown/
+
+# Allow public API endpoints
+Allow: /api/custom/*
+
+# Crawl delay for API endpoints
+Crawl-delay: 1 

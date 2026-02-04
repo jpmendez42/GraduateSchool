@@ -1,0 +1,7 @@
+User-Agent:*
+
+# bingbot
+User-agent: bingbot
+Disallow: /order/confirm
+
+Sitemap:https://www.canshop.jp/SitemapIndex.xml

@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /wp-login.php
+Disallow: /wp-content/themes/edinews/frontend-requests.php
+Disallow: /ediapi/
+Disallow: /search/
+Disallow: /photogallery_new/get_photo.php
+Disallow: /*?output=pdf
+Disallow: /*?ttid=*
+Disallow: */page/*
+Crawl-delay: 50

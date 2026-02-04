@@ -1,0 +1,59 @@
+User-Agent: SolrVortexConnector
+Disallow: /vrtx
+Disallow: /om/organisasjon/administrasjonen/stottetjenester/ikt/arkiv-og-dokumentasjon/offentlig-journal/dag.pdf
+Disallow: /om/organisasjon/administrasjonen/stottetjenester/ikt/arkiv-og-dokumentasjon/offentlig-journal/mnd.pdf
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2020/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2019/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2018/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2017/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2016/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2015/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2014/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2013/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2012/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2011/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2010/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2009/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2008/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2007/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2006/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2005/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2004/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2003/
+
+User-Agent: *
+Disallow: /vrtx
+Disallow: /om/organisasjon/administrasjonen/stottetjenester/ikt/arkiv-og-dokumentasjon/offentlig-journal/dag.pdf
+Disallow: /om/organisasjon/administrasjonen/stottetjenester/ikt/arkiv-og-dokumentasjon/offentlig-journal/mnd.pdf
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2020/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2019/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2018/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2017/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2016/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2015/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2014/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2013/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2012/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2011/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2010/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2009/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2008/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2007/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2006/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2005/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2004/
+Disallow: /for-ansatte/aktuelt/aktuelle-saker/arkiv/2003/
+
+
+
+
+
+# Allow Google to see the most important css-files to pass mobile friendlyness-test
+# https://www.google.com/webmasters/tools/mobile-friendly/
+
+Allow: /vrtx/dist/resources/uio1/css/style.css
+Allow: /vrtx/dist/resources/uio1/css/responsive.css
+Allow: /vrtx/dist/resources/css/local.css
+Allow: /vrtx/dist/resources/images/favicon.ico

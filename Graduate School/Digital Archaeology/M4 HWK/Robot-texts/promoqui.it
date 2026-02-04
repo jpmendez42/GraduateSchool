@@ -1,0 +1,45 @@
+User-agent: *
+Disallow: /ws/
+Disallow: /redirect_stores_for_offer_container/
+Disallow: /redirect_stores_for_offer/
+Disallow: /offers/
+Disallow: */amp$
+Disallow: /*confronta-prezzo-piu-basso-volantino*
+Disallow: /*centro-commerciale*
+Disallow: /*sort_field=*
+Disallow: /*sort_order=*
+Disallow: /*new=true*
+Disallow: /*pqflash=*
+Disallow: /*lazyload=*
+Disallow: /*city=roma*
+Disallow: /*source=widget-monrif*
+Disallow: /*links=*
+
+
+# CloudFlare
+Disallow: /cdn-cgi/
+
+User-agent: Yandex
+Disallow: / # blocks access to the entire site
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: bingbot
+Allow: /$
+Allow: /volantino*
+Allow: /catalogo*
+Allow: /offerte*
+
+
+User-Agent: *
+Disallow: /progetto
+Disallow: /meta/stores/*
+Disallow: /*/lista-negozi
+Disallow: /*page=*
+
+User-agent: grapeshot
+Disallow:
+
+User-agent: ChatGPT-User
+Disallow:

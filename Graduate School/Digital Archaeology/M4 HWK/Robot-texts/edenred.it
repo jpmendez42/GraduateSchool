@@ -1,0 +1,14 @@
+# This file is automatically added by Rank Math SEO plugin to help a website index better
+# More info: https://s.rankmath.com/home
+User-Agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+Disallow: /?s=*
+Disallow: /area-legale-e-privacy/
+
+#FIND 23/12/2022
+Disallow: /eventi/*
+Disallow: /?post_type*
+Disallow: /?name*
+
+Sitemap: https://www.edenred.it/sitemap_index.xml

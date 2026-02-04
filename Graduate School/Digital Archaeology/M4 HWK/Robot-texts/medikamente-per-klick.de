@@ -1,0 +1,18 @@
+Sitemap: https://www.medikamente-per-klick.de/sitemap.xml
+
+User-agent: *
+Disallow: /view/showcart
+Disallow: /checkLogin/
+Disallow: /newcustomer
+Disallow: /profile
+Disallow: /editShoppingList
+Disallow: /black-friday-cyber-monday-deals
+Disallow: /cyber-deals
+Disallow: /hautanalyse
+Disallow: /search/
+Disallow: /addToCart
+Disallow: /showcart
+Disallow: /quickAddProductsToCart
+Disallow: /*VIEW_SIZE=
+Disallow: /*filterBy=
+Disallow: /*sortBy=

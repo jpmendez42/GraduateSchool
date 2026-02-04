@@ -1,0 +1,53 @@
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: AhrefsSiteAudit
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: proximic
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: BaiduSpider
+Disallow: /
+
+User-agent: ImagesiftBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: bingbot
+Crawl-Delay: 5
+
+#rc
+

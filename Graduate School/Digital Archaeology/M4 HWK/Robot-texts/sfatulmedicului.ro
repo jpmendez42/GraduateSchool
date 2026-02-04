@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /36564804/
+Disallow: /21727726350/
+Disallow: /magazin/
+Disallow: /magazin_plafar/
+Disallow: /external/uploads/fs-medical/
+Disallow: /external/uploads/user_istoric/
+Disallow: /files/export/
+
+User-agent: Mediapartners-Google
+Disallow:

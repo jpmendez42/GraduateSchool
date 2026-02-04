@@ -1,0 +1,19 @@
+User-agent: *
+Disallow: /all
+Disallow: /*mid=
+Disallow: /*act=
+Disallow: /*listStyle=
+Disallow: /*order_type=
+Disallow: /*sort_index=
+Disallow: /*search_keyword=
+Disallow: /*search_target=
+Disallow: /*category=
+Disallow: /*cpage=
+Disallow: /*m=
+Disallow: /*member_srl=
+Disallow: /*filter_mode=
+Disallow: /*page=
+Disallow: */page/
+Allow: /
+
+#DaumWebMasterTool:a5f8ec020ad2383d0d0477fbc72656e9f155cfd05641f2e767784e51144cb3aa:q/0qeiWF/vgMTkDiVOXusA==

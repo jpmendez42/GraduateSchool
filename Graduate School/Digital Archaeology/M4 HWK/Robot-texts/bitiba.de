@@ -1,0 +1,86 @@
+# robots txt for bitiba
+# created 22.06.2016
+#
+Sitemap: https://www.bitiba.de/sitemap.xml
+
+User-agent: *
+Disallow: /checkout/
+Disallow: /myzooplus/
+Disallow: /pictureupload*
+Disallow: /stockreminder
+Disallow: /feedback/form/
+Disallow: /customerpicturedisplay/
+Disallow: /feedback/0/1/
+Disallow: /feedback/1/0/
+Disallow: /feedback/1/1/
+Disallow: /affiliate/
+Disallow: /passwordreminder*
+Disallow: /account*
+Disallow: /askdetail?*
+Disallow: /ov?
+Disallow: /bewertung
+Disallow: /m/
+Disallow: /mobile/
+
+User-agent: bingbot
+Disallow: /checkout/
+Disallow: /myzooplus/
+Disallow: /pictureupload*
+Disallow: /stockreminder
+Disallow: /feedback/form/
+Disallow: /customerpicturedisplay/
+Disallow: /feedback/0/1/
+Disallow: /feedback/1/0/
+Disallow: /feedback/1/1/
+Disallow: /affiliate/
+Disallow: /passwordreminder*
+Disallow: /account*
+Disallow: /askdetail?*
+Disallow: /ov?
+Disallow: /bewertung
+Disallow: /m/
+Disallow: /mobile/
+Crawl-delay: 5
+
+User-agent: msnbot
+Disallow: /checkout/
+Disallow: /myzooplus/
+Disallow: /pictureupload*
+Disallow: /stockreminder
+Disallow: /feedback/form/
+Disallow: /customerpicturedisplay/
+Disallow: /feedback/0/1/
+Disallow: /feedback/1/0/
+Disallow: /feedback/1/1/
+Disallow: /affiliate/
+Disallow: /passwordreminder*
+Disallow: /account*
+Disallow: /askdetail?*
+Disallow: /ov?
+Disallow: /bewertung
+Disallow: /m/
+Disallow: /mobile/
+Crawl-delay: 5
+
+User-agent: msnbot-media
+Disallow: /checkout/
+Disallow: /myzooplus/
+Disallow: /pictureupload*
+Disallow: /stockreminder
+Disallow: /feedback/form/
+Disallow: /customerpicturedisplay/
+Disallow: /feedback/0/1/
+Disallow: /feedback/1/0/
+Disallow: /feedback/1/1/
+Disallow: /affiliate/
+Disallow: /passwordreminder*
+Disallow: /account*
+Disallow: /askdetail?*
+Disallow: /ov?
+Disallow: /bewertung
+Disallow: /m/
+Disallow: /mobile/
+Crawl-delay: 5
+
+User-agent: ia_archiver
+Disallow: /

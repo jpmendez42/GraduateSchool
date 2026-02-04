@@ -1,0 +1,13 @@
+User-Agent: *
+Allow: /
+Disallow: /events/*/ticket
+Disallow: /members
+Disallow: /events/*/participants
+Disallow: /*?auth_token
+Disallow: /*?user_token
+Disallow: /user/auth/*
+User-agent: BUbiNG
+Disallow: /
+User-agent: SemrushBot
+Disallow: /
+Sitemap: https://www.doorkeeper.jp/sitemaps/sitemap.xml.gz

@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /admin
+Disallow: /*?order=
+Disallow: /*?properties=
+Disallow: /*.pdf$
+Disallow: /*embedded
+
+Sitemap: https://www.poetschke.de/sitemap/salesChannel-01938c50a6db73f78472ac00387671bf-2fbb5fe2e29a4d70aa5854ce7ce3e20b/01938c50a6db73f78472ac00387671bf-01938c50a6ea714c9a425cd8db906aed-sitemap-www-poetschke-de-1.xml.gz

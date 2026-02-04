@@ -1,0 +1,39 @@
+# *
+User-agent: *
+Allow: /ypostirixi*/
+Allow: /eshop/*?isStandalone=true&skuId=*$
+Allow: /eshop/*?categoryId=*&skuId=*$
+Allow: /myvodafone/login
+Disallow: /oam/server/obrareq.cgi*
+Disallow: /obrar.cgi*
+Disallow: /service/*
+Disallow: /sites/Satellite/*
+Disallow: /sites/satellite/*
+Disallow: /portal/resources/
+Disallow: /legacy/default/files/
+Disallow: /api/*
+Disallow: /new-checkout*
+Disallow: /new-cart*
+Disallow: /payments*
+Disallow: /payment-result*
+Disallow: /myvodafone*
+
+# UptimeRobot/2.0
+User-agent: UptimeRobot/2.0
+Disallow: /
+
+# Googlebot-image
+User-agent: Googlebot-image
+Disallow: 
+
+# AdsBot-Google
+User-agent: AdsBot-Google
+Disallow: 
+
+# Host
+Host: https://www.vodafone.gr/
+
+# Sitemaps
+Sitemap: https://www.vodafone.gr/sitemap.xml
+Sitemap: https://www.vodafone.gr/sitemap-content.xml
+Sitemap: https://www.vodafone.gr/sitemap-products.xml

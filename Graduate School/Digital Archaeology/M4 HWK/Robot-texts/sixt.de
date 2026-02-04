@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /php/
+
+User-agent: deepcrawl
+Disallow: /
+
+Sitemap: https://www.sixt.de/sitemap_index.xml
+Sitemap: https://www.sixt.de/magazine/post-sitemap.xml
+Sitemap: https://www.sixt.de/ride-sitemap.xml

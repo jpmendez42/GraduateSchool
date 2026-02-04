@@ -1,0 +1,204 @@
+# For all robots
+User-agent: *
+
+# delay for all
+Crawl-delay: 5
+
+# Block access to specific groups of pages
+Disallow: /cart
+Disallow: /*checkout
+Disallow: /*my-account
+Disallow: /*search?q=
+Disallow: /*?q=
+Disallow: /*c/Root-MOVEX.html
+Disallow: /*?famille=
+Disallow: /*html/*
+Disallow: /c/festif--tri-pe--page-
+Disallow: /c/festif--d--page-
+Disallow: /c/decoration--d--page-
+Disallow: /c/decoration--d--tri-pe--page-
+Disallow: /c/linge-de-maison--tri-pe--page-
+Disallow: /c/linge-de-maison--tri-pe--page-
+Disallow: /maison/c/mobilier--tri-pe--page-
+Disallow: /c/maison--tri-pe--page-
+Disallow: /c/cuisine--tri-pe--page-
+Disallow: /maison/c/salle-de-bain--tri-pe--page-
+Disallow: /c/rangement--tri-pe--page-
+Disallow: /c/animalerie--tri-pe--page-
+Disallow: /c/loisir-et-jeux--tri-pe--page-
+Disallow: /c/beaute-et-mode--tri-pe--page-
+Disallow: /c/plein-air--tri-pe--page-
+Disallow: /*--c
+Disallow: /*--px
+Disallow: /*--t
+Disallow: /*--a
+Disallow: /*--am
+Disallow: /*--d
+Disallow: /*--m
+Disallow: /*--pi
+Disallow: /*--pu
+Disallow: /*--s
+Disallow: /*-p-d
+Disallow: /*-p-c
+Disallow: /*--ga
+Disallow: /*-p-c
+Disallow: /*--cadeau
+Disallow: /*--p
+Disallow: /*--r
+Disallow: /*--disponible
+Disallow: /*--he
+Disallow: /*--le
+Disallow: /*--wi
+Disallow: /*--di
+Disallow: /*--vo
+Disallow: /*--li
+Disallow: /*--ma
+Disallow: /*--sa
+Disallow: /*--br
+Disallow: */RE/
+Disallow: */CFR/
+Disallow: */MQ/
+Disallow: */MU/
+Disallow: */GF/
+Disallow: */FR/
+Allow: /decoration/c/tapis-deco--c-rouge--disponible--tri-pe.html
+Allow: /decoration/c/tapis-deco--c-gris--disponible--tri-pe.html
+Allow: /decoration/c/tapis-deco--c-bleu--disponible--tri-pe.html
+Allow: /decoration/c/tapis-deco--c-multicolore--disponible--tri-pe.html
+Allow: /linge-de-maison/linge-de-lit/c/parure-housse-de-couette--c-gris--disponible--tri-pe.html
+Allow: /decoration/bougies-et-senteurs/c/bougies--c-noir--disponible--tri-pe.html
+Allow: /decoration/c/vases--c-blanc--disponible--tri-pe.html
+Allow: /decoration/decoration-murale/c/albums-cadres-photos--c-noir--disponible--tri-pe.html
+Allow: /decoration/decoration-murale/c/albums-cadres-photos--c-blanc--disponible--tri-pe.html
+
+
+# Filtre - Couleur
+Disallow: /*?q=%3Apertinence%3Askincolor%3
+
+# Filtre - Prix
+Disallow: /*?q=%3Apertinence%3Aprice%3
+
+# Filtre - Humeur
+Disallow: /*?q=%3Apertinence%3Ausage%3
+
+# Filtre - Style
+Disallow: /*?q=%3Apertinence%3Astyle%3
+
+# Filtre - Matiere
+Disallow: /*?q=%3Apertinence%3Amaterialmade%3
+
+# Filtre - Garnissage
+Disallow: /*?q=%3Apertinence%3Alining%3
+
+# Filtre - Forme
+Disallow: /*?q=%3Apertinence%3Aformat%3
+
+# Filtre - Dimension
+Disallow: /*?q=%3Apertinence%3Adimension%3
+
+# Filtre - Thematique
+Disallow: /*?q=%3Apertinence%3Ausage%
+
+# Filtre - Prix New
+Disallow: /*?q=%3Apertinence%3AstorePriceFacet
+
+# Filtre - Stock
+Disallow: /*?q=%3Apertinence%3AinStoreStockFlag
+
+# Filtre - Puissance
+Disallow: /*?q=%3Apertinence%3Abattery%3
+
+# Filtre - idee cadeaux
+Disallow: /*?q=%3Apertinence%3AgiftIdea%3
+
+# Filtre - Ampoules
+Disallow: /*?q=%3Apertinence%3AlightBulb%
+
+# Filtre - Ages
+Disallow: /*?q=%3Apertinence%3ArecommandedAge%3
+
+# Filtre - Rayons
+Disallow: /*?famille=
+
+# Filtre Power
+Disallow: /?q=%3Apertinence%3Apower%3
+
+# Filtre Note
+Disallow: /?q=%3AtopRated%3
+
+# Filtre Prix
+Disallow: /?q=%3Aprice-asc%3
+
+# Filtre garantie2
+Disallow: /?q=%3Apertinence%3Awarranty%3
+
+# Zoom
+Disallow: /*zoomImages
+
+# Page - Tous nos produits
+Disallow: /c/1.html
+
+# Filtre - Recherche
+Disallow: /search?text=
+
+# Filtre Trier par
+Allow: /*?sort=pertinence&q=%3Apertinence&page=
+
+# Filtre Trier par prix asc
+Disallow: /*?sort=price-asc
+
+# Filtre Trier par pertinence
+Disallow: /*?sort=pertinence
+
+# Filtre Trier par prix desc
+Disallow: /*?sort=price-desc
+
+# Filtre Trier par note
+Disallow: /*?sort=topRated
+
+# Filtre Trier par new
+Disallow: /*?sort=new
+
+# Filtre Trier par filtre nul
+Disallow: /*?sort=null
+
+
+# Block CazoodleBot as it does not present correct accept content headers
+User-agent: CazoodleBot
+Disallow: /
+
+# Block MJ12bot as it is just noise
+User-agent: MJ12bot
+Disallow: /
+
+# Block dotbot as it cannot parse base urls properly
+User-agent: dotbot/1.0
+Disallow: /
+
+# Block Gigabot
+User-agent: Gigabot
+Disallow: /
+
+# Block SemrushBot
+User-agent: SemrushBot
+Disallow: /
+
+#Block Pinterest
+User-agent: Pinterest
+Disallow: /
+
+#Block UptimeRobot
+User-agent: UptimeRobot
+Disallow: /
+
+#Block AhrefsBot
+User-agent: AhrefsBot
+Disallow: /
+
+#Block msnbot-media
+User-agent: msnbot-media
+Disallow: /
+
+#Block seoscanners.net
+User-agent: seoscanners.net
+Disallow: /

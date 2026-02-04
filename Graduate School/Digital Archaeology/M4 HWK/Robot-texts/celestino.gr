@@ -1,0 +1,115 @@
+Sitemap: https://www.celestino.gr/el-gr/sitemap.xml
+Sitemap: https://www.celestino.gr/en-gr/sitemap.xml
+
+
+User-agent: *
+
+
+# Allow specific locales
+Allow: /el-gr/
+Allow: /en-gr/
+
+# Block other locales
+Disallow: /el-*
+Disallow: /en-*
+
+# Re-allow exact matches for Greece
+Allow: /el-gr/$
+Allow: /en-gr/$
+
+
+
+Disallow: /*.vb$
+Disallow: /Account/*
+Disallow: /App_Code/*
+Disallow: /Json/*
+Disallow: /App_GlobalResources/*
+Disallow: /App_WebReferences/*
+Disallow: /Bin/*
+Disallow: /Content/*
+Disallow: /cdn-cgi/*
+Disallow: /Custom/*
+Disallow: /icons/*
+Disallow: /MicroServices/*
+Disallow: /MicroServices1/*
+Disallow: /Templates/*
+Disallow: /Tools/*
+Disallow: /WebHooks/*
+Disallow: /Global.asax
+Disallow: /miniPD.aspx
+Disallow: /facebooksigninreturn.aspx
+Disallow: /GiftCardConf.aspx
+Disallow: /Web.config
+Disallow: /rpemail.html
+Disallow: /errorpage.aspx
+Disallow: /wishlist
+Disallow: /cart
+Disallow: /update.aspx
+
+#block "footer pages"
+Disallow: /change-country
+Disallow: /click2call
+
+
+
+#block "checkout"
+Disallow: /order-confirmation
+Disallow: /checkout
+Disallow: /thank-you
+Disallow: /editcard.aspx
+Disallow: /epayment.aspx
+Disallow: /stoixeia.aspx
+Disallow: /success.aspx
+Disallow: /PayPalEndPoint.aspx
+Disallow: /Order_Conf.aspx
+
+#block "private areas"
+Disallow: /myaccountmenu
+Disallow: /mycards
+Disallow: /myorders
+Disallow: /myprofile
+Disallow: /myreturns
+Disallow: /new-return
+Disallow: /wallet-balance
+Disallow: /wallet-charge
+Disallow: /wallet-return
+Disallow: /menumanager
+Disallow: /myaccountmenu.aspx
+Disallow: /trackandtrace.aspx
+Disallow: /tracking.aspx
+
+#block "login-pages"
+Disallow: /login
+Disallow: /account/login
+Disallow: /ResetMyPassword.aspx
+Disallow: /newregistration
+Disallow: /account/register.aspx?fmp=1
+Disallow: /account/register.aspx
+Disallow: /join
+Disallow: /signup
+
+#block "irrelevant filters"
+Disallow: /*?sorting=*
+Disallow: /*&sorting=*
+Disallow: /*?maxprice=*
+Disallow: /*&maxprice=*
+Disallow: /*?minprice=*
+Disallow: /*&minprice=*
+Disallow: /*?cp=*
+Disallow: /*&cp=*
+
+#block "relevant filters"
+Disallow: /*?dfs=*
+Disallow: /*&dfs=*
+Disallow: /*?filter=*
+Disallow: /*&filter=*
+Disallow: /*?scnr=*    #added by ec
+Disallow: /*&scnr=*    #added by ec
+Disallow: /*?shade=*    #added by ec
+Disallow: /*&shade=*    #added by ec
+
+#block "search"
+Disallow: /*r=0000000003*    #added by ec
+Disallow: /*?searchresults*
+Disallow: /*&search=*
+Disallow: /*?search=*

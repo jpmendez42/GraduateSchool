@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /bookstore/
+Disallow: /cs/
+Disallow: /financialservices/internal/
+Disallow: /ourcommunity/
+Disallow: /ProgramsCourses/FacultiesSchoolsCentres/Communications/Programs/BroadcastingDiploma/index.htm
+Disallow: /wcm/idcplg
+Allow: /

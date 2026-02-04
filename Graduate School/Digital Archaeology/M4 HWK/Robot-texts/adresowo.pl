@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /r/
+Disallow: /e/
+Disallow: /wv/
+Disallow: /te/
+Disallow: /o/id/
+Disallow: /o/ajax/
+Disallow: /edit-offer/

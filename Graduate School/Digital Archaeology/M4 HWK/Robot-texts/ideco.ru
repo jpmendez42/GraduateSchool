@@ -1,0 +1,41 @@
+User-Agent: *
+Disallow: /page20228907.html
+Disallow: /page12814189.html
+Disallow: /page11951281.html
+Disallow: /stop
+Disallow: /page74506009.html
+Disallow: /zayavka-kalendar-2026
+Disallow: /page10845083.html
+Disallow: /page74505965.html
+Disallow: /backstage-ideco-2026
+Disallow: /page46400365.html
+Disallow: /page50800753.html
+Disallow: /changelog-vpp
+Disallow: /page39753745.html
+Disallow: /zayavka-kalendar-2024
+Disallow: /page39893382.html
+Disallow: /backstage-ideco-2024
+Disallow: /page41349146.html
+Disallow: /references
+Disallow: /page41349285.html
+Disallow: /segments_form
+Disallow: /page53923339.html
+Disallow: /zayavka-kalendar-2025-early
+Disallow: /page54024443.html
+Disallow: /backstage-ideco-2025
+Disallow: /page54047017.html
+Disallow: /zayavka-kalendar-2025
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow: /tilda/cart*
+Disallow: /tilda/product*
+Disallow: /tilda/event*
+Disallow:
+
+
+Sitemap: https://ideco.ru/sitemap.xml
+Sitemap: https://ideco.ru/sitemap-store.xml
+Sitemap: https://ideco.ru/sitemap-feeds.xml

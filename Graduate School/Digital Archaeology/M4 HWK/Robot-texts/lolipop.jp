@@ -1,0 +1,6 @@
+User-agent: Amazonbot
+Disallow: /info/news/FTPS/
+
+User-Agent: *
+Sitemap: https://lolipop.jp/home/sitemap-xml/
+Sitemap: https://lolipop.jp/media/wp-sitemap.xml

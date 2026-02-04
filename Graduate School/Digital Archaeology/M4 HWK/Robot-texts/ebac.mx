@@ -1,0 +1,21 @@
+User-agent: *
+Disallow: /upload/
+Disallow: /loan-request/
+Disallow: /offers/
+Disallow: /offers-updated/
+Disallow: /archive/
+Disallow: /archieve/
+Disallow: /test/
+Disallow: /arhive/
+Disallow: /test-sale/
+Disallow: /popup/
+Disallow: */popup/
+Disallow: *?_escaped_fragment_
+Disallow: *?status=
+Disallow: *?types=
+Disallow: *?location=
+Disallow: *?topic=
+Disallow: *?moreStatus=
+
+Sitemap: https://ebac.mx/sitemap.xml
+

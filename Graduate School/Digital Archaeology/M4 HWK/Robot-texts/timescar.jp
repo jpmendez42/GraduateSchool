@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+<html lang="ja" xmlns:te="http://www.seasar.org/teeda/extension">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+	<title id="title">カーシェアリングのタイムズカー（旧：タイムズカーシェア）</title>
+    <meta name="description" content="タイムズのカーシェアリングサービス「タイムズカー」！料金や使い方、場所、メリットを分かりやすくご説明。法人、学生なら月額基本料金は無料。旧タイムズカーシェア">
+    <meta name="keywords" content="カーシェアリング,カーシェア,タイムズカー,Times CAR,タイムズカーシェア,TimesCAR SHARE">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="robots" content="index,follow,noodp,noydir">
+	<link rel="alternate" media="only screen and (max-width: 640px)" href="https://share.timescar.jp/sp/">
+	<link rel="shortcut icon" type="image/x-icon" href="https://share.timescar.jp/favicon.ico" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://share.timescar.jp/favicon-apple.png" />
+	<link rel="stylesheet" href="/common/css/reset.css">
+	<link rel="stylesheet" href="/common/css/common.css?20210401">
+    <link rel="stylesheet" href="/common/css/top.css?20250701">
+	<!--[if lt IE 9]>
+		<script src="/common/js/html5shiv.min.js"></script>
+	<![endif]-->
+	<!-- facebook -->
+	<meta property="og:title" content="カーシェアリングならタイムズカー" />
+	<meta property="og:description" content="タイムズのカーシェアリングサービス「タイムズカー」！必要な時に自由にクルマを使えます。" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://share.timescar.jp/" />
+	<meta property="og:image" content="https://share.timescar.jp/common/images/logo.gif" />
+	<meta property="og:site_name" content="カーシェアリングならタイムズカー" />
+	<meta property="fb:app_id" content="" />
+	<!-- sns_head -->
+	<!-- twitter -->
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+	<script type="text/javascript">
+		(function() {
+			var sb = document.getElementById('srchBox');
+			if (sb && sb.className == 'watermark') {
+				var si = document.getElementById('srchInput');
+				var f = function() {
+					si.className = 'nomark';
+				};
+				var b = function() {
+					if (si.value == '') {
+						si.className = '';
+					}
+				};
+				si.onfocus = f;
+				si.onblur = b;
+				if (!/[&?]p=[^&]/.test(location.search)) {
+					b();
+				} else {
+					f();
+				}
+			}
+		})();
+
+		function pressPassShow(targetId) {
+			if (document.getElementById(targetId).type === "text") {
+				document.getElementById(targetId).type = "password";
+			} else {
+				document.getElementById(targetId).type = "text";
+			}
+		}
+
+	</script>
+	<!-- chatbot -->
+	<!-- chatbot icon -->
+<script id="bedore-webagent" src="https://webagent.bedore.jp/init.js" data-token="23875a47-9c14-4ad7-b4a7-57d320097935"></script>
+</head>
+
+<body>
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N9MQR5"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N9MQR5');</script>
+<!-- End Google Tag Manager -->
+
+	<div id="d_page">
+		<!-- header start -->
+		<header class="header">
+          <div class="tag_bg">
+            <div class="tagline">
+              <div class="tag_right">
+                <ul>
+                  <span id="loginName" style="display: none;" class="s_login">
+                  <li class="border_n"> <span id="memberName" class="tx-b"></span>さん <span id="regularMember" style="display:none;"> <span style="display:none" class="s_regularMember_any">（</span> <span id="dispRcpStageNm" style="display:none;">タイムズカープログラム<a href="/about/tc_program/"><span id="rcpStageNm"></span></a></span> <span style="display:none" class="s_regularMember_any">）</span> </span> </li>
+                  <li><a href="/view/logout.jsp" class="link">ログアウト</a></li>
+                  </span> <span id="notLoginName" style="display:none;" class="s_logout">
+                  <li id="welcome" class="border_n">ようこそ<span class="tx-b">ゲスト</span>さん</li>
+                  </span>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="top_navi">
+            <div>
+              <hgroup>
+                <h1 class="site_logo alpha"><a href="/">カーシェアリングならタイムズカー</a></h1>
+              </hgroup>
+              <ul>
+                <li>
+                  <p><img src="/common/images/common_ic004.gif" alt="よくあるご質問" width="13" height="20"></p>
+                  <p><a href="/faq/" class="link">よくあるご質問</a></p>
+                </li>
+                <li>
+                  <p><img src="/common/images/common_ic005.gif" alt="個人入会" width="17" height="21"></p>
+                  <p><a href="/regist.html" class="link">個人入会</a></p>
+                </li>
+                <li>
+                  <p><img src="/common/images/common_ic006.gif" alt="法人入会" width="15" height="20"></p>
+                  <p><a href="/registcorp.html" class="link">法人入会</a></p>
+                </li>
+                <li class="pr0">
+                  <p id="logout" style="display:none;" class="btn s_logout"><a href="/view/member/mypage.jsp" class="alpha">予約・ログイン<i class="ic_arrow"></i></a></p>
+                  <p id="login" style="display:none;" class="btn s_login"><a href="/view/member/mypage.jsp" class="alpha">予約・マイページ<i class="ic_arrow"></i></a></p>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <nav class="nav">
+            <ul>
+              <li class="nav-item gnav01"><a href="/place/">ステーション検索</a></li>
+              <li class="nav-item gnav02"><a href="/fare/">料金</a></li>
+              <li class="nav-item gnav03"><a href="/use/">利用方法</a></li>
+              <li class="nav-item gnav04"><a href="/car/">車種</a></li>
+              <li class="nav-item gnav05"><a href="/about/">各種サービスのご案内</a></li>
+            </ul>
+          </nav>
+        </header>
+		<!-- header end -->
+
+		<div class="other_contents">
+			
+			
+			<div class="top_contents">
+				<div class="top_contents_inner">
+					<div id="slideWrap" style="display: none;"></div>
+					<div id="slideNavi" style="display: none;"><ul id="slideNaviInner"></ul></div>
+					<div id="slideBack" style="display: none;"><ul id="slideBackInner"></ul></div>
+				</div>
+			</div>
+			<div class="login_box">
+				<!-- ログイン前 -->
+				<span id="topLoginArea" style="display:none;" class="s_logout">
+					<aside class="right_box">
+						<form method="post" action="https://api.timesclub.jp/view/pc/tpLogin.jsp" style="display:none;"
+							class="s_alive">
+							<input type="hidden" name="tpLoginForm:redirectPath"
+								value="https://share.timescar.jp/view/member/mypage.jsp" />
+							<input type="hidden" name="tpLoginForm:siteKbn" value="TP" />
+							<input type="hidden" name="tpLoginForm:doa" value="ON" />
+							<input type="hidden" name="tpLoginForm/view/pc/tpLogin.html" value="tpLoginForm" />
+							<div class="login_area">
+								<h2>■予約・ログイン</h2>
+								<dl>
+									<dt>会員番号（IC管理番号）</dt>
+									<dd class="cardbox">
+										<label class="cardbox01">
+											<input id="cardNo1" type="text" name="tpLoginForm:cardNo1" maxlength="4" />
+										</label>
+										<label class="cardbox02">
+											&nbsp;－&nbsp;
+										</label>
+										<label class="cardbox03">
+											<input id="cardNo2" type="text" name="tpLoginForm:cardNo2" maxlength="6" />
+										</label>
+									</dd>
+								</dl>
+								<dl>
+									<dt>パスワード</dt>
+									<dd>
+										<input id="tpPassword" type="password" class="frm-pass__input" name="tpLoginForm:tpPassword" style="ime-mode:disabled;" /><!-- type="password"か"text"でボタンの中身が切り替え -->
+										<label for="passshow" class="frm-pass__button"></label>
+										<input id="passshow" name="passshow" type="checkbox" class="agreement-chk-box hide -new" onclick="pressPassShow('tpPassword')" />
+									</dd>
+								</dl>
+								<p class="auto_login">
+									<label>
+										<input type="checkbox" id="omitCardNo" name="tpLoginForm:omitCardNo" />
+										次回から会員番号を省略</label>
+								</p>
+								<div class="loginbt">
+									<label><input type="submit" id="tpLogin" name="tpLoginForm:doLoginForTp"
+											value="予約・ログイン" /></label>
+									<p class="mt10"><a href="/view/membercard/input.jsp" class="link">会員番号（IC管理番号）をお忘れの方</a></p>
+									<p><a href="/view/pwd/reissue.jsp" class="link">パスワードをお忘れの方</a></p>
+									<p><a href="/faq/mypage/15.html" class="link">ログイン方法が分からない方</a></p>
+									<p class="mt5"><a href="https://timesbiz.jp/view/login/login.html" class="link">法人管理者専用ページへ</a></p>
+								</div>
+							</div>
+						</form>
+						<div class="regist_area">
+							<h2>■新規入会の方はこちら</h2>
+							<div class="regist_bt">
+								<p class="btn personal"><a href="/regist.html" class="alpha"><i class="ic_personal"></i>個人入会<i
+											class="ic_arrow"></i></a></p>
+								<p class="btn corp mt10"><a href="/registcorp.html" class="alpha"><i class="ic_corp"></i>法人入会<i
+											class="ic_arrow"></i></a></p>
+							</div>
+							<p class="mt10"><a href="/faq/join/" class="link">入会時によくあるご質問</a></p>
+						</div>
+					</aside>
+				</span>
+				<!-- ログイン前 end -->
+			
+				<!-- ログイン後 -->
+				<span id="topMypageArea" style="display:none;" class="s_login">
+					<aside class="right_box">
+						<div class="welcome">
+							<p class="mb5"><span id="nowDate">2015年07月15日（水）</span></p>
+							<div id="rcpPointColor" style="display:none;" class="point">現在<span id="rcpPoint"
+									class="point_ore">30</span>カーシェアポイント</div>
+						</div>
+						<div class="log_globalnavi">
+							<p><a href="/view/member/mypage.jsp">マイページトップ<i class="arrow"></i></a></p>
+							<p><a href="/view/station/search.jsp">予約<i class="arrow"></i></a></p>
+							<p><a href="/view/reserve/list.jsp">予約確認・変更・取消<i class="arrow"></i></a></p>
+							<p><a href="/view/use/list.jsp">ご利用履歴<i class="arrow"></i></a></p>
+							<p><a id="detailPage" href="">ご登録情報の確認<i class="arrow"></i></a></p>
+						</div>
+						<div class="details">
+							<div class="mb10"><img src="/images/top_ic014.gif" width="83" height="23" alt="ご契約プラン">
+								<p class="text"><span id="planNm">個人プラン</span></p>
+							</div>
+							<div><img src="/images/top_ic015.gif" width="83" height="23" alt="概算利用金額">
+								<p class="text"><span id="amount">16,134</span>円</p>
+							</div>
+						</div>
+			
+					</aside>
+				</span>
+				<!-- ログイン前 end -->
+			</div>
+		</div>
+
+	<section class="pickup">
+		<ul>
+			<li>
+				<a href="/tcp_guide/join.html" id="memeber-change-btn"><img src="images/top_bt004_a.png" width="172" height="142" alt="入会をご検討の方" class="alpha"></a>
+				<a href="/guide/" id="guide-btn"><img src="images/top_bt015.png" width="172" height="142" alt="ユーザーガイド" class="alpha"></a>
+			</li>
+			<li>
+				<a href="/about/movie.html"><img src="images/top_bt005.png" width="172" height="142" alt="使い方動画" class="alpha"></a>
+			</li>
+			<li>
+				<a href="/tcp_guide/masters.html"><img src="images/top_bt006.png" width="172" height="142" alt="使いこなし術" class="alpha"></a>
+			</li>
+			<li>
+				<a href="/tcp_guide/rule.html"><img src="images/top_bt007.png" width="172" height="142" alt="ルールとマナー" class="alpha"></a>
+			</li>
+		</ul>
+	</section>
+
+	<section class="recommend cleafix">
+		<div class="recommend_inner">
+			<h2>おすすめコンテンツ</h2>
+			<ul id="recommendList" class=""></ul>
+		</div>
+  </section>
+
+	<section class="top_news">
+		<div class="news_inner">
+			<h2>新着情報
+				<p class="top_index"><a href="/news/" class="link">新着情報一覧</a></p>
+			</h2>
+			<dl>
+				<!--▼スタッドレス利用期間固定-->
+				<dt><p class="icon_y">お知らせ</p>2025年9月25日</dt>
+				<dd><a href="/news/2025/0925/1571.html">スタッドレスタイヤ冬季装備エリアを更新しました</a></dd>
+				<!--▲ここまで-->
+				<dt><p class="icon_y">新規オープン</p>2025年10月9日</dt>
+  <dd><a href="/place/newopen.html">10月オープン・閉鎖予定のカーシェアステーション一覧を更新しました</a></dd>
+
+  <dt><p class="icon_y">キャンペーン</p>2025年10月6日</dt>
+  <dd><a href="/news/2025/1006/1581.html">はじめよう！カーシェアキャンペーン実施中</a></dd>
+
+  <dt><p class="icon_y">お知らせ</p>2025年9月8日</dt>
+  <dd><a href="/news/2025/0908/1569.html">2025年12月1日距離料金およびタイムズカープログラムの改定について</a></dd>
+
+  <dt><p class="icon_y">お知らせ</p>2025年8月1日</dt>
+  <dd><a href="/news/2025/0801/1558.html">8月9日は「パークの日」</a></dd>
+
+  <dt><p class="icon_y">キャンペーン</p>2025年8月1日</dt>
+  <dd><a href="/news/2025/0801/1548.html">ボーナスポイントがもらえる！タイムズカープログラム ステージUP応援キャンペーン実施中</a></dd>
+
+  <dt><p class="icon_y">キャンペーン</p>2025年7月17日</dt>
+  <dd><a href="/news/2025/0717/1537.html">【個人会員】タイムズパーキングを使おうキャンペーン実施中</a></dd>
+
+
+			</dl>
+		</div>
+	</section>
+
+	<section class="group">
+		<div class="group_inner">
+			<h2>グループサービス</h2>
+			<ul>
+				<li>
+					<a href="https://rental.timescar.jp/" class="alpha" target="_blank"><img src="images/index_bn009.gif" width="149" height="48" alt="レンタカーならタイムズカーレンタル" /></a>
+				</li>
+				<li>
+					<a href="https://www.timesclub.jp/member/view/open/tdlesson/list.jsp" class="alpha" target="_blank"><img src="images/index_bn032.png" width="149" height="48" alt="無料！駐車のレッスン" /></a>
+				</li>
+				<li>
+					<a href="http://www.timessupport.co.jp/insurance/auto_insurance/oneday_auto.html" class="alpha" target="_blank"><img src="images/index_bn006.gif?20181015" width="149" height="48" alt="タイムズサポートがお勧めする1日自動車保険" /></a>
+				</li>
+				<li>
+					<a href="https://www.timesclub.jp/member/view/open/regist/landing.jsp?i=sp949" class="alpha" target="_blank"><img src="images/index_bn011.gif?20180302" width="149" height="48" alt="とめて得するタイムズクラブ新規会員募集中" /></a>
+				</li>
+				<li>
+					<a href="https://used.timescar.jp/" class="alpha" target="_blank"><img src="images/index_bn029.png?20190531" width="149" height="48" alt="タイムズカー売ります！" /></a>
+				</li>
+				<li>
+						<a href="https://btimes.jp/lp/li/tcp.html" class="alpha" target="_blank"><img src="images/index_bn033.png?20220401" width="149" height="48" alt="予約できるタイムズパーキング B"></a>
+				</li>
+			</ul>
+			<ul class="mt10">
+				<li>
+					<a href="https://timespay.jp/" class="alpha" target="_blank"><img src="images/index_bn034.png?20220728" width="149" height="48" alt="タイムズペイ"></a>
+				</li>
+			</ul>
+		</div>
+	</section>
+
+	<div id="spMenu" class="show">表示：<a href="/sp/">スマートフォン</a>｜PC</div>
+
+	<aside class="infomation">
+		<div class="infomation-inner">
+			<ul class="social">
+				<li>タイムズカー公式SNS</li>
+				<li>
+					<a href="https://twitter.com/timescar_jp" class="alpha" onclick="javascript:_gaq.push(['_trackPageview', '/click/twitter']);" target="_blank"><img src="/images/top_bt013.png?20240201" alt="Xタイムズカー公式アカウント" title="Xタイムズカー公式アカウント"></a>
+				</li>
+				<li>
+					<a href="https://www.facebook.com/timescar.jp/" class="alpha" onclick="javascript:_gaq.push(['_trackPageview', '/click/facebook']);" target="_blank"><img src="/images/top_bt014.png?20240201" alt="facebookタイムズカー公式アカウント" title="facebookタイムズカー公式アカウント"></a>
+				</li>
+			</ul>
+		</div>
+	</aside>
+
+  <aside class="etc_banner">
+    <ul class="etc_banner_list">
+      <li><a href="/owner/"><img src="/images/top_bn036.png" alt="施設・土地オーナーの方へ　カーシェアを設置しませんか？" width="188" class="alpha"></a></li>
+      <li><a href="/public/"><img src="/images/top_bn037.png" alt="官民連携によるカーシェアリング普及の取り組み" width="188" class="alpha"></a></li>
+    </ul>
+  </aside>
+	<p id="pagetop"><a href="#"><img src="/common/images/footer_bt003.png" alt="ページの先頭へ戻る" width="52" height="52"></a></p>
+<!-- フッタ -->
+<footer>
+  <div class="linkarea">
+  <dl class="place" style="height: 220px;">
+    <dt><a href="/place/">ステーション検索</a></dt>
+    <dd>
+      <ul>
+        <li><a href="/view/station/search.jsp">ステーションを探す</a></li>
+        <li><a href="/place/newopen.html">オープン・閉鎖予定ステーション</a></li>
+      </ul>
+    </dd>
+    <dt class="mt10"><a href="/fare/">料金</a></dt>
+    <dd>
+      <ul>
+        <li><a href="/fare/card.html">初期費用</a></li>
+        <li><a href="/fare/basic.html">月額基本料金</a></li>
+         <li><a href="/fare/use.html">利用料金</a></li>
+         <li><a href="/fare/compensate.html">補償制度</a></li>
+         <li><a href="/fare/simulation.html">料金シミュレーション</a></li>
+      </ul>
+    </dd>
+  </dl>
+  <dl class="use" style="height: 220px;">
+    <dt><a href="/use/">利用方法</a></dt>
+    <dd>
+      <ul>
+        <li><a href="/use/newregist.html">入会</a></li>
+        <li><a href="/use/reserve.html">予約</a></li>
+        <li><a href="/use/start.html">出発</a></li>
+        <li><a href="/use/drive.html">利用</a></li>
+        <li><a href="/use/gas-station.html">給油・洗車</a></li>
+        <li><a href="/use/return.html">返却</a></li>
+        <li><a href="/use/pay.html">精算</a></li>
+        <li><a href="/use/revocation.html">会員資格の取り消し基準</a></li>
+				<li><a href="/use/accident.html">事故が発生したら</a></li>
+      </ul>
+    </dd>
+  </dl>
+  <dl class="car" style="height: 220px;">
+    <dt><a href="/car/">車種</a></dt>
+    <dt class="mt10"><a href="/about/">各種サービスのご案内</a></dt>
+    <dd>
+      <ul>
+        <li><a href="/about/service/">ベンリな機能とサービス</a></li>
+        <li><a href="/about/benefits/">会員様優待特典</a></li>
+        <li><a href="/about/tc_program/">タイムズカープログラムとは</a></li>
+        <li><a href="/about/scene/">みんなはこう使っている</a></li>
+        <li><a href="/about/movie.html">動画で見るタイムズカー</a></li>
+		<li><a href="/tcp_guide/safe-driving/">知ってる？運転のポイント</a></li>
+      </ul>
+    </dd>
+  </dl>
+  <dl class="f-news" style="height: 220px;">
+    <dt><a href="/news/">新着情報</a></dt>
+    <dt class="mt10"><a href="/view/explain/list.jsp">説明会情報</a></dt>
+		<dt class="mt10"><a href="/faq/">よくあるご質問</a></dt>
+    <dt class="mt10"><a href="/guide/">ユーザーガイド</a></dt>
+    <dt class="mt10"><a href="/contract.html">貸渡約款</a></dt>
+    <dd>
+      <ul>
+        <li><a href="/trade.html">特定商取引に基づく表記</a></li>
+      </ul>
+    </dd>
+  </dl>
+  <dl class="regist" style="height: 220px;">
+    <dt><a href="/tcp_guide/join.html">入会をご検討の方</a></dt>
+    <dt class="mt10"><a href="/regist.html">個人入会</a></dt>
+    <!-- <dd>
+      <ul>
+        <li><a href="/view/request/input.jsp">資料請求</a></li>
+      </ul>
+    </dd> -->
+    <dt class="mt10"><a href="/registcorp.html">法人入会</a></dt>
+    <dd>
+      <ul>
+        <li><a href="/view/requestCorp/input.jsp?siteId=TCS">資料ダウンロード</a></li>
+      </ul>
+    </dd>
+    <dt class="mt10">会員の方</dt>
+    <dd>
+      <ul>
+        <li><a href="/view/member/mypage.jsp">予約・ログイン</a></li>
+        <li><a href="/tcp_guide/masters.html">使いこなし術</a></li>
+        <li><a href="/tcp_guide/rule.html">ルールとマナー</a></li>
+      </ul>
+    </dd>
+  </dl>
+  </div>
+  <ul class="footer_navi">
+    <li><a href="/sitemap.html">サイトマップ</a></li>
+    <li><a href="/site-policy.html">サイトのご利用にあたって</a></li>
+    <li><a href="http://www.timesmobi.co.jp/privacy.html" target="_blank">個人情報保護方針</a></li>
+    <li><a href="http://www.timesmobi.co.jp/management_privacy.html" target="_blank">個人情報の取扱いについて</a></li>
+    <li><a href="/inquiry.html">お問い合わせ</a></li>
+    <li class="border_n"><a href="https://career.park24.co.jp/" target="_blank">採用情報</a></li>
+  </ul>
+  <!-- copyright start -->
+  <div class="copyright">
+    <div class="copyright_inner">
+      <p class="text-center">タイムズカーは、パーク２４グループのタイムズモビリティ株式会社が運営するカーシェアリングサービスです。<br />
+      (C) TIMES MOBILITY CO., LTD. All rights reserved.</p>
+    </div>
+  </div>
+  <!-- copyright end -->
+</footer>
+
+
+	</div>
+	<script language="JavaScript" type="text/javascript" src="/common/js/jquery.js?20201217"></script>
+<script language="JavaScript" type="text/javascript" src="/common/js/jquery.cookie.js?20201217"></script>
+<!-- ログイン情報の表示用 -->
+<script language="JavaScript" type="text/javascript" src="/common/js/common.js?20201217"></script>
+<script language="JavaScript" type="text/javascript" src="/common/js/url.js?20240304"></script>
+<script language="JavaScript" type="text/javascript" src="/view/teedaExtension/org/seasar/teeda/ajax/js/ajax.js?20201217"></script>
+<script language="JavaScript" type="text/javascript" src="/common/js/errorHandler.js?20240304"></script>
+<script language="JavaScript" type="text/javascript" src="/common/js/ajaxCustomize.js?20240304"></script>
+<script language="JavaScript" type="text/javascript" src="/common/js/ajaxCommon.js?20201217"></script>
+	<script language="JavaScript" type="text/javascript" src="/common/js/mouseover.js?20201217"></script>
+	<script src="/common/js/velocity.min.js"></script>
+	<script src="/common/js/top.js?20230327"></script>
+	<script src="/common/js/login.js?20240806"></script>
+	<script src="/common/js/changeSp.js"></script>
+	<script src="/common/js/jquery.easing.1.3.js"></script>
+	<script src="/common/js/jquery.bxslider.min.js"></script>
+	<!-- User Insight Code  -->
+	
+	<!-- /User Insight Code  -->
+	<!-- Yahoo Tag Manager -->
+<!-- End Yahoo Tag Manager -->
+
+<script type="application/ld+json">
+  [
+    {
+        "@context" : "https://schema.org",
+        "@type" : "WebSite",
+        "name" : "タイムズカー",
+        "alternateName" : "タイムズのカーシェア",
+        "url" : "https://share.timescar.jp/" 
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://share.timescar.jp/",
+            "name": "ホーム"
+          }
+        }
+      ]
+    }
+  ]
+</script>
+</body>
+</html>

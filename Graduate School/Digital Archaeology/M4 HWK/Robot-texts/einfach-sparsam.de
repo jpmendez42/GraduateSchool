@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /newsletter/online-version/*
+Disallow: /gewinnspiele/infiniteScroll/*
+Disallow: /gewinnspiele/report/*
+Disallow: /gewinnspiele/kategorie/promo/*
+Disallow: /top-gutscheine/*
+Disallow: /*?quote=

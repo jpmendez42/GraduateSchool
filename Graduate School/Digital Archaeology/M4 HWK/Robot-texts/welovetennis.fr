@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Disallow: /redirect
+
+Sitemap: https://www.welovetennis.fr/sitemap_index.xml
+Sitemap: https://www.welovetennis.fr/sitemap-news.xml
+
+User-agent: bingbot
+Crawl-delay: 2

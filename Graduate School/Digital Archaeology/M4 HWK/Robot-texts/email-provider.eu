@@ -1,0 +1,8 @@
+User-agent: LinkedInBot
+Disallow:
+User-agent: *
+Disallow: /web/
+User-agent: facebookexternalhit
+Allow: /web/
+User-agent: facebot
+Allow: /web/

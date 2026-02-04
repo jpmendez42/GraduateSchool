@@ -1,0 +1,20 @@
+# dynamic robots.txt for https://www.smava.de/
+
+User-agent: *
+
+Disallow: /jforum/
+Disallow: /kreditprojekte/
+Disallow: /Downloads/
+Disallow: /brokerage/partner/
+Disallow: /brokerage/kreditantrag.html?*
+Disallow: */mtsleepwell/
+Disallow: */wp-admin/
+Disallow: */wp-register.php
+Disallow: */wp-login.php
+Disallow: */wp-trackback.php
+Disallow: */wp-content/plugins/
+Disallow: */feed/
+Disallow: */pp/
+Disallow: /kreditprivat
+
+Sitemap: https://www.smava.de/sitemap.xml

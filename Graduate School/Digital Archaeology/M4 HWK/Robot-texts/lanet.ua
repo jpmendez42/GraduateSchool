@@ -1,0 +1,44 @@
+User-agent: *
+
+Disallow: /*content_block*
+Disallow: /feed/
+Disallow: /trackback
+Disallow: */trackback
+Disallow: */feed
+Disallow: */comments
+Disallow: /?s=
+Disallow: /comments
+Disallow: */comment-page-*
+Disallow: /author
+Disallow: /tv_beta
+Disallow: /tv_beta2
+Disallow: /tv_beta3
+Disallow: /tv_beta4
+Disallow: /tv_master
+Disallow: /tag/
+Disallow: /*utm_expid=*
+Disallow: /*?utm_source=*
+Disallow: /*gclid=*
+Disallow: /*?*
+Disallow: /*.txt
+Allow: /assets/docs/
+Allow: *.js
+Allow: *.svg
+Allow: *.woff
+Allow: *.api
+Allow: *.js*
+Allow: *.ttf*
+Allow: *.svg*
+Allow: *.api*
+Allow: /api/
+Allow: *.js?*
+Allow: *.ttf?*
+Allow: *.woff?*
+Allow: *.svg?*
+Allow: *api*
+
+User-agent: Googlebot-Image
+Allow: /assets/docs/
+
+Host: https://www.lanet.ua
+Sitemap: https://www.lanet.ua/sitemap.xml

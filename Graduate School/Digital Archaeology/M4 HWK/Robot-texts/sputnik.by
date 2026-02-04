@@ -1,0 +1,36 @@
+User-agent: *
+Disallow: *-print.html$
+Disallow: /sys_*
+Disallow: /search/
+Disallow: /services/
+Disallow: /cms/
+Disallow: */calendar.html
+Disallow: /_editorial_preview_*
+Clean-param: param /
+Clean-param: nid /
+Disallow: /files/
+Disallow: */more.html
+Disallow: /ig/
+Clean-param: id /
+Clean-param: from /
+Clean-param: rcmd_alg /
+Clean-param: amp_lite /
+Clean-param: chat_room_id /
+Clean-param: nw /
+Clean-param: fb_comment_id /
+Clean-param: mobile_return /
+Clean-param: _pmch /
+Clean-param: date /
+Clean-param: modal /
+Clean-param: Telegram /
+Clean-param: __twitter_impression /
+Clean-param: post /
+Clean-param: grs /
+Clean-param: share-block /
+Clean-param: share-img /
+Clean-param: place /
+Clean-param: _gl /
+
+Sitemap: https://sputnik.by/sitemap_article_index.xml
+Sitemap: https://sputnik.by/sitemap_list_index.xml
+Sitemap: https://sputnik.by/sitemap_archive.xml

@@ -1,0 +1,22 @@
+User-Agent: *
+Disallow: /?r=*
+Disallow: /?*
+Disallow: /client/auth
+Disallow: /client/recover
+Disallow: /client/sites
+Disallow: /site_preview
+Disallow: /about/improverate
+Disallow: /unsubscribe
+Host: https://www.setup.ru
+Sitemap: https://www.setup.ru/sitemap.xml
+
+User-Agent: Yandex
+Disallow: /?r=*
+Disallow: /?*
+Disallow: /client/auth
+Disallow: /client/recover
+Disallow: /client/sites
+Disallow: /site_preview
+Disallow: /unsubscribe
+Disallow: /about/improverate
+Crawl-delay: 3

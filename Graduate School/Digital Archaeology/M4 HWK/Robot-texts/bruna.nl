@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /app/
+Disallow: /zoeken/
+Disallow: /winkelmand
+Disallow: /mijn-account
+Disallow: /inloggen
+Disallow: /bedankt
+Disallow: /nieuw-wachtwoord
+Disallow: /email
+Disallow: /bijwerken
+Disallow: /mijnbruna
+Sitemap: https://api.bruna.nl/waroot/sitemap-bruna_nl.xml

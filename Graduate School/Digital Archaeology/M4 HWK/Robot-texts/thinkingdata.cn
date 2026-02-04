@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /cgi-bin/
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /internal/
+Disallow: /search/
+Disallow: /user/
+Disallow: /login/
+Disallow: /logout/
+Disallow: /register/
+Disallow: /forgot-password/
+Disallow: /wp-admin/

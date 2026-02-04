@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Allow: /wp-admin/admin-ajax.php
+
+
+Sitemap: https://www.bikuci.hu/sitemap_index.xml
+Sitemap: https://www.bikuci.hu/wsg-sitemap-index.xml
+Sitemap: https://www.bikuci.hu/news-sitemap.xml
+

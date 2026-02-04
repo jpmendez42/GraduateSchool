@@ -1,0 +1,18 @@
+
+User-agent: *
+Disallow: /_home/
+Disallow: /_passport/
+Disallow: /api/
+Disallow: /ee/
+Disallow: /_old_blog/
+Disallow: /_old_manual/
+Disallow: /_manual/
+Disallow: /topic/icp/index.html
+Disallow: /school/course/f1134ed5281d74a346a6ad531d0cd959
+Disallow: /school/course/9b3b88f78124afe639a39681f53a8771
+Disallow: /school/course/6bd4fe7b8c8c520415b84e124ed89ebb
+Disallow: /school/course/61ab1394185a391ea1a414e2f07084c4
+Disallow: /?utm_medium=cpt
+Disallow: /static/
+Disallow: /about/aboutus_bd.html
+Disallow: /about/aboutus_cjo.html

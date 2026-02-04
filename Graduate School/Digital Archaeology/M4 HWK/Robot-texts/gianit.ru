@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /assets/components/
+Disallow: /connectors/
+Disallow: /core/
+Disallow: /manager/
+Disallow: /search
+Disallow: /index.php
+Disallow: /?
+Host: https://gianit.ru/
+Sitemap: https://gianit.ru/sitemap.xml

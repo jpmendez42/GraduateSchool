@@ -1,0 +1,11 @@
+#Default Aurora rules
+User-agent: *
+Disallow: /map?*
+Disallow: /map/*
+Disallow: /profile*
+Disallow: /contact*
+Disallow: /report*
+Disallow: /globalsearchlander*
+Disallow: /favorite-frontend-api/*
+
+Sitemap: https://www.dba.dk/sitemap.xml

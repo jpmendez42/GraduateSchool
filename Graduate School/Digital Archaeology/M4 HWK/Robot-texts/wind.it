@@ -1,0 +1,57 @@
+User-Agent: *
+
+Disallow: /offer/
+
+Disallow: /img97/ris/
+
+Disallow: /img96/ris/
+
+Disallow: /*source=*
+
+Disallow: /attivazioni/
+
+Disallow: /nuovaAreaClienti/infostrada/pages/clicktocall/
+
+Disallow: /area155/infostrada/
+
+Disallow: /typo3conf/ext/
+
+Disallow: /t3lib/
+
+Disallow: /typo3/
+
+Disallow: /typo3conf/
+
+Disallow: /typo3_src/
+
+Disallow: /batch/
+
+Disallow: /test/
+
+Disallow: /trksource.php/
+
+Disallow: /windcode/
+
+Disallow: /*type=*
+
+Disallow: /consenso/
+
+Disallow: /copertura-codice/
+
+Disallow: /maintenance/
+
+Disallow: /negozi-wind-codice/
+
+Disallow: /mywind/
+
+Disallow: /shaping/
+
+Disallow: /toolapp/
+
+Disallow: /uploads/
+
+
+
+
+
+Sitemap: https://www.wind.it/sitemap.xml

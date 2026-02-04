@@ -1,0 +1,18 @@
+#Sitemap Index
+Sitemap: https://entertainment.ie/sitemap/
+
+User-agent: *
+
+#Block Internal Seach
+Disallow: /search
+Disallow: /*?term*
+
+#Block Parameters
+Disallow: /*?utm*
+Disallow: /*?time*
+Disallow: /*?skip*
+Disallow: /*?url*
+Disallow: /*.asp
+
+#Block Content API
+Disallow: /api/*

@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /controller/javascript/minified/
+Allow: /mail-system/pub/newsletters/
+
+Disallow: /admin/
+Disallow: /controller/
+Disallow: /mail-system/
+Disallow: /stock-admin/
+
+Disallow: /detail-emailu/
+Disallow: /detail-notifikace/
+Disallow: /detail-sms/
+Disallow: /dostupnost-produktu/
+Disallow: /porovnani-produktu/
+Disallow: /muj-ucet/
+
+Sitemap: https://www.sportisimo.cz/pub/sitemaps/sportisimo.cz/sitemaps_index.xml

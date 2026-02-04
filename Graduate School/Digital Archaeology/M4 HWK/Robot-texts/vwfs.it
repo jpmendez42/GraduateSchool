@@ -1,0 +1,4143 @@
+<!DOCTYPE html>
+<html lang="it" class="js-enable-3rd-party-float-grid">
+<head>
+    
+    <!-- VWFS DMP - Blue Label Core - VERSION: 2025.1008.1134521.0006757641 - LAST MODIFIED: 2025-10-08 -->
+
+
+
+
+
+
+    
+        
+        
+        
+            <script defer="defer" type="text/javascript" src="/.rum/@adobe/helix-rum-js@%5E2/dist/rum-standalone.js"></script>
+<script src="//assets.adobedtm.com/launch-EN297f6069de8b4a75961ef39a0fb96373.min.js" async></script>
+        
+        
+    
+
+
+<title>Finanziamenti, Assicurazioni, Manutenzione e Mobility | VWFS</title>
+
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+
+
+
+
+
+
+
+  
+    <link rel="preload" href="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/fonts/fonts/vwfs-sans-regular.woff2" as="font" type="font/woff2" crossorigin/>
+  
+  <meta name="aem-client-lib-path" content="clientlib-site-bluelabel"/>
+
+
+
+  <link rel="preconnect" href="https://cc.cdn.civiccomputing.com"/>
+  <link rel="dns-prefetch" href="https://cc.cdn.civiccomputing.com"/>
+
+  <link rel="preconnect" href="https://apikeys.civiccomputing.com"/>
+  <link rel="dns-prefetch" href="https://apikeys.civiccomputing.com"/>
+
+  <link rel="preconnect" href="https://cdn.bronson.vwfs.io"/>
+  <link rel="dns-prefetch" href="https://cdn.bronson.vwfs.io"/>
+
+
+
+
+    
+
+        
+        
+
+        
+        
+
+        <link imagesrcset="https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$s$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 350w, https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$m$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 520w, https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$l$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 1280w, https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$xl$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 1600w" as="image" href="https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$xl$&fmt=webp&fit=vfit,1&resMode=sharp2&v=1748265273140" rel="preload" imagesizes="100vw"/>
+    
+
+
+
+
+
+
+
+<link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/favicon/apple-touch-icon.png?v=042"/>
+
+
+    <link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/favicon/favicon-32x32.png?v=042"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/favicon/favicon-16x16.png?v=042"/>
+
+
+<link rel="manifest" crossorigin="use-credentials" href="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/favicon/manifest.json"/>
+
+
+
+
+    <link rel="shortcut icon" href="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/favicon/favicon.ico?v=042"/>
+
+
+
+    <link rel="alternate" hreflang="it" href="https://www.vwfs.it/"/>
+
+
+<meta name="msapplication-config" content="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/favicon/browserconfig.xml"/>
+<meta name="msapplication-TileColor" content="#004666"/>
+<meta name="msapplication-TileImage" content="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/favicon/mstile-144x144.png?v=042"/>
+<meta name="theme-color" content="#ffffff"/>
+
+<meta name="description"/>
+
+
+    <meta name="aem-api-url" content="https://api.prod.cms.vwfs.io"/>
+
+
+<meta name="aem-client-lib-path" content="clientlib-site-bluelabel"/>
+
+    <link rel="canonical" href="https://www.vwfs.it/"/>
+    <script src="/etc.clientlibs/bluelabel/clientlibs/clientlib-canonical.5eec9bb52a5b6a44dd1f0a495c4a19fd.js"></script>
+
+
+
+
+
+
+
+    <script src="/etc.clientlibs/bluelabel/clientlibs/clientlib-traci.eeeebe5c098a181e93e620411f0376f8.js"></script>
+
+
+
+
+
+
+
+
+    <meta name="datalayer-language" content="it"/>
+    <meta name="datalayer-countryCode" content="IT"/>
+    <meta name="datalayer-siteSecondaryCategories"/>
+    <meta name="datalayer-sitePrimaryCategory" content="home"/>
+    <meta name="datalayer-landingPageCorrespondingJourney"/>
+    <meta name="datalayer-landingPageVariant"/>
+    <meta name="datalayer-design" content="bluelabel"/>
+    <meta name="datalayer-customBrand"/>
+    <meta name="datalayer-version" content="2025.1008.1134521.0006757641"/>
+    <meta name="datalayer-releaseDate" content="2025-10-08"/>
+    <meta name="datalayer-bundleName" content="VWFS DMP - Main Application - Core"/>
+    <meta name="datalayer-staging" content="prod"/>
+
+    
+    <meta name="datalayer-pageType"/>
+    <meta name="datalayer-pageTitle" content="Finanziamenti, Assicurazioni, Manutenzione e Mobility | VWFS"/>
+    <meta name="datalayer-mainPage"/>
+    <meta name="datalayer-contentCluster"/>
+    <meta name="datalayer-businessCluster" content="Finanziamenti, Assicurazioni, Manutenzione e Mobility | VWFS"/>
+    <meta name="datalayer-navigationLevel1"/>
+    <meta name="datalayer-navigationLevel2"/>
+    <meta name="datalayer-navigationLevel3"/>
+
+    
+    <meta name="datalayer-contractProductName"/>
+    <meta name="datalayer-contractProductGroup"/>
+    <meta name="datalayer-contractContentCluster"/>
+    <meta name="datalayer-contractProductCluster"/>
+    <meta name="datalayer-contractBrand" content="VWFS"/>
+
+    
+        <script src="/etc.clientlibs/bluelabel/clientlibs/clientlib-datalayer.4b7864f98fdef32fde4fa4782c4e664e.js"></script>
+
+    
+
+
+
+
+
+<meta name="google-site-verification" content="jKN1UuE6dyLVcQZaygEKg4ORmdK46P-l7nn8EfDtkdM"/>
+
+
+    <meta name="adform-page-name" content="home"/>
+
+
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel.03f44a5f88e39f6a1da6cdc442f8a38f.css" type="text/css">
+
+
+
+
+
+
+  
+      <meta name="feedbacktool-id" content="237C5645DE9FEA11AA5EC9768AD49726"/>
+      <meta name="feedbacktool-sid" content="2D7A5645DE9FEA11AA5EC9768AD49726"/>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+<body>
+<div class="o-root dmp-bluelabel" id="main">
+    
+<a href="#main-section" class="c-skip-link dmp-skip-link">
+	Vai al contenuto principale
+</a>
+<a href="#footer-section" class="c-skip-link dmp-skip-link">
+	Vai al piè di pagina
+</a>
+
+
+
+<section id="js-notifications-group" class="c-notifications-group js-panelgroup" aria-label="Notification">
+    
+    
+    
+
+
+    
+    
+</section>
+
+
+
+<header class="c-header__wrapper ">
+    <div class="c-header ">
+        <div class="c-header__content-wrapper">
+            <div class="c-header__logo">
+                
+
+    
+
+    <a class="c-logo  " href="/">
+        <img src="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/img/logo-small-screen.svg" alt="Volkswagen Financial Services logo" class="c-logo__image-small"/>
+        <img src="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel/resources/img/logo.svg" alt="Volkswagen Financial Services logo" class="c-logo__image"/>
+    </a>
+
+    
+
+    
+
+
+            </div>
+            
+    
+
+            <div class="c-header__nav">
+                <div class="c-site-nav
+                    c-site-nav--mega-menu c-site-nav--break@none
+                    ">
+                    
+                    <div class="c-site-nav__panel ">
+                        <nav class="c-site-nav__navs" aria-label="Navigazione principale">
+
+                            <ul class="c-site-nav__nav">
+                                
+                                <li class="c-site-nav__item c-site-nav__item--search js-dropdown">
+                                    
+<button class="c-site-nav__link js-dropdown__button js-search-btn" id="search-nav" aria-controls="search-nav-dropdown" aria-expanded="false">
+    <span class="c-site-nav__link-label">Ricerca</span>
+    <i class="c-site-nav__link-icon" aria-hidden="true" role="img"></i>
+</button>
+<div class="c-site-nav-dropdown js-dropdown__panel is-collapsed" id="search-nav-dropdown" aria-labelledby="search-nav">
+    <div class="c-site-nav-dropdown__list">
+        <div class="c-site-nav-dropdown__search">
+            <form id="search-block" action="/searchresult.html" method="get" data-tr-function="Search" class="c-site-nav-dropdown__search-form" aria-label="Search Form" role="search">
+                <div class="c-form-field">
+                    <label for="headersearch" class="c-form-field__label dmp-sr-visual">Ricerca</label>
+                    <div class="c-form-field__box">
+                        <div class="c-input">
+                            <input class="c-input__input js-search-input" id="headersearch" size="35" type="text" name="q" autocomplete="on" minlength="2" data-tr-component="Inputbox" data-tr-function="Text Input"/>
+                            <button class="c-input__addon" type="submit" aria-label="Submit Search">
+                                <i class="c-icon  c-icon--[semantic-search]" aria-hidden="true" role="img"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+                                </li>
+                                
+                                
+                                
+                                <li class="c-site-nav__item c-site-nav__item--user js-dropdown">
+                                    
+
+
+
+    <button class="c-site-nav__link js-dropdown__button" data-qe-id="c-id-login--link" href="#js-banking-menu" id="login-nav" type="button" aria-controls="login-nav-dropdown" aria-expanded="false">
+        <span class="c-site-nav__link-label">LOGIN</span>
+        <i class="c-site-nav__link-icon" aria-hidden="true" role="img"></i>
+    </button>
+    <nav id="login-nav-dropdown" aria-labelledby="login-nav" class="c-site-nav-dropdown js-dropdown__panel is-collapsed" data-qe-id="c-id-login--menu">
+	<ul class="c-site-nav-dropdown__list">
+		
+
+
+
+
+    
+    
+    <li class="c-site-nav-dropdown__item vwfs-dmp-login-button">
+
+    <a class="c-site-nav-dropdown__link " data-qe-id="c-id-login--desktop-link" target="_self" href="https://myfs.vwfs.it">
+        Accedi a MyFS Customer Portal
+    </a>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="c-site-nav-dropdown__item vwfs-dmp-login-button">
+
+    <a class="c-site-nav-dropdown__link " data-qe-id="c-id-login--desktop-link" target="_self" href="https://accessoclienti.vwfs.it/vwfb/index.aspx">
+        Accedi all&#39;Area Clienti Leasing Finanziario
+    </a>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="c-site-nav-dropdown__item vwfs-dmp-login-button">
+
+    <a class="c-site-nav-dropdown__link c-site-nav__link_desktop" data-qe-id="c-id-login--desktop-link" target="_self" href="https://accessoclienti.vwfs.it/vwf/Login">
+        Accedi all&#39;Area Clienti Noleggio
+    </a>
+    <a class="c-site-nav-dropdown__link c-site-nav__link_mobile" data-qe-id="c-id-login--mobile-link" target="_self" href="https://accessoclienti.vwfs.it/vwf/Login">
+        Accedi all&#39;Area Clienti Noleggio
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-site-nav-dropdown__item vwfs-dmp-login-button">
+
+    <a class="c-site-nav-dropdown__link " data-qe-id="c-id-login--desktop-link" aria-label="Accedi all&#39;Area Clienti Rinnovi Assicurativi online - Page opens within a new window" target="_blank" href="https://www.rinnova.vwfs.it/login">
+        Accedi all&#39;Area Clienti Rinnovi Assicurativi online
+    </a>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="c-site-nav-dropdown__item vwfs-dmp-login-button">
+
+    <a class="c-site-nav-dropdown__link " data-qe-id="c-id-login--desktop-link" aria-label="Accedi all&#39;area riservata dipendenti VWFS - Page opens within a new window" target="_blank" href="https://noleggio-auto.volkswagengroup.it/assegnazione-auto/">
+        Accedi all&#39;area riservata dipendenti VWFS
+    </a>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="c-site-nav-dropdown__item vwfs-dmp-login-button">
+
+    <a class="c-site-nav-dropdown__link " data-qe-id="c-id-login--desktop-link" aria-label="Wellwagen VWFS - Page opens within a new window" target="_blank" href="https://eudaimon.my.site.com/we/EudLoginVWFS">
+        Wellwagen VWFS
+    </a>
+    
+    
+
+</li>
+
+
+
+	</ul>
+</nav>
+
+    
+    
+
+
+                                </li>
+
+                                
+                                <li class="c-site-nav__item c-site-nav__item--menu">
+                                    
+<button aria-expanded="false" id="mega-menu-submenu" type="button" class="c-site-nav__link js-mega-menu-trigger" href="#js-mega-menu" aria-controls="js-mega-menu">
+    <span class="c-site-nav__link-label">MENU</span>
+    <i class="c-site-nav__link-icon" aria-hidden="true" role="img"></i>
+</button>
+
+
+                                </li>
+                                
+                                
+                            </ul>
+                            <ul class="c-site-nav__nav">
+                                
+                                
+    <li class="c-site-nav__item js-dropdown">
+        <button class="c-site-nav__link js-dropdown__button" type="button" href="#" aria-expanded="false" id="toplevel-nav" aria-controls="toplevel-nav-dropdown">
+            
+            <span class="c-site-nav__link-label">Clienti</span>
+            <i class="c-site-nav__link-icon" aria-hidden="true" role="img"></i>
+            
+        </button>
+        <nav id="toplevel-nav-dropdown" aria-labelledby="toplevel-nav" class="c-site-nav-dropdown js-dropdown__panel is-collapsed">
+            <ul class="c-site-nav-dropdown__list">
+                <li class="c-site-nav-dropdown__item">
+                    <span class="c-site-nav-dropdown__link is-active" aria-current="page">Clienti</span>
+                    
+                </li>
+            
+                <li class="c-site-nav-dropdown__item">
+                    
+                    <a class="c-site-nav-dropdown__link" href="/Dealer.html">Dealer</a>
+                </li>
+            </ul>
+        </nav>
+    </li>
+    
+    
+
+
+                                
+                                
+    
+
+
+                                
+                                
+                                
+                                
+                            </ul>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        
+            
+<div class="o-page-wrap c-mega-menu__outer-wrap">
+    <div id="js-mega-menu" class="js-mega-menu-wrap c-mega-menu__inner-wrap">
+        <nav class="js-mega-menu c-mega-menu js-is-not-loaded  " aria-label="Main Menu">
+            
+            <ul class="c-mega-menu__list c-mega-menu__list--level-one u-mb">
+                
+                
+    
+
+
+                
+                    
+                        
+                        <li>
+
+                            
+                                <button class="c-mega-menu__link c-mega-menu__link--level-one "><span class="c-mega-menu__link-text">Finanziamenti &amp; Credito</span><span class="c-mega-menu__arrow"></span></button>
+                                <ul class="c-mega-menu__list c-mega-menu__list--level-two ">
+                                    <li>
+                                        <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/finanziamenti-credito.html">Panoramica</a>
+                                    </li>
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/finanziamenti-credito/Valore-Futuro-Garantito.html">Valore Futuro Garantito</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/finanziamenti-credito/piu-credito.html">Più Credito</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/finanziamenti-credito/grade.html">Grade</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/finanziamenti-credito/mekkano.html">Mekkano</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/finanziamenti-credito/faq-credito.html">Domande Frequenti Credito</a>
+                                        
+                                    </li>
+                                </ul>
+                            
+
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+                                <button class="c-mega-menu__link c-mega-menu__link--level-one "><span class="c-mega-menu__link-text">Leasing Finanziario </span><span class="c-mega-menu__arrow"></span></button>
+                                <ul class="c-mega-menu__list c-mega-menu__list--level-two ">
+                                    <li>
+                                        <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/leasing-hub.html">Panoramica</a>
+                                    </li>
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/leasing-hub/leasing-finanziario.html">Leasing Finanziario</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/leasing-hub/Domande_frequenti_subentri.html">Utilizzatori Leasing</a>
+                                        
+                                    </li>
+                                </ul>
+                            
+
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+                                <button class="c-mega-menu__link c-mega-menu__link--level-one "><span class="c-mega-menu__link-text">Noleggio Lungo Termine e Multibrand</span><span class="c-mega-menu__arrow"></span></button>
+                                <ul class="c-mega-menu__list c-mega-menu__list--level-two ">
+                                    <li>
+                                        <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/noleggio_e_multibrand.html">Panoramica</a>
+                                    </li>
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/noleggio_e_multibrand/assistenza-multibrand.html">Assistenza Multibrand</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/noleggio_e_multibrand/assistenza-nlt.html">Assistenza NLT</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                    <button class="c-mega-menu__link c-mega-menu__link--level-two ">Utilizzatori NLT<span class="c-mega-menu__arrow"></span></button>
+                                            <ul class="c-mega-menu__list c-mega-menu__list--level-three ">
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three " data-tr-component="Link" href="/noleggio_e_multibrand/utilizzatori-nlt.html">Panoramica</a>
+                                                </li>
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/noleggio_e_multibrand/utilizzatori-nlt/documentazione_subentri.html">Documentazione </a>
+                                                </li>
+                                            </ul>
+                                        
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/noleggio_e_multibrand/NoleggioSolutiOnClassico.html">Noleggio SolutiOn Classico</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/noleggio_e_multibrand/NoleggioPayXUSESolutiOn.html">Noleggio Pay X USE SolutiOn</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/noleggio_e_multibrand/NoleggioSecondLIFESolutiOn.html">Noleggio 2nd LIFE SolutiOn</a>
+                                        
+                                    </li>
+                                </ul>
+                            
+
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+
+                            
+                                <a class="c-mega-menu__link c-mega-menu__link--level-one " data-tr-component="Link" href="/servizi-di-manutenzione.html">Pacchetti Manutenzione</a>
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+                                <button class="c-mega-menu__link c-mega-menu__link--level-one "><span class="c-mega-menu__link-text">Assicurazioni</span><span class="c-mega-menu__arrow"></span></button>
+                                <ul class="c-mega-menu__list c-mega-menu__list--level-two ">
+                                    <li>
+                                        <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/polizze-assicurative.html">Panoramica</a>
+                                    </li>
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/polizze-assicurative/gap-protezioneventi.html">GAP Protezioneventi</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                    <button class="c-mega-menu__link c-mega-menu__link--level-two ">Sistemi di Identificazione Veicolo <span class="c-mega-menu__arrow"></span></button>
+                                            <ul class="c-mega-menu__list c-mega-menu__list--level-three ">
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three " data-tr-component="Link" href="/polizze-assicurative/identificazione-veicolo.html">Panoramica</a>
+                                                </li>
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/identificazione-veicolo/Securit@g.html">Securitag </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/identificazione-veicolo/Securicode.html">Securicode</a>
+                                                </li>
+                                            </ul>
+                                        
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                    <button class="c-mega-menu__link c-mega-menu__link--level-two ">Furto e Incendio<span class="c-mega-menu__arrow"></span></button>
+                                            <ul class="c-mega-menu__list c-mega-menu__list--level-three ">
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three " data-tr-component="Link" href="/polizze-assicurative/furto-incendio.html">Panoramica</a>
+                                                </li>
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/furto-incendio/FirstTrip.html">New First Trip</a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/furto-incendio/BusinessTour.html">New Business Tour</a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/furto-incendio/ClubVoyage.html">New Club Voyage </a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/furto-incendio/Ducati_FAN_CLUB.html">Ducati FAN e Ducati CLUB</a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/furto-incendio/man-truck.html">Man Truck</a>
+                                                </li>
+                                            </ul>
+                                        
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                    <button class="c-mega-menu__link c-mega-menu__link--level-two ">Protezione Finanziamento<span class="c-mega-menu__arrow"></span></button>
+                                            <ul class="c-mega-menu__list c-mega-menu__list--level-three ">
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three " data-tr-component="Link" href="/polizze-assicurative/protezione-credito.html">Panoramica</a>
+                                                </li>
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/protezione-credito/AlterEgoDuoPlus.html">Alter Ego Duo Plus</a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/protezione-credito/AlterEgoDuoPlus-Dipendenti.html">Alter Ego Duo Plus per Dipendenti Privati</a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/protezione-credito/AlterEgo-leasing.html">Alter Ego Leasing</a>
+                                                </li>
+                                            </ul>
+                                        
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/polizze-assicurative/capital-safe.html">Capital Safe</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                    <button class="c-mega-menu__link c-mega-menu__link--level-two ">Polizze Infortuni Conducente<span class="c-mega-menu__arrow"></span></button>
+                                            <ul class="c-mega-menu__list c-mega-menu__list--level-three ">
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three " data-tr-component="Link" href="/polizze-assicurative/infortuni-conducente.html">Panoramica</a>
+                                                </li>
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/infortuni-conducente/safe-inmotion.html">Safe inMotion</a>
+                                                </li>
+                                            
+                                                
+                                                <li>
+                                                    <a class="c-mega-menu__link c-mega-menu__link--level-three test3 " data-tr-component="Link" href="/polizze-assicurative/infortuni-conducente/safe-MAN-inmotion.html">Safe MAN inMotion</a>
+                                                </li>
+                                            </ul>
+                                        
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/polizze-assicurative/estensioni-garanzie.html">Estensioni di Garanzia</a>
+                                        
+                                    </li>
+                                
+                                    
+                                    <li>
+                                        
+                                        
+                                            <a class="c-mega-menu__link c-mega-menu__link--level-two " data-tr-component="Link" href="/polizze-assicurative/faq-assicurazioni.html">Domande Frequenti Assicurazioni</a>
+                                        
+                                    </li>
+                                </ul>
+                            
+
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+
+                            
+                                <a class="c-mega-menu__link c-mega-menu__link--level-one " data-tr-component="Link" href="/mobility.html">Mobility </a>
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+
+                            
+                                <a class="c-mega-menu__link c-mega-menu__link--level-one " data-tr-component="Link" href="/ev4me-tool-it.html">EV4ME Tool </a>
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+
+                            
+                                <a class="c-mega-menu__link c-mega-menu__link--level-one " data-tr-component="Link" href="/customer-happiness-index-trusted-shops.html">Elaborazione dati | Trusted Shops</a>
+                            
+                        </li>
+                    
+                        
+                        <li>
+
+                            
+
+                            
+                                <a class="c-mega-menu__link c-mega-menu__link--level-one " data-tr-component="Link" href="/accessibilita.html">Accessibilità</a>
+                            
+                        </li>
+                    
+                
+            </ul>
+            
+            <ul id="js-mega-menu-dropdown" class="c-mega-menu-dropdown u-mv"> 
+	
+	<li class="c-mega-menu-dropdown__item">
+		<button type="button" class="c-mega-menu__link  js-mega-menu-dropdown-title">
+			Clienti
+			<span class="c-mega-menu-dropdown__icon" aria-hidden="true"></span>
+		</button>
+	</li>
+
+	<li class="c-mega-menu-dropdown__item">
+        <span class="c-mega-menu__list-title">Clienti</span>
+		
+	</li>
+<li class="c-mega-menu-dropdown__item">
+        
+		<a class="c-mega-menu__link" href="/Dealer.html">Dealer</a>
+	</li>
+
+</ul>
+            
+            
+
+
+<ul class="c-mega-menu__list c-mega-menu__list--level-one">
+    
+
+
+
+
+    
+    
+    <li class="supportlink">
+
+    
+    
+        <a class="c-mega-menu__link c-mega-menu__link--level-one" data-tr-component="Link" target="_self" href="/corporate.html">
+        <span class="o-media o-media--small o-media--middle">
+            <span class="o-media__img">
+                <i class="c-mega-menu__icon c-icon c-icon--[account-detail] c-icon--small" role="img"></i>
+            </span>
+            <span class="o-media__body">
+                Chi Siamo<br />
+
+
+                
+            </span>
+        </span>
+        </a>
+    
+
+    
+
+
+
+</li>
+
+
+    
+    
+    <li class="supportlink">
+
+    
+    
+        <a class="c-mega-menu__link c-mega-menu__link--level-one" data-tr-component="Link" target="_self" href="/contattaci.html">
+        <span class="o-media o-media--small o-media--middle">
+            <span class="o-media__img">
+                <i class="c-mega-menu__icon c-icon c-icon--[address-book] c-icon--small" role="img"></i>
+            </span>
+            <span class="o-media__body">
+                Contattaci
+
+                
+            </span>
+        </span>
+        </a>
+    
+
+    
+
+
+
+</li>
+
+
+    
+    
+    <li class="supportlink">
+
+    
+    
+        <a class="c-mega-menu__link c-mega-menu__link--level-one" data-tr-component="Link" target="_self" href="/news-hub.html">
+        <span class="o-media o-media--small o-media--middle">
+            <span class="o-media__img">
+                <i class="c-mega-menu__icon c-icon c-icon--[magazine] c-icon--small" role="img"></i>
+            </span>
+            <span class="o-media__body">
+                Notizie e Informazioni Utili<br />
+
+
+                
+            </span>
+        </span>
+        </a>
+    
+
+    
+
+
+
+</li>
+
+
+
+</ul>
+
+        </nav>
+    </div>
+</div>
+
+        
+        
+        
+        
+        
+        
+    </div>
+</header>
+
+<main class="o-main" id="main-section">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="c-hero-teaser 
+            
+			c-hero-teaser--top-right
+			
+			
+			
+            ">
+
+    
+    
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt class="c-hero-teaser__image " height="5583" loading="eager" sizes="100vw" src="https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$xl$&fmt=webp&fit=vfit,1&resMode=sharp2&v=1748265273140" srcset="https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$s$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 350w, https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$m$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 520w, https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$l$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 1280w, https://cms-assets.vwfs.com/is/image/vwfs/2ndLIFE2?$xl$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1748265273140 1600w" type="image/webp" width="8474"/>
+        </picture>
+    
+
+    
+    
+    
+    
+    
+    
+    
+    <div id="js-hero-teaser-content" class="c-hero-teaser__content">
+        <div class="c-hero-teaser__content-inner">
+            <header class="c-hero-teaser__heading">
+                
+                
+                <div class="c-hero-teaser__title ">
+                    <h1>
+                        
+                            <span class="c-hero-teaser__title-row">Volkswagen Financial Services Italia</span>
+<br />
+                        
+                        
+                        
+                    </h1>
+                </div>
+                <div class="c-hero-teaser__subtitle ">
+                    
+                        <p>The Key To Mobility</p>
+                    
+                    
+                </div>
+            </header>
+            <div class="c-hero-teaser__button">
+                
+                    
+                    
+                    
+
+    <a class="c-btn " data-tr-component="Link" target="_self" href="/corporate.html">
+        <span class="c-btn__text">Scopri di più</span>
+    </a>
+    
+
+
+                    
+                
+            </div>
+            
+        </div>
+    </div>
+</div>
+
+
+
+
+    
+    
+
+
+
+
+<div class="c-section-nav  js-section-nav js-scroll-observer" data-scroll-observer-target="#section-nav-sections" data-scroll-observer-root-margin="0px 0px -100%">
+    <div class="c-section-nav__header">
+        <button class="c-section-nav__section-label js-section-nav__section-label " type="button" aria-expanded="false" aria-controls="section-nav-container">
+            
+                <span class="c-section-nav__section-label__text js-section-nav__section-label__text">Chi Siamo</span>
+            
+                
+            
+                
+            
+                
+            
+                
+            
+                
+            
+        </button>
+        
+    </div>
+    <nav class="c-section-nav__container js-section-nav__container" id="section-nav-container" aria-label="Table of contents">
+        <div class="c-section-nav__scroll js-section-nav__scroll">
+            <button class="c-section-nav__scroll-button c-section-nav__scroll-button--prev js-section-nav__scroll-button--prev" type="button" tabindex="-1" aria-label="Scroll to the left">
+            </button>
+            <ul class="c-section-nav__list js-section-nav__list js-scroll-observer" data-scroll-observer-target=".js-section-nav__section" data-scroll-observer-root-margin="-49% 0px -50%" data-scroll-observer-track-multiple="true">
+                <li class="c-section-nav__item" data-show-logic-parent="false">
+                    <a class="c-section-nav__link  js-section-nav__link" href="#chi_siamo" data-text="Chi Siamo">
+                        Chi Siamo
+                    </a>
+                    
+                </li>
+            
+                <li class="c-section-nav__item" data-show-logic-parent="false">
+                    <a class="c-section-nav__link  js-section-nav__link" href="#i_nostri_brand" data-text="I Nostri Brand">
+                        I Nostri Brand
+                    </a>
+                    
+                </li>
+            
+                <li class="c-section-nav__item" data-show-logic-parent="false">
+                    <a class="c-section-nav__link  js-section-nav__link" href="#prodotti_e_servizi" data-text="Prodotti e Servizi ">
+                        Prodotti e Servizi 
+                    </a>
+                    
+                </li>
+            
+                <li class="c-section-nav__item" data-show-logic-parent="false">
+                    <a class="c-section-nav__link  js-section-nav__link" href="#soluzioni_di_mobilita" data-text="Soluzioni di Mobilità">
+                        Soluzioni di Mobilità
+                    </a>
+                    
+                </li>
+            
+                <li class="c-section-nav__item" data-show-logic-parent="false">
+                    <a class="c-section-nav__link  js-section-nav__link" href="#aree_riservate_clienti" data-text="Aree Riservate Clienti">
+                        Aree Riservate Clienti
+                    </a>
+                    
+                </li>
+            
+                <li class="c-section-nav__item" data-show-logic-parent="false">
+                    <a class="c-section-nav__link  js-section-nav__link" href="#contattaci" data-text="Contattaci">
+                        Contattaci
+                    </a>
+                    
+                </li>
+            </ul>
+            
+            <button class="c-section-nav__scroll-button c-section-nav__scroll-button--next js-section-nav__scroll-button--next" type="button" tabindex="-1" aria-label="Scroll to the right">
+            </button>
+        </div>
+        
+    </nav>
+</div>
+
+    <div id="section-nav-sections">
+        
+
+
+
+
+    
+    
+    <div class="section">
+
+
+
+
+
+<section class="o-content-section c-section-nav__section js-section-nav__section" id="chi_siamo">
+	<div class="o-page-wrap 
+         
+         ">
+		
+
+
+		<header class="c-section-heading  c-section-heading--center c-section-heading--primary ">
+			
+			
+			
+			
+			
+
+				
+				<h2 class="c-section-heading__title   ">
+					<span class="c-section-heading__title-text ">
+    The Key To Mobility
+
+
+
+
+</span>
+					
+				</h2>
+				
+				
+			
+
+			<div class="c-section-heading__subtitle ">
+				<p>Mobility è movimento. </p>
+<p>Da decenni offriamo con successo le nostre soluzioni di mobilità: finanziamenti, leasing finanziari, servizi assicurativi e noleggio a lungo termine.</p>
+<p>Un mondo di servizi e prodotti all’avanguardia, dedicati all’auto e al suo utilizzo, perché i nostri clienti privati e business possano sempre muoversi al meglio. </p>
+
+
+			</div>
+		</header>
+	</div>
+
+	
+
+
+
+
+    
+    
+    <div class="o-component-wrapper u-text-center">
+
+
+
+
+</div>
+
+
+    
+    
+    <div class="o-component-wrapper">
+
+
+
+
+    <div class="o-page-wrap ">
+        
+    
+    <header class="c-section-heading  c-section-heading--center ">
+        
+        
+        
+        
+        
+
+        
+        <div class="c-section-heading__subtitle  ">
+            <p>Oggi  Volkswagen Financial Services è rappresentata in Italia da due realtà distinte: </p>
+
+
+        </div>
+    </header>
+
+        <div class="o-layout">
+            <div class="o-layout__item u-1/2 u-1/1@s">
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="GMBH*">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+				
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Volkswagen Bank GmbH" class="dmp-auto-height lazyload" height="609" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/logo%20volkwagenbank?$xl$&fmt=webp&fit=vfit,1&resMode=sharp2&v=1733752287086" srcset="https://cms-assets.vwfs.com/is/image/vwfs/logo%20volkwagenbank?$s$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733752287086 350w, https://cms-assets.vwfs.com/is/image/vwfs/logo%20volkwagenbank?$m$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733752287086 520w, https://cms-assets.vwfs.com/is/image/vwfs/logo%20volkwagenbank?$l$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733752287086 1280w, https://cms-assets.vwfs.com/is/image/vwfs/logo%20volkwagenbank?$xl$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733752287086 1600w" type="image/webp" width="1600"/>
+        </picture>
+    
+
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+                                       GMBH* 
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+</div>
+        </div>
+    </div>
+</div>
+</div>
+            <div class="o-layout__item u-1/2 u-1/1@s">
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="GMBH*">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+				
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Volkswagen Leasing " class="dmp-auto-height lazyload" height="609" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/Logo%20volkwagen%20leasing?$xl$&fmt=webp&fit=vfit,1&resMode=sharp2&v=1733753424114" srcset="https://cms-assets.vwfs.com/is/image/vwfs/Logo%20volkwagen%20leasing?$s$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733753424114 350w, https://cms-assets.vwfs.com/is/image/vwfs/Logo%20volkwagen%20leasing?$m$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733753424114 520w, https://cms-assets.vwfs.com/is/image/vwfs/Logo%20volkwagen%20leasing?$l$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733753424114 1280w, https://cms-assets.vwfs.com/is/image/vwfs/Logo%20volkwagen%20leasing?$xl$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733753424114 1600w" type="image/webp" width="1600"/>
+        </picture>
+    
+
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+                                          GMBH* 
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+</div>
+        </div>
+    </div>
+</div>
+</div>
+        </div>
+    </div>
+
+</div>
+
+
+    
+    
+    <div class="o-component-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+</section>
+
+
+
+</div>
+
+
+    
+    
+    <div class="section">
+
+
+
+
+
+<section class="o-content-section c-section-nav__section js-section-nav__section" data-theme="alternative" id="i_nostri_brand">
+	
+
+	
+
+
+
+
+    
+    
+    <div class="o-component-wrapper c-id-brandjump">
+
+
+    <div class="o-page-wrap">
+        
+        
+    
+    <header class="c-section-heading  c-section-heading--center ">
+        
+        
+        
+        
+        
+
+        
+            
+            <h3 class="c-section-heading__title   ">
+                <span class="c-section-heading__title-text ">
+    Guidiamo i tuoi sogni: il partner finanziario ufficiale per tutti i brand del Gruppo Volkswagen!
+
+
+
+
+</span>
+                
+            </h3>
+            
+            
+        
+        
+    </header>
+
+		<ul class="c-media-grid " data-aspect-ratio="1/1">
+
+
+
+
+    
+    
+    <li class="c-media-grid__item u-text-center c-id-brandjump">
+
+
+
+
+
+<a class="c-media-grid__link" data-qe-id="c-id-brandjump--link" data-tr-component="Link" href="https://www.audi.it/it/web/it.html" aria-label="AUDI - Page opens within a new window" target="_blank">
+    
+        <img class="c-media-grid__image dmp-auto-height" srcset="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/audi-320x320px.png, /etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/audi-640x640px.png 2x" src="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/audi-640x640px.png" alt loading="lazy" data-qe-id="c-id-brandjump--link-audi"/>
+    
+    <span class="c-media-grid__label">AUDI</span>
+    
+    
+    
+</a>
+</li>
+
+
+    
+    
+    <li class="c-media-grid__item u-text-center c-id-brandjump">
+
+
+
+
+
+<a class="c-media-grid__link" data-qe-id="c-id-brandjump--link" data-tr-component="Link" href="https://www.cupraofficial.it" aria-label="CUPRA - Page opens within a new window" target="_blank">
+    
+        <img class="c-media-grid__image dmp-auto-height" srcset="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/seat-cupra-320x320px.png, /etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/seat-cupra-640x640px.png 2x" src="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/seat-cupra-640x640px.png" alt loading="lazy" data-qe-id="c-id-brandjump--link-seat-cupra"/>
+    
+    <span class="c-media-grid__label">CUPRA</span>
+    
+    
+    
+</a>
+</li>
+
+
+    
+    
+    <li class="c-media-grid__item u-text-center c-id-brandjump">
+
+
+
+
+
+<a class="c-media-grid__link" data-qe-id="c-id-brandjump--link" data-tr-component="Link" href="https://www.seat-italia.it/" aria-label="SEAT - Page opens within a new window" target="_blank">
+    
+        <img class="c-media-grid__image dmp-auto-height" srcset="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/seat-320x320px.png, /etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/seat-640x640px.png 2x" src="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/seat-640x640px.png" alt loading="lazy" data-qe-id="c-id-brandjump--link-seat"/>
+    
+    <span class="c-media-grid__label">SEAT</span>
+    
+    
+    
+</a>
+</li>
+
+
+</ul>
+    </div>
+
+</div>
+
+
+    
+    
+    <div class="o-component-wrapper c-id-brandjump">
+
+
+    <div class="o-page-wrap">
+        
+        
+    
+    
+
+		<ul class="c-media-grid " data-aspect-ratio="1/1">
+
+
+
+
+    
+    
+    <li class="c-media-grid__item u-text-center c-id-brandjump">
+
+
+
+
+
+<a class="c-media-grid__link" data-qe-id="c-id-brandjump--link" data-tr-component="Link" href="https://www.skoda-auto.it/" aria-label="Škoda - Page opens within a new window" target="_blank">
+    
+        <img class="c-media-grid__image " srcset="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/skoda_2023.svg, /etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/skoda_2023.svg 2x" src="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/skoda_2023.svg" alt loading="lazy" data-qe-id="c-id-brandjump--link-skoda-plus"/>
+    
+    <span class="c-media-grid__label">Škoda</span>
+    
+    
+    
+</a>
+</li>
+
+
+    
+    
+    <li class="c-media-grid__item u-text-center c-id-brandjump">
+
+
+
+
+
+<a class="c-media-grid__link" data-qe-id="c-id-brandjump--link" data-tr-component="Link" href="https://www.volkswagen.it/it.html" aria-label="Volkswagen - Page opens within a new window" target="_blank">
+    
+        <img class="c-media-grid__image dmp-auto-height" srcset="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/vw-auto-d6-320x320px.png, /etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/vw-auto-d6-640x640px.png 2x" src="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/vw-auto-d6-640x640px.png" alt loading="lazy" data-qe-id="c-id-brandjump--link-volkswagen"/>
+    
+    <span class="c-media-grid__label">Volkswagen</span>
+    
+    
+    
+</a>
+</li>
+
+
+    
+    
+    <li class="c-media-grid__item u-text-center c-id-brandjump">
+
+
+
+
+
+<a class="c-media-grid__link" data-qe-id="c-id-brandjump--link" data-tr-component="Link" href="https://www.volkswagen-veicolicommerciali.it/it.html" aria-label="Volkswagen Veicoli Commerciali - Page opens within a new window" target="_blank">
+    
+        <img class="c-media-grid__image dmp-auto-height" srcset="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/vwn-it-d6-320x320px.png, /etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/vwn-it-d6-640x640px.png 2x" src="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/vwn-it-d6-640x640px.png" alt loading="lazy" data-qe-id="c-id-brandjump--link-volkswagen-nutzfahrzeuge-it"/>
+    
+    <span class="c-media-grid__label">Volkswagen Veicoli Commerciali</span>
+    
+    
+    
+</a>
+</li>
+
+
+    
+    
+    <li class="c-media-grid__item u-text-center c-id-brandjump">
+
+
+
+
+
+<a class="c-media-grid__link" data-qe-id="c-id-brandjump--link" data-tr-component="Link" href="https://www.ducati.com/it/it/home" aria-label="Ducati - Page opens within a new window" target="_blank">
+    
+        <img class="c-media-grid__image dmp-auto-height" srcset="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/ducati-320x320px.png, /etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/ducati-640x640px.png 2x" src="/etc.clientlibs/bluelabel/clientlibs/clientlib-logos/resources/img/ducati-640x640px.png" alt loading="lazy" data-qe-id="c-id-brandjump--link-ducati"/>
+    
+    <span class="c-media-grid__label">Ducati</span>
+    
+    
+    
+</a>
+</li>
+
+
+</ul>
+    </div>
+
+</div>
+
+
+
+
+</section>
+
+
+
+</div>
+
+
+    
+    
+    <div class="section">
+
+
+
+
+
+<section class="o-content-section c-section-nav__section js-section-nav__section" id="prodotti_e_servizi">
+	
+
+	
+
+
+
+
+    
+    
+    <div class="o-component-wrapper">
+
+
+
+
+
+    <div class="o-page-wrap ">
+        
+    
+    <header class="c-section-heading  c-section-heading--center ">
+        
+        
+        
+        
+        
+
+        
+            
+            <h3 class="c-section-heading__title   ">
+                <span class="c-section-heading__title-text ">
+    I nostri Prodotti e Servizi:
+
+
+
+
+</span>
+                
+            </h3>
+            
+            
+        
+        <div class="c-section-heading__subtitle  ">
+            <p>La mobilità di cui hai bisogno a portata di click</p>
+
+
+        </div>
+    </header>
+
+        <div class="o-layout">
+            <div class="o-layout__item u-1/3 u-1/1@s">
+                
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="Finanziamenti">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+					<a target="_blank" class="link " aria-label=" - Page opens within a new window" data-href="/finanziamenti-credito.html" href="/finanziamenti-credito.html">
+						
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Finanziamenti " class="dmp-auto-height lazyload" height="3800" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/shutterstock_offset_1876231036_mod-1:3x2?$xl-3x2$&fmt=webp&resMode=sharp2&v=1733044624820" srcset="https://cms-assets.vwfs.com/is/image/vwfs/shutterstock_offset_1876231036_mod-1:3x2?$s-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733044624820 350w, https://cms-assets.vwfs.com/is/image/vwfs/shutterstock_offset_1876231036_mod-1:3x2?$m-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733044624820 520w, https://cms-assets.vwfs.com/is/image/vwfs/shutterstock_offset_1876231036_mod-1:3x2?$l-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733044624820 1280w, https://cms-assets.vwfs.com/is/image/vwfs/shutterstock_offset_1876231036_mod-1:3x2?$xl-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733044624820 1600w" type="image/webp" width="5700"/>
+        </picture>
+    
+
+					</a>
+				
+				
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        <div class="c-media-teaser__pretitle">
+            <p>Volkswagen Bank GmbH</p>
+
+
+        </div>
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+    Finanziamenti
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    <p>Finanziare la tua auto non è mai stato così semplice e conveniente.</p>
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" aria-label="SCOPRI DI PIU&#39; - Page opens within a new window" target="_blank" title="SCOPRI DI PIU&#39;" href="/finanziamenti-credito.html">
+        <span class="c-btn__text">SCOPRI DI PIU&#39;</span>
+    </a>
+    
+
+</div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="o-layout__item u-1/3 u-1/1@s">
+                 
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="Leasing Finanziario">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+					<a target="_blank" class="link " aria-label=" - Page opens within a new window" data-href="/leasing-hub.html" href="/leasing-hub.html">
+						
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Leasing Finanziario" class="dmp-auto-height lazyload" height="966" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/homepageleasing1:3x2?$xl-3x2$&fmt=webp&resMode=sharp2&v=1733906531800" srcset="https://cms-assets.vwfs.com/is/image/vwfs/homepageleasing1:3x2?$s-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906531800 350w, https://cms-assets.vwfs.com/is/image/vwfs/homepageleasing1:3x2?$m-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906531800 520w, https://cms-assets.vwfs.com/is/image/vwfs/homepageleasing1:3x2?$l-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906531800 1280w, https://cms-assets.vwfs.com/is/image/vwfs/homepageleasing1:3x2?$xl-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906531800 1600w" type="image/webp" width="1452"/>
+        </picture>
+    
+
+					</a>
+				
+				
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        <div class="c-media-teaser__pretitle">
+            <p>Volkswagen Bank GmbH</p>
+
+
+        </div>
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+    Leasing Finanziario
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    <p>Scopri il Leasing Finanziario che fa per te: soluzioni personalizzate e vantaggiose.</p>
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" data-tr-function="Begin_Journey" target="_self" title="SCOPRI DI PIU&#39;" href="/leasing-hub.html">
+        <span class="c-btn__text">SCOPRI DI PIU&#39;</span>
+    </a>
+    
+
+</div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="o-layout__item u-1/3 u-1/1@s">
+                 
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="Noleggio a Lungo Termine">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+					<a target="_blank" class="link " aria-label=" - Page opens within a new window" data-href="/noleggio_e_multibrand.html" href="/noleggio_e_multibrand.html">
+						
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Noleggio a Lungo Termine" class="dmp-auto-height lazyload" height="1000" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/homepagenoleggio1:3x2?$xl-3x2$&fmt=webp&resMode=sharp2&v=1733906004120" srcset="https://cms-assets.vwfs.com/is/image/vwfs/homepagenoleggio1:3x2?$s-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906004120 350w, https://cms-assets.vwfs.com/is/image/vwfs/homepagenoleggio1:3x2?$m-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906004120 520w, https://cms-assets.vwfs.com/is/image/vwfs/homepagenoleggio1:3x2?$l-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906004120 1280w, https://cms-assets.vwfs.com/is/image/vwfs/homepagenoleggio1:3x2?$xl-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906004120 1600w" type="image/webp" width="1683"/>
+        </picture>
+    
+
+					</a>
+				
+				
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        <div class="c-media-teaser__pretitle">
+            <p>Volkswagen Leasing GmbH</p>
+
+
+        </div>
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+    Noleggio a Lungo Termine
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    <p>Scegli l&#39;auto che desideri con <strong>SolutiOn</strong>: modelli nuovi e usato a tariffe vantaggiose.</p>
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" target="_self" href="/noleggio_e_multibrand.html">
+        <span class="c-btn__text">SCOPRI DI PIU&#39;</span>
+    </a>
+    
+
+</div>
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" data-tr-function="Begin_Journey" aria-label="ACQUISTA ONLINE - Page opens within a new window" target="_blank" title="ACQUISTA ONLINE" href="https://solution-noleggio.vwfs.it/it">
+        <span class="c-btn__text">ACQUISTA ONLINE</span>
+    </a>
+    
+
+</div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+    
+    
+    <div class="o-component-wrapper">
+
+
+
+
+
+    <div class="o-page-wrap ">
+        
+    
+    
+
+        <div class="o-layout">
+            <div class="o-layout__item u-1/3 u-1/1@s">
+                
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="Servizi Assicurativi">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+					<a target="_self" class="link " data-href="/polizze-assicurative.html" href="/polizze-assicurative.html">
+						
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Servizi Assicurativi" class="dmp-auto-height lazyload" height="4830" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/homepageassicurazioni1:3x2?$xl-3x2$&fmt=webp&resMode=sharp2&v=1733906188052" srcset="https://cms-assets.vwfs.com/is/image/vwfs/homepageassicurazioni1:3x2?$s-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906188052 350w, https://cms-assets.vwfs.com/is/image/vwfs/homepageassicurazioni1:3x2?$m-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906188052 520w, https://cms-assets.vwfs.com/is/image/vwfs/homepageassicurazioni1:3x2?$l-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906188052 1280w, https://cms-assets.vwfs.com/is/image/vwfs/homepageassicurazioni1:3x2?$xl-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906188052 1600w" type="image/webp" width="7245"/>
+        </picture>
+    
+
+					</a>
+				
+				
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        <div class="c-media-teaser__pretitle">
+            <p>Volkswagen Bank GmbH</p>
+
+
+        </div>
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+    Servizi Assicurativi
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    <p>Polizze Assicurative su misura per te e la tua famiglia: sicurezza garantita.</p>
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" target="_self" href="/polizze-assicurative.html">
+        <span class="c-btn__text">SCOPRI DI PIU&#39;</span>
+    </a>
+    
+
+</div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="o-layout__item u-1/3 u-1/1@s">
+                 
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="Estensioni di Garanzia">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+					<a target="_self" class="link " data-href="/polizze-assicurative/estensioni-garanzie.html" href="/polizze-assicurative/estensioni-garanzie.html">
+						
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Estensione di Garanzia VWFS" class="dmp-auto-height lazyload" height="1000" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/homepageestensionedigaranzia1:3x2?$xl-3x2$&fmt=webp&resMode=sharp2&v=1733906271462" srcset="https://cms-assets.vwfs.com/is/image/vwfs/homepageestensionedigaranzia1:3x2?$s-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906271462 350w, https://cms-assets.vwfs.com/is/image/vwfs/homepageestensionedigaranzia1:3x2?$m-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906271462 520w, https://cms-assets.vwfs.com/is/image/vwfs/homepageestensionedigaranzia1:3x2?$l-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906271462 1280w, https://cms-assets.vwfs.com/is/image/vwfs/homepageestensionedigaranzia1:3x2?$xl-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733906271462 1600w" type="image/webp" width="1500"/>
+        </picture>
+    
+
+					</a>
+				
+				
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        <div class="c-media-teaser__pretitle">
+            <p>Volkswagen Bank GmbH</p>
+
+
+        </div>
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+    Estensioni di Garanzia
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    <p>Estensione di Garanzia auto: protezione e copertura completa contro gli imprevisti.</p>
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" target="_self" href="/polizze-assicurative/estensioni-garanzie.html">
+        <span class="c-btn__text">SCOPRI DI PIU&#39;</span>
+    </a>
+    
+
+</div>
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" target="_self" title="ACQUISTA ONLINE" href="https://estensionigaranzia.vwfs.it/ew_it/init/view/4fbfc3/">
+        <span class="c-btn__text">ACQUISTA ONLINE</span>
+    </a>
+    
+
+</div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+            </div>
+            <div class="o-layout__item u-1/3 u-1/1@s">
+                 
+
+
+
+
+<div class="c-media-teaser c-media-teaser--vertical" role="group" aria-label="Piani di Manutenzione">
+    
+    
+    
+
+    <div class="c-media-teaser__media">
+        
+    
+    
+    
+        
+        
+				
+					<a target="_self" class="link " data-href="/servizi-di-manutenzione.html" href="/servizi-di-manutenzione.html">
+						
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="Piani di Manutenzione VWFS" class="dmp-auto-height lazyload" height="2000" loading="lazy" sizes="(max-width: 374px) 350px, (max-width: 560px) 520px,(max-width: 720px) 1280px,(max-width: 784px) 350px, (max-width: 1140px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/Pagina%20principale%20SeI:3x2?$xl-3x2$&fmt=webp&resMode=sharp2&v=1745936656426" srcset="https://cms-assets.vwfs.com/is/image/vwfs/Pagina%20principale%20SeI:3x2?$s-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1745936656426 350w, https://cms-assets.vwfs.com/is/image/vwfs/Pagina%20principale%20SeI:3x2?$m-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1745936656426 520w, https://cms-assets.vwfs.com/is/image/vwfs/Pagina%20principale%20SeI:3x2?$l-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1745936656426 1280w, https://cms-assets.vwfs.com/is/image/vwfs/Pagina%20principale%20SeI:3x2?$xl-3x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1745936656426 1600w" type="image/webp" width="3000"/>
+        </picture>
+    
+
+					</a>
+				
+				
+        
+    
+
+
+        
+    </div>
+    <div class="c-media-teaser__caption">
+        <div class="c-media-teaser__pretitle">
+            <p>Volkswagen leasing GmbH</p>
+
+
+        </div>
+        
+        
+        
+        
+            <h3 class="c-media-teaser__title ">
+                    <span>
+    Piani di Manutenzione
+
+
+
+
+</span>
+                    
+            </h3>
+            
+            
+        
+        <div class="c-media-teaser__body">
+            <div class="c-list-nested-counter">
+    <p>Scopri comodamente online i nostri Piani di Manutenzione: la cura che la tua auto merita.</p>
+    
+</div>
+        </div>
+        <div class="c-media-teaser__footer">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+        
+    
+    
+    
+
+    
+
+
+            <div>
+
+
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" target="_self" title="SCOPRI DI PIU&#39;" href="/servizi-di-manutenzione.html">
+        <span class="c-btn__text">SCOPRI DI PIU&#39;</span>
+    </a>
+    
+
+</div>
+
+
+    
+    
+    <div class="button u-mt-small">
+
+    <a class="c-btn " data-tr-component="Link" target="_self" title="Acquista Online" href="/servizi-di-manutenzione.html">
+        <span class="c-btn__text">Acquista Online</span>
+    </a>
+    
+
+</div>
+
+
+</div>
+        </div>
+    </div>
+</div>
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+</section>
+
+
+
+</div>
+
+
+    
+    
+    <div class="section">
+
+
+
+
+
+<section class="o-content-section c-section-nav__section js-section-nav__section" data-theme="alternative" id="soluzioni_di_mobilita">
+	<div class="o-page-wrap 
+         
+         ">
+		
+
+
+		<header class="c-section-heading  c-section-heading--center c-section-heading--primary ">
+			
+			
+			
+			
+			
+
+				
+				<h2 class="c-section-heading__title  u-h1 ">
+					<span class="c-section-heading__title-text ">
+    <h3 class="u-mb">Le Soluzioni pensate per Te<br /></h3>
+
+
+
+
+</span>
+					
+				</h2>
+				
+				
+			
+
+			<div class="c-section-heading__subtitle ">
+				<p>Scopri se la Mobilità elettrica è in linea con le tue esigenze.</p>
+
+
+			</div>
+		</header>
+	</div>
+
+	
+
+
+
+
+    
+    
+    <div class="o-component-wrapper">
+
+
+
+
+
+
+	<div class="o-page-wrap">
+		<article class="c-display-card c-display-card--overlay c-display-card--inverted">
+			<div class="c-display-card__container c-display-card__container--cover c-display-card__container--grid">
+				
+    
+    
+    
+        
+        
+				
+				
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="mobilità elettrica" class="c-display-card__image u-focus-point-top-left lazyload" height="418" loading="lazy" sizes="(max-width: 712px) 100vw, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/ev4me.1PNG?$xl$&fmt=webp&fit=vfit,1&resMode=sharp2&v=1733044515152" srcset="https://cms-assets.vwfs.com/is/image/vwfs/ev4me.1PNG?$s$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733044515152 350w, https://cms-assets.vwfs.com/is/image/vwfs/ev4me.1PNG?$m$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733044515152 520w, https://cms-assets.vwfs.com/is/image/vwfs/ev4me.1PNG?$l$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733044515152 1280w, https://cms-assets.vwfs.com/is/image/vwfs/ev4me.1PNG?$xl$&amp;fmt=webp&amp;fit=vfit,1&amp;resMode=sharp2&amp;v=1733044515152 1600w" type="image/webp" width="800"/>
+        </picture>
+    
+
+        
+    
+
+
+
+				<div class="c-display-card__content">
+					
+					<h4 class="c-display-card__title  ">
+						EV4ME Tool
+					</h4>
+					
+					
+
+					<div class="c-display-card__body">
+						<div class="c-list-nested-counter">
+    <p>Ti aiutiamo a capire se un veicolo elettrico è la soluzione ideale per te o la tua azienda.</p>
+    
+</div>
+					</div>
+
+					<footer class="c-display-card__footer">
+						
+
+    <a class="c-btn " data-tr-component="Link" target="_self" href="/ev4me-tool-it.html">
+        <span class="c-btn__text">EV4ME TOOL</span>
+    </a>
+    
+
+
+					</footer>
+				</div>
+			</div>
+		</article>
+	</div>
+
+</div>
+
+
+
+
+</section>
+<div class="c-divider">
+	
+</div>
+
+
+</div>
+
+
+    
+    
+    <div class="section">
+
+
+
+
+
+<section class="o-content-section c-section-nav__section js-section-nav__section" id="aree_riservate_clienti">
+	<div class="o-page-wrap 
+         
+         ">
+		
+
+
+		<header class="c-section-heading  c-section-heading--center c-section-heading--primary ">
+			
+			
+			
+			
+			
+
+				
+				<h2 class="c-section-heading__title  u-h1 ">
+					<span class="c-section-heading__title-text ">
+    Clienti VWFS 
+
+
+
+
+</span>
+					
+				</h2>
+				
+				
+			
+
+			<div class="c-section-heading__subtitle ">
+				<p>Sei già un nostro cliente e vuoi avere accesso a tutte le informazioni del tuo contratto direttamente dal tuo divano?</p>
+
+
+			</div>
+		</header>
+	</div>
+
+	
+
+
+
+
+    
+    
+    <div class="cards o-component-wrapper">
+
+<div class="o-page-wrap ">
+    
+    
+    
+    <header class="c-section-heading  c-section-heading--center ">
+        
+        
+        
+        
+        
+
+        
+            
+            <h3 class="c-section-heading__title   ">
+                <span class="c-section-heading__title-text ">
+    Scopri l&#39;Area Clienti dedicata a te:
+
+
+
+
+</span>
+                
+            </h3>
+            
+            
+        
+        
+    </header>
+
+
+    
+
+    <div class="o-layout o-layout--equal-height o-layout--inline-center" data-slider-flickity='{ "groupCells": true }'>
+        
+            
+
+
+
+
+
+<div class="o-layout__item u-1/4 u-1/1@s">
+    <article class="c-card c-card--button-group">
+        <div class="c-card__icon">
+            <i class="c-icon  c-icon c-icon--[ipad-finger]" aria-hidden="true" role="img"></i>
+        </div>
+        <header class="c-card__header">
+            
+            
+            <h4 class="c-card__title  " style="color: #004666 !important">
+                    Finanziamenti
+            </h4>
+            
+            
+            
+            
+
+        </header>
+        <div class="c-card__body is-closed" style="color: #004666 !important">
+            
+                <p>Volkswagen Bank GMBH</p>
+            
+            
+            
+        </div>
+        <footer class="c-card__footer">
+            <div class="o-button-container  o-button-container--center">
+                
+
+    
+    
+    <a class="c-btn o-button-container__button " data-tr-component="Link" target="_self" href="https://myfs.vwfs.it/">
+        <span class="c-btn__text">MyFS</span>
+    </a>
+    
+
+
+                
+
+    
+    
+    
+    
+
+
+            </div>
+        </footer>
+    </article>
+</div>
+
+
+
+
+
+
+
+
+<div class="o-layout__item u-1/4 u-1/1@s">
+    <article class="c-card c-card--button-group">
+        <div class="c-card__icon">
+            <i class="c-icon  c-icon c-icon--[monitor-lines-pen]" aria-hidden="true" role="img"></i>
+        </div>
+        <header class="c-card__header">
+            
+            
+            <h4 class="c-card__title  " style="color: #004666 !important">
+                    Leasing Finanziario
+            </h4>
+            
+            
+            
+            
+
+        </header>
+        <div class="c-card__body is-closed" style="color: #004666 !important">
+            
+                <p>Volkswagen Bank GmbH</p>
+            
+            
+            
+        </div>
+        <footer class="c-card__footer">
+            <div class="o-button-container  o-button-container--center">
+                
+
+    
+    
+    <a class="c-btn o-button-container__button " data-tr-component="Link" target="_self" href="https://myfs.vwfs.it/">
+        <span class="c-btn__text">MyFS</span>
+    </a>
+    
+
+
+                
+
+    
+    
+    
+    
+
+
+            </div>
+        </footer>
+    </article>
+</div>
+
+
+
+
+
+
+
+
+<div class="o-layout__item u-1/4 u-1/1@s">
+    <article class="c-card c-card--button-group">
+        <div class="c-card__icon">
+            <i class="c-icon  c-icon c-icon--[monitor-car]" aria-hidden="true" role="img"></i>
+        </div>
+        <header class="c-card__header">
+            
+            
+            <h4 class="c-card__title  " style="color: #004666 !important">
+                    Noleggio a Lungo Termine
+            </h4>
+            
+            
+            
+            
+
+        </header>
+        <div class="c-card__body is-closed" style="color: #004666 !important">
+            
+                <p>Volkswagen Leasing GMBH</p>
+            
+            
+            
+        </div>
+        <footer class="c-card__footer">
+            <div class="o-button-container  o-button-container--center">
+                
+
+    
+    
+    <a class="c-btn o-button-container__button " data-tr-component="Link" target="_self" href="https://accessoclienti.vwfs.it/vwf/Login">
+        <span class="c-btn__text">Area Clienti Noleggio</span>
+    </a>
+    
+
+
+                
+
+    
+    
+    <a class="c-btn o-button-container__button " data-tr-component="Link" target="_self" href="https://accessoclienti.vwfs.it/vwldriver/">
+        <span class="c-btn__text">Denuncia Sinistri Clienti Noleggio</span>
+    </a>
+    
+
+
+            </div>
+        </footer>
+    </article>
+</div>
+
+
+
+        
+    </div>
+</div>
+</div>
+
+
+    
+    
+    <div class="o-component-wrapper">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="o-page-wrap">
+    <div class="c-hero-teaser
+            c-hero-teaser--no-page-head
+            c-hero-teaser--center-center
+            
+            c-hero-teaser--auto
+            ">
+
+        
+        
+    
+        <picture>
+            
+            
+            
+            
+            
+            
+            <img alt="AREA CLIENTI" class="c-hero-teaser__image lazyload" height="4024" loading="lazy" sizes="(max-width: 370px) 350px, (max-width: 560px) 520px, 1280px" src="https://cms-assets.vwfs.com/is/image/vwfs/homepagecustomerportal1:5x2?$xl-5x2$&fmt=webp&resMode=sharp2&v=1733909123911" srcset="https://cms-assets.vwfs.com/is/image/vwfs/homepagecustomerportal1:5x2?$s-5x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733909123911 350w, https://cms-assets.vwfs.com/is/image/vwfs/homepagecustomerportal1:5x2?$m-5x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733909123911 520w, https://cms-assets.vwfs.com/is/image/vwfs/homepagecustomerportal1:5x2?$l-5x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733909123911 1280w, https://cms-assets.vwfs.com/is/image/vwfs/homepagecustomerportal1:5x2?$xl-5x2$&amp;fmt=webp&amp;resMode=sharp2&amp;v=1733909123911 1600w" type="image/webp" width="6048"/>
+        </picture>
+    
+
+
+        
+        
+        
+        
+
+        <div class="c-hero-teaser__content">
+            <div class="c-hero-teaser__content-inner">
+                <header class="c-hero-teaser__heading">
+                    <div class="c-hero-teaser__title">
+                        
+                        <h2 class="  ">
+                            
+                                
+                                    <span class="c-hero-teaser__title-row">Non sei iscritto?</span>
+<br />
+                                
+                                
+                                
+                            
+                        </h2>
+                        
+                        
+                    </div>
+                    <div class="c-hero-teaser__subtitle ">
+                        
+                            <p>Entra nel mondo MyFS. Visualizza i dettagli dei tuoi Prodotti Finanziari e gestisci tutte le operazioni direttamente online.</p>
+                        
+                        
+                    </div>
+                </header>
+                <div class="c-hero-teaser__button">
+                    
+
+    <a class="c-btn " data-tr-component="Link" data-tr-function="Register" aria-label="REGISTRATI - Page opens within a new window" target="_blank" title="REGISTRATI" href="https://myfs.vwfs.it/">
+        <span class="c-btn__text">REGISTRATI</span>
+    </a>
+    
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+
+
+
+</section>
+
+
+
+</div>
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+    
+    <section class="o-content-section c-section-nav__section  js-section-nav__section" data-theme="alternative" id="contattaci">
+		<div class="o-page-wrap">
+            <div class="o-component-wrapper">
+                <header class="c-section-heading u-text-center">
+                    
+                    <h3 class="c-section-heading__title  ">
+                        <span class="c-section-heading__title-text ">
+    Hai bisogno di aiuto?
+
+
+
+
+</span>
+                        
+                    </h3>
+                    
+                    
+
+                </header>
+                <div class="o-layout o-layout--large o-layout--inline-center">
+                    
+                        <div class="o-layout__item u-1/3 u-1/1@s u-1/2@m">
+
+<article class="c-item-teaser c-item-teaser--inline ">
+    <i class="c-item-teaser__icon c-icon c-icon c-icon--[magazine]" aria-hidden="true"></i>
+    <div class="c-item-teaser__body">
+        
+        
+        <h5 class="c-item-teaser__title  ">
+            Assistenza Clienti Finanziamenti e Leasing Finanziario
+        </h5>
+        
+        
+        
+        
+
+        
+        <p class="c-item-teaser__text">Il supporto clienti di Volkswagen Bank GMBH è a tua disposizione.
+        </p>
+        
+        
+
+        
+        <div class="c-item-teaser__link">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+    
+    
+        <a data-qe-id="c-id-button-link--link" class="c-btn c-btn--link c-btn--small c-btn--simple" data-tr-component="Link" target="_self" href="https://contactus.crm.vwfs.it/">
+            <span class="c-btn__text">Apri una richiesta di supporto</span>
+            <i class="c-btn__icon c-icon c-icon--[semantic-forward]" aria-hidden="true" role="img"></i>
+        </a>
+    
+
+    
+
+
+        </div>
+
+        
+        <div class="u-text-fs-2">Numero di telefono: 02330271
+        </div>
+        
+        
+    </div>
+</article>
+</div>
+                    
+                        <div class="o-layout__item u-1/3 u-1/1@s u-1/2@m">
+
+<article class="c-item-teaser c-item-teaser--inline ">
+    <i class="c-item-teaser__icon c-icon c-icon c-icon--[monitor-car]" aria-hidden="true"></i>
+    <div class="c-item-teaser__body">
+        
+        
+        <h5 class="c-item-teaser__title  ">
+            Assistenza Clienti Noleggio a Lungo Termine
+        </h5>
+        
+        
+        
+        
+
+        
+        <p class="c-item-teaser__text">Il supporto clienti Volkswagen Leasing GMBH è a tua disposizione.
+        </p>
+        
+        
+
+        
+        <div class="c-item-teaser__link">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+    
+    
+        <a data-qe-id="c-id-button-link--link" class="c-btn c-btn--link c-btn--small c-btn--simple" data-tr-component="Link" target="_self" href="/contattaci/assistenza-clienti-noleggio.html">
+            <span class="c-btn__text">Apri una richiesta di supporto</span>
+            <i class="c-btn__icon c-icon c-icon--[semantic-forward]" aria-hidden="true" role="img"></i>
+        </a>
+    
+
+    
+
+
+        </div>
+
+        
+        <div class="u-text-fs-2">Numero di telefono: 02330271
+        </div>
+        
+        
+    </div>
+</article>
+</div>
+                    
+                        <div class="o-layout__item u-1/3 u-1/1@s u-1/2@m">
+
+<article class="c-item-teaser c-item-teaser--inline ">
+    <i class="c-item-teaser__icon c-icon c-icon c-icon--[hand-car]" aria-hidden="true"></i>
+    <div class="c-item-teaser__body">
+        
+        
+        <h5 class="c-item-teaser__title  ">
+            Assistenza Clienti Piani di Manutenzione
+        </h5>
+        
+        
+        
+        
+
+        
+        <p class="c-item-teaser__text">Il supporto clienti Volkswagen Leasing GMBH è a tua disposizione.
+        </p>
+        
+        
+
+        
+        <div class="c-item-teaser__link">
+            
+
+
+
+
+    
+    
+
+
+    
+    
+    
+    
+        <a data-qe-id="c-id-button-link--link" class="c-btn c-btn--link c-btn--small c-btn--simple" data-tr-component="Link" target="_self" href="/contattaci/Assistenza-clienti-piani-di-manutenzione.html">
+            <span class="c-btn__text">Apri una richiesta di supporto</span>
+            <i class="c-btn__icon c-icon c-icon--[semantic-forward]" aria-hidden="true" role="img"></i>
+        </a>
+    
+
+    
+
+
+        </div>
+
+        
+        <div class="u-text-fs-2">Numero di telefono: 02330271
+        </div>
+        
+        
+    </div>
+</article>
+</div>
+                    
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    </div>
+    
+</main>
+
+
+    
+
+
+
+
+
+    
+
+
+    <footer class="c-footer" id="footer-section">
+    
+    
+
+
+
+
+
+    
+        <div class="c-footer__module  c-footer__module--breadcrumb">
+            <div class="o-page-wrap">
+                <div class="c-footer-breadcrumb"><nav aria-label="Breadcrumb">
+    <ul class="c-breadcrumb">
+        
+        <li class="c-breadcrumb__item">
+            <a class="c-breadcrumb__link" aria-current="page" href="#">
+                <span class="c-breadcrumb__label">Home</span>
+            </a>
+        </li>
+        
+        
+    </ul>
+</nav>
+</div>
+            </div>
+        </div>
+	
+	
+
+	
+		
+
+<div class="c-footer__module c-footer__module--nav">
+    <div class="o-page-wrap">
+        <nav class="c-footer-nav" aria-labelledby="footer-nav-id">
+            <span id="footer-nav-id" class="u-visually-hidden">Footer Navigation</span>
+            <div class="c-footer-nav__columns">
+                
+
+<div class=" c-footer-nav__column  js-footer-accordion">
+    
+    <div class="c-footer-nav__title  js-footer-accordion__title">
+        <h4 class="c-footer-nav__title-label  js-footer-accordion__title-label" aria-expanded="false">
+            Volkswagen Bank GmbH<br />
+Finanziamenti e Leasing Finanziario
+
+        </h4>
+    </div>
+
+
+    <span id="id_983588113" class="u-visually-hidden">Links: </span>
+    <ul class="c-footer-nav__list  js-footer-accordion__panel o-list-bare  o-list-casual" aria-labelledby="id_983588113">
+        
+        
+
+
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/finanziamenti-credito/Valore-Futuro-Garantito.html" target="_self">
+                Valore Futuro Garantito
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/finanziamenti-credito/piu-credito.html" target="_self">
+                Più Credito
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/finanziamenti-credito/grade.html" target="_self">
+                Grade
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/finanziamenti-credito/mekkano.html" target="_self">
+                Mekkano
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/leasing-hub.html" target="_self">
+                Leasing Finanziario
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+
+    </ul>
+</div>
+
+                
+
+<div class=" c-footer-nav__column  js-footer-accordion">
+    
+    <div class="c-footer-nav__title  js-footer-accordion__title">
+        <h4 class="c-footer-nav__title-label  js-footer-accordion__title-label" aria-expanded="false">
+            Volkswagen Bank GmbH<br />
+Servizi Assicurativi
+
+        </h4>
+    </div>
+
+
+    <span id="id_983588112" class="u-visually-hidden">Links: </span>
+    <ul class="c-footer-nav__list  js-footer-accordion__panel o-list-bare  o-list-casual" aria-labelledby="id_983588112">
+        
+        
+
+
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/polizze-assicurative/furto-incendio.html" target="_self">
+                Furto e Incendio
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/polizze-assicurative/infortuni-conducente.html" target="_self">
+                Polizze Infortuni Conducente
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/polizze-assicurative/gap-protezioneventi.html" target="_self">
+                GAP Plus
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/polizze-assicurative/identificazione-veicolo.html" target="_self">
+                Sistemi Identificazione del Veicolo
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/polizze-assicurative/estensioni-garanzie.html" target="_self">
+                Estensione di Garanzia 
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/polizze-assicurative/protezione-credito.html" target="_self">
+                Protezione Credito
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+
+    </ul>
+</div>
+
+                
+
+<div class=" c-footer-nav__column  js-footer-accordion">
+    
+    <div class="c-footer-nav__title  js-footer-accordion__title">
+        <h4 class="c-footer-nav__title-label  js-footer-accordion__title-label" aria-expanded="false">
+            Volkswagen Leasing GmbH<br />
+Mobility e Servizi di Manutenzione
+
+        </h4>
+    </div>
+
+
+    <span id="id_983588111" class="u-visually-hidden">Links: </span>
+    <ul class="c-footer-nav__list  js-footer-accordion__panel o-list-bare  o-list-casual" aria-labelledby="id_983588111">
+        
+        
+
+
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/noleggio_e_multibrand.html" target="_self">
+                Noleggio a Lungo Termine
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/servizi-di-manutenzione.html" aria-label="Manutenzione Veicoli - Page opens within a new window" target="_blank">
+                Manutenzione Veicoli
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+
+    </ul>
+</div>
+
+                
+
+<div class=" c-footer-nav__column  js-footer-accordion">
+    
+    <div class="c-footer-nav__title  js-footer-accordion__title">
+        <h4 class="c-footer-nav__title-label  js-footer-accordion__title-label" aria-expanded="false">
+            Sei già un nostro Cliente?
+
+        </h4>
+    </div>
+
+
+    <span id="id_983588110" class="u-visually-hidden">Links: </span>
+    <ul class="c-footer-nav__list  js-footer-accordion__panel o-list-bare  o-list-casual" aria-labelledby="id_983588110">
+        
+        
+
+
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="https://myfs.vwfs.it" aria-label="Area Clienti MyFS  - Page opens within a new window" target="_blank">
+                Area Clienti MyFS 
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="https://accessoclienti.vwfs.it/vwfb/index.aspx" aria-label="Area Clienti Leasing Finanziario - Page opens within a new window" target="_blank">
+                Area Clienti Leasing Finanziario
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" title="Portale Clienti NLT" href="https://accessoclienti.vwfs.it/vwf/Login" target="_self">
+                Area Clienti Noleggio 
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" title=" F.A.Q. - Area Clienti Noleggio" href="/noleggio_e_multibrand/utilizzatori-nlt.html" target="_self">
+                F.A.Q. - Area Utilizzatori 
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="https://accessoclienti.vwfs.it/vwldriver/page/DenunciaSinistri.aspx" target="_self">
+                Denuncia Sinistri Online Noleggio
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+        <li class="c-footer-nav__item">
+            <a class="c-footer-nav__link" href="/Dealer.html" target="_self">
+                Strumenti per la Rete
+            </a>
+        </li>
+    
+    
+
+</li>
+
+
+    
+    
+    <li class="link">
+
+    
+    
+    
+    
+
+</li>
+
+
+
+    </ul>
+</div>
+
+            </div>
+        </nav>
+    </div>
+</div>
+<div class="c-footer__module  c-footer__module--meta-nav">
+    <div class="o-page-wrap">
+        <nav class="c-footer-meta-bar" aria-labelledby="footer-meta-nav-id">
+            <span id="footer-meta-nav-id" class="u-visually-hidden">Links</span>
+
+            <span id="footer-meta-nav-list-id" class="u-visually-hidden">Meta Navigation</span>
+            <ul class="c-footer-meta-nav " aria-labelledby="footer-meta-nav-list-id">
+
+
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" href="/corporate.html" target="_self">
+        Chi Siamo
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" title="Together For Integrity " href="/integrity.html" target="_self">
+        Integrity 
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" title="Dichiarazione di accessibilità" href="/accessibilita.html" target="_self">
+        Accessibilità 
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" href="/news-hub.html" target="_self">
+        Newsroom
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" href="/cookie-policy.html" target="_self">
+        Cookie Policy 
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" href="/privacy-policy.html" target="_self">
+        Privacy Policy
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" data-tr-function="FAQ" href="/Sicurezza.html" target="_self">
+        Sicurezza
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" href="/PSDII-SANDBOX.html" target="_self">
+        PSD II
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" title="Whistleblower System" href="/whistleblower_system.html" aria-label="Whistleblower System - Page opens within a new window" target="_blank">
+        Whistleblower System
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" title="Basilea III" href="/basilea.html" target="_self">
+        Basilea III
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" href="/trasparenza-bancaria/trasparenza-VWB.html" target="_self">
+        Trasparenza Bancaria
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" title="Informative Privacy" href="/informative_privacy.html" aria-label="Informative Privacy - Page opens within a new window" target="_blank">
+        Informative Privacy
+    </a>
+    
+
+</li>
+
+
+    
+    
+    <li class="c-footer-meta-nav__item">
+
+    
+    
+    <a class="c-footer-meta-nav__link" title="Antiriciclaggio" href="/antiriciclaggio.html" target="_self">
+        Antiriciclaggio
+    </a>
+    
+
+</li>
+
+
+</ul>
+
+            <span id="footer-social-list-id" class="u-visually-hidden">Social Media Network Links</span>
+            <ul class="c-footer-social-media" aria-labelledby="footer-social-list-id">
+
+
+
+
+    
+    
+    <li class="c-footer-social-media__item">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.linkedin.com/company/volkswagen-financial-services---italia/" target="_blank" title="LinkedIn" class="c-footer-social-media__link" data-disclaimer-ref="/configs/disclaimers/external-disclaimer.disclaimeronly.html" data-tr-component="Link" aria-label="linkedin - Page opens within a new window">
+    <i class="c-footer-social-media__icon  c-icon  c-icon--[semantic-social-linkedin]" aria-hidden="true"></i>
+</a>
+
+
+
+</li>
+
+
+    
+    
+    <li class="c-footer-social-media__item">
+
+
+
+
+
+<a href="https://www.facebook.com/VolkswagenFinancialServicesIT?locale=it_IT" target="_blank" title="Facebook" class="c-footer-social-media__link" data-disclaimer-ref="/configs/disclaimers/external-disclaimer.disclaimeronly.html" data-tr-component="Link" rel="external" aria-label="facebook - Page opens within a new window">
+    <i class="c-footer-social-media__icon  c-icon  c-icon--[semantic-social-facebook]" aria-hidden="true"></i>
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</li>
+
+
+    
+    
+    <li class="c-footer-social-media__item">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://www.youtube.com/@volkswagenfinancialservice3714" target="_blank" title="YouTube" class="c-footer-social-media__link" data-tr-component="Link" aria-label="youtube - Page opens within a new window">
+    <i class="c-footer-social-media__icon  c-icon  c-icon--[semantic-social-youtube]" aria-hidden="true"></i>
+</a>
+
+
+
+
+
+
+</li>
+
+
+</ul>
+
+            <span class="c-footer-copyright ">
+        	<span class="c-footer-copyright__text">
+                © &nbsp;Copyright Volkswagen Financial Services
+
+
+
+<span>&nbsp;2025</span>
+        	</span>
+        </span>
+        </nav>
+    </div>
+</div>
+
+    
+    
+    
+    <div class="c-footer__module  c-footer__module--footnotes  ">
+        <div class="o-page-wrap">
+            <div class="c-footer-footnotes js-dynamicfooter">
+                
+                    <p>*Volkswagen Financial Services è un marchio commerciale condiviso dalle succursali di Volkswagen Bank GmbH (P. IVA 12513730155) per il credito al consumo, il leasing finanziario e i prodotti assicurativi e Volkswagen Leasing GmbH (P. IVA 12549080153) per il noleggio e i piani di manutenzione.</p>
+
+
+                
+                <div class="c-footnotes c-footnotes--numbered">
+
+
+
+
+</div>
+            </div>
+            
+            <div class="u-hide">
+                
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+</footer>
+
+
+<dialog id="id-modal-generic" class="c-modal c-modal--center js-disclaimer dmp-disclaimer" aria-labelledby="id_256414282_disclaimer-external-title">
+	
+    <div class="c-modal__wrapper">
+        <div id="id-disclaimer-placeholder"></div>
+    </div>
+</dialog>
+
+
+
+<div class="c-modal c-modal--center js-error-modal" aria-hidden="true">
+    
+    <div class="c-modal__overlay  js-modal-close" tabindex="-1"></div>
+    <div class="c-modal__wrapper" role="dialog" aria-labelledby="id_256414282_error-disclaimer-external-title">
+        <header class="c-modal__header">
+            <div class="c-modal__title__wrapper c-modal__title u-h4" id="id_256414282_error-disclaimer-external-title">
+                Error
+            </div>
+        </header>
+        <div class="c-modal__content" role="document">
+            <div class="c-list-nested-counter">
+                <p>A technical error has occurred. Please try again.</p>
+            </div>
+        </div>
+        <div class="c-modal__footer">
+            <div class="c-modal__actions__container">
+                <div class="c-modal__actions">
+                    <div class="c-modal__actions__item">
+                        <a class="c-btn js-modal-close">
+                            <span class="c-btn__text">OK</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+<div id="id-modal-spinner" class="u-m-xlarge dmp-disclaimer-spinner" aria-hidden="true">
+    <div class="c-spinner c-spinner--full-page" aria-live="polite" aria-busy="false">
+        <div class="c-spinner__loader">
+            <span class="c-spinner__element"></span>
+            <span class="c-spinner__element"></span>
+            <span class="c-spinner__element"></span>
+            <span class="c-spinner__element"></span>
+            <span class="c-spinner__element"></span>
+            <span class="c-spinner__element"></span>
+            <span class="c-spinner__element"></span>
+            <span class="c-spinner__element"></span>
+        </div>
+    </div>
+</div>
+
+</div>
+
+
+
+
+
+    <script src="/etc.clientlibs/bluelabel/clientlibs/clientlib-bronson-bluelabel.a6d1221ea7eb1b4331a926b94a723544.js"></script>
+<script src="/etc.clientlibs/bluelabel/clientlibs/clientlib-site-bluelabel.e83c212a0dbf832a9e889481d57a54b9.js"></script>
+
+
+
+
+
+
+    <script src="/etc.clientlibs/bluelabel/clientlibs/clientlib-adform.537f573f238b8ddee150fc708f173a96.js"></script>
+
+
+
+    <script src="/etc.clientlibs/bluelabel/clientlibs/clientlib-campaign.9900229275ec4f69e4cce1912bf1e655.js"></script>
+
+
+
+
+
+
+
+
+
+
+    <script type="text/javascript" charset="utf-8" src="https://cdn3.userzoom.com/uz.js?cuid=0B932E970DCEE411B0190022196C2B88"></script>
+    <script type="text/javascript">//<![CDATA[
+    _uzactfeed = window._uzactfeed || [];
+    _uzactfeed.push(['_setID', getMetaContent("feedbacktool-id")]);
+    _uzactfeed.push(['_setSID', getMetaContent("feedbacktool-sid")]);
+    _uzactfeed.push(['_start']);
+    (function() {
+        var uz = document.createElement('script'); uz.type = 'text/javascript'; uz.async = true; uz.charset = 'utf-8';
+        uz.src = ('https:' === document.location.protocol ? 'https://' : 'http://') + 'cdn4.userzoom.com/feedback/js/uz_feed.js?cuid=0B932E970DCEE411B0190022196C2B88';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uz, s);
+    })();//]]>
+
+    function getMetaContent(metaName) {
+        if (document.querySelectorAll("meta[name='" + metaName + "']") && document.querySelectorAll("meta[name='" + metaName + "']")[0]) {
+            var attribute = document.querySelectorAll("meta[name='" + metaName + "']")[0].getAttribute('content');
+            return attribute !== null ? attribute : "";
+        }
+        return "";
+    }
+    </script>
+
+
+
+
+
+
+
+
+</body>
+</html>

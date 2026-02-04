@@ -1,0 +1,57 @@
+# Wildcard matching is not supported by crawlers other than GoogleBot
+User-agent: Googlebot
+Disallow: /profil/
+Disallow: /nachrichten/
+Disallow: /following/
+
+Disallow: /*?medium=*
+Disallow: /*?language=*
+Disallow: /*?sort=*
+Disallow: /*?attribute=*
+Disallow: /*?letter=*
+Disallow: /bibliothek/*/?seite=*
+
+
+User-agent: bingbot
+Disallow: /profil/
+Disallow: /nachrichten/
+Disallow: /following/
+Crawl-delay: 1
+
+User-agent: Yandex
+Disallow: /profil/
+Disallow: /nachrichten/
+Disallow: /following/
+Crawl-delay: 2
+
+
+User-agent: trendictionbot
+Disallow: /
+
+User-agent: InfoTigerBot
+Crawl-delay: 3
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Clickagy Intelligence Bot v2
+Disallow: /
+
+
+User-agent: *
+Disallow: /profil/
+Disallow: /nachrichten/
+Disallow: /following/
+
+
+Disallow: /*?medium=*
+Disallow: /*?language=*
+Disallow: /*?sort=*
+Disallow: /*?attribute=*
+Disallow: /*?letter=*
+Disallow: /bibliothek/*/?seite=*
+
+Sitemap:https://www.lovelybooks.de/sitemap_index.xml

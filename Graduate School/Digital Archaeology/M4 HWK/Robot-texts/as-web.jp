@@ -1,0 +1,12 @@
+Sitemap: https://www.as-web.jp/sitemap_index_posts.xml
+Sitemap: https://www.as-web.jp/sitemap_index_news.xml
+Sitemap: https://www.as-web.jp/sitemap_index_attachment.xml
+Sitemap: https://www.as-web.jp/sitemap_index_taxonomy.xml
+
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+# ---------------------------
+# END YOAST BLOCK

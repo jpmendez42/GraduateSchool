@@ -1,0 +1,12 @@
+User-agent: *
+Disallow: /ads/
+Disallow: /stat/result
+Disallow: /cgi-bin/
+Disallow: /images/
+Disallow: /edit
+Disallow: /code
+Disallow: /js
+Disallow: /img
+Disallow: /css
+Disallow: /password
+    

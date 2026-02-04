@@ -1,0 +1,12 @@
+# START nuxt-robots (indexable)
+User-agent: *
+Allow: /
+Disallow: /werdertv/payment-result
+Disallow: /werdertv/premium-status
+Disallow: /_nuxt/
+Disallow: /api/
+Disallow: /suchergebnis
+Disallow: */_*
+
+Sitemap: https://www.werder.de/sitemap_index.xml
+# END nuxt-robots

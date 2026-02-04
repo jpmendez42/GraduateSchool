@@ -1,0 +1,17 @@
+Sitemap: https://www.telia.no/sitemap.xml
+Sitemap: https://www.telia.no/shop/sitemap.xml
+
+User-agent: *
+
+Disallow: /test-not-live/*
+Disallow: /globalassets/pdf/*
+Disallow: /identity-login/*
+Disallow: /kasse/*
+Disallow: /handlekurv/*
+Disallow: /minside/*
+Disallow: /min-side/*
+Disallow: /api/*
+Disallow: /static/*
+Disallow: /contentassets/cb35d970ac974bb69432b02f39600fdc/*
+Disallow: /globalassets/bedrift/pdf/*
+Disallow: /vev/*

@@ -1,0 +1,156 @@
+# SEO CRAWLERS
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: SEMrushBot
+Disallow: /
+
+User-agent: SemrushBot-SA
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+# AI DATA SCRAPERS
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: Bytespider
+Disallow: /
+
+User-agent: cohere-ai
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ChatGPT-User
+Disallow: /
+
+User-agent: anthropic-ai
+Disallow: /
+
+User-agent: Google-CloudVertexBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: Applebot-Extended
+Disallow: /
+
+User-agent: omgilibot
+Disallow: /
+
+User-agent: omgili
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Claude-Web
+Disallow: /
+
+User-agent: Deepseek-V3
+User-agent: DeepSeek-V3
+Disallow: /
+
+User-agent: PerplexityBot
+Disallow: /
+
+User-agent: Diffbot
+Disallow: /
+
+User-agent: OAI-SearchBot
+Disallow: /
+
+User-agent: NewsNow
+Disallow: /
+
+User-agent: news-please
+Disallow: /
+
+User-agent: Meta-ExternalAgent
+User-agent: meta-externalagent
+Disallow: /
+
+User-agent: Meta-ExternalFetcher
+Disallow: /
+
+User-agent: FacebookBot
+Disallow: /
+
+# CRAWLERS
+
+User-agent: Yeti
+Disallow: /
+
+User-agent: sogou spider
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: Flamingo_SearchEngine
+Disallow: /
+
+
+# INTELLIGENCE GATHERERS
+
+User-agent: magpie-crawler
+Disallow: /
+
+User-agent: BLP_bbot
+Disallow: /
+
+User-agent: sentibot
+Disallow: /
+
+User-agent: peer_39_crawler/1.0
+User-agent: peer39_crawler
+Disallow: /
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: *
+Sitemap: https://www.noen.at/sitemapnews.xml
+Sitemap: https://www.noen.at/sitemapindex.xml
+Sitemap: https://www.noen.at/collection/242193944/xml/rss
+Sitemap: https://www.noen.at/collection/173249428/xml/rss
+Sitemap: https://www.noen.at/collection/173250495/xml/rss
+Sitemap: https://www.noen.at/collection/173249808/xml/rss
+Sitemap: https://www.noen.at/collection/173248385/xml/rss
+Sitemap: https://www.noen.at/collection/173249653/xml/rss
+Sitemap: https://www.noen.at/collection/360975721/xml/rss
+Disallow: /archiv/2022/*
+Disallow: /archiv/2021/*
+Disallow: /archiv/2020/*
+Disallow: /archiv/2019/*
+Disallow: /archiv/2018/*
+Disallow: /archiv/2017/*
+Disallow: /archiv/2016/*
+Disallow: /archiv/2015/*
+Disallow: /archiv/2014/*
+Disallow: /archiv/2013/*
+Disallow: /archiv/2012/*
+Disallow: /archiv/2011/*
+Disallow: /archiv/2010/*
+Disallow: /content/*
+Disallow: /*/print$
+Disallow: /search/*
+Disallow: /tags/*
+Disallow: /orte/*
+Disallow: /autor/*
+Disallow: /_ajax/*
+Disallow: /community/*
+Disallow: /test-channel/*
+Disallow: /user/*

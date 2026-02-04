@@ -1,0 +1,5 @@
+User-agent: *
+# App Deeplinking for Android 12+ (BM-48204)
+Allow: /.well-known/assetlinks.json
+Disallow: /
+Noindex: /

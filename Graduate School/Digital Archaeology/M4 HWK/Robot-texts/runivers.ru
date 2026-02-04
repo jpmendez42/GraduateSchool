@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Disallow: /mp_new
+Disallow: /spisok-baz-dannykh
+Disallow: /export
+Disallow: /import
+Disallow: /gallery_test
+Disallow: /doc/bolshaya-igra/
+Disallow: /encyclopedia/bolshaya-igra/
+Disallow: /encyclopedia/timeline/

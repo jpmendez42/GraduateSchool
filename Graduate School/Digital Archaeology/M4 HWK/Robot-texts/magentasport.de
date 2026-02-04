@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /api/
+Disallow: /?wt_mc=
+Sitemap: https://www.magentasport.de/sitemap/sitemap.xml
+Sitemap: https://www.magentasport.de/sitemap/archive-sitemap-index.xml

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="ja" xml:lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="imagetoolbar" content="no" />
+
+<meta name="copyright" content="Kドリームス" />
+<meta name="keywords" content="車券,デルカ,deruca,ドカント,Dokanto,重勝式,K-3,K-5,ビッグドリーム,競輪,ケイリン,公営,ギャンブル,キャリーオーバー,クイックピック複" />
+<meta name="Description" content="Kドリームスで通常車券も投票できるようになりました！高額配当続出のK3・K5で競輪を楽しもう！ケイリンくじのKドリームスはコチラ！！" />
+
+<meta name="viewport" content="width=980" />
+<meta name="format-detection" content="telephone=no"/>
+
+
+<title>Kドリームス</title>
+
+<link href="css/common.css" rel="stylesheet" type="text/css" media="all" />
+<link rel="shortcut icon" href="favicon.ico" />
+<link rel="apple-touch-icon" href="icon_iphone_deruca.png" />
+
+
+
+<link rel="shortcut icon" href="favicon.ico" />
+</head>
+
+<body id="TOP">
+
+
+
+<!-- Header area start -->
+<div id="HEADER">
+
+	<p class="logo_kdreams"><a href="https://kdreams.jp/index.php?ac=Top">連単・連複も買えるKドリームス</a></p>
+
+</div>
+<!-- Header area end -->
+
+
+<!-- Contents 2 Column area start -->
+<div id="CONT_2_COLUMN">
+
+	<!-- ===== Contents Main area start ===== -->
+	<div id="CONT_MAIN_WRAPPER">
+		<div id="Maintenance">
+
+			<p><br><br>
+只今システムメンテナンス中のため全てのサービスがご利用できません。<br>
+申し訳ございませんが、しばらくお待ちください。<br>
+メンテナンス時間：　1:00～7:00<br>
+<br>
+<br><br></p>
+		</div>
+	</div>
+	<!-- ===== Contents Side area end ===== -->
+
+</div>
+<!-- Contents 2 Column area end -->
+
+
+
+<!-- Footer area start -->
+<div id="FOOTER_WRAPPER">
+
+	<div id="FOOTER">
+
+		<div class="copyright">
+			<p>COPYRIGHT(C) Kドリームス 2008-2025 ALL RIGHTS RESERVED.</p>
+		</div>
+	</div>
+</div>
+<!-- Footer area end -->
+
+
+</body>
+</html>

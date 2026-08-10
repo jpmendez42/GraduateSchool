@@ -1,7 +1,7 @@
 import sqlite3
 from datetime import date
 
-DB = "Final.db"
+DB = "database.db"
 
 
 #=====================

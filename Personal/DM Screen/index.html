@@ -1,26 +1,39 @@
+<link rel="stylesheet" href="style.css">
 <div class="app">
     <aside class="sidebar">
         <h1>Digital Dungeon Device</h1>
 
-        <nav>
-            <button data-page="dashboard">Overview</button>
-            <button data-page="sessions">Sessions</button>
-            <button data-page="characters">Characters</button>
-            <button data-page="quests">Quests</button>
-            <button data-page="locations">Locations</button>
-            <button data-page="items">Items</button>
-            <button data-page="encounters">Encounters</button>
+        <nav id="nav">
+            <button class="nav-btn active" data-page="dashboard">Overview</button>
+            <button class="nav-btn" data-page="sessions">Sessions</button>
+            <button class="nav-btn" data-page="characters">NPC Directory</button>
+            <button class="nav-btn" data-page="quests">Quests</button>
+            <button class="nav-btn" data-page="locations">Locations</button>
+            <button class="nav-btn" data-page="items">Items</button>
+            <button class="nav-btn" data-page="encounters">Encounters</button>
+            <button class="nav-btn" data-page="music">Music & Ambience</button>
         </nav>
     </aside>
 
     <main>
-        <header>
-            <h2 id="page-title">Campaign Overview</h2>
-            <button id="export-btn">Export Backup</button>
+        <header class="topbar">
+            <div class="breadcrumb">
+                CAMPAIGN / <strong id="crumb">OVERVIEW</strong>
+            </div>
+
+            <div class="top-actions">
+                <button class="btn" id="importBtn">Import Backup</button>
+                <button class="btn" id="exportBtn">Export Backup</button>
+                <button class="btn primary" id="quickAdd">Quick Add</button>
+                <input type="file" id="importFile"
+                    accept=".json,application/json" hidden>
+            </div>
         </header>
 
-        <section id="page-content">
-            <!-- Insert JS -->
-        </section>
+        <section class="content" id="pageContent"></section>
     </main>
 </div>
+
+<script src="app.js"></script>
+</body>
+</html>

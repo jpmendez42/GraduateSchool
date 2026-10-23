@@ -1,0 +1,72 @@
+:root {
+  --background: #171b19;
+  --panel: #202722;
+  --accent: #b58a4b;
+  --text: #eee9dc;
+  --muted: #a9b0a4;
+  --border: #354038;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: var(--background);
+  color: var(--text);
+  font-family: system-ui, sans-serif;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 240px minmax(0, 1fr);
+  min-height: 100vh;
+}
+
+.sidebar {
+  background: var(--panel);
+  border-right: 1px solid var(--border);
+  padding: 24px 16px;
+}
+
+.sidebar h1 {
+  color: var(--accent);
+  font-family: Georgia, serif;
+}
+
+nav {
+  display: grid;
+  gap: 8px;
+}
+
+button {
+  padding: 10px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--text);
+  cursor: pointer;
+}
+
+button:hover,
+button.active {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+main {
+  min-width: 0;
+  padding: 28px;
+}
+
+@media (max-width: 700px) {
+  .app {
+    grid-template-columns: 1fr;
+  }
+
+  nav {
+    display: flex;
+    flex-wrap: wrap;
+  }
+}
